@@ -1,78 +1,42 @@
 {
-  "generated_utc": "2026-02-03T15:35:03.296858+00:00",
-  "count": 9,
+  "generated_utc": "2026-02-03T16:17:03.518635+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "5771c76f2670",
-      "title": "Like a screwdriver in my face - Life with 'the world's most painful known medical condition'",
-      "summary": "Trigeminal neuralgia is a rare condition where something as simple as a gust of wind can cause excruciating pain.",
-      "link": "https://www.bbc.com/news/articles/c5y2z2v964zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - Health",
-      "published_utc": "2026-02-03T06:09:52+00:00"
-    },
-    {
-      "id": "c9f41dd79129",
-      "title": "Families of children with cancer to have travel costs covered",
-      "summary": "The government sets aside £10 million a year to help families and young people under 24 access cancer treatment.",
-      "link": "https://www.bbc.com/news/articles/c5yve1220xwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - Health",
-      "published_utc": "2026-02-03T01:35:52+00:00"
+      "id": "ff497a27c7a3",
+      "title": "CSM vrea să scoată mii de dosare din instanţe: divorţul prin acord şi radierea firmelor, fără judecător",
+      "summary": "Consiliul Superior al Magistraturii (CSM) a trimis luni Ministerului Justiției un pachet de modificări legislative prin care mii de dosare ar urma să fie scoase din instanțe. Printre cele mai importante schimbări se numără eliminarea divorțului prin acord din competența judecător",
+      "link": "https://www.digi24.ro/stiri/actualitate/justitie/csm-vrea-sa-scoata-mii-de-dosare-din-instante-divortul-prin-acord-si-radierea-firmelor-fara-judecator-3614033",
+      "source": "Digi24",
+      "published_utc": "2026-02-03T15:05:55+00:00",
+      "kind": "ro"
     },
     {
       "id": "71455bd45b5e",
       "title": "UK homes to get £15bn for solar and green tech to cut energy bills",
       "summary": "The government has announced the details of its long-awaited Warm Homes Plan which promises to cut energy bills.",
       "link": "https://www.bbc.com/news/articles/ckgj7me00p0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - Science & Environment",
-      "published_utc": "2026-01-21T09:00:06+00:00"
+      "source": "BBC – Science & Environment",
+      "published_utc": "2026-01-21T09:00:06+00:00",
+      "kind": "global"
     },
     {
       "id": "034e67539d3e",
       "title": "Global temperatures dipped in 2025 but more heat records on way, scientists warn",
       "summary": "The last three years were Earth's hottest on record, as humanity's carbon emissions continue to heat the planet.",
       "link": "https://www.bbc.com/news/articles/c5y5p9rzd4ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - Science & Environment",
-      "published_utc": "2026-01-14T03:44:07+00:00"
-    },
-    {
-      "id": "408112078efc",
-      "title": "What is happening to flu this winter - and should you buy a vaccine?",
-      "summary": "Flu has come early this year with a new mutated version of the virus circulating.",
-      "link": "https://www.bbc.com/news/articles/crk7j8nxlr6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - Health",
-      "published_utc": "2026-01-08T15:12:50+00:00"
+      "source": "BBC – Science & Environment",
+      "published_utc": "2026-01-14T03:44:07+00:00",
+      "kind": "global"
     },
     {
       "id": "833f6c8d8367",
       "title": "How Christmas trees are getting a new lease of life",
       "summary": "Some businesses are helping to recycle and reuse trees in a bid to reduce landfill and emissions.",
       "link": "https://www.bbc.com/news/articles/c5yx7pkwe4wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - Science & Environment",
-      "published_utc": "2026-01-06T06:04:24+00:00"
-    },
-    {
-      "id": "6a59249ad6d2",
-      "title": "Landmark deal to cut global shipping emissions in tatters after US pressure",
-      "summary": "President Trump intervened in the talks calling the deal a \"green scam\".",
-      "link": "https://www.bbc.com/news/articles/c3vnl0yxg53o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - Science & Environment",
-      "published_utc": "2025-10-17T16:31:07+00:00"
-    },
-    {
-      "id": "4a7da1aa06b6",
-      "title": "Green turtle bounces back from brink in conservation 'win'",
-      "summary": "Once endangered due to hunting, it is making a strong recovery thanks to global conservation efforts.",
-      "link": "https://www.bbc.com/news/articles/cg426qqqqnro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - Science & Environment",
-      "published_utc": "2025-10-10T08:01:28+00:00"
-    },
-    {
-      "id": "3b0354647bae",
-      "title": "'How growing a sunflower helped me fight anorexia'",
-      "summary": "'Green social prescribing' schemes are being used by NHS doctors to improve patients' mental health.",
-      "link": "https://www.bbc.com/news/articles/c33rgvr0p5no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - Science & Environment",
-      "published_utc": "2025-10-10T05:04:46+00:00"
+      "source": "BBC – Science & Environment",
+      "published_utc": "2026-01-06T06:04:24+00:00",
+      "kind": "global"
     }
   ]
 }
