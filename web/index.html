@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="ro">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Vești bune</title>
+  <meta name="description" content="Vești bune, curate, din surse serioase. Refresh automat la fiecare 60 de minute." />
+</head>
+<body style="font-family:system-ui,Arial; max-width:820px; margin:0 auto; padding:20px; background:#fafafa;">
+  <h1 style="font-size:44px; margin:10px 0;">Vești bune</h1>
+  <p style="color:#444; margin:0 0 10px;">Curate. Din surse serioase. Refresh automat la fiecare 60 de minute.</p>
+  <p id="meta" style="color:#666; font-size:13px; margin:0 0 18px;"></p>
+
+  <div id="list"></div>
+
+  <script>
+    async function load() {
+      const res = await fetch("../data/news.json", { cache: "no-store" });
+      const data = await res.json();
+
+      const meta = document.getElementById("meta");
+      const list = document.getElementById("list");
+
+      const generated = new Date(data.generated_utc);
+      meta.textContent = `Ultima actualizare: ${generated.toLocaleString("ro-RO")} • ${data.count} articole`;
+
+      list.innerHTML = "";
+
+      for (const it of data.items) {
+        const card = document.createElement("div");
+        card.style = "background:#fff;border:1px solid #e8e8e8;border-radius:14px;padding:16px;margin:12px 0;box-shadow:0 1px 8px rgba(0,0,0,0.04)";
+
+        const h = document.createElement("h2");
+        h.style = "margin:0 0 8px;font-size:18px";
+        const a = document.createElement("a");
+        a.href = it.link;
+        a.target = "_blank";
+        a.rel = "noopener noreferrer";
+        a.textContent = it.title;
+        a.style = "color:#111;text-decoration:none";
+        a.onmouseover = () => a.style.textDecoration = "underline";
+        a.onmouseout = () => a.style.textDecoration = "none";
+        h.appendChild(a);
+
+        const p = document.createElement("p");
+        p.style = "margin:0 0 10px;color:#333;line-height:1.45";
+        p.textContent = it.summary || "";
+
+        const small = document.createElement("div");
+        small.style = "font-size:12px;color:#777";
+        const d = new Date(it.published_utc);
+        small.textContent = `${it.source} • ${d.toLocaleString("ro-RO")}`;
+
+        card.appendChild(h);
+        if (it.summary) card.appendChild(p);
+        card.appendChild(small);
+
+        list.appendChild(card);
+      }
+    }
+
+    load().catch(err => {
+      document.getElementById("list").innerHTML =
+        `<div style="background:#fff;border:1px solid #e8e8e8;border-radius:14px;padding:16px">
+           <h2 style="margin:0 0 8px;">Eroare la încărcare</h2>
+           <p style="margin:0;color:#333">${String(err)}</p>
+         </div>`;
+    });
+  </script>
+</body>
+</html>
