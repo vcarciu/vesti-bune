@@ -56,24 +56,29 @@
         a.href = it.link;
         a.target = "_blank";
         a.rel = "noopener noreferrer";
-        a.textContent = it.title;
+
+        const titleToShow = (it.kind === "global" && it.title_ro) ? it.title_ro : it.title;
+        a.textContent = titleToShow;
+
         a.style = "color:#111;text-decoration:none";
         a.onmouseover = () => a.style.textDecoration = "underline";
         a.onmouseout = () => a.style.textDecoration = "none";
-
         h.appendChild(a);
 
         const p = document.createElement("p");
         p.style = "margin:0 0 10px;color:#333;line-height:1.45";
-        p.textContent = it.summary || "";
+        const summaryToShow = (it.kind === "global" && it.summary_ro) ? it.summary_ro : (it.summary || "");
+        p.textContent = summaryToShow;
 
         const small = document.createElement("div");
         small.style = "font-size:12px;color:#777";
+
         const d = new Date(it.published_utc);
-        small.textContent = `${it.source} • ${d.toLocaleString("ro-RO")}`;
+        const badge = it.kind === "global" ? "GLOBAL" : "RO";
+        small.textContent = `${badge} • ${it.source} • ${d.toLocaleString("ro-RO")}`;
 
         card.appendChild(h);
-        if (it.summary) card.appendChild(p);
+        if (summaryToShow) card.appendChild(p);
         card.appendChild(small);
 
         list.appendChild(card);
