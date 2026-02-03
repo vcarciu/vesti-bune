@@ -89,15 +89,19 @@ def deepl_translate_ro(text: str) -> str:
     if not text:
         return ""
 
-    api_key = os.getenv("DEEPL_API_KEY")
+    api_key = os.getenv("DEEPL_API_KEY", "").strip()
     if not api_key:
-        print("DeepL: missing API key")
+        print("DeepL: DEEPL_API_KEY not present in env")
         return text
 
-    for endpoint in [
+    print(f"DeepL: key present (len={len(api_key)})")
+
+    endpoints = [
         "https://api-free.deepl.com/v2/translate",
         "https://api.deepl.com/v2/translate",
-    ]:
+    ]
+
+    for endpoint in endpoints:
         try:
             r = requests.post(
                 endpoint,
@@ -107,16 +111,24 @@ def deepl_translate_ro(text: str) -> str:
                     "source_lang": "EN",
                     "target_lang": "RO",
                 },
-                timeout=20,
+                timeout=25,
             )
-            if r.status_code == 200:
-                return r.json()["translations"][0]["text"]
-            else:
-                print(f"DeepL {endpoint} -> {r.status_code}")
-        except Exception as e:
-            print(f"DeepL exception: {e}")
 
+            if r.status_code == 200:
+                out = r.json()["translations"][0]["text"]
+                if out.strip() == text.strip():
+                    print(f"DeepL: returned identical text (endpoint={endpoint})")
+                return out
+
+            snippet = (r.text or "")[:200].replace("\n", " ")
+            print(f"DeepL: endpoint={endpoint} status={r.status_code} body={snippet}")
+
+        except Exception as e:
+            print(f"DeepL: endpoint={endpoint} exception={type(e).__name__}: {e}")
+
+    print("DeepL: all endpoints failed -> returning original")
     return text
+
 
 # ---------------- MAIN ----------------
 
