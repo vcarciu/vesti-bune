@@ -128,9 +128,15 @@ def deepl_translate_ro(text: str) -> str:
         r = requests.post(
             endpoint,
             headers={"Authorization": f"DeepL-Auth-Key {api_key}"},
-            data={"text": text, "target_lang": "RO"},
-            timeout=25,
-        )
+            data={
+                "text": text,
+                "source_lang": "EN",
+                "target_lang": "RO",
+                "preserve_formatting": "1"
+        },
+        timeout=25,
+    )
+
         r.raise_for_status()
         data = r.json()
         return data["translations"][0]["text"]
