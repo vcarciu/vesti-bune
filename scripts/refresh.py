@@ -33,7 +33,7 @@ RSS_GLOBAL = [
     {"name": "Our World in Data", "url": "https://ourworldindata.org/feeds/latest.xml"},
 ]
 
-# limită globală / rulare (DeepL friendly)
+# Limită globale / rulare (DeepL Free friendly)
 MAX_GLOBAL_PER_RUN = 3
 
 # ---------------- FILTERING ----------------
@@ -65,7 +65,7 @@ POSITIVE_PATTERNS = [
     r"\bemissions?\b", r"\bconservation\b",
     r"\breforest\b", r"\beducation\b",
 
-    # RO (cu / fără diacritice)
+    # RO (le păstrăm, dar NU le folosim pentru RO acum)
     r"\bdescoper(ire|it)\b", r"\breu(s|ș)it(a|ă)\b",
     r"\bsucces\b", r"\bpremiu\b", r"\bprogres\b",
     r"\brecord\b", r"\bscade\b", r"\ba sc(a|ă)zut\b",
@@ -123,10 +123,14 @@ def process_sources(sources, kind, items, seen, global_left):
 
                 blob = f"{title} {summary}"
 
+                # 1) Mereu filtrăm negativ (RO + Global)
                 if is_negative(blob):
                     continue
-                if not is_positive(blob):
-                    continue
+
+                # 2) Doar pentru GLOBAL cerem "pozitiv" (RO e prea neutru în titluri)
+                if kind != "ro":
+                    if not is_positive(blob):
+                        continue
 
                 fp = fingerprint(title, link)
                 if fp in seen:
@@ -143,6 +147,7 @@ def process_sources(sources, kind, items, seen, global_left):
                     "kind": kind,  # ro / global
                 }
 
+                # limită pentru globale (DeepL free)
                 if kind == "global":
                     if global_left <= 0:
                         continue
@@ -161,18 +166,25 @@ def main():
     seen = set()
     global_left = MAX_GLOBAL_PER_RUN
 
+    # RO: multe, doar "negative filter"
     global_left = process_sources(RSS_RO, "ro", items, seen, global_left)
+
+    # Global: puține, negative+positive + limită
     process_sources(RSS_GLOBAL, "global", items, seen, global_left)
 
-    items.sort(
-        key=lambda x: dtparser.parse(x["published_utc"]),
-        reverse=True
-    )
+    # sort by newest
+    def sort_key(x):
+        try:
+            return dtparser.parse(x["published_utc"])
+        except Exception:
+            return datetime.now(timezone.utc)
+
+    items.sort(key=sort_key, reverse=True)
 
     payload = {
         "generated_utc": datetime.now(timezone.utc).isoformat(),
         "count": len(items),
-        "items": items[:60],
+        "items": items[:80],  # poți lăsa 60 dacă vrei
     }
 
     OUT_JSON.write_text(
@@ -180,7 +192,7 @@ def main():
         encoding="utf-8"
     )
 
-    print(f"Generated {payload['count']} items")
+    print(f"Generated {payload['count']} items -> {OUT_JSON}")
 
 if __name__ == "__main__":
     main()
