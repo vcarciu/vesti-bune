@@ -25,6 +25,14 @@
   <div id="list"></div>
 
   <script>
+    function shuffle(arr) {
+      for (let i = arr.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [arr[i], arr[j]] = [arr[j], arr[i]];
+      }
+      return arr;
+    }
+
     async function load() {
       const res = await fetch(`./data/news.json?t=${Date.now()}`, { cache: "no-store" });
       const data = await res.json();
@@ -38,7 +46,29 @@
 
       list.innerHTML = "";
 
-      for (const it of data.items) {
+      // separăm RO și GLOBAL
+      const ro = data.items.filter(i => i.kind === "ro");
+      const global = shuffle(data.items.filter(i => i.kind === "global"));
+
+      // la câte RO băgăm un GLOBAL (ex: 1 la 4)
+      const GAP = 4;
+
+      const mixed = [];
+      let gi = 0;
+
+      ro.forEach((item, idx) => {
+        mixed.push(item);
+        if ((idx + 1) % GAP === 0 && gi < global.length) {
+          mixed.push(global[gi++]);
+        }
+      });
+
+      // dacă mai rămân globale, le băgăm la final
+      while (gi < global.length) {
+        mixed.push(global[gi++]);
+      }
+
+      for (const it of mixed) {
         const card = document.createElement("div");
         card.style = `
           background:#fff;
@@ -57,7 +87,8 @@
         a.target = "_blank";
         a.rel = "noopener noreferrer";
 
-        const titleToShow = (it.kind === "global" && it.title_ro) ? it.title_ro : it.title;
+        const titleToShow =
+          (it.kind === "global" && it.title_ro) ? it.title_ro : it.title;
         a.textContent = titleToShow;
 
         a.style = "color:#111;text-decoration:none";
@@ -67,15 +98,27 @@
 
         const p = document.createElement("p");
         p.style = "margin:0 0 10px;color:#333;line-height:1.45";
-        const summaryToShow = (it.kind === "global" && it.summary_ro) ? it.summary_ro : (it.summary || "");
+        const summaryToShow =
+          (it.kind === "global" && it.summary_ro) ? it.summary_ro : (it.summary || "");
         p.textContent = summaryToShow;
 
         const small = document.createElement("div");
         small.style = "font-size:12px;color:#777";
 
         const d = new Date(it.published_utc);
-        const badge = it.kind === "global" ? "GLOBAL" : "RO";
-        small.textContent = `${badge} • ${it.source} • ${d.toLocaleString("ro-RO")}`;
+        const badge = it.kind === "global" ? "🌍 GLOBAL (tradus)" : "🇷🇴 RO";
+
+        if (it.kind === "global") {
+          small.innerHTML =
+            `${badge} • ${it.source} • ${d.toLocaleString("ro-RO")} • ` +
+            `<a href="${it.link}" target="_blank" rel="noopener noreferrer">Original</a>`;
+          const linkEl = small.querySelector("a");
+          linkEl.style.color = "#555";
+          linkEl.style.textDecoration = "underline";
+        } else {
+          small.textContent =
+            `${badge} • ${it.source} • ${d.toLocaleString("ro-RO")}`;
+        }
 
         card.appendChild(h);
         if (summaryToShow) card.appendChild(p);
