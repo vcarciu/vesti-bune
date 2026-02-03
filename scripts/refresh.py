@@ -1,4 +1,5 @@
 import json
+import os
 import re
 import time
 from datetime import datetime, timezone
@@ -6,6 +7,7 @@ from hashlib import sha1
 from pathlib import Path
 
 import feedparser
+import requests
 from dateutil import parser as dtparser
 
 # ---------------- Paths ----------------
@@ -26,7 +28,7 @@ RSS_RO = [
     {"name": "News.ro", "url": "https://www.news.ro/rss"},
 ]
 
-# GLOBALE – puține, vor fi traduse ulterior
+# GLOBALE – puține, se traduc în română (DeepL)
 RSS_GLOBAL = [
     {"name": "BBC – Science & Environment", "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"},
     {"name": "BBC – Health", "url": "https://feeds.bbci.co.uk/news/health/rss.xml"},
@@ -56,7 +58,7 @@ NEGATIVE_PATTERNS = [
 ]
 
 POSITIVE_PATTERNS = [
-    # EN
+    # EN (folosit pentru GLOBAL)
     r"\bbreakthrough\b", r"\bdiscovery\b", r"\bimproves?\b",
     r"\breduces?\b", r"\bsuccess\b", r"\baward\b",
     r"\bprogress\b", r"\brecord\b", r"\bvaccine\b",
@@ -65,7 +67,7 @@ POSITIVE_PATTERNS = [
     r"\bemissions?\b", r"\bconservation\b",
     r"\breforest\b", r"\beducation\b",
 
-    # RO (le păstrăm, dar NU le folosim pentru RO acum)
+    # RO (îl păstrăm, dar RO nu e filtrat pe pozitiv acum)
     r"\bdescoper(ire|it)\b", r"\breu(s|ș)it(a|ă)\b",
     r"\bsucces\b", r"\bpremiu\b", r"\bprogres\b",
     r"\brecord\b", r"\bscade\b", r"\ba sc(a|ă)zut\b",
@@ -107,6 +109,34 @@ def fingerprint(title: str, link: str) -> str:
     raw = f"{title}|{link}".encode("utf-8", errors="ignore")
     return sha1(raw).hexdigest()
 
+def deepl_translate_ro(text: str) -> str:
+    """
+    Traduce text în RO folosind DeepL.
+    Dacă nu există DEEPL_API_KEY (secret), returnează textul original.
+    """
+    text = clean(text)
+    if not text:
+        return ""
+
+    api_key = os.getenv("DEEPL_API_KEY", "").strip()
+    if not api_key:
+        return text
+
+    endpoint = "https://api-free.deepl.com/v2/translate" if api_key.endswith(":fx") else "https://api.deepl.com/v2/translate"
+
+    try:
+        r = requests.post(
+            endpoint,
+            headers={"Authorization": f"DeepL-Auth-Key {api_key}"},
+            data={"text": text, "target_lang": "RO"},
+            timeout=25,
+        )
+        r.raise_for_status()
+        data = r.json()
+        return data["translations"][0]["text"]
+    except Exception:
+        return text
+
 # ---------------- MAIN ----------------
 
 def process_sources(sources, kind, items, seen, global_left):
@@ -127,7 +157,7 @@ def process_sources(sources, kind, items, seen, global_left):
                 if is_negative(blob):
                     continue
 
-                # 2) Doar pentru GLOBAL cerem "pozitiv" (RO e prea neutru în titluri)
+                # 2) Doar pentru GLOBAL cerem "pozitiv"
                 if kind != "ro":
                     if not is_positive(blob):
                         continue
@@ -147,11 +177,15 @@ def process_sources(sources, kind, items, seen, global_left):
                     "kind": kind,  # ro / global
                 }
 
-                # limită pentru globale (DeepL free)
+                # Limită pentru globale + traducere
                 if kind == "global":
                     if global_left <= 0:
                         continue
                     global_left -= 1
+
+                    # traducem doar globalele (titlu + summary)
+                    item["title_ro"] = deepl_translate_ro(title)
+                    item["summary_ro"] = deepl_translate_ro(summary[:280])
 
                 items.append(item)
 
@@ -169,10 +203,9 @@ def main():
     # RO: multe, doar "negative filter"
     global_left = process_sources(RSS_RO, "ro", items, seen, global_left)
 
-    # Global: puține, negative+positive + limită
+    # Global: puține, negative+positive + limită + traducere
     process_sources(RSS_GLOBAL, "global", items, seen, global_left)
 
-    # sort by newest
     def sort_key(x):
         try:
             return dtparser.parse(x["published_utc"])
@@ -184,7 +217,7 @@ def main():
     payload = {
         "generated_utc": datetime.now(timezone.utc).isoformat(),
         "count": len(items),
-        "items": items[:80],  # poți lăsa 60 dacă vrei
+        "items": items[:80],
     }
 
     OUT_JSON.write_text(
