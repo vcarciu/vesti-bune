@@ -26,6 +26,8 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run refresh
+        env:
+          DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
         run: |
           python scripts/refresh.py
 
