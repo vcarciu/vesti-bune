@@ -16,6 +16,13 @@
   color: #111;
 ">
 
+  <header style="display:flex; align-items:center; justify-content:space-between; gap:10px; margin-bottom:10px;">
+    <div></div>
+    <a href="./about.html" style="color:#111; text-decoration:underline; font-size:13px;">
+      Despre proiect
+    </a>
+  </header>
+
   <h1 style="font-size:44px; margin:10px 0;">Vești bune</h1>
   <p style="color:#444; margin:0 0 8px;">
     Curate. Din surse serioase. Refresh automat la fiecare 60 de minute.
@@ -23,34 +30,6 @@
   <p id="meta" style="color:#666; font-size:13px; margin:0 0 18px;"></p>
 
   <div id="list"></div>
-
-  <!-- ✅ Monetizare soft (discret) -->
-  <footer style="
-    margin-top: 26px;
-    padding-top: 16px;
-    border-top: 1px solid #e8e8e8;
-    color: #666;
-    font-size: 13px;
-    line-height: 1.5;
-  ">
-    <div style="display:flex; gap:10px; flex-wrap:wrap; align-items:center;">
-      <strong style="color:#111;">Susține proiectul:</strong>
-
-      <!-- 🔧 SCHIMBĂ LINK-UL DE MAI JOS cu al tău -->
-      <a href="https://buymeacoffee.com/USERNAME" target="_blank" rel="noopener noreferrer"
-         style="color:#111; text-decoration:underline;">
-        Buy Me a Coffee
-      </a>
-
-      <span style="color:#999;">•</span>
-
-      <span>Newsletter (în curând): 3 vești bune/zi</span>
-    </div>
-
-    <div style="margin-top:8px; color:#888;">
-      Surse: RSS oficiale + selecție automată. Globalele sunt traduse automat în română.
-    </div>
-  </footer>
 
   <script>
     function shuffle(arr) {
@@ -77,6 +56,7 @@
       const ro = data.items.filter(i => i.kind === "ro");
       const global = shuffle(data.items.filter(i => i.kind === "global"));
 
+      // la câte RO apare un GLOBAL
       const GAP = 4;
 
       const mixed = [];
@@ -131,18 +111,16 @@
         small.style = "font-size:12px;color:#777";
 
         const d = new Date(it.published_utc);
-        const badge = it.kind === "global" ? "🌍 GLOBAL (tradus)" : "🇷🇴 RO";
 
         if (it.kind === "global") {
+          const base = `🌍 GLOBAL • Titlu & rezumat traduse • ${it.source} • ${d.toLocaleString("ro-RO")}`;
           small.innerHTML =
-            `${badge} • ${it.source} • ${d.toLocaleString("ro-RO")} • ` +
-            `<a href="${it.link}" target="_blank" rel="noopener noreferrer">Original</a>`;
+            `${base} • <a href="${it.link}" target="_blank" rel="noopener noreferrer">Original</a>`;
           const linkEl = small.querySelector("a");
           linkEl.style.color = "#555";
           linkEl.style.textDecoration = "underline";
         } else {
-          small.textContent =
-            `${badge} • ${it.source} • ${d.toLocaleString("ro-RO")}`;
+          small.textContent = `🇷🇴 RO • ${it.source} • ${d.toLocaleString("ro-RO")}`;
         }
 
         card.appendChild(h);
