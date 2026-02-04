@@ -175,3 +175,14 @@ filters:
     - "mortality"
     - "warning"
     - "recall"
+    photo_sources:
+  space:
+    - name: NASA APOD
+      url: https://apod.nasa.gov/apod.rss
+  animals:
+    - name: Animal of the Day
+      url: http://feeds.feedburner.com/animals
+  landscapes:
+    - name: NASA Earth Observatory (Image of the Day)
+      url: https://earthobservatory.nasa.gov/feeds/image_of_the_day.rss
+
