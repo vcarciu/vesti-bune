@@ -1,201 +1,347 @@
-import json
+# scripts/refresh.py
 import os
 import re
+import json
 import time
+import hashlib
+import unicodedata
 from datetime import datetime, timezone
-from hashlib import sha1
-from pathlib import Path
+from typing import Dict, Any, List, Optional, Tuple
 
-import feedparser
 import requests
-from dateutil import parser as dtparser
+import feedparser
+import yaml
 
-# ---------------- Paths ----------------
 
-ROOT = Path(__file__).resolve().parents[1]
-DATA_DIR = ROOT / "data"
-OUT_JSON = DATA_DIR / "news.json"
-DATA_DIR.mkdir(parents=True, exist_ok=True)
+ROOT_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+CONFIG_PATH = os.path.join(ROOT_DIR, "config", "sources.yml")
+OUT_PATH = os.path.join(ROOT_DIR, "data", "news.json")
 
-# ---------------- RSS SOURCES ----------------
+USER_AGENT = "vesti-bune-bot/1.0 (+https://vcarciu.github.io/vesti-bune/)"
 
-RSS_RO = [
-    {"name": "HotNews", "url": "https://rss.hotnews.ro/"},
-    {"name": "Digi24", "url": "https://www.digi24.ro/rss"},
-    {"name": "Agerpres", "url": "https://www.agerpres.ro/rss"},
-    {"name": "Spotmedia", "url": "https://spotmedia.ro/feed"},
-    {"name": "News.ro", "url": "https://www.news.ro/rss"},
-]
 
-RSS_GLOBAL = [
-    {"name": "BBC – Science & Environment", "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"},
-    {"name": "BBC – Health", "url": "https://feeds.bbci.co.uk/news/health/rss.xml"},
-    {"name": "Our World in Data", "url": "https://ourworldindata.org/feeds/latest.xml"},
-]
+def utc_now_iso() -> str:
+    return datetime.now(timezone.utc).replace(microsecond=0).isoformat()
 
-MAX_GLOBAL_PER_RUN = 3
 
-# ---------------- FILTERING ----------------
+def safe_mkdir(path: str) -> None:
+    os.makedirs(path, exist_ok=True)
 
-NEGATIVE_PATTERNS = [
-    r"\bwar\b", r"\battack\b", r"\bkilled\b", r"\bdead\b", r"\bdeath\b",
-    r"\bshooting\b", r"\bterror\b", r"\bexplosion\b", r"\bbomb\b",
-    r"\bcrisis\b", r"\bscandal\b", r"\bfraud\b", r"\bcorruption\b",
-    r"\bviolence\b", r"\bmurder\b", r"\bsuicide\b",
-    r"\br(a|ă)zboi\b", r"\batac\b", r"\bucis\b", r"\bdeces\b",
-    r"\bcrim(a|ă)\b", r"\bviolen(t|ț)(a|ă)\b", r"\baccident\b",
-]
 
-POSITIVE_PATTERNS = [
-    r"\bbreakthrough\b", r"\bdiscovery\b", r"\bprogress\b",
-    r"\bsuccess\b", r"\baward\b", r"\brecord\b",
-    r"\bvaccine\b", r"\btreatment\b",
-    r"\bclean energy\b", r"\bsolar\b", r"\bwind\b",
-    r"\bdescoper(ire|it)\b", r"\breu(s|ș)it(a|ă)\b",
-    r"\bsucces\b", r"\bprogres\b", r"\bvaccin\b",
-]
+def load_yaml(path: str) -> Dict[str, Any]:
+    with open(path, "r", encoding="utf-8") as f:
+        return yaml.safe_load(f)
 
-NEG_RE = re.compile("|".join(NEGATIVE_PATTERNS), re.IGNORECASE)
-POS_RE = re.compile("|".join(POSITIVE_PATTERNS), re.IGNORECASE)
 
-# ---------------- HELPERS ----------------
-
-def clean(text: str) -> str:
-    return re.sub(r"\s+", " ", (text or "").strip())
-
-def is_negative(text: str) -> bool:
-    return bool(NEG_RE.search(text))
-
-def is_positive(text: str) -> bool:
-    return bool(POS_RE.search(text))
-
-def parse_date(entry) -> str:
-    for key in ("published", "updated", "created"):
-        if entry.get(key):
-            try:
-                dt = dtparser.parse(entry.get(key))
-                if not dt.tzinfo:
-                    dt = dt.replace(tzinfo=timezone.utc)
-                return dt.astimezone(timezone.utc).isoformat()
-            except Exception:
-                pass
-    return datetime.now(timezone.utc).isoformat()
-
-def fingerprint(title: str, link: str) -> str:
-    return sha1(f"{title}|{link}".encode("utf-8")).hexdigest()
-
-def deepl_translate_ro(text: str) -> str:
-    text = clean(text)
+def strip_html(text: str) -> str:
     if not text:
         return ""
+    # crude but ok for RSS summaries
+    text = re.sub(r"<[^>]+>", " ", text)
+    text = re.sub(r"\s+", " ", text).strip()
+    return text
 
-    api_key = os.getenv("DEEPL_API_KEY", "").strip()
-    if not api_key:
-        print("DeepL: DEEPL_API_KEY not present in env")
-        return text
 
-    print(f"DeepL: key present (len={len(api_key)})")
+def normalize_text(s: str) -> str:
+    """
+    Lowercase + remove diacritics so "împușc" matches robustly.
+    """
+    s = (s or "").lower()
+    s = unicodedata.normalize("NFKD", s)
+    s = "".join(ch for ch in s if not unicodedata.combining(ch))
+    s = re.sub(r"\s+", " ", s).strip()
+    return s
 
-    endpoints = [
+
+def parse_entry_datetime(entry: Dict[str, Any]) -> Optional[datetime]:
+    # feedparser gives structured_time in fields like published_parsed/updated_parsed
+    for key in ("published_parsed", "updated_parsed"):
+        t = entry.get(key)
+        if t:
+            try:
+                return datetime.fromtimestamp(time.mktime(t), tz=timezone.utc)
+            except Exception:
+                pass
+    return None
+
+
+def get_entry_summary(entry: Dict[str, Any]) -> str:
+    if "summary" in entry and entry["summary"]:
+        return strip_html(entry["summary"])
+    # sometimes content[0].value exists
+    content = entry.get("content")
+    if isinstance(content, list) and content:
+        val = content[0].get("value") or ""
+        return strip_html(val)
+    return ""
+
+
+def deepl_translate(text: str, target_lang: str = "RO") -> Optional[str]:
+    """
+    Returns translated text or None if not available.
+    Works with DEEPL_API_KEY in env.
+    """
+    key = os.getenv("DEEPL_API_KEY", "").strip()
+    if not key or not text.strip():
+        return None
+
+    # Prefer explicit URL if set
+    url_env = os.getenv("DEEPL_API_URL", "").strip()
+    candidates = [url_env] if url_env else [
         "https://api-free.deepl.com/v2/translate",
         "https://api.deepl.com/v2/translate",
     ]
 
-    for endpoint in endpoints:
-        try:
-            r = requests.post(
-                endpoint,
-                headers={"Authorization": f"DeepL-Auth-Key {api_key}"},
-                data={
-                    "text": text,
-                    "source_lang": "EN",
-                    "target_lang": "RO",
-                },
-                timeout=25,
-            )
-
-            if r.status_code == 200:
-                out = r.json()["translations"][0]["text"]
-                if out.strip() == text.strip():
-                    print(f"DeepL: returned identical text (endpoint={endpoint})")
-                return out
-
-            snippet = (r.text or "")[:200].replace("\n", " ")
-            print(f"DeepL: endpoint={endpoint} status={r.status_code} body={snippet}")
-
-        except Exception as e:
-            print(f"DeepL: endpoint={endpoint} exception={type(e).__name__}: {e}")
-
-    print("DeepL: all endpoints failed -> returning original")
-    return text
-
-
-# ---------------- MAIN ----------------
-
-def process_sources(sources, kind, items, seen, global_left):
-    for src in sources:
-        feed = feedparser.parse(src["url"])
-        for e in feed.entries[:30]:
-            title = clean(getattr(e, "title", ""))
-            link = getattr(e, "link", "")
-            summary = clean(getattr(e, "summary", ""))
-
-            if not title or not link:
-                continue
-
-            blob = f"{title} {summary}"
-            if is_negative(blob):
-                continue
-
-            if kind == "global" and not is_positive(blob):
-                continue
-
-            fp = fingerprint(title, link)
-            if fp in seen:
-                continue
-            seen.add(fp)
-
-            item = {
-                "id": fp[:12],
-                "title": title,
-                "summary": summary[:280],
-                "link": link,
-                "source": src["name"],
-                "published_utc": parse_date(e),
-                "kind": kind,
-            }
-
-            if kind == "global":
-                if global_left <= 0:
-                    continue
-                global_left -= 1
-                item["title_ro"] = deepl_translate_ro(title)
-                item["summary_ro"] = deepl_translate_ro(summary[:280])
-
-            items.append(item)
-
-        time.sleep(0.3)
-
-    return global_left
-
-def main():
-    items = []
-    seen = set()
-    global_left = MAX_GLOBAL_PER_RUN
-
-    global_left = process_sources(RSS_RO, "ro", items, seen, global_left)
-    process_sources(RSS_GLOBAL, "global", items, seen, global_left)
-
-    items.sort(key=lambda x: x["published_utc"], reverse=True)
-
-    payload = {
-        "generated_utc": datetime.now(timezone.utc).isoformat(),
-        "count": len(items),
-        "items": items[:80],
+    headers = {"User-Agent": USER_AGENT}
+    data = {
+        "auth_key": key,
+        "text": text,
+        "target_lang": target_lang,
     }
 
-    OUT_JSON.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"Generated {payload['count']} items")
+    for url in [u for u in candidates if u]:
+        try:
+            r = requests.post(url, data=data, headers=headers, timeout=20)
+            if r.status_code == 200:
+                js = r.json()
+                tr = js.get("translations", [])
+                if tr:
+                    out = tr[0].get("text", "").strip()
+                    return out or None
+            # If key is not for this endpoint, try next
+        except Exception:
+            continue
+
+    return None
+
+
+def score_item(
+    section_id: str,
+    title: str,
+    summary: str,
+    filters_cfg: Dict[str, Any]
+) -> Tuple[int, bool]:
+    """
+    Returns (score, allowed).
+    allowed=False if hard blacklist triggers.
+    """
+    thresholds = (filters_cfg.get("thresholds") or {})
+    hard_blacklist = filters_cfg.get("hard_blacklist") or []
+    scoring_cfg = filters_cfg.get("scoring") or {}
+    pos = scoring_cfg.get("positive_keywords") or []
+    neg = scoring_cfg.get("negative_keywords") or []
+    medical_extra = filters_cfg.get("medical_extra_blacklist") or []
+
+    text = normalize_text(f"{title} {summary}")
+
+    # Hard blacklist (global)
+    for w in hard_blacklist:
+        if normalize_text(w) in text:
+            return (-999, False)
+
+    # Medical extra blacklist
+    if section_id == "medical":
+        for w in medical_extra:
+            if normalize_text(w) in text:
+                return (-999, False)
+
+    score = 0
+
+    # Positive points
+    for w in pos:
+        ww = normalize_text(w)
+        if ww and ww in text:
+            score += 1
+
+    # Negative points
+    for w in neg:
+        ww = normalize_text(w)
+        if ww and ww in text:
+            score -= 1
+
+    # tiny bias: longer, more descriptive summaries tend to be better than empty
+    if len(summary.strip()) >= 120:
+        score += 1
+    if len(summary.strip()) == 0:
+        score -= 1
+
+    # section bias
+    if section_id in ("medical", "science", "environment"):
+        score += 1
+
+    # apply threshold later (caller)
+    _ = thresholds.get(section_id, 0)
+    return (score, True)
+
+
+def fetch_rss(url: str) -> feedparser.FeedParserDict:
+    # feedparser fetches itself; give it UA via requests? It can, but simplest:
+    # feedparser supports request headers via 'agent'
+    return feedparser.parse(url, agent=USER_AGENT)
+
+
+def dedupe_key(link: str, title: str) -> str:
+    base = (link or title or "").strip()
+    if not base:
+        base = hashlib.sha1(f"{link}|{title}".encode("utf-8", errors="ignore")).hexdigest()
+    return hashlib.sha1(base.encode("utf-8", errors="ignore")).hexdigest()
+
+
+def build_sections(cfg: Dict[str, Any]) -> Dict[str, List[Dict[str, Any]]]:
+    rss_sources = cfg.get("rss_sources") or {}
+    sections_def = cfg.get("sections") or []
+    filters_cfg = cfg.get("filters") or {}
+    thresholds = (filters_cfg.get("thresholds") or {})
+
+    max_items_map = {s["id"]: int(s.get("max_items", 20)) for s in sections_def if "id" in s}
+
+    out: Dict[str, List[Dict[str, Any]]] = {}
+    seen: set = set()
+
+    for section_id, sources in rss_sources.items():
+        items: List[Dict[str, Any]] = []
+
+        for src in sources:
+            name = src.get("name", section_id)
+            url = src.get("url", "").strip()
+            if not url:
+                continue
+
+            feed = fetch_rss(url)
+            for e in feed.entries[:50]:
+                title = (e.get("title") or "").strip()
+                link = (e.get("link") or "").strip()
+                summary = get_entry_summary(e)
+
+                if not title or not link:
+                    continue
+
+                dt = parse_entry_datetime(e)
+                published = (dt or datetime.now(timezone.utc)).replace(microsecond=0)
+
+                score, allowed = score_item(section_id, title, summary, filters_cfg)
+                if not allowed:
+                    continue
+
+                # threshold check
+                thr = int(thresholds.get(section_id, 0))
+                if score < thr:
+                    continue
+
+                key = dedupe_key(link, title)
+                if key in seen:
+                    continue
+                seen.add(key)
+
+                kind = "ro" if section_id == "romania" else "global"
+
+                item: Dict[str, Any] = {
+                    "section": section_id,
+                    "kind": kind,
+                    "source": name,
+                    "title": title,
+                    "summary": summary,
+                    "link": link,
+                    "published_utc": published.isoformat(),
+                    "score": score,
+                }
+
+                # Translate non-RO sections (title+summary) if DeepL key exists
+                if kind == "global":
+                    tr_title = deepl_translate(title) or None
+                    tr_sum = deepl_translate(summary) or None
+                    if tr_title:
+                        item["title_ro"] = tr_title
+                    if tr_sum:
+                        item["summary_ro"] = tr_sum
+
+                items.append(item)
+
+        # sort newest first
+        items.sort(key=lambda x: x.get("published_utc", ""), reverse=True)
+
+        # trim
+        items = items[: max_items_map.get(section_id, 20)]
+        out[section_id] = items
+
+    return out
+
+
+def build_joke() -> Dict[str, Any]:
+    """
+    Placeholder for pasul 3/4:
+    we'll add data/jokes_ro.txt and deterministic daily pick.
+    For now return empty.
+    """
+    return {}
+
+
+def build_photos_placeholder() -> List[Dict[str, Any]]:
+    """
+    Placeholder for pasul 3:
+    RSS parsing for images differs by feed. We'll implement next step.
+    For now, return empty list.
+    """
+    return []
+
+
+def build_satire_placeholder(cfg: Dict[str, Any]) -> List[Dict[str, Any]]:
+    """
+    Placeholder for pasul 3/4:
+    We'll either use a real RSS if provided, or do simple homepage scraping.
+    For now empty list.
+    """
+    satire = cfg.get("satire") or {}
+    if not satire.get("enabled", False):
+        return []
+    return []
+
+
+def flatten_items(sections: Dict[str, List[Dict[str, Any]]]) -> List[Dict[str, Any]]:
+    """
+    Keep your current site working:
+    - take romania + global sections and make a flat list.
+    We'll keep order newest-first overall.
+    """
+    all_items: List[Dict[str, Any]] = []
+    for sec_items in sections.values():
+        all_items.extend(sec_items)
+
+    all_items.sort(key=lambda x: x.get("published_utc", ""), reverse=True)
+
+    # don't bloat the page
+    return all_items[:60]
+
+
+def main() -> None:
+    if not os.path.exists(CONFIG_PATH):
+        raise SystemExit(f"Missing config: {CONFIG_PATH}")
+
+    cfg = load_yaml(CONFIG_PATH)
+
+    safe_mkdir(os.path.dirname(OUT_PATH))
+
+    sections = build_sections(cfg)
+
+    # placeholders for now (pasul 3/4)
+    sections["photos"] = build_photos_placeholder()
+    sections["joke"] = [build_joke()] if build_joke() else []
+    sections["satire"] = build_satire_placeholder(cfg)
+
+    flat_items = flatten_items(sections)
+
+    payload = {
+        "generated_utc": utc_now_iso(),
+        "count": len(flat_items),
+        "items": flat_items,       # backwards compat (UI curent)
+        "sections": sections,      # noul format (pasul 3)
+    }
+
+    with open(OUT_PATH, "w", encoding="utf-8") as f:
+        json.dump(payload, f, ensure_ascii=False, indent=2)
+
+    print(f"Wrote {OUT_PATH} with {len(flat_items)} items; sections: {', '.join(sections.keys())}")
+
 
 if __name__ == "__main__":
     main()
