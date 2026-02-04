@@ -1,471 +1,1178 @@
 {
-  "generated_utc": "2026-02-04T15:33:05.195708+00:00",
-  "count": 51,
+  "generated_utc": "2026-02-04T16:32:09+00:00",
+  "count": 58,
   "items": [
     {
-      "id": "44e898d33797",
-      "title": "(P) Durata de viață a televizoarelor moderne: diferențe reale între LED, OLED, QLED și Micro LED",
-      "summary": "(P) Durata de viață a televizoarelor moderne: diferențe reale între LED, OLED, QLED și Micro LED",
-      "link": "https://www.digi24.ro/stiri/sci-tech/lumea-digitala/p-durata-de-viata-a-televizoarelor-moderne-diferente-reale-intre-led-oled-qled-si-micro-led-3615921",
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "Ministrul de Finanțe prezintă joi măsurile de relansare economică / „De principiu va fi proiect de lege și va cuprinde o componentă fiscală și alta de ajutor de stat”",
+      "summary": "Ministrul de Finanțe, Alexandru Nazare, a anunțat miercuri că pachetul de măsuri de relansare economic, rezultat atât prin contribuția tuturor partenerilor din coaliția de guvernare, cât şi din dialogul cu mediul de afaceri, va fi&#8230;",
+      "link": "https://hotnews.ro/ministrul-de-finante-prezinta-joi-masurile-de-relansare-economica-de-principiu-va-fi-proiect-de-lege-si-va-cuprinde-o-componenta-fiscala-si-alta-de-ajutor-de-stat-2164804",
+      "published_utc": "2026-02-04T16:23:55+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "Digi24",
+      "title": "Invizibilii: Povestea Sarei, tânăra care își exprimă visul prin dans",
+      "summary": "De mică, Sara a simțit că dansul este mai mult decât mișcare. A fost limbajul prin care și-a exprimat emoțiile, gândurile și lumea interioară. Prin fiecare pas a învățat disciplina, atenția la detalii și curajul de a se expune în fața celorlalți. Drumul ei artistic nu a fost mereu ușor, dar perseverența și dorința de a evolua au transformat pasiunea într-o direcție clară.",
+      "link": "https://www.digi24.ro/invizibilii/invizibilii-povestea-sarei-tanara-care-isi-exprima-visul-prin-dans-3615813",
+      "published_utc": "2026-02-04T16:15:49+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "Studiu UNICEF: O treime dintre elevii români au probleme să înțeleagă concepte științifice de bază. Care sunt rezultatele pe literație digitală",
+      "summary": "UNICEF a realizat, cu sprijinul Ministerului Educației, două studii legate de nivelul de literație științifică și de literație digitală a elevitor din România. Studiile indică faptul că mai puțin de jumătate dintre elevi au un&#8230;",
+      "link": "https://hotnews.ro/studiu-unicef-o-treime-dintre-elevii-romani-au-probleme-sa-inteleaga-concepte-stiintifice-de-baza-care-sunt-rezultatele-pe-literatie-digitala-2164806",
+      "published_utc": "2026-02-04T16:11:37+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Şeful Poliţiei Rutiere Ploieşti rămâne în funcţie, deşi documente ale instituţiei au fost scoase şi arse pe câmp. Explicația conducerii",
+      "summary": "Şeful Inspectoratului de Poliţie Judeţean Prahova, comisarul Ginel Preda, afirmă că şeful Biroului Rutier din cadrul Poliţiei Municipiului Ploieşti, Laurenţiu Drăghici, rămâne în funcţie, în pofida incidentelor în urma cărora documente ale Biroului au fost compromise, unele fiind scoase din instituţie şi incendiate pe un câmp, altele udate, după ce un robinet a fost lăsat deschis în unul dintre spaţiile Poliţiei Rutiere.",
+      "link": "https://www.digi24.ro/stiri/actualitate/seful-politiei-rutiere-ploiesti-ramane-in-functie-desi-documente-ale-institutiei-au-fost-scoase-si-arse-pe-camp-explicatia-conducerii-3616013",
+      "published_utc": "2026-02-04T16:05:18+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "Anunț de ultimă oră. Premierul Ilie Bolojan susține o conferință de presă în scurt timp",
+      "summary": "Premierul Ilie Bolojan susține în această seară de la ora 19.00 o conferință de presă la Palatul Victoria. Este prima conferință de presă a șefului guvernului din acest an. HotNews va trasnmite în format LIVETEXT&#8230;",
+      "link": "https://hotnews.ro/ilie-bolojan-anunt-de-ultima-ora-premierul-sustine-o-conferinta-de-presa-in-scurt-timp-2164825",
+      "published_utc": "2026-02-04T16:04:11+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "Regina Maxima a Olandei s-a alăturat rezerviștilor forțelor armate la limita superioară de vârstă",
+      "summary": "Regina Maxima a Olandei va începe să lucreze ca militar cu normă parțială după ce s-a alăturat ca rezervist forțelor armate olandeze, o decizie venită pe fondul eforturilor de a atrage voluntari care să sporească&#8230;",
+      "link": "https://hotnews.ro/regina-maxima-a-olandei-s-a-alaturat-rezervistilor-fortelor-armate-2164809",
+      "published_utc": "2026-02-04T15:57:20+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "„Țarul Frontierelor” retrage sute de agenți ICE din Minnesota, dar avertizează că nu pleacă până când „nu terminăm toată treaba”",
+      "summary": "Administrația președintelui american Donald Trump va reduce cu 700 numărul agenților federali ai poliției imigrației (ICE) din Minnesota, deși aproximativ 2.000 de agenți vor rămâne pe teren, a anunțat miercuri Tom Homan, responsabilul Casei Albe&#8230;",
+      "link": "https://hotnews.ro/tarul-frontierelor-retrage-sute-de-agenti-ice-din-minnesota-dar-avertizeaza-ca-nu-pleaca-pana-cand-nu-terminam-toata-treaba-2164790",
+      "published_utc": "2026-02-04T15:56:09+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Sorin Grindeanu a vizitat Sfântul Mormânt și Zidul Plângerii: Românii sunt respectați la Ierusalim pentru că și-au apărat credința",
+      "summary": "Preşedintele Camerei Deputaţilor, Sorin Grindeanu, a vizitat Mormântul Sfânt şi Zidul Plângerii, în vizita oficială pe care o efectuează în Israel. Liderul PSD afirmă că românii sunt respectaţi la Ierusalim, pentru că au ştiut să îşi apere credinţa şi au reuşit întotdeauna să construiască punţi, în comunităţi şi între comunităţi.",
+      "link": "https://www.digi24.ro/stiri/actualitate/politica/sorin-grindeanu-a-vizitat-sfantul-mormant-si-zidul-plangerii-romanii-sunt-respectati-la-ierusalim-pentru-ca-si-au-aparat-credinta-3615995",
+      "published_utc": "2026-02-04T15:55:59+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Statele Unite vor oferi R. Moldova 36,5 milioane de dolari pentru securitate națională. Legea a fost semnată de Donald Trump",
+      "summary": "Statele Unite vor oferi R. Moldova 36,5 milioane de dolari. Anunțul a fost făcut miercuri, 4 februarie, de către ambasadorul R. Moldova în SUA, Vlad Kulminski, într-o postare pe Facebook. Oficialul a menționat că banii vor fi utilizați pentru „securitatea energetică, securitatea cibernetică, reziliență și alte priorități conexe în domeniul securității naționale”, informează Ziarul de Gardă.",
+      "link": "https://www.digi24.ro/stiri/externe/statele-unite-vor-oferi-r-moldova-365-milioane-de-dolari-pentru-securitate-nationala-legea-a-fost-semnata-de-donald-trump-3615991",
+      "published_utc": "2026-02-04T15:54:01+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "Harta județelor unde pacienții sunt condamnați să facă naveta pentru tratament, în țara în care peste 60.000 de oameni sunt diagnosticați anual cu cancer",
+      "summary": "Peste 80.000 de oameni sunt diagnosticați cu cancer an de an, în România. Ca să aibă acces la tratament, mulți dintre ei fac naveta zeci de kilometri, în condițiile în care 28 din cele 41&#8230;",
+      "link": "https://hotnews.ro/harta-judetelor-unde-pacientii-sunt-condamnati-sa-faca-naveta-pentru-tratament-in-tara-in-care-peste-60-000-de-oameni-sunt-diagnosticati-anual-cu-cancer-2164781",
+      "published_utc": "2026-02-04T15:46:55+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "BNR avertizează că un document atribuit instituției, care circulă în mediul online, este fals",
+      "summary": "Banca Naţională a României (BNR) avertizează că un document atribuit instituţiei care circulă în mediul online este fals. Acesta se referă la „procura cu autoritate totală” şi foloseşte nume reale ale unor structuri şi reprezentanţi ai BNR, precum şi sigla, antetul şi datele de contact reale ale Băncii Naţionale a României. BNR reaminteşte că toate comunicatele sale oficiale sunt publicate exclusiv pe site-ul instituţiei şi pe canalele de comunicare ale BNR.",
+      "link": "https://www.digi24.ro/stiri/actualitate/bnr-avertizeaza-ca-un-document-atribuit-institutiei-care-circula-in-mediul-online-este-fals-3615959",
+      "published_utc": "2026-02-04T15:44:13+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Cutii cu bomboane, ouă și cafea – mita pentru care un procuror din Vâlcea a cerut închisoare. Judecătorii au respins dosarele",
+      "summary": "În loc să se ocupe de marii infractori, un procuror din Vâlcea a interceptat trei persoane și a cerut închisoare pentru ele, pentru că ar fi oferit cutii cu bomboane, ouă și cafea unor medici și polițiști.",
+      "link": "https://www.digi24.ro/stiri/actualitate/evenimente/cutii-cu-bomboane-oua-si-cafea-mita-pentru-care-un-procuror-din-valcea-a-cerut-inchisoare-judecatorii-au-respins-dosarele-3615951",
+      "published_utc": "2026-02-04T15:43:25+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "Grafic trist de la Eurostat: România sfidează orice cifră europeană la creșterea prețurilor. Peste dublu față de cea mai mare inflație pe anul 2025 din vreo țară UE",
+      "summary": "Eurostat a publicat inflația anuală pe 2025. Zona euro are 1,8%, iar cea mai mare inflație după România a fost în Slovacia, de 4,1%, relevă datele analizate de Profit.ro. Creșterea prețurilor din România a sărit&#8230;",
+      "link": "https://hotnews.ro/grafic-trist-de-la-eurostat-romania-sfideaza-orice-cifra-europeana-la-cresterea-preturilor-peste-dublu-fata-de-cea-mai-mare-inflatie-pe-anul-2025-din-vreo-tara-ue-2164778",
       "published_utc": "2026-02-04T15:29:32+00:00",
-      "kind": "ro"
+      "score": 1
     },
     {
-      "id": "5835bc01c690",
-      "title": "Cetăţean străin de 76 de ani, pe numele căruia autorităţile italiene au emis mandat european de arestare pentru încurajarea prostituţiei, prins pe o stradă din Sectorul 5 al Capitalei/ A fost dus la audieri şi prezentat unui procuror - VIDEO",
-      "summary": "Un cetăţean străin de 76 de ani, pe numele căruia autorităţile italiene au emis un mandat european de arestare, pentru încurajarea sau exploatarea în orice mod a prostituţiei, a fost prins, miercuri, de poliţiştii bucureşteni pe o stradă din Sectorul 5, informează Poliţia Capital",
-      "link": "https://www.news.ro/justitie/cetatean-strain-76-ani-numele-caruia-autoritatile-italiene-au-emis-mandat-european-arestare-incurajarea-prostitutiei-prins-strada-sectorul-5-capitalei-dus-audieri-prezentat-unui-procuror-video-1922402904002026021722334896",
-      "source": "News.ro",
-      "published_utc": "2026-02-04T15:29:00+00:00",
-      "kind": "ro"
-    },
-    {
-      "id": "7d672c06ccab",
-      "title": "Alexandru Rogobete anunţă, din Israel, iniţierea procedurilor pentru semnarea unui acord între Ministerul Sănătăţii şi Statul Israel, care să permită realizarea determinărilor genetice pentru anumite boli rare şi adaptarea terapiilor oncologice",
-      "summary": "Ministrul Sănătăţii, Alexandru Rogobete, anunţă miercuri, după ce a vizitat unul dintre cele mai mari spitale universitare din Israel – Hadassah University Medical Center, iniţierea procedurilor pentru semnarea unui acord între Ministerul Sănătăţii şi Statul Israel, care să permi",
-      "link": "https://www.news.ro/social/sanatate/alexandru-rogobete-anunta-israel-initierea-procedurilor-semnarea-unui-acord-intre-ministerul-sanatatii-statul-israel-permita-realizarea-determinarilor-genetice-anumite-boli-rare-adaptarea-terapiilor-1922402704002026021722334891",
-      "source": "News.ro",
-      "published_utc": "2026-02-04T15:27:00+00:00",
-      "kind": "ro"
-    },
-    {
-      "id": "8228bf2593c8",
-      "title": "„Cel mai bun prieten” al lui Trump din Europa îl atacă dur pe liderul de la Casa Albă: „Intră în conflict cu valorile noastre”",
-      "summary": "Europa şi Finlanda trebuie să recunoască că Statele Unite se schimbă şi că ideologia administraţiei americane din spatele politicii sale externe „intră în conflict cu propriile noastre valori”, a declarat miercuri, în Parlament, preşedintele Finlandei, Alexander Stubb, considerat",
-      "link": "https://www.digi24.ro/stiri/externe/cel-mai-bun-prieten-al-lui-trump-din-europa-il-ataca-dur-pe-liderul-de-la-casa-alba-intra-in-conflict-cu-valorile-noastre-3615905",
+      "section": "romania",
+      "kind": "ro",
       "source": "Digi24",
-      "published_utc": "2026-02-04T15:25:33+00:00",
-      "kind": "ro"
-    },
-    {
-      "id": "ebb9ae0e6ba1",
       "title": "Mircea Lucescu ar putea fi transferat în străinătate, la un spital din Belgia, la cererea sa",
       "summary": "Mircea Lucescu, selecționerul echipei naționale de footbal, este internat în prezent la Spitalul Universitar din Capitală. Potrivit unor surse antrenorul vrea să meargă la un control la un spital din Bruxelles pentru probleme mai vechi de sănătate, informează Digi24.",
       "link": "https://www.digi24.ro/stiri/actualitate/mircea-lucescu-ar-putea-fi-transferat-in-strainatate-la-un-spital-din-belgia-la-cererea-sa-3615901",
-      "source": "Digi24",
       "published_utc": "2026-02-04T15:23:48+00:00",
-      "kind": "ro"
+      "score": 1
     },
     {
-      "id": "c873fc752af3",
-      "title": "Primăria Bucureşti anunţă că realizarea unui plan de eficientizare a activităţii STB nu presupune în acest moment majorarea tarifelor sau renunţarea la gratuităţi / Categoriile vizate",
-      "summary": "Primăria Bucureşti precizează, miercuri, că realizarea unui plan de eficientizare a activităţii STB nu presupune în acest moment majorarea tarifelor sau renunţarea la gratuităţi. Pensionarii, elevii şi persoanele cu handicap sunt printre cele mai largi categorii de beneficiari ai",
-      "link": "https://www.news.ro/economic/primaria-bucuresti-anunta-ca-realizarea-unui-plan-de-eficientizare-a-activitatii-stb-nu-presupune-in-acest-moment-majorarea-tarifelor-sau-renuntarea-la-gratuitati-categoriile-vizate-1922402204182026021722334894",
-      "source": "News.ro",
-      "published_utc": "2026-02-04T15:22:18+00:00",
-      "kind": "ro"
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "Zăcământ de minerale rare, descoperite în vestul țării. Printre ele, uraniu și nichel",
+      "summary": "Compania canadiană Leading Edge Materials a descoperit în Munții Apuseni zăcăminte importante de minerale rare, într-un perimetru de circa 25 de kilometri pătrați, aflat în județele Bihor și Arad, scrie Digi24.ro. Potrivit analizelor preliminare ale&#8230;",
+      "link": "https://hotnews.ro/zacamant-de-minerale-rare-descoperite-in-vestul-tarii-printre-ele-uraniu-si-nichel-2164751",
+      "published_utc": "2026-02-04T15:23:25+00:00",
+      "score": 2
     },
     {
-      "id": "e1775eb92a0d",
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
       "title": "Ora 19:00. Premierul Ilie Bolojan susține o conferință de presă. Din interiorul Coaliției i s-a cerut reducerea taxelor",
-      "summary": "Ilie Bolojan va susține o conferință de presă, de la ora 19:00, la Palatul Victoria. Recent, liderul UDMR, Kelemen Hunor, i-a cerut public premierului să revizuiască decizia privind taxele locale și să le scadă. De asemenea, Guvernul este așteptat să adopte și reforma administraț",
+      "summary": "Ilie Bolojan va susține o conferință de presă, de la ora 19:00, la Palatul Victoria. Recent, liderul UDMR, Kelemen Hunor, i-a cerut public premierului să revizuiască decizia privind taxele locale și să le scadă. De asemenea, Guvernul este așteptat să adopte și reforma administrației centrale, împreună cu măsuri economice pentru sprijinirea populației.",
       "link": "https://www.digi24.ro/stiri/actualitate/politica/ora-1900-premierul-ilie-bolojan-sustine-o-conferinta-de-presa-din-interiorul-coalitiei-i-s-a-cerut-reducerea-taxelor-3615865",
-      "source": "Digi24",
       "published_utc": "2026-02-04T15:21:56+00:00",
-      "kind": "ro"
+      "score": 1
     },
     {
-      "id": "67357e734eba",
-      "title": "Nazare: „Joi publicăm pachetul de relansare economică, rezultat din dialogul cu mediul de afaceri. Avem nevoie de investiții”",
-      "summary": "Ministrul Finanțelor, Alexandru Nazare, a anunțat, într-o postare pe Facebook, că Guvernul se află în faza finală de pregătire a unui pachet amplu de măsuri pentru relansarea economică, construit în urma unor consultări extinse cu mediul de afaceri. În ultimele săptămâni, spune m",
-      "link": "https://www.digi24.ro/stiri/economie/finante-economie/nazare-joi-publicam-pachetul-de-relansare-economica-rezultat-din-dialogul-cu-mediul-de-afaceri-avem-nevoie-de-investitii-3615821",
+      "section": "romania",
+      "kind": "ro",
       "source": "Digi24",
+      "title": "Nazare: „Joi publicăm pachetul de relansare economică, rezultat din dialogul cu mediul de afaceri. Avem nevoie de investiții”",
+      "summary": "Ministrul Finanțelor, Alexandru Nazare, a anunțat, într-o postare pe Facebook, că Guvernul se află în faza finală de pregătire a unui pachet amplu de măsuri pentru relansarea economică, construit în urma unor consultări extinse cu mediul de afaceri. În ultimele săptămâni, spune ministrul, au avut loc „o serie consistentă de întâlniri și discuții” cu principalii parteneri din economie, în contextul definitivării programului care urmează să fie publicat în transparență.",
+      "link": "https://www.digi24.ro/stiri/economie/finante-economie/nazare-joi-publicam-pachetul-de-relansare-economica-rezultat-din-dialogul-cu-mediul-de-afaceri-avem-nevoie-de-investitii-3615821",
       "published_utc": "2026-02-04T15:20:02+00:00",
-      "kind": "ro"
+      "score": 1
     },
     {
-      "id": "f6d7601ce83c",
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
       "title": "Exerciții militare în poligonul Smârdan la care a participat și Armata SUA cu mai mule tancuri Abrams",
       "summary": "Forţe şi echipamente ale Armatei SUA au fost dislocate în Poligonul de Instrucţie Smârdan pentru exerciţii de instruire comune cu partenerii români, într-o „demonstraţie continuă a angajamentului neclintit al Statelor Unite faţă de pacea, securitatea şi stabilitatea regională”.",
       "link": "https://www.digi24.ro/stiri/exercitii-militare-in-poligonul-smardan-la-care-a-participat-si-armata-sua-cu-mai-mule-tancuri-abrams-3615881",
-      "source": "Digi24",
       "published_utc": "2026-02-04T15:16:32+00:00",
-      "kind": "ro"
+      "score": 1
     },
     {
-      "id": "37c2f2633dde",
-      "title": "BNR avertizează că un document atribuit Băncii Naţionale a României, care circulă în mediul online este fals - FOTO",
-      "summary": "Banca Naţională a României (BNR) avertizează că un document atribuit instituţiei care circulă în mediul online este fals. Acesta se referă la ”procura cu autoritate totală” şi foloseşte nume reale ale unor structuri şi reprezentanţi ai BNR, precum şi sigla, antetul şi datele de c",
-      "link": "https://www.news.ro/economic/bnr-avertizeaza-ca-un-document-atribuit-bancii-nationale-a-romaniei-care-circula-in-mediul-online-este-fals-foto-1922401604002026021722334882",
-      "source": "News.ro",
-      "published_utc": "2026-02-04T15:16:00+00:00",
-      "kind": "ro"
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "Cum vrea un startup de AI să simplifice activitatea cabinetelor stomatologice",
+      "summary": "Un startup britanic de AI a obținut 2,6 milioane de euro finanțare pentru automatizarea operațiunilor de la recepția cabinetelor stomatologice, scrie publicația Tech.EU. Linda AI se numește compania, iar cu finanțarea obținută va extinde platforma&#8230;",
+      "link": "https://hotnews.ro/cum-vrea-un-startup-de-ai-sa-simplifice-activitatea-cabinetelor-stomatologice-2164763",
+      "published_utc": "2026-02-04T15:13:18+00:00",
+      "score": 1
     },
     {
-      "id": "fc399dab680e",
-      "title": "Preşedintele Finlandei: Ideologia administraţiei americane din spatele politicii sale externe „intră în conflict cu propriile noastre valori”. Helsinki îşi va actualiza doctrina de politică externă şi de securitate pentru a reflecta schimbările",
-      "summary": "Europa şi Finlanda trebuie să recunoască că Statele Unite se schimbă şi că ideologia administraţiei americane din spatele politicii sale externe „intră în conflict cu propriile noastre valori”, a declarat miercuri, în Parlament, preşedintele Finlandei, Alexander Stubb, considerat",
-      "link": "https://www.news.ro/externe/presedintele-finlandei-ideologia-administratiei-americane-spatele-politicii-sale-externe-intra-conflict-propriile-valori-helsinki-isi-actualiza-doctrina-politica-externa-securitate-reflecta-1922401504592026021722334862",
-      "source": "News.ro",
-      "published_utc": "2026-02-04T15:15:59+00:00",
-      "kind": "ro"
-    },
-    {
-      "id": "7914742eca28",
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
       "title": "Nicușor Dan, prima reacție după acuzațiile SUA privind influențarea alegerilor: „Ingerințele ruse au fost evidențiate de rapoarte NATO”",
-      "summary": "Președintele Nicușor Dan a avut o primă reacție după ce Comisia Juridică din Camera Reprezentanților SUA a transmis un raport care susține că oficialii UE ar fi influențat alegerile din România prin presiuni asupra rețelelor sociale. Șeful statului spune că țara noastră nu este s",
+      "summary": "Președintele Nicușor Dan a avut o primă reacție după ce Comisia Juridică din Camera Reprezentanților SUA a transmis un raport care susține că oficialii UE ar fi influențat alegerile din România prin presiuni asupra rețelelor sociale. Șeful statului spune că țara noastră nu este subiectul principal al raportului de la Washington, că referirile sunt „strict contextuale”, iar decizia CCR de anulare a alegerilor a indicat „fără echivoc vicierea campaniei”.",
       "link": "https://www.digi24.ro/stiri/actualitate/politica/nicusor-dan-prima-reactie-dupa-acuzatiile-sua-privind-influentarea-alegerilor-decizia-ccr-indica-fara-echivoc-vicierea-campaniei-3615681",
-      "source": "Digi24",
       "published_utc": "2026-02-04T15:11:49+00:00",
-      "kind": "ro"
+      "score": 1
     },
     {
-      "id": "4c03d42d692c",
-      "title": "A fost lansată emisiunea filatelică “Team Romania la Jocurile Olimpice Milano Cortina 2026”",
-      "summary": "Cu două zile înainte de startul Jocurilor Olimpice Milano Cortina 2026, Comitetul Olimpic şi Sportiv Român şi Romfilatelia au lansat la Muzeul Sportului emisiunea filatelică “Team Romania la Jocurile Olimpice Milano Cortina 2026”, o colecţie compusă din patru mărci poştale, o col",
-      "link": "https://www.news.ro/sport/a-fost-lansata-emisiunea-filatelica-team-romania-la-jocurile-olimpice-milano-cortina-2026-1922400904252026021722334875",
-      "source": "News.ro",
-      "published_utc": "2026-02-04T15:09:25+00:00",
-      "kind": "ro"
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "„Noi nu vedem nimic nou aici”. Kremlinul îl contrazice pe Trump cu privire la India și petrolul rusesc",
+      "summary": "Kremlinul a transmis miercuri că nu a văzut nimic nou într-un anunț al Indiei în care aceasta afirmă că își va diversifica sursele de aprovizionare cu energie, după ce președintele american Donald Trump a susținut,&#8230;",
+      "link": "https://hotnews.ro/noi-nu-vedem-nimic-nou-aici-kremlinul-il-contrazice-pe-trump-cu-privire-la-india-si-petrolul-rusesc-2164752",
+      "published_utc": "2026-02-04T15:03:05+00:00",
+      "score": 1
     },
     {
-      "id": "bb8f0de6d5e9",
-      "title": "Şeful Poliţiei Rutiere Ploieşti rămâne în funcţie deşi documente ale instituţiei au fost scoase şi arse pe câmp, iar într-un birou alte documente au fost afectate de o inundaţie produsă de un robinet lăsat deschis. Explicaţiile conducerii IPJ Prahova",
-      "summary": "Şeful Inspectoratului de Poliţie Judeţean Prahova, comisarul Ginel Preda, afirmă că şeful Biroului Rutier din cadrul Poliţiei Municipiului Ploieşti, Laurenţiu Drăghici, rămâne în funcţie în pofida incidentelor în urma cărora documente ale Biroului au fost compromise, unele fiind ",
-      "link": "https://www.news.ro/social/seful-politiei-rutiere-ploiesti-ramane-functie-documente-institutiei-au-scoase-arse-camp-iar-intr-birou-documente-au-afectate-inundatie-produsa-robinet-lasat-deschis-explicatiile-conducerii-ipj-1922400804282026021722334866",
-      "source": "News.ro",
-      "published_utc": "2026-02-04T15:08:28+00:00",
-      "kind": "ro"
-    },
-    {
-      "id": "b40d8d24afcc",
-      "title": "Vladimir Putin, menționat de peste o mie de ori în documentele publicate în cazul Epstein: „Încă aș dori să mă întâlnesc cu el”",
-      "summary": "Unele dintre documentele desecretizate de Departamentul de Justiție al SUA (DOJ) din dosarul Epistein par să dezvăluie încercările repetate ale infractorului sexual condamnat de a-l întâlni pe președintele rus Vladimir Putin. Numele liderului de la Kremlin este menționat de peste",
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Vladimir Putin, menționat de peste o mie de ori în documentele publicate în cazul Epstein:  „Încă aș dori să mă întâlnesc cu el”",
+      "summary": "Unele dintre documentele desecretizate de Departamentul de Justiție al SUA (DOJ) din dosarul Epistein par să dezvăluie încercările repetate ale infractorului sexual condamnat de a-l întâlni pe președintele rus Vladimir Putin. Numele liderului de la Kremlin este menționat de peste 1.000 de ori în ultimele documente publicate, relatează Sky News.",
       "link": "https://www.digi24.ro/stiri/externe/rusia/vladimir-putin-mentionat-de-peste-o-mie-de-ori-in-documentele-publicate-in-cazul-epstein-inca-as-dori-sa-ma-intalnesc-cu-el-3615857",
-      "source": "Digi24",
       "published_utc": "2026-02-04T15:00:45+00:00",
-      "kind": "ro"
+      "score": 1
     },
     {
-      "id": "ac2812f12558",
-      "title": "Emisarul lui Trump la Minneapolis, ”ţarul frontierelor” Tom Homan, anunţă retragerea ”imediată” a 700 de poliţişti ai imigraţiei",
-      "summary": "Emisarul preşedintelui american Donald Trump la Minneapolis, ”ţarul frontierelor” Tom Homan, anunţă miercuri retragerea ”imediată” a 700 de membri ai poliţiei imigraţiei (ICE), după săptămâni de tensiuni puternice în acest oraş din nordul Statelor Unite, unde doi doi manifestanţi",
-      "link": "https://www.news.ro/externe/emisarul-lui-trump-la-minneapolis-tarul-frontierelor-tom-homan-anunta-retragerea-imediata-a-700-de-politisti-ai-imigratiei-1922405704002026021622334849",
-      "source": "News.ro",
-      "published_utc": "2026-02-04T14:57:00+00:00",
-      "kind": "ro"
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "Concedieri în masă la Washington Post: „Bezos nu încearcă să salveze. El încearcă să supraviețuiască lui Donald Trump”",
+      "summary": "Angajații reputatei publicații americane au primit miercuri dimineață un mail prin care sunt îndemnați „să stea acasă” și să participe la ora locală 8.30 (n.r. 15.30 în România) la o ședință prin Zoom în care&#8230;",
+      "link": "https://hotnews.ro/concedieri-in-masa-la-washington-post-bezos-nu-incearca-sa-salveze-el-incearca-sa-supravietuiasca-lui-donald-trump-2164728",
+      "published_utc": "2026-02-04T15:00:41+00:00",
+      "score": 1
     },
     {
-      "id": "ac3b2e3a3572",
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
       "title": "Reprezentanții statelor UE, aproape de un acord pentru împrumutul de 90 de miliarde de euro către Ucraina. Care sunt pașii următori",
-      "summary": "Ambasadorii statelor UE la Bruxelles sunt aproape de a ajunge la un acord privind un împrumut de 90 de miliarde de euro pentru finanțarea apărării Ucrainei împotriva Rusiei, grație unui proiect de text care precizează participarea țărilor terțe la tranzacțiile cu arme, au declara",
+      "summary": "Ambasadorii statelor UE la Bruxelles sunt aproape de a ajunge la un acord privind un împrumut de 90 de miliarde de euro pentru finanțarea apărării Ucrainei împotriva Rusiei, grație unui proiect de text care precizează participarea țărilor terțe la tranzacțiile cu arme, au declarat miercuri trei diplomați, citați de Politico. Oficialii se întâlnesc miercuri după-amiază pentru a finaliza discuțiile, după o săptămână de negocieri dificile.",
       "link": "https://www.digi24.ro/stiri/externe/ue/reprezentantii-statelor-ue-aproape-de-un-acord-pentru-imprumutul-de-90-de-miliarde-de-euro-catre-ucraina-care-sunt-pasii-urmatori-3615819",
-      "source": "Digi24",
       "published_utc": "2026-02-04T14:56:56+00:00",
-      "kind": "ro"
+      "score": 1
     },
     {
-      "id": "dc1de3567cbb",
-      "title": "Guvernul a împovărat românii cu taxe mai mari, dar a încasat mai puțin la buget, acuză Florin Cîțu, fost premier și președinte PNL",
-      "summary": "Florin Cîțu, fost premier, ministru de Finanțe și președinte PNL, atacă în termeni duri guvernul condus de către Ilie Bolojan, tot premier liberal. Fostul oficial clamează că modificarea TVA de la 19 la 21% reprezintă o greșeală strategică, iar Executivul trebuie să revină impozi",
-      "link": "https://www.digi24.ro/stiri/actualitate/politica/guvernul-a-impovarat-romanii-cu-taxe-mai-mari-dar-a-incasat-mai-putin-la-buget-acuza-florin-citu-fost-premier-si-presedinte-pnl-3615829",
+      "section": "romania",
+      "kind": "ro",
       "source": "Digi24",
-      "published_utc": "2026-02-04T14:56:36+00:00",
-      "kind": "ro"
-    },
-    {
-      "id": "4ecefdb958ad",
       "title": "Xi Jinping și Donald Trump, convorbire telefonică înaintea vizitei liderului american în China",
       "summary": "Președintele Chinei, Xi Jinping, a discutat miercuri, la telefon, cu președintele SUA, Donald Trump, înaintea unei vizite așteptate a lui Trump în China, programată pentru luna aprilie, a relatat televiziunea de stat CCTV, citată de Reuters.",
       "link": "https://www.digi24.ro/stiri/externe/xi-jinping-si-donald-trump-convorbire-telefonica-inaintea-vizitei-liderului-american-in-china-3615851",
-      "source": "Digi24",
       "published_utc": "2026-02-04T14:56:32+00:00",
-      "kind": "ro"
+      "score": 1
     },
     {
-      "id": "1736a919461a",
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "O corectură publicată de ziarul The Guardian a devenit virală. „Trebuia să primească 0 stele”",
+      "summary": "„Evaluarea acestui film a fost corectată pe 2 februarie 2026. O problemă de formatare a făcut ca în versiunea anterioară să primească o stea, când trebuia să primească zero”, este modificarea unei recenzii făcute de&#8230;",
+      "link": "https://hotnews.ro/o-corectura-publicata-de-ziarul-the-guardian-a-devenit-virala-trebuia-sa-primeasca-0-stele-2163763",
+      "published_utc": "2026-02-04T14:55:34+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
       "title": "Propunerea lui Daniel Funeriu pentru rețelele sociale care funcționează în UE: conţinut educaţional la fiecare 5 minute de scrolling",
-      "summary": "Fostul ministru al Educaţiei Daniel Funeriu propune, în contextul dezbaterilor privind interzicerea reţelelor sociale pentru copiii sub o anumită vârstă, despre care afirmă că nu crede că este eficientă, ca la nivelul Uniunii Europene să fie instituită obligaţia tuturor platforme",
+      "summary": "Fostul ministru al Educaţiei Daniel Funeriu propune, în contextul dezbaterilor privind interzicerea reţelelor sociale pentru copiii sub o anumită vârstă, despre care afirmă că nu crede că este eficientă, ca la nivelul Uniunii Europene să fie instituită obligaţia tuturor platformelor de socializare ca, la fiecare 5 minute de scrolling, să oblige la 30 de secunde de conţinut educaţional ţintit vârstei utilizatorului.",
       "link": "https://www.digi24.ro/stiri/actualitate/propunerea-lui-daniel-funeriu-pentru-retelele-sociale-care-functioneaza-in-ue-continut-educational-la-fiecare-5-minute-de-scrolling-3615827",
-      "source": "Digi24",
       "published_utc": "2026-02-04T14:54:14+00:00",
-      "kind": "ro"
+      "score": 1
     },
     {
-      "id": "17ea1f486ad1",
-      "title": "Tancuri Abrams ale Armatei SUA participă la antrenamente comune în poligonul Smârdan: O demonstraţie clară a angajamentului neclintit al SUA faţă de stabilitatea regională şi a parteneriatului strategic solid dintre SUA şi România FOTO",
-      "summary": "Forţe şi echipamente ale Armatei SUA au fost dislocate în Poligonul de Instrucţie Smârdan pentru exerciţii de instruire comune cu partenerii români, într-o „demonstraţie continuă a angajamentului neclintit al Statelor Unite faţă de pacea, securitatea şi stabilitatea regională”. P",
-      "link": "https://www.news.ro/social/tancuri-abrams-armatei-sua-participa-antrenamente-comune-poligonul-smardan-demonstratie-clara-angajamentului-neclintit-sua-fata-stabilitatea-regionala-parteneriatului-strategic-solid-dintre-sua-1922405304162026021622334829",
-      "source": "News.ro",
-      "published_utc": "2026-02-04T14:53:16+00:00",
-      "kind": "ro"
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "VIDEO. „Există o nouă divă în oraș”. După nașterea unui pui de elefant, presa americană exultă",
+      "summary": "Pentru prima dată în aproape 25 de ani, personalul care se ocupă de îngrijirea elefanților de la Grădina Zoologică Națională Smithsonian și Institutul de Biologie Conservativă (NZCBI) sărbătorește nașterea unui elefant asiatic, o specie pe&#8230;",
+      "link": "https://hotnews.ro/video-exista-o-noua-diva-in-oras-dupa-nasterea-unui-pui-de-elefant-presa-americana-exulta-2164734",
+      "published_utc": "2026-02-04T14:53:41+00:00",
+      "score": 1
     },
     {
-      "id": "2a9aaa3cff10",
-      "title": "CSM: Modificările legislative operate în perioada cuprinsă între 2018 – 2022 au generat disfuncţionalităţi semnificative şi inechităţi pentru corectarea cărora este necesară o intervenţie legislativă promptă / Propunerile CSM",
-      "summary": "Consiliul Superior al Magistraturii (CSM) consideră că modificările legislative care au fost operate între 2018 şi 2022 au generat disfuncţionalităţi semnificative şi inechităţi pentru corectarea cărora este necesară o intervenţie legislativă promptă. Astfel, CSM consideră, print",
-      "link": "https://www.news.ro/justitie/csm-modificarile-legislative-operate-perioada-cuprinsa-intre-2018-2022-au-generat-disfunctionalitati-semnificative-inechitati-corectarea-carora-necesara-interventie-legislativa-prompta-propunerile-1922405204402026021622334843",
-      "source": "News.ro",
-      "published_utc": "2026-02-04T14:52:40+00:00",
-      "kind": "ro"
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "Cazul Nordis. Deputatul care a făcut plângere penală împotriva lui Marcel Ciolacu acuză DNA că l-a citat ca martor după mai bine de un an, la o adresă greșită",
+      "summary": "Deputatul USR Emanuel Ungureanu a declarat, miercuri, că DNA, sub conducerea lui Marius Voineag, a avut nevoie de mai bine de un an de zile pentru a-l cita ca martor, după ce a depus, în&#8230;",
+      "link": "https://hotnews.ro/cazul-nordis-deputatul-care-a-facut-plangere-penala-impotriva-lui-marcel-ciolacu-acuza-dna-ca-l-a-citat-ca-martor-dupa-mai-bine-de-un-an-la-o-adresa-gresita-2164711",
+      "published_utc": "2026-02-04T14:47:23+00:00",
+      "score": 1
     },
     {
-      "id": "6b0f81e14d27",
-      "title": "Invizibilii: Povestea Sarei, tânăra care își exprimă visul prin dans",
-      "summary": "Invizibilii: Povestea Sarei, tânăra care își exprimă visul prin dans",
-      "link": "https://www.digi24.ro/invizibilii/invizibilii-povestea-sarei-tanara-care-isi-exprima-visul-prin-dans-3615813",
+      "section": "romania",
+      "kind": "ro",
       "source": "Digi24",
-      "published_utc": "2026-02-04T14:44:04+00:00",
-      "kind": "ro"
-    },
-    {
-      "id": "2d850df19e3f",
-      "title": "Probleme cu două zile înainte de ceremonia de deschidere: Italia a dejucat atacuri cibernetice rusești care vizau Jocurile Olimpice",
-      "summary": "Italia a dejucat o serie de atacuri cibernetice ruseşti împotriva unor site-uri legate de Jocurile Olimpice de iarnă de la Milano-Cortina, a anunţat miercuri ministrul de Externe, Antonio Tajani, cu două zile înainte de ceremonia de deschidere, informează AFP.",
-      "link": "https://www.digi24.ro/stiri/externe/ue/probleme-cu-doua-zile-inainte-de-ceremonia-de-deschidere-italia-a-dejucat-atacuri-cibernetice-rusesti-care-vizau-jocurile-olimpice-3615763",
-      "source": "Digi24",
-      "published_utc": "2026-02-04T14:38:31+00:00",
-      "kind": "ro"
-    },
-    {
-      "id": "8cfec36ddc95",
       "title": "Deficitul Rusiei s-ar putea tripla în 2026, în urma scăderii veniturilor din petrol. „Situaţia se deteriorează semnificativ” (Reuters)",
-      "summary": "Deficitul public al Rusiei s-ar putea tripla comparativ cu ţinta oficială, până la finalul acestui an, scăderea achiziţiilor Indiei de petrol şi majorarea discounturilor la tranzacţionarea petrolului afectând veniturile, în timp ce cheltuielile ar putea fi mai ridicate decât se e",
+      "summary": "Deficitul public al Rusiei s-ar putea tripla comparativ cu ţinta oficială, până la finalul acestui an, scăderea achiziţiilor Indiei de petrol şi majorarea discounturilor la tranzacţionarea petrolului afectând veniturile, în timp ce cheltuielile ar putea fi mai ridicate decât se estima, au declarat pentru Reuters surse care au dorit să-şi păstreze anonimatul.",
       "link": "https://www.digi24.ro/stiri/externe/rusia/deficitul-rusiei-s-ar-putea-tripla-in-2026-in-urma-scaderii-veniturilor-din-petrol-situatia-se-deterioreaza-semnificativ-reuters-3615771",
-      "source": "Digi24",
       "published_utc": "2026-02-04T14:35:54+00:00",
-      "kind": "ro"
+      "score": 1
     },
     {
-      "id": "094b0d5c167c",
-      "title": "Livrator nigerian, amenințat cu cuțitul și tâlhărit de 3 tineri din Bucureşti. Agresorii au fost reținuți de poliţiști",
-      "summary": "Trei tineri, cu vârste de 16, 19 şi 20 de ani, au fost reţinuţi de poliţişti pentru că au deposedat, prin ameninţare cu cuţitul, un livrator de mâncare nigerian care venise cu o comandă la adresa unuia dintre ei.",
-      "link": "https://www.digi24.ro/stiri/livrator-nigerian-amenintat-cu-cutitul-si-talharit-de-3-tineri-din-bucuresti-agresorii-au-fost-retinuti-de-politisti-3615569",
-      "source": "Digi24",
-      "published_utc": "2026-02-04T14:32:13+00:00",
-      "kind": "ro"
-    },
-    {
-      "id": "f9683a3b3cd9",
-      "title": "Republica Cehă a închis ultima mină de cărbune, punând capăt unei industrii vechi de 250 de ani. Ce a determinat această schimbare",
-      "summary": "Republica Cehă a pus oficial capăt unei industrii vechi de 250 de ani, miercuri, când ultimul vagon de cărbune a părăsit mina Stonava, informează TVPWorld.",
-      "link": "https://www.digi24.ro/stiri/externe/ue/republica-ceha-a-inchis-ultima-mina-de-carbune-punand-capat-unei-industrii-vechi-de-250-de-ani-ce-a-determinat-aceasta-schimbare-3615757",
-      "source": "Digi24",
-      "published_utc": "2026-02-04T14:16:48+00:00",
-      "kind": "ro"
-    },
-    {
-      "id": "9fc8d0144ae8",
-      "title": "FCSB are probleme cu Ofri Arad: Anunțul lui Elias Charalambous",
-      "summary": "<p>FCSB a anunțat că are deja probleme cu Ofri Arad. Acesta a venit complet nepregătit la FCSB și nu poate juca pentru campioană prea curând. Roș-albaștrii sperau să-l folosească în meciul cu FC Botoșani de joi, dar acest lucru nu va fi posibil. &#8222;Are nevoie de timp. Nu este",
-      "link": "https://spotmedia.ro/stiri/sport/fcsb-are-probleme-cu-ofri-arad-anuntul-lui-elias-charalambous",
-      "source": "Spotmedia",
-      "published_utc": "2026-02-04T14:05:40+00:00",
-      "kind": "ro"
-    },
-    {
-      "id": "cedff9893adc",
-      "title": "Agenții ICE nu vor juca „niciun rol operativ” în timpul Jocurilor Olimpice 2026 în Italia",
-      "summary": "Ministrul italian de Interne, Matteo Piantedosi, a dat asigurări miercuri că agenţii Serviciului American de Imigrare şi Control al Vămilor (ICE), a căror sosire în Italia pentru Jocurile Olimpice de iarnă de la Milano-Cortina a stârnit controverse, nu vor avea niciun rol \"operaţ",
-      "link": "https://www.digi24.ro/stiri/externe/agentii-ice-nu-vor-juca-niciun-rol-operativ-in-timpul-jocurilor-olimpice-2026-in-italia-3615735",
-      "source": "Digi24",
-      "published_utc": "2026-02-04T14:01:15+00:00",
-      "kind": "ro"
-    },
-    {
-      "id": "d7f9d9356c5c",
-      "title": "Zăcăminte de minerale rare, descoperite în Apuseni. O companie canadiană a găsit uraniu, cobalt și nichel",
-      "summary": "O companie canadiană de explorare a identificat în Munții Apuseni zăcăminte importante de minerale rare, inclusiv uraniu, cobalt și nichel, pe un perimetru de 25 de kilometri pătrați la limita județelor Bihor și Arad. Descoperirea vine în contextul în care Europa caută să reducă ",
-      "link": "https://www.digi24.ro/stiri/sci-tech/descoperiri/zacaminte-de-minerale-rare-descoperite-in-apuseni-o-companie-canadiana-a-gasit-uraniu-cobalt-si-nichel-3615739",
-      "source": "Digi24",
-      "published_utc": "2026-02-04T14:01:10+00:00",
-      "kind": "ro"
-    },
-    {
-      "id": "f0e8374d0a9b",
-      "title": "Primăria Capitalei dezminte fake news: STB păstrează gratuitatea pentru pensionari",
-      "summary": "<p>Primăria Capitalei dezminte informațiile conform cărora Societatea de Transport București ar elimina gratuitatea pentru pensionari. Până la elaborarea și adoptarea planului de eficientizare a activității STB, nu se pune problema majorării tarifelor sau eliminării unor gratuită",
-      "link": "https://spotmedia.ro/stiri/social/primaria-capitalei-dezminte-fake-news-stb-pastreaza-gratuitatea-pentru-pensionari",
-      "source": "Spotmedia",
-      "published_utc": "2026-02-04T14:00:20+00:00",
-      "kind": "ro"
-    },
-    {
-      "id": "d944a065c2ce",
-      "title": "Firmele nu vor mai putea fi scoase din licitații doar pentru că sunt anchetate penal. CCR: Este încălcată prezumția de nevinovăție",
-      "summary": "Curtea Constituțională a României a decis, miercuri, că excluderea unui operator economic dintr-o procedură de achiziție publică doar pentru că este vizat de o anchetă penală, fără o hotărâre definitivă de condamnare, este neconstituțională. Judecătorii au stabilit, în unanimitat",
-      "link": "https://www.digi24.ro/stiri/economie/companii/firmele-nu-vor-mai-putea-fi-scoase-din-licitatii-doar-pentru-ca-sunt-anchetate-penal-ccr-este-incalcata-prezumtia-de-nevinovatie-3615723",
-      "source": "Digi24",
-      "published_utc": "2026-02-04T13:49:46+00:00",
-      "kind": "ro"
-    },
-    {
-      "id": "98b2d50bf146",
-      "title": "Cum recrutează Kremlinul hackeri pentru terorism digital inclusiv în SUA. Povestea apei din Muleshoe",
-      "summary": "<p>Muleshoe, cu o populație de 5.000 de locuitori, se află în Texas, lângă granița cu statul New Mexico. Este un orășel mic și arid, legat de lumea exterioară printr-un mozaic de drumuri locale și câteva aeroporturi private pentru avioane ușoare, situat la aproximativ o oră de me",
-      "link": "https://spotmedia.ro/stiri/opinii-si-analize/cum-recruteaza-kremlinul-hackeri-pentru-terorism-digital-inclusiv-in-sua-povestea-apei-din-muleshoe",
-      "source": "Spotmedia",
-      "published_utc": "2026-02-04T13:42:45+00:00",
-      "kind": "ro"
-    },
-    {
-      "id": "6ae5168d1023",
-      "title": "Mesaj manifest al naţionalei de fotbal pentru toţi românii: „Fiţi un zid de susţinere, nu o sursă de îndoială”",
-      "summary": "Echipa naţională a României a transmis un mesaj pentru toţi suporterii, cu mai puţin de două luni până la meciul din semifinala barajului de calificare la World Cup 2026, cu Turcia.",
-      "link": "https://www.digi24.ro/stiri/sport/fotbal/mesaj-manifest-al-nationalei-de-fotbal-pentru-toti-romanii-fiti-un-zid-de-sustinere-nu-o-sursa-de-indoiala-3615721",
-      "source": "Digi24",
-      "published_utc": "2026-02-04T13:40:14+00:00",
-      "kind": "ro"
-    },
-    {
-      "id": "bd5f9728485e",
-      "title": "Circulaţia pe Transfăgărăşan se închide parțial până pe 20 martie pentru lucrări la Barajul Vidraru. Anunțul Infotrafic",
-      "summary": "Circulaţia rutieră a fost închisă pe DN 7C - Transfăgărăşan - de miercuri şi până în 20 martie, în zona localităţii Arefu, din judeţul Argeş, pentru ca o macara să poată staţiona pe şosea în timpul unor lucrări de retehnologizare care vizează înlocuirea unor grătare la Barajul Vi",
-      "link": "https://www.digi24.ro/stiri/economie/transporturi/circulatia-pe-transfagarasan-se-inchide-partial-pana-pe-20-martie-pentru-lucrari-la-barajul-vidraru-anuntul-infotrafic-3615691",
-      "source": "Digi24",
-      "published_utc": "2026-02-04T13:31:07+00:00",
-      "kind": "ro"
-    },
-    {
-      "id": "685e942d654f",
-      "title": "Nicușor Dan: România nu este vizată de raportul preliminar al Congresului SUA",
-      "summary": "<p>Președintele Nicușor Dan susţine că România nu este subiectul Raportului preliminar al Comisiei Juridice a Camerei Reprezentanților din Congresul Statelor Unite, subliniind că referirile la țara noastră din document sunt „strict contextuale”, în cadrul unei dezbateri mai ample",
-      "link": "https://spotmedia.ro/stiri/politica/nicusor-dan-romania-nu-este-vizata-de-raportul-preliminar-al-congresului-sua",
-      "source": "Spotmedia",
-      "published_utc": "2026-02-04T13:24:34+00:00",
-      "kind": "ro"
-    },
-    {
-      "id": "ccc934416930",
-      "title": "Gratuitatea pentru pensionari va fi păstrată de STB, anunță Primăria Capitalei",
-      "summary": "„STB păstrează gratuitatea pentru pensionari. Orice altă informaţie citiţi pe site-uri este fake news. Primarul Ciprian Ciucu a anunţat ieri că a cerut un plan de eficientizare a STB, pentru a evita insolvenţa companiei şi a îmbunătăţi condiţiile de transport public pentru bucure",
-      "link": "https://www.digi24.ro/stiri/economie/transporturi/gratuitatea-pentru-pensionari-va-fi-pastrata-de-stb-anunta-primaria-capitalei-3615647",
-      "source": "Digi24",
-      "published_utc": "2026-02-04T13:16:55+00:00",
-      "kind": "ro"
-    },
-    {
-      "id": "2baae5b05a53",
-      "title": "Șase români au fost arestați în Germania după ce au furat peste 80 de kilometri de cablu de cupru",
-      "summary": "Prețurile extrem de ridicate ale cuprului atrag hoții de cupru din toată Germania. Aceștia vizează în special parcurile solare și cablurile instalate în aceste sisteme, în care se găsește această materie primă valoroasă, scrie presa germană.",
-      "link": "https://www.digi24.ro/stiri/externe/sase-romani-au-fost-arestati-in-germania-dupa-ce-au-furat-peste-80-de-kilometri-de-cablu-de-cupru-3615621",
-      "source": "Digi24",
-      "published_utc": "2026-02-04T13:12:32+00:00",
-      "kind": "ro"
-    },
-    {
-      "id": "bfa95fdf81ea",
-      "title": "Contribuția la Pilonul 2 ar putea crește la 6% până în 2027. Proiectul a fost adoptat tacit în Senat și merge la Camera Deputaților",
-      "summary": "Contribuția la Pilonul 2 de pensii private ar putea crește semnificativ, după ce Senatul a adoptat tacit, miercuri, proiectul de lege care prevede majorarea cotei de contribuție de la nivelul actual de 4,75% la 5,25% în 2026 și la 6% în 2027. Propunerea legislativă a trecut de pr",
-      "link": "https://www.digi24.ro/stiri/economie/contributia-la-pilonul-2-ar-putea-creste-la-6-pana-in-2027-proiectul-a-fost-adoptat-tacit-in-senat-si-merge-la-camera-deputatilor-3615583",
-      "source": "Digi24",
-      "published_utc": "2026-02-04T13:10:55+00:00",
-      "kind": "ro"
-    },
-    {
-      "id": "1e3e7e97985f",
-      "title": "Certitudinea pe care COSR o are în cazul medaliei Anei Bărbosu",
-      "summary": "<p>Președintele Comitetului Olimpic și Sportiv Român, Mihai Covaliu, s-a arătat optimist în ceea ce privește medalia de bronz obținută de Ana Maria Bărbosu la Jocurile Olimpice de la Paris 2024, după ce Tribunalul Federal Elvețian a trimis cazul la TAS pentru reexaminare după ape",
-      "link": "https://spotmedia.ro/stiri/sport/certitudinea-pe-care-cosr-o-are-in-cazul-medaliei-anei-barbosu",
-      "source": "Spotmedia",
-      "published_utc": "2026-02-04T13:06:19+00:00",
-      "kind": "ro"
-    },
-    {
-      "id": "28144694654e",
-      "title": "CCR a respins sesizarea lui Nicușor Dan referitoare la legea regimului cultelor. Argumentele Curții",
-      "summary": "Curtea Constituțională a respins, cu majoritate de voturi, ca neîntemeiată, sesizarea preşedintelui Nicuşor Dan în legătură cu modificările aduse legii privind libertatea religioasă şi regimul cultelor. Astfel, actul normativ criticat respectă „exigențele impuse de Constituție”, ",
-      "link": "https://www.digi24.ro/stiri/actualitate/politica/ccr-a-respins-sesizarea-lui-nicusor-dan-referitoare-la-legea-regimului-cultelor-argumentele-curtii-3615591",
-      "source": "Digi24",
-      "published_utc": "2026-02-04T13:02:45+00:00",
-      "kind": "ro"
-    },
-    {
-      "id": "982fbcc311b1",
-      "title": "Din ce în ce mai multe voci îi cer lui Bolojan să plătească prima zi de concediu medical. După Kelemen Hunor, acum și din PNL",
-      "summary": "<p>Senatoarea PNL Nicoleta Pauliuc anunţă că a depus un amendament la OUG nr.91/2025 astfel încât pacienţilor cronici să le fie plătită şi prima zi de concediul medical. Ea afirmă că amendamentul corectează o nedreptate şi protejează nu doar bolnavii de cancer, ci şi pe cei bolna",
-      "link": "https://spotmedia.ro/stiri/politica/din-ce-in-ce-mai-multe-voci-ii-cer-lui-bolojan-sa-plateasca-prima-zi-de-concediu-medical-dupa-kelemen-hunor-acum-si-din-pnl",
-      "source": "Spotmedia",
-      "published_utc": "2026-02-04T12:57:00+00:00",
-      "kind": "ro"
-    },
-    {
-      "id": "1db30895f849",
-      "title": "Țările mici din UE se concentrează pe producția de arme și trimit drone pe frontul din Ucraina",
-      "summary": "<p>Există posibilitatea ca zumzetul de temut al elicelor auzit pe câmpurile de luptă ucrainene să provină de la drone construite într-o țară cu o populație de puțin peste un milion de locuitori, situată la marginea sud-estică a Europei. Est vorba despre Cipru. Producătorul Swarml",
-      "link": "https://spotmedia.ro/stiri/eveniment/tarile-mici-din-ue-se-concentreaza-pe-productia-de-arme-si-trimit-drone-pe-frontul-din-ucraina",
-      "source": "Spotmedia",
-      "published_utc": "2026-02-04T12:48:00+00:00",
-      "kind": "ro"
-    },
-    {
-      "id": "23cef390608b",
-      "title": "Rusia lansează noi amenințări în timpul negocierilor de la Abu Dhabi. Ce condiție pune Kremlinul pentru oprirea războiului",
-      "summary": "Kremlinul a afirmat miercuri că îşi va „continua” ofensiva în Ucraina până când Kievul nu-i va accepta condiţiile, această declaraţie pe un ton ultimativ intervenind într-un moment în care delegaţiile rusă, ucraineană şi americană s-au reunit la Abu Dhabi (în Emiratele Arabe Unit",
-      "link": "https://www.digi24.ro/stiri/externe/rusia-lanseaza-noi-amenintari-in-timpul-negocierilor-de-la-abu-dhabi-ce-conditie-pune-kremlinul-pentru-oprirea-razboiului-3615509",
-      "source": "Digi24",
-      "published_utc": "2026-02-04T12:42:41+00:00",
-      "kind": "ro"
-    },
-    {
-      "id": "3c897d2d0504",
-      "title": "Livrator nigerian tâlhărit cu cuțitul, în București. Trei tineri, reținuți de poliție",
-      "summary": "<p>Un livrator de origine nigeriană a fost atacat și tâlhărit de trei tineri în Sectorul 6 al Capitalei, în momentul în care le-a livrat mâncarea comandată printr-o aplicație de livrări. Ce n-au știut cei trei este că tâlhăria a fost înregistrată de una dintre camerele de suprave",
-      "link": "https://spotmedia.ro/stiri/eveniment/livrator-nigerian-talharit-cu-cutitul-in-bucuresti-trei-tineri-retinuti-de-politie",
-      "source": "Spotmedia",
-      "published_utc": "2026-02-04T12:39:00+00:00",
-      "kind": "ro"
-    },
-    {
-      "id": "0d7acd8cb3c6",
-      "title": "Comisia Europeană: „Cine ar putea reprezenta un risc în alegerile noastre? Platformele online”. Detalii despre cazul României",
-      "summary": "Comisia Europeană, prin vocea unui purtător de cuvânt, a subliniat că executivul european nu interferează în alegerile statelor membre, ci platformele de socializare, și a menționat că acesta este motivul pentru care au fost luate măsuri legale, criticate aspru de un raport de lu",
-      "link": "https://www.digi24.ro/stiri/comisia-europeana-cine-ar-putea-reprezenta-un-risc-in-alegerile-noastre-platformele-online-detalii-despre-cazul-romaniei-3615539",
-      "source": "Digi24",
-      "published_utc": "2026-02-04T12:32:08+00:00",
-      "kind": "ro"
-    },
-    {
-      "id": "7f27b3a10a2a",
-      "title": "Un rus care a dezertat de pe frontul din Ucraina riscă deportarea din Germania: Guvernul Merz îi spune că e sigur să se întoarcă",
-      "summary": "<p>Un cetățean rus care a refuzat să lupte în războiul din Ucraina și a fugit din armata rusă riscă să fie deportat din Germania, după ce autoritățile i-au respins cererea de azil, considerând că întoarcerea sa în Rusia nu ar presupune riscuri majore. Povestea lui Georgi Avaliani",
-      "link": "https://spotmedia.ro/stiri/eveniment/un-rus-care-a-dezertat-de-pe-frontul-din-ucraina-risca-deportarea-din-germania-guvernul-merz-ii-spune-ca-e-sigur-sa-se-intoarca",
-      "source": "Spotmedia",
-      "published_utc": "2026-02-04T12:30:59+00:00",
-      "kind": "ro"
-    },
-    {
-      "id": "877bd3fa2c0f",
-      "title": "Dragobetele la Muzeul Satului",
-      "summary": "<p>Muzeul Național al Satului „Dimitrie Gusti” vă invită în perioada 21 – 22 februarie 2026 să sărbătorim împreună venirea primăverii și unul dintre cele mai tandre momente ale începutului de primavară: Dragobetele, sau, aşa cum este consemnat în calendarul tradiţional popular, Z",
-      "link": "https://spotmedia.ro/stiri/timp-liber/dragobetele-la-muzeul-satului",
-      "source": "Spotmedia",
-      "published_utc": "2026-02-04T12:24:10+00:00",
-      "kind": "ro"
-    },
-    {
-      "id": "71455bd45b5e",
-      "title": "UK homes to get £15bn for solar and green tech to cut energy bills",
-      "summary": "The government has announced the details of its long-awaited Warm Homes Plan which promises to cut energy bills.",
-      "link": "https://www.bbc.com/news/articles/ckgj7me00p0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC – Science & Environment",
-      "published_utc": "2026-01-21T09:00:06+00:00",
+      "section": "science",
       "kind": "global",
-      "title_ro": "Casele din Regatul Unit vor primi 15 miliarde de lire sterline pentru energie solară și tehnologii ecologice pentru a reduce facturile la energie",
-      "summary_ro": "Guvernul a anunțat detaliile mult-așteptatului său plan \"Case calde\", care promite reducerea facturilor la energie."
+      "source": "ESA",
+      "title": "Explore Mars’s Flaugergues Crater",
+      "summary": "ESA’s Mars Express takes us on a journey across the southern highlands of Mars, including a flight around Flaugergues Crater.",
+      "link": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Explore_Mars_s_Flaugergues_Crater",
+      "published_utc": "2026-02-04T10:00:00+00:00",
+      "score": 2
     },
     {
-      "id": "034e67539d3e",
-      "title": "Global temperatures dipped in 2025 but more heat records on way, scientists warn",
-      "summary": "The last three years were Earth's hottest on record, as humanity's carbon emissions continue to heat the planet.",
-      "link": "https://www.bbc.com/news/articles/c5y5p9rzd4ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC – Science & Environment",
-      "published_utc": "2026-01-14T03:44:07+00:00",
+      "section": "science",
       "kind": "global",
-      "title_ro": "Oamenii de știință avertizează că temperaturile globale au scăzut în 2025, dar urmează să se înregistreze și mai multe recorduri de căldură",
-      "summary_ro": "Ultimii trei ani au fost cei mai călduroși ani înregistrați vreodată pe Pământ, deoarece emisiile de carbon ale omenirii continuă să încălzească planeta."
+      "source": "NASA Breaking News",
+      "title": "Full Moon over Artemis II",
+      "summary": "A full moon is seen shining over NASA’s SLS (Space Launch System) and Orion spacecraft, atop the mobile launcher at Launch Pad 39B at NASA’s Kennedy Space Center in Florida in the early hours of February 1, 2026. The agency concluded a wet dress rehearsal for the agency’s Artemis II test flight early Tuesday morning, [&#8230;]",
+      "link": "https://www.nasa.gov/image-article/full-moon-over-artemis-ii/",
+      "published_utc": "2026-02-03T17:01:07+00:00",
+      "score": 2
     },
     {
-      "id": "1d739bf2ad96",
-      "title": "'Year of octopus' declared after warmer seas lead to record UK numbers",
-      "summary": "The Wildlife Trusts say its is 'flabbergasted' by the sighting of the highest number of octopuses since 1950",
-      "link": "https://www.bbc.com/news/articles/c709gz3k9k9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC – Science & Environment",
-      "published_utc": "2025-12-22T12:49:25+00:00",
+      "section": "science",
       "kind": "global",
-      "title_ro": "\"Anul caracatiței\", declarat după ce mările mai calde au condus la un număr record de exemplare în Regatul Unit",
-      "summary_ro": "Wildlife Trusts se declară \"uimită\" de observarea celui mai mare număr de caracatițe din 1950"
+      "source": "NASA Breaking News",
+      "title": "NASA Space to Soil Challenge",
+      "summary": "Rapid advances in commercial space, artificial intelligence, and edge computing are transforming what is possible for Earth observation. By pushing more intelligence onboard, missions can move from passively collecting data to actively interpreting and responding to changing surface conditions in near-real time, enabling more targeted observations and dramatically improving the value of data returned to [&#8230;]",
+      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-space-to-soil-challenge/",
+      "published_utc": "2026-02-03T15:12:32+00:00",
+      "score": 2
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "ESA",
+      "title": "ESA's sustainability ambition",
+      "summary": "Video: 00:04:21 Space activities are unlike any others. They interact not just with Earth, but with three interconnected environments: Earth, Earth’s orbit, and the Moon and deep space. On Earth, we aim to reduce the space sector’s environmental impacts while maximising the societal and environmental benefits of our missions. In orbit, we manage space debris and collision risks to maintain safe and secure operations. For the Moon and deep space, we are laying the foundations to minimise the impact of our missions on and around other celestial bodies. Guided by our core values, ESA is committed to making its activities more sustainable, redefining how space activities are conceived, executed and shared with the world. Our objective is clear: to address the most pressing challenges and implement ambitious changes, both in our own practices and in close collaboration with our partners. Looking ahead, in support of Strategy 2040, ESA is determined to lead through ambition, action and collaboration, building a future where space is not only a domain of opportunity but also a model of sustainability, responsibility and global unity.",
+      "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/01/ESA_s_sustainability_ambition",
+      "published_utc": "2026-02-03T15:00:00+00:00",
+      "score": 2
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "NASA Breaking News",
+      "title": "NASA Astronaut to Answer Questions from Students in Pennsylvania",
+      "summary": "NASA astronaut Chris Williams will connect with students in Pennsylvania to answer prerecorded science, technology, engineering, and mathematics (STEM) questions while aboard the International Space Station. The Earth-to-space call will begin at 12:20 p.m. EST Thursday, Feb. 5, and will stream live on the agency’s Learn With NASA YouTube channel. Media interested in covering the [&#8230;]",
+      "link": "https://www.nasa.gov/news-release/nasa-astronaut-to-answer-questions-from-students-in-pennsylvania/",
+      "published_utc": "2026-02-02T22:44:51+00:00",
+      "score": 4
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "NASA Breaking News",
+      "title": "NASA’s Orion Spacecraft at Launch Pad",
+      "summary": "NASA’s Orion spacecraft, which will carry the Artemis II crew around the Moon, sits at the launch pad on Jan. 17, 2026, after rollout. It rests atop the SLS (Space Launch System) rocket. Orion can provide living space on missions for four astronauts for up to 21 days without docking to another spacecraft.&#160;Advances in technology [&#8230;]",
+      "link": "https://www.nasa.gov/image-article/nasas-orion-spacecraft-at-launch-pad/",
+      "published_utc": "2026-02-02T17:02:44+00:00",
+      "score": 2
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "NASA Breaking News",
+      "title": "NASA to Discuss Early Results of Artemis II Wet Dress Rehearsal",
+      "summary": "Editor&#8217;s note: This advisory was updated at on Feb. 3, 2026, to reflect a change in the start of the news conference and its participants, as well as removing a placeholder for a crew media gaggle. Following a fueling test of NASA’s SLS (Space Launch System) rocket at the launch pad for the Artemis II [&#8230;]",
+      "link": "https://www.nasa.gov/news-release/nasa-to-discuss-early-results-of-artemis-ii-wet-dress-rehearsal/",
+      "published_utc": "2026-02-02T16:40:01+00:00",
+      "score": 2
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "ESA",
+      "title": "Moving satellites to meet a plane for rare reentry data",
+      "summary": "When satellites eventually fall back down to Earth, they mostly burn up because of the friction caused by the atmosphere. Scientific data about this atmospheric reentry process is urgently needed to design future satellites for a quick, safe and sustainable demise at the end of their mission – reducing risks on the ground and in space. The European Space Agency (ESA) successfully manoeuvred its remaining two&nbsp; Cluster &nbsp;satellites to ensure they can both be observed from a plane as they reenter the atmosphere on 31 August and 1 September 2026.",
+      "link": "https://www.esa.int/Space_Safety/Space_Debris/Moving_satellites_to_meet_a_plane_for_rare_reentry_data",
+      "published_utc": "2026-02-02T16:12:00+00:00",
+      "score": 4
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "NASA Breaking News",
+      "title": "Widely Attended Gatherings (WAGs) Determinations",
+      "summary": "2026 2026 TSC Artemis II Pre-launch Reception 2.5.26 2026 VABA AAAAM Legislative Reception 2.4.26 Chamber of Commerce Summit 2.2.26 Cheniere Energy at the National Portrait Gallery 1.28.26 Leaders for a Better Louisiana at Adams and Reese 1.28.26 California Manufacturers and Technology Association Reception 1.23.26 Goddard Memorial Dinner 3.13.26 ISS 25th Anniversary 1.19.26 2026 Amentum Artemis [&#8230;]",
+      "link": "https://www.nasa.gov/organizations/nasa-ethics-advice-for-widely-attended-gatherings-wags/",
+      "published_utc": "2026-02-02T14:53:04+00:00",
+      "score": 2
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "ESA",
+      "title": "Apply now to the ESA Graduate Trainee Programme",
+      "summary": "The 2026 ESA Graduate Trainee positions are now open! If you’re passionate about engineering, science, IT or business, this is your chance to turn your dreams into reality.",
+      "link": "https://www.esa.int/About_Us/Careers_at_ESA/Apply_now_to_the_ESA_Graduate_Trainee_Programme",
+      "published_utc": "2026-02-02T10:00:00+00:00",
+      "score": 2
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "NASA Breaking News",
+      "title": "Seasons Change in Southwest Virginia",
+      "summary": "From autumn color to a winter-white finish, forested areas around Blacksburg trade foliage for snow over the span of two months.",
+      "link": "https://science.nasa.gov/earth/earth-observatory/seasons-change-in-southwest-virginia/",
+      "published_utc": "2026-02-02T05:00:00+00:00",
+      "score": 2
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "ESA",
+      "title": "Laurent Jaffart appointed Director of Resilience, Navigation and Connectivity",
+      "summary": "Press Release N° 5&ndash;2026 The European Space Agency&nbsp;Council&nbsp;has approved&nbsp;the reassignment of&nbsp;Laurent&nbsp;Jaffart, currently Director of Connectivity and Secure Communications (D/CSC) to the newly created position of Director of Resilience, Navigation and Connectivity Directorate (D/RNC), which will take&nbsp;effect from 1 February 2026.",
+      "link": "https://www.esa.int/Newsroom/Press_Releases/Laurent_Jaffart_appointed_Director_of_Resilience_Navigation_and_Connectivity",
+      "published_utc": "2026-01-30T10:20:00+00:00",
+      "score": 2
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "ESA",
+      "title": "New satellite view of Tibet’s tectonic clash",
+      "summary": "A study on tectonic plates that converge on the Tibetan Plateau has shown that Earth’s fault lines are far weaker and the continents are less rigid than scientists previously thought. This finding is based on ground-monitoring satellite data.",
+      "link": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/New_satellite_view_of_Tibet_s_tectonic_clash",
+      "published_utc": "2026-01-30T10:00:00+00:00",
+      "score": 2
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "ESA",
+      "title": "Earth from Space: Rudong coast, China",
+      "summary": "Image: The Copernicus Sentinel-2 mission takes us over part of the coastal area of Rudong County on China’s eastern seaboard.",
+      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/01/Earth_from_Space_Rudong_coast_China",
+      "published_utc": "2026-01-30T09:00:00+00:00",
+      "score": 2
+    },
+    {
+      "section": "environment",
+      "kind": "global",
+      "source": "UN News - Climate",
+      "title": "From family farm to climate tech: How one Kenyan woman is helping farmers outsmart drought",
+      "summary": "“Giving up is not an option - so many people depend on you,” the words of&nbsp;Maryanne Gichanga, a participant in a UN supported initiative, which aims to help farmers in Kenya find solutions to alleviate the pressures of climate change on agricultural production.&nbsp;",
+      "link": "https://news.un.org/feed/view/en/story/2026/01/1166823",
+      "published_utc": "2026-01-25T12:00:00+00:00",
+      "score": 2
+    },
+    {
+      "section": "environment",
+      "kind": "global",
+      "source": "UN News - Climate",
+      "title": "For every $1 spent protecting nature, $30 goes to destroying it",
+      "summary": "The world spends billions to protect nature, but trillions are being invested in business activities that harm the environment.&nbsp;",
+      "link": "https://news.un.org/feed/view/en/story/2026/01/1166809",
+      "published_utc": "2026-01-22T12:00:00+00:00",
+      "score": 2
+    },
+    {
+      "section": "environment",
+      "kind": "global",
+      "source": "UN News - Climate",
+      "title": "Paper and wood: Forest products show signs of recovery, UN agency says",
+      "summary": "From wood-based panels used in construction, to charcoal for cooking food, forest products are valued and traded all around the world.",
+      "link": "https://news.un.org/feed/view/en/story/2025/12/1166666",
+      "published_utc": "2025-12-24T12:00:00+00:00",
+      "score": 2
+    },
+    {
+      "section": "environment",
+      "kind": "global",
+      "source": "UN News - Climate",
+      "title": "Fifty days on, Jamaica struggles to rebuild after Hurricane Melissa’s unprecedented destruction",
+      "summary": "Fifty days have passed since Hurricane Melissa ravaged Jamaica, leaving behind an unprecedented trail of destruction.&nbsp;",
+      "link": "https://news.un.org/feed/view/en/story/2025/12/1166621",
+      "published_utc": "2025-12-17T12:00:00+00:00",
+      "score": 2
+    },
+    {
+      "section": "environment",
+      "kind": "global",
+      "source": "UN News - Climate",
+      "title": "UN environment assembly wraps up in Nairobi",
+      "summary": "The seventh session of the United Nations Environment Assembly (UNEA-7) concluded in Nairobi, Kenya, on Friday with Member States adopting 11 resolutions, three decisions and a ministerial declaration aiming to advance solutions for a more resilient planet.&nbsp;",
+      "link": "https://news.un.org/feed/view/en/story/2025/12/1166585",
+      "published_utc": "2025-12-12T12:00:00+00:00",
+      "score": 2
+    },
+    {
+      "section": "environment",
+      "kind": "global",
+      "source": "UN News - Climate",
+      "title": "From ruins to rebuilding: Three Jamaican mothers face the future after hurricane",
+      "summary": "Three women in Jamaica whose lives were upended by the destructive force of a hurricane which battered the Caribbean island are looking to rebuild their future",
+      "link": "https://news.un.org/feed/view/en/story/2025/12/1166512",
+      "published_utc": "2025-12-06T12:00:00+00:00",
+      "score": 2
+    },
+    {
+      "section": "environment",
+      "kind": "global",
+      "source": "UN News - Climate",
+      "title": "Belém COP30 delivers climate finance boost and a pledge to plan fossil fuel transition",
+      "summary": "In a pivotal outcome at COP30 in Belém, Brazil, countries agreed on a sweeping package to scale up climate finance and accelerate implementation of the Paris Agreement – but without a clear commitment to move away from fossil fuels.",
+      "link": "https://news.un.org/feed/view/en/story/2025/11/1166433",
+      "published_utc": "2025-11-22T12:00:00+00:00",
+      "score": 2
+    },
+    {
+      "section": "environment",
+      "kind": "global",
+      "source": "UN News - Climate",
+      "title": "From waste pickers to courtrooms: Women demand a gender focus at COP30",
+      "summary": "On the scheduled final day of COP30 in Belém, tense negotiations are stretching into Friday afternoon as divisions persist. Amid the ongoing talks, one message is cutting through the noise: there is no climate justice without gender equality.",
+      "link": "https://news.un.org/feed/view/en/story/2025/11/1166427",
+      "published_utc": "2025-11-21T12:00:00+00:00",
+      "score": 2
+    },
+    {
+      "section": "environment",
+      "kind": "global",
+      "source": "UN News - Climate",
+      "title": "Can industrial growth and climate action go hand in hand?",
+      "summary": "Do higher living standards in developing countries have to mean more polluting, fossil-fuel dependent industries? Or is a low-carbon alternative possible? As the world grapples with climate change, economic inequality, and rapid technological shifts, next week’s Global Industry Summit will tackle these questions, bringing together governments, business leaders, and innovators to shape solutions that balance prosperity with sustainability.&nbsp;",
+      "link": "https://news.un.org/feed/view/en/story/2025/11/1166421",
+      "published_utc": "2025-11-21T12:00:00+00:00",
+      "score": 2
+    },
+    {
+      "section": "environment",
+      "kind": "global",
+      "source": "UN News - Climate",
+      "title": "What’s at stake in the COP30 negotiations?",
+      "summary": "Talks at the COP30 climate summit in Belém, Brazil, were suspended on Thursday after a fire broke out in the venue, triggering evacuations that halted negotiations between more than 190 delegations. The summit was set to conclude Friday, and the disruption came at a critical moment as countries were locked in tense debates over fossil fuels and climate finance. The outcome of these talks is widely seen as a litmus test for turning decades of climate pledges into concrete action.",
+      "link": "https://news.un.org/feed/view/en/story/2025/11/1166415",
+      "published_utc": "2025-11-20T12:00:00+00:00",
+      "score": 2
+    },
+    {
+      "section": "environment",
+      "kind": "global",
+      "source": "UN News - Climate",
+      "title": "In the Amazon, a school becomes a beacon of climate resilience",
+      "summary": "The boat ride from Belém to Barcarena is a journey through shimmering waterways and emerald forest, where the Amazon meets the Atlantic in a sweep of beauty. But beneath the postcard-perfect scene, climate change is quietly rewriting the rules of life.",
+      "link": "https://news.un.org/feed/view/en/story/2025/11/1166408",
+      "published_utc": "2025-11-19T12:00:00+00:00",
+      "score": 2
+    },
+    {
+      "section": "environment",
+      "kind": "global",
+      "source": "UN News - Climate",
+      "title": "‘Decisive battle’: Guterres calls for youth power in fight to phase out fossil fuels",
+      "summary": "A page feels like it’s turning. After years of debate, the long-awaited roadmap for phasing out fossil fuels may finally be written into the official decisions of COP30.",
+      "link": "https://news.un.org/feed/view/en/story/2025/11/1166399",
+      "published_utc": "2025-11-18T12:00:00+00:00",
+      "score": 2
+    },
+    {
+      "section": "environment",
+      "kind": "global",
+      "source": "UN News - Climate",
+      "title": "COP30 enters its final stretch: urgency, ambition, and voices from the streets",
+      "summary": "The last week of COP30 has begun in Belém with a palpable sense of urgency. Ministers and senior officials are now stepping into the spotlight, as negotiations move from technical wrangling to political decision-making. The stakes? Nothing less than charting a credible path to climate justice in a world running out of time.",
+      "link": "https://news.un.org/feed/view/en/story/2025/11/1166390",
+      "published_utc": "2025-11-17T12:00:00+00:00",
+      "score": 2
+    },
+    {
+      "section": "environment",
+      "kind": "global",
+      "source": "UN News - Climate",
+      "title": "On Brazil’s Combu Island, chocolate makers hold clues to climate action",
+      "summary": "Combu Island – Ilha do Combu in Portuguese – rises like a wall of living green from Brazil’s Guamá River. It is a testament to centuries of shared existence between the forest and its riverside communities. Here, cupuaçu, taperebá, pupunha, araçá and cacao are more than fruits; they are threads in the fabric of local culture, livelihoods and identity.",
+      "link": "https://news.un.org/feed/view/en/story/2025/11/1166379",
+      "published_utc": "2025-11-17T12:00:00+00:00",
+      "score": 2
     }
-  ]
+  ],
+  "sections": {
+    "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Ministrul de Finanțe prezintă joi măsurile de relansare economică / „De principiu va fi proiect de lege și va cuprinde o componentă fiscală și alta de ajutor de stat”",
+        "summary": "Ministrul de Finanțe, Alexandru Nazare, a anunțat miercuri că pachetul de măsuri de relansare economic, rezultat atât prin contribuția tuturor partenerilor din coaliția de guvernare, cât şi din dialogul cu mediul de afaceri, va fi&#8230;",
+        "link": "https://hotnews.ro/ministrul-de-finante-prezinta-joi-masurile-de-relansare-economica-de-principiu-va-fi-proiect-de-lege-si-va-cuprinde-o-componenta-fiscala-si-alta-de-ajutor-de-stat-2164804",
+        "published_utc": "2026-02-04T16:23:55+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Invizibilii: Povestea Sarei, tânăra care își exprimă visul prin dans",
+        "summary": "De mică, Sara a simțit că dansul este mai mult decât mișcare. A fost limbajul prin care și-a exprimat emoțiile, gândurile și lumea interioară. Prin fiecare pas a învățat disciplina, atenția la detalii și curajul de a se expune în fața celorlalți. Drumul ei artistic nu a fost mereu ușor, dar perseverența și dorința de a evolua au transformat pasiunea într-o direcție clară.",
+        "link": "https://www.digi24.ro/invizibilii/invizibilii-povestea-sarei-tanara-care-isi-exprima-visul-prin-dans-3615813",
+        "published_utc": "2026-02-04T16:15:49+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Studiu UNICEF: O treime dintre elevii români au probleme să înțeleagă concepte științifice de bază. Care sunt rezultatele pe literație digitală",
+        "summary": "UNICEF a realizat, cu sprijinul Ministerului Educației, două studii legate de nivelul de literație științifică și de literație digitală a elevitor din România. Studiile indică faptul că mai puțin de jumătate dintre elevi au un&#8230;",
+        "link": "https://hotnews.ro/studiu-unicef-o-treime-dintre-elevii-romani-au-probleme-sa-inteleaga-concepte-stiintifice-de-baza-care-sunt-rezultatele-pe-literatie-digitala-2164806",
+        "published_utc": "2026-02-04T16:11:37+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Şeful Poliţiei Rutiere Ploieşti rămâne în funcţie, deşi documente ale instituţiei au fost scoase şi arse pe câmp. Explicația conducerii",
+        "summary": "Şeful Inspectoratului de Poliţie Judeţean Prahova, comisarul Ginel Preda, afirmă că şeful Biroului Rutier din cadrul Poliţiei Municipiului Ploieşti, Laurenţiu Drăghici, rămâne în funcţie, în pofida incidentelor în urma cărora documente ale Biroului au fost compromise, unele fiind scoase din instituţie şi incendiate pe un câmp, altele udate, după ce un robinet a fost lăsat deschis în unul dintre spaţiile Poliţiei Rutiere.",
+        "link": "https://www.digi24.ro/stiri/actualitate/seful-politiei-rutiere-ploiesti-ramane-in-functie-desi-documente-ale-institutiei-au-fost-scoase-si-arse-pe-camp-explicatia-conducerii-3616013",
+        "published_utc": "2026-02-04T16:05:18+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Anunț de ultimă oră. Premierul Ilie Bolojan susține o conferință de presă în scurt timp",
+        "summary": "Premierul Ilie Bolojan susține în această seară de la ora 19.00 o conferință de presă la Palatul Victoria. Este prima conferință de presă a șefului guvernului din acest an. HotNews va trasnmite în format LIVETEXT&#8230;",
+        "link": "https://hotnews.ro/ilie-bolojan-anunt-de-ultima-ora-premierul-sustine-o-conferinta-de-presa-in-scurt-timp-2164825",
+        "published_utc": "2026-02-04T16:04:11+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Regina Maxima a Olandei s-a alăturat rezerviștilor forțelor armate la limita superioară de vârstă",
+        "summary": "Regina Maxima a Olandei va începe să lucreze ca militar cu normă parțială după ce s-a alăturat ca rezervist forțelor armate olandeze, o decizie venită pe fondul eforturilor de a atrage voluntari care să sporească&#8230;",
+        "link": "https://hotnews.ro/regina-maxima-a-olandei-s-a-alaturat-rezervistilor-fortelor-armate-2164809",
+        "published_utc": "2026-02-04T15:57:20+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "„Țarul Frontierelor” retrage sute de agenți ICE din Minnesota, dar avertizează că nu pleacă până când „nu terminăm toată treaba”",
+        "summary": "Administrația președintelui american Donald Trump va reduce cu 700 numărul agenților federali ai poliției imigrației (ICE) din Minnesota, deși aproximativ 2.000 de agenți vor rămâne pe teren, a anunțat miercuri Tom Homan, responsabilul Casei Albe&#8230;",
+        "link": "https://hotnews.ro/tarul-frontierelor-retrage-sute-de-agenti-ice-din-minnesota-dar-avertizeaza-ca-nu-pleaca-pana-cand-nu-terminam-toata-treaba-2164790",
+        "published_utc": "2026-02-04T15:56:09+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Sorin Grindeanu a vizitat Sfântul Mormânt și Zidul Plângerii: Românii sunt respectați la Ierusalim pentru că și-au apărat credința",
+        "summary": "Preşedintele Camerei Deputaţilor, Sorin Grindeanu, a vizitat Mormântul Sfânt şi Zidul Plângerii, în vizita oficială pe care o efectuează în Israel. Liderul PSD afirmă că românii sunt respectaţi la Ierusalim, pentru că au ştiut să îşi apere credinţa şi au reuşit întotdeauna să construiască punţi, în comunităţi şi între comunităţi.",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/sorin-grindeanu-a-vizitat-sfantul-mormant-si-zidul-plangerii-romanii-sunt-respectati-la-ierusalim-pentru-ca-si-au-aparat-credinta-3615995",
+        "published_utc": "2026-02-04T15:55:59+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Statele Unite vor oferi R. Moldova 36,5 milioane de dolari pentru securitate națională. Legea a fost semnată de Donald Trump",
+        "summary": "Statele Unite vor oferi R. Moldova 36,5 milioane de dolari. Anunțul a fost făcut miercuri, 4 februarie, de către ambasadorul R. Moldova în SUA, Vlad Kulminski, într-o postare pe Facebook. Oficialul a menționat că banii vor fi utilizați pentru „securitatea energetică, securitatea cibernetică, reziliență și alte priorități conexe în domeniul securității naționale”, informează Ziarul de Gardă.",
+        "link": "https://www.digi24.ro/stiri/externe/statele-unite-vor-oferi-r-moldova-365-milioane-de-dolari-pentru-securitate-nationala-legea-a-fost-semnata-de-donald-trump-3615991",
+        "published_utc": "2026-02-04T15:54:01+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Harta județelor unde pacienții sunt condamnați să facă naveta pentru tratament, în țara în care peste 60.000 de oameni sunt diagnosticați anual cu cancer",
+        "summary": "Peste 80.000 de oameni sunt diagnosticați cu cancer an de an, în România. Ca să aibă acces la tratament, mulți dintre ei fac naveta zeci de kilometri, în condițiile în care 28 din cele 41&#8230;",
+        "link": "https://hotnews.ro/harta-judetelor-unde-pacientii-sunt-condamnati-sa-faca-naveta-pentru-tratament-in-tara-in-care-peste-60-000-de-oameni-sunt-diagnosticati-anual-cu-cancer-2164781",
+        "published_utc": "2026-02-04T15:46:55+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "BNR avertizează că un document atribuit instituției, care circulă în mediul online, este fals",
+        "summary": "Banca Naţională a României (BNR) avertizează că un document atribuit instituţiei care circulă în mediul online este fals. Acesta se referă la „procura cu autoritate totală” şi foloseşte nume reale ale unor structuri şi reprezentanţi ai BNR, precum şi sigla, antetul şi datele de contact reale ale Băncii Naţionale a României. BNR reaminteşte că toate comunicatele sale oficiale sunt publicate exclusiv pe site-ul instituţiei şi pe canalele de comunicare ale BNR.",
+        "link": "https://www.digi24.ro/stiri/actualitate/bnr-avertizeaza-ca-un-document-atribuit-institutiei-care-circula-in-mediul-online-este-fals-3615959",
+        "published_utc": "2026-02-04T15:44:13+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Cutii cu bomboane, ouă și cafea – mita pentru care un procuror din Vâlcea a cerut închisoare. Judecătorii au respins dosarele",
+        "summary": "În loc să se ocupe de marii infractori, un procuror din Vâlcea a interceptat trei persoane și a cerut închisoare pentru ele, pentru că ar fi oferit cutii cu bomboane, ouă și cafea unor medici și polițiști.",
+        "link": "https://www.digi24.ro/stiri/actualitate/evenimente/cutii-cu-bomboane-oua-si-cafea-mita-pentru-care-un-procuror-din-valcea-a-cerut-inchisoare-judecatorii-au-respins-dosarele-3615951",
+        "published_utc": "2026-02-04T15:43:25+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Grafic trist de la Eurostat: România sfidează orice cifră europeană la creșterea prețurilor. Peste dublu față de cea mai mare inflație pe anul 2025 din vreo țară UE",
+        "summary": "Eurostat a publicat inflația anuală pe 2025. Zona euro are 1,8%, iar cea mai mare inflație după România a fost în Slovacia, de 4,1%, relevă datele analizate de Profit.ro. Creșterea prețurilor din România a sărit&#8230;",
+        "link": "https://hotnews.ro/grafic-trist-de-la-eurostat-romania-sfideaza-orice-cifra-europeana-la-cresterea-preturilor-peste-dublu-fata-de-cea-mai-mare-inflatie-pe-anul-2025-din-vreo-tara-ue-2164778",
+        "published_utc": "2026-02-04T15:29:32+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Mircea Lucescu ar putea fi transferat în străinătate, la un spital din Belgia, la cererea sa",
+        "summary": "Mircea Lucescu, selecționerul echipei naționale de footbal, este internat în prezent la Spitalul Universitar din Capitală. Potrivit unor surse antrenorul vrea să meargă la un control la un spital din Bruxelles pentru probleme mai vechi de sănătate, informează Digi24.",
+        "link": "https://www.digi24.ro/stiri/actualitate/mircea-lucescu-ar-putea-fi-transferat-in-strainatate-la-un-spital-din-belgia-la-cererea-sa-3615901",
+        "published_utc": "2026-02-04T15:23:48+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Zăcământ de minerale rare, descoperite în vestul țării. Printre ele, uraniu și nichel",
+        "summary": "Compania canadiană Leading Edge Materials a descoperit în Munții Apuseni zăcăminte importante de minerale rare, într-un perimetru de circa 25 de kilometri pătrați, aflat în județele Bihor și Arad, scrie Digi24.ro. Potrivit analizelor preliminare ale&#8230;",
+        "link": "https://hotnews.ro/zacamant-de-minerale-rare-descoperite-in-vestul-tarii-printre-ele-uraniu-si-nichel-2164751",
+        "published_utc": "2026-02-04T15:23:25+00:00",
+        "score": 2
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Ora 19:00. Premierul Ilie Bolojan susține o conferință de presă. Din interiorul Coaliției i s-a cerut reducerea taxelor",
+        "summary": "Ilie Bolojan va susține o conferință de presă, de la ora 19:00, la Palatul Victoria. Recent, liderul UDMR, Kelemen Hunor, i-a cerut public premierului să revizuiască decizia privind taxele locale și să le scadă. De asemenea, Guvernul este așteptat să adopte și reforma administrației centrale, împreună cu măsuri economice pentru sprijinirea populației.",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/ora-1900-premierul-ilie-bolojan-sustine-o-conferinta-de-presa-din-interiorul-coalitiei-i-s-a-cerut-reducerea-taxelor-3615865",
+        "published_utc": "2026-02-04T15:21:56+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Nazare: „Joi publicăm pachetul de relansare economică, rezultat din dialogul cu mediul de afaceri. Avem nevoie de investiții”",
+        "summary": "Ministrul Finanțelor, Alexandru Nazare, a anunțat, într-o postare pe Facebook, că Guvernul se află în faza finală de pregătire a unui pachet amplu de măsuri pentru relansarea economică, construit în urma unor consultări extinse cu mediul de afaceri. În ultimele săptămâni, spune ministrul, au avut loc „o serie consistentă de întâlniri și discuții” cu principalii parteneri din economie, în contextul definitivării programului care urmează să fie publicat în transparență.",
+        "link": "https://www.digi24.ro/stiri/economie/finante-economie/nazare-joi-publicam-pachetul-de-relansare-economica-rezultat-din-dialogul-cu-mediul-de-afaceri-avem-nevoie-de-investitii-3615821",
+        "published_utc": "2026-02-04T15:20:02+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Exerciții militare în poligonul Smârdan la care a participat și Armata SUA cu mai mule tancuri Abrams",
+        "summary": "Forţe şi echipamente ale Armatei SUA au fost dislocate în Poligonul de Instrucţie Smârdan pentru exerciţii de instruire comune cu partenerii români, într-o „demonstraţie continuă a angajamentului neclintit al Statelor Unite faţă de pacea, securitatea şi stabilitatea regională”.",
+        "link": "https://www.digi24.ro/stiri/exercitii-militare-in-poligonul-smardan-la-care-a-participat-si-armata-sua-cu-mai-mule-tancuri-abrams-3615881",
+        "published_utc": "2026-02-04T15:16:32+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Cum vrea un startup de AI să simplifice activitatea cabinetelor stomatologice",
+        "summary": "Un startup britanic de AI a obținut 2,6 milioane de euro finanțare pentru automatizarea operațiunilor de la recepția cabinetelor stomatologice, scrie publicația Tech.EU. Linda AI se numește compania, iar cu finanțarea obținută va extinde platforma&#8230;",
+        "link": "https://hotnews.ro/cum-vrea-un-startup-de-ai-sa-simplifice-activitatea-cabinetelor-stomatologice-2164763",
+        "published_utc": "2026-02-04T15:13:18+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Nicușor Dan, prima reacție după acuzațiile SUA privind influențarea alegerilor: „Ingerințele ruse au fost evidențiate de rapoarte NATO”",
+        "summary": "Președintele Nicușor Dan a avut o primă reacție după ce Comisia Juridică din Camera Reprezentanților SUA a transmis un raport care susține că oficialii UE ar fi influențat alegerile din România prin presiuni asupra rețelelor sociale. Șeful statului spune că țara noastră nu este subiectul principal al raportului de la Washington, că referirile sunt „strict contextuale”, iar decizia CCR de anulare a alegerilor a indicat „fără echivoc vicierea campaniei”.",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/nicusor-dan-prima-reactie-dupa-acuzatiile-sua-privind-influentarea-alegerilor-decizia-ccr-indica-fara-echivoc-vicierea-campaniei-3615681",
+        "published_utc": "2026-02-04T15:11:49+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "„Noi nu vedem nimic nou aici”. Kremlinul îl contrazice pe Trump cu privire la India și petrolul rusesc",
+        "summary": "Kremlinul a transmis miercuri că nu a văzut nimic nou într-un anunț al Indiei în care aceasta afirmă că își va diversifica sursele de aprovizionare cu energie, după ce președintele american Donald Trump a susținut,&#8230;",
+        "link": "https://hotnews.ro/noi-nu-vedem-nimic-nou-aici-kremlinul-il-contrazice-pe-trump-cu-privire-la-india-si-petrolul-rusesc-2164752",
+        "published_utc": "2026-02-04T15:03:05+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Vladimir Putin, menționat de peste o mie de ori în documentele publicate în cazul Epstein:  „Încă aș dori să mă întâlnesc cu el”",
+        "summary": "Unele dintre documentele desecretizate de Departamentul de Justiție al SUA (DOJ) din dosarul Epistein par să dezvăluie încercările repetate ale infractorului sexual condamnat de a-l întâlni pe președintele rus Vladimir Putin. Numele liderului de la Kremlin este menționat de peste 1.000 de ori în ultimele documente publicate, relatează Sky News.",
+        "link": "https://www.digi24.ro/stiri/externe/rusia/vladimir-putin-mentionat-de-peste-o-mie-de-ori-in-documentele-publicate-in-cazul-epstein-inca-as-dori-sa-ma-intalnesc-cu-el-3615857",
+        "published_utc": "2026-02-04T15:00:45+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Concedieri în masă la Washington Post: „Bezos nu încearcă să salveze. El încearcă să supraviețuiască lui Donald Trump”",
+        "summary": "Angajații reputatei publicații americane au primit miercuri dimineață un mail prin care sunt îndemnați „să stea acasă” și să participe la ora locală 8.30 (n.r. 15.30 în România) la o ședință prin Zoom în care&#8230;",
+        "link": "https://hotnews.ro/concedieri-in-masa-la-washington-post-bezos-nu-incearca-sa-salveze-el-incearca-sa-supravietuiasca-lui-donald-trump-2164728",
+        "published_utc": "2026-02-04T15:00:41+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Reprezentanții statelor UE, aproape de un acord pentru împrumutul de 90 de miliarde de euro către Ucraina. Care sunt pașii următori",
+        "summary": "Ambasadorii statelor UE la Bruxelles sunt aproape de a ajunge la un acord privind un împrumut de 90 de miliarde de euro pentru finanțarea apărării Ucrainei împotriva Rusiei, grație unui proiect de text care precizează participarea țărilor terțe la tranzacțiile cu arme, au declarat miercuri trei diplomați, citați de Politico. Oficialii se întâlnesc miercuri după-amiază pentru a finaliza discuțiile, după o săptămână de negocieri dificile.",
+        "link": "https://www.digi24.ro/stiri/externe/ue/reprezentantii-statelor-ue-aproape-de-un-acord-pentru-imprumutul-de-90-de-miliarde-de-euro-catre-ucraina-care-sunt-pasii-urmatori-3615819",
+        "published_utc": "2026-02-04T14:56:56+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Xi Jinping și Donald Trump, convorbire telefonică înaintea vizitei liderului american în China",
+        "summary": "Președintele Chinei, Xi Jinping, a discutat miercuri, la telefon, cu președintele SUA, Donald Trump, înaintea unei vizite așteptate a lui Trump în China, programată pentru luna aprilie, a relatat televiziunea de stat CCTV, citată de Reuters.",
+        "link": "https://www.digi24.ro/stiri/externe/xi-jinping-si-donald-trump-convorbire-telefonica-inaintea-vizitei-liderului-american-in-china-3615851",
+        "published_utc": "2026-02-04T14:56:32+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "O corectură publicată de ziarul The Guardian a devenit virală. „Trebuia să primească 0 stele”",
+        "summary": "„Evaluarea acestui film a fost corectată pe 2 februarie 2026. O problemă de formatare a făcut ca în versiunea anterioară să primească o stea, când trebuia să primească zero”, este modificarea unei recenzii făcute de&#8230;",
+        "link": "https://hotnews.ro/o-corectura-publicata-de-ziarul-the-guardian-a-devenit-virala-trebuia-sa-primeasca-0-stele-2163763",
+        "published_utc": "2026-02-04T14:55:34+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Propunerea lui Daniel Funeriu pentru rețelele sociale care funcționează în UE: conţinut educaţional la fiecare 5 minute de scrolling",
+        "summary": "Fostul ministru al Educaţiei Daniel Funeriu propune, în contextul dezbaterilor privind interzicerea reţelelor sociale pentru copiii sub o anumită vârstă, despre care afirmă că nu crede că este eficientă, ca la nivelul Uniunii Europene să fie instituită obligaţia tuturor platformelor de socializare ca, la fiecare 5 minute de scrolling, să oblige la 30 de secunde de conţinut educaţional ţintit vârstei utilizatorului.",
+        "link": "https://www.digi24.ro/stiri/actualitate/propunerea-lui-daniel-funeriu-pentru-retelele-sociale-care-functioneaza-in-ue-continut-educational-la-fiecare-5-minute-de-scrolling-3615827",
+        "published_utc": "2026-02-04T14:54:14+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "VIDEO. „Există o nouă divă în oraș”. După nașterea unui pui de elefant, presa americană exultă",
+        "summary": "Pentru prima dată în aproape 25 de ani, personalul care se ocupă de îngrijirea elefanților de la Grădina Zoologică Națională Smithsonian și Institutul de Biologie Conservativă (NZCBI) sărbătorește nașterea unui elefant asiatic, o specie pe&#8230;",
+        "link": "https://hotnews.ro/video-exista-o-noua-diva-in-oras-dupa-nasterea-unui-pui-de-elefant-presa-americana-exulta-2164734",
+        "published_utc": "2026-02-04T14:53:41+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Cazul Nordis. Deputatul care a făcut plângere penală împotriva lui Marcel Ciolacu acuză DNA că l-a citat ca martor după mai bine de un an, la o adresă greșită",
+        "summary": "Deputatul USR Emanuel Ungureanu a declarat, miercuri, că DNA, sub conducerea lui Marius Voineag, a avut nevoie de mai bine de un an de zile pentru a-l cita ca martor, după ce a depus, în&#8230;",
+        "link": "https://hotnews.ro/cazul-nordis-deputatul-care-a-facut-plangere-penala-impotriva-lui-marcel-ciolacu-acuza-dna-ca-l-a-citat-ca-martor-dupa-mai-bine-de-un-an-la-o-adresa-gresita-2164711",
+        "published_utc": "2026-02-04T14:47:23+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Deficitul Rusiei s-ar putea tripla în 2026, în urma scăderii veniturilor din petrol. „Situaţia se deteriorează semnificativ” (Reuters)",
+        "summary": "Deficitul public al Rusiei s-ar putea tripla comparativ cu ţinta oficială, până la finalul acestui an, scăderea achiziţiilor Indiei de petrol şi majorarea discounturilor la tranzacţionarea petrolului afectând veniturile, în timp ce cheltuielile ar putea fi mai ridicate decât se estima, au declarat pentru Reuters surse care au dorit să-şi păstreze anonimatul.",
+        "link": "https://www.digi24.ro/stiri/externe/rusia/deficitul-rusiei-s-ar-putea-tripla-in-2026-in-urma-scaderii-veniturilor-din-petrol-situatia-se-deterioreaza-semnificativ-reuters-3615771",
+        "published_utc": "2026-02-04T14:35:54+00:00",
+        "score": 1
+      }
+    ],
+    "medical": [],
+    "science": [
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "ESA",
+        "title": "Explore Mars’s Flaugergues Crater",
+        "summary": "ESA’s Mars Express takes us on a journey across the southern highlands of Mars, including a flight around Flaugergues Crater.",
+        "link": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Explore_Mars_s_Flaugergues_Crater",
+        "published_utc": "2026-02-04T10:00:00+00:00",
+        "score": 2
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "NASA Breaking News",
+        "title": "Full Moon over Artemis II",
+        "summary": "A full moon is seen shining over NASA’s SLS (Space Launch System) and Orion spacecraft, atop the mobile launcher at Launch Pad 39B at NASA’s Kennedy Space Center in Florida in the early hours of February 1, 2026. The agency concluded a wet dress rehearsal for the agency’s Artemis II test flight early Tuesday morning, [&#8230;]",
+        "link": "https://www.nasa.gov/image-article/full-moon-over-artemis-ii/",
+        "published_utc": "2026-02-03T17:01:07+00:00",
+        "score": 2
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "NASA Breaking News",
+        "title": "NASA Space to Soil Challenge",
+        "summary": "Rapid advances in commercial space, artificial intelligence, and edge computing are transforming what is possible for Earth observation. By pushing more intelligence onboard, missions can move from passively collecting data to actively interpreting and responding to changing surface conditions in near-real time, enabling more targeted observations and dramatically improving the value of data returned to [&#8230;]",
+        "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-space-to-soil-challenge/",
+        "published_utc": "2026-02-03T15:12:32+00:00",
+        "score": 2
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "ESA",
+        "title": "ESA's sustainability ambition",
+        "summary": "Video: 00:04:21 Space activities are unlike any others. They interact not just with Earth, but with three interconnected environments: Earth, Earth’s orbit, and the Moon and deep space. On Earth, we aim to reduce the space sector’s environmental impacts while maximising the societal and environmental benefits of our missions. In orbit, we manage space debris and collision risks to maintain safe and secure operations. For the Moon and deep space, we are laying the foundations to minimise the impact of our missions on and around other celestial bodies. Guided by our core values, ESA is committed to making its activities more sustainable, redefining how space activities are conceived, executed and shared with the world. Our objective is clear: to address the most pressing challenges and implement ambitious changes, both in our own practices and in close collaboration with our partners. Looking ahead, in support of Strategy 2040, ESA is determined to lead through ambition, action and collaboration, building a future where space is not only a domain of opportunity but also a model of sustainability, responsibility and global unity.",
+        "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/01/ESA_s_sustainability_ambition",
+        "published_utc": "2026-02-03T15:00:00+00:00",
+        "score": 2
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "NASA Breaking News",
+        "title": "NASA Astronaut to Answer Questions from Students in Pennsylvania",
+        "summary": "NASA astronaut Chris Williams will connect with students in Pennsylvania to answer prerecorded science, technology, engineering, and mathematics (STEM) questions while aboard the International Space Station. The Earth-to-space call will begin at 12:20 p.m. EST Thursday, Feb. 5, and will stream live on the agency’s Learn With NASA YouTube channel. Media interested in covering the [&#8230;]",
+        "link": "https://www.nasa.gov/news-release/nasa-astronaut-to-answer-questions-from-students-in-pennsylvania/",
+        "published_utc": "2026-02-02T22:44:51+00:00",
+        "score": 4
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "NASA Breaking News",
+        "title": "NASA’s Orion Spacecraft at Launch Pad",
+        "summary": "NASA’s Orion spacecraft, which will carry the Artemis II crew around the Moon, sits at the launch pad on Jan. 17, 2026, after rollout. It rests atop the SLS (Space Launch System) rocket. Orion can provide living space on missions for four astronauts for up to 21 days without docking to another spacecraft.&#160;Advances in technology [&#8230;]",
+        "link": "https://www.nasa.gov/image-article/nasas-orion-spacecraft-at-launch-pad/",
+        "published_utc": "2026-02-02T17:02:44+00:00",
+        "score": 2
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "NASA Breaking News",
+        "title": "NASA to Discuss Early Results of Artemis II Wet Dress Rehearsal",
+        "summary": "Editor&#8217;s note: This advisory was updated at on Feb. 3, 2026, to reflect a change in the start of the news conference and its participants, as well as removing a placeholder for a crew media gaggle. Following a fueling test of NASA’s SLS (Space Launch System) rocket at the launch pad for the Artemis II [&#8230;]",
+        "link": "https://www.nasa.gov/news-release/nasa-to-discuss-early-results-of-artemis-ii-wet-dress-rehearsal/",
+        "published_utc": "2026-02-02T16:40:01+00:00",
+        "score": 2
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "ESA",
+        "title": "Moving satellites to meet a plane for rare reentry data",
+        "summary": "When satellites eventually fall back down to Earth, they mostly burn up because of the friction caused by the atmosphere. Scientific data about this atmospheric reentry process is urgently needed to design future satellites for a quick, safe and sustainable demise at the end of their mission – reducing risks on the ground and in space. The European Space Agency (ESA) successfully manoeuvred its remaining two&nbsp; Cluster &nbsp;satellites to ensure they can both be observed from a plane as they reenter the atmosphere on 31 August and 1 September 2026.",
+        "link": "https://www.esa.int/Space_Safety/Space_Debris/Moving_satellites_to_meet_a_plane_for_rare_reentry_data",
+        "published_utc": "2026-02-02T16:12:00+00:00",
+        "score": 4
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "NASA Breaking News",
+        "title": "Widely Attended Gatherings (WAGs) Determinations",
+        "summary": "2026 2026 TSC Artemis II Pre-launch Reception 2.5.26 2026 VABA AAAAM Legislative Reception 2.4.26 Chamber of Commerce Summit 2.2.26 Cheniere Energy at the National Portrait Gallery 1.28.26 Leaders for a Better Louisiana at Adams and Reese 1.28.26 California Manufacturers and Technology Association Reception 1.23.26 Goddard Memorial Dinner 3.13.26 ISS 25th Anniversary 1.19.26 2026 Amentum Artemis [&#8230;]",
+        "link": "https://www.nasa.gov/organizations/nasa-ethics-advice-for-widely-attended-gatherings-wags/",
+        "published_utc": "2026-02-02T14:53:04+00:00",
+        "score": 2
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "ESA",
+        "title": "Apply now to the ESA Graduate Trainee Programme",
+        "summary": "The 2026 ESA Graduate Trainee positions are now open! If you’re passionate about engineering, science, IT or business, this is your chance to turn your dreams into reality.",
+        "link": "https://www.esa.int/About_Us/Careers_at_ESA/Apply_now_to_the_ESA_Graduate_Trainee_Programme",
+        "published_utc": "2026-02-02T10:00:00+00:00",
+        "score": 2
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "NASA Breaking News",
+        "title": "Seasons Change in Southwest Virginia",
+        "summary": "From autumn color to a winter-white finish, forested areas around Blacksburg trade foliage for snow over the span of two months.",
+        "link": "https://science.nasa.gov/earth/earth-observatory/seasons-change-in-southwest-virginia/",
+        "published_utc": "2026-02-02T05:00:00+00:00",
+        "score": 2
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "ESA",
+        "title": "Laurent Jaffart appointed Director of Resilience, Navigation and Connectivity",
+        "summary": "Press Release N° 5&ndash;2026 The European Space Agency&nbsp;Council&nbsp;has approved&nbsp;the reassignment of&nbsp;Laurent&nbsp;Jaffart, currently Director of Connectivity and Secure Communications (D/CSC) to the newly created position of Director of Resilience, Navigation and Connectivity Directorate (D/RNC), which will take&nbsp;effect from 1 February 2026.",
+        "link": "https://www.esa.int/Newsroom/Press_Releases/Laurent_Jaffart_appointed_Director_of_Resilience_Navigation_and_Connectivity",
+        "published_utc": "2026-01-30T10:20:00+00:00",
+        "score": 2
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "ESA",
+        "title": "New satellite view of Tibet’s tectonic clash",
+        "summary": "A study on tectonic plates that converge on the Tibetan Plateau has shown that Earth’s fault lines are far weaker and the continents are less rigid than scientists previously thought. This finding is based on ground-monitoring satellite data.",
+        "link": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/New_satellite_view_of_Tibet_s_tectonic_clash",
+        "published_utc": "2026-01-30T10:00:00+00:00",
+        "score": 2
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "ESA",
+        "title": "Earth from Space: Rudong coast, China",
+        "summary": "Image: The Copernicus Sentinel-2 mission takes us over part of the coastal area of Rudong County on China’s eastern seaboard.",
+        "link": "https://www.esa.int/ESA_Multimedia/Images/2026/01/Earth_from_Space_Rudong_coast_China",
+        "published_utc": "2026-01-30T09:00:00+00:00",
+        "score": 2
+      }
+    ],
+    "environment": [
+      {
+        "section": "environment",
+        "kind": "global",
+        "source": "UN News - Climate",
+        "title": "From family farm to climate tech: How one Kenyan woman is helping farmers outsmart drought",
+        "summary": "“Giving up is not an option - so many people depend on you,” the words of&nbsp;Maryanne Gichanga, a participant in a UN supported initiative, which aims to help farmers in Kenya find solutions to alleviate the pressures of climate change on agricultural production.&nbsp;",
+        "link": "https://news.un.org/feed/view/en/story/2026/01/1166823",
+        "published_utc": "2026-01-25T12:00:00+00:00",
+        "score": 2
+      },
+      {
+        "section": "environment",
+        "kind": "global",
+        "source": "UN News - Climate",
+        "title": "For every $1 spent protecting nature, $30 goes to destroying it",
+        "summary": "The world spends billions to protect nature, but trillions are being invested in business activities that harm the environment.&nbsp;",
+        "link": "https://news.un.org/feed/view/en/story/2026/01/1166809",
+        "published_utc": "2026-01-22T12:00:00+00:00",
+        "score": 2
+      },
+      {
+        "section": "environment",
+        "kind": "global",
+        "source": "UN News - Climate",
+        "title": "Paper and wood: Forest products show signs of recovery, UN agency says",
+        "summary": "From wood-based panels used in construction, to charcoal for cooking food, forest products are valued and traded all around the world.",
+        "link": "https://news.un.org/feed/view/en/story/2025/12/1166666",
+        "published_utc": "2025-12-24T12:00:00+00:00",
+        "score": 2
+      },
+      {
+        "section": "environment",
+        "kind": "global",
+        "source": "UN News - Climate",
+        "title": "Fifty days on, Jamaica struggles to rebuild after Hurricane Melissa’s unprecedented destruction",
+        "summary": "Fifty days have passed since Hurricane Melissa ravaged Jamaica, leaving behind an unprecedented trail of destruction.&nbsp;",
+        "link": "https://news.un.org/feed/view/en/story/2025/12/1166621",
+        "published_utc": "2025-12-17T12:00:00+00:00",
+        "score": 2
+      },
+      {
+        "section": "environment",
+        "kind": "global",
+        "source": "UN News - Climate",
+        "title": "UN environment assembly wraps up in Nairobi",
+        "summary": "The seventh session of the United Nations Environment Assembly (UNEA-7) concluded in Nairobi, Kenya, on Friday with Member States adopting 11 resolutions, three decisions and a ministerial declaration aiming to advance solutions for a more resilient planet.&nbsp;",
+        "link": "https://news.un.org/feed/view/en/story/2025/12/1166585",
+        "published_utc": "2025-12-12T12:00:00+00:00",
+        "score": 2
+      },
+      {
+        "section": "environment",
+        "kind": "global",
+        "source": "UN News - Climate",
+        "title": "From ruins to rebuilding: Three Jamaican mothers face the future after hurricane",
+        "summary": "Three women in Jamaica whose lives were upended by the destructive force of a hurricane which battered the Caribbean island are looking to rebuild their future",
+        "link": "https://news.un.org/feed/view/en/story/2025/12/1166512",
+        "published_utc": "2025-12-06T12:00:00+00:00",
+        "score": 2
+      },
+      {
+        "section": "environment",
+        "kind": "global",
+        "source": "UN News - Climate",
+        "title": "Belém COP30 delivers climate finance boost and a pledge to plan fossil fuel transition",
+        "summary": "In a pivotal outcome at COP30 in Belém, Brazil, countries agreed on a sweeping package to scale up climate finance and accelerate implementation of the Paris Agreement – but without a clear commitment to move away from fossil fuels.",
+        "link": "https://news.un.org/feed/view/en/story/2025/11/1166433",
+        "published_utc": "2025-11-22T12:00:00+00:00",
+        "score": 2
+      },
+      {
+        "section": "environment",
+        "kind": "global",
+        "source": "UN News - Climate",
+        "title": "From waste pickers to courtrooms: Women demand a gender focus at COP30",
+        "summary": "On the scheduled final day of COP30 in Belém, tense negotiations are stretching into Friday afternoon as divisions persist. Amid the ongoing talks, one message is cutting through the noise: there is no climate justice without gender equality.",
+        "link": "https://news.un.org/feed/view/en/story/2025/11/1166427",
+        "published_utc": "2025-11-21T12:00:00+00:00",
+        "score": 2
+      },
+      {
+        "section": "environment",
+        "kind": "global",
+        "source": "UN News - Climate",
+        "title": "Can industrial growth and climate action go hand in hand?",
+        "summary": "Do higher living standards in developing countries have to mean more polluting, fossil-fuel dependent industries? Or is a low-carbon alternative possible? As the world grapples with climate change, economic inequality, and rapid technological shifts, next week’s Global Industry Summit will tackle these questions, bringing together governments, business leaders, and innovators to shape solutions that balance prosperity with sustainability.&nbsp;",
+        "link": "https://news.un.org/feed/view/en/story/2025/11/1166421",
+        "published_utc": "2025-11-21T12:00:00+00:00",
+        "score": 2
+      },
+      {
+        "section": "environment",
+        "kind": "global",
+        "source": "UN News - Climate",
+        "title": "What’s at stake in the COP30 negotiations?",
+        "summary": "Talks at the COP30 climate summit in Belém, Brazil, were suspended on Thursday after a fire broke out in the venue, triggering evacuations that halted negotiations between more than 190 delegations. The summit was set to conclude Friday, and the disruption came at a critical moment as countries were locked in tense debates over fossil fuels and climate finance. The outcome of these talks is widely seen as a litmus test for turning decades of climate pledges into concrete action.",
+        "link": "https://news.un.org/feed/view/en/story/2025/11/1166415",
+        "published_utc": "2025-11-20T12:00:00+00:00",
+        "score": 2
+      },
+      {
+        "section": "environment",
+        "kind": "global",
+        "source": "UN News - Climate",
+        "title": "In the Amazon, a school becomes a beacon of climate resilience",
+        "summary": "The boat ride from Belém to Barcarena is a journey through shimmering waterways and emerald forest, where the Amazon meets the Atlantic in a sweep of beauty. But beneath the postcard-perfect scene, climate change is quietly rewriting the rules of life.",
+        "link": "https://news.un.org/feed/view/en/story/2025/11/1166408",
+        "published_utc": "2025-11-19T12:00:00+00:00",
+        "score": 2
+      },
+      {
+        "section": "environment",
+        "kind": "global",
+        "source": "UN News - Climate",
+        "title": "‘Decisive battle’: Guterres calls for youth power in fight to phase out fossil fuels",
+        "summary": "A page feels like it’s turning. After years of debate, the long-awaited roadmap for phasing out fossil fuels may finally be written into the official decisions of COP30.",
+        "link": "https://news.un.org/feed/view/en/story/2025/11/1166399",
+        "published_utc": "2025-11-18T12:00:00+00:00",
+        "score": 2
+      },
+      {
+        "section": "environment",
+        "kind": "global",
+        "source": "UN News - Climate",
+        "title": "COP30 enters its final stretch: urgency, ambition, and voices from the streets",
+        "summary": "The last week of COP30 has begun in Belém with a palpable sense of urgency. Ministers and senior officials are now stepping into the spotlight, as negotiations move from technical wrangling to political decision-making. The stakes? Nothing less than charting a credible path to climate justice in a world running out of time.",
+        "link": "https://news.un.org/feed/view/en/story/2025/11/1166390",
+        "published_utc": "2025-11-17T12:00:00+00:00",
+        "score": 2
+      },
+      {
+        "section": "environment",
+        "kind": "global",
+        "source": "UN News - Climate",
+        "title": "On Brazil’s Combu Island, chocolate makers hold clues to climate action",
+        "summary": "Combu Island – Ilha do Combu in Portuguese – rises like a wall of living green from Brazil’s Guamá River. It is a testament to centuries of shared existence between the forest and its riverside communities. Here, cupuaçu, taperebá, pupunha, araçá and cacao are more than fruits; they are threads in the fabric of local culture, livelihoods and identity.",
+        "link": "https://news.un.org/feed/view/en/story/2025/11/1166379",
+        "published_utc": "2025-11-17T12:00:00+00:00",
+        "score": 2
+      }
+    ],
+    "photos": [],
+    "joke": [],
+    "satire": []
+  }
 }
