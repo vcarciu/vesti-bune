@@ -5,28 +5,23 @@
   <meta name="viewport" content="width=device-width,initial-scale=1" />
 
   <title>Vești bune</title>
-  <meta name="description" content="Vești bune: știri pozitive, curate, din surse serioase. România și global, cu titlu și rezumat în română." />
+  <meta name="description" content="Vești bune: știri pozitive, curate, din surse serioase. România și global, pe secțiuni." />
 
-  <!-- Canonical -->
   <link rel="canonical" href="https://vcarciu.github.io/vesti-bune/" />
-
-  <!-- Favicon -->
   <link rel="icon" href="/vesti-bune/favicon.svg" type="image/svg+xml" />
 
-  <!-- Open Graph (WhatsApp-friendly: JPG) -->
+  <!-- Open Graph -->
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Vești bune" />
   <meta property="og:title" content="Vești bune" />
-  <meta property="og:description" content="Știri pozitive, curate, din surse serioase. O pauză de la fluxul de știri negative." />
+  <meta property="og:description" content="Știri pozitive, curate, din surse serioase. România + global, pe secțiuni." />
   <meta property="og:url" content="https://vcarciu.github.io/vesti-bune/" />
-
   <meta property="og:image" content="https://vcarciu.github.io/vesti-bune/og.jpg" />
   <meta property="og:image:secure_url" content="https://vcarciu.github.io/vesti-bune/og.jpg" />
   <meta property="og:image:type" content="image/jpeg" />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
 
-  <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Vești bune" />
   <meta name="twitter:description" content="Știri pozitive, curate, din surse serioase." />
@@ -35,7 +30,7 @@
 
 <body style="
   font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
-  max-width: 820px;
+  max-width: 900px;
   margin: 0 auto;
   padding: 20px;
   background: #fafafa;
@@ -50,20 +45,167 @@
   </header>
 
   <h1 style="font-size:44px; margin:10px 0;">Vești bune</h1>
-  <p style="color:#444; margin:0 0 8px;">
-    Curate. Din surse serioase. Refresh automat la fiecare 60 de minute.
+  <p style="color:#444; margin:0 0 10px;">
+    Curate. Pe secțiuni. Refresh automat la fiecare 60 de minute.
   </p>
   <p id="meta" style="color:#666; font-size:13px; margin:0 0 18px;"></p>
 
-  <div id="list"></div>
+  <!-- Top blocks -->
+  <div id="top-blocks" style="display:grid; grid-template-columns: 1fr; gap:12px; margin-bottom:18px;"></div>
+
+  <!-- Sections -->
+  <div id="sections"></div>
 
   <script>
-    function shuffle(arr) {
-      for (let i = arr.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [arr[i], arr[j]] = [arr[j], arr[i]];
+    const SECTION_TITLES = {
+      romania: "🇷🇴 România",
+      medical: "🩺 Descoperiri medicale",
+      science: "🔬 Știință & Tech",
+      environment: "🌱 Mediu & Energie",
+      photos: "📸 Poza zilei",
+      joke: "😄 Bancul zilei",
+      satire: "😈 Satiră (TimesNewRoman)"
+    };
+
+    function el(tag, attrs = {}, text = "") {
+      const n = document.createElement(tag);
+      for (const [k, v] of Object.entries(attrs)) {
+        if (k === "style") n.style.cssText = v;
+        else n.setAttribute(k, v);
       }
-      return arr;
+      if (text) n.textContent = text;
+      return n;
+    }
+
+    function cardBase() {
+      return `
+        background:#fff;
+        border:1px solid #e8e8e8;
+        border-radius:14px;
+        padding:16px;
+        box-shadow:0 1px 8px rgba(0,0,0,0.04);
+      `;
+    }
+
+    function renderNewsItem(it) {
+      const card = el("div", { style: cardBase() + " margin:12px 0;" });
+
+      const h = el("h3", { style: "margin:0 0 8px;font-size:18px;line-height:1.25" });
+      const a = el("a", {
+        href: it.link,
+        target: "_blank",
+        rel: "noopener noreferrer",
+        style: "color:#111;text-decoration:none"
+      });
+      const title = (it.kind === "global" && it.title_ro) ? it.title_ro : it.title;
+      a.textContent = title;
+      a.onmouseover = () => a.style.textDecoration = "underline";
+      a.onmouseout = () => a.style.textDecoration = "none";
+      h.appendChild(a);
+
+      const summary = (it.kind === "global" && it.summary_ro) ? it.summary_ro : (it.summary || "");
+      const p = el("p", { style: "margin:0 0 10px;color:#333;line-height:1.5" }, summary);
+
+      const meta = el("div", { style: "font-size:12px;color:#777" });
+      const d = new Date(it.published_utc);
+
+      if (it.kind === "global") {
+        meta.innerHTML =
+          `🌍 GLOBAL • Titlu & rezumat traduse • ${it.source} • ${d.toLocaleString("ro-RO")} • ` +
+          `<a href="${it.link}" target="_blank" rel="noopener noreferrer" style="color:#555;text-decoration:underline">Original</a>`;
+      } else {
+        meta.textContent = `🇷🇴 RO • ${it.source} • ${d.toLocaleString("ro-RO")}`;
+      }
+
+      card.appendChild(h);
+      if (summary) card.appendChild(p);
+      card.appendChild(meta);
+
+      return card;
+    }
+
+    function renderTopBlocks(sections) {
+      const host = document.getElementById("top-blocks");
+      host.innerHTML = "";
+
+      // Bancul zilei (placeholder până la pasul 4)
+      const joke = (sections.joke && sections.joke[0]) ? sections.joke[0] : null;
+      const jokeCard = el("div", { style: cardBase() });
+      jokeCard.appendChild(el("div", { style:"font-size:13px;color:#666;margin-bottom:8px" }, "😄 Bancul zilei"));
+      jokeCard.appendChild(el("div", { style:"font-size:16px;color:#111;line-height:1.5" },
+        joke && joke.text ? joke.text : "În curând 🙂"
+      ));
+
+      // Poza zilei (placeholder până la pasul 4)
+      const photos = Array.isArray(sections.photos) ? sections.photos : [];
+      const photoCard = el("div", { style: cardBase() });
+      photoCard.appendChild(el("div", { style:"font-size:13px;color:#666;margin-bottom:8px" }, "📸 Poza zilei"));
+
+      if (photos.length) {
+        photos.slice(0, 3).forEach(ph => {
+          const wrap = el("div", { style:"margin:10px 0;" });
+          const img = el("img", {
+            src: ph.image_url,
+            alt: ph.title || "Photo",
+            style: "width:100%;max-height:320px;object-fit:cover;border-radius:12px;border:1px solid #eee;"
+          });
+          const cap = el("div", { style:"font-size:12px;color:#666;margin-top:6px;line-height:1.35" });
+          cap.innerHTML = `${ph.source || ""}${ph.source ? " • " : ""}<a href="${ph.link}" target="_blank" rel="noopener noreferrer" style="color:#555;text-decoration:underline">${ph.title || "Deschide"}</a>`;
+          wrap.appendChild(img);
+          wrap.appendChild(cap);
+          photoCard.appendChild(wrap);
+        });
+      } else {
+        photoCard.appendChild(el("div", { style:"font-size:16px;color:#111;line-height:1.5" }, "În curând 🙂"));
+      }
+
+      // Satiră (placeholder până la pasul 4)
+      const satire = (sections.satire && sections.satire[0]) ? sections.satire[0] : null;
+      const satCard = el("div", { style: cardBase() });
+      satCard.appendChild(el("div", { style:"font-size:13px;color:#666;margin-bottom:8px" }, "😈 Satiră (TimesNewRoman)"));
+      if (satire && satire.link) {
+        const sa = el("a", {
+          href: satire.link,
+          target: "_blank",
+          rel: "noopener noreferrer",
+          style: "color:#111;text-decoration:underline;font-size:16px;line-height:1.5"
+        }, satire.title || "Citește");
+        satCard.appendChild(sa);
+        satCard.appendChild(el("div", { style:"font-size:12px;color:#777;margin-top:6px" }, "Satiră — nu este știre reală."));
+      } else {
+        satCard.appendChild(el("div", { style:"font-size:16px;color:#111;line-height:1.5" }, "În curând 🙂"));
+      }
+
+      // layout: 1 col pe mobil, 3 col pe ecrane mai mari (fără CSS extern)
+      host.style.gridTemplateColumns = "1fr";
+      if (window.innerWidth >= 900) host.style.gridTemplateColumns = "1fr 1fr 1fr";
+
+      host.appendChild(photoCard);
+      host.appendChild(jokeCard);
+      host.appendChild(satCard);
+
+      window.addEventListener("resize", () => {
+        host.style.gridTemplateColumns = (window.innerWidth >= 900) ? "1fr 1fr 1fr" : "1fr";
+      });
+    }
+
+    function renderSections(sections) {
+      const container = document.getElementById("sections");
+      container.innerHTML = "";
+
+      const order = ["romania", "medical", "science", "environment"];
+
+      for (const secId of order) {
+        const arr = Array.isArray(sections[secId]) ? sections[secId] : [];
+        if (!arr.length) continue;
+
+        const header = el("h2", { style:"margin:26px 0 10px;font-size:22px" }, SECTION_TITLES[secId] || secId);
+        container.appendChild(header);
+
+        arr.forEach(it => {
+          container.appendChild(renderNewsItem(it));
+        });
+      }
     }
 
     async function load() {
@@ -71,98 +213,17 @@
       const data = await res.json();
 
       const meta = document.getElementById("meta");
-      const list = document.getElementById("list");
-
       const generated = new Date(data.generated_utc);
-      meta.textContent =
-        `Ultima actualizare: ${generated.toLocaleString("ro-RO")} • ${data.count} articole`;
+      meta.textContent = `Ultima actualizare: ${generated.toLocaleString("ro-RO")}`;
 
-      list.innerHTML = "";
-
-      const ro = data.items.filter(i => i.kind === "ro");
-      const global = shuffle(data.items.filter(i => i.kind === "global"));
-
-      const GAP = 4;
-      const mixed = [];
-      let gi = 0;
-
-      ro.forEach((item, idx) => {
-        mixed.push(item);
-        if ((idx + 1) % GAP === 0 && gi < global.length) {
-          mixed.push(global[gi++]);
-        }
-      });
-
-      while (gi < global.length) {
-        mixed.push(global[gi++]);
-      }
-
-      for (const it of mixed) {
-        const card = document.createElement("div");
-        card.style = `
-          background:#fff;
-          border:1px solid #e8e8e8;
-          border-radius:14px;
-          padding:16px;
-          margin:12px 0;
-          box-shadow:0 1px 8px rgba(0,0,0,0.04);
-        `;
-
-        const h = document.createElement("h2");
-        h.style = "margin:0 0 8px;font-size:18px";
-
-        const a = document.createElement("a");
-        a.href = it.link;
-        a.target = "_blank";
-        a.rel = "noopener noreferrer";
-
-        const titleToShow =
-          (it.kind === "global" && it.title_ro) ? it.title_ro : it.title;
-        a.textContent = titleToShow;
-
-        a.style = "color:#111;text-decoration:none";
-        a.onmouseover = () => a.style.textDecoration = "underline";
-        a.onmouseout = () => a.style.textDecoration = "none";
-        h.appendChild(a);
-
-        const p = document.createElement("p");
-        p.style = "margin:0 0 10px;color:#333;line-height:1.45";
-        const summaryToShow =
-          (it.kind === "global" && it.summary_ro) ? it.summary_ro : (it.summary || "");
-        p.textContent = summaryToShow;
-
-        const small = document.createElement("div");
-        small.style = "font-size:12px;color:#777";
-
-        const d = new Date(it.published_utc);
-
-        if (it.kind === "global") {
-          const base = `🌍 GLOBAL • Titlu & rezumat traduse • ${it.source} • ${d.toLocaleString("ro-RO")}`;
-          small.innerHTML =
-            `${base} • <a href="${it.link}" target="_blank" rel="noopener noreferrer">Original</a>`;
-          const linkEl = small.querySelector("a");
-          linkEl.style.color = "#555";
-          linkEl.style.textDecoration = "underline";
-        } else {
-          small.textContent = `🇷🇴 RO • ${it.source} • ${d.toLocaleString("ro-RO")}`;
-        }
-
-        card.appendChild(h);
-        if (summaryToShow) card.appendChild(p);
-        card.appendChild(small);
-
-        list.appendChild(card);
-      }
+      const sections = data.sections || {};
+      renderTopBlocks(sections);
+      renderSections(sections);
     }
 
     load().catch(err => {
-      document.getElementById("list").innerHTML = `
-        <div style="
-          background:#fff;
-          border:1px solid #e8e8e8;
-          border-radius:14px;
-          padding:16px;
-        ">
+      document.getElementById("sections").innerHTML = `
+        <div style="${cardBase()} margin:12px 0;">
           <h2 style="margin:0 0 8px;">Eroare la încărcare</h2>
           <p style="margin:0;color:#333">${String(err)}</p>
         </div>
