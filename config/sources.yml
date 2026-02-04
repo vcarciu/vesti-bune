@@ -1,0 +1,177 @@
+# config/sources.yml
+# Structura proiectului:
+# - sections: ce secțiuni apar pe site
+# - rss_sources: RSS-uri per secțiune
+# - filters: reguli de scor și cuvinte cheie (RO+EN)
+# - satire: sursă separată, etichetată clar ca satiră
+
+sections:
+  - id: romania
+    title: "🇷🇴 România"
+    max_items: 30
+  - id: medical
+    title: "🩺 Descoperiri medicale"
+    max_items: 15
+  - id: science
+    title: "🔬 Știință & Tech"
+    max_items: 15
+  - id: environment
+    title: "🌱 Mediu & Energie"
+    max_items: 15
+  - id: photos
+    title: "📸 Poza zilei"
+    max_items: 3
+  - id: joke
+    title: "😄 Bancul zilei"
+    max_items: 1
+  - id: satire
+    title: "😈 Satiră (TimesNewRoman)"
+    max_items: 1
+
+# RSS-uri per secțiune.
+# NOTE: poți adăuga / scoate oricând surse de aici, fără să atingi codul.
+rss_sources:
+  romania:
+    - name: "Digi24"
+      url: "https://www.digi24.ro/rss"
+    - name: "HotNews"
+      url: "https://www.hotnews.ro/rss"
+    - name: "Agerpres"
+      url: "https://www.agerpres.ro/rss"
+
+  # Medical = allowlist strict (doar surse foarte serioase)
+  medical:
+    - name: "NIH Research Matters"
+      url: "https://www.nih.gov/news-events/nih-research-matters/feed"
+    - name: "NIH News Releases"
+      url: "https://www.nih.gov/news-events/news-releases/feed"
+    - name: "CDC Newsroom"
+      url: "https://tools.cdc.gov/api/v2/resources/media/403372.rss"
+
+  science:
+    - name: "NASA Breaking News"
+      url: "https://www.nasa.gov/rss/dyn/breaking_news.rss"
+    - name: "ESA"
+      url: "https://www.esa.int/rssfeed/Our_Activities"
+
+  environment:
+    - name: "UN News - Climate"
+      url: "https://news.un.org/feed/subscribe/en/news/topic/climate-change/feed/rss.xml"
+    - name: "UN News - Environment"
+      url: "https://news.un.org/feed/subscribe/en/news/topic/environment/feed/rss.xml"
+
+  # Poze: în pasul următor vom lua imaginea din feed (unde există).
+  # Deocamdată doar definim sursele.
+  photos:
+    - name: "NASA Image of the Day"
+      url: "https://www.nasa.gov/feeds/iotd-feed/"
+    - name: "APOD"
+      url: "https://apod.nasa.gov/apod.rss"
+
+# Surse de satiră (nu le amestecăm cu știrile reale)
+# Dacă nu există RSS stabil, în pasul următor putem face scraping simplu din homepage.
+satire:
+  enabled: true
+  name: "TimesNewRoman"
+  homepage: "https://www.timesnewroman.ro/"
+  # Dacă găsești un RSS care merge sigur, îl pui aici și îl folosim:
+  rss_url: ""
+
+filters:
+  # Praguri (scor minim ca să apară)
+  thresholds:
+    romania: 1
+    medical: 3
+    science: 2
+    environment: 2
+
+  # Cuvinte care elimină direct (RO+EN) — dacă apar în titlu/rezumat => drop
+  hard_blacklist:
+    - "război"
+    - "atac"
+    - "împușc"
+    - "crim"
+    - "viol"
+    - "mort"
+    - "decese"
+    - "victime"
+    - "exploz"
+    - "incendiu"
+    - "cutremur"
+    - "inunda"
+    - "accident"
+    - "arest"
+    - "corup"
+    - "șpag"
+    - "scandal"
+    - "panic"
+    - "alertă"
+    - "amenin"
+    - "teror"
+    - "kidnap"
+    - "shoot"
+    - "killed"
+    - "dead"
+    - "death"
+    - "war"
+    - "attack"
+    - "explosion"
+    - "earthquake"
+    - "flood"
+    - "crash"
+    - "arrest"
+    - "corrupt"
+    - "scandal"
+    - "rape"
+    - "terror"
+
+  # Punctaj: + pentru semnale pozitive, - pentru semnale negative
+  scoring:
+    positive_keywords:
+      - "descoper"
+      - "progres"
+      - "record"
+      - "premiu"
+      - "salvat"
+      - "reduce riscul"
+      - "scade riscul"
+      - "îmbunătățe"
+      - "vindec"
+      - "tratament nou"
+      - "vaccin"
+      - "succes"
+      - "inova"
+      - "breakthrough"
+      - "improves"
+      - "reduces risk"
+      - "new treatment"
+      - "vaccine"
+      - "success"
+      - "award"
+      - "record"
+      - "innovation"
+
+    negative_keywords:
+      - "criz"
+      - "controvers"
+      - "îngrijor"
+      - "pericol"
+      - "risc major"
+      - "alert"
+      - "warning"
+      - "concern"
+      - "crisis"
+      - "danger"
+      - "major risk"
+
+  # Pentru medical vrem și mai strict: dacă apar termeni de tragedii/outbreak etc => drop
+  medical_extra_blacklist:
+    - "outbreak"
+    - "epidem"
+    - "pandem"
+    - "spike"
+    - "surge"
+    - "fatal"
+    - "mortality"
+    - "warning"
+    - "recall"
