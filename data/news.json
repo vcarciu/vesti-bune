@@ -1,7 +1,87 @@
 {
-  "generated_utc": "2026-02-04T21:25:07+00:00",
+  "generated_utc": "2026-02-04T22:17:16+00:00",
   "count": 56,
   "items": [
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "Revoluția digitală a „puiului prăjit” în China. KFC se laudă cu cel mai mare program de loialitate din lume cu ajutorul AI",
+      "summary": "Compania-mamă a KFC din China a raportat o creștere agresivă a programelor sale digitale de loialitate, depășind 590 de milioane de membri, ceea ce reprezintă peste 40% din populația țării, informează miercuri Reuters. Yum China,&#8230;",
+      "link": "https://hotnews.ro/revolutia-digitala-a-puiului-prajit-in-china-kfc-se-lauda-cu-cel-mai-mare-program-de-loialitate-din-lume-cu-ajutorul-ai-2165037",
+      "published_utc": "2026-02-04T22:06:14+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "PSD îi impută lui Bolojan că întârziat pachetul de stimulare a economiei: „Cinci luni de indecizie și tergiversare”",
+      "summary": "PSD susține că situaţia economică actuală ar fi putut fi evitată dacă pachetul de stimulare a economiei, propus de social-democraţi, ar fi fost adoptat de acum cinci luni, întârziere care îi este imputată primului-ministru Ilie&#8230;",
+      "link": "https://hotnews.ro/psd-ii-imputa-lui-bolojan-ca-intarziat-pachetul-de-stimulare-a-economiei-cinci-luni-de-indecizie-si-tergiversare-2165032",
+      "published_utc": "2026-02-04T21:57:49+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Jocurile Olimpice de iarnă au început deja, cu proba de curling. Competiţia a fost însă întreruptă din cauza unei pene de curent",
+      "summary": "Jocurile Olimpice de iarnă au început miercuri cu primele confruntări de curling la Cortina, dar au fost întrerupte la scurt timp din cauza unei pene de curent, relatează AP.",
+      "link": "https://www.digi24.ro/stiri/sport/alte-sporturi/jocurile-olimpice-de-iarna-au-inceput-deja-cu-proba-de-curling-competitia-a-fost-insa-intrerupta-din-cauza-unei-pene-de-curent-3616649",
+      "published_utc": "2026-02-04T21:52:51+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "SUA, UE și Japonia anunță un parteneriat strategic privind aprovizionarea cu minerale critice",
+      "summary": "Statele Unite, Uniunea Europeană și Japonia au anunțat miercuri că realizează un parteneriat strategic care vizează ameliorarea aprovizionării cu minerale critice, esențiale în sectoare precum cel al construcției de automobile, al apărării și cel digital,&#8230;",
+      "link": "https://hotnews.ro/sua-ue-si-japonia-anunta-un-parteneriat-strategic-privind-aprovizionarea-cu-minerale-critice-2165029",
+      "published_utc": "2026-02-04T21:39:19+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Poliţist înjunghiat în spate de un tânăr de 16 ani, în Baia Mare",
+      "summary": "Un poliţist din Baia Mare a fost înjunghiat în spate, miercuri, şi a fost transportat la spital. Incidentul s-a produs pe o stradă din oraş, în timp ce agentul era în timpul liber. Făptaşul a fugit, fiind derulată o amplă operaţiune pentru căutarea sa.",
+      "link": "https://www.digi24.ro/stiri/actualitate/politist-injunghiat-in-spate-de-un-tanar-de-16-ani-in-baia-mare-3616631",
+      "published_utc": "2026-02-04T21:39:05+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Cucerirea estului Ucrainei ar costa Moscova 800.000 de soldați, susține Volodimir Zelenski. Câți ucraineni au murit pe front",
+      "summary": "Președintele ucrainean Volodimir Zelenski a dezvăluit pentru postul de televiziune France 2 numărul soldaților ucraineni uciși pe câmpul de luptă. Totodată, liderul de la Kiev a apreciat că Rusia ar trebui să sacrifice încă 800.000 de soldaţi pe parcursul a doi ani pentru a cuceri militar estul Ucrainei pe care doreşte să îl anexeze, relatează Reuters și AFP.",
+      "link": "https://www.digi24.ro/stiri/externe/ue/cucerirea-estului-ucrainei-ar-costa-moscova-800-000-de-soldati-sustine-volodimir-zelenski-cati-ucraineni-au-murit-pe-front-3616617",
+      "published_utc": "2026-02-04T21:32:07+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Militari din SUA, aduși la baza Mihail Kogălniceanu cu avionul echipei de fotbal american New England Patriots",
+      "summary": "O aeronavă cu însemnele echipei de fotbal american New England Patriots a aterizat pe Aeroportul Internațional Mihail Kogălniceanu din județul Constanța. Avionul a fost folosit pentru transportul soldaților americani care au ajuns în România.",
+      "link": "https://www.digi24.ro/stiri/actualitate/militari-din-sua-adusi-la-baza-mihail-kogalniceanu-cu-avionul-echipei-de-fotbal-american-new-england-patriots-3616611",
+      "published_utc": "2026-02-04T21:31:20+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "Zelenski anunță câți ucraineni au murit pe front. Numărul este mult mai mic decât estimările neoficiale",
+      "summary": "Numărul soldaților ucraineni uciși în luptele de pe linia frontului cu armata rusă este estimat la 55.000, a declarat președintele Ucrainei Volodimir Zelenski într-un interviu pentru France2, transmite Reuters. „În Ucraina, numărul oficial al soldaților&#8230;",
+      "link": "https://hotnews.ro/zelenski-anunta-cati-ucraineni-au-murit-pe-front-numarul-este-mai-mic-decat-estimarile-neoficiale-2165020",
+      "published_utc": "2026-02-04T21:25:18+00:00",
+      "score": 1
+    },
     {
       "section": "romania",
       "kind": "ro",
@@ -220,86 +300,6 @@
       "summary": "Cazul Jeffrey Epstein arată ca un fel de „dans al vampirilor” din elitele occidentale, a afirmat miercuri Ministerul rus de Externe, conform agenției EFE, după publicarea milioanelor de documente ce relevă practicile miliardarului bine conectat politic şi care s-a sinucis în detenţie după ce a fost acuzat că trafica sexual fete, inclusiv minore, pentru numeroase personalităţi din lumea politică şi de afaceri.",
       "link": "https://www.digi24.ro/stiri/externe/rusia/cazul-epstein-un-dans-al-vampirilor-din-elitele-occidentale-maria-zaharova-un-fulg-de-zapada-pe-varful-aisbergului-3616327",
       "published_utc": "2026-02-04T19:20:39+00:00",
-      "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "HotNews",
-      "title": "Coaliția poate funcționa mai bine, dar „pentru asta ar trebui să ne respectăm mai mult între noi”, afirmă Bolojan",
-      "summary": "Premierul Ilie Bolojan s-a declarat miercuri convins că actuala coaliție guvernamentală „ar putea funcționa mult mai bine dacă ne-am respecta între noi”, în contextelor criticilor repetate venite din partea partenerului de guvernare PSD, dar și&#8230;",
-      "link": "https://hotnews.ro/coalitia-poate-functiona-mai-bine-dar-pentru-asta-ar-trebui-sa-ne-respectam-mai-mult-intre-noi-afirma-bolojan-cum-raspunde-solicitarii-udmr-de-scadere-a-taxelor-locale-2164959",
-      "published_utc": "2026-02-04T19:17:59+00:00",
-      "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Val de concedieri voluntare la Dacia: unu din 10 angajați Dacia vor fi înlocuiți cu roboți",
-      "summary": "Uzina Dacia din Mioveni se confruntă cu un val de concedieri voluntare. Aproximativ 1.000 de angajați ar urma să plece cu salarii compensatorii, în condițiile în care fabrica are planuri de tehnologizare masivă, iar oamenii ar urma să fie înlocuiți de procese automatizate și robotizate. În plus, este luat în calcul și scenariul unei reduceri a producției de automobile anul acesta, anunță Digi24.",
-      "link": "https://www.digi24.ro/stiri/economie/transporturi/val-de-concedieri-voluntare-la-dacia-unul-din-10-angajati-dacia-vor-fi-inlocuiti-cu-roboti-3616089",
-      "published_utc": "2026-02-04T19:13:06+00:00",
-      "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Când va fi tranșată aplicarea referendumului privind bugetul Capitalei. Anunțul prim-ministrului Bolojan despre viitorul Bucureștiului",
-      "summary": "Ilie Bolojan a declarat, într-o conferință de presă, pe 4 februarie, că situația Primăriei București este cunoscută, instituția fiind subfinanțată de ani de zile.",
-      "link": "https://www.digi24.ro/stiri/actualitate/politica/cand-va-fi-transata-aplicarea-referendumului-privind-bugetul-capitalei-anuntul-prim-ministrului-bolojan-despre-viitorul-bucurestiului-3616377",
-      "published_utc": "2026-02-04T19:08:12+00:00",
-      "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Liberalizarea gazelor, amânată până în 2027. Ilie Bolojan anunță o perioadă tranzitorie, „cu un preţ care nu va mai fi plafonat”",
-      "summary": "Premierul Ilie Bolojan a declarat, miercuri, că anul 2027 este cel mai potrivit pentru liberalizarea preţului la gaz, deoarece România ar urma să beneficieze de o supraproducţie odată cu extragerea gazelor din Marea Neagră. Bolojan a explicat că, de la 1 aprilie 2026 şi până în martie 2027, ar urma o perioadă tranzitorie, cu un preţ care nu va mai fi plafonat, ci administrat pentru consumatorii casnici. Această administrare se va vedea pe întreg lanţul - producători, distribuitori şi furnizori, a mai anunțat prim-ministrul.",
-      "link": "https://www.digi24.ro/stiri/economie/energie/liberalizarea-gazelor-amanata-pana-in-2027-ilie-bolojan-anunta-o-perioada-tranzitorie-cu-un-pret-care-nu-va-mai-fi-plafonat-3616355",
-      "published_utc": "2026-02-04T19:05:12+00:00",
-      "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Cum vrea Guvernul să salveze Combinatul Liberty de la Galați",
-      "summary": "Premierul Ilie Bolojan a afirmat, miercuri, că intenţia Guvernului este de a declara obiectiv de importanţă strategică Combinatul Liberty Galaţi, pentru a putea fi demarată o licitaţie internaţională pentru preluarea lui. El a menţionat că trebuie asigurată siguranţa combinatului în perioada următoare şi plăţile pentru angajaţi.",
-      "link": "https://www.digi24.ro/stiri/actualitate/politica/cum-vrea-guvernul-sa-salveze-combinatul-liberty-de-la-galati-3616351",
-      "published_utc": "2026-02-04T18:49:46+00:00",
-      "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "HotNews",
-      "title": "Ilie Bolojan, după avertismentul JP Morgan că România a ajuns să împrumute sume record: Trebuie să asigurăm stabilitatea politică",
-      "summary": "„Ceea ce trebuie să facem este să asigurăm stabilitatea politică, indiferent de coaliție, indiferent de cine este premier”, a răspuns miercuri premierul Ilie Bolojan, întrebat de HotNews despre faptul că țara noastră a ajuns să&#8230;",
-      "link": "https://hotnews.ro/ilie-bolojan-dupa-avertismentul-jp-morgan-ca-romania-a-ajuns-sa-imprumute-sume-record-trebuie-sa-asiguram-stabilitatea-politica-2164869",
-      "published_utc": "2026-02-04T18:37:53+00:00",
-      "score": 3
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Răspunsul lui Ilie Bolojan pentru Kelemen Hunor, care vrea scăderea impozitelor locale: Trebuie schimbată legea",
-      "summary": "Premierul Ilie Bolojan a spus miercuri seara, referitor la cererea UDMR de scădere a taxelor și impozitelor cu 50%, că actuala legislație permite doar creșterea acestora, nu și scăderea lor. Din acest motiv, premierul a subliniat că pentru a permite o scădere a impozitelor trebuie modificată legea „într-un termen cât mai scurt, înainte de aprobare a bugetului”, dar nu a avansat un procent care ar putea fi redus.",
-      "link": "https://www.digi24.ro/stiri/actualitate/politica/raspunsul-lui-ilie-bolojan-pentru-kelemen-hunor-care-vrea-scaderea-impozitelor-locale-trebuie-schimbata-legea-3616235",
-      "published_utc": "2026-02-04T18:34:21+00:00",
-      "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Poluare cu produse petroliere pe Dunăre, în zona Giurgiu, după scufundarea unei nave. Ce spun specialişti de la „Apele Române”",
-      "summary": "Administraţia „Apele Române” anunţă că, miercuri, a fost semnalată o poluare cu produse petroliere pe Dunăre, în zona Plajei Vechi Giurgiu, după scufundarea unui împingător.",
-      "link": "https://www.digi24.ro/stiri/actualitate/poluare-cu-produse-petroliere-pe-dunare-in-zona-giurgiu-dupa-scufundarea-unei-nave-ce-spun-specialisti-de-la-apele-romane-3616277",
-      "published_utc": "2026-02-04T18:31:12+00:00",
       "score": 1
     },
     {
@@ -569,6 +569,86 @@
         "section": "romania",
         "kind": "ro",
         "source": "HotNews",
+        "title": "Revoluția digitală a „puiului prăjit” în China. KFC se laudă cu cel mai mare program de loialitate din lume cu ajutorul AI",
+        "summary": "Compania-mamă a KFC din China a raportat o creștere agresivă a programelor sale digitale de loialitate, depășind 590 de milioane de membri, ceea ce reprezintă peste 40% din populația țării, informează miercuri Reuters. Yum China,&#8230;",
+        "link": "https://hotnews.ro/revolutia-digitala-a-puiului-prajit-in-china-kfc-se-lauda-cu-cel-mai-mare-program-de-loialitate-din-lume-cu-ajutorul-ai-2165037",
+        "published_utc": "2026-02-04T22:06:14+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "PSD îi impută lui Bolojan că întârziat pachetul de stimulare a economiei: „Cinci luni de indecizie și tergiversare”",
+        "summary": "PSD susține că situaţia economică actuală ar fi putut fi evitată dacă pachetul de stimulare a economiei, propus de social-democraţi, ar fi fost adoptat de acum cinci luni, întârziere care îi este imputată primului-ministru Ilie&#8230;",
+        "link": "https://hotnews.ro/psd-ii-imputa-lui-bolojan-ca-intarziat-pachetul-de-stimulare-a-economiei-cinci-luni-de-indecizie-si-tergiversare-2165032",
+        "published_utc": "2026-02-04T21:57:49+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Jocurile Olimpice de iarnă au început deja, cu proba de curling. Competiţia a fost însă întreruptă din cauza unei pene de curent",
+        "summary": "Jocurile Olimpice de iarnă au început miercuri cu primele confruntări de curling la Cortina, dar au fost întrerupte la scurt timp din cauza unei pene de curent, relatează AP.",
+        "link": "https://www.digi24.ro/stiri/sport/alte-sporturi/jocurile-olimpice-de-iarna-au-inceput-deja-cu-proba-de-curling-competitia-a-fost-insa-intrerupta-din-cauza-unei-pene-de-curent-3616649",
+        "published_utc": "2026-02-04T21:52:51+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "SUA, UE și Japonia anunță un parteneriat strategic privind aprovizionarea cu minerale critice",
+        "summary": "Statele Unite, Uniunea Europeană și Japonia au anunțat miercuri că realizează un parteneriat strategic care vizează ameliorarea aprovizionării cu minerale critice, esențiale în sectoare precum cel al construcției de automobile, al apărării și cel digital,&#8230;",
+        "link": "https://hotnews.ro/sua-ue-si-japonia-anunta-un-parteneriat-strategic-privind-aprovizionarea-cu-minerale-critice-2165029",
+        "published_utc": "2026-02-04T21:39:19+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Poliţist înjunghiat în spate de un tânăr de 16 ani, în Baia Mare",
+        "summary": "Un poliţist din Baia Mare a fost înjunghiat în spate, miercuri, şi a fost transportat la spital. Incidentul s-a produs pe o stradă din oraş, în timp ce agentul era în timpul liber. Făptaşul a fugit, fiind derulată o amplă operaţiune pentru căutarea sa.",
+        "link": "https://www.digi24.ro/stiri/actualitate/politist-injunghiat-in-spate-de-un-tanar-de-16-ani-in-baia-mare-3616631",
+        "published_utc": "2026-02-04T21:39:05+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Cucerirea estului Ucrainei ar costa Moscova 800.000 de soldați, susține Volodimir Zelenski. Câți ucraineni au murit pe front",
+        "summary": "Președintele ucrainean Volodimir Zelenski a dezvăluit pentru postul de televiziune France 2 numărul soldaților ucraineni uciși pe câmpul de luptă. Totodată, liderul de la Kiev a apreciat că Rusia ar trebui să sacrifice încă 800.000 de soldaţi pe parcursul a doi ani pentru a cuceri militar estul Ucrainei pe care doreşte să îl anexeze, relatează Reuters și AFP.",
+        "link": "https://www.digi24.ro/stiri/externe/ue/cucerirea-estului-ucrainei-ar-costa-moscova-800-000-de-soldati-sustine-volodimir-zelenski-cati-ucraineni-au-murit-pe-front-3616617",
+        "published_utc": "2026-02-04T21:32:07+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Militari din SUA, aduși la baza Mihail Kogălniceanu cu avionul echipei de fotbal american New England Patriots",
+        "summary": "O aeronavă cu însemnele echipei de fotbal american New England Patriots a aterizat pe Aeroportul Internațional Mihail Kogălniceanu din județul Constanța. Avionul a fost folosit pentru transportul soldaților americani care au ajuns în România.",
+        "link": "https://www.digi24.ro/stiri/actualitate/militari-din-sua-adusi-la-baza-mihail-kogalniceanu-cu-avionul-echipei-de-fotbal-american-new-england-patriots-3616611",
+        "published_utc": "2026-02-04T21:31:20+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Zelenski anunță câți ucraineni au murit pe front. Numărul este mult mai mic decât estimările neoficiale",
+        "summary": "Numărul soldaților ucraineni uciși în luptele de pe linia frontului cu armata rusă este estimat la 55.000, a declarat președintele Ucrainei Volodimir Zelenski într-un interviu pentru France2, transmite Reuters. „În Ucraina, numărul oficial al soldaților&#8230;",
+        "link": "https://hotnews.ro/zelenski-anunta-cati-ucraineni-au-murit-pe-front-numarul-este-mai-mic-decat-estimarile-neoficiale-2165020",
+        "published_utc": "2026-02-04T21:25:18+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
         "title": "Document misterios, publicat de Ministerul Energiei și șters după câteva minute / Furnizorii de electricitate și gaze erau acuzați de creșterea nejustificată a facturilor",
         "summary": "În timp ce premierul Ilie Bolojan anunța miercuri seară, într-o conferință de presă, că liberalizarea pieței gazelor se amână cu un an, pe site-ul Ministerului Energiei a fost postat un proiect de ordonanță de urgență,&#8230;",
         "link": "https://hotnews.ro/document-misterios-publicat-de-ministerul-energiei-si-sters-dupa-cateva-minute-furnizorii-de-electricitate-si-gaze-erau-acuzati-de-cresterea-nejustificata-a-facturilor-2164996",
@@ -783,86 +863,6 @@
         "summary": "Cazul Jeffrey Epstein arată ca un fel de „dans al vampirilor” din elitele occidentale, a afirmat miercuri Ministerul rus de Externe, conform agenției EFE, după publicarea milioanelor de documente ce relevă practicile miliardarului bine conectat politic şi care s-a sinucis în detenţie după ce a fost acuzat că trafica sexual fete, inclusiv minore, pentru numeroase personalităţi din lumea politică şi de afaceri.",
         "link": "https://www.digi24.ro/stiri/externe/rusia/cazul-epstein-un-dans-al-vampirilor-din-elitele-occidentale-maria-zaharova-un-fulg-de-zapada-pe-varful-aisbergului-3616327",
         "published_utc": "2026-02-04T19:20:39+00:00",
-        "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "Coaliția poate funcționa mai bine, dar „pentru asta ar trebui să ne respectăm mai mult între noi”, afirmă Bolojan",
-        "summary": "Premierul Ilie Bolojan s-a declarat miercuri convins că actuala coaliție guvernamentală „ar putea funcționa mult mai bine dacă ne-am respecta între noi”, în contextelor criticilor repetate venite din partea partenerului de guvernare PSD, dar și&#8230;",
-        "link": "https://hotnews.ro/coalitia-poate-functiona-mai-bine-dar-pentru-asta-ar-trebui-sa-ne-respectam-mai-mult-intre-noi-afirma-bolojan-cum-raspunde-solicitarii-udmr-de-scadere-a-taxelor-locale-2164959",
-        "published_utc": "2026-02-04T19:17:59+00:00",
-        "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Val de concedieri voluntare la Dacia: unu din 10 angajați Dacia vor fi înlocuiți cu roboți",
-        "summary": "Uzina Dacia din Mioveni se confruntă cu un val de concedieri voluntare. Aproximativ 1.000 de angajați ar urma să plece cu salarii compensatorii, în condițiile în care fabrica are planuri de tehnologizare masivă, iar oamenii ar urma să fie înlocuiți de procese automatizate și robotizate. În plus, este luat în calcul și scenariul unei reduceri a producției de automobile anul acesta, anunță Digi24.",
-        "link": "https://www.digi24.ro/stiri/economie/transporturi/val-de-concedieri-voluntare-la-dacia-unul-din-10-angajati-dacia-vor-fi-inlocuiti-cu-roboti-3616089",
-        "published_utc": "2026-02-04T19:13:06+00:00",
-        "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Când va fi tranșată aplicarea referendumului privind bugetul Capitalei. Anunțul prim-ministrului Bolojan despre viitorul Bucureștiului",
-        "summary": "Ilie Bolojan a declarat, într-o conferință de presă, pe 4 februarie, că situația Primăriei București este cunoscută, instituția fiind subfinanțată de ani de zile.",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/cand-va-fi-transata-aplicarea-referendumului-privind-bugetul-capitalei-anuntul-prim-ministrului-bolojan-despre-viitorul-bucurestiului-3616377",
-        "published_utc": "2026-02-04T19:08:12+00:00",
-        "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Liberalizarea gazelor, amânată până în 2027. Ilie Bolojan anunță o perioadă tranzitorie, „cu un preţ care nu va mai fi plafonat”",
-        "summary": "Premierul Ilie Bolojan a declarat, miercuri, că anul 2027 este cel mai potrivit pentru liberalizarea preţului la gaz, deoarece România ar urma să beneficieze de o supraproducţie odată cu extragerea gazelor din Marea Neagră. Bolojan a explicat că, de la 1 aprilie 2026 şi până în martie 2027, ar urma o perioadă tranzitorie, cu un preţ care nu va mai fi plafonat, ci administrat pentru consumatorii casnici. Această administrare se va vedea pe întreg lanţul - producători, distribuitori şi furnizori, a mai anunțat prim-ministrul.",
-        "link": "https://www.digi24.ro/stiri/economie/energie/liberalizarea-gazelor-amanata-pana-in-2027-ilie-bolojan-anunta-o-perioada-tranzitorie-cu-un-pret-care-nu-va-mai-fi-plafonat-3616355",
-        "published_utc": "2026-02-04T19:05:12+00:00",
-        "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Cum vrea Guvernul să salveze Combinatul Liberty de la Galați",
-        "summary": "Premierul Ilie Bolojan a afirmat, miercuri, că intenţia Guvernului este de a declara obiectiv de importanţă strategică Combinatul Liberty Galaţi, pentru a putea fi demarată o licitaţie internaţională pentru preluarea lui. El a menţionat că trebuie asigurată siguranţa combinatului în perioada următoare şi plăţile pentru angajaţi.",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/cum-vrea-guvernul-sa-salveze-combinatul-liberty-de-la-galati-3616351",
-        "published_utc": "2026-02-04T18:49:46+00:00",
-        "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "Ilie Bolojan, după avertismentul JP Morgan că România a ajuns să împrumute sume record: Trebuie să asigurăm stabilitatea politică",
-        "summary": "„Ceea ce trebuie să facem este să asigurăm stabilitatea politică, indiferent de coaliție, indiferent de cine este premier”, a răspuns miercuri premierul Ilie Bolojan, întrebat de HotNews despre faptul că țara noastră a ajuns să&#8230;",
-        "link": "https://hotnews.ro/ilie-bolojan-dupa-avertismentul-jp-morgan-ca-romania-a-ajuns-sa-imprumute-sume-record-trebuie-sa-asiguram-stabilitatea-politica-2164869",
-        "published_utc": "2026-02-04T18:37:53+00:00",
-        "score": 3
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Răspunsul lui Ilie Bolojan pentru Kelemen Hunor, care vrea scăderea impozitelor locale: Trebuie schimbată legea",
-        "summary": "Premierul Ilie Bolojan a spus miercuri seara, referitor la cererea UDMR de scădere a taxelor și impozitelor cu 50%, că actuala legislație permite doar creșterea acestora, nu și scăderea lor. Din acest motiv, premierul a subliniat că pentru a permite o scădere a impozitelor trebuie modificată legea „într-un termen cât mai scurt, înainte de aprobare a bugetului”, dar nu a avansat un procent care ar putea fi redus.",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/raspunsul-lui-ilie-bolojan-pentru-kelemen-hunor-care-vrea-scaderea-impozitelor-locale-trebuie-schimbata-legea-3616235",
-        "published_utc": "2026-02-04T18:34:21+00:00",
-        "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Poluare cu produse petroliere pe Dunăre, în zona Giurgiu, după scufundarea unei nave. Ce spun specialişti de la „Apele Române”",
-        "summary": "Administraţia „Apele Române” anunţă că, miercuri, a fost semnalată o poluare cu produse petroliere pe Dunăre, în zona Plajei Vechi Giurgiu, după scufundarea unui împingător.",
-        "link": "https://www.digi24.ro/stiri/actualitate/poluare-cu-produse-petroliere-pe-dunare-in-zona-giurgiu-dupa-scufundarea-unei-nave-ce-spun-specialisti-de-la-apele-romane-3616277",
-        "published_utc": "2026-02-04T18:31:12+00:00",
         "score": 1
       }
     ],
@@ -1139,7 +1139,7 @@
         "title": "🚀 Spațiu",
         "link": "https://apod.nasa.gov/apod/astropix.html",
         "image_url": "https://apod.nasa.gov/apod/calendar/S_260204.jpg",
-        "published_utc": "2026-02-04T21:24:51+00:00"
+        "published_utc": "2026-02-04T22:16:58+00:00"
       },
       {
         "category_id": "animals",
