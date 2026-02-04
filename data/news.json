@@ -1,15 +1,75 @@
 {
-  "generated_utc": "2026-02-04T18:02:47+00:00",
-  "count": 57,
+  "generated_utc": "2026-02-04T18:34:53+00:00",
+  "count": 56,
   "items": [
     {
       "section": "romania",
       "kind": "ro",
       "source": "Digi24",
-      "title": "Jalonul din PNRR privind pensiile magistraților, neîndeplinit. Bolojan: Voi informa CCR. Probabilitatea să pierdem banii e foarte mare",
+      "title": "Răspunsul lui Ilie Bolojan pentru Kelemen Hunor, care vrea scăderea impozitelor locale: Trebuie schimbată legea",
+      "summary": "Premierul Ilie Bolojan a spus miercuri seara, referitor la cererea UDMR de scădere a taxelor și impozitelor cu 50%, că actuala legislație permite doar creșterea acestora, nu și scăderea lor. Din acest motiv, premierul a subliniat că pentru a permite o scădere a impozitelor trebuie modificată legea „într-un termen cât mai scurt, înainte de aprobare a bugetului”, dar nu a avansat un procent care ar putea fi redus.",
+      "link": "https://www.digi24.ro/stiri/actualitate/politica/raspunsul-lui-ilie-bolojan-pentru-kelemen-hunor-care-vrea-scaderea-impozitelor-locale-trebuie-schimbata-legea-3616235",
+      "published_utc": "2026-02-04T18:32:57+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Poluare cu produse petroliere pe Dunăre, în zona Giurgiu, după scufundarea unei nave. Ce spun specialişti de la „Apele Române”",
+      "summary": "Administraţia „Apele Române” anunţă că, miercuri, a fost semnalată o poluare cu produse petroliere pe Dunăre, în zona Plajei Vechi Giurgiu, după scufundarea unui împingător.",
+      "link": "https://www.digi24.ro/stiri/actualitate/poluare-cu-produse-petroliere-pe-dunare-in-zona-giurgiu-dupa-scufundarea-unei-nave-ce-spun-specialisti-de-la-apele-romane-3616277",
+      "published_utc": "2026-02-04T18:31:12+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Kelemen Hunor, după raportul SUA: Suntem exemplul negativ în disputa dintre Washington și Bruxelles. Ce propune liderul UDMR",
+      "summary": "Kelemen Hunor, președintele UDMR, a declarat, miercuri, după raportul Comisiei Juridice a Camerei Reprezentanţilor din SUA, în care se face referire la anularea alegerilor din 2024, că România trebuie să lămurească această problemă cu americanii această chestiune, altfel va fi dezastru pe termen scurt, pentru că este credibilitatea țării este în joc.",
+      "link": "https://www.digi24.ro/stiri/actualitate/politica/kelemen-hunor-dupa-raportul-sua-suntem-exemplul-negativ-in-disputa-dintre-washington-si-bruxelles-ce-propune-liderul-udmr-3616295",
+      "published_utc": "2026-02-04T18:28:36+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Prim-ministrul respinge interzicerea accesului copiilor la rețele sociale. Motivul: e greu de implementat",
+      "summary": "Premierul Ilie Bolojan a declarat, miercuri, într-o conferință de presă la Palatul Victoria, că o interzicere a acesului copiilor la rețelele sociale online este greu de implementat. „Putem lua însă măsuri de prevenție, de educare”, a spus prim-ministrul, ca reacție la propunerea lui Raed Arafat de a limita accesul minorilor la aceste platforme.",
+      "link": "https://www.digi24.ro/stiri/actualitate/politica/prim-ministrul-respinge-interzicerea-accesului-copiilor-la-retele-sociale-motivul-e-greu-de-implementat-3616249",
+      "published_utc": "2026-02-04T18:15:28+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Bolojan, despre propunerile PSD de protecție a unor categorii vulnerabile: De acord, dar nu am discutat în coaliție sau guvern de ele",
+      "summary": "Partidul Social Democrat a pregătit un pachet pe care îl numesc ei de sprijin pentru românii vulnerabili. Ca primul punct în acest pachet este eliminarea CASS-ului pentru mame și veterani, apoi acel ajutor pentru pensii (one-off) și o creștere practică a indemnizației pe care o primesc copiii cu dizabilități sau din familii monoparentale. Ca urma a acestuia, Sorin Grindeanu a declarat că va condiționa adoptarea legii bugetului de adoptarea acestui pachet. Într-o conferință de presă care a avut loc la Palatul Victoria, premierul Ilie Bolojan a declarat că pachetul propus de PSD nu a fost discutat la nivel guvernamental, dar că este de acord cu sprijinul cetățenilor vulnerabili.",
+      "link": "https://www.digi24.ro/stiri/actualitate/politica/bolojan-despre-propunerile-psd-de-protectie-a-unor-categorii-vulnerabile-de-acord-dar-nu-am-discutat-in-coalitie-sau-guvern-de-ele-3616259",
+      "published_utc": "2026-02-04T18:11:32+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "„Ține cont de realități”. Explicația premierului Bolojan pentru neplata primei zile de concediu medical",
+      "summary": "Premierul Ilie Bolojan susține că decizia guvernului ca prima zi a concediului medical să nu mai fie plătită „ține cont de realități”. Decizia a fost adoptată la propunerea Ministerului Sănătății și are caracter tranzitoriu, a&#8230;",
+      "link": "https://hotnews.ro/tine-cont-de-realitati-explicatia-premierului-bolojan-pentru-neplata-primei-zile-de-concediu-medical-2164914",
+      "published_utc": "2026-02-04T18:09:14+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Bolojan, mesaj pentru CCR privind pensiile magistraților: Probabilitatea să pierdem banii din PNRR e foarte mare",
       "summary": "Premierul Ilie Bolojan a anunțat, miercuri seară, la Guvern, că jalonul din PNRR privind pensiile magistraților este în prezent neîndeplinit, conform Comisiei Europene, iar joi va informa CCR asupra consecințelor amânării unor decizii. Șeful Executivului transmite că probabilitatea de a pierde banii „e foarte mare”. În ceea ce privește plata alocată jalonului 215, există o reținere de aproape 230 de milioane de euro.",
       "link": "https://www.digi24.ro/stiri/actualitate/politica/jalonul-din-pnrr-privind-pensiile-magistratilor-neindeplinit-bolojan-voi-informa-ccr-probabilitatea-sa-pierdem-banii-e-foarte-mare-3616201",
-      "published_utc": "2026-02-04T17:57:47+00:00",
+      "published_utc": "2026-02-04T18:09:06+00:00",
       "score": 1
     },
     {
@@ -19,7 +79,7 @@
       "title": "Răspunsul premierului la acuzațiile SUA despre influențarea alegerilor: „Înțelegem și respectăm” afirmațiile, dar CCR a dat verdictul",
       "summary": "Ilie Bolojan a fost întrebat, în cadrul unei conferințe de presă susținute pe 4 februarie, despre raportul Comisiei Juridice din Camera Reprezentanților a SUA, care susține că oficialii UE ar fi influențat alegerile din România prin presiuni asupra rețelelor sociale. Șeful guvernului a subliniat că nu este vorba despre un raport explicit despre România, ci despre libertatea de exprimare, în general, și a subliniat că decizia CCR a fost conform legii.",
       "link": "https://www.digi24.ro/stiri/actualitate/politica/raspunsul-premierului-la-acuzatiile-sua-despre-influentarea-alegerilor-intelegem-si-respectam-afirmatiile-dar-ccr-a-dat-verdictul-3616223",
-      "published_utc": "2026-02-04T17:52:27+00:00",
+      "published_utc": "2026-02-04T18:06:20+00:00",
       "score": 1
     },
     {
@@ -216,8 +276,8 @@
       "section": "romania",
       "kind": "ro",
       "source": "HotNews",
-      "title": "LIVE VIDEO Ilie Bolojan anunță ținta de deficit și inflația pentru 2026 / Ce spune despre reducerea taxelor locale cerută de UDMR și tensiunile din coaliție: „Ar putea funcționa mai bine, trebuie să ne respectăm mai mult între noi”",
-      "summary": "Premierul Ilie Bolojan susține în această seară de la ora 19.00 o conferință de presă la Palatul Victoria. Este prima conferință de presă a șefului guvernului din acest an. HotNews transmite în format LIVETEXT principalele&#8230;",
+      "title": "VIDEO Ilie Bolojan anunță ținta de deficit și inflația pentru 2026 / Ce spune despre reducerea taxelor locale cerută de UDMR și tensiunile din coaliție: „Ar putea funcționa mai bine, trebuie să ne respectăm mai mult între noi”",
+      "summary": "Premierul Ilie Bolojan a susținut o conferință de presă în care a anunțat țintele de deficit și inflație care vor sta la baza fundamentării bugetului de stat pe anul 2026. Bolojan a anunțat că-și va&#8230;",
       "link": "https://hotnews.ro/ilie-bolojan-anunt-de-ultima-ora-premierul-sustine-o-conferinta-de-presa-in-scurt-timp-2164825",
       "published_utc": "2026-02-04T16:04:11+00:00",
       "score": 1
@@ -261,66 +321,6 @@
       "link": "https://www.digi24.ro/stiri/externe/statele-unite-vor-oferi-r-moldova-365-milioane-de-dolari-pentru-securitate-nationala-legea-a-fost-semnata-de-donald-trump-3615991",
       "published_utc": "2026-02-04T15:54:01+00:00",
       "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "HotNews",
-      "title": "Harta județelor unde pacienții sunt condamnați să facă naveta pentru tratament, în țara în care peste 80.000 de oameni sunt diagnosticați anual cu cancer",
-      "summary": "Peste 80.000 de oameni sunt diagnosticați cu cancer an de an, în România. Ca să aibă acces la tratament, mulți dintre ei fac naveta zeci de kilometri, în condițiile în care 28 din cele 41&#8230;",
-      "link": "https://hotnews.ro/harta-judetelor-unde-pacientii-sunt-condamnati-sa-faca-naveta-pentru-tratament-in-tara-in-care-peste-60-000-de-oameni-sunt-diagnosticati-anual-cu-cancer-2164781",
-      "published_utc": "2026-02-04T15:46:55+00:00",
-      "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "BNR avertizează că un document atribuit instituției, care circulă în mediul online, este fals",
-      "summary": "Banca Naţională a României (BNR) avertizează că un document atribuit instituţiei care circulă în mediul online este fals. Acesta se referă la „procura cu autoritate totală” şi foloseşte nume reale ale unor structuri şi reprezentanţi ai BNR, precum şi sigla, antetul şi datele de contact reale ale Băncii Naţionale a României. BNR reaminteşte că toate comunicatele sale oficiale sunt publicate exclusiv pe site-ul instituţiei şi pe canalele de comunicare ale BNR.",
-      "link": "https://www.digi24.ro/stiri/actualitate/bnr-avertizeaza-ca-un-document-atribuit-institutiei-care-circula-in-mediul-online-este-fals-3615959",
-      "published_utc": "2026-02-04T15:44:13+00:00",
-      "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Cutii cu bomboane, ouă și cafea – mita pentru care un procuror din Vâlcea a cerut închisoare. Judecătorii au respins dosarele",
-      "summary": "În loc să se ocupe de marii infractori, un procuror din Vâlcea a interceptat trei persoane și a cerut închisoare pentru ele, pentru că ar fi oferit cutii cu bomboane, ouă și cafea unor medici și polițiști.",
-      "link": "https://www.digi24.ro/stiri/actualitate/evenimente/cutii-cu-bomboane-oua-si-cafea-mita-pentru-care-un-procuror-din-valcea-a-cerut-inchisoare-judecatorii-au-respins-dosarele-3615951",
-      "published_utc": "2026-02-04T15:43:25+00:00",
-      "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "HotNews",
-      "title": "Grafic trist de la Eurostat: România sfidează orice cifră europeană la creșterea prețurilor. Peste dublu față de cea mai mare inflație pe anul 2025 din vreo țară UE",
-      "summary": "Eurostat a publicat inflația anuală pe 2025. Zona euro are 1,8%, iar cea mai mare inflație după România a fost în Slovacia, de 4,1%, relevă datele analizate de Profit.ro. Creșterea prețurilor din România a sărit&#8230;",
-      "link": "https://hotnews.ro/grafic-trist-de-la-eurostat-romania-sfideaza-orice-cifra-europeana-la-cresterea-preturilor-peste-dublu-fata-de-cea-mai-mare-inflatie-pe-anul-2025-din-vreo-tara-ue-2164778",
-      "published_utc": "2026-02-04T15:29:32+00:00",
-      "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Mircea Lucescu ar putea fi transferat în străinătate, la un spital din Belgia, la cererea sa",
-      "summary": "Mircea Lucescu, selecționerul echipei naționale de footbal, este internat în prezent la Spitalul Universitar din Capitală. Potrivit unor surse antrenorul vrea să meargă la un control la un spital din Bruxelles pentru probleme mai vechi de sănătate, informează Digi24.",
-      "link": "https://www.digi24.ro/stiri/actualitate/mircea-lucescu-ar-putea-fi-transferat-in-strainatate-la-un-spital-din-belgia-la-cererea-sa-3615901",
-      "published_utc": "2026-02-04T15:23:48+00:00",
-      "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "HotNews",
-      "title": "Zăcământ de minerale rare, descoperite în vestul țării. Printre ele, uraniu și nichel",
-      "summary": "Compania canadiană Leading Edge Materials a descoperit în Munții Apuseni zăcăminte importante de minerale rare, într-un perimetru de circa 25 de kilometri pătrați, aflat în județele Bihor și Arad, scrie Digi24.ro. Potrivit analizelor preliminare ale&#8230;",
-      "link": "https://hotnews.ro/zacamant-de-minerale-rare-descoperite-in-vestul-tarii-printre-ele-uraniu-si-nichel-2164751",
-      "published_utc": "2026-02-04T15:23:25+00:00",
-      "score": 2
     },
     {
       "section": "science",
@@ -371,16 +371,6 @@
       "link": "https://www.nasa.gov/news-release/nasa-astronaut-to-answer-questions-from-students-in-pennsylvania/",
       "published_utc": "2026-02-02T22:44:51+00:00",
       "score": 4
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "NASA Breaking News",
-      "title": "NASA’s Orion Spacecraft at Launch Pad",
-      "summary": "NASA’s Orion spacecraft, which will carry the Artemis II crew around the Moon, sits at the launch pad on Jan. 17, 2026, after rollout. It rests atop the SLS (Space Launch System) rocket. Orion can provide living space on missions for four astronauts for up to 21 days without docking to another spacecraft.&#160;Advances in technology [&#8230;]",
-      "link": "https://www.nasa.gov/image-article/nasas-orion-spacecraft-at-launch-pad/",
-      "published_utc": "2026-02-02T17:02:44+00:00",
-      "score": 2
     },
     {
       "section": "science",
@@ -579,10 +569,70 @@
         "section": "romania",
         "kind": "ro",
         "source": "Digi24",
-        "title": "Jalonul din PNRR privind pensiile magistraților, neîndeplinit. Bolojan: Voi informa CCR. Probabilitatea să pierdem banii e foarte mare",
+        "title": "Răspunsul lui Ilie Bolojan pentru Kelemen Hunor, care vrea scăderea impozitelor locale: Trebuie schimbată legea",
+        "summary": "Premierul Ilie Bolojan a spus miercuri seara, referitor la cererea UDMR de scădere a taxelor și impozitelor cu 50%, că actuala legislație permite doar creșterea acestora, nu și scăderea lor. Din acest motiv, premierul a subliniat că pentru a permite o scădere a impozitelor trebuie modificată legea „într-un termen cât mai scurt, înainte de aprobare a bugetului”, dar nu a avansat un procent care ar putea fi redus.",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/raspunsul-lui-ilie-bolojan-pentru-kelemen-hunor-care-vrea-scaderea-impozitelor-locale-trebuie-schimbata-legea-3616235",
+        "published_utc": "2026-02-04T18:32:57+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Poluare cu produse petroliere pe Dunăre, în zona Giurgiu, după scufundarea unei nave. Ce spun specialişti de la „Apele Române”",
+        "summary": "Administraţia „Apele Române” anunţă că, miercuri, a fost semnalată o poluare cu produse petroliere pe Dunăre, în zona Plajei Vechi Giurgiu, după scufundarea unui împingător.",
+        "link": "https://www.digi24.ro/stiri/actualitate/poluare-cu-produse-petroliere-pe-dunare-in-zona-giurgiu-dupa-scufundarea-unei-nave-ce-spun-specialisti-de-la-apele-romane-3616277",
+        "published_utc": "2026-02-04T18:31:12+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Kelemen Hunor, după raportul SUA: Suntem exemplul negativ în disputa dintre Washington și Bruxelles. Ce propune liderul UDMR",
+        "summary": "Kelemen Hunor, președintele UDMR, a declarat, miercuri, după raportul Comisiei Juridice a Camerei Reprezentanţilor din SUA, în care se face referire la anularea alegerilor din 2024, că România trebuie să lămurească această problemă cu americanii această chestiune, altfel va fi dezastru pe termen scurt, pentru că este credibilitatea țării este în joc.",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/kelemen-hunor-dupa-raportul-sua-suntem-exemplul-negativ-in-disputa-dintre-washington-si-bruxelles-ce-propune-liderul-udmr-3616295",
+        "published_utc": "2026-02-04T18:28:36+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Prim-ministrul respinge interzicerea accesului copiilor la rețele sociale. Motivul: e greu de implementat",
+        "summary": "Premierul Ilie Bolojan a declarat, miercuri, într-o conferință de presă la Palatul Victoria, că o interzicere a acesului copiilor la rețelele sociale online este greu de implementat. „Putem lua însă măsuri de prevenție, de educare”, a spus prim-ministrul, ca reacție la propunerea lui Raed Arafat de a limita accesul minorilor la aceste platforme.",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/prim-ministrul-respinge-interzicerea-accesului-copiilor-la-retele-sociale-motivul-e-greu-de-implementat-3616249",
+        "published_utc": "2026-02-04T18:15:28+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Bolojan, despre propunerile PSD de protecție a unor categorii vulnerabile: De acord, dar nu am discutat în coaliție sau guvern de ele",
+        "summary": "Partidul Social Democrat a pregătit un pachet pe care îl numesc ei de sprijin pentru românii vulnerabili. Ca primul punct în acest pachet este eliminarea CASS-ului pentru mame și veterani, apoi acel ajutor pentru pensii (one-off) și o creștere practică a indemnizației pe care o primesc copiii cu dizabilități sau din familii monoparentale. Ca urma a acestuia, Sorin Grindeanu a declarat că va condiționa adoptarea legii bugetului de adoptarea acestui pachet. Într-o conferință de presă care a avut loc la Palatul Victoria, premierul Ilie Bolojan a declarat că pachetul propus de PSD nu a fost discutat la nivel guvernamental, dar că este de acord cu sprijinul cetățenilor vulnerabili.",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/bolojan-despre-propunerile-psd-de-protectie-a-unor-categorii-vulnerabile-de-acord-dar-nu-am-discutat-in-coalitie-sau-guvern-de-ele-3616259",
+        "published_utc": "2026-02-04T18:11:32+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "„Ține cont de realități”. Explicația premierului Bolojan pentru neplata primei zile de concediu medical",
+        "summary": "Premierul Ilie Bolojan susține că decizia guvernului ca prima zi a concediului medical să nu mai fie plătită „ține cont de realități”. Decizia a fost adoptată la propunerea Ministerului Sănătății și are caracter tranzitoriu, a&#8230;",
+        "link": "https://hotnews.ro/tine-cont-de-realitati-explicatia-premierului-bolojan-pentru-neplata-primei-zile-de-concediu-medical-2164914",
+        "published_utc": "2026-02-04T18:09:14+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Bolojan, mesaj pentru CCR privind pensiile magistraților: Probabilitatea să pierdem banii din PNRR e foarte mare",
         "summary": "Premierul Ilie Bolojan a anunțat, miercuri seară, la Guvern, că jalonul din PNRR privind pensiile magistraților este în prezent neîndeplinit, conform Comisiei Europene, iar joi va informa CCR asupra consecințelor amânării unor decizii. Șeful Executivului transmite că probabilitatea de a pierde banii „e foarte mare”. În ceea ce privește plata alocată jalonului 215, există o reținere de aproape 230 de milioane de euro.",
         "link": "https://www.digi24.ro/stiri/actualitate/politica/jalonul-din-pnrr-privind-pensiile-magistratilor-neindeplinit-bolojan-voi-informa-ccr-probabilitatea-sa-pierdem-banii-e-foarte-mare-3616201",
-        "published_utc": "2026-02-04T17:57:47+00:00",
+        "published_utc": "2026-02-04T18:09:06+00:00",
         "score": 1
       },
       {
@@ -592,7 +642,7 @@
         "title": "Răspunsul premierului la acuzațiile SUA despre influențarea alegerilor: „Înțelegem și respectăm” afirmațiile, dar CCR a dat verdictul",
         "summary": "Ilie Bolojan a fost întrebat, în cadrul unei conferințe de presă susținute pe 4 februarie, despre raportul Comisiei Juridice din Camera Reprezentanților a SUA, care susține că oficialii UE ar fi influențat alegerile din România prin presiuni asupra rețelelor sociale. Șeful guvernului a subliniat că nu este vorba despre un raport explicit despre România, ci despre libertatea de exprimare, în general, și a subliniat că decizia CCR a fost conform legii.",
         "link": "https://www.digi24.ro/stiri/actualitate/politica/raspunsul-premierului-la-acuzatiile-sua-despre-influentarea-alegerilor-intelegem-si-respectam-afirmatiile-dar-ccr-a-dat-verdictul-3616223",
-        "published_utc": "2026-02-04T17:52:27+00:00",
+        "published_utc": "2026-02-04T18:06:20+00:00",
         "score": 1
       },
       {
@@ -769,8 +819,8 @@
         "section": "romania",
         "kind": "ro",
         "source": "HotNews",
-        "title": "LIVE VIDEO Ilie Bolojan anunță ținta de deficit și inflația pentru 2026 / Ce spune despre reducerea taxelor locale cerută de UDMR și tensiunile din coaliție: „Ar putea funcționa mai bine, trebuie să ne respectăm mai mult între noi”",
-        "summary": "Premierul Ilie Bolojan susține în această seară de la ora 19.00 o conferință de presă la Palatul Victoria. Este prima conferință de presă a șefului guvernului din acest an. HotNews transmite în format LIVETEXT principalele&#8230;",
+        "title": "VIDEO Ilie Bolojan anunță ținta de deficit și inflația pentru 2026 / Ce spune despre reducerea taxelor locale cerută de UDMR și tensiunile din coaliție: „Ar putea funcționa mai bine, trebuie să ne respectăm mai mult între noi”",
+        "summary": "Premierul Ilie Bolojan a susținut o conferință de presă în care a anunțat țintele de deficit și inflație care vor sta la baza fundamentării bugetului de stat pe anul 2026. Bolojan a anunțat că-și va&#8230;",
         "link": "https://hotnews.ro/ilie-bolojan-anunt-de-ultima-ora-premierul-sustine-o-conferinta-de-presa-in-scurt-timp-2164825",
         "published_utc": "2026-02-04T16:04:11+00:00",
         "score": 1
@@ -814,66 +864,6 @@
         "link": "https://www.digi24.ro/stiri/externe/statele-unite-vor-oferi-r-moldova-365-milioane-de-dolari-pentru-securitate-nationala-legea-a-fost-semnata-de-donald-trump-3615991",
         "published_utc": "2026-02-04T15:54:01+00:00",
         "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "Harta județelor unde pacienții sunt condamnați să facă naveta pentru tratament, în țara în care peste 80.000 de oameni sunt diagnosticați anual cu cancer",
-        "summary": "Peste 80.000 de oameni sunt diagnosticați cu cancer an de an, în România. Ca să aibă acces la tratament, mulți dintre ei fac naveta zeci de kilometri, în condițiile în care 28 din cele 41&#8230;",
-        "link": "https://hotnews.ro/harta-judetelor-unde-pacientii-sunt-condamnati-sa-faca-naveta-pentru-tratament-in-tara-in-care-peste-60-000-de-oameni-sunt-diagnosticati-anual-cu-cancer-2164781",
-        "published_utc": "2026-02-04T15:46:55+00:00",
-        "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "BNR avertizează că un document atribuit instituției, care circulă în mediul online, este fals",
-        "summary": "Banca Naţională a României (BNR) avertizează că un document atribuit instituţiei care circulă în mediul online este fals. Acesta se referă la „procura cu autoritate totală” şi foloseşte nume reale ale unor structuri şi reprezentanţi ai BNR, precum şi sigla, antetul şi datele de contact reale ale Băncii Naţionale a României. BNR reaminteşte că toate comunicatele sale oficiale sunt publicate exclusiv pe site-ul instituţiei şi pe canalele de comunicare ale BNR.",
-        "link": "https://www.digi24.ro/stiri/actualitate/bnr-avertizeaza-ca-un-document-atribuit-institutiei-care-circula-in-mediul-online-este-fals-3615959",
-        "published_utc": "2026-02-04T15:44:13+00:00",
-        "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Cutii cu bomboane, ouă și cafea – mita pentru care un procuror din Vâlcea a cerut închisoare. Judecătorii au respins dosarele",
-        "summary": "În loc să se ocupe de marii infractori, un procuror din Vâlcea a interceptat trei persoane și a cerut închisoare pentru ele, pentru că ar fi oferit cutii cu bomboane, ouă și cafea unor medici și polițiști.",
-        "link": "https://www.digi24.ro/stiri/actualitate/evenimente/cutii-cu-bomboane-oua-si-cafea-mita-pentru-care-un-procuror-din-valcea-a-cerut-inchisoare-judecatorii-au-respins-dosarele-3615951",
-        "published_utc": "2026-02-04T15:43:25+00:00",
-        "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "Grafic trist de la Eurostat: România sfidează orice cifră europeană la creșterea prețurilor. Peste dublu față de cea mai mare inflație pe anul 2025 din vreo țară UE",
-        "summary": "Eurostat a publicat inflația anuală pe 2025. Zona euro are 1,8%, iar cea mai mare inflație după România a fost în Slovacia, de 4,1%, relevă datele analizate de Profit.ro. Creșterea prețurilor din România a sărit&#8230;",
-        "link": "https://hotnews.ro/grafic-trist-de-la-eurostat-romania-sfideaza-orice-cifra-europeana-la-cresterea-preturilor-peste-dublu-fata-de-cea-mai-mare-inflatie-pe-anul-2025-din-vreo-tara-ue-2164778",
-        "published_utc": "2026-02-04T15:29:32+00:00",
-        "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Mircea Lucescu ar putea fi transferat în străinătate, la un spital din Belgia, la cererea sa",
-        "summary": "Mircea Lucescu, selecționerul echipei naționale de footbal, este internat în prezent la Spitalul Universitar din Capitală. Potrivit unor surse antrenorul vrea să meargă la un control la un spital din Bruxelles pentru probleme mai vechi de sănătate, informează Digi24.",
-        "link": "https://www.digi24.ro/stiri/actualitate/mircea-lucescu-ar-putea-fi-transferat-in-strainatate-la-un-spital-din-belgia-la-cererea-sa-3615901",
-        "published_utc": "2026-02-04T15:23:48+00:00",
-        "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "Zăcământ de minerale rare, descoperite în vestul țării. Printre ele, uraniu și nichel",
-        "summary": "Compania canadiană Leading Edge Materials a descoperit în Munții Apuseni zăcăminte importante de minerale rare, într-un perimetru de circa 25 de kilometri pătrați, aflat în județele Bihor și Arad, scrie Digi24.ro. Potrivit analizelor preliminare ale&#8230;",
-        "link": "https://hotnews.ro/zacamant-de-minerale-rare-descoperite-in-vestul-tarii-printre-ele-uraniu-si-nichel-2164751",
-        "published_utc": "2026-02-04T15:23:25+00:00",
-        "score": 2
       }
     ],
     "medical": [],
@@ -947,16 +937,6 @@
         "link": "https://www.nasa.gov/news-release/nasa-astronaut-to-answer-questions-from-students-in-pennsylvania/",
         "published_utc": "2026-02-02T22:44:51+00:00",
         "score": 4
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "NASA Breaking News",
-        "title": "NASA’s Orion Spacecraft at Launch Pad",
-        "summary": "NASA’s Orion spacecraft, which will carry the Artemis II crew around the Moon, sits at the launch pad on Jan. 17, 2026, after rollout. It rests atop the SLS (Space Launch System) rocket. Orion can provide living space on missions for four astronauts for up to 21 days without docking to another spacecraft.&#160;Advances in technology [&#8230;]",
-        "link": "https://www.nasa.gov/image-article/nasas-orion-spacecraft-at-launch-pad/",
-        "published_utc": "2026-02-02T17:02:44+00:00",
-        "score": 2
       },
       {
         "section": "science",
@@ -1159,7 +1139,7 @@
         "title": "🚀 Spațiu",
         "link": "https://apod.nasa.gov/apod/astropix.html",
         "image_url": "https://apod.nasa.gov/apod/calendar/S_260204.jpg",
-        "published_utc": "2026-02-04T18:02:44+00:00"
+        "published_utc": "2026-02-04T18:34:50+00:00"
       },
       {
         "category_id": "animals",
