@@ -391,32 +391,77 @@ def get_page_title(html: str) -> str:
     return "TimesNewRoman"
 
 
+def is_premium_tnr(html: str) -> bool:
+    if not html:
+        return False
+    h = html.lower()
+    # markere simple, stabile
+    markers = [
+        "tnr premium",
+        "vreau abonament",
+        "abonament",
+        "login",
+    ]
+    return any(m in h for m in markers)
+
+
 def build_satire(cfg: Dict[str, Any]) -> List[Dict[str, Any]]:
     satire_cfg = cfg.get("satire") or {}
     if not satire_cfg.get("enabled", False):
         return []
 
-    # deterministic: 1 per day, but we just pick "first" article now (good enough)
-    homepage = satire_cfg.get("homepage", "https://www.timesnewroman.ro/").strip()
-    html = fetch_url(homepage)
-    if not html:
+    # Folosim o pagină de listă (mai sigur decât homepage)
+    # dacă nu există în config, default pe Monden
+    listing_url = (satire_cfg.get("listing_url") or "https://www.timesnewroman.ro/monden/").strip()
+
+    listing_html = fetch_url(listing_url)
+    if not listing_html:
         return []
 
-    link = pick_timesnewroman_article(html)
-    if not link:
-        return []
+    # Strângem mai multe linkuri candidate din pagina de listă
+    hrefs = re.findall(r'href=["\'](https?://www\.timesnewroman\.ro/[^"\']+)["\']', listing_html, flags=re.I)
+    seen = set()
+    candidates = []
+    for h in hrefs:
+        if not h.startswith("https://www.timesnewroman.ro/"):
+            continue
+        if any(bad in h for bad in ["/category/", "/tag/", "/author/", "/page/", "/wp-", "feed", "rss", "#"]):
+            continue
+        if h in seen:
+            continue
+        seen.add(h)
+        # articol = de obicei are minim 5 segmente
+        if len(h.split("/")) >= 5:
+            candidates.append(h)
 
-    art_html = fetch_url(link)
-    title = get_page_title(art_html) if art_html else "TimesNewRoman"
+    # Încercăm primele 20 și alegem primul NON-premium
+    picked_link = None
+    picked_title = None
+    for link in candidates[:20]:
+        html = fetch_url(link)
+        if not html:
+            continue
+        if is_premium_tnr(html):
+            continue
+
+        picked_link = link
+        picked_title = get_page_title(html) or "TimesNewRoman"
+        break
+
+    if not picked_link:
+        # fallback: totuși punem un link spre listă (nu paywall)
+        picked_link = listing_url
+        picked_title = "TimesNewRoman (listă)"
 
     day = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     return [{
         "date_utc": day,
         "source": "TimesNewRoman",
-        "title": title,
-        "link": link,
+        "title": picked_title,
+        "link": picked_link,
         "note": "Satiră — nu este știre reală."
     }]
+
 
 
 def flatten_items(sections: Dict[str, List[Dict[str, Any]]]) -> List[Dict[str, Any]]:
