@@ -62,12 +62,24 @@ photo_sources:
   space:
     - name: "NASA APOD"
       url: "https://apod.nasa.gov/apod.rss"
+    - name: "NASA Breaking News"
+      url: "https://www.nasa.gov/rss/dyn/breaking_news.rss"
+
   animals:
+    - name: "The Daily Puppy"
+      url: "https://feeds.feedburner.com/TheDailyPuppy"
     - name: "Animal of the Day"
       url: "https://feeds.feedburner.com/animals"
+    # fallback universal (poate fi animal / peisaj / orice, dar îți dă 100% imagine)
+    - name: "Wikimedia POTD 400x300"
+      url: "https://tools.wmflabs.org/potd-feed/commons/potd-400x300.rss"
+
   landscapes:
     - name: "NASA Earth Observatory (Image of the Day)"
       url: "https://earthobservatory.nasa.gov/feeds/image_of_the_day.rss"
+    - name: "Wikimedia POTD 400x300"
+      url: "https://tools.wmflabs.org/potd-feed/commons/potd-400x300.rss"
+
 
 filters:
   thresholds:
