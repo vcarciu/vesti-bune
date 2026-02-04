@@ -1,131 +1,14 @@
 {
-  "generated_utc": "2026-02-04T10:29:16.761161+00:00",
+  "generated_utc": "2026-02-04T11:24:17.851037+00:00",
   "count": 68,
   "items": [
-    {
-      "id": "67e38f40c598",
-      "title": "Graffitiuri din Pompeii, readuse la lumină cu ajutorul științei",
-      "summary": "",
-      "link": "https://agerpres.ro/cultura/2026/02/04/graffitiuri-din-pompeii-readuse-la-lumina-cu-ajutorul-stiintei--1524790",
-      "source": "Agerpres",
-      "published_utc": "2026-02-04T10:29:09.469504+00:00",
-      "kind": "ro"
-    },
-    {
-      "id": "8a087172884a",
-      "title": "Senat: Trei moțiuni simple, depuse în plen; dezbatere și vot, luni",
-      "summary": "",
-      "link": "https://agerpres.ro/viata-parlamentara/2026/02/04/senat-trei-motiuni-simple-depuse-in-plen-dezbatere-si-vot-luni--1524794",
-      "source": "Agerpres",
-      "published_utc": "2026-02-04T10:29:09.469485+00:00",
-      "kind": "ro"
-    },
-    {
-      "id": "aea4cab9ab26",
-      "title": "Cancelarul german Friedrich Merz, în primul său turneu în regiunea Golfului",
-      "summary": "",
-      "link": "https://agerpres.ro/politic-extern/2026/02/04/cancelarul-german-friedrich-merz-in-primul-sau-turneu-in-regiunea-golfului--1524795",
-      "source": "Agerpres",
-      "published_utc": "2026-02-04T10:29:09.469464+00:00",
-      "kind": "ro"
-    },
-    {
-      "id": "28aadd0e4275",
-      "title": "Arad: Primăria Nădlac reduce impozitele celor cu terenuri agricole calamitate; peste 500 de cereri înregistrate",
-      "summary": "",
-      "link": "https://agerpres.ro/administratie/2026/02/04/arad-primaria-nadlac-reduce-impozitele-celor-cu-terenuri-agricole-calamitate-peste-500-de-cereri-inr--1524799",
-      "source": "Agerpres",
-      "published_utc": "2026-02-04T10:29:09.469443+00:00",
-      "kind": "ro"
-    },
-    {
-      "id": "c1a20ac56c81",
-      "title": "CSM: Deficitul de judecători este în creștere; buna funcționare a justiției continuă să fie grav afectată",
-      "summary": "",
-      "link": "https://agerpres.ro/justitie/2026/02/04/csm-deficitul-de-judecatori-este-in-crestere-buna-functionare-a-justitiei-continua-sa-fie-grav-afect--1524796",
-      "source": "Agerpres",
-      "published_utc": "2026-02-04T10:29:09.469417+00:00",
-      "kind": "ro"
-    },
-    {
-      "id": "4d4a2eefbbc5",
-      "title": "CCR respinge sesizarea președintelui Nicușor Dan cu privire la Legea regimului cultelor",
-      "summary": "",
-      "link": "https://agerpres.ro/justitie/2026/02/04/ccr-respinge-sesizarea-presedintelui-nicusor-dan-cu-privire-la-legea-regimului-cultelor--1524797",
-      "source": "Agerpres",
-      "published_utc": "2026-02-04T10:29:09.469391+00:00",
-      "kind": "ro"
-    },
-    {
-      "id": "1c053f1b50aa",
-      "title": "Pălărie: Raportul Curții de Conturi arată că în Academia Română s-au luat decizii care au încălcat legea",
-      "summary": "",
-      "link": "https://agerpres.ro/viata-parlamentara/2026/02/04/palarie-raportul-curtii-de-conturi-arata-ca-in-academia-romana-s-au-luat-decizii-care-au-incalcat-le--1524800",
-      "source": "Agerpres",
-      "published_utc": "2026-02-04T10:29:09.469368+00:00",
-      "kind": "ro"
-    },
-    {
-      "id": "e0fa9e6faf6d",
-      "title": "CCR: Sesizarea pe legea ce impune ca minimum 40% dintre sportivii dintr-o echipă să fie români - amânată",
-      "summary": "",
-      "link": "https://agerpres.ro/justitie/2026/02/04/ccr-sesizarea-pe-legea-ce-impune-ca-minimum-40-dintre-sportivii-dintr-o-echipa-sa-fie-romani---amana--1524807",
-      "source": "Agerpres",
-      "published_utc": "2026-02-04T10:29:09.469341+00:00",
-      "kind": "ro"
-    },
-    {
-      "id": "4cff9be21e53",
-      "title": "MAE/Atenționare de călătorie: Maroc - cod roșu de precipitații și pericol de inundații",
-      "summary": "",
-      "link": "https://agerpres.ro/politic/2026/02/04/mae-atentionare-de-calatorie-maroc---cod-rosu-de-precipitatii-si-pericol-de-inundatii--1524823",
-      "source": "Agerpres",
-      "published_utc": "2026-02-04T10:29:09.469313+00:00",
-      "kind": "ro"
-    },
-    {
-      "id": "203e4417d0b7",
-      "title": "Convorbire prin videoconferință între președintele chinez Xi Jinping și omologul său rus, Vladimir Putin",
-      "summary": "",
-      "link": "https://agerpres.ro/politic-extern/2026/02/04/convorbire-prin-videoconferinta-intre-presedintele-chinez-xi-jinping-si-omologul-sau-rus-vladimir-pu--1524802",
-      "source": "Agerpres",
-      "published_utc": "2026-02-04T10:29:09.469290+00:00",
-      "kind": "ro"
-    },
-    {
-      "id": "3312a80615be",
-      "title": "SUA: Trump promulgă un proiect de lege privind bugetul și oprește o paralizie guvernamentală parțială de patru zile",
-      "summary": "",
-      "link": "https://agerpres.ro/politic-extern/2026/02/04/sua-trump-promulga-un-proiect-de-lege-privind-bugetul-si-opreste-o-paralizie-guvernamentala-partiala--1524817",
-      "source": "Agerpres",
-      "published_utc": "2026-02-04T10:29:09.469264+00:00",
-      "kind": "ro"
-    },
-    {
-      "id": "6992fbc7d8eb",
-      "title": "Abu Dhabi găzduiește discuții cu ușile închise privind #Ucraina, mediate de Steve Witkoff",
-      "summary": "",
-      "link": "https://agerpres.ro/politic-extern/2026/02/04/abu-dhabi-gazduieste-discutii-cu-usile-inchise-privind-ucraina-mediate-de-steve-witkoff--1524825",
-      "source": "Agerpres",
-      "published_utc": "2026-02-04T10:29:09.469237+00:00",
-      "kind": "ro"
-    },
-    {
-      "id": "d98014ad3d73",
-      "title": "Percheziții DIICOT la locuința românului implicat în acte de sabotaj pe o navă germană",
-      "summary": "",
-      "link": "https://agerpres.ro/justitie/2026/02/04/perchezitii-diicot-la-locuinta-romanului-implicat-in-acte-de-sabotaj-pe-o-nava-germana--1524828",
-      "source": "Agerpres",
-      "published_utc": "2026-02-04T10:29:09.469214+00:00",
-      "kind": "ro"
-    },
     {
       "id": "ddfed3ac4c64",
       "title": "Călugări budiști traversează Statele Unite în plin ger pentru a transmite un mesaj de unitate",
       "summary": "",
       "link": "https://agerpres.ro/zigzag/2026/02/04/calugari-budisti-traverseaza-statele-unite-in-plin-ger-pentru-a-transmite-un-mesaj-de-unitate--1524831",
       "source": "Agerpres",
-      "published_utc": "2026-02-04T10:29:09.469189+00:00",
+      "published_utc": "2026-02-04T11:24:12.257721+00:00",
       "kind": "ro"
     },
     {
@@ -134,7 +17,7 @@
       "summary": "",
       "link": "https://agerpres.ro/stiinta/2026/02/04/aproape-40-dintre-cazurile-de-cancer-la-nivel-global-asociate-unor-cauze-prevenibile-studiu--1524832",
       "source": "Agerpres",
-      "published_utc": "2026-02-04T10:29:09.469161+00:00",
+      "published_utc": "2026-02-04T11:24:12.257696+00:00",
       "kind": "ro"
     },
     {
@@ -143,7 +26,7 @@
       "summary": "",
       "link": "https://agerpres.ro/documentare/2026/02/04/fragment-de-istorie-formarea-la-montgomery-alabama-a-confederatiei-statelor-din-sud-4-februarie-1861--1524684",
       "source": "Agerpres",
-      "published_utc": "2026-02-04T10:29:09.469134+00:00",
+      "published_utc": "2026-02-04T11:24:12.257671+00:00",
       "kind": "ro"
     },
     {
@@ -152,7 +35,7 @@
       "summary": "",
       "link": "https://agerpres.ro/politic-extern/2026/02/04/dezarmare-nucleara-ce-este-tratatul-nuclear-new-start-si-de-ce-conteaza-faptul-ca-expira--1524837",
       "source": "Agerpres",
-      "published_utc": "2026-02-04T10:29:09.469106+00:00",
+      "published_utc": "2026-02-04T11:24:12.257646+00:00",
       "kind": "ro"
     },
     {
@@ -161,7 +44,7 @@
       "summary": "",
       "link": "https://agerpres.ro/viata-parlamentara/2026/02/04/usr-il-cheama-in-parlament-pe-ministrul-energiei-in-contextul-crizei-apei-potabile-din-curtea-de-arg--1524819",
       "source": "Agerpres",
-      "published_utc": "2026-02-04T10:29:09.469079+00:00",
+      "published_utc": "2026-02-04T11:24:12.257622+00:00",
       "kind": "ro"
     },
     {
@@ -170,7 +53,7 @@
       "summary": "",
       "link": "https://agerpres.ro/justitie/2026/02/04/parchetul-de-pe-langa-judecatoria-arad-functioneaza-cu-o-treime-din-procurori-mai-putine-dosare-solu--1524829",
       "source": "Agerpres",
-      "published_utc": "2026-02-04T10:29:09.469048+00:00",
+      "published_utc": "2026-02-04T11:24:12.257595+00:00",
       "kind": "ro"
     },
     {
@@ -179,7 +62,268 @@
       "summary": "",
       "link": "https://agerpres.ro/justitie/2026/02/04/dgpmb-perchezitii-la-firme-care-transportau-marfuri-cu-date-tehnice-neconforme-prejudiciu---1-6-mili--1524835",
       "source": "Agerpres",
-      "published_utc": "2026-02-04T10:29:09.468998+00:00",
+      "published_utc": "2026-02-04T11:24:12.257567+00:00",
+      "kind": "ro"
+    },
+    {
+      "id": "bc6cd9926322",
+      "title": "România, locul 5 ca opțiune de vacanță pentru turiștii români (studiu)",
+      "summary": "",
+      "link": "https://agerpres.ro/economic/2026/02/04/romania-locul-5-ca-optiune-de-vacanta-pentru-turistii-romani-studiu--1524841",
+      "source": "Agerpres",
+      "published_utc": "2026-02-04T11:24:12.257540+00:00",
+      "kind": "ro"
+    },
+    {
+      "id": "482a00d6c70b",
+      "title": "Protest la Guvern al sindicaliștilor din Educație: Angajații din învățământ - nemulțumiți de măsurile luate de Cabinetul Bolojan",
+      "summary": "",
+      "link": "https://agerpres.ro/educatie-stiinta/2026/02/04/protest-la-guvern-al-sindicalistilor-din-educatie-angajatii-din-invatamant---nemultumiti-de-masurile--1524838",
+      "source": "Agerpres",
+      "published_utc": "2026-02-04T11:24:12.257518+00:00",
+      "kind": "ro"
+    },
+    {
+      "id": "f9929b4f3e19",
+      "title": "Celulă de criză la Ministerul Culturii în legătură cu prăbușirea turlei bisericii din Cehu Silvaniei",
+      "summary": "",
+      "link": "https://agerpres.ro/cultura-media/2026/02/04/celula-de-criza-la-ministerul-culturii-in-legatura-cu-prabusirea-turlei-bisericii-din-cehu-silvaniei--1524843",
+      "source": "Agerpres",
+      "published_utc": "2026-02-04T11:24:12.257490+00:00",
+      "kind": "ro"
+    },
+    {
+      "id": "4c2a30794cbf",
+      "title": "Fosilele unui mic dinozaur, descoperite în Spania, 'rescriu arborele evoluției'",
+      "summary": "",
+      "link": "https://agerpres.ro/stiinta/2026/02/04/fosilele-unui-mic-dinozaur-descoperite-in-spania-rescriu-arborele-evolutiei--1524849",
+      "source": "Agerpres",
+      "published_utc": "2026-02-04T11:24:12.257465+00:00",
+      "kind": "ro"
+    },
+    {
+      "id": "81cd10042f35",
+      "title": "George Simion cere să se organizeze alegeri parlamentare anticipate și 'revenirea la democrație'",
+      "summary": "",
+      "link": "https://agerpres.ro/politic/2026/02/04/george-simion-cere-sa-se-organizeze-alegeri-parlamentare-anticipate-si-revenirea-la-democratie--1524848",
+      "source": "Agerpres",
+      "published_utc": "2026-02-04T11:24:12.257443+00:00",
+      "kind": "ro"
+    },
+    {
+      "id": "81c1b7165413",
+      "title": "Panama 'va plăti un preț mare' dacă nu își anulează decizia privind porturile de la Canal, avertizează China",
+      "summary": "",
+      "link": "https://agerpres.ro/politic-extern/2026/02/04/panama-va-plati-un-pret-mare-daca-nu-isi-anuleaza-decizia-privind-porturile-de-la-canal-avertizeaza---1524852",
+      "source": "Agerpres",
+      "published_utc": "2026-02-04T11:24:12.257418+00:00",
+      "kind": "ro"
+    },
+    {
+      "id": "8fbaef1399f8",
+      "title": "Handbal feminin: Bianca Bazaliu va juca din vară la Corona Brașov",
+      "summary": "",
+      "link": "https://agerpres.ro/sport/2026/02/04/handbal-feminin-bianca-bazaliu-va-juca-din-vara-la-corona-brasov--1524853",
+      "source": "Agerpres",
+      "published_utc": "2026-02-04T11:24:12.257390+00:00",
+      "kind": "ro"
+    },
+    {
+      "id": "3e3a89713a8c",
+      "title": "George Simion: Nu vom prelua guvernarea decât într-o fază de tranziție, până la alegerile anticipate",
+      "summary": "",
+      "link": "https://agerpres.ro/politic/2026/02/04/george-simion-nu-vom-prelua-guvernarea-decat-intr-o-faza-de-tranzitie-pana-la-alegerile-anticipate--1524850",
+      "source": "Agerpres",
+      "published_utc": "2026-02-04T11:24:12.257367+00:00",
+      "kind": "ro"
+    },
+    {
+      "id": "a4ff8bb0f660",
+      "title": "SUA: Mărturia soților Clinton în dosarul Epstein, programată pentru sfârșitul lunii februarie",
+      "summary": "",
+      "link": "https://agerpres.ro/politic-extern/2026/02/04/sua-marturia-sotilor-clinton-in-dosarul-epstein-programata-pentru-sfarsitul-lunii-februarie--1524861",
+      "source": "Agerpres",
+      "published_utc": "2026-02-04T11:24:12.257340+00:00",
+      "kind": "ro"
+    },
+    {
+      "id": "1c39cef47df2",
+      "title": "Rogobete: În lupta cu cancerul, momentul în care e descoperit poate schimba radical un diagnostic și un parcurs de viață",
+      "summary": "",
+      "link": "https://agerpres.ro/sanatate/2026/02/04/rogobete-in-lupta-cu-cancerul-momentul-in-care-e-descoperit-poate-schimba-radical-un-diagnostic-si-u--1524863",
+      "source": "Agerpres",
+      "published_utc": "2026-02-04T11:24:12.257315+00:00",
+      "kind": "ro"
+    },
+    {
+      "id": "60681642c20b",
+      "title": "Kelemen Hunor despre o reducere a taxelor: Autoritățile locale să fie lăsate între limitele de jos și sus",
+      "summary": "",
+      "link": "https://agerpres.ro/politic/2026/02/04/kelemen-hunor-despre-o-reducere-a-taxelor-autoritatile-locale-sa-fie-lasate-intre-limitele-de-jos-si--1524858",
+      "source": "Agerpres",
+      "published_utc": "2026-02-04T11:24:12.257283+00:00",
+      "kind": "ro"
+    },
+    {
+      "id": "f476742c3965",
+      "title": "În timpul discuției cu Xi, Putin a calificat drept 'factor stabilizator' alianța dintre Moscova și Beijing",
+      "summary": "",
+      "link": "https://agerpres.ro/politic-extern/2026/02/04/in-timpul-discutiei-cu-xi-putin-a-calificat-drept-factor-stabilizator-alianta-dintre-moscova-si-beij--1524862",
+      "source": "Agerpres",
+      "published_utc": "2026-02-04T11:24:12.257251+00:00",
+      "kind": "ro"
+    },
+    {
+      "id": "2e139a9129d6",
+      "title": "Timiș: 100 de milioane de lei pentru modernizarea DJ 691, cu monitorizare prin sistem video a tonajului admis",
+      "summary": "",
+      "link": "https://agerpres.ro/administratie/2026/02/04/timis-100-de-milioane-de-lei-pentru-modernizarea-dj-691-cu-monitorizare-prin-sistem-video-a-tonajulu--1524865",
+      "source": "Agerpres",
+      "published_utc": "2026-02-04T11:24:12.257202+00:00",
+      "kind": "ro"
+    },
+    {
+      "id": "e2413a3f1b09",
+      "title": "Kremlinul anunţă că ”operaţiunea militară specială” în Ucraina ”va continua” atât timp cât Kievul nu-i acceptă condiţiile, în prima zi a celei de a doua runde de negcieri directe la Abu Dhabi",
+      "summary": "Kremlinul dă asigurări miercuri că îşi ”va continua” ofensiva în Ucraina, atît timp cât Kievul nu-i acceptă condiţiile, în timp ce oficiali ruşi, ucraineni şi americani participau la o nouă rundă de negocieri la Abu Dhabi, în Emiratele Arabe Unite, relatează AFP.",
+      "link": "https://www.news.ro/externe/kremlinul-anunta-ca-operatiunea-militara-speciala-in-ucraina-va-continua-atat-timp-cat-kievul-nu-i-accepta-conditiile-in-prima-zi-a-celei-de-a-doua-runde-de-negcieri-directe-la-abu-dhabi-1922402004532026021322334557",
+      "source": "News.ro",
+      "published_utc": "2026-02-04T11:20:53+00:00",
+      "kind": "ro"
+    },
+    {
+      "id": "ce27f9f099fe",
+      "title": "Cristian Rădulescu, directorul de la Grup Feroviar Român acuzat de dare de mită, a fost plasat sub control judiciar pe cauţiune",
+      "summary": "Directorul general al Grup Feroviar Român Cristian Rădulescu a fost plasat de DNA sub control judiciar pe cauţiune, în dosarul în care este acuzat de dare de mită, au declarat, pentru Agerpres, surse judiciare.",
+      "link": "https://www.digi24.ro/stiri/actualitate/justitie/cristian-radulescu-directorul-de-la-grup-feroviar-roman-acuzat-de-dare-de-mita-a-fost-plasat-sub-control-judiciar-pe-cautiune-surse-3615041",
+      "source": "Digi24",
+      "published_utc": "2026-02-04T11:19:28+00:00",
+      "kind": "ro"
+    },
+    {
+      "id": "0e8ad478d81c",
+      "title": "Bătaie în traficul din București, iscată de neacordarea priorității: Un tată și fiul lui de 14 ani au tăbărât pe un șofer",
+      "summary": "Incident șocant pe o stradă din București. Un tată și fiul lui de 14 ani au coborât din mașină și au început să lovească un șofer cu pumnii. Totul ar fi pornit de la neacordarea priorității.",
+      "link": "https://www.digi24.ro/stiri/bataie-in-traficul-din-bucuresti-iscata-de-neacordarea-prioritatii-un-tata-si-fiul-lui-de-14-ani-au-tabarat-pe-un-sofer-3615315",
+      "source": "Digi24",
+      "published_utc": "2026-02-04T11:17:11+00:00",
+      "kind": "ro"
+    },
+    {
+      "id": "c2ee81e61142",
+      "title": "Alexandru Muraru cere sancționarea lui Simion pentru denigrarea țării noastre în SUA. „România nu este un sat fără câini”",
+      "summary": "Deputatul PNL Alexandru Muraru a sesizat conducerea Camerei Deputaților și cere sancționarea lui George Simion pentru că ar fi folosit calitatea de parlamentar ca să răspândească informații false despre România în timpul unei vizite private în SUA. Liberalul solicită audierea lid",
+      "link": "https://www.digi24.ro/stiri/actualitate/politica/alexandru-muraru-cere-sanctionarea-lui-simion-pentru-denigrarea-tarii-noastre-in-sua-romania-nu-este-un-sat-fara-caini-3615321",
+      "source": "Digi24",
+      "published_utc": "2026-02-04T11:15:17+00:00",
+      "kind": "ro"
+    },
+    {
+      "id": "72b7e7f66b02",
+      "title": "George Simion (AUR), după raportul preliminar al Comisiei Juridice din Congresul Statelor Unite: Cerem revenirea la democraţie, alegeri parlamentare anticipate / Nu vom prelua guvernarea decât într-o fază de tranziţie, până la alegeri",
+      "summary": "Preşedintele AUR, George Simion, a declarat miercuri, că după raportul preliminar al Comisiei Juridice din Congresul Statelor Unite formaţiunea cere revenirea la democraţie, la votul poporului, prin alegeri parlamentare anticipate. Nu vom intra la guvernare şi nu vom prelua guver",
+      "link": "https://www.news.ro/politic-intern/george-simion-aur-dupa-raportul-preliminar-comisiei-juridice-congresul-statelor-unite-cerem-revenirea-democratie-alegeri-parlamentare-anticipate-vom-prelua-guvernarea-intr-faza-tranzitie-pana-1922401104002026021322334574",
+      "source": "News.ro",
+      "published_utc": "2026-02-04T11:11:00+00:00",
+      "kind": "ro"
+    },
+    {
+      "id": "a28aac0cd1b8",
+      "title": "PMB susține că bucureștenii fără apă caldă și căldură nu plătesc agentul termic la preț întreg. Cum e calculată factura la întreținere",
+      "summary": "Primăria Municipiului București (PMB) a informat, miercuri, într-o postare pe Facebook, că agentul termic este tarifat la nivel maxim doar atunci când apa caldă şi căldura sunt livrate la parametri normali.",
+      "link": "https://www.digi24.ro/stiri/actualitate/pmb-spune-ca-bucurestenii-fara-apa-calda-si-caldura-nu-platesc-agentul-termic-la-pret-intreg-cum-se-calculeaza-factura-la-intretinere-3615199",
+      "source": "Digi24",
+      "published_utc": "2026-02-04T11:10:30+00:00",
+      "kind": "ro"
+    },
+    {
+      "id": "2b9a4c817097",
+      "title": "Fondurile AFIR pentru legume și cartofi sunt insuficiente: cererile au depășit bugetul cu 240%. „Banii nu acoperă nevoile fermierilor”",
+      "summary": "Fondurile alocate intervenției DR-16 – Investiții în sectorul legume și/sau cartofi au fost epuizate înainte de termenul-limită, pentru toate cele trei componente, ca urmare a numărului foarte mare de cereri depuse la Agenția pentru Finanțarea Investițiilor Rurale (AFIR), potrivi",
+      "link": "https://www.digi24.ro/stiri/economie/agricultura/fondurile-afir-pentru-legume-si-cartofi-sunt-insuficiente-cererile-au-depasit-bugetul-cu-240-banii-nu-acopera-nevoile-fermierilor-3615305",
+      "source": "Digi24",
+      "published_utc": "2026-02-04T11:06:03+00:00",
+      "kind": "ro"
+    },
+    {
+      "id": "35192ef38d5c",
+      "title": "Mesaj manifest al naţionalei de fotbal pentru toţi românii: “Fiţi un zid de susţinere, nu o sursă de îndoială. Cu încredere putem trece oceanul”",
+      "summary": "În faţa unor meciuri care pot schimba un destin şi pot îndeplini visul unei naţiuni, Federaţia Română de Fotbal, prin intermediul echipei naţionale de fotbal a României, cu 50 de zile înaintea meciului de la Istanbul, lansează o campanie despre unitate, încredere şi susţinere nec",
+      "link": "https://www.news.ro/sport/mesaj-manifest-al-nationalei-de-fotbal-pentru-toti-romanii-fiti-un-zid-de-sustinere-nu-o-sursa-de-indoiala-cu-incredere-putem-trece-oceanul-1922400504162026021322334547",
+      "source": "News.ro",
+      "published_utc": "2026-02-04T11:05:16+00:00",
+      "kind": "ro"
+    },
+    {
+      "id": "44e34ddc0dce",
+      "title": "A început a doua rundă de negocieri pentru pacea în Ucraina. Delegațiile Rusiei, Ucrainei și SUA discută la Abu Dhabi",
+      "summary": "A doua rundă trilaterală privind Ucraina, mediată de Statele Unite, va avea loc în zilele de 4 şi 5 februarie 2026, la Abu Dhabi, în Emiratele Arabe Unite, a anunţat, la 2 februarie, Kremlinul. În aceeaşi zi, şi preşedintele ucrainean, Volodimir Zelenski, a confirmat discuţiile t",
+      "link": "https://www.digi24.ro/stiri/externe/noi-discutii-despre-pace-la-abu-dhabi-delegatiile-rusiei-ucrainei-si-sua-revin-azi-la-masa-negocierilor-3614997",
+      "source": "Digi24",
+      "published_utc": "2026-02-04T11:03:59+00:00",
+      "kind": "ro"
+    },
+    {
+      "id": "84f09661b3c5",
+      "title": "Imagini virale pe TikTok cu un tigru siberian filmat într-o curte din Dâmbovița. Poliția a deschis dosar penal",
+      "summary": "Imagini cu un tigru siberian plimbându-se liber într-o curte din Dâmbovița au ajuns virale pe TikTok. Poliția a deschis un dosar penal pentru verificarea legalității deținerii animalelor sălbatice aflate în menajeria proprietarului. Ancheta vizează posibile încălcări legate de pr",
+      "link": "https://www.digi24.ro/magazin/stil-de-viata/animale/imagini-virale-pe-tiktok-cu-un-tigru-siberian-filmat-intr-o-curte-din-dambovita-politia-a-deschis-dosar-penal-3615337",
+      "source": "Digi24",
+      "published_utc": "2026-02-04T11:03:35+00:00",
+      "kind": "ro"
+    },
+    {
+      "id": "0a05ea556a55",
+      "title": "Ministrul Sănătăţii, de Ziua Mondială a Cancerului: Depistarea timpurie a devenit o prioritate reală a sistemului sanitar. Am ales să investim în programe de screening şi în capacitatea sistemului de a identifica boala înainte să devină o urgenţă",
+      "summary": "Ministrul Sănătăţii, Alexandru Rogobete, afirmă, de Ziua Mondială a Cancerului, că depistarea timpurie a devenit o prioritate reală a sistemului sanitar românesc, iar autorităţile au „ales” să investească în programe de screening şi în capacitatea sistemului de a identifica boala",
+      "link": "https://www.news.ro/social/ministrul-sanatatii-ziua-mondiala-cancerului-depistarea-timpurie-devenit-prioritate-reala-sistemului-sanitar-ales-investim-programe-screening-capacitatea-sistemului-identifica-boala-inainte-devina-1922400204522026021322334550",
+      "source": "News.ro",
+      "published_utc": "2026-02-04T11:02:52+00:00",
+      "kind": "ro"
+    },
+    {
+      "id": "09f55cbc06eb",
+      "title": "Cătălin Botezatu, jefuit de un ceas de 2 milioane de lire sterline la Londra (presa britanică)",
+      "summary": "Creatorul de modă Cătălin Botezatu a fost victima unui jaf la Londra, în urma căruia ar fi rămas fără un ceas de colecție, în valoare de două milioane de lire sterline, a scris cotidianul britanic Daily Mail. Contactat de Digi24.ro, Cătălin Botezatu a refuzat să comenteze.",
+      "link": "https://www.digi24.ro/magazin/timp-liber/showbiz/catalin-botezatu-jefuit-de-un-ceas-de-2-milioane-de-lire-sterline-la-londra-presa-britanica-3615183",
+      "source": "Digi24",
+      "published_utc": "2026-02-04T10:45:20+00:00",
+      "kind": "ro"
+    },
+    {
+      "id": "ee6af8c13722",
+      "title": "Războiul s-a mutat în spațiu. Doi sateliți ruși au „vânat” zeci de aparate europene: „Operațiunea poate paraliza țări întregi”",
+      "summary": "În ultimii ani, doi sateliți ruși au spionat în mod regulat navele spațiale europene, urmărindu-le de la distanță mică și, aparent, încercând să le intercepteze datele și să le analizeze activitatea. Informațiile obținute ar putea permite Rusiei să preia controlul asupra sateliți",
+      "link": "https://www.digi24.ro/stiri/externe/rusia/razboiul-s-a-mutat-in-spatiu-doi-sateliti-rusi-au-vanat-zeci-de-aparate-europene-operatiunea-poate-paraliza-tari-intregi-3615227",
+      "source": "Digi24",
+      "published_utc": "2026-02-04T10:44:55+00:00",
+      "kind": "ro"
+    },
+    {
+      "id": "a5e16aeed8c7",
+      "title": "Handbal feminin: Bianca Bazaliu revine la Corona Braşov",
+      "summary": "Corona Braşov a anunţat, miercuri, revenirea sportivei Bianca Bazaliu la echipa de handbal, din vara acestui an.",
+      "link": "https://www.news.ro/sport/handbal-feminin-bianca-bazaliu-revine-la-corona-brasov-1922404404432026021222334528",
+      "source": "News.ro",
+      "published_utc": "2026-02-04T10:44:43+00:00",
+      "kind": "ro"
+    },
+    {
+      "id": "8b7c8ef731dd",
+      "title": "Jimmy Kimmel a ironizat Fox News pentru că a spus că „Melania” ar trebui „nominalizat la Oscaruri”: „Eu voi prezenta acea gală. Indiferent dacă mă vor invita sau nu. Voi insista să o fac” - VIDEO",
+      "summary": "Jimmy Kimmel le-a spus telespectatorilor în timpul monologului său din 2 februarie că va cere să prezinte Oscarurile în 2027 dacă „Melania” va fi nominalizată la categoria Cel mai bun documentar.",
+      "link": "https://www.news.ro/entertainment/jimmy-kimmel-a-ironizat-fox-news-pentru-ca-a-spus-ca-melania-ar-trebui-nominalizat-la-oscaruri-eu-voi-prezenta-acea-gala-indiferent-daca-ma-vor-invita-sau-nu-voi-insista-sa-o-fac-video-1922404404012026021222334530",
+      "source": "News.ro",
+      "published_utc": "2026-02-04T10:44:01+00:00",
+      "kind": "ro"
+    },
+    {
+      "id": "4de1f735936b",
+      "title": "O audiere cu victime în dosarul Epstein la New York, anulată în urma retragerii unor documente sensibile",
+      "summary": "Un judecător, Richard Berman, a anulat o audiere prevăzută miercuri, la New York, cu victime în dosarul Epstein, care deplâng faptul că documente private care le privesc au fost făcute publice de către Guvernul lui Donald Trump, relatează AFP.",
+      "link": "https://www.news.ro/externe/o-audiere-cu-victime-in-dosarul-epstein-la-new-york-anulata-in-urma-retragerii-unor-documente-sensibile-1922403904502026021222334492",
+      "source": "News.ro",
+      "published_utc": "2026-02-04T10:39:50+00:00",
       "kind": "ro"
     },
     {
@@ -219,60 +363,6 @@
       "kind": "ro"
     },
     {
-      "id": "09f55cbc06eb",
-      "title": "Cătălin Botezatu, jefuit de un ceas de 2 milioane de lire sterline la Londra (presa britanică)",
-      "summary": "Creatorul de modă Cătălin Botezatu a fost victima unui jaf la Londra, în urma căruia ar fi rămas fără un ceas de colecție, în valoare de două milioane de lire sterline, a scris cotidianul britanic Daily Mail. Contactat de Digi24.ro, Cătălin Botezatu a refuzat să comenteze.",
-      "link": "https://www.digi24.ro/magazin/timp-liber/showbiz/catalin-botezatu-jefuit-de-un-ceas-de-2-milioane-de-lire-sterline-la-londra-presa-britanica-3615183",
-      "source": "Digi24",
-      "published_utc": "2026-02-04T10:18:46+00:00",
-      "kind": "ro"
-    },
-    {
-      "id": "d542940e7168",
-      "title": "Percheziţii în Bucureşti şi în patru judeţe, la reprezentanţii unor societăţi care ar fi făcut peste 1.300 de transporturi agabaritice declarând date neconforme pentru a reduce tariful de drum/ Prejudiciul, estimat la 1,6 milioane de euro - VIDEO",
-      "summary": "Poliţiştii fac, miercuri, 14 percheziţii în Bucureşti şi în judeţele Ilfov, Prahova, Constanţa şi Gorj, într-un dosar de înşelăciune cu consecinţe deosebit de grave. Potrivit anchetatorilor, sunt vizaţi reprezentanţi ai unor societăţi comerciale şi pe acţiuni, care ar fi făcut pe",
-      "link": "https://www.news.ro/justitie/perchezitii-bucuresti-patru-judete-reprezentantii-unor-societati-ar-facut-peste-1-300-transporturi-agabaritice-declarand-date-neconforme-reduce-tariful-drum-prejudiciul-estimat-1-6-milioane-euro-1922400904002026021222334478",
-      "source": "News.ro",
-      "published_utc": "2026-02-04T10:09:00+00:00",
-      "kind": "ro"
-    },
-    {
-      "id": "5c51b952b2a4",
-      "title": "STUDIU Accenture: 13 trilioane de dolari ar putea migra către noi forme de plăţi până la finalul acestui deceniu, accelerând transformarea industriei bancare",
-      "summary": "Până la 13 trilioane de dolari din valoarea tranzacţiilor globale ar putea migra către noi forme de plăţi până la finalul acestui deceniu, pe măsură ce industria bancară intră într-o nouă etapă de evoluţie, potrivit unui raport Accenture, care arată că sectorul bancar traversează",
-      "link": "https://www.news.ro/economic/studiu-accenture-13-trilioane-de-dolari-ar-putea-migra-catre-noi-forme-de-plati-pana-la-finalul-acestui-deceniu-accelerand-transformarea-industriei-bancare-1922400804562026021222334450",
-      "source": "News.ro",
-      "published_utc": "2026-02-04T10:08:56+00:00",
-      "kind": "ro"
-    },
-    {
-      "id": "8b8338fcb973",
-      "title": "Cifra de afaceri a companiei de curierat Cargus a crescut cu aproape 9% în 2025, la peste 120 milioane euro",
-      "summary": "Cargus, companie de curierat din România, a încheiat anul 2025 cu o creştere de aproape 9% a cifrei de afaceri, comparativ cu anul precedent, ajungând la peste 120 milioane euro.",
-      "link": "https://www.news.ro/economic/cifra-de-afaceri-a-companiei-de-curierat-cargus-a-crescut-cu-aproape-9-in-2025-la-peste-120-milioane-euro-1922400704562026021222334351",
-      "source": "News.ro",
-      "published_utc": "2026-02-04T10:07:56+00:00",
-      "kind": "ro"
-    },
-    {
-      "id": "34250422ae3a",
-      "title": "Autorităţile competente continuă cercetările pentru stabilirea cauzelor probuşirii Bisericii Reformate din Cehu Silvaniei",
-      "summary": "Celula de criză constituită la nivelul Ministerului Culturii, coordonată de secretarul de stat Ötvös Koppány, cu atribuţii în domeniul patrimoniului, colaborează cu autorităţile pentru a afla cauzele prăbuşirii Bisericii Reformate din Cehu Silvaniei.",
-      "link": "https://www.news.ro/cultura-media/autoritatile-competente-continua-cercetarile-pentru-stabilirea-cauzelor-probusirii-bisericii-reformate-din-cehu-silvaniei-1922400704102026021222334476",
-      "source": "News.ro",
-      "published_utc": "2026-02-04T10:07:10+00:00",
-      "kind": "ro"
-    },
-    {
-      "id": "7c37b70bab32",
-      "title": "JO de iarnă: Campionii italieni Tomba şi Compagnoni vor aprinde vasele olimpice la Milano şi Cortina d'Ampezzo",
-      "summary": "Campionii olimpici italieni la schi Alberto Tomba şi Deborah Compagnoni vor aprinde vasele olimpice pentru JO de iarnă, relatează Gazzetta dello Sport.",
-      "link": "https://www.news.ro/sport/jo-de-iarna-campionii-italieni-tomba-si-compagnoni-vor-aprinde-vasele-olimpice-la-milano-si-cortina-d-ampezzo-1922400504582026021222334468",
-      "source": "News.ro",
-      "published_utc": "2026-02-04T10:05:58+00:00",
-      "kind": "ro"
-    },
-    {
       "id": "95aa2dbdd3a4",
       "title": "Viktor Troicki vine cu o veste importantă despre Novak Djokovic",
       "summary": "<p>Căpitanul echipei de Cupa Davis a Serbiei, Viktor Troicki, a confirmat că Novak Djokovic, care nu va fi alături de echipă în partida cu Chile, vrea să continue să-și reprezinte țara dacă aceasta se califică la turneul Final 8, care se va juca la Bologna (Italia) între 24 și 29",
@@ -282,30 +372,12 @@
       "kind": "ro"
     },
     {
-      "id": "a28aac0cd1b8",
-      "title": "PMB susține că bucureștenii fără apă caldă și căldură nu plătesc agentul termic la preț întreg. Cum e calculată factura la întreținere",
-      "summary": "Primăria Municipiului București a informat, miercuri, într-o postare pe Facebook, că agentul termic este tarifat la nivel maxim doar atunci când apa caldă şi căldura sunt livrate la parametrii normali.",
-      "link": "https://www.digi24.ro/stiri/actualitate/pmb-spune-ca-bucurestenii-fara-apa-calda-si-caldura-nu-platesc-agentul-termic-la-pret-intreg-cum-se-calculeaza-factura-la-intretinere-3615199",
-      "source": "Digi24",
-      "published_utc": "2026-02-04T10:02:27+00:00",
-      "kind": "ro"
-    },
-    {
       "id": "e6e5d28a2e39",
       "title": "Momentul în care o groapă adâncă de 15 metri înghite o benzinărie (Video)",
       "summary": "<p>O benzinărie s-a scufundat într-o groapă uriașă, apărută în capitala Egiptului. Momentul a fost surprins de o cameră video de supraveghere. Incidentul s-a petrecut luni, în Cairo, când două clădiri s-au scufundat în câteva secunde într-un crater adânc de 15 metri. Două persoan",
       "link": "https://spotmedia.ro/stiri/eveniment/momentul-in-care-o-groapa-adanca-de-15-metri-inghite-o-benzinarie-video",
       "source": "Spotmedia",
       "published_utc": "2026-02-04T10:02:24+00:00",
-      "kind": "ro"
-    },
-    {
-      "id": "ee6af8c13722",
-      "title": "Războiul s-a mutat în spațiu. Doi sateliți ruși au „vânat” zeci de aparate europene: „Operațiunea poate paraliza țări întregi”",
-      "summary": "În ultimii ani, doi sateliți ruși au spionat în mod regulat navele spațiale europene, urmărindu-le de la distanță mică și, aparent, încercând să le intercepteze datele și să le analizeze activitatea. Informațiile obținute ar putea permite Rusiei să preia controlul asupra sateliți",
-      "link": "https://www.digi24.ro/stiri/externe/rusia/razboiul-s-a-mutat-in-spatiu-doi-sateliti-rusi-au-vanat-zeci-de-aparate-europene-operatiunea-poate-paraliza-tari-intregi-3615227",
-      "source": "Digi24",
-      "published_utc": "2026-02-04T10:02:12+00:00",
       "kind": "ro"
     },
     {
@@ -327,39 +399,12 @@
       "kind": "ro"
     },
     {
-      "id": "eaac83168bc3",
-      "title": "Cristian Rădulescu, directorul de la Grup Feroviar Român acuzat de dare de mită, a fost plasat sub control judiciar pe cauţiune (surse)",
-      "summary": "Directorul general al Grup Feroviar Român Cristian Rădulescu a fost plasat de DNA sub control judiciar pe cauţiune, în dosarul în care este acuzat de dare de mită, au declarat, pentru Agerpres, surse judiciare.",
-      "link": "https://www.digi24.ro/stiri/actualitate/justitie/cristian-radulescu-directorul-de-la-grup-feroviar-roman-acuzat-de-dare-de-mita-a-fost-plasat-sub-control-judiciar-pe-cautiune-surse-3615041",
-      "source": "Digi24",
-      "published_utc": "2026-02-04T09:46:52+00:00",
-      "kind": "ro"
-    },
-    {
-      "id": "12e017f8bda9",
-      "title": "Constanţa: Percheziţii la locuinţa bărbatului acuzat de implicare în mai multe acte de sabotaj asupra unor nave aflate în portul Hamburg",
-      "summary": "Poliţiştii din Constanţa au făcut percheziţionat locuinţa bărbatului acuzat că a comis mai multe acte de sabotaj asupra unor nave aflate în portul Hamburg şi au fost descoperite mai multe probe, care au fost transmise autorităţilor germane. Bărbatul a fost prins pe teritoriul Ger",
-      "link": "https://www.news.ro/eveniment/constanta-perchezitii-la-locuinta-barbatului-acuzat-de-implicare-in-mai-multe-acte-de-sabotaj-asupra-unor-nave-aflate-in-portul-hamburg-1922404604462026021122334447",
-      "source": "News.ro",
-      "published_utc": "2026-02-04T09:46:46+00:00",
-      "kind": "ro"
-    },
-    {
       "id": "094addae3627",
       "title": "CCR a amânat din nou dezbaterea sesizării lui Nicușor Dan privind modificările la legea prosumatorilor. Când va fi discutată",
       "summary": "Curtea Constituțională a României (CCR) a decis, miercuri, amânarea pentru 4 martie a analizei sesizării depuse de președintele Nicușor Dan în legătură cu modificările aduse Legii energiei electrice și a gazelor naturale.",
       "link": "https://www.digi24.ro/stiri/actualitate/ccr-a-amanat-din-nou-dezbaterea-sesizarii-lui-nicusor-dan-privind-modificarile-la-legea-prosumatorilor-cand-va-fi-discutata-3615171",
       "source": "Digi24",
       "published_utc": "2026-02-04T09:46:19+00:00",
-      "kind": "ro"
-    },
-    {
-      "id": "6845ca1a832e",
-      "title": "AFRICOM anunţă că SUA au desfăşurat o ”mică echipă” de militari în Ngeria",
-      "summary": "Statele Unite au desfăşurat o ”mică echipă” de militari în Nigeria, o ţară care se confruntă cu ameninţarea jihadistă, un lucru care a determinat Washingtonul să desfăşoare atacuri în decembrie, anunţă comandantul Comandamentului American pentru Africa (AFRICOM), generalul Dagvin",
-      "link": "https://www.news.ro/externe/africom-anunta-ca-sua-au-desfasurat-o-mica-echipa-de-militari-in-ngeria-1922404504002026021122334430",
-      "source": "News.ro",
-      "published_utc": "2026-02-04T09:45:00+00:00",
       "kind": "ro"
     },
     {
@@ -534,57 +579,12 @@
       "kind": "ro"
     },
     {
-      "id": "5c2ae418f766",
-      "title": "Noi discuții despre pace, la Abu Dhabi. Delegațiile Rusiei, Ucrainei și SUA revin azi la masa negocierilor",
-      "summary": "A doua rundă trilaterală privind Ucraina, mediată de Statele Unite, va avea loc în zilele de 4 şi 5 februarie 2026, la Abu Dhabi, în Emiratele Arabe Unite, a anunţat, la 2 februarie, Kremlinul. În aceeaşi zi, şi preşedintele ucrainean, Volodimir Zelenski, a confirmat discuţiile t",
-      "link": "https://www.digi24.ro/stiri/externe/noi-discutii-despre-pace-la-abu-dhabi-delegatiile-rusiei-ucrainei-si-sua-revin-azi-la-masa-negocierilor-3614997",
-      "source": "Digi24",
-      "published_utc": "2026-02-04T07:52:53+00:00",
-      "kind": "ro"
-    },
-    {
       "id": "37cb120ae1d6",
       "title": "Partidul Tisza din Ungaria conduce în sondajele preelectorale. O formațiune de extremă dreapta, pe cale să intre în Parlament",
       "summary": "Partidul de centru-dreapta Tisza din Ungaria conduce în fața partidului Fidesz al prim-ministrului Viktor Orban înaintea alegerilor din 12 aprilie, iar partidul de extremă dreapta Patria Noastră este pe cale să intre în Parlament, potrivit unui sondaj de opinie publicat marți și ",
       "link": "https://www.digi24.ro/stiri/externe/partidul-tisza-din-ungaria-conduce-in-sondajele-preelectorale-o-formatiune-de-extrema-dreapta-pe-cale-sa-intre-in-parlament-3615019",
       "source": "Digi24",
       "published_utc": "2026-02-04T07:43:10+00:00",
-      "kind": "ro"
-    },
-    {
-      "id": "055a02d84891",
-      "title": "Reacția Melindei French Gates după apariția numelui lui Bill Gates în dosarele Epstein: „Vremuri dureroase în căsnicia mea”",
-      "summary": "Fosta soție a lui Bill Gates, Melinda French Gates, mărturisește că apariția numelui acestuia în dosarele legate de Jeffrey Epstein reînvie momente extrem de dureroase din căsnicia lor, o perioadă pe care spune că încearcă să o lase definitiv în urmă.",
-      "link": "https://www.digi24.ro/stiri/externe/mapamond/reactia-melindei-french-gates-dupa-aparitia-numelui-lui-bill-gates-in-dosarele-epstein-vremuri-dureroase-in-casnicia-mea-3615009",
-      "source": "Digi24",
-      "published_utc": "2026-02-04T07:40:17+00:00",
-      "kind": "ro"
-    },
-    {
-      "id": "b43031e31752",
-      "title": "Profesorii și studenții protestează azi în fața Guvernului. „Stop reformelor care ne taie din drepturi”",
-      "summary": "Sindicaliştii din Educaţie protestează miercuri în Piaţa Victoriei, în faţa sediului Guvernului, împotriva măsurilor politice pentru diminuarea deficitului bugetar, care influenţează salarizarea, condiţiile de muncă, statutul şi demnitatea profesiei didactice. Alături de sindicat",
-      "link": "https://www.digi24.ro/stiri/sindicalistii-din-educatie-protesteaza-azi-in-fata-guvernului-stop-reformelor-care-ne-taie-din-drepturi-3614979",
-      "source": "Digi24",
-      "published_utc": "2026-02-04T07:37:44+00:00",
-      "kind": "ro"
-    },
-    {
-      "id": "696016612dd5",
-      "title": "Bruxelles neagă acuzațiile SUA privind influențarea scrutinului din România și ingerința în alegerile naționale din statele membre",
-      "summary": "Comisia Europeană a respins acuzațiile din SUA potrivit cărora ar fi influențat alegerile din România prin presiuni asupra rețelelor sociale și a catalogat drept nefondate afirmațiile privind „cenzura” și ingerința electorală în scrutinele naționale ale statelor membre.",
-      "link": "https://www.digi24.ro/stiri/bruxelles-neaga-acuzatiile-sua-privind-influentarea-scrutinului-din-romania-si-ingerinta-in-alegerile-nationale-din-statele-membre-3615001",
-      "source": "Digi24",
-      "published_utc": "2026-02-04T07:27:30+00:00",
-      "kind": "ro"
-    },
-    {
-      "id": "55ce7a0f4907",
-      "title": "Record de temperatură: Cuba înregistrează 0 grade Celsius, pentru prima dată de la începutul măsurătorilor",
-      "summary": "Cuba a înregistrat în zorii zilei de marţi valoarea termică de 0°C în provincia Matanzas, învecinată cu Havana, ceea ce reprezintă cea mai scăzută temperatură înregistrată vreodată pe această insulă din Marea Caraibilor, a anunţat institutul său de meteorologie, citat de AFP.",
-      "link": "https://www.digi24.ro/stiri/externe/record-de-temperatura-cuba-inregistreaza-0-grade-celsius-pentru-prima-data-de-la-inceputul-masuratorilor-3614999",
-      "source": "Digi24",
-      "published_utc": "2026-02-04T07:21:39+00:00",
       "kind": "ro"
     },
     {
