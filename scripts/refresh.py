@@ -287,45 +287,63 @@ def build_joke() -> Optional[Dict[str, Any]]:
 
 
 def build_photos(cfg: Dict[str, Any]) -> List[Dict[str, Any]]:
-    # We'll pull up to 3 images from "photos" RSS sources (newest first).
-    rss_sources = (cfg.get("rss_sources") or {}).get("photos") or []
-    photos: List[Dict[str, Any]] = []
-    seen_img: set = set()
+    """
+    Returnează EXACT 3 poze: una din Space, una din Animals, una din Landscapes.
+    Dacă o categorie pică, o să lipsească (dar nu mai amestecăm).
+    """
+    photo_sources = cfg.get("photo_sources") or {}
 
-    for src in rss_sources:
-        name = src.get("name", "Photos")
-        url = (src.get("url") or "").strip()
-        if not url:
-            continue
+    categories = [
+        ("space", "🚀 Spațiu"),
+        ("animals", "🐾 Animale"),
+        ("landscapes", "🏞️ Peisaj"),
+    ]
 
-        feed = fetch_rss(url)
-        for e in feed.entries[:25]:
-            title = (e.get("title") or "").strip()
-            link = (e.get("link") or "").strip()
-            if not link:
+    out: List[Dict[str, Any]] = []
+
+    for cat_id, cat_label in categories:
+        sources = photo_sources.get(cat_id) or []
+        best: Optional[Dict[str, Any]] = None
+
+        for src in sources:
+            name = src.get("name", cat_label)
+            url = (src.get("url") or "").strip()
+            if not url:
                 continue
 
-            img = extract_image_url(e)
-            if not img:
-                continue
+            feed = fetch_rss(url)
 
-            if img in seen_img:
-                continue
-            seen_img.add(img)
+            for e in feed.entries[:30]:
+                title = (e.get("title") or "").strip()
+                link = (e.get("link") or "").strip()
+                if not link:
+                    continue
 
-            dt = parse_entry_datetime(e)
-            published = (dt or datetime.now(timezone.utc)).replace(microsecond=0)
+                img = extract_image_url(e)
+                if not img:
+                    continue
 
-            photos.append({
-                "source": name,
-                "title": title or "Foto",
-                "link": link,
-                "image_url": img,
-                "published_utc": published.isoformat(),
-            })
+                dt = parse_entry_datetime(e)
+                published = (dt or datetime.now(timezone.utc)).replace(microsecond=0)
 
-    photos.sort(key=lambda x: x.get("published_utc", ""), reverse=True)
-    return photos[:3]
+                best = {
+                    "category_id": cat_id,
+                    "category_label": cat_label,
+                    "source": name,
+                    "title": title or cat_label,
+                    "link": link,           # pagina articolului
+                    "image_url": img,       # imaginea directă
+                    "published_utc": published.isoformat(),
+                }
+                break
+
+            if best:
+                break
+
+        if best:
+            out.append(best)
+
+    return out
 
 
 def fetch_url(url: str) -> Optional[str]:
