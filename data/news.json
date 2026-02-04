@@ -1,15 +1,15 @@
 {
-  "generated_utc": "2026-02-04T17:22:15+00:00",
-  "count": 58,
+  "generated_utc": "2026-02-04T17:39:40+00:00",
+  "count": 57,
   "items": [
     {
       "section": "romania",
       "kind": "ro",
       "source": "Digi24",
-      "title": "Ilie Bolojan: Încheiem măsurile de ajustare bugetară, lucrăm la masuri de relansare economică. Bugetul, în Parlament la 20 februarie",
-      "summary": "Ilie Bolojan susține o conferință de presă, de la ora 19:00, la Palatul Victoria. Marți, liderul UDMR, Kelemen Hunor, i-a cerut public premierului să revizuiască decizia privind taxele locale și să le scadă. De asemenea, Guvernul este așteptat să adopte și reforma administrației centrale, împreună cu măsuri economice pentru sprijinirea populației.",
-      "link": "https://www.digi24.ro/stiri/actualitate/politica/ora-1900-premierul-ilie-bolojan-sustine-o-conferinta-de-presa-din-interiorul-coalitiei-i-s-a-cerut-reducerea-taxelor-3615865",
-      "published_utc": "2026-02-04T17:17:31+00:00",
+      "title": "Pachetul privind reforma administrației va fi adoptat săptămâna viitoare, anunță Bolojan. Metoda recomandată de Ministerul Justiției",
+      "summary": "Premierul Ilie Bolojan a anunţat, miercuri, într-o conferință de presă de la Palatul Victoriei, că pachetul privind reforma administraţiei a intrat în circuitul guvernamental de avizare şi urmează să fie adoptat săptămâna viitoare. Potrivit şefului Executivului, la recomandarea Ministerului Justiţiei, adoptarea se va face prin asumarea răspunderii Guvernului.",
+      "link": "https://www.digi24.ro/stiri/actualitate/politica/pachetul-privind-reforma-administratiei-va-fi-adoptat-saptamana-viitoare-anunta-bolojan-metoda-recomandata-de-ministerul-justitiei-3616183",
+      "published_utc": "2026-02-04T17:34:31+00:00",
       "score": 1
     },
     {
@@ -133,6 +133,16 @@
       "score": 2
     },
     {
+      "section": "science",
+      "kind": "global",
+      "source": "NASA Breaking News",
+      "title": "NASA’s SPHEREx Examines Comet 3I/ATLAS’s Coma",
+      "summary": "Description These observations by NASA’s SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization and Ices Explorer) show the infrared light emitted by the dust, water, organic molecules, and carbon dioxide contained within comet 3I/ATLAS’s coma. The comet brightened significantly during the December 2025 period when SPHEREx made the observations — about two […]",
+      "link": "https://science.nasa.gov/photojournal/nasas-spherex-examines-comet-3i-atlass-coma/",
+      "published_utc": "2026-02-04T16:18:29+00:00",
+      "score": 2
+    },
+    {
       "section": "romania",
       "kind": "ro",
       "source": "Digi24",
@@ -166,7 +176,7 @@
       "section": "romania",
       "kind": "ro",
       "source": "HotNews",
-      "title": "LIVE VIDEO Ilie Bolojan, acum în conferință de presă, anunță ținta de deficit pe anul 2026 și cât va fi inflația la finalul anului: „Urmează să ne angajăm răspunderea pe reforma administrației”",
+      "title": "LIVE VIDEO Ilie Bolojan anunță ținta de deficit și inflația pentru 2026: „Vom reglementa prețul gazului pentru consumatorii casnici, va rămâne stabil pe tot parcursul anului” / Ce spune despre reducerea taxelor locale, cerută de UDMR",
       "summary": "Premierul Ilie Bolojan susține în această seară de la ora 19.00 o conferință de presă la Palatul Victoria. Este prima conferință de presă a șefului guvernului din acest an. HotNews transmite în format LIVETEXT principalele&#8230;",
       "link": "https://hotnews.ro/ilie-bolojan-anunt-de-ultima-ora-premierul-sustine-o-conferinta-de-presa-in-scurt-timp-2164825",
       "published_utc": "2026-02-04T16:04:11+00:00",
@@ -375,32 +385,12 @@
     {
       "section": "science",
       "kind": "global",
-      "source": "NASA Breaking News",
-      "title": "NASA to Discuss Early Results of Artemis II Wet Dress Rehearsal",
-      "summary": "Editor&#8217;s note: This advisory was updated at on Feb. 3, 2026, to reflect a change in the start of the news conference and its participants, as well as removing a placeholder for a crew media gaggle. Following a fueling test of NASA’s SLS (Space Launch System) rocket at the launch pad for the Artemis II [&#8230;]",
-      "link": "https://www.nasa.gov/news-release/nasa-to-discuss-early-results-of-artemis-ii-wet-dress-rehearsal/",
-      "published_utc": "2026-02-02T16:40:01+00:00",
-      "score": 2
-    },
-    {
-      "section": "science",
-      "kind": "global",
       "source": "ESA",
       "title": "Moving satellites to meet a plane for rare reentry data",
       "summary": "When satellites eventually fall back down to Earth, they mostly burn up because of the friction caused by the atmosphere. Scientific data about this atmospheric reentry process is urgently needed to design future satellites for a quick, safe and sustainable demise at the end of their mission – reducing risks on the ground and in space. The European Space Agency (ESA) successfully manoeuvred its remaining two&nbsp; Cluster &nbsp;satellites to ensure they can both be observed from a plane as they reenter the atmosphere on 31 August and 1 September 2026.",
       "link": "https://www.esa.int/Space_Safety/Space_Debris/Moving_satellites_to_meet_a_plane_for_rare_reentry_data",
       "published_utc": "2026-02-02T16:12:00+00:00",
       "score": 4
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "NASA Breaking News",
-      "title": "Widely Attended Gatherings (WAGs) Determinations",
-      "summary": "2026 2026 TSC Artemis II Pre-launch Reception 2.5.26 2026 VABA AAAAM Legislative Reception 2.4.26 Chamber of Commerce Summit 2.2.26 Cheniere Energy at the National Portrait Gallery 1.28.26 Leaders for a Better Louisiana at Adams and Reese 1.28.26 California Manufacturers and Technology Association Reception 1.23.26 Goddard Memorial Dinner 3.13.26 ISS 25th Anniversary 1.19.26 2026 Amentum Artemis [&#8230;]",
-      "link": "https://www.nasa.gov/organizations/nasa-ethics-advice-for-widely-attended-gatherings-wags/",
-      "published_utc": "2026-02-02T14:53:04+00:00",
-      "score": 2
     },
     {
       "section": "science",
@@ -589,10 +579,10 @@
         "section": "romania",
         "kind": "ro",
         "source": "Digi24",
-        "title": "Ilie Bolojan: Încheiem măsurile de ajustare bugetară, lucrăm la masuri de relansare economică. Bugetul, în Parlament la 20 februarie",
-        "summary": "Ilie Bolojan susține o conferință de presă, de la ora 19:00, la Palatul Victoria. Marți, liderul UDMR, Kelemen Hunor, i-a cerut public premierului să revizuiască decizia privind taxele locale și să le scadă. De asemenea, Guvernul este așteptat să adopte și reforma administrației centrale, împreună cu măsuri economice pentru sprijinirea populației.",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/ora-1900-premierul-ilie-bolojan-sustine-o-conferinta-de-presa-din-interiorul-coalitiei-i-s-a-cerut-reducerea-taxelor-3615865",
-        "published_utc": "2026-02-04T17:17:31+00:00",
+        "title": "Pachetul privind reforma administrației va fi adoptat săptămâna viitoare, anunță Bolojan. Metoda recomandată de Ministerul Justiției",
+        "summary": "Premierul Ilie Bolojan a anunţat, miercuri, într-o conferință de presă de la Palatul Victoriei, că pachetul privind reforma administraţiei a intrat în circuitul guvernamental de avizare şi urmează să fie adoptat săptămâna viitoare. Potrivit şefului Executivului, la recomandarea Ministerului Justiţiei, adoptarea se va face prin asumarea răspunderii Guvernului.",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/pachetul-privind-reforma-administratiei-va-fi-adoptat-saptamana-viitoare-anunta-bolojan-metoda-recomandata-de-ministerul-justitiei-3616183",
+        "published_utc": "2026-02-04T17:34:31+00:00",
         "score": 1
       },
       {
@@ -739,7 +729,7 @@
         "section": "romania",
         "kind": "ro",
         "source": "HotNews",
-        "title": "LIVE VIDEO Ilie Bolojan, acum în conferință de presă, anunță ținta de deficit pe anul 2026 și cât va fi inflația la finalul anului: „Urmează să ne angajăm răspunderea pe reforma administrației”",
+        "title": "LIVE VIDEO Ilie Bolojan anunță ținta de deficit și inflația pentru 2026: „Vom reglementa prețul gazului pentru consumatorii casnici, va rămâne stabil pe tot parcursul anului” / Ce spune despre reducerea taxelor locale, cerută de UDMR",
         "summary": "Premierul Ilie Bolojan susține în această seară de la ora 19.00 o conferință de presă la Palatul Victoria. Este prima conferință de presă a șefului guvernului din acest an. HotNews transmite în format LIVETEXT principalele&#8230;",
         "link": "https://hotnews.ro/ilie-bolojan-anunt-de-ultima-ora-premierul-sustine-o-conferinta-de-presa-in-scurt-timp-2164825",
         "published_utc": "2026-02-04T16:04:11+00:00",
@@ -901,6 +891,16 @@
       {
         "section": "science",
         "kind": "global",
+        "source": "NASA Breaking News",
+        "title": "NASA’s SPHEREx Examines Comet 3I/ATLAS’s Coma",
+        "summary": "Description These observations by NASA’s SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization and Ices Explorer) show the infrared light emitted by the dust, water, organic molecules, and carbon dioxide contained within comet 3I/ATLAS’s coma. The comet brightened significantly during the December 2025 period when SPHEREx made the observations — about two […]",
+        "link": "https://science.nasa.gov/photojournal/nasas-spherex-examines-comet-3i-atlass-coma/",
+        "published_utc": "2026-02-04T16:18:29+00:00",
+        "score": 2
+      },
+      {
+        "section": "science",
+        "kind": "global",
         "source": "ESA",
         "title": "Explore Mars’s Flaugergues Crater",
         "summary": "ESA’s Mars Express takes us on a journey across the southern highlands of Mars, including a flight around Flaugergues Crater.",
@@ -961,32 +961,12 @@
       {
         "section": "science",
         "kind": "global",
-        "source": "NASA Breaking News",
-        "title": "NASA to Discuss Early Results of Artemis II Wet Dress Rehearsal",
-        "summary": "Editor&#8217;s note: This advisory was updated at on Feb. 3, 2026, to reflect a change in the start of the news conference and its participants, as well as removing a placeholder for a crew media gaggle. Following a fueling test of NASA’s SLS (Space Launch System) rocket at the launch pad for the Artemis II [&#8230;]",
-        "link": "https://www.nasa.gov/news-release/nasa-to-discuss-early-results-of-artemis-ii-wet-dress-rehearsal/",
-        "published_utc": "2026-02-02T16:40:01+00:00",
-        "score": 2
-      },
-      {
-        "section": "science",
-        "kind": "global",
         "source": "ESA",
         "title": "Moving satellites to meet a plane for rare reentry data",
         "summary": "When satellites eventually fall back down to Earth, they mostly burn up because of the friction caused by the atmosphere. Scientific data about this atmospheric reentry process is urgently needed to design future satellites for a quick, safe and sustainable demise at the end of their mission – reducing risks on the ground and in space. The European Space Agency (ESA) successfully manoeuvred its remaining two&nbsp; Cluster &nbsp;satellites to ensure they can both be observed from a plane as they reenter the atmosphere on 31 August and 1 September 2026.",
         "link": "https://www.esa.int/Space_Safety/Space_Debris/Moving_satellites_to_meet_a_plane_for_rare_reentry_data",
         "published_utc": "2026-02-02T16:12:00+00:00",
         "score": 4
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "NASA Breaking News",
-        "title": "Widely Attended Gatherings (WAGs) Determinations",
-        "summary": "2026 2026 TSC Artemis II Pre-launch Reception 2.5.26 2026 VABA AAAAM Legislative Reception 2.4.26 Chamber of Commerce Summit 2.2.26 Cheniere Energy at the National Portrait Gallery 1.28.26 Leaders for a Better Louisiana at Adams and Reese 1.28.26 California Manufacturers and Technology Association Reception 1.23.26 Goddard Memorial Dinner 3.13.26 ISS 25th Anniversary 1.19.26 2026 Amentum Artemis [&#8230;]",
-        "link": "https://www.nasa.gov/organizations/nasa-ethics-advice-for-widely-attended-gatherings-wags/",
-        "published_utc": "2026-02-02T14:53:04+00:00",
-        "score": 2
       },
       {
         "section": "science",
@@ -1177,21 +1157,21 @@
         "title": "Foto",
         "link": "https://apod.nasa.gov/apod/astropix.html",
         "image_url": "https://apod.nasa.gov/apod/calendar/S_260204.jpg",
-        "published_utc": "2026-02-04T17:22:14+00:00"
+        "published_utc": "2026-02-04T17:39:39+00:00"
       },
       {
         "source": "APOD",
         "title": "Foto",
         "link": "https://apod.nasa.gov/apod/ap260203.html",
         "image_url": "https://apod.nasa.gov/apod/calendar/S_260203.jpg",
-        "published_utc": "2026-02-04T17:22:14+00:00"
+        "published_utc": "2026-02-04T17:39:39+00:00"
       },
       {
         "source": "APOD",
         "title": "Foto",
         "link": "https://apod.nasa.gov/apod/ap260202.html",
         "image_url": "https://apod.nasa.gov/apod/calendar/S_260202.jpg",
-        "published_utc": "2026-02-04T17:22:14+00:00"
+        "published_utc": "2026-02-04T17:39:39+00:00"
       }
     ],
     "joke": [
