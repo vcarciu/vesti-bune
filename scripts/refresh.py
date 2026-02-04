@@ -288,8 +288,8 @@ def build_joke() -> Optional[Dict[str, Any]]:
 
 def build_photos(cfg: Dict[str, Any]) -> List[Dict[str, Any]]:
     """
-    Returnează EXACT 3 poze: una din Space, una din Animals, una din Landscapes.
-    Dacă o categorie pică, o să lipsească (dar nu mai amestecăm).
+    Returnează 3 poze: una din Space, una din Animals, una din Landscapes.
+    Folosește fallback-uri per categorie ca să nu rămâi cu 1-2 poze.
     """
     photo_sources = cfg.get("photo_sources") or {}
 
@@ -300,10 +300,11 @@ def build_photos(cfg: Dict[str, Any]) -> List[Dict[str, Any]]:
     ]
 
     out: List[Dict[str, Any]] = []
+    used_images: set = set()
 
     for cat_id, cat_label in categories:
         sources = photo_sources.get(cat_id) or []
-        best: Optional[Dict[str, Any]] = None
+        picked: Optional[Dict[str, Any]] = None
 
         for src in sources:
             name = src.get("name", cat_label)
@@ -313,7 +314,7 @@ def build_photos(cfg: Dict[str, Any]) -> List[Dict[str, Any]]:
 
             feed = fetch_rss(url)
 
-            for e in feed.entries[:30]:
+            for e in feed.entries[:40]:
                 title = (e.get("title") or "").strip()
                 link = (e.get("link") or "").strip()
                 if not link:
@@ -323,28 +324,32 @@ def build_photos(cfg: Dict[str, Any]) -> List[Dict[str, Any]]:
                 if not img:
                     continue
 
+                # evităm duplicate (mai ales când 2 surse dau aceeași imagine)
+                if img in used_images:
+                    continue
+
                 dt = parse_entry_datetime(e)
                 published = (dt or datetime.now(timezone.utc)).replace(microsecond=0)
 
-                best = {
+                picked = {
                     "category_id": cat_id,
                     "category_label": cat_label,
                     "source": name,
                     "title": title or cat_label,
                     "link": link,           # pagina articolului
-                    "image_url": img,       # imaginea directă
+                    "image_url": img,       # imagine directă
                     "published_utc": published.isoformat(),
                 }
                 break
 
-            if best:
+            if picked:
                 break
 
-        if best:
-            out.append(best)
+        if picked:
+            used_images.add(picked["image_url"])
+            out.append(picked)
 
     return out
-
 
 def fetch_url(url: str) -> Optional[str]:
     try:
