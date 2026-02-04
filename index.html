@@ -10,7 +10,6 @@
   <link rel="canonical" href="https://vcarciu.github.io/vesti-bune/" />
   <link rel="icon" href="/vesti-bune/favicon.svg" type="image/svg+xml" />
 
-  <!-- Open Graph -->
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Vești bune" />
   <meta property="og:title" content="Vești bune" />
@@ -50,7 +49,6 @@
   </p>
   <p id="meta" style="color:#666; font-size:13px; margin:0 0 18px;"></p>
 
-  <!-- Top blocks -->
   <div id="top-blocks" style="
     display:grid;
     grid-template-columns: 1fr;
@@ -59,7 +57,6 @@
     align-items:stretch;
   "></div>
 
-  <!-- Sections -->
   <div id="sections"></div>
 
   <script>
@@ -133,34 +130,47 @@
       const host = document.getElementById("top-blocks");
       host.innerHTML = "";
 
-      // responsive: 3 cols on desktop
       function setCols() {
         host.style.gridTemplateColumns = (window.innerWidth >= 900) ? "1fr 1fr 1fr" : "1fr";
       }
       setCols();
       window.addEventListener("resize", setCols);
 
-      // Fixed height for all 3 cards (prevents photos ruining layout)
       const FIXED_H = "240px";
 
-      // 📸 Photos (compact thumbnails)
+      // 📸 Photos (1 Space + 1 Animals + 1 Landscapes)
       const photos = Array.isArray(sections.photos) ? sections.photos : [];
       const photoCard = el("div", { style: cardBase(`height:${FIXED_H}; overflow:hidden; display:flex; flex-direction:column;`) });
-      photoCard.appendChild(el("div", { style:"font-size:13px;color:#666;margin-bottom:10px" }, "📸 Poza zilei"));
+      photoCard.appendChild(el("div", { style:"font-size:13px;color:#666;margin-bottom:10px" }, "📸 Pozele zilei"));
 
       if (photos.length) {
         const list = el("div", { style:"display:flex; flex-direction:column; gap:10px; overflow:hidden;" });
 
-        photos.slice(0, 2).forEach(ph => {
+        photos.slice(0, 3).forEach(ph => {
           const row = el("div", { style:"display:flex; gap:10px; align-items:center;" });
+
+          // CLICK pe poză => deschide imaginea (image_url)
+          const imgLink = el("a", {
+            href: ph.image_url,
+            target: "_blank",
+            rel: "noopener noreferrer",
+            style: "display:block; flex:0 0 auto;"
+          });
 
           const img = el("img", {
             src: ph.image_url,
             alt: ph.title || "Photo",
-            style: "width:90px;height:60px;object-fit:cover;border-radius:10px;border:1px solid #eee;flex:0 0 auto;"
+            style: "width:90px;height:60px;object-fit:cover;border-radius:10px;border:1px solid #eee;cursor:pointer;"
           });
+          imgLink.appendChild(img);
 
           const right = el("div", { style:"min-width:0; flex:1 1 auto;" });
+
+          const badge = el("div", {
+            style:"display:inline-block;font-size:11px;color:#666;border:1px solid #eee;padding:2px 8px;border-radius:999px;margin-bottom:4px;background:#fafafa;"
+          }, ph.category_label || "Foto");
+
+          // CLICK pe titlu => deschide pagina articolului (link)
           const t = el("a", {
             href: ph.link,
             target: "_blank",
@@ -173,18 +183,17 @@
 
           const s = el("div", { style:"font-size:12px;color:#777; margin-top:3px;" }, ph.source || "");
 
+          right.appendChild(badge);
           right.appendChild(t);
           right.appendChild(s);
 
-          row.appendChild(img);
+          row.appendChild(imgLink);
           row.appendChild(right);
           list.appendChild(row);
         });
 
         photoCard.appendChild(list);
-
-        // optional footer
-        photoCard.appendChild(el("div", { style:"margin-top:auto; font-size:12px;color:#999;" }, "2 imagini (latest)"));
+        photoCard.appendChild(el("div", { style:"margin-top:auto; font-size:12px;color:#999;" }, "Click pe poză = imagine mare"));
       } else {
         photoCard.appendChild(el("div", { style:"font-size:16px;color:#111;line-height:1.5" }, "În curând 🙂"));
         photoCard.appendChild(el("div", { style:"margin-top:auto; font-size:12px;color:#999;" }, " "));
