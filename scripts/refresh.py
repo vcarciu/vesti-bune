@@ -533,52 +533,94 @@ def build_satire(cfg: Dict[str, Any]) -> List[Dict[str, Any]]:
     if not satire_cfg.get("enabled", False):
         return []
 
-    rss_urls = satire_cfg.get("rss_urls") or []
+    # listări (nu homepage fallback)
+    listing_urls = [
+        "https://www.timesnewroman.ro/monden/",
+        "https://www.timesnewroman.ro/sport/",
+        "https://www.timesnewroman.ro/social/",
+        "https://www.timesnewroman.ro/politic/",
+        "https://www.timesnewroman.ro/life-death/",
+    ]
+
     candidates: List[str] = []
-
-    # colectăm linkuri din RSS (articole direct)
-    for rss in rss_urls:
-        feed = fetch_rss(rss)
-        for e in feed.entries[:30]:
-            link = (e.get("link") or "").strip()
-            if link and link.startswith("http"):
-                candidates.append(link)
-
-    # dedupe păstrând ordinea
     seen = set()
-    candidates = [c for c in candidates if not (c in seen or seen.add(c))]
+
+    for lu in listing_urls:
+        html, _ = fetch_url_with_final(lu)
+        if not html:
+            continue
+
+        hrefs = re.findall(r'href=["\'](https?://www\.timesnewroman\.ro/[^"\']+)["\']', html, flags=re.I)
+        for h in hrefs:
+            if not h.startswith("https://www.timesnewroman.ro/"):
+                continue
+            # EXCLUDE: premium explicit + pagini non-articol
+            if "/tnr-premium/" in h:
+                continue
+            if any(bad in h for bad in ["/category/", "/tag/", "/author/", "/page/", "/wp-", "feed", "rss", "#"]):
+                continue
+            if h in seen:
+                continue
+            seen.add(h)
+
+            # heuristic: articol = url mai “lung”
+            if len(h.split("/")) >= 5:
+                candidates.append(h)
+
+    # dacă nu găsim nimic, măcar nu trimitem la homepage: trimitem la monden (dar tu ai zis că nu vrei)
+    if not candidates:
+        return [{
+            "date_utc": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
+            "source": "TimesNewRoman",
+            "title": "TimesNewRoman",
+            "summary": "Nu am găsit un articol azi (refresh următor).",
+            "link": "https://www.timesnewroman.ro/monden/",
+            "note": "Satiră — nu este știre reală."
+        }]
+
+    # random real
+    random.shuffle(candidates)
 
     picked_link = None
     picked_title = None
-    picked_summary = None
+    picked_summary = ""
 
-    # încercăm până la 30 articole, alegem primul non-premium
-    for link in candidates[:30]:
+    for link in candidates[:25]:
         html, final_url = fetch_url_with_final(link)
         if not html or not final_url:
             continue
-        if looks_like_tnr_premium(final_url, html):
+        # Dacă redirecționează în premium, îl sărim
+        if "/tnr-premium/" in (final_url.lower()):
             continue
 
         picked_link = final_url
         picked_title = get_page_title(html) or "TimesNewRoman"
-        picked_summary = extract_meta_description(html) or ""
+
+        # rezumat: meta desc dacă există, altfel primele ~240 caractere din text
+        md = extract_meta_description(html)
+        if md:
+            picked_summary = md.strip()
+        else:
+            text = strip_html(html)
+            text = re.sub(r"\s+", " ", text).strip()
+            picked_summary = text[:240].rstrip() + ("…" if len(text) > 240 else "")
+
         break
 
-    # dacă tot sunt premium azi, alegem primul articol oricum (dar articol direct)
-    if not picked_link and candidates:
-        html, final_url = fetch_url_with_final(candidates[0])
-        picked_link = final_url or candidates[0]
+    if not picked_link:
+        # ultim fallback: primul candidat (tot articol direct)
+        picked_link = candidates[0]
+        html, final_url = fetch_url_with_final(picked_link)
+        picked_link = final_url or picked_link
         picked_title = get_page_title(html or "") or "TimesNewRoman"
-        picked_summary = extract_meta_description(html or "") or ""
+        picked_summary = (extract_meta_description(html or "") or "").strip()
 
-    day = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     return [{
-        "date_utc": day,
+        "date_utc": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
         "source": "TimesNewRoman",
         "title": picked_title or "TimesNewRoman",
         "summary": picked_summary or "",
-        "link": picked_link or "https://www.timesnewroman.ro/",
+        "link": picked_link,
         "note": "Satiră — nu este știre reală."
     }]
 
