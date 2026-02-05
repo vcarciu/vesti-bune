@@ -212,6 +212,10 @@
       const satire = (sections.satire && sections.satire[0]) ? sections.satire[0] : null;
       const satCard = el("div", { style: cardBase(`height:${FIXED_H}; overflow:hidden; display:flex; flex-direction:column;`) });
       satCard.appendChild(el("div", { style:"font-size:13px;color:#666;margin-bottom:10px" }, "😈 Satiră (TimesNewRoman)"));
+      if (satire.summary) {
+        satCard.appendChild(el("div", {style:"font-size:13px;color:#333;margin-top:8px;line-height:1.45;max-height:70px;overflow:hidden;"}, satire.summary));
+      }
+
 
       if (satire && satire.link) {
         const sa = el("a", {
