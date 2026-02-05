@@ -1,7 +1,17 @@
 {
-  "generated_utc": "2026-02-04T23:18:00+00:00",
+  "generated_utc": "2026-02-05T01:06:50+00:00",
   "count": 56,
   "items": [
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "NASA Breaking News",
+      "title": "Curiosity Blog, Sols 4788-4797: Welcome Back from Conjunction",
+      "summary": "Written by Alex Innanen, Atmospheric Scientist at York University, Toronto Earth planning date: Friday, Jan. 30, 2026 Mars has emerged from its holiday behind the Sun, and we here on Earth have been able to reconnect with Curiosity and get back to work on Mars. Our first planning day last Friday gave Curiosity a full […]",
+      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4788-4797-welcome-back-from-conjunction/",
+      "published_utc": "2026-02-04T23:05:07+00:00",
+      "score": 2
+    },
     {
       "section": "romania",
       "kind": "ro",
@@ -350,16 +360,6 @@
       "summary": "ESA’s Mars Express takes us on a journey across the southern highlands of Mars, including a flight around Flaugergues Crater.",
       "link": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Explore_Mars_s_Flaugergues_Crater",
       "published_utc": "2026-02-04T10:00:00+00:00",
-      "score": 2
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "NASA Breaking News",
-      "title": "Full Moon over Artemis II",
-      "summary": "A full moon is seen shining over NASA’s SLS (Space Launch System) and Orion spacecraft, atop the mobile launcher at Launch Pad 39B at NASA’s Kennedy Space Center in Florida in the early hours of February 1, 2026. The agency concluded a wet dress rehearsal for the agency’s Artemis II test flight early Tuesday morning, [&#8230;]",
-      "link": "https://www.nasa.gov/image-article/full-moon-over-artemis-ii/",
-      "published_utc": "2026-02-03T17:01:07+00:00",
       "score": 2
     },
     {
@@ -872,6 +872,16 @@
         "section": "science",
         "kind": "global",
         "source": "NASA Breaking News",
+        "title": "Curiosity Blog, Sols 4788-4797: Welcome Back from Conjunction",
+        "summary": "Written by Alex Innanen, Atmospheric Scientist at York University, Toronto Earth planning date: Friday, Jan. 30, 2026 Mars has emerged from its holiday behind the Sun, and we here on Earth have been able to reconnect with Curiosity and get back to work on Mars. Our first planning day last Friday gave Curiosity a full […]",
+        "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4788-4797-welcome-back-from-conjunction/",
+        "published_utc": "2026-02-04T23:05:07+00:00",
+        "score": 2
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "NASA Breaking News",
         "title": "NASA, University of Texas Expand Research and Workforce Development",
         "summary": "NASA’s Johnson Space Center in Houston and the University of Texas System (UT System) announced the signing of a collaborative Space Act Agreement on Jan. 9, 2026. The agreement expands research and workforce development partnership opportunities across NASA centers and UT System facilities. The agreement builds upon decades of collaboration between NASA and the UT [&#8230;]",
         "link": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-university-of-texas-expand-research-and-workforce-development/",
@@ -916,16 +926,6 @@
         "summary": "ESA’s Mars Express takes us on a journey across the southern highlands of Mars, including a flight around Flaugergues Crater.",
         "link": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Explore_Mars_s_Flaugergues_Crater",
         "published_utc": "2026-02-04T10:00:00+00:00",
-        "score": 2
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "NASA Breaking News",
-        "title": "Full Moon over Artemis II",
-        "summary": "A full moon is seen shining over NASA’s SLS (Space Launch System) and Orion spacecraft, atop the mobile launcher at Launch Pad 39B at NASA’s Kennedy Space Center in Florida in the early hours of February 1, 2026. The agency concluded a wet dress rehearsal for the agency’s Artemis II test flight early Tuesday morning, [&#8230;]",
-        "link": "https://www.nasa.gov/image-article/full-moon-over-artemis-ii/",
-        "published_utc": "2026-02-03T17:01:07+00:00",
         "score": 2
       },
       {
@@ -1139,7 +1139,7 @@
         "title": "🚀 Spațiu",
         "link": "https://apod.nasa.gov/apod/astropix.html",
         "image_url": "https://apod.nasa.gov/apod/calendar/S_260204.jpg",
-        "published_utc": "2026-02-04T23:17:43+00:00"
+        "published_utc": "2026-02-05T01:06:36+00:00"
       },
       {
         "category_id": "animals",
@@ -1153,13 +1153,13 @@
     ],
     "joke": [
       {
-        "date_utc": "2026-02-04",
-        "text": "— Aveți Wi-Fi? — Da. — Parola? — Ești sigur că vrei asta?"
+        "date_utc": "2026-02-05",
+        "text": "Mi-am făcut un plan de economii. Acum economisesc timp necheltuindu-l."
       }
     ],
     "satire": [
       {
-        "date_utc": "2026-02-04",
+        "date_utc": "2026-02-05",
         "source": "TimesNewRoman",
         "title": "TimesNewRoman (listă)",
         "link": "https://www.timesnewroman.ro/monden/",
