@@ -413,17 +413,28 @@ def get_page_title(html: str) -> str:
 
 
 def is_premium_tnr(html: str) -> bool:
+    """
+    Detectare premium *specifică*, ca să nu blocăm pagini normale unde 'abonament' apare în footer.
+    """
     if not html:
         return False
-    h = html.lower()
-    # markere simple, stabile
-    markers = [
-        "tnr premium",
-        "vreau abonament",
-        "abonament",
-        "login",
+    h = normalize_text(html)
+
+    # dacă nu există deloc "tnr premium", considerăm non-premium
+    if "tnr premium" not in h:
+        return False
+
+    # semnale de paywall / abonare (mai specifice)
+    paywall_markers = [
+        "doar pentru abonati",
+        "continua cu abonament",
+        "aboneaza-te",
+        "devino abonat",
+        "continut premium",
+        "articol premium",
+        "acest articol este disponibil",
     ]
-    return any(m in h for m in markers)
+    return any(m in h for m in paywall_markers)
 
 
 def build_satire(cfg: Dict[str, Any]) -> List[Dict[str, Any]]:
@@ -431,56 +442,74 @@ def build_satire(cfg: Dict[str, Any]) -> List[Dict[str, Any]]:
     if not satire_cfg.get("enabled", False):
         return []
 
-    # Folosim o pagină de listă (mai sigur decât homepage)
-    # dacă nu există în config, default pe Monden
-    listing_url = (satire_cfg.get("listing_url") or "https://www.timesnewroman.ro/monden/").strip()
+    # Luăm linkuri din mai multe liste ca să avem șanse mari să găsim un articol non-premium
+    listing_urls = [
+        satire_cfg.get("listing_url") or "https://www.timesnewroman.ro/monden/",
+        "https://www.timesnewroman.ro/",
+        "https://www.timesnewroman.ro/politic/",
+        "https://www.timesnewroman.ro/sport/",
+        "https://www.timesnewroman.ro/life-death/",
+    ]
+    listing_urls = [u.strip() for u in listing_urls if u]
 
-    listing_html = fetch_url(listing_url)
-    if not listing_html:
-        return []
-
-    # Strângem mai multe linkuri candidate din pagina de listă
-    hrefs = re.findall(r'href=["\'](https?://www\.timesnewroman\.ro/[^"\']+)["\']', listing_html, flags=re.I)
-    seen = set()
     candidates = []
-    for h in hrefs:
-        if not h.startswith("https://www.timesnewroman.ro/"):
-            continue
-        if any(bad in h for bad in ["/category/", "/tag/", "/author/", "/page/", "/wp-", "feed", "rss", "#"]):
-            continue
-        if h in seen:
-            continue
-        seen.add(h)
-        # articol = de obicei are minim 5 segmente
-        if len(h.split("/")) >= 5:
-            candidates.append(h)
+    seen = set()
 
-    # Încercăm primele 20 și alegem primul NON-premium
-    picked_link = None
-    picked_title = None
-    for link in candidates[:20]:
-        html = fetch_url(link)
+    for lu in listing_urls:
+        html = fetch_url(lu)
         if not html:
             continue
-        if is_premium_tnr(html):
+
+        hrefs = re.findall(r'href=["\'](https?://www\.timesnewroman\.ro/[^"\']+)["\']', html, flags=re.I)
+        for h in hrefs:
+            if not h.startswith("https://www.timesnewroman.ro/"):
+                continue
+            if any(bad in h for bad in ["/category/", "/tag/", "/author/", "/page/", "/wp-", "feed", "rss", "#"]):
+                continue
+            if h in seen:
+                continue
+            seen.add(h)
+            if len(h.split("/")) >= 5:
+                candidates.append(h)
+
+    # încercăm primele 40; primul non-premium câștigă
+    picked_link = None
+    picked_title = None
+
+    for link in candidates[:40]:
+        art_html = fetch_url(link)
+        if not art_html:
+            continue
+        if is_premium_tnr(art_html):
             continue
 
         picked_link = link
-        picked_title = get_page_title(html) or "TimesNewRoman"
+        picked_title = get_page_title(art_html) or "TimesNewRoman"
         break
 
-    if not picked_link:
-        # fallback: totuși punem un link spre listă (nu paywall)
-        picked_link = listing_url
-        picked_title = "TimesNewRoman (listă)"
+    # dacă tot nu găsim (rar), luăm totuși primul articol direct (nu listă),
+    # dar marcăm clar că poate cere abonament.
+    if not picked_link and candidates:
+        picked_link = candidates[0]
+        art_html = fetch_url(picked_link) or ""
+        picked_title = get_page_title(art_html) or "TimesNewRoman"
 
     day = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+
+    note = "Satiră — nu este știre reală."
+    if picked_link and picked_link in (satire_cfg.get("listing_url") or ""):
+        note = "Satiră — nu este știre reală."
+    # dacă am fost forțați să luăm primul candidat fără filtrare premium:
+    if picked_link and candidates and picked_link == candidates[0] and picked_link != (satire_cfg.get("listing_url") or ""):
+        # nu afirmăm că e premium, doar prevenim
+        note = "Satiră — nu este știre reală. Dacă cere abonament, dăm skip data viitoare."
+
     return [{
         "date_utc": day,
         "source": "TimesNewRoman",
-        "title": picked_title,
-        "link": picked_link,
-        "note": "Satiră — nu este știre reală."
+        "title": picked_title or "TimesNewRoman",
+        "link": picked_link or "https://www.timesnewroman.ro/",
+        "note": note
     }]
 
 
