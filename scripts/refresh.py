@@ -1,4 +1,5 @@
 # scripts/refresh.py
+import random
 import os
 import re
 import json
