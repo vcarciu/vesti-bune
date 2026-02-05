@@ -152,43 +152,60 @@ def dedupe_key(link: str, title: str) -> str:
     return hashlib.sha1(base.encode("utf-8", errors="ignore")).hexdigest()
 
 
-def extract_image_url(entry: Dict[str, Any]) -> Optional[str]:
-    # 1) media_content
-    mc = entry.get("media_content")
-    if isinstance(mc, list):
-        for m in mc:
-            u = (m.get("url") or "").strip()
-            if u:
-                return u
+def extract_image_url(e: dict) -> Optional[str]:
+    """
+    Încearcă, în ordine:
+    1) media_content / media_thumbnail (feedparser)
+    2) links/enclosures (rel=enclosure)
+    3) <img src="..."> din summary/content
+    4) fallback: og:image din pagina linkului (dacă există link)
+    """
+    # 1) media:content
+    mc = e.get("media_content")
+    if isinstance(mc, list) and mc:
+        for item in mc:
+            url = (item.get("url") or "").strip()
+            if url:
+                return url
 
-    # 2) media_thumbnail
-    mt = entry.get("media_thumbnail")
-    if isinstance(mt, list):
-        for m in mt:
-            u = (m.get("url") or "").strip()
-            if u:
-                return u
+    # 2) media:thumbnail
+    mt = e.get("media_thumbnail")
+    if isinstance(mt, list) and mt:
+        for item in mt:
+            url = (item.get("url") or "").strip()
+            if url:
+                return url
 
-    # 3) links (enclosures)
-    links = entry.get("links")
+    # 3) enclosures in links
+    links = e.get("links")
     if isinstance(links, list):
         for l in links:
-            href = (l.get("href") or "").strip()
-            ltype = (l.get("type") or "").lower()
             rel = (l.get("rel") or "").lower()
-            if href and ("image" in ltype or rel == "enclosure"):
+            href = (l.get("href") or "").strip()
+            if rel == "enclosure" and href:
                 return href
 
-    # 4) <img src="..."> in summary/content
-    raw = (entry.get("summary") or "")
-    content = entry.get("content")
-    if isinstance(content, list) and content:
-        raw = raw + " " + (content[0].get("value") or "")
-    m = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', raw, flags=re.IGNORECASE)
-    if m:
-        return m.group(1).strip()
+    # 4) HTML in summary/content
+    html = (e.get("summary") or e.get("content") or "")
+    if isinstance(html, list) and html:
+        html = html[0].get("value", "")
+    if isinstance(html, dict):
+        html = html.get("value", "")
+    if isinstance(html, str) and html:
+        m = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', html, flags=re.I)
+        if m:
+            return m.group(1).strip()
+
+    # 5) og:image fallback (dacă avem link)
+    link = (e.get("link") or "").strip()
+    if link:
+        page_html, _final = fetch_url_with_final(link)
+        img = extract_og_image(page_html or "")
+        if img:
+            return img.strip()
 
     return None
+
 
 
 def build_sections(cfg: Dict[str, Any]) -> Dict[str, List[Dict[str, Any]]]:
