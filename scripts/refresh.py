@@ -565,8 +565,20 @@ def build_satire(cfg: Dict[str, Any]) -> List[Dict[str, Any]]:
             seen.add(h)
 
             # heuristic: articol = url mai “lung”
-            if len(h.split("/")) >= 5:
-                candidates.append(h)
+                        # Acceptăm DOAR articole: /<categorie>/<slug>/
+            # Excludem categorii simple: /monden/ , /sport/ etc.
+            m = re.match(r"^https?://www\.timesnewroman\.ro/([^/]+)/([^/]+)/?$", h)
+            if not m:
+                continue
+
+            cat = m.group(1).strip()
+            slug = m.group(2).strip()
+
+            # slug trebuie să existe și să nu fie ceva generic
+            if not slug or slug in {"page", "feed"}:
+                continue
+
+            candidates.append(h)
 
     # dacă nu găsim nimic, măcar nu trimitem la homepage: trimitem la monden (dar tu ai zis că nu vrei)
     if not candidates:
