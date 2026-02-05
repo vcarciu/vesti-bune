@@ -225,6 +225,10 @@
         sa.onmouseout = () => sa.style.textDecoration = "none";
 
         satCard.appendChild(sa);
+        if (satire.summary) {
+          satCard.appendChild(el("div", {style:"font-size:13px;color:#333;margin-top:8px;line-height:1.45;max-height:70px;overflow:hidden;"}, satire.summary));
+        }
+
         satCard.appendChild(el("div", { style:"font-size:12px;color:#777;margin-top:8px" }, "Satiră — nu este știre reală."));
       } else {
         satCard.appendChild(el("div", { style:"font-size:16px;color:#111;line-height:1.5" }, "În curând 🙂"));
