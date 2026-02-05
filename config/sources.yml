@@ -175,3 +175,7 @@ filters:
     - "mortality"
     - "warning"
     - "recall"
+  photo_fallback:
+    name: "Wikimedia POTD 400x300"
+    url: "https://tools.wmflabs.org/potd-feed/commons/potd-400x300.rss"
+
