@@ -54,7 +54,11 @@ rss_sources:
 satire:
   enabled: true
   name: "TimesNewRoman"
-  listing_url: "https://www.timesnewroman.ro/monden/"
+  rss_urls:
+    - "https://www.timesnewroman.ro/monden/?act=rss"
+    - "https://www.timesnewroman.ro/sport/?act=rss"
+    - "https://www.timesnewroman.ro/life-death/?act=rss"
+
 
 
 # AICI e noul bloc pentru 3 categorii (Space / Animals / Landscapes)
