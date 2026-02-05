@@ -469,70 +469,102 @@ def looks_like_paywall(final_url: str, html: str) -> bool:
     return any(m in h for m in markers)
 
 
+def extract_meta_description(html: str) -> str:
+    if not html:
+        return ""
+    # og:description
+    m = re.search(r'property=["\']og:description["\']\s+content=["\']([^"\']+)["\']', html, flags=re.I)
+    if m:
+        return strip_html(m.group(1)).strip()
+    m = re.search(r'<meta\s+name=["\']description["\']\s+content=["\']([^"\']+)["\']', html, flags=re.I)
+    if m:
+        return strip_html(m.group(1)).strip()
+    return ""
+
+
+def fetch_url_with_final(url: str) -> Tuple[Optional[str], Optional[str]]:
+    try:
+        r = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=20, allow_redirects=True)
+        if r.status_code == 200:
+            return r.text, r.url
+    except Exception:
+        return None, None
+    return None, None
+
+
+def looks_like_tnr_premium(final_url: str, html: str) -> bool:
+    u = (final_url or "").lower()
+    h = normalize_text(html or "")
+
+    # redirect sau url premium/abonare
+    if any(x in u for x in ["premium", "abon", "subscribe", "login"]):
+        return True
+
+    # markeri relativ specifici (nu "abonament" generic)
+    markers = [
+        "continut premium",
+        "doar pentru abonati",
+        "continua cu abonament",
+        "devino abonat",
+        "aboneaza-te pentru a citi",
+    ]
+    return any(m in h for m in markers)
+
+
 def build_satire(cfg: Dict[str, Any]) -> List[Dict[str, Any]]:
     satire_cfg = cfg.get("satire") or {}
     if not satire_cfg.get("enabled", False):
         return []
 
-    listing_urls = [
-        satire_cfg.get("listing_url") or "https://www.timesnewroman.ro/monden/",
-        "https://www.timesnewroman.ro/",
-        "https://www.timesnewroman.ro/life-death/",
-        "https://www.timesnewroman.ro/sport/",
-        "https://www.timesnewroman.ro/politic/",
-    ]
-    listing_urls = [u.strip() for u in listing_urls if u]
+    rss_urls = satire_cfg.get("rss_urls") or []
+    candidates: List[str] = []
 
-    candidates = []
+    # colectăm linkuri din RSS (articole direct)
+    for rss in rss_urls:
+        feed = fetch_rss(rss)
+        for e in feed.entries[:30]:
+            link = (e.get("link") or "").strip()
+            if link and link.startswith("http"):
+                candidates.append(link)
+
+    # dedupe păstrând ordinea
     seen = set()
-
-    for lu in listing_urls:
-        html, _ = fetch_url_with_final(lu)
-        if not html:
-            continue
-
-        hrefs = re.findall(r'href=["\'](https?://www\.timesnewroman\.ro/[^"\']+)["\']', html, flags=re.I)
-        for h in hrefs:
-            if not h.startswith("https://www.timesnewroman.ro/"):
-                continue
-            if any(bad in h for bad in ["/category/", "/tag/", "/author/", "/page/", "/wp-", "feed", "rss", "#"]):
-                continue
-            if h in seen:
-                continue
-            seen.add(h)
-            if len(h.split("/")) >= 5:
-                candidates.append(h)
+    candidates = [c for c in candidates if not (c in seen or seen.add(c))]
 
     picked_link = None
     picked_title = None
+    picked_summary = None
 
-    # încercăm până la 60 articole
-    for link in candidates[:60]:
-        art_html, final_url = fetch_url_with_final(link)
-        if not art_html or not final_url:
+    # încercăm până la 30 articole, alegem primul non-premium
+    for link in candidates[:30]:
+        html, final_url = fetch_url_with_final(link)
+        if not html or not final_url:
             continue
-
-        if looks_like_paywall(final_url, art_html):
+        if looks_like_tnr_premium(final_url, html):
             continue
 
         picked_link = final_url
-        picked_title = get_page_title(art_html) or "TimesNewRoman"
+        picked_title = get_page_title(html) or "TimesNewRoman"
+        picked_summary = extract_meta_description(html) or ""
         break
 
-    # dacă chiar TOT e paywall azi (rar), alegem primul articol oricum (dar e articol direct)
+    # dacă tot sunt premium azi, alegem primul articol oricum (dar articol direct)
     if not picked_link and candidates:
-        art_html, final_url = fetch_url_with_final(candidates[0])
+        html, final_url = fetch_url_with_final(candidates[0])
         picked_link = final_url or candidates[0]
-        picked_title = get_page_title(art_html or "") or "TimesNewRoman"
+        picked_title = get_page_title(html or "") or "TimesNewRoman"
+        picked_summary = extract_meta_description(html or "") or ""
 
     day = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     return [{
         "date_utc": day,
         "source": "TimesNewRoman",
         "title": picked_title or "TimesNewRoman",
+        "summary": picked_summary or "",
         "link": picked_link or "https://www.timesnewroman.ro/",
         "note": "Satiră — nu este știre reală."
     }]
+
 
 
 
