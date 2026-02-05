@@ -284,12 +284,37 @@ def build_joke() -> Optional[Dict[str, Any]]:
         "date_utc": day,
         "text": jokes[idx]
     }
+    
+def fetch_url_with_final(url: str) -> Tuple[Optional[str], Optional[str]]:
+    try:
+        r = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=20, allow_redirects=True)
+        if r.status_code == 200:
+            return r.text, r.url
+    except Exception:
+        return None, None
+    return None, None
+
+
+def extract_og_image(html: str) -> Optional[str]:
+    if not html:
+        return None
+    # og:image
+    m = re.search(r'property=["\']og:image["\']\s+content=["\']([^"\']+)["\']', html, flags=re.I)
+    if m:
+        return m.group(1).strip()
+    # uneori e invers ordinea atributelor
+    m = re.search(r'content=["\']([^"\']+)["\']\s+property=["\']og:image["\']', html, flags=re.I)
+    if m:
+        return m.group(1).strip()
+    return None
+
 
 
 def build_photos(cfg: Dict[str, Any]) -> List[Dict[str, Any]]:
     """
-    Vrem exact 3: space + animals + landscapes.
-    Dacă o categorie nu găsește imagine, umplem lipsa cu fallback (Wikimedia POTD).
+    3 poze: space + animals + landscapes.
+    Dacă feed-ul nu dă imagine, luăm og:image din pagina articolului.
+    Dacă tot nu, folosim fallback POTD (și dacă nici atunci, punem un placeholder safe).
     """
     photo_sources = cfg.get("photo_sources") or {}
     fallback = cfg.get("photo_fallback") or {}
@@ -303,7 +328,7 @@ def build_photos(cfg: Dict[str, Any]) -> List[Dict[str, Any]]:
     out: List[Dict[str, Any]] = []
     used_images: set = set()
 
-    def pick_from_sources(sources, cat_id, cat_label, allow_duplicate_if_needed=False):
+    def pick_one(sources, cat_id, cat_label) -> Optional[Dict[str, Any]]:
         nonlocal used_images
         for src in sources:
             name = src.get("name", cat_label)
@@ -312,23 +337,29 @@ def build_photos(cfg: Dict[str, Any]) -> List[Dict[str, Any]]:
                 continue
 
             feed = fetch_rss(url)
-            for e in feed.entries[:50]:
+            for e in feed.entries[:60]:
                 title = (e.get("title") or "").strip()
                 link = (e.get("link") or "").strip()
                 if not link:
                     continue
 
                 img = extract_image_url(e)
+
+                # OG fallback dacă feed-ul nu are imagine
+                if not img:
+                    html, _final = fetch_url_with_final(link)
+                    img = extract_og_image(html or "")
+
                 if not img:
                     continue
 
-                if (img in used_images) and (not allow_duplicate_if_needed):
+                if img in used_images:
                     continue
 
                 dt = parse_entry_datetime(e)
                 published = (dt or datetime.now(timezone.utc)).replace(microsecond=0)
 
-                return {
+                item = {
                     "category_id": cat_id,
                     "category_label": cat_label,
                     "source": name,
@@ -337,40 +368,42 @@ def build_photos(cfg: Dict[str, Any]) -> List[Dict[str, Any]]:
                     "image_url": img,
                     "published_utc": published.isoformat(),
                 }
+                return item
         return None
 
-    # 1) Încercăm să luăm 1/categorie
+    # 1) pick per category
     for cat_id, cat_label in categories:
-        sources = photo_sources.get(cat_id) or []
-        picked = pick_from_sources(sources, cat_id, cat_label, allow_duplicate_if_needed=False)
+        picked = pick_one(photo_sources.get(cat_id) or [], cat_id, cat_label)
         if picked:
             used_images.add(picked["image_url"])
             out.append(picked)
 
-    # 2) Dacă lipsesc categorii, completăm cu fallback POTD (dar păstrăm label-ul categoriei lipsă)
-    if len(out) < 3 and fallback.get("url"):
-        missing = [c for c in categories if c[0] not in {p["category_id"] for p in out}]
+    # 2) fill missing with fallback POTD
+    missing = [c for c in categories if c[0] not in {p["category_id"] for p in out}]
+    if missing and fallback.get("url"):
         fb_sources = [{"name": fallback.get("name", "Wikimedia POTD"), "url": fallback["url"]}]
-
         for cat_id, cat_label in missing:
-            picked = pick_from_sources(fb_sources, cat_id, cat_label, allow_duplicate_if_needed=False)
-            if not picked:
-                # ultim fallback: acceptăm duplicate doar ca să fie 3 poze
-                picked = pick_from_sources(fb_sources, cat_id, cat_label, allow_duplicate_if_needed=True)
-
+            picked = pick_one(fb_sources, cat_id, cat_label)
             if picked:
                 used_images.add(picked["image_url"])
                 out.append(picked)
 
-    # 3) Siguranță: dacă tot sunt <3, mai adăugăm din fallback fără categorie (nu ar trebui să se întâmple)
-    while len(out) < 3 and fallback.get("url"):
-        fb_sources = [{"name": fallback.get("name", "Wikimedia POTD"), "url": fallback["url"]}]
-        picked = pick_from_sources(fb_sources, "photos", "📸 Foto", allow_duplicate_if_needed=True)
-        if not picked:
-            break
-        out.append(picked)
+    # 3) LAST resort: dacă tot lipsesc, punem placeholder (ca să fie 3 rânduri în UI)
+    # (UI-ul tău va afișa tot 3; la click se deschide link-ul)
+    while len(out) < 3:
+        cat_id, cat_label = categories[len(out)]
+        out.append({
+            "category_id": cat_id,
+            "category_label": cat_label,
+            "source": "—",
+            "title": "Nu am găsit o poză acum (refresh următor)",
+            "link": "https://vcarciu.github.io/vesti-bune/",
+            "image_url": "https://vcarciu.github.io/vesti-bune/og.jpg",
+            "published_utc": utc_now_iso(),
+        })
 
     return out[:3]
+
 
 def fetch_url(url: str) -> Optional[str]:
     try:
