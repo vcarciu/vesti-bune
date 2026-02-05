@@ -1,7 +1,67 @@
 {
-  "generated_utc": "2026-02-05T21:23:52+00:00",
-  "count": 57,
+  "generated_utc": "2026-02-05T22:17:30+00:00",
+  "count": 58,
   "items": [
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Donald Trump susține că merită să ajungă în rai: „Am făcut o mulțime de lucruri bune pentru oameni”",
+      "summary": "Președintele SUA, Donald Trump, a declarat joi că merită să ajungă în rai pentru că a făcut „o mulțime de lucruri bune pentru oameni perfecți”. Trump a declarat apoi la evenimentul National Prayer Breakfast că afirmația recentă, potrivit căreia s-ar putea să nu ajungă în rai, era, de fapt, o glumă. El a acuzat mass-media că a citat cuvânt cu cuvânt remarca sa anterioară despre viața de apoi, sugerând că reportajele nu au clarificat faptul că el glumea, anunță European Pravda.",
+      "link": "https://www.digi24.ro/stiri/externe/sua/donald-trump-sustine-ca-merita-sa-ajunga-in-rai-am-facut-o-multime-de-lucruri-bune-pentru-oameni-3618411",
+      "published_utc": "2026-02-05T21:44:33+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "CIA oprește publicarea ghidului său de referinţă World Factbook, fără a explica de ce",
+      "summary": "CIA, Agenţia americană de Informaţii, a anunţat încetarea publicării raportului său anual privind „Starea lumii” (World Factbook), o lucrare de referință foarte populară care a fost difuzată fără intermitenţe timp de mai bine de 60&#8230;",
+      "link": "https://hotnews.ro/cia-opreste-publicarea-ghidului-sau-de-referinta-world-factbook-fara-a-explica-de-ce-2165878",
+      "published_utc": "2026-02-05T21:40:43+00:00",
+      "score": 1
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "NASA Breaking News",
+      "title": "NASA Selects Two Earth System Explorers Missions",
+      "summary": "Two next-generation satellite missions announced Thursday will help NASA better understand Earth and improve capabilities to foresee environmental events and mitigate disasters. “NASA uses the unique vantage point of space to study our home planet to deliver life-saving data into the hands of disaster response and decision-makers every day for the benefit of all, while [&#8230;]",
+      "link": "https://www.nasa.gov/news-release/nasa-selects-two-earth-system-explorers-missions/",
+      "published_utc": "2026-02-05T21:10:14+00:00",
+      "score": 2
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Dosarele Epstein dezvăluie detalii despre eforturile lui Steve Bannon de a influenţa politica europeană (The Guardian)",
+      "summary": "Zeci de mesaje conţinute în ultima tranşă de dosare Epstein date publicităţii dezvăluie încercările fostului strateg-şef al lui Donald Trump, Steve Bannon, de a-l convinge pe Jeffrey Epstein să ofere sprijin şi finanţare pentru a susţine partidele de extremă dreapta din Europa, scrie The Guardian.",
+      "link": "https://www.digi24.ro/stiri/externe/sua/dosarele-epstein-dezvaluie-detalii-despre-eforturile-lui-steve-bannon-de-a-influenta-politica-europeana-the-guardian-3618417",
+      "published_utc": "2026-02-05T21:38:38+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Donald Trump, mesaj de susţinere pentru realegerea lui Orban, aflat în dificultate în sondajele din Ungaria: „Viktor muncește din greu”",
+      "summary": "Preşedintele SUA, Donald Trump, a transmis joi un mesaj de susţinere pentru premierul Ungariei, Viktor Orban, numindu-l pe aliatul său „un lider cu adevărat puternic şi influent”, cu aproape două luni înaintea alegerilor din 12 aprilie din această ţară, în condiţiile în care liderul maghiar este pe locul al doilea în sondajele de opinie.",
+      "link": "https://www.digi24.ro/stiri/externe/ue/donald-trump-mesaj-de-sustinere-pentru-realegerea-lui-orban-aflat-in-dificultate-in-sondajele-din-ungaria-viktor-munceste-din-greu-3618401",
+      "published_utc": "2026-02-05T21:23:38+00:00",
+      "score": 1
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "NASA Breaking News",
+      "title": "Career Spotlight: Welder (Ages 14-18)",
+      "summary": "What does a welder do? A welder uses tools that join two or more parts through forces such as heat or pressure. Metals are the materials most commonly used in welding, but it&#8217;s also possible to weld thermoplastics or wood. Welders use their hands, skills, and problem-solving abilities to create something new. At NASA, welders [&#8230;]",
+      "link": "https://www.nasa.gov/learning-resources/career-spotlight-welder-ages-14-18/",
+      "published_utc": "2026-02-05T19:35:15+00:00",
+      "score": 2
+    },
     {
       "section": "romania",
       "kind": "ro",
@@ -26,10 +86,10 @@
       "section": "science",
       "kind": "global",
       "source": "NASA Breaking News",
-      "title": "Career Spotlight: Welder (Ages 14-18)",
-      "summary": "What does a welder do? A welder uses tools that join two or more parts through forces such as heat or pressure. Metals are the materials most commonly used in welding, but it&#8217;s also possible to weld thermoplastics or wood. Welders use their hands, skills, and problem-solving abilities to create something new. At NASA, welders [&#8230;]",
-      "link": "https://www.nasa.gov/learning-resources/career-spotlight-welder-ages-14-18/",
-      "published_utc": "2026-02-05T19:35:15+00:00",
+      "title": "NASA’s SpaceX Crew-12 to Study Adaptation to Altered Gravity",
+      "summary": "NASA’s SpaceX Crew-12 mission is preparing to launch for a long-duration science mission aboard the International Space Station. During the mission, select crew members will participate in human health studies focused on understanding how astronauts’ bodies adapt to the low-gravity environment of space, including a new study examining subtle changes in blood flow. The experiments, [&#8230;]",
+      "link": "https://www.nasa.gov/humans-in-space/nasas-spacex-crew-12-to-study-adaptation-to-altered-gravity/",
+      "published_utc": "2026-02-05T18:38:08+00:00",
       "score": 2
     },
     {
@@ -56,10 +116,10 @@
       "section": "science",
       "kind": "global",
       "source": "NASA Breaking News",
-      "title": "NASA’s SpaceX Crew-12 to Study Adaptation to Altered Gravity",
-      "summary": "NASA’s SpaceX Crew-12 mission is preparing to launch for a long-duration science mission aboard the International Space Station. During the mission, select crew members will participate in human health studies focused on understanding how astronauts’ bodies adapt to the low-gravity environment of space, including a new study examining subtle changes in blood flow. The experiments, [&#8230;]",
-      "link": "https://www.nasa.gov/humans-in-space/nasas-spacex-crew-12-to-study-adaptation-to-altered-gravity/",
-      "published_utc": "2026-02-05T18:38:08+00:00",
+      "title": "Hubble Spots Lens-Shaped Galaxy",
+      "summary": "This new Hubble image, released on Jan. 30, 2026, is the sharpest taken of NGC 7722, a lenticular galaxy located about 187 million light-years away in the constellation&#160;Pegasus. A lenticular, meaning “lens-shaped,” galaxy is a type whose classification sits between more familiar&#160;spiral galaxies&#160;and&#160;elliptical galaxies. It is also less common than spirals and ellipticals — partly [&#8230;]",
+      "link": "https://www.nasa.gov/image-article/hubble-spots-lens-shaped-galaxy/",
+      "published_utc": "2026-02-05T16:39:36+00:00",
       "score": 2
     },
     {
@@ -85,11 +145,11 @@
     {
       "section": "science",
       "kind": "global",
-      "source": "NASA Breaking News",
-      "title": "Hubble Spots Lens-Shaped Galaxy",
-      "summary": "This new Hubble image, released on Jan. 30, 2026, is the sharpest taken of NGC 7722, a lenticular galaxy located about 187 million light-years away in the constellation&#160;Pegasus. A lenticular, meaning “lens-shaped,” galaxy is a type whose classification sits between more familiar&#160;spiral galaxies&#160;and&#160;elliptical galaxies. It is also less common than spirals and ellipticals — partly [&#8230;]",
-      "link": "https://www.nasa.gov/image-article/hubble-spots-lens-shaped-galaxy/",
-      "published_utc": "2026-02-05T16:39:36+00:00",
+      "source": "ESA",
+      "title": "A presidential greeting ahead of Sophie Adenot's first spaceflight",
+      "summary": "ESA Director General Josef Aschbacher joined French President Emmanuel Macron at the Élysée Palace for an event celebrating the first spaceflight of ESA astronaut Sophie Adenot.",
+      "link": "https://www.esa.int/About_Us/Corporate_news/A_presidential_greeting_ahead_of_Sophie_Adenot_s_first_spaceflight",
+      "published_utc": "2026-02-05T15:55:00+00:00",
       "score": 2
     },
     {
@@ -115,11 +175,11 @@
     {
       "section": "science",
       "kind": "global",
-      "source": "ESA",
-      "title": "A presidential greeting ahead of Sophie Adenot's first spaceflight",
-      "summary": "ESA Director General Josef Aschbacher joined French President Emmanuel Macron at the Élysée Palace for an event celebrating the first spaceflight of ESA astronaut Sophie Adenot.",
-      "link": "https://www.esa.int/About_Us/Corporate_news/A_presidential_greeting_ahead_of_Sophie_Adenot_s_first_spaceflight",
-      "published_utc": "2026-02-05T15:55:00+00:00",
+      "source": "NASA Breaking News",
+      "title": "Curiosity Blog, Sols 4788-4797: Welcome Back from Conjunction",
+      "summary": "Written by Alex Innanen, Atmospheric Scientist at York University, Toronto Earth planning date: Friday, Jan. 30, 2026 Mars has emerged from its holiday behind the Sun, and we here on Earth have been able to reconnect with Curiosity and get back to work on Mars. Our first planning day last Friday gave Curiosity a full […]",
+      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4788-4797-welcome-back-from-conjunction/",
+      "published_utc": "2026-02-04T23:05:07+00:00",
       "score": 2
     },
     {
@@ -146,10 +206,10 @@
       "section": "science",
       "kind": "global",
       "source": "NASA Breaking News",
-      "title": "Curiosity Blog, Sols 4788-4797: Welcome Back from Conjunction",
-      "summary": "Written by Alex Innanen, Atmospheric Scientist at York University, Toronto Earth planning date: Friday, Jan. 30, 2026 Mars has emerged from its holiday behind the Sun, and we here on Earth have been able to reconnect with Curiosity and get back to work on Mars. Our first planning day last Friday gave Curiosity a full […]",
-      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4788-4797-welcome-back-from-conjunction/",
-      "published_utc": "2026-02-04T23:05:07+00:00",
+      "title": "NASA, University of Texas Expand Research and Workforce Development",
+      "summary": "NASA’s Johnson Space Center in Houston and the University of Texas System (UT System) announced the signing of a collaborative Space Act Agreement on Jan. 9, 2026. The agreement expands research and workforce development partnership opportunities across NASA centers and UT System facilities. The agreement builds upon decades of collaboration between NASA and the UT [&#8230;]",
+      "link": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-university-of-texas-expand-research-and-workforce-development/",
+      "published_utc": "2026-02-04T22:10:15+00:00",
       "score": 2
     },
     {
@@ -176,10 +236,10 @@
       "section": "science",
       "kind": "global",
       "source": "NASA Breaking News",
-      "title": "NASA, University of Texas Expand Research and Workforce Development",
-      "summary": "NASA’s Johnson Space Center in Houston and the University of Texas System (UT System) announced the signing of a collaborative Space Act Agreement on Jan. 9, 2026. The agreement expands research and workforce development partnership opportunities across NASA centers and UT System facilities. The agreement builds upon decades of collaboration between NASA and the UT [&#8230;]",
-      "link": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-university-of-texas-expand-research-and-workforce-development/",
-      "published_utc": "2026-02-04T22:10:15+00:00",
+      "title": "ARMD Research Solicitations (Updated Feb. 4)",
+      "summary": "THIS PAGE WAS UPDATED ON FEBRUARY 4, 2026 This Aeronautics Research Mission Directorate (ARMD) solicitations page compiles the opportunities to collaborate with NASA’s aeronautical innovators and/or contribute to their research to enable new and improved air transportation systems. Most opportunities to participate in research are officially announced through the Web-based NASA Solicitation and Proposal Integrated [&#8230;]",
+      "link": "https://www.nasa.gov/aeronautics/armd-solicitations/",
+      "published_utc": "2026-02-04T18:00:00+00:00",
       "score": 2
     },
     {
@@ -205,11 +265,11 @@
     {
       "section": "science",
       "kind": "global",
-      "source": "NASA Breaking News",
-      "title": "ARMD Research Solicitations (Updated Feb. 4)",
-      "summary": "THIS PAGE WAS UPDATED ON FEBRUARY 4, 2026 This Aeronautics Research Mission Directorate (ARMD) solicitations page compiles the opportunities to collaborate with NASA’s aeronautical innovators and/or contribute to their research to enable new and improved air transportation systems. Most opportunities to participate in research are officially announced through the Web-based NASA Solicitation and Proposal Integrated [&#8230;]",
-      "link": "https://www.nasa.gov/aeronautics/armd-solicitations/",
-      "published_utc": "2026-02-04T18:00:00+00:00",
+      "source": "ESA",
+      "title": "Explore Mars’s Flaugergues Crater",
+      "summary": "ESA’s Mars Express takes us on a journey across the southern highlands of Mars, including a flight around Flaugergues Crater.",
+      "link": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Explore_Mars_s_Flaugergues_Crater",
+      "published_utc": "2026-02-04T10:00:00+00:00",
       "score": 2
     },
     {
@@ -236,10 +296,10 @@
       "section": "science",
       "kind": "global",
       "source": "ESA",
-      "title": "Explore Mars’s Flaugergues Crater",
-      "summary": "ESA’s Mars Express takes us on a journey across the southern highlands of Mars, including a flight around Flaugergues Crater.",
-      "link": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Explore_Mars_s_Flaugergues_Crater",
-      "published_utc": "2026-02-04T10:00:00+00:00",
+      "title": "ESA's sustainability ambition",
+      "summary": "Video: 00:04:21 Space activities are unlike any others. They interact not just with Earth, but with three interconnected environments: Earth, Earth’s orbit, and the Moon and deep space. On Earth, we aim to reduce the space sector’s environmental impacts while maximising the societal and environmental benefits of our missions. In orbit, we manage space debris and collision risks to maintain safe and secure operations. For the Moon and deep space, we are laying the foundations to minimise the impact of our missions on and around other celestial bodies. Guided by our core values, ESA is committed to making its activities more sustainable, redefining how space activities are conceived, executed and shared with the world. Our objective is clear: to address the most pressing challenges and implement ambitious changes, both in our own practices and in close collaboration with our partners. Looking ahead, in support of Strategy 2040, ESA is determined to lead through ambition, action and collaboration, building a future where space is not only a domain of opportunity but also a model of sustainability, responsibility and global unity.",
+      "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/01/ESA_s_sustainability_ambition",
+      "published_utc": "2026-02-03T15:00:00+00:00",
       "score": 2
     },
     {
@@ -266,11 +326,11 @@
       "section": "science",
       "kind": "global",
       "source": "ESA",
-      "title": "ESA's sustainability ambition",
-      "summary": "Video: 00:04:21 Space activities are unlike any others. They interact not just with Earth, but with three interconnected environments: Earth, Earth’s orbit, and the Moon and deep space. On Earth, we aim to reduce the space sector’s environmental impacts while maximising the societal and environmental benefits of our missions. In orbit, we manage space debris and collision risks to maintain safe and secure operations. For the Moon and deep space, we are laying the foundations to minimise the impact of our missions on and around other celestial bodies. Guided by our core values, ESA is committed to making its activities more sustainable, redefining how space activities are conceived, executed and shared with the world. Our objective is clear: to address the most pressing challenges and implement ambitious changes, both in our own practices and in close collaboration with our partners. Looking ahead, in support of Strategy 2040, ESA is determined to lead through ambition, action and collaboration, building a future where space is not only a domain of opportunity but also a model of sustainability, responsibility and global unity.",
-      "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/01/ESA_s_sustainability_ambition",
-      "published_utc": "2026-02-03T15:00:00+00:00",
-      "score": 2
+      "title": "Moving satellites to meet a plane for rare reentry data",
+      "summary": "When satellites eventually fall back down to Earth, they mostly burn up because of the friction caused by the atmosphere. Scientific data about this atmospheric reentry process is urgently needed to design future satellites for a quick, safe and sustainable demise at the end of their mission – reducing risks on the ground and in space. The European Space Agency (ESA) successfully manoeuvred its remaining two&nbsp; Cluster &nbsp;satellites to ensure they can both be observed from a plane as they reenter the atmosphere on 31 August and 1 September 2026.",
+      "link": "https://www.esa.int/Space_Safety/Space_Debris/Moving_satellites_to_meet_a_plane_for_rare_reentry_data",
+      "published_utc": "2026-02-02T16:12:00+00:00",
+      "score": 4
     },
     {
       "section": "romania",
@@ -296,11 +356,11 @@
       "section": "science",
       "kind": "global",
       "source": "ESA",
-      "title": "Moving satellites to meet a plane for rare reentry data",
-      "summary": "When satellites eventually fall back down to Earth, they mostly burn up because of the friction caused by the atmosphere. Scientific data about this atmospheric reentry process is urgently needed to design future satellites for a quick, safe and sustainable demise at the end of their mission – reducing risks on the ground and in space. The European Space Agency (ESA) successfully manoeuvred its remaining two&nbsp; Cluster &nbsp;satellites to ensure they can both be observed from a plane as they reenter the atmosphere on 31 August and 1 September 2026.",
-      "link": "https://www.esa.int/Space_Safety/Space_Debris/Moving_satellites_to_meet_a_plane_for_rare_reentry_data",
-      "published_utc": "2026-02-02T16:12:00+00:00",
-      "score": 4
+      "title": "Apply now to the ESA Graduate Trainee Programme",
+      "summary": "The 2026 ESA Graduate Trainee positions are now open! If you’re passionate about engineering, science, IT or business, this is your chance to turn your dreams into reality.",
+      "link": "https://www.esa.int/About_Us/Careers_at_ESA/Apply_now_to_the_ESA_Graduate_Trainee_Programme",
+      "published_utc": "2026-02-02T10:00:00+00:00",
+      "score": 2
     },
     {
       "section": "romania",
@@ -326,10 +386,10 @@
       "section": "science",
       "kind": "global",
       "source": "ESA",
-      "title": "Apply now to the ESA Graduate Trainee Programme",
-      "summary": "The 2026 ESA Graduate Trainee positions are now open! If you’re passionate about engineering, science, IT or business, this is your chance to turn your dreams into reality.",
-      "link": "https://www.esa.int/About_Us/Careers_at_ESA/Apply_now_to_the_ESA_Graduate_Trainee_Programme",
-      "published_utc": "2026-02-02T10:00:00+00:00",
+      "title": "Laurent Jaffart appointed Director of Resilience, Navigation and Connectivity",
+      "summary": "Press Release N° 5&ndash;2026 The European Space Agency&nbsp;Council&nbsp;has approved&nbsp;the reassignment of&nbsp;Laurent&nbsp;Jaffart, currently Director of Connectivity and Secure Communications (D/CSC) to the newly created position of Director of Resilience, Navigation and Connectivity Directorate (D/RNC), which will take&nbsp;effect from 1 February 2026.",
+      "link": "https://www.esa.int/Newsroom/Press_Releases/Laurent_Jaffart_appointed_Director_of_Resilience_Navigation_and_Connectivity",
+      "published_utc": "2026-01-30T10:20:00+00:00",
       "score": 2
     },
     {
@@ -356,10 +416,10 @@
       "section": "science",
       "kind": "global",
       "source": "ESA",
-      "title": "Laurent Jaffart appointed Director of Resilience, Navigation and Connectivity",
-      "summary": "Press Release N° 5&ndash;2026 The European Space Agency&nbsp;Council&nbsp;has approved&nbsp;the reassignment of&nbsp;Laurent&nbsp;Jaffart, currently Director of Connectivity and Secure Communications (D/CSC) to the newly created position of Director of Resilience, Navigation and Connectivity Directorate (D/RNC), which will take&nbsp;effect from 1 February 2026.",
-      "link": "https://www.esa.int/Newsroom/Press_Releases/Laurent_Jaffart_appointed_Director_of_Resilience_Navigation_and_Connectivity",
-      "published_utc": "2026-01-30T10:20:00+00:00",
+      "title": "Earth from Space: Rudong coast, China",
+      "summary": "Image: The Copernicus Sentinel-2 mission takes us over part of the coastal area of Rudong County on China’s eastern seaboard.",
+      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/01/Earth_from_Space_Rudong_coast_China",
+      "published_utc": "2026-01-30T09:00:00+00:00",
       "score": 2
     },
     {
@@ -383,36 +443,6 @@
       "score": 1
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "ESA",
-      "title": "Earth from Space: Rudong coast, China",
-      "summary": "Image: The Copernicus Sentinel-2 mission takes us over part of the coastal area of Rudong County on China’s eastern seaboard.",
-      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/01/Earth_from_Space_Rudong_coast_China",
-      "published_utc": "2026-01-30T09:00:00+00:00",
-      "score": 2
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Tensiuni diplomatice între SUA și Polonia. Lider politic de la Varșovia acuzat că l-a insultat pe Trump: e legat de Nobelul pentru Pace",
-      "summary": "Ambasadorul SUA la Varşovia a anunţat joi că a rupt orice legătură cu preşedintele parlamentului polonez, Wlodzimierz Czarzasty, acuzându-l că l-a insultat pe Donald Trump după ce acesta a criticat politicile preşedintelui american şi a refuzat să-i susţină ambiţiile de a obţine Premiul Nobel pentru Pace, relatează Reuters.",
-      "link": "https://www.digi24.ro/stiri/externe/tensiuni-diplomatice-intre-sua-si-polonia-lider-politic-de-la-varsovia-acuzat-ca-l-a-insultat-pe-trump-e-legat-de-nobelul-pentru-pace-3618145",
-      "published_utc": "2026-02-05T18:13:00+00:00",
-      "score": 2
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "HotNews",
-      "title": "Trump cheamă la o adunare de rugăciune, în mai, la Washington: „Vom consacra din nou America lui Dumnezeu”",
-      "summary": "Președintele SUA Donald Trump a anunțat joi organizarea unei adunări de rugăciune, în data de 17 mai, la Washington, pentru a „consacra din nou America lui Dumnezeu”, relatează AFP. „Pe 17 mai 2026, invităm americanii&#8230;",
-      "link": "https://hotnews.ro/trump-cheama-la-o-adunare-de-rugaciune-in-mai-la-washington-vom-consacra-din-nou-america-lui-dumnezeu-2165759",
-      "published_utc": "2026-02-05T18:09:04+00:00",
-      "score": 1
-    },
-    {
       "section": "environment",
       "kind": "global",
       "source": "UN News - Climate",
@@ -421,26 +451,6 @@
       "link": "https://news.un.org/feed/view/en/story/2026/01/1166823",
       "published_utc": "2026-01-25T12:00:00+00:00",
       "score": 2
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Ambasada SUA: Deținătorii biletelor pentru Cupa Mondială vor fi verificați. Trebuie să îndeplinească condițiile pentru obținerea vizei",
-      "summary": "Ambasada Statelor Unite a anunțat pe Facebook că deținătorii biletelor pentru Cupa Mondială vor primi vize după ce vor trece printr-un proces de verificare și să demonstreze că îndeplinesc condițiile pentru obținerea vizei.",
-      "link": "https://www.digi24.ro/stiri/sport/fotbal/ambasada-sua-detinatorii-biletelor-pentru-cupa-mondiala-vor-fi-verificati-trebuie-sa-indeplineasca-conditiile-pentru-obtinerea-vizei-3618129",
-      "published_utc": "2026-02-05T18:05:53+00:00",
-      "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Măsuri pentru populație și firme: Ministerul Finanțelor detaliază conținutul pachetului de relansare economică",
-      "summary": "Ministerul Finanţelor a detaliat, joi seară, pachetul de măsuri fiscale şi de investiţii pentru relansarea economică şi stimulare a economiei. Pachetul conţine măsuri pentru persoane fizice, IMM şi firme, dar şi scheme de susţinere. Măsuri de stimulare a investițiilor, facilități fiscale și miza reducerii deficitului sunt direcțiile principale pe baza cărora a fost gândit și construit pachetul de relansare economică, a anunțat și premierul Ilie Bolojan, miercuri, într-o conferință de presă.",
-      "link": "https://www.digi24.ro/stiri/economie/finante-economie/masuri-pentru-populatie-si-firme-ministerul-finantelor-detaliaza-continutul-pachetului-de-relansare-economica-3618135",
-      "published_utc": "2026-02-05T17:58:21+00:00",
-      "score": 1
     },
     {
       "section": "environment",
@@ -575,6 +585,46 @@
   ],
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Donald Trump susține că merită să ajungă în rai: „Am făcut o mulțime de lucruri bune pentru oameni”",
+        "summary": "Președintele SUA, Donald Trump, a declarat joi că merită să ajungă în rai pentru că a făcut „o mulțime de lucruri bune pentru oameni perfecți”. Trump a declarat apoi la evenimentul National Prayer Breakfast că afirmația recentă, potrivit căreia s-ar putea să nu ajungă în rai, era, de fapt, o glumă. El a acuzat mass-media că a citat cuvânt cu cuvânt remarca sa anterioară despre viața de apoi, sugerând că reportajele nu au clarificat faptul că el glumea, anunță European Pravda.",
+        "link": "https://www.digi24.ro/stiri/externe/sua/donald-trump-sustine-ca-merita-sa-ajunga-in-rai-am-facut-o-multime-de-lucruri-bune-pentru-oameni-3618411",
+        "published_utc": "2026-02-05T21:44:33+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "CIA oprește publicarea ghidului său de referinţă World Factbook, fără a explica de ce",
+        "summary": "CIA, Agenţia americană de Informaţii, a anunţat încetarea publicării raportului său anual privind „Starea lumii” (World Factbook), o lucrare de referință foarte populară care a fost difuzată fără intermitenţe timp de mai bine de 60&#8230;",
+        "link": "https://hotnews.ro/cia-opreste-publicarea-ghidului-sau-de-referinta-world-factbook-fara-a-explica-de-ce-2165878",
+        "published_utc": "2026-02-05T21:40:43+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Dosarele Epstein dezvăluie detalii despre eforturile lui Steve Bannon de a influenţa politica europeană (The Guardian)",
+        "summary": "Zeci de mesaje conţinute în ultima tranşă de dosare Epstein date publicităţii dezvăluie încercările fostului strateg-şef al lui Donald Trump, Steve Bannon, de a-l convinge pe Jeffrey Epstein să ofere sprijin şi finanţare pentru a susţine partidele de extremă dreapta din Europa, scrie The Guardian.",
+        "link": "https://www.digi24.ro/stiri/externe/sua/dosarele-epstein-dezvaluie-detalii-despre-eforturile-lui-steve-bannon-de-a-influenta-politica-europeana-the-guardian-3618417",
+        "published_utc": "2026-02-05T21:38:38+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Donald Trump, mesaj de susţinere pentru realegerea lui Orban, aflat în dificultate în sondajele din Ungaria: „Viktor muncește din greu”",
+        "summary": "Preşedintele SUA, Donald Trump, a transmis joi un mesaj de susţinere pentru premierul Ungariei, Viktor Orban, numindu-l pe aliatul său „un lider cu adevărat puternic şi influent”, cu aproape două luni înaintea alegerilor din 12 aprilie din această ţară, în condiţiile în care liderul maghiar este pe locul al doilea în sondajele de opinie.",
+        "link": "https://www.digi24.ro/stiri/externe/ue/donald-trump-mesaj-de-sustinere-pentru-realegerea-lui-orban-aflat-in-dificultate-in-sondajele-din-ungaria-viktor-munceste-din-greu-3618401",
+        "published_utc": "2026-02-05T21:23:38+00:00",
+        "score": 1
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -834,50 +884,20 @@
         "link": "https://www.digi24.ro/stiri/actualitate/primele-imagini-cu-cristi-chivu-purtand-torta-olimpica-pe-strazile-orasului-milano-3618153",
         "published_utc": "2026-02-05T18:24:57+00:00",
         "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Tensiuni diplomatice între SUA și Polonia. Lider politic de la Varșovia acuzat că l-a insultat pe Trump: e legat de Nobelul pentru Pace",
-        "summary": "Ambasadorul SUA la Varşovia a anunţat joi că a rupt orice legătură cu preşedintele parlamentului polonez, Wlodzimierz Czarzasty, acuzându-l că l-a insultat pe Donald Trump după ce acesta a criticat politicile preşedintelui american şi a refuzat să-i susţină ambiţiile de a obţine Premiul Nobel pentru Pace, relatează Reuters.",
-        "link": "https://www.digi24.ro/stiri/externe/tensiuni-diplomatice-intre-sua-si-polonia-lider-politic-de-la-varsovia-acuzat-ca-l-a-insultat-pe-trump-e-legat-de-nobelul-pentru-pace-3618145",
-        "published_utc": "2026-02-05T18:13:00+00:00",
-        "score": 2
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "Trump cheamă la o adunare de rugăciune, în mai, la Washington: „Vom consacra din nou America lui Dumnezeu”",
-        "summary": "Președintele SUA Donald Trump a anunțat joi organizarea unei adunări de rugăciune, în data de 17 mai, la Washington, pentru a „consacra din nou America lui Dumnezeu”, relatează AFP. „Pe 17 mai 2026, invităm americanii&#8230;",
-        "link": "https://hotnews.ro/trump-cheama-la-o-adunare-de-rugaciune-in-mai-la-washington-vom-consacra-din-nou-america-lui-dumnezeu-2165759",
-        "published_utc": "2026-02-05T18:09:04+00:00",
-        "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Ambasada SUA: Deținătorii biletelor pentru Cupa Mondială vor fi verificați. Trebuie să îndeplinească condițiile pentru obținerea vizei",
-        "summary": "Ambasada Statelor Unite a anunțat pe Facebook că deținătorii biletelor pentru Cupa Mondială vor primi vize după ce vor trece printr-un proces de verificare și să demonstreze că îndeplinesc condițiile pentru obținerea vizei.",
-        "link": "https://www.digi24.ro/stiri/sport/fotbal/ambasada-sua-detinatorii-biletelor-pentru-cupa-mondiala-vor-fi-verificati-trebuie-sa-indeplineasca-conditiile-pentru-obtinerea-vizei-3618129",
-        "published_utc": "2026-02-05T18:05:53+00:00",
-        "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Măsuri pentru populație și firme: Ministerul Finanțelor detaliază conținutul pachetului de relansare economică",
-        "summary": "Ministerul Finanţelor a detaliat, joi seară, pachetul de măsuri fiscale şi de investiţii pentru relansarea economică şi stimulare a economiei. Pachetul conţine măsuri pentru persoane fizice, IMM şi firme, dar şi scheme de susţinere. Măsuri de stimulare a investițiilor, facilități fiscale și miza reducerii deficitului sunt direcțiile principale pe baza cărora a fost gândit și construit pachetul de relansare economică, a anunțat și premierul Ilie Bolojan, miercuri, într-o conferință de presă.",
-        "link": "https://www.digi24.ro/stiri/economie/finante-economie/masuri-pentru-populatie-si-firme-ministerul-finantelor-detaliaza-continutul-pachetului-de-relansare-economica-3618135",
-        "published_utc": "2026-02-05T17:58:21+00:00",
-        "score": 1
       }
     ],
     "medical": [],
     "science": [
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "NASA Breaking News",
+        "title": "NASA Selects Two Earth System Explorers Missions",
+        "summary": "Two next-generation satellite missions announced Thursday will help NASA better understand Earth and improve capabilities to foresee environmental events and mitigate disasters. “NASA uses the unique vantage point of space to study our home planet to deliver life-saving data into the hands of disaster response and decision-makers every day for the benefit of all, while [&#8230;]",
+        "link": "https://www.nasa.gov/news-release/nasa-selects-two-earth-system-explorers-missions/",
+        "published_utc": "2026-02-05T21:10:14+00:00",
+        "score": 2
+      },
       {
         "section": "science",
         "kind": "global",
@@ -1156,28 +1176,28 @@
         "category_id": "space",
         "category_label": "🚀 Spațiu",
         "source": "Flickr (space)",
-        "title": "Business Journal - Advance STL, CF, 2/5/26",
-        "link": "https://www.flickr.com/photos/slclevents/55080084176/",
-        "image_url": "https://live.staticflickr.com/65535/55080084176_f7189704ef_b.jpg",
-        "published_utc": "2026-02-05T20:45:44+00:00"
+        "title": "Massive Doses Being Applied in Dallas:  The sky was getting too BLUE and CLEAR.",
+        "link": "https://www.flickr.com/photos/silentoneproductions/55080420194/",
+        "image_url": "https://live.staticflickr.com/65535/55080420194_9805323d4d_b.jpg",
+        "published_utc": "2026-02-05T21:38:48+00:00"
       },
       {
         "category_id": "animals",
         "category_label": "🐾 Animale",
         "source": "Flickr (animals)",
-        "title": "PIc Epeiche (Great Spotted Woodpecker) - Tete d'Or",
-        "link": "https://www.flickr.com/photos/194271346@N05/55080495680/",
-        "image_url": "https://live.staticflickr.com/65535/55080495680_3847ea9b80_b.jpg",
-        "published_utc": "2026-02-05T21:17:00+00:00"
+        "title": "Great Blue Heron (2024-03-27 #32)",
+        "link": "https://www.flickr.com/photos/dl_dietz/55080210526/",
+        "image_url": "https://live.staticflickr.com/65535/55080210526_77fab88f47_b.jpg",
+        "published_utc": "2026-02-05T22:05:29+00:00"
       },
       {
         "category_id": "landscapes",
         "category_label": "🏞️ Peisaj",
         "source": "Flickr (landscape)",
-        "title": "Namibia",
-        "link": "https://www.flickr.com/photos/145497889@N06/55080403489/",
-        "image_url": "https://live.staticflickr.com/65535/55080403489_e7b4a4c17e_b.jpg",
-        "published_utc": "2026-02-05T21:23:20+00:00"
+        "title": "Cascade Canyon",
+        "link": "https://www.flickr.com/photos/logicalrealist/55080473914/",
+        "image_url": "https://live.staticflickr.com/65535/55080473914_39e73d11b7_b.jpg",
+        "published_utc": "2026-02-05T22:15:45+00:00"
       }
     ],
     "joke": [
@@ -1190,9 +1210,9 @@
       {
         "date_utc": "2026-02-05",
         "source": "TimesNewRoman",
-        "title": "Alte 7 produse lansate de fotbalişti după vinul ÎmbăTamaş al lui Tamaş",
+        "title": "Tot mai mulți bucureșteni se duc la saloane de masaj erotic ca să poată face un duș",
         "summary": "Cotidian independent de umor voluntar",
-        "link": "https://www.timesnewroman.ro/sport/alte-7-produse-lansate-de-fotbalisti-dupa-vinul-imbatamas-al-lui-tamas/",
+        "link": "https://www.timesnewroman.ro/life-death/tot-mai-multi-bucuresteni-se-duc-la-saloane-de-masaj-erotic-ca-sa-poata-face-un-dus/",
         "note": "Satiră — nu este știre reală."
       }
     ]
