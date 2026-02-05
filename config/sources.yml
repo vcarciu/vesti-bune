@@ -60,25 +60,14 @@ satire:
 # AICI e noul bloc pentru 3 categorii (Space / Animals / Landscapes)
 photo_sources:
   space:
-    - name: "NASA APOD"
-      url: "https://apod.nasa.gov/apod.rss"
-    - name: "NASA Breaking News"
-      url: "https://www.nasa.gov/rss/dyn/breaking_news.rss"
-
+    - name: "Flickr (space)"
+      url: "https://www.flickr.com/services/feeds/photos_public.gne?tags=space,astronomy,nasa&tagmode=any&format=rss2"
   animals:
-    - name: "The Daily Puppy"
-      url: "https://feeds.feedburner.com/TheDailyPuppy"
-    - name: "Animal of the Day"
-      url: "https://feeds.feedburner.com/animals"
-    # fallback universal (poate fi animal / peisaj / orice, dar îți dă 100% imagine)
-    - name: "Wikimedia POTD 400x300"
-      url: "https://tools.wmflabs.org/potd-feed/commons/potd-400x300.rss"
-
+    - name: "Flickr (animals)"
+      url: "https://www.flickr.com/services/feeds/photos_public.gne?tags=animals,wildlife,cute&tagmode=any&format=rss2"
   landscapes:
-    - name: "NASA Earth Observatory (Image of the Day)"
-      url: "https://earthobservatory.nasa.gov/feeds/image_of_the_day.rss"
-    - name: "Wikimedia POTD 400x300"
-      url: "https://tools.wmflabs.org/potd-feed/commons/potd-400x300.rss"
+    - name: "Flickr (landscape)"
+      url: "https://www.flickr.com/services/feeds/photos_public.gne?tags=landscape,nature,mountains&tagmode=any&format=rss2"
 
 
 filters:
