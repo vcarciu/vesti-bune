@@ -1,7 +1,97 @@
 {
-  "generated_utc": "2026-02-05T11:02:40+00:00",
+  "generated_utc": "2026-02-05T11:28:46+00:00",
   "count": 56,
   "items": [
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "România are cei mai mulți proprietari de locuinţe din UE, dar și cele mai aglomerate case",
+      "summary": "Peste 94% din populaţia României trăia în 2024 într-o locuinţă proprietate personală, acesta fiind cel mai mare procent înregistrat în rândul statelor membre ale Uniunii Europene, arată datele Eurostat, publicate joi.",
+      "link": "https://www.digi24.ro/stiri/actualitate/romania-are-cei-mai-multi-proprietari-de-locuinte-din-ue-dar-si-cele-mai-aglomerate-case-3617341",
+      "published_utc": "2026-02-05T11:27:07+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "Românii și-au portat peste 1,4 milioane numere de mobil anul trecut. Una dintre rețele a strâns mai mulți clienți decât toate celelalte la un loc",
+      "summary": "Românii și-au mutat anul trecut peste 1,45 milioane de numere de telefon în alte rețele mobile, beneficiind de posibilitatea de a schimba furnizorul fără a-și pierde numărul de telefon, a anunțat joi autoritatea de reglementare&#8230;",
+      "link": "https://hotnews.ro/romanii-si-au-portat-peste-14-milioane-numere-de-mobil-anul-trecut-una-dintre-retele-a-strans-mai-multi-clienti-decat-toate-celelalte-la-un-loc-2165440",
+      "published_utc": "2026-02-05T11:26:09+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Kremlinul neagă faptul că Jeffrey Epstein ar fi fost agent al serviciilor secrete ruse",
+      "summary": "Kremlinul a declarat joi că nu dorește să piardă timp răspunzând la întrebări despre sugestii neprobate apărute în mass-media occidentală și ale premierului polonez, potrivit cărora Jeffrey Epstein ar fi fost un fel de agent al serviciilor secrete ruse.",
+      "link": "https://www.digi24.ro/stiri/externe/rusia/kremlinul-neaga-faptul-ca-pedofilul-epstein-ar-fi-fost-agent-al-serviciilor-secrete-ruse-3617371",
+      "published_utc": "2026-02-05T11:21:42+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Circa 2,8 milioane de pensionari ar putea primi sprijin de până la 1.000 lei de la stat, anunță Florin Manole. Cine ar putea beneficia",
+      "summary": "Ministrul Muncii, Florin Manole, propune ca pensionarii cu pensii mai mici de 3.000 de lei să beneficieze de un ajutor financiar de până la 1.000 de lei, care va fi acordat în două tranșe. Într-o postare de joi, pe Facebook, Manole a afirmat că circa 2,8 milioane de pensionari ar urma să primească acești bani.",
+      "link": "https://www.digi24.ro/stiri/actualitate/politica/circa-28-milioane-de-pensionari-ar-putea-primi-sprijin-de-pana-la-1-000-lei-de-la-stat-anunta-florin-manole-cine-ar-putea-beneficia-3617347",
+      "published_utc": "2026-02-05T11:19:26+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "Ce se întâmplă când o femeie întârzie controlul sânilor? Dr. Sorina Ungur, MedLife: „Amânarea împinge cancerul de sân în stadii greu de tratat”",
+      "summary": "În cabinetul medicului imagist Sorina Ungur, de la Hyperclinica MedLife Micromedica din Bacău, ajung în ultimii ani tot mai multe femei cu tumori la sân – unele, din păcate, în stadii avansate. „O zi în&#8230;",
+      "link": "https://hotnews.ro/ce-se-intampla-cand-o-femeie-intarzie-controlul-sanilor-dr-sorina-ungur-medlife-amanarea-impinge-cancerul-de-san-in-stadii-greu-de-tratat-2165434",
+      "published_utc": "2026-02-05T11:18:28+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Întâlnire neașteptată la Poiana Brașov: Trei pui de urs, filmați de turiști în timp ce se joacă nestingheriți pe pârtie",
+      "summary": "Întâlnire neașteptată la Poiana Brașov. Turiștii de pe pârtie au dat nas în nas cu trei ursuleți. I-au admirat și au filmat de la distanță cum puii de urs se jucau în zăpadă.",
+      "link": "https://www.digi24.ro/stiri/intalnire-neasteptata-la-poiana-brasov-trei-pui-de-urs-filmati-de-turisti-in-timp-ce-se-joaca-nestingheriti-pe-partie-3617375",
+      "published_utc": "2026-02-05T11:17:56+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Ce se schimbă pentru microîntreprinderi în noul pachet de relansare economică. Reguli mai flexibile, impozitare unică și bonificații",
+      "summary": "Ministrul Finanțelor, Alexandru Nazare, a anunțat joi, la conferința de fiscalitate Tax EU, o serie de măsuri incluse în noul pachet de relansare economică, menite să corecteze problemele semnalate de mediul de afaceri și să facă regimul fiscal al microîntreprinderilor mai predictibil și mai flexibil, în contextul reducerii plafonului de încadrare la 100.000 de euro.",
+      "link": "https://www.digi24.ro/stiri/economie/ce-se-schimba-pentru-microintreprinderi-in-noul-pachet-de-relansare-economica-reguli-mai-flexibile-impozitare-unica-si-bonificatii-3617339",
+      "published_utc": "2026-02-05T11:07:21+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "Primul rezultat concret al negocierilor de pace de la Abu Dhabi: Ucraina și Rusia au convenit să schimbe 314 prizonieri / „Mai sunt multe de făcut”, spune emisarul lui Trump",
+      "summary": "Prima zi de negocieri, de miercuri, a fost una „productivă”, au declarat oficialii ucraineni, care nu au anunțat însă un rezultat concret în privința principalelor probleme ce blochează un eventual armistițiu, scrie Reuters. Delegațiile din&#8230;",
+      "link": "https://hotnews.ro/a-doua-zi-de-negocieri-de-pace-la-abu-dhabi-emisarul-lui-putin-ataca-europa-dar-vede-o-evolutie-pozitiva-a-discutiilor-cu-ucraina-2165188",
+      "published_utc": "2026-02-05T11:05:30+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "Sindicaliștii din guvern îl „somează” pe Bolojan „să nu forțeze reforma administrației după bunul plac”: „Nu vom sta cu mâinile în sân”",
+      "summary": "Sindicatul Angajaților din Aparatul de Lucru al Guvernului (SAALG) i-a cerut public, joi, cer premierului Ilie Bolojan să oprească asumarea răspunderii pe proiectul de lege privind reforma administrației publice, dar și proiectul care limitează detașările&#8230;",
+      "link": "https://hotnews.ro/sindicalistii-din-guvern-il-someaza-pe-bolojan-sa-nu-forteze-reforma-administratiei-dupa-bunul-plac-nu-vom-sta-cu-mainile-in-san-2165317",
+      "published_utc": "2026-02-05T11:02:09+00:00",
+      "score": 1
+    },
     {
       "section": "romania",
       "kind": "ro",
@@ -26,7 +116,7 @@
       "section": "romania",
       "kind": "ro",
       "source": "HotNews",
-      "title": "Un reputat economist avertizează: Diverse argumente conjuncturale au justificat cheltuieli cu caracter permanent",
+      "title": "Un reputat economist vorbește despre mimetica, constrângerea și luxul din economia politică românească",
       "summary": "România nu a fost condusă prin decizii asumate, ci printr-un amestec comod de imitație (copiem reguli, instituții și modele din afară), constrângere („nu se poate altfel” &#8211; vina e mereu externă) și lux (discursuri mari,&#8230;",
       "link": "https://hotnews.ro/un-reputat-economist-avertizeaza-diverse-argumente-conjuncturale-au-justificat-cheltuieli-cu-caracter-permanent-2165100",
       "published_utc": "2026-02-05T10:49:32+00:00",
@@ -210,96 +300,6 @@
       "summary": "Una dintre cele mai spectaculoase părți ale acestui caz de proxenetism duce acum la Moscova și la un „prieten al lui Putin”. Specialiștii evocă spectrul unui gigantic „kompromat”, scrie Le Parisien într-o amplă relatare despre cazul Jeffrey Epstein, care se dezvăluie publicului de la o zi la alta, după ce Departamentul de Justiție al SUA a decis publicarea a milioane de pagini din dosarul referitor la infractorul sexual. Suspiciunile şi acuzaţiile privind legături cu infractorul sexual Jeffrey Epstein continuă să zdruncine elitele mondiale din politică, afaceri, tehnologie, mediul academic sau familii regale. Din Statele Unite, Marea Britanie până în Polonia se deschid investigaţii, la peste 6 ani de când infractorul sexual s-a sinucis într-o închisoare din New York.",
       "link": "https://www.digi24.ro/stiri/externe/cea-mai-mare-operatiune-de-santaj-din-istorie-cazul-epstein-pista-rusa-le-parisien-3615447",
       "published_utc": "2026-02-05T09:24:51+00:00",
-      "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "HotNews",
-      "title": "VIDEO Ciprian Ciucu, mesaj din autobuz către angajații STB. Ce spune despre zvonurile privind tăierea salariilor",
-      "summary": "Primarul general al Capitalei, Ciprian Ciucu, a anunțat joi dimineață, într-o transmisiune live pe Facebook din autobuz, că situaţia financiară a STB este „extrem de proastă”, dar a dat asigurări că eforturile de eficientizare a&#8230;",
-      "link": "https://hotnews.ro/video-ciprian-ciucu-mesaj-din-autobuz-catre-angajatii-stb-ce-spune-despre-zvonurile-privind-taierea-salariilor-2165263",
-      "published_utc": "2026-02-05T09:24:37+00:00",
-      "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "HotNews",
-      "title": "Prefectul Capitalei, despre drumul construit de Robert Negoiță anchetat acum de DNA: „S-a construit peste o magistrală de gaz, fără autorizaţii”",
-      "summary": "Drumul construit de primarul Sectorului 3 pe terenul privat al fratelui său a fost făcut fără autorizații peste o magistrală de gaz, iar Prefectura București a făcut demersuri pentru rezolvarea situațiilor, dar situația nu a&#8230;",
-      "link": "https://hotnews.ro/prefectul-capitalei-despre-drumul-construit-de-robert-negoita-anchetat-acum-de-dna-s-a-construit-peste-o-magistrala-de-gaz-fara-autorizatii-2165276",
-      "published_utc": "2026-02-05T09:21:14+00:00",
-      "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Mii de blocuri din București au rămas din nou fără căldură. Motivul pentru care o turbină de la CET Sud a fost oprită",
-      "summary": "Sistemul centralizat de termoficare lasă din nou bucureștenii în frig. Mii de blocuri au rămas fără căldură după ce o turbină de la CET Sud a fost oprită pentru remedierea sistemului de reglaj.",
-      "link": "https://www.digi24.ro/stiri/externe/mii-de-blocuri-din-bucuresti-au-ramas-din-nou-fara-caldura-motivul-pentru-care-o-turbina-de-la-cet-sud-a-fost-oprita-3617057",
-      "published_utc": "2026-02-05T09:07:00+00:00",
-      "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Un controlor a fost ucis de un pasager fără bilet, în Germania: „Zi neagră pentru toţi lucrătorii feroviari din ţară”",
-      "summary": "Un controlor de tren a murit miercuri în Germania după ce a fost lovit de un pasager care călătorea fără bilet, a anunţat compania feroviară naţională Deutsche Bahn, transmite AFP.",
-      "link": "https://www.digi24.ro/stiri/externe/un-controlor-a-fost-ucis-de-un-pasager-fara-bilet-in-germania-zi-neagra-pentru-toti-lucratorii-feroviari-din-tara-3616825",
-      "published_utc": "2026-02-05T08:58:50+00:00",
-      "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "HotNews",
-      "title": "Microsoft și Marea Britanie vor colabora pentru crearea unui sistem de detectare automată a „deepfake”-urilor din mediul online",
-      "summary": "Guvernul britanic a anunțat joi că va colabora cu Microsoft, cu mediul academic și cu experți pentru a dezvolta un sistem de identificare a materialelor „deepfake” din mediul online în contextul în care încearcă să&#8230;",
-      "link": "https://hotnews.ro/microsoft-si-marea-britanie-vor-colabora-pentru-crearea-unui-sistem-de-detectare-automata-a-deepfake-urilor-din-mediul-online-2165267",
-      "published_utc": "2026-02-05T08:57:40+00:00",
-      "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Jocurile Olimpice 2026: Programul complet al sportivilor români la Milano-Cortina",
-      "summary": "Jocurile Olimpice 2026 se desfășoară la Milano-Cortina între 6 și 22 februarie, iar România va fi reprezentată de 28 de sportivi și o rezervă. Aceștia vor concura la opt discipline, iar programul complet al competițiilor le oferă fanilor posibilitatea de a urmări fiecare evoluție a delegației noastre",
-      "link": "https://www.digi24.ro/stiri/sport/jocurile-olimpice-2026-programul-complet-al-sportivilor-romani-la-milano-cortina-3615513",
-      "published_utc": "2026-02-05T08:43:16+00:00",
-      "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "HotNews",
-      "title": "Cine este Robert Negoiță, primarul PSD al Sectorului 3, ajuns în vizorul DNA după o investigație Recorder. Dator cu sume uriașe la stat și un episod controversat de acum 16 ani",
-      "summary": "Robert Negoiță, primarul Sectorului 3, vizat joi înt-un dosar de abuz în serviciu, este cel mai longeviv primar de sector din București. Cine este Robert Negoiță În vârstă de aproape 54 de ani, Robert Negoiță&#8230;",
-      "link": "https://hotnews.ro/cine-este-robert-negoita-primarul-psd-al-sectorului-3-ajuns-in-vizorul-dna-dupa-o-investigatie-recorder-dator-cu-sume-uriase-la-stat-si-un-episod-controversat-de-acum-de-acum-16-ani-2165217",
-      "published_utc": "2026-02-05T08:43:09+00:00",
-      "score": 2
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "HotNews",
-      "title": "Unul dintre cei mai cunoscuți producători de bijuterii, cu numeroase magazine și în România, se distanțează de argint",
-      "summary": "Producătorul danez de bijuterii Pandora, care are peste 6.700 de puncte de vânzare în jurul lumii, inclusiv magazine în marile orașe din România, va introduce produse placate cu platină pentru a se distanța de piața&#8230;",
-      "link": "https://hotnews.ro/unul-dintre-cei-mai-cunoscuti-producatori-de-bijuterii-cu-numeroase-magazine-si-in-romania-se-distanteaza-de-argint-2165220",
-      "published_utc": "2026-02-05T08:42:22+00:00",
-      "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Dragoș Pîslaru, despre amânarea deciziei CCR privind pensiile magistraților: 231 de milioane de euro din PNRR sunt considerați pierduți",
-      "summary": "Ministrul Investiţiilor şi Proiectelor Europene, Dragoş Pîslaru, a declarat la Digi24 că România pierde 231 de milioane de euro din PNRR, după ce Comisia Europeană a considerat că nu a fost îndeplinit jalonul 215, referitor la pensiile magistraţilor.",
-      "link": "https://www.digi24.ro/stiri/economie/dragos-pislaru-despre-amanarea-deciziei-ccr-privind-pensiile-magistratilor-231-de-milioane-de-euro-din-pnrr-sunt-considerati-pierduti-3616957",
-      "published_utc": "2026-02-05T08:27:35+00:00",
       "score": 1
     },
     {
@@ -569,6 +569,96 @@
         "section": "romania",
         "kind": "ro",
         "source": "Digi24",
+        "title": "România are cei mai mulți proprietari de locuinţe din UE, dar și cele mai aglomerate case",
+        "summary": "Peste 94% din populaţia României trăia în 2024 într-o locuinţă proprietate personală, acesta fiind cel mai mare procent înregistrat în rândul statelor membre ale Uniunii Europene, arată datele Eurostat, publicate joi.",
+        "link": "https://www.digi24.ro/stiri/actualitate/romania-are-cei-mai-multi-proprietari-de-locuinte-din-ue-dar-si-cele-mai-aglomerate-case-3617341",
+        "published_utc": "2026-02-05T11:27:07+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Românii și-au portat peste 1,4 milioane numere de mobil anul trecut. Una dintre rețele a strâns mai mulți clienți decât toate celelalte la un loc",
+        "summary": "Românii și-au mutat anul trecut peste 1,45 milioane de numere de telefon în alte rețele mobile, beneficiind de posibilitatea de a schimba furnizorul fără a-și pierde numărul de telefon, a anunțat joi autoritatea de reglementare&#8230;",
+        "link": "https://hotnews.ro/romanii-si-au-portat-peste-14-milioane-numere-de-mobil-anul-trecut-una-dintre-retele-a-strans-mai-multi-clienti-decat-toate-celelalte-la-un-loc-2165440",
+        "published_utc": "2026-02-05T11:26:09+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Kremlinul neagă faptul că Jeffrey Epstein ar fi fost agent al serviciilor secrete ruse",
+        "summary": "Kremlinul a declarat joi că nu dorește să piardă timp răspunzând la întrebări despre sugestii neprobate apărute în mass-media occidentală și ale premierului polonez, potrivit cărora Jeffrey Epstein ar fi fost un fel de agent al serviciilor secrete ruse.",
+        "link": "https://www.digi24.ro/stiri/externe/rusia/kremlinul-neaga-faptul-ca-pedofilul-epstein-ar-fi-fost-agent-al-serviciilor-secrete-ruse-3617371",
+        "published_utc": "2026-02-05T11:21:42+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Circa 2,8 milioane de pensionari ar putea primi sprijin de până la 1.000 lei de la stat, anunță Florin Manole. Cine ar putea beneficia",
+        "summary": "Ministrul Muncii, Florin Manole, propune ca pensionarii cu pensii mai mici de 3.000 de lei să beneficieze de un ajutor financiar de până la 1.000 de lei, care va fi acordat în două tranșe. Într-o postare de joi, pe Facebook, Manole a afirmat că circa 2,8 milioane de pensionari ar urma să primească acești bani.",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/circa-28-milioane-de-pensionari-ar-putea-primi-sprijin-de-pana-la-1-000-lei-de-la-stat-anunta-florin-manole-cine-ar-putea-beneficia-3617347",
+        "published_utc": "2026-02-05T11:19:26+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Ce se întâmplă când o femeie întârzie controlul sânilor? Dr. Sorina Ungur, MedLife: „Amânarea împinge cancerul de sân în stadii greu de tratat”",
+        "summary": "În cabinetul medicului imagist Sorina Ungur, de la Hyperclinica MedLife Micromedica din Bacău, ajung în ultimii ani tot mai multe femei cu tumori la sân – unele, din păcate, în stadii avansate. „O zi în&#8230;",
+        "link": "https://hotnews.ro/ce-se-intampla-cand-o-femeie-intarzie-controlul-sanilor-dr-sorina-ungur-medlife-amanarea-impinge-cancerul-de-san-in-stadii-greu-de-tratat-2165434",
+        "published_utc": "2026-02-05T11:18:28+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Întâlnire neașteptată la Poiana Brașov: Trei pui de urs, filmați de turiști în timp ce se joacă nestingheriți pe pârtie",
+        "summary": "Întâlnire neașteptată la Poiana Brașov. Turiștii de pe pârtie au dat nas în nas cu trei ursuleți. I-au admirat și au filmat de la distanță cum puii de urs se jucau în zăpadă.",
+        "link": "https://www.digi24.ro/stiri/intalnire-neasteptata-la-poiana-brasov-trei-pui-de-urs-filmati-de-turisti-in-timp-ce-se-joaca-nestingheriti-pe-partie-3617375",
+        "published_utc": "2026-02-05T11:17:56+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Ce se schimbă pentru microîntreprinderi în noul pachet de relansare economică. Reguli mai flexibile, impozitare unică și bonificații",
+        "summary": "Ministrul Finanțelor, Alexandru Nazare, a anunțat joi, la conferința de fiscalitate Tax EU, o serie de măsuri incluse în noul pachet de relansare economică, menite să corecteze problemele semnalate de mediul de afaceri și să facă regimul fiscal al microîntreprinderilor mai predictibil și mai flexibil, în contextul reducerii plafonului de încadrare la 100.000 de euro.",
+        "link": "https://www.digi24.ro/stiri/economie/ce-se-schimba-pentru-microintreprinderi-in-noul-pachet-de-relansare-economica-reguli-mai-flexibile-impozitare-unica-si-bonificatii-3617339",
+        "published_utc": "2026-02-05T11:07:21+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Primul rezultat concret al negocierilor de pace de la Abu Dhabi: Ucraina și Rusia au convenit să schimbe 314 prizonieri / „Mai sunt multe de făcut”, spune emisarul lui Trump",
+        "summary": "Prima zi de negocieri, de miercuri, a fost una „productivă”, au declarat oficialii ucraineni, care nu au anunțat însă un rezultat concret în privința principalelor probleme ce blochează un eventual armistițiu, scrie Reuters. Delegațiile din&#8230;",
+        "link": "https://hotnews.ro/a-doua-zi-de-negocieri-de-pace-la-abu-dhabi-emisarul-lui-putin-ataca-europa-dar-vede-o-evolutie-pozitiva-a-discutiilor-cu-ucraina-2165188",
+        "published_utc": "2026-02-05T11:05:30+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Sindicaliștii din guvern îl „somează” pe Bolojan „să nu forțeze reforma administrației după bunul plac”: „Nu vom sta cu mâinile în sân”",
+        "summary": "Sindicatul Angajaților din Aparatul de Lucru al Guvernului (SAALG) i-a cerut public, joi, cer premierului Ilie Bolojan să oprească asumarea răspunderii pe proiectul de lege privind reforma administrației publice, dar și proiectul care limitează detașările&#8230;",
+        "link": "https://hotnews.ro/sindicalistii-din-guvern-il-someaza-pe-bolojan-sa-nu-forteze-reforma-administratiei-dupa-bunul-plac-nu-vom-sta-cu-mainile-in-san-2165317",
+        "published_utc": "2026-02-05T11:02:09+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
         "title": "Apelul NATO după expirarea tratatului de control al armelor nucleare între SUA și Rusia",
         "summary": "NATO face apel la „reţinere şi responsabilitate” după expirarea New START, ultimul tratat de dezarmare nucleară între Rusia şi Statele Unite, a declarat joi un oficial al Alianţei Nord-Atlantice, relatează AFP, potrivit Agerpres.",
         "link": "https://www.digi24.ro/stiri/externe/apelul-nato-dupa-expirarea-tratatului-de-control-al-armelor-nucleare-intre-sua-si-rusia-3617323",
@@ -589,7 +679,7 @@
         "section": "romania",
         "kind": "ro",
         "source": "HotNews",
-        "title": "Un reputat economist avertizează: Diverse argumente conjuncturale au justificat cheltuieli cu caracter permanent",
+        "title": "Un reputat economist vorbește despre mimetica, constrângerea și luxul din economia politică românească",
         "summary": "România nu a fost condusă prin decizii asumate, ci printr-un amestec comod de imitație (copiem reguli, instituții și modele din afară), constrângere („nu se poate altfel” &#8211; vina e mereu externă) și lux (discursuri mari,&#8230;",
         "link": "https://hotnews.ro/un-reputat-economist-avertizeaza-diverse-argumente-conjuncturale-au-justificat-cheltuieli-cu-caracter-permanent-2165100",
         "published_utc": "2026-02-05T10:49:32+00:00",
@@ -773,96 +863,6 @@
         "summary": "Una dintre cele mai spectaculoase părți ale acestui caz de proxenetism duce acum la Moscova și la un „prieten al lui Putin”. Specialiștii evocă spectrul unui gigantic „kompromat”, scrie Le Parisien într-o amplă relatare despre cazul Jeffrey Epstein, care se dezvăluie publicului de la o zi la alta, după ce Departamentul de Justiție al SUA a decis publicarea a milioane de pagini din dosarul referitor la infractorul sexual. Suspiciunile şi acuzaţiile privind legături cu infractorul sexual Jeffrey Epstein continuă să zdruncine elitele mondiale din politică, afaceri, tehnologie, mediul academic sau familii regale. Din Statele Unite, Marea Britanie până în Polonia se deschid investigaţii, la peste 6 ani de când infractorul sexual s-a sinucis într-o închisoare din New York.",
         "link": "https://www.digi24.ro/stiri/externe/cea-mai-mare-operatiune-de-santaj-din-istorie-cazul-epstein-pista-rusa-le-parisien-3615447",
         "published_utc": "2026-02-05T09:24:51+00:00",
-        "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "VIDEO Ciprian Ciucu, mesaj din autobuz către angajații STB. Ce spune despre zvonurile privind tăierea salariilor",
-        "summary": "Primarul general al Capitalei, Ciprian Ciucu, a anunțat joi dimineață, într-o transmisiune live pe Facebook din autobuz, că situaţia financiară a STB este „extrem de proastă”, dar a dat asigurări că eforturile de eficientizare a&#8230;",
-        "link": "https://hotnews.ro/video-ciprian-ciucu-mesaj-din-autobuz-catre-angajatii-stb-ce-spune-despre-zvonurile-privind-taierea-salariilor-2165263",
-        "published_utc": "2026-02-05T09:24:37+00:00",
-        "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "Prefectul Capitalei, despre drumul construit de Robert Negoiță anchetat acum de DNA: „S-a construit peste o magistrală de gaz, fără autorizaţii”",
-        "summary": "Drumul construit de primarul Sectorului 3 pe terenul privat al fratelui său a fost făcut fără autorizații peste o magistrală de gaz, iar Prefectura București a făcut demersuri pentru rezolvarea situațiilor, dar situația nu a&#8230;",
-        "link": "https://hotnews.ro/prefectul-capitalei-despre-drumul-construit-de-robert-negoita-anchetat-acum-de-dna-s-a-construit-peste-o-magistrala-de-gaz-fara-autorizatii-2165276",
-        "published_utc": "2026-02-05T09:21:14+00:00",
-        "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Mii de blocuri din București au rămas din nou fără căldură. Motivul pentru care o turbină de la CET Sud a fost oprită",
-        "summary": "Sistemul centralizat de termoficare lasă din nou bucureștenii în frig. Mii de blocuri au rămas fără căldură după ce o turbină de la CET Sud a fost oprită pentru remedierea sistemului de reglaj.",
-        "link": "https://www.digi24.ro/stiri/externe/mii-de-blocuri-din-bucuresti-au-ramas-din-nou-fara-caldura-motivul-pentru-care-o-turbina-de-la-cet-sud-a-fost-oprita-3617057",
-        "published_utc": "2026-02-05T09:07:00+00:00",
-        "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Un controlor a fost ucis de un pasager fără bilet, în Germania: „Zi neagră pentru toţi lucrătorii feroviari din ţară”",
-        "summary": "Un controlor de tren a murit miercuri în Germania după ce a fost lovit de un pasager care călătorea fără bilet, a anunţat compania feroviară naţională Deutsche Bahn, transmite AFP.",
-        "link": "https://www.digi24.ro/stiri/externe/un-controlor-a-fost-ucis-de-un-pasager-fara-bilet-in-germania-zi-neagra-pentru-toti-lucratorii-feroviari-din-tara-3616825",
-        "published_utc": "2026-02-05T08:58:50+00:00",
-        "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "Microsoft și Marea Britanie vor colabora pentru crearea unui sistem de detectare automată a „deepfake”-urilor din mediul online",
-        "summary": "Guvernul britanic a anunțat joi că va colabora cu Microsoft, cu mediul academic și cu experți pentru a dezvolta un sistem de identificare a materialelor „deepfake” din mediul online în contextul în care încearcă să&#8230;",
-        "link": "https://hotnews.ro/microsoft-si-marea-britanie-vor-colabora-pentru-crearea-unui-sistem-de-detectare-automata-a-deepfake-urilor-din-mediul-online-2165267",
-        "published_utc": "2026-02-05T08:57:40+00:00",
-        "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Jocurile Olimpice 2026: Programul complet al sportivilor români la Milano-Cortina",
-        "summary": "Jocurile Olimpice 2026 se desfășoară la Milano-Cortina între 6 și 22 februarie, iar România va fi reprezentată de 28 de sportivi și o rezervă. Aceștia vor concura la opt discipline, iar programul complet al competițiilor le oferă fanilor posibilitatea de a urmări fiecare evoluție a delegației noastre",
-        "link": "https://www.digi24.ro/stiri/sport/jocurile-olimpice-2026-programul-complet-al-sportivilor-romani-la-milano-cortina-3615513",
-        "published_utc": "2026-02-05T08:43:16+00:00",
-        "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "Cine este Robert Negoiță, primarul PSD al Sectorului 3, ajuns în vizorul DNA după o investigație Recorder. Dator cu sume uriașe la stat și un episod controversat de acum 16 ani",
-        "summary": "Robert Negoiță, primarul Sectorului 3, vizat joi înt-un dosar de abuz în serviciu, este cel mai longeviv primar de sector din București. Cine este Robert Negoiță În vârstă de aproape 54 de ani, Robert Negoiță&#8230;",
-        "link": "https://hotnews.ro/cine-este-robert-negoita-primarul-psd-al-sectorului-3-ajuns-in-vizorul-dna-dupa-o-investigatie-recorder-dator-cu-sume-uriase-la-stat-si-un-episod-controversat-de-acum-de-acum-16-ani-2165217",
-        "published_utc": "2026-02-05T08:43:09+00:00",
-        "score": 2
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "Unul dintre cei mai cunoscuți producători de bijuterii, cu numeroase magazine și în România, se distanțează de argint",
-        "summary": "Producătorul danez de bijuterii Pandora, care are peste 6.700 de puncte de vânzare în jurul lumii, inclusiv magazine în marile orașe din România, va introduce produse placate cu platină pentru a se distanța de piața&#8230;",
-        "link": "https://hotnews.ro/unul-dintre-cei-mai-cunoscuti-producatori-de-bijuterii-cu-numeroase-magazine-si-in-romania-se-distanteaza-de-argint-2165220",
-        "published_utc": "2026-02-05T08:42:22+00:00",
-        "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Dragoș Pîslaru, despre amânarea deciziei CCR privind pensiile magistraților: 231 de milioane de euro din PNRR sunt considerați pierduți",
-        "summary": "Ministrul Investiţiilor şi Proiectelor Europene, Dragoş Pîslaru, a declarat la Digi24 că România pierde 231 de milioane de euro din PNRR, după ce Comisia Europeană a considerat că nu a fost îndeplinit jalonul 215, referitor la pensiile magistraţilor.",
-        "link": "https://www.digi24.ro/stiri/economie/dragos-pislaru-despre-amanarea-deciziei-ccr-privind-pensiile-magistratilor-231-de-milioane-de-euro-din-pnrr-sunt-considerati-pierduti-3616957",
-        "published_utc": "2026-02-05T08:27:35+00:00",
         "score": 1
       }
     ],
@@ -1139,7 +1139,7 @@
         "title": "NGC 1275 in the Perseus Cluster",
         "link": "https://apod.nasa.gov/apod/astropix.html",
         "image_url": "https://apod.nasa.gov/apod/calendar/S_260205.jpg",
-        "published_utc": "2026-02-05T11:02:33+00:00"
+        "published_utc": "2026-02-05T11:28:40+00:00"
       },
       {
         "category_id": "animals",
