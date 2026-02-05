@@ -288,10 +288,11 @@ def build_joke() -> Optional[Dict[str, Any]]:
 
 def build_photos(cfg: Dict[str, Any]) -> List[Dict[str, Any]]:
     """
-    Returnează 3 poze: una din Space, una din Animals, una din Landscapes.
-    Folosește fallback-uri per categorie ca să nu rămâi cu 1-2 poze.
+    Vrem exact 3: space + animals + landscapes.
+    Dacă o categorie nu găsește imagine, umplem lipsa cu fallback (Wikimedia POTD).
     """
     photo_sources = cfg.get("photo_sources") or {}
+    fallback = cfg.get("photo_fallback") or {}
 
     categories = [
         ("space", "🚀 Spațiu"),
@@ -302,10 +303,8 @@ def build_photos(cfg: Dict[str, Any]) -> List[Dict[str, Any]]:
     out: List[Dict[str, Any]] = []
     used_images: set = set()
 
-    for cat_id, cat_label in categories:
-        sources = photo_sources.get(cat_id) or []
-        picked: Optional[Dict[str, Any]] = None
-
+    def pick_from_sources(sources, cat_id, cat_label, allow_duplicate_if_needed=False):
+        nonlocal used_images
         for src in sources:
             name = src.get("name", cat_label)
             url = (src.get("url") or "").strip()
@@ -313,8 +312,7 @@ def build_photos(cfg: Dict[str, Any]) -> List[Dict[str, Any]]:
                 continue
 
             feed = fetch_rss(url)
-
-            for e in feed.entries[:40]:
+            for e in feed.entries[:50]:
                 title = (e.get("title") or "").strip()
                 link = (e.get("link") or "").strip()
                 if not link:
@@ -324,32 +322,55 @@ def build_photos(cfg: Dict[str, Any]) -> List[Dict[str, Any]]:
                 if not img:
                     continue
 
-                # evităm duplicate (mai ales când 2 surse dau aceeași imagine)
-                if img in used_images:
+                if (img in used_images) and (not allow_duplicate_if_needed):
                     continue
 
                 dt = parse_entry_datetime(e)
                 published = (dt or datetime.now(timezone.utc)).replace(microsecond=0)
 
-                picked = {
+                return {
                     "category_id": cat_id,
                     "category_label": cat_label,
                     "source": name,
                     "title": title or cat_label,
-                    "link": link,           # pagina articolului
-                    "image_url": img,       # imagine directă
+                    "link": link,
+                    "image_url": img,
                     "published_utc": published.isoformat(),
                 }
-                break
+        return None
 
-            if picked:
-                break
-
+    # 1) Încercăm să luăm 1/categorie
+    for cat_id, cat_label in categories:
+        sources = photo_sources.get(cat_id) or []
+        picked = pick_from_sources(sources, cat_id, cat_label, allow_duplicate_if_needed=False)
         if picked:
             used_images.add(picked["image_url"])
             out.append(picked)
 
-    return out
+    # 2) Dacă lipsesc categorii, completăm cu fallback POTD (dar păstrăm label-ul categoriei lipsă)
+    if len(out) < 3 and fallback.get("url"):
+        missing = [c for c in categories if c[0] not in {p["category_id"] for p in out}]
+        fb_sources = [{"name": fallback.get("name", "Wikimedia POTD"), "url": fallback["url"]}]
+
+        for cat_id, cat_label in missing:
+            picked = pick_from_sources(fb_sources, cat_id, cat_label, allow_duplicate_if_needed=False)
+            if not picked:
+                # ultim fallback: acceptăm duplicate doar ca să fie 3 poze
+                picked = pick_from_sources(fb_sources, cat_id, cat_label, allow_duplicate_if_needed=True)
+
+            if picked:
+                used_images.add(picked["image_url"])
+                out.append(picked)
+
+    # 3) Siguranță: dacă tot sunt <3, mai adăugăm din fallback fără categorie (nu ar trebui să se întâmple)
+    while len(out) < 3 and fallback.get("url"):
+        fb_sources = [{"name": fallback.get("name", "Wikimedia POTD"), "url": fallback["url"]}]
+        picked = pick_from_sources(fb_sources, "photos", "📸 Foto", allow_duplicate_if_needed=True)
+        if not picked:
+            break
+        out.append(picked)
+
+    return out[:3]
 
 def fetch_url(url: str) -> Optional[str]:
     try:
