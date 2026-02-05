@@ -642,12 +642,51 @@ def build_satire(cfg: Dict[str, Any]) -> List[Dict[str, Any]]:
 
 
 def flatten_items(sections: Dict[str, List[Dict[str, Any]]]) -> List[Dict[str, Any]]:
-    # Keep backwards compatibility for any older UI paths: merge main news sections only
-    keep = []
-    for sec in ("romania", "medical", "science", "environment"):
-        keep.extend(sections.get(sec, []))
-    keep.sort(key=lambda x: x.get("published_utc", ""), reverse=True)
-    return keep[:60]
+    """
+    Feed principal: intercalăm România (ro) cu restul (global),
+    ca să nu stea toate globalele grămadă.
+    """
+    ro = sections.get("romania", []) or []
+    # globale = medical + science + environment (toate sunt kind=global în codul tău)
+    global_items = []
+    for sec in ("medical", "science", "environment"):
+        global_items.extend(sections.get(sec, []) or [])
+
+    ro.sort(key=lambda x: x.get("published_utc", ""), reverse=True)
+    global_items.sort(key=lambda x: x.get("published_utc", ""), reverse=True)
+
+    mixed = interleave_lists(ro, global_items, pattern=(2, 1), limit=60)
+    return mixed
+
+
+def interleave_lists(a: List[Dict[str, Any]], b: List[Dict[str, Any]], pattern=(2, 1), limit: int = 60) -> List[Dict[str, Any]]:
+    """
+    Intercalează două liste (a=RO, b=GLOBAL) după un pattern.
+    pattern=(2,1) => 2 RO, 1 GLOBAL, repetă.
+    Păstrează ordinea internă (deja sortate newest-first).
+    """
+    out = []
+    i = j = 0
+    take_a, take_b = pattern
+
+    while len(out) < limit and (i < len(a) or j < len(b)):
+        for _ in range(take_a):
+            if i < len(a) and len(out) < limit:
+                out.append(a[i]); i += 1
+        for _ in range(take_b):
+            if j < len(b) and len(out) < limit:
+                out.append(b[j]); j += 1
+
+        # dacă una s-a terminat, ia din cealaltă
+        if i >= len(a):
+            while j < len(b) and len(out) < limit:
+                out.append(b[j]); j += 1
+        if j >= len(b):
+            while i < len(a) and len(out) < limit:
+                out.append(a[i]); i += 1
+
+    return out
+
 
 
 def main() -> None:
