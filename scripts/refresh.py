@@ -470,18 +470,36 @@ def is_premium_tnr(html: str) -> bool:
     return any(m in h for m in paywall_markers)
 
 
+def looks_like_paywall(final_url: str, html: str) -> bool:
+    u = (final_url or "").lower()
+    h = normalize_text(html or "")
+
+    # URL final suspect (redirect la premium/abonare/login)
+    if any(x in u for x in ["premium", "abon", "subscribe", "login", "cont"]):
+        return True
+
+    # markeri specifici de paywall (nu generici)
+    markers = [
+        "continut premium",
+        "doar pentru abonati",
+        "devino abonat",
+        "continua cu abonament",
+        "aboneaza-te pentru a citi",
+    ]
+    return any(m in h for m in markers)
+
+
 def build_satire(cfg: Dict[str, Any]) -> List[Dict[str, Any]]:
     satire_cfg = cfg.get("satire") or {}
     if not satire_cfg.get("enabled", False):
         return []
 
-    # Luăm linkuri din mai multe liste ca să avem șanse mari să găsim un articol non-premium
     listing_urls = [
         satire_cfg.get("listing_url") or "https://www.timesnewroman.ro/monden/",
         "https://www.timesnewroman.ro/",
-        "https://www.timesnewroman.ro/politic/",
-        "https://www.timesnewroman.ro/sport/",
         "https://www.timesnewroman.ro/life-death/",
+        "https://www.timesnewroman.ro/sport/",
+        "https://www.timesnewroman.ro/politic/",
     ]
     listing_urls = [u.strip() for u in listing_urls if u]
 
@@ -489,7 +507,7 @@ def build_satire(cfg: Dict[str, Any]) -> List[Dict[str, Any]]:
     seen = set()
 
     for lu in listing_urls:
-        html = fetch_url(lu)
+        html, _ = fetch_url_with_final(lu)
         if not html:
             continue
 
@@ -505,45 +523,37 @@ def build_satire(cfg: Dict[str, Any]) -> List[Dict[str, Any]]:
             if len(h.split("/")) >= 5:
                 candidates.append(h)
 
-    # încercăm primele 40; primul non-premium câștigă
     picked_link = None
     picked_title = None
 
-    for link in candidates[:40]:
-        art_html = fetch_url(link)
-        if not art_html:
-            continue
-        if is_premium_tnr(art_html):
+    # încercăm până la 60 articole
+    for link in candidates[:60]:
+        art_html, final_url = fetch_url_with_final(link)
+        if not art_html or not final_url:
             continue
 
-        picked_link = link
+        if looks_like_paywall(final_url, art_html):
+            continue
+
+        picked_link = final_url
         picked_title = get_page_title(art_html) or "TimesNewRoman"
         break
 
-    # dacă tot nu găsim (rar), luăm totuși primul articol direct (nu listă),
-    # dar marcăm clar că poate cere abonament.
+    # dacă chiar TOT e paywall azi (rar), alegem primul articol oricum (dar e articol direct)
     if not picked_link and candidates:
-        picked_link = candidates[0]
-        art_html = fetch_url(picked_link) or ""
-        picked_title = get_page_title(art_html) or "TimesNewRoman"
+        art_html, final_url = fetch_url_with_final(candidates[0])
+        picked_link = final_url or candidates[0]
+        picked_title = get_page_title(art_html or "") or "TimesNewRoman"
 
     day = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-
-    note = "Satiră — nu este știre reală."
-    if picked_link and picked_link in (satire_cfg.get("listing_url") or ""):
-        note = "Satiră — nu este știre reală."
-    # dacă am fost forțați să luăm primul candidat fără filtrare premium:
-    if picked_link and candidates and picked_link == candidates[0] and picked_link != (satire_cfg.get("listing_url") or ""):
-        # nu afirmăm că e premium, doar prevenim
-        note = "Satiră — nu este știre reală. Dacă cere abonament, dăm skip data viitoare."
-
     return [{
         "date_utc": day,
         "source": "TimesNewRoman",
         "title": picked_title or "TimesNewRoman",
         "link": picked_link or "https://www.timesnewroman.ro/",
-        "note": note
+        "note": "Satiră — nu este știre reală."
     }]
+
 
 
 
