@@ -100,48 +100,78 @@ def deepl_translate(text: str, target_lang: str = "RO") -> Optional[str]:
 
     return None
 
+NEGATIVE_KEYWORDS = [
+  "război","razboi","invaz","atac","bombard","rachet","dron","front","armată","armata",
+  "solda","nato","ucrain","rusi","rusia","moscov","kiev","zelensk","putin",
+  "israel","gaza","palestin","hamas","iran","sir","yemen",
 
-def score_item(section_id: str, title: str, summary: str, filters_cfg: Dict[str, Any]) -> Tuple[int, bool]:
-    thresholds = (filters_cfg.get("thresholds") or {})
-    hard_blacklist = filters_cfg.get("hard_blacklist") or []
-    scoring_cfg = filters_cfg.get("scoring") or {}
-    pos = scoring_cfg.get("positive_keywords") or []
-    neg = scoring_cfg.get("negative_keywords") or []
-    medical_extra = filters_cfg.get("medical_extra_blacklist") or []
+  "crim","omor","ucis","înjungh","injungh","împușc","impusc","violent","agresi",
+  "viol","răpit","rapit","tâlhăr","talhar","jaf","furt","drog",
+  "arest","reținut","retinut","perchezi","anchet","procuror","parchet","dna","diicot",
+  "dosar","inculpat","trimis în judecată","trimis in judecata","condamnat","sentin",
 
-    text = normalize_text(f"{title} {summary}")
+  "accident","colizi","exploz","incend","inunda","cutremur","dezastru","uragan","tornad",
+  "victim","morți","morti","răniți","raniti",
 
-    for w in hard_blacklist:
-        if normalize_text(w) in text:
-            return (-999, False)
+  "corup","mită","mita","șpag","spag","fraud","scandal",
 
-    if section_id == "medical":
-        for w in medical_extra:
-            if normalize_text(w) in text:
-                return (-999, False)
+  "faliment","colaps","criz","scumpir","infla","reces","șomaj","somaj",
+]
+
+SOFT_NEGATIVE = [
+  "politic","guvern","parlament","aleger","ministr","președ","presed",
+  "controvers","tensiun","protest","grev",
+]
+
+POSITIVE_STRONG = [
+  "medalie de aur","medalie de argint","medalie de bronz",
+  "locul întâi","locul intai","campion","campioan","olimpiad","record",
+  "a câștigat","a castigat",
+
+  "vindec","tratament nou","terapie nou","vaccin","imuniz",
+  "rezultate promițătoare","rezultate promitatoare","remisie","supraviețuire","supravietuire",
+
+  "salvat","au salvat","adopț","adopt","voluntar","donat",
+  "spital nou","secție nou","sectie nou","inaugur",
+]
+
+POSITIVE_WEAK = [
+  "inova","descoper","cercet","studiu","test clinic","aprobat",
+  "start-up","startup","investi","finanțare","finantare","parteneriat",
+  "festival","eveniment","concert","expoziț","expozit","muzeu",
+  "drăguț","dragut","simpatic","amuzant","funny","viral",
+  "natură","natura","recicl","plant","pădure","padure","energie verde",
+]
+
+
+
+def score_item(title: str, summary: str, kind: str) -> int:
+    text = f"{title} {summary}".lower()
+
+    # hard reject
+    for kw in NEGATIVE_KEYWORDS:
+        if kw in text:
+            return -999
 
     score = 0
 
-    for w in pos:
-        ww = normalize_text(w)
-        if ww and ww in text:
+    for kw in POSITIVE_STRONG:
+        if kw in text:
+            score += 2
+
+    for kw in POSITIVE_WEAK:
+        if kw in text:
             score += 1
 
-    for w in neg:
-        ww = normalize_text(w)
-        if ww and ww in text:
+    for kw in SOFT_NEGATIVE:
+        if kw in text:
             score -= 1
 
-    if len(summary.strip()) >= 120:
-        score += 1
-    if len(summary.strip()) == 0:
-        score -= 1
+    # România = foarte strict
+    if kind == "ro" and score <= 0:
+        return -999
 
-    if section_id in ("medical", "science", "environment"):
-        score += 1
-
-    _ = thresholds.get(section_id, 0)
-    return (score, True)
+    return score
 
 
 def fetch_rss(url: str) -> feedparser.FeedParserDict:
