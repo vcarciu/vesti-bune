@@ -43,6 +43,8 @@ rss_sources:
       url: "https://www.nasa.gov/rss/dyn/breaking_news.rss"
     - name: "ESA"
       url: "https://www.esa.int/rssfeed/Our_Activities"
+    - name: "Science News"
+      url: "https://www.sciencenews.org/feed"
 
   environment:
     - name: "UN News - Climate"
