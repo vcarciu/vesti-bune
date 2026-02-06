@@ -373,8 +373,9 @@
     // --- render: news item ---
     function renderNewsItem(it) {
       const d = new Date(it.published_utc || it.date_utc || "");
-      const title = it.title || "";
-      const summary = it.summary || "";
+      const title = it.title_ro || it.title || "";
+      const summary = it.summary_ro || it.summary || "";
+
 
       const card = el("div", { class: "card news-item" });
 
