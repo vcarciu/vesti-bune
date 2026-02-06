@@ -111,85 +111,90 @@ def deepl_translate(text: str, target_lang: str = "RO") -> Optional[str]:
     return None
 
 
-NEGATIVE_KEYWORDS = [
-    # război / conflict
-    "război", "razboi", "invaz", "atac", "bombard", "rachet", "dron", "front", "armată", "armata",
-    "solda", "nato", "ucrain", "rusi", "rusia", "moscov", "kiev", "zelensk", "putin",
-    "israel", "gaza", "palestin", "hamas", "iran", "sir", "yemen",
+# --- Keywords (normalize once) -----------------------------------------------
+
+RAW_NEGATIVE_KEYWORDS = [
+    # conflict / război (folosim rădăcini)
+    "razbo", "invaz", "atac", "bombard", "rachet", "dron", "front", "armat", "soldat",
+    "nato", "ucrain", "rus", "moscov", "kiev", "zelensk", "putin",
+    "israel", "gaza", "palestin", "hamas", "iran", "siria", "yemen",
 
     # crimă / violență / ordine publică
-    "crim", "omor", "ucis", "înjungh", "injungh", "împușc", "impusc", "violent", "agresi",
-    "viol", "răpit", "rapit", "tâlhăr", "talhar", "jaf", "furt", "drog",
-    "arest", "reținut", "retinut", "perchezi", "anchet", "procuror", "parchet", "dna", "diicot",
-    "dosar", "inculpat", "trimis în judecată", "trimis in judecata", "condamnat", "sentin",
+    "crim", "omor", "ucis", "injungh", "impusc", "violent", "agresi",
+    "viol", "rapit", "talhar", "jaf", "furt", "drog",
+    "arest", "retinut", "perchez", "anchet", "procuror", "parchet", "dna", "diicot",
+    "dosar", "inculpat", "trimis in judecata", "condamnat", "sentin",
 
     # accidente / dezastre
-    "accident", "colizi", "exploz", "incend", "inunda", "cutremur", "dezastru", "uragan", "tornad",
-    "victim", "morți", "morti", "răniți", "raniti",
+    "accident", "colizi", "exploz", "incend", "inunda", "cutremur", "dezastr", "uragan", "tornad",
+    "victim", "morti", "ranit",
 
     # corupție / scandal / fraudă
-    "corup", "mită", "mita", "șpag", "spag", "fraud", "scandal",
+    "corup", "mita", "spag", "fraud", "scandal",
 
-    # economie “nasol” / panică
-    "faliment", "colaps", "criz", "scumpir", "infla", "reces", "șomaj", "somaj",
+    # economie nasoală
+    "faliment", "colaps", "criz", "scumpir", "infl", "reces", "somaj",
 ]
 
-SOFT_NEGATIVE = [
-    "politic", "guvern", "parlament", "aleger", "ministr", "președ", "presed",
+RAW_SOFT_NEGATIVE = [
+    # nu le facem hard, dar penalizăm
+    "politic", "guvern", "parlament", "aleger", "ministr", "presed",
     "controvers", "tensiun", "protest", "grev",
 ]
 
-POSITIVE_STRONG = [
-    # performanță / premii
+RAW_POSITIVE_STRONG = [
     "medalie de aur", "medalie de argint", "medalie de bronz",
-    "locul întâi", "locul intai", "campion", "campioan", "olimpiad", "record",
-    "a câștigat", "a castigat",
-
-    # medical
+    "locul intai", "campion", "olimpiad", "record", "a castigat",
     "vindec", "tratament nou", "terapie nou", "vaccin", "imuniz",
-    "rezultate promițătoare", "rezultate promitatoare", "remisie", "supraviețuire", "supravietuire",
-
-    # proiecte bune / comunitate
-    "salvat", "au salvat", "adopț", "adopt", "voluntar", "donat",
-    "spital nou", "secție nou", "sectie nou", "inaugur",
+    "rezultate promitatoare", "remisie", "supravietuire",
+    "salvat", "au salvat", "adopt", "voluntar", "donat",
+    "spital nou", "sectie nou", "inaugur",
 ]
 
-POSITIVE_WEAK = [
+RAW_POSITIVE_WEAK = [
     "inova", "descoper", "cercet", "studiu", "test clinic", "aprobat",
-    "start-up", "startup", "investi", "finanțare", "finantare", "parteneriat",
-    "festival", "eveniment", "concert", "expoziț", "expozit", "muzeu",
-    "drăguț", "dragut", "simpatic", "amuzant", "funny", "viral",
-    "natură", "natura", "recicl", "plant", "pădure", "padure", "energie verde",
+    "startup", "invest", "finant", "parteneriat",
+    "festival", "eveniment", "concert", "expozit", "muzeu",
+    "dragut", "simpatic", "amuzant", "funny", "viral",
+    "natura", "recicl", "plant", "padur", "energie verde",
 ]
+
+NEGATIVE_KEYWORDS = [normalize_text(k) for k in RAW_NEGATIVE_KEYWORDS]
+SOFT_NEGATIVE = [normalize_text(k) for k in RAW_SOFT_NEGATIVE]
+POSITIVE_STRONG = [normalize_text(k) for k in RAW_POSITIVE_STRONG]
+POSITIVE_WEAK = [normalize_text(k) for k in RAW_POSITIVE_WEAK]
 
 
 def score_item(title: str, summary: str, kind: str) -> int:
-    text = f"{title} {summary}".lower()
+    # normalize text once (fără diacritice, lowercase, spații curate)
+    text = normalize_text(f"{title} {summary}")
 
-    # hard reject
+    # HARD reject (global + ro)
     for kw in NEGATIVE_KEYWORDS:
-        if kw in text:
+        if kw and kw in text:
             return -999
 
     score = 0
 
     for kw in POSITIVE_STRONG:
-        if kw in text:
-            score += 2
+        if kw and kw in text:
+            score += 3  # mai “tare” decât înainte
 
     for kw in POSITIVE_WEAK:
-        if kw in text:
+        if kw and kw in text:
             score += 1
 
     for kw in SOFT_NEGATIVE:
-        if kw in text:
+        if kw and kw in text:
             score -= 1
 
-    # România = foarte strict
-    if kind == "ro" and score <= 0:
+    # RO strict: trebuie să aibă măcar 1 semnal pozitiv (score >= 1)
+    if kind == "ro" and score < 1:
         return -999
 
+    # GLOBAL: permis și score 0 (dar trece doar dacă nu e hard-negative)
     return score
+
 
 
 def fetch_rss(url: str) -> feedparser.FeedParserDict:
