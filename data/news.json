@@ -1,7 +1,67 @@
 {
-  "generated_utc": "2026-02-06T15:52:21+00:00",
-  "count": 15,
+  "generated_utc": "2026-02-06T16:32:08+00:00",
+  "count": 18,
   "items": [
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Agerpres",
+      "title": "Mureș: Povești neștiute despre Palatul Culturii, descoperite de elevii care l-au adoptat",
+      "summary": "",
+      "link": "https://agerpres.ro/educatie-stiinta/2026/02/06/mures-povesti-nestiute-despre-palatul-culturii-descoperite-de-elevii-care-l-au-adoptat--1525746",
+      "published_utc": "2026-02-06T16:31:40+00:00",
+      "score": 4
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Agerpres",
+      "title": "Statele europene susțin reciclarea chimică a ambalajelor din plastic",
+      "summary": "",
+      "link": "https://agerpres.ro/politic-extern/2026/02/06/statele-europene-sustin-reciclarea-chimica-a-ambalajelor-din-plastic--1525736",
+      "published_utc": "2026-02-06T16:31:40+00:00",
+      "score": 1
+    },
+    {
+      "section": "environment",
+      "kind": "global",
+      "source": "UN News - Climate",
+      "title": "11-year streak of record global warming continues, UN weather agency warns",
+      "summary": "The past 11 years have been the warmest in the modern era, while oceans continue to heat up, too, says the UN weather agency.",
+      "link": "https://news.un.org/feed/view/en/story/2026/01/1166758",
+      "published_utc": "2026-01-14T12:00:00+00:00",
+      "score": 3
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Agerpres",
+      "title": "Cercetătorii au apelat la popularul joc Dungeons & Dragons pentru a afla dacă AI-ul și oamenii pot colabora",
+      "summary": "",
+      "link": "https://agerpres.ro/stiinta/2026/02/06/cercetatorii-au-apelat-la-popularul-joc-dungeons-dragons-pentru-a-afla-daca-ai-ul-si-oamenii-pot-col--1525721",
+      "published_utc": "2026-02-06T16:31:40+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Organizația Salvați Copiii cere interzicerea rețelelor sociale pentru copiii sub 13 ani. Avertisment privind dependența și abuzurile",
+      "summary": "Interzicerea totală a accesului copiilor sub 13 ani la rețelele sociale, acces condiționat și strict monitorizat pentru cei între 13 și 15 ani și sancțiuni reale pentru platformele care nu verifică vârsta utilizatorilor sunt principalele măsuri cerute de Salvați Copiii România, într-o poziție publică transmisă joi. Organizația avertizează că, în lipsa unor reguli ferme și a unor mecanisme reale de aplicare, copiii sunt expuși unor riscuri grave legate de sănătatea mintală, siguranța online și exploatarea sexuală, în contextul în care studiile recente arată utilizarea excesivă a rețelelor sociale de către minori, simptome de dependență la peste o cincime dintre copiii cu vârste cuprinse între 11 și 15 ani și zeci de mii de raportări anuale de conținut abuziv generat chiar de minori.",
+      "link": "https://www.digi24.ro/stiri/actualitate/social/organizatia-salvati-copiii-cere-interzicerea-retelelor-sociale-pentru-copiii-sub-13-ani-avertisment-privind-dependenta-si-abuzurile-3619469",
+      "published_utc": "2026-02-06T16:09:24+00:00",
+      "score": 3
+    },
+    {
+      "section": "environment",
+      "kind": "global",
+      "source": "UN News - Climate",
+      "title": "UN environment assembly wraps up in Nairobi",
+      "summary": "The seventh session of the United Nations Environment Assembly (UNEA-7) concluded in Nairobi, Kenya, on Friday with Member States adopting 11 resolutions, three decisions and a ministerial declaration aiming to advance solutions for a more resilient planet.&nbsp;",
+      "link": "https://news.un.org/feed/view/en/story/2025/12/1166585",
+      "published_utc": "2025-12-12T12:00:00+00:00",
+      "score": 3
+    },
     {
       "section": "romania",
       "kind": "ro",
@@ -9,7 +69,7 @@
       "title": "Meniu cu trei stele Michelin pentru Vance și Rubio, la Milano. Măsuri sporite de securitate pentru americani la Jocurile Olimpice",
       "summary": "Milano este un oraș blindat pentru olimpiadă. Delegația americană face valuri dinainte de deschiderea oficială de vineri seara. Vicepreședintele JD Vance și secretarul de stat Marco Rubio au luat masa împreună în oraș. Cine nu era pe lista de invitați nu s-a putut apropia la mai mult de 200 de metri de restaurantul cu pricina, anunță Digi24. Între timp, șefa guvernului italian Giorgia Meloni şi vicepreşedintele american JD Vance au salutat „valorile comune”, în ziua deschiderii Jocurilor Olimpice de la Milano Cortina, în timp ce sute de persoane au manifestat la Milano împotriva Statelor Unite, relatează AFP.",
       "link": "https://www.digi24.ro/stiri/externe/sua/meniu-cu-trei-stele-michelin-pentru-vance-si-rubio-la-milano-masuri-sporite-de-securitate-pentru-americani-la-jocurile-olimpice-3619495",
-      "published_utc": "2026-02-06T15:46:52+00:00",
+      "published_utc": "2026-02-06T15:50:52+00:00",
       "score": 1
     },
     {
@@ -26,10 +86,10 @@
       "section": "environment",
       "kind": "global",
       "source": "UN News - Climate",
-      "title": "11-year streak of record global warming continues, UN weather agency warns",
-      "summary": "The past 11 years have been the warmest in the modern era, while oceans continue to heat up, too, says the UN weather agency.",
-      "link": "https://news.un.org/feed/view/en/story/2026/01/1166758",
-      "published_utc": "2026-01-14T12:00:00+00:00",
+      "title": "A sustainable future requires new thinking: UN environment report",
+      "summary": "Adopting a fresh approach to protecting planetary health would deliver stronger economies, fewer deaths and less poverty, the UN Environment Programme (UNEP) insisted on Tuesday, as it released its most comprehensive assessment of environmental pressures facing the world.",
+      "link": "https://news.un.org/feed/view/en/story/2025/12/1166553",
+      "published_utc": "2025-12-09T12:00:00+00:00",
       "score": 3
     },
     {
@@ -56,10 +116,10 @@
       "section": "environment",
       "kind": "global",
       "source": "UN News - Climate",
-      "title": "UN environment assembly wraps up in Nairobi",
-      "summary": "The seventh session of the United Nations Environment Assembly (UNEA-7) concluded in Nairobi, Kenya, on Friday with Member States adopting 11 resolutions, three decisions and a ministerial declaration aiming to advance solutions for a more resilient planet.&nbsp;",
-      "link": "https://news.un.org/feed/view/en/story/2025/12/1166585",
-      "published_utc": "2025-12-12T12:00:00+00:00",
+      "title": "Arab region pushed to limits by climate extremes as 2024 smashes heat records",
+      "summary": "The Arab region is heating at nearly twice the global average, UN weather experts warned on Thursday, after 2024 saw unprecedented heat, destructive storms and worsening water scarcity impact some of the world’s most vulnerable communities.",
+      "link": "https://news.un.org/feed/view/en/story/2025/12/1166509",
+      "published_utc": "2025-12-04T12:00:00+00:00",
       "score": 3
     },
     {
@@ -86,10 +146,10 @@
       "section": "environment",
       "kind": "global",
       "source": "UN News - Climate",
-      "title": "A sustainable future requires new thinking: UN environment report",
-      "summary": "Adopting a fresh approach to protecting planetary health would deliver stronger economies, fewer deaths and less poverty, the UN Environment Programme (UNEP) insisted on Tuesday, as it released its most comprehensive assessment of environmental pressures facing the world.",
-      "link": "https://news.un.org/feed/view/en/story/2025/12/1166553",
-      "published_utc": "2025-12-09T12:00:00+00:00",
+      "title": "Asia: Lives upended by cyclones, ‘extreme’ rainfall on the rise, warn UN agencies",
+      "summary": "Across southeast Asia, record-breaking rains and flooding caused by back-to-back tropical storms have claimed hundreds of lives and brought devastation and displacement upon entire communities, UN agencies said on Tuesday.&nbsp;",
+      "link": "https://news.un.org/feed/view/en/story/2025/12/1166482",
+      "published_utc": "2025-12-02T12:00:00+00:00",
       "score": 3
     },
     {
@@ -113,16 +173,6 @@
       "score": 1
     },
     {
-      "section": "environment",
-      "kind": "global",
-      "source": "UN News - Climate",
-      "title": "Arab region pushed to limits by climate extremes as 2024 smashes heat records",
-      "summary": "The Arab region is heating at nearly twice the global average, UN weather experts warned on Thursday, after 2024 saw unprecedented heat, destructive storms and worsening water scarcity impact some of the world’s most vulnerable communities.",
-      "link": "https://news.un.org/feed/view/en/story/2025/12/1166509",
-      "published_utc": "2025-12-04T12:00:00+00:00",
-      "score": 3
-    },
-    {
       "section": "romania",
       "kind": "ro",
       "source": "Digi24",
@@ -131,26 +181,6 @@
       "link": "https://www.digi24.ro/stiri/actualitate/incepe-o-noua-editie-fidelis-statul-ofera-dobanzi-de-pana-la-725-la-lei-si-6-la-euro-pentru-romanii-care-vor-sa-investeasca-3619115",
       "published_utc": "2026-02-06T12:04:56+00:00",
       "score": 2
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Salvați Copiii România cere interzicerea rețelelor sociale pentru minorii sub 13 ani și sancțiuni pentru platforme",
-      "summary": "Salvați Copiii România solicită interzicerea totală a accesului copiilor sub 13 ani la rețelele sociale și introducerea unui acces condiționat pentru cei între 13 și 15 ani, doar cu acordul părinților. Organizația cere, totodată, sancțiuni reale pentru platformele care permit crearea de conturi de către minori fără verificarea vârstei, invocând riscuri majore pentru sănătatea mintală și siguranța copiilor.",
-      "link": "https://www.digi24.ro/stiri/sci-tech/lumea-digitala/salvati-copiii-romania-cere-interzicerea-retelelor-sociale-pentru-minorii-sub-13-ani-si-sanctiuni-pentru-platforme-3618787",
-      "published_utc": "2026-02-06T09:06:34+00:00",
-      "score": 3
-    },
-    {
-      "section": "environment",
-      "kind": "global",
-      "source": "UN News - Climate",
-      "title": "Asia: Lives upended by cyclones, ‘extreme’ rainfall on the rise, warn UN agencies",
-      "summary": "Across southeast Asia, record-breaking rains and flooding caused by back-to-back tropical storms have claimed hundreds of lives and brought devastation and displacement upon entire communities, UN agencies said on Tuesday.&nbsp;",
-      "link": "https://news.un.org/feed/view/en/story/2025/12/1166482",
-      "published_utc": "2025-12-02T12:00:00+00:00",
-      "score": 3
     }
   ],
   "sections": {
@@ -158,11 +188,51 @@
       {
         "section": "romania",
         "kind": "ro",
+        "source": "Agerpres",
+        "title": "Mureș: Povești neștiute despre Palatul Culturii, descoperite de elevii care l-au adoptat",
+        "summary": "",
+        "link": "https://agerpres.ro/educatie-stiinta/2026/02/06/mures-povesti-nestiute-despre-palatul-culturii-descoperite-de-elevii-care-l-au-adoptat--1525746",
+        "published_utc": "2026-02-06T16:31:40+00:00",
+        "score": 4
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Agerpres",
+        "title": "Statele europene susțin reciclarea chimică a ambalajelor din plastic",
+        "summary": "",
+        "link": "https://agerpres.ro/politic-extern/2026/02/06/statele-europene-sustin-reciclarea-chimica-a-ambalajelor-din-plastic--1525736",
+        "published_utc": "2026-02-06T16:31:40+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Agerpres",
+        "title": "Cercetătorii au apelat la popularul joc Dungeons & Dragons pentru a afla dacă AI-ul și oamenii pot colabora",
+        "summary": "",
+        "link": "https://agerpres.ro/stiinta/2026/02/06/cercetatorii-au-apelat-la-popularul-joc-dungeons-dragons-pentru-a-afla-daca-ai-ul-si-oamenii-pot-col--1525721",
+        "published_utc": "2026-02-06T16:31:40+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Organizația Salvați Copiii cere interzicerea rețelelor sociale pentru copiii sub 13 ani. Avertisment privind dependența și abuzurile",
+        "summary": "Interzicerea totală a accesului copiilor sub 13 ani la rețelele sociale, acces condiționat și strict monitorizat pentru cei între 13 și 15 ani și sancțiuni reale pentru platformele care nu verifică vârsta utilizatorilor sunt principalele măsuri cerute de Salvați Copiii România, într-o poziție publică transmisă joi. Organizația avertizează că, în lipsa unor reguli ferme și a unor mecanisme reale de aplicare, copiii sunt expuși unor riscuri grave legate de sănătatea mintală, siguranța online și exploatarea sexuală, în contextul în care studiile recente arată utilizarea excesivă a rețelelor sociale de către minori, simptome de dependență la peste o cincime dintre copiii cu vârste cuprinse între 11 și 15 ani și zeci de mii de raportări anuale de conținut abuziv generat chiar de minori.",
+        "link": "https://www.digi24.ro/stiri/actualitate/social/organizatia-salvati-copiii-cere-interzicerea-retelelor-sociale-pentru-copiii-sub-13-ani-avertisment-privind-dependenta-si-abuzurile-3619469",
+        "published_utc": "2026-02-06T16:09:24+00:00",
+        "score": 3
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
         "source": "Digi24",
         "title": "Meniu cu trei stele Michelin pentru Vance și Rubio, la Milano. Măsuri sporite de securitate pentru americani la Jocurile Olimpice",
         "summary": "Milano este un oraș blindat pentru olimpiadă. Delegația americană face valuri dinainte de deschiderea oficială de vineri seara. Vicepreședintele JD Vance și secretarul de stat Marco Rubio au luat masa împreună în oraș. Cine nu era pe lista de invitați nu s-a putut apropia la mai mult de 200 de metri de restaurantul cu pricina, anunță Digi24. Între timp, șefa guvernului italian Giorgia Meloni şi vicepreşedintele american JD Vance au salutat „valorile comune”, în ziua deschiderii Jocurilor Olimpice de la Milano Cortina, în timp ce sute de persoane au manifestat la Milano împotriva Statelor Unite, relatează AFP.",
         "link": "https://www.digi24.ro/stiri/externe/sua/meniu-cu-trei-stele-michelin-pentru-vance-si-rubio-la-milano-masuri-sporite-de-securitate-pentru-americani-la-jocurile-olimpice-3619495",
-        "published_utc": "2026-02-06T15:46:52+00:00",
+        "published_utc": "2026-02-06T15:50:52+00:00",
         "score": 1
       },
       {
@@ -244,16 +314,6 @@
         "link": "https://www.digi24.ro/stiri/actualitate/incepe-o-noua-editie-fidelis-statul-ofera-dobanzi-de-pana-la-725-la-lei-si-6-la-euro-pentru-romanii-care-vor-sa-investeasca-3619115",
         "published_utc": "2026-02-06T12:04:56+00:00",
         "score": 2
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Salvați Copiii România cere interzicerea rețelelor sociale pentru minorii sub 13 ani și sancțiuni pentru platforme",
-        "summary": "Salvați Copiii România solicită interzicerea totală a accesului copiilor sub 13 ani la rețelele sociale și introducerea unui acces condiționat pentru cei între 13 și 15 ani, doar cu acordul părinților. Organizația cere, totodată, sancțiuni reale pentru platformele care permit crearea de conturi de către minori fără verificarea vârstei, invocând riscuri majore pentru sănătatea mintală și siguranța copiilor.",
-        "link": "https://www.digi24.ro/stiri/sci-tech/lumea-digitala/salvati-copiii-romania-cere-interzicerea-retelelor-sociale-pentru-minorii-sub-13-ani-si-sanctiuni-pentru-platforme-3618787",
-        "published_utc": "2026-02-06T09:06:34+00:00",
-        "score": 3
       }
     ],
     "medical": [],
@@ -315,28 +375,28 @@
         "category_id": "space",
         "category_label": "🚀 Spațiu",
         "source": "Flickr (space)",
-        "title": "🚀 Spațiu",
-        "link": "https://www.flickr.com/photos/maxlindquist/52940884894/",
-        "image_url": "https://live.staticflickr.com/65535/52940884894_fbe831dd76_b.jpg",
-        "published_utc": "2026-02-06T14:12:26+00:00"
+        "title": "the sky is on fire",
+        "link": "https://www.flickr.com/photos/158350039@N03/55081573174/",
+        "image_url": "https://live.staticflickr.com/65535/55081573174_d74b3489db_b.jpg",
+        "published_utc": "2026-02-06T15:55:32+00:00"
       },
       {
         "category_id": "animals",
         "category_label": "🐾 Animale",
         "source": "Flickr (animals)",
-        "title": "They call the dark-eyed junco as the “snow bird”.  He showed up today and snow is forecast for tonight, so the name may be apt.  #DarkEyedJunco #SnowBird #BirdWatching #Bird #TrumbullCT #Connecticut",
-        "link": "https://www.flickr.com/photos/nomad7674/55080412982/",
-        "image_url": "https://live.staticflickr.com/65535/55080412982_2ff675238f_b.jpg",
-        "published_utc": "2026-02-06T15:47:52+00:00"
+        "title": "Terrazoo",
+        "link": "https://www.flickr.com/photos/stefan_schlegel_animals/55080475832/",
+        "image_url": "https://live.staticflickr.com/65535/55080475832_cf1dc90cce_b.jpg",
+        "published_utc": "2026-02-06T16:30:09+00:00"
       },
       {
         "category_id": "landscapes",
         "category_label": "🏞️ Peisaj",
         "source": "Flickr (landscape)",
-        "title": "Lancashire Hills",
-        "link": "https://www.flickr.com/photos/201030629@N02/55081501178/",
-        "image_url": "https://live.staticflickr.com/65535/55081501178_db6c00b04b_z.jpg",
-        "published_utc": "2026-02-06T15:43:22+00:00"
+        "title": "Winter Leaves",
+        "link": "https://www.flickr.com/photos/159210083@N04/55081630284/",
+        "image_url": "https://live.staticflickr.com/65535/55081630284_bbfafc7944_b.jpg",
+        "published_utc": "2026-02-06T16:31:32+00:00"
       }
     ],
     "joke": [
@@ -349,9 +409,9 @@
       {
         "date_utc": "2026-02-06",
         "source": "TimesNewRoman",
-        "title": "Ziua Cârtiței! Bolojan nu și-a văzut umbra, urmează încă 6 luni de mărit taxe",
+        "title": "Regrete târzii. Mulți români realizează că și-au făcut tatuaje în loc să-și cumpere un cojoc",
         "summary": "Cotidian independent de umor voluntar",
-        "link": "https://www.timesnewroman.ro/politic/ziua-cartitei-bolojan-nu-si-a-vazut-umbra-urmeaza-inca-6-luni-de-marit-taxe/",
+        "link": "https://www.timesnewroman.ro/life-death/regrete-tarzii-multi-romani-realizeaza-ca-si-au-facut-tatuaje-in-loc-sa-si-cumpere-un-cojoc/",
         "note": "Satiră — nu este știre reală."
       }
     ]
