@@ -1,7 +1,37 @@
 {
-  "generated_utc": "2026-02-06T15:12:28+00:00",
-  "count": 9,
+  "generated_utc": "2026-02-06T15:31:15+00:00",
+  "count": 11,
   "items": [
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Fondurile pentru proiectele de apă trebuie prioritizate în viitorul buget UE, avertizează ministrul Mediului, Diana Buzoianu",
+      "summary": "Este important pentru România ca viitorul Cadru Financiar Multianual 2028-2034 să acorde fonduri specifice pentru proiectele legate de apă, iar investiţiile ar trebui să se concentreze pe gestionarea durabilă a apei, dar şi pe cercetarea, inovarea şi digitalizarea în acest sector, a transmis ministra Mediului, Apelor şi Pădurilor, Diana Buzoianu, la un eveniment ce a avut loc în Cipru.",
+      "link": "https://www.digi24.ro/stiri/actualitate/politica/fondurile-pentru-proiectele-de-apa-trebuie-prioritizate-in-viitorul-buget-ue-avertizeaza-ministrul-mediului-diana-buzoianu-3619441",
+      "published_utc": "2026-02-06T15:29:37+00:00",
+      "score": 3
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "[P] Super Bowl LX – De ce merita sa stai treaz in noaptea de 8 februarie pentru Seahawks vs Patriots",
+      "summary": "Duminica, 8 februarie 2026, America se opreste. Literalmente. Se joaca Super Bowl LX, cel mai important meci de fotbal american al anului, finala NFL, evenimentul care combina sportul, spectacolul si banii la un nivel greu&#8230;",
+      "link": "https://hotnews.ro/p-super-bowl-lx-de-ce-merita-sa-stai-treaz-in-noaptea-de-8-februarie-pentru-seahawks-vs-patriots-2166424",
+      "published_utc": "2026-02-06T15:21:28+00:00",
+      "score": 1
+    },
+    {
+      "section": "environment",
+      "kind": "global",
+      "source": "UN News - Climate",
+      "title": "11-year streak of record global warming continues, UN weather agency warns",
+      "summary": "The past 11 years have been the warmest in the modern era, while oceans continue to heat up, too, says the UN weather agency.",
+      "link": "https://news.un.org/feed/view/en/story/2026/01/1166758",
+      "published_utc": "2026-01-14T12:00:00+00:00",
+      "score": 2
+    },
     {
       "section": "romania",
       "kind": "ro",
@@ -26,10 +56,10 @@
       "section": "environment",
       "kind": "global",
       "source": "UN News - Climate",
-      "title": "11-year streak of record global warming continues, UN weather agency warns",
-      "summary": "The past 11 years have been the warmest in the modern era, while oceans continue to heat up, too, says the UN weather agency.",
-      "link": "https://news.un.org/feed/view/en/story/2026/01/1166758",
-      "published_utc": "2026-01-14T12:00:00+00:00",
+      "title": "UN environment assembly wraps up in Nairobi",
+      "summary": "The seventh session of the United Nations Environment Assembly (UNEA-7) concluded in Nairobi, Kenya, on Friday with Member States adopting 11 resolutions, three decisions and a ministerial declaration aiming to advance solutions for a more resilient planet.&nbsp;",
+      "link": "https://news.un.org/feed/view/en/story/2025/12/1166585",
+      "published_utc": "2025-12-12T12:00:00+00:00",
       "score": 2
     },
     {
@@ -51,16 +81,6 @@
       "link": "https://www.digi24.ro/stiri/actualitate/educatie/calendarul-pentru-clasa-pregatitoare-2026-2027-cand-se-desfasoara-prima-etapa-de-inscriere-in-invatamantul-primar-3619129",
       "published_utc": "2026-02-06T12:21:03+00:00",
       "score": 1
-    },
-    {
-      "section": "environment",
-      "kind": "global",
-      "source": "UN News - Climate",
-      "title": "UN environment assembly wraps up in Nairobi",
-      "summary": "The seventh session of the United Nations Environment Assembly (UNEA-7) concluded in Nairobi, Kenya, on Friday with Member States adopting 11 resolutions, three decisions and a ministerial declaration aiming to advance solutions for a more resilient planet.&nbsp;",
-      "link": "https://news.un.org/feed/view/en/story/2025/12/1166585",
-      "published_utc": "2025-12-12T12:00:00+00:00",
-      "score": 2
     },
     {
       "section": "environment",
@@ -95,6 +115,26 @@
   ],
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Fondurile pentru proiectele de apă trebuie prioritizate în viitorul buget UE, avertizează ministrul Mediului, Diana Buzoianu",
+        "summary": "Este important pentru România ca viitorul Cadru Financiar Multianual 2028-2034 să acorde fonduri specifice pentru proiectele legate de apă, iar investiţiile ar trebui să se concentreze pe gestionarea durabilă a apei, dar şi pe cercetarea, inovarea şi digitalizarea în acest sector, a transmis ministra Mediului, Apelor şi Pădurilor, Diana Buzoianu, la un eveniment ce a avut loc în Cipru.",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/fondurile-pentru-proiectele-de-apa-trebuie-prioritizate-in-viitorul-buget-ue-avertizeaza-ministrul-mediului-diana-buzoianu-3619441",
+        "published_utc": "2026-02-06T15:29:37+00:00",
+        "score": 3
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "[P] Super Bowl LX – De ce merita sa stai treaz in noaptea de 8 februarie pentru Seahawks vs Patriots",
+        "summary": "Duminica, 8 februarie 2026, America se opreste. Literalmente. Se joaca Super Bowl LX, cel mai important meci de fotbal american al anului, finala NFL, evenimentul care combina sportul, spectacolul si banii la un nivel greu&#8230;",
+        "link": "https://hotnews.ro/p-super-bowl-lx-de-ce-merita-sa-stai-treaz-in-noaptea-de-8-februarie-pentru-seahawks-vs-patriots-2166424",
+        "published_utc": "2026-02-06T15:21:28+00:00",
+        "score": 1
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -204,19 +244,19 @@
         "category_id": "animals",
         "category_label": "🐾 Animale",
         "source": "Flickr (animals)",
-        "title": "Griechenland, Greece - Insel Rhodos, Kleine Katzen-Serie - Tschüss Rhodos, 24171",
-        "link": "https://www.flickr.com/photos/30957604@N06/55081396999/",
-        "image_url": "https://live.staticflickr.com/65535/55081396999_c6419b7bd9_b.jpg",
-        "published_utc": "2026-02-06T15:04:22+00:00"
+        "title": "Heron",
+        "link": "https://www.flickr.com/photos/dieter-kretschmer/54888830845/",
+        "image_url": "https://live.staticflickr.com/65535/54888830845_292acab977_b.jpg",
+        "published_utc": "2026-02-06T15:20:26+00:00"
       },
       {
         "category_id": "landscapes",
         "category_label": "🏞️ Peisaj",
         "source": "Flickr (landscape)",
-        "title": "20260129_101622",
-        "link": "https://www.flickr.com/photos/26849514@N06/55081621375/",
-        "image_url": "https://live.staticflickr.com/65535/55081621375_4021e70cd9_b.jpg",
-        "published_utc": "2026-02-06T15:10:27+00:00"
+        "title": "Dragonfly",
+        "link": "https://www.flickr.com/photos/dieter-kretschmer/54888107377/",
+        "image_url": "https://live.staticflickr.com/65535/54888107377_87271ca6b9_b.jpg",
+        "published_utc": "2026-02-06T15:20:24+00:00"
       }
     ],
     "joke": [
@@ -229,9 +269,9 @@
       {
         "date_utc": "2026-02-06",
         "source": "TimesNewRoman",
-        "title": "Regrete târzii. Mulți români realizează că și-au făcut tatuaje în loc să-și cumpere un cojoc",
+        "title": "Greșeală sau premeditare? Deputații au votat un proiect de lege privind amanta obligatorie",
         "summary": "Cotidian independent de umor voluntar",
-        "link": "https://www.timesnewroman.ro/life-death/regrete-tarzii-multi-romani-realizeaza-ca-si-au-facut-tatuaje-in-loc-sa-si-cumpere-un-cojoc/",
+        "link": "https://www.timesnewroman.ro/politic/greseala-sau-premeditare-deputatii-au-votat-un-proiect-de-lege-privind-amanta-obligatorie/",
         "note": "Satiră — nu este știre reală."
       }
     ]
