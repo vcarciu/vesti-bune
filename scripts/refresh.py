@@ -72,6 +72,16 @@ def get_entry_summary(entry: Dict[str, Any]) -> str:
     return ""
 
 
+def fetch_url_with_final(url: str) -> Tuple[Optional[str], Optional[str]]:
+    try:
+        r = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=20, allow_redirects=True)
+        if r.status_code == 200:
+            return r.text, r.url
+    except Exception:
+        return None, None
+    return None, None
+
+
 def deepl_translate(text: str, target_lang: str = "RO") -> Optional[str]:
     key = os.getenv("DEEPL_API_KEY", "").strip()
     if not key or not text.strip():
@@ -100,49 +110,57 @@ def deepl_translate(text: str, target_lang: str = "RO") -> Optional[str]:
 
     return None
 
+
 NEGATIVE_KEYWORDS = [
-  "război","razboi","invaz","atac","bombard","rachet","dron","front","armată","armata",
-  "solda","nato","ucrain","rusi","rusia","moscov","kiev","zelensk","putin",
-  "israel","gaza","palestin","hamas","iran","sir","yemen",
+    # război / conflict
+    "război", "razboi", "invaz", "atac", "bombard", "rachet", "dron", "front", "armată", "armata",
+    "solda", "nato", "ucrain", "rusi", "rusia", "moscov", "kiev", "zelensk", "putin",
+    "israel", "gaza", "palestin", "hamas", "iran", "sir", "yemen",
 
-  "crim","omor","ucis","înjungh","injungh","împușc","impusc","violent","agresi",
-  "viol","răpit","rapit","tâlhăr","talhar","jaf","furt","drog",
-  "arest","reținut","retinut","perchezi","anchet","procuror","parchet","dna","diicot",
-  "dosar","inculpat","trimis în judecată","trimis in judecata","condamnat","sentin",
+    # crimă / violență / ordine publică
+    "crim", "omor", "ucis", "înjungh", "injungh", "împușc", "impusc", "violent", "agresi",
+    "viol", "răpit", "rapit", "tâlhăr", "talhar", "jaf", "furt", "drog",
+    "arest", "reținut", "retinut", "perchezi", "anchet", "procuror", "parchet", "dna", "diicot",
+    "dosar", "inculpat", "trimis în judecată", "trimis in judecata", "condamnat", "sentin",
 
-  "accident","colizi","exploz","incend","inunda","cutremur","dezastru","uragan","tornad",
-  "victim","morți","morti","răniți","raniti",
+    # accidente / dezastre
+    "accident", "colizi", "exploz", "incend", "inunda", "cutremur", "dezastru", "uragan", "tornad",
+    "victim", "morți", "morti", "răniți", "raniti",
 
-  "corup","mită","mita","șpag","spag","fraud","scandal",
+    # corupție / scandal / fraudă
+    "corup", "mită", "mita", "șpag", "spag", "fraud", "scandal",
 
-  "faliment","colaps","criz","scumpir","infla","reces","șomaj","somaj",
+    # economie “nasol” / panică
+    "faliment", "colaps", "criz", "scumpir", "infla", "reces", "șomaj", "somaj",
 ]
 
 SOFT_NEGATIVE = [
-  "politic","guvern","parlament","aleger","ministr","președ","presed",
-  "controvers","tensiun","protest","grev",
+    "politic", "guvern", "parlament", "aleger", "ministr", "președ", "presed",
+    "controvers", "tensiun", "protest", "grev",
 ]
 
 POSITIVE_STRONG = [
-  "medalie de aur","medalie de argint","medalie de bronz",
-  "locul întâi","locul intai","campion","campioan","olimpiad","record",
-  "a câștigat","a castigat",
+    # performanță / premii
+    "medalie de aur", "medalie de argint", "medalie de bronz",
+    "locul întâi", "locul intai", "campion", "campioan", "olimpiad", "record",
+    "a câștigat", "a castigat",
 
-  "vindec","tratament nou","terapie nou","vaccin","imuniz",
-  "rezultate promițătoare","rezultate promitatoare","remisie","supraviețuire","supravietuire",
+    # medical
+    "vindec", "tratament nou", "terapie nou", "vaccin", "imuniz",
+    "rezultate promițătoare", "rezultate promitatoare", "remisie", "supraviețuire", "supravietuire",
 
-  "salvat","au salvat","adopț","adopt","voluntar","donat",
-  "spital nou","secție nou","sectie nou","inaugur",
+    # proiecte bune / comunitate
+    "salvat", "au salvat", "adopț", "adopt", "voluntar", "donat",
+    "spital nou", "secție nou", "sectie nou", "inaugur",
 ]
 
 POSITIVE_WEAK = [
-  "inova","descoper","cercet","studiu","test clinic","aprobat",
-  "start-up","startup","investi","finanțare","finantare","parteneriat",
-  "festival","eveniment","concert","expoziț","expozit","muzeu",
-  "drăguț","dragut","simpatic","amuzant","funny","viral",
-  "natură","natura","recicl","plant","pădure","padure","energie verde",
+    "inova", "descoper", "cercet", "studiu", "test clinic", "aprobat",
+    "start-up", "startup", "investi", "finanțare", "finantare", "parteneriat",
+    "festival", "eveniment", "concert", "expoziț", "expozit", "muzeu",
+    "drăguț", "dragut", "simpatic", "amuzant", "funny", "viral",
+    "natură", "natura", "recicl", "plant", "pădure", "padure", "energie verde",
 ]
-
 
 
 def score_item(title: str, summary: str, kind: str) -> int:
@@ -181,6 +199,20 @@ def fetch_rss(url: str) -> feedparser.FeedParserDict:
 def dedupe_key(link: str, title: str) -> str:
     base = (link or title or "").strip()
     return hashlib.sha1(base.encode("utf-8", errors="ignore")).hexdigest()
+
+
+def extract_og_image(html: str) -> Optional[str]:
+    if not html:
+        return None
+    # og:image
+    m = re.search(r'property=["\']og:image["\']\s+content=["\']([^"\']+)["\']', html, flags=re.I)
+    if m:
+        return m.group(1).strip()
+    # uneori e invers ordinea atributelor
+    m = re.search(r'content=["\']([^"\']+)["\']\s+property=["\']og:image["\']', html, flags=re.I)
+    if m:
+        return m.group(1).strip()
+    return None
 
 
 def extract_image_url(e: dict) -> Optional[str]:
@@ -238,7 +270,6 @@ def extract_image_url(e: dict) -> Optional[str]:
     return None
 
 
-
 def build_sections(cfg: Dict[str, Any]) -> Dict[str, List[Dict[str, Any]]]:
     rss_sources = cfg.get("rss_sources") or {}
     sections_def = cfg.get("sections") or []
@@ -271,10 +302,15 @@ def build_sections(cfg: Dict[str, Any]) -> Dict[str, List[Dict[str, Any]]]:
                 dt = parse_entry_datetime(e)
                 published = (dt or datetime.now(timezone.utc)).replace(microsecond=0)
 
-                score, allowed = score_item(section_id, title, summary, filters_cfg)
-                if not allowed:
+                # kind trebuie stabilit înainte de scoring
+                kind = "ro" if section_id == "romania" else "global"
+
+                # strict filtering (RO hard, global doar hard-negative)
+                score = score_item(title, summary, kind)
+                if score < 0:
                     continue
 
+                # praguri opționale per secțiune (dacă există în config)
                 thr = int(thresholds.get(section_id, 0))
                 if score < thr:
                     continue
@@ -283,8 +319,6 @@ def build_sections(cfg: Dict[str, Any]) -> Dict[str, List[Dict[str, Any]]]:
                 if key in seen:
                     continue
                 seen.add(key)
-
-                kind = "ro" if section_id == "romania" else "global"
 
                 item: Dict[str, Any] = {
                     "section": section_id,
@@ -297,6 +331,7 @@ def build_sections(cfg: Dict[str, Any]) -> Dict[str, List[Dict[str, Any]]]:
                     "score": score,
                 }
 
+                # traduceri (opțional, doar dacă ai key; dacă nu, nu face nimic)
                 if kind == "global":
                     tr_title = deepl_translate(title) or None
                     tr_sum = deepl_translate(summary) or None
@@ -332,30 +367,19 @@ def build_joke() -> Optional[Dict[str, Any]]:
         "date_utc": day,
         "text": jokes[idx]
     }
-    
-def fetch_url_with_final(url: str) -> Tuple[Optional[str], Optional[str]]:
-    try:
-        r = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=20, allow_redirects=True)
-        if r.status_code == 200:
-            return r.text, r.url
-    except Exception:
-        return None, None
-    return None, None
 
 
-def extract_og_image(html: str) -> Optional[str]:
+def extract_meta_description(html: str) -> str:
     if not html:
-        return None
-    # og:image
-    m = re.search(r'property=["\']og:image["\']\s+content=["\']([^"\']+)["\']', html, flags=re.I)
+        return ""
+    # og:description
+    m = re.search(r'property=["\']og:description["\']\s+content=["\']([^"\']+)["\']', html, flags=re.I)
     if m:
-        return m.group(1).strip()
-    # uneori e invers ordinea atributelor
-    m = re.search(r'content=["\']([^"\']+)["\']\s+property=["\']og:image["\']', html, flags=re.I)
+        return strip_html(m.group(1)).strip()
+    m = re.search(r'<meta\s+name=["\']description["\']\s+content=["\']([^"\']+)["\']', html, flags=re.I)
     if m:
-        return m.group(1).strip()
-    return None
-
+        return strip_html(m.group(1)).strip()
+    return ""
 
 
 def build_photos(cfg: Dict[str, Any]) -> List[Dict[str, Any]]:
@@ -432,38 +456,6 @@ def build_photos(cfg: Dict[str, Any]) -> List[Dict[str, Any]]:
     return out[:3]
 
 
-
-def fetch_url(url: str) -> Optional[str]:
-    try:
-        r = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=20)
-        if r.status_code == 200:
-            return r.text
-    except Exception:
-        return None
-    return None
-
-
-def pick_timesnewroman_article(homepage_html: str) -> Optional[str]:
-    # Find first article-like link on homepage
-    # Keep it simple & robust: pick first href that looks like a post and is on timesnewroman.ro
-    # Exclude obvious non-article paths.
-    hrefs = re.findall(r'href=["\'](https?://www\.timesnewroman\.ro/[^"\']+)["\']', homepage_html, flags=re.I)
-    if not hrefs:
-        hrefs = re.findall(r'href=["\'](/[^"\']+)["\']', homepage_html, flags=re.I)
-        hrefs = ["https://www.timesnewroman.ro" + h for h in hrefs if h.startswith("/")]
-
-    for h in hrefs:
-        if not h.startswith("https://www.timesnewroman.ro/"):
-            continue
-        # reject some paths
-        if any(bad in h for bad in ["/category/", "/tag/", "/author/", "/page/", "/wp-", "feed", "rss", "#"]):
-            continue
-        # looks like content page
-        if len(h.split("/")) >= 5:
-            return h
-    return None
-
-
 def get_page_title(html: str) -> str:
     m = re.search(r"<title>\s*(.*?)\s*</title>", html, flags=re.I | re.S)
     if m:
@@ -471,73 +463,6 @@ def get_page_title(html: str) -> str:
         t = t.replace(" - Times New Roman", "").replace(" | Times New Roman", "").strip()
         return t
     return "TimesNewRoman"
-
-
-def is_premium_tnr(html: str) -> bool:
-    """
-    Detectare premium *specifică*, ca să nu blocăm pagini normale unde 'abonament' apare în footer.
-    """
-    if not html:
-        return False
-    h = normalize_text(html)
-
-    # dacă nu există deloc "tnr premium", considerăm non-premium
-    if "tnr premium" not in h:
-        return False
-
-    # semnale de paywall / abonare (mai specifice)
-    paywall_markers = [
-        "doar pentru abonati",
-        "continua cu abonament",
-        "aboneaza-te",
-        "devino abonat",
-        "continut premium",
-        "articol premium",
-        "acest articol este disponibil",
-    ]
-    return any(m in h for m in paywall_markers)
-
-
-def looks_like_paywall(final_url: str, html: str) -> bool:
-    u = (final_url or "").lower()
-    h = normalize_text(html or "")
-
-    # URL final suspect (redirect la premium/abonare/login)
-    if any(x in u for x in ["premium", "abon", "subscribe", "login", "cont"]):
-        return True
-
-    # markeri specifici de paywall (nu generici)
-    markers = [
-        "continut premium",
-        "doar pentru abonati",
-        "devino abonat",
-        "continua cu abonament",
-        "aboneaza-te pentru a citi",
-    ]
-    return any(m in h for m in markers)
-
-
-def extract_meta_description(html: str) -> str:
-    if not html:
-        return ""
-    # og:description
-    m = re.search(r'property=["\']og:description["\']\s+content=["\']([^"\']+)["\']', html, flags=re.I)
-    if m:
-        return strip_html(m.group(1)).strip()
-    m = re.search(r'<meta\s+name=["\']description["\']\s+content=["\']([^"\']+)["\']', html, flags=re.I)
-    if m:
-        return strip_html(m.group(1)).strip()
-    return ""
-
-
-def fetch_url_with_final(url: str) -> Tuple[Optional[str], Optional[str]]:
-    try:
-        r = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=20, allow_redirects=True)
-        if r.status_code == 200:
-            return r.text, r.url
-    except Exception:
-        return None, None
-    return None, None
 
 
 def looks_like_tnr_premium(final_url: str, html: str) -> bool:
@@ -594,8 +519,7 @@ def build_satire(cfg: Dict[str, Any]) -> List[Dict[str, Any]]:
                 continue
             seen.add(h)
 
-            # heuristic: articol = url mai “lung”
-                        # Acceptăm DOAR articole: /<categorie>/<slug>/
+            # Acceptăm DOAR articole: /<categorie>/<slug>/
             # Excludem categorii simple: /monden/ , /sport/ etc.
             m = re.match(r"^https?://www\.timesnewroman\.ro/([^/]+)/([^/]+)/?$", h)
             if not m:
@@ -604,13 +528,11 @@ def build_satire(cfg: Dict[str, Any]) -> List[Dict[str, Any]]:
             cat = m.group(1).strip()
             slug = m.group(2).strip()
 
-            # slug trebuie să existe și să nu fie ceva generic
-            if not slug or slug in {"page", "feed"}:
+            if not cat or not slug or slug in {"page", "feed"}:
                 continue
 
             candidates.append(h)
 
-    # dacă nu găsim nimic, măcar nu trimitem la homepage: trimitem la monden (dar tu ai zis că nu vrei)
     if not candidates:
         return [{
             "date_utc": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
@@ -621,7 +543,6 @@ def build_satire(cfg: Dict[str, Any]) -> List[Dict[str, Any]]:
             "note": "Satiră — nu este știre reală."
         }]
 
-    # random real
     random.shuffle(candidates)
 
     picked_link = None
@@ -632,14 +553,15 @@ def build_satire(cfg: Dict[str, Any]) -> List[Dict[str, Any]]:
         html, final_url = fetch_url_with_final(link)
         if not html or not final_url:
             continue
-        # Dacă redirecționează în premium, îl sărim
-        if "/tnr-premium/" in (final_url.lower()):
+
+        if "/tnr-premium/" in final_url.lower():
+            continue
+        if looks_like_tnr_premium(final_url, html):
             continue
 
         picked_link = final_url
         picked_title = get_page_title(html) or "TimesNewRoman"
 
-        # rezumat: meta desc dacă există, altfel primele ~240 caractere din text
         md = extract_meta_description(html)
         if md:
             picked_summary = md.strip()
@@ -651,7 +573,6 @@ def build_satire(cfg: Dict[str, Any]) -> List[Dict[str, Any]]:
         break
 
     if not picked_link:
-        # ultim fallback: primul candidat (tot articol direct)
         picked_link = candidates[0]
         html, final_url = fetch_url_with_final(picked_link)
         picked_link = final_url or picked_link
@@ -668,16 +589,12 @@ def build_satire(cfg: Dict[str, Any]) -> List[Dict[str, Any]]:
     }]
 
 
-
-
-
 def flatten_items(sections: Dict[str, List[Dict[str, Any]]]) -> List[Dict[str, Any]]:
     """
     Feed principal: intercalăm România (ro) cu restul (global),
     ca să nu stea toate globalele grămadă.
     """
     ro = sections.get("romania", []) or []
-    # globale = medical + science + environment (toate sunt kind=global în codul tău)
     global_items = []
     for sec in ("medical", "science", "environment"):
         global_items.extend(sections.get(sec, []) or [])
@@ -702,21 +619,23 @@ def interleave_lists(a: List[Dict[str, Any]], b: List[Dict[str, Any]], pattern=(
     while len(out) < limit and (i < len(a) or j < len(b)):
         for _ in range(take_a):
             if i < len(a) and len(out) < limit:
-                out.append(a[i]); i += 1
+                out.append(a[i])
+                i += 1
         for _ in range(take_b):
             if j < len(b) and len(out) < limit:
-                out.append(b[j]); j += 1
+                out.append(b[j])
+                j += 1
 
-        # dacă una s-a terminat, ia din cealaltă
         if i >= len(a):
             while j < len(b) and len(out) < limit:
-                out.append(b[j]); j += 1
+                out.append(b[j])
+                j += 1
         if j >= len(b):
             while i < len(a) and len(out) < limit:
-                out.append(a[i]); i += 1
+                out.append(a[i])
+                i += 1
 
     return out
-
 
 
 def main() -> None:
@@ -728,7 +647,6 @@ def main() -> None:
 
     sections = build_sections(cfg)
 
-    # Add photos/joke/satire
     sections["photos"] = build_photos(cfg)
 
     joke = build_joke()
@@ -748,7 +666,12 @@ def main() -> None:
     with open(OUT_PATH, "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
 
-    print(f"Wrote {OUT_PATH} with {len(flat_items)} items; photos={len(sections.get('photos', []))} joke={len(sections.get('joke', []))} satire={len(sections.get('satire', []))}")
+    print(
+        f"Wrote {OUT_PATH} with {len(flat_items)} items; "
+        f"photos={len(sections.get('photos', []))} "
+        f"joke={len(sections.get('joke', []))} "
+        f"satire={len(sections.get('satire', []))}"
+    )
 
 
 if __name__ == "__main__":
