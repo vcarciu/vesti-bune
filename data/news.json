@@ -1,67 +1,7 @@
 {
-  "generated_utc": "2026-02-06T16:58:54+00:00",
-  "count": 18,
+  "generated_utc": "2026-02-06T17:39:03+00:00",
+  "count": 9,
   "items": [
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Agerpres",
-      "title": "Mureș: Povești neștiute despre Palatul Culturii, descoperite de elevii care l-au adoptat",
-      "summary": "",
-      "link": "https://agerpres.ro/educatie-stiinta/2026/02/06/mures-povesti-nestiute-despre-palatul-culturii-descoperite-de-elevii-care-l-au-adoptat--1525746",
-      "published_utc": "2026-02-06T16:58:23+00:00",
-      "score": 4
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Organizația Salvați Copiii cere interzicerea rețelelor sociale pentru copiii sub 13 ani. Avertisment privind dependența și abuzurile",
-      "summary": "Interzicerea totală a accesului copiilor sub 13 ani la rețelele sociale, acces condiționat și strict monitorizat pentru cei între 13 și 15 ani și sancțiuni reale pentru platformele care nu verifică vârsta utilizatorilor sunt principalele măsuri cerute de Salvați Copiii România, într-o poziție publică transmisă joi. Organizația avertizează că, în lipsa unor reguli ferme și a unor mecanisme reale de aplicare, copiii sunt expuși unor riscuri grave legate de sănătatea mintală, siguranța online și exploatarea sexuală, în contextul în care studiile recente arată utilizarea excesivă a rețelelor sociale de către minori, simptome de dependență la peste o cincime dintre copiii cu vârste cuprinse între 11 și 15 ani și zeci de mii de raportări anuale de conținut abuziv generat chiar de minori.",
-      "link": "https://www.digi24.ro/stiri/actualitate/social/organizatia-salvati-copiii-cere-interzicerea-retelelor-sociale-pentru-copiii-sub-13-ani-avertisment-privind-dependenta-si-abuzurile-3619469",
-      "published_utc": "2026-02-06T16:09:24+00:00",
-      "score": 3
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Science News",
-      "title": "Widespread use of HPV shots could mean fewer cervical cancer screenings",
-      "summary": "A modeling study of Norway, which has high HPV vaccination coverage and uniform cervical cancer screening, suggests fewer screens could be needed.",
-      "link": "https://www.sciencenews.org/article/widespread-hpv-shots-cervical-cancer",
-      "published_utc": "2026-02-02T22:30:07+00:00",
-      "score": 3
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Meniu cu trei stele Michelin pentru Vance și Rubio, la Milano. Măsuri sporite de securitate pentru americani la Jocurile Olimpice",
-      "summary": "Milano este un oraș blindat pentru olimpiadă. Delegația americană face valuri dinainte de deschiderea oficială de vineri seara. Vicepreședintele JD Vance și secretarul de stat Marco Rubio au luat masa împreună în oraș. Cine nu era pe lista de invitați nu s-a putut apropia la mai mult de 200 de metri de restaurantul cu pricina, anunță Digi24. Între timp, șefa guvernului italian Giorgia Meloni şi vicepreşedintele american JD Vance au salutat „valorile comune”, în ziua deschiderii Jocurilor Olimpice de la Milano Cortina, în timp ce sute de persoane au manifestat la Milano împotriva Statelor Unite, relatează AFP.",
-      "link": "https://www.digi24.ro/stiri/externe/sua/meniu-cu-trei-stele-michelin-pentru-vance-si-rubio-la-milano-masuri-sporite-de-securitate-pentru-americani-la-jocurile-olimpice-3619495",
-      "published_utc": "2026-02-06T15:50:52+00:00",
-      "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Fondurile pentru proiectele de apă trebuie prioritizate în viitorul buget UE, avertizează ministrul Mediului, Diana Buzoianu",
-      "summary": "Este important pentru România ca viitorul Cadru Financiar Multianual 2028-2034 să acorde fonduri specifice pentru proiectele legate de apă, iar investiţiile ar trebui să se concentreze pe gestionarea durabilă a apei, dar şi pe cercetarea, inovarea şi digitalizarea în acest sector, a transmis ministra Mediului, Apelor şi Pădurilor, Diana Buzoianu, la un eveniment ce a avut loc în Cipru.",
-      "link": "https://www.digi24.ro/stiri/actualitate/politica/fondurile-pentru-proiectele-de-apa-trebuie-prioritizate-in-viitorul-buget-ue-avertizeaza-ministrul-mediului-diana-buzoianu-3619441",
-      "published_utc": "2026-02-06T15:29:37+00:00",
-      "score": 4
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Science News",
-      "title": "A study hints positive thinking could strengthen vaccine immunity",
-      "summary": "Thinking positive increased a specific brain region's activity and might have heightened immune response after a shot.",
-      "link": "https://www.sciencenews.org/article/placebo-brain-activity-vaccine-antibody",
-      "published_utc": "2026-01-30T16:00:00+00:00",
-      "score": 3
-    },
     {
       "section": "romania",
       "kind": "ro",
@@ -83,6 +23,26 @@
       "score": 1
     },
     {
+      "section": "science",
+      "kind": "global",
+      "source": "Science News",
+      "title": "Widespread use of HPV shots could mean fewer cervical cancer screenings",
+      "summary": "A modeling study of Norway, which has high HPV vaccination coverage and uniform cervical cancer screening, suggests fewer screens could be needed.",
+      "link": "https://www.sciencenews.org/article/widespread-hpv-shots-cervical-cancer",
+      "published_utc": "2026-02-02T22:30:07+00:00",
+      "score": 3
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Science News",
+      "title": "A study hints positive thinking could strengthen vaccine immunity",
+      "summary": "Thinking positive increased a specific brain region's activity and might have heightened immune response after a shot.",
+      "link": "https://www.sciencenews.org/article/placebo-brain-activity-vaccine-antibody",
+      "published_utc": "2026-01-30T16:00:00+00:00",
+      "score": 3
+    },
+    {
       "section": "environment",
       "kind": "global",
       "source": "UN News - Climate",
@@ -91,26 +51,6 @@
       "link": "https://news.un.org/feed/view/en/story/2026/01/1166758",
       "published_utc": "2026-01-14T12:00:00+00:00",
       "score": 3
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Avaria de la conducta de gaz din Craiova: peste 1.300 de consumatori din oraș și alte localități, afectați. Când se reia alimentarea",
-      "summary": "Peste 1.300 de consumatori din municipiul Craiova şi din localităţile Balta Verde, Branişte, Gura Văii, Livezi, Podari şi Rovine sunt afectaţi de întreruperea furnizării gazelor naturale în urma avariei produse, joi seară, la o conductă subterană, pe o stradă din Craiova. Reprezentanţii Distrigaz Sud Reţele anunţă că reluarea alimentării se va face sâmbătă seară.",
-      "link": "https://www.digi24.ro/stiri/avaria-de-la-conducta-de-gaz-din-craiova-peste-1-300-de-consumatori-din-oras-si-alte-localitati-afectati-cand-se-reia-alimentarea-3619337",
-      "published_utc": "2026-02-06T14:17:33+00:00",
-      "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Produse expirate și insecte în depozite, descoperite la controale ANPC. Inspectorii au dat amenzi de peste 1,5 milioane de lei",
-      "summary": "Autoritatea Națională pentru Protecția Consumatorilor (ANPC) a aplicat amenzi de peste 1,5 milioane de lei în urma unor controale desfășurate la nivel național, după verificarea a peste 200 de operatori economici. În urma neregulilor descoperite, activitatea a 18 firme a fost oprită temporar, până la remedierea problemelor constatate de comisari.",
-      "link": "https://www.digi24.ro/stiri/economie/produse-expirate-si-insecte-in-depozite-descoperite-la-controale-anpc-inspectorii-au-dat-amenzi-de-peste-15-milioane-de-lei-3619251",
-      "published_utc": "2026-02-06T13:33:16+00:00",
-      "score": 1
     },
     {
       "section": "environment",
@@ -123,26 +63,6 @@
       "score": 3
     },
     {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Ministrul Finanțelor, după întâlnirea cu sindicatele și patronatele: „Statul trebuie să fie un facilitator, nu un obstacol”",
-      "summary": "Pachetul de măsuri pentru relansarea economiei României a intrat în linie dreaptă, obiectivul principal al acestora fiind pivotarea de la o economie bazată pe consum la una bazată pe investiţii şi valoare adăugată, transmite ministrul Finanţelor, Alexandru Nazare.",
-      "link": "https://www.digi24.ro/stiri/actualitate/politica/ministrul-finantelor-dupa-intalnirea-cu-sindicatele-si-patronatele-statul-trebuie-sa-fie-un-facilitator-nu-un-obstacol-3619199",
-      "published_utc": "2026-02-06T13:24:22+00:00",
-      "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Calendarul pentru clasa pregătitoare 2026-2027: Când se desfășoară prima etapă de înscriere în învățământul primar",
-      "summary": "Ministerul Educației și Cercetării a lansat în consultare publică proiectul calendarului pentru înscrierea în învățământul primar în anul școlar 2026 - 2027. Părinții ai căror copii împlinesc 6 ani până la 31 august 2026 inclusiv au obligația de a-i înscrie în clasa pregătitoare.",
-      "link": "https://www.digi24.ro/stiri/actualitate/educatie/calendarul-pentru-clasa-pregatitoare-2026-2027-cand-se-desfasoara-prima-etapa-de-inscriere-in-invatamantul-primar-3619129",
-      "published_utc": "2026-02-06T12:21:03+00:00",
-      "score": 1
-    },
-    {
       "section": "environment",
       "kind": "global",
       "source": "UN News - Climate",
@@ -151,16 +71,6 @@
       "link": "https://news.un.org/feed/view/en/story/2025/12/1166553",
       "published_utc": "2025-12-09T12:00:00+00:00",
       "score": 3
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "A început o nouă ediție Fidelis. Statul oferă dobânzi de până la 7,25% la lei și 6% la euro pentru românii care vor să investească",
-      "summary": "De vineri, 6 februarie, începe o nouă ediție a programului Fidelis, prin care Ministerul Finanțelor se împrumută de la populație prin titluri de stat destinate persoanelor fizice. Ediția din februarie se desfășoară până pe 13 februarie și aduce dobânzi neimpozabile de până la 7,25% pentru emisiunile în lei și de până la 6% pentru cele în euro.",
-      "link": "https://www.digi24.ro/stiri/actualitate/incepe-o-noua-editie-fidelis-statul-ofera-dobanzi-de-pana-la-725-la-lei-si-6-la-euro-pentru-romanii-care-vor-sa-investeasca-3619115",
-      "published_utc": "2026-02-06T12:04:56+00:00",
-      "score": 2
     },
     {
       "section": "environment",
@@ -188,46 +98,6 @@
       {
         "section": "romania",
         "kind": "ro",
-        "source": "Agerpres",
-        "title": "Mureș: Povești neștiute despre Palatul Culturii, descoperite de elevii care l-au adoptat",
-        "summary": "",
-        "link": "https://agerpres.ro/educatie-stiinta/2026/02/06/mures-povesti-nestiute-despre-palatul-culturii-descoperite-de-elevii-care-l-au-adoptat--1525746",
-        "published_utc": "2026-02-06T16:58:23+00:00",
-        "score": 4
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Organizația Salvați Copiii cere interzicerea rețelelor sociale pentru copiii sub 13 ani. Avertisment privind dependența și abuzurile",
-        "summary": "Interzicerea totală a accesului copiilor sub 13 ani la rețelele sociale, acces condiționat și strict monitorizat pentru cei între 13 și 15 ani și sancțiuni reale pentru platformele care nu verifică vârsta utilizatorilor sunt principalele măsuri cerute de Salvați Copiii România, într-o poziție publică transmisă joi. Organizația avertizează că, în lipsa unor reguli ferme și a unor mecanisme reale de aplicare, copiii sunt expuși unor riscuri grave legate de sănătatea mintală, siguranța online și exploatarea sexuală, în contextul în care studiile recente arată utilizarea excesivă a rețelelor sociale de către minori, simptome de dependență la peste o cincime dintre copiii cu vârste cuprinse între 11 și 15 ani și zeci de mii de raportări anuale de conținut abuziv generat chiar de minori.",
-        "link": "https://www.digi24.ro/stiri/actualitate/social/organizatia-salvati-copiii-cere-interzicerea-retelelor-sociale-pentru-copiii-sub-13-ani-avertisment-privind-dependenta-si-abuzurile-3619469",
-        "published_utc": "2026-02-06T16:09:24+00:00",
-        "score": 3
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Meniu cu trei stele Michelin pentru Vance și Rubio, la Milano. Măsuri sporite de securitate pentru americani la Jocurile Olimpice",
-        "summary": "Milano este un oraș blindat pentru olimpiadă. Delegația americană face valuri dinainte de deschiderea oficială de vineri seara. Vicepreședintele JD Vance și secretarul de stat Marco Rubio au luat masa împreună în oraș. Cine nu era pe lista de invitați nu s-a putut apropia la mai mult de 200 de metri de restaurantul cu pricina, anunță Digi24. Între timp, șefa guvernului italian Giorgia Meloni şi vicepreşedintele american JD Vance au salutat „valorile comune”, în ziua deschiderii Jocurilor Olimpice de la Milano Cortina, în timp ce sute de persoane au manifestat la Milano împotriva Statelor Unite, relatează AFP.",
-        "link": "https://www.digi24.ro/stiri/externe/sua/meniu-cu-trei-stele-michelin-pentru-vance-si-rubio-la-milano-masuri-sporite-de-securitate-pentru-americani-la-jocurile-olimpice-3619495",
-        "published_utc": "2026-02-06T15:50:52+00:00",
-        "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Fondurile pentru proiectele de apă trebuie prioritizate în viitorul buget UE, avertizează ministrul Mediului, Diana Buzoianu",
-        "summary": "Este important pentru România ca viitorul Cadru Financiar Multianual 2028-2034 să acorde fonduri specifice pentru proiectele legate de apă, iar investiţiile ar trebui să se concentreze pe gestionarea durabilă a apei, dar şi pe cercetarea, inovarea şi digitalizarea în acest sector, a transmis ministra Mediului, Apelor şi Pădurilor, Diana Buzoianu, la un eveniment ce a avut loc în Cipru.",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/fondurile-pentru-proiectele-de-apa-trebuie-prioritizate-in-viitorul-buget-ue-avertizeaza-ministrul-mediului-diana-buzoianu-3619441",
-        "published_utc": "2026-02-06T15:29:37+00:00",
-        "score": 4
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
         "source": "HotNews",
         "title": "[P] Super Bowl LX – De ce merita sa stai treaz in noaptea de 8 februarie pentru Seahawks vs Patriots",
         "summary": "Duminica, 8 februarie 2026, America se opreste. Literalmente. Se joaca Super Bowl LX, cel mai important meci de fotbal american al anului, finala NFL, evenimentul care combina sportul, spectacolul si banii la un nivel greu&#8230;",
@@ -244,56 +114,6 @@
         "link": "https://hotnews.ro/cine-este-adrian-cocos-care-preia-de-la-negoita-atributiile-de-primar-la-sectorul-3-a-luat-270-la-matematica-la-bac-2166321",
         "published_utc": "2026-02-06T15:07:40+00:00",
         "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Avaria de la conducta de gaz din Craiova: peste 1.300 de consumatori din oraș și alte localități, afectați. Când se reia alimentarea",
-        "summary": "Peste 1.300 de consumatori din municipiul Craiova şi din localităţile Balta Verde, Branişte, Gura Văii, Livezi, Podari şi Rovine sunt afectaţi de întreruperea furnizării gazelor naturale în urma avariei produse, joi seară, la o conductă subterană, pe o stradă din Craiova. Reprezentanţii Distrigaz Sud Reţele anunţă că reluarea alimentării se va face sâmbătă seară.",
-        "link": "https://www.digi24.ro/stiri/avaria-de-la-conducta-de-gaz-din-craiova-peste-1-300-de-consumatori-din-oras-si-alte-localitati-afectati-cand-se-reia-alimentarea-3619337",
-        "published_utc": "2026-02-06T14:17:33+00:00",
-        "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Produse expirate și insecte în depozite, descoperite la controale ANPC. Inspectorii au dat amenzi de peste 1,5 milioane de lei",
-        "summary": "Autoritatea Națională pentru Protecția Consumatorilor (ANPC) a aplicat amenzi de peste 1,5 milioane de lei în urma unor controale desfășurate la nivel național, după verificarea a peste 200 de operatori economici. În urma neregulilor descoperite, activitatea a 18 firme a fost oprită temporar, până la remedierea problemelor constatate de comisari.",
-        "link": "https://www.digi24.ro/stiri/economie/produse-expirate-si-insecte-in-depozite-descoperite-la-controale-anpc-inspectorii-au-dat-amenzi-de-peste-15-milioane-de-lei-3619251",
-        "published_utc": "2026-02-06T13:33:16+00:00",
-        "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Ministrul Finanțelor, după întâlnirea cu sindicatele și patronatele: „Statul trebuie să fie un facilitator, nu un obstacol”",
-        "summary": "Pachetul de măsuri pentru relansarea economiei României a intrat în linie dreaptă, obiectivul principal al acestora fiind pivotarea de la o economie bazată pe consum la una bazată pe investiţii şi valoare adăugată, transmite ministrul Finanţelor, Alexandru Nazare.",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/ministrul-finantelor-dupa-intalnirea-cu-sindicatele-si-patronatele-statul-trebuie-sa-fie-un-facilitator-nu-un-obstacol-3619199",
-        "published_utc": "2026-02-06T13:24:22+00:00",
-        "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Calendarul pentru clasa pregătitoare 2026-2027: Când se desfășoară prima etapă de înscriere în învățământul primar",
-        "summary": "Ministerul Educației și Cercetării a lansat în consultare publică proiectul calendarului pentru înscrierea în învățământul primar în anul școlar 2026 - 2027. Părinții ai căror copii împlinesc 6 ani până la 31 august 2026 inclusiv au obligația de a-i înscrie în clasa pregătitoare.",
-        "link": "https://www.digi24.ro/stiri/actualitate/educatie/calendarul-pentru-clasa-pregatitoare-2026-2027-cand-se-desfasoara-prima-etapa-de-inscriere-in-invatamantul-primar-3619129",
-        "published_utc": "2026-02-06T12:21:03+00:00",
-        "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "A început o nouă ediție Fidelis. Statul oferă dobânzi de până la 7,25% la lei și 6% la euro pentru românii care vor să investească",
-        "summary": "De vineri, 6 februarie, începe o nouă ediție a programului Fidelis, prin care Ministerul Finanțelor se împrumută de la populație prin titluri de stat destinate persoanelor fizice. Ediția din februarie se desfășoară până pe 13 februarie și aduce dobânzi neimpozabile de până la 7,25% pentru emisiunile în lei și de până la 6% pentru cele în euro.",
-        "link": "https://www.digi24.ro/stiri/actualitate/incepe-o-noua-editie-fidelis-statul-ofera-dobanzi-de-pana-la-725-la-lei-si-6-la-euro-pentru-romanii-care-vor-sa-investeasca-3619115",
-        "published_utc": "2026-02-06T12:04:56+00:00",
-        "score": 2
       }
     ],
     "medical": [],
@@ -385,19 +205,19 @@
         "category_id": "animals",
         "category_label": "🐾 Animale",
         "source": "Flickr (animals)",
-        "title": "Goldfinch 06/02/26.",
-        "link": "https://www.flickr.com/photos/wildview54/55081659804/",
-        "image_url": "https://live.staticflickr.com/65535/55081659804_94962dd3fc_b.jpg",
-        "published_utc": "2026-02-06T16:43:39+00:00"
+        "title": "White Gooses",
+        "link": "https://www.flickr.com/photos/204119758@N08/55081817095/",
+        "image_url": "https://live.staticflickr.com/65535/55081817095_7b6686d1b4_b.jpg",
+        "published_utc": "2026-02-06T17:25:16+00:00"
       },
       {
         "category_id": "landscapes",
         "category_label": "🏞️ Peisaj",
         "source": "Flickr (landscape)",
-        "title": "Issoria lathonia",
-        "link": "https://www.flickr.com/photos/_nurnpaarbilder_/55081652019/",
-        "image_url": "https://live.staticflickr.com/65535/55081652019_373833a774_b.jpg",
-        "published_utc": "2026-02-06T16:38:57+00:00"
+        "title": "Greece  ( Evening Approaches - Limnos Coastline at Dusk With Mount Athos in The Background) (OM-1 & OM 20mm f1.4 Prime Lens)",
+        "link": "https://www.flickr.com/photos/26747591@N08/55081474561/",
+        "image_url": "https://live.staticflickr.com/65535/55081474561_ae76dc483a_b.jpg",
+        "published_utc": "2026-02-06T17:36:13+00:00"
       }
     ],
     "joke": [
@@ -410,9 +230,9 @@
       {
         "date_utc": "2026-02-06",
         "source": "TimesNewRoman",
-        "title": "Şumudică şi-a pus aer condiţionat la geacă pentru a putea antrena în Arabia Saudită",
+        "title": "Primarii responsabili nu sparg banii pe iPhone! Piedone jr. şi-a luat doar o kendama de 4000 de lei",
         "summary": "Cotidian independent de umor voluntar",
-        "link": "https://www.timesnewroman.ro/sport/sumudica-si-a-pus-aer-conditionat-la-geaca-pentru-a-putea-antrena-in-arabia-saudita/",
+        "link": "https://www.timesnewroman.ro/sport/primarii-responsabili-nu-sparg-banii-pe-iphone-piedone-jr-si-a-luat-doar-o-kendama-de-4000-de-lei/",
         "note": "Satiră — nu este știre reală."
       }
     ]
