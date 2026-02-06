@@ -1,7 +1,67 @@
 {
-  "generated_utc": "2026-02-06T07:40:22+00:00",
+  "generated_utc": "2026-02-06T08:30:54+00:00",
   "count": 58,
   "items": [
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "„Să ne luăm soldații și echipamentele?”. Ambasadorul SUA, în conflict cu guvernarea Poloniei, în apărarea lui Trump. Premierul Tusk îi ceruse să nu dea lecții Varșoviei",
+      "summary": "Un schimb de replici postate joi seară online a ridicat tensiunea dintre Tom Rose, ambasadorul SUA la Varșovia, și politicienii aflați la guvernare. Declanșatorul: decizia președintelui parlamentului de a nu susține nominalizarea lui Donald Trump&#8230;",
+      "link": "https://hotnews.ro/sa-ne-luam-soldatii-si-echipamentele-ambasadorul-sua-in-conflict-cu-guvernarea-poloniei-in-apararea-lui-trump-premierul-tusk-ii-ceruse-sa-nu-dea-lectii-varsoviei-2165984",
+      "published_utc": "2026-02-06T08:12:53+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "Ultimatumul lui Ciucu: „Dacă nu primim 5,5 miliarde, Bucureștiul intră în faliment!”",
+      "summary": "Primarul General, Ciprian Ciucu, a anunțat deschiderea unor negocieri cu Ministerul Finanțelor și liderii coaliției de guvernare pentru a evita intrarea Municipiului București în incapacitate de plată. „Îmi bat capul acum cu Ministerul Finanţelor şi&#8230;",
+      "link": "https://hotnews.ro/ultimatumul-lui-ciucu-daca-nu-primim-55-miliarde-bucurestiul-intra-in-faliment-2165996",
+      "published_utc": "2026-02-06T08:10:39+00:00",
+      "score": 1
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "ESA",
+      "title": "The curious case of why methane spiked around Covid",
+      "summary": "With fewer cars on the road, planes in the air and factories running, the skies seemed cleaner during the Covid-19 pandemic. However, while there was a decline in pollutants such as nitrogen dioxide, scientists were surprised to see that methane surged in the early 2020s and then dropped – and now they know why.",
+      "link": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Space_for_our_climate/The_curious_case_of_why_methane_spiked_around_Covid",
+      "published_utc": "2026-02-06T07:30:00+00:00",
+      "score": 2
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "(P) HUAWEI FreeClip 2, căștile-bijuterie cu care îți poți surprinde persoana iubită de Valentine’s Day",
+      "summary": "În luna februarie, alegerea celui mai potrivit cadou de Valentine’s Day pentru persoana iubită este o misiune importantă pentru orice îndrăgostit. Dacă îți dorești altceva decât clasicele surprize de Ziua îndrăgostiților, îți propunem o variantă cu care, cu siguranță, nu vei da greș – noile căști HUAWEI FreeClip 2.",
+      "link": "https://www.digi24.ro/stiri/sci-tech/gadget/p-huawei-freeclip-2-castile-bijuterie-cu-care-iti-poti-surprinde-persoana-iubita-de-valentines-day-3618687",
+      "published_utc": "2026-02-06T08:09:20+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Ciucu: Îmi bat capul cu Ministerul Finanţelor şi în coaliţie cum să salvez Primăria. Dacă nu vom avea 5,5 miliarde, intrăm în faliment",
+      "summary": "Bucureştiul intră în faliment dacă nu va avea în acest an un buget de minimum 5,5 miliarde de lei, spune noul primar general al Capitalei, liberalul Ciprian Ciucu. Începând din 2023, Guvernele României au subfinanţat sistematic Primăria Generală, producându-i un deficit lunar de circa 200 de milioane de lei. În acest moment, deficitul acumulat a ajuns la 4 miliarde şi nu mai poate fi rostogolit, mai spune Ciucu pentru News.ro.",
+      "link": "https://www.digi24.ro/stiri/actualitate/politica/ciucu-imi-bat-capul-cu-ministerul-finantelor-si-in-coalitie-cum-sa-salvez-primaria-daca-nu-vom-avea-55-miliarde-intram-in-faliment-3618623",
+      "published_utc": "2026-02-06T07:45:28+00:00",
+      "score": 1
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "NASA Breaking News",
+      "title": "A Winter Blanket Covers North Carolina",
+      "summary": "In late January 2026, a strong, moisture-laden storm dropped snow across nearly the entire state, spanning from the Appalachians to the Atlantic Coast.",
+      "link": "https://science.nasa.gov/earth/earth-observatory/a-winter-blanket-covers-north-carolina/",
+      "published_utc": "2026-02-06T05:00:00+00:00",
+      "score": 2
+    },
     {
       "section": "romania",
       "kind": "ro",
@@ -26,10 +86,10 @@
       "section": "science",
       "kind": "global",
       "source": "NASA Breaking News",
-      "title": "A Winter Blanket Covers North Carolina",
-      "summary": "In late January 2026, a strong, moisture-laden storm dropped snow across nearly the entire state, spanning from the Appalachians to the Atlantic Coast.",
-      "link": "https://science.nasa.gov/earth/earth-observatory/a-winter-blanket-covers-north-carolina/",
-      "published_utc": "2026-02-06T05:00:00+00:00",
+      "title": "NASA Selects Two Earth System Explorers Missions",
+      "summary": "Two next-generation satellite missions announced Thursday will help NASA better understand Earth and improve capabilities to foresee environmental events and mitigate disasters. “NASA uses the unique vantage point of space to study our home planet to deliver life-saving data into the hands of disaster response and decision-makers every day for the benefit of all, while [&#8230;]",
+      "link": "https://www.nasa.gov/news-release/nasa-selects-two-earth-system-explorers-missions/",
+      "published_utc": "2026-02-05T21:10:14+00:00",
       "score": 2
     },
     {
@@ -56,10 +116,10 @@
       "section": "science",
       "kind": "global",
       "source": "NASA Breaking News",
-      "title": "NASA Selects Two Earth System Explorers Missions",
-      "summary": "Two next-generation satellite missions announced Thursday will help NASA better understand Earth and improve capabilities to foresee environmental events and mitigate disasters. “NASA uses the unique vantage point of space to study our home planet to deliver life-saving data into the hands of disaster response and decision-makers every day for the benefit of all, while [&#8230;]",
-      "link": "https://www.nasa.gov/news-release/nasa-selects-two-earth-system-explorers-missions/",
-      "published_utc": "2026-02-05T21:10:14+00:00",
+      "title": "Career Spotlight: Welder (Ages 14-18)",
+      "summary": "What does a welder do? A welder uses tools that join two or more parts through forces such as heat or pressure. Metals are the materials most commonly used in welding, but it&#8217;s also possible to weld thermoplastics or wood. Welders use their hands, skills, and problem-solving abilities to create something new. At NASA, welders [&#8230;]",
+      "link": "https://www.nasa.gov/learning-resources/career-spotlight-welder-ages-14-18/",
+      "published_utc": "2026-02-05T19:35:15+00:00",
       "score": 2
     },
     {
@@ -86,10 +146,10 @@
       "section": "science",
       "kind": "global",
       "source": "NASA Breaking News",
-      "title": "Career Spotlight: Welder (Ages 14-18)",
-      "summary": "What does a welder do? A welder uses tools that join two or more parts through forces such as heat or pressure. Metals are the materials most commonly used in welding, but it&#8217;s also possible to weld thermoplastics or wood. Welders use their hands, skills, and problem-solving abilities to create something new. At NASA, welders [&#8230;]",
-      "link": "https://www.nasa.gov/learning-resources/career-spotlight-welder-ages-14-18/",
-      "published_utc": "2026-02-05T19:35:15+00:00",
+      "title": "NASA’s SpaceX Crew-12 to Study Adaptation to Altered Gravity",
+      "summary": "NASA’s SpaceX Crew-12 mission is preparing to launch for a long-duration science mission aboard the International Space Station. During the mission, select crew members will participate in human health studies focused on understanding how astronauts’ bodies adapt to the low-gravity environment of space, including a new study examining subtle changes in blood flow. The experiments, [&#8230;]",
+      "link": "https://www.nasa.gov/humans-in-space/nasas-spacex-crew-12-to-study-adaptation-to-altered-gravity/",
+      "published_utc": "2026-02-05T18:38:08+00:00",
       "score": 2
     },
     {
@@ -116,10 +176,10 @@
       "section": "science",
       "kind": "global",
       "source": "NASA Breaking News",
-      "title": "NASA’s SpaceX Crew-12 to Study Adaptation to Altered Gravity",
-      "summary": "NASA’s SpaceX Crew-12 mission is preparing to launch for a long-duration science mission aboard the International Space Station. During the mission, select crew members will participate in human health studies focused on understanding how astronauts’ bodies adapt to the low-gravity environment of space, including a new study examining subtle changes in blood flow. The experiments, [&#8230;]",
-      "link": "https://www.nasa.gov/humans-in-space/nasas-spacex-crew-12-to-study-adaptation-to-altered-gravity/",
-      "published_utc": "2026-02-05T18:38:08+00:00",
+      "title": "Hubble Spots Lens-Shaped Galaxy",
+      "summary": "This new Hubble image, released on Jan. 30, 2026, is the sharpest taken of NGC 7722, a lenticular galaxy located about 187 million light-years away in the constellation&#160;Pegasus. A lenticular, meaning “lens-shaped,” galaxy is a type whose classification sits between more familiar&#160;spiral galaxies&#160;and&#160;elliptical galaxies. It is also less common than spirals and ellipticals — partly [&#8230;]",
+      "link": "https://www.nasa.gov/image-article/hubble-spots-lens-shaped-galaxy/",
+      "published_utc": "2026-02-05T16:39:36+00:00",
       "score": 2
     },
     {
@@ -145,11 +205,11 @@
     {
       "section": "science",
       "kind": "global",
-      "source": "NASA Breaking News",
-      "title": "Hubble Spots Lens-Shaped Galaxy",
-      "summary": "This new Hubble image, released on Jan. 30, 2026, is the sharpest taken of NGC 7722, a lenticular galaxy located about 187 million light-years away in the constellation&#160;Pegasus. A lenticular, meaning “lens-shaped,” galaxy is a type whose classification sits between more familiar&#160;spiral galaxies&#160;and&#160;elliptical galaxies. It is also less common than spirals and ellipticals — partly [&#8230;]",
-      "link": "https://www.nasa.gov/image-article/hubble-spots-lens-shaped-galaxy/",
-      "published_utc": "2026-02-05T16:39:36+00:00",
+      "source": "ESA",
+      "title": "A presidential greeting ahead of Sophie Adenot's first spaceflight",
+      "summary": "ESA Director General Josef Aschbacher joined French President Emmanuel Macron at the Élysée Palace for an event celebrating the first spaceflight of ESA astronaut Sophie Adenot.",
+      "link": "https://www.esa.int/About_Us/Corporate_news/A_presidential_greeting_ahead_of_Sophie_Adenot_s_first_spaceflight",
+      "published_utc": "2026-02-05T15:55:00+00:00",
       "score": 2
     },
     {
@@ -175,11 +235,11 @@
     {
       "section": "science",
       "kind": "global",
-      "source": "ESA",
-      "title": "A presidential greeting ahead of Sophie Adenot's first spaceflight",
-      "summary": "ESA Director General Josef Aschbacher joined French President Emmanuel Macron at the Élysée Palace for an event celebrating the first spaceflight of ESA astronaut Sophie Adenot.",
-      "link": "https://www.esa.int/About_Us/Corporate_news/A_presidential_greeting_ahead_of_Sophie_Adenot_s_first_spaceflight",
-      "published_utc": "2026-02-05T15:55:00+00:00",
+      "source": "NASA Breaking News",
+      "title": "Curiosity Blog, Sols 4788-4797: Welcome Back from Conjunction",
+      "summary": "Written by Alex Innanen, Atmospheric Scientist at York University, Toronto Earth planning date: Friday, Jan. 30, 2026 Mars has emerged from its holiday behind the Sun, and we here on Earth have been able to reconnect with Curiosity and get back to work on Mars. Our first planning day last Friday gave Curiosity a full […]",
+      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4788-4797-welcome-back-from-conjunction/",
+      "published_utc": "2026-02-04T23:05:07+00:00",
       "score": 2
     },
     {
@@ -197,7 +257,7 @@
       "kind": "ro",
       "source": "HotNews",
       "title": "„Micile superputeri”: Statele care pot „băga” SUA sau China oricând în „buzunare”",
-      "summary": "Le lipsește forța marilor puteri, dar posedă capacități industriale de producere a bogăției sau diplomatice foarte consistente. În plus, sunt indispensabile pentru Statele Unite și China, scrie presa elenă. Jurnalistul Dan Popa trimite în fiecare&#8230;",
+      "summary": "Le lipsește forța marilor puteri, dar au capacități industriale de producere a bogăției sau diplomatice foarte consistente. În plus, sunt indispensabile pentru Statele Unite și China, scrie presa elenă. Jurnalistul Dan Popa trimite în fiecare&#8230;",
       "link": "https://hotnews.ro/micile-superputeri-statele-care-pot-baga-sua-sau-china-oricand-in-buzunare-2165916",
       "published_utc": "2026-02-06T05:17:56+00:00",
       "score": 1
@@ -206,10 +266,10 @@
       "section": "science",
       "kind": "global",
       "source": "NASA Breaking News",
-      "title": "Curiosity Blog, Sols 4788-4797: Welcome Back from Conjunction",
-      "summary": "Written by Alex Innanen, Atmospheric Scientist at York University, Toronto Earth planning date: Friday, Jan. 30, 2026 Mars has emerged from its holiday behind the Sun, and we here on Earth have been able to reconnect with Curiosity and get back to work on Mars. Our first planning day last Friday gave Curiosity a full […]",
-      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4788-4797-welcome-back-from-conjunction/",
-      "published_utc": "2026-02-04T23:05:07+00:00",
+      "title": "NASA, University of Texas Expand Research and Workforce Development",
+      "summary": "NASA’s Johnson Space Center in Houston and the University of Texas System (UT System) announced the signing of a collaborative Space Act Agreement on Jan. 9, 2026. The agreement expands research and workforce development partnership opportunities across NASA centers and UT System facilities. The agreement builds upon decades of collaboration between NASA and the UT [&#8230;]",
+      "link": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-university-of-texas-expand-research-and-workforce-development/",
+      "published_utc": "2026-02-04T22:10:15+00:00",
       "score": 2
     },
     {
@@ -235,11 +295,11 @@
     {
       "section": "science",
       "kind": "global",
-      "source": "NASA Breaking News",
-      "title": "NASA, University of Texas Expand Research and Workforce Development",
-      "summary": "NASA’s Johnson Space Center in Houston and the University of Texas System (UT System) announced the signing of a collaborative Space Act Agreement on Jan. 9, 2026. The agreement expands research and workforce development partnership opportunities across NASA centers and UT System facilities. The agreement builds upon decades of collaboration between NASA and the UT [&#8230;]",
-      "link": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-university-of-texas-expand-research-and-workforce-development/",
-      "published_utc": "2026-02-04T22:10:15+00:00",
+      "source": "ESA",
+      "title": "Explore Mars’s Flaugergues Crater",
+      "summary": "ESA’s Mars Express takes us on a journey across the southern highlands of Mars, including a flight around Flaugergues Crater.",
+      "link": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Explore_Mars_s_Flaugergues_Crater",
+      "published_utc": "2026-02-04T10:00:00+00:00",
       "score": 2
     },
     {
@@ -266,10 +326,10 @@
       "section": "science",
       "kind": "global",
       "source": "ESA",
-      "title": "Explore Mars’s Flaugergues Crater",
-      "summary": "ESA’s Mars Express takes us on a journey across the southern highlands of Mars, including a flight around Flaugergues Crater.",
-      "link": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Explore_Mars_s_Flaugergues_Crater",
-      "published_utc": "2026-02-04T10:00:00+00:00",
+      "title": "ESA's sustainability ambition",
+      "summary": "Video: 00:04:21 Space activities are unlike any others. They interact not just with Earth, but with three interconnected environments: Earth, Earth’s orbit, and the Moon and deep space. On Earth, we aim to reduce the space sector’s environmental impacts while maximising the societal and environmental benefits of our missions. In orbit, we manage space debris and collision risks to maintain safe and secure operations. For the Moon and deep space, we are laying the foundations to minimise the impact of our missions on and around other celestial bodies. Guided by our core values, ESA is committed to making its activities more sustainable, redefining how space activities are conceived, executed and shared with the world. Our objective is clear: to address the most pressing challenges and implement ambitious changes, both in our own practices and in close collaboration with our partners. Looking ahead, in support of Strategy 2040, ESA is determined to lead through ambition, action and collaboration, building a future where space is not only a domain of opportunity but also a model of sustainability, responsibility and global unity.",
+      "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/01/ESA_s_sustainability_ambition",
+      "published_utc": "2026-02-03T15:00:00+00:00",
       "score": 2
     },
     {
@@ -296,11 +356,11 @@
       "section": "science",
       "kind": "global",
       "source": "ESA",
-      "title": "ESA's sustainability ambition",
-      "summary": "Video: 00:04:21 Space activities are unlike any others. They interact not just with Earth, but with three interconnected environments: Earth, Earth’s orbit, and the Moon and deep space. On Earth, we aim to reduce the space sector’s environmental impacts while maximising the societal and environmental benefits of our missions. In orbit, we manage space debris and collision risks to maintain safe and secure operations. For the Moon and deep space, we are laying the foundations to minimise the impact of our missions on and around other celestial bodies. Guided by our core values, ESA is committed to making its activities more sustainable, redefining how space activities are conceived, executed and shared with the world. Our objective is clear: to address the most pressing challenges and implement ambitious changes, both in our own practices and in close collaboration with our partners. Looking ahead, in support of Strategy 2040, ESA is determined to lead through ambition, action and collaboration, building a future where space is not only a domain of opportunity but also a model of sustainability, responsibility and global unity.",
-      "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/01/ESA_s_sustainability_ambition",
-      "published_utc": "2026-02-03T15:00:00+00:00",
-      "score": 2
+      "title": "Moving satellites to meet a plane for rare reentry data",
+      "summary": "When satellites eventually fall back down to Earth, they mostly burn up because of the friction caused by the atmosphere. Scientific data about this atmospheric reentry process is urgently needed to design future satellites for a quick, safe and sustainable demise at the end of their mission – reducing risks on the ground and in space. The European Space Agency (ESA) successfully manoeuvred its remaining two&nbsp; Cluster &nbsp;satellites to ensure they can both be observed from a plane as they reenter the atmosphere on 31 August and 1 September 2026.",
+      "link": "https://www.esa.int/Space_Safety/Space_Debris/Moving_satellites_to_meet_a_plane_for_rare_reentry_data",
+      "published_utc": "2026-02-02T16:12:00+00:00",
+      "score": 4
     },
     {
       "section": "romania",
@@ -326,11 +386,11 @@
       "section": "science",
       "kind": "global",
       "source": "ESA",
-      "title": "Moving satellites to meet a plane for rare reentry data",
-      "summary": "When satellites eventually fall back down to Earth, they mostly burn up because of the friction caused by the atmosphere. Scientific data about this atmospheric reentry process is urgently needed to design future satellites for a quick, safe and sustainable demise at the end of their mission – reducing risks on the ground and in space. The European Space Agency (ESA) successfully manoeuvred its remaining two&nbsp; Cluster &nbsp;satellites to ensure they can both be observed from a plane as they reenter the atmosphere on 31 August and 1 September 2026.",
-      "link": "https://www.esa.int/Space_Safety/Space_Debris/Moving_satellites_to_meet_a_plane_for_rare_reentry_data",
-      "published_utc": "2026-02-02T16:12:00+00:00",
-      "score": 4
+      "title": "Laurent Jaffart appointed Director of Resilience, Navigation and Connectivity",
+      "summary": "Press Release N° 5&ndash;2026 The European Space Agency&nbsp;Council&nbsp;has approved&nbsp;the reassignment of&nbsp;Laurent&nbsp;Jaffart, currently Director of Connectivity and Secure Communications (D/CSC) to the newly created position of Director of Resilience, Navigation and Connectivity Directorate (D/RNC), which will take&nbsp;effect from 1 February 2026.",
+      "link": "https://www.esa.int/Newsroom/Press_Releases/Laurent_Jaffart_appointed_Director_of_Resilience_Navigation_and_Connectivity",
+      "published_utc": "2026-01-30T10:20:00+00:00",
+      "score": 2
     },
     {
       "section": "romania",
@@ -356,10 +416,10 @@
       "section": "science",
       "kind": "global",
       "source": "ESA",
-      "title": "Apply now to the ESA Graduate Trainee Programme",
-      "summary": "The 2026 ESA Graduate Trainee positions are now open! If you’re passionate about engineering, science, IT or business, this is your chance to turn your dreams into reality.",
-      "link": "https://www.esa.int/About_Us/Careers_at_ESA/Apply_now_to_the_ESA_Graduate_Trainee_Programme",
-      "published_utc": "2026-02-02T10:00:00+00:00",
+      "title": "Earth from Space: Rudong coast, China",
+      "summary": "Image: The Copernicus Sentinel-2 mission takes us over part of the coastal area of Rudong County on China’s eastern seaboard.",
+      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/01/Earth_from_Space_Rudong_coast_China",
+      "published_utc": "2026-01-30T09:00:00+00:00",
       "score": 2
     },
     {
@@ -380,66 +440,6 @@
       "summary": "Frații Dragoș și Adrian Pavăl, proprietarii retailerului de bricolaj Dedeman, renunță la investițiile în sectorul industrial/logistic al pieței imobiliare, din cauza randamentelor scăzute, de 7,5%, oferite de această nișă, spun sursele Profit.ro. Citiți mai mult&#8230;",
       "link": "https://hotnews.ro/exclusiv-surpriza-fratii-paval-proprietarii-dedeman-ies-de-pe-piata-logistica-2165913",
       "published_utc": "2026-02-06T04:59:39+00:00",
-      "score": 1
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "ESA",
-      "title": "Laurent Jaffart appointed Director of Resilience, Navigation and Connectivity",
-      "summary": "Press Release N° 5&ndash;2026 The European Space Agency&nbsp;Council&nbsp;has approved&nbsp;the reassignment of&nbsp;Laurent&nbsp;Jaffart, currently Director of Connectivity and Secure Communications (D/CSC) to the newly created position of Director of Resilience, Navigation and Connectivity Directorate (D/RNC), which will take&nbsp;effect from 1 February 2026.",
-      "link": "https://www.esa.int/Newsroom/Press_Releases/Laurent_Jaffart_appointed_Director_of_Resilience_Navigation_and_Connectivity",
-      "published_utc": "2026-01-30T10:20:00+00:00",
-      "score": 2
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Olguţa Vasilescu, replică pentru Radu Miruţă pe tema blocului din Craiova care ar bloca un radar militar",
-      "summary": "Primarul municipiului Craiova, Lia Olguţa Vasilescu, îi răspunde, joi seară, ministrului Apărării, Radu Miruţă, pe tema blocului cu 9 etaje care ar fi fost construit în apropierea unui depozit de muniţie şi care ar afecta radarul de la Cârcea. Ea afirmă că între bloc şi radar sunt 8 kilometri, iar linia imaginară care umeşte cele două puncte trece chiar prin mijlocul cladirii de birouri a fabricii Ford. „O dărâmăm şi pe ea?”, se întreabă Olguţa Vasilescu, precizând, de asemenea, că blocul este amplasat într-un ansamblu rezidenţial cu multe alte blocuri de 10 etaje, în apropierea unui cartier construit chiar pe un teren al MApN.",
-      "link": "https://www.digi24.ro/stiri/actualitate/politica/olguta-vasilescu-replica-pentru-radu-miruta-pe-tema-blocului-din-craiova-care-ar-bloca-un-radar-militar-3618463",
-      "published_utc": "2026-02-05T22:41:23+00:00",
-      "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "HotNews",
-      "title": "„Grosolan încălcat”. Trump respinge oferta lui Putin privind ultimul pact nuclear dintre SUA și Rusia și propune altceva",
-      "summary": "Președintele SUA, Donald Trump, a respins joi oferta omologului său rus de a prelungi voluntar, cu un an, limita privind desfășurarea armelor nucleare strategice, după expirarea pactului bilateral New START, care ținut acest tip de&#8230;",
-      "link": "https://hotnews.ro/grosolan-incalcat-trump-respinge-oferta-lui-putin-privind-ultimul-pact-nuclear-dintre-sua-si-rusia-si-propune-altceva-2165891",
-      "published_utc": "2026-02-05T22:30:44+00:00",
-      "score": 1
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "ESA",
-      "title": "Earth from Space: Rudong coast, China",
-      "summary": "Image: The Copernicus Sentinel-2 mission takes us over part of the coastal area of Rudong County on China’s eastern seaboard.",
-      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/01/Earth_from_Space_Rudong_coast_China",
-      "published_utc": "2026-01-30T09:00:00+00:00",
-      "score": 2
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "HotNews",
-      "title": "Dosarele Epstein: Cum încerca strategul MAGA Steve Bannon să obțină finanţare pentru partidele de extremă dreapta din Europa",
-      "summary": "Zeci de mesaje conţinute în ultima tranşă de dosare Epstein date publicităţii dezvăluie încercările fostului strateg-şef al lui Trump, Steve Bannon, de a-l convinge pe Jeffrey Epstein să ofere sprijin şi finanţare pentru a susţine&#8230;",
-      "link": "https://hotnews.ro/dosarele-epstein-cum-incerca-strategul-maga-steve-bannon-sa-obtina-sprijin-si-finantare-pentru-partidele-de-extrema-dreapta-din-europa-2165892",
-      "published_utc": "2026-02-05T22:23:00+00:00",
-      "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Donald Trump susține că merită să ajungă în rai: „Am făcut o mulțime de lucruri bune pentru oameni”",
-      "summary": "Președintele SUA, Donald Trump, a declarat joi că merită să ajungă în rai pentru că a făcut „o mulțime de lucruri bune pentru oameni perfecți”. Trump a declarat apoi la evenimentul National Prayer Breakfast că afirmația recentă, potrivit căreia s-ar putea să nu ajungă în rai, era, de fapt, o glumă. El a acuzat mass-media că a citat cuvânt cu cuvânt remarca sa anterioară despre viața de apoi, sugerând că reportajele nu au clarificat faptul că el glumea, anunță European Pravda.",
-      "link": "https://www.digi24.ro/stiri/externe/sua/donald-trump-sustine-ca-merita-sa-ajunga-in-rai-am-facut-o-multime-de-lucruri-bune-pentru-oameni-3618411",
-      "published_utc": "2026-02-05T21:44:33+00:00",
       "score": 1
     },
     {
@@ -589,6 +589,46 @@
         "section": "romania",
         "kind": "ro",
         "source": "HotNews",
+        "title": "„Să ne luăm soldații și echipamentele?”. Ambasadorul SUA, în conflict cu guvernarea Poloniei, în apărarea lui Trump. Premierul Tusk îi ceruse să nu dea lecții Varșoviei",
+        "summary": "Un schimb de replici postate joi seară online a ridicat tensiunea dintre Tom Rose, ambasadorul SUA la Varșovia, și politicienii aflați la guvernare. Declanșatorul: decizia președintelui parlamentului de a nu susține nominalizarea lui Donald Trump&#8230;",
+        "link": "https://hotnews.ro/sa-ne-luam-soldatii-si-echipamentele-ambasadorul-sua-in-conflict-cu-guvernarea-poloniei-in-apararea-lui-trump-premierul-tusk-ii-ceruse-sa-nu-dea-lectii-varsoviei-2165984",
+        "published_utc": "2026-02-06T08:12:53+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Ultimatumul lui Ciucu: „Dacă nu primim 5,5 miliarde, Bucureștiul intră în faliment!”",
+        "summary": "Primarul General, Ciprian Ciucu, a anunțat deschiderea unor negocieri cu Ministerul Finanțelor și liderii coaliției de guvernare pentru a evita intrarea Municipiului București în incapacitate de plată. „Îmi bat capul acum cu Ministerul Finanţelor şi&#8230;",
+        "link": "https://hotnews.ro/ultimatumul-lui-ciucu-daca-nu-primim-55-miliarde-bucurestiul-intra-in-faliment-2165996",
+        "published_utc": "2026-02-06T08:10:39+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "(P) HUAWEI FreeClip 2, căștile-bijuterie cu care îți poți surprinde persoana iubită de Valentine’s Day",
+        "summary": "În luna februarie, alegerea celui mai potrivit cadou de Valentine’s Day pentru persoana iubită este o misiune importantă pentru orice îndrăgostit. Dacă îți dorești altceva decât clasicele surprize de Ziua îndrăgostiților, îți propunem o variantă cu care, cu siguranță, nu vei da greș – noile căști HUAWEI FreeClip 2.",
+        "link": "https://www.digi24.ro/stiri/sci-tech/gadget/p-huawei-freeclip-2-castile-bijuterie-cu-care-iti-poti-surprinde-persoana-iubita-de-valentines-day-3618687",
+        "published_utc": "2026-02-06T08:09:20+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Ciucu: Îmi bat capul cu Ministerul Finanţelor şi în coaliţie cum să salvez Primăria. Dacă nu vom avea 5,5 miliarde, intrăm în faliment",
+        "summary": "Bucureştiul intră în faliment dacă nu va avea în acest an un buget de minimum 5,5 miliarde de lei, spune noul primar general al Capitalei, liberalul Ciprian Ciucu. Începând din 2023, Guvernele României au subfinanţat sistematic Primăria Generală, producându-i un deficit lunar de circa 200 de milioane de lei. În acest moment, deficitul acumulat a ajuns la 4 miliarde şi nu mai poate fi rostogolit, mai spune Ciucu pentru News.ro.",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/ciucu-imi-bat-capul-cu-ministerul-finantelor-si-in-coalitie-cum-sa-salvez-primaria-daca-nu-vom-avea-55-miliarde-intram-in-faliment-3618623",
+        "published_utc": "2026-02-06T07:45:28+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
         "title": "Cei mai buni specialiști în investiții îți spun cifrele pe care să-ți faci bugetul pe 2026, care sunt riscurile și la ce te poți aștepta în acest an",
         "summary": "Economia României intră în 2026 cu o combinație rară de creștere anemică, inflație încă ridicată și risc politic în creștere – un cocktail mai degrabă de gestionat decât de celebrat. Pentru un investitor sau un&#8230;",
         "link": "https://hotnews.ro/cei-mai-buni-specialisti-in-investitii-iti-spun-cifrele-pe-care-sa-ti-faci-bugetul-pe-2026-care-sunt-riscurile-si-la-ce-te-poti-astepta-in-acest-an-2165972",
@@ -720,7 +760,7 @@
         "kind": "ro",
         "source": "HotNews",
         "title": "„Micile superputeri”: Statele care pot „băga” SUA sau China oricând în „buzunare”",
-        "summary": "Le lipsește forța marilor puteri, dar posedă capacități industriale de producere a bogăției sau diplomatice foarte consistente. În plus, sunt indispensabile pentru Statele Unite și China, scrie presa elenă. Jurnalistul Dan Popa trimite în fiecare&#8230;",
+        "summary": "Le lipsește forța marilor puteri, dar au capacități industriale de producere a bogăției sau diplomatice foarte consistente. În plus, sunt indispensabile pentru Statele Unite și China, scrie presa elenă. Jurnalistul Dan Popa trimite în fiecare&#8230;",
         "link": "https://hotnews.ro/micile-superputeri-statele-care-pot-baga-sua-sau-china-oricand-in-buzunare-2165916",
         "published_utc": "2026-02-06T05:17:56+00:00",
         "score": 1
@@ -844,50 +884,20 @@
         "link": "https://hotnews.ro/exclusiv-surpriza-fratii-paval-proprietarii-dedeman-ies-de-pe-piata-logistica-2165913",
         "published_utc": "2026-02-06T04:59:39+00:00",
         "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Olguţa Vasilescu, replică pentru Radu Miruţă pe tema blocului din Craiova care ar bloca un radar militar",
-        "summary": "Primarul municipiului Craiova, Lia Olguţa Vasilescu, îi răspunde, joi seară, ministrului Apărării, Radu Miruţă, pe tema blocului cu 9 etaje care ar fi fost construit în apropierea unui depozit de muniţie şi care ar afecta radarul de la Cârcea. Ea afirmă că între bloc şi radar sunt 8 kilometri, iar linia imaginară care umeşte cele două puncte trece chiar prin mijlocul cladirii de birouri a fabricii Ford. „O dărâmăm şi pe ea?”, se întreabă Olguţa Vasilescu, precizând, de asemenea, că blocul este amplasat într-un ansamblu rezidenţial cu multe alte blocuri de 10 etaje, în apropierea unui cartier construit chiar pe un teren al MApN.",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/olguta-vasilescu-replica-pentru-radu-miruta-pe-tema-blocului-din-craiova-care-ar-bloca-un-radar-militar-3618463",
-        "published_utc": "2026-02-05T22:41:23+00:00",
-        "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "„Grosolan încălcat”. Trump respinge oferta lui Putin privind ultimul pact nuclear dintre SUA și Rusia și propune altceva",
-        "summary": "Președintele SUA, Donald Trump, a respins joi oferta omologului său rus de a prelungi voluntar, cu un an, limita privind desfășurarea armelor nucleare strategice, după expirarea pactului bilateral New START, care ținut acest tip de&#8230;",
-        "link": "https://hotnews.ro/grosolan-incalcat-trump-respinge-oferta-lui-putin-privind-ultimul-pact-nuclear-dintre-sua-si-rusia-si-propune-altceva-2165891",
-        "published_utc": "2026-02-05T22:30:44+00:00",
-        "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "Dosarele Epstein: Cum încerca strategul MAGA Steve Bannon să obțină finanţare pentru partidele de extremă dreapta din Europa",
-        "summary": "Zeci de mesaje conţinute în ultima tranşă de dosare Epstein date publicităţii dezvăluie încercările fostului strateg-şef al lui Trump, Steve Bannon, de a-l convinge pe Jeffrey Epstein să ofere sprijin şi finanţare pentru a susţine&#8230;",
-        "link": "https://hotnews.ro/dosarele-epstein-cum-incerca-strategul-maga-steve-bannon-sa-obtina-sprijin-si-finantare-pentru-partidele-de-extrema-dreapta-din-europa-2165892",
-        "published_utc": "2026-02-05T22:23:00+00:00",
-        "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Donald Trump susține că merită să ajungă în rai: „Am făcut o mulțime de lucruri bune pentru oameni”",
-        "summary": "Președintele SUA, Donald Trump, a declarat joi că merită să ajungă în rai pentru că a făcut „o mulțime de lucruri bune pentru oameni perfecți”. Trump a declarat apoi la evenimentul National Prayer Breakfast că afirmația recentă, potrivit căreia s-ar putea să nu ajungă în rai, era, de fapt, o glumă. El a acuzat mass-media că a citat cuvânt cu cuvânt remarca sa anterioară despre viața de apoi, sugerând că reportajele nu au clarificat faptul că el glumea, anunță European Pravda.",
-        "link": "https://www.digi24.ro/stiri/externe/sua/donald-trump-sustine-ca-merita-sa-ajunga-in-rai-am-facut-o-multime-de-lucruri-bune-pentru-oameni-3618411",
-        "published_utc": "2026-02-05T21:44:33+00:00",
-        "score": 1
       }
     ],
     "medical": [],
     "science": [
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "ESA",
+        "title": "The curious case of why methane spiked around Covid",
+        "summary": "With fewer cars on the road, planes in the air and factories running, the skies seemed cleaner during the Covid-19 pandemic. However, while there was a decline in pollutants such as nitrogen dioxide, scientists were surprised to see that methane surged in the early 2020s and then dropped – and now they know why.",
+        "link": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Space_for_our_climate/The_curious_case_of_why_methane_spiked_around_Covid",
+        "published_utc": "2026-02-06T07:30:00+00:00",
+        "score": 2
+      },
       {
         "section": "science",
         "kind": "global",
@@ -997,16 +1007,6 @@
         "link": "https://www.esa.int/Space_Safety/Space_Debris/Moving_satellites_to_meet_a_plane_for_rare_reentry_data",
         "published_utc": "2026-02-02T16:12:00+00:00",
         "score": 4
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "ESA",
-        "title": "Apply now to the ESA Graduate Trainee Programme",
-        "summary": "The 2026 ESA Graduate Trainee positions are now open! If you’re passionate about engineering, science, IT or business, this is your chance to turn your dreams into reality.",
-        "link": "https://www.esa.int/About_Us/Careers_at_ESA/Apply_now_to_the_ESA_Graduate_Trainee_Programme",
-        "published_utc": "2026-02-02T10:00:00+00:00",
-        "score": 2
       },
       {
         "section": "science",
@@ -1176,28 +1176,28 @@
         "category_id": "space",
         "category_label": "🚀 Spațiu",
         "source": "Flickr (space)",
-        "title": "Galactic Spaceship Redux: Multi-Purpose Pods for Sleep, Storage, and Emergency Escape",
-        "link": "https://www.flickr.com/photos/kjodinn/55081035265/",
-        "image_url": "https://live.staticflickr.com/65535/55081035265_d156911ca2_b.jpg",
-        "published_utc": "2026-02-06T05:31:47+00:00"
+        "title": "A Pink Aurora Australis and the Milky Way Shimmers Over the Dam",
+        "link": "https://www.flickr.com/photos/merrillie/55081155895/",
+        "image_url": "https://live.staticflickr.com/65535/55081155895_620ecef69b_b.jpg",
+        "published_utc": "2026-02-06T07:58:28+00:00"
       },
       {
         "category_id": "animals",
         "category_label": "🐾 Animale",
         "source": "Flickr (animals)",
-        "title": "fine art (5)",
-        "link": "https://www.flickr.com/photos/204027928@N03/55079879762/",
-        "image_url": "https://live.staticflickr.com/65535/55079879762_6ed8ae74d5_z.jpg",
-        "published_utc": "2026-02-06T07:39:02+00:00"
+        "title": "Batalaur",
+        "link": "https://www.flickr.com/photos/186521823@N07/55079908462/",
+        "image_url": "https://live.staticflickr.com/65535/55079908462_976f396ac2_b.jpg",
+        "published_utc": "2026-02-06T08:20:21+00:00"
       },
       {
         "category_id": "landscapes",
         "category_label": "🏞️ Peisaj",
         "source": "Flickr (landscape)",
-        "title": "South-Africa - Deep in the gorge",
-        "link": "https://www.flickr.com/photos/147200385@N06/55079874292/",
-        "image_url": "https://live.staticflickr.com/65535/55079874292_3a0df27221_b.jpg",
-        "published_utc": "2026-02-06T07:32:42+00:00"
+        "title": "Formby Beach",
+        "link": "https://www.flickr.com/photos/32173387@N04/55080808796/",
+        "image_url": "https://live.staticflickr.com/65535/55080808796_53155640a2_b.jpg",
+        "published_utc": "2026-02-06T08:25:50+00:00"
       }
     ],
     "joke": [
@@ -1210,9 +1210,9 @@
       {
         "date_utc": "2026-02-06",
         "source": "TimesNewRoman",
-        "title": "În urma acordurilor UE, vom putea vinde în Brazilia Dacii făcute de indieni la Mioveni",
+        "title": "Un român și-a pus nevasta pe un site de escorte ca să nu-i mai ceară lui bani",
         "summary": "Cotidian independent de umor voluntar",
-        "link": "https://www.timesnewroman.ro/life-death/in-urma-acordurilor-ue-vom-putea-vinde-in-brazilia-dacii-facute-de-indieni-la-mioveni/",
+        "link": "https://www.timesnewroman.ro/life-death/un-roman-si-a-pus-nevasta-pe-un-site-de-escorte-ca-sa-nu-i-mai-ceara-lui-bani/",
         "note": "Satiră — nu este știre reală."
       }
     ]
