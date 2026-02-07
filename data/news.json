@@ -1,26 +1,26 @@
 {
-  "generated_utc": "2026-02-07T12:24:41+00:00",
-  "count": 13,
+  "generated_utc": "2026-02-07T13:37:33+00:00",
+  "count": 15,
   "items": [
     {
       "section": "romania",
       "kind": "ro",
       "source": "Agerpres",
-      "title": "IGPR: Cinci persoane, cercetate pentru trafic de minori, trafic de persoane și proxenetism",
+      "title": "Un mic melc din Insulele Bermude, salvat oficial de la extincție",
       "summary": "",
-      "link": "https://agerpres.ro/justitie/2026/02/07/igpr-cinci-persoane-cercetate-pentru-trafic-de-minori-trafic-de-persoane-si-proxenetism--1525866",
-      "published_utc": "2026-02-07T12:24:16+00:00",
-      "score": 1
+      "link": "https://agerpres.ro/stiinta/2026/02/07/un-mic-melc-din-insulele-bermude-salvat-oficial-de-la-extinctie--1525877",
+      "published_utc": "2026-02-07T13:36:49+00:00",
+      "score": 3
     },
     {
       "section": "romania",
       "kind": "ro",
-      "source": "HotNews",
-      "title": "Restricții pe pârtiile din Poiana Brașov: Mai multe trasee sunt închise total sau parțial în acest weekend",
-      "summary": "Patru pârtii din Poiana Brașov sunt vizate de restricții de acces în acest weekend din cauza unor evenimente sportive. Sâmbătă, aceste trasee devin indisponibile total sau parțial pentru publicul larg, iar duminică concursurile pentru copii&#8230;",
-      "link": "https://hotnews.ro/restrictii-pe-partiile-din-poiana-brasov-mai-multe-trasee-sunt-inchise-total-sau-partial-in-acest-weekend-2166699",
-      "published_utc": "2026-02-07T08:25:03+00:00",
-      "score": 1
+      "source": "Agerpres",
+      "title": "JO 2026 - Schi alpin: Elvețianul Franjo von Allmen, campion olimpic la coborâre",
+      "summary": "",
+      "link": "https://agerpres.ro/sport-extern/2026/02/07/jo-2026---schi-alpin-elvetianul-franjo-von-allmen-campion-olimpic-la-coborare--1525874",
+      "published_utc": "2026-02-07T13:36:49+00:00",
+      "score": 3
     },
     {
       "section": "science",
@@ -30,6 +30,36 @@
       "summary": "A modeling study of Norway, which has high HPV vaccination coverage and uniform cervical cancer screening, suggests fewer screens could be needed.",
       "link": "https://www.sciencenews.org/article/widespread-hpv-shots-cervical-cancer",
       "published_utc": "2026-02-02T22:30:07+00:00",
+      "score": 3
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Agerpres",
+      "title": "IGPR: Cinci persoane, cercetate pentru trafic de minori, trafic de persoane și proxenetism",
+      "summary": "",
+      "link": "https://agerpres.ro/justitie/2026/02/07/igpr-cinci-persoane-cercetate-pentru-trafic-de-minori-trafic-de-persoane-si-proxenetism--1525866",
+      "published_utc": "2026-02-07T13:36:49+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "Dizeuza Jenny Boerescu și povestea ei incredibilă. Diva Bucureștiului interbelic, în fotografii descoperite după decenii de uitare",
+      "summary": "În Bucureștiul interbelic a existat un formidabil un duet de fete foarte frumoase, primul duet feminin din România. Era format din domnișoara Jenny Boerescu și Rada Moldovan, soția lui Cristian Vasile, faimosul trubadur care ne-a&#8230;",
+      "link": "https://hotnews.ro/dizeuza-jenny-boerescu-si-povestea-ei-incredibila-diva-bucurestiului-interbelic-in-fotografii-descoperite-dupa-decenii-de-uitare-2166824",
+      "published_utc": "2026-02-07T13:08:23+00:00",
+      "score": 1
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Science News",
+      "title": "A study hints positive thinking could strengthen vaccine immunity",
+      "summary": "Thinking positive increased a specific brain region's activity and might have heightened immune response after a shot.",
+      "link": "https://www.sciencenews.org/article/placebo-brain-activity-vaccine-antibody",
+      "published_utc": "2026-01-30T16:00:00+00:00",
       "score": 3
     },
     {
@@ -53,13 +83,13 @@
       "score": 1
     },
     {
-      "section": "science",
+      "section": "environment",
       "kind": "global",
-      "source": "Science News",
-      "title": "A study hints positive thinking could strengthen vaccine immunity",
-      "summary": "Thinking positive increased a specific brain region's activity and might have heightened immune response after a shot.",
-      "link": "https://www.sciencenews.org/article/placebo-brain-activity-vaccine-antibody",
-      "published_utc": "2026-01-30T16:00:00+00:00",
+      "source": "UN News - Climate",
+      "title": "11-year streak of record global warming continues, UN weather agency warns",
+      "summary": "The past 11 years have been the warmest in the modern era, while oceans continue to heat up, too, says the UN weather agency.",
+      "link": "https://news.un.org/feed/view/en/story/2026/01/1166758",
+      "published_utc": "2026-01-14T12:00:00+00:00",
       "score": 3
     },
     {
@@ -81,16 +111,6 @@
       "link": "https://www.digi24.ro/stiri/externe/franta-si-canada-au-inaugurat-consulate-in-capitala-groenlandei-3619981",
       "published_utc": "2026-02-06T20:45:07+00:00",
       "score": 2
-    },
-    {
-      "section": "environment",
-      "kind": "global",
-      "source": "UN News - Climate",
-      "title": "11-year streak of record global warming continues, UN weather agency warns",
-      "summary": "The past 11 years have been the warmest in the modern era, while oceans continue to heat up, too, says the UN weather agency.",
-      "link": "https://news.un.org/feed/view/en/story/2026/01/1166758",
-      "published_utc": "2026-01-14T12:00:00+00:00",
-      "score": 3
     },
     {
       "section": "environment",
@@ -139,20 +159,40 @@
         "section": "romania",
         "kind": "ro",
         "source": "Agerpres",
+        "title": "Un mic melc din Insulele Bermude, salvat oficial de la extincție",
+        "summary": "",
+        "link": "https://agerpres.ro/stiinta/2026/02/07/un-mic-melc-din-insulele-bermude-salvat-oficial-de-la-extinctie--1525877",
+        "published_utc": "2026-02-07T13:36:49+00:00",
+        "score": 3
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Agerpres",
+        "title": "JO 2026 - Schi alpin: Elvețianul Franjo von Allmen, campion olimpic la coborâre",
+        "summary": "",
+        "link": "https://agerpres.ro/sport-extern/2026/02/07/jo-2026---schi-alpin-elvetianul-franjo-von-allmen-campion-olimpic-la-coborare--1525874",
+        "published_utc": "2026-02-07T13:36:49+00:00",
+        "score": 3
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Agerpres",
         "title": "IGPR: Cinci persoane, cercetate pentru trafic de minori, trafic de persoane și proxenetism",
         "summary": "",
         "link": "https://agerpres.ro/justitie/2026/02/07/igpr-cinci-persoane-cercetate-pentru-trafic-de-minori-trafic-de-persoane-si-proxenetism--1525866",
-        "published_utc": "2026-02-07T12:24:16+00:00",
+        "published_utc": "2026-02-07T13:36:49+00:00",
         "score": 1
       },
       {
         "section": "romania",
         "kind": "ro",
         "source": "HotNews",
-        "title": "Restricții pe pârtiile din Poiana Brașov: Mai multe trasee sunt închise total sau parțial în acest weekend",
-        "summary": "Patru pârtii din Poiana Brașov sunt vizate de restricții de acces în acest weekend din cauza unor evenimente sportive. Sâmbătă, aceste trasee devin indisponibile total sau parțial pentru publicul larg, iar duminică concursurile pentru copii&#8230;",
-        "link": "https://hotnews.ro/restrictii-pe-partiile-din-poiana-brasov-mai-multe-trasee-sunt-inchise-total-sau-partial-in-acest-weekend-2166699",
-        "published_utc": "2026-02-07T08:25:03+00:00",
+        "title": "Dizeuza Jenny Boerescu și povestea ei incredibilă. Diva Bucureștiului interbelic, în fotografii descoperite după decenii de uitare",
+        "summary": "În Bucureștiul interbelic a existat un formidabil un duet de fete foarte frumoase, primul duet feminin din România. Era format din domnișoara Jenny Boerescu și Rada Moldovan, soția lui Cristian Vasile, faimosul trubadur care ne-a&#8230;",
+        "link": "https://hotnews.ro/dizeuza-jenny-boerescu-si-povestea-ei-incredibila-diva-bucurestiului-interbelic-in-fotografii-descoperite-dupa-decenii-de-uitare-2166824",
+        "published_utc": "2026-02-07T13:08:23+00:00",
         "score": 1
       },
       {
@@ -276,28 +316,28 @@
         "category_id": "space",
         "category_label": "🚀 Spațiu",
         "source": "Flickr (space)",
-        "title": "Mrs Pearl , Firefly , Beth @ Stars",
-        "link": "https://www.flickr.com/photos/35875332@N03/55081725362/",
-        "image_url": "https://live.staticflickr.com/65535/55081725362_d26e10d3cd_z.jpg",
-        "published_utc": "2026-02-07T10:57:33+00:00"
+        "title": "Even Before Sunrise; It's Already Done.",
+        "link": "https://www.flickr.com/photos/silentoneproductions/55082983088/",
+        "image_url": "https://live.staticflickr.com/65535/55082983088_7b19877f9b_b.jpg",
+        "published_utc": "2026-02-07T13:33:27+00:00"
       },
       {
         "category_id": "animals",
         "category_label": "🐾 Animale",
         "source": "Flickr (animals)",
-        "title": "Star",
-        "link": "https://www.flickr.com/photos/88642461@N05/55082541428/",
-        "image_url": "https://www.flickr.com/apps/video/stewart.swf?v=2968162862&photo_id=55082541428",
-        "published_utc": "2026-02-07T12:15:59+00:00"
+        "title": "African elephant eating grass, Samburu county, Samburu national reserve, Kenya",
+        "link": "https://www.flickr.com/photos/mytripsmypics/55083036564/",
+        "image_url": "https://live.staticflickr.com/65535/55083036564_481487fb62_b.jpg",
+        "published_utc": "2026-02-07T13:26:35+00:00"
       },
       {
         "category_id": "landscapes",
         "category_label": "🏞️ Peisaj",
         "source": "Flickr (landscape)",
-        "title": "Warrenville, IL, St. James Farm Forest Preserve,",
-        "link": "https://www.flickr.com/photos/lalobamfw/55082966084/",
-        "image_url": "https://live.staticflickr.com/65535/55082966084_c2d403edcd_b.jpg",
-        "published_utc": "2026-02-07T12:22:02+00:00"
+        "title": "Splendor",
+        "link": "https://www.flickr.com/photos/tomasnl/55082983333/",
+        "image_url": "https://live.staticflickr.com/65535/55082983333_1595d6ffc8_b.jpg",
+        "published_utc": "2026-02-07T13:32:44+00:00"
       }
     ],
     "joke": [
@@ -310,9 +350,9 @@
       {
         "date_utc": "2026-02-07",
         "source": "TimesNewRoman",
-        "title": "Regrete târzii. Mulți români realizează că și-au făcut tatuaje în loc să-și cumpere un cojoc",
+        "title": "Secretele recuperării, cu Louis Munteanu. ”Ca să dorm bine, înainte de meci beau două zile încontinuu”",
         "summary": "Cotidian independent de umor voluntar",
-        "link": "https://www.timesnewroman.ro/life-death/regrete-tarzii-multi-romani-realizeaza-ca-si-au-facut-tatuaje-in-loc-sa-si-cumpere-un-cojoc/",
+        "link": "https://www.timesnewroman.ro/sport/secretele-recuperarii-cu-louis-munteanu-ca-sa-dorm-bine-inainte-de-meci-beau-doua-zile-incontinuu/",
         "note": "Satiră — nu este știre reală."
       }
     ]
