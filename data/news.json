@@ -1,7 +1,17 @@
 {
-  "generated_utc": "2026-02-07T17:18:25+00:00",
-  "count": 20,
+  "generated_utc": "2026-02-07T18:20:42+00:00",
+  "count": 19,
   "items": [
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Agerpres",
+      "title": "Ungaria: Tisza și-a prezentat programul electoral, în care promite o taxă pe avere și adoptarea monedei euro",
+      "summary": "",
+      "link": "https://agerpres.ro/politic-extern/2026/02/07/ungaria-tisza-si-a-prezentat-programul-electoral-in-care-promite-o-taxa-pe-avere-si-adoptarea-monede--1525922",
+      "published_utc": "2026-02-07T18:20:00+00:00",
+      "score": 3
+    },
     {
       "section": "romania",
       "kind": "ro",
@@ -9,18 +19,8 @@
       "title": "O navă germană de cercetare pleacă într-o nouă expediție în Antarctica",
       "summary": "",
       "link": "https://agerpres.ro/planeta/2026/02/07/o-nava-germana-de-cercetare-pleaca-intr-o-noua-expeditie-in-antarctica--1525905",
-      "published_utc": "2026-02-07T17:17:50+00:00",
+      "published_utc": "2026-02-07T18:20:00+00:00",
       "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Agerpres",
-      "title": "Tenis: Sorana Cîrstea a câștigat turneul Transylvania Open (WTA)",
-      "summary": "",
-      "link": "https://agerpres.ro/sport/2026/02/07/tenis-sorana-cirstea-a-castigat-turneul-transylvania-open-wta--1525898",
-      "published_utc": "2026-02-07T17:17:50+00:00",
-      "score": 3
     },
     {
       "section": "science",
@@ -35,21 +35,21 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Agerpres",
-      "title": "Tenis: Cehoaica Sara Bejlek a câștigat turneul de la Abu Dhabi (WTA)",
-      "summary": "",
-      "link": "https://agerpres.ro/sport-extern/2026/02/07/tenis-cehoaica-sara-bejlek-a-castigat-turneul-de-la-abu-dhabi-wta--1525893",
-      "published_utc": "2026-02-07T17:17:50+00:00",
+      "source": "Digi24",
+      "title": "Ce i-a spus Emma Răducanu Soranei Cîrstea după finala de la Transylvania Open. Trofeul, înmânat de Simona Halep",
+      "summary": "Jucătoarea română de tenis Sorana Cîrstea a declarat, sâmbătă seară, după ce a câştigat turneul Transylvania Open, că este un vis împlinit să primească trofeul de la Simona Halep, ambasadoarea competiţiei de la Cluj-Napoca. La rândul ei, Emma Răducanu a lăudat-o pe Sorana pentru nivelul tenisului jucat.",
+      "link": "https://www.digi24.ro/stiri/sport/tenis/ce-i-a-spus-emma-raducanu-soranei-cirstea-dupa-finala-de-la-transylvania-open-trofeul-inmanat-de-simona-halep-3620883",
+      "published_utc": "2026-02-07T18:04:40+00:00",
       "score": 3
     },
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Agerpres",
-      "title": "Anselm Kiefer le celebrează pe 'femeile alchimiste' într-o expoziție la Milano",
-      "summary": "",
-      "link": "https://agerpres.ro/cultura/2026/02/07/anselm-kiefer-le-celebreaza-pe-femeile-alchimiste-intr-o-expozitie-la-milano--1525892",
-      "published_utc": "2026-02-07T17:17:50+00:00",
+      "source": "Digi24",
+      "title": "Nicușor Dan a primit invitația de la Donald Trump să participe la prima reuniune a Consiliului pentru Pace (surse Digi24)",
+      "summary": "România se află pe lista țărilor invitate de Donald Trump la reuniunea inaugurală a Consiliului Păcii de la Washington, programată pentru data de 19 februarie. Surse din Administrația Prezidențială au confirmat pentru Digi24 că invitația a fost transmisă președintelui Nicușor Dan.",
+      "link": "https://www.digi24.ro/stiri/externe/mapamond/nicusor-dan-a-primit-invitatia-de-la-donald-trump-sa-participe-la-prima-reuniune-a-consiliului-pentru-pace-surse-digi24-3620829",
+      "published_utc": "2026-02-07T17:31:18+00:00",
       "score": 1
     },
     {
@@ -183,16 +183,6 @@
       "score": 3
     },
     {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Cum au descoperit doi turiști, care au făcut sex într-un hotel din China, că au fost filmați și au ajuns pe un site pentru adulți",
-      "summary": "Doi turiști care au vizitat China au fost șocați când au descoperit că au fost filmați pe ascuns, în camera de hotel, în timp ce făceau sex, iar imaginile intime au fost postate pe canale pentru adulți. În situația celor doi se află mii de turiști care se cazează în hoteluri din China, arată o investigație BBC.",
-      "link": "https://www.digi24.ro/stiri/externe/cum-au-descoperit-doi-turisti-care-au-facut-sex-intr-un-hotel-din-china-ca-au-fost-filmati-si-au-ajuns-pe-un-site-pentru-adulti-3619013",
-      "published_utc": "2026-02-07T05:00:46+00:00",
-      "score": 2
-    },
-    {
       "section": "environment",
       "kind": "global",
       "source": "UN News - Climate",
@@ -209,40 +199,40 @@
         "section": "romania",
         "kind": "ro",
         "source": "Agerpres",
+        "title": "Ungaria: Tisza și-a prezentat programul electoral, în care promite o taxă pe avere și adoptarea monedei euro",
+        "summary": "",
+        "link": "https://agerpres.ro/politic-extern/2026/02/07/ungaria-tisza-si-a-prezentat-programul-electoral-in-care-promite-o-taxa-pe-avere-si-adoptarea-monede--1525922",
+        "published_utc": "2026-02-07T18:20:00+00:00",
+        "score": 3
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Agerpres",
         "title": "O navă germană de cercetare pleacă într-o nouă expediție în Antarctica",
         "summary": "",
         "link": "https://agerpres.ro/planeta/2026/02/07/o-nava-germana-de-cercetare-pleaca-intr-o-noua-expeditie-in-antarctica--1525905",
-        "published_utc": "2026-02-07T17:17:50+00:00",
+        "published_utc": "2026-02-07T18:20:00+00:00",
         "score": 1
       },
       {
         "section": "romania",
         "kind": "ro",
-        "source": "Agerpres",
-        "title": "Tenis: Sorana Cîrstea a câștigat turneul Transylvania Open (WTA)",
-        "summary": "",
-        "link": "https://agerpres.ro/sport/2026/02/07/tenis-sorana-cirstea-a-castigat-turneul-transylvania-open-wta--1525898",
-        "published_utc": "2026-02-07T17:17:50+00:00",
+        "source": "Digi24",
+        "title": "Ce i-a spus Emma Răducanu Soranei Cîrstea după finala de la Transylvania Open. Trofeul, înmânat de Simona Halep",
+        "summary": "Jucătoarea română de tenis Sorana Cîrstea a declarat, sâmbătă seară, după ce a câştigat turneul Transylvania Open, că este un vis împlinit să primească trofeul de la Simona Halep, ambasadoarea competiţiei de la Cluj-Napoca. La rândul ei, Emma Răducanu a lăudat-o pe Sorana pentru nivelul tenisului jucat.",
+        "link": "https://www.digi24.ro/stiri/sport/tenis/ce-i-a-spus-emma-raducanu-soranei-cirstea-dupa-finala-de-la-transylvania-open-trofeul-inmanat-de-simona-halep-3620883",
+        "published_utc": "2026-02-07T18:04:40+00:00",
         "score": 3
       },
       {
         "section": "romania",
         "kind": "ro",
-        "source": "Agerpres",
-        "title": "Tenis: Cehoaica Sara Bejlek a câștigat turneul de la Abu Dhabi (WTA)",
-        "summary": "",
-        "link": "https://agerpres.ro/sport-extern/2026/02/07/tenis-cehoaica-sara-bejlek-a-castigat-turneul-de-la-abu-dhabi-wta--1525893",
-        "published_utc": "2026-02-07T17:17:50+00:00",
-        "score": 3
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Agerpres",
-        "title": "Anselm Kiefer le celebrează pe 'femeile alchimiste' într-o expoziție la Milano",
-        "summary": "",
-        "link": "https://agerpres.ro/cultura/2026/02/07/anselm-kiefer-le-celebreaza-pe-femeile-alchimiste-intr-o-expozitie-la-milano--1525892",
-        "published_utc": "2026-02-07T17:17:50+00:00",
+        "source": "Digi24",
+        "title": "Nicușor Dan a primit invitația de la Donald Trump să participe la prima reuniune a Consiliului pentru Pace (surse Digi24)",
+        "summary": "România se află pe lista țărilor invitate de Donald Trump la reuniunea inaugurală a Consiliului Păcii de la Washington, programată pentru data de 19 februarie. Surse din Administrația Prezidențială au confirmat pentru Digi24 că invitația a fost transmisă președintelui Nicușor Dan.",
+        "link": "https://www.digi24.ro/stiri/externe/mapamond/nicusor-dan-a-primit-invitatia-de-la-donald-trump-sa-participe-la-prima-reuniune-a-consiliului-pentru-pace-surse-digi24-3620829",
+        "published_utc": "2026-02-07T17:31:18+00:00",
         "score": 1
       },
       {
@@ -324,16 +314,6 @@
         "link": "https://www.digi24.ro/digistoria/digistoria-principalele-evenimente-petrecute-pe-7-februarie-3620225",
         "published_utc": "2026-02-07T05:47:10+00:00",
         "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Cum au descoperit doi turiști, care au făcut sex într-un hotel din China, că au fost filmați și au ajuns pe un site pentru adulți",
-        "summary": "Doi turiști care au vizitat China au fost șocați când au descoperit că au fost filmați pe ascuns, în camera de hotel, în timp ce făceau sex, iar imaginile intime au fost postate pe canale pentru adulți. În situația celor doi se află mii de turiști care se cazează în hoteluri din China, arată o investigație BBC.",
-        "link": "https://www.digi24.ro/stiri/externe/cum-au-descoperit-doi-turisti-care-au-facut-sex-intr-un-hotel-din-china-ca-au-fost-filmati-si-au-ajuns-pe-un-site-pentru-adulti-3619013",
-        "published_utc": "2026-02-07T05:00:46+00:00",
-        "score": 2
       }
     ],
     "medical": [],
@@ -416,28 +396,28 @@
         "category_id": "space",
         "category_label": "🚀 Spațiu",
         "source": "Flickr (space)",
-        "title": "Consecutive StarP Photos:  02-07",
-        "link": "https://www.flickr.com/photos/silentoneproductions/55082992876/",
-        "image_url": "https://live.staticflickr.com/65535/55082992876_239492eff1_b.jpg",
-        "published_utc": "2026-02-07T16:15:00+00:00"
+        "title": "Swiss cheese",
+        "link": "https://www.flickr.com/photos/robynhooz/55082241477/",
+        "image_url": "https://live.staticflickr.com/65535/55082241477_37673ee886_b.jpg",
+        "published_utc": "2026-02-07T17:55:18+00:00"
       },
       {
         "category_id": "animals",
         "category_label": "🐾 Animale",
         "source": "Flickr (animals)",
-        "title": "Черногрудый воробей, Passer hispaniolensis transcaspicus, Spanish Sparrow",
-        "link": "https://www.flickr.com/photos/140734051@N08/55083282483/",
-        "image_url": "https://live.staticflickr.com/65535/55083282483_3c8873eb3a_b.jpg",
-        "published_utc": "2026-02-07T17:11:01+00:00"
+        "title": "_U7A2150",
+        "link": "https://www.flickr.com/photos/rpealit/55083543180/",
+        "image_url": "https://live.staticflickr.com/65535/55083543180_df03337bd2_b.jpg",
+        "published_utc": "2026-02-07T18:19:31+00:00"
       },
       {
         "category_id": "landscapes",
         "category_label": "🏞️ Peisaj",
         "source": "Flickr (landscape)",
-        "title": "Черногрудый воробей, Passer hispaniolensis transcaspicus, Spanish Sparrow",
-        "link": "https://www.flickr.com/photos/140734051@N08/55083081886/",
-        "image_url": "https://live.staticflickr.com/65535/55083081886_244526d0a9_b.jpg",
-        "published_utc": "2026-02-07T17:11:00+00:00"
+        "title": "_U7A2141",
+        "link": "https://www.flickr.com/photos/rpealit/55082277562/",
+        "image_url": "https://live.staticflickr.com/65535/55082277562_a1a38b5bee_b.jpg",
+        "published_utc": "2026-02-07T18:17:28+00:00"
       }
     ],
     "joke": [
@@ -450,9 +430,9 @@
       {
         "date_utc": "2026-02-07",
         "source": "TimesNewRoman",
-        "title": "Doi turiști de pe Via Mioritica i-au făcut de petrecanie colegului lor ca să-i fure boxa portabilă",
+        "title": "Ziua Cârtiței! Bolojan nu și-a văzut umbra, urmează încă 6 luni de mărit taxe",
         "summary": "Cotidian independent de umor voluntar",
-        "link": "https://www.timesnewroman.ro/life-death/doi-turisti-de-pe-via-mioritica-i-au-facut-de-petrecanie-colegului-lor-ca-sa-i-fure-boxa-portabila/",
+        "link": "https://www.timesnewroman.ro/politic/ziua-cartitei-bolojan-nu-si-a-vazut-umbra-urmeaza-inca-6-luni-de-marit-taxe/",
         "note": "Satiră — nu este știre reală."
       }
     ]
