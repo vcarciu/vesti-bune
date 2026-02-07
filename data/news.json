@@ -1,37 +1,7 @@
 {
-  "generated_utc": "2026-02-07T10:15:28+00:00",
-  "count": 15,
+  "generated_utc": "2026-02-07T11:14:18+00:00",
+  "count": 13,
   "items": [
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Agerpres",
-      "title": "BTA: Festivalul de street food de la Plovdiv, parte a celei de a 11-a ediții a expozițiilor Agra, Vinaria și Foodtech",
-      "summary": "",
-      "link": "https://agerpres.ro/economic-extern/2026/02/07/bta-festivalul-de-street-food-de-la-plovdiv-parte-a-celei-de-a-11-a-editii-a-expozitiilor-agra-vinar--1525829",
-      "published_utc": "2026-02-07T10:14:55+00:00",
-      "score": 2
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Agerpres",
-      "title": "VIDEO USV a cumpărat sediul unei bănci pentru o extensie; Rectorul: Ne dorim un parteneriat cu comunitatea din zonă",
-      "summary": "",
-      "link": "https://agerpres.ro/educatie-stiinta/2026/02/07/video-usv-a-cumparat-sediul-unei-banci-pentru-o-extensie-rectorul-ne-dorim-un-parteneriat-cu-comunit--1525818",
-      "published_utc": "2026-02-07T10:14:55+00:00",
-      "score": 1
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Science News",
-      "title": "Widespread use of HPV shots could mean fewer cervical cancer screenings",
-      "summary": "A modeling study of Norway, which has high HPV vaccination coverage and uniform cervical cancer screening, suggests fewer screens could be needed.",
-      "link": "https://www.sciencenews.org/article/widespread-hpv-shots-cervical-cancer",
-      "published_utc": "2026-02-02T22:30:07+00:00",
-      "score": 3
-    },
     {
       "section": "romania",
       "kind": "ro",
@@ -56,10 +26,10 @@
       "section": "science",
       "kind": "global",
       "source": "Science News",
-      "title": "A study hints positive thinking could strengthen vaccine immunity",
-      "summary": "Thinking positive increased a specific brain region's activity and might have heightened immune response after a shot.",
-      "link": "https://www.sciencenews.org/article/placebo-brain-activity-vaccine-antibody",
-      "published_utc": "2026-01-30T16:00:00+00:00",
+      "title": "Widespread use of HPV shots could mean fewer cervical cancer screenings",
+      "summary": "A modeling study of Norway, which has high HPV vaccination coverage and uniform cervical cancer screening, suggests fewer screens could be needed.",
+      "link": "https://www.sciencenews.org/article/widespread-hpv-shots-cervical-cancer",
+      "published_utc": "2026-02-02T22:30:07+00:00",
       "score": 3
     },
     {
@@ -83,13 +53,13 @@
       "score": 2
     },
     {
-      "section": "environment",
+      "section": "science",
       "kind": "global",
-      "source": "UN News - Climate",
-      "title": "11-year streak of record global warming continues, UN weather agency warns",
-      "summary": "The past 11 years have been the warmest in the modern era, while oceans continue to heat up, too, says the UN weather agency.",
-      "link": "https://news.un.org/feed/view/en/story/2026/01/1166758",
-      "published_utc": "2026-01-14T12:00:00+00:00",
+      "source": "Science News",
+      "title": "A study hints positive thinking could strengthen vaccine immunity",
+      "summary": "Thinking positive increased a specific brain region's activity and might have heightened immune response after a shot.",
+      "link": "https://www.sciencenews.org/article/placebo-brain-activity-vaccine-antibody",
+      "published_utc": "2026-01-30T16:00:00+00:00",
       "score": 3
     },
     {
@@ -111,6 +81,16 @@
       "link": "https://www.digi24.ro/stiri/externe/franta-si-canada-au-inaugurat-consulate-in-capitala-groenlandei-3619981",
       "published_utc": "2026-02-06T20:45:07+00:00",
       "score": 2
+    },
+    {
+      "section": "environment",
+      "kind": "global",
+      "source": "UN News - Climate",
+      "title": "11-year streak of record global warming continues, UN weather agency warns",
+      "summary": "The past 11 years have been the warmest in the modern era, while oceans continue to heat up, too, says the UN weather agency.",
+      "link": "https://news.un.org/feed/view/en/story/2026/01/1166758",
+      "published_utc": "2026-01-14T12:00:00+00:00",
+      "score": 3
     },
     {
       "section": "environment",
@@ -155,26 +135,6 @@
   ],
   "sections": {
     "romania": [
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Agerpres",
-        "title": "BTA: Festivalul de street food de la Plovdiv, parte a celei de a 11-a ediții a expozițiilor Agra, Vinaria și Foodtech",
-        "summary": "",
-        "link": "https://agerpres.ro/economic-extern/2026/02/07/bta-festivalul-de-street-food-de-la-plovdiv-parte-a-celei-de-a-11-a-editii-a-expozitiilor-agra-vinar--1525829",
-        "published_utc": "2026-02-07T10:14:55+00:00",
-        "score": 2
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Agerpres",
-        "title": "VIDEO USV a cumpărat sediul unei bănci pentru o extensie; Rectorul: Ne dorim un parteneriat cu comunitatea din zonă",
-        "summary": "",
-        "link": "https://agerpres.ro/educatie-stiinta/2026/02/07/video-usv-a-cumparat-sediul-unei-banci-pentru-o-extensie-rectorul-ne-dorim-un-parteneriat-cu-comunit--1525818",
-        "published_utc": "2026-02-07T10:14:55+00:00",
-        "score": 1
-      },
       {
         "section": "romania",
         "kind": "ro",
@@ -316,28 +276,28 @@
         "category_id": "space",
         "category_label": "🚀 Spațiu",
         "source": "Flickr (space)",
-        "title": "060 - Intergalactic Girlfriend",
-        "link": "https://www.flickr.com/photos/198628748@N03/55082437271/",
-        "image_url": "https://live.staticflickr.com/65535/55082437271_6eaccd2387_b.jpg",
-        "published_utc": "2026-02-07T07:25:03+00:00"
+        "title": "Mrs Pearl , Firefly , Beth @ Stars",
+        "link": "https://www.flickr.com/photos/35875332@N03/55081725362/",
+        "image_url": "https://live.staticflickr.com/65535/55081725362_d26e10d3cd_z.jpg",
+        "published_utc": "2026-02-07T10:57:33+00:00"
       },
       {
         "category_id": "animals",
         "category_label": "🐾 Animale",
         "source": "Flickr (animals)",
-        "title": "King of the Mountain",
-        "link": "https://www.flickr.com/photos/vshcherbinin/55082566421/",
-        "image_url": "https://live.staticflickr.com/65535/55082566421_141d043743_b.jpg",
-        "published_utc": "2026-02-07T10:02:47+00:00"
+        "title": "Red Fox | Vulpes vulpes | 2026 - 6",
+        "link": "https://www.flickr.com/photos/surreal-journey/55081732972/",
+        "image_url": "https://live.staticflickr.com/65535/55081732972_a0132949fc_b.jpg",
+        "published_utc": "2026-02-07T11:07:28+00:00"
       },
       {
         "category_id": "landscapes",
         "category_label": "🏞️ Peisaj",
         "source": "Flickr (landscape)",
-        "title": "Abstract landscape",
-        "link": "https://www.flickr.com/photos/153780492@N02/55082577381/",
-        "image_url": "https://live.staticflickr.com/65535/55082577381_33c6105bed_b.jpg",
-        "published_utc": "2026-02-07T10:08:32+00:00"
+        "title": "Four Willows",
+        "link": "https://www.flickr.com/photos/204071656@N02/55082633531/",
+        "image_url": "https://live.staticflickr.com/65535/55082633531_ef4e4a852a_b.jpg",
+        "published_utc": "2026-02-07T11:12:21+00:00"
       }
     ],
     "joke": [
