@@ -1,7 +1,67 @@
 {
-  "generated_utc": "2026-02-07T03:59:51+00:00",
-  "count": 14,
+  "generated_utc": "2026-02-07T05:05:43+00:00",
+  "count": 15,
   "items": [
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Agerpres",
+      "title": "Volei masculin: Corona Brașov a câștigat la Baia Mare, în Divizia A1",
+      "summary": "",
+      "link": "https://agerpres.ro/sport/2026/02/06/volei-masculin-corona-brasov-a-castigat-la-baia-mare-in-divizia-a1--1525804",
+      "published_utc": "2026-02-07T05:05:14+00:00",
+      "score": 3
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Agerpres",
+      "title": "VIDEO Franța și Canada au inaugurat consulate în capitala Groenlandei",
+      "summary": "",
+      "link": "https://agerpres.ro/politic-extern/2026/02/06/video-franta-si-canada-au-inaugurat-consulate-in-capitala-groenlandei--1525802",
+      "published_utc": "2026-02-07T05:05:14+00:00",
+      "score": 3
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Science News",
+      "title": "Widespread use of HPV shots could mean fewer cervical cancer screenings",
+      "summary": "A modeling study of Norway, which has high HPV vaccination coverage and uniform cervical cancer screening, suggests fewer screens could be needed.",
+      "link": "https://www.sciencenews.org/article/widespread-hpv-shots-cervical-cancer",
+      "published_utc": "2026-02-02T22:30:07+00:00",
+      "score": 3
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Cum au descoperit doi turiști, care au făcut sex într-un hotel din China, că au fost filmați și au ajuns pe un site pentru adulți",
+      "summary": "Doi turiști care au vizitat China au fost șocați când au descoperit că au fost filmați pe ascuns, în camera de hotel, în timp ce făceau sex, iar imaginile intime au fost postate pe canale pentru adulți. În situația celor doi se află mii de turiști care se cazează în hoteluri din China, arată o investigație BBC.",
+      "link": "https://www.digi24.ro/stiri/externe/cum-au-descoperit-doi-turisti-care-au-facut-sex-intr-un-hotel-din-china-ca-au-fost-filmati-si-au-ajuns-pe-un-site-pentru-adulti-3619013",
+      "published_utc": "2026-02-07T05:00:46+00:00",
+      "score": 2
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "Weekend trending în București, 7-8 februarie: Turneul Internațional de vin fiert, expoziția lui „Banksy de România”, Delia și Bendeac pe marile ecrane",
+      "summary": "E încă început de februarie, dar vom avea un weekend fără zăpadă, cu temperaturi pozitive, cer înnorat și ploi. De asemenea, vor fi două zile în care s-au îngrămădit multe evenimente diferite în același timp.&#8230;",
+      "link": "https://hotnews.ro/weekend-trending-in-bucuresti-7-8-februarie-turneul-international-de-vin-fiert-expozitia-lui-banksy-de-romania-delia-si-bendeac-pe-marile-ecrane-2165593",
+      "published_utc": "2026-02-07T05:00:44+00:00",
+      "score": 2
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Science News",
+      "title": "A study hints positive thinking could strengthen vaccine immunity",
+      "summary": "Thinking positive increased a specific brain region's activity and might have heightened immune response after a shot.",
+      "link": "https://www.sciencenews.org/article/placebo-brain-activity-vaccine-antibody",
+      "published_utc": "2026-01-30T16:00:00+00:00",
+      "score": 3
+    },
     {
       "section": "romania",
       "kind": "ro",
@@ -23,13 +83,13 @@
       "score": 3
     },
     {
-      "section": "science",
+      "section": "environment",
       "kind": "global",
-      "source": "Science News",
-      "title": "Widespread use of HPV shots could mean fewer cervical cancer screenings",
-      "summary": "A modeling study of Norway, which has high HPV vaccination coverage and uniform cervical cancer screening, suggests fewer screens could be needed.",
-      "link": "https://www.sciencenews.org/article/widespread-hpv-shots-cervical-cancer",
-      "published_utc": "2026-02-02T22:30:07+00:00",
+      "source": "UN News - Climate",
+      "title": "11-year streak of record global warming continues, UN weather agency warns",
+      "summary": "The past 11 years have been the warmest in the modern era, while oceans continue to heat up, too, says the UN weather agency.",
+      "link": "https://news.un.org/feed/view/en/story/2026/01/1166758",
+      "published_utc": "2026-01-14T12:00:00+00:00",
       "score": 3
     },
     {
@@ -51,56 +111,6 @@
       "link": "https://www.digi24.ro/stiri/actualitate/politica/fondurile-pentru-proiectele-de-apa-trebuie-prioritizate-in-viitorul-buget-ue-avertizeaza-ministrul-mediului-diana-buzoianu-3619441",
       "published_utc": "2026-02-06T15:29:37+00:00",
       "score": 4
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Science News",
-      "title": "A study hints positive thinking could strengthen vaccine immunity",
-      "summary": "Thinking positive increased a specific brain region's activity and might have heightened immune response after a shot.",
-      "link": "https://www.sciencenews.org/article/placebo-brain-activity-vaccine-antibody",
-      "published_utc": "2026-01-30T16:00:00+00:00",
-      "score": 3
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Avaria de la conducta de gaz din Craiova: peste 1.300 de consumatori din oraș și alte localități, afectați. Când se reia alimentarea",
-      "summary": "Peste 1.300 de consumatori din municipiul Craiova şi din localităţile Balta Verde, Branişte, Gura Văii, Livezi, Podari şi Rovine sunt afectaţi de întreruperea furnizării gazelor naturale în urma avariei produse, joi seară, la o conductă subterană, pe o stradă din Craiova. Reprezentanţii Distrigaz Sud Reţele anunţă că reluarea alimentării se va face sâmbătă seară.",
-      "link": "https://www.digi24.ro/stiri/avaria-de-la-conducta-de-gaz-din-craiova-peste-1-300-de-consumatori-din-oras-si-alte-localitati-afectati-cand-se-reia-alimentarea-3619337",
-      "published_utc": "2026-02-06T14:17:33+00:00",
-      "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Produse expirate și insecte în depozite, descoperite la controale ANPC. Inspectorii au dat amenzi de peste 1,5 milioane de lei",
-      "summary": "Autoritatea Națională pentru Protecția Consumatorilor (ANPC) a aplicat amenzi de peste 1,5 milioane de lei în urma unor controale desfășurate la nivel național, după verificarea a peste 200 de operatori economici. În urma neregulilor descoperite, activitatea a 18 firme a fost oprită temporar, până la remedierea problemelor constatate de comisari.",
-      "link": "https://www.digi24.ro/stiri/economie/produse-expirate-si-insecte-in-depozite-descoperite-la-controale-anpc-inspectorii-au-dat-amenzi-de-peste-15-milioane-de-lei-3619251",
-      "published_utc": "2026-02-06T13:33:16+00:00",
-      "score": 1
-    },
-    {
-      "section": "environment",
-      "kind": "global",
-      "source": "UN News - Climate",
-      "title": "11-year streak of record global warming continues, UN weather agency warns",
-      "summary": "The past 11 years have been the warmest in the modern era, while oceans continue to heat up, too, says the UN weather agency.",
-      "link": "https://news.un.org/feed/view/en/story/2026/01/1166758",
-      "published_utc": "2026-01-14T12:00:00+00:00",
-      "score": 3
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Ministrul Finanțelor, după întâlnirea cu sindicatele și patronatele: „Statul trebuie să fie un facilitator, nu un obstacol”",
-      "summary": "Pachetul de măsuri pentru relansarea economiei României a intrat în linie dreaptă, obiectivul principal al acestora fiind pivotarea de la o economie bazată pe consum la una bazată pe investiţii şi valoare adăugată, transmite ministrul Finanţelor, Alexandru Nazare.",
-      "link": "https://www.digi24.ro/stiri/actualitate/politica/ministrul-finantelor-dupa-intalnirea-cu-sindicatele-si-patronatele-statul-trebuie-sa-fie-un-facilitator-nu-un-obstacol-3619199",
-      "published_utc": "2026-02-06T13:24:22+00:00",
-      "score": 1
     },
     {
       "section": "environment",
@@ -148,6 +158,46 @@
       {
         "section": "romania",
         "kind": "ro",
+        "source": "Agerpres",
+        "title": "Volei masculin: Corona Brașov a câștigat la Baia Mare, în Divizia A1",
+        "summary": "",
+        "link": "https://agerpres.ro/sport/2026/02/06/volei-masculin-corona-brasov-a-castigat-la-baia-mare-in-divizia-a1--1525804",
+        "published_utc": "2026-02-07T05:05:14+00:00",
+        "score": 3
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Agerpres",
+        "title": "VIDEO Franța și Canada au inaugurat consulate în capitala Groenlandei",
+        "summary": "",
+        "link": "https://agerpres.ro/politic-extern/2026/02/06/video-franta-si-canada-au-inaugurat-consulate-in-capitala-groenlandei--1525802",
+        "published_utc": "2026-02-07T05:05:14+00:00",
+        "score": 3
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Cum au descoperit doi turiști, care au făcut sex într-un hotel din China, că au fost filmați și au ajuns pe un site pentru adulți",
+        "summary": "Doi turiști care au vizitat China au fost șocați când au descoperit că au fost filmați pe ascuns, în camera de hotel, în timp ce făceau sex, iar imaginile intime au fost postate pe canale pentru adulți. În situația celor doi se află mii de turiști care se cazează în hoteluri din China, arată o investigație BBC.",
+        "link": "https://www.digi24.ro/stiri/externe/cum-au-descoperit-doi-turisti-care-au-facut-sex-intr-un-hotel-din-china-ca-au-fost-filmati-si-au-ajuns-pe-un-site-pentru-adulti-3619013",
+        "published_utc": "2026-02-07T05:00:46+00:00",
+        "score": 2
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Weekend trending în București, 7-8 februarie: Turneul Internațional de vin fiert, expoziția lui „Banksy de România”, Delia și Bendeac pe marile ecrane",
+        "summary": "E încă început de februarie, dar vom avea un weekend fără zăpadă, cu temperaturi pozitive, cer înnorat și ploi. De asemenea, vor fi două zile în care s-au îngrămădit multe evenimente diferite în același timp.&#8230;",
+        "link": "https://hotnews.ro/weekend-trending-in-bucuresti-7-8-februarie-turneul-international-de-vin-fiert-expozitia-lui-banksy-de-romania-delia-si-bendeac-pe-marile-ecrane-2165593",
+        "published_utc": "2026-02-07T05:00:44+00:00",
+        "score": 2
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
         "source": "Digi24",
         "title": "Franţa şi Canada au inaugurat consulate în capitala Groenlandei",
         "summary": "Consulatele Franţei şi Canadei, ţări ce se opun planului administraţiei Trump de a-şi impune controlul asupra Groenlandei, au fost inaugurate vineri în capitala acestui imens teritoriu arctic, informează AFP şi dpa.",
@@ -184,36 +234,6 @@
         "link": "https://www.digi24.ro/stiri/actualitate/politica/fondurile-pentru-proiectele-de-apa-trebuie-prioritizate-in-viitorul-buget-ue-avertizeaza-ministrul-mediului-diana-buzoianu-3619441",
         "published_utc": "2026-02-06T15:29:37+00:00",
         "score": 4
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Avaria de la conducta de gaz din Craiova: peste 1.300 de consumatori din oraș și alte localități, afectați. Când se reia alimentarea",
-        "summary": "Peste 1.300 de consumatori din municipiul Craiova şi din localităţile Balta Verde, Branişte, Gura Văii, Livezi, Podari şi Rovine sunt afectaţi de întreruperea furnizării gazelor naturale în urma avariei produse, joi seară, la o conductă subterană, pe o stradă din Craiova. Reprezentanţii Distrigaz Sud Reţele anunţă că reluarea alimentării se va face sâmbătă seară.",
-        "link": "https://www.digi24.ro/stiri/avaria-de-la-conducta-de-gaz-din-craiova-peste-1-300-de-consumatori-din-oras-si-alte-localitati-afectati-cand-se-reia-alimentarea-3619337",
-        "published_utc": "2026-02-06T14:17:33+00:00",
-        "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Produse expirate și insecte în depozite, descoperite la controale ANPC. Inspectorii au dat amenzi de peste 1,5 milioane de lei",
-        "summary": "Autoritatea Națională pentru Protecția Consumatorilor (ANPC) a aplicat amenzi de peste 1,5 milioane de lei în urma unor controale desfășurate la nivel național, după verificarea a peste 200 de operatori economici. În urma neregulilor descoperite, activitatea a 18 firme a fost oprită temporar, până la remedierea problemelor constatate de comisari.",
-        "link": "https://www.digi24.ro/stiri/economie/produse-expirate-si-insecte-in-depozite-descoperite-la-controale-anpc-inspectorii-au-dat-amenzi-de-peste-15-milioane-de-lei-3619251",
-        "published_utc": "2026-02-06T13:33:16+00:00",
-        "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Ministrul Finanțelor, după întâlnirea cu sindicatele și patronatele: „Statul trebuie să fie un facilitator, nu un obstacol”",
-        "summary": "Pachetul de măsuri pentru relansarea economiei României a intrat în linie dreaptă, obiectivul principal al acestora fiind pivotarea de la o economie bazată pe consum la una bazată pe investiţii şi valoare adăugată, transmite ministrul Finanţelor, Alexandru Nazare.",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/ministrul-finantelor-dupa-intalnirea-cu-sindicatele-si-patronatele-statul-trebuie-sa-fie-un-facilitator-nu-un-obstacol-3619199",
-        "published_utc": "2026-02-06T13:24:22+00:00",
-        "score": 1
       }
     ],
     "medical": [],
@@ -305,19 +325,19 @@
         "category_id": "animals",
         "category_label": "🐾 Animale",
         "source": "Flickr (animals)",
-        "title": "87-A51A7281",
-        "link": "https://www.flickr.com/photos/200956122@N04/55082243281/",
-        "image_url": "https://live.staticflickr.com/65535/55082243281_f306846c45_b.jpg",
-        "published_utc": "2026-02-07T03:33:44+00:00"
+        "title": "Olive hides behind Marlo",
+        "link": "https://www.flickr.com/photos/ashurbanipal/55082566709/",
+        "image_url": "https://live.staticflickr.com/65535/55082566709_87e5f25723_b.jpg",
+        "published_utc": "2026-02-07T04:41:56+00:00"
       },
       {
         "category_id": "landscapes",
         "category_label": "🏞️ Peisaj",
         "source": "Flickr (landscape)",
-        "title": "Green Hills 3",
-        "link": "https://www.flickr.com/photos/joejosephs/55082262366/",
-        "image_url": "https://live.staticflickr.com/65535/55082262366_e711c2eb76_b.jpg",
-        "published_utc": "2026-02-07T03:52:35+00:00"
+        "title": "CLOUDS, JET AND A BIRD",
+        "link": "https://www.flickr.com/photos/ankawong/55082319511/",
+        "image_url": "https://live.staticflickr.com/65535/55082319511_3fd8bac5f8_b.jpg",
+        "published_utc": "2026-02-07T04:54:38+00:00"
       }
     ],
     "joke": [
