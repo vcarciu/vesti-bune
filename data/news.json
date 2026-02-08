@@ -1,97 +1,7 @@
 {
-  "generated_utc": "2026-02-08T01:26:27+00:00",
-  "count": 23,
+  "generated_utc": "2026-02-08T04:25:19+00:00",
+  "count": 17,
   "items": [
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Agerpres",
-      "title": "Baschet masculin: CSO Voluntari, noul lider al Ligii Naționale",
-      "summary": "",
-      "link": "https://agerpres.ro/sport/2026/02/07/baschet-masculin-cso-voluntari-noul-lider-al-ligii-nationale--1525951",
-      "published_utc": "2026-02-08T01:25:43+00:00",
-      "score": 3
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Agerpres",
-      "title": "Handbal masculin: Poli Timișoara a remizat cu Potaissa Turda, în campionat",
-      "summary": "",
-      "link": "https://agerpres.ro/sport/2026/02/07/handbal-masculin-poli-timisoara-a-remizat-cu-potaissa-turda-in-campionat--1525949",
-      "published_utc": "2026-02-08T01:25:43+00:00",
-      "score": 3
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Science News",
-      "title": "Widespread use of HPV shots could mean fewer cervical cancer screenings",
-      "summary": "A modeling study of Norway, which has high HPV vaccination coverage and uniform cervical cancer screening, suggests fewer screens could be needed.",
-      "link": "https://www.sciencenews.org/article/widespread-hpv-shots-cervical-cancer",
-      "published_utc": "2026-02-02T22:30:07+00:00",
-      "score": 3
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Agerpres",
-      "title": "Tenis: Paraguayul conduce România cu 2-1, în Cupa Davis, după ce a câștigat meciul de dublu",
-      "summary": "",
-      "link": "https://agerpres.ro/sport-extern/2026/02/07/tenis-paraguayul-conduce-romania-cu-2-1-in-cupa-davis-dupa-ce-a-castigat-meciul-de-dublu--1525948",
-      "published_utc": "2026-02-08T01:25:43+00:00",
-      "score": 3
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Agerpres",
-      "title": "Fotbal: CFR Cluj a câștigat derbyul cu 'U' Cluj (3-2), în Superliga",
-      "summary": "",
-      "link": "https://agerpres.ro/sport/2026/02/07/fotbal-cfr-cluj-a-castigat-derbyul-cu-u-cluj-3-2-in-superliga--1525944",
-      "published_utc": "2026-02-08T01:25:43+00:00",
-      "score": 3
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Science News",
-      "title": "A study hints positive thinking could strengthen vaccine immunity",
-      "summary": "Thinking positive increased a specific brain region's activity and might have heightened immune response after a shot.",
-      "link": "https://www.sciencenews.org/article/placebo-brain-activity-vaccine-antibody",
-      "published_utc": "2026-01-30T16:00:00+00:00",
-      "score": 3
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Agerpres",
-      "title": "Baschet masculin: U-BT Cluj-Napoca a câștigat în Serbia, în ABA League",
-      "summary": "",
-      "link": "https://agerpres.ro/sport-extern/2026/02/07/baschet-masculin-u-bt-cluj-napoca-a-castigat-in-serbia-in-aba-league--1525941",
-      "published_utc": "2026-02-08T01:25:43+00:00",
-      "score": 3
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Agerpres",
-      "title": "Handbal feminin: Gloria Bistrița a pierdut la Metz, în Liga Campionilor",
-      "summary": "",
-      "link": "https://agerpres.ro/sport-extern/2026/02/07/handbal-feminin-gloria-bistrita-a-pierdut-la-metz-in-liga-campionilor--1525936",
-      "published_utc": "2026-02-08T01:25:43+00:00",
-      "score": 3
-    },
-    {
-      "section": "environment",
-      "kind": "global",
-      "source": "UN News - Climate",
-      "title": "11-year streak of record global warming continues, UN weather agency warns",
-      "summary": "The past 11 years have been the warmest in the modern era, while oceans continue to heat up, too, says the UN weather agency.",
-      "link": "https://news.un.org/feed/view/en/story/2026/01/1166758",
-      "published_utc": "2026-01-14T12:00:00+00:00",
-      "score": 3
-    },
     {
       "section": "romania",
       "kind": "ro",
@@ -113,13 +23,13 @@
       "score": 2
     },
     {
-      "section": "environment",
+      "section": "science",
       "kind": "global",
-      "source": "UN News - Climate",
-      "title": "UN environment assembly wraps up in Nairobi",
-      "summary": "The seventh session of the United Nations Environment Assembly (UNEA-7) concluded in Nairobi, Kenya, on Friday with Member States adopting 11 resolutions, three decisions and a ministerial declaration aiming to advance solutions for a more resilient planet.&nbsp;",
-      "link": "https://news.un.org/feed/view/en/story/2025/12/1166585",
-      "published_utc": "2025-12-12T12:00:00+00:00",
+      "source": "Science News",
+      "title": "Widespread use of HPV shots could mean fewer cervical cancer screenings",
+      "summary": "A modeling study of Norway, which has high HPV vaccination coverage and uniform cervical cancer screening, suggests fewer screens could be needed.",
+      "link": "https://www.sciencenews.org/article/widespread-hpv-shots-cervical-cancer",
+      "published_utc": "2026-02-02T22:30:07+00:00",
       "score": 3
     },
     {
@@ -143,13 +53,13 @@
       "score": 3
     },
     {
-      "section": "environment",
+      "section": "science",
       "kind": "global",
-      "source": "UN News - Climate",
-      "title": "A sustainable future requires new thinking: UN environment report",
-      "summary": "Adopting a fresh approach to protecting planetary health would deliver stronger economies, fewer deaths and less poverty, the UN Environment Programme (UNEP) insisted on Tuesday, as it released its most comprehensive assessment of environmental pressures facing the world.",
-      "link": "https://news.un.org/feed/view/en/story/2025/12/1166553",
-      "published_utc": "2025-12-09T12:00:00+00:00",
+      "source": "Science News",
+      "title": "A study hints positive thinking could strengthen vaccine immunity",
+      "summary": "Thinking positive increased a specific brain region's activity and might have heightened immune response after a shot.",
+      "link": "https://www.sciencenews.org/article/placebo-brain-activity-vaccine-antibody",
+      "published_utc": "2026-01-30T16:00:00+00:00",
       "score": 3
     },
     {
@@ -176,10 +86,10 @@
       "section": "environment",
       "kind": "global",
       "source": "UN News - Climate",
-      "title": "Arab region pushed to limits by climate extremes as 2024 smashes heat records",
-      "summary": "The Arab region is heating at nearly twice the global average, UN weather experts warned on Thursday, after 2024 saw unprecedented heat, destructive storms and worsening water scarcity impact some of the world’s most vulnerable communities.",
-      "link": "https://news.un.org/feed/view/en/story/2025/12/1166509",
-      "published_utc": "2025-12-04T12:00:00+00:00",
+      "title": "11-year streak of record global warming continues, UN weather agency warns",
+      "summary": "The past 11 years have been the warmest in the modern era, while oceans continue to heat up, too, says the UN weather agency.",
+      "link": "https://news.un.org/feed/view/en/story/2026/01/1166758",
+      "published_utc": "2026-01-14T12:00:00+00:00",
       "score": 3
     },
     {
@@ -206,10 +116,10 @@
       "section": "environment",
       "kind": "global",
       "source": "UN News - Climate",
-      "title": "Asia: Lives upended by cyclones, ‘extreme’ rainfall on the rise, warn UN agencies",
-      "summary": "Across southeast Asia, record-breaking rains and flooding caused by back-to-back tropical storms have claimed hundreds of lives and brought devastation and displacement upon entire communities, UN agencies said on Tuesday.&nbsp;",
-      "link": "https://news.un.org/feed/view/en/story/2025/12/1166482",
-      "published_utc": "2025-12-02T12:00:00+00:00",
+      "title": "UN environment assembly wraps up in Nairobi",
+      "summary": "The seventh session of the United Nations Environment Assembly (UNEA-7) concluded in Nairobi, Kenya, on Friday with Member States adopting 11 resolutions, three decisions and a ministerial declaration aiming to advance solutions for a more resilient planet.&nbsp;",
+      "link": "https://news.un.org/feed/view/en/story/2025/12/1166585",
+      "published_utc": "2025-12-12T12:00:00+00:00",
       "score": 3
     },
     {
@@ -231,70 +141,40 @@
       "link": "https://www.digi24.ro/stiri/externe/am-primit-o-invitatie-viktor-orban-anunta-cand-va-fi-inaugurat-consiliul-pentru-pace-al-lui-donald-trump-3620691",
       "published_utc": "2026-02-07T14:25:12+00:00",
       "score": 2
+    },
+    {
+      "section": "environment",
+      "kind": "global",
+      "source": "UN News - Climate",
+      "title": "A sustainable future requires new thinking: UN environment report",
+      "summary": "Adopting a fresh approach to protecting planetary health would deliver stronger economies, fewer deaths and less poverty, the UN Environment Programme (UNEP) insisted on Tuesday, as it released its most comprehensive assessment of environmental pressures facing the world.",
+      "link": "https://news.un.org/feed/view/en/story/2025/12/1166553",
+      "published_utc": "2025-12-09T12:00:00+00:00",
+      "score": 3
+    },
+    {
+      "section": "environment",
+      "kind": "global",
+      "source": "UN News - Climate",
+      "title": "Arab region pushed to limits by climate extremes as 2024 smashes heat records",
+      "summary": "The Arab region is heating at nearly twice the global average, UN weather experts warned on Thursday, after 2024 saw unprecedented heat, destructive storms and worsening water scarcity impact some of the world’s most vulnerable communities.",
+      "link": "https://news.un.org/feed/view/en/story/2025/12/1166509",
+      "published_utc": "2025-12-04T12:00:00+00:00",
+      "score": 3
+    },
+    {
+      "section": "environment",
+      "kind": "global",
+      "source": "UN News - Climate",
+      "title": "Asia: Lives upended by cyclones, ‘extreme’ rainfall on the rise, warn UN agencies",
+      "summary": "Across southeast Asia, record-breaking rains and flooding caused by back-to-back tropical storms have claimed hundreds of lives and brought devastation and displacement upon entire communities, UN agencies said on Tuesday.&nbsp;",
+      "link": "https://news.un.org/feed/view/en/story/2025/12/1166482",
+      "published_utc": "2025-12-02T12:00:00+00:00",
+      "score": 3
     }
   ],
   "sections": {
     "romania": [
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Agerpres",
-        "title": "Baschet masculin: CSO Voluntari, noul lider al Ligii Naționale",
-        "summary": "",
-        "link": "https://agerpres.ro/sport/2026/02/07/baschet-masculin-cso-voluntari-noul-lider-al-ligii-nationale--1525951",
-        "published_utc": "2026-02-08T01:25:43+00:00",
-        "score": 3
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Agerpres",
-        "title": "Handbal masculin: Poli Timișoara a remizat cu Potaissa Turda, în campionat",
-        "summary": "",
-        "link": "https://agerpres.ro/sport/2026/02/07/handbal-masculin-poli-timisoara-a-remizat-cu-potaissa-turda-in-campionat--1525949",
-        "published_utc": "2026-02-08T01:25:43+00:00",
-        "score": 3
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Agerpres",
-        "title": "Tenis: Paraguayul conduce România cu 2-1, în Cupa Davis, după ce a câștigat meciul de dublu",
-        "summary": "",
-        "link": "https://agerpres.ro/sport-extern/2026/02/07/tenis-paraguayul-conduce-romania-cu-2-1-in-cupa-davis-dupa-ce-a-castigat-meciul-de-dublu--1525948",
-        "published_utc": "2026-02-08T01:25:43+00:00",
-        "score": 3
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Agerpres",
-        "title": "Fotbal: CFR Cluj a câștigat derbyul cu 'U' Cluj (3-2), în Superliga",
-        "summary": "",
-        "link": "https://agerpres.ro/sport/2026/02/07/fotbal-cfr-cluj-a-castigat-derbyul-cu-u-cluj-3-2-in-superliga--1525944",
-        "published_utc": "2026-02-08T01:25:43+00:00",
-        "score": 3
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Agerpres",
-        "title": "Baschet masculin: U-BT Cluj-Napoca a câștigat în Serbia, în ABA League",
-        "summary": "",
-        "link": "https://agerpres.ro/sport-extern/2026/02/07/baschet-masculin-u-bt-cluj-napoca-a-castigat-in-serbia-in-aba-league--1525941",
-        "published_utc": "2026-02-08T01:25:43+00:00",
-        "score": 3
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Agerpres",
-        "title": "Handbal feminin: Gloria Bistrița a pierdut la Metz, în Liga Campionilor",
-        "summary": "",
-        "link": "https://agerpres.ro/sport-extern/2026/02/07/handbal-feminin-gloria-bistrita-a-pierdut-la-metz-in-liga-campionilor--1525936",
-        "published_utc": "2026-02-08T01:25:43+00:00",
-        "score": 3
-      },
       {
         "section": "romania",
         "kind": "ro",
@@ -476,28 +356,28 @@
         "category_id": "space",
         "category_label": "🚀 Spațiu",
         "source": "Flickr (space)",
-        "title": "Cluster and Co",
-        "link": "https://www.flickr.com/photos/silentoneproductions/55083824509/",
-        "image_url": "https://www.flickr.com/apps/video/stewart.swf?v=2968162862&photo_id=55083824509",
-        "published_utc": "2026-02-07T22:38:34+00:00"
+        "title": "Texas Winter Storm Transforms Lakeside Landscape at Sunset",
+        "link": "https://www.flickr.com/photos/xhowardlee/55083051452/",
+        "image_url": "https://live.staticflickr.com/65535/55083051452_26cd1a489c_b.jpg",
+        "published_utc": "2026-02-08T04:04:02+00:00"
       },
       {
         "category_id": "animals",
         "category_label": "🐾 Animale",
         "source": "Flickr (animals)",
-        "title": "Nanday Parakeet (3)",
-        "link": "https://www.flickr.com/photos/matthewpaulson/55084123945/",
-        "image_url": "https://live.staticflickr.com/65535/55084123945_d675ea5ba9_b.jpg",
-        "published_utc": "2026-02-08T01:19:30+00:00"
+        "title": "Gray-lined Hawk (Buteo nitidus)",
+        "link": "https://www.flickr.com/photos/jeluba/55084316370/",
+        "image_url": "https://live.staticflickr.com/65535/55084316370_2c1d17ae21_b.jpg",
+        "published_utc": "2026-02-08T04:07:09+00:00"
       },
       {
         "category_id": "landscapes",
         "category_label": "🏞️ Peisaj",
         "source": "Flickr (landscape)",
-        "title": "A Wonderful World Reprise",
-        "link": "https://www.flickr.com/photos/luminosity7/55084012824/",
-        "image_url": "https://live.staticflickr.com/65535/55084012824_310d73ff90_b.jpg",
-        "published_utc": "2026-02-08T01:21:54+00:00"
+        "title": "sand in the desert or snowdrift?",
+        "link": "https://www.flickr.com/photos/marianna_armata/55084212169/",
+        "image_url": "https://live.staticflickr.com/65535/55084212169_8ac2ac4f64_b.jpg",
+        "published_utc": "2026-02-08T04:09:11+00:00"
       }
     ],
     "joke": [
@@ -510,9 +390,9 @@
       {
         "date_utc": "2026-02-08",
         "source": "TimesNewRoman",
-        "title": "George Simion nu este adeptul unei vieți așezate! Îl ustură c*rul de nu se poate așeza",
+        "title": "Regrete târzii. Mulți români realizează că și-au făcut tatuaje în loc să-și cumpere un cojoc",
         "summary": "Cotidian independent de umor voluntar",
-        "link": "https://www.timesnewroman.ro/politic/george-simion-nu-este-adeptul-unei-vieti-asezate-il-ustura-crul-de-nu-se-poate-aseza/",
+        "link": "https://www.timesnewroman.ro/life-death/regrete-tarzii-multi-romani-realizeaza-ca-si-au-facut-tatuaje-in-loc-sa-si-cumpere-un-cojoc/",
         "note": "Satiră — nu este știre reală."
       }
     ]
