@@ -1,7 +1,37 @@
 {
-  "generated_utc": "2026-02-08T22:16:25+00:00",
-  "count": 17,
+  "generated_utc": "2026-02-08T23:20:50+00:00",
+  "count": 19,
   "items": [
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Agerpres",
+      "title": "VIDEO JO 2026 - Patinaj viteză: Norvegianul Sander Eitrem, campion olimpic la 5.000 m, cu un nou record olimpic",
+      "summary": "",
+      "link": "https://agerpres.ro/sport-extern/2026/02/08/video-jo-2026---patinaj-viteza-norvegianul-sander-eitrem-campion-olimpic-la-5-000-m-cu-un-nou-record--1526066",
+      "published_utc": "2026-02-08T23:20:23+00:00",
+      "score": 6
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Agerpres",
+      "title": "Handbal feminin: CS Rapid București a câștigat clar la Oldenburg, în EHF European League",
+      "summary": "",
+      "link": "https://agerpres.ro/sport-extern/2026/02/08/handbal-feminin-cs-rapid-bucuresti-a-castigat-clar-la-oldenburg-in-ehf-european-league--1526062",
+      "published_utc": "2026-02-08T23:20:23+00:00",
+      "score": 3
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Science News",
+      "title": "Widespread use of HPV shots could mean fewer cervical cancer screenings",
+      "summary": "A modeling study of Norway, which has high HPV vaccination coverage and uniform cervical cancer screening, suggests fewer screens could be needed.",
+      "link": "https://www.sciencenews.org/article/widespread-hpv-shots-cervical-cancer",
+      "published_utc": "2026-02-02T22:30:07+00:00",
+      "score": 3
+    },
     {
       "section": "romania",
       "kind": "ro",
@@ -26,10 +56,10 @@
       "section": "science",
       "kind": "global",
       "source": "Science News",
-      "title": "Widespread use of HPV shots could mean fewer cervical cancer screenings",
-      "summary": "A modeling study of Norway, which has high HPV vaccination coverage and uniform cervical cancer screening, suggests fewer screens could be needed.",
-      "link": "https://www.sciencenews.org/article/widespread-hpv-shots-cervical-cancer",
-      "published_utc": "2026-02-02T22:30:07+00:00",
+      "title": "A study hints positive thinking could strengthen vaccine immunity",
+      "summary": "Thinking positive increased a specific brain region's activity and might have heightened immune response after a shot.",
+      "link": "https://www.sciencenews.org/article/placebo-brain-activity-vaccine-antibody",
+      "published_utc": "2026-01-30T16:00:00+00:00",
       "score": 3
     },
     {
@@ -53,13 +83,13 @@
       "score": 3
     },
     {
-      "section": "science",
+      "section": "environment",
       "kind": "global",
-      "source": "Science News",
-      "title": "A study hints positive thinking could strengthen vaccine immunity",
-      "summary": "Thinking positive increased a specific brain region's activity and might have heightened immune response after a shot.",
-      "link": "https://www.sciencenews.org/article/placebo-brain-activity-vaccine-antibody",
-      "published_utc": "2026-01-30T16:00:00+00:00",
+      "source": "UN News - Climate",
+      "title": "11-year streak of record global warming continues, UN weather agency warns",
+      "summary": "The past 11 years have been the warmest in the modern era, while oceans continue to heat up, too, says the UN weather agency.",
+      "link": "https://news.un.org/feed/view/en/story/2026/01/1166758",
+      "published_utc": "2026-01-14T12:00:00+00:00",
       "score": 3
     },
     {
@@ -86,10 +116,10 @@
       "section": "environment",
       "kind": "global",
       "source": "UN News - Climate",
-      "title": "11-year streak of record global warming continues, UN weather agency warns",
-      "summary": "The past 11 years have been the warmest in the modern era, while oceans continue to heat up, too, says the UN weather agency.",
-      "link": "https://news.un.org/feed/view/en/story/2026/01/1166758",
-      "published_utc": "2026-01-14T12:00:00+00:00",
+      "title": "UN environment assembly wraps up in Nairobi",
+      "summary": "The seventh session of the United Nations Environment Assembly (UNEA-7) concluded in Nairobi, Kenya, on Friday with Member States adopting 11 resolutions, three decisions and a ministerial declaration aiming to advance solutions for a more resilient planet.&nbsp;",
+      "link": "https://news.un.org/feed/view/en/story/2025/12/1166585",
+      "published_utc": "2025-12-12T12:00:00+00:00",
       "score": 3
     },
     {
@@ -116,10 +146,10 @@
       "section": "environment",
       "kind": "global",
       "source": "UN News - Climate",
-      "title": "UN environment assembly wraps up in Nairobi",
-      "summary": "The seventh session of the United Nations Environment Assembly (UNEA-7) concluded in Nairobi, Kenya, on Friday with Member States adopting 11 resolutions, three decisions and a ministerial declaration aiming to advance solutions for a more resilient planet.&nbsp;",
-      "link": "https://news.un.org/feed/view/en/story/2025/12/1166585",
-      "published_utc": "2025-12-12T12:00:00+00:00",
+      "title": "A sustainable future requires new thinking: UN environment report",
+      "summary": "Adopting a fresh approach to protecting planetary health would deliver stronger economies, fewer deaths and less poverty, the UN Environment Programme (UNEP) insisted on Tuesday, as it released its most comprehensive assessment of environmental pressures facing the world.",
+      "link": "https://news.un.org/feed/view/en/story/2025/12/1166553",
+      "published_utc": "2025-12-09T12:00:00+00:00",
       "score": 3
     },
     {
@@ -146,16 +176,6 @@
       "section": "environment",
       "kind": "global",
       "source": "UN News - Climate",
-      "title": "A sustainable future requires new thinking: UN environment report",
-      "summary": "Adopting a fresh approach to protecting planetary health would deliver stronger economies, fewer deaths and less poverty, the UN Environment Programme (UNEP) insisted on Tuesday, as it released its most comprehensive assessment of environmental pressures facing the world.",
-      "link": "https://news.un.org/feed/view/en/story/2025/12/1166553",
-      "published_utc": "2025-12-09T12:00:00+00:00",
-      "score": 3
-    },
-    {
-      "section": "environment",
-      "kind": "global",
-      "source": "UN News - Climate",
       "title": "Arab region pushed to limits by climate extremes as 2024 smashes heat records",
       "summary": "The Arab region is heating at nearly twice the global average, UN weather experts warned on Thursday, after 2024 saw unprecedented heat, destructive storms and worsening water scarcity impact some of the world’s most vulnerable communities.",
       "link": "https://news.un.org/feed/view/en/story/2025/12/1166509",
@@ -175,6 +195,26 @@
   ],
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Agerpres",
+        "title": "VIDEO JO 2026 - Patinaj viteză: Norvegianul Sander Eitrem, campion olimpic la 5.000 m, cu un nou record olimpic",
+        "summary": "",
+        "link": "https://agerpres.ro/sport-extern/2026/02/08/video-jo-2026---patinaj-viteza-norvegianul-sander-eitrem-campion-olimpic-la-5-000-m-cu-un-nou-record--1526066",
+        "published_utc": "2026-02-08T23:20:23+00:00",
+        "score": 6
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Agerpres",
+        "title": "Handbal feminin: CS Rapid București a câștigat clar la Oldenburg, în EHF European League",
+        "summary": "",
+        "link": "https://agerpres.ro/sport-extern/2026/02/08/handbal-feminin-cs-rapid-bucuresti-a-castigat-clar-la-oldenburg-in-ehf-european-league--1526062",
+        "published_utc": "2026-02-08T23:20:23+00:00",
+        "score": 3
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -365,19 +405,19 @@
         "category_id": "animals",
         "category_label": "🐾 Animale",
         "source": "Flickr (animals)",
-        "title": "Cooper's Hawk at the Golden Hour",
-        "link": "https://www.flickr.com/photos/swmpix64/55084535542/",
-        "image_url": "https://live.staticflickr.com/65535/55084535542_f87b2d5e98_b.jpg",
-        "published_utc": "2026-02-08T22:01:09+00:00"
+        "title": "Distant roe deer - 04/100x",
+        "link": "https://www.flickr.com/photos/julieswright/55084619857/",
+        "image_url": "https://live.staticflickr.com/65535/55084619857_2c0c507989_b.jpg",
+        "published_utc": "2026-02-08T22:52:30+00:00"
       },
       {
         "category_id": "landscapes",
         "category_label": "🏞️ Peisaj",
         "source": "Flickr (landscape)",
-        "title": "Switzerland",
-        "link": "https://www.flickr.com/photos/navin75/55085650308/",
-        "image_url": "https://live.staticflickr.com/65535/55085650308_83a7cf3611_b.jpg",
-        "published_utc": "2026-02-08T22:07:02+00:00"
+        "title": "jesienny poranek",
+        "link": "https://www.flickr.com/photos/69056479@N06/55085896255/",
+        "image_url": "https://live.staticflickr.com/65535/55085896255_037d295ff6_b.jpg",
+        "published_utc": "2026-02-08T23:02:23+00:00"
       }
     ],
     "joke": [
@@ -390,9 +430,9 @@
       {
         "date_utc": "2026-02-08",
         "source": "TimesNewRoman",
-        "title": "Țara cu un milion de videochatiste cuprinsă de indignare morală pe dosarul Epstein",
+        "title": "Regrete târzii. Mulți români realizează că și-au făcut tatuaje în loc să-și cumpere un cojoc",
         "summary": "Cotidian independent de umor voluntar",
-        "link": "https://www.timesnewroman.ro/monden/tara-cu-un-milion-de-videochatiste-cuprinsa-de-indignare-morala-pe-dosarul-epstein/",
+        "link": "https://www.timesnewroman.ro/life-death/regrete-tarzii-multi-romani-realizeaza-ca-si-au-facut-tatuaje-in-loc-sa-si-cumpere-un-cojoc/",
         "note": "Satiră — nu este știre reală."
       }
     ]
