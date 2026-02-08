@@ -1,7 +1,17 @@
 {
-  "generated_utc": "2026-02-08T08:21:15+00:00",
-  "count": 26,
+  "generated_utc": "2026-02-08T09:21:32+00:00",
+  "count": 24,
   "items": [
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Agerpres",
+      "title": "REPORTAJ Mureș: O zeitate protectoare, artefact din perioada romană, vedeta expoziției despre istoria muzeului",
+      "summary": "",
+      "link": "https://agerpres.ro/cultura-media/2026/02/08/reportaj-mures-o-zeitate-protectoare-artefact-din-perioada-romana-vedeta-expozitiei-despre-istoria-m--1525963",
+      "published_utc": "2026-02-08T09:20:42+00:00",
+      "score": 2
+    },
     {
       "section": "romania",
       "kind": "ro",
@@ -9,17 +19,7 @@
       "title": "Baschet masculin: CSO Voluntari, noul lider al Ligii Naționale",
       "summary": "",
       "link": "https://agerpres.ro/sport/2026/02/07/baschet-masculin-cso-voluntari-noul-lider-al-ligii-nationale--1525951",
-      "published_utc": "2026-02-08T08:20:39+00:00",
-      "score": 3
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Agerpres",
-      "title": "Handbal masculin: Poli Timișoara a remizat cu Potaissa Turda, în campionat",
-      "summary": "",
-      "link": "https://agerpres.ro/sport/2026/02/07/handbal-masculin-poli-timisoara-a-remizat-cu-potaissa-turda-in-campionat--1525949",
-      "published_utc": "2026-02-08T08:20:39+00:00",
+      "published_utc": "2026-02-08T09:20:42+00:00",
       "score": 3
     },
     {
@@ -36,20 +36,20 @@
       "section": "romania",
       "kind": "ro",
       "source": "Agerpres",
-      "title": "Tenis: Paraguayul conduce România cu 2-1, în Cupa Davis, după ce a câștigat meciul de dublu",
+      "title": "Handbal masculin: Poli Timișoara a remizat cu Potaissa Turda, în campionat",
       "summary": "",
-      "link": "https://agerpres.ro/sport-extern/2026/02/07/tenis-paraguayul-conduce-romania-cu-2-1-in-cupa-davis-dupa-ce-a-castigat-meciul-de-dublu--1525948",
-      "published_utc": "2026-02-08T08:20:39+00:00",
+      "link": "https://agerpres.ro/sport/2026/02/07/handbal-masculin-poli-timisoara-a-remizat-cu-potaissa-turda-in-campionat--1525949",
+      "published_utc": "2026-02-08T09:20:42+00:00",
       "score": 3
     },
     {
       "section": "romania",
       "kind": "ro",
       "source": "Agerpres",
-      "title": "Fotbal: CFR Cluj a câștigat derbyul cu 'U' Cluj (3-2), în Superliga",
+      "title": "Tenis: Paraguayul conduce România cu 2-1, în Cupa Davis, după ce a câștigat meciul de dublu",
       "summary": "",
-      "link": "https://agerpres.ro/sport/2026/02/07/fotbal-cfr-cluj-a-castigat-derbyul-cu-u-cluj-3-2-in-superliga--1525944",
-      "published_utc": "2026-02-08T08:20:39+00:00",
+      "link": "https://agerpres.ro/sport-extern/2026/02/07/tenis-paraguayul-conduce-romania-cu-2-1-in-cupa-davis-dupa-ce-a-castigat-meciul-de-dublu--1525948",
+      "published_utc": "2026-02-08T09:20:42+00:00",
       "score": 3
     },
     {
@@ -65,21 +65,21 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Agerpres",
-      "title": "Baschet masculin: U-BT Cluj-Napoca a câștigat în Serbia, în ABA League",
-      "summary": "",
-      "link": "https://agerpres.ro/sport-extern/2026/02/07/baschet-masculin-u-bt-cluj-napoca-a-castigat-in-serbia-in-aba-league--1525941",
-      "published_utc": "2026-02-08T08:20:39+00:00",
-      "score": 3
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "Digi24",
       "title": "Cum câștigă o cunoscută platformă online bani din buletine informative naziste (The Guardian)",
       "summary": "Platforma online Substack generează venituri din buletine informative care promovează ideologia nazistă virulentă, supremația albă și antisemitismul, potrivit unei investigații realizate de The Guardian. Substack, care susține că are aproximativ 50 de milioane de utilizatori în întreaga lume, permite membrilor publicului să publice articole și să perceapă taxe pentru conținut premium. Platforma percepe aproximativ 10% din veniturile generate de buletinele informative.",
       "link": "https://www.digi24.ro/stiri/externe/cum-castiga-o-cunoscuta-platforma-online-bani-din-buletine-informative-naziste-the-guardian-3621261",
       "published_utc": "2026-02-08T07:15:32+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "Azi, AI face munca juridică, „mâine pot fi vânzări, marketing, finanțe”. Val de vânzări în tech care cuprinde toate acțiunile aflate în calea AI – GRAFIC",
+      "summary": "În cei trei ani de când ChatGPT a intrat în atenția publicului larg, au existat numeroase valuri de vânzări de acțiuni precipitate de îngrijorările privind inteligența artificială. Totuși, nimic nu se compară cu prăbușirea prețurilor&#8230;",
+      "link": "https://hotnews.ro/azi-ai-face-munca-juridica-maine-pot-fi-vanzari-marketing-finante-val-de-vanzari-in-tech-care-cuprinde-toate-actiunile-aflate-in-calea-ai-grafic-2167024",
+      "published_utc": "2026-02-08T07:06:22+00:00",
       "score": 1
     },
     {
@@ -95,22 +95,22 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "HotNews",
-      "title": "Azi, AI face munca juridică, „mâine pot fi vânzări, marketing, finanțe”. Val de vânzări în tech care cuprinde toate acțiunile aflate în calea AI – GRAFIC",
-      "summary": "În cei trei ani de când ChatGPT a intrat în atenția publicului larg, au existat numeroase valuri de vânzări de acțiuni precipitate de îngrijorările privind inteligența artificială. Totuși, nimic nu se compară cu prăbușirea prețurilor&#8230;",
-      "link": "https://hotnews.ro/azi-ai-face-munca-juridica-maine-pot-fi-vanzari-marketing-finante-val-de-vanzari-in-tech-care-cuprinde-toate-actiunile-aflate-in-calea-ai-grafic-2167024",
-      "published_utc": "2026-02-08T07:06:22+00:00",
-      "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "Digi24",
       "title": "Elon Musk amână planurile pentru Marte: SpaceX se va concentra pe o misiune spre Lună, în 2027",
       "summary": "Compania aerospaţială SpaceX, condusă de Elon Musk, le-a transmis investitorilor că va prioritiza o misiune pe Lună înaintea unei călătorii spre Marte, a relatat vineri The Wall Street Journal, citând surse apropiate discuţiilor.",
       "link": "https://www.digi24.ro/stiri/sci-tech/elon-musk-amana-planurile-pentru-marte-spacex-se-va-concentra-pe-o-misiune-spre-luna-in-2027-3621237",
       "published_utc": "2026-02-08T06:33:02+00:00",
       "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "Vot decisiv în Japonia: Prima femeie premier, Sanae Takaichi, la un pas de controlul absolut în Parlament / Scrutinul, îngreunat de ninsori record",
+      "summary": "Japonia votează duminică în cadrul unui scrutin legislativ care ar putea consolida puterea primei femei premier din istoria țării, ultra-conservatoarea Sanae Takaichi. Favorită să obțină controlul total în Parlament, Takaichi forțează o victorie istorică, în&#8230;",
+      "link": "https://hotnews.ro/vot-decisiv-in-japonia-prima-femeie-premier-sanae-takaichi-la-un-pas-de-controlul-absolut-in-parlament-scrutinul-ingreunat-de-ninsori-record-2167011",
+      "published_utc": "2026-02-08T06:32:06+00:00",
+      "score": 2
     },
     {
       "section": "environment",
@@ -125,21 +125,21 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "HotNews",
-      "title": "Vot decisiv în Japonia: Prima femeie premier, Sanae Takaichi, la un pas de controlul absolut în Parlament / Scrutinul, îngreunat de ninsori record",
-      "summary": "Japonia votează duminică în cadrul unui scrutin legislativ care ar putea consolida puterea primei femei premier din istoria țării, ultra-conservatoarea Sanae Takaichi. Favorită să obțină controlul total în Parlament, Takaichi forțează o victorie istorică, în&#8230;",
-      "link": "https://hotnews.ro/vot-decisiv-in-japonia-prima-femeie-premier-sanae-takaichi-la-un-pas-de-controlul-absolut-in-parlament-scrutinul-ingreunat-de-ninsori-record-2167011",
-      "published_utc": "2026-02-08T06:32:06+00:00",
-      "score": 2
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "Digi24",
       "title": "Digistoria - cele mai importante evenimente petrecute pe 8 februarie",
       "summary": "Cele mai importante evenimente petrecute pe 8 februarie.",
       "link": "https://www.digi24.ro/digistoria/digistoria-cele-mai-importante-evenimente-petrecute-pe-8-februarie-2-3621203",
       "published_utc": "2026-02-08T05:37:51+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Misterul râului care curge „în sus”, sfidând legile fizicii. După un secol de cercetări, oamenii de știință cred că au găsit explicația",
+      "summary": "Timp de mai bine de un secol, cursul râului Green River prin Munții Uinta din nord-estul statului Utah a fost un mister geologic, care aparent sfidează legile fizicii. Acum, oamenii de știință cred că au o explicație pentru acest fenomen neobișnuit, relatează Science Alert.",
+      "link": "https://www.digi24.ro/stiri/sci-tech/descoperiri/misterul-raului-care-curge-in-sus-sfidand-legile-fizicii-dupa-un-secol-de-cercetari-oamenii-de-stiinta-cred-ca-au-gasit-explicatia-3617693",
+      "published_utc": "2026-02-08T05:00:51+00:00",
       "score": 1
     },
     {
@@ -156,41 +156,11 @@
       "section": "romania",
       "kind": "ro",
       "source": "Digi24",
-      "title": "Misterul râului care curge „în sus”, sfidând legile fizicii. După un secol de cercetări, oamenii de știință cred că au găsit explicația",
-      "summary": "Timp de mai bine de un secol, cursul râului Green River prin Munții Uinta din nord-estul statului Utah a fost un mister geologic, care aparent sfidează legile fizicii. Acum, oamenii de știință cred că au o explicație pentru acest fenomen neobișnuit, relatează Science Alert.",
-      "link": "https://www.digi24.ro/stiri/sci-tech/descoperiri/misterul-raului-care-curge-in-sus-sfidand-legile-fizicii-dupa-un-secol-de-cercetari-oamenii-de-stiinta-cred-ca-au-gasit-explicatia-3617693",
-      "published_utc": "2026-02-08T05:00:51+00:00",
-      "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
       "title": "Trump caută voluntari pentru a depozita deșeuri nucleare pe vecie. Ce riscuri implică planul energetic al SUA care alimentează AI",
       "summary": "Planul administrației Trump de a dezvolta o serie de reactoare nucleare futuriste de mici dimensiuni pentru a alimenta inteligența artificială se bazează pe o strategie veche de eliminare a deșeurilor extrem de toxice: îngroparea acestora la o adâncime foarte mare, notează Reuters. Dar există o problemă. Nu există gropi foarte adânci, iar stocul de aproximativ 100.000 de tone de deșeuri radioactive depozitate temporar în centrale nucleare și alte locații din Statele Unite continuă să crească. Pentru a rezolva această dilemă, administrația Trump oferă acum o recompensă statelor pentru suportarea materialului radioactiv.",
       "link": "https://www.digi24.ro/stiri/externe/sua/administratia-trump-cauta-depozite-permanente-de-deseuri-nucleare-in-planul-sua-de-a-alimenta-ai-beneficiile-insotite-de-riscuri-3619669",
       "published_utc": "2026-02-08T05:00:32+00:00",
       "score": 2
-    },
-    {
-      "section": "environment",
-      "kind": "global",
-      "source": "UN News - Climate",
-      "title": "Arab region pushed to limits by climate extremes as 2024 smashes heat records",
-      "summary": "The Arab region is heating at nearly twice the global average, UN weather experts warned on Thursday, after 2024 saw unprecedented heat, destructive storms and worsening water scarcity impact some of the world’s most vulnerable communities.",
-      "link": "https://news.un.org/feed/view/en/story/2025/12/1166509",
-      "published_utc": "2025-12-04T12:00:00+00:00",
-      "score": 3
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "HotNews",
-      "title": "Prima medalie a Italiei la Jocurile Olimpice de la Milano-Cortina, adusă de strănepoata unei actrițe celebre. Record olimpic chiar de ziua ei",
-      "summary": "Francesca Lollobrigida, strănepoata actriței Gina Lollobrigida, a cucerit medalia de aur în proba de patinaj viteză de 3.000 m la Jocurile Olimpice de Iarnă de la Milano-Cortina, sâmbătă, chiar în ziua în care a împlinit&#8230;",
-      "link": "https://hotnews.ro/prima-medalie-a-italiei-la-jocurile-olimpice-de-la-milano-cortina-adusa-de-stranepoata-unei-actrite-celebre-record-olimpic-chiar-de-ziua-ei-2166984",
-      "published_utc": "2026-02-07T21:22:43+00:00",
-      "score": 3
     },
     {
       "section": "romania",
@@ -206,10 +176,10 @@
       "section": "environment",
       "kind": "global",
       "source": "UN News - Climate",
-      "title": "Asia: Lives upended by cyclones, ‘extreme’ rainfall on the rise, warn UN agencies",
-      "summary": "Across southeast Asia, record-breaking rains and flooding caused by back-to-back tropical storms have claimed hundreds of lives and brought devastation and displacement upon entire communities, UN agencies said on Tuesday.&nbsp;",
-      "link": "https://news.un.org/feed/view/en/story/2025/12/1166482",
-      "published_utc": "2025-12-02T12:00:00+00:00",
+      "title": "Arab region pushed to limits by climate extremes as 2024 smashes heat records",
+      "summary": "The Arab region is heating at nearly twice the global average, UN weather experts warned on Thursday, after 2024 saw unprecedented heat, destructive storms and worsening water scarcity impact some of the world’s most vulnerable communities.",
+      "link": "https://news.un.org/feed/view/en/story/2025/12/1166509",
+      "published_utc": "2025-12-04T12:00:00+00:00",
       "score": 3
     },
     {
@@ -231,6 +201,16 @@
       "link": "https://www.digi24.ro/stiri/externe/mapamond/nicusor-dan-a-primit-invitatia-de-la-donald-trump-sa-participe-la-prima-reuniune-a-consiliului-pentru-pace-surse-digi24-3620829",
       "published_utc": "2026-02-07T17:31:18+00:00",
       "score": 1
+    },
+    {
+      "section": "environment",
+      "kind": "global",
+      "source": "UN News - Climate",
+      "title": "Asia: Lives upended by cyclones, ‘extreme’ rainfall on the rise, warn UN agencies",
+      "summary": "Across southeast Asia, record-breaking rains and flooding caused by back-to-back tropical storms have claimed hundreds of lives and brought devastation and displacement upon entire communities, UN agencies said on Tuesday.&nbsp;",
+      "link": "https://news.un.org/feed/view/en/story/2025/12/1166482",
+      "published_utc": "2025-12-02T12:00:00+00:00",
+      "score": 3
     },
     {
       "section": "romania",
@@ -269,10 +249,20 @@
         "section": "romania",
         "kind": "ro",
         "source": "Agerpres",
+        "title": "REPORTAJ Mureș: O zeitate protectoare, artefact din perioada romană, vedeta expoziției despre istoria muzeului",
+        "summary": "",
+        "link": "https://agerpres.ro/cultura-media/2026/02/08/reportaj-mures-o-zeitate-protectoare-artefact-din-perioada-romana-vedeta-expozitiei-despre-istoria-m--1525963",
+        "published_utc": "2026-02-08T09:20:42+00:00",
+        "score": 2
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Agerpres",
         "title": "Baschet masculin: CSO Voluntari, noul lider al Ligii Naționale",
         "summary": "",
         "link": "https://agerpres.ro/sport/2026/02/07/baschet-masculin-cso-voluntari-noul-lider-al-ligii-nationale--1525951",
-        "published_utc": "2026-02-08T08:20:39+00:00",
+        "published_utc": "2026-02-08T09:20:42+00:00",
         "score": 3
       },
       {
@@ -282,7 +272,7 @@
         "title": "Handbal masculin: Poli Timișoara a remizat cu Potaissa Turda, în campionat",
         "summary": "",
         "link": "https://agerpres.ro/sport/2026/02/07/handbal-masculin-poli-timisoara-a-remizat-cu-potaissa-turda-in-campionat--1525949",
-        "published_utc": "2026-02-08T08:20:39+00:00",
+        "published_utc": "2026-02-08T09:20:42+00:00",
         "score": 3
       },
       {
@@ -292,27 +282,7 @@
         "title": "Tenis: Paraguayul conduce România cu 2-1, în Cupa Davis, după ce a câștigat meciul de dublu",
         "summary": "",
         "link": "https://agerpres.ro/sport-extern/2026/02/07/tenis-paraguayul-conduce-romania-cu-2-1-in-cupa-davis-dupa-ce-a-castigat-meciul-de-dublu--1525948",
-        "published_utc": "2026-02-08T08:20:39+00:00",
-        "score": 3
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Agerpres",
-        "title": "Fotbal: CFR Cluj a câștigat derbyul cu 'U' Cluj (3-2), în Superliga",
-        "summary": "",
-        "link": "https://agerpres.ro/sport/2026/02/07/fotbal-cfr-cluj-a-castigat-derbyul-cu-u-cluj-3-2-in-superliga--1525944",
-        "published_utc": "2026-02-08T08:20:39+00:00",
-        "score": 3
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Agerpres",
-        "title": "Baschet masculin: U-BT Cluj-Napoca a câștigat în Serbia, în ABA League",
-        "summary": "",
-        "link": "https://agerpres.ro/sport-extern/2026/02/07/baschet-masculin-u-bt-cluj-napoca-a-castigat-in-serbia-in-aba-league--1525941",
-        "published_utc": "2026-02-08T08:20:39+00:00",
+        "published_utc": "2026-02-08T09:20:42+00:00",
         "score": 3
       },
       {
@@ -384,16 +354,6 @@
         "link": "https://www.digi24.ro/stiri/externe/sua/administratia-trump-cauta-depozite-permanente-de-deseuri-nucleare-in-planul-sua-de-a-alimenta-ai-beneficiile-insotite-de-riscuri-3619669",
         "published_utc": "2026-02-08T05:00:32+00:00",
         "score": 2
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "Prima medalie a Italiei la Jocurile Olimpice de la Milano-Cortina, adusă de strănepoata unei actrițe celebre. Record olimpic chiar de ziua ei",
-        "summary": "Francesca Lollobrigida, strănepoata actriței Gina Lollobrigida, a cucerit medalia de aur în proba de patinaj viteză de 3.000 m la Jocurile Olimpice de Iarnă de la Milano-Cortina, sâmbătă, chiar în ziua în care a împlinit&#8230;",
-        "link": "https://hotnews.ro/prima-medalie-a-italiei-la-jocurile-olimpice-de-la-milano-cortina-adusa-de-stranepoata-unei-actrite-celebre-record-olimpic-chiar-de-ziua-ei-2166984",
-        "published_utc": "2026-02-07T21:22:43+00:00",
-        "score": 3
       },
       {
         "section": "romania",
@@ -536,28 +496,28 @@
         "category_id": "space",
         "category_label": "🚀 Spațiu",
         "source": "Flickr (space)",
-        "title": "Jupiter - Perijove 32",
-        "link": "https://www.flickr.com/photos/195227719@N04/55084116666/",
-        "image_url": "https://live.staticflickr.com/65535/55084116666_bda4030c95_b.jpg",
-        "published_utc": "2026-02-08T07:07:41+00:00"
+        "title": "Under the arcades...",
+        "link": "https://www.flickr.com/photos/gallogiancarlo/55084197341/",
+        "image_url": "https://live.staticflickr.com/65535/55084197341_4692d2f09a_b.jpg",
+        "published_utc": "2026-02-08T08:44:04+00:00"
       },
       {
         "category_id": "animals",
         "category_label": "🐾 Animale",
         "source": "Flickr (animals)",
-        "title": "Ecureuil roux (Sciurus vulgaris)",
-        "link": "https://www.flickr.com/photos/181709035@N02/55084375328/",
-        "image_url": "https://live.staticflickr.com/65535/55084375328_eecf278944_b.jpg",
-        "published_utc": "2026-02-08T08:15:17+00:00"
+        "title": "Tiger at rest",
+        "link": "https://www.flickr.com/photos/116081850@N03/55083334302/",
+        "image_url": "https://live.staticflickr.com/65535/55083334302_3a91d11a95_b.jpg",
+        "published_utc": "2026-02-08T09:12:14+00:00"
       },
       {
         "category_id": "landscapes",
         "category_label": "🏞️ Peisaj",
         "source": "Flickr (landscape)",
-        "title": "Switzerland / Ticino - Valle Verzasca",
-        "link": "https://www.flickr.com/photos/133876835@N08/55084169021/",
-        "image_url": "https://live.staticflickr.com/65535/55084169021_bf13e88d7d_b.jpg",
-        "published_utc": "2026-02-08T08:11:26+00:00"
+        "title": "Cliffs",
+        "link": "https://www.flickr.com/photos/191989172@N07/55084434373/",
+        "image_url": "https://live.staticflickr.com/65535/55084434373_8c8bd91903_z.jpg",
+        "published_utc": "2026-02-08T09:13:41+00:00"
       }
     ],
     "joke": [
@@ -570,9 +530,9 @@
       {
         "date_utc": "2026-02-08",
         "source": "TimesNewRoman",
-        "title": "Nici miliardarii nu scapă: din 75.000 de mailuri ale lui Epstein, peste 50% erau spam de la Lensa",
+        "title": "Un muncitor român angajat de ruşi să saboteze Germania l-a asasinat din greşeală pe Putin",
         "summary": "Cotidian independent de umor voluntar",
-        "link": "https://www.timesnewroman.ro/politic/nici-miliardarii-nu-scapa-din-75-000-de-mailuri-ale-lui-epstein-peste-50-erau-spam-de-la-lensa/",
+        "link": "https://www.timesnewroman.ro/politic/un-muncitor-roman-angajat-de-rusi-sa-saboteze-germania-l-a-asasinat-din-greseala-pe-putin/",
         "note": "Satiră — nu este știre reală."
       }
     ]
