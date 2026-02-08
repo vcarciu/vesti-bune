@@ -1,7 +1,17 @@
 {
-  "generated_utc": "2026-02-08T15:16:39+00:00",
-  "count": 20,
+  "generated_utc": "2026-02-08T16:18:16+00:00",
+  "count": 22,
   "items": [
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Agerpres",
+      "title": "Tenis: Canadianul Felix Auger-Aliassime a câștigat turneul de la Montpellier (ATP)",
+      "summary": "",
+      "link": "https://agerpres.ro/sport-extern/2026/02/08/tenis-canadianul-felix-auger-aliassime-a-castigat-turneul-de-la-montpellier-atp--1526038",
+      "published_utc": "2026-02-08T16:17:44+00:00",
+      "score": 3
+    },
     {
       "section": "romania",
       "kind": "ro",
@@ -9,18 +19,8 @@
       "title": "Alba: Două grenade defensive descoperite pe un drum din municipiul Aiud",
       "summary": "",
       "link": "https://agerpres.ro/social/2026/02/08/alba-doua-grenade-defensive-descoperite-pe-un-drum-din-municipiul-aiud--1526024",
-      "published_utc": "2026-02-08T15:15:56+00:00",
+      "published_utc": "2026-02-08T16:17:44+00:00",
       "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Agerpres",
-      "title": "JO 2026 - Schi fond: Norvegianul Klaebo a câștigat proba de schiatlon; Paul Pepene, pe locul 50",
-      "summary": "",
-      "link": "https://agerpres.ro/sport-extern/2026/02/08/jo-2026---schi-fond-norvegianul-klaebo-a-castigat-proba-de-schiatlon-paul-pepene-pe-locul-50--1526015",
-      "published_utc": "2026-02-08T15:15:56+00:00",
-      "score": 3
     },
     {
       "section": "science",
@@ -30,6 +30,36 @@
       "summary": "A modeling study of Norway, which has high HPV vaccination coverage and uniform cervical cancer screening, suggests fewer screens could be needed.",
       "link": "https://www.sciencenews.org/article/widespread-hpv-shots-cervical-cancer",
       "published_utc": "2026-02-02T22:30:07+00:00",
+      "score": 3
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Agerpres",
+      "title": "JO 2026 - Schi fond: Norvegianul Klaebo a câștigat proba de schiatlon; Paul Pepene, pe locul 50",
+      "summary": "",
+      "link": "https://agerpres.ro/sport-extern/2026/02/08/jo-2026---schi-fond-norvegianul-klaebo-a-castigat-proba-de-schiatlon-paul-pepene-pe-locul-50--1526015",
+      "published_utc": "2026-02-08T16:17:44+00:00",
+      "score": 3
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "Aramis Invest, cel mai mare producător și exportator român de mobilă, furnizor-cheie al IKEA, reduce programul de lucru din cauza scăderii comenzilor",
+      "summary": "Compania Aramis Invest din Baia Mare, cel mai mare producător și exportator român de mobilă, furnizor-cheie al gigantului IKEA, se confruntă cu probleme economice. Cel mai mare producător din Maramureș, cu cea mai mare cifră&#8230;",
+      "link": "https://hotnews.ro/aramis-invest-cel-mai-mare-producator-si-exportator-roman-de-mobila-furnizor-cheie-al-ikea-reduce-programul-de-lucru-din-cauza-scaderii-comenzilor-2167181",
+      "published_utc": "2026-02-08T15:16:32+00:00",
+      "score": 1
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Science News",
+      "title": "A study hints positive thinking could strengthen vaccine immunity",
+      "summary": "Thinking positive increased a specific brain region's activity and might have heightened immune response after a shot.",
+      "link": "https://www.sciencenews.org/article/placebo-brain-activity-vaccine-antibody",
+      "published_utc": "2026-01-30T16:00:00+00:00",
       "score": 3
     },
     {
@@ -53,13 +83,13 @@
       "score": 3
     },
     {
-      "section": "science",
+      "section": "environment",
       "kind": "global",
-      "source": "Science News",
-      "title": "A study hints positive thinking could strengthen vaccine immunity",
-      "summary": "Thinking positive increased a specific brain region's activity and might have heightened immune response after a shot.",
-      "link": "https://www.sciencenews.org/article/placebo-brain-activity-vaccine-antibody",
-      "published_utc": "2026-01-30T16:00:00+00:00",
+      "source": "UN News - Climate",
+      "title": "11-year streak of record global warming continues, UN weather agency warns",
+      "summary": "The past 11 years have been the warmest in the modern era, while oceans continue to heat up, too, says the UN weather agency.",
+      "link": "https://news.un.org/feed/view/en/story/2026/01/1166758",
+      "published_utc": "2026-01-14T12:00:00+00:00",
       "score": 3
     },
     {
@@ -86,10 +116,10 @@
       "section": "environment",
       "kind": "global",
       "source": "UN News - Climate",
-      "title": "11-year streak of record global warming continues, UN weather agency warns",
-      "summary": "The past 11 years have been the warmest in the modern era, while oceans continue to heat up, too, says the UN weather agency.",
-      "link": "https://news.un.org/feed/view/en/story/2026/01/1166758",
-      "published_utc": "2026-01-14T12:00:00+00:00",
+      "title": "UN environment assembly wraps up in Nairobi",
+      "summary": "The seventh session of the United Nations Environment Assembly (UNEA-7) concluded in Nairobi, Kenya, on Friday with Member States adopting 11 resolutions, three decisions and a ministerial declaration aiming to advance solutions for a more resilient planet.&nbsp;",
+      "link": "https://news.un.org/feed/view/en/story/2025/12/1166585",
+      "published_utc": "2025-12-12T12:00:00+00:00",
       "score": 3
     },
     {
@@ -116,10 +146,10 @@
       "section": "environment",
       "kind": "global",
       "source": "UN News - Climate",
-      "title": "UN environment assembly wraps up in Nairobi",
-      "summary": "The seventh session of the United Nations Environment Assembly (UNEA-7) concluded in Nairobi, Kenya, on Friday with Member States adopting 11 resolutions, three decisions and a ministerial declaration aiming to advance solutions for a more resilient planet.&nbsp;",
-      "link": "https://news.un.org/feed/view/en/story/2025/12/1166585",
-      "published_utc": "2025-12-12T12:00:00+00:00",
+      "title": "A sustainable future requires new thinking: UN environment report",
+      "summary": "Adopting a fresh approach to protecting planetary health would deliver stronger economies, fewer deaths and less poverty, the UN Environment Programme (UNEP) insisted on Tuesday, as it released its most comprehensive assessment of environmental pressures facing the world.",
+      "link": "https://news.un.org/feed/view/en/story/2025/12/1166553",
+      "published_utc": "2025-12-09T12:00:00+00:00",
       "score": 3
     },
     {
@@ -146,10 +176,10 @@
       "section": "environment",
       "kind": "global",
       "source": "UN News - Climate",
-      "title": "A sustainable future requires new thinking: UN environment report",
-      "summary": "Adopting a fresh approach to protecting planetary health would deliver stronger economies, fewer deaths and less poverty, the UN Environment Programme (UNEP) insisted on Tuesday, as it released its most comprehensive assessment of environmental pressures facing the world.",
-      "link": "https://news.un.org/feed/view/en/story/2025/12/1166553",
-      "published_utc": "2025-12-09T12:00:00+00:00",
+      "title": "Arab region pushed to limits by climate extremes as 2024 smashes heat records",
+      "summary": "The Arab region is heating at nearly twice the global average, UN weather experts warned on Thursday, after 2024 saw unprecedented heat, destructive storms and worsening water scarcity impact some of the world’s most vulnerable communities.",
+      "link": "https://news.un.org/feed/view/en/story/2025/12/1166509",
+      "published_utc": "2025-12-04T12:00:00+00:00",
       "score": 3
     },
     {
@@ -176,10 +206,10 @@
       "section": "environment",
       "kind": "global",
       "source": "UN News - Climate",
-      "title": "Arab region pushed to limits by climate extremes as 2024 smashes heat records",
-      "summary": "The Arab region is heating at nearly twice the global average, UN weather experts warned on Thursday, after 2024 saw unprecedented heat, destructive storms and worsening water scarcity impact some of the world’s most vulnerable communities.",
-      "link": "https://news.un.org/feed/view/en/story/2025/12/1166509",
-      "published_utc": "2025-12-04T12:00:00+00:00",
+      "title": "Asia: Lives upended by cyclones, ‘extreme’ rainfall on the rise, warn UN agencies",
+      "summary": "Across southeast Asia, record-breaking rains and flooding caused by back-to-back tropical storms have claimed hundreds of lives and brought devastation and displacement upon entire communities, UN agencies said on Tuesday.&nbsp;",
+      "link": "https://news.un.org/feed/view/en/story/2025/12/1166482",
+      "published_utc": "2025-12-02T12:00:00+00:00",
       "score": 3
     },
     {
@@ -191,16 +221,6 @@
       "link": "https://www.digi24.ro/stiri/externe/sua/administratia-trump-cauta-depozite-permanente-de-deseuri-nucleare-in-planul-sua-de-a-alimenta-ai-beneficiile-insotite-de-riscuri-3619669",
       "published_utc": "2026-02-08T05:00:32+00:00",
       "score": 2
-    },
-    {
-      "section": "environment",
-      "kind": "global",
-      "source": "UN News - Climate",
-      "title": "Asia: Lives upended by cyclones, ‘extreme’ rainfall on the rise, warn UN agencies",
-      "summary": "Across southeast Asia, record-breaking rains and flooding caused by back-to-back tropical storms have claimed hundreds of lives and brought devastation and displacement upon entire communities, UN agencies said on Tuesday.&nbsp;",
-      "link": "https://news.un.org/feed/view/en/story/2025/12/1166482",
-      "published_utc": "2025-12-02T12:00:00+00:00",
-      "score": 3
     }
   ],
   "sections": {
@@ -209,10 +229,20 @@
         "section": "romania",
         "kind": "ro",
         "source": "Agerpres",
+        "title": "Tenis: Canadianul Felix Auger-Aliassime a câștigat turneul de la Montpellier (ATP)",
+        "summary": "",
+        "link": "https://agerpres.ro/sport-extern/2026/02/08/tenis-canadianul-felix-auger-aliassime-a-castigat-turneul-de-la-montpellier-atp--1526038",
+        "published_utc": "2026-02-08T16:17:44+00:00",
+        "score": 3
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Agerpres",
         "title": "Alba: Două grenade defensive descoperite pe un drum din municipiul Aiud",
         "summary": "",
         "link": "https://agerpres.ro/social/2026/02/08/alba-doua-grenade-defensive-descoperite-pe-un-drum-din-municipiul-aiud--1526024",
-        "published_utc": "2026-02-08T15:15:56+00:00",
+        "published_utc": "2026-02-08T16:17:44+00:00",
         "score": 1
       },
       {
@@ -222,8 +252,18 @@
         "title": "JO 2026 - Schi fond: Norvegianul Klaebo a câștigat proba de schiatlon; Paul Pepene, pe locul 50",
         "summary": "",
         "link": "https://agerpres.ro/sport-extern/2026/02/08/jo-2026---schi-fond-norvegianul-klaebo-a-castigat-proba-de-schiatlon-paul-pepene-pe-locul-50--1526015",
-        "published_utc": "2026-02-08T15:15:56+00:00",
+        "published_utc": "2026-02-08T16:17:44+00:00",
         "score": 3
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Aramis Invest, cel mai mare producător și exportator român de mobilă, furnizor-cheie al IKEA, reduce programul de lucru din cauza scăderii comenzilor",
+        "summary": "Compania Aramis Invest din Baia Mare, cel mai mare producător și exportator român de mobilă, furnizor-cheie al gigantului IKEA, se confruntă cu probleme economice. Cel mai mare producător din Maramureș, cu cea mai mare cifră&#8230;",
+        "link": "https://hotnews.ro/aramis-invest-cel-mai-mare-producator-si-exportator-roman-de-mobila-furnizor-cheie-al-ikea-reduce-programul-de-lucru-din-cauza-scaderii-comenzilor-2167181",
+        "published_utc": "2026-02-08T15:16:32+00:00",
+        "score": 1
       },
       {
         "section": "romania",
@@ -416,28 +456,28 @@
         "category_id": "space",
         "category_label": "🚀 Spațiu",
         "source": "Flickr (space)",
-        "title": "StarP 02-07",
-        "link": "https://www.flickr.com/photos/silentoneproductions/55084995805/",
-        "image_url": "https://www.flickr.com/apps/video/stewart.swf?v=2968162862&photo_id=55084995805",
-        "published_utc": "2026-02-08T15:01:02+00:00"
+        "title": "StarPs with faces; for and instant",
+        "link": "https://www.flickr.com/photos/silentoneproductions/55084963958/",
+        "image_url": "https://live.staticflickr.com/65535/55084963958_848a5fbdbb_b.jpg",
+        "published_utc": "2026-02-08T16:11:48+00:00"
       },
       {
         "category_id": "animals",
         "category_label": "🐾 Animale",
         "source": "Flickr (animals)",
-        "title": "Cherry blossoms (sakura) in full bloom at the flower garden of Matsumae Park",
-        "link": "https://www.flickr.com/photos/phuongphoto/55085021690/",
-        "image_url": "https://live.staticflickr.com/65535/55085021690_2daceabd00_b.jpg",
-        "published_utc": "2026-02-08T15:08:04+00:00"
+        "title": "Great Tit (Parus major)",
+        "link": "https://www.flickr.com/photos/gcampbellphoto/55082313152/",
+        "image_url": "https://live.staticflickr.com/65535/55082313152_397ec7484c_b.jpg",
+        "published_utc": "2026-02-08T16:02:45+00:00"
       },
       {
         "category_id": "landscapes",
         "category_label": "🏞️ Peisaj",
         "source": "Flickr (landscape)",
-        "title": "Sauerland",
-        "link": "https://www.flickr.com/photos/morbitphotography/55083764727/",
-        "image_url": "https://live.staticflickr.com/65535/55083764727_a113e54052_b.jpg",
-        "published_utc": "2026-02-08T15:12:17+00:00"
+        "title": "Capanni da pesca",
+        "link": "https://www.flickr.com/photos/zocchiphoto/55083874547/",
+        "image_url": "https://live.staticflickr.com/65535/55083874547_6604a92929_b.jpg",
+        "published_utc": "2026-02-08T16:13:23+00:00"
       }
     ],
     "joke": [
@@ -450,9 +490,9 @@
       {
         "date_utc": "2026-02-08",
         "source": "TimesNewRoman",
-        "title": "Primarii responsabili nu sparg banii pe iPhone! Piedone jr. şi-a luat doar o kendama de 4000 de lei",
+        "title": "Regrete târzii. Mulți români realizează că și-au făcut tatuaje în loc să-și cumpere un cojoc",
         "summary": "Cotidian independent de umor voluntar",
-        "link": "https://www.timesnewroman.ro/sport/primarii-responsabili-nu-sparg-banii-pe-iphone-piedone-jr-si-a-luat-doar-o-kendama-de-4000-de-lei/",
+        "link": "https://www.timesnewroman.ro/life-death/regrete-tarzii-multi-romani-realizeaza-ca-si-au-facut-tatuaje-in-loc-sa-si-cumpere-un-cojoc/",
         "note": "Satiră — nu este știre reală."
       }
     ]
