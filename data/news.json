@@ -1,6 +1,6 @@
 {
-  "generated_utc": "2026-02-09T12:41:58+00:00",
-  "count": 19,
+  "generated_utc": "2026-02-09T14:08:16+00:00",
+  "count": 15,
   "items": [
     {
       "section": "romania",
@@ -66,21 +66,21 @@
       "section": "romania",
       "kind": "ro",
       "source": "Digi24",
-      "title": "Singura stație smart de transport local din Galați a ajuns subiect de glume pe internet, după ce pământul de sub ea s-a tasat",
-      "summary": "Singura stație smart de transport local din Galați se „scufundă”, la propriu. Dotată cu Wi-Fi, camere de măsurare a temperaturii și display-uri pentru verificarea traficului autobuzelor și a evenimentelor din oraș, stația se degradează rapid. La doi ani de la inagurare, terenul s-a tasat, iar de vină ar fi ploile din ultima perioadă. În timp ce localnicii fac haz de necaz pe rețelele sociale, reprezentanții primăriei transmit că vor interveni abia când vremea le va permite.",
-      "link": "https://www.digi24.ro/stiri/singura-statie-smart-de-transport-local-din-galati-a-ajuns-subiect-de-glume-pe-internet-dupa-ce-pamantul-de-sub-ea-s-a-tasat-3620975",
-      "published_utc": "2026-02-09T10:18:32+00:00",
-      "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
       "title": "Gripa nu este o răceală banală",
       "summary": "Gripa este o infecție respiratorie acută care, la majoritatea oamenilor, se poate vindeca fără urmări, dar nu este o boală banală. În anumite situații, mai ales la vârstnici, gravide, copii mici sau persoane cu boli cronice, evoluția poate deveni rapid severă și poate necesita îngrijire medicală.",
       "link": "https://www.digi24.ro/sanatate-digimatinal/gripa-nu-este-o-raceala-banala-3622397",
       "published_utc": "2026-02-09T10:13:47+00:00",
       "score": 3
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "O nouă ediție TEZAUR: Titluri de stat cu dobânzi de până la 7% pe an, neimpozabile. Cum pot investi românii",
+      "summary": "Ministerul Finanțelor a lansat luni, 9 februarie 2026, a doua ediție din acest an a Programului TEZAUR, prin care statul se împrumută de la populație prin titluri de stat destinate persoanelor fizice. Programul se desfășoară până pe 6 martie 2026 și oferă dobânzi anuale neimpozabile de până la 7%.",
+      "link": "https://www.digi24.ro/stiri/actualitate/o-noua-editie-tezaur-titluri-de-stat-cu-dobanzi-de-pana-la-7-pe-an-neimpozabile-cum-pot-investi-romanii-3622333",
+      "published_utc": "2026-02-09T09:21:48+00:00",
+      "score": 2
     },
     {
       "section": "environment",
@@ -96,30 +96,10 @@
       "section": "romania",
       "kind": "ro",
       "source": "Digi24",
-      "title": "O nouă ediție TEZAUR: Titluri de stat cu dobânzi de până la 7% pe an, neimpozabile. Cum pot investi românii",
-      "summary": "Ministerul Finanțelor a lansat luni, 9 februarie 2026, a doua ediție din acest an a Programului TEZAUR, prin care statul se împrumută de la populație prin titluri de stat destinate persoanelor fizice. Programul se desfășoară până pe 6 martie 2026 și oferă dobânzi anuale neimpozabile de până la 7%.",
-      "link": "https://www.digi24.ro/stiri/actualitate/o-noua-editie-tezaur-titluri-de-stat-cu-dobanzi-de-pana-la-7-pe-an-neimpozabile-cum-pot-investi-romanii-3622333",
-      "published_utc": "2026-02-09T09:21:48+00:00",
-      "score": 2
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
       "title": "Sorana Cîrstea a urcat cinci locuri în top WTA după ce a câștigat Transylvania Open. Cum arată clasamentul pentru românce",
       "summary": "Câştigătoare la Transylvania Open, Sorana Cîrstea a urcat pe locul 31 în clasamentul WTA. Ea este în acest moment jucătoarea din România cel mai bine clasată",
       "link": "https://www.digi24.ro/stiri/sport/sorana-cirstea-a-urcat-cinci-locuri-in-top-wta-dupa-ce-a-castigat-transylvania-open-cum-arata-clasamentul-pentru-romance-3622147",
       "published_utc": "2026-02-09T07:20:53+00:00",
-      "score": 3
-    },
-    {
-      "section": "environment",
-      "kind": "global",
-      "source": "UN News - Climate",
-      "title": "UN environment assembly wraps up in Nairobi",
-      "summary": "The seventh session of the United Nations Environment Assembly (UNEA-7) concluded in Nairobi, Kenya, on Friday with Member States adopting 11 resolutions, three decisions and a ministerial declaration aiming to advance solutions for a more resilient planet.&nbsp;",
-      "link": "https://news.un.org/feed/view/en/story/2025/12/1166585",
-      "published_utc": "2025-12-12T12:00:00+00:00",
       "score": 3
     },
     {
@@ -133,14 +113,14 @@
       "score": 3
     },
     {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Digistoria – cele mai importante evenimente petrecute pe 9 februarie",
-      "summary": "Cele mai importante evenimente petrecute pe 9 februarie",
-      "link": "https://www.digi24.ro/digistoria/digistoria-cele-mai-importante-evenimente-petrecute-pe-9-februarie-3-3622061",
-      "published_utc": "2026-02-09T05:29:54+00:00",
-      "score": 1
+      "section": "environment",
+      "kind": "global",
+      "source": "UN News - Climate",
+      "title": "UN environment assembly wraps up in Nairobi",
+      "summary": "The seventh session of the United Nations Environment Assembly (UNEA-7) concluded in Nairobi, Kenya, on Friday with Member States adopting 11 resolutions, three decisions and a ministerial declaration aiming to advance solutions for a more resilient planet.&nbsp;",
+      "link": "https://news.un.org/feed/view/en/story/2025/12/1166585",
+      "published_utc": "2025-12-12T12:00:00+00:00",
+      "score": 3
     },
     {
       "section": "environment",
@@ -151,26 +131,6 @@
       "link": "https://news.un.org/feed/view/en/story/2025/12/1166553",
       "published_utc": "2025-12-09T12:00:00+00:00",
       "score": 3
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "„Au rămas neatinse de 49 de milioane de ani”. Un indiciu ascuns într-o peșteră ne-ar putea schimba percepția despre viața extraterestră",
-      "summary": "Când biospeologul Heather Barton s-a aventurat într-o peșteră întunecată, ultimul lucru pe care se aștepta să îl găsească erau organisme care își iau energia din lumină. Această nouă înțelegere a fotosintezei în întuneric le oferă cercetătorilor motive să creadă că viața în Univers se poate dezvolta și în locuri în care nu și-ar fi imaginat niciodată că ar putea exista.",
-      "link": "https://www.digi24.ro/stiri/sci-tech/descoperiri/au-ramas-neatinse-de-49-de-milioane-de-ani-un-indiciu-ascuns-intr-o-pestera-ne-ar-putea-schimba-perceptia-despre-viata-extraterestra-3612671",
-      "published_utc": "2026-02-09T05:00:40+00:00",
-      "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Autismul, diagnosticat mai târziu la fete decât la băieți. Un nou studiu trage un semnal de alarmă privind recunoașterea simptomelor",
-      "summary": "Fetele cu autism sunt diagnosticate mai rar și mai târziu decât băieții, arată un studiu de amploare realizat în Suedia. Cercetarea sugerează că diferențele nu reflectă o incidență mai mare a autismului în rândul băieților, ci dificultăți sistemice în identificarea timpurie a fetelor, ale căror simptome sunt adesea trecute cu vederea sau interpretate greșit.",
-      "link": "https://www.digi24.ro/stiri/actualitate/sanatate/autismul-diagnosticat-mai-tarziu-la-fete-decat-la-baieti-un-nou-studiu-trage-un-semnal-de-alarma-privind-recunoasterea-simptomelor-3616849",
-      "published_utc": "2026-02-09T05:00:38+00:00",
-      "score": 2
     },
     {
       "section": "environment",
@@ -239,16 +199,6 @@
         "section": "romania",
         "kind": "ro",
         "source": "Digi24",
-        "title": "Singura stație smart de transport local din Galați a ajuns subiect de glume pe internet, după ce pământul de sub ea s-a tasat",
-        "summary": "Singura stație smart de transport local din Galați se „scufundă”, la propriu. Dotată cu Wi-Fi, camere de măsurare a temperaturii și display-uri pentru verificarea traficului autobuzelor și a evenimentelor din oraș, stația se degradează rapid. La doi ani de la inagurare, terenul s-a tasat, iar de vină ar fi ploile din ultima perioadă. În timp ce localnicii fac haz de necaz pe rețelele sociale, reprezentanții primăriei transmit că vor interveni abia când vremea le va permite.",
-        "link": "https://www.digi24.ro/stiri/singura-statie-smart-de-transport-local-din-galati-a-ajuns-subiect-de-glume-pe-internet-dupa-ce-pamantul-de-sub-ea-s-a-tasat-3620975",
-        "published_utc": "2026-02-09T10:18:32+00:00",
-        "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
         "title": "Gripa nu este o răceală banală",
         "summary": "Gripa este o infecție respiratorie acută care, la majoritatea oamenilor, se poate vindeca fără urmări, dar nu este o boală banală. În anumite situații, mai ales la vârstnici, gravide, copii mici sau persoane cu boli cronice, evoluția poate deveni rapid severă și poate necesita îngrijire medicală.",
         "link": "https://www.digi24.ro/sanatate-digimatinal/gripa-nu-este-o-raceala-banala-3622397",
@@ -284,36 +234,6 @@
         "link": "https://www.digi24.ro/stiri/externe/sua/autoritatile-maga-coplesite-de-numarul-mare-de-cazuri-de-rujeola-din-sua-dr-oz-va-rog-sa-va-vaccinati-3622115",
         "published_utc": "2026-02-09T06:55:02+00:00",
         "score": 3
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Digistoria – cele mai importante evenimente petrecute pe 9 februarie",
-        "summary": "Cele mai importante evenimente petrecute pe 9 februarie",
-        "link": "https://www.digi24.ro/digistoria/digistoria-cele-mai-importante-evenimente-petrecute-pe-9-februarie-3-3622061",
-        "published_utc": "2026-02-09T05:29:54+00:00",
-        "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "„Au rămas neatinse de 49 de milioane de ani”. Un indiciu ascuns într-o peșteră ne-ar putea schimba percepția despre viața extraterestră",
-        "summary": "Când biospeologul Heather Barton s-a aventurat într-o peșteră întunecată, ultimul lucru pe care se aștepta să îl găsească erau organisme care își iau energia din lumină. Această nouă înțelegere a fotosintezei în întuneric le oferă cercetătorilor motive să creadă că viața în Univers se poate dezvolta și în locuri în care nu și-ar fi imaginat niciodată că ar putea exista.",
-        "link": "https://www.digi24.ro/stiri/sci-tech/descoperiri/au-ramas-neatinse-de-49-de-milioane-de-ani-un-indiciu-ascuns-intr-o-pestera-ne-ar-putea-schimba-perceptia-despre-viata-extraterestra-3612671",
-        "published_utc": "2026-02-09T05:00:40+00:00",
-        "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Autismul, diagnosticat mai târziu la fete decât la băieți. Un nou studiu trage un semnal de alarmă privind recunoașterea simptomelor",
-        "summary": "Fetele cu autism sunt diagnosticate mai rar și mai târziu decât băieții, arată un studiu de amploare realizat în Suedia. Cercetarea sugerează că diferențele nu reflectă o incidență mai mare a autismului în rândul băieților, ci dificultăți sistemice în identificarea timpurie a fetelor, ale căror simptome sunt adesea trecute cu vederea sau interpretate greșit.",
-        "link": "https://www.digi24.ro/stiri/actualitate/sanatate/autismul-diagnosticat-mai-tarziu-la-fete-decat-la-baieti-un-nou-studiu-trage-un-semnal-de-alarma-privind-recunoasterea-simptomelor-3616849",
-        "published_utc": "2026-02-09T05:00:38+00:00",
-        "score": 2
       }
     ],
     "medical": [],
@@ -405,19 +325,19 @@
         "category_id": "animals",
         "category_label": "🐾 Animale",
         "source": "Flickr (animals)",
-        "title": "Trumpeter Swans on a frigid",
-        "link": "https://www.flickr.com/photos/9063892@N03/55086670349/",
-        "image_url": "https://live.staticflickr.com/65535/55086670349_552dd25b6d_b.jpg",
-        "published_utc": "2026-02-09T12:31:28+00:00"
+        "title": "Mute Swan",
+        "link": "https://www.flickr.com/photos/121541544@N07/55085656182/",
+        "image_url": "https://live.staticflickr.com/65535/55085656182_6471ee2066_b.jpg",
+        "published_utc": "2026-02-09T14:03:00+00:00"
       },
       {
         "category_id": "landscapes",
         "category_label": "🏞️ Peisaj",
         "source": "Flickr (landscape)",
-        "title": "Nature Snap",
-        "link": "https://www.flickr.com/photos/155103680@N07/55086622893/",
-        "image_url": "https://live.staticflickr.com/65535/55086622893_8d770f5681_b.jpg",
-        "published_utc": "2026-02-09T12:37:15+00:00"
+        "title": "Bewick's Swan \"Cygnus columbianus\"",
+        "link": "https://www.flickr.com/photos/michaeljh/55086731163/",
+        "image_url": "https://live.staticflickr.com/65535/55086731163_6596eab952_b.jpg",
+        "published_utc": "2026-02-09T14:07:32+00:00"
       }
     ],
     "joke": [
@@ -430,9 +350,9 @@
       {
         "date_utc": "2026-02-09",
         "source": "TimesNewRoman",
-        "title": "Românii care au avut 10 ani președinte un robot, revoltați că acum un alt robot le cântă manele",
+        "title": "Regrete târzii. Mulți români realizează că și-au făcut tatuaje în loc să-și cumpere un cojoc",
         "summary": "Cotidian independent de umor voluntar",
-        "link": "https://www.timesnewroman.ro/monden/romanii-care-au-avut-10-ani-presedinte-un-robot-revoltati-ca-acum-un-alt-robot-le-canta-manele/",
+        "link": "https://www.timesnewroman.ro/life-death/regrete-tarzii-multi-romani-realizeaza-ca-si-au-facut-tatuaje-in-loc-sa-si-cumpere-un-cojoc/",
         "note": "Satiră — nu este știre reală."
       }
     ]
