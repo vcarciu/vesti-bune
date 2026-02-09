@@ -1,7 +1,37 @@
 {
-  "generated_utc": "2026-02-09T11:38:43+00:00",
-  "count": 18,
+  "generated_utc": "2026-02-09T12:41:58+00:00",
+  "count": 19,
   "items": [
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "Noi finanțări de milioane de euro pentru startup-uri românești: Un manager francez va conduce fondul de venture capital lansat de ADR Vest",
+      "summary": "O serie de startup-uri din regiunea Vest a României vor putea obține finanțări de capital de risc de câte 500.000-4 milioane EUR, prin noul Fond de tip Venture Capital, lansat de Agenția pentru Dezvoltare Regională&#8230;",
+      "link": "https://hotnews.ro/noi-finantari-de-500-000-4-milioane-eur-pentru-startup-urilor-romanesti-un-manager-francez-va-conduce-fondul-de-venture-capital-lansat-de-adr-vest-2167668",
+      "published_utc": "2026-02-09T12:20:20+00:00",
+      "score": 2
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "O barcă cu migranți s-a răsturnat în Marea Mediterană: 53 de oameni au murit sau sunt dați dispăruți",
+      "summary": "Agenția ONU pentru migrație a declarat că 53 de persoane au murit sau sunt date dispărute după ce o barcă s-a răsturnat în Marea Mediterană, în largul coastelor libiene. Doar doi supraviețuitori au fost salvați, relatează The Guardian.",
+      "link": "https://www.digi24.ro/stiri/externe/o-barca-cu-migranti-s-a-rasturnat-in-marea-mediterana-53-de-oameni-au-murit-sau-sunt-dati-disparuti-3622715",
+      "published_utc": "2026-02-09T11:50:11+00:00",
+      "score": 3
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Science News",
+      "title": "Widespread use of HPV shots could mean fewer cervical cancer screenings",
+      "summary": "A modeling study of Norway, which has high HPV vaccination coverage and uniform cervical cancer screening, suggests fewer screens could be needed.",
+      "link": "https://www.sciencenews.org/article/widespread-hpv-shots-cervical-cancer",
+      "published_utc": "2026-02-02T22:30:07+00:00",
+      "score": 3
+    },
     {
       "section": "romania",
       "kind": "ro",
@@ -26,10 +56,10 @@
       "section": "science",
       "kind": "global",
       "source": "Science News",
-      "title": "Widespread use of HPV shots could mean fewer cervical cancer screenings",
-      "summary": "A modeling study of Norway, which has high HPV vaccination coverage and uniform cervical cancer screening, suggests fewer screens could be needed.",
-      "link": "https://www.sciencenews.org/article/widespread-hpv-shots-cervical-cancer",
-      "published_utc": "2026-02-02T22:30:07+00:00",
+      "title": "A study hints positive thinking could strengthen vaccine immunity",
+      "summary": "Thinking positive increased a specific brain region's activity and might have heightened immune response after a shot.",
+      "link": "https://www.sciencenews.org/article/placebo-brain-activity-vaccine-antibody",
+      "published_utc": "2026-01-30T16:00:00+00:00",
       "score": 3
     },
     {
@@ -53,13 +83,13 @@
       "score": 3
     },
     {
-      "section": "science",
+      "section": "environment",
       "kind": "global",
-      "source": "Science News",
-      "title": "A study hints positive thinking could strengthen vaccine immunity",
-      "summary": "Thinking positive increased a specific brain region's activity and might have heightened immune response after a shot.",
-      "link": "https://www.sciencenews.org/article/placebo-brain-activity-vaccine-antibody",
-      "published_utc": "2026-01-30T16:00:00+00:00",
+      "source": "UN News - Climate",
+      "title": "11-year streak of record global warming continues, UN weather agency warns",
+      "summary": "The past 11 years have been the warmest in the modern era, while oceans continue to heat up, too, says the UN weather agency.",
+      "link": "https://news.un.org/feed/view/en/story/2026/01/1166758",
+      "published_utc": "2026-01-14T12:00:00+00:00",
       "score": 3
     },
     {
@@ -75,41 +105,11 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "HotNews",
-      "title": "A doua ediție Tezaur din acest an. Ce dobânzi garantează și cum pot fi cumpărate titlurile de stat",
-      "summary": "Ministerul Finanțelor lansează astăzi, 9 februarie 2026, a doua ediție a Programului de titluri de stat Tezaur din acest an, care oferă persoanelor fizice o nouă oportunitate de economisire în condiții avantajoase. În perioada 9&#8230;",
-      "link": "https://hotnews.ro/a-doua-editie-tezaur-din-acest-an-ce-dobanzi-garanteaza-si-cum-pot-fi-cumparate-titlurile-de-stat-2167487",
-      "published_utc": "2026-02-09T09:13:49+00:00",
-      "score": 1
-    },
-    {
-      "section": "environment",
-      "kind": "global",
-      "source": "UN News - Climate",
-      "title": "11-year streak of record global warming continues, UN weather agency warns",
-      "summary": "The past 11 years have been the warmest in the modern era, while oceans continue to heat up, too, says the UN weather agency.",
-      "link": "https://news.un.org/feed/view/en/story/2026/01/1166758",
-      "published_utc": "2026-01-14T12:00:00+00:00",
-      "score": 3
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "Digi24",
       "title": "Sorana Cîrstea a urcat cinci locuri în top WTA după ce a câștigat Transylvania Open. Cum arată clasamentul pentru românce",
       "summary": "Câştigătoare la Transylvania Open, Sorana Cîrstea a urcat pe locul 31 în clasamentul WTA. Ea este în acest moment jucătoarea din România cel mai bine clasată",
       "link": "https://www.digi24.ro/stiri/sport/sorana-cirstea-a-urcat-cinci-locuri-in-top-wta-dupa-ce-a-castigat-transylvania-open-cum-arata-clasamentul-pentru-romance-3622147",
       "published_utc": "2026-02-09T07:20:53+00:00",
-      "score": 3
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Autoritățile MAGA, copleșite de numărul mare de cazuri de rujeolă din SUA. Dr. Oz: „Vă rog să vă vaccinați”",
-      "summary": "Un înalt oficial din domeniul sănătății publice din SUA a îndemnat americanii să se vaccineze împotriva rujeolei, pe fondul epidemiei care continuă în mai multe state și al îngrijorării crescânde că țara ar putea pierde statutul de țară fără rujeolă. Dr. Mehmet Oz, chirurg cardiotoracic, s-a pronunțat duminică în favoarea vaccinului împotriva rujeolei, scrie The Guardian.",
-      "link": "https://www.digi24.ro/stiri/externe/sua/autoritatile-maga-coplesite-de-numarul-mare-de-cazuri-de-rujeola-din-sua-dr-oz-va-rog-sa-va-vaccinati-3622115",
-      "published_utc": "2026-02-09T06:55:02+00:00",
       "score": 3
     },
     {
@@ -126,20 +126,20 @@
       "section": "romania",
       "kind": "ro",
       "source": "Digi24",
-      "title": "Digistoria – cele mai importante evenimente petrecute pe 9 februarie",
-      "summary": "Cele mai importante evenimente petrecute pe 9 februarie",
-      "link": "https://www.digi24.ro/digistoria/digistoria-cele-mai-importante-evenimente-petrecute-pe-9-februarie-3-3622061",
-      "published_utc": "2026-02-09T05:29:54+00:00",
-      "score": 1
+      "title": "Autoritățile MAGA, copleșite de numărul mare de cazuri de rujeolă din SUA. Dr. Oz: „Vă rog să vă vaccinați”",
+      "summary": "Un înalt oficial din domeniul sănătății publice din SUA a îndemnat americanii să se vaccineze împotriva rujeolei, pe fondul epidemiei care continuă în mai multe state și al îngrijorării crescânde că țara ar putea pierde statutul de țară fără rujeolă. Dr. Mehmet Oz, chirurg cardiotoracic, s-a pronunțat duminică în favoarea vaccinului împotriva rujeolei, scrie The Guardian.",
+      "link": "https://www.digi24.ro/stiri/externe/sua/autoritatile-maga-coplesite-de-numarul-mare-de-cazuri-de-rujeola-din-sua-dr-oz-va-rog-sa-va-vaccinati-3622115",
+      "published_utc": "2026-02-09T06:55:02+00:00",
+      "score": 3
     },
     {
       "section": "romania",
       "kind": "ro",
       "source": "Digi24",
-      "title": "„Au rămas neatinse de 49 de milioane de ani”. Un indiciu ascuns într-o peșteră ne-ar putea schimba percepția despre viața extraterestră",
-      "summary": "Când biospeologul Heather Barton s-a aventurat într-o peșteră întunecată, ultimul lucru pe care se aștepta să îl găsească erau organisme care își iau energia din lumină. Această nouă înțelegere a fotosintezei în întuneric le oferă cercetătorilor motive să creadă că viața în Univers se poate dezvolta și în locuri în care nu și-ar fi imaginat niciodată că ar putea exista.",
-      "link": "https://www.digi24.ro/stiri/sci-tech/descoperiri/au-ramas-neatinse-de-49-de-milioane-de-ani-un-indiciu-ascuns-intr-o-pestera-ne-ar-putea-schimba-perceptia-despre-viata-extraterestra-3612671",
-      "published_utc": "2026-02-09T05:00:40+00:00",
+      "title": "Digistoria – cele mai importante evenimente petrecute pe 9 februarie",
+      "summary": "Cele mai importante evenimente petrecute pe 9 februarie",
+      "link": "https://www.digi24.ro/digistoria/digistoria-cele-mai-importante-evenimente-petrecute-pe-9-februarie-3-3622061",
+      "published_utc": "2026-02-09T05:29:54+00:00",
       "score": 1
     },
     {
@@ -151,6 +151,16 @@
       "link": "https://news.un.org/feed/view/en/story/2025/12/1166553",
       "published_utc": "2025-12-09T12:00:00+00:00",
       "score": 3
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "„Au rămas neatinse de 49 de milioane de ani”. Un indiciu ascuns într-o peșteră ne-ar putea schimba percepția despre viața extraterestră",
+      "summary": "Când biospeologul Heather Barton s-a aventurat într-o peșteră întunecată, ultimul lucru pe care se aștepta să îl găsească erau organisme care își iau energia din lumină. Această nouă înțelegere a fotosintezei în întuneric le oferă cercetătorilor motive să creadă că viața în Univers se poate dezvolta și în locuri în care nu și-ar fi imaginat niciodată că ar putea exista.",
+      "link": "https://www.digi24.ro/stiri/sci-tech/descoperiri/au-ramas-neatinse-de-49-de-milioane-de-ani-un-indiciu-ascuns-intr-o-pestera-ne-ar-putea-schimba-perceptia-despre-viata-extraterestra-3612671",
+      "published_utc": "2026-02-09T05:00:40+00:00",
+      "score": 1
     },
     {
       "section": "romania",
@@ -185,6 +195,26 @@
   ],
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Noi finanțări de milioane de euro pentru startup-uri românești: Un manager francez va conduce fondul de venture capital lansat de ADR Vest",
+        "summary": "O serie de startup-uri din regiunea Vest a României vor putea obține finanțări de capital de risc de câte 500.000-4 milioane EUR, prin noul Fond de tip Venture Capital, lansat de Agenția pentru Dezvoltare Regională&#8230;",
+        "link": "https://hotnews.ro/noi-finantari-de-500-000-4-milioane-eur-pentru-startup-urilor-romanesti-un-manager-francez-va-conduce-fondul-de-venture-capital-lansat-de-adr-vest-2167668",
+        "published_utc": "2026-02-09T12:20:20+00:00",
+        "score": 2
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "O barcă cu migranți s-a răsturnat în Marea Mediterană: 53 de oameni au murit sau sunt dați dispăruți",
+        "summary": "Agenția ONU pentru migrație a declarat că 53 de persoane au murit sau sunt date dispărute după ce o barcă s-a răsturnat în Marea Mediterană, în largul coastelor libiene. Doar doi supraviețuitori au fost salvați, relatează The Guardian.",
+        "link": "https://www.digi24.ro/stiri/externe/o-barca-cu-migranti-s-a-rasturnat-in-marea-mediterana-53-de-oameni-au-murit-sau-sunt-dati-disparuti-3622715",
+        "published_utc": "2026-02-09T11:50:11+00:00",
+        "score": 3
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -234,16 +264,6 @@
         "link": "https://www.digi24.ro/stiri/actualitate/o-noua-editie-tezaur-titluri-de-stat-cu-dobanzi-de-pana-la-7-pe-an-neimpozabile-cum-pot-investi-romanii-3622333",
         "published_utc": "2026-02-09T09:21:48+00:00",
         "score": 2
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "A doua ediție Tezaur din acest an. Ce dobânzi garantează și cum pot fi cumpărate titlurile de stat",
-        "summary": "Ministerul Finanțelor lansează astăzi, 9 februarie 2026, a doua ediție a Programului de titluri de stat Tezaur din acest an, care oferă persoanelor fizice o nouă oportunitate de economisire în condiții avantajoase. În perioada 9&#8230;",
-        "link": "https://hotnews.ro/a-doua-editie-tezaur-din-acest-an-ce-dobanzi-garanteaza-si-cum-pot-fi-cumparate-titlurile-de-stat-2167487",
-        "published_utc": "2026-02-09T09:13:49+00:00",
-        "score": 1
       },
       {
         "section": "romania",
@@ -385,19 +405,19 @@
         "category_id": "animals",
         "category_label": "🐾 Animale",
         "source": "Flickr (animals)",
-        "title": "Pine Marten",
-        "link": "https://www.flickr.com/photos/129524245@N08/55086321211/",
-        "image_url": "https://live.staticflickr.com/65535/55086321211_4ec75de687_b.jpg",
-        "published_utc": "2026-02-09T11:23:51+00:00"
+        "title": "Trumpeter Swans on a frigid",
+        "link": "https://www.flickr.com/photos/9063892@N03/55086670349/",
+        "image_url": "https://live.staticflickr.com/65535/55086670349_552dd25b6d_b.jpg",
+        "published_utc": "2026-02-09T12:31:28+00:00"
       },
       {
         "category_id": "landscapes",
         "category_label": "🏞️ Peisaj",
         "source": "Flickr (landscape)",
-        "title": "Red Rose",
-        "link": "https://www.flickr.com/photos/maticsteve/55086704940/",
-        "image_url": "https://live.staticflickr.com/65535/55086704940_1ae57e5bca_b.jpg",
-        "published_utc": "2026-02-09T11:30:29+00:00"
+        "title": "Nature Snap",
+        "link": "https://www.flickr.com/photos/155103680@N07/55086622893/",
+        "image_url": "https://live.staticflickr.com/65535/55086622893_8d770f5681_b.jpg",
+        "published_utc": "2026-02-09T12:37:15+00:00"
       }
     ],
     "joke": [
@@ -410,9 +430,9 @@
       {
         "date_utc": "2026-02-09",
         "source": "TimesNewRoman",
-        "title": "Regrete târzii. Mulți români realizează că și-au făcut tatuaje în loc să-și cumpere un cojoc",
+        "title": "Românii care au avut 10 ani președinte un robot, revoltați că acum un alt robot le cântă manele",
         "summary": "Cotidian independent de umor voluntar",
-        "link": "https://www.timesnewroman.ro/life-death/regrete-tarzii-multi-romani-realizeaza-ca-si-au-facut-tatuaje-in-loc-sa-si-cumpere-un-cojoc/",
+        "link": "https://www.timesnewroman.ro/monden/romanii-care-au-avut-10-ani-presedinte-un-robot-revoltati-ca-acum-un-alt-robot-le-canta-manele/",
         "note": "Satiră — nu este știre reală."
       }
     ]
