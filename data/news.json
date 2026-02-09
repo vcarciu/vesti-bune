@@ -1,37 +1,7 @@
 {
-  "generated_utc": "2026-02-09T01:11:19+00:00",
-  "count": 19,
+  "generated_utc": "2026-02-09T04:15:49+00:00",
+  "count": 17,
   "items": [
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Agerpres",
-      "title": "VIDEO JO 2026 - Patinaj viteză: Norvegianul Sander Eitrem, campion olimpic la 5.000 m, cu un nou record olimpic",
-      "summary": "",
-      "link": "https://agerpres.ro/sport-extern/2026/02/08/video-jo-2026---patinaj-viteza-norvegianul-sander-eitrem-campion-olimpic-la-5-000-m-cu-un-nou-record--1526066",
-      "published_utc": "2026-02-09T01:10:40+00:00",
-      "score": 6
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Agerpres",
-      "title": "Handbal feminin: CS Rapid București a câștigat clar la Oldenburg, în EHF European League",
-      "summary": "",
-      "link": "https://agerpres.ro/sport-extern/2026/02/08/handbal-feminin-cs-rapid-bucuresti-a-castigat-clar-la-oldenburg-in-ehf-european-league--1526062",
-      "published_utc": "2026-02-09T01:10:40+00:00",
-      "score": 3
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Science News",
-      "title": "Widespread use of HPV shots could mean fewer cervical cancer screenings",
-      "summary": "A modeling study of Norway, which has high HPV vaccination coverage and uniform cervical cancer screening, suggests fewer screens could be needed.",
-      "link": "https://www.sciencenews.org/article/widespread-hpv-shots-cervical-cancer",
-      "published_utc": "2026-02-02T22:30:07+00:00",
-      "score": 3
-    },
     {
       "section": "romania",
       "kind": "ro",
@@ -56,10 +26,10 @@
       "section": "science",
       "kind": "global",
       "source": "Science News",
-      "title": "A study hints positive thinking could strengthen vaccine immunity",
-      "summary": "Thinking positive increased a specific brain region's activity and might have heightened immune response after a shot.",
-      "link": "https://www.sciencenews.org/article/placebo-brain-activity-vaccine-antibody",
-      "published_utc": "2026-01-30T16:00:00+00:00",
+      "title": "Widespread use of HPV shots could mean fewer cervical cancer screenings",
+      "summary": "A modeling study of Norway, which has high HPV vaccination coverage and uniform cervical cancer screening, suggests fewer screens could be needed.",
+      "link": "https://www.sciencenews.org/article/widespread-hpv-shots-cervical-cancer",
+      "published_utc": "2026-02-02T22:30:07+00:00",
       "score": 3
     },
     {
@@ -83,13 +53,13 @@
       "score": 3
     },
     {
-      "section": "environment",
+      "section": "science",
       "kind": "global",
-      "source": "UN News - Climate",
-      "title": "11-year streak of record global warming continues, UN weather agency warns",
-      "summary": "The past 11 years have been the warmest in the modern era, while oceans continue to heat up, too, says the UN weather agency.",
-      "link": "https://news.un.org/feed/view/en/story/2026/01/1166758",
-      "published_utc": "2026-01-14T12:00:00+00:00",
+      "source": "Science News",
+      "title": "A study hints positive thinking could strengthen vaccine immunity",
+      "summary": "Thinking positive increased a specific brain region's activity and might have heightened immune response after a shot.",
+      "link": "https://www.sciencenews.org/article/placebo-brain-activity-vaccine-antibody",
+      "published_utc": "2026-01-30T16:00:00+00:00",
       "score": 3
     },
     {
@@ -116,10 +86,10 @@
       "section": "environment",
       "kind": "global",
       "source": "UN News - Climate",
-      "title": "UN environment assembly wraps up in Nairobi",
-      "summary": "The seventh session of the United Nations Environment Assembly (UNEA-7) concluded in Nairobi, Kenya, on Friday with Member States adopting 11 resolutions, three decisions and a ministerial declaration aiming to advance solutions for a more resilient planet.&nbsp;",
-      "link": "https://news.un.org/feed/view/en/story/2025/12/1166585",
-      "published_utc": "2025-12-12T12:00:00+00:00",
+      "title": "11-year streak of record global warming continues, UN weather agency warns",
+      "summary": "The past 11 years have been the warmest in the modern era, while oceans continue to heat up, too, says the UN weather agency.",
+      "link": "https://news.un.org/feed/view/en/story/2026/01/1166758",
+      "published_utc": "2026-01-14T12:00:00+00:00",
       "score": 3
     },
     {
@@ -146,10 +116,10 @@
       "section": "environment",
       "kind": "global",
       "source": "UN News - Climate",
-      "title": "A sustainable future requires new thinking: UN environment report",
-      "summary": "Adopting a fresh approach to protecting planetary health would deliver stronger economies, fewer deaths and less poverty, the UN Environment Programme (UNEP) insisted on Tuesday, as it released its most comprehensive assessment of environmental pressures facing the world.",
-      "link": "https://news.un.org/feed/view/en/story/2025/12/1166553",
-      "published_utc": "2025-12-09T12:00:00+00:00",
+      "title": "UN environment assembly wraps up in Nairobi",
+      "summary": "The seventh session of the United Nations Environment Assembly (UNEA-7) concluded in Nairobi, Kenya, on Friday with Member States adopting 11 resolutions, three decisions and a ministerial declaration aiming to advance solutions for a more resilient planet.&nbsp;",
+      "link": "https://news.un.org/feed/view/en/story/2025/12/1166585",
+      "published_utc": "2025-12-12T12:00:00+00:00",
       "score": 3
     },
     {
@@ -176,6 +146,16 @@
       "section": "environment",
       "kind": "global",
       "source": "UN News - Climate",
+      "title": "A sustainable future requires new thinking: UN environment report",
+      "summary": "Adopting a fresh approach to protecting planetary health would deliver stronger economies, fewer deaths and less poverty, the UN Environment Programme (UNEP) insisted on Tuesday, as it released its most comprehensive assessment of environmental pressures facing the world.",
+      "link": "https://news.un.org/feed/view/en/story/2025/12/1166553",
+      "published_utc": "2025-12-09T12:00:00+00:00",
+      "score": 3
+    },
+    {
+      "section": "environment",
+      "kind": "global",
+      "source": "UN News - Climate",
       "title": "Arab region pushed to limits by climate extremes as 2024 smashes heat records",
       "summary": "The Arab region is heating at nearly twice the global average, UN weather experts warned on Thursday, after 2024 saw unprecedented heat, destructive storms and worsening water scarcity impact some of the world’s most vulnerable communities.",
       "link": "https://news.un.org/feed/view/en/story/2025/12/1166509",
@@ -195,26 +175,6 @@
   ],
   "sections": {
     "romania": [
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Agerpres",
-        "title": "VIDEO JO 2026 - Patinaj viteză: Norvegianul Sander Eitrem, campion olimpic la 5.000 m, cu un nou record olimpic",
-        "summary": "",
-        "link": "https://agerpres.ro/sport-extern/2026/02/08/video-jo-2026---patinaj-viteza-norvegianul-sander-eitrem-campion-olimpic-la-5-000-m-cu-un-nou-record--1526066",
-        "published_utc": "2026-02-09T01:10:40+00:00",
-        "score": 6
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Agerpres",
-        "title": "Handbal feminin: CS Rapid București a câștigat clar la Oldenburg, în EHF European League",
-        "summary": "",
-        "link": "https://agerpres.ro/sport-extern/2026/02/08/handbal-feminin-cs-rapid-bucuresti-a-castigat-clar-la-oldenburg-in-ehf-european-league--1526062",
-        "published_utc": "2026-02-09T01:10:40+00:00",
-        "score": 3
-      },
       {
         "section": "romania",
         "kind": "ro",
@@ -396,28 +356,28 @@
         "category_id": "space",
         "category_label": "🚀 Spațiu",
         "source": "Flickr (space)",
-        "title": "Pixels",
-        "link": "https://www.flickr.com/photos/rossburton/55085595008/",
-        "image_url": "https://live.staticflickr.com/65535/55085595008_d54a44fc13_b.jpg",
-        "published_utc": "2026-02-08T21:35:37+00:00"
+        "title": "AAW_4376",
+        "link": "https://www.flickr.com/photos/crobart/55085983269/",
+        "image_url": "https://live.staticflickr.com/65535/55085983269_35dbcbcb9a_b.jpg",
+        "published_utc": "2026-02-09T01:41:46+00:00"
       },
       {
         "category_id": "animals",
         "category_label": "🐾 Animale",
         "source": "Flickr (animals)",
-        "title": "Holland Prairie Cows (Holland, Indiana)",
-        "link": "https://www.flickr.com/photos/courthouselover/55085635468/",
-        "image_url": "https://live.staticflickr.com/65535/55085635468_acc7a87c65_b.jpg",
-        "published_utc": "2026-02-09T00:52:44+00:00"
+        "title": "American Bison",
+        "link": "https://www.flickr.com/photos/jjs08/55086239965/",
+        "image_url": "https://live.staticflickr.com/65535/55086239965_17c7dc4377_b.jpg",
+        "published_utc": "2026-02-09T03:58:40+00:00"
       },
       {
         "category_id": "landscapes",
         "category_label": "🏞️ Peisaj",
         "source": "Flickr (landscape)",
-        "title": "La Rochelle - Concurrence 7",
-        "link": "https://www.flickr.com/photos/197301547@N03/55085684446/",
-        "image_url": "https://live.staticflickr.com/65535/55085684446_efdb9e5fd7_b.jpg",
-        "published_utc": "2026-02-09T01:05:27+00:00"
+        "title": "2025-09-18-1423-DSC_0926",
+        "link": "https://www.flickr.com/photos/adriandelisle/55086135394/",
+        "image_url": "https://live.staticflickr.com/65535/55086135394_a8cb73c0b5_b.jpg",
+        "published_utc": "2026-02-09T04:02:50+00:00"
       }
     ],
     "joke": [
@@ -430,9 +390,9 @@
       {
         "date_utc": "2026-02-09",
         "source": "TimesNewRoman",
-        "title": "Singurul infractor aflat încă la închisoare nu înţelege ce are Lia Savonea cu el",
+        "title": "După Lolita Cercel, AI-ul a generat şi un politician fără Bac: Ciolita Marcel",
         "summary": "Cotidian independent de umor voluntar",
-        "link": "https://www.timesnewroman.ro/life-death/singurul-infractor-aflat-inca-la-inchisoare-nu-intelege-ce-are-lia-savonea-cu-el/",
+        "link": "https://www.timesnewroman.ro/politic/dupa-lolita-cercel-ai-ul-a-generat-si-un-politician-fara-bac-ciolita-marcel/",
         "note": "Satiră — nu este știre reală."
       }
     ]
