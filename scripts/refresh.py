@@ -137,10 +137,17 @@ RAW_NEGATIVE_KEYWORDS = [
 ]
 
 RAW_SOFT_NEGATIVE = [
-    # nu le facem hard, dar penalizăm
+    # politică light (mai ales RO)
     "politic", "guvern", "parlament", "aleger", "ministr", "presed",
-    "controvers", "tensiun", "protest", "grev",
+
+    # controverse / scandal (toate)
+    "controvers", "scandal", "dezinform", "fake",
+
+    # climate doom (NU climate research)
+    "catastrof", "apocalips", "panic", "dezastru",
+    "colaps", "mort", "morti", "victim",
 ]
+
 
 RAW_POSITIVE_STRONG = [
     "medalie de aur", "medalie de argint", "medalie de bronz",
