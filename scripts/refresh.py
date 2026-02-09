@@ -189,8 +189,15 @@ def score_item(title: str, summary: str, kind: str) -> int:
             score -= 1
 
     # RO strict: trebuie să aibă măcar 1 semnal pozitiv (score >= 1)
+    # RO foarte strict: trebuie semnal pozitiv clar
     if kind == "ro" and score < 1:
         return -999
+
+    # GLOBAL (science / medical / environment):
+    # respingem doar dacă e clar negativ
+    if kind == "global" and score < 0:
+        return -999
+
 
     # GLOBAL: permis și score 0 (dar trece doar dacă nu e hard-negative)
     return score
