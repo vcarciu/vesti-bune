@@ -31,6 +31,15 @@ rss_sources:
       url: "https://www.agerpres.ro/rss"
 
   medical:
+    - name: "Medical Xpress"
+      url: "https://medicalxpress.com/rss-feed/"
+
+  science:
+    - name: "Phys.org (Science)"
+      url: "https://phys.org/rss-feed/"
+
+
+  medical:
     - name: "NIH Research Matters"
       url: "https://www.nih.gov/news-events/nih-research-matters/feed"
     - name: "NIH News Releases"
