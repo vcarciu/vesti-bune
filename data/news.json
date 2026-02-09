@@ -1,47 +1,7 @@
 {
-  "generated_utc": "2026-02-09T20:34:14+00:00",
-  "count": 18,
+  "generated_utc": "2026-02-09T20:47:50+00:00",
+  "count": 28,
   "items": [
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Agerpres",
-      "title": "Băuturile cu cofeină ar putea contribui la protejarea creierului (studiu)",
-      "summary": "",
-      "link": "https://agerpres.ro/stiinta/2026/02/09/bauturile-cu-cofeina-ar-putea-contribui-la-protejarea-creierului-studiu--1526444",
-      "published_utc": "2026-02-09T20:33:33+00:00",
-      "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Agerpres",
-      "title": "Nazare: Adoptarea Avizului Formal în Comitetul pentru Afaceri Fiscale al OCDE, un semnal puternic de încredere pentru investitori",
-      "summary": "",
-      "link": "https://agerpres.ro/administratie/2026/02/09/nazare-adoptarea-avizului-formal-in-comitetul-pentru-afaceri-fiscale-al-ocde-un-semnal-puternic-de-i--1526442",
-      "published_utc": "2026-02-09T20:33:33+00:00",
-      "score": 4
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Science News",
-      "title": "Widespread use of HPV shots could mean fewer cervical cancer screenings",
-      "summary": "A modeling study of Norway, which has high HPV vaccination coverage and uniform cervical cancer screening, suggests fewer screens could be needed.",
-      "link": "https://www.sciencenews.org/article/widespread-hpv-shots-cervical-cancer",
-      "published_utc": "2026-02-02T22:30:07+00:00",
-      "score": 3
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Agerpres",
-      "title": "AI nu este mai bună decât alte metode pentru pacienții care solicită sfaturi medicale (studiu)",
-      "summary": "",
-      "link": "https://agerpres.ro/stiinta/2026/02/09/ai-nu-este-mai-buna-decat-alte-metode-pentru-pacientii-care-solicita-sfaturi-medicale-studiu--1526434",
-      "published_utc": "2026-02-09T20:33:33+00:00",
-      "score": 1
-    },
     {
       "section": "romania",
       "kind": "ro",
@@ -50,16 +10,6 @@
       "summary": "Premierul Ilie Bolojan a declarat luni, în emisiunea Jurnalul de Seară de la Digi24, că în repetate rânduri a avut în vedere să „facă un pas în lateral”, în contextul unor presiuni uriașe după adoptarea măsurilor de austeritate. Întrebat dacă s-a gândit să-și dea demisia, el a spus: „În momentul în care nu voi mai fi premier va fi o ușurare pentru mine”.",
       "link": "https://www.digi24.ro/stiri/actualitate/politica/ilie-bolojan-intrebat-despre-demisie-va-fi-o-usurare-pentru-mine-cand-nu-voi-mai-fi-premier-3623749",
       "published_utc": "2026-02-09T20:30:30+00:00",
-      "score": 3
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Science News",
-      "title": "A study hints positive thinking could strengthen vaccine immunity",
-      "summary": "Thinking positive increased a specific brain region's activity and might have heightened immune response after a shot.",
-      "link": "https://www.sciencenews.org/article/placebo-brain-activity-vaccine-antibody",
-      "published_utc": "2026-01-30T16:00:00+00:00",
       "score": 3
     },
     {
@@ -73,6 +23,16 @@
       "score": 2
     },
     {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "This popular diet was linked to a much lower stroke risk",
+      "summary": "A long-term study found that women who closely followed a Mediterranean diet had a much lower risk of stroke. The strongest benefits were seen in women who ate more plant-based foods, fish, and olive oil while cutting back on red meat and saturated fats. Their risk dropped across all major stroke types, including bleeding strokes, which are less commonly studied. The findings suggest diet may be a powerful but overlooked factor in stroke prevention.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260209064310.htm",
+      "published_utc": "2026-02-09T11:54:46+00:00",
+      "score": 1
+    },
+    {
       "section": "romania",
       "kind": "ro",
       "source": "HotNews",
@@ -81,16 +41,6 @@
       "link": "https://hotnews.ro/controale-anaf-2026-asteptati-va-ca-inspectorii-sa-fie-mult-mai-bine-informati-decat-in-trecut-la-ce-sa-mai-fie-atente-firme-2167982",
       "published_utc": "2026-02-09T17:22:34+00:00",
       "score": 1
-    },
-    {
-      "section": "environment",
-      "kind": "global",
-      "source": "UN News - Climate",
-      "title": "11-year streak of record global warming continues, UN weather agency warns",
-      "summary": "The past 11 years have been the warmest in the modern era, while oceans continue to heat up, too, says the UN weather agency.",
-      "link": "https://news.un.org/feed/view/en/story/2026/01/1166758",
-      "published_utc": "2026-01-14T12:00:00+00:00",
-      "score": 3
     },
     {
       "section": "romania",
@@ -103,24 +53,14 @@
       "score": 1
     },
     {
-      "section": "romania",
-      "kind": "ro",
-      "source": "HotNews",
-      "title": "4 din 10 cazuri de cancer la nivel mondial pot fi prevenite. Cele 14 recomandări din Codul European prin care „fiecare cetățean poate contribui la prevenirea cancerului”",
-      "summary": "Agenția Internațională pentru Cercetarea Cancerului a lansat o versiune actualizată a Codului European împotriva Cancerului, ce conține 14 recomandări „bazate pe cele mai recente dovezi științifice care arată cum poate fiecare cetățean să contribuie la&#8230;",
-      "link": "https://hotnews.ro/4-din-10-cazuri-de-cancer-la-nivel-mondial-pot-fi-prevenite-cele-14-recomandari-din-codul-european-prin-care-fiecare-cetatean-poate-contribui-la-prevenirea-cancerului-2167894",
-      "published_utc": "2026-02-09T16:11:43+00:00",
-      "score": 1
-    },
-    {
-      "section": "environment",
+      "section": "medical",
       "kind": "global",
-      "source": "UN News - Climate",
-      "title": "UN environment assembly wraps up in Nairobi",
-      "summary": "The seventh session of the United Nations Environment Assembly (UNEA-7) concluded in Nairobi, Kenya, on Friday with Member States adopting 11 resolutions, three decisions and a ministerial declaration aiming to advance solutions for a more resilient planet.&nbsp;",
-      "link": "https://news.un.org/feed/view/en/story/2025/12/1166585",
-      "published_utc": "2025-12-12T12:00:00+00:00",
-      "score": 3
+      "source": "ScienceDaily Health",
+      "title": "A hidden Aloe vera compound takes aim at Alzheimer’s",
+      "summary": "Scientists have uncovered promising clues that compounds found in Aloe vera could play a role in fighting Alzheimer’s disease. Using advanced computer modeling, researchers discovered that beta-sitosterol—a natural plant compound—strongly interacts with two key enzymes involved in memory loss and cognitive decline. The compound showed stability, strong binding, and favorable safety indicators, making it a standout candidate for future drug development.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260206012213.htm",
+      "published_utc": "2026-02-08T12:57:41+00:00",
+      "score": 2
     },
     {
       "section": "romania",
@@ -143,14 +83,14 @@
       "score": 1
     },
     {
-      "section": "environment",
+      "section": "medical",
       "kind": "global",
-      "source": "UN News - Climate",
-      "title": "A sustainable future requires new thinking: UN environment report",
-      "summary": "Adopting a fresh approach to protecting planetary health would deliver stronger economies, fewer deaths and less poverty, the UN Environment Programme (UNEP) insisted on Tuesday, as it released its most comprehensive assessment of environmental pressures facing the world.",
-      "link": "https://news.un.org/feed/view/en/story/2025/12/1166553",
-      "published_utc": "2025-12-09T12:00:00+00:00",
-      "score": 3
+      "source": "ScienceDaily Health",
+      "title": "Scientists found a gut compound that helps protect the liver",
+      "summary": "What a mother eats during pregnancy may quietly shape her child’s liver health years down the road—but new research suggests there may be a way to tip the odds back in a healthier direction. Scientists found that a natural compound made by healthy gut bacteria dramatically reduced fatty liver disease in the offspring of mice whose mothers ate a high-fat, high-sugar diet. The compound, called indole, appeared to protect the liver, improve blood sugar, limit weight gain, and even reshape the gut microbiome in lasting ways.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260208011028.htm",
+      "published_utc": "2026-02-08T07:18:29+00:00",
+      "score": 1
     },
     {
       "section": "romania",
@@ -160,6 +100,166 @@
       "summary": "La doi ani și jumătate de la inaugurare, autostrada A0 s-a umplut de gropi. Pe tronsonul din sud, mai ales, sunt porțiuni lungi, cu gropi înșirate una după alta. Compania Națională de Autostrăzi și Drumuri Naționale anunță că reparațiile le vor suporta constructorii, în baza garanției. Prin martie - aprilie, când vremea se va mai încălzi. Până atunci, șoferii le evită cum pot.",
       "link": "https://www.digi24.ro/stiri/economie/transporturi/cum-arata-autostrada-bucurestiului-a0-la-doi-ani-si-jumatate-de-la-inaugurare-daca-timpul-tine-asa-degeaba-se-plombeaza-3623099",
       "published_utc": "2026-02-09T14:44:02+00:00",
+      "score": 3
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "ScienceDaily Science",
+      "title": "This weird deep-sea creature was named by thousands of people online",
+      "summary": "A newly discovered deep-sea creature has become an unlikely Internet star. After appearing in a popular YouTube video, a rare chiton found nearly three miles beneath the ocean surface sparked a global naming effort, drawing more than 8,000 suggestions from people around the world. Scientists ultimately chose the name Ferreiraella populi, meaning “of the people,” honoring the public that helped bring it into the scientific record.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260207232242.htm",
+      "published_utc": "2026-02-08T04:32:36+00:00",
+      "score": 3
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "ScienceDaily Science",
+      "title": "Something supercharged Uranus when Voyager 2 flew past",
+      "summary": "Voyager 2’s flyby of Uranus in 1986 recorded radiation levels so extreme they baffled scientists for nearly 40 years. New research suggests the spacecraft caught Uranus during a rare solar wind event that flooded the planet’s radiation belts with extra energy. Similar storms have been seen near Earth, where they dramatically boost radiation levels. The discovery reshapes how scientists think about Uranus—and why it deserves another visit.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260206012217.htm",
+      "published_utc": "2026-02-07T16:41:34+00:00",
+      "score": 3
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "A century of hair shows how lead exposure collapsed",
+      "summary": "For decades, Americans were surrounded by lead from car exhaust, factories, paint, and even drinking water, often without realizing the damage it caused. By analyzing hair samples preserved across generations, scientists uncovered a striking record of how exposure soared before environmental rules and then collapsed after leaded gasoline and other sources were phased out.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260207092902.htm",
+      "published_utc": "2026-02-07T14:45:58+00:00",
+      "score": 3
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "Doctors test brain cell implants to restore movement in Parkinson’s",
+      "summary": "Scientists at Keck Medicine of USC are testing an experimental stem cell therapy that aims to restore the brain’s ability to produce dopamine, the chemical whose loss drives Parkinson’s disease. The early-stage clinical trial involves implanting lab-grown dopamine-producing cells directly into a key movement-control region of the brain, with the hope of slowing disease progression and improving motor function.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260206012203.htm",
+      "published_utc": "2026-02-06T11:57:35+00:00",
+      "score": 1
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "ScienceDaily Science",
+      "title": "This tiny molecular trick makes spider silk almost unbreakable",
+      "summary": "Scientists have cracked a key mystery behind spider silk’s legendary strength and flexibility. They discovered that tiny molecular interactions act like natural glue, holding silk proteins together as they transform from liquid into incredibly tough fibers. This same process helps create silk that’s stronger than steel by weight and tougher than Kevlar.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260206012210.htm",
+      "published_utc": "2026-02-06T06:22:10+00:00",
+      "score": 1
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "This simple diet shift cut 330 calories a day without smaller meals",
+      "summary": "People who switch to a fully unprocessed diet don’t just eat differently—they eat smarter. Research from the University of Bristol shows that when people avoid ultra-processed foods, they naturally pile their plates with fruits and vegetables, eating over 50% more food by weight while still consuming hundreds fewer calories each day. This happens because whole foods trigger a kind of built-in “nutritional intelligence,” nudging people toward nutrient-rich, lower-calorie options.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260204121547.htm",
+      "published_utc": "2026-02-05T15:04:34+00:00",
+      "score": 1
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "New nasal vaccine shows strong protection against H5N1 bird flu",
+      "summary": "As bird flu continues to circulate in animals and spill over into humans, researchers are racing to stop it before it adapts to spread widely between people. A new nasal spray vaccine showed strong protection against H5N1 in animal tests, outperforming traditional flu shots. Because it targets the nose and lungs, it may prevent infection at the earliest stage.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260204114343.htm",
+      "published_utc": "2026-02-04T16:43:43+00:00",
+      "score": 3
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "This unexpected plant discovery could change how drugs are made",
+      "summary": "Plants make chemical weapons to protect themselves, and many of these compounds have become vital to human medicine. Researchers found that one powerful plant chemical is produced using a gene that looks surprisingly bacterial. This suggests plants reuse microbial tools to invent new chemistry. The insight could help scientists discover new drugs and produce them more sustainably.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260203030546.htm",
+      "published_utc": "2026-02-03T15:06:55+00:00",
+      "score": 1
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "ScienceDaily Science",
+      "title": "Robots descend into lava tubes to prepare for future Moon bases",
+      "summary": "Hidden lava tunnels on the Moon and Mars could one day shelter human explorers, offering natural protection from radiation and space debris. A European research team has unveiled a bold new mission concept that uses three different robots working together to explore these extreme underground environments autonomously. Recently tested in the volcanic caves of Lanzarote, the system maps cave entrances, deploys sensors, lowers a scout rover, and creates detailed 3D maps of the interior.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260201231259.htm",
+      "published_utc": "2026-02-02T08:43:49+00:00",
+      "score": 1
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "ScienceDaily Science",
+      "title": "750-year-old Indian poems reveal a landscape scientists got wrong",
+      "summary": "Old Indian poems and folk songs are revealing a surprising truth about the land. Scientists found that descriptions of thorny trees and open grasslands in texts written as far back as the 1200s closely match today’s savannas in western India. This suggests these landscapes are ancient and natural—not ruined forests. The discovery could reshape how conservation and tree-planting efforts are planned.",
+      "link": "https://www.sciencedaily.com/releases/2026/01/260131084622.htm",
+      "published_utc": "2026-02-01T14:28:51+00:00",
+      "score": 2
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "Late bedtimes are linked to higher heart disease risk",
+      "summary": "People who naturally stay up late may be putting their hearts under added strain as they age. A large study tracking more than 300,000 adults found that middle-aged and older night owls had poorer overall heart health and a higher risk of heart attack and stroke than those who were active earlier in the day, with the effect especially pronounced in women. Much of this elevated risk appeared to stem from lifestyle factors common among evening types, including smoking and inadequate sleep.",
+      "link": "https://www.sciencedaily.com/releases/2026/01/260130041101.htm",
+      "published_utc": "2026-01-30T16:05:26+00:00",
+      "score": 1
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "A 20-year-old cancer vaccine may hold the key to long-term survival",
+      "summary": "Two decades after a breast cancer vaccine trial, every participant is still alive—an astonishing result for metastatic disease. Scientists found their immune systems retained long-lasting memory cells primed to recognize cancer. By enhancing a key immune signal called CD27, researchers dramatically improved tumor elimination in lab studies. The findings suggest cancer vaccines may have been missing a crucial ingredient all along.",
+      "link": "https://www.sciencedaily.com/releases/2026/01/260128075345.htm",
+      "published_utc": "2026-01-30T06:13:54+00:00",
+      "score": 3
+    },
+    {
+      "section": "environment",
+      "kind": "global",
+      "source": "UN News - Climate",
+      "title": "For every $1 spent protecting nature, $30 goes to destroying it",
+      "summary": "The world spends billions to protect nature, but trillions are being invested in business activities that harm the environment.&nbsp;",
+      "link": "https://news.un.org/feed/view/en/story/2026/01/1166809",
+      "published_utc": "2026-01-22T12:00:00+00:00",
+      "score": 1
+    },
+    {
+      "section": "environment",
+      "kind": "global",
+      "source": "UN News - Climate",
+      "title": "11-year streak of record global warming continues, UN weather agency warns",
+      "summary": "The past 11 years have been the warmest in the modern era, while oceans continue to heat up, too, says the UN weather agency.",
+      "link": "https://news.un.org/feed/view/en/story/2026/01/1166758",
+      "published_utc": "2026-01-14T12:00:00+00:00",
+      "score": 3
+    },
+    {
+      "section": "environment",
+      "kind": "global",
+      "source": "UN News - Climate",
+      "title": "UN environment assembly wraps up in Nairobi",
+      "summary": "The seventh session of the United Nations Environment Assembly (UNEA-7) concluded in Nairobi, Kenya, on Friday with Member States adopting 11 resolutions, three decisions and a ministerial declaration aiming to advance solutions for a more resilient planet.&nbsp;",
+      "link": "https://news.un.org/feed/view/en/story/2025/12/1166585",
+      "published_utc": "2025-12-12T12:00:00+00:00",
+      "score": 3
+    },
+    {
+      "section": "environment",
+      "kind": "global",
+      "source": "UN News - Climate",
+      "title": "A sustainable future requires new thinking: UN environment report",
+      "summary": "Adopting a fresh approach to protecting planetary health would deliver stronger economies, fewer deaths and less poverty, the UN Environment Programme (UNEP) insisted on Tuesday, as it released its most comprehensive assessment of environmental pressures facing the world.",
+      "link": "https://news.un.org/feed/view/en/story/2025/12/1166553",
+      "published_utc": "2025-12-09T12:00:00+00:00",
       "score": 3
     },
     {
@@ -185,36 +285,6 @@
   ],
   "sections": {
     "romania": [
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Agerpres",
-        "title": "Băuturile cu cofeină ar putea contribui la protejarea creierului (studiu)",
-        "summary": "",
-        "link": "https://agerpres.ro/stiinta/2026/02/09/bauturile-cu-cofeina-ar-putea-contribui-la-protejarea-creierului-studiu--1526444",
-        "published_utc": "2026-02-09T20:33:33+00:00",
-        "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Agerpres",
-        "title": "Nazare: Adoptarea Avizului Formal în Comitetul pentru Afaceri Fiscale al OCDE, un semnal puternic de încredere pentru investitori",
-        "summary": "",
-        "link": "https://agerpres.ro/administratie/2026/02/09/nazare-adoptarea-avizului-formal-in-comitetul-pentru-afaceri-fiscale-al-ocde-un-semnal-puternic-de-i--1526442",
-        "published_utc": "2026-02-09T20:33:33+00:00",
-        "score": 4
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Agerpres",
-        "title": "AI nu este mai bună decât alte metode pentru pacienții care solicită sfaturi medicale (studiu)",
-        "summary": "",
-        "link": "https://agerpres.ro/stiinta/2026/02/09/ai-nu-este-mai-buna-decat-alte-metode-pentru-pacientii-care-solicita-sfaturi-medicale-studiu--1526434",
-        "published_utc": "2026-02-09T20:33:33+00:00",
-        "score": 1
-      },
       {
         "section": "romania",
         "kind": "ro",
@@ -258,16 +328,6 @@
       {
         "section": "romania",
         "kind": "ro",
-        "source": "HotNews",
-        "title": "4 din 10 cazuri de cancer la nivel mondial pot fi prevenite. Cele 14 recomandări din Codul European prin care „fiecare cetățean poate contribui la prevenirea cancerului”",
-        "summary": "Agenția Internațională pentru Cercetarea Cancerului a lansat o versiune actualizată a Codului European împotriva Cancerului, ce conține 14 recomandări „bazate pe cele mai recente dovezi științifice care arată cum poate fiecare cetățean să contribuie la&#8230;",
-        "link": "https://hotnews.ro/4-din-10-cazuri-de-cancer-la-nivel-mondial-pot-fi-prevenite-cele-14-recomandari-din-codul-european-prin-care-fiecare-cetatean-poate-contribui-la-prevenirea-cancerului-2167894",
-        "published_utc": "2026-02-09T16:11:43+00:00",
-        "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
         "source": "Digi24",
         "title": "Cooperativele agricole româneşti analizează modelul german de organizare şi marketing",
         "summary": "Reprezentanţi ai cooperativelor din sectorul vegetal participă, în perioada 8-14 februarie, la Berlin, la sesiuni academice şi vizite de studiu dedicate rolului cooperativelor în lanţul valoric şi strategiilor de marketing cooperativ, în cadrul unui proiect Erasmus+, potrivit unui comunicat remis Agerpres.",
@@ -296,30 +356,171 @@
         "score": 3
       }
     ],
-    "medical": [],
+    "medical": [
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "This popular diet was linked to a much lower stroke risk",
+        "summary": "A long-term study found that women who closely followed a Mediterranean diet had a much lower risk of stroke. The strongest benefits were seen in women who ate more plant-based foods, fish, and olive oil while cutting back on red meat and saturated fats. Their risk dropped across all major stroke types, including bleeding strokes, which are less commonly studied. The findings suggest diet may be a powerful but overlooked factor in stroke prevention.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260209064310.htm",
+        "published_utc": "2026-02-09T11:54:46+00:00",
+        "score": 1
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "A hidden Aloe vera compound takes aim at Alzheimer’s",
+        "summary": "Scientists have uncovered promising clues that compounds found in Aloe vera could play a role in fighting Alzheimer’s disease. Using advanced computer modeling, researchers discovered that beta-sitosterol—a natural plant compound—strongly interacts with two key enzymes involved in memory loss and cognitive decline. The compound showed stability, strong binding, and favorable safety indicators, making it a standout candidate for future drug development.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260206012213.htm",
+        "published_utc": "2026-02-08T12:57:41+00:00",
+        "score": 2
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "Scientists found a gut compound that helps protect the liver",
+        "summary": "What a mother eats during pregnancy may quietly shape her child’s liver health years down the road—but new research suggests there may be a way to tip the odds back in a healthier direction. Scientists found that a natural compound made by healthy gut bacteria dramatically reduced fatty liver disease in the offspring of mice whose mothers ate a high-fat, high-sugar diet. The compound, called indole, appeared to protect the liver, improve blood sugar, limit weight gain, and even reshape the gut microbiome in lasting ways.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260208011028.htm",
+        "published_utc": "2026-02-08T07:18:29+00:00",
+        "score": 1
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "A century of hair shows how lead exposure collapsed",
+        "summary": "For decades, Americans were surrounded by lead from car exhaust, factories, paint, and even drinking water, often without realizing the damage it caused. By analyzing hair samples preserved across generations, scientists uncovered a striking record of how exposure soared before environmental rules and then collapsed after leaded gasoline and other sources were phased out.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260207092902.htm",
+        "published_utc": "2026-02-07T14:45:58+00:00",
+        "score": 3
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "Doctors test brain cell implants to restore movement in Parkinson’s",
+        "summary": "Scientists at Keck Medicine of USC are testing an experimental stem cell therapy that aims to restore the brain’s ability to produce dopamine, the chemical whose loss drives Parkinson’s disease. The early-stage clinical trial involves implanting lab-grown dopamine-producing cells directly into a key movement-control region of the brain, with the hope of slowing disease progression and improving motor function.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260206012203.htm",
+        "published_utc": "2026-02-06T11:57:35+00:00",
+        "score": 1
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "This simple diet shift cut 330 calories a day without smaller meals",
+        "summary": "People who switch to a fully unprocessed diet don’t just eat differently—they eat smarter. Research from the University of Bristol shows that when people avoid ultra-processed foods, they naturally pile their plates with fruits and vegetables, eating over 50% more food by weight while still consuming hundreds fewer calories each day. This happens because whole foods trigger a kind of built-in “nutritional intelligence,” nudging people toward nutrient-rich, lower-calorie options.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260204121547.htm",
+        "published_utc": "2026-02-05T15:04:34+00:00",
+        "score": 1
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "New nasal vaccine shows strong protection against H5N1 bird flu",
+        "summary": "As bird flu continues to circulate in animals and spill over into humans, researchers are racing to stop it before it adapts to spread widely between people. A new nasal spray vaccine showed strong protection against H5N1 in animal tests, outperforming traditional flu shots. Because it targets the nose and lungs, it may prevent infection at the earliest stage.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260204114343.htm",
+        "published_utc": "2026-02-04T16:43:43+00:00",
+        "score": 3
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "This unexpected plant discovery could change how drugs are made",
+        "summary": "Plants make chemical weapons to protect themselves, and many of these compounds have become vital to human medicine. Researchers found that one powerful plant chemical is produced using a gene that looks surprisingly bacterial. This suggests plants reuse microbial tools to invent new chemistry. The insight could help scientists discover new drugs and produce them more sustainably.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260203030546.htm",
+        "published_utc": "2026-02-03T15:06:55+00:00",
+        "score": 1
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "Late bedtimes are linked to higher heart disease risk",
+        "summary": "People who naturally stay up late may be putting their hearts under added strain as they age. A large study tracking more than 300,000 adults found that middle-aged and older night owls had poorer overall heart health and a higher risk of heart attack and stroke than those who were active earlier in the day, with the effect especially pronounced in women. Much of this elevated risk appeared to stem from lifestyle factors common among evening types, including smoking and inadequate sleep.",
+        "link": "https://www.sciencedaily.com/releases/2026/01/260130041101.htm",
+        "published_utc": "2026-01-30T16:05:26+00:00",
+        "score": 1
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "A 20-year-old cancer vaccine may hold the key to long-term survival",
+        "summary": "Two decades after a breast cancer vaccine trial, every participant is still alive—an astonishing result for metastatic disease. Scientists found their immune systems retained long-lasting memory cells primed to recognize cancer. By enhancing a key immune signal called CD27, researchers dramatically improved tumor elimination in lab studies. The findings suggest cancer vaccines may have been missing a crucial ingredient all along.",
+        "link": "https://www.sciencedaily.com/releases/2026/01/260128075345.htm",
+        "published_utc": "2026-01-30T06:13:54+00:00",
+        "score": 3
+      }
+    ],
     "science": [
       {
         "section": "science",
         "kind": "global",
-        "source": "Science News",
-        "title": "Widespread use of HPV shots could mean fewer cervical cancer screenings",
-        "summary": "A modeling study of Norway, which has high HPV vaccination coverage and uniform cervical cancer screening, suggests fewer screens could be needed.",
-        "link": "https://www.sciencenews.org/article/widespread-hpv-shots-cervical-cancer",
-        "published_utc": "2026-02-02T22:30:07+00:00",
+        "source": "ScienceDaily Science",
+        "title": "This weird deep-sea creature was named by thousands of people online",
+        "summary": "A newly discovered deep-sea creature has become an unlikely Internet star. After appearing in a popular YouTube video, a rare chiton found nearly three miles beneath the ocean surface sparked a global naming effort, drawing more than 8,000 suggestions from people around the world. Scientists ultimately chose the name Ferreiraella populi, meaning “of the people,” honoring the public that helped bring it into the scientific record.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260207232242.htm",
+        "published_utc": "2026-02-08T04:32:36+00:00",
         "score": 3
       },
       {
         "section": "science",
         "kind": "global",
-        "source": "Science News",
-        "title": "A study hints positive thinking could strengthen vaccine immunity",
-        "summary": "Thinking positive increased a specific brain region's activity and might have heightened immune response after a shot.",
-        "link": "https://www.sciencenews.org/article/placebo-brain-activity-vaccine-antibody",
-        "published_utc": "2026-01-30T16:00:00+00:00",
+        "source": "ScienceDaily Science",
+        "title": "Something supercharged Uranus when Voyager 2 flew past",
+        "summary": "Voyager 2’s flyby of Uranus in 1986 recorded radiation levels so extreme they baffled scientists for nearly 40 years. New research suggests the spacecraft caught Uranus during a rare solar wind event that flooded the planet’s radiation belts with extra energy. Similar storms have been seen near Earth, where they dramatically boost radiation levels. The discovery reshapes how scientists think about Uranus—and why it deserves another visit.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260206012217.htm",
+        "published_utc": "2026-02-07T16:41:34+00:00",
         "score": 3
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "ScienceDaily Science",
+        "title": "This tiny molecular trick makes spider silk almost unbreakable",
+        "summary": "Scientists have cracked a key mystery behind spider silk’s legendary strength and flexibility. They discovered that tiny molecular interactions act like natural glue, holding silk proteins together as they transform from liquid into incredibly tough fibers. This same process helps create silk that’s stronger than steel by weight and tougher than Kevlar.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260206012210.htm",
+        "published_utc": "2026-02-06T06:22:10+00:00",
+        "score": 1
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "ScienceDaily Science",
+        "title": "Robots descend into lava tubes to prepare for future Moon bases",
+        "summary": "Hidden lava tunnels on the Moon and Mars could one day shelter human explorers, offering natural protection from radiation and space debris. A European research team has unveiled a bold new mission concept that uses three different robots working together to explore these extreme underground environments autonomously. Recently tested in the volcanic caves of Lanzarote, the system maps cave entrances, deploys sensors, lowers a scout rover, and creates detailed 3D maps of the interior.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260201231259.htm",
+        "published_utc": "2026-02-02T08:43:49+00:00",
+        "score": 1
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "ScienceDaily Science",
+        "title": "750-year-old Indian poems reveal a landscape scientists got wrong",
+        "summary": "Old Indian poems and folk songs are revealing a surprising truth about the land. Scientists found that descriptions of thorny trees and open grasslands in texts written as far back as the 1200s closely match today’s savannas in western India. This suggests these landscapes are ancient and natural—not ruined forests. The discovery could reshape how conservation and tree-planting efforts are planned.",
+        "link": "https://www.sciencedaily.com/releases/2026/01/260131084622.htm",
+        "published_utc": "2026-02-01T14:28:51+00:00",
+        "score": 2
       }
     ],
     "environment": [
+      {
+        "section": "environment",
+        "kind": "global",
+        "source": "UN News - Climate",
+        "title": "For every $1 spent protecting nature, $30 goes to destroying it",
+        "summary": "The world spends billions to protect nature, but trillions are being invested in business activities that harm the environment.&nbsp;",
+        "link": "https://news.un.org/feed/view/en/story/2026/01/1166809",
+        "published_utc": "2026-01-22T12:00:00+00:00",
+        "score": 1
+      },
       {
         "section": "environment",
         "kind": "global",
@@ -394,10 +595,10 @@
         "category_id": "landscapes",
         "category_label": "🏞️ Peisaj",
         "source": "Flickr (landscape)",
-        "title": "Sunrise at Lake Moraine",
-        "link": "https://www.flickr.com/photos/captain-nimo/55087570795/",
-        "image_url": "https://live.staticflickr.com/65535/55087570795_66d816604b_b.jpg",
-        "published_utc": "2026-02-09T20:33:19+00:00"
+        "title": "Svasso maggiore - Policeps cristatus",
+        "link": "https://www.flickr.com/photos/naiade_p/55086375502/",
+        "image_url": "https://live.staticflickr.com/65535/55086375502_0963e25a11_b.jpg",
+        "published_utc": "2026-02-09T20:44:02+00:00"
       }
     ],
     "joke": [
@@ -410,9 +611,9 @@
       {
         "date_utc": "2026-02-09",
         "source": "TimesNewRoman",
-        "title": "Lolita Cercel va face un duet cu holograma lui Ion Dolănescu, pentru nostalgici",
+        "title": "Primarii responsabili nu sparg banii pe iPhone! Piedone jr. şi-a luat doar o kendama de 4000 de lei",
         "summary": "Cotidian independent de umor voluntar",
-        "link": "https://www.timesnewroman.ro/monden/lolita-cercel-va-face-un-duet-cu-holograma-lui-ion-dolanescu-pentru-nostalgici/",
+        "link": "https://www.timesnewroman.ro/sport/primarii-responsabili-nu-sparg-banii-pe-iphone-piedone-jr-si-a-luat-doar-o-kendama-de-4000-de-lei/",
         "note": "Satiră — nu este știre reală."
       }
     ]
