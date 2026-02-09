@@ -1,59 +1,41 @@
+# config/sources.yml
+
 sections:
   - id: romania
     title: "🇷🇴 România"
-    max_items: 30
+    max_items: 35
   - id: medical
-    title: "🩺 Descoperiri medicale"
+    title: "🩺 Medical"
     max_items: 15
   - id: science
-    title: "🔬 Știință & Tech"
+    title: "🔬 Știință"
     max_items: 15
   - id: environment
-    title: "🌱 Mediu & Energie"
+    title: "🌿 Mediu"
     max_items: 15
-  - id: photos
-    title: "📸 Pozele zilei"
-    max_items: 3
-  - id: joke
-    title: "😄 Bancul zilei"
-    max_items: 1
-  - id: satire
-    title: "😈 Satiră (TimesNewRoman)"
-    max_items: 1
 
 rss_sources:
   romania:
+    - name: "HotNews"
+      url: "https://hotnews.ro/feed/"
     - name: "Digi24"
       url: "https://www.digi24.ro/rss"
-    - name: "HotNews"
-      url: "https://www.hotnews.ro/rss"
-    - name: "Agerpres"
-      url: "https://www.agerpres.ro/rss"
 
   medical:
-    - name: "Medical Xpress"
-      url: "https://medicalxpress.com/rss-feed/"
-
-  science:
-    - name: "Phys.org (Science)"
-      url: "https://phys.org/rss-feed/"
-
-
-  medical:
-    - name: "NIH Research Matters"
-      url: "https://www.nih.gov/news-events/nih-research-matters/feed"
-    - name: "NIH News Releases"
-      url: "https://www.nih.gov/news-events/news-releases/feed"
-    - name: "CDC Newsroom"
-      url: "https://tools.cdc.gov/api/v2/resources/media/403372.rss"
+    - name: "Mayo Clinic"
+      url: "https://www.mayoclinic.org/rss/all-health-information-topics"
+    - name: "ScienceDaily Health"
+      url: "https://www.sciencedaily.com/rss/top/health.xml"
+    - name: "ScienceDaily Medicine"
+      url: "https://www.sciencedaily.com/rss/health_medicine.xml"
 
   science:
     - name: "NASA Breaking News"
       url: "https://www.nasa.gov/rss/dyn/breaking_news.rss"
     - name: "ESA"
-      url: "https://www.esa.int/rssfeed/Our_Activities"
-    - name: "Science News"
-      url: "https://www.sciencenews.org/feed"
+      url: "https://www.esa.int/rssfeed/Our_Activities/Space_Science"
+    - name: "ScienceDaily Science"
+      url: "https://www.sciencedaily.com/rss/top/science.xml"
 
   environment:
     - name: "UN News - Climate"
@@ -61,125 +43,23 @@ rss_sources:
     - name: "UN News - Environment"
       url: "https://news.un.org/feed/subscribe/en/news/topic/environment/feed/rss.xml"
 
-# Surse satiră (separat, nu se amestecă cu știri reale)
-satire:
-  enabled: true
-  name: "TimesNewRoman"
-  rss_urls:
-    - "https://www.timesnewroman.ro/monden/?act=rss"
-    - "https://www.timesnewroman.ro/sport/?act=rss"
-    - "https://www.timesnewroman.ro/life-death/?act=rss"
-
-
-
-# AICI e noul bloc pentru 3 categorii (Space / Animals / Landscapes)
-photo_sources:
-  space:
-    - name: "Flickr (space)"
-      url: "https://www.flickr.com/services/feeds/photos_public.gne?tags=space,astronomy,nasa&tagmode=any&format=rss2"
-  animals:
-    - name: "Flickr (animals)"
-      url: "https://www.flickr.com/services/feeds/photos_public.gne?tags=animals,wildlife,cute&tagmode=any&format=rss2"
-  landscapes:
-    - name: "Flickr (landscape)"
-      url: "https://www.flickr.com/services/feeds/photos_public.gne?tags=landscape,nature,mountains&tagmode=any&format=rss2"
-
-
 filters:
   thresholds:
     romania: 1
-    medical: 3
-    science: 2
-    environment: 2
+    medical: 1
+    science: 1
+    environment: 1
 
-  hard_blacklist:
-    - "război"
-    - "atac"
-    - "împușc"
-    - "crim"
-    - "viol"
-    - "mort"
-    - "decese"
-    - "victime"
-    - "exploz"
-    - "incendiu"
-    - "cutremur"
-    - "inunda"
-    - "accident"
-    - "arest"
-    - "corup"
-    - "șpag"
-    - "scandal"
-    - "panic"
-    - "alertă"
-    - "amenin"
-    - "teror"
-    - "kidnap"
-    - "shoot"
-    - "killed"
-    - "dead"
-    - "death"
-    - "war"
-    - "attack"
-    - "explosion"
-    - "earthquake"
-    - "flood"
-    - "crash"
-    - "arrest"
-    - "corrupt"
-    - "scandal"
-    - "rape"
-    - "terror"
+photo_sources:
+  space:
+    - name: "Flickr (space)"
+      url: "https://www.flickr.com/services/feeds/photos_public.gne?tags=space,nebula,galaxy&tagmode=any&format=rss2"
+  animals:
+    - name: "Flickr (animals)"
+      url: "https://www.flickr.com/services/feeds/photos_public.gne?tags=animals,dog,cat,wildlife&tagmode=any&format=rss2"
+  landscapes:
+    - name: "Flickr (landscape)"
+      url: "https://www.flickr.com/services/feeds/photos_public.gne?tags=landscape,mountains,lake,sunset&tagmode=any&format=rss2"
 
-  scoring:
-    positive_keywords:
-      - "descoper"
-      - "progres"
-      - "record"
-      - "premiu"
-      - "salvat"
-      - "reduce riscul"
-      - "scade riscul"
-      - "îmbunătățe"
-      - "vindec"
-      - "tratament nou"
-      - "vaccin"
-      - "succes"
-      - "inova"
-      - "breakthrough"
-      - "improves"
-      - "reduces risk"
-      - "new treatment"
-      - "vaccine"
-      - "success"
-      - "award"
-      - "record"
-      - "innovation"
-
-    negative_keywords:
-      - "criz"
-      - "controvers"
-      - "îngrijor"
-      - "pericol"
-      - "risc major"
-      - "alert"
-      - "warning"
-      - "concern"
-      - "crisis"
-      - "danger"
-      - "major risk"
-
-  medical_extra_blacklist:
-    - "outbreak"
-    - "epidem"
-    - "pandem"
-    - "spike"
-    - "surge"
-    - "fatal"
-    - "mortality"
-    - "warning"
-    - "recall"
-  photo_fallback:
-    name: "Wikimedia POTD 400x300"
-    url: "https://tools.wmflabs.org/potd-feed/commons/potd-400x300.rss"
-
+satire:
+  enabled: true
