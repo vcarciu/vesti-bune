@@ -1,7 +1,67 @@
 {
-  "generated_utc": "2026-02-10T08:40:00+00:00",
-  "count": 31,
+  "generated_utc": "2026-02-10T09:50:32+00:00",
+  "count": 33,
   "items": [
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Problema demografică a României: decesele au fost de aproape două ori mai multe decât nașterile, în decembrie 2025",
+      "summary": "România a înregistrat în decembrie 2025 un spor natural negativ de 10.184 persoane, după ce numărul deceselor a fost de aproape două ori mai mare decât cel al nașterilor. Potrivit datelor Institutului Național de Statistică (INS), în decembrie 2025 s-au înregistrat 11.893 de nașteri și 22.077 de decese, numărul deceselor crescând semnificativ față de luna precedentă.",
+      "link": "https://www.digi24.ro/stiri/actualitate/problema-demografica-a-romaniei-decesele-au-fost-de-aproape-doua-ori-mai-multe-decat-nasterile-in-decembrie-2025-3624465",
+      "published_utc": "2026-02-10T09:45:38+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "Un Brâncuși „de atelier”, cu proveniență istorică, în Licitație la Artmark",
+      "summary": "Într-o serie de evenimente dedicate aniversării a 150 de ani de la nașterea lui Constantin Brâncuși, Galeriile Artmark propun o întâlnire valoroasă cu opera artistului. În cadrul Licitației de Artă Postbelică și Contemporană stabilită chiar&#8230;",
+      "link": "https://hotnews.ro/un-brancusi-de-atelier-cu-provenienta-istorica-in-licitatie-la-artmark-2168316",
+      "published_utc": "2026-02-10T09:32:22+00:00",
+      "score": 1
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "This popular diet was linked to a much lower stroke risk",
+      "summary": "A long-term study found that women who closely followed a Mediterranean diet had a much lower risk of stroke. The strongest benefits were seen in women who ate more plant-based foods, fish, and olive oil while cutting back on red meat and saturated fats. Their risk dropped across all major stroke types, including bleeding strokes, which are less commonly studied. The findings suggest diet may be a powerful but overlooked factor in stroke prevention.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260209064310.htm",
+      "published_utc": "2026-02-09T11:54:46+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "„Lumea este în pericol” – Avertismentul unui director care a părăsit o mare companie din domeniul inteligenței artificiale",
+      "summary": "Un cercetător în domeniul inteligenței artificiale de la Anthropic, companie faimoasă pentru chatbotul Claude, a scris o scrisoare în care își anunță plecarea, spune că a realizat tot ce și-a dorit, dar avertizează și că&#8230;",
+      "link": "https://hotnews.ro/lumea-este-in-pericol-avertismentul-unui-director-care-a-parasit-o-mare-companie-din-domeniul-inteligentei-artificiale-2168299",
+      "published_utc": "2026-02-10T09:21:10+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Ajutorul de stat pentru livezile afectate de înghețul din 2025 a intrat în vigoare: fermierii pot primi până la 2.000 euro/hectar",
+      "summary": "De azi, 10 februarie, a intrat în vigoare ajutorul de stat pentru livezile afectate de înghețul din primăvara anului 2025. Pomicultorii cu pierderi de minimum 30% pot primi până la 2.000 euro/ha prin APIA, dintr-un buget de peste 58,5 milioane de lei, finanțat din fonduri europene.",
+      "link": "https://www.digi24.ro/stiri/economie/agricultura/ajutorul-de-stat-pentru-livezile-afectate-de-inghetul-din-2025-a-intrat-in-vigoare-fermierii-pot-primi-pana-la-2-000-euro-hectar-3624315",
+      "published_utc": "2026-02-10T09:05:46+00:00",
+      "score": 1
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "A hidden Aloe vera compound takes aim at Alzheimer’s",
+      "summary": "Scientists have uncovered promising clues that compounds found in Aloe vera could play a role in fighting Alzheimer’s disease. Using advanced computer modeling, researchers discovered that beta-sitosterol—a natural plant compound—strongly interacts with two key enzymes involved in memory loss and cognitive decline. The compound showed stability, strong binding, and favorable safety indicators, making it a standout candidate for future drug development.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260206012213.htm",
+      "published_utc": "2026-02-08T12:57:41+00:00",
+      "score": 2
+    },
     {
       "section": "romania",
       "kind": "ro",
@@ -26,10 +86,10 @@
       "section": "medical",
       "kind": "global",
       "source": "ScienceDaily Health",
-      "title": "This popular diet was linked to a much lower stroke risk",
-      "summary": "A long-term study found that women who closely followed a Mediterranean diet had a much lower risk of stroke. The strongest benefits were seen in women who ate more plant-based foods, fish, and olive oil while cutting back on red meat and saturated fats. Their risk dropped across all major stroke types, including bleeding strokes, which are less commonly studied. The findings suggest diet may be a powerful but overlooked factor in stroke prevention.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260209064310.htm",
-      "published_utc": "2026-02-09T11:54:46+00:00",
+      "title": "Scientists found a gut compound that helps protect the liver",
+      "summary": "What a mother eats during pregnancy may quietly shape her child’s liver health years down the road—but new research suggests there may be a way to tip the odds back in a healthier direction. Scientists found that a natural compound made by healthy gut bacteria dramatically reduced fatty liver disease in the offspring of mice whose mothers ate a high-fat, high-sugar diet. The compound, called indole, appeared to protect the liver, improve blood sugar, limit weight gain, and even reshape the gut microbiome in lasting ways.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260208011028.htm",
+      "published_utc": "2026-02-08T07:18:29+00:00",
       "score": 1
     },
     {
@@ -53,66 +113,6 @@
       "score": 2
     },
     {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "A hidden Aloe vera compound takes aim at Alzheimer’s",
-      "summary": "Scientists have uncovered promising clues that compounds found in Aloe vera could play a role in fighting Alzheimer’s disease. Using advanced computer modeling, researchers discovered that beta-sitosterol—a natural plant compound—strongly interacts with two key enzymes involved in memory loss and cognitive decline. The compound showed stability, strong binding, and favorable safety indicators, making it a standout candidate for future drug development.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260206012213.htm",
-      "published_utc": "2026-02-08T12:57:41+00:00",
-      "score": 2
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "HotNews",
-      "title": "România pierde o mare investiție. Cel mai mare producător de tutun din Coreea de Sud a fost la un pas să își facă o giga-fabrică, cu impact regional. A ales, în final, altă țară",
-      "summary": "KT&#38;G (fost Korea Tobacco &#38; Ginseng), cel mai mare producător de tutun din Coreea de Sud și al cincilea la nivel mondial, a tatonat piața românească cu scopul construcției unei fabrici de dispozitive pentru încălzirea&#8230;",
-      "link": "https://hotnews.ro/romania-pierde-o-mare-investitie-cel-mai-mare-producator-de-tutun-din-coreea-de-sud-a-fost-la-un-pas-sa-isi-faca-o-giga-fabrica-cu-impact-regional-a-ales-in-final-alta-tara-2168161",
-      "published_utc": "2026-02-10T05:21:41+00:00",
-      "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Orașul din Europa „înghițit” de un imperiu minier deținut de China. Zăcăminte uriașe de cupru și aur au ajuns în mâinile Beijingului",
-      "summary": "Complexul minier din orașul Bor, Serbia, unde se găsesc unele din cele mai mari zăcăminte de cupru și aur din Europa, a fost preluat în 2018 de un grup minier din China controlat de stat, care a investit miliarde de euro. Proiectul a transformat complet viața locuitorilor din zonă, care au văzut cum casele, pământurile și amintirile lor dispar, pe măsură ce tot mai multe așezări sunt înghițite de exploatarea minieră.",
-      "link": "https://www.digi24.ro/stiri/externe/orasul-din-europa-inghitit-de-un-imperiu-minier-detinut-de-china-zacaminte-uriase-de-cupru-si-aur-au-ajuns-in-mainile-beijingului-3614397",
-      "published_utc": "2026-02-10T05:00:30+00:00",
-      "score": 1
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "Scientists found a gut compound that helps protect the liver",
-      "summary": "What a mother eats during pregnancy may quietly shape her child’s liver health years down the road—but new research suggests there may be a way to tip the odds back in a healthier direction. Scientists found that a natural compound made by healthy gut bacteria dramatically reduced fatty liver disease in the offspring of mice whose mothers ate a high-fat, high-sugar diet. The compound, called indole, appeared to protect the liver, improve blood sugar, limit weight gain, and even reshape the gut microbiome in lasting ways.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260208011028.htm",
-      "published_utc": "2026-02-08T07:18:29+00:00",
-      "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Sfântul Haralambie, prăznuit pe 10 februarie 2026. Obicei respectat de credincioși pentru protecție împotriva bolilor",
-      "summary": "Celebrat anual la data de 10 februarie, zi marcată în calendarul ortodox cu cruce neagră, Sfântul Haralambie se numără printre cele mai venerate figuri ale creștinătății. Tradiția ortodoxă îi atribuie darul vindecării și puterea de a alina suferința, fiind recunoscut drept făcător de minuni.",
-      "link": "https://www.digi24.ro/stiri/actualitate/evenimente/sfantul-haralambie-praznuit-pe-10-februarie-2026-obicei-respectat-de-credinciosi-pentru-protectie-impotriva-bolilor-3622213",
-      "published_utc": "2026-02-10T05:00:26+00:00",
-      "score": 3
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Misterul din Haithabu, portul vikingilor care a dispărut timp de 900 de ani. Ce s-a întâmplat cu „orașul de la capătul oceanului lumii”",
-      "summary": "Timp de peste două secole, portul din Haithabu (Hedeby) a fost un fel de „Singapore al Europei de Nord” și cea mai mare așezare din lumea vikingilor. Începând din secolul al XI-lea, Haithabu a dispărut pur și simplu din arhivele istoriei pentru următorii 900 de ani, iar acum arheologii și istoricii din nordul Germaniei au descoperit ce s-a întâmplat cu misterioasa așezare.",
-      "link": "https://www.digi24.ro/stiri/sci-tech/descoperiri/misterul-din-haithabu-portul-vikingilor-care-a-disparut-timp-de-900-de-ani-ce-s-a-intamplat-cu-orasul-de-la-capatul-oceanului-lumii-3615999",
-      "published_utc": "2026-02-10T05:00:01+00:00",
-      "score": 1
-    },
-    {
       "section": "science",
       "kind": "global",
       "source": "ScienceDaily Science",
@@ -126,20 +126,20 @@
       "section": "romania",
       "kind": "ro",
       "source": "Digi24",
-      "title": "Un șofer român de TIR a fost prins de polițiști în Italia în timp ce transporta cocaină în valoare de 3 milioane de euro",
-      "summary": "Un român a fost prins de polițiștii italieni în timp ce transporta cu TIR-ul cocaină în valoare de 3 milioane de euro. Polițiștii au descoperit încărcătura într-o parcare din Toscana, unde șoferul oprise în mod suspect în apropierea unei zone industriale.",
-      "link": "https://www.digi24.ro/stiri/un-sofer-roman-de-tir-a-fost-prins-de-politisti-in-italia-in-timp-ce-transporta-cocaina-in-valoare-de-3-milioane-de-euro-3623917",
-      "published_utc": "2026-02-09T21:52:59+00:00",
+      "title": "Orașul din Europa „înghițit” de un imperiu minier deținut de China. Zăcăminte uriașe de cupru și aur au ajuns în mâinile Beijingului",
+      "summary": "Complexul minier din orașul Bor, Serbia, unde se găsesc unele din cele mai mari zăcăminte de cupru și aur din Europa, a fost preluat în 2018 de un grup minier din China controlat de stat, care a investit miliarde de euro. Proiectul a transformat complet viața locuitorilor din zonă, care au văzut cum casele, pământurile și amintirile lor dispar, pe măsură ce tot mai multe așezări sunt înghițite de exploatarea minieră.",
+      "link": "https://www.digi24.ro/stiri/externe/orasul-din-europa-inghitit-de-un-imperiu-minier-detinut-de-china-zacaminte-uriase-de-cupru-si-aur-au-ajuns-in-mainile-beijingului-3614397",
+      "published_utc": "2026-02-10T05:00:30+00:00",
       "score": 1
     },
     {
       "section": "romania",
       "kind": "ro",
       "source": "Digi24",
-      "title": "Ilie Bolojan, întrebat despre demisie: „Când nu voi mai fi premier va fi o ușurare pentru mine”",
-      "summary": "Premierul Ilie Bolojan a declarat luni, în emisiunea Jurnalul de Seară de la Digi24, că în repetate rânduri a avut în vedere să „facă un pas în lateral”, în contextul unor presiuni uriașe după adoptarea măsurilor de austeritate. Întrebat dacă s-a gândit să-și dea demisia, el a spus: „În momentul în care nu voi mai fi premier va fi o ușurare pentru mine”.",
-      "link": "https://www.digi24.ro/stiri/actualitate/politica/ilie-bolojan-intrebat-despre-demisie-va-fi-o-usurare-pentru-mine-cand-nu-voi-mai-fi-premier-3623749",
-      "published_utc": "2026-02-09T20:30:30+00:00",
+      "title": "Sfântul Haralambie, prăznuit pe 10 februarie 2026. Obicei respectat de credincioși pentru protecție împotriva bolilor",
+      "summary": "Celebrat anual la data de 10 februarie, zi marcată în calendarul ortodox cu cruce neagră, Sfântul Haralambie se numără printre cele mai venerate figuri ale creștinătății. Tradiția ortodoxă îi atribuie darul vindecării și puterea de a alina suferința, fiind recunoscut drept făcător de minuni.",
+      "link": "https://www.digi24.ro/stiri/actualitate/evenimente/sfantul-haralambie-praznuit-pe-10-februarie-2026-obicei-respectat-de-credinciosi-pentru-protectie-impotriva-bolilor-3622213",
+      "published_utc": "2026-02-10T05:00:26+00:00",
       "score": 3
     },
     {
@@ -151,6 +151,26 @@
       "link": "https://www.sciencedaily.com/releases/2026/02/260206012217.htm",
       "published_utc": "2026-02-07T16:41:34+00:00",
       "score": 3
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Misterul din Haithabu, portul vikingilor care a dispărut timp de 900 de ani. Ce s-a întâmplat cu „orașul de la capătul oceanului lumii”",
+      "summary": "Timp de peste două secole, portul din Haithabu (Hedeby) a fost un fel de „Singapore al Europei de Nord” și cea mai mare așezare din lumea vikingilor. Începând din secolul al XI-lea, Haithabu a dispărut pur și simplu din arhivele istoriei pentru următorii 900 de ani, iar acum arheologii și istoricii din nordul Germaniei au descoperit ce s-a întâmplat cu misterioasa așezare.",
+      "link": "https://www.digi24.ro/stiri/sci-tech/descoperiri/misterul-din-haithabu-portul-vikingilor-care-a-disparut-timp-de-900-de-ani-ce-s-a-intamplat-cu-orasul-de-la-capatul-oceanului-lumii-3615999",
+      "published_utc": "2026-02-10T05:00:01+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Un șofer român de TIR a fost prins de polițiști în Italia în timp ce transporta cocaină în valoare de 3 milioane de euro",
+      "summary": "Un român a fost prins de polițiștii italieni în timp ce transporta cu TIR-ul cocaină în valoare de 3 milioane de euro. Polițiștii au descoperit încărcătura într-o parcare din Toscana, unde șoferul oprise în mod suspect în apropierea unei zone industriale.",
+      "link": "https://www.digi24.ro/stiri/un-sofer-roman-de-tir-a-fost-prins-de-politisti-in-italia-in-timp-ce-transporta-cocaina-in-valoare-de-3-milioane-de-euro-3623917",
+      "published_utc": "2026-02-09T21:52:59+00:00",
+      "score": 1
     },
     {
       "section": "medical",
@@ -318,6 +338,46 @@
       {
         "section": "romania",
         "kind": "ro",
+        "source": "Digi24",
+        "title": "Problema demografică a României: decesele au fost de aproape două ori mai multe decât nașterile, în decembrie 2025",
+        "summary": "România a înregistrat în decembrie 2025 un spor natural negativ de 10.184 persoane, după ce numărul deceselor a fost de aproape două ori mai mare decât cel al nașterilor. Potrivit datelor Institutului Național de Statistică (INS), în decembrie 2025 s-au înregistrat 11.893 de nașteri și 22.077 de decese, numărul deceselor crescând semnificativ față de luna precedentă.",
+        "link": "https://www.digi24.ro/stiri/actualitate/problema-demografica-a-romaniei-decesele-au-fost-de-aproape-doua-ori-mai-multe-decat-nasterile-in-decembrie-2025-3624465",
+        "published_utc": "2026-02-10T09:45:38+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Un Brâncuși „de atelier”, cu proveniență istorică, în Licitație la Artmark",
+        "summary": "Într-o serie de evenimente dedicate aniversării a 150 de ani de la nașterea lui Constantin Brâncuși, Galeriile Artmark propun o întâlnire valoroasă cu opera artistului. În cadrul Licitației de Artă Postbelică și Contemporană stabilită chiar&#8230;",
+        "link": "https://hotnews.ro/un-brancusi-de-atelier-cu-provenienta-istorica-in-licitatie-la-artmark-2168316",
+        "published_utc": "2026-02-10T09:32:22+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "„Lumea este în pericol” – Avertismentul unui director care a părăsit o mare companie din domeniul inteligenței artificiale",
+        "summary": "Un cercetător în domeniul inteligenței artificiale de la Anthropic, companie faimoasă pentru chatbotul Claude, a scris o scrisoare în care își anunță plecarea, spune că a realizat tot ce și-a dorit, dar avertizează și că&#8230;",
+        "link": "https://hotnews.ro/lumea-este-in-pericol-avertismentul-unui-director-care-a-parasit-o-mare-companie-din-domeniul-inteligentei-artificiale-2168299",
+        "published_utc": "2026-02-10T09:21:10+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Ajutorul de stat pentru livezile afectate de înghețul din 2025 a intrat în vigoare: fermierii pot primi până la 2.000 euro/hectar",
+        "summary": "De azi, 10 februarie, a intrat în vigoare ajutorul de stat pentru livezile afectate de înghețul din primăvara anului 2025. Pomicultorii cu pierderi de minimum 30% pot primi până la 2.000 euro/ha prin APIA, dintr-un buget de peste 58,5 milioane de lei, finanțat din fonduri europene.",
+        "link": "https://www.digi24.ro/stiri/economie/agricultura/ajutorul-de-stat-pentru-livezile-afectate-de-inghetul-din-2025-a-intrat-in-vigoare-fermierii-pot-primi-pana-la-2-000-euro-hectar-3624315",
+        "published_utc": "2026-02-10T09:05:46+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
         "source": "HotNews",
         "title": "România tocmai a bifat cel mai mic număr de nașteri din ultimul secol",
         "summary": "Anul trecut, numărul copiilor aduși pe lume a stabilit un nou record negativ: cu cei 145.000 de copii, România e la cea mai de jos cotă din ultimii 100 de ani, potrivit unui anunț făcut&#8230;",
@@ -358,16 +418,6 @@
       {
         "section": "romania",
         "kind": "ro",
-        "source": "HotNews",
-        "title": "România pierde o mare investiție. Cel mai mare producător de tutun din Coreea de Sud a fost la un pas să își facă o giga-fabrică, cu impact regional. A ales, în final, altă țară",
-        "summary": "KT&#38;G (fost Korea Tobacco &#38; Ginseng), cel mai mare producător de tutun din Coreea de Sud și al cincilea la nivel mondial, a tatonat piața românească cu scopul construcției unei fabrici de dispozitive pentru încălzirea&#8230;",
-        "link": "https://hotnews.ro/romania-pierde-o-mare-investitie-cel-mai-mare-producator-de-tutun-din-coreea-de-sud-a-fost-la-un-pas-sa-isi-faca-o-giga-fabrica-cu-impact-regional-a-ales-in-final-alta-tara-2168161",
-        "published_utc": "2026-02-10T05:21:41+00:00",
-        "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
         "source": "Digi24",
         "title": "Orașul din Europa „înghițit” de un imperiu minier deținut de China. Zăcăminte uriașe de cupru și aur au ajuns în mâinile Beijingului",
         "summary": "Complexul minier din orașul Bor, Serbia, unde se găsesc unele din cele mai mari zăcăminte de cupru și aur din Europa, a fost preluat în 2018 de un grup minier din China controlat de stat, care a investit miliarde de euro. Proiectul a transformat complet viața locuitorilor din zonă, care au văzut cum casele, pământurile și amintirile lor dispar, pe măsură ce tot mai multe așezări sunt înghițite de exploatarea minieră.",
@@ -404,16 +454,6 @@
         "link": "https://www.digi24.ro/stiri/un-sofer-roman-de-tir-a-fost-prins-de-politisti-in-italia-in-timp-ce-transporta-cocaina-in-valoare-de-3-milioane-de-euro-3623917",
         "published_utc": "2026-02-09T21:52:59+00:00",
         "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Ilie Bolojan, întrebat despre demisie: „Când nu voi mai fi premier va fi o ușurare pentru mine”",
-        "summary": "Premierul Ilie Bolojan a declarat luni, în emisiunea Jurnalul de Seară de la Digi24, că în repetate rânduri a avut în vedere să „facă un pas în lateral”, în contextul unor presiuni uriașe după adoptarea măsurilor de austeritate. Întrebat dacă s-a gândit să-și dea demisia, el a spus: „În momentul în care nu voi mai fi premier va fi o ușurare pentru mine”.",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/ilie-bolojan-intrebat-despre-demisie-va-fi-o-usurare-pentru-mine-cand-nu-voi-mai-fi-premier-3623749",
-        "published_utc": "2026-02-09T20:30:30+00:00",
-        "score": 3
       }
     ],
     "medical": [
@@ -637,28 +677,28 @@
         "category_id": "space",
         "category_label": "🚀 Spațiu",
         "source": "Flickr (space)",
-        "title": "Miscalculated Rover - Febrovery 2026-10",
-        "link": "https://www.flickr.com/photos/captain_j03/55088145589/",
-        "image_url": "https://live.staticflickr.com/65535/55088145589_4a37cce5ed_b.jpg",
-        "published_utc": "2026-02-10T05:21:10+00:00"
+        "title": "Rosette Nebula",
+        "link": "https://www.flickr.com/photos/kepawong/55088297133/",
+        "image_url": "https://live.staticflickr.com/65535/55088297133_4f50a34834_b.jpg",
+        "published_utc": "2026-02-10T09:04:52+00:00"
       },
       {
         "category_id": "animals",
         "category_label": "🐾 Animale",
         "source": "Flickr (animals)",
-        "title": "Kamakura and Enoshima 2025",
-        "link": "https://www.flickr.com/photos/204197033@N05/55088327264/",
-        "image_url": "https://live.staticflickr.com/65535/55088327264_a956161d30_b.jpg",
-        "published_utc": "2026-02-10T08:30:06+00:00"
+        "title": "Heart & Club -Agrotis clavis-Hinton Suffolk 210623 (8)",
+        "link": "https://www.flickr.com/photos/ailognom/55088333153/",
+        "image_url": "https://live.staticflickr.com/65535/55088333153_1abef10047_b.jpg",
+        "published_utc": "2026-02-10T09:49:32+00:00"
       },
       {
         "category_id": "landscapes",
         "category_label": "🏞️ Peisaj",
         "source": "Flickr (landscape)",
-        "title": "Rakotzbrücke Gablenz",
-        "link": "https://www.flickr.com/photos/cruiserpapa/55088068316/",
-        "image_url": "https://live.staticflickr.com/65535/55088068316_9bb7a24a51_b.jpg",
-        "published_utc": "2026-02-10T08:37:28+00:00"
+        "title": "DSCN7991_a",
+        "link": "https://www.flickr.com/photos/ronpk/55087239737/",
+        "image_url": "https://live.staticflickr.com/65535/55087239737_0489778205_b.jpg",
+        "published_utc": "2026-02-10T09:44:37+00:00"
       }
     ],
     "joke": [
@@ -671,9 +711,9 @@
       {
         "date_utc": "2026-02-10",
         "source": "TimesNewRoman",
-        "title": "Acțiunile scutecelor Huggies s-au dublat după ce Donald Trump s-a c*cat pe el",
+        "title": "Regrete târzii. Mulți români realizează că și-au făcut tatuaje în loc să-și cumpere un cojoc",
         "summary": "Cotidian independent de umor voluntar",
-        "link": "https://www.timesnewroman.ro/politic/actiunile-scutecelor-huggies-s-au-dublat-dupa-ce-donald-trump-s-a-ccat-pe-el/",
+        "link": "https://www.timesnewroman.ro/life-death/regrete-tarzii-multi-romani-realizeaza-ca-si-au-facut-tatuaje-in-loc-sa-si-cumpere-un-cojoc/",
         "note": "Satiră — nu este știre reală."
       }
     ]
