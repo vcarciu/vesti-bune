@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-02-10T01:20:28+00:00",
+  "generated_utc": "2026-02-10T04:24:38+00:00",
   "count": 29,
   "items": [
     {
@@ -225,7 +225,7 @@
     {
       "section": "medical",
       "kind": "global",
-      "source": "ScienceDaily Health",
+      "source": "ScienceDaily Medicine",
       "title": "A 20-year-old cancer vaccine may hold the key to long-term survival",
       "summary": "Two decades after a breast cancer vaccine trial, every participant is still alive—an astonishing result for metastatic disease. Scientists found their immune systems retained long-lasting memory cells primed to recognize cancer. By enhancing a key immune signal called CD27, researchers dramatically improved tumor elimination in lab studies. The findings suggest cancer vaccines may have been missing a crucial ingredient all along.",
       "link": "https://www.sciencedaily.com/releases/2026/01/260128075345.htm",
@@ -470,7 +470,7 @@
       {
         "section": "medical",
         "kind": "global",
-        "source": "ScienceDaily Health",
+        "source": "ScienceDaily Medicine",
         "title": "A 20-year-old cancer vaccine may hold the key to long-term survival",
         "summary": "Two decades after a breast cancer vaccine trial, every participant is still alive—an astonishing result for metastatic disease. Scientists found their immune systems retained long-lasting memory cells primed to recognize cancer. By enhancing a key immune signal called CD27, researchers dramatically improved tumor elimination in lab studies. The findings suggest cancer vaccines may have been missing a crucial ingredient all along.",
         "link": "https://www.sciencedaily.com/releases/2026/01/260128075345.htm",
@@ -597,28 +597,28 @@
         "category_id": "space",
         "category_label": "🚀 Spațiu",
         "source": "Flickr (space)",
-        "title": "Winx Club - Bloom, Stella, Flora, Musa, Tecna and Aisha (Layla) Magic Winx Charmix Figures / Figuras",
-        "link": "https://www.flickr.com/photos/199546216@N05/55087634346/",
-        "image_url": "https://live.staticflickr.com/65535/55087634346_67e3d42a2d_b.jpg",
-        "published_utc": "2026-02-10T01:05:21+00:00"
+        "title": "The Space Needle and His Little Buddy",
+        "link": "https://www.flickr.com/photos/cronncc/55088022640/",
+        "image_url": "https://live.staticflickr.com/65535/55088022640_fb8725e4db_b.jpg",
+        "published_utc": "2026-02-10T01:25:05+00:00"
       },
       {
         "category_id": "animals",
         "category_label": "🐾 Animale",
         "source": "Flickr (animals)",
-        "title": "Martha eating bucatini",
-        "link": "https://www.flickr.com/photos/arte/55087622991/",
-        "image_url": "https://live.staticflickr.com/65535/55087622991_de7b84a350_b.jpg",
-        "published_utc": "2026-02-10T01:10:29+00:00"
+        "title": "🐾 Animale",
+        "link": "https://www.flickr.com/photos/eldar_shayk/55087826801/",
+        "image_url": "https://live.staticflickr.com/65535/55087826801_719b03258f_b.jpg",
+        "published_utc": "2026-02-10T04:04:33+00:00"
       },
       {
         "category_id": "landscapes",
         "category_label": "🏞️ Peisaj",
         "source": "Flickr (landscape)",
-        "title": "By the Amazon",
-        "link": "https://www.flickr.com/photos/12463666@N03/55087637791/",
-        "image_url": "https://live.staticflickr.com/65535/55087637791_b8b001d9d9_b.jpg",
-        "published_utc": "2026-02-10T01:12:00+00:00"
+        "title": "Badwater nasin, California, USA",
+        "link": "https://www.flickr.com/photos/zeelichsheng/55088195870/",
+        "image_url": "https://live.staticflickr.com/65535/55088195870_6d635175f5_z.jpg",
+        "published_utc": "2026-02-10T04:02:46+00:00"
       }
     ],
     "joke": [
@@ -631,9 +631,9 @@
       {
         "date_utc": "2026-02-10",
         "source": "TimesNewRoman",
-        "title": "Românii care au avut 10 ani președinte un robot, revoltați că acum un alt robot le cântă manele",
+        "title": "Regrete târzii. Mulți români realizează că și-au făcut tatuaje în loc să-și cumpere un cojoc",
         "summary": "Cotidian independent de umor voluntar",
-        "link": "https://www.timesnewroman.ro/monden/romanii-care-au-avut-10-ani-presedinte-un-robot-revoltati-ca-acum-un-alt-robot-le-canta-manele/",
+        "link": "https://www.timesnewroman.ro/life-death/regrete-tarzii-multi-romani-realizeaza-ca-si-au-facut-tatuaje-in-loc-sa-si-cumpere-un-cojoc/",
         "note": "Satiră — nu este știre reală."
       }
     ]
