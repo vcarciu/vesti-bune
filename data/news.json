@@ -1,7 +1,17 @@
 {
-  "generated_utc": "2026-02-10T17:56:16+00:00",
+  "generated_utc": "2026-02-10T18:53:33+00:00",
   "count": 30,
   "items": [
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Tăierile în administrație și măsurile de relansare economică vor fi adoptate prin OUG (Surse Digi24)",
+      "summary": "Reforma administrației și măsurile de relansare economică ar urma să fie adoptate prin ordonanță de urgență, potrivit informațiilor Digi24. Anterior, premierul Ilie Bolojan anunța că aceste măsuri vor fi adoptate prin asumarea răspunderii Guvernului. Surse au mai declarat că Executivul ar urma să dea undă verde actului normativ cel târziu săptămâna viitoare.",
+      "link": "https://www.digi24.ro/stiri/actualitate/politica/taierile-in-administratie-si-masurile-de-relansare-economica-vor-fi-adoptate-prin-oug-surse-digi24-3625461",
+      "published_utc": "2026-02-10T18:49:35+00:00",
+      "score": 1
+    },
     {
       "section": "romania",
       "kind": "ro",
@@ -11,16 +21,6 @@
       "link": "https://www.digi24.ro/magazin/timp-liber/cultura/descoperire-arheologica-rara-in-apropiere-de-sfantu-gheorghe-figurina-feminina-veche-de-peste-7-500-de-ani-3625421",
       "published_utc": "2026-02-10T17:44:25+00:00",
       "score": 2
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "HotNews",
-      "title": "VIDEO Taxi zburător, testat cu succes la Munchen. Pentru ce misiuni de transport a fost proiectat",
-      "summary": "ERC System, un startup din Munchen, a realizat un zbor de testare pentru una dintre cele mai mari aeronave electrice din Europa cu decolare verticală (eVTOL), un prototip de 2,7 tone proiectat pentru misiuni de&#8230;",
-      "link": "https://hotnews.ro/video-taxi-zburator-testat-cu-succes-la-munchen-pentru-ce-misiuni-de-transport-a-fost-proiectat-2168697",
-      "published_utc": "2026-02-10T17:08:00+00:00",
-      "score": 1
     },
     {
       "section": "medical",
@@ -35,22 +35,22 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "HotNews",
+      "title": "VIDEO Taxi zburător, testat cu succes la Munchen. Pentru ce misiuni de transport a fost proiectat",
+      "summary": "ERC System, un startup din Munchen, a realizat un zbor de testare pentru una dintre cele mai mari aeronave electrice din Europa cu decolare verticală (eVTOL), un prototip de 2,7 tone proiectat pentru misiuni de&#8230;",
+      "link": "https://hotnews.ro/video-taxi-zburator-testat-cu-succes-la-munchen-pentru-ce-misiuni-de-transport-a-fost-proiectat-2168697",
+      "published_utc": "2026-02-10T17:08:00+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "Digi24",
       "title": "Reforma guvernanței companiilor de stat, analizată la Palatul Victoria. Oana Gheorghiu: progrese pentru jaloanele din PNRR",
       "summary": "Stadiul implementării reformei privind îmbunătățirea guvernanței corporative a întreprinderilor publice, precum și țintele și jaloanele aferente cererilor de plată 3, 4 și 5 din Planul Național de Redresare și Reziliență (PNRR) au fost analizate la întrunirea Comitetului interministerial coordonat de viceprim-ministrul Oana Gheorghiu, miercuri la Palatul Victoria.",
       "link": "https://www.digi24.ro/stiri/economie/reforma-guvernantei-companiilor-de-stat-analizata-la-palatul-victoria-oana-gheorghiu-progrese-pentru-jaloanele-din-pnrr-3625283",
       "published_utc": "2026-02-10T16:08:25+00:00",
       "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "HotNews",
-      "title": "Eurodeputații adoptă obiectivul climatic al UE pentru 2040. Clauze mai flexibile",
-      "summary": "Eurodeputații au adoptat definitiv marți obiectivul climatic al Uniunii Europene pentru 2040: o reducere cu 90% a emisiilor de gaze cu efect de seră față de nivelurile din 1990, cu o oarecare flexibilitate, informează Agerpres&#8230;",
-      "link": "https://hotnews.ro/eurodeputatii-adopta-obiectivul-climatic-al-ue-pentru-2040-clauze-mai-flexibile-2168662",
-      "published_utc": "2026-02-10T15:24:43+00:00",
-      "score": 3
     },
     {
       "section": "medical",
@@ -65,21 +65,21 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Digi24",
-      "title": "Digi Communications propune distribuirea de acțiuni gratuite",
-      "summary": "• Digi Communications N.V. propune recompensarea acționarilor prin emiterea de acțiuni gratuite, cu o distribuire pro-rata • Inițiativa presupune conversia unei părți din profiturile anilor anteriori și a rezervelor în capital social, fără nicio contribuție în numerar din partea investitorilor • Emiterea de acțiuni propusă este așteptată să susțină lichiditatea prin creșterea numărului de acțiuni DIGI disponibile la tranzacționare",
-      "link": "https://www.digi24.ro/stiri/economie/companii/digi-communications-propune-distribuirea-de-actiuni-gratuite-3625159",
-      "published_utc": "2026-02-10T15:14:03+00:00",
-      "score": 1
+      "source": "HotNews",
+      "title": "Eurodeputații adoptă obiectivul climatic al UE pentru 2040. Clauze mai flexibile",
+      "summary": "Eurodeputații au adoptat definitiv marți obiectivul climatic al Uniunii Europene pentru 2040: o reducere cu 90% a emisiilor de gaze cu efect de seră față de nivelurile din 1990, cu o oarecare flexibilitate, informează Agerpres&#8230;",
+      "link": "https://hotnews.ro/eurodeputatii-adopta-obiectivul-climatic-al-ue-pentru-2040-clauze-mai-flexibile-2168662",
+      "published_utc": "2026-02-10T15:24:43+00:00",
+      "score": 3
     },
     {
       "section": "romania",
       "kind": "ro",
       "source": "Digi24",
-      "title": "Un bărbat din Mehedinți este cercetat penal după ce și-a amenajat în propria casă o sală de jocuri de noroc",
-      "summary": "Un bărbat din Mehedinți este cercetat penal după ce și-a transformat propria locuință într-o sală de jocuri de noroc. Polițiștii au ridicat aparatele deținute ilegal.",
-      "link": "https://www.digi24.ro/stiri/un-barbat-din-mehedinti-este-cercetat-penal-dupa-ce-si-a-amenajat-in-propria-casa-o-sala-de-jocuri-de-noroc-3625175",
-      "published_utc": "2026-02-10T15:06:03+00:00",
+      "title": "Digi Communications propune distribuirea de acțiuni gratuite",
+      "summary": "• Digi Communications N.V. propune recompensarea acționarilor prin emiterea de acțiuni gratuite, cu o distribuire pro-rata • Inițiativa presupune conversia unei părți din profiturile anilor anteriori și a rezervelor în capital social, fără nicio contribuție în numerar din partea investitorilor • Emiterea de acțiuni propusă este așteptată să susțină lichiditatea prin creșterea numărului de acțiuni DIGI disponibile la tranzacționare",
+      "link": "https://www.digi24.ro/stiri/economie/companii/digi-communications-propune-distribuirea-de-actiuni-gratuite-3625159",
+      "published_utc": "2026-02-10T15:14:03+00:00",
       "score": 1
     },
     {
@@ -96,21 +96,21 @@
       "section": "romania",
       "kind": "ro",
       "source": "Digi24",
-      "title": "Parlamentul European a votat clauzele de salvgardare în cazul acordului UE-Mercosur. Când pot fi activate acestea",
-      "summary": "Parlamentul European a adoptat cu o majoritate absolută măsurile de salvgardare privind tratatul UE-Mercosur. Legislativul comunitar anunță că aceste clauze vor apăra interesele producătorilor de pe Bătrânul Continent.",
-      "link": "https://www.digi24.ro/stiri/externe/ue/parlamentul-european-a-votat-clauzele-de-salvgardare-in-cazul-acordului-ue-mercosur-cand-pot-fi-activate-acestea-3625017",
-      "published_utc": "2026-02-10T14:02:51+00:00",
-      "score": 2
+      "title": "Un bărbat din Mehedinți este cercetat penal după ce și-a amenajat în propria casă o sală de jocuri de noroc",
+      "summary": "Un bărbat din Mehedinți este cercetat penal după ce și-a transformat propria locuință într-o sală de jocuri de noroc. Polițiștii au ridicat aparatele deținute ilegal.",
+      "link": "https://www.digi24.ro/stiri/un-barbat-din-mehedinti-este-cercetat-penal-dupa-ce-si-a-amenajat-in-propria-casa-o-sala-de-jocuri-de-noroc-3625175",
+      "published_utc": "2026-02-10T15:06:03+00:00",
+      "score": 1
     },
     {
       "section": "romania",
       "kind": "ro",
       "source": "Digi24",
-      "title": "Polonia înființează „Consiliul Viitorului”. Donald Tusk: „Poate fi cel mai bun loc din Europa în ceea ce priveşte tehnologiile moderne”",
-      "summary": "Premierul polonez Donald Tusk a anunţat marţi înființarea „Consiliului Viitorului”, un nou organism consultativ de stat menit să accelereze dezvoltarea economică şi să transforme naţiunea central-europeană într-o putere tehnologică prin intermediul inovaţiei în sectoare precum inteligenţa artificială, biotehnologia şi tehnologia aerospaţială, scrie EFE.",
-      "link": "https://www.digi24.ro/stiri/externe/ue/polonia-infiinteaza-consiliul-viitorului-donald-tusk-poate-fi-cel-mai-bun-loc-din-europa-in-ceea-ce-priveste-tehnologiile-moderne-3624911",
-      "published_utc": "2026-02-10T13:23:58+00:00",
-      "score": 1
+      "title": "Parlamentul European a votat clauzele de salvgardare în cazul acordului UE-Mercosur. Când pot fi activate acestea",
+      "summary": "Parlamentul European a adoptat cu o majoritate absolută măsurile de salvgardare privind tratatul UE-Mercosur. Legislativul comunitar anunță că aceste clauze vor apăra interesele producătorilor de pe Bătrânul Continent.",
+      "link": "https://www.digi24.ro/stiri/externe/ue/parlamentul-european-a-votat-clauzele-de-salvgardare-in-cazul-acordului-ue-mercosur-cand-pot-fi-activate-acestea-3625017",
+      "published_utc": "2026-02-10T14:02:51+00:00",
+      "score": 2
     },
     {
       "section": "science",
@@ -126,21 +126,21 @@
       "section": "romania",
       "kind": "ro",
       "source": "Digi24",
-      "title": "Copiii români, tot mai expuși la pericole pe rețelele sociale. Cifre alarmante privind siguranța online a minorilor (sondaj)",
-      "summary": "Un nou sondaj realizat de organizația Salvați Copiii România arată că minorii din România sunt tot mai expuși pericolelor din mediul online, de la cyberbullying la provocări riscante și conținut interzis. Studiul, realizat la finalul anului 2025 pe un eșantion de copii între 12 și 17 ani, scoate la iveală cifre alarmante despre siguranța digitală a tinerilor.",
-      "link": "https://www.digi24.ro/stiri/actualitate/copiii-romani-tot-mai-expusi-la-pericole-pe-retelele-sociale-cifre-alarmante-privind-siguranta-online-a-minorilor-sondaj-3624715",
-      "published_utc": "2026-02-10T11:37:51+00:00",
-      "score": 4
+      "title": "Polonia înființează „Consiliul Viitorului”. Donald Tusk: „Poate fi cel mai bun loc din Europa în ceea ce priveşte tehnologiile moderne”",
+      "summary": "Premierul polonez Donald Tusk a anunţat marţi înființarea „Consiliului Viitorului”, un nou organism consultativ de stat menit să accelereze dezvoltarea economică şi să transforme naţiunea central-europeană într-o putere tehnologică prin intermediul inovaţiei în sectoare precum inteligenţa artificială, biotehnologia şi tehnologia aerospaţială, scrie EFE.",
+      "link": "https://www.digi24.ro/stiri/externe/ue/polonia-infiinteaza-consiliul-viitorului-donald-tusk-poate-fi-cel-mai-bun-loc-din-europa-in-ceea-ce-priveste-tehnologiile-moderne-3624911",
+      "published_utc": "2026-02-10T13:23:58+00:00",
+      "score": 1
     },
     {
       "section": "romania",
       "kind": "ro",
       "source": "Digi24",
-      "title": "Sorin Grindeanu, luat la rost de un primar independent: „Nu vă plac măsurile, dar nu votarăţi împreună?”. Reacția președintelui PSD",
-      "summary": "Preşedintele Camerei Deputaţilor, liderul PSD Sorin Grindeanu, care a participat, marţi, la o dezbatere cu primarii de comnune, a fost întrebat de un primar independent de ce critică măsurile adoptate de Guvern, PSD făcând parte din coaliţie şi votând aceste măsuri. „Nu vă plac măsurile, dar nu votarăţi împreună?”, a afirmat primarul. Sorin Grindeanu a reiterat ideea că PSD îşi doreşte ca banii colectaţi din taxe şi impozite să rămână la administraţiile locale pentru ca acestea să continue investiţiile.",
-      "link": "https://www.digi24.ro/stiri/actualitate/politica/sorin-grindeanu-luat-la-rost-de-un-primar-independent-nu-va-plac-masurile-dar-nu-votarati-impreuna-reactia-presedintelui-psd-3624585",
-      "published_utc": "2026-02-10T10:33:04+00:00",
-      "score": 1
+      "title": "Copiii români, tot mai expuși la pericole pe rețelele sociale. Cifre alarmante privind siguranța online a minorilor (sondaj)",
+      "summary": "Un nou sondaj realizat de organizația Salvați Copiii România arată că minorii din România sunt tot mai expuși pericolelor din mediul online, de la cyberbullying la provocări riscante și conținut interzis. Studiul, realizat la finalul anului 2025 pe un eșantion de copii între 12 și 17 ani, scoate la iveală cifre alarmante despre siguranța digitală a tinerilor.",
+      "link": "https://www.digi24.ro/stiri/actualitate/copiii-romani-tot-mai-expusi-la-pericole-pe-retelele-sociale-cifre-alarmante-privind-siguranta-online-a-minorilor-sondaj-3624715",
+      "published_utc": "2026-02-10T11:37:51+00:00",
+      "score": 4
     },
     {
       "section": "science",
@@ -156,10 +156,10 @@
       "section": "romania",
       "kind": "ro",
       "source": "Digi24",
-      "title": "Problema demografică a României: decesele au fost de aproape două ori mai multe decât nașterile, în decembrie 2025",
-      "summary": "România a înregistrat în decembrie 2025 un spor natural negativ de 10.184 persoane, după ce numărul deceselor a fost de aproape două ori mai mare decât cel al nașterilor. Potrivit datelor Institutului Național de Statistică (INS), în decembrie 2025 s-au înregistrat 11.893 de nașteri și 22.077 de decese, numărul deceselor crescând semnificativ față de luna precedentă.",
-      "link": "https://www.digi24.ro/stiri/actualitate/problema-demografica-a-romaniei-decesele-au-fost-de-aproape-doua-ori-mai-multe-decat-nasterile-in-decembrie-2025-3624465",
-      "published_utc": "2026-02-10T09:45:38+00:00",
+      "title": "Sorin Grindeanu, luat la rost de un primar independent: „Nu vă plac măsurile, dar nu votarăţi împreună?”. Reacția președintelui PSD",
+      "summary": "Preşedintele Camerei Deputaţilor, liderul PSD Sorin Grindeanu, care a participat, marţi, la o dezbatere cu primarii de comnune, a fost întrebat de un primar independent de ce critică măsurile adoptate de Guvern, PSD făcând parte din coaliţie şi votând aceste măsuri. „Nu vă plac măsurile, dar nu votarăţi împreună?”, a afirmat primarul. Sorin Grindeanu a reiterat ideea că PSD îşi doreşte ca banii colectaţi din taxe şi impozite să rămână la administraţiile locale pentru ca acestea să continue investiţiile.",
+      "link": "https://www.digi24.ro/stiri/actualitate/politica/sorin-grindeanu-luat-la-rost-de-un-primar-independent-nu-va-plac-masurile-dar-nu-votarati-impreuna-reactia-presedintelui-psd-3624585",
+      "published_utc": "2026-02-10T10:33:04+00:00",
       "score": 1
     },
     {
@@ -309,6 +309,16 @@
         "section": "romania",
         "kind": "ro",
         "source": "Digi24",
+        "title": "Tăierile în administrație și măsurile de relansare economică vor fi adoptate prin OUG (Surse Digi24)",
+        "summary": "Reforma administrației și măsurile de relansare economică ar urma să fie adoptate prin ordonanță de urgență, potrivit informațiilor Digi24. Anterior, premierul Ilie Bolojan anunța că aceste măsuri vor fi adoptate prin asumarea răspunderii Guvernului. Surse au mai declarat că Executivul ar urma să dea undă verde actului normativ cel târziu săptămâna viitoare.",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/taierile-in-administratie-si-masurile-de-relansare-economica-vor-fi-adoptate-prin-oug-surse-digi24-3625461",
+        "published_utc": "2026-02-10T18:49:35+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
         "title": "Descoperire arheologică rară în apropiere de Sfântu Gheorghe: Figurină feminină veche de peste 7.500 de ani",
         "summary": "O figurină feminină din lut, veche de peste 7.500 de ani, a fost descoperită în apropierea municipiului Sfântu Gheorghe de către o echipă de arheologi de la Muzeul Naţional al Carpaţilor Răsăriteni, au anunţat, marţi, reprezentanţii instituţiei.",
         "link": "https://www.digi24.ro/magazin/timp-liber/cultura/descoperire-arheologica-rara-in-apropiere-de-sfantu-gheorghe-figurina-feminina-veche-de-peste-7-500-de-ani-3625421",
@@ -403,16 +413,6 @@
         "summary": "Preşedintele Camerei Deputaţilor, liderul PSD Sorin Grindeanu, care a participat, marţi, la o dezbatere cu primarii de comnune, a fost întrebat de un primar independent de ce critică măsurile adoptate de Guvern, PSD făcând parte din coaliţie şi votând aceste măsuri. „Nu vă plac măsurile, dar nu votarăţi împreună?”, a afirmat primarul. Sorin Grindeanu a reiterat ideea că PSD îşi doreşte ca banii colectaţi din taxe şi impozite să rămână la administraţiile locale pentru ca acestea să continue investiţiile.",
         "link": "https://www.digi24.ro/stiri/actualitate/politica/sorin-grindeanu-luat-la-rost-de-un-primar-independent-nu-va-plac-masurile-dar-nu-votarati-impreuna-reactia-presedintelui-psd-3624585",
         "published_utc": "2026-02-10T10:33:04+00:00",
-        "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Problema demografică a României: decesele au fost de aproape două ori mai multe decât nașterile, în decembrie 2025",
-        "summary": "România a înregistrat în decembrie 2025 un spor natural negativ de 10.184 persoane, după ce numărul deceselor a fost de aproape două ori mai mare decât cel al nașterilor. Potrivit datelor Institutului Național de Statistică (INS), în decembrie 2025 s-au înregistrat 11.893 de nașteri și 22.077 de decese, numărul deceselor crescând semnificativ față de luna precedentă.",
-        "link": "https://www.digi24.ro/stiri/actualitate/problema-demografica-a-romaniei-decesele-au-fost-de-aproape-doua-ori-mai-multe-decat-nasterile-in-decembrie-2025-3624465",
-        "published_utc": "2026-02-10T09:45:38+00:00",
         "score": 1
       }
     ],
@@ -626,19 +626,19 @@
         "category_id": "animals",
         "category_label": "🐾 Animale",
         "source": "Flickr (animals)",
-        "title": "DSC_1677",
-        "link": "https://www.flickr.com/photos/lakeworth/55088975813/",
-        "image_url": "https://live.staticflickr.com/65535/55088975813_27e66a7c6d_b.jpg",
-        "published_utc": "2026-02-10T17:55:41+00:00"
+        "title": "Peacock",
+        "link": "https://www.flickr.com/photos/196779155@N03/55087957712/",
+        "image_url": "https://live.staticflickr.com/65535/55087957712_dfb810306c_b.jpg",
+        "published_utc": "2026-02-10T18:41:35+00:00"
       },
       {
         "category_id": "landscapes",
         "category_label": "🏞️ Peisaj",
         "source": "Flickr (landscape)",
-        "title": "Mallards",
-        "link": "https://www.flickr.com/photos/202756690@N03/55089034474/",
-        "image_url": "https://live.staticflickr.com/65535/55089034474_57cc60db2e_b.jpg",
-        "published_utc": "2026-02-10T17:51:41+00:00"
+        "title": "Milazzo, Castello",
+        "link": "https://www.flickr.com/photos/39631091@N03/55088857041/",
+        "image_url": "https://live.staticflickr.com/65535/55088857041_349b08fa47_b.jpg",
+        "published_utc": "2026-02-10T18:52:42+00:00"
       }
     ],
     "joke": [
@@ -651,9 +651,9 @@
       {
         "date_utc": "2026-02-10",
         "source": "TimesNewRoman",
-        "title": "Singurul infractor aflat încă la închisoare nu înţelege ce are Lia Savonea cu el",
+        "title": "Sting abia aşteaptă să cânte la Untold: &#8222;Am învăţat deja prima manea!&#8221;",
         "summary": "Cotidian independent de umor voluntar",
-        "link": "https://www.timesnewroman.ro/life-death/singurul-infractor-aflat-inca-la-inchisoare-nu-intelege-ce-are-lia-savonea-cu-el/",
+        "link": "https://www.timesnewroman.ro/monden/sting-abia-asteapta-sa-cante-la-untold-am-invatat-deja-prima-manea/",
         "note": "Satiră — nu este știre reală."
       }
     ]
