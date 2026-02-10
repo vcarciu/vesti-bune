@@ -1,7 +1,37 @@
 {
-  "generated_utc": "2026-02-10T11:42:59+00:00",
-  "count": 34,
+  "generated_utc": "2026-02-10T12:46:59+00:00",
+  "count": 31,
   "items": [
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "RomâniaTV a primit amenda maximă prevăzută de lege pentru relatările despre Recorder și protestele pentru justiție",
+      "summary": "Amenda de 100.000 de lei (20.000 de euro) a fost pentru relatările din două emisiuni difuzate de România TV pe 14 decembrie. Consiliul Național al Audiovizualului a decis sancțiunea, care e cea mai mare permisă&#8230;",
+      "link": "https://hotnews.ro/romaniatv-a-primit-amenda-maxima-prevazuta-de-lege-pentru-relatarile-despre-recorder-si-protestele-pentru-justitie-2168479",
+      "published_utc": "2026-02-10T12:30:37+00:00",
+      "score": 3
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "OFICIAL Formularul 300 – Decont de TVA, modificat din nou. Instrucțiuni de completare 2026",
+      "summary": "A apărut în Monitorul Oficial ordinul ANAF prin care s-a modificat Formularul 300 &#8211; decont de taxă pe valoarea adăugată (TVA), fiind aprobate, prin același document, și instrucțiunile de completare. Citește mai departe pe StartupCafe…",
+      "link": "https://hotnews.ro/oficial-formularul-300-decont-de-tva-modificat-din-nou-instructiuni-de-completare-2026-2168456",
+      "published_utc": "2026-02-10T12:14:58+00:00",
+      "score": 2
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "This popular diet was linked to a much lower stroke risk",
+      "summary": "A long-term study found that women who closely followed a Mediterranean diet had a much lower risk of stroke. The strongest benefits were seen in women who ate more plant-based foods, fish, and olive oil while cutting back on red meat and saturated fats. Their risk dropped across all major stroke types, including bleeding strokes, which are less commonly studied. The findings suggest diet may be a powerful but overlooked factor in stroke prevention.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260209064310.htm",
+      "published_utc": "2026-02-09T11:54:46+00:00",
+      "score": 1
+    },
     {
       "section": "romania",
       "kind": "ro",
@@ -26,11 +56,11 @@
       "section": "medical",
       "kind": "global",
       "source": "ScienceDaily Health",
-      "title": "This popular diet was linked to a much lower stroke risk",
-      "summary": "A long-term study found that women who closely followed a Mediterranean diet had a much lower risk of stroke. The strongest benefits were seen in women who ate more plant-based foods, fish, and olive oil while cutting back on red meat and saturated fats. Their risk dropped across all major stroke types, including bleeding strokes, which are less commonly studied. The findings suggest diet may be a powerful but overlooked factor in stroke prevention.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260209064310.htm",
-      "published_utc": "2026-02-09T11:54:46+00:00",
-      "score": 1
+      "title": "A hidden Aloe vera compound takes aim at Alzheimer’s",
+      "summary": "Scientists have uncovered promising clues that compounds found in Aloe vera could play a role in fighting Alzheimer’s disease. Using advanced computer modeling, researchers discovered that beta-sitosterol—a natural plant compound—strongly interacts with two key enzymes involved in memory loss and cognitive decline. The compound showed stability, strong binding, and favorable safety indicators, making it a standout candidate for future drug development.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260206012213.htm",
+      "published_utc": "2026-02-08T12:57:41+00:00",
+      "score": 2
     },
     {
       "section": "romania",
@@ -56,36 +86,6 @@
       "section": "medical",
       "kind": "global",
       "source": "ScienceDaily Health",
-      "title": "A hidden Aloe vera compound takes aim at Alzheimer’s",
-      "summary": "Scientists have uncovered promising clues that compounds found in Aloe vera could play a role in fighting Alzheimer’s disease. Using advanced computer modeling, researchers discovered that beta-sitosterol—a natural plant compound—strongly interacts with two key enzymes involved in memory loss and cognitive decline. The compound showed stability, strong binding, and favorable safety indicators, making it a standout candidate for future drug development.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260206012213.htm",
-      "published_utc": "2026-02-08T12:57:41+00:00",
-      "score": 2
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Problema demografică a României: decesele au fost de aproape două ori mai multe decât nașterile, în decembrie 2025",
-      "summary": "România a înregistrat în decembrie 2025 un spor natural negativ de 10.184 persoane, după ce numărul deceselor a fost de aproape două ori mai mare decât cel al nașterilor. Potrivit datelor Institutului Național de Statistică (INS), în decembrie 2025 s-au înregistrat 11.893 de nașteri și 22.077 de decese, numărul deceselor crescând semnificativ față de luna precedentă.",
-      "link": "https://www.digi24.ro/stiri/actualitate/problema-demografica-a-romaniei-decesele-au-fost-de-aproape-doua-ori-mai-multe-decat-nasterile-in-decembrie-2025-3624465",
-      "published_utc": "2026-02-10T09:45:38+00:00",
-      "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "HotNews",
-      "title": "Un Brâncuși „de atelier”, cu proveniență istorică, în Licitație la Artmark",
-      "summary": "Într-o serie de evenimente dedicate aniversării a 150 de ani de la nașterea lui Constantin Brâncuși, Galeriile Artmark propun o întâlnire valoroasă cu opera artistului. În cadrul Licitației de Artă Postbelică și Contemporană stabilită chiar&#8230;",
-      "link": "https://hotnews.ro/un-brancusi-de-atelier-cu-provenienta-istorica-in-licitatie-la-artmark-2168316",
-      "published_utc": "2026-02-10T09:32:22+00:00",
-      "score": 1
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
       "title": "Scientists found a gut compound that helps protect the liver",
       "summary": "What a mother eats during pregnancy may quietly shape her child’s liver health years down the road—but new research suggests there may be a way to tip the odds back in a healthier direction. Scientists found that a natural compound made by healthy gut bacteria dramatically reduced fatty liver disease in the offspring of mice whose mothers ate a high-fat, high-sugar diet. The compound, called indole, appeared to protect the liver, improve blood sugar, limit weight gain, and even reshape the gut microbiome in lasting ways.",
       "link": "https://www.sciencedaily.com/releases/2026/02/260208011028.htm",
@@ -95,11 +95,11 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "HotNews",
-      "title": "„Lumea este în pericol” – Avertismentul unui director care a părăsit o mare companie din domeniul inteligenței artificiale",
-      "summary": "Un cercetător în domeniul inteligenței artificiale de la Anthropic, companie faimoasă pentru chatbotul Claude, a scris o scrisoare în care își anunță plecarea, spune că a realizat tot ce și-a dorit, dar avertizează și că&#8230;",
-      "link": "https://hotnews.ro/lumea-este-in-pericol-avertismentul-unui-director-care-a-parasit-o-mare-companie-din-domeniul-inteligentei-artificiale-2168299",
-      "published_utc": "2026-02-10T09:21:10+00:00",
+      "source": "Digi24",
+      "title": "Problema demografică a României: decesele au fost de aproape două ori mai multe decât nașterile, în decembrie 2025",
+      "summary": "România a înregistrat în decembrie 2025 un spor natural negativ de 10.184 persoane, după ce numărul deceselor a fost de aproape două ori mai mare decât cel al nașterilor. Potrivit datelor Institutului Național de Statistică (INS), în decembrie 2025 s-au înregistrat 11.893 de nașteri și 22.077 de decese, numărul deceselor crescând semnificativ față de luna precedentă.",
+      "link": "https://www.digi24.ro/stiri/actualitate/problema-demografica-a-romaniei-decesele-au-fost-de-aproape-doua-ori-mai-multe-decat-nasterile-in-decembrie-2025-3624465",
+      "published_utc": "2026-02-10T09:45:38+00:00",
       "score": 1
     },
     {
@@ -153,26 +153,6 @@
       "score": 3
     },
     {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Asteroidul 2024 YR4 ar putea lovi Luna în 2032, potrivit unui studiu care se bazează pe 10.000 de simulări. Consecințele pentru Pământ",
-      "summary": "Un studiu recent publicat sugerează că asteroidul 2024 YR4, cu o diametru de aproximativ 60 de metri, are o probabilitate de 4,3% să lovească Luna pe 22 decembrie 2032, un eveniment care ar putea declanșa o strălucire lunară vizibilă de pe Pământ și ar putea declanșa o activitate meteorică puternică în săptămânile următoare.",
-      "link": "https://www.digi24.ro/stiri/actualitate/asteroidul-2024-yr4-ar-putea-lovi-luna-in-2032-potrivit-unui-studiu-care-se-bazeaza-pe-10-000-de-simulari-consecintele-pentru-pamant-3622291",
-      "published_utc": "2026-02-10T05:33:18+00:00",
-      "score": 2
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Orașul din Europa „înghițit” de un imperiu minier deținut de China. Zăcăminte uriașe de cupru și aur au ajuns în mâinile Beijingului",
-      "summary": "Complexul minier din orașul Bor, Serbia, unde se găsesc unele din cele mai mari zăcăminte de cupru și aur din Europa, a fost preluat în 2018 de un grup minier din China controlat de stat, care a investit miliarde de euro. Proiectul a transformat complet viața locuitorilor din zonă, care au văzut cum casele, pământurile și amintirile lor dispar, pe măsură ce tot mai multe așezări sunt înghițite de exploatarea minieră.",
-      "link": "https://www.digi24.ro/stiri/externe/orasul-din-europa-inghitit-de-un-imperiu-minier-detinut-de-china-zacaminte-uriase-de-cupru-si-aur-au-ajuns-in-mainile-beijingului-3614397",
-      "published_utc": "2026-02-10T05:00:30+00:00",
-      "score": 1
-    },
-    {
       "section": "medical",
       "kind": "global",
       "source": "ScienceDaily Health",
@@ -180,16 +160,6 @@
       "summary": "For decades, Americans were surrounded by lead from car exhaust, factories, paint, and even drinking water, often without realizing the damage it caused. By analyzing hair samples preserved across generations, scientists uncovered a striking record of how exposure soared before environmental rules and then collapsed after leaded gasoline and other sources were phased out.",
       "link": "https://www.sciencedaily.com/releases/2026/02/260207092902.htm",
       "published_utc": "2026-02-07T14:45:58+00:00",
-      "score": 3
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Sfântul Haralambie, prăznuit pe 10 februarie 2026. Obicei respectat de credincioși pentru protecție împotriva bolilor",
-      "summary": "Celebrat anual la data de 10 februarie, zi marcată în calendarul ortodox cu cruce neagră, Sfântul Haralambie se numără printre cele mai venerate figuri ale creștinătății. Tradiția ortodoxă îi atribuie darul vindecării și puterea de a alina suferința, fiind recunoscut drept făcător de minuni.",
-      "link": "https://www.digi24.ro/stiri/actualitate/evenimente/sfantul-haralambie-praznuit-pe-10-februarie-2026-obicei-respectat-de-credinciosi-pentru-protectie-impotriva-bolilor-3622213",
-      "published_utc": "2026-02-10T05:00:26+00:00",
       "score": 3
     },
     {
@@ -348,6 +318,26 @@
       {
         "section": "romania",
         "kind": "ro",
+        "source": "HotNews",
+        "title": "RomâniaTV a primit amenda maximă prevăzută de lege pentru relatările despre Recorder și protestele pentru justiție",
+        "summary": "Amenda de 100.000 de lei (20.000 de euro) a fost pentru relatările din două emisiuni difuzate de România TV pe 14 decembrie. Consiliul Național al Audiovizualului a decis sancțiunea, care e cea mai mare permisă&#8230;",
+        "link": "https://hotnews.ro/romaniatv-a-primit-amenda-maxima-prevazuta-de-lege-pentru-relatarile-despre-recorder-si-protestele-pentru-justitie-2168479",
+        "published_utc": "2026-02-10T12:30:37+00:00",
+        "score": 3
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "OFICIAL Formularul 300 – Decont de TVA, modificat din nou. Instrucțiuni de completare 2026",
+        "summary": "A apărut în Monitorul Oficial ordinul ANAF prin care s-a modificat Formularul 300 &#8211; decont de taxă pe valoarea adăugată (TVA), fiind aprobate, prin același document, și instrucțiunile de completare. Citește mai departe pe StartupCafe…",
+        "link": "https://hotnews.ro/oficial-formularul-300-decont-de-tva-modificat-din-nou-instructiuni-de-completare-2026-2168456",
+        "published_utc": "2026-02-10T12:14:58+00:00",
+        "score": 2
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
         "source": "Digi24",
         "title": "Copiii români, tot mai expuși la pericole pe rețelele sociale. Cifre alarmante privind siguranța online a minorilor (sondaj)",
         "summary": "Un nou sondaj realizat de organizația Salvați Copiii România arată că minorii din România sunt tot mai expuși pericolelor din mediul online, de la cyberbullying la provocări riscante și conținut interzis. Studiul, realizat la finalul anului 2025 pe un eșantion de copii între 12 și 17 ani, scoate la iveală cifre alarmante despre siguranța digitală a tinerilor.",
@@ -398,26 +388,6 @@
       {
         "section": "romania",
         "kind": "ro",
-        "source": "HotNews",
-        "title": "Un Brâncuși „de atelier”, cu proveniență istorică, în Licitație la Artmark",
-        "summary": "Într-o serie de evenimente dedicate aniversării a 150 de ani de la nașterea lui Constantin Brâncuși, Galeriile Artmark propun o întâlnire valoroasă cu opera artistului. În cadrul Licitației de Artă Postbelică și Contemporană stabilită chiar&#8230;",
-        "link": "https://hotnews.ro/un-brancusi-de-atelier-cu-provenienta-istorica-in-licitatie-la-artmark-2168316",
-        "published_utc": "2026-02-10T09:32:22+00:00",
-        "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "„Lumea este în pericol” – Avertismentul unui director care a părăsit o mare companie din domeniul inteligenței artificiale",
-        "summary": "Un cercetător în domeniul inteligenței artificiale de la Anthropic, companie faimoasă pentru chatbotul Claude, a scris o scrisoare în care își anunță plecarea, spune că a realizat tot ce și-a dorit, dar avertizează și că&#8230;",
-        "link": "https://hotnews.ro/lumea-este-in-pericol-avertismentul-unui-director-care-a-parasit-o-mare-companie-din-domeniul-inteligentei-artificiale-2168299",
-        "published_utc": "2026-02-10T09:21:10+00:00",
-        "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
         "source": "Digi24",
         "title": "Ajutorul de stat pentru livezile afectate de înghețul din 2025 a intrat în vigoare: fermierii pot primi până la 2.000 euro/hectar",
         "summary": "De azi, 10 februarie, a intrat în vigoare ajutorul de stat pentru livezile afectate de înghețul din primăvara anului 2025. Pomicultorii cu pierderi de minimum 30% pot primi până la 2.000 euro/ha prin APIA, dintr-un buget de peste 58,5 milioane de lei, finanțat din fonduri europene.",
@@ -444,36 +414,6 @@
         "link": "https://www.digi24.ro/digistoria/digistoria-cele-mai-importante-evenimente-petrecute-pe-10-februarie-3-3624043",
         "published_utc": "2026-02-10T05:55:35+00:00",
         "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Asteroidul 2024 YR4 ar putea lovi Luna în 2032, potrivit unui studiu care se bazează pe 10.000 de simulări. Consecințele pentru Pământ",
-        "summary": "Un studiu recent publicat sugerează că asteroidul 2024 YR4, cu o diametru de aproximativ 60 de metri, are o probabilitate de 4,3% să lovească Luna pe 22 decembrie 2032, un eveniment care ar putea declanșa o strălucire lunară vizibilă de pe Pământ și ar putea declanșa o activitate meteorică puternică în săptămânile următoare.",
-        "link": "https://www.digi24.ro/stiri/actualitate/asteroidul-2024-yr4-ar-putea-lovi-luna-in-2032-potrivit-unui-studiu-care-se-bazeaza-pe-10-000-de-simulari-consecintele-pentru-pamant-3622291",
-        "published_utc": "2026-02-10T05:33:18+00:00",
-        "score": 2
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Orașul din Europa „înghițit” de un imperiu minier deținut de China. Zăcăminte uriașe de cupru și aur au ajuns în mâinile Beijingului",
-        "summary": "Complexul minier din orașul Bor, Serbia, unde se găsesc unele din cele mai mari zăcăminte de cupru și aur din Europa, a fost preluat în 2018 de un grup minier din China controlat de stat, care a investit miliarde de euro. Proiectul a transformat complet viața locuitorilor din zonă, care au văzut cum casele, pământurile și amintirile lor dispar, pe măsură ce tot mai multe așezări sunt înghițite de exploatarea minieră.",
-        "link": "https://www.digi24.ro/stiri/externe/orasul-din-europa-inghitit-de-un-imperiu-minier-detinut-de-china-zacaminte-uriase-de-cupru-si-aur-au-ajuns-in-mainile-beijingului-3614397",
-        "published_utc": "2026-02-10T05:00:30+00:00",
-        "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Sfântul Haralambie, prăznuit pe 10 februarie 2026. Obicei respectat de credincioși pentru protecție împotriva bolilor",
-        "summary": "Celebrat anual la data de 10 februarie, zi marcată în calendarul ortodox cu cruce neagră, Sfântul Haralambie se numără printre cele mai venerate figuri ale creștinătății. Tradiția ortodoxă îi atribuie darul vindecării și puterea de a alina suferința, fiind recunoscut drept făcător de minuni.",
-        "link": "https://www.digi24.ro/stiri/actualitate/evenimente/sfantul-haralambie-praznuit-pe-10-februarie-2026-obicei-respectat-de-credinciosi-pentru-protectie-impotriva-bolilor-3622213",
-        "published_utc": "2026-02-10T05:00:26+00:00",
-        "score": 3
       }
     ],
     "medical": [
@@ -697,28 +637,28 @@
         "category_id": "space",
         "category_label": "🚀 Spațiu",
         "source": "Flickr (space)",
-        "title": "USAF Lockheed Galaxy C-5A 85-0007",
-        "link": "https://www.flickr.com/photos/158503322@N06/55087299772/",
-        "image_url": "https://live.staticflickr.com/65535/55087299772_e0c21b0883_b.jpg",
-        "published_utc": "2026-02-10T10:50:32+00:00"
+        "title": "The Flow......",
+        "link": "https://www.flickr.com/photos/184516125@N02/55087368002/",
+        "image_url": "https://live.staticflickr.com/65535/55087368002_3dc4d53b78_b.jpg",
+        "published_utc": "2026-02-10T11:56:12+00:00"
       },
       {
         "category_id": "animals",
         "category_label": "🐾 Animale",
         "source": "Flickr (animals)",
-        "title": "Scaup 1",
-        "link": "https://www.flickr.com/photos/26465106@N02/55087347512/",
-        "image_url": "https://live.staticflickr.com/65535/55087347512_825ff43efc_b.jpg",
-        "published_utc": "2026-02-10T11:37:17+00:00"
+        "title": "DIE52552 - A walk in Terracina",
+        "link": "https://www.flickr.com/photos/diegorosato/55088563759/",
+        "image_url": "https://live.staticflickr.com/65535/55088563759_11711eb6d7_b.jpg",
+        "published_utc": "2026-02-10T12:42:59+00:00"
       },
       {
         "category_id": "landscapes",
         "category_label": "🏞️ Peisaj",
         "source": "Flickr (landscape)",
-        "title": "Extra time",
-        "link": "https://www.flickr.com/photos/133954471@N06/55088602335/",
-        "image_url": "https://live.staticflickr.com/65535/55088602335_e0b1fee59d_b.jpg",
-        "published_utc": "2026-02-10T11:40:15+00:00"
+        "title": "Wired 'til Teal",
+        "link": "https://www.flickr.com/photos/matei_lens/55088289966/",
+        "image_url": "https://live.staticflickr.com/65535/55088289966_d6c3fd98a5_b.jpg",
+        "published_utc": "2026-02-10T12:30:42+00:00"
       }
     ],
     "joke": [
