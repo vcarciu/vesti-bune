@@ -1,7 +1,37 @@
 {
-  "generated_utc": "2026-02-11T08:36:25+00:00",
-  "count": 29,
+  "generated_utc": "2026-02-11T09:42:50+00:00",
+  "count": 30,
   "items": [
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "Propunerea lui Ilie Bolojan, comparată cu o practică din comunism. „Scoasă de la sertar și reciclată”",
+      "summary": "Obligarea absolvenților de medicină să rămână în țară după terminare studiilor, idee înaintată de premierul Ilie Bolojan, a stârnit reacții în spațiul public.",
+      "link": "https://hotnews.ro/ilie-bolojan-absolveniti-medicina-obligati-sa-lucreze-in-romania-ruxandra-ivan-2168931",
+      "published_utc": "2026-02-11T09:25:26+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Marcel Ciolacu vrea să promoveze Buzăul drept destinație turistică: „Nu suntem un judeţ de tranzit”",
+      "summary": "Consiliul Judeţean (CJ) Buzău va fi prezent cu stand propriu sub sloganul „Visit Buzău” la Târgul de Turism al României, ediţia de primăvară 2026, ce se va desfăşura la Centrul Expoziţional ROMEXPO din Bucureşti în perioada 12-15 februarie, pentru a promova diversitatea turistică, produsele locale şi tradiţiile.",
+      "link": "https://www.digi24.ro/stiri/actualitate/marcel-ciolacu-vrea-sa-promoveze-buzaul-drept-destinatie-turistica-nu-suntem-un-judet-de-tranzit-3626237",
+      "published_utc": "2026-02-11T08:51:18+00:00",
+      "score": 1
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "NASA Breaking News",
+      "title": "Summer Heat Hits Southeastern Australia",
+      "summary": "January brought blistering extremes Down Under as record temperatures scorched the nation’s southeast.",
+      "link": "https://science.nasa.gov/earth/earth-observatory/summer-heat-hits-southeastern-australia/",
+      "published_utc": "2026-02-11T05:00:00+00:00",
+      "score": 3
+    },
     {
       "section": "romania",
       "kind": "ro",
@@ -26,11 +56,11 @@
       "section": "science",
       "kind": "global",
       "source": "NASA Breaking News",
-      "title": "Summer Heat Hits Southeastern Australia",
-      "summary": "January brought blistering extremes Down Under as record temperatures scorched the nation’s southeast.",
-      "link": "https://science.nasa.gov/earth/earth-observatory/summer-heat-hits-southeastern-australia/",
-      "published_utc": "2026-02-11T05:00:00+00:00",
-      "score": 3
+      "title": "Curiosity Blog, Sols 4798-4803: Back for More Science",
+      "summary": "Written by Michelle Minitti, MAHLI Deputy Principal Investigator Earth planning date: Friday, Feb. 6, 2026 The results from our first visit to the “Nevado Sajama” drill location were intriguing enough to motivate our return to do a deeper dive into the minerals and compounds locked in this rock with SAM (the Sample Analysis at Mars […]",
+      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4798-4803-back-for-more-science/",
+      "published_utc": "2026-02-10T18:47:27+00:00",
+      "score": 1
     },
     {
       "section": "romania",
@@ -53,13 +83,13 @@
       "score": 1
     },
     {
-      "section": "science",
+      "section": "medical",
       "kind": "global",
-      "source": "NASA Breaking News",
-      "title": "Curiosity Blog, Sols 4798-4803: Back for More Science",
-      "summary": "Written by Michelle Minitti, MAHLI Deputy Principal Investigator Earth planning date: Friday, Feb. 6, 2026 The results from our first visit to the “Nevado Sajama” drill location were intriguing enough to motivate our return to do a deeper dive into the minerals and compounds locked in this rock with SAM (the Sample Analysis at Mars […]",
-      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4798-4803-back-for-more-science/",
-      "published_utc": "2026-02-10T18:47:27+00:00",
+      "source": "ScienceDaily Health",
+      "title": "This popular diet was linked to a much lower stroke risk",
+      "summary": "A long-term study found that women who closely followed a Mediterranean diet had a much lower risk of stroke. The strongest benefits were seen in women who ate more plant-based foods, fish, and olive oil while cutting back on red meat and saturated fats. Their risk dropped across all major stroke types, including bleeding strokes, which are less commonly studied. The findings suggest diet may be a powerful but overlooked factor in stroke prevention.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260209064310.htm",
+      "published_utc": "2026-02-09T11:54:46+00:00",
       "score": 1
     },
     {
@@ -86,11 +116,11 @@
       "section": "medical",
       "kind": "global",
       "source": "ScienceDaily Health",
-      "title": "This popular diet was linked to a much lower stroke risk",
-      "summary": "A long-term study found that women who closely followed a Mediterranean diet had a much lower risk of stroke. The strongest benefits were seen in women who ate more plant-based foods, fish, and olive oil while cutting back on red meat and saturated fats. Their risk dropped across all major stroke types, including bleeding strokes, which are less commonly studied. The findings suggest diet may be a powerful but overlooked factor in stroke prevention.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260209064310.htm",
-      "published_utc": "2026-02-09T11:54:46+00:00",
-      "score": 1
+      "title": "A hidden Aloe vera compound takes aim at Alzheimer’s",
+      "summary": "Scientists have uncovered promising clues that compounds found in Aloe vera could play a role in fighting Alzheimer’s disease. Using advanced computer modeling, researchers discovered that beta-sitosterol—a natural plant compound—strongly interacts with two key enzymes involved in memory loss and cognitive decline. The compound showed stability, strong binding, and favorable safety indicators, making it a standout candidate for future drug development.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260206012213.htm",
+      "published_utc": "2026-02-08T12:57:41+00:00",
+      "score": 2
     },
     {
       "section": "romania",
@@ -101,26 +131,6 @@
       "link": "https://www.digi24.ro/stiri/actualitate/politica/alexandru-nazare-contrazice-mediul-de-afaceri-imm-urile-sunt-un-beneficiar-direct-al-pachetului-de-relansare-economica-3625673",
       "published_utc": "2026-02-10T20:58:33+00:00",
       "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "O țară europeană lansează un sistem de venit minim garantat pentru artişti. „Ne vom diferenția de alte ţări pentru că preţuim cultura”",
-      "summary": "A lansat marţi un sistem permanent de venit minim garantat pentru artişti, angajându-se să plătească 2.000 de lucrători din sectorul creativ cu 325 de euro pe săptămână, în urma unui studiu despre care participanţii au spus că a redus presiunea financiară şi le-a permis să petreacă mai mult timp lucrând la proiectele lor, informează Reuters.",
-      "link": "https://www.digi24.ro/stiri/externe/o-tara-europeana-lanseaza-un-sistem-de-venit-minim-garantat-pentru-artisti-ne-vom-diferentia-de-alte-tari-pentru-ca-pretuim-cultura-3625573",
-      "published_utc": "2026-02-10T19:34:17+00:00",
-      "score": 1
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "A hidden Aloe vera compound takes aim at Alzheimer’s",
-      "summary": "Scientists have uncovered promising clues that compounds found in Aloe vera could play a role in fighting Alzheimer’s disease. Using advanced computer modeling, researchers discovered that beta-sitosterol—a natural plant compound—strongly interacts with two key enzymes involved in memory loss and cognitive decline. The compound showed stability, strong binding, and favorable safety indicators, making it a standout candidate for future drug development.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260206012213.htm",
-      "published_utc": "2026-02-08T12:57:41+00:00",
-      "score": 2
     },
     {
       "section": "medical",
@@ -298,6 +308,26 @@
       {
         "section": "romania",
         "kind": "ro",
+        "source": "HotNews",
+        "title": "Propunerea lui Ilie Bolojan, comparată cu o practică din comunism. „Scoasă de la sertar și reciclată”",
+        "summary": "Obligarea absolvenților de medicină să rămână în țară după terminare studiilor, idee înaintată de premierul Ilie Bolojan, a stârnit reacții în spațiul public.",
+        "link": "https://hotnews.ro/ilie-bolojan-absolveniti-medicina-obligati-sa-lucreze-in-romania-ruxandra-ivan-2168931",
+        "published_utc": "2026-02-11T09:25:26+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Marcel Ciolacu vrea să promoveze Buzăul drept destinație turistică: „Nu suntem un judeţ de tranzit”",
+        "summary": "Consiliul Judeţean (CJ) Buzău va fi prezent cu stand propriu sub sloganul „Visit Buzău” la Târgul de Turism al României, ediţia de primăvară 2026, ce se va desfăşura la Centrul Expoziţional ROMEXPO din Bucureşti în perioada 12-15 februarie, pentru a promova diversitatea turistică, produsele locale şi tradiţiile.",
+        "link": "https://www.digi24.ro/stiri/actualitate/marcel-ciolacu-vrea-sa-promoveze-buzaul-drept-destinatie-turistica-nu-suntem-un-judet-de-tranzit-3626237",
+        "published_utc": "2026-02-11T08:51:18+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
         "source": "Digi24",
         "title": "Imagini spectaculoase din pădurile României. Animale sălbatice, surprinse în zone greu accesibile acoperite de zăpadă",
         "summary": "Un inginer de la Direcţia Silvică Gorj a surprins, în timpul unei acţiuni de patrulare în zone extrem de greu accesibile, animale sălbatice în mediul lor natural. Reprezentanții Romsilva au distribuit fotografiile impresionante, pe Facebook.",
@@ -363,16 +393,6 @@
         "summary": "Ministrul Finanţelor, Alexandru Nazare, a transmis marți că IMM-urile sunt un beneficiar direct al pachetului de stimulare a investiţiilor mari, argumentând că fiecare investiţie mare atrasă în România înseamnă contracte noi. Mesajul contrazice părerea mediului de afaceri, care susține că măsurile de relansare economică nu ar ajunge, de fapt, decât la un număr restrâns de IMM-uri.",
         "link": "https://www.digi24.ro/stiri/actualitate/politica/alexandru-nazare-contrazice-mediul-de-afaceri-imm-urile-sunt-un-beneficiar-direct-al-pachetului-de-relansare-economica-3625673",
         "published_utc": "2026-02-10T20:58:33+00:00",
-        "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "O țară europeană lansează un sistem de venit minim garantat pentru artişti. „Ne vom diferenția de alte ţări pentru că preţuim cultura”",
-        "summary": "A lansat marţi un sistem permanent de venit minim garantat pentru artişti, angajându-se să plătească 2.000 de lucrători din sectorul creativ cu 325 de euro pe săptămână, în urma unui studiu despre care participanţii au spus că a redus presiunea financiară şi le-a permis să petreacă mai mult timp lucrând la proiectele lor, informează Reuters.",
-        "link": "https://www.digi24.ro/stiri/externe/o-tara-europeana-lanseaza-un-sistem-de-venit-minim-garantat-pentru-artisti-ne-vom-diferentia-de-alte-tari-pentru-ca-pretuim-cultura-3625573",
-        "published_utc": "2026-02-10T19:34:17+00:00",
         "score": 1
       }
     ],
@@ -606,19 +626,19 @@
         "category_id": "animals",
         "category_label": "🐾 Animale",
         "source": "Flickr (animals)",
-        "title": "long & graceful",
-        "link": "https://www.flickr.com/photos/130281204@N06/55090020009/",
-        "image_url": "https://live.staticflickr.com/65535/55090020009_6ace8b2ff1_b.jpg",
-        "published_utc": "2026-02-11T08:32:41+00:00"
+        "title": "Black Swan 022",
+        "link": "https://www.flickr.com/photos/mralbionman/55089986668/",
+        "image_url": "https://live.staticflickr.com/65535/55089986668_72e5c7bc39_b.jpg",
+        "published_utc": "2026-02-11T09:02:43+00:00"
       },
       {
         "category_id": "landscapes",
         "category_label": "🏞️ Peisaj",
         "source": "Flickr (landscape)",
-        "title": "Where Do the Children Play?",
-        "link": "https://www.flickr.com/photos/62521067@N04/55089964713/",
-        "image_url": "https://live.staticflickr.com/65535/55089964713_e48749c77d_b.jpg",
-        "published_utc": "2026-02-11T08:29:45+00:00"
+        "title": "193 776",
+        "link": "https://www.flickr.com/photos/199944550@N03/55090076219/",
+        "image_url": "https://live.staticflickr.com/65535/55090076219_c07c8274f8_b.jpg",
+        "published_utc": "2026-02-11T09:35:11+00:00"
       }
     ],
     "joke": [
@@ -631,9 +651,9 @@
       {
         "date_utc": "2026-02-11",
         "source": "TimesNewRoman",
-        "title": "Regrete târzii. Mulți români realizează că și-au făcut tatuaje în loc să-și cumpere un cojoc",
+        "title": "Sting abia aşteaptă să cânte la Untold: &#8222;Am învăţat deja prima manea!&#8221;",
         "summary": "Cotidian independent de umor voluntar",
-        "link": "https://www.timesnewroman.ro/life-death/regrete-tarzii-multi-romani-realizeaza-ca-si-au-facut-tatuaje-in-loc-sa-si-cumpere-un-cojoc/",
+        "link": "https://www.timesnewroman.ro/monden/sting-abia-asteapta-sa-cante-la-untold-am-invatat-deja-prima-manea/",
         "note": "Satiră — nu este știre reală."
       }
     ]
