@@ -1,6 +1,6 @@
 {
-  "generated_utc": "2026-02-11T16:53:55+00:00",
-  "count": 27,
+  "generated_utc": "2026-02-11T17:50:44+00:00",
+  "count": 26,
   "items": [
     {
       "section": "romania",
@@ -91,16 +91,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/02/260209064310.htm",
       "published_utc": "2026-02-09T11:54:46+00:00",
       "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Camera Deputaților a adoptat legea privind dreptul pacienților la a doua opinie medicală, plătită de stat",
-      "summary": "Plenul Camerei Deputaților a adoptat, miercuri, un proiect de lege care prevede că pacienții asigurați vor avea dreptul la o a doua opinie medicală, costurile urmând să fie acoperite de sistemul de asigurări de sănătate. Camera Deputaților este for decizional în acest caz, după ce inițiativa legislativă a fost adoptată anterior și de Senat.",
-      "link": "https://www.digi24.ro/stiri/actualitate/sanatate/camera-deputatilor-a-adoptat-legea-privind-dreptul-pacientilor-la-a-doua-opinie-medicala-platita-de-stat-3626597",
-      "published_utc": "2026-02-11T11:22:24+00:00",
-      "score": 3
     },
     {
       "section": "medical",
@@ -334,16 +324,6 @@
         "link": "https://www.digi24.ro/stiri/economie/proiect-adoptat-de-senat-primariile-vor-putea-plati-reparatiile-buncarelor-din-subsolurile-blocurilor-3626727",
         "published_utc": "2026-02-11T13:14:37+00:00",
         "score": 3
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Camera Deputaților a adoptat legea privind dreptul pacienților la a doua opinie medicală, plătită de stat",
-        "summary": "Plenul Camerei Deputaților a adoptat, miercuri, un proiect de lege care prevede că pacienții asigurați vor avea dreptul la o a doua opinie medicală, costurile urmând să fie acoperite de sistemul de asigurări de sănătate. Camera Deputaților este for decizional în acest caz, după ce inițiativa legislativă a fost adoptată anterior și de Senat.",
-        "link": "https://www.digi24.ro/stiri/actualitate/sanatate/camera-deputatilor-a-adoptat-legea-privind-dreptul-pacientilor-la-a-doua-opinie-medicala-platita-de-stat-3626597",
-        "published_utc": "2026-02-11T11:22:24+00:00",
-        "score": 3
       }
     ],
     "medical": [
@@ -557,28 +537,28 @@
         "category_id": "space",
         "category_label": "🚀 Spațiu",
         "source": "Flickr (space)",
-        "title": "Sparrow II Missle",
-        "link": "https://www.flickr.com/photos/georgeneat/55090498543/",
-        "image_url": "https://live.staticflickr.com/65535/55090498543_a7d3b3cb27_b.jpg",
-        "published_utc": "2026-02-11T16:43:03+00:00"
+        "title": "Standing ground.",
+        "link": "https://www.flickr.com/photos/elphotography/55090741210/",
+        "image_url": "https://live.staticflickr.com/65535/55090741210_edc368260a_b.jpg",
+        "published_utc": "2026-02-11T16:58:04+00:00"
       },
       {
         "category_id": "animals",
         "category_label": "🐾 Animale",
         "source": "Flickr (animals)",
-        "title": "Harpy Eagle",
-        "link": "https://www.flickr.com/photos/wildkusi/55090704115/",
-        "image_url": "https://live.staticflickr.com/65535/55090704115_c7dd900a47_b.jpg",
-        "published_utc": "2026-02-11T16:50:27+00:00"
+        "title": "ELLE FANNING",
+        "link": "https://www.flickr.com/photos/199012501@N04/55090469621/",
+        "image_url": "https://live.staticflickr.com/65535/55090469621_a3bbb1d4ce_b.jpg",
+        "published_utc": "2026-02-11T17:48:59+00:00"
       },
       {
         "category_id": "landscapes",
         "category_label": "🏞️ Peisaj",
         "source": "Flickr (landscape)",
-        "title": "Tones",
-        "link": "https://www.flickr.com/photos/gavtroon/55090349851/",
-        "image_url": "https://live.staticflickr.com/65535/55090349851_2427f21b2f_b.jpg",
-        "published_utc": "2026-02-11T16:47:01+00:00"
+        "title": "Last Light",
+        "link": "https://www.flickr.com/photos/adventure/55090716814/",
+        "image_url": "https://live.staticflickr.com/65535/55090716814_72ce0b573f_b.jpg",
+        "published_utc": "2026-02-11T17:47:00+00:00"
       }
     ],
     "joke": [
