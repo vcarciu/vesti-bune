@@ -1,7 +1,37 @@
 {
-  "generated_utc": "2026-02-12T17:51:00+00:00",
+  "generated_utc": "2026-02-12T18:47:01+00:00",
   "count": 29,
   "items": [
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "S-a câștigat marele premiu la 6/49. Unde a fost jucat biletul norocos și cât a costat",
+      "summary": "La tragerea Loto 6/49 de astăzi, 12 februarie, s-a câștigat premiul de categoria I în valoare de 22.948.891,68 de lei (4,50 milioane de euro).",
+      "link": "https://www.digi24.ro/stiri/actualitate/social/s-a-castigat-marele-premiu-la-6-49-unde-a-fost-jucat-biletul-norocos-si-cat-a-costat-3629443",
+      "published_utc": "2026-02-12T18:36:12+00:00",
+      "score": 3
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "Francezii și-au găsit refugiul gastronomic într-un versatil aliment. Cererea a explodat pentru regele proteinelor ieftine, oul",
+      "summary": "Franța a consumat un număr record de ouă în 2025, datorită accesibilității acestora în contextul incertitudinii economice, și tendința urmează să continue, ceea ce îi face pe producători să construiască mai multe adăposturi, a anunțat&#8230;",
+      "link": "https://hotnews.ro/francezii-si-au-gasit-refugiul-gastronomic-intr-un-versatil-aliment-cererea-a-explodat-pentru-regele-proteinelor-ieftine-oul-2170159",
+      "published_utc": "2026-02-12T18:30:43+00:00",
+      "score": 3
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "ScienceDaily Science",
+      "title": "Europe’s “untouched” wilderness was shaped by Neanderthals and hunter-gatherers",
+      "summary": "Long before agriculture, humans were transforming Europe’s wild landscapes. Advanced simulations show that hunting and fire use by Neanderthals and Mesolithic hunter-gatherers reshaped forests and grasslands in measurable ways. By reducing populations of giant herbivores, people indirectly altered how dense vegetation became. The findings challenge the idea that prehistoric Europe was an untouched natural world.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260212025613.htm",
+      "published_utc": "2026-02-12T14:14:45+00:00",
+      "score": 1
+    },
     {
       "section": "romania",
       "kind": "ro",
@@ -25,11 +55,11 @@
     {
       "section": "science",
       "kind": "global",
-      "source": "ScienceDaily Science",
-      "title": "Europe’s “untouched” wilderness was shaped by Neanderthals and hunter-gatherers",
-      "summary": "Long before agriculture, humans were transforming Europe’s wild landscapes. Advanced simulations show that hunting and fire use by Neanderthals and Mesolithic hunter-gatherers reshaped forests and grasslands in measurable ways. By reducing populations of giant herbivores, people indirectly altered how dense vegetation became. The findings challenge the idea that prehistoric Europe was an untouched natural world.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260212025613.htm",
-      "published_utc": "2026-02-12T14:14:45+00:00",
+      "source": "NASA Breaking News",
+      "title": "NASA Completes First Flight of Laminar Flow Scaled Wing Design",
+      "summary": "NASA completed the first flight&#160;test&#160;of&#160;a scale-model wing&#160;designed to improve laminar flow, reducing drag&#160;and&#160;lowering&#160;fuel&#160;costs for&#160;future commercial&#160;aircraft.&#160; The flight took place Jan. 29 at NASA’s Armstrong Flight Research Center in Edwards, California, using&#160;one of the agency’s&#160;F-15B research&#160;jets.&#160;The&#160;NASA-designed,&#160;40-inch&#160;Crossflow Attenuated Natural Laminar Flow (CATNLF) wing&#160;model&#160;was attached to the aircraft’s underside vertically, like a fin.&#160; The flight lasted&#160;about&#160;75 minutes, during [&#8230;]",
+      "link": "https://www.nasa.gov/image-article/nasa-completes-first-flight-of-laminar-flow-scaled-wing-design/",
+      "published_utc": "2026-02-11T23:35:59+00:00",
       "score": 1
     },
     {
@@ -56,11 +86,11 @@
       "section": "science",
       "kind": "global",
       "source": "NASA Breaking News",
-      "title": "NASA Completes First Flight of Laminar Flow Scaled Wing Design",
-      "summary": "NASA completed the first flight&#160;test&#160;of&#160;a scale-model wing&#160;designed to improve laminar flow, reducing drag&#160;and&#160;lowering&#160;fuel&#160;costs for&#160;future commercial&#160;aircraft.&#160; The flight took place Jan. 29 at NASA’s Armstrong Flight Research Center in Edwards, California, using&#160;one of the agency’s&#160;F-15B research&#160;jets.&#160;The&#160;NASA-designed,&#160;40-inch&#160;Crossflow Attenuated Natural Laminar Flow (CATNLF) wing&#160;model&#160;was attached to the aircraft’s underside vertically, like a fin.&#160; The flight lasted&#160;about&#160;75 minutes, during [&#8230;]",
-      "link": "https://www.nasa.gov/image-article/nasa-completes-first-flight-of-laminar-flow-scaled-wing-design/",
-      "published_utc": "2026-02-11T23:35:59+00:00",
-      "score": 1
+      "title": "Summer Heat Hits Southeastern Australia",
+      "summary": "January brought blistering extremes Down Under as record temperatures scorched the nation’s southeast.",
+      "link": "https://science.nasa.gov/earth/earth-observatory/summer-heat-hits-southeastern-australia/",
+      "published_utc": "2026-02-11T05:00:00+00:00",
+      "score": 3
     },
     {
       "section": "romania",
@@ -80,36 +110,6 @@
       "summary": "Ministerul Finanţelor (MF) a împrumutat joi 1,59 miliarde de lei de la bănci, printr-o emisiune de obligaţiuni de stat şi una de certificate de trezorerie cu discont, potrivit datelor publicate de Banca Naţională a României (BNR).",
       "link": "https://www.digi24.ro/stiri/economie/finante-economie/ministerul-finantelor-a-imprumutat-joi-aproape-16-miliarde-lei-de-la-banci-3629045",
       "published_utc": "2026-02-12T15:04:04+00:00",
-      "score": 1
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "NASA Breaking News",
-      "title": "Summer Heat Hits Southeastern Australia",
-      "summary": "January brought blistering extremes Down Under as record temperatures scorched the nation’s southeast.",
-      "link": "https://science.nasa.gov/earth/earth-observatory/summer-heat-hits-southeastern-australia/",
-      "published_utc": "2026-02-11T05:00:00+00:00",
-      "score": 3
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "HotNews",
-      "title": "Dogioiu: Reforma administrației publice se va adopta „cel mai probabil prin ordonanță de urgență”. Cum se vor face tăierile de posturi și cheltuieli",
-      "summary": "Reforma administrației publice centrale și locale, care vizează scăderea cu 10% a cheltuielilor de personal, inclusiv prin tăierea a mii de posturi, va fi adoptată de Guvern „cel mai probabil prin ordonanță de urgență din&#8230;",
-      "link": "https://hotnews.ro/dogioiu-reforma-administratiei-publice-se-va-adopta-cel-mai-probabil-prin-ordonanta-de-urgenta-cum-se-vor-face-taierile-de-posturi-si-cheltuieli-2169924",
-      "published_utc": "2026-02-12T14:25:37+00:00",
-      "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Dogioiu: „Reforma administrației ar putea fi adoptată prin OUG”. Guvernul a invocat necesitatea aplicării rapide pentru bugetul pe 2026",
-      "summary": "Reforma administrației va fi adoptată, cel mai probabil, prin ordonanță de urgență, din motive de calendar, a declarat joi purtătorul de cuvânt al Guvernului, Ioana Dogioiu, după ședința Executivului. Potrivit acesteia, măsurile trebuie să intre rapid în vigoare pentru a produce efecte bugetare încă din acest an și pentru a contribui la țintele asumate pentru 2026.",
-      "link": "https://www.digi24.ro/stiri/economie/dogioiu-reforma-administratiei-ar-putea-fi-adoptata-prin-oug-guvernul-a-invocat-necesitatea-aplicarii-rapide-pentru-bugetul-pe-2026-3628679",
-      "published_utc": "2026-02-12T12:07:06+00:00",
       "score": 1
     },
     {
@@ -298,6 +298,26 @@
       {
         "section": "romania",
         "kind": "ro",
+        "source": "Digi24",
+        "title": "S-a câștigat marele premiu la 6/49. Unde a fost jucat biletul norocos și cât a costat",
+        "summary": "La tragerea Loto 6/49 de astăzi, 12 februarie, s-a câștigat premiul de categoria I în valoare de 22.948.891,68 de lei (4,50 milioane de euro).",
+        "link": "https://www.digi24.ro/stiri/actualitate/social/s-a-castigat-marele-premiu-la-6-49-unde-a-fost-jucat-biletul-norocos-si-cat-a-costat-3629443",
+        "published_utc": "2026-02-12T18:36:12+00:00",
+        "score": 3
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Francezii și-au găsit refugiul gastronomic într-un versatil aliment. Cererea a explodat pentru regele proteinelor ieftine, oul",
+        "summary": "Franța a consumat un număr record de ouă în 2025, datorită accesibilității acestora în contextul incertitudinii economice, și tendința urmează să continue, ceea ce îi face pe producători să construiască mai multe adăposturi, a anunțat&#8230;",
+        "link": "https://hotnews.ro/francezii-si-au-gasit-refugiul-gastronomic-intr-un-versatil-aliment-cererea-a-explodat-pentru-regele-proteinelor-ieftine-oul-2170159",
+        "published_utc": "2026-02-12T18:30:43+00:00",
+        "score": 3
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
         "source": "HotNews",
         "title": "„Ora cu și pentru animale”, aprobată la nivel național. Opționalul va putea fi introdus în orice școală din țară",
         "summary": "Opționalul școlar „Ora cu și pentru animale”, inițiat de Direcția pentru Protecția Animalelor din cadrul Consiliului Județean (CJ) Ilfov, în parteneriat cu Inspectoratul Școlar Județean Ilfov și mai multe ong-uri din domeniu, printre care Fundația&#8230;",
@@ -353,26 +373,6 @@
         "summary": "Ministerul Finanţelor (MF) a împrumutat joi 1,59 miliarde de lei de la bănci, printr-o emisiune de obligaţiuni de stat şi una de certificate de trezorerie cu discont, potrivit datelor publicate de Banca Naţională a României (BNR).",
         "link": "https://www.digi24.ro/stiri/economie/finante-economie/ministerul-finantelor-a-imprumutat-joi-aproape-16-miliarde-lei-de-la-banci-3629045",
         "published_utc": "2026-02-12T15:04:04+00:00",
-        "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "Dogioiu: Reforma administrației publice se va adopta „cel mai probabil prin ordonanță de urgență”. Cum se vor face tăierile de posturi și cheltuieli",
-        "summary": "Reforma administrației publice centrale și locale, care vizează scăderea cu 10% a cheltuielilor de personal, inclusiv prin tăierea a mii de posturi, va fi adoptată de Guvern „cel mai probabil prin ordonanță de urgență din&#8230;",
-        "link": "https://hotnews.ro/dogioiu-reforma-administratiei-publice-se-va-adopta-cel-mai-probabil-prin-ordonanta-de-urgenta-cum-se-vor-face-taierile-de-posturi-si-cheltuieli-2169924",
-        "published_utc": "2026-02-12T14:25:37+00:00",
-        "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Dogioiu: „Reforma administrației ar putea fi adoptată prin OUG”. Guvernul a invocat necesitatea aplicării rapide pentru bugetul pe 2026",
-        "summary": "Reforma administrației va fi adoptată, cel mai probabil, prin ordonanță de urgență, din motive de calendar, a declarat joi purtătorul de cuvânt al Guvernului, Ioana Dogioiu, după ședința Executivului. Potrivit acesteia, măsurile trebuie să intre rapid în vigoare pentru a produce efecte bugetare încă din acest an și pentru a contribui la țintele asumate pentru 2026.",
-        "link": "https://www.digi24.ro/stiri/economie/dogioiu-reforma-administratiei-ar-putea-fi-adoptata-prin-oug-guvernul-a-invocat-necesitatea-aplicarii-rapide-pentru-bugetul-pe-2026-3628679",
-        "published_utc": "2026-02-12T12:07:06+00:00",
         "score": 1
       }
     ],
@@ -597,28 +597,28 @@
         "category_id": "space",
         "category_label": "🚀 Spațiu",
         "source": "Flickr (space)",
-        "title": "_P5A0006",
-        "link": "https://www.flickr.com/photos/looklee/55090927112/",
-        "image_url": "https://live.staticflickr.com/65535/55090927112_040e7bf0f7_b.jpg",
-        "published_utc": "2026-02-12T13:48:28+00:00"
+        "title": "20260131_095330",
+        "link": "https://www.flickr.com/photos/146520736@N05/55092420848/",
+        "image_url": "https://live.staticflickr.com/65535/55092420848_6289737f4e_b.jpg",
+        "published_utc": "2026-02-12T17:54:17+00:00"
       },
       {
         "category_id": "animals",
         "category_label": "🐾 Animale",
         "source": "Flickr (animals)",
-        "title": "Sandhill Cranes Triple Header (26-0207 Lodi-0787)",
-        "link": "https://www.flickr.com/photos/royprasad/55086081133/",
-        "image_url": "https://live.staticflickr.com/65535/55086081133_30da2d7a06_b.jpg",
-        "published_utc": "2026-02-12T17:42:02+00:00"
+        "title": "Basta, my deaf bulldog",
+        "link": "https://www.flickr.com/photos/96102512@N05/55092647750/",
+        "image_url": "https://live.staticflickr.com/65535/55092647750_5d81e6c9a2_b.jpg",
+        "published_utc": "2026-02-12T18:41:16+00:00"
       },
       {
         "category_id": "landscapes",
         "category_label": "🏞️ Peisaj",
         "source": "Flickr (landscape)",
-        "title": "FEBRUARY 2026  _20914_NGM_3374-1-222",
-        "link": "https://www.flickr.com/photos/munroedesigns/55092399193/",
-        "image_url": "https://live.staticflickr.com/65535/55092399193_afe16e15c4_b.jpg",
-        "published_utc": "2026-02-12T17:41:37+00:00"
+        "title": "DSC01110",
+        "link": "https://www.flickr.com/photos/lakeworth/55092634730/",
+        "image_url": "https://live.staticflickr.com/65535/55092634730_cae8f70e8d_b.jpg",
+        "published_utc": "2026-02-12T18:43:21+00:00"
       }
     ],
     "joke": [
@@ -631,9 +631,9 @@
       {
         "date_utc": "2026-02-12",
         "source": "TimesNewRoman",
-        "title": "Regrete târzii. Mulți români realizează că și-au făcut tatuaje în loc să-și cumpere un cojoc",
+        "title": "Noua emisiune a lui Denise Rifai la Antena 3 se va numi 40 de limbi cu Denise Rifai",
         "summary": "Cotidian independent de umor voluntar",
-        "link": "https://www.timesnewroman.ro/life-death/regrete-tarzii-multi-romani-realizeaza-ca-si-au-facut-tatuaje-in-loc-sa-si-cumpere-un-cojoc/",
+        "link": "https://www.timesnewroman.ro/monden/noua-emisiune-a-lui-denise-rifai-la-antena-3-se-va-numi-40-de-limbi-cu-denise-rifai/",
         "note": "Satiră — nu este știre reală."
       }
     ]
