@@ -1,7 +1,17 @@
 {
-  "generated_utc": "2026-02-12T21:24:20+00:00",
-  "count": 28,
+  "generated_utc": "2026-02-12T22:22:43+00:00",
+  "count": 29,
   "items": [
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Când speră Diana Buzoianu să fie adoptată reforma Romsilva. „Am ajuns într-un punct în care toate partidele suntem aliniate”",
+      "summary": "Ministra Mediului, Diana Buzoianu, afirmă că speră că săptămâna viitoare va fi adoptată Hotărârea de Guvern care vizează reforma Regiei Naţionale a Pădurilor Romsilva. Diana Buzoianu anunţă modificări în contractul colectiv de muncă din Romsilva, dar şi măsuri ferme pentru reducerea tăierilor ilegale din păduri.",
+      "link": "https://www.digi24.ro/stiri/actualitate/politica/ministrul-mediului-afirma-ca-spera-ca-saptamana-viitoate-sa-fie-adoptata-hg-vizand-reforma-romsilva-3629695",
+      "published_utc": "2026-02-12T22:08:50+00:00",
+      "score": 2
+    },
     {
       "section": "romania",
       "kind": "ro",
@@ -13,6 +23,16 @@
       "score": 3
     },
     {
+      "section": "science",
+      "kind": "global",
+      "source": "NASA Breaking News",
+      "title": "NASA Selects Vast for Sixth Private Mission to Space Station",
+      "summary": "NASA and Vast have signed an order for the sixth private astronaut mission to the International Space Station, targeted to launch no earlier than summer 2027 from Florida. This private astronaut mission marks the company&#8217;s first selection to the orbiting laboratory, underscoring NASA’s ongoing investment in fostering a commercial space economy and expanding opportunities for [&#8230;]",
+      "link": "https://www.nasa.gov/news-release/nasa-selects-vast-for-sixth-private-mission-to-space-station/",
+      "published_utc": "2026-02-12T21:11:19+00:00",
+      "score": 1
+    },
+    {
       "section": "romania",
       "kind": "ro",
       "source": "HotNews",
@@ -21,6 +41,16 @@
       "link": "https://hotnews.ro/francezii-si-au-gasit-refugiul-gastronomic-intr-un-versatil-aliment-cererea-a-explodat-pentru-regele-proteinelor-ieftine-oul-2170159",
       "published_utc": "2026-02-12T18:30:43+00:00",
       "score": 3
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "„Ora cu și pentru animale”, aprobată la nivel național. Opționalul va putea fi introdus în orice școală din țară",
+      "summary": "Opționalul școlar „Ora cu și pentru animale”, inițiat de Direcția pentru Protecția Animalelor din cadrul Consiliului Județean (CJ) Ilfov, în parteneriat cu Inspectoratul Școlar Județean Ilfov și mai multe ong-uri din domeniu, printre care Fundația&#8230;",
+      "link": "https://hotnews.ro/ora-cu-si-pentru-animale-aprobata-la-nivel-national-optionalul-va-putea-fi-introdus-in-orice-scoala-din-tara-2170125",
+      "published_utc": "2026-02-12T17:22:23+00:00",
+      "score": 2
     },
     {
       "section": "science",
@@ -35,31 +65,11 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "HotNews",
-      "title": "„Ora cu și pentru animale”, aprobată la nivel național. Opționalul va putea fi introdus în orice școală din țară",
-      "summary": "Opționalul școlar „Ora cu și pentru animale”, inițiat de Direcția pentru Protecția Animalelor din cadrul Consiliului Județean (CJ) Ilfov, în parteneriat cu Inspectoratul Școlar Județean Ilfov și mai multe ong-uri din domeniu, printre care Fundația&#8230;",
-      "link": "https://hotnews.ro/ora-cu-si-pentru-animale-aprobata-la-nivel-national-optionalul-va-putea-fi-introdus-in-orice-scoala-din-tara-2170125",
-      "published_utc": "2026-02-12T17:22:23+00:00",
-      "score": 2
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "Digi24",
       "title": "Cursul opţional „Ora cu şi pentru animale” va fi introdus în şcoli în toată țara. Ce vor învăța elevii",
       "summary": "Opţionalul şcolar „Ora cu şi pentru animale”, iniţiat de Direcţia pentru Protecţia Animalelor din cadrul Consiliului Judeţean (CJ) Ilfov, în parteneriat cu Inspectoratul Şcolar Judeţean Ilfov şi mai multe ong-uri din domeniu, printre care Fundaţia Visul Luanei, va fi introdus în şcoli la nivel naţional.",
       "link": "https://www.digi24.ro/stiri/actualitate/educatie/cursul-optional-ora-cu-si-pentru-animale-va-fi-introdus-in-scoli-in-toata-tara-ce-vor-invata-elevii-3629231",
       "published_utc": "2026-02-12T16:26:38+00:00",
-      "score": 1
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "NASA Breaking News",
-      "title": "NASA Completes First Flight of Laminar Flow Scaled Wing Design",
-      "summary": "NASA completed the first flight&#160;test&#160;of&#160;a scale-model wing&#160;designed to improve laminar flow, reducing drag&#160;and&#160;lowering&#160;fuel&#160;costs for&#160;future commercial&#160;aircraft.&#160; The flight took place Jan. 29 at NASA’s Armstrong Flight Research Center in Edwards, California, using&#160;one of the agency’s&#160;F-15B research&#160;jets.&#160;The&#160;NASA-designed,&#160;40-inch&#160;Crossflow Attenuated Natural Laminar Flow (CATNLF) wing&#160;model&#160;was attached to the aircraft’s underside vertically, like a fin.&#160; The flight lasted&#160;about&#160;75 minutes, during [&#8230;]",
-      "link": "https://www.nasa.gov/image-article/nasa-completes-first-flight-of-laminar-flow-scaled-wing-design/",
-      "published_utc": "2026-02-11T23:35:59+00:00",
       "score": 1
     },
     {
@@ -71,6 +81,16 @@
       "link": "https://www.digi24.ro/stiri/actualitate/politica/parlamentarii-usr-ii-cer-comisarului-european-pe-justitie-o-evaluare-mai-exigenta-in-mecanismul-privind-statul-de-drept-in-romania-3629155",
       "published_utc": "2026-02-12T16:07:39+00:00",
       "score": 2
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "NASA Breaking News",
+      "title": "NASA Completes First Flight of Laminar Flow Scaled Wing Design",
+      "summary": "NASA completed the first flight&#160;test&#160;of&#160;a scale-model wing&#160;designed to improve laminar flow, reducing drag&#160;and&#160;lowering&#160;fuel&#160;costs for&#160;future commercial&#160;aircraft.&#160; The flight took place Jan. 29 at NASA’s Armstrong Flight Research Center in Edwards, California, using&#160;one of the agency’s&#160;F-15B research&#160;jets.&#160;The&#160;NASA-designed,&#160;40-inch&#160;Crossflow Attenuated Natural Laminar Flow (CATNLF) wing&#160;model&#160;was attached to the aircraft’s underside vertically, like a fin.&#160; The flight lasted&#160;about&#160;75 minutes, during [&#8230;]",
+      "link": "https://www.nasa.gov/image-article/nasa-completes-first-flight-of-laminar-flow-scaled-wing-design/",
+      "published_utc": "2026-02-11T23:35:59+00:00",
+      "score": 1
     },
     {
       "section": "romania",
@@ -91,16 +111,6 @@
       "link": "https://science.nasa.gov/earth/earth-observatory/summer-heat-hits-southeastern-australia/",
       "published_utc": "2026-02-11T05:00:00+00:00",
       "score": 3
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Ministerul Finanţelor a împrumutat joi aproape 1,6 miliarde lei de la bănci",
-      "summary": "Ministerul Finanţelor (MF) a împrumutat joi 1,59 miliarde de lei de la bănci, printr-o emisiune de obligaţiuni de stat şi una de certificate de trezorerie cu discont, potrivit datelor publicate de Banca Naţională a României (BNR).",
-      "link": "https://www.digi24.ro/stiri/economie/finante-economie/ministerul-finantelor-a-imprumutat-joi-aproape-16-miliarde-lei-de-la-banci-3629045",
-      "published_utc": "2026-02-12T15:04:04+00:00",
-      "score": 1
     },
     {
       "section": "science",
@@ -289,6 +299,16 @@
         "section": "romania",
         "kind": "ro",
         "source": "Digi24",
+        "title": "Când speră Diana Buzoianu să fie adoptată reforma Romsilva. „Am ajuns într-un punct în care toate partidele suntem aliniate”",
+        "summary": "Ministra Mediului, Diana Buzoianu, afirmă că speră că săptămâna viitoare va fi adoptată Hotărârea de Guvern care vizează reforma Regiei Naţionale a Pădurilor Romsilva. Diana Buzoianu anunţă modificări în contractul colectiv de muncă din Romsilva, dar şi măsuri ferme pentru reducerea tăierilor ilegale din păduri.",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/ministrul-mediului-afirma-ca-spera-ca-saptamana-viitoate-sa-fie-adoptata-hg-vizand-reforma-romsilva-3629695",
+        "published_utc": "2026-02-12T22:08:50+00:00",
+        "score": 2
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
         "title": "S-a câștigat marele premiu la 6/49. Unde a fost jucat biletul norocos și cât a costat",
         "summary": "La tragerea Loto 6/49 de astăzi, 12 februarie, s-a câștigat premiul de categoria I în valoare de 22.948.891,68 de lei (4,50 milioane de euro).",
         "link": "https://www.digi24.ro/stiri/actualitate/social/s-a-castigat-marele-premiu-la-6-49-unde-a-fost-jucat-biletul-norocos-si-cat-a-costat-3629443",
@@ -344,16 +364,6 @@
         "link": "https://www.digi24.ro/stiri/ciprian-ciucu-isi-imparte-biroul-de-la-primaria-capitalei-cu-o-pisica-adoptata-recent-cathy-a-devenit-noua-colega-a-edilului-3629105",
         "published_utc": "2026-02-12T15:39:32+00:00",
         "score": 3
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Ministerul Finanţelor a împrumutat joi aproape 1,6 miliarde lei de la bănci",
-        "summary": "Ministerul Finanţelor (MF) a împrumutat joi 1,59 miliarde de lei de la bănci, printr-o emisiune de obligaţiuni de stat şi una de certificate de trezorerie cu discont, potrivit datelor publicate de Banca Naţională a României (BNR).",
-        "link": "https://www.digi24.ro/stiri/economie/finante-economie/ministerul-finantelor-a-imprumutat-joi-aproape-16-miliarde-lei-de-la-banci-3629045",
-        "published_utc": "2026-02-12T15:04:04+00:00",
-        "score": 1
       }
     ],
     "medical": [
@@ -439,6 +449,16 @@
       }
     ],
     "science": [
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "NASA Breaking News",
+        "title": "NASA Selects Vast for Sixth Private Mission to Space Station",
+        "summary": "NASA and Vast have signed an order for the sixth private astronaut mission to the International Space Station, targeted to launch no earlier than summer 2027 from Florida. This private astronaut mission marks the company&#8217;s first selection to the orbiting laboratory, underscoring NASA’s ongoing investment in fostering a commercial space economy and expanding opportunities for [&#8230;]",
+        "link": "https://www.nasa.gov/news-release/nasa-selects-vast-for-sixth-private-mission-to-space-station/",
+        "published_utc": "2026-02-12T21:11:19+00:00",
+        "score": 1
+      },
       {
         "section": "science",
         "kind": "global",
@@ -577,28 +597,28 @@
         "category_id": "space",
         "category_label": "🚀 Spațiu",
         "source": "Flickr (space)",
-        "title": "Mobile hangar moves back to reveal first Ariane 6 with four boosters on the launch pad",
-        "link": "https://www.flickr.com/photos/europeanspaceagency/55091546542/",
-        "image_url": "https://live.staticflickr.com/65535/55091546542_bf162b858d_b.jpg",
-        "published_utc": "2026-02-12T20:23:18+00:00"
+        "title": "George Saunders, CF, 2/22/26",
+        "link": "https://www.flickr.com/photos/slclevents/55092725883/",
+        "image_url": "https://live.staticflickr.com/65535/55092725883_20898ef298_b.jpg",
+        "published_utc": "2026-02-12T21:32:36+00:00"
       },
       {
         "category_id": "animals",
         "category_label": "🐾 Animale",
         "source": "Flickr (animals)",
-        "title": "Least weasel (Mustela nivalis?)",
-        "link": "https://www.flickr.com/photos/193278828@N03/55091612402/",
-        "image_url": "https://live.staticflickr.com/65535/55091612402_18b479dbbc_b.jpg",
-        "published_utc": "2026-02-12T21:15:44+00:00"
+        "title": "Awesome Opossum",
+        "link": "https://www.flickr.com/photos/seclusivenature/55092561401/",
+        "image_url": "https://live.staticflickr.com/65535/55092561401_09c942fd93_b.jpg",
+        "published_utc": "2026-02-12T22:05:10+00:00"
       },
       {
         "category_id": "landscapes",
         "category_label": "🏞️ Peisaj",
         "source": "Flickr (landscape)",
-        "title": "Alps on Fire: Sunset Road to the Peaks",
-        "link": "https://www.flickr.com/photos/sax1971/55092856460/",
-        "image_url": "https://live.staticflickr.com/65535/55092856460_bf2b13e11d_b.jpg",
-        "published_utc": "2026-02-12T21:09:02+00:00"
+        "title": "Goulburn Region - Explore the Picturesque Countryside of NSW",
+        "link": "https://www.flickr.com/photos/merrillie/55092781758/",
+        "image_url": "https://live.staticflickr.com/65535/55092781758_046214dff3_b.jpg",
+        "published_utc": "2026-02-12T22:10:50+00:00"
       }
     ],
     "joke": [
@@ -611,9 +631,9 @@
       {
         "date_utc": "2026-02-12",
         "source": "TimesNewRoman",
-        "title": "Regrete târzii. Mulți români realizează că și-au făcut tatuaje în loc să-și cumpere un cojoc",
+        "title": "Sătulă de glume, Federaţia Mondială de Curling schimbă numele sportului. Acesta se va numi pulsug",
         "summary": "Cotidian independent de umor voluntar",
-        "link": "https://www.timesnewroman.ro/life-death/regrete-tarzii-multi-romani-realizeaza-ca-si-au-facut-tatuaje-in-loc-sa-si-cumpere-un-cojoc/",
+        "link": "https://www.timesnewroman.ro/sport/satula-de-glume-federatia-mondiala-de-curling-schimba-numele-sportului-acesta-se-va-numi-pulsug/",
         "note": "Satiră — nu este știre reală."
       }
     ]
