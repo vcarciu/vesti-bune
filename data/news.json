@@ -1,7 +1,17 @@
 {
-  "generated_utc": "2026-02-12T07:45:55+00:00",
+  "generated_utc": "2026-02-12T08:34:04+00:00",
   "count": 29,
   "items": [
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Un sfert de secol în care performanța medicală a devenit normalitate în România",
+      "summary": "La 25 de ani de la înființare, SANADOR marchează nu doar o aniversare, ci un parcurs care a schimbat vizibil standardele medicinei din România. Într-un sistem aflat permanent sub presiune, dezvoltarea unei structuri medicale complexe, capabile să gestioneze cazuri de mare dificultate, a însemnat mai mult decât investiții și infrastructură. A însemnat consecvență, viziune și responsabilitate.",
+      "link": "https://www.digi24.ro/stiri/actualitate/sanatate/un-sfert-de-secol-in-care-performanta-medicala-a-devenit-normalitate-in-romania-3628119",
+      "published_utc": "2026-02-12T07:51:50+00:00",
+      "score": 1
+    },
     {
       "section": "romania",
       "kind": "ro",
@@ -11,16 +21,6 @@
       "link": "https://hotnews.ro/insula-care-nu-ar-trebui-sa-existe-si-care-isi-creeaza-propria-viata-2169577",
       "published_utc": "2026-02-12T07:27:14+00:00",
       "score": 2
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "HotNews",
-      "title": "VIDEO Marșul spiritual al anului: Călugări budiști au mers pe jos 3.200 km, din Texas la Washington, pentru „vindecarea Americii”",
-      "summary": "După 109 zile de mers pe jos și 3.200 de kilometri parcurși din Texas, un grup de călugări budiști a ajuns miercuri la Memorialul Lincoln din Washington D.C. Marșul spiritual, marcat de condiții meteo extreme&#8230;",
-      "link": "https://hotnews.ro/video-marsul-spiritual-al-anului-calugari-budisti-au-mers-pe-jos-3-200-km-din-texas-la-washington-pentru-vindecarea-americii-2169530",
-      "published_utc": "2026-02-12T06:12:35+00:00",
-      "score": 3
     },
     {
       "section": "science",
@@ -35,22 +35,22 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "HotNews",
+      "title": "VIDEO Marșul spiritual al anului: Călugări budiști au mers pe jos 3.200 km, din Texas la Washington, pentru „vindecarea Americii”",
+      "summary": "După 109 zile de mers pe jos și 3.200 de kilometri parcurși din Texas, un grup de călugări budiști a ajuns miercuri la Memorialul Lincoln din Washington D.C. Marșul spiritual, marcat de condiții meteo extreme&#8230;",
+      "link": "https://hotnews.ro/video-marsul-spiritual-al-anului-calugari-budisti-au-mers-pe-jos-3-200-km-din-texas-la-washington-pentru-vindecarea-americii-2169530",
+      "published_utc": "2026-02-12T06:12:35+00:00",
+      "score": 3
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "Digi24",
       "title": "Digistoria – cele mai importante evenimente petrecute pe 12 februarie",
       "summary": "Cele mai importante evenimente petrecute pe 12 februarie",
       "link": "https://www.digi24.ro/digistoria/digistoria-cele-mai-importante-evenimente-petrecute-pe-12-februarie-2-3627937",
       "published_utc": "2026-02-12T06:07:35+00:00",
       "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "HotNews",
-      "title": "Nicușor Dan participă astăzi la Consiliul European. Care sunt principalele subiecte de pe ordinea de zi",
-      "summary": "Liderii europeni reuniți în Belgia vor vorbi despre „întărirea industriei europene și construirea autonomiei strategice a UE, reducerea birocrației și a barierelor naționale, simplificarea legislației, dar și încurajarea investițiilor și a inovațiilor pentru a dezvolta&#8230;",
-      "link": "https://hotnews.ro/nicusor-dan-participa-astazi-la-consiliul-european-care-sunt-principale-subiecte-de-pe-ordinea-de-zi-2169214",
-      "published_utc": "2026-02-12T05:00:29+00:00",
-      "score": 2
     },
     {
       "section": "science",
@@ -66,11 +66,11 @@
       "section": "romania",
       "kind": "ro",
       "source": "HotNews",
-      "title": "„Un tip suprasubvenționat”. Ironizat de Macron în fața industriașilor europeni, Musk i-a dat rapid replica",
-      "summary": "Emmanuel Macron l-a invocat miercuri, pentru a apăra investițiile publice europene în domeniul industrial, pe miliardarul american Elon Musk, despre care a spus că este „un tip suprasubvenționat” de către statul federal american pentru sistemul&#8230;",
-      "link": "https://hotnews.ro/un-tip-suprasubventionat-ironizat-de-macron-in-fata-industriasilor-europeni-musk-i-a-dat-rapid-replica-2169512",
-      "published_utc": "2026-02-11T22:27:33+00:00",
-      "score": 1
+      "title": "Nicușor Dan participă astăzi la Consiliul European. Care sunt principalele subiecte de pe ordinea de zi",
+      "summary": "Liderii europeni reuniți în Belgia vor vorbi despre „întărirea industriei europene și construirea autonomiei strategice a UE, reducerea birocrației și a barierelor naționale, simplificarea legislației, dar și încurajarea investițiilor și a inovațiilor pentru a dezvolta&#8230;",
+      "link": "https://hotnews.ro/nicusor-dan-participa-astazi-la-consiliul-european-care-sunt-principale-subiecte-de-pe-ordinea-de-zi-2169214",
+      "published_utc": "2026-02-12T05:00:29+00:00",
+      "score": 2
     },
     {
       "section": "romania",
@@ -298,6 +298,16 @@
       {
         "section": "romania",
         "kind": "ro",
+        "source": "Digi24",
+        "title": "Un sfert de secol în care performanța medicală a devenit normalitate în România",
+        "summary": "La 25 de ani de la înființare, SANADOR marchează nu doar o aniversare, ci un parcurs care a schimbat vizibil standardele medicinei din România. Într-un sistem aflat permanent sub presiune, dezvoltarea unei structuri medicale complexe, capabile să gestioneze cazuri de mare dificultate, a însemnat mai mult decât investiții și infrastructură. A însemnat consecvență, viziune și responsabilitate.",
+        "link": "https://www.digi24.ro/stiri/actualitate/sanatate/un-sfert-de-secol-in-care-performanta-medicala-a-devenit-normalitate-in-romania-3628119",
+        "published_utc": "2026-02-12T07:51:50+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
         "source": "HotNews",
         "title": "Insula care nu ar trebui să existe și care își creează propria „viață”",
         "summary": "Nu știm numărul real al tuturor insulelor, dar este probabil de ordinul sutelor de mii. Cercetătorii au descoperit încă una. Doar că este înfricoșătoare. Jurnalistul Dan Popa trimite în fiecare joi dimineață newsletterul „EconoMix”. Dacă&#8230;",
@@ -334,16 +344,6 @@
         "link": "https://hotnews.ro/nicusor-dan-participa-astazi-la-consiliul-european-care-sunt-principale-subiecte-de-pe-ordinea-de-zi-2169214",
         "published_utc": "2026-02-12T05:00:29+00:00",
         "score": 2
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "„Un tip suprasubvenționat”. Ironizat de Macron în fața industriașilor europeni, Musk i-a dat rapid replica",
-        "summary": "Emmanuel Macron l-a invocat miercuri, pentru a apăra investițiile publice europene în domeniul industrial, pe miliardarul american Elon Musk, despre care a spus că este „un tip suprasubvenționat” de către statul federal american pentru sistemul&#8230;",
-        "link": "https://hotnews.ro/un-tip-suprasubventionat-ironizat-de-macron-in-fata-industriasilor-europeni-musk-i-a-dat-rapid-replica-2169512",
-        "published_utc": "2026-02-11T22:27:33+00:00",
-        "score": 1
       },
       {
         "section": "romania",
@@ -606,19 +606,19 @@
         "category_id": "animals",
         "category_label": "🐾 Animale",
         "source": "Flickr (animals)",
-        "title": "🐾 Animale",
-        "link": "https://www.flickr.com/photos/n4n0/55091701259/",
-        "image_url": "https://live.staticflickr.com/65535/55091701259_890acf5153_b.jpg",
-        "published_utc": "2026-02-12T07:43:56+00:00"
+        "title": "Curious Calico",
+        "link": "https://www.flickr.com/photos/200534826@N02/55091723414/",
+        "image_url": "https://live.staticflickr.com/65535/55091723414_d68e23a80d_b.jpg",
+        "published_utc": "2026-02-12T08:11:04+00:00"
       },
       {
         "category_id": "landscapes",
         "category_label": "🏞️ Peisaj",
         "source": "Flickr (landscape)",
-        "title": "Presencia • Presence",
-        "link": "https://www.flickr.com/photos/jmsdbg/55090554127/",
-        "image_url": "https://live.staticflickr.com/65535/55090554127_f228d3bbd4_b.jpg",
-        "published_utc": "2026-02-12T07:42:16+00:00"
+        "title": "Suivre le plan de visite",
+        "link": "https://www.flickr.com/photos/pat21/55091733349/",
+        "image_url": "https://live.staticflickr.com/65535/55091733349_ea75657cb8_b.jpg",
+        "published_utc": "2026-02-12T08:25:38+00:00"
       }
     ],
     "joke": [
