@@ -1,7 +1,37 @@
 {
-  "generated_utc": "2026-02-13T09:33:58+00:00",
+  "generated_utc": "2026-02-13T10:30:33+00:00",
   "count": 28,
   "items": [
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "STUDIU: Persoanele cu obezitate au un risc crescut de boli cardiovasculare, chiar și în absența altor factori. Ce soluții au la îndemână",
+      "summary": "Obezitatea poate afecta sănătatea inimii independent de hipertensiune, diabet sau colesterol crescut, potrivit unor studii recente. Cercetătorii de la Johns Hopkins și Universitatea din Boston, din SUA, au demonstrat că excesul de greutate provoacă modificări&#8230;",
+      "link": "https://hotnews.ro/studiu-persoanele-cu-obezitate-au-un-risc-crescut-de-boli-cardiovasculare-chiar-si-in-absenta-altor-factori-ce-solutii-au-la-indemana-2170040",
+      "published_utc": "2026-02-13T10:05:05+00:00",
+      "score": 2
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "Ianuarie, o lună surprinzătoare. Deși au fost episoade de iarnă „ca pe vremuri”, datele ANM arată că luna a fost mai caldă decât în mod normal",
+      "summary": "Prima lună din 2026 a adus temperaturi peste medie, chiar dacă au fost și două valuri de frig și zile geroase în toate zonele. Ianuarie a adus și câteva recorduri absolute de precipitații, mai ales&#8230;",
+      "link": "https://hotnews.ro/ianuarie-o-luna-surprinzatoare-desi-au-fost-episoade-de-iarna-ca-pe-vremuri-datele-anm-arata-ca-luna-a-fost-mai-calda-decat-in-mod-normal-2170551",
+      "published_utc": "2026-02-13T09:51:43+00:00",
+      "score": 3
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "This vegan diet cut insulin use by nearly 30% in type 1 diabetes",
+      "summary": "A low-fat vegan diet—without cutting calories or carbs—may help people with type 1 diabetes significantly reduce how much insulin they need, and how much they spend on it. In a new analysis published in BMC Nutrition, participants following the plant-based plan lowered their daily insulin use by 28%, while those on a portion-controlled diet saw no meaningful change.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260212234212.htm",
+      "published_utc": "2026-02-13T07:30:08+00:00",
+      "score": 1
+    },
     {
       "section": "romania",
       "kind": "ro",
@@ -20,36 +50,6 @@
       "summary": "În Anul Constantin Brâncuși (instituit prin lege ca an aniversar, la 150 de ani de la nașterea artistului), Centrul de Cercetare, Documentare și Promovare „Constantin Brâncuși” din Târgu Jiu și Artmark lansează proiectul cultural „Tu&#8230;",
       "link": "https://hotnews.ro/iubeste-in-oglinda-gigant-poarta-sarutului-tu-esti-brancusi-2170431",
       "published_utc": "2026-02-13T07:37:22+00:00",
-      "score": 1
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "This vegan diet cut insulin use by nearly 30% in type 1 diabetes",
-      "summary": "A low-fat vegan diet—without cutting calories or carbs—may help people with type 1 diabetes significantly reduce how much insulin they need, and how much they spend on it. In a new analysis published in BMC Nutrition, participants following the plant-based plan lowered their daily insulin use by 28%, while those on a portion-controlled diet saw no meaningful change.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260212234212.htm",
-      "published_utc": "2026-02-13T07:30:08+00:00",
-      "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "HotNews",
-      "title": "Pentagonul trimite încă un portavion cu grup de luptă în Orientul Mijlociu / Ce spune presa americană",
-      "summary": "Pentagonul a ordonat unui al doilea grup de luptă cu portavion să se pregătească pentru o desfășurare în regiunea Golfului, potrivit presei americane și AFP, care notează că decizia vine în timp ce Donald Trump&#8230;",
-      "link": "https://hotnews.ro/pentagonul-trimite-inca-un-portavion-cu-grup-de-lupta-in-orientul-mijlociu-ce-spune-presa-americana-2170404",
-      "published_utc": "2026-02-13T07:36:49+00:00",
-      "score": 3
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "HotNews",
-      "title": "Un grup de cercetători susține că AI poate folosi o fotografie a ta pentru a prezice ce salariu vei câștiga",
-      "summary": "O imagine valorează cât o mie de cuvinte sau, poate, un plus consistent la salariu. Cercetători din mediul academic susțin că trăsăturile de personalitate deduse cu ajutorul analizei fotografiilor cu ajutorul inteligenței artificiale (AI) pot&#8230;",
-      "link": "https://hotnews.ro/un-grup-de-cercetatori-sustine-ca-ai-poate-folosi-o-fotografie-a-ta-pentru-a-prezice-ce-salariu-vei-castiga-2169249",
-      "published_utc": "2026-02-13T06:04:23+00:00",
       "score": 1
     },
     {
@@ -289,6 +289,26 @@
         "section": "romania",
         "kind": "ro",
         "source": "HotNews",
+        "title": "STUDIU: Persoanele cu obezitate au un risc crescut de boli cardiovasculare, chiar și în absența altor factori. Ce soluții au la îndemână",
+        "summary": "Obezitatea poate afecta sănătatea inimii independent de hipertensiune, diabet sau colesterol crescut, potrivit unor studii recente. Cercetătorii de la Johns Hopkins și Universitatea din Boston, din SUA, au demonstrat că excesul de greutate provoacă modificări&#8230;",
+        "link": "https://hotnews.ro/studiu-persoanele-cu-obezitate-au-un-risc-crescut-de-boli-cardiovasculare-chiar-si-in-absenta-altor-factori-ce-solutii-au-la-indemana-2170040",
+        "published_utc": "2026-02-13T10:05:05+00:00",
+        "score": 2
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Ianuarie, o lună surprinzătoare. Deși au fost episoade de iarnă „ca pe vremuri”, datele ANM arată că luna a fost mai caldă decât în mod normal",
+        "summary": "Prima lună din 2026 a adus temperaturi peste medie, chiar dacă au fost și două valuri de frig și zile geroase în toate zonele. Ianuarie a adus și câteva recorduri absolute de precipitații, mai ales&#8230;",
+        "link": "https://hotnews.ro/ianuarie-o-luna-surprinzatoare-desi-au-fost-episoade-de-iarna-ca-pe-vremuri-datele-anm-arata-ca-luna-a-fost-mai-calda-decat-in-mod-normal-2170551",
+        "published_utc": "2026-02-13T09:51:43+00:00",
+        "score": 3
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
         "title": "Ce au în comun părinții care cresc copii puternici emoțional, descurcăreți și rezistenți la eșecuri? Observațiile unei absolvente Harvard",
         "summary": "Note mari, rezultate la olimpiade, activități extracurriculare cu nemiluita, reușite vizibile – toate par să fi devenit condiții pentru a avea ceea ce societatea numește „copii buni”. Părinții cred că toată această presiune și standardele&#8230;",
         "link": "https://hotnews.ro/ce-au-in-comun-parintii-care-cresc-copii-puternici-emotional-descurcareti-si-rezistenti-la-esecuri-observatiile-unei-absolvente-harvard-2170488",
@@ -303,26 +323,6 @@
         "summary": "În Anul Constantin Brâncuși (instituit prin lege ca an aniversar, la 150 de ani de la nașterea artistului), Centrul de Cercetare, Documentare și Promovare „Constantin Brâncuși” din Târgu Jiu și Artmark lansează proiectul cultural „Tu&#8230;",
         "link": "https://hotnews.ro/iubeste-in-oglinda-gigant-poarta-sarutului-tu-esti-brancusi-2170431",
         "published_utc": "2026-02-13T07:37:22+00:00",
-        "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "Pentagonul trimite încă un portavion cu grup de luptă în Orientul Mijlociu / Ce spune presa americană",
-        "summary": "Pentagonul a ordonat unui al doilea grup de luptă cu portavion să se pregătească pentru o desfășurare în regiunea Golfului, potrivit presei americane și AFP, care notează că decizia vine în timp ce Donald Trump&#8230;",
-        "link": "https://hotnews.ro/pentagonul-trimite-inca-un-portavion-cu-grup-de-lupta-in-orientul-mijlociu-ce-spune-presa-americana-2170404",
-        "published_utc": "2026-02-13T07:36:49+00:00",
-        "score": 3
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "Un grup de cercetători susține că AI poate folosi o fotografie a ta pentru a prezice ce salariu vei câștiga",
-        "summary": "O imagine valorează cât o mie de cuvinte sau, poate, un plus consistent la salariu. Cercetători din mediul academic susțin că trăsăturile de personalitate deduse cu ajutorul analizei fotografiilor cu ajutorul inteligenței artificiale (AI) pot&#8230;",
-        "link": "https://hotnews.ro/un-grup-de-cercetatori-sustine-ca-ai-poate-folosi-o-fotografie-a-ta-pentru-a-prezice-ce-salariu-vei-castiga-2169249",
-        "published_utc": "2026-02-13T06:04:23+00:00",
         "score": 1
       },
       {
@@ -586,19 +586,19 @@
         "category_id": "animals",
         "category_label": "🐾 Animale",
         "source": "Flickr (animals)",
-        "title": "Western Crowned-Pigeon (Goura cristata)",
-        "link": "https://www.flickr.com/photos/25872797@N02/55093252416/",
-        "image_url": "https://live.staticflickr.com/65535/55093252416_4b082c76a8_b.jpg",
-        "published_utc": "2026-02-13T09:33:13+00:00"
+        "title": "Wigeon afloat, Bowling Green Marsh",
+        "link": "https://www.flickr.com/photos/davea2007/55092387007/",
+        "image_url": "https://live.staticflickr.com/65535/55092387007_5045b00c9a_b.jpg",
+        "published_utc": "2026-02-13T09:52:44+00:00"
       },
       {
         "category_id": "landscapes",
         "category_label": "🏞️ Peisaj",
         "source": "Flickr (landscape)",
-        "title": "Light Up",
-        "link": "https://www.flickr.com/photos/95388056@N02/55093517579/",
-        "image_url": "https://live.staticflickr.com/65535/55093517579_1bdfc061ba_b.jpg",
-        "published_utc": "2026-02-13T09:24:24+00:00"
+        "title": "El Cerro Castillo mountain seen from Punta Bandera, Santa Cruz, Patagonia, Argentina",
+        "link": "https://www.flickr.com/photos/fam_nordstrom/55093647500/",
+        "image_url": "https://live.staticflickr.com/65535/55093647500_bf2884f34b_b.jpg",
+        "published_utc": "2026-02-13T10:28:13+00:00"
       }
     ],
     "joke": [
@@ -611,9 +611,9 @@
       {
         "date_utc": "2026-02-13",
         "source": "TimesNewRoman",
-        "title": "Regrete târzii. Mulți români realizează că și-au făcut tatuaje în loc să-și cumpere un cojoc",
+        "title": "Ca să-și mențină IQ-ul, fanii Realitatea Plus se vor da cu capul de pereți cât e întreruptă emisia",
         "summary": "Cotidian independent de umor voluntar",
-        "link": "https://www.timesnewroman.ro/life-death/regrete-tarzii-multi-romani-realizeaza-ca-si-au-facut-tatuaje-in-loc-sa-si-cumpere-un-cojoc/",
+        "link": "https://www.timesnewroman.ro/life-death/ca-sa-si-mentina-iq-ul-fanii-realitatea-plus-se-vor-da-cu-capul-de-pereti-cat-e-intrerupta-emisia/",
         "note": "Satiră — nu este știre reală."
       }
     ]
