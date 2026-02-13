@@ -1,7 +1,37 @@
 {
-  "generated_utc": "2026-02-13T06:46:54+00:00",
-  "count": 25,
+  "generated_utc": "2026-02-13T07:43:26+00:00",
+  "count": 28,
   "items": [
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "Iubeşte! În oglinda-gigant „Poarta sărutului”, „Tu ești Brâncuși!”",
+      "summary": "În Anul Constantin Brâncuși (instituit prin lege ca an aniversar, la 150 de ani de la nașterea artistului), Centrul de Cercetare, Documentare și Promovare „Constantin Brâncuși” din Târgu Jiu și Artmark lansează proiectul cultural „Tu&#8230;",
+      "link": "https://hotnews.ro/iubeste-in-oglinda-gigant-poarta-sarutului-tu-esti-brancusi-2170431",
+      "published_utc": "2026-02-13T07:37:22+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "Pentagonul trimite încă un portavion cu grup de luptă în Orientul Mijlociu / Ce spune presa americană",
+      "summary": "Pentagonul a ordonat unui al doilea grup de luptă cu portavion să se pregătească pentru o desfășurare în regiunea Golfului, potrivit presei americane și AFP, care notează că decizia vine în timp ce Donald Trump&#8230;",
+      "link": "https://hotnews.ro/pentagonul-trimite-inca-un-portavion-cu-grup-de-lupta-in-orientul-mijlociu-ce-spune-presa-americana-2170404",
+      "published_utc": "2026-02-13T07:36:49+00:00",
+      "score": 3
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "ScienceDaily Science",
+      "title": "60,000 years ago humans were already using poisoned arrows",
+      "summary": "Sixty thousand years ago, humans in southern Africa were already mastering nature’s chemistry. Scientists have discovered chemical traces of poison from the deadly gifbol plant on ancient quartz arrowheads found in South Africa — the oldest direct evidence of arrow poison ever identified. The find reveals that these early hunters didn’t just invent the bow and arrow earlier than once believed — they also knew how to enhance their weapons with toxic plant compounds to make hunts more effective.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260212025616.htm",
+      "published_utc": "2026-02-13T04:01:51+00:00",
+      "score": 1
+    },
     {
       "section": "romania",
       "kind": "ro",
@@ -259,6 +289,26 @@
         "section": "romania",
         "kind": "ro",
         "source": "HotNews",
+        "title": "Iubeşte! În oglinda-gigant „Poarta sărutului”, „Tu ești Brâncuși!”",
+        "summary": "În Anul Constantin Brâncuși (instituit prin lege ca an aniversar, la 150 de ani de la nașterea artistului), Centrul de Cercetare, Documentare și Promovare „Constantin Brâncuși” din Târgu Jiu și Artmark lansează proiectul cultural „Tu&#8230;",
+        "link": "https://hotnews.ro/iubeste-in-oglinda-gigant-poarta-sarutului-tu-esti-brancusi-2170431",
+        "published_utc": "2026-02-13T07:37:22+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Pentagonul trimite încă un portavion cu grup de luptă în Orientul Mijlociu / Ce spune presa americană",
+        "summary": "Pentagonul a ordonat unui al doilea grup de luptă cu portavion să se pregătească pentru o desfășurare în regiunea Golfului, potrivit presei americane și AFP, care notează că decizia vine în timp ce Donald Trump&#8230;",
+        "link": "https://hotnews.ro/pentagonul-trimite-inca-un-portavion-cu-grup-de-lupta-in-orientul-mijlociu-ce-spune-presa-americana-2170404",
+        "published_utc": "2026-02-13T07:36:49+00:00",
+        "score": 3
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
         "title": "Un grup de cercetători susține că AI poate folosi o fotografie a ta pentru a prezice ce salariu vei câștiga",
         "summary": "O imagine valorează cât o mie de cuvinte sau, poate, un plus consistent la salariu. Cercetători din mediul academic susțin că trăsăturile de personalitate deduse cu ajutorul analizei fotografiilor cu ajutorul inteligenței artificiale (AI) pot&#8230;",
         "link": "https://hotnews.ro/un-grup-de-cercetatori-sustine-ca-ai-poate-folosi-o-fotografie-a-ta-pentru-a-prezice-ce-salariu-vei-castiga-2169249",
@@ -379,6 +429,16 @@
       }
     ],
     "science": [
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "ScienceDaily Science",
+        "title": "60,000 years ago humans were already using poisoned arrows",
+        "summary": "Sixty thousand years ago, humans in southern Africa were already mastering nature’s chemistry. Scientists have discovered chemical traces of poison from the deadly gifbol plant on ancient quartz arrowheads found in South Africa — the oldest direct evidence of arrow poison ever identified. The find reveals that these early hunters didn’t just invent the bow and arrow earlier than once believed — they also knew how to enhance their weapons with toxic plant compounds to make hunts more effective.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260212025616.htm",
+        "published_utc": "2026-02-13T04:01:51+00:00",
+        "score": 1
+      },
       {
         "section": "science",
         "kind": "global",
@@ -526,19 +586,19 @@
         "category_id": "animals",
         "category_label": "🐾 Animale",
         "source": "Flickr (animals)",
-        "title": "Cats In The Kitchen",
-        "link": "https://www.flickr.com/photos/therontrowbridge/55093315548/",
-        "image_url": "https://live.staticflickr.com/65535/55093315548_a1533db736_b.jpg",
-        "published_utc": "2026-02-13T06:40:55+00:00"
+        "title": "Petirrojo. Erithacus rubecula",
+        "link": "https://www.flickr.com/photos/javibejarano/55093354958/",
+        "image_url": "https://live.staticflickr.com/65535/55093354958_8fe348c045_b.jpg",
+        "published_utc": "2026-02-13T07:36:54+00:00"
       },
       {
         "category_id": "landscapes",
         "category_label": "🏞️ Peisaj",
         "source": "Flickr (landscape)",
-        "title": "Perched King Parrot 3",
-        "link": "https://www.flickr.com/photos/rajbhoy/55093263488/",
-        "image_url": "https://live.staticflickr.com/65535/55093263488_a80606049d_b.jpg",
-        "published_utc": "2026-02-13T05:52:05+00:00"
+        "title": "Curiosité.",
+        "link": "https://www.flickr.com/photos/181695569@N08/55093144781/",
+        "image_url": "https://live.staticflickr.com/65535/55093144781_107f592725_b.jpg",
+        "published_utc": "2026-02-13T07:27:27+00:00"
       }
     ],
     "joke": [
@@ -551,9 +611,9 @@
       {
         "date_utc": "2026-02-13",
         "source": "TimesNewRoman",
-        "title": "Regrete târzii. Mulți români realizează că și-au făcut tatuaje în loc să-și cumpere un cojoc",
+        "title": "Dacia a câştigat raliul Hazmokar, cea mai dură competiţie de înjurat în trafic din lume",
         "summary": "Cotidian independent de umor voluntar",
-        "link": "https://www.timesnewroman.ro/life-death/regrete-tarzii-multi-romani-realizeaza-ca-si-au-facut-tatuaje-in-loc-sa-si-cumpere-un-cojoc/",
+        "link": "https://www.timesnewroman.ro/sport/dacia-a-castigat-raliul-hazmokar-cea-mai-dura-competitie-de-injurat-in-trafic-din-lume/",
         "note": "Satiră — nu este știre reală."
       }
     ]
