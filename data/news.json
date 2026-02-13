@@ -1,7 +1,17 @@
 {
-  "generated_utc": "2026-02-13T17:34:25+00:00",
-  "count": 23,
+  "generated_utc": "2026-02-13T18:32:44+00:00",
+  "count": 24,
   "items": [
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "SUA ridică restricțiile și lasă cinci mari companii petroliere să reia operațiunile în Venezuela",
+      "summary": "Statele Unite au autorizat cinci mari companii petroliere să reia operațiunile în sectorul petrolului și gazelor din Venezuela, potrivit unui document al Departamentului Trezoreriei. Decizia vine în contextul ridicării treptate a embargoului impus Caracasului și implică tranzacții supravegheate strict de Washington, inclusiv plăți prin conturi aprobate și soluționarea litigiilor pe teritoriul american.",
+      "link": "https://www.digi24.ro/stiri/economie/sua-ridica-restrictiile-si-lasa-cinci-mari-companii-petroliere-sa-reia-operatiunile-in-venezuela-3630869",
+      "published_utc": "2026-02-13T18:08:04+00:00",
+      "score": 1
+    },
     {
       "section": "romania",
       "kind": "ro",
@@ -235,6 +245,16 @@
   ],
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "SUA ridică restricțiile și lasă cinci mari companii petroliere să reia operațiunile în Venezuela",
+        "summary": "Statele Unite au autorizat cinci mari companii petroliere să reia operațiunile în sectorul petrolului și gazelor din Venezuela, potrivit unui document al Departamentului Trezoreriei. Decizia vine în contextul ridicării treptate a embargoului impus Caracasului și implică tranzacții supravegheate strict de Washington, inclusiv plăți prin conturi aprobate și soluționarea litigiilor pe teritoriul american.",
+        "link": "https://www.digi24.ro/stiri/economie/sua-ridica-restrictiile-si-lasa-cinci-mari-companii-petroliere-sa-reia-operatiunile-in-venezuela-3630869",
+        "published_utc": "2026-02-13T18:08:04+00:00",
+        "score": 1
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -477,28 +497,28 @@
         "category_id": "space",
         "category_label": "🚀 Spațiu",
         "source": "Flickr (space)",
-        "title": "Earth from Space: Sending love from above",
-        "link": "https://www.flickr.com/photos/europeanspaceagency/55092865652/",
-        "image_url": "https://live.staticflickr.com/65535/55092865652_f4fabf8b94_b.jpg",
-        "published_utc": "2026-02-13T16:38:25+00:00"
+        "title": "Paris apartment",
+        "link": "https://www.flickr.com/photos/39108224@N02/55094304605/",
+        "image_url": "https://live.staticflickr.com/65535/55094304605_d2b5531f09_b.jpg",
+        "published_utc": "2026-02-13T18:19:40+00:00"
       },
       {
         "category_id": "animals",
         "category_label": "🐾 Animale",
         "source": "Flickr (animals)",
-        "title": "Gaivota-tridáctila | Black-legged Kittiwake (Rissa tridactyla)",
-        "link": "https://www.flickr.com/photos/mamarocarvalho/55094217455/",
-        "image_url": "https://live.staticflickr.com/65535/55094217455_d792f3c1a9_b.jpg",
-        "published_utc": "2026-02-13T17:20:18+00:00"
+        "title": "Dipper",
+        "link": "https://www.flickr.com/photos/steffenwalther/55094122048/",
+        "image_url": "https://live.staticflickr.com/65535/55094122048_06fbb1f182_b.jpg",
+        "published_utc": "2026-02-13T18:06:29+00:00"
       },
       {
         "category_id": "landscapes",
         "category_label": "🏞️ Peisaj",
         "source": "Flickr (landscape)",
-        "title": "Trakoscan Castle, Lepoglava Croatia",
-        "link": "https://www.flickr.com/photos/20923094@N04/55094232275/",
-        "image_url": "https://live.staticflickr.com/65535/55094232275_ddc9d988ea_b.jpg",
-        "published_utc": "2026-02-13T17:30:08+00:00"
+        "title": "IMG_155238",
+        "link": "https://www.flickr.com/photos/tmmcotter/55094151173/",
+        "image_url": "https://live.staticflickr.com/65535/55094151173_1870c732c1_b.jpg",
+        "published_utc": "2026-02-13T18:30:45+00:00"
       }
     ],
     "joke": [
@@ -511,9 +531,9 @@
       {
         "date_utc": "2026-02-13",
         "source": "TimesNewRoman",
-        "title": "Regrete târzii. Mulți români realizează că și-au făcut tatuaje în loc să-și cumpere un cojoc",
+        "title": "Sting abia aşteaptă să cânte la Untold: &#8222;Am învăţat deja prima manea!&#8221;",
         "summary": "Cotidian independent de umor voluntar",
-        "link": "https://www.timesnewroman.ro/life-death/regrete-tarzii-multi-romani-realizeaza-ca-si-au-facut-tatuaje-in-loc-sa-si-cumpere-un-cojoc/",
+        "link": "https://www.timesnewroman.ro/monden/sting-abia-asteapta-sa-cante-la-untold-am-invatat-deja-prima-manea/",
         "note": "Satiră — nu este știre reală."
       }
     ]
