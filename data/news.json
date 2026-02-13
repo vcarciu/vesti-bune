@@ -1,6 +1,6 @@
 {
-  "generated_utc": "2026-02-13T14:35:43+00:00",
-  "count": 26,
+  "generated_utc": "2026-02-13T15:33:05+00:00",
+  "count": 25,
   "items": [
     {
       "section": "romania",
@@ -15,11 +15,11 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "HotNews",
-      "title": "Un startup care construiește roboți umanoizi a atras peste 500 de milioane dolari finanțare",
-      "summary": "Un startup denumit Apptronik, susținut de Google și de Mercedes-Benz, a atras jumătate de miliard de dolari finanțare și a ajuns să fie evaluat la 5 miliarde dolari. Compania își va crește producția de roboți&#8230;",
-      "link": "https://hotnews.ro/un-startup-care-construieste-roboti-umanoizi-a-atras-peste-500-de-milioane-dolari-finantare-2170731",
-      "published_utc": "2026-02-13T12:46:16+00:00",
+      "source": "Digi24",
+      "title": "Guvernul Bolojan a instituit „supravegherea extinsă” asupra grupului Lukoil. Ce presupune asta",
+      "summary": "Guvernul României a adoptat o decizie crucială pentru sectorul energetic, instituind măsura supravegherii extinse asupra entităților grupului Lukoil care activează pe teritoriul național.",
+      "link": "https://www.digi24.ro/stiri/actualitate/guverul-bolojan-a-instituit-supravegherea-extinsa-asupra-grupului-lukoil-ce-presupune-asta-3630223",
+      "published_utc": "2026-02-13T12:05:10+00:00",
       "score": 2
     },
     {
@@ -31,16 +31,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/02/260212234212.htm",
       "published_utc": "2026-02-13T07:30:08+00:00",
       "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Guvernul Bolojan a instituit „supravegherea extinsă” asupra grupului Lukoil. Ce presupune asta",
-      "summary": "Guvernul României a adoptat o decizie crucială pentru sectorul energetic, instituind măsura supravegherii extinse asupra entităților grupului Lukoil care activează pe teritoriul național.",
-      "link": "https://www.digi24.ro/stiri/actualitate/guverul-bolojan-a-instituit-supravegherea-extinsa-asupra-grupului-lukoil-ce-presupune-asta-3630223",
-      "published_utc": "2026-02-13T12:05:10+00:00",
-      "score": 2
     },
     {
       "section": "romania",
@@ -274,16 +264,6 @@
         "link": "https://hotnews.ro/ilie-bolojan-a-dezvaluit-costurile-pentru-mini-reactoarele-de-la-doicesti-proiect-gestionat-de-un-ministru-psd-avand-in-vedere-suma-foarte-mare-de-bani-estimarea-mea-este-ca-nu-o-sa-vedem-o-inves-2170780",
         "published_utc": "2026-02-13T13:44:16+00:00",
         "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "Un startup care construiește roboți umanoizi a atras peste 500 de milioane dolari finanțare",
-        "summary": "Un startup denumit Apptronik, susținut de Google și de Mercedes-Benz, a atras jumătate de miliard de dolari finanțare și a ajuns să fie evaluat la 5 miliarde dolari. Compania își va crește producția de roboți&#8230;",
-        "link": "https://hotnews.ro/un-startup-care-construieste-roboti-umanoizi-a-atras-peste-500-de-milioane-dolari-finantare-2170731",
-        "published_utc": "2026-02-13T12:46:16+00:00",
-        "score": 2
       },
       {
         "section": "romania",
@@ -546,19 +526,19 @@
         "category_id": "animals",
         "category_label": "🐾 Animale",
         "source": "Flickr (animals)",
-        "title": "A new visitor at our local lake",
-        "link": "https://www.flickr.com/photos/rvk-photography/55092715432/",
-        "image_url": "https://live.staticflickr.com/65535/55092715432_55b75c5437_b.jpg",
-        "published_utc": "2026-02-13T14:30:22+00:00"
+        "title": "Weasel",
+        "link": "https://www.flickr.com/photos/rjharry/55094036175/",
+        "image_url": "https://live.staticflickr.com/65535/55094036175_812eefd08c_b.jpg",
+        "published_utc": "2026-02-13T15:22:49+00:00"
       },
       {
         "category_id": "landscapes",
         "category_label": "🏞️ Peisaj",
         "source": "Flickr (landscape)",
-        "title": "🏞️ Peisaj",
-        "link": "https://www.flickr.com/photos/el-tra/55093804608/",
-        "image_url": "https://live.staticflickr.com/65535/55093804608_1c06734aa9_b.jpg",
-        "published_utc": "2026-02-13T14:30:47+00:00"
+        "title": "Winter silence",
+        "link": "https://www.flickr.com/photos/204019818@N07/55092789877/",
+        "image_url": "https://live.staticflickr.com/65535/55092789877_ef7205e40e_b.jpg",
+        "published_utc": "2026-02-13T15:21:42+00:00"
       }
     ],
     "joke": [
@@ -571,9 +551,9 @@
       {
         "date_utc": "2026-02-13",
         "source": "TimesNewRoman",
-        "title": "Accident grav la patinoar! Un cocalar și-a tăiat unghia de la degetul mic cu patina",
+        "title": "Negoiță neagă că a luat cocaină: „Am luat doar cannabis, LSD, ecstasy și amfetamine”",
         "summary": "Cotidian independent de umor voluntar",
-        "link": "https://www.timesnewroman.ro/monden/accident-grav-la-patinoar-un-cocalar-si-a-taiat-unghia-de-la-degetul-mic-cu-patina/",
+        "link": "https://www.timesnewroman.ro/politic/negoita-neaga-ca-a-luat-cocaina-am-luat-doar-cannabis-lsd-ecstasy-si-amfetamine/",
         "note": "Satiră — nu este știre reală."
       }
     ]
