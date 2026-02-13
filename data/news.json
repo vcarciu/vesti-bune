@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-02-12T23:19:50+00:00",
+  "generated_utc": "2026-02-13T01:14:26+00:00",
   "count": 29,
   "items": [
     {
@@ -606,34 +606,34 @@
         "category_id": "animals",
         "category_label": "🐾 Animale",
         "source": "Flickr (animals)",
-        "title": "Northern Harrier",
-        "link": "https://www.flickr.com/photos/141825794@N06/55092918969/",
-        "image_url": "https://live.staticflickr.com/65535/55092918969_a6f10f883d_b.jpg",
-        "published_utc": "2026-02-12T23:13:12+00:00"
+        "title": "Double Crested Cormorant",
+        "link": "https://www.flickr.com/photos/69792835@N07/55091902687/",
+        "image_url": "https://live.staticflickr.com/65535/55091902687_ff737dc24d_b.jpg",
+        "published_utc": "2026-02-13T01:11:49+00:00"
       },
       {
         "category_id": "landscapes",
         "category_label": "🏞️ Peisaj",
         "source": "Flickr (landscape)",
-        "title": "A Stroll in a Park",
-        "link": "https://www.flickr.com/photos/ql_studio/55092644666/",
-        "image_url": "https://live.staticflickr.com/65535/55092644666_dd69a7759e_b.jpg",
-        "published_utc": "2026-02-12T23:10:30+00:00"
+        "title": "St David's Cathedral",
+        "link": "https://www.flickr.com/photos/justincooperphotography/55091904827/",
+        "image_url": "https://live.staticflickr.com/65535/55091904827_c17619a83a_b.jpg",
+        "published_utc": "2026-02-13T01:12:30+00:00"
       }
     ],
     "joke": [
       {
-        "date_utc": "2026-02-12",
-        "text": "De ce a trecut programatorul strada? Ca să ajungă pe celălalt branch."
+        "date_utc": "2026-02-13",
+        "text": "Mi-am făcut un plan de economii. Acum economisesc timp necheltuindu-l."
       }
     ],
     "satire": [
       {
-        "date_utc": "2026-02-12",
+        "date_utc": "2026-02-13",
         "source": "TimesNewRoman",
-        "title": "Regrete târzii. Mulți români realizează că și-au făcut tatuaje în loc să-și cumpere un cojoc",
+        "title": "Nu mai aduceți buldozerele! Prunea a dărâmat cu p… o tribună a stadionului Dinamo",
         "summary": "Cotidian independent de umor voluntar",
-        "link": "https://www.timesnewroman.ro/life-death/regrete-tarzii-multi-romani-realizeaza-ca-si-au-facut-tatuaje-in-loc-sa-si-cumpere-un-cojoc/",
+        "link": "https://www.timesnewroman.ro/sport/nu-mai-aduceti-buldozerele-prunea-a-daramat-cu-p-o-tribuna-a-stadionului-dinamo/",
         "note": "Satiră — nu este știre reală."
       }
     ]
