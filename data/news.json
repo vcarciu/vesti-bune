@@ -1,7 +1,37 @@
 {
-  "generated_utc": "2026-02-13T20:27:04+00:00",
-  "count": 24,
+  "generated_utc": "2026-02-13T21:26:31+00:00",
+  "count": 26,
   "items": [
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "Regizorul Corneliu Porumboiu obține finanțare de la Fundația Prada pentru viitorul său film",
+      "summary": "Noi filme ale unor cineaşti de renume, printre care Apichatpong Weerasethakul, regizorul filmului &#8222;Tropical Malady&#8221;, Corneliu Porumboiu din România şi Tatiana Huezo din Mexic, se numără printre primele 14 lungmetraje selectate pentru a beneficia de&#8230;",
+      "link": "https://hotnews.ro/regizorul-corneliu-porumboiu-obtine-finantare-de-la-fundatia-prada-pentru-viitorul-sau-film-2171121",
+      "published_utc": "2026-02-13T21:05:09+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "Schimbări la examinarea investițiilor străine: Taxa de examinare va fi redusă la jumătate, iar pragul tranzacțiilor care au nevoie de aviz urcă la 5 milioane euro",
+      "summary": "Taxa de examinare a investițiilor străine va fi redusă la jumătate, de la 10.000 de euro cât este în prezent, la 5.000 de euro, pragul investițiilor străine care au nevoie de avizul Comisiei de Examinare&#8230;",
+      "link": "https://hotnews.ro/schimbari-la-examinarea-investitiilor-straine-taxa-de-examinare-va-fi-redusa-la-jumatate-iar-pragul-tranzactiilor-care-au-nevoie-de-aviz-urca-la-5-milioane-euro-2171086",
+      "published_utc": "2026-02-13T20:54:32+00:00",
+      "score": 1
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "This vegan diet cut insulin use by nearly 30% in type 1 diabetes",
+      "summary": "A low-fat vegan diet—without cutting calories or carbs—may help people with type 1 diabetes significantly reduce how much insulin they need, and how much they spend on it. In a new analysis published in BMC Nutrition, participants following the plant-based plan lowered their daily insulin use by 28%, while those on a portion-controlled diet saw no meaningful change.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260212234212.htm",
+      "published_utc": "2026-02-13T07:30:08+00:00",
+      "score": 1
+    },
     {
       "section": "romania",
       "kind": "ro",
@@ -21,16 +51,6 @@
       "link": "https://www.digi24.ro/stiri/actualitate/guverul-bolojan-a-instituit-supravegherea-extinsa-asupra-grupului-lukoil-ce-presupune-asta-3630223",
       "published_utc": "2026-02-13T12:05:10+00:00",
       "score": 2
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "This vegan diet cut insulin use by nearly 30% in type 1 diabetes",
-      "summary": "A low-fat vegan diet—without cutting calories or carbs—may help people with type 1 diabetes significantly reduce how much insulin they need, and how much they spend on it. In a new analysis published in BMC Nutrition, participants following the plant-based plan lowered their daily insulin use by 28%, while those on a portion-controlled diet saw no meaningful change.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260212234212.htm",
-      "published_utc": "2026-02-13T07:30:08+00:00",
-      "score": 1
     },
     {
       "section": "science",
@@ -245,6 +265,26 @@
   ],
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Regizorul Corneliu Porumboiu obține finanțare de la Fundația Prada pentru viitorul său film",
+        "summary": "Noi filme ale unor cineaşti de renume, printre care Apichatpong Weerasethakul, regizorul filmului &#8222;Tropical Malady&#8221;, Corneliu Porumboiu din România şi Tatiana Huezo din Mexic, se numără printre primele 14 lungmetraje selectate pentru a beneficia de&#8230;",
+        "link": "https://hotnews.ro/regizorul-corneliu-porumboiu-obtine-finantare-de-la-fundatia-prada-pentru-viitorul-sau-film-2171121",
+        "published_utc": "2026-02-13T21:05:09+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Schimbări la examinarea investițiilor străine: Taxa de examinare va fi redusă la jumătate, iar pragul tranzacțiilor care au nevoie de aviz urcă la 5 milioane euro",
+        "summary": "Taxa de examinare a investițiilor străine va fi redusă la jumătate, de la 10.000 de euro cât este în prezent, la 5.000 de euro, pragul investițiilor străine care au nevoie de avizul Comisiei de Examinare&#8230;",
+        "link": "https://hotnews.ro/schimbari-la-examinarea-investitiilor-straine-taxa-de-examinare-va-fi-redusa-la-jumatate-iar-pragul-tranzactiilor-care-au-nevoie-de-aviz-urca-la-5-milioane-euro-2171086",
+        "published_utc": "2026-02-13T20:54:32+00:00",
+        "score": 1
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -497,28 +537,28 @@
         "category_id": "space",
         "category_label": "🚀 Spațiu",
         "source": "Flickr (space)",
-        "title": "USAF Lockheed Galaxy C-5A 68-0222",
-        "link": "https://www.flickr.com/photos/158503322@N06/55094359749/",
-        "image_url": "https://live.staticflickr.com/65535/55094359749_d130ef3a90_b.jpg",
-        "published_utc": "2026-02-13T19:57:53+00:00"
+        "title": "Destroying the Sky, Daily.",
+        "link": "https://www.flickr.com/photos/silentoneproductions/55094359998/",
+        "image_url": "https://live.staticflickr.com/65535/55094359998_fa00b9a0e3_b.jpg",
+        "published_utc": "2026-02-13T20:46:41+00:00"
       },
       {
         "category_id": "animals",
         "category_label": "🐾 Animale",
         "source": "Flickr (animals)",
-        "title": "Bell Medusa along Oregon Coast",
-        "link": "https://www.flickr.com/photos/leerentz/55094105386/",
-        "image_url": "https://live.staticflickr.com/65535/55094105386_1b41f5e0e9_b.jpg",
-        "published_utc": "2026-02-13T20:11:09+00:00"
+        "title": "Sleep Well",
+        "link": "https://www.flickr.com/photos/4kleuren/55094378678/",
+        "image_url": "https://live.staticflickr.com/65535/55094378678_dc0fcc4c08_b.jpg",
+        "published_utc": "2026-02-13T21:01:27+00:00"
       },
       {
         "category_id": "landscapes",
         "category_label": "🏞️ Peisaj",
         "source": "Flickr (landscape)",
-        "title": "#flower #tulips #polaroid #film #impressionism #spring #love #sunset #sunrise",
-        "link": "https://www.flickr.com/photos/198346020@N02/55093245297/",
-        "image_url": "https://live.staticflickr.com/65535/55093245297_a1ea5feb23_b.jpg",
-        "published_utc": "2026-02-13T20:24:35+00:00"
+        "title": "Una tarde cualquiera",
+        "link": "https://www.flickr.com/photos/62434277@N04/55093310727/",
+        "image_url": "https://live.staticflickr.com/65535/55093310727_4c16fb97b9_b.jpg",
+        "published_utc": "2026-02-13T21:15:38+00:00"
       }
     ],
     "joke": [
@@ -531,9 +571,9 @@
       {
         "date_utc": "2026-02-13",
         "source": "TimesNewRoman",
-        "title": "Regrete târzii. Mulți români realizează că și-au făcut tatuaje în loc să-și cumpere un cojoc",
+        "title": "Văzând cât succes are Bad Bunny, un cunoscut manelist de la noi îşi schimbă numele în Bad Salami",
         "summary": "Cotidian independent de umor voluntar",
-        "link": "https://www.timesnewroman.ro/life-death/regrete-tarzii-multi-romani-realizeaza-ca-si-au-facut-tatuaje-in-loc-sa-si-cumpere-un-cojoc/",
+        "link": "https://www.timesnewroman.ro/monden/vazand-cat-succes-are-bad-bunny-un-cunoscut-manelist-de-la-noi-isi-schimba-numele-in-bad-salami/",
         "note": "Satiră — nu este știre reală."
       }
     ]
