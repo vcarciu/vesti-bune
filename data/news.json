@@ -1,7 +1,17 @@
 {
-  "generated_utc": "2026-02-13T23:21:41+00:00",
-  "count": 27,
+  "generated_utc": "2026-02-14T01:06:55+00:00",
+  "count": 28,
   "items": [
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "Fitch menţine ratingul suveran al României. „Perspectiva negativă reflectă deteriorarea continuă a finanţelor publice”",
+      "summary": "Fitch a menţinut vineri ratingul suveran al României la „BBB minus”, cu perspectivă negativă, se arată într-un comunicat al agenţiei de evaluare financiară. „Ratingul României „BBB minus” este susţinut de apartenenţa la UE şi este&#8230;",
+      "link": "https://hotnews.ro/fitch-mentine-ratingul-suveran-al-romaniei-perspectiva-negativa-reflecta-deteriorarea-continua-a-finantelor-publice-2171192",
+      "published_utc": "2026-02-13T23:55:00+00:00",
+      "score": 1
+    },
     {
       "section": "romania",
       "kind": "ro",
@@ -11,16 +21,6 @@
       "link": "https://www.digi24.ro/stiri/sport/alte-sporturi/jo-2026-milano-cortina-surpriza-mare-la-patinaj-artistic-kazahul-mihail-saidorov-a-castigat-aurul-marele-favorit-departe-de-podium-3631147",
       "published_utc": "2026-02-13T22:48:42+00:00",
       "score": 3
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "HotNews",
-      "title": "Regizorul Corneliu Porumboiu obține finanțare de la Fundația Prada pentru viitorul său film",
-      "summary": "Noi filme ale unor cineaşti de renume, printre care Apichatpong Weerasethakul, regizorul filmului &#8222;Tropical Malady&#8221;, Corneliu Porumboiu din România şi Tatiana Huezo din Mexic, se numără printre primele 14 lungmetraje selectate pentru a beneficia de&#8230;",
-      "link": "https://hotnews.ro/regizorul-corneliu-porumboiu-obtine-finantare-de-la-fundatia-prada-pentru-viitorul-sau-film-2171121",
-      "published_utc": "2026-02-13T21:05:09+00:00",
-      "score": 1
     },
     {
       "section": "medical",
@@ -36,20 +36,20 @@
       "section": "romania",
       "kind": "ro",
       "source": "HotNews",
-      "title": "Schimbări la examinarea investițiilor străine: Taxa de examinare va fi redusă la jumătate, iar pragul tranzacțiilor care au nevoie de aviz urcă la 5 milioane euro",
-      "summary": "Taxa de examinare a investițiilor străine va fi redusă la jumătate, de la 10.000 de euro cât este în prezent, la 5.000 de euro, pragul investițiilor străine care au nevoie de avizul Comisiei de Examinare&#8230;",
-      "link": "https://hotnews.ro/schimbari-la-examinarea-investitiilor-straine-taxa-de-examinare-va-fi-redusa-la-jumatate-iar-pragul-tranzactiilor-care-au-nevoie-de-aviz-urca-la-5-milioane-euro-2171086",
-      "published_utc": "2026-02-13T20:54:32+00:00",
+      "title": "Regizorul Corneliu Porumboiu obține finanțare de la Fundația Prada pentru viitorul său film",
+      "summary": "Noi filme ale unor cineaşti de renume, printre care Apichatpong Weerasethakul, regizorul filmului &#8222;Tropical Malady&#8221;, Corneliu Porumboiu din România şi Tatiana Huezo din Mexic, se numără printre primele 14 lungmetraje selectate pentru a beneficia de&#8230;",
+      "link": "https://hotnews.ro/regizorul-corneliu-porumboiu-obtine-finantare-de-la-fundatia-prada-pentru-viitorul-sau-film-2171121",
+      "published_utc": "2026-02-13T21:05:09+00:00",
       "score": 1
     },
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Digi24",
-      "title": "SUA ridică restricțiile și lasă cinci mari companii petroliere să reia operațiunile în Venezuela",
-      "summary": "Statele Unite au autorizat cinci mari companii petroliere să reia operațiunile în sectorul petrolului și gazelor din Venezuela, potrivit unui document al Departamentului Trezoreriei. Decizia vine în contextul ridicării treptate a embargoului impus Caracasului și implică tranzacții supravegheate strict de Washington, inclusiv plăți prin conturi aprobate și soluționarea litigiilor pe teritoriul american.",
-      "link": "https://www.digi24.ro/stiri/economie/sua-ridica-restrictiile-si-lasa-cinci-mari-companii-petroliere-sa-reia-operatiunile-in-venezuela-3630869",
-      "published_utc": "2026-02-13T18:08:04+00:00",
+      "source": "HotNews",
+      "title": "Schimbări la examinarea investițiilor străine: Taxa de examinare va fi redusă la jumătate, iar pragul tranzacțiilor care au nevoie de aviz urcă la 5 milioane euro",
+      "summary": "Taxa de examinare a investițiilor străine va fi redusă la jumătate, de la 10.000 de euro cât este în prezent, la 5.000 de euro, pragul investițiilor străine care au nevoie de avizul Comisiei de Examinare&#8230;",
+      "link": "https://hotnews.ro/schimbari-la-examinarea-investitiilor-straine-taxa-de-examinare-va-fi-redusa-la-jumatate-iar-pragul-tranzactiilor-care-au-nevoie-de-aviz-urca-la-5-milioane-euro-2171086",
+      "published_utc": "2026-02-13T20:54:32+00:00",
       "score": 1
     },
     {
@@ -60,6 +60,16 @@
       "summary": "Sixty thousand years ago, humans in southern Africa were already mastering nature’s chemistry. Scientists have discovered chemical traces of poison from the deadly gifbol plant on ancient quartz arrowheads found in South Africa — the oldest direct evidence of arrow poison ever identified. The find reveals that these early hunters didn’t just invent the bow and arrow earlier than once believed — they also knew how to enhance their weapons with toxic plant compounds to make hunts more effective.",
       "link": "https://www.sciencedaily.com/releases/2026/02/260212025616.htm",
       "published_utc": "2026-02-13T04:01:51+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "SUA ridică restricțiile și lasă cinci mari companii petroliere să reia operațiunile în Venezuela",
+      "summary": "Statele Unite au autorizat cinci mari companii petroliere să reia operațiunile în sectorul petrolului și gazelor din Venezuela, potrivit unui document al Departamentului Trezoreriei. Decizia vine în contextul ridicării treptate a embargoului impus Caracasului și implică tranzacții supravegheate strict de Washington, inclusiv plăți prin conturi aprobate și soluționarea litigiilor pe teritoriul american.",
+      "link": "https://www.digi24.ro/stiri/economie/sua-ridica-restrictiile-si-lasa-cinci-mari-companii-petroliere-sa-reia-operatiunile-in-venezuela-3630869",
+      "published_utc": "2026-02-13T18:08:04+00:00",
       "score": 1
     },
     {
@@ -275,6 +285,16 @@
   ],
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Fitch menţine ratingul suveran al României. „Perspectiva negativă reflectă deteriorarea continuă a finanţelor publice”",
+        "summary": "Fitch a menţinut vineri ratingul suveran al României la „BBB minus”, cu perspectivă negativă, se arată într-un comunicat al agenţiei de evaluare financiară. „Ratingul României „BBB minus” este susţinut de apartenenţa la UE şi este&#8230;",
+        "link": "https://hotnews.ro/fitch-mentine-ratingul-suveran-al-romaniei-perspectiva-negativa-reflecta-deteriorarea-continua-a-finantelor-publice-2171192",
+        "published_utc": "2026-02-13T23:55:00+00:00",
+        "score": 1
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -557,39 +577,39 @@
         "category_id": "space",
         "category_label": "🚀 Spațiu",
         "source": "Flickr (space)",
-        "title": "Destroying the Sky, Daily.",
-        "link": "https://www.flickr.com/photos/silentoneproductions/55094359998/",
-        "image_url": "https://live.staticflickr.com/65535/55094359998_fa00b9a0e3_b.jpg",
-        "published_utc": "2026-02-13T20:46:41+00:00"
+        "title": "FebRovery 2026 # 14",
+        "link": "https://www.flickr.com/photos/crimso-giger/55093517477/",
+        "image_url": "https://live.staticflickr.com/65535/55093517477_50d2ed6754_b.jpg",
+        "published_utc": "2026-02-14T00:21:41+00:00"
       },
       {
         "category_id": "animals",
         "category_label": "🐾 Animale",
         "source": "Flickr (animals)",
-        "title": "ring-tailed lemur",
-        "link": "https://www.flickr.com/photos/im2fast4u2c/55094702980/",
-        "image_url": "https://live.staticflickr.com/65535/55094702980_0e204b49dc_b.jpg",
-        "published_utc": "2026-02-13T23:19:41+00:00"
+        "title": "Vincent",
+        "link": "https://www.flickr.com/photos/johnholzer/55094804905/",
+        "image_url": "https://live.staticflickr.com/65535/55094804905_9cedd45d31_b.jpg",
+        "published_utc": "2026-02-14T01:05:59+00:00"
       },
       {
         "category_id": "landscapes",
         "category_label": "🏞️ Peisaj",
         "source": "Flickr (landscape)",
-        "title": "🏞️ Peisaj",
-        "link": "https://www.flickr.com/photos/amurr123/55094698415/",
-        "image_url": "https://live.staticflickr.com/65535/55094698415_57f26f2149_b.jpg",
-        "published_utc": "2026-02-13T23:15:42+00:00"
+        "title": "Tonight Sunset",
+        "link": "https://www.flickr.com/photos/31004842@N02/55094626838/",
+        "image_url": "https://live.staticflickr.com/65535/55094626838_cbc8dc5c78_b.jpg",
+        "published_utc": "2026-02-14T00:49:25+00:00"
       }
     ],
     "joke": [
       {
-        "date_utc": "2026-02-13",
-        "text": "Mi-am făcut un plan de economii. Acum economisesc timp necheltuindu-l."
+        "date_utc": "2026-02-14",
+        "text": "— Aveți Wi-Fi? — Da. — Parola? — Ești sigur că vrei asta?"
       }
     ],
     "satire": [
       {
-        "date_utc": "2026-02-13",
+        "date_utc": "2026-02-14",
         "source": "TimesNewRoman",
         "title": "Regrete târzii. Mulți români realizează că și-au făcut tatuaje în loc să-și cumpere un cojoc",
         "summary": "Cotidian independent de umor voluntar",
