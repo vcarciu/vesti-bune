@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-02-14T15:17:21+00:00",
+  "generated_utc": "2026-02-14T16:17:33+00:00",
   "count": 28,
   "items": [
     {
@@ -215,7 +215,7 @@
     {
       "section": "medical",
       "kind": "global",
-      "source": "ScienceDaily Health",
+      "source": "ScienceDaily Medicine",
       "title": "This unexpected plant discovery could change how drugs are made",
       "summary": "Plants make chemical weapons to protect themselves, and many of these compounds have become vital to human medicine. Researchers found that one powerful plant chemical is produced using a gene that looks surprisingly bacterial. This suggests plants reuse microbial tools to invent new chemistry. The insight could help scientists discover new drugs and produce them more sustainably.",
       "link": "https://www.sciencedaily.com/releases/2026/02/260203030546.htm",
@@ -450,7 +450,7 @@
       {
         "section": "medical",
         "kind": "global",
-        "source": "ScienceDaily Health",
+        "source": "ScienceDaily Medicine",
         "title": "This unexpected plant discovery could change how drugs are made",
         "summary": "Plants make chemical weapons to protect themselves, and many of these compounds have become vital to human medicine. Researchers found that one powerful plant chemical is produced using a gene that looks surprisingly bacterial. This suggests plants reuse microbial tools to invent new chemistry. The insight could help scientists discover new drugs and produce them more sustainably.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260203030546.htm",
@@ -577,28 +577,28 @@
         "category_id": "space",
         "category_label": "🚀 Spațiu",
         "source": "Flickr (space)",
-        "title": "Barclay.",
-        "link": "https://www.flickr.com/photos/27847413@N00/55095505479/",
-        "image_url": "https://live.staticflickr.com/65535/55095505479_6903a691aa_b.jpg",
-        "published_utc": "2026-02-14T15:05:11+00:00"
+        "title": "Ready For A Nap.",
+        "link": "https://www.flickr.com/photos/27847413@N00/55095306376/",
+        "image_url": "https://live.staticflickr.com/65535/55095306376_a21f7b4a23_b.jpg",
+        "published_utc": "2026-02-14T16:01:12+00:00"
       },
       {
         "category_id": "animals",
         "category_label": "🐾 Animale",
         "source": "Flickr (animals)",
-        "title": "Pinzón vulgar (Fringilla coelebs)",
-        "link": "https://www.flickr.com/photos/ismaelowensullivan/55095412083/",
-        "image_url": "https://live.staticflickr.com/65535/55095412083_77edaef6d8_b.jpg",
-        "published_utc": "2026-02-14T14:44:21+00:00"
+        "title": "Russet-backed Oropendola",
+        "link": "https://www.flickr.com/photos/wildkusi/55095521883/",
+        "image_url": "https://live.staticflickr.com/65535/55095521883_98bd6a3c51_b.jpg",
+        "published_utc": "2026-02-14T16:10:41+00:00"
       },
       {
         "category_id": "landscapes",
         "category_label": "🏞️ Peisaj",
         "source": "Flickr (landscape)",
-        "title": "Happy Valentine's Day",
-        "link": "https://www.flickr.com/photos/dswindler/55095454993/",
-        "image_url": "https://live.staticflickr.com/65535/55095454993_d265869199_b.jpg",
-        "published_utc": "2026-02-14T15:11:59+00:00"
+        "title": "Josephine Sculpture Park",
+        "link": "https://www.flickr.com/photos/mrieder/55095504813/",
+        "image_url": "https://live.staticflickr.com/65535/55095504813_c09482fbb9_b.jpg",
+        "published_utc": "2026-02-14T16:14:49+00:00"
       }
     ],
     "joke": [
@@ -611,9 +611,9 @@
       {
         "date_utc": "2026-02-14",
         "source": "TimesNewRoman",
-        "title": "Actorii de la TNB trebuie să primească 500 de aplauze pe spectacol, altfel sunt dați afară",
+        "title": "Singurul infractor aflat încă la închisoare nu înţelege ce are Lia Savonea cu el",
         "summary": "Cotidian independent de umor voluntar",
-        "link": "https://www.timesnewroman.ro/life-death/actorii-de-la-tnb-trebuie-sa-primeasca-500-de-aplauze-pe-spectacol-altfel-sunt-dati-afara/",
+        "link": "https://www.timesnewroman.ro/life-death/singurul-infractor-aflat-inca-la-inchisoare-nu-intelege-ce-are-lia-savonea-cu-el/",
         "note": "Satiră — nu este știre reală."
       }
     ]
