@@ -1,6 +1,6 @@
 {
-  "generated_utc": "2026-02-14T17:18:33+00:00",
-  "count": 26,
+  "generated_utc": "2026-02-14T18:20:33+00:00",
+  "count": 25,
   "items": [
     {
       "section": "romania",
@@ -45,12 +45,12 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "HotNews",
-      "title": "Bulgaria anunță că a primit un număr record de turiști români anul trecut",
-      "summary": "Bulgaria a înregistrat anul trecut un număr record de turişti din România, conform celor mai recente date ale Institutului Naţional de Statistică, informează Novinite și Agerpres. Numărul înnoptărilor turiştilor români în facilităţile de cazare bulgare&#8230;",
-      "link": "https://hotnews.ro/bulgaria-anunta-ca-a-primit-un-numar-record-de-turisti-romani-anul-trecut-2171475",
-      "published_utc": "2026-02-14T12:48:45+00:00",
-      "score": 3
+      "source": "Digi24",
+      "title": "Un polițist din Arad a fost prins la furat în Austria. A fost dat de gol chiar de soția lui",
+      "summary": "Un polițist din Arad este cercetat disciplinar, după ce a furat mai multe perechi de pantofi dintr-un centru comercial din Austria. Complice i-a fost chiar soția, care l-a și dat de gol în fața autorităților. Cei doi au furat din 20 de magazine, iar prejudiciul este de aproximativ 3.000 de euro.",
+      "link": "https://www.digi24.ro/stiri/un-politist-din-arad-a-fost-prins-la-furat-in-austria-a-fost-dat-de-gol-chiar-de-sotia-lui-3631299",
+      "published_utc": "2026-02-14T07:35:19+00:00",
+      "score": 1
     },
     {
       "section": "science",
@@ -60,16 +60,6 @@
       "summary": "Sixty thousand years ago, humans in southern Africa were already mastering nature’s chemistry. Scientists have discovered chemical traces of poison from the deadly gifbol plant on ancient quartz arrowheads found in South Africa — the oldest direct evidence of arrow poison ever identified. The find reveals that these early hunters didn’t just invent the bow and arrow earlier than once believed — they also knew how to enhance their weapons with toxic plant compounds to make hunts more effective.",
       "link": "https://www.sciencedaily.com/releases/2026/02/260212025616.htm",
       "published_utc": "2026-02-13T04:01:51+00:00",
-      "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Un polițist din Arad a fost prins la furat în Austria. A fost dat de gol chiar de soția lui",
-      "summary": "Un polițist din Arad este cercetat disciplinar, după ce a furat mai multe perechi de pantofi dintr-un centru comercial din Austria. Complice i-a fost chiar soția, care l-a și dat de gol în fața autorităților. Cei doi au furat din 20 de magazine, iar prejudiciul este de aproximativ 3.000 de euro.",
-      "link": "https://www.digi24.ro/stiri/un-politist-din-arad-a-fost-prins-la-furat-in-austria-a-fost-dat-de-gol-chiar-de-sotia-lui-3631299",
-      "published_utc": "2026-02-14T07:35:19+00:00",
       "score": 1
     },
     {
@@ -293,16 +283,6 @@
         "summary": "Bulgaria a înregistrat anul trecut un număr record de turişti din România, conform celor mai recente date ale Institutului Naţional de Statistică, informează Novinite.",
         "link": "https://www.digi24.ro/magazin/timp-liber/vacante/anul-2025-a-fost-unul-record-pentru-turismul-bulgar-un-milion-de-turisti-au-venit-din-romania-cel-mai-mare-inregistrat-vreodata-3631533",
         "published_utc": "2026-02-14T13:09:49+00:00",
-        "score": 3
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "Bulgaria anunță că a primit un număr record de turiști români anul trecut",
-        "summary": "Bulgaria a înregistrat anul trecut un număr record de turişti din România, conform celor mai recente date ale Institutului Naţional de Statistică, informează Novinite și Agerpres. Numărul înnoptărilor turiştilor români în facilităţile de cazare bulgare&#8230;",
-        "link": "https://hotnews.ro/bulgaria-anunta-ca-a-primit-un-numar-record-de-turisti-romani-anul-trecut-2171475",
-        "published_utc": "2026-02-14T12:48:45+00:00",
         "score": 3
       },
       {
@@ -537,28 +517,28 @@
         "category_id": "space",
         "category_label": "🚀 Spațiu",
         "source": "Flickr (space)",
-        "title": "Ready For A Nap.",
-        "link": "https://www.flickr.com/photos/27847413@N00/55095306376/",
-        "image_url": "https://live.staticflickr.com/65535/55095306376_a21f7b4a23_b.jpg",
-        "published_utc": "2026-02-14T16:01:12+00:00"
+        "title": "Andromeda Galaxy",
+        "link": "https://www.flickr.com/photos/lhutton/55095661533/",
+        "image_url": "https://live.staticflickr.com/65535/55095661533_009ebf5d28_b.jpg",
+        "published_utc": "2026-02-14T17:31:18+00:00"
       },
       {
         "category_id": "animals",
         "category_label": "🐾 Animale",
         "source": "Flickr (animals)",
-        "title": "Northern Flicker",
-        "link": "https://www.flickr.com/photos/204208961@N05/55095627803/",
-        "image_url": "https://live.staticflickr.com/65535/55095627803_a1d840b175_b.jpg",
-        "published_utc": "2026-02-14T17:12:38+00:00"
+        "title": "XH2_DSCF6674_C1",
+        "link": "https://www.flickr.com/photos/bazoka/55095709508/",
+        "image_url": "https://live.staticflickr.com/65535/55095709508_8f5472e82d_b.jpg",
+        "published_utc": "2026-02-14T18:12:37+00:00"
       },
       {
         "category_id": "landscapes",
         "category_label": "🏞️ Peisaj",
         "source": "Flickr (landscape)",
-        "title": "20260214_135235 copy",
-        "link": "https://www.flickr.com/photos/chabanas/55095695054/",
-        "image_url": "https://live.staticflickr.com/65535/55095695054_87a53a1b99_b.jpg",
-        "published_utc": "2026-02-14T17:14:13+00:00"
+        "title": "Dancing Crane - AgamonHaHule26-13",
+        "link": "https://www.flickr.com/photos/106013037@N08/55095506731/",
+        "image_url": "https://live.staticflickr.com/65535/55095506731_99d5300c6f_b.jpg",
+        "published_utc": "2026-02-14T18:15:58+00:00"
       }
     ],
     "joke": [
@@ -571,9 +551,9 @@
       {
         "date_utc": "2026-02-14",
         "source": "TimesNewRoman",
-        "title": "Bolojan vrea ca absolvenţii de Drept să lucreze 2 ani în România înainte să iasă la pensie",
+        "title": "Secretele recuperării, cu Louis Munteanu. ”Ca să dorm bine, înainte de meci beau două zile încontinuu”",
         "summary": "Cotidian independent de umor voluntar",
-        "link": "https://www.timesnewroman.ro/politic/bolojan-vrea-ca-absolventii-de-drept-sa-lucreze-2-ani-in-romania-inainte-sa-iasa-la-pensie/",
+        "link": "https://www.timesnewroman.ro/sport/secretele-recuperarii-cu-louis-munteanu-ca-sa-dorm-bine-inainte-de-meci-beau-doua-zile-incontinuu/",
         "note": "Satiră — nu este știre reală."
       }
     ]
