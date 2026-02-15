@@ -1,6 +1,6 @@
 {
-  "generated_utc": "2026-02-15T14:19:18+00:00",
-  "count": 26,
+  "generated_utc": "2026-02-15T15:16:48+00:00",
+  "count": 25,
   "items": [
     {
       "section": "romania",
@@ -15,11 +15,11 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "HotNews",
-      "title": "Padocul groazei de la Suraia. Apel pentru mobilizare al asociațiilor pentru protecția animalelor: „Avem o urgență. Veniți!”",
-      "summary": "Mai multe asociații pentru protecția drepturilor animalelor au lansat un apel public pentru adopții și preluări de urgență, după imaginile teribile din adăpostul privat de câini de la Suraia, județul Vrancea, unde câinii erau maltratați&#8230;",
-      "link": "https://hotnews.ro/padocul-groazei-de-la-suraia-apel-pentru-mobilizare-al-asociatiilor-pentru-protectia-animalelor-avem-o-urgenta-veniti-2171820",
-      "published_utc": "2026-02-15T09:25:00+00:00",
+      "source": "Digi24",
+      "title": "125 de apeluri pentru Salvamont în 24 de ore: 130 de persoane salvate, unele cu elicopter SMURD",
+      "summary": "În ultimele 24 de ore, salvamontiștii au primit 125 de apeluri pentru intervenții de urgență, cu cele mai multe solicitări la Salvamont Lupeni, Sinaia și Brașov. Au fost salvate 130 de persoane, dintre care două evacuate cu elicoptere SMURD și 39 transportate la spital cu ambulanțe.",
+      "link": "https://www.digi24.ro/stiri/actualitate/social/125-de-apeluri-pentru-salvamont-in-24-de-ore-130-de-persoane-salvate-unele-cu-elicopter-smurd-3631963",
+      "published_utc": "2026-02-15T08:12:47+00:00",
       "score": 3
     },
     {
@@ -36,30 +36,10 @@
       "section": "romania",
       "kind": "ro",
       "source": "Digi24",
-      "title": "125 de apeluri pentru Salvamont în 24 de ore: 130 de persoane salvate, unele cu elicopter SMURD",
-      "summary": "În ultimele 24 de ore, salvamontiștii au primit 125 de apeluri pentru intervenții de urgență, cu cele mai multe solicitări la Salvamont Lupeni, Sinaia și Brașov. Au fost salvate 130 de persoane, dintre care două evacuate cu elicoptere SMURD și 39 transportate la spital cu ambulanțe.",
-      "link": "https://www.digi24.ro/stiri/actualitate/social/125-de-apeluri-pentru-salvamont-in-24-de-ore-130-de-persoane-salvate-unele-cu-elicopter-smurd-3631963",
-      "published_utc": "2026-02-15T08:12:47+00:00",
-      "score": 3
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
       "title": "ÎNTREBAREA SĂPTĂMÂNII: Ar trebui obligați medicii formați în România să lucreze în sistemul public înainte să plece în străinătate?",
       "summary": "„Nu e o idee absurdă, dar trebuie dezbătută serios. Statul investește sume uriașe în formarea unui medic, iar România are un deficit major, mai ales în zonele rurale”, spune Florin Negruțiu. Claudiu Pândaru atrage atenția: „Este o schimbare de contract social. Dacă impui o obligație, ea trebuie explicată dinainte, altfel riști să descurajezi chiar vocația.”",
       "link": "https://www.digi24.ro/opinii/intrebarea-saptamanii/intrebarea-saptamanii-ar-trebui-obligati-medicii-formati-in-romania-sa-lucreze-in-sistemul-public-inainte-sa-plece-in-strainatate-3631649",
       "published_utc": "2026-02-15T06:00:41+00:00",
-      "score": 1
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "This vegan diet cut insulin use by nearly 30% in type 1 diabetes",
-      "summary": "A low-fat vegan diet—without cutting calories or carbs—may help people with type 1 diabetes significantly reduce how much insulin they need, and how much they spend on it. In a new analysis published in BMC Nutrition, participants following the plant-based plan lowered their daily insulin use by 28%, while those on a portion-controlled diet saw no meaningful change.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260212234212.htm",
-      "published_utc": "2026-02-13T07:30:08+00:00",
       "score": 1
     },
     {
@@ -71,6 +51,16 @@
       "link": "https://www.digi24.ro/magazin/stil-de-viata/animale/un-caine-care-a-vegheat-timp-de-10-ani-mormantul-stapanei-a-schimbat-regulile-pentru-inmormantarea-animalelor-de-companie-in-sao-paulo-3629333",
       "published_utc": "2026-02-14T22:09:57+00:00",
       "score": 3
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "This vegan diet cut insulin use by nearly 30% in type 1 diabetes",
+      "summary": "A low-fat vegan diet—without cutting calories or carbs—may help people with type 1 diabetes significantly reduce how much insulin they need, and how much they spend on it. In a new analysis published in BMC Nutrition, participants following the plant-based plan lowered their daily insulin use by 28%, while those on a portion-controlled diet saw no meaningful change.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260212234212.htm",
+      "published_utc": "2026-02-13T07:30:08+00:00",
+      "score": 1
     },
     {
       "section": "romania",
@@ -175,7 +165,7 @@
     {
       "section": "medical",
       "kind": "global",
-      "source": "ScienceDaily Health",
+      "source": "ScienceDaily Medicine",
       "title": "This simple diet shift cut 330 calories a day without smaller meals",
       "summary": "People who switch to a fully unprocessed diet don’t just eat differently—they eat smarter. Research from the University of Bristol shows that when people avoid ultra-processed foods, they naturally pile their plates with fruits and vegetables, eating over 50% more food by weight while still consuming hundreds fewer calories each day. This happens because whole foods trigger a kind of built-in “nutritional intelligence,” nudging people toward nutrient-rich, lower-calorie options.",
       "link": "https://www.sciencedaily.com/releases/2026/02/260204121547.htm",
@@ -273,16 +263,6 @@
         "summary": "Momentul din zi în care suntem cel mai activi nu ţine doar de preferinţe personale, ci poate avea legătură cu sănătatea pe termen lung. Un nou studiu arată că obiceiul de a sta treaz până&#8230;",
         "link": "https://hotnews.ro/legatura-dintre-obiceiul-de-a-sta-treaz-pana-tarziu-si-sanatatea-inimii-ce-au-descoperit-cercetatorii-2171849",
         "published_utc": "2026-02-15T11:08:49+00:00",
-        "score": 3
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "Padocul groazei de la Suraia. Apel pentru mobilizare al asociațiilor pentru protecția animalelor: „Avem o urgență. Veniți!”",
-        "summary": "Mai multe asociații pentru protecția drepturilor animalelor au lansat un apel public pentru adopții și preluări de urgență, după imaginile teribile din adăpostul privat de câini de la Suraia, județul Vrancea, unde câinii erau maltratați&#8230;",
-        "link": "https://hotnews.ro/padocul-groazei-de-la-suraia-apel-pentru-mobilizare-al-asociatiilor-pentru-protectia-animalelor-avem-o-urgenta-veniti-2171820",
-        "published_utc": "2026-02-15T09:25:00+00:00",
         "score": 3
       },
       {
@@ -400,7 +380,7 @@
       {
         "section": "medical",
         "kind": "global",
-        "source": "ScienceDaily Health",
+        "source": "ScienceDaily Medicine",
         "title": "This simple diet shift cut 330 calories a day without smaller meals",
         "summary": "People who switch to a fully unprocessed diet don’t just eat differently—they eat smarter. Research from the University of Bristol shows that when people avoid ultra-processed foods, they naturally pile their plates with fruits and vegetables, eating over 50% more food by weight while still consuming hundreds fewer calories each day. This happens because whole foods trigger a kind of built-in “nutritional intelligence,” nudging people toward nutrient-rich, lower-calorie options.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260204121547.htm",
@@ -536,29 +516,29 @@
       {
         "category_id": "space",
         "category_label": "🚀 Spațiu",
-        "source": "—",
-        "title": "Nu am găsit poză acum (refresh următor)",
-        "link": "https://vcarciu.github.io/vesti-bune/",
-        "image_url": "https://vcarciu.github.io/vesti-bune/og.jpg",
-        "published_utc": "2026-02-15T14:18:57+00:00"
+        "source": "Flickr (space)",
+        "title": "What Is Going On In Your World?",
+        "link": "https://www.flickr.com/photos/silentoneproductions/55096909811/",
+        "image_url": "https://www.flickr.com/apps/video/stewart.swf?v=2968162862&photo_id=55096909811",
+        "published_utc": "2026-02-15T14:06:32+00:00"
       },
       {
         "category_id": "animals",
         "category_label": "🐾 Animale",
-        "source": "—",
-        "title": "Nu am găsit poză acum (refresh următor)",
-        "link": "https://vcarciu.github.io/vesti-bune/",
-        "image_url": "https://vcarciu.github.io/vesti-bune/og.jpg",
-        "published_utc": "2026-02-15T14:18:57+00:00"
+        "source": "Flickr (animals)",
+        "title": "581A1150: All fish and no chips...",
+        "link": "https://www.flickr.com/photos/198011004@N07/55097012436/",
+        "image_url": "https://live.staticflickr.com/65535/55097012436_9c3863662a_b.jpg",
+        "published_utc": "2026-02-15T15:13:16+00:00"
       },
       {
         "category_id": "landscapes",
         "category_label": "🏞️ Peisaj",
-        "source": "—",
-        "title": "Nu am găsit poză acum (refresh următor)",
-        "link": "https://vcarciu.github.io/vesti-bune/",
-        "image_url": "https://vcarciu.github.io/vesti-bune/og.jpg",
-        "published_utc": "2026-02-15T14:18:58+00:00"
+        "source": "Flickr (landscape)",
+        "title": "el escorial",
+        "link": "https://www.flickr.com/photos/_tonidelong/55097026561/",
+        "image_url": "https://live.staticflickr.com/65535/55097026561_057ac51cdb_b.jpg",
+        "published_utc": "2026-02-15T15:12:05+00:00"
       }
     ],
     "joke": [
@@ -571,9 +551,9 @@
       {
         "date_utc": "2026-02-15",
         "source": "TimesNewRoman",
-        "title": "TNR Premium",
+        "title": "În urma gestului de ieri, FIFA i-a retras lui Trump premiul pentru pace",
         "summary": "Cotidian independent de umor voluntar",
-        "link": "https://www.timesnewroman.ro/product/tnr-premium-subscription/",
+        "link": "https://www.timesnewroman.ro/sport/in-urma-gestului-de-ieri-fifa-i-a-retras-lui-trump-premiul-pentru-pace/",
         "note": "Satiră — nu este știre reală."
       }
     ]
