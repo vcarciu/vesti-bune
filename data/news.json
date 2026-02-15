@@ -1,7 +1,17 @@
 {
-  "generated_utc": "2026-02-15T05:49:25+00:00",
-  "count": 27,
+  "generated_utc": "2026-02-15T06:38:59+00:00",
+  "count": 28,
   "items": [
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "ÎNTREBAREA SĂPTĂMÂNII: Ar trebui obligați medicii formați în România să lucreze în sistemul public înainte să plece în străinătate?",
+      "summary": "„Nu e o idee absurdă, dar trebuie dezbătută serios. Statul investește sume uriașe în formarea unui medic, iar România are un deficit major, mai ales în zonele rurale”, spune Florin Negruțiu. Claudiu Pândaru atrage atenția: „Este o schimbare de contract social. Dacă impui o obligație, ea trebuie explicată dinainte, altfel riști să descurajezi chiar vocația.”",
+      "link": "https://www.digi24.ro/opinii/intrebarea-saptamanii/intrebarea-saptamanii-ar-trebui-obligati-medicii-formati-in-romania-sa-lucreze-in-sistemul-public-inainte-sa-plece-in-strainatate-3631649",
+      "published_utc": "2026-02-15T06:00:41+00:00",
+      "score": 1
+    },
     {
       "section": "romania",
       "kind": "ro",
@@ -11,16 +21,6 @@
       "link": "https://hotnews.ro/interviu-bernard-blistene-despre-stefan-bertalan-rezilientul-artist-roman-creator-de-comunitati-2171723",
       "published_utc": "2026-02-15T04:49:00+00:00",
       "score": 2
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Un câine care a vegheat timp de 10 ani mormântul stăpânei a schimbat regulile pentru înmormântarea animalelor de companie în São Paulo",
-      "summary": "O lege adoptată în statul brazilian São Paulo permite, de acum, înmormântarea animalelor de companie alături de stăpânii lor, fiind inspirată de povestea unui câine care a rămas timp de 10 ani lângă mormântul fostei sale proprietare, relatează The Guardian.",
-      "link": "https://www.digi24.ro/magazin/stil-de-viata/animale/un-caine-care-a-vegheat-timp-de-10-ani-mormantul-stapanei-a-schimbat-regulile-pentru-inmormantarea-animalelor-de-companie-in-sao-paulo-3629333",
-      "published_utc": "2026-02-14T22:09:57+00:00",
-      "score": 3
     },
     {
       "section": "medical",
@@ -36,21 +36,21 @@
       "section": "romania",
       "kind": "ro",
       "source": "Digi24",
+      "title": "Un câine care a vegheat timp de 10 ani mormântul stăpânei a schimbat regulile pentru înmormântarea animalelor de companie în São Paulo",
+      "summary": "O lege adoptată în statul brazilian São Paulo permite, de acum, înmormântarea animalelor de companie alături de stăpânii lor, fiind inspirată de povestea unui câine care a rămas timp de 10 ani lângă mormântul fostei sale proprietare, relatează The Guardian.",
+      "link": "https://www.digi24.ro/magazin/stil-de-viata/animale/un-caine-care-a-vegheat-timp-de-10-ani-mormantul-stapanei-a-schimbat-regulile-pentru-inmormantarea-animalelor-de-companie-in-sao-paulo-3629333",
+      "published_utc": "2026-02-14T22:09:57+00:00",
+      "score": 3
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
       "title": "Viața ascunsă a microorganismelor care „dorm” milioane de ani în adâncul scoarței terestre. Ce le-ar putea trezi din nou la viață",
       "summary": "Adânc în scoarța Pământului se găsește o întreagă lume nedescoperită populată de forme de viață microscopice. Acești așa-numiți „intratereștri” trăiesc în unele dintre cele mai dificile condiții de pe planeta noastră și pot rămâne într-o stare latentă timp de sute de mii sau chiar milioane de ani. Cercetătorii încearcă să descopere ce i-ar putea trezi din nou la viață.",
       "link": "https://www.digi24.ro/stiri/sci-tech/natura-si-mediu/viata-ascunsa-a-microorganismelor-care-dorm-milioane-de-ani-in-adancul-scoartei-terestre-ce-le-ar-putea-trezi-din-nou-la-viata-3630907",
       "published_utc": "2026-02-14T21:50:21+00:00",
       "score": 2
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "HotNews",
-      "title": "Cazul privind suspiciunile de raportări false de emisii la Complexul Energetic Oltenia. Ce spune Ministerul Energiei",
-      "summary": "Complexul Energetic Oltenia (CEO) a raportat niveluri de CO₂ mult sub valorile preconizate, existând semne de întrebare cu privire la plata corectă a certificatelor de emisii (ETS), arată o investigație a jurnaliștilor de la Organized&#8230;",
-      "link": "https://hotnews.ro/cazul-privind-suspiciunile-de-raportari-false-de-emisii-la-complexul-energetic-oltenia-ce-spune-ministerul-energiei-2169100",
-      "published_utc": "2026-02-14T18:42:55+00:00",
-      "score": 1
     },
     {
       "section": "science",
@@ -65,22 +65,22 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "HotNews",
+      "title": "Cazul privind suspiciunile de raportări false de emisii la Complexul Energetic Oltenia. Ce spune Ministerul Energiei",
+      "summary": "Complexul Energetic Oltenia (CEO) a raportat niveluri de CO₂ mult sub valorile preconizate, existând semne de întrebare cu privire la plata corectă a certificatelor de emisii (ETS), arată o investigație a jurnaliștilor de la Organized&#8230;",
+      "link": "https://hotnews.ro/cazul-privind-suspiciunile-de-raportari-false-de-emisii-la-complexul-energetic-oltenia-ce-spune-ministerul-energiei-2169100",
+      "published_utc": "2026-02-14T18:42:55+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "Digi24",
       "title": "Anul 2025 a fost unul record pentru turismul bulgar. Un milion de turiști au venit din România, cel mai mare înregistrat vreodată",
       "summary": "Bulgaria a înregistrat anul trecut un număr record de turişti din România, conform celor mai recente date ale Institutului Naţional de Statistică, informează Novinite.",
       "link": "https://www.digi24.ro/magazin/timp-liber/vacante/anul-2025-a-fost-unul-record-pentru-turismul-bulgar-un-milion-de-turisti-au-venit-din-romania-cel-mai-mare-inregistrat-vreodata-3631533",
       "published_utc": "2026-02-14T18:32:58+00:00",
       "score": 3
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Secretul unui joc de strategie din Roma Antică a fost descifrat de AI, după ani în care arheologii nu au reușit",
-      "summary": "Linii geometrice sculptate pe o piatră albă și rotundă ce datează din epoca Romei Antice, care i-au nedumerit timp de ani de zile pe arheologii olandezi, s-au dovedit a fi urmele unui joc de strategie dispărut. Cercetătorii au reușit să îi reconstituie regulile după ce o inteligență artificială specializată a analizat modelul și l-a comparat cu zeci de jocuri străvechi din aceeași regiune.",
-      "link": "https://www.digi24.ro/stiri/sci-tech/descoperiri/secretul-unui-joc-de-strategie-din-roma-antica-a-fost-descifrat-de-ai-dupa-ani-in-care-arheologii-nu-au-reusit-3627695",
-      "published_utc": "2026-02-14T15:08:39+00:00",
-      "score": 1
     },
     {
       "section": "science",
@@ -90,6 +90,16 @@
       "summary": "NASA and Vast have signed an order for the sixth private astronaut mission to the International Space Station, targeted to launch no earlier than summer 2027 from Florida. This private astronaut mission marks the company&#8217;s first selection to the orbiting laboratory, underscoring NASA’s ongoing investment in fostering a commercial space economy and expanding opportunities for [&#8230;]",
       "link": "https://www.nasa.gov/news-release/nasa-selects-vast-for-sixth-private-mission-to-space-station/",
       "published_utc": "2026-02-12T21:11:19+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Secretul unui joc de strategie din Roma Antică a fost descifrat de AI, după ani în care arheologii nu au reușit",
+      "summary": "Linii geometrice sculptate pe o piatră albă și rotundă ce datează din epoca Romei Antice, care i-au nedumerit timp de ani de zile pe arheologii olandezi, s-au dovedit a fi urmele unui joc de strategie dispărut. Cercetătorii au reușit să îi reconstituie regulile după ce o inteligență artificială specializată a analizat modelul și l-a comparat cu zeci de jocuri străvechi din aceeași regiune.",
+      "link": "https://www.digi24.ro/stiri/sci-tech/descoperiri/secretul-unui-joc-de-strategie-din-roma-antica-a-fost-descifrat-de-ai-dupa-ani-in-care-arheologii-nu-au-reusit-3627695",
+      "published_utc": "2026-02-14T15:08:39+00:00",
       "score": 1
     },
     {
@@ -275,6 +285,16 @@
   ],
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "ÎNTREBAREA SĂPTĂMÂNII: Ar trebui obligați medicii formați în România să lucreze în sistemul public înainte să plece în străinătate?",
+        "summary": "„Nu e o idee absurdă, dar trebuie dezbătută serios. Statul investește sume uriașe în formarea unui medic, iar România are un deficit major, mai ales în zonele rurale”, spune Florin Negruțiu. Claudiu Pândaru atrage atenția: „Este o schimbare de contract social. Dacă impui o obligație, ea trebuie explicată dinainte, altfel riști să descurajezi chiar vocația.”",
+        "link": "https://www.digi24.ro/opinii/intrebarea-saptamanii/intrebarea-saptamanii-ar-trebui-obligati-medicii-formati-in-romania-sa-lucreze-in-sistemul-public-inainte-sa-plece-in-strainatate-3631649",
+        "published_utc": "2026-02-15T06:00:41+00:00",
+        "score": 1
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -560,7 +580,7 @@
         "title": "Nu am găsit poză acum (refresh următor)",
         "link": "https://vcarciu.github.io/vesti-bune/",
         "image_url": "https://vcarciu.github.io/vesti-bune/og.jpg",
-        "published_utc": "2026-02-15T05:49:04+00:00"
+        "published_utc": "2026-02-15T06:38:40+00:00"
       },
       {
         "category_id": "animals",
@@ -569,7 +589,7 @@
         "title": "Nu am găsit poză acum (refresh următor)",
         "link": "https://vcarciu.github.io/vesti-bune/",
         "image_url": "https://vcarciu.github.io/vesti-bune/og.jpg",
-        "published_utc": "2026-02-15T05:49:05+00:00"
+        "published_utc": "2026-02-15T06:38:40+00:00"
       },
       {
         "category_id": "landscapes",
@@ -578,7 +598,7 @@
         "title": "Nu am găsit poză acum (refresh următor)",
         "link": "https://vcarciu.github.io/vesti-bune/",
         "image_url": "https://vcarciu.github.io/vesti-bune/og.jpg",
-        "published_utc": "2026-02-15T05:49:05+00:00"
+        "published_utc": "2026-02-15T06:38:40+00:00"
       }
     ],
     "joke": [
@@ -591,9 +611,9 @@
       {
         "date_utc": "2026-02-15",
         "source": "TimesNewRoman",
-        "title": "Greșeală sau premeditare? Deputații au votat un proiect de lege privind amanta obligatorie",
+        "title": "Mario Iorgulescu și-a schimbat oficial numele în Nu Voi Face Nicio Zi de Închisoare Iorgulescu",
         "summary": "Cotidian independent de umor voluntar",
-        "link": "https://www.timesnewroman.ro/politic/greseala-sau-premeditare-deputatii-au-votat-un-proiect-de-lege-privind-amanta-obligatorie/",
+        "link": "https://www.timesnewroman.ro/monden/mario-iorgulescu-si-a-schimbat-oficial-numele-in-nu-voi-face-nicio-zi-de-inchisoare-iorgulescu/",
         "note": "Satiră — nu este știre reală."
       }
     ]
