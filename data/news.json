@@ -1,7 +1,17 @@
 {
-  "generated_utc": "2026-02-15T04:12:13+00:00",
+  "generated_utc": "2026-02-15T05:49:25+00:00",
   "count": 27,
   "items": [
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "INTERVIU – Bernard Blistène, despre Ștefan Bertalan, rezilientul artist român creator de comunități",
+      "summary": "Bernard Blistène, curator și director onorific al Muzeului Național de Artă Modernă – Centrul Pompidou Paris, vorbește într-un interviu acordat curatorial despre Ștefan Bertalan, artistul român pe care l-a descoperit cel mai recent, și despre&#8230;",
+      "link": "https://hotnews.ro/interviu-bernard-blistene-despre-stefan-bertalan-rezilientul-artist-roman-creator-de-comunitati-2171723",
+      "published_utc": "2026-02-15T04:49:00+00:00",
+      "score": 2
+    },
     {
       "section": "romania",
       "kind": "ro",
@@ -11,16 +21,6 @@
       "link": "https://www.digi24.ro/magazin/stil-de-viata/animale/un-caine-care-a-vegheat-timp-de-10-ani-mormantul-stapanei-a-schimbat-regulile-pentru-inmormantarea-animalelor-de-companie-in-sao-paulo-3629333",
       "published_utc": "2026-02-14T22:09:57+00:00",
       "score": 3
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Viața ascunsă a microorganismelor care „dorm” milioane de ani în adâncul scoarței terestre. Ce le-ar putea trezi din nou la viață",
-      "summary": "Adânc în scoarța Pământului se găsește o întreagă lume nedescoperită populată de forme de viață microscopice. Acești așa-numiți „intratereștri” trăiesc în unele dintre cele mai dificile condiții de pe planeta noastră și pot rămâne într-o stare latentă timp de sute de mii sau chiar milioane de ani. Cercetătorii încearcă să descopere ce i-ar putea trezi din nou la viață.",
-      "link": "https://www.digi24.ro/stiri/sci-tech/natura-si-mediu/viata-ascunsa-a-microorganismelor-care-dorm-milioane-de-ani-in-adancul-scoartei-terestre-ce-le-ar-putea-trezi-din-nou-la-viata-3630907",
-      "published_utc": "2026-02-14T21:50:21+00:00",
-      "score": 2
     },
     {
       "section": "medical",
@@ -35,22 +35,22 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "Digi24",
+      "title": "Viața ascunsă a microorganismelor care „dorm” milioane de ani în adâncul scoarței terestre. Ce le-ar putea trezi din nou la viață",
+      "summary": "Adânc în scoarța Pământului se găsește o întreagă lume nedescoperită populată de forme de viață microscopice. Acești așa-numiți „intratereștri” trăiesc în unele dintre cele mai dificile condiții de pe planeta noastră și pot rămâne într-o stare latentă timp de sute de mii sau chiar milioane de ani. Cercetătorii încearcă să descopere ce i-ar putea trezi din nou la viață.",
+      "link": "https://www.digi24.ro/stiri/sci-tech/natura-si-mediu/viata-ascunsa-a-microorganismelor-care-dorm-milioane-de-ani-in-adancul-scoartei-terestre-ce-le-ar-putea-trezi-din-nou-la-viata-3630907",
+      "published_utc": "2026-02-14T21:50:21+00:00",
+      "score": 2
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "HotNews",
       "title": "Cazul privind suspiciunile de raportări false de emisii la Complexul Energetic Oltenia. Ce spune Ministerul Energiei",
       "summary": "Complexul Energetic Oltenia (CEO) a raportat niveluri de CO₂ mult sub valorile preconizate, existând semne de întrebare cu privire la plata corectă a certificatelor de emisii (ETS), arată o investigație a jurnaliștilor de la Organized&#8230;",
       "link": "https://hotnews.ro/cazul-privind-suspiciunile-de-raportari-false-de-emisii-la-complexul-energetic-oltenia-ce-spune-ministerul-energiei-2169100",
       "published_utc": "2026-02-14T18:42:55+00:00",
       "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Anul 2025 a fost unul record pentru turismul bulgar. Un milion de turiști au venit din România, cel mai mare înregistrat vreodată",
-      "summary": "Bulgaria a înregistrat anul trecut un număr record de turişti din România, conform celor mai recente date ale Institutului Naţional de Statistică, informează Novinite.",
-      "link": "https://www.digi24.ro/magazin/timp-liber/vacante/anul-2025-a-fost-unul-record-pentru-turismul-bulgar-un-milion-de-turisti-au-venit-din-romania-cel-mai-mare-inregistrat-vreodata-3631533",
-      "published_utc": "2026-02-14T18:32:58+00:00",
-      "score": 3
     },
     {
       "section": "science",
@@ -66,20 +66,20 @@
       "section": "romania",
       "kind": "ro",
       "source": "Digi24",
-      "title": "Secretul unui joc de strategie din Roma Antică a fost descifrat de AI, după ani în care arheologii nu au reușit",
-      "summary": "Linii geometrice sculptate pe o piatră albă și rotundă ce datează din epoca Romei Antice, care i-au nedumerit timp de ani de zile pe arheologii olandezi, s-au dovedit a fi urmele unui joc de strategie dispărut. Cercetătorii au reușit să îi reconstituie regulile după ce o inteligență artificială specializată a analizat modelul și l-a comparat cu zeci de jocuri străvechi din aceeași regiune.",
-      "link": "https://www.digi24.ro/stiri/sci-tech/descoperiri/secretul-unui-joc-de-strategie-din-roma-antica-a-fost-descifrat-de-ai-dupa-ani-in-care-arheologii-nu-au-reusit-3627695",
-      "published_utc": "2026-02-14T15:08:39+00:00",
-      "score": 1
+      "title": "Anul 2025 a fost unul record pentru turismul bulgar. Un milion de turiști au venit din România, cel mai mare înregistrat vreodată",
+      "summary": "Bulgaria a înregistrat anul trecut un număr record de turişti din România, conform celor mai recente date ale Institutului Naţional de Statistică, informează Novinite.",
+      "link": "https://www.digi24.ro/magazin/timp-liber/vacante/anul-2025-a-fost-unul-record-pentru-turismul-bulgar-un-milion-de-turisti-au-venit-din-romania-cel-mai-mare-inregistrat-vreodata-3631533",
+      "published_utc": "2026-02-14T18:32:58+00:00",
+      "score": 3
     },
     {
       "section": "romania",
       "kind": "ro",
       "source": "Digi24",
-      "title": "Plan ambițios pentru traficul din Capitală. Primăria vrea semafoare cu Inteligență Artificială",
-      "summary": "Primăria Capitalei vrea să rezolve ambuteiajele cu inteligență artificială. În acest sens, anunță un proiect ambițios, de peste 50 de milioane de euro, împărțit în patru etape: semaforizare inteligență în peste 500 de intersecții din București. Acestea vor fi dotate cu senzori magnetometrici în asfalt, dar și pe stâlpi, camere video dotate cu funcții moderne și programe de inteligență artificială, automate de dirijare a circulației, iar pentru pietoni, butoane și dispozitive acustice și multe alte soluții tehnice inovative",
-      "link": "https://www.digi24.ro/stiri/actualitate/social/plan-ambitios-pentru-traficul-din-capitala-primaria-vrea-semafoare-cu-inteligenta-artificiala-3631621",
-      "published_utc": "2026-02-14T14:49:44+00:00",
+      "title": "Secretul unui joc de strategie din Roma Antică a fost descifrat de AI, după ani în care arheologii nu au reușit",
+      "summary": "Linii geometrice sculptate pe o piatră albă și rotundă ce datează din epoca Romei Antice, care i-au nedumerit timp de ani de zile pe arheologii olandezi, s-au dovedit a fi urmele unui joc de strategie dispărut. Cercetătorii au reușit să îi reconstituie regulile după ce o inteligență artificială specializată a analizat modelul și l-a comparat cu zeci de jocuri străvechi din aceeași regiune.",
+      "link": "https://www.digi24.ro/stiri/sci-tech/descoperiri/secretul-unui-joc-de-strategie-din-roma-antica-a-fost-descifrat-de-ai-dupa-ani-in-care-arheologii-nu-au-reusit-3627695",
+      "published_utc": "2026-02-14T15:08:39+00:00",
       "score": 1
     },
     {
@@ -96,10 +96,10 @@
       "section": "romania",
       "kind": "ro",
       "source": "Digi24",
-      "title": "Un polițist din Arad a fost prins la furat în Austria. A fost dat de gol chiar de soția lui",
-      "summary": "Un polițist din Arad este cercetat disciplinar, după ce a furat mai multe perechi de pantofi dintr-un centru comercial din Austria. Complice i-a fost chiar soția, care l-a și dat de gol în fața autorităților. Cei doi au furat din 20 de magazine, iar prejudiciul este de aproximativ 3.000 de euro.",
-      "link": "https://www.digi24.ro/stiri/un-politist-din-arad-a-fost-prins-la-furat-in-austria-a-fost-dat-de-gol-chiar-de-sotia-lui-3631299",
-      "published_utc": "2026-02-14T07:35:19+00:00",
+      "title": "Plan ambițios pentru traficul din Capitală. Primăria vrea semafoare cu Inteligență Artificială",
+      "summary": "Primăria Capitalei vrea să rezolve ambuteiajele cu inteligență artificială. În acest sens, anunță un proiect ambițios, de peste 50 de milioane de euro, împărțit în patru etape: semaforizare inteligență în peste 500 de intersecții din București. Acestea vor fi dotate cu senzori magnetometrici în asfalt, dar și pe stâlpi, camere video dotate cu funcții moderne și programe de inteligență artificială, automate de dirijare a circulației, iar pentru pietoni, butoane și dispozitive acustice și multe alte soluții tehnice inovative",
+      "link": "https://www.digi24.ro/stiri/actualitate/social/plan-ambitios-pentru-traficul-din-capitala-primaria-vrea-semafoare-cu-inteligenta-artificiala-3631621",
+      "published_utc": "2026-02-14T14:49:44+00:00",
       "score": 1
     },
     {
@@ -278,6 +278,16 @@
       {
         "section": "romania",
         "kind": "ro",
+        "source": "HotNews",
+        "title": "INTERVIU – Bernard Blistène, despre Ștefan Bertalan, rezilientul artist român creator de comunități",
+        "summary": "Bernard Blistène, curator și director onorific al Muzeului Național de Artă Modernă – Centrul Pompidou Paris, vorbește într-un interviu acordat curatorial despre Ștefan Bertalan, artistul român pe care l-a descoperit cel mai recent, și despre&#8230;",
+        "link": "https://hotnews.ro/interviu-bernard-blistene-despre-stefan-bertalan-rezilientul-artist-roman-creator-de-comunitati-2171723",
+        "published_utc": "2026-02-15T04:49:00+00:00",
+        "score": 2
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
         "source": "Digi24",
         "title": "Un câine care a vegheat timp de 10 ani mormântul stăpânei a schimbat regulile pentru înmormântarea animalelor de companie în São Paulo",
         "summary": "O lege adoptată în statul brazilian São Paulo permite, de acum, înmormântarea animalelor de companie alături de stăpânii lor, fiind inspirată de povestea unui câine care a rămas timp de 10 ani lângă mormântul fostei sale proprietare, relatează The Guardian.",
@@ -333,16 +343,6 @@
         "summary": "Primăria Capitalei vrea să rezolve ambuteiajele cu inteligență artificială. În acest sens, anunță un proiect ambițios, de peste 50 de milioane de euro, împărțit în patru etape: semaforizare inteligență în peste 500 de intersecții din București. Acestea vor fi dotate cu senzori magnetometrici în asfalt, dar și pe stâlpi, camere video dotate cu funcții moderne și programe de inteligență artificială, automate de dirijare a circulației, iar pentru pietoni, butoane și dispozitive acustice și multe alte soluții tehnice inovative",
         "link": "https://www.digi24.ro/stiri/actualitate/social/plan-ambitios-pentru-traficul-din-capitala-primaria-vrea-semafoare-cu-inteligenta-artificiala-3631621",
         "published_utc": "2026-02-14T14:49:44+00:00",
-        "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Un polițist din Arad a fost prins la furat în Austria. A fost dat de gol chiar de soția lui",
-        "summary": "Un polițist din Arad este cercetat disciplinar, după ce a furat mai multe perechi de pantofi dintr-un centru comercial din Austria. Complice i-a fost chiar soția, care l-a și dat de gol în fața autorităților. Cei doi au furat din 20 de magazine, iar prejudiciul este de aproximativ 3.000 de euro.",
-        "link": "https://www.digi24.ro/stiri/un-politist-din-arad-a-fost-prins-la-furat-in-austria-a-fost-dat-de-gol-chiar-de-sotia-lui-3631299",
-        "published_utc": "2026-02-14T07:35:19+00:00",
         "score": 1
       }
     ],
@@ -556,29 +556,29 @@
       {
         "category_id": "space",
         "category_label": "🚀 Spațiu",
-        "source": "Flickr (space)",
-        "title": "Ariel",
-        "link": "https://www.flickr.com/photos/austinspace/55095851246/",
-        "image_url": "https://live.staticflickr.com/65535/55095851246_0ff2a99d5b_b.jpg",
-        "published_utc": "2026-02-14T22:22:16+00:00"
+        "source": "—",
+        "title": "Nu am găsit poză acum (refresh următor)",
+        "link": "https://vcarciu.github.io/vesti-bune/",
+        "image_url": "https://vcarciu.github.io/vesti-bune/og.jpg",
+        "published_utc": "2026-02-15T05:49:04+00:00"
       },
       {
         "category_id": "animals",
         "category_label": "🐾 Animale",
-        "source": "Flickr (animals)",
-        "title": "They will get bigger",
-        "link": "https://www.flickr.com/photos/142593762@N04/55096538404/",
-        "image_url": "https://live.staticflickr.com/65535/55096538404_9ba907d595_b.jpg",
-        "published_utc": "2026-02-15T03:46:47+00:00"
+        "source": "—",
+        "title": "Nu am găsit poză acum (refresh următor)",
+        "link": "https://vcarciu.github.io/vesti-bune/",
+        "image_url": "https://vcarciu.github.io/vesti-bune/og.jpg",
+        "published_utc": "2026-02-15T05:49:05+00:00"
       },
       {
         "category_id": "landscapes",
         "category_label": "🏞️ Peisaj",
-        "source": "Flickr (landscape)",
-        "title": "_Z0A1286.jpg",
-        "link": "https://www.flickr.com/photos/142706949@N05/55096662695/",
-        "image_url": "https://live.staticflickr.com/65535/55096662695_28665256f6_b.jpg",
-        "published_utc": "2026-02-15T04:03:04+00:00"
+        "source": "—",
+        "title": "Nu am găsit poză acum (refresh următor)",
+        "link": "https://vcarciu.github.io/vesti-bune/",
+        "image_url": "https://vcarciu.github.io/vesti-bune/og.jpg",
+        "published_utc": "2026-02-15T05:49:05+00:00"
       }
     ],
     "joke": [
@@ -591,9 +591,9 @@
       {
         "date_utc": "2026-02-15",
         "source": "TimesNewRoman",
-        "title": "Poliţiştii călare nu mai au voie şaorma după ce mai mulţi cai s-au plâns de greutatea excesivă",
+        "title": "Greșeală sau premeditare? Deputații au votat un proiect de lege privind amanta obligatorie",
         "summary": "Cotidian independent de umor voluntar",
-        "link": "https://www.timesnewroman.ro/life-death/politistii-calare-nu-mai-au-voie-saorma-dupa-ce-mai-multi-cai-s-au-plans-de-greutatea-excesiva/",
+        "link": "https://www.timesnewroman.ro/politic/greseala-sau-premeditare-deputatii-au-votat-un-proiect-de-lege-privind-amanta-obligatorie/",
         "note": "Satiră — nu este știre reală."
       }
     ]
