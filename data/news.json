@@ -1,6 +1,6 @@
 {
-  "generated_utc": "2026-02-16T08:35:32+00:00",
-  "count": 27,
+  "generated_utc": "2026-02-16T09:42:11+00:00",
+  "count": 24,
   "items": [
     {
       "section": "romania",
@@ -73,16 +73,6 @@
       "score": 3
     },
     {
-      "section": "romania",
-      "kind": "ro",
-      "source": "HotNews",
-      "title": "„România, fără bani europeni, n-ar fi avut nici jumate din autostrăzi”. Exemplul oferit de o țară de patru ori mai mică",
-      "summary": "Fondurile europene „au fost cruciale” pentru construirea autostrăzilor în România și boomul de inaugurări din ultimii ani, spune Ionuț Ciurea, directorul executiv al organizației civice Asociația Pro Infrastructura. În schimb, o altă țară ex-comunistă din&#8230;",
-      "link": "https://hotnews.ro/romania-fara-bani-europeni-n-ar-fi-avut-nici-jumate-din-autostrazi-2170645",
-      "published_utc": "2026-02-16T05:00:16+00:00",
-      "score": 3
-    },
-    {
       "section": "medical",
       "kind": "global",
       "source": "ScienceDaily Health",
@@ -91,26 +81,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/02/260212234212.htm",
       "published_utc": "2026-02-13T07:30:08+00:00",
       "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Record de medalii de aur la Jocurile Olimpice de iarnă: „Regele Klaebo” a devenit cel mai titrat sportiv din toate timpurile",
-      "summary": "Norvegianul Johannes Klaebo şi-a consolidat palmaresul duminică, el câştigând a noua medalie de aur olimpică la schi fond şi devenind cel mai titrat sportiv la JO de iarnă din toate timpurile, relatează Reuters.",
-      "link": "https://www.digi24.ro/stiri/sport/alte-sporturi/record-de-medalii-de-aur-la-jocurile-olimpice-de-iarna-regele-klaebo-a-devenit-cel-mai-titrat-sportiv-din-toate-timpurile-3632355",
-      "published_utc": "2026-02-15T17:25:17+00:00",
-      "score": 6
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "La Munchen, politicienii americani democraţi au încercat să liniştească Europa: „Noi suntem aici. Trump va pleca în trei ani”",
-      "summary": "Secretarul de stat american Marco Rubio a fost în centrul atenţiei la Summitul de securitate de la München, în timp ce liderii europeni se întrebau cu îngrijorare ce ton va adopta în discursul său de sâmbătă. Deşi discursul său nu le-a liniştit pe deplin îngrijorările, acesta a fost considerat o asigurare pentru aliaţi că, în ciuda faptului că relaţiile cu SUA s-au deteriorat sub Donald Trump, ele nu se vor rupe. Cu toate acestea, Rubio nu a fost singura voce politică americană la summitul de securitate, scrie BBC.",
-      "link": "https://www.digi24.ro/stiri/externe/ue/la-munchen-politicienii-americani-democrati-au-incercat-sa-linisteasca-europa-noi-suntem-aici-trump-va-pleca-in-trei-ani-3632329",
-      "published_utc": "2026-02-15T16:52:28+00:00",
-      "score": 2
     },
     {
       "section": "science",
@@ -165,7 +135,7 @@
     {
       "section": "medical",
       "kind": "global",
-      "source": "ScienceDaily Health",
+      "source": "ScienceDaily Medicine",
       "title": "A hidden Aloe vera compound takes aim at Alzheimer’s",
       "summary": "Scientists have uncovered promising clues that compounds found in Aloe vera could play a role in fighting Alzheimer’s disease. Using advanced computer modeling, researchers discovered that beta-sitosterol—a natural plant compound—strongly interacts with two key enzymes involved in memory loss and cognitive decline. The compound showed stability, strong binding, and favorable safety indicators, making it a standout candidate for future drug development.",
       "link": "https://www.sciencedaily.com/releases/2026/02/260206012213.htm",
@@ -324,36 +294,6 @@
         "link": "https://www.digi24.ro/magazin/stil-de-viata/animale/indiferent-unde-mergeai-era-plin-orasul-care-a-castigat-lupta-cu-ursii-cum-au-fost-descurajate-animalele-sa-se-mai-apropie-de-case-3632319",
         "published_utc": "2026-02-16T05:00:31+00:00",
         "score": 3
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "„România, fără bani europeni, n-ar fi avut nici jumate din autostrăzi”. Exemplul oferit de o țară de patru ori mai mică",
-        "summary": "Fondurile europene „au fost cruciale” pentru construirea autostrăzilor în România și boomul de inaugurări din ultimii ani, spune Ionuț Ciurea, directorul executiv al organizației civice Asociația Pro Infrastructura. În schimb, o altă țară ex-comunistă din&#8230;",
-        "link": "https://hotnews.ro/romania-fara-bani-europeni-n-ar-fi-avut-nici-jumate-din-autostrazi-2170645",
-        "published_utc": "2026-02-16T05:00:16+00:00",
-        "score": 3
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Record de medalii de aur la Jocurile Olimpice de iarnă: „Regele Klaebo” a devenit cel mai titrat sportiv din toate timpurile",
-        "summary": "Norvegianul Johannes Klaebo şi-a consolidat palmaresul duminică, el câştigând a noua medalie de aur olimpică la schi fond şi devenind cel mai titrat sportiv la JO de iarnă din toate timpurile, relatează Reuters.",
-        "link": "https://www.digi24.ro/stiri/sport/alte-sporturi/record-de-medalii-de-aur-la-jocurile-olimpice-de-iarna-regele-klaebo-a-devenit-cel-mai-titrat-sportiv-din-toate-timpurile-3632355",
-        "published_utc": "2026-02-15T17:25:17+00:00",
-        "score": 6
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "La Munchen, politicienii americani democraţi au încercat să liniştească Europa: „Noi suntem aici. Trump va pleca în trei ani”",
-        "summary": "Secretarul de stat american Marco Rubio a fost în centrul atenţiei la Summitul de securitate de la München, în timp ce liderii europeni se întrebau cu îngrijorare ce ton va adopta în discursul său de sâmbătă. Deşi discursul său nu le-a liniştit pe deplin îngrijorările, acesta a fost considerat o asigurare pentru aliaţi că, în ciuda faptului că relaţiile cu SUA s-au deteriorat sub Donald Trump, ele nu se vor rupe. Cu toate acestea, Rubio nu a fost singura voce politică americană la summitul de securitate, scrie BBC.",
-        "link": "https://www.digi24.ro/stiri/externe/ue/la-munchen-politicienii-americani-democrati-au-incercat-sa-linisteasca-europa-noi-suntem-aici-trump-va-pleca-in-trei-ani-3632329",
-        "published_utc": "2026-02-15T16:52:28+00:00",
-        "score": 2
       }
     ],
     "medical": [
@@ -400,7 +340,7 @@
       {
         "section": "medical",
         "kind": "global",
-        "source": "ScienceDaily Health",
+        "source": "ScienceDaily Medicine",
         "title": "A hidden Aloe vera compound takes aim at Alzheimer’s",
         "summary": "Scientists have uncovered promising clues that compounds found in Aloe vera could play a role in fighting Alzheimer’s disease. Using advanced computer modeling, researchers discovered that beta-sitosterol—a natural plant compound—strongly interacts with two key enzymes involved in memory loss and cognitive decline. The compound showed stability, strong binding, and favorable safety indicators, making it a standout candidate for future drug development.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260206012213.htm",
@@ -557,28 +497,28 @@
         "category_id": "space",
         "category_label": "🚀 Spațiu",
         "source": "Flickr (space)",
-        "title": "Anecdote  Logo",
-        "link": "https://www.flickr.com/photos/204016974@N02/55098842315/",
-        "image_url": "https://live.staticflickr.com/65535/55098842315_6bfdcc03de_b.jpg",
-        "published_utc": "2026-02-16T08:21:00+00:00"
+        "title": "NASA - Kennedy Space Center Visitor Complex",
+        "link": "https://www.flickr.com/photos/myfrozenlife/55098764379/",
+        "image_url": "https://live.staticflickr.com/65535/55098764379_4d0f8de4cc_b.jpg",
+        "published_utc": "2026-02-16T08:38:27+00:00"
       },
       {
         "category_id": "animals",
         "category_label": "🐾 Animale",
         "source": "Flickr (animals)",
-        "title": "DSCF4346aa Marsh Harrier v. Common Buzzard, Woodwalton Fen, April 2025",
-        "link": "https://www.flickr.com/photos/bobchappell/55098449681/",
-        "image_url": "https://live.staticflickr.com/65535/55098449681_474aa03087_b.jpg",
-        "published_utc": "2026-02-16T08:02:40+00:00"
+        "title": "Paper Wasp",
+        "link": "https://www.flickr.com/photos/lindamartinphotos/55097688142/",
+        "image_url": "https://live.staticflickr.com/65535/55097688142_51fa49193f_b.jpg",
+        "published_utc": "2026-02-16T09:41:28+00:00"
       },
       {
         "category_id": "landscapes",
         "category_label": "🏞️ Peisaj",
         "source": "Flickr (landscape)",
-        "title": "Unterseen / Neuhaus / Thunersee",
-        "link": "https://www.flickr.com/photos/183172956@N07/55097604512/",
-        "image_url": "https://live.staticflickr.com/65535/55097604512_07f2469dc1_b.jpg",
-        "published_utc": "2026-02-16T08:25:06+00:00"
+        "title": "20260214_142857-2",
+        "link": "https://www.flickr.com/photos/chabanas/55098834289/",
+        "image_url": "https://live.staticflickr.com/65535/55098834289_ecefd7f7ec_b.jpg",
+        "published_utc": "2026-02-16T09:41:22+00:00"
       }
     ],
     "joke": [
@@ -591,9 +531,9 @@
       {
         "date_utc": "2026-02-16",
         "source": "TimesNewRoman",
-        "title": "Ca să nu mai aibă probleme cu avionul, Nicușor va pleca în SUA cu bicicleta",
+        "title": "Judecătorii CCR vor fi criogenaţi până la următoarea şedinţă pe legea pensiilor, în anul 3092",
         "summary": "Cotidian independent de umor voluntar",
-        "link": "https://www.timesnewroman.ro/politic/ca-sa-nu-mai-aiba-probleme-cu-avionul-nicusor-va-pleca-in-sua-cu-bicicleta/",
+        "link": "https://www.timesnewroman.ro/politic/judecatorii-ccr-vor-fi-criogenati-pana-la-urmatoarea-sedinta-pe-legea-pensiilor-in-anul-3092/",
         "note": "Satiră — nu este știre reală."
       }
     ]
