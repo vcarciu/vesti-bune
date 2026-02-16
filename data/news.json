@@ -1,7 +1,37 @@
 {
-  "generated_utc": "2026-02-16T14:00:07+00:00",
+  "generated_utc": "2026-02-16T14:41:19+00:00",
   "count": 27,
   "items": [
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "Comisia Europeană trimite un comisar la reuniunea inaugurală a Consiliului pentru Pace lansat de Donald Trump. Bruxellesul participă ca observator",
+      "summary": "Un comisar european va participa în această săptămână la reuniunea inaugurală a Consiliului pentru pace, inițiativă lansată de președintele american Donald Trump, fără ca Uniunea Europeană să adere pentru moment la noua structură, a anunțat&#8230;",
+      "link": "https://hotnews.ro/comisia-europeana-trimite-un-comisar-la-reuniunea-inaugurala-a-consiliului-pentru-pace-lansat-de-donald-trump-bruxellesul-participa-ca-observator-2172452",
+      "published_utc": "2026-02-16T14:24:36+00:00",
+      "score": 2
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Liderii Coaliției sunt în ședință de ore bune, după blocajul privind reforma administrației. Cine ar putea scăpa de tăieri (surse)",
+      "summary": "Liderii Coaliției de guvernare au intrat în ședință în această după-amiază pentru a tranșa negocierile privind tăierile din administrație, dar și măsurile de relansare economică. PSD a anunțat public că se opune „austerității simpliste” și tăierilor de salarii și sporuri, blocând reforma administrației prin miniștrii săi, de la Agricultură și Sănătate, care au transmis că nu avizează proiectul Executivului. Între timp, Ilie Bolojan și-ar dori să adopte cele două pachete pănâ la finalul săptămânii.",
+      "link": "https://www.digi24.ro/stiri/actualitate/politica/coalitia-intra-in-sedinta-dupa-scandalul-privind-recesiunea-tehnica-guvernul-asteptat-sa-adopte-taierile-din-administratie-3632807",
+      "published_utc": "2026-02-16T14:07:46+00:00",
+      "score": 1
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "Large study finds no link between mRNA COVID vaccine in pregnancy and autism",
+      "summary": "Researchers tracked more than 400 toddlers to see whether mRNA COVID-19 vaccination during or just before pregnancy was linked to autism or developmental delays. After detailed assessments of speech, motor skills, behavior, and social development, they found no meaningful differences between vaccinated and unvaccinated groups. Experts say the results provide strong reassurance about vaccine safety in pregnancy.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260215085001.htm",
+      "published_utc": "2026-02-15T14:51:05+00:00",
+      "score": 3
+    },
     {
       "section": "romania",
       "kind": "ro",
@@ -26,11 +56,11 @@
       "section": "medical",
       "kind": "global",
       "source": "ScienceDaily Health",
-      "title": "Large study finds no link between mRNA COVID vaccine in pregnancy and autism",
-      "summary": "Researchers tracked more than 400 toddlers to see whether mRNA COVID-19 vaccination during or just before pregnancy was linked to autism or developmental delays. After detailed assessments of speech, motor skills, behavior, and social development, they found no meaningful differences between vaccinated and unvaccinated groups. Experts say the results provide strong reassurance about vaccine safety in pregnancy.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260215085001.htm",
-      "published_utc": "2026-02-15T14:51:05+00:00",
-      "score": 3
+      "title": "Scientists found a way to plant ideas in dreams to boost creativity",
+      "summary": "Sleeping on a problem might be more powerful than we ever imagined. Neuroscientists at Northwestern University have shown that dreams can actually be nudged in specific directions — and those dream tweaks may boost creativity. By playing subtle sound cues during REM sleep, researchers prompted people to dream about unsolved brain teasers they had struggled with earlier. An astonishing 75% of participants dreamed about the cued puzzles, and those puzzles were solved far more often the next day.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260213223926.htm",
+      "published_utc": "2026-02-15T06:47:47+00:00",
+      "score": 1
     },
     {
       "section": "romania",
@@ -56,10 +86,10 @@
       "section": "medical",
       "kind": "global",
       "source": "ScienceDaily Health",
-      "title": "Scientists found a way to plant ideas in dreams to boost creativity",
-      "summary": "Sleeping on a problem might be more powerful than we ever imagined. Neuroscientists at Northwestern University have shown that dreams can actually be nudged in specific directions — and those dream tweaks may boost creativity. By playing subtle sound cues during REM sleep, researchers prompted people to dream about unsolved brain teasers they had struggled with earlier. An astonishing 75% of participants dreamed about the cued puzzles, and those puzzles were solved far more often the next day.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260213223926.htm",
-      "published_utc": "2026-02-15T06:47:47+00:00",
+      "title": "This vegan diet cut insulin use by nearly 30% in type 1 diabetes",
+      "summary": "A low-fat vegan diet—without cutting calories or carbs—may help people with type 1 diabetes significantly reduce how much insulin they need, and how much they spend on it. In a new analysis published in BMC Nutrition, participants following the plant-based plan lowered their daily insulin use by 28%, while those on a portion-controlled diet saw no meaningful change.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260212234212.htm",
+      "published_utc": "2026-02-13T07:30:08+00:00",
       "score": 1
     },
     {
@@ -76,40 +106,10 @@
       "section": "romania",
       "kind": "ro",
       "source": "Digi24",
-      "title": "Coaliția intră în ședință, după blocajul privind reforma administrației. Ce condiții pune PSD, după ce s-a opus tăierilor (surse)",
-      "summary": "Liderii Coaliției de guvernare au intrat în ședință în această după-amiază pentru a tranșa negocierile privind tăierile din administrație, dar și măsurile de relansare economică. PSD a anunțat public că se opune „austerității simpliste” și tăierilor de salarii și sporuri, blocând reforma administrației prin miniștrii săi, de la Agricultură și Sănătate, care au transmis că nu avizează proiectul Executivului. Între timp, Ilie Bolojan și-ar dori să adopte cele două pachete pănâ la finalul săptămânii.",
-      "link": "https://www.digi24.ro/stiri/actualitate/politica/coalitia-intra-in-sedinta-dupa-scandalul-privind-recesiunea-tehnica-guvernul-asteptat-sa-adopte-taierile-din-administratie-3632807",
-      "published_utc": "2026-02-16T11:50:21+00:00",
-      "score": 1
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "This vegan diet cut insulin use by nearly 30% in type 1 diabetes",
-      "summary": "A low-fat vegan diet—without cutting calories or carbs—may help people with type 1 diabetes significantly reduce how much insulin they need, and how much they spend on it. In a new analysis published in BMC Nutrition, participants following the plant-based plan lowered their daily insulin use by 28%, while those on a portion-controlled diet saw no meaningful change.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260212234212.htm",
-      "published_utc": "2026-02-13T07:30:08+00:00",
-      "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
       "title": "Oana Gheorghiu, despre reducerea cheltuielilor și reforma companiilor de stat: „Obiectivul nu este să concediem oameni”",
       "summary": "Vicepremierul Oana Gheorghiu a declarat la Digi24 că decizia privind reducerea cheltuielilor bugetare trebuie luată rapid, în contextul blocajului din coaliție. Totodată, ea a oferit detalii despre stadiul reformei companiilor de stat, afirmând că restructurarea este necesară pentru a opri finanțarea pierderilor din bani publici.",
       "link": "https://www.digi24.ro/stiri/economie/oana-gheorghiu-despre-reducerea-cheltuielilor-si-reforma-companiilor-de-stat-obiectivul-nu-este-sa-concediem-oameni-3632967",
       "published_utc": "2026-02-16T10:16:38+00:00",
-      "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Digistoria – cele mai importante evenimente petrecute pe 16 februarie",
-      "summary": "Digistoria – cele mai importante evenimente petrecute pe 16 februarie",
-      "link": "https://www.digi24.ro/digistoria/digistoria-cele-mai-importante-evenimente-petrecute-pe-16-februarie-3632661",
-      "published_utc": "2026-02-16T06:33:03+00:00",
       "score": 1
     },
     {
@@ -126,11 +126,11 @@
       "section": "romania",
       "kind": "ro",
       "source": "Digi24",
-      "title": "Deepfake-uri mai realiste, dependență de chatboți și riscuri biologice: Ce arată cel mai nou raport global despre siguranța AI",
-      "summary": "Cel mai recent raport global privind siguranța inteligenței artificiale avertizează că deepfake-urile devin tot mai greu de deosebit de realitate, în timp ce unii utilizatori dezvoltă forme de dependență față de chatboți, iar modelele avansate ridică riscuri biologice fără precedent. Documentul, coordonat de cercetătorul canadian Yoshua Bengio, oferă o imagine de ansamblu asupra progreselor accelerate din domeniu și a vulnerabilităților pe care acestea le creează.",
-      "link": "https://www.digi24.ro/stiri/sci-tech/lumea-digitala/deepfake-uri-mai-realiste-dependenta-de-chatboti-si-riscuri-biologice-ce-arata-cel-mai-nou-raport-global-despre-siguranta-ai-3613383",
-      "published_utc": "2026-02-16T05:00:52+00:00",
-      "score": 3
+      "title": "Digistoria – cele mai importante evenimente petrecute pe 16 februarie",
+      "summary": "Digistoria – cele mai importante evenimente petrecute pe 16 februarie",
+      "link": "https://www.digi24.ro/digistoria/digistoria-cele-mai-importante-evenimente-petrecute-pe-16-februarie-3632661",
+      "published_utc": "2026-02-16T06:33:03+00:00",
+      "score": 1
     },
     {
       "section": "science",
@@ -278,6 +278,26 @@
       {
         "section": "romania",
         "kind": "ro",
+        "source": "HotNews",
+        "title": "Comisia Europeană trimite un comisar la reuniunea inaugurală a Consiliului pentru Pace lansat de Donald Trump. Bruxellesul participă ca observator",
+        "summary": "Un comisar european va participa în această săptămână la reuniunea inaugurală a Consiliului pentru pace, inițiativă lansată de președintele american Donald Trump, fără ca Uniunea Europeană să adere pentru moment la noua structură, a anunțat&#8230;",
+        "link": "https://hotnews.ro/comisia-europeana-trimite-un-comisar-la-reuniunea-inaugurala-a-consiliului-pentru-pace-lansat-de-donald-trump-bruxellesul-participa-ca-observator-2172452",
+        "published_utc": "2026-02-16T14:24:36+00:00",
+        "score": 2
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Liderii Coaliției sunt în ședință de ore bune, după blocajul privind reforma administrației. Cine ar putea scăpa de tăieri (surse)",
+        "summary": "Liderii Coaliției de guvernare au intrat în ședință în această după-amiază pentru a tranșa negocierile privind tăierile din administrație, dar și măsurile de relansare economică. PSD a anunțat public că se opune „austerității simpliste” și tăierilor de salarii și sporuri, blocând reforma administrației prin miniștrii săi, de la Agricultură și Sănătate, care au transmis că nu avizează proiectul Executivului. Între timp, Ilie Bolojan și-ar dori să adopte cele două pachete pănâ la finalul săptămânii.",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/coalitia-intra-in-sedinta-dupa-scandalul-privind-recesiunea-tehnica-guvernul-asteptat-sa-adopte-taierile-din-administratie-3632807",
+        "published_utc": "2026-02-16T14:07:46+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
         "source": "Digi24",
         "title": "UE anunță că va participa la reuniunea inaugurală a Consiliului pentru Pace al lui Trump, fără a deveni membră",
         "summary": "Un comisar european va participa în această săptămână la reuniunea inaugurală a „Consiliului pentru pace”, iniţiativă lansată recent de preşedintele american Donald Trump, a anunțat un purtător de cuvânt al Comisiei Europene. El a ținut să precizeze că Uniunea Europeană nu aderă pentru moment la noua structură.",
@@ -329,16 +349,6 @@
         "section": "romania",
         "kind": "ro",
         "source": "Digi24",
-        "title": "Coaliția intră în ședință, după blocajul privind reforma administrației. Ce condiții pune PSD, după ce s-a opus tăierilor (surse)",
-        "summary": "Liderii Coaliției de guvernare au intrat în ședință în această după-amiază pentru a tranșa negocierile privind tăierile din administrație, dar și măsurile de relansare economică. PSD a anunțat public că se opune „austerității simpliste” și tăierilor de salarii și sporuri, blocând reforma administrației prin miniștrii săi, de la Agricultură și Sănătate, care au transmis că nu avizează proiectul Executivului. Între timp, Ilie Bolojan și-ar dori să adopte cele două pachete pănâ la finalul săptămânii.",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/coalitia-intra-in-sedinta-dupa-scandalul-privind-recesiunea-tehnica-guvernul-asteptat-sa-adopte-taierile-din-administratie-3632807",
-        "published_utc": "2026-02-16T11:50:21+00:00",
-        "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
         "title": "Oana Gheorghiu, despre reducerea cheltuielilor și reforma companiilor de stat: „Obiectivul nu este să concediem oameni”",
         "summary": "Vicepremierul Oana Gheorghiu a declarat la Digi24 că decizia privind reducerea cheltuielilor bugetare trebuie luată rapid, în contextul blocajului din coaliție. Totodată, ea a oferit detalii despre stadiul reformei companiilor de stat, afirmând că restructurarea este necesară pentru a opri finanțarea pierderilor din bani publici.",
         "link": "https://www.digi24.ro/stiri/economie/oana-gheorghiu-despre-reducerea-cheltuielilor-si-reforma-companiilor-de-stat-obiectivul-nu-este-sa-concediem-oameni-3632967",
@@ -354,16 +364,6 @@
         "link": "https://www.digi24.ro/digistoria/digistoria-cele-mai-importante-evenimente-petrecute-pe-16-februarie-3632661",
         "published_utc": "2026-02-16T06:33:03+00:00",
         "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Deepfake-uri mai realiste, dependență de chatboți și riscuri biologice: Ce arată cel mai nou raport global despre siguranța AI",
-        "summary": "Cel mai recent raport global privind siguranța inteligenței artificiale avertizează că deepfake-urile devin tot mai greu de deosebit de realitate, în timp ce unii utilizatori dezvoltă forme de dependență față de chatboți, iar modelele avansate ridică riscuri biologice fără precedent. Documentul, coordonat de cercetătorul canadian Yoshua Bengio, oferă o imagine de ansamblu asupra progreselor accelerate din domeniu și a vulnerabilităților pe care acestea le creează.",
-        "link": "https://www.digi24.ro/stiri/sci-tech/lumea-digitala/deepfake-uri-mai-realiste-dependenta-de-chatboti-si-riscuri-biologice-ce-arata-cel-mai-nou-raport-global-despre-siguranta-ai-3613383",
-        "published_utc": "2026-02-16T05:00:52+00:00",
-        "score": 3
       }
     ],
     "medical": [
@@ -566,19 +566,19 @@
         "category_id": "animals",
         "category_label": "🐾 Animale",
         "source": "Flickr (animals)",
-        "title": "Spotted Sandpiper...#4",
-        "link": "https://www.flickr.com/photos/black_cat_photography/55098004982/",
-        "image_url": "https://live.staticflickr.com/65535/55098004982_0fe456c5c5_b.jpg",
-        "published_utc": "2026-02-16T13:57:11+00:00"
+        "title": "Alaska",
+        "link": "https://www.flickr.com/photos/8868531@N06/55098076402/",
+        "image_url": "https://live.staticflickr.com/65535/55098076402_48b75f1e66_b.jpg",
+        "published_utc": "2026-02-16T14:40:50+00:00"
       },
       {
         "category_id": "landscapes",
         "category_label": "🏞️ Peisaj",
         "source": "Flickr (landscape)",
-        "title": "Yamdrok Lake",
-        "link": "https://www.flickr.com/photos/183080729@N06/55099246265/",
-        "image_url": "https://live.staticflickr.com/65535/55099246265_da4563a6e1_b.jpg",
-        "published_utc": "2026-02-16T13:56:50+00:00"
+        "title": "Alaska",
+        "link": "https://www.flickr.com/photos/8868531@N06/55099319290/",
+        "image_url": "https://live.staticflickr.com/65535/55099319290_83f8cd2bdf_b.jpg",
+        "published_utc": "2026-02-16T14:40:50+00:00"
       }
     ],
     "joke": [
@@ -591,9 +591,9 @@
       {
         "date_utc": "2026-02-16",
         "source": "TimesNewRoman",
-        "title": "Nu mai aduceți buldozerele! Prunea a dărâmat cu p… o tribună a stadionului Dinamo",
+        "title": "Primarii responsabili nu sparg banii pe iPhone! Piedone jr. şi-a luat doar o kendama de 4000 de lei",
         "summary": "Cotidian independent de umor voluntar",
-        "link": "https://www.timesnewroman.ro/sport/nu-mai-aduceti-buldozerele-prunea-a-daramat-cu-p-o-tribuna-a-stadionului-dinamo/",
+        "link": "https://www.timesnewroman.ro/sport/primarii-responsabili-nu-sparg-banii-pe-iphone-piedone-jr-si-a-luat-doar-o-kendama-de-4000-de-lei/",
         "note": "Satiră — nu este știre reală."
       }
     ]
