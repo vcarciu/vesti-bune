@@ -1,7 +1,37 @@
 {
-  "generated_utc": "2026-02-16T06:00:59+00:00",
-  "count": 25,
+  "generated_utc": "2026-02-16T07:06:50+00:00",
+  "count": 26,
   "items": [
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Digistoria – cele mai importante evenimente petrecute pe 16 februarie",
+      "summary": "Digistoria – cele mai importante evenimente petrecute pe 16 februarie",
+      "link": "https://www.digi24.ro/digistoria/digistoria-cele-mai-importante-evenimente-petrecute-pe-16-februarie-3632661",
+      "published_utc": "2026-02-16T06:33:03+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "„Nu este o soluție miraculoasă”. Postul intermitent nu e mai eficient decât dietele clasice, arată un nou studiu",
+      "summary": "Postul intermitent, promovat intens în ultimii ani ca soluție pentru slăbit, nu este mai eficient decât dietele tradiționale și abia depășește rezultatele obținute fără nicio schimbare a alimentației, potrivit unei ample analize a datelor din&#8230;",
+      "link": "https://hotnews.ro/post-intermitent-dieta-clasica-michael-mosley-studiu-2172096",
+      "published_utc": "2026-02-16T06:05:59+00:00",
+      "score": 1
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "Large study finds no link between mRNA COVID vaccine in pregnancy and autism",
+      "summary": "Researchers tracked more than 400 toddlers to see whether mRNA COVID-19 vaccination during or just before pregnancy was linked to autism or developmental delays. After detailed assessments of speech, motor skills, behavior, and social development, they found no meaningful differences between vaccinated and unvaccinated groups. Experts say the results provide strong reassurance about vaccine safety in pregnancy.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260215085001.htm",
+      "published_utc": "2026-02-15T14:51:05+00:00",
+      "score": 3
+    },
     {
       "section": "romania",
       "kind": "ro",
@@ -26,11 +56,11 @@
       "section": "medical",
       "kind": "global",
       "source": "ScienceDaily Health",
-      "title": "Large study finds no link between mRNA COVID vaccine in pregnancy and autism",
-      "summary": "Researchers tracked more than 400 toddlers to see whether mRNA COVID-19 vaccination during or just before pregnancy was linked to autism or developmental delays. After detailed assessments of speech, motor skills, behavior, and social development, they found no meaningful differences between vaccinated and unvaccinated groups. Experts say the results provide strong reassurance about vaccine safety in pregnancy.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260215085001.htm",
-      "published_utc": "2026-02-15T14:51:05+00:00",
-      "score": 3
+      "title": "Scientists found a way to plant ideas in dreams to boost creativity",
+      "summary": "Sleeping on a problem might be more powerful than we ever imagined. Neuroscientists at Northwestern University have shown that dreams can actually be nudged in specific directions — and those dream tweaks may boost creativity. By playing subtle sound cues during REM sleep, researchers prompted people to dream about unsolved brain teasers they had struggled with earlier. An astonishing 75% of participants dreamed about the cued puzzles, and those puzzles were solved far more often the next day.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260213223926.htm",
+      "published_utc": "2026-02-15T06:47:47+00:00",
+      "score": 1
     },
     {
       "section": "romania",
@@ -56,10 +86,10 @@
       "section": "medical",
       "kind": "global",
       "source": "ScienceDaily Health",
-      "title": "Scientists found a way to plant ideas in dreams to boost creativity",
-      "summary": "Sleeping on a problem might be more powerful than we ever imagined. Neuroscientists at Northwestern University have shown that dreams can actually be nudged in specific directions — and those dream tweaks may boost creativity. By playing subtle sound cues during REM sleep, researchers prompted people to dream about unsolved brain teasers they had struggled with earlier. An astonishing 75% of participants dreamed about the cued puzzles, and those puzzles were solved far more often the next day.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260213223926.htm",
-      "published_utc": "2026-02-15T06:47:47+00:00",
+      "title": "This vegan diet cut insulin use by nearly 30% in type 1 diabetes",
+      "summary": "A low-fat vegan diet—without cutting calories or carbs—may help people with type 1 diabetes significantly reduce how much insulin they need, and how much they spend on it. In a new analysis published in BMC Nutrition, participants following the plant-based plan lowered their daily insulin use by 28%, while those on a portion-controlled diet saw no meaningful change.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260212234212.htm",
+      "published_utc": "2026-02-13T07:30:08+00:00",
       "score": 1
     },
     {
@@ -71,16 +101,6 @@
       "link": "https://www.digi24.ro/stiri/externe/ue/la-munchen-politicienii-americani-democrati-au-incercat-sa-linisteasca-europa-noi-suntem-aici-trump-va-pleca-in-trei-ani-3632329",
       "published_utc": "2026-02-15T16:52:28+00:00",
       "score": 2
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "This vegan diet cut insulin use by nearly 30% in type 1 diabetes",
-      "summary": "A low-fat vegan diet—without cutting calories or carbs—may help people with type 1 diabetes significantly reduce how much insulin they need, and how much they spend on it. In a new analysis published in BMC Nutrition, participants following the plant-based plan lowered their daily insulin use by 28%, while those on a portion-controlled diet saw no meaningful change.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260212234212.htm",
-      "published_utc": "2026-02-13T07:30:08+00:00",
-      "score": 1
     },
     {
       "section": "science",
@@ -165,7 +185,7 @@
     {
       "section": "medical",
       "kind": "global",
-      "source": "ScienceDaily Health",
+      "source": "ScienceDaily Medicine",
       "title": "Doctors test brain cell implants to restore movement in Parkinson’s",
       "summary": "Scientists at Keck Medicine of USC are testing an experimental stem cell therapy that aims to restore the brain’s ability to produce dopamine, the chemical whose loss drives Parkinson’s disease. The early-stage clinical trial involves implanting lab-grown dopamine-producing cells directly into a key movement-control region of the brain, with the hope of slowing disease progression and improving motor function.",
       "link": "https://www.sciencedaily.com/releases/2026/02/260206012203.htm",
@@ -181,16 +201,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/02/260204121547.htm",
       "published_utc": "2026-02-05T15:04:34+00:00",
       "score": 1
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Medicine",
-      "title": "New nasal vaccine shows strong protection against H5N1 bird flu",
-      "summary": "As bird flu continues to circulate in animals and spill over into humans, researchers are racing to stop it before it adapts to spread widely between people. A new nasal spray vaccine showed strong protection against H5N1 in animal tests, outperforming traditional flu shots. Because it targets the nose and lungs, it may prevent infection at the earliest stage.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260204114343.htm",
-      "published_utc": "2026-02-04T16:43:43+00:00",
-      "score": 3
     },
     {
       "section": "environment",
@@ -255,6 +265,26 @@
   ],
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Digistoria – cele mai importante evenimente petrecute pe 16 februarie",
+        "summary": "Digistoria – cele mai importante evenimente petrecute pe 16 februarie",
+        "link": "https://www.digi24.ro/digistoria/digistoria-cele-mai-importante-evenimente-petrecute-pe-16-februarie-3632661",
+        "published_utc": "2026-02-16T06:33:03+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "„Nu este o soluție miraculoasă”. Postul intermitent nu e mai eficient decât dietele clasice, arată un nou studiu",
+        "summary": "Postul intermitent, promovat intens în ultimii ani ca soluție pentru slăbit, nu este mai eficient decât dietele tradiționale și abia depășește rezultatele obținute fără nicio schimbare a alimentației, potrivit unei ample analize a datelor din&#8230;",
+        "link": "https://hotnews.ro/post-intermitent-dieta-clasica-michael-mosley-studiu-2172096",
+        "published_utc": "2026-02-16T06:05:59+00:00",
+        "score": 1
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -380,7 +410,7 @@
       {
         "section": "medical",
         "kind": "global",
-        "source": "ScienceDaily Health",
+        "source": "ScienceDaily Medicine",
         "title": "Doctors test brain cell implants to restore movement in Parkinson’s",
         "summary": "Scientists at Keck Medicine of USC are testing an experimental stem cell therapy that aims to restore the brain’s ability to produce dopamine, the chemical whose loss drives Parkinson’s disease. The early-stage clinical trial involves implanting lab-grown dopamine-producing cells directly into a key movement-control region of the brain, with the hope of slowing disease progression and improving motor function.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260206012203.htm",
@@ -396,16 +426,6 @@
         "link": "https://www.sciencedaily.com/releases/2026/02/260204121547.htm",
         "published_utc": "2026-02-05T15:04:34+00:00",
         "score": 1
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "ScienceDaily Medicine",
-        "title": "New nasal vaccine shows strong protection against H5N1 bird flu",
-        "summary": "As bird flu continues to circulate in animals and spill over into humans, researchers are racing to stop it before it adapts to spread widely between people. A new nasal spray vaccine showed strong protection against H5N1 in animal tests, outperforming traditional flu shots. Because it targets the nose and lungs, it may prevent infection at the earliest stage.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260204114343.htm",
-        "published_utc": "2026-02-04T16:43:43+00:00",
-        "score": 3
       }
     ],
     "science": [
@@ -526,19 +546,19 @@
         "category_id": "animals",
         "category_label": "🐾 Animale",
         "source": "Flickr (animals)",
-        "title": "Chinese Mantis",
-        "link": "https://www.flickr.com/photos/195280903@N07/55098571724/",
-        "image_url": "https://live.staticflickr.com/65535/55098571724_e9aeb8877f_b.jpg",
-        "published_utc": "2026-02-16T05:12:36+00:00"
+        "title": "Butterfly on a Flower in Botanical Garden Utrecht on 25-4-2025",
+        "link": "https://www.flickr.com/photos/pashoen/55098603023/",
+        "image_url": "https://live.staticflickr.com/65535/55098603023_dbd54e078f_b.jpg",
+        "published_utc": "2026-02-16T07:04:16+00:00"
       },
       {
         "category_id": "landscapes",
         "category_label": "🏞️ Peisaj",
         "source": "Flickr (landscape)",
-        "title": "06 Waterman Mountain NW Trail Views (4) - Mount Gleason (C, Far, Tall, Dark)",
-        "link": "https://www.flickr.com/photos/196406308@N04/55098693180/",
-        "image_url": "https://live.staticflickr.com/65535/55098693180_2d609e65c6_b.jpg",
-        "published_utc": "2026-02-16T05:43:43+00:00"
+        "title": "Climbing the Corrie",
+        "link": "https://www.flickr.com/photos/96654411@N02/55097525987/",
+        "image_url": "https://live.staticflickr.com/65535/55097525987_4b4b2ab4f4_b.jpg",
+        "published_utc": "2026-02-16T07:04:46+00:00"
       }
     ],
     "joke": [
@@ -551,9 +571,9 @@
       {
         "date_utc": "2026-02-16",
         "source": "TimesNewRoman",
-        "title": "Miracol! După postările despre Platon, lui CTP i-a crescut păr identic cu al lui Dăncilă",
+        "title": "Dacia a câştigat raliul Hazmokar, cea mai dură competiţie de înjurat în trafic din lume",
         "summary": "Cotidian independent de umor voluntar",
-        "link": "https://www.timesnewroman.ro/monden/miracol-dupa-postarile-despre-platon-lui-ctp-i-a-crescut-par-identic-cu-al-lui-dancila/",
+        "link": "https://www.timesnewroman.ro/sport/dacia-a-castigat-raliul-hazmokar-cea-mai-dura-competitie-de-injurat-in-trafic-din-lume/",
         "note": "Satiră — nu este știre reală."
       }
     ]
