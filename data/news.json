@@ -1,7 +1,17 @@
 {
-  "generated_utc": "2026-02-16T09:42:11+00:00",
+  "generated_utc": "2026-02-16T10:39:34+00:00",
   "count": 24,
   "items": [
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Oana Gheorghiu, despre reducerea cheltuielilor și reforma companiilor de stat: „Obiectivul nu este să concediem oameni”",
+      "summary": "Vicepremierul Oana Gheorghiu a declarat la Digi24 că decizia privind reducerea cheltuielilor bugetare trebuie luată rapid, în contextul blocajului din coaliție. Totodată, ea a oferit detalii despre stadiul reformei companiilor de stat, afirmând că restructurarea este necesară pentru a opri finanțarea pierderilor din bani publici.",
+      "link": "https://www.digi24.ro/stiri/economie/oana-gheorghiu-despre-reducerea-cheltuielilor-si-reforma-companiilor-de-stat-obiectivul-nu-este-sa-concediem-oameni-3632967",
+      "published_utc": "2026-02-16T10:16:38+00:00",
+      "score": 1
+    },
     {
       "section": "romania",
       "kind": "ro",
@@ -11,16 +21,6 @@
       "link": "https://hotnews.ro/noul-film-la-rascruce-de-vanturi-a-stabilit-un-record-de-incasari-pentru-2026-si-devine-al-9-lea-titlu-consecutiv-care-debuteaza-pe-primul-loc-la-box-office-pentru-un-studio-renumit-2172112",
       "published_utc": "2026-02-16T07:48:59+00:00",
       "score": 3
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Digistoria – cele mai importante evenimente petrecute pe 16 februarie",
-      "summary": "Digistoria – cele mai importante evenimente petrecute pe 16 februarie",
-      "link": "https://www.digi24.ro/digistoria/digistoria-cele-mai-importante-evenimente-petrecute-pe-16-februarie-3632661",
-      "published_utc": "2026-02-16T06:33:03+00:00",
-      "score": 1
     },
     {
       "section": "medical",
@@ -35,11 +35,11 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "HotNews",
-      "title": "„Nu este o soluție miraculoasă”. Postul intermitent nu e mai eficient decât dietele clasice, arată un nou studiu",
-      "summary": "Postul intermitent, promovat intens în ultimii ani ca soluție pentru slăbit, nu este mai eficient decât dietele tradiționale și abia depășește rezultatele obținute fără nicio schimbare a alimentației, potrivit unei ample analize a datelor din&#8230;",
-      "link": "https://hotnews.ro/post-intermitent-dieta-clasica-michael-mosley-studiu-2172096",
-      "published_utc": "2026-02-16T06:05:59+00:00",
+      "source": "Digi24",
+      "title": "Digistoria – cele mai importante evenimente petrecute pe 16 februarie",
+      "summary": "Digistoria – cele mai importante evenimente petrecute pe 16 februarie",
+      "link": "https://www.digi24.ro/digistoria/digistoria-cele-mai-importante-evenimente-petrecute-pe-16-februarie-3632661",
+      "published_utc": "2026-02-16T06:33:03+00:00",
       "score": 1
     },
     {
@@ -248,6 +248,16 @@
       {
         "section": "romania",
         "kind": "ro",
+        "source": "Digi24",
+        "title": "Oana Gheorghiu, despre reducerea cheltuielilor și reforma companiilor de stat: „Obiectivul nu este să concediem oameni”",
+        "summary": "Vicepremierul Oana Gheorghiu a declarat la Digi24 că decizia privind reducerea cheltuielilor bugetare trebuie luată rapid, în contextul blocajului din coaliție. Totodată, ea a oferit detalii despre stadiul reformei companiilor de stat, afirmând că restructurarea este necesară pentru a opri finanțarea pierderilor din bani publici.",
+        "link": "https://www.digi24.ro/stiri/economie/oana-gheorghiu-despre-reducerea-cheltuielilor-si-reforma-companiilor-de-stat-obiectivul-nu-este-sa-concediem-oameni-3632967",
+        "published_utc": "2026-02-16T10:16:38+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
         "source": "HotNews",
         "title": "Noul film „La răscruce de vânturi” a stabilit un record de încasări pentru 2026 și devine al 9-lea titlu consecutiv care debutează pe primul loc la box office pentru un studio renumit",
         "summary": "Noul film „La răscruce de vânturi” a debutat pe primul loc la box office-ul global, cu încasări de 82 de milioane de dolari, suficiente pentru a deveni lungmetrajul cu cel mai puternic weekend de lansare&#8230;",
@@ -263,16 +273,6 @@
         "summary": "Digistoria – cele mai importante evenimente petrecute pe 16 februarie",
         "link": "https://www.digi24.ro/digistoria/digistoria-cele-mai-importante-evenimente-petrecute-pe-16-februarie-3632661",
         "published_utc": "2026-02-16T06:33:03+00:00",
-        "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "„Nu este o soluție miraculoasă”. Postul intermitent nu e mai eficient decât dietele clasice, arată un nou studiu",
-        "summary": "Postul intermitent, promovat intens în ultimii ani ca soluție pentru slăbit, nu este mai eficient decât dietele tradiționale și abia depășește rezultatele obținute fără nicio schimbare a alimentației, potrivit unei ample analize a datelor din&#8230;",
-        "link": "https://hotnews.ro/post-intermitent-dieta-clasica-michael-mosley-studiu-2172096",
-        "published_utc": "2026-02-16T06:05:59+00:00",
         "score": 1
       },
       {
@@ -506,19 +506,19 @@
         "category_id": "animals",
         "category_label": "🐾 Animale",
         "source": "Flickr (animals)",
-        "title": "Paper Wasp",
-        "link": "https://www.flickr.com/photos/lindamartinphotos/55097688142/",
-        "image_url": "https://live.staticflickr.com/65535/55097688142_51fa49193f_b.jpg",
-        "published_utc": "2026-02-16T09:41:28+00:00"
+        "title": "Goosander (1st winter male)",
+        "link": "https://www.flickr.com/photos/202902235@N06/55097735397/",
+        "image_url": "https://live.staticflickr.com/65535/55097735397_c3d44a625e_b.jpg",
+        "published_utc": "2026-02-16T10:24:07+00:00"
       },
       {
         "category_id": "landscapes",
         "category_label": "🏞️ Peisaj",
         "source": "Flickr (landscape)",
-        "title": "20260214_142857-2",
-        "link": "https://www.flickr.com/photos/chabanas/55098834289/",
-        "image_url": "https://live.staticflickr.com/65535/55098834289_ecefd7f7ec_b.jpg",
-        "published_utc": "2026-02-16T09:41:22+00:00"
+        "title": "Winter Nagano highlands",
+        "link": "https://www.flickr.com/photos/raita/55098815503/",
+        "image_url": "https://live.staticflickr.com/65535/55098815503_900aa18397_b.jpg",
+        "published_utc": "2026-02-16T10:36:28+00:00"
       }
     ],
     "joke": [
@@ -531,9 +531,9 @@
       {
         "date_utc": "2026-02-16",
         "source": "TimesNewRoman",
-        "title": "Judecătorii CCR vor fi criogenaţi până la următoarea şedinţă pe legea pensiilor, în anul 3092",
+        "title": "Singurul infractor aflat încă la închisoare nu înţelege ce are Lia Savonea cu el",
         "summary": "Cotidian independent de umor voluntar",
-        "link": "https://www.timesnewroman.ro/politic/judecatorii-ccr-vor-fi-criogenati-pana-la-urmatoarea-sedinta-pe-legea-pensiilor-in-anul-3092/",
+        "link": "https://www.timesnewroman.ro/life-death/singurul-infractor-aflat-inca-la-inchisoare-nu-intelege-ce-are-lia-savonea-cu-el/",
         "note": "Satiră — nu este știre reală."
       }
     ]
