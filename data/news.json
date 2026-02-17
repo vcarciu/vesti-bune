@@ -1,7 +1,37 @@
 {
-  "generated_utc": "2026-02-17T14:47:38+00:00",
+  "generated_utc": "2026-02-17T15:41:52+00:00",
   "count": 26,
   "items": [
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "Ghid ANAF cu informații actualizate: Noile modificări fiscale în vigoare de la începutul lui 2026",
+      "summary": "Direcția Generală Regională a Finanțelor Publice (DGRFP) Timișoara a publicat un ghid PDF cu principalele modificări fiscale în vigoare de la 1 ianuarie 2026, pentru firme și alți contribuabili. Citește mai departe pe StartupCafe…",
+      "link": "https://hotnews.ro/ghid-anaf-cu-informatii-actualizate-noile-modificari-fiscale-in-vigoare-de-la-inceputul-lui-2026-2173149",
+      "published_utc": "2026-02-17T15:37:17+00:00",
+      "score": 2
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "Populația României s-a redus cu peste 4 milioane de persoane în ultimii 35 de ani, arată Statistica",
+      "summary": "Populația României s-a redus cu peste 4,16 milioane de persoane, în 35 de ani, marjă în care migrația externă a avut o contribuție de 63%, iar sporul natural negativ de 37%, reiese dintr-o analiză de&#8230;",
+      "link": "https://hotnews.ro/populatia-romaniei-s-a-redus-cu-peste-4-milioane-de-locuitori-in-ultimii-35-de-ani-arata-statistica-2173095",
+      "published_utc": "2026-02-17T14:47:53+00:00",
+      "score": 1
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "Toxic metals found in bananas after Brazil mining disaster",
+      "summary": "Researchers investigating crops grown in soil contaminated by the 2015 mining disaster in Brazil discovered that toxic metals are moving from the earth into edible plants. Bananas, cassava, and cocoa were found to absorb elements like lead and cadmium, with bananas showing a potential health risk for children under six. Although adults face lower immediate danger, scientists warn that long-term exposure could carry cumulative health consequences.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260217005756.htm",
+      "published_utc": "2026-02-17T12:07:09+00:00",
+      "score": 2
+    },
     {
       "section": "romania",
       "kind": "ro",
@@ -26,11 +56,11 @@
       "section": "medical",
       "kind": "global",
       "source": "ScienceDaily Health",
-      "title": "Toxic metals found in bananas after Brazil mining disaster",
-      "summary": "Researchers investigating crops grown in soil contaminated by the 2015 mining disaster in Brazil discovered that toxic metals are moving from the earth into edible plants. Bananas, cassava, and cocoa were found to absorb elements like lead and cadmium, with bananas showing a potential health risk for children under six. Although adults face lower immediate danger, scientists warn that long-term exposure could carry cumulative health consequences.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260217005756.htm",
-      "published_utc": "2026-02-17T12:07:09+00:00",
-      "score": 2
+      "title": "Scientists discover brain switches that clear Alzheimer’s plaques",
+      "summary": "Researchers have identified two brain receptors that help the brain clear away amyloid beta, a hallmark of Alzheimer’s disease. By stimulating these receptors in mice, scientists increased levels of a natural amyloid-breaking enzyme, reduced buildup in the brain, and improved memory-related behavior. Because these receptors are common drug targets, the findings could open the door to affordable pill-based treatments with fewer side effects.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260215225555.htm",
+      "published_utc": "2026-02-17T10:30:08+00:00",
+      "score": 1
     },
     {
       "section": "romania",
@@ -51,36 +81,6 @@
       "link": "https://www.digi24.ro/stiri/actualitate/descoperirea-neasteptata-facuta-de-specialistii-care-restaureaza-statuia-lui-stefan-cel-mare-din-iasi-mai-exista-un-mesaj-ascuns-3634945",
       "published_utc": "2026-02-17T11:26:00+00:00",
       "score": 1
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "Scientists discover brain switches that clear Alzheimer’s plaques",
-      "summary": "Researchers have identified two brain receptors that help the brain clear away amyloid beta, a hallmark of Alzheimer’s disease. By stimulating these receptors in mice, scientists increased levels of a natural amyloid-breaking enzyme, reduced buildup in the brain, and improved memory-related behavior. Because these receptors are common drug targets, the findings could open the door to affordable pill-based treatments with fewer side effects.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260215225555.htm",
-      "published_utc": "2026-02-17T10:30:08+00:00",
-      "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Digistoria – cele mai importante evenimente petrecute pe 17 februarie",
-      "summary": "Digistoria – cele mai importante evenimente petrecute pe 17 februarie",
-      "link": "https://www.digi24.ro/digistoria/digistoria-cele-mai-importante-evenimente-petrecute-pe-17-februarie-3634423",
-      "published_utc": "2026-02-17T06:41:58+00:00",
-      "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Peste 110 persoane salvate de pe munte în 24 de ore. Zeci de oameni au ajuns la spital",
-      "summary": "Peste 110 persoane au fost salvate de pe munte în ultimele 24 de ore de către salvamontişti, 48 dintre acestea fiind transportate cu ambulanţele la spital.",
-      "link": "https://www.digi24.ro/stiri/actualitate/social/peste-110-persoane-salvate-de-pe-munte-in-24-de-ore-zeci-de-oameni-au-ajuns-la-spital-3634413",
-      "published_utc": "2026-02-17T06:38:01+00:00",
-      "score": 3
     },
     {
       "section": "medical",
@@ -268,6 +268,26 @@
       {
         "section": "romania",
         "kind": "ro",
+        "source": "HotNews",
+        "title": "Ghid ANAF cu informații actualizate: Noile modificări fiscale în vigoare de la începutul lui 2026",
+        "summary": "Direcția Generală Regională a Finanțelor Publice (DGRFP) Timișoara a publicat un ghid PDF cu principalele modificări fiscale în vigoare de la 1 ianuarie 2026, pentru firme și alți contribuabili. Citește mai departe pe StartupCafe…",
+        "link": "https://hotnews.ro/ghid-anaf-cu-informatii-actualizate-noile-modificari-fiscale-in-vigoare-de-la-inceputul-lui-2026-2173149",
+        "published_utc": "2026-02-17T15:37:17+00:00",
+        "score": 2
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Populația României s-a redus cu peste 4 milioane de persoane în ultimii 35 de ani, arată Statistica",
+        "summary": "Populația României s-a redus cu peste 4,16 milioane de persoane, în 35 de ani, marjă în care migrația externă a avut o contribuție de 63%, iar sporul natural negativ de 37%, reiese dintr-o analiză de&#8230;",
+        "link": "https://hotnews.ro/populatia-romaniei-s-a-redus-cu-peste-4-milioane-de-locuitori-in-ultimii-35-de-ani-arata-statistica-2173095",
+        "published_utc": "2026-02-17T14:47:53+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
         "source": "Digi24",
         "title": "Președintele polonez nu va participa la lansarea Consiliului pentru Pace al lui Trump",
         "summary": "Președintele polonez Karol Nawrocki nu va participa joi la reuniunea inaugurală a Consiliului pentru Pace înființat recent de Donald Trump la Washington și îl va trimite în locul său pe șeful Biroului său pentru Politică Internațională, relatează TVPWorld.",
@@ -304,26 +324,6 @@
         "link": "https://www.digi24.ro/stiri/actualitate/descoperirea-neasteptata-facuta-de-specialistii-care-restaureaza-statuia-lui-stefan-cel-mare-din-iasi-mai-exista-un-mesaj-ascuns-3634945",
         "published_utc": "2026-02-17T11:26:00+00:00",
         "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Digistoria – cele mai importante evenimente petrecute pe 17 februarie",
-        "summary": "Digistoria – cele mai importante evenimente petrecute pe 17 februarie",
-        "link": "https://www.digi24.ro/digistoria/digistoria-cele-mai-importante-evenimente-petrecute-pe-17-februarie-3634423",
-        "published_utc": "2026-02-17T06:41:58+00:00",
-        "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Peste 110 persoane salvate de pe munte în 24 de ore. Zeci de oameni au ajuns la spital",
-        "summary": "Peste 110 persoane au fost salvate de pe munte în ultimele 24 de ore de către salvamontişti, 48 dintre acestea fiind transportate cu ambulanţele la spital.",
-        "link": "https://www.digi24.ro/stiri/actualitate/social/peste-110-persoane-salvate-de-pe-munte-in-24-de-ore-zeci-de-oameni-au-ajuns-la-spital-3634413",
-        "published_utc": "2026-02-17T06:38:01+00:00",
-        "score": 3
       }
     ],
     "medical": [
@@ -537,28 +537,28 @@
         "category_id": "space",
         "category_label": "🚀 Spațiu",
         "source": "Flickr (space)",
-        "title": "Cosmic Cruisin'",
-        "link": "https://www.flickr.com/photos/39860650@N02/55100520041/",
-        "image_url": "https://live.staticflickr.com/65535/55100520041_7b7fab7529_b.jpg",
-        "published_utc": "2026-02-17T09:16:24+00:00"
+        "title": "Yellow River Delta, China",
+        "link": "https://www.flickr.com/photos/europeanspaceagency/55100101777/",
+        "image_url": "https://live.staticflickr.com/65535/55100101777_1206d54436_b.jpg",
+        "published_utc": "2026-02-17T15:05:09+00:00"
       },
       {
         "category_id": "animals",
         "category_label": "🐾 Animale",
         "source": "Flickr (animals)",
-        "title": "Deer, Shubenacadie Wildlife Park",
-        "link": "https://www.flickr.com/photos/brownpau/55100956861/",
-        "image_url": "https://live.staticflickr.com/65535/55100956861_3bd4fa261e_b.jpg",
-        "published_utc": "2026-02-17T14:43:11+00:00"
+        "title": "EM-260214-POST-017",
+        "link": "https://www.flickr.com/photos/erikcito/55101390325/",
+        "image_url": "https://live.staticflickr.com/65535/55101390325_2b06ecefd5_b.jpg",
+        "published_utc": "2026-02-17T15:22:09+00:00"
       },
       {
         "category_id": "landscapes",
         "category_label": "🏞️ Peisaj",
         "source": "Flickr (landscape)",
-        "title": "Lake Como",
-        "link": "https://www.flickr.com/photos/47neale/55101226814/",
-        "image_url": "https://live.staticflickr.com/65535/55101226814_7cbb2d9544_b.jpg",
-        "published_utc": "2026-02-17T14:44:34+00:00"
+        "title": "Night Etude",
+        "link": "https://www.flickr.com/photos/nick-obukhov/55101236663/",
+        "image_url": "https://live.staticflickr.com/65535/55101236663_9093378b75_b.jpg",
+        "published_utc": "2026-02-17T15:30:19+00:00"
       }
     ],
     "joke": [
@@ -571,9 +571,9 @@
       {
         "date_utc": "2026-02-17",
         "source": "TimesNewRoman",
-        "title": "Detalii înfiorătoare despre o minte bolnavă. Jeffrey Epstein se uita la filme românești",
+        "title": "Mihai Neamţu a descoperit în sfârşit unde sunt bărbaţii de odinioară: &#8222;Aplicaţia Grindr e super!&#8221;",
         "summary": "Cotidian independent de umor voluntar",
-        "link": "https://www.timesnewroman.ro/monden/detalii-infioratoare-despre-o-minte-bolnava-jeffrey-epstein-se-uita-la-filme-romanesti/",
+        "link": "https://www.timesnewroman.ro/politic/mihai-neamtu-a-descoperit-in-sfarsit-unde-sunt-barbatii-de-odinioara-aplicatia-grindr-e-super/",
         "note": "Satiră — nu este știre reală."
       }
     ]
