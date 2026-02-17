@@ -1,6 +1,6 @@
 {
-  "generated_utc": "2026-02-17T01:09:40+00:00",
-  "count": 22,
+  "generated_utc": "2026-02-17T04:09:29+00:00",
+  "count": 23,
   "items": [
     {
       "section": "romania",
@@ -26,11 +26,11 @@
       "section": "medical",
       "kind": "global",
       "source": "ScienceDaily Health",
-      "title": "Large study finds no link between mRNA COVID vaccine in pregnancy and autism",
-      "summary": "Researchers tracked more than 400 toddlers to see whether mRNA COVID-19 vaccination during or just before pregnancy was linked to autism or developmental delays. After detailed assessments of speech, motor skills, behavior, and social development, they found no meaningful differences between vaccinated and unvaccinated groups. Experts say the results provide strong reassurance about vaccine safety in pregnancy.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260215085001.htm",
-      "published_utc": "2026-02-15T14:51:05+00:00",
-      "score": 3
+      "title": "Giving people cash didn’t cause more injuries or deaths",
+      "summary": "As cash transfer programs expand across the United States, critics often warn that giving people money could spark reckless behavior, leading to injuries or even deaths. But a sweeping 11-year analysis of Alaska’s long-running Permanent Fund Dividend program tells a different story. Researchers examined statewide hospital records and death data and found no increase in traumatic injuries or unnatural deaths after annual payments were distributed.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260212023028.htm",
+      "published_utc": "2026-02-17T02:29:23+00:00",
+      "score": 4
     },
     {
       "section": "romania",
@@ -50,6 +50,16 @@
       "summary": "Ordonanța de urgență adoptată de Guvern pentru dezvoltarea infrastructurii de combustibili alternativi nu aduce schimbări imediate pentru șoferi, dar stabilește cadrul fără de care România nu poate dezvolta stații de încărcare și alimentare necesare transportului viitorului, spun specialiștii. Potrivit experților consultați de Digi24.ro, actul normativ era necesar pentru aplicarea unui regulament european deja obligatoriu, pentru accesarea finanțărilor disponibile și pentru menținerea competitivității transportatorilor români într-o piață europeană în care reducerea emisiilor devine o condiție economică, nu doar una de mediu.",
       "link": "https://www.digi24.ro/stiri/economie/transporturi/ordonanta-pentru-infrastructura-combustibililor-alternativi-de-ce-a-fost-adoptata-si-ce-schimba-pentru-transportatori-si-industrie-3633209",
       "published_utc": "2026-02-16T13:03:10+00:00",
+      "score": 3
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "Large study finds no link between mRNA COVID vaccine in pregnancy and autism",
+      "summary": "Researchers tracked more than 400 toddlers to see whether mRNA COVID-19 vaccination during or just before pregnancy was linked to autism or developmental delays. After detailed assessments of speech, motor skills, behavior, and social development, they found no meaningful differences between vaccinated and unvaccinated groups. Experts say the results provide strong reassurance about vaccine safety in pregnancy.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260215085001.htm",
+      "published_utc": "2026-02-15T14:51:05+00:00",
       "score": 3
     },
     {
@@ -271,6 +281,16 @@
         "section": "medical",
         "kind": "global",
         "source": "ScienceDaily Health",
+        "title": "Giving people cash didn’t cause more injuries or deaths",
+        "summary": "As cash transfer programs expand across the United States, critics often warn that giving people money could spark reckless behavior, leading to injuries or even deaths. But a sweeping 11-year analysis of Alaska’s long-running Permanent Fund Dividend program tells a different story. Researchers examined statewide hospital records and death data and found no increase in traumatic injuries or unnatural deaths after annual payments were distributed.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260212023028.htm",
+        "published_utc": "2026-02-17T02:29:23+00:00",
+        "score": 4
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
         "title": "Large study finds no link between mRNA COVID vaccine in pregnancy and autism",
         "summary": "Researchers tracked more than 400 toddlers to see whether mRNA COVID-19 vaccination during or just before pregnancy was linked to autism or developmental delays. After detailed assessments of speech, motor skills, behavior, and social development, they found no meaningful differences between vaccinated and unvaccinated groups. Experts say the results provide strong reassurance about vaccine safety in pregnancy.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260215085001.htm",
@@ -466,19 +486,19 @@
         "category_id": "animals",
         "category_label": "🐾 Animale",
         "source": "Flickr (animals)",
-        "title": "American Kestrel",
-        "link": "https://www.flickr.com/photos/dawvonism/55100353690/",
-        "image_url": "https://live.staticflickr.com/65535/55100353690_20f9a9cbca_b.jpg",
-        "published_utc": "2026-02-17T01:02:51+00:00"
+        "title": "eastern wild turkey",
+        "link": "https://www.flickr.com/photos/160542269@N02/55100188781/",
+        "image_url": "https://live.staticflickr.com/65535/55100188781_7199e161a1_b.jpg",
+        "published_utc": "2026-02-17T03:53:04+00:00"
       },
       {
         "category_id": "landscapes",
         "category_label": "🏞️ Peisaj",
         "source": "Flickr (landscape)",
-        "title": "A Pink Aurora Australis and the Milky Way Shimmers in the Night Sky",
-        "link": "https://www.flickr.com/photos/merrillie/55100177848/",
-        "image_url": "https://live.staticflickr.com/65535/55100177848_68693babed_b.jpg",
-        "published_utc": "2026-02-17T00:53:59+00:00"
+        "title": "Wassergefüllte Spalte,",
+        "link": "https://www.flickr.com/photos/pankajanand18/55100407038/",
+        "image_url": "https://live.staticflickr.com/65535/55100407038_44b98dd197_b.jpg",
+        "published_utc": "2026-02-17T04:01:54+00:00"
       }
     ],
     "joke": [
@@ -491,9 +511,9 @@
       {
         "date_utc": "2026-02-17",
         "source": "TimesNewRoman",
-        "title": "Alte 7 produse lansate de fotbalişti după vinul ÎmbăTamaş al lui Tamaş",
+        "title": "Pentru că-i e dor de emisiunile de la ProTV, Măruță vorbește zilnic cu un tomberon",
         "summary": "Cotidian independent de umor voluntar",
-        "link": "https://www.timesnewroman.ro/sport/alte-7-produse-lansate-de-fotbalisti-dupa-vinul-imbatamas-al-lui-tamas/",
+        "link": "https://www.timesnewroman.ro/monden/pentru-ca-i-e-dor-de-emisiunile-de-la-protv-maruta-vorbeste-zilnic-cu-un-tomberon/",
         "note": "Satiră — nu este știre reală."
       }
     ]
