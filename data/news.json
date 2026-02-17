@@ -1,7 +1,17 @@
 {
-  "generated_utc": "2026-02-17T14:00:25+00:00",
+  "generated_utc": "2026-02-17T14:47:38+00:00",
   "count": 26,
   "items": [
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Președintele polonez nu va participa la lansarea Consiliului pentru Pace al lui Trump",
+      "summary": "Președintele polonez Karol Nawrocki nu va participa joi la reuniunea inaugurală a Consiliului pentru Pace înființat recent de Donald Trump la Washington și îl va trimite în locul său pe șeful Biroului său pentru Politică Internațională, relatează TVPWorld.",
+      "link": "https://www.digi24.ro/stiri/externe/presedintele-polonez-nu-va-participa-la-lansarea-consiliului-pentru-pace-al-lui-trump-3635245",
+      "published_utc": "2026-02-17T14:11:27+00:00",
+      "score": 1
+    },
     {
       "section": "romania",
       "kind": "ro",
@@ -10,16 +20,6 @@
       "summary": "J-PAL, laboratorul de acțiune pentru combaterea sărăciei din cadrul Massachusetts Institute for Technology a acordat finanțare pentru opt noi studii de cercetare menite să înțeleagă modul în care inovațiile din domeniul inteligenței artificiale (AI) pot&#8230;",
       "link": "https://hotnews.ro/universitatea-mit-va-studia-daca-inteligenta-artificiala-poate-fi-folosita-pentru-combaterea-saraciei-2173002",
       "published_utc": "2026-02-17T13:29:32+00:00",
-      "score": 3
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "HotNews",
-      "title": "Cine a fost „Schindler de București”, diplomatul care a salvat singur 5.000 de evrei. Despre  om excepțional și fermecătoarea sa casă cu blazon din Dorobanți",
-      "summary": "O casă din Dorobanți, cândva cartier rezidențial aristocratic, trece neobservată pe strada Dr. Grigore Mora; se pierde în multitudinea de vile interbelice de patrimoniu de aici. Nimic nu amintește că a fost reședința lui Constantin&#8230;",
-      "link": "https://hotnews.ro/cine-a-fost-schindler-de-bucuresti-diplomatul-care-a-salvat-singur-5-000-de-evrei-despre-om-exceptional-si-fermecatoarea-sa-casa-cu-blazon-din-dorobanti-2173003",
-      "published_utc": "2026-02-17T13:13:43+00:00",
       "score": 3
     },
     {
@@ -36,11 +36,11 @@
       "section": "romania",
       "kind": "ro",
       "source": "HotNews",
-      "title": "Tot ce trebuie să știi despre Bitcoin: cum a apărut, de ce e valoros, cum poți plăti cu el. Sfaturi de la Binance Academy",
-      "summary": "Bitcoin reprezintă una dintre cele mai revoluționare invenții din lumea finanțelor moderne.&#160;Lansat în 2008, prin intermediul unui document numit whitepaper, Bitcoin a propus o modalitate nouă de a transfera valoare fără intermediari, precum băncile.&#160; Ce&#8230;",
-      "link": "https://hotnews.ro/tot-ce-trebuie-sa-stii-despre-bitcoin-cum-a-aparut-de-ce-e-valoros-cum-poti-plati-cu-el-sfaturi-de-la-binance-academy-2172951",
-      "published_utc": "2026-02-17T12:07:21+00:00",
-      "score": 1
+      "title": "Cine a fost „Schindler de București”, diplomatul care a salvat singur 5.000 de evrei. Despre  om excepțional și fermecătoarea sa casă cu blazon din Dorobanți",
+      "summary": "O casă din Dorobanți, cândva cartier rezidențial aristocratic, trece neobservată pe strada Dr. Grigore Mora; se pierde în multitudinea de vile interbelice de patrimoniu de aici. Nimic nu amintește că a fost reședința lui Constantin&#8230;",
+      "link": "https://hotnews.ro/cine-a-fost-schindler-de-bucuresti-diplomatul-care-a-salvat-singur-5-000-de-evrei-despre-om-exceptional-si-fermecatoarea-sa-casa-cu-blazon-din-dorobanti-2173003",
+      "published_utc": "2026-02-17T13:13:43+00:00",
+      "score": 3
     },
     {
       "section": "romania",
@@ -268,6 +268,16 @@
       {
         "section": "romania",
         "kind": "ro",
+        "source": "Digi24",
+        "title": "Președintele polonez nu va participa la lansarea Consiliului pentru Pace al lui Trump",
+        "summary": "Președintele polonez Karol Nawrocki nu va participa joi la reuniunea inaugurală a Consiliului pentru Pace înființat recent de Donald Trump la Washington și îl va trimite în locul său pe șeful Biroului său pentru Politică Internațională, relatează TVPWorld.",
+        "link": "https://www.digi24.ro/stiri/externe/presedintele-polonez-nu-va-participa-la-lansarea-consiliului-pentru-pace-al-lui-trump-3635245",
+        "published_utc": "2026-02-17T14:11:27+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
         "source": "HotNews",
         "title": "Universitatea MIT va studia dacă inteligența artificială poate fi folosită pentru combaterea sărăciei",
         "summary": "J-PAL, laboratorul de acțiune pentru combaterea sărăciei din cadrul Massachusetts Institute for Technology a acordat finanțare pentru opt noi studii de cercetare menite să înțeleagă modul în care inovațiile din domeniul inteligenței artificiale (AI) pot&#8230;",
@@ -284,16 +294,6 @@
         "link": "https://hotnews.ro/cine-a-fost-schindler-de-bucuresti-diplomatul-care-a-salvat-singur-5-000-de-evrei-despre-om-exceptional-si-fermecatoarea-sa-casa-cu-blazon-din-dorobanti-2173003",
         "published_utc": "2026-02-17T13:13:43+00:00",
         "score": 3
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "Tot ce trebuie să știi despre Bitcoin: cum a apărut, de ce e valoros, cum poți plăti cu el. Sfaturi de la Binance Academy",
-        "summary": "Bitcoin reprezintă una dintre cele mai revoluționare invenții din lumea finanțelor moderne.&#160;Lansat în 2008, prin intermediul unui document numit whitepaper, Bitcoin a propus o modalitate nouă de a transfera valoare fără intermediari, precum băncile.&#160; Ce&#8230;",
-        "link": "https://hotnews.ro/tot-ce-trebuie-sa-stii-despre-bitcoin-cum-a-aparut-de-ce-e-valoros-cum-poti-plati-cu-el-sfaturi-de-la-binance-academy-2172951",
-        "published_utc": "2026-02-17T12:07:21+00:00",
-        "score": 1
       },
       {
         "section": "romania",
@@ -546,19 +546,19 @@
         "category_id": "animals",
         "category_label": "🐾 Animale",
         "source": "Flickr (animals)",
-        "title": "gatto_Prali2026-02-14 at 14.39.49",
-        "link": "https://www.flickr.com/photos/stegodino/55100869736/",
-        "image_url": "https://live.staticflickr.com/65535/55100869736_99eaa937a8_b.jpg",
-        "published_utc": "2026-02-17T13:53:22+00:00"
+        "title": "Deer, Shubenacadie Wildlife Park",
+        "link": "https://www.flickr.com/photos/brownpau/55100956861/",
+        "image_url": "https://live.staticflickr.com/65535/55100956861_3bd4fa261e_b.jpg",
+        "published_utc": "2026-02-17T14:43:11+00:00"
       },
       {
         "category_id": "landscapes",
         "category_label": "🏞️ Peisaj",
         "source": "Flickr (landscape)",
-        "title": "groviglio",
-        "link": "https://www.flickr.com/photos/fbutzi/55101051833/",
-        "image_url": "https://live.staticflickr.com/65535/55101051833_e278b62e42_b.jpg",
-        "published_utc": "2026-02-17T13:38:34+00:00"
+        "title": "Lake Como",
+        "link": "https://www.flickr.com/photos/47neale/55101226814/",
+        "image_url": "https://live.staticflickr.com/65535/55101226814_7cbb2d9544_b.jpg",
+        "published_utc": "2026-02-17T14:44:34+00:00"
       }
     ],
     "joke": [
@@ -571,9 +571,9 @@
       {
         "date_utc": "2026-02-17",
         "source": "TimesNewRoman",
-        "title": "Șumudică rateaza din nou Manchester United din cauză că are geaca în culorile lui Chelsea",
+        "title": "Detalii înfiorătoare despre o minte bolnavă. Jeffrey Epstein se uita la filme românești",
         "summary": "Cotidian independent de umor voluntar",
-        "link": "https://www.timesnewroman.ro/sport/sumudica-rateaza-din-nou-manchester-united-din-cauza-ca-are-geaca-in-culorile-lui-chelsea/",
+        "link": "https://www.timesnewroman.ro/monden/detalii-infioratoare-despre-o-minte-bolnava-jeffrey-epstein-se-uita-la-filme-romanesti/",
         "note": "Satiră — nu este știre reală."
       }
     ]
