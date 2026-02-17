@@ -1,7 +1,37 @@
 {
-  "generated_utc": "2026-02-17T05:52:02+00:00",
-  "count": 22,
+  "generated_utc": "2026-02-17T06:45:01+00:00",
+  "count": 24,
   "items": [
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Digistoria – cele mai importante evenimente petrecute pe 17 februarie",
+      "summary": "Digistoria – cele mai importante evenimente petrecute pe 17 februarie",
+      "link": "https://www.digi24.ro/digistoria/digistoria-cele-mai-importante-evenimente-petrecute-pe-17-februarie-3634423",
+      "published_utc": "2026-02-17T06:41:58+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Peste 110 persoane salvate de pe munte în 24 de ore. Zeci de oameni au ajuns la spital",
+      "summary": "Peste 110 persoane au fost salvate de pe munte în ultimele 24 de ore de către salvamontişti, 48 dintre acestea fiind transportate cu ambulanţele la spital.",
+      "link": "https://www.digi24.ro/stiri/actualitate/social/peste-110-persoane-salvate-de-pe-munte-in-24-de-ore-zeci-de-oameni-au-ajuns-la-spital-3634413",
+      "published_utc": "2026-02-17T06:38:01+00:00",
+      "score": 3
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "Giving people cash didn’t cause more injuries or deaths",
+      "summary": "As cash transfer programs expand across the United States, critics often warn that giving people money could spark reckless behavior, leading to injuries or even deaths. But a sweeping 11-year analysis of Alaska’s long-running Permanent Fund Dividend program tells a different story. Researchers examined statewide hospital records and death data and found no increase in traumatic injuries or unnatural deaths after annual payments were distributed.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260212023028.htm",
+      "published_utc": "2026-02-17T02:29:23+00:00",
+      "score": 4
+    },
     {
       "section": "romania",
       "kind": "ro",
@@ -26,11 +56,11 @@
       "section": "medical",
       "kind": "global",
       "source": "ScienceDaily Health",
-      "title": "Giving people cash didn’t cause more injuries or deaths",
-      "summary": "As cash transfer programs expand across the United States, critics often warn that giving people money could spark reckless behavior, leading to injuries or even deaths. But a sweeping 11-year analysis of Alaska’s long-running Permanent Fund Dividend program tells a different story. Researchers examined statewide hospital records and death data and found no increase in traumatic injuries or unnatural deaths after annual payments were distributed.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260212023028.htm",
-      "published_utc": "2026-02-17T02:29:23+00:00",
-      "score": 4
+      "title": "Large study finds no link between mRNA COVID vaccine in pregnancy and autism",
+      "summary": "Researchers tracked more than 400 toddlers to see whether mRNA COVID-19 vaccination during or just before pregnancy was linked to autism or developmental delays. After detailed assessments of speech, motor skills, behavior, and social development, they found no meaningful differences between vaccinated and unvaccinated groups. Experts say the results provide strong reassurance about vaccine safety in pregnancy.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260215085001.htm",
+      "published_utc": "2026-02-15T14:51:05+00:00",
+      "score": 3
     },
     {
       "section": "romania",
@@ -41,16 +71,6 @@
       "link": "https://www.digi24.ro/stiri/actualitate/evenimente/eclipsa-inelara-de-soare-pe-17-februarie-2026-un-fenomen-astronomic-rar-unde-va-putea-fi-vazut-inelul-de-foc-3633543",
       "published_utc": "2026-02-16T18:40:01+00:00",
       "score": 1
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "Large study finds no link between mRNA COVID vaccine in pregnancy and autism",
-      "summary": "Researchers tracked more than 400 toddlers to see whether mRNA COVID-19 vaccination during or just before pregnancy was linked to autism or developmental delays. After detailed assessments of speech, motor skills, behavior, and social development, they found no meaningful differences between vaccinated and unvaccinated groups. Experts say the results provide strong reassurance about vaccine safety in pregnancy.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260215085001.htm",
-      "published_utc": "2026-02-15T14:51:05+00:00",
-      "score": 3
     },
     {
       "section": "medical",
@@ -225,6 +245,26 @@
   ],
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Digistoria – cele mai importante evenimente petrecute pe 17 februarie",
+        "summary": "Digistoria – cele mai importante evenimente petrecute pe 17 februarie",
+        "link": "https://www.digi24.ro/digistoria/digistoria-cele-mai-importante-evenimente-petrecute-pe-17-februarie-3634423",
+        "published_utc": "2026-02-17T06:41:58+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Peste 110 persoane salvate de pe munte în 24 de ore. Zeci de oameni au ajuns la spital",
+        "summary": "Peste 110 persoane au fost salvate de pe munte în ultimele 24 de ore de către salvamontişti, 48 dintre acestea fiind transportate cu ambulanţele la spital.",
+        "link": "https://www.digi24.ro/stiri/actualitate/social/peste-110-persoane-salvate-de-pe-munte-in-24-de-ore-zeci-de-oameni-au-ajuns-la-spital-3634413",
+        "published_utc": "2026-02-17T06:38:01+00:00",
+        "score": 3
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -466,19 +506,19 @@
         "category_id": "animals",
         "category_label": "🐾 Animale",
         "source": "Flickr (animals)",
-        "title": "Сизый голубь (лат. Columba livia)",
-        "link": "https://www.flickr.com/photos/141875401@N08/55100524853/",
-        "image_url": "https://live.staticflickr.com/65535/55100524853_eaa8649c90_b.jpg",
-        "published_utc": "2026-02-17T05:43:42+00:00"
+        "title": "ESA 17 June 2023_20",
+        "link": "https://www.flickr.com/photos/suecallaghan/55100555633/",
+        "image_url": "https://live.staticflickr.com/65535/55100555633_e973c97cd4_b.jpg",
+        "published_utc": "2026-02-17T06:13:15+00:00"
       },
       {
         "category_id": "landscapes",
         "category_label": "🏞️ Peisaj",
         "source": "Flickr (landscape)",
-        "title": "Deciduous",
-        "link": "https://www.flickr.com/photos/adaptabilly/55099446917/",
-        "image_url": "https://live.staticflickr.com/65535/55099446917_f194044913_b.jpg",
-        "published_utc": "2026-02-17T05:48:20+00:00"
+        "title": "🏞️ Peisaj",
+        "link": "https://www.flickr.com/photos/71368355@N05/55099480647/",
+        "image_url": "https://live.staticflickr.com/65535/55099480647_e2942996ff_b.jpg",
+        "published_utc": "2026-02-17T06:20:26+00:00"
       }
     ],
     "joke": [
@@ -491,9 +531,9 @@
       {
         "date_utc": "2026-02-17",
         "source": "TimesNewRoman",
-        "title": "După ce-a negat că a fost agentul lor, Mossadul neagă acum și că Epstein era evreu",
+        "title": "Sătulă de glume, Federaţia Mondială de Curling schimbă numele sportului. Acesta se va numi pulsug",
         "summary": "Cotidian independent de umor voluntar",
-        "link": "https://www.timesnewroman.ro/life-death/dupa-ce-a-negat-ca-a-fost-agentul-lor-mossadul-neaga-acum-si-ca-epstein-era-evreu/",
+        "link": "https://www.timesnewroman.ro/sport/satula-de-glume-federatia-mondiala-de-curling-schimba-numele-sportului-acesta-se-va-numi-pulsug/",
         "note": "Satiră — nu este știre reală."
       }
     ]
