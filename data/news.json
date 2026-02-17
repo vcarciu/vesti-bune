@@ -1,6 +1,6 @@
 {
-  "generated_utc": "2026-02-17T16:44:55+00:00",
-  "count": 25,
+  "generated_utc": "2026-02-17T17:48:19+00:00",
+  "count": 24,
   "items": [
     {
       "section": "romania",
@@ -150,16 +150,6 @@
       "summary": "Long before agriculture, humans were transforming Europe’s wild landscapes. Advanced simulations show that hunting and fire use by Neanderthals and Mesolithic hunter-gatherers reshaped forests and grasslands in measurable ways. By reducing populations of giant herbivores, people indirectly altered how dense vegetation became. The findings challenge the idea that prehistoric Europe was an untouched natural world.",
       "link": "https://www.sciencedaily.com/releases/2026/02/260212025613.htm",
       "published_utc": "2026-02-12T14:14:45+00:00",
-      "score": 1
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "NASA Breaking News",
-      "title": "NASA Completes First Flight of Laminar Flow Scaled Wing Design",
-      "summary": "NASA completed the first flight&#160;test&#160;of&#160;a scale-model wing&#160;designed to improve laminar flow, reducing drag&#160;and&#160;lowering&#160;fuel&#160;costs for&#160;future commercial&#160;aircraft.&#160; The flight took place Jan. 29 at NASA’s Armstrong Flight Research Center in Edwards, California, using&#160;one of the agency’s&#160;F-15B research&#160;jets.&#160;The&#160;NASA-designed,&#160;40-inch&#160;Crossflow Attenuated Natural Laminar Flow (CATNLF) wing&#160;model&#160;was attached to the aircraft’s underside vertically, like a fin.&#160; The flight lasted&#160;about&#160;75 minutes, during [&#8230;]",
-      "link": "https://www.nasa.gov/image-article/nasa-completes-first-flight-of-laminar-flow-scaled-wing-design/",
-      "published_utc": "2026-02-11T23:35:59+00:00",
       "score": 1
     },
     {
@@ -438,16 +428,6 @@
         "link": "https://www.sciencedaily.com/releases/2026/02/260212025613.htm",
         "published_utc": "2026-02-12T14:14:45+00:00",
         "score": 1
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "NASA Breaking News",
-        "title": "NASA Completes First Flight of Laminar Flow Scaled Wing Design",
-        "summary": "NASA completed the first flight&#160;test&#160;of&#160;a scale-model wing&#160;designed to improve laminar flow, reducing drag&#160;and&#160;lowering&#160;fuel&#160;costs for&#160;future commercial&#160;aircraft.&#160; The flight took place Jan. 29 at NASA’s Armstrong Flight Research Center in Edwards, California, using&#160;one of the agency’s&#160;F-15B research&#160;jets.&#160;The&#160;NASA-designed,&#160;40-inch&#160;Crossflow Attenuated Natural Laminar Flow (CATNLF) wing&#160;model&#160;was attached to the aircraft’s underside vertically, like a fin.&#160; The flight lasted&#160;about&#160;75 minutes, during [&#8230;]",
-        "link": "https://www.nasa.gov/image-article/nasa-completes-first-flight-of-laminar-flow-scaled-wing-design/",
-        "published_utc": "2026-02-11T23:35:59+00:00",
-        "score": 1
       }
     ],
     "environment": [
@@ -526,19 +506,19 @@
         "category_id": "animals",
         "category_label": "🐾 Animale",
         "source": "Flickr (animals)",
-        "title": "Rainbow Bee-eater / Skrautsvelgur (Merops ornatus)",
-        "link": "https://www.flickr.com/photos/dorres/55100257992/",
-        "image_url": "https://live.staticflickr.com/65535/55100257992_a11dba5105_b.jpg",
-        "published_utc": "2026-02-17T16:30:02+00:00"
+        "title": "Скальная овсянка, Emberiza buchanani neobscura, Grey-necked Bunting",
+        "link": "https://www.flickr.com/photos/140734051@N08/55100387632/",
+        "image_url": "https://live.staticflickr.com/65535/55100387632_a4f6a41a41_b.jpg",
+        "published_utc": "2026-02-17T17:45:59+00:00"
       },
       {
         "category_id": "landscapes",
         "category_label": "🏞️ Peisaj",
         "source": "Flickr (landscape)",
-        "title": "Pervalka",
-        "link": "https://www.flickr.com/photos/195055852@N08/55101521455/",
-        "image_url": "https://live.staticflickr.com/65535/55101521455_f44fbfe73f_b.jpg",
-        "published_utc": "2026-02-17T16:40:02+00:00"
+        "title": "_ZFC3898",
+        "link": "https://www.flickr.com/photos/sud-pics/55101462993/",
+        "image_url": "https://live.staticflickr.com/65535/55101462993_31e7e69644_b.jpg",
+        "published_utc": "2026-02-17T17:45:22+00:00"
       }
     ],
     "joke": [
@@ -551,9 +531,9 @@
       {
         "date_utc": "2026-02-17",
         "source": "TimesNewRoman",
-        "title": "Ca să nu mai aibă probleme cu avionul, Nicușor va pleca în SUA cu bicicleta",
+        "title": "Negoiță neagă că a luat cocaină: „Am luat doar cannabis, LSD, ecstasy și amfetamine”",
         "summary": "Cotidian independent de umor voluntar",
-        "link": "https://www.timesnewroman.ro/politic/ca-sa-nu-mai-aiba-probleme-cu-avionul-nicusor-va-pleca-in-sua-cu-bicicleta/",
+        "link": "https://www.timesnewroman.ro/politic/negoita-neaga-ca-a-luat-cocaina-am-luat-doar-cannabis-lsd-ecstasy-si-amfetamine/",
         "note": "Satiră — nu este știre reală."
       }
     ]
