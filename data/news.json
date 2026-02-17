@@ -1,7 +1,37 @@
 {
-  "generated_utc": "2026-02-17T17:48:19+00:00",
-  "count": 24,
+  "generated_utc": "2026-02-17T18:42:23+00:00",
+  "count": 25,
   "items": [
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "Filipe Coelho, antrenorul etapei a 27-a din SuperLiga, după victoria cu FCSB. Cum arată echipa ideală a rundei",
+      "summary": "Filipe Coelho a fost desemnat antrenorul etapei a 27-a din SuperLiga, după ce Universitatea Craiova a câștigat meciul cu FCSB, scor 1-0, și a rămas în fruntea clasamentului. Liga Profesionistă de Fotbal a anunțat cel&#8230;",
+      "link": "https://hotnews.ro/filipe-coelho-antrenorul-etapei-a-27-a-din-superliga-dupa-victoria-cu-fcsb-cum-arata-echipa-ideala-a-rundei-2173219",
+      "published_utc": "2026-02-17T18:05:44+00:00",
+      "score": 3
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Anunțul ministrului Finanțelor Alexandru Nazare despre pensiile ocupaționale și cele ale românilor care au lucrat în Europa",
+      "summary": "Alexandru Nazare, ministrul Finanţelor, anunţă marţi că viitorul pensiilor românilor şi investiţiile strategice în România au fost teme centrale azi la ECOFIN. Ministrul spune că a susţinut proiectul Comisiei Europene privind produsele de pensii ocupaţionale şi pentru cele paneuropene (PEPP), prin care se va introduce un tratament fiscal avantajos atât pentru pensile ocupaţionale, cât şi pentru cele paneuropene.",
+      "link": "https://www.digi24.ro/stiri/actualitate/social/anuntul-ministrului-finantelor-alexandru-nazare-despre-pensiile-ocupationale-si-cele-ale-romanilor-care-au-lucrat-in-europa-3635651",
+      "published_utc": "2026-02-17T18:01:13+00:00",
+      "score": 1
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "Toxic metals found in bananas after Brazil mining disaster",
+      "summary": "Researchers investigating crops grown in soil contaminated by the 2015 mining disaster in Brazil discovered that toxic metals are moving from the earth into edible plants. Bananas, cassava, and cocoa were found to absorb elements like lead and cadmium, with bananas showing a potential health risk for children under six. Although adults face lower immediate danger, scientists warn that long-term exposure could carry cumulative health consequences.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260217005756.htm",
+      "published_utc": "2026-02-17T12:07:09+00:00",
+      "score": 2
+    },
     {
       "section": "romania",
       "kind": "ro",
@@ -26,20 +56,10 @@
       "section": "medical",
       "kind": "global",
       "source": "ScienceDaily Health",
-      "title": "Toxic metals found in bananas after Brazil mining disaster",
-      "summary": "Researchers investigating crops grown in soil contaminated by the 2015 mining disaster in Brazil discovered that toxic metals are moving from the earth into edible plants. Bananas, cassava, and cocoa were found to absorb elements like lead and cadmium, with bananas showing a potential health risk for children under six. Although adults face lower immediate danger, scientists warn that long-term exposure could carry cumulative health consequences.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260217005756.htm",
-      "published_utc": "2026-02-17T12:07:09+00:00",
-      "score": 2
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "HotNews",
-      "title": "Populația României s-a redus cu peste 4 milioane de persoane în ultimii 35 de ani, arată Statistica",
-      "summary": "Populația României s-a redus cu peste 4,16 milioane de persoane, în 35 de ani, marjă în care migrația externă a avut o contribuție de 63%, iar sporul natural negativ de 37%, reiese dintr-o analiză de&#8230;",
-      "link": "https://hotnews.ro/populatia-romaniei-s-a-redus-cu-peste-4-milioane-de-locuitori-in-ultimii-35-de-ani-arata-statistica-2173095",
-      "published_utc": "2026-02-17T14:47:53+00:00",
+      "title": "Scientists discover brain switches that clear Alzheimer’s plaques",
+      "summary": "Researchers have identified two brain receptors that help the brain clear away amyloid beta, a hallmark of Alzheimer’s disease. By stimulating these receptors in mice, scientists increased levels of a natural amyloid-breaking enzyme, reduced buildup in the brain, and improved memory-related behavior. Because these receptors are common drug targets, the findings could open the door to affordable pill-based treatments with fewer side effects.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260215225555.htm",
+      "published_utc": "2026-02-17T10:30:08+00:00",
       "score": 1
     },
     {
@@ -50,16 +70,6 @@
       "summary": "Președintele polonez Karol Nawrocki nu va participa joi la reuniunea inaugurală a Consiliului pentru Pace înființat recent de Donald Trump la Washington și îl va trimite în locul său pe șeful Biroului său pentru Politică Internațională, relatează TVPWorld.",
       "link": "https://www.digi24.ro/stiri/externe/presedintele-polonez-nu-va-participa-la-lansarea-consiliului-pentru-pace-al-lui-trump-3635245",
       "published_utc": "2026-02-17T14:11:27+00:00",
-      "score": 1
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "Scientists discover brain switches that clear Alzheimer’s plaques",
-      "summary": "Researchers have identified two brain receptors that help the brain clear away amyloid beta, a hallmark of Alzheimer’s disease. By stimulating these receptors in mice, scientists increased levels of a natural amyloid-breaking enzyme, reduced buildup in the brain, and improved memory-related behavior. Because these receptors are common drug targets, the findings could open the door to affordable pill-based treatments with fewer side effects.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260215225555.htm",
-      "published_utc": "2026-02-17T10:30:08+00:00",
       "score": 1
     },
     {
@@ -249,6 +259,26 @@
         "section": "romania",
         "kind": "ro",
         "source": "HotNews",
+        "title": "Filipe Coelho, antrenorul etapei a 27-a din SuperLiga, după victoria cu FCSB. Cum arată echipa ideală a rundei",
+        "summary": "Filipe Coelho a fost desemnat antrenorul etapei a 27-a din SuperLiga, după ce Universitatea Craiova a câștigat meciul cu FCSB, scor 1-0, și a rămas în fruntea clasamentului. Liga Profesionistă de Fotbal a anunțat cel&#8230;",
+        "link": "https://hotnews.ro/filipe-coelho-antrenorul-etapei-a-27-a-din-superliga-dupa-victoria-cu-fcsb-cum-arata-echipa-ideala-a-rundei-2173219",
+        "published_utc": "2026-02-17T18:05:44+00:00",
+        "score": 3
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Anunțul ministrului Finanțelor Alexandru Nazare despre pensiile ocupaționale și cele ale românilor care au lucrat în Europa",
+        "summary": "Alexandru Nazare, ministrul Finanţelor, anunţă marţi că viitorul pensiilor românilor şi investiţiile strategice în România au fost teme centrale azi la ECOFIN. Ministrul spune că a susţinut proiectul Comisiei Europene privind produsele de pensii ocupaţionale şi pentru cele paneuropene (PEPP), prin care se va introduce un tratament fiscal avantajos atât pentru pensile ocupaţionale, cât şi pentru cele paneuropene.",
+        "link": "https://www.digi24.ro/stiri/actualitate/social/anuntul-ministrului-finantelor-alexandru-nazare-despre-pensiile-ocupationale-si-cele-ale-romanilor-care-au-lucrat-in-europa-3635651",
+        "published_utc": "2026-02-17T18:01:13+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
         "title": "„Regina contractelor cu statul” are începând de astăzi  o televiziune. „Îmi doresc să realizăm cât mai mult material de calitate”",
         "summary": "Mihaela Neagu, cea despre care site-ul de investigații Snoop scria în noiembrie 2024, că avea contracte de milioane de euro cu statul, a intrat de marți în acționariatul postului Agro TV, o televiziune axată pe&#8230;",
         "link": "https://hotnews.ro/regina-contractelor-cu-statul-are-incepand-de-astazi-si-o-televiziune-imi-doresc-sa-realizam-cat-mai-mult-material-de-calitate-2173147",
@@ -264,16 +294,6 @@
         "link": "https://hotnews.ro/ghid-anaf-cu-informatii-actualizate-noile-modificari-fiscale-in-vigoare-de-la-inceputul-lui-2026-2173149",
         "published_utc": "2026-02-17T15:37:17+00:00",
         "score": 2
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "Populația României s-a redus cu peste 4 milioane de persoane în ultimii 35 de ani, arată Statistica",
-        "summary": "Populația României s-a redus cu peste 4,16 milioane de persoane, în 35 de ani, marjă în care migrația externă a avut o contribuție de 63%, iar sporul natural negativ de 37%, reiese dintr-o analiză de&#8230;",
-        "link": "https://hotnews.ro/populatia-romaniei-s-a-redus-cu-peste-4-milioane-de-locuitori-in-ultimii-35-de-ani-arata-statistica-2173095",
-        "published_utc": "2026-02-17T14:47:53+00:00",
-        "score": 1
       },
       {
         "section": "romania",
@@ -506,19 +526,19 @@
         "category_id": "animals",
         "category_label": "🐾 Animale",
         "source": "Flickr (animals)",
-        "title": "Скальная овсянка, Emberiza buchanani neobscura, Grey-necked Bunting",
-        "link": "https://www.flickr.com/photos/140734051@N08/55100387632/",
-        "image_url": "https://live.staticflickr.com/65535/55100387632_a4f6a41a41_b.jpg",
-        "published_utc": "2026-02-17T17:45:59+00:00"
+        "title": "Etna",
+        "link": "https://www.flickr.com/photos/203883391@N03/55101590159/",
+        "image_url": "https://live.staticflickr.com/65535/55101590159_15be30b964_b.jpg",
+        "published_utc": "2026-02-17T18:32:54+00:00"
       },
       {
         "category_id": "landscapes",
         "category_label": "🏞️ Peisaj",
         "source": "Flickr (landscape)",
-        "title": "_ZFC3898",
-        "link": "https://www.flickr.com/photos/sud-pics/55101462993/",
-        "image_url": "https://live.staticflickr.com/65535/55101462993_31e7e69644_b.jpg",
-        "published_utc": "2026-02-17T17:45:22+00:00"
+        "title": "Madeira",
+        "link": "https://www.flickr.com/photos/postais_de_paixao/55101723890/",
+        "image_url": "https://live.staticflickr.com/65535/55101723890_acefb3606e_b.jpg",
+        "published_utc": "2026-02-17T18:39:31+00:00"
       }
     ],
     "joke": [
@@ -531,9 +551,9 @@
       {
         "date_utc": "2026-02-17",
         "source": "TimesNewRoman",
-        "title": "Negoiță neagă că a luat cocaină: „Am luat doar cannabis, LSD, ecstasy și amfetamine”",
+        "title": "După patru ani de bombardamente rusești, situația încălzirii în Kiev e ca la București",
         "summary": "Cotidian independent de umor voluntar",
-        "link": "https://www.timesnewroman.ro/politic/negoita-neaga-ca-a-luat-cocaina-am-luat-doar-cannabis-lsd-ecstasy-si-amfetamine/",
+        "link": "https://www.timesnewroman.ro/life-death/dupa-patru-ani-de-bombardamente-rusesti-situatia-incalzirii-in-kiev-e-ca-la-bucuresti/",
         "note": "Satiră — nu este știre reală."
       }
     ]
