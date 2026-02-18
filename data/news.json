@@ -1,7 +1,37 @@
 {
-  "generated_utc": "2026-02-18T17:47:32+00:00",
-  "count": 25,
+  "generated_utc": "2026-02-18T18:38:41+00:00",
+  "count": 27,
   "items": [
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "Cercetătorii au propus un termen medical pentru angajații îngrijorați că AI le va lua locul de muncă",
+      "summary": "Deși numărul de dovezi care să sugereze că adoptarea inteligenței artificiale (AI) a dus până în prezent la pierderi semnificative de locuri de muncă este deocamdată redus, subiectul a generat numeroase discuții și dezbateri. Un&#8230;",
+      "link": "https://hotnews.ro/cercetatorii-au-propus-un-termen-medical-pentru-angajatii-ingrijorati-ca-ai-le-va-lua-locul-de-munca-2173923",
+      "published_utc": "2026-02-18T18:31:52+00:00",
+      "score": 4
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Ziua Națională Constantin Brâncuși 2026: Evenimente culturale organizate în București și în alte orașe din țară",
+      "summary": "La 19 februarie, România marchează Ziua Națională Constantin Brâncuși, o ocazie de a celebra moștenirea unuia dintre cei mai importanți artiști ai secolului XX, considerat părintele sculpturii moderne. Cu acest prilej, instituțiile culturale din țară organizează expoziții, conferințe și evenimente dedicate operei sale.",
+      "link": "https://www.digi24.ro/magazin/timp-liber/cultura/ziua-nationala-constantin-brancusi-2026-evenimente-culturale-organizate-in-bucuresti-si-in-alte-orase-din-tara-3636933",
+      "published_utc": "2026-02-18T18:00:08+00:00",
+      "score": 2
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "NASA Breaking News",
+      "title": "Fishing Boats and City Lights",
+      "summary": "Fishing boats illuminate the Arabian Sea along India’s west coast with green lights designed to attract squid, shrimp, sardines, and mackerel in this nighttime photograph from the International Space Station, orbiting 259 miles above Earth on Dec. 25, 2025. Studying nighttime light offers a unique perspective for investigations into human behaviors, such as tracking the [&#8230;]",
+      "link": "https://www.nasa.gov/image-article/fishing-boats-and-city-lights/",
+      "published_utc": "2026-02-18T17:25:24+00:00",
+      "score": 1
+    },
     {
       "section": "romania",
       "kind": "ro",
@@ -25,11 +55,11 @@
     {
       "section": "science",
       "kind": "global",
-      "source": "NASA Breaking News",
-      "title": "Fishing Boats and City Lights",
-      "summary": "Fishing boats illuminate the Arabian Sea along India’s west coast with green lights designed to attract squid, shrimp, sardines, and mackerel in this nighttime photograph from the International Space Station, orbiting 259 miles above Earth on Dec. 25, 2025. Studying nighttime light offers a unique perspective for investigations into human behaviors, such as tracking the [&#8230;]",
-      "link": "https://www.nasa.gov/image-article/fishing-boats-and-city-lights/",
-      "published_utc": "2026-02-18T17:25:24+00:00",
+      "source": "ScienceDaily Science",
+      "title": "125 million-year-old dinosaur with never before seen hollow spikes discovered in China",
+      "summary": "A 125-million-year-old dinosaur just rewrote what we thought we knew about prehistoric life. Scientists in China have uncovered an exceptionally preserved juvenile iguanodontian with fossilized skin so detailed that individual cells are still visible. Even more astonishing, the plant-eating dinosaur was covered in hollow, porcupine-like spikes—structures never before documented in any dinosaur.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260217005734.htm",
+      "published_utc": "2026-02-18T06:10:28+00:00",
       "score": 1
     },
     {
@@ -53,13 +83,13 @@
       "score": 1
     },
     {
-      "section": "science",
+      "section": "medical",
       "kind": "global",
-      "source": "ScienceDaily Science",
-      "title": "125 million-year-old dinosaur with never before seen hollow spikes discovered in China",
-      "summary": "A 125-million-year-old dinosaur just rewrote what we thought we knew about prehistoric life. Scientists in China have uncovered an exceptionally preserved juvenile iguanodontian with fossilized skin so detailed that individual cells are still visible. Even more astonishing, the plant-eating dinosaur was covered in hollow, porcupine-like spikes—structures never before documented in any dinosaur.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260217005734.htm",
-      "published_utc": "2026-02-18T06:10:28+00:00",
+      "source": "ScienceDaily Health",
+      "title": "One stem cell generates 14 million tumor-killing NK cells in major cancer breakthrough",
+      "summary": "Scientists in China have unveiled a breakthrough way to mass-produce powerful cancer-fighting immune cells in the lab. By engineering early-stage stem cells from cord blood—rather than trying to modify mature natural killer (NK) cells—they created a streamlined process that generates enormous numbers of highly potent NK cells, including CAR-equipped versions designed to hunt specific cancers.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260215225600.htm",
+      "published_utc": "2026-02-18T03:31:13+00:00",
       "score": 1
     },
     {
@@ -71,16 +101,6 @@
       "link": "https://www.digi24.ro/stiri/economie/agricultura/batogul-de-sturion-din-tulcea-un-nou-produs-romanesc-protejat-in-ue-comisia-europeana-i-a-acordat-statutul-igp-3637089",
       "published_utc": "2026-02-18T13:21:44+00:00",
       "score": 4
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "One stem cell generates 14 million tumor-killing NK cells in major cancer breakthrough",
-      "summary": "Scientists in China have unveiled a breakthrough way to mass-produce powerful cancer-fighting immune cells in the lab. By engineering early-stage stem cells from cord blood—rather than trying to modify mature natural killer (NK) cells—they created a streamlined process that generates enormous numbers of highly potent NK cells, including CAR-equipped versions designed to hunt specific cancers.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260215225600.htm",
-      "published_utc": "2026-02-18T03:31:13+00:00",
-      "score": 1
     },
     {
       "section": "medical",
@@ -255,6 +275,26 @@
   ],
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Cercetătorii au propus un termen medical pentru angajații îngrijorați că AI le va lua locul de muncă",
+        "summary": "Deși numărul de dovezi care să sugereze că adoptarea inteligenței artificiale (AI) a dus până în prezent la pierderi semnificative de locuri de muncă este deocamdată redus, subiectul a generat numeroase discuții și dezbateri. Un&#8230;",
+        "link": "https://hotnews.ro/cercetatorii-au-propus-un-termen-medical-pentru-angajatii-ingrijorati-ca-ai-le-va-lua-locul-de-munca-2173923",
+        "published_utc": "2026-02-18T18:31:52+00:00",
+        "score": 4
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Ziua Națională Constantin Brâncuși 2026: Evenimente culturale organizate în București și în alte orașe din țară",
+        "summary": "La 19 februarie, România marchează Ziua Națională Constantin Brâncuși, o ocazie de a celebra moștenirea unuia dintre cei mai importanți artiști ai secolului XX, considerat părintele sculpturii moderne. Cu acest prilej, instituțiile culturale din țară organizează expoziții, conferințe și evenimente dedicate operei sale.",
+        "link": "https://www.digi24.ro/magazin/timp-liber/cultura/ziua-nationala-constantin-brancusi-2026-evenimente-culturale-organizate-in-bucuresti-si-in-alte-orase-din-tara-3636933",
+        "published_utc": "2026-02-18T18:00:08+00:00",
+        "score": 2
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -526,19 +566,19 @@
         "category_id": "animals",
         "category_label": "🐾 Animale",
         "source": "Flickr (animals)",
-        "title": "Mia-2",
-        "link": "https://www.flickr.com/photos/184488370@N08/55103063376/",
-        "image_url": "https://live.staticflickr.com/65535/55103063376_93aa221517_b.jpg",
-        "published_utc": "2026-02-18T17:45:06+00:00"
+        "title": "Teal Duck - (Anas crecca) - RSPB Grey Lake",
+        "link": "https://www.flickr.com/photos/properjobproductions/55103329113/",
+        "image_url": "https://live.staticflickr.com/65535/55103329113_fd41354ae9_b.jpg",
+        "published_utc": "2026-02-18T18:28:24+00:00"
       },
       {
         "category_id": "landscapes",
         "category_label": "🏞️ Peisaj",
         "source": "Flickr (landscape)",
-        "title": "Thou shalt not pass",
-        "link": "https://www.flickr.com/photos/183905957@N03/55102176982/",
-        "image_url": "https://live.staticflickr.com/65535/55102176982_8a6966e0fe_b.jpg",
-        "published_utc": "2026-02-18T17:44:34+00:00"
+        "title": "Lake Chabot Reflections",
+        "link": "https://www.flickr.com/photos/catdancing/55103360598/",
+        "image_url": "https://live.staticflickr.com/65535/55103360598_aca1fb36b0_b.jpg",
+        "published_utc": "2026-02-18T18:35:20+00:00"
       }
     ],
     "joke": [
@@ -551,9 +591,9 @@
       {
         "date_utc": "2026-02-18",
         "source": "TimesNewRoman",
-        "title": "Ghinion! Din cauza nămeților, decizia CCR nu poate ajunge la Monitorul Oficial și se va anula",
+        "title": "Ca să nu mai aibă probleme cu avionul, Nicușor va pleca în SUA cu bicicleta",
         "summary": "Cotidian independent de umor voluntar",
-        "link": "https://www.timesnewroman.ro/politic/ghinion-din-cauza-nametilor-decizia-ccr-nu-poate-ajunge-la-monitorul-oficial-si-se-va-anula/",
+        "link": "https://www.timesnewroman.ro/politic/ca-sa-nu-mai-aiba-probleme-cu-avionul-nicusor-va-pleca-in-sua-cu-bicicleta/",
         "note": "Satiră — nu este știre reală."
       }
     ]
