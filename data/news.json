@@ -1,7 +1,17 @@
 {
-  "generated_utc": "2026-02-18T08:34:16+00:00",
-  "count": 26,
+  "generated_utc": "2026-02-18T09:37:20+00:00",
+  "count": 24,
   "items": [
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Ilie Bolojan anunță că norma de hrană pentru militari rămâne neschimbată: A fost o discuție la propunerea Ministerului Finanțelor",
+      "summary": "„Nu se va acționa asupra normei de hrană, deci a fost numai o discuție de analiză. Această discuție a fost la propunerea Ministerului de Finanțe”, a declarat Ilie Bolojan la TVR Info. Astfel, premierul nu confirmă tăieri în această zonă.",
+      "link": "https://www.digi24.ro/stiri/actualitate/politica/ilie-bolojan-anunta-ca-norma-de-hrana-pentru-militari-ramane-neschimbata-a-fost-o-discutie-la-propunerea-ministerului-finantelor-3635807",
+      "published_utc": "2026-02-18T08:34:49+00:00",
+      "score": 1
+    },
     {
       "section": "romania",
       "kind": "ro",
@@ -10,16 +20,6 @@
       "summary": "Comisia Europeană a aprobat miercuri o doză mai mare a medicamentului pentru obezitate Wegovy, produs de Novo Nordisk, oferind pacienţilor şi medicilor o opţiune care ar putea susţine o scădere în greutate mai accentuată, transmite Reuters.",
       "link": "https://www.digi24.ro/stiri/actualitate/sanatate/ue-aproba-o-doza-mai-puternica-a-medicamentului-wegovy-pentru-tratamentul-obezitatii-ce-arata-studiile-3636225",
       "published_utc": "2026-02-18T07:04:17+00:00",
-      "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "HotNews",
-      "title": "România, mai scumpă la mâncare decât Spania, Italia, Portugalia sau Grecia",
-      "summary": "Prețurile coșului tipic de cumpărături pentru o gospodărie din supermarketurile românești continuă să fie mai mari decât în Spania, Portugalia, Bulgaria sau Grecia, deși România are TVA-ul mai mic, potrivit studiului publicat de Institutul pentru&#8230;",
-      "link": "https://hotnews.ro/romania-mai-scumpa-la-mancare-decat-spania-italia-portugalia-sau-grecia-arata-un-studiu-elen-2173367",
-      "published_utc": "2026-02-18T05:03:05+00:00",
       "score": 1
     },
     {
@@ -43,16 +43,6 @@
       "score": 3
     },
     {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Ilie Bolojan anunță că norma de hrană pentru militari rămâne neschimbată: A fost o discuție la propunerea Ministerului Finanțelor",
-      "summary": "„Nu se va acționa asupra normei de hrană, deci a fost numai o discuție de analiză. Această discuție a fost la propunerea Ministerului de Finanțe”, a declarat Ilie Bolojan la TVR Info. Astfel, premierul nu confirmă tăieri în această zonă.",
-      "link": "https://www.digi24.ro/stiri/actualitate/politica/ilie-bolojan-anunta-ca-norma-de-hrana-pentru-militari-ramane-neschimbata-a-fost-o-discutie-la-propunerea-ministerului-finantelor-3635807",
-      "published_utc": "2026-02-17T19:56:10+00:00",
-      "score": 1
-    },
-    {
       "section": "medical",
       "kind": "global",
       "source": "ScienceDaily Health",
@@ -60,16 +50,6 @@
       "summary": "Scientists in China have unveiled a breakthrough way to mass-produce powerful cancer-fighting immune cells in the lab. By engineering early-stage stem cells from cord blood—rather than trying to modify mature natural killer (NK) cells—they created a streamlined process that generates enormous numbers of highly potent NK cells, including CAR-equipped versions designed to hunt specific cancers.",
       "link": "https://www.sciencedaily.com/releases/2026/02/260215225600.htm",
       "published_utc": "2026-02-18T03:31:13+00:00",
-      "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Anunțul ministrului Finanțelor Alexandru Nazare despre pensiile ocupaționale și cele ale românilor care au lucrat în Europa",
-      "summary": "Alexandru Nazare, ministrul Finanţelor, anunţă marţi că viitorul pensiilor românilor şi investiţiile strategice în România au fost teme centrale azi la ECOFIN. Ministrul spune că a susţinut proiectul Comisiei Europene privind produsele de pensii ocupaţionale şi pentru cele paneuropene (PEPP), prin care se va introduce un tratament fiscal avantajos atât pentru pensile ocupaţionale, cât şi pentru cele paneuropene.",
-      "link": "https://www.digi24.ro/stiri/actualitate/social/anuntul-ministrului-finantelor-alexandru-nazare-despre-pensiile-ocupationale-si-cele-ale-romanilor-care-au-lucrat-in-europa-3635651",
-      "published_utc": "2026-02-17T18:01:13+00:00",
       "score": 1
     },
     {
@@ -185,7 +165,7 @@
     {
       "section": "medical",
       "kind": "global",
-      "source": "ScienceDaily Health",
+      "source": "ScienceDaily Medicine",
       "title": "Scientists found a gut compound that helps protect the liver",
       "summary": "What a mother eats during pregnancy may quietly shape her child’s liver health years down the road—but new research suggests there may be a way to tip the odds back in a healthier direction. Scientists found that a natural compound made by healthy gut bacteria dramatically reduced fatty liver disease in the offspring of mice whose mothers ate a high-fat, high-sugar diet. The compound, called indole, appeared to protect the liver, improve blood sugar, limit weight gain, and even reshape the gut microbiome in lasting ways.",
       "link": "https://www.sciencedaily.com/releases/2026/02/260208011028.htm",
@@ -269,20 +249,20 @@
         "section": "romania",
         "kind": "ro",
         "source": "Digi24",
-        "title": "UE aprobă o doză mai puternică a medicamentului Wegovy pentru tratamentul obezității. Ce arată studiile",
-        "summary": "Comisia Europeană a aprobat miercuri o doză mai mare a medicamentului pentru obezitate Wegovy, produs de Novo Nordisk, oferind pacienţilor şi medicilor o opţiune care ar putea susţine o scădere în greutate mai accentuată, transmite Reuters.",
-        "link": "https://www.digi24.ro/stiri/actualitate/sanatate/ue-aproba-o-doza-mai-puternica-a-medicamentului-wegovy-pentru-tratamentul-obezitatii-ce-arata-studiile-3636225",
-        "published_utc": "2026-02-18T07:04:17+00:00",
+        "title": "Ilie Bolojan anunță că norma de hrană pentru militari rămâne neschimbată: A fost o discuție la propunerea Ministerului Finanțelor",
+        "summary": "„Nu se va acționa asupra normei de hrană, deci a fost numai o discuție de analiză. Această discuție a fost la propunerea Ministerului de Finanțe”, a declarat Ilie Bolojan la TVR Info. Astfel, premierul nu confirmă tăieri în această zonă.",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/ilie-bolojan-anunta-ca-norma-de-hrana-pentru-militari-ramane-neschimbata-a-fost-o-discutie-la-propunerea-ministerului-finantelor-3635807",
+        "published_utc": "2026-02-18T08:34:49+00:00",
         "score": 1
       },
       {
         "section": "romania",
         "kind": "ro",
-        "source": "HotNews",
-        "title": "România, mai scumpă la mâncare decât Spania, Italia, Portugalia sau Grecia",
-        "summary": "Prețurile coșului tipic de cumpărături pentru o gospodărie din supermarketurile românești continuă să fie mai mari decât în Spania, Portugalia, Bulgaria sau Grecia, deși România are TVA-ul mai mic, potrivit studiului publicat de Institutul pentru&#8230;",
-        "link": "https://hotnews.ro/romania-mai-scumpa-la-mancare-decat-spania-italia-portugalia-sau-grecia-arata-un-studiu-elen-2173367",
-        "published_utc": "2026-02-18T05:03:05+00:00",
+        "source": "Digi24",
+        "title": "UE aprobă o doză mai puternică a medicamentului Wegovy pentru tratamentul obezității. Ce arată studiile",
+        "summary": "Comisia Europeană a aprobat miercuri o doză mai mare a medicamentului pentru obezitate Wegovy, produs de Novo Nordisk, oferind pacienţilor şi medicilor o opţiune care ar putea susţine o scădere în greutate mai accentuată, transmite Reuters.",
+        "link": "https://www.digi24.ro/stiri/actualitate/sanatate/ue-aproba-o-doza-mai-puternica-a-medicamentului-wegovy-pentru-tratamentul-obezitatii-ce-arata-studiile-3636225",
+        "published_utc": "2026-02-18T07:04:17+00:00",
         "score": 1
       },
       {
@@ -294,26 +274,6 @@
         "link": "https://www.digi24.ro/stiri/actualitate/evenimente/miercurea-cenusii-2026-incepe-postul-mare-pentru-catolici-cele-mai-importante-traditii-si-obiceiuri-ce-simbolizeaza-ritualul-crucii-3634583",
         "published_utc": "2026-02-18T05:00:32+00:00",
         "score": 3
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Ilie Bolojan anunță că norma de hrană pentru militari rămâne neschimbată: A fost o discuție la propunerea Ministerului Finanțelor",
-        "summary": "„Nu se va acționa asupra normei de hrană, deci a fost numai o discuție de analiză. Această discuție a fost la propunerea Ministerului de Finanțe”, a declarat Ilie Bolojan la TVR Info. Astfel, premierul nu confirmă tăieri în această zonă.",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/ilie-bolojan-anunta-ca-norma-de-hrana-pentru-militari-ramane-neschimbata-a-fost-o-discutie-la-propunerea-ministerului-finantelor-3635807",
-        "published_utc": "2026-02-17T19:56:10+00:00",
-        "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Anunțul ministrului Finanțelor Alexandru Nazare despre pensiile ocupaționale și cele ale românilor care au lucrat în Europa",
-        "summary": "Alexandru Nazare, ministrul Finanţelor, anunţă marţi că viitorul pensiilor românilor şi investiţiile strategice în România au fost teme centrale azi la ECOFIN. Ministrul spune că a susţinut proiectul Comisiei Europene privind produsele de pensii ocupaţionale şi pentru cele paneuropene (PEPP), prin care se va introduce un tratament fiscal avantajos atât pentru pensile ocupaţionale, cât şi pentru cele paneuropene.",
-        "link": "https://www.digi24.ro/stiri/actualitate/social/anuntul-ministrului-finantelor-alexandru-nazare-despre-pensiile-ocupationale-si-cele-ale-romanilor-care-au-lucrat-in-europa-3635651",
-        "published_utc": "2026-02-17T18:01:13+00:00",
-        "score": 1
       }
     ],
     "medical": [
@@ -410,7 +370,7 @@
       {
         "section": "medical",
         "kind": "global",
-        "source": "ScienceDaily Health",
+        "source": "ScienceDaily Medicine",
         "title": "Scientists found a gut compound that helps protect the liver",
         "summary": "What a mother eats during pregnancy may quietly shape her child’s liver health years down the road—but new research suggests there may be a way to tip the odds back in a healthier direction. Scientists found that a natural compound made by healthy gut bacteria dramatically reduced fatty liver disease in the offspring of mice whose mothers ate a high-fat, high-sugar diet. The compound, called indole, appeared to protect the liver, improve blood sugar, limit weight gain, and even reshape the gut microbiome in lasting ways.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260208011028.htm",
@@ -546,19 +506,19 @@
         "category_id": "animals",
         "category_label": "🐾 Animale",
         "source": "Flickr (animals)",
-        "title": "DSCF0691c Pintail, WWT Welney Washes, December 2025",
-        "link": "https://www.flickr.com/photos/bobchappell/55102713285/",
-        "image_url": "https://live.staticflickr.com/65535/55102713285_eda2cf5080_b.jpg",
-        "published_utc": "2026-02-18T08:23:05+00:00"
+        "title": "Starlings, ahoy",
+        "link": "https://www.flickr.com/photos/davea2007/55102679574/",
+        "image_url": "https://live.staticflickr.com/65535/55102679574_6dd21ef0e8_b.jpg",
+        "published_utc": "2026-02-18T09:29:16+00:00"
       },
       {
         "category_id": "landscapes",
         "category_label": "🏞️ Peisaj",
         "source": "Flickr (landscape)",
-        "title": "Loch Ness",
-        "link": "https://www.flickr.com/photos/fraserwest/55102550743/",
-        "image_url": "https://live.staticflickr.com/65535/55102550743_e7654302fd_b.jpg",
-        "published_utc": "2026-02-18T08:31:37+00:00"
+        "title": "MUSEU VATICANO // ROMA",
+        "link": "https://www.flickr.com/photos/felnob/55102415071/",
+        "image_url": "https://live.staticflickr.com/65535/55102415071_0cdf43ca3c_b.jpg",
+        "published_utc": "2026-02-18T09:30:31+00:00"
       }
     ],
     "joke": [
@@ -571,9 +531,9 @@
       {
         "date_utc": "2026-02-18",
         "source": "TimesNewRoman",
-        "title": "Predoiu se opune închiderii TikTok, că are două Like-uri la un video și nu vrea să le piardă",
+        "title": "Primarii responsabili nu sparg banii pe iPhone! Piedone jr. şi-a luat doar o kendama de 4000 de lei",
         "summary": "Cotidian independent de umor voluntar",
-        "link": "https://www.timesnewroman.ro/politic/predoiu-se-opune-inchiderii-tiktok-ca-are-doua-like-uri-la-un-video-si-nu-vrea-sa-le-piarda/",
+        "link": "https://www.timesnewroman.ro/sport/primarii-responsabili-nu-sparg-banii-pe-iphone-piedone-jr-si-a-luat-doar-o-kendama-de-4000-de-lei/",
         "note": "Satiră — nu este știre reală."
       }
     ]
