@@ -1,6 +1,6 @@
 {
-  "generated_utc": "2026-02-18T19:40:51+00:00",
-  "count": 27,
+  "generated_utc": "2026-02-18T20:28:25+00:00",
+  "count": 26,
   "items": [
     {
       "section": "romania",
@@ -26,10 +26,10 @@
       "section": "science",
       "kind": "global",
       "source": "NASA Breaking News",
-      "title": "Fishing Boats and City Lights",
-      "summary": "Fishing boats illuminate the Arabian Sea along India’s west coast with green lights designed to attract squid, shrimp, sardines, and mackerel in this nighttime photograph from the International Space Station, orbiting 259 miles above Earth on Dec. 25, 2025. Studying nighttime light offers a unique perspective for investigations into human behaviors, such as tracking the [&#8230;]",
-      "link": "https://www.nasa.gov/image-article/fishing-boats-and-city-lights/",
-      "published_utc": "2026-02-18T17:25:24+00:00",
+      "title": "Notes from the Field",
+      "summary": "Looking at Chlorophyll from Space By Compton “Jim” Tucker NASA scientists are able to study plants from space, but this wasn’t always the case. “I love using satellite data to study the Earth,” says Dr. Compton “Jim” Tucker. When Tucker was a graduate student, he and some friends discovered a new way to study photosynthesis. […]",
+      "link": "https://science.nasa.gov/missions/explorer/notes-from-the-field/",
+      "published_utc": "2026-02-18T19:23:57+00:00",
       "score": 1
     },
     {
@@ -46,30 +46,20 @@
       "section": "romania",
       "kind": "ro",
       "source": "Digi24",
-      "title": "De ce a respins CCR sesizarea ÎCCJ privind pensiile magistraților. Argumentele judecătorilor constituționali",
-      "summary": "Curtea Constituțională a României a decis miercuri că legea pensiilor de serviciu ale magistraților este constituțională și a motivat că dispozițiile legale asigură o tranziție graduală la noile condiții de vechime și vârstă pentru pensionare și că angajarea răspunderii Guvernului a respectat cadrul constituțional și principiile urgenței și necesității adoptării actului normativ.",
-      "link": "https://www.digi24.ro/stiri/actualitate/justitie/de-ce-a-respins-ccr-sesizarea-iccj-privind-pensiile-magistratilor-argumentele-judecatorilor-constitutionali-3637123",
-      "published_utc": "2026-02-18T15:43:33+00:00",
-      "score": 2
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "ScienceDaily Science",
-      "title": "125 million-year-old dinosaur with never before seen hollow spikes discovered in China",
-      "summary": "A 125-million-year-old dinosaur just rewrote what we thought we knew about prehistoric life. Scientists in China have uncovered an exceptionally preserved juvenile iguanodontian with fossilized skin so detailed that individual cells are still visible. Even more astonishing, the plant-eating dinosaur was covered in hollow, porcupine-like spikes—structures never before documented in any dinosaur.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260217005734.htm",
-      "published_utc": "2026-02-18T06:10:28+00:00",
-      "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
       "title": "Viraj energetic la Viena: Austria vrea să reducă importurile de GNL din SUA. România și Africa, noile opțiuni",
       "summary": "Austria caută să extindă energia regenerabilă şi să majoreze importurile de gaze din Africa, pentru a evita să devină prea dependentă de gazele naturale lichefiate (GNL) din Statele Unite, a afirmat miercuri secretarul austriac pentru Energie, Elisabeth Zehetner, în condiţiile în care Europa revizuieşte aprovizionarea cu energie, transmite Reuters.",
       "link": "https://www.digi24.ro/stiri/economie/energie/viraj-energetic-la-viena-austria-vrea-sa-reduca-importurile-de-gnl-din-sua-romania-si-africa-noile-optiuni-3637415",
       "published_utc": "2026-02-18T15:41:05+00:00",
+      "score": 1
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "NASA Breaking News",
+      "title": "Fishing Boats and City Lights",
+      "summary": "Fishing boats illuminate the Arabian Sea along India’s west coast with green lights designed to attract squid, shrimp, sardines, and mackerel in this nighttime photograph from the International Space Station, orbiting 259 miles above Earth on Dec. 25, 2025. Studying nighttime light offers a unique perspective for investigations into human behaviors, such as tracking the [&#8230;]",
+      "link": "https://www.nasa.gov/image-article/fishing-boats-and-city-lights/",
+      "published_utc": "2026-02-18T17:25:24+00:00",
       "score": 1
     },
     {
@@ -83,6 +73,16 @@
       "score": 1
     },
     {
+      "section": "science",
+      "kind": "global",
+      "source": "ScienceDaily Science",
+      "title": "125 million-year-old dinosaur with never before seen hollow spikes discovered in China",
+      "summary": "A 125-million-year-old dinosaur just rewrote what we thought we knew about prehistoric life. Scientists in China have uncovered an exceptionally preserved juvenile iguanodontian with fossilized skin so detailed that individual cells are still visible. Even more astonishing, the plant-eating dinosaur was covered in hollow, porcupine-like spikes—structures never before documented in any dinosaur.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260217005734.htm",
+      "published_utc": "2026-02-18T06:10:28+00:00",
+      "score": 1
+    },
+    {
       "section": "medical",
       "kind": "global",
       "source": "ScienceDaily Health",
@@ -91,16 +91,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/02/260215225600.htm",
       "published_utc": "2026-02-18T03:31:13+00:00",
       "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "„Batogul de sturion” din Tulcea, un nou produs românesc protejat în UE. Comisia Europeană i-a acordat statutul IGP",
-      "summary": "Comisia Europeană a aprobat miercuri înregistrarea „Batogului de sturion” din Tulcea în registrul produselor cu Indicație Geografică Protejată (IGP), oferindu-i astfel protecție la nivelul Uniunii Europene. Decizia recunoaște legătura strânsă dintre acest produs tradițional și aria geografică a județului Tulcea, precum și reputația câștigată prin procesul său specific de preparare, bazat pe materie primă provenită din acvacultură.",
-      "link": "https://www.digi24.ro/stiri/economie/agricultura/batogul-de-sturion-din-tulcea-un-nou-produs-romanesc-protejat-in-ue-comisia-europeana-i-a-acordat-statutul-igp-3637089",
-      "published_utc": "2026-02-18T13:21:44+00:00",
-      "score": 4
     },
     {
       "section": "medical",
@@ -309,16 +299,6 @@
         "section": "romania",
         "kind": "ro",
         "source": "Digi24",
-        "title": "De ce a respins CCR sesizarea ÎCCJ privind pensiile magistraților. Argumentele judecătorilor constituționali",
-        "summary": "Curtea Constituțională a României a decis miercuri că legea pensiilor de serviciu ale magistraților este constituțională și a motivat că dispozițiile legale asigură o tranziție graduală la noile condiții de vechime și vârstă pentru pensionare și că angajarea răspunderii Guvernului a respectat cadrul constituțional și principiile urgenței și necesității adoptării actului normativ.",
-        "link": "https://www.digi24.ro/stiri/actualitate/justitie/de-ce-a-respins-ccr-sesizarea-iccj-privind-pensiile-magistratilor-argumentele-judecatorilor-constitutionali-3637123",
-        "published_utc": "2026-02-18T15:43:33+00:00",
-        "score": 2
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
         "title": "Viraj energetic la Viena: Austria vrea să reducă importurile de GNL din SUA. România și Africa, noile opțiuni",
         "summary": "Austria caută să extindă energia regenerabilă şi să majoreze importurile de gaze din Africa, pentru a evita să devină prea dependentă de gazele naturale lichefiate (GNL) din Statele Unite, a afirmat miercuri secretarul austriac pentru Energie, Elisabeth Zehetner, în condiţiile în care Europa revizuieşte aprovizionarea cu energie, transmite Reuters.",
         "link": "https://www.digi24.ro/stiri/economie/energie/viraj-energetic-la-viena-austria-vrea-sa-reduca-importurile-de-gnl-din-sua-romania-si-africa-noile-optiuni-3637415",
@@ -334,16 +314,6 @@
         "link": "https://www.digi24.ro/digistoria/digistoria-cele-mai-importante-evenimente-petrecute-pe-18-februarie-3637201",
         "published_utc": "2026-02-18T14:11:55+00:00",
         "score": 1
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "„Batogul de sturion” din Tulcea, un nou produs românesc protejat în UE. Comisia Europeană i-a acordat statutul IGP",
-        "summary": "Comisia Europeană a aprobat miercuri înregistrarea „Batogului de sturion” din Tulcea în registrul produselor cu Indicație Geografică Protejată (IGP), oferindu-i astfel protecție la nivelul Uniunii Europene. Decizia recunoaște legătura strânsă dintre acest produs tradițional și aria geografică a județului Tulcea, precum și reputația câștigată prin procesul său specific de preparare, bazat pe materie primă provenită din acvacultură.",
-        "link": "https://www.digi24.ro/stiri/economie/agricultura/batogul-de-sturion-din-tulcea-un-nou-produs-romanesc-protejat-in-ue-comisia-europeana-i-a-acordat-statutul-igp-3637089",
-        "published_utc": "2026-02-18T13:21:44+00:00",
-        "score": 4
       }
     ],
     "medical": [
@@ -453,6 +423,16 @@
         "section": "science",
         "kind": "global",
         "source": "NASA Breaking News",
+        "title": "Notes from the Field",
+        "summary": "Looking at Chlorophyll from Space By Compton “Jim” Tucker NASA scientists are able to study plants from space, but this wasn’t always the case. “I love using satellite data to study the Earth,” says Dr. Compton “Jim” Tucker. When Tucker was a graduate student, he and some friends discovered a new way to study photosynthesis. […]",
+        "link": "https://science.nasa.gov/missions/explorer/notes-from-the-field/",
+        "published_utc": "2026-02-18T19:23:57+00:00",
+        "score": 1
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "NASA Breaking News",
         "title": "Fishing Boats and City Lights",
         "summary": "Fishing boats illuminate the Arabian Sea along India’s west coast with green lights designed to attract squid, shrimp, sardines, and mackerel in this nighttime photograph from the International Space Station, orbiting 259 miles above Earth on Dec. 25, 2025. Studying nighttime light offers a unique perspective for investigations into human behaviors, such as tracking the [&#8230;]",
         "link": "https://www.nasa.gov/image-article/fishing-boats-and-city-lights/",
@@ -557,28 +537,28 @@
         "category_id": "space",
         "category_label": "🚀 Spațiu",
         "source": "Flickr (space)",
-        "title": "LEGO Mini Series: mini-bots: the rebel robot fighting for mechanoid emancipation and freedom here seen with two bulky minder-droids - he is wearing a mask that disguise his true identity (AFOL MOC sci-fi hobby collection and lote - radio message - figure",
-        "link": "https://www.flickr.com/photos/transvestitestallion/55103395740/",
-        "image_url": "https://live.staticflickr.com/65535/55103395740_7712c4194f_b.jpg",
-        "published_utc": "2026-02-18T17:19:32+00:00"
+        "title": "Presa de Sfissef, Figuig (Marruecos)",
+        "link": "https://www.flickr.com/photos/migmasat/55103285431/",
+        "image_url": "https://live.staticflickr.com/65535/55103285431_76deb7f182_b.jpg",
+        "published_utc": "2026-02-18T19:55:04+00:00"
       },
       {
         "category_id": "animals",
         "category_label": "🐾 Animale",
         "source": "Flickr (animals)",
-        "title": "Black Capped Chickade",
-        "link": "https://www.flickr.com/photos/9063892@N03/55103622050/",
-        "image_url": "https://live.staticflickr.com/65535/55103622050_718b8bbcda_b.jpg",
-        "published_utc": "2026-02-18T19:33:44+00:00"
+        "title": "🐾 Animale",
+        "link": "https://www.flickr.com/photos/marricom/55103537398/",
+        "image_url": "https://live.staticflickr.com/65535/55103537398_aa551b8b5c_b.jpg",
+        "published_utc": "2026-02-18T20:23:13+00:00"
       },
       {
         "category_id": "landscapes",
         "category_label": "🏞️ Peisaj",
         "source": "Flickr (landscape)",
-        "title": "sembrava ...",
-        "link": "https://www.flickr.com/photos/pamo67/55103515839/",
-        "image_url": "https://live.staticflickr.com/65535/55103515839_c540449b0a_b.jpg",
-        "published_utc": "2026-02-18T19:32:57+00:00"
+        "title": "Pakri juga frozen",
+        "link": "https://www.flickr.com/photos/andrespapp/55102437262/",
+        "image_url": "https://live.staticflickr.com/65535/55102437262_195dcb913d_b.jpg",
+        "published_utc": "2026-02-18T20:21:01+00:00"
       }
     ],
     "joke": [
@@ -591,9 +571,9 @@
       {
         "date_utc": "2026-02-18",
         "source": "TimesNewRoman",
-        "title": "Predoiu se opune închiderii TikTok, că are două Like-uri la un video și nu vrea să le piardă",
+        "title": "Miracol! După postările despre Platon, lui CTP i-a crescut păr identic cu al lui Dăncilă",
         "summary": "Cotidian independent de umor voluntar",
-        "link": "https://www.timesnewroman.ro/politic/predoiu-se-opune-inchiderii-tiktok-ca-are-doua-like-uri-la-un-video-si-nu-vrea-sa-le-piarda/",
+        "link": "https://www.timesnewroman.ro/monden/miracol-dupa-postarile-despre-platon-lui-ctp-i-a-crescut-par-identic-cu-al-lui-dancila/",
         "note": "Satiră — nu este știre reală."
       }
     ]
