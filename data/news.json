@@ -1,12 +1,12 @@
 {
-  "generated_utc": "2026-02-18T05:54:59+00:00",
-  "count": 25,
+  "generated_utc": "2026-02-18T06:50:18+00:00",
+  "count": 26,
   "items": [
     {
       "section": "romania",
       "kind": "ro",
       "source": "HotNews",
-      "title": "România, mai scumpă la mâncare decât Spania, Italia, Portugalia sau Grecia, arată un studiu elen",
+      "title": "România, mai scumpă la mâncare decât Spania, Italia, Portugalia sau Grecia",
       "summary": "Prețurile coșului tipic de cumpărături pentru o gospodărie din supermarketurile românești continuă să fie mai mari decât în Spania, Portugalia, Bulgaria sau Grecia, deși România are TVA-ul mai mic, potrivit studiului publicat de Institutul pentru&#8230;",
       "link": "https://hotnews.ro/romania-mai-scumpa-la-mancare-decat-spania-italia-portugalia-sau-grecia-arata-un-studiu-elen-2173367",
       "published_utc": "2026-02-18T05:03:05+00:00",
@@ -23,14 +23,14 @@
       "score": 3
     },
     {
-      "section": "medical",
+      "section": "science",
       "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "Toxic metals found in bananas after Brazil mining disaster",
-      "summary": "Researchers investigating crops grown in soil contaminated by the 2015 mining disaster in Brazil discovered that toxic metals are moving from the earth into edible plants. Bananas, cassava, and cocoa were found to absorb elements like lead and cadmium, with bananas showing a potential health risk for children under six. Although adults face lower immediate danger, scientists warn that long-term exposure could carry cumulative health consequences.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260217005756.htm",
-      "published_utc": "2026-02-17T12:07:09+00:00",
-      "score": 2
+      "source": "ScienceDaily Science",
+      "title": "125 million-year-old dinosaur with never before seen hollow spikes discovered in China",
+      "summary": "A 125-million-year-old dinosaur just rewrote what we thought we knew about prehistoric life. Scientists in China have uncovered an exceptionally preserved juvenile iguanodontian with fossilized skin so detailed that individual cells are still visible. Even more astonishing, the plant-eating dinosaur was covered in hollow, porcupine-like spikes—structures never before documented in any dinosaur.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260217005734.htm",
+      "published_utc": "2026-02-18T06:10:28+00:00",
+      "score": 1
     },
     {
       "section": "romania",
@@ -56,21 +56,11 @@
       "section": "medical",
       "kind": "global",
       "source": "ScienceDaily Health",
-      "title": "Scientists discover brain switches that clear Alzheimer’s plaques",
-      "summary": "Researchers have identified two brain receptors that help the brain clear away amyloid beta, a hallmark of Alzheimer’s disease. By stimulating these receptors in mice, scientists increased levels of a natural amyloid-breaking enzyme, reduced buildup in the brain, and improved memory-related behavior. Because these receptors are common drug targets, the findings could open the door to affordable pill-based treatments with fewer side effects.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260215225555.htm",
-      "published_utc": "2026-02-17T10:30:08+00:00",
+      "title": "One stem cell generates 14 million tumor-killing NK cells in major cancer breakthrough",
+      "summary": "Scientists in China have unveiled a breakthrough way to mass-produce powerful cancer-fighting immune cells in the lab. By engineering early-stage stem cells from cord blood—rather than trying to modify mature natural killer (NK) cells—they created a streamlined process that generates enormous numbers of highly potent NK cells, including CAR-equipped versions designed to hunt specific cancers.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260215225600.htm",
+      "published_utc": "2026-02-18T03:31:13+00:00",
       "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "HotNews",
-      "title": "VIDEO Bolojan detaliază reforma în administrație. „Nu se va acționa asupra normei de hrană” / „Nu ne mai putem permite să pensionăm oameni în deplinătatea forței la 50 de ani”",
-      "summary": "Prim-ministrul Ilie Bolojan a declarat marți seară la TVR că pachetul pentru administrație și cel de relansare economică „nu pot fi adoptate în această săptămână” pentru că este necesar și un vot în Consiliul Economic&#8230;",
-      "link": "https://hotnews.ro/bolojan-detaliaza-reforma-in-administratie-nu-se-va-actiona-asupra-normei-de-hrana-nu-ne-mai-putem-permite-sa-pensionam-oameni-in-deplinatatea-fortei-la-50-de-ani-2173263",
-      "published_utc": "2026-02-17T19:35:04+00:00",
-      "score": 2
     },
     {
       "section": "romania",
@@ -80,6 +70,26 @@
       "summary": "Alexandru Nazare, ministrul Finanţelor, anunţă marţi că viitorul pensiilor românilor şi investiţiile strategice în România au fost teme centrale azi la ECOFIN. Ministrul spune că a susţinut proiectul Comisiei Europene privind produsele de pensii ocupaţionale şi pentru cele paneuropene (PEPP), prin care se va introduce un tratament fiscal avantajos atât pentru pensile ocupaţionale, cât şi pentru cele paneuropene.",
       "link": "https://www.digi24.ro/stiri/actualitate/social/anuntul-ministrului-finantelor-alexandru-nazare-despre-pensiile-ocupationale-si-cele-ale-romanilor-care-au-lucrat-in-europa-3635651",
       "published_utc": "2026-02-17T18:01:13+00:00",
+      "score": 1
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "Toxic metals found in bananas after Brazil mining disaster",
+      "summary": "Researchers investigating crops grown in soil contaminated by the 2015 mining disaster in Brazil discovered that toxic metals are moving from the earth into edible plants. Bananas, cassava, and cocoa were found to absorb elements like lead and cadmium, with bananas showing a potential health risk for children under six. Although adults face lower immediate danger, scientists warn that long-term exposure could carry cumulative health consequences.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260217005756.htm",
+      "published_utc": "2026-02-17T12:07:09+00:00",
+      "score": 2
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "Scientists discover brain switches that clear Alzheimer’s plaques",
+      "summary": "Researchers have identified two brain receptors that help the brain clear away amyloid beta, a hallmark of Alzheimer’s disease. By stimulating these receptors in mice, scientists increased levels of a natural amyloid-breaking enzyme, reduced buildup in the brain, and improved memory-related behavior. Because these receptors are common drug targets, the findings could open the door to affordable pill-based treatments with fewer side effects.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260215225555.htm",
+      "published_utc": "2026-02-17T10:30:08+00:00",
       "score": 1
     },
     {
@@ -259,7 +269,7 @@
         "section": "romania",
         "kind": "ro",
         "source": "HotNews",
-        "title": "România, mai scumpă la mâncare decât Spania, Italia, Portugalia sau Grecia, arată un studiu elen",
+        "title": "România, mai scumpă la mâncare decât Spania, Italia, Portugalia sau Grecia",
         "summary": "Prețurile coșului tipic de cumpărături pentru o gospodărie din supermarketurile românești continuă să fie mai mari decât în Spania, Portugalia, Bulgaria sau Grecia, deși România are TVA-ul mai mic, potrivit studiului publicat de Institutul pentru&#8230;",
         "link": "https://hotnews.ro/romania-mai-scumpa-la-mancare-decat-spania-italia-portugalia-sau-grecia-arata-un-studiu-elen-2173367",
         "published_utc": "2026-02-18T05:03:05+00:00",
@@ -298,16 +308,6 @@
       {
         "section": "romania",
         "kind": "ro",
-        "source": "HotNews",
-        "title": "VIDEO Bolojan detaliază reforma în administrație. „Nu se va acționa asupra normei de hrană” / „Nu ne mai putem permite să pensionăm oameni în deplinătatea forței la 50 de ani”",
-        "summary": "Prim-ministrul Ilie Bolojan a declarat marți seară la TVR că pachetul pentru administrație și cel de relansare economică „nu pot fi adoptate în această săptămână” pentru că este necesar și un vot în Consiliul Economic&#8230;",
-        "link": "https://hotnews.ro/bolojan-detaliaza-reforma-in-administratie-nu-se-va-actiona-asupra-normei-de-hrana-nu-ne-mai-putem-permite-sa-pensionam-oameni-in-deplinatatea-fortei-la-50-de-ani-2173263",
-        "published_utc": "2026-02-17T19:35:04+00:00",
-        "score": 2
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
         "source": "Digi24",
         "title": "Anunțul ministrului Finanțelor Alexandru Nazare despre pensiile ocupaționale și cele ale românilor care au lucrat în Europa",
         "summary": "Alexandru Nazare, ministrul Finanţelor, anunţă marţi că viitorul pensiilor românilor şi investiţiile strategice în România au fost teme centrale azi la ECOFIN. Ministrul spune că a susţinut proiectul Comisiei Europene privind produsele de pensii ocupaţionale şi pentru cele paneuropene (PEPP), prin care se va introduce un tratament fiscal avantajos atât pentru pensile ocupaţionale, cât şi pentru cele paneuropene.",
@@ -317,6 +317,16 @@
       }
     ],
     "medical": [
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "One stem cell generates 14 million tumor-killing NK cells in major cancer breakthrough",
+        "summary": "Scientists in China have unveiled a breakthrough way to mass-produce powerful cancer-fighting immune cells in the lab. By engineering early-stage stem cells from cord blood—rather than trying to modify mature natural killer (NK) cells—they created a streamlined process that generates enormous numbers of highly potent NK cells, including CAR-equipped versions designed to hunt specific cancers.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260215225600.htm",
+        "published_utc": "2026-02-18T03:31:13+00:00",
+        "score": 1
+      },
       {
         "section": "medical",
         "kind": "global",
@@ -423,6 +433,16 @@
         "section": "science",
         "kind": "global",
         "source": "ScienceDaily Science",
+        "title": "125 million-year-old dinosaur with never before seen hollow spikes discovered in China",
+        "summary": "A 125-million-year-old dinosaur just rewrote what we thought we knew about prehistoric life. Scientists in China have uncovered an exceptionally preserved juvenile iguanodontian with fossilized skin so detailed that individual cells are still visible. Even more astonishing, the plant-eating dinosaur was covered in hollow, porcupine-like spikes—structures never before documented in any dinosaur.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260217005734.htm",
+        "published_utc": "2026-02-18T06:10:28+00:00",
+        "score": 1
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "ScienceDaily Science",
         "title": "60,000 years ago humans were already using poisoned arrows",
         "summary": "Sixty thousand years ago, humans in southern Africa were already mastering nature’s chemistry. Scientists have discovered chemical traces of poison from the deadly gifbol plant on ancient quartz arrowheads found in South Africa — the oldest direct evidence of arrow poison ever identified. The find reveals that these early hunters didn’t just invent the bow and arrow earlier than once believed — they also knew how to enhance their weapons with toxic plant compounds to make hunts more effective.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260212025616.htm",
@@ -517,28 +537,28 @@
         "category_id": "space",
         "category_label": "🚀 Spațiu",
         "source": "Flickr (space)",
-        "title": "Twilight Deepens as Night Falls Over the Dam",
-        "link": "https://www.flickr.com/photos/merrillie/55102347868/",
-        "image_url": "https://live.staticflickr.com/65535/55102347868_1639f0ff6f_b.jpg",
-        "published_utc": "2026-02-18T04:29:47+00:00"
+        "title": "Love in focus",
+        "link": "https://www.flickr.com/photos/min_dundi/55102519749/",
+        "image_url": "https://live.staticflickr.com/65535/55102519749_e8cf0dde4a_b.jpg",
+        "published_utc": "2026-02-18T06:37:42+00:00"
       },
       {
         "category_id": "animals",
         "category_label": "🐾 Animale",
         "source": "Flickr (animals)",
-        "title": "Good night",
-        "link": "https://www.flickr.com/photos/78428166@N00/55102585500/",
-        "image_url": "https://live.staticflickr.com/65535/55102585500_5e6c1bc22a_b.jpg",
-        "published_utc": "2026-02-18T05:44:29+00:00"
+        "title": "Common Scoter | Zwarte Zee-eend | Trauerente, (Melanitta Nigra)",
+        "link": "https://www.flickr.com/photos/145890134@N05/55102633495/",
+        "image_url": "https://live.staticflickr.com/65535/55102633495_cfa9192e24_b.jpg",
+        "published_utc": "2026-02-18T06:46:07+00:00"
       },
       {
         "category_id": "landscapes",
         "category_label": "🏞️ Peisaj",
         "source": "Flickr (landscape)",
-        "title": "Andorra living: Andorra la Vella, the center, Andorra city, Andorra",
-        "link": "https://www.flickr.com/photos/lutzmeyer/55102421803/",
-        "image_url": "https://live.staticflickr.com/65535/55102421803_fcc5d06c99_b.jpg",
-        "published_utc": "2026-02-18T05:49:36+00:00"
+        "title": "Alicante skyline",
+        "link": "https://www.flickr.com/photos/markowihu/55102461283/",
+        "image_url": "https://live.staticflickr.com/65535/55102461283_e988e6a2fd_b.jpg",
+        "published_utc": "2026-02-18T06:44:15+00:00"
       }
     ],
     "joke": [
@@ -551,9 +571,9 @@
       {
         "date_utc": "2026-02-18",
         "source": "TimesNewRoman",
-        "title": "TNR Premium",
+        "title": "Bruxelles-ul, avertizat să nu-i ridice imunitatea lui Şoşoacă: Nu poartă nimic pe dedesubt!",
         "summary": "Cotidian independent de umor voluntar",
-        "link": "https://www.timesnewroman.ro/product/tnr-premium-subscription/",
+        "link": "https://www.timesnewroman.ro/politic/bruxellesul-avertizat-sa-nu-i-ridice-imunitatea-lui-sosoaca-nu-poarta-nimic-pe-dedesubt/",
         "note": "Satiră — nu este știre reală."
       }
     ]
