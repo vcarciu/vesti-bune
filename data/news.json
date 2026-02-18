@@ -1,7 +1,17 @@
 {
-  "generated_utc": "2026-02-18T10:34:08+00:00",
-  "count": 24,
+  "generated_utc": "2026-02-18T11:31:58+00:00",
+  "count": 25,
   "items": [
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "Autorizația pentru înființarea unui parc eolian, suspendată după declarația lui Bolojan despre „băieții deștepți” care blochează sistemul energetic. Motivul din spatele deciziei",
+      "summary": "Comitetul de Reglementare al ANRE a suspendat, pentru prima dată, autorizația de înființare a unui parc eolian, dezvoltat de o companie care nu a putut face dovada finanțării proiectului. Decizia vine după ce, săptămâna trecută,&#8230;",
+      "link": "https://hotnews.ro/premiera-la-anre-dupa-declaratia-lui-bolojan-despre-baietii-destepti-care-blocheaza-sistemul-energetic-transmitem-un-mesaj-clar-2173739",
+      "published_utc": "2026-02-18T11:04:54+00:00",
+      "score": 1
+    },
     {
       "section": "romania",
       "kind": "ro",
@@ -13,16 +23,6 @@
       "score": 1
     },
     {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "UE aprobă o doză mai puternică a medicamentului Wegovy pentru tratamentul obezității. Ce arată studiile",
-      "summary": "Comisia Europeană a aprobat miercuri o doză mai mare a medicamentului pentru obezitate Wegovy, produs de Novo Nordisk, oferind pacienţilor şi medicilor o opţiune care ar putea susţine o scădere în greutate mai accentuată, transmite Reuters.",
-      "link": "https://www.digi24.ro/stiri/actualitate/sanatate/ue-aproba-o-doza-mai-puternica-a-medicamentului-wegovy-pentru-tratamentul-obezitatii-ce-arata-studiile-3636225",
-      "published_utc": "2026-02-18T07:04:17+00:00",
-      "score": 1
-    },
-    {
       "section": "science",
       "kind": "global",
       "source": "ScienceDaily Science",
@@ -30,6 +30,16 @@
       "summary": "A 125-million-year-old dinosaur just rewrote what we thought we knew about prehistoric life. Scientists in China have uncovered an exceptionally preserved juvenile iguanodontian with fossilized skin so detailed that individual cells are still visible. Even more astonishing, the plant-eating dinosaur was covered in hollow, porcupine-like spikes—structures never before documented in any dinosaur.",
       "link": "https://www.sciencedaily.com/releases/2026/02/260217005734.htm",
       "published_utc": "2026-02-18T06:10:28+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "UE aprobă o doză mai puternică a medicamentului Wegovy pentru tratamentul obezității. Ce arată studiile",
+      "summary": "Comisia Europeană a aprobat miercuri o doză mai mare a medicamentului pentru obezitate Wegovy, produs de Novo Nordisk, oferind pacienţilor şi medicilor o opţiune care ar putea susţine o scădere în greutate mai accentuată, transmite Reuters.",
+      "link": "https://www.digi24.ro/stiri/actualitate/sanatate/ue-aproba-o-doza-mai-puternica-a-medicamentului-wegovy-pentru-tratamentul-obezitatii-ce-arata-studiile-3636225",
+      "published_utc": "2026-02-18T07:04:17+00:00",
       "score": 1
     },
     {
@@ -245,6 +255,16 @@
   ],
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Autorizația pentru înființarea unui parc eolian, suspendată după declarația lui Bolojan despre „băieții deștepți” care blochează sistemul energetic. Motivul din spatele deciziei",
+        "summary": "Comitetul de Reglementare al ANRE a suspendat, pentru prima dată, autorizația de înființare a unui parc eolian, dezvoltat de o companie care nu a putut face dovada finanțării proiectului. Decizia vine după ce, săptămâna trecută,&#8230;",
+        "link": "https://hotnews.ro/premiera-la-anre-dupa-declaratia-lui-bolojan-despre-baietii-destepti-care-blocheaza-sistemul-energetic-transmitem-un-mesaj-clar-2173739",
+        "published_utc": "2026-02-18T11:04:54+00:00",
+        "score": 1
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -506,19 +526,19 @@
         "category_id": "animals",
         "category_label": "🐾 Animale",
         "source": "Flickr (animals)",
-        "title": "Red-Shouldered Hawk (Buteo lineatus)",
-        "link": "https://www.flickr.com/photos/semajl/55102670763/",
-        "image_url": "https://live.staticflickr.com/65535/55102670763_8ff80ea87b_b.jpg",
-        "published_utc": "2026-02-18T10:32:26+00:00"
+        "title": "Водяной пастушок, Rallus aquaticus aquaticus, Western Water Rail",
+        "link": "https://www.flickr.com/photos/140734051@N08/55102789099/",
+        "image_url": "https://live.staticflickr.com/65535/55102789099_7406a42775_b.jpg",
+        "published_utc": "2026-02-18T11:25:55+00:00"
       },
       {
         "category_id": "landscapes",
         "category_label": "🏞️ Peisaj",
         "source": "Flickr (landscape)",
-        "title": "The Great Outdoors",
-        "link": "https://www.flickr.com/photos/markohuovinen/55102720484/",
-        "image_url": "https://live.staticflickr.com/65535/55102720484_b6d56df0bb_b.jpg",
-        "published_utc": "2026-02-18T10:20:33+00:00"
+        "title": "Vintage Portrait",
+        "link": "https://www.flickr.com/photos/stepanayvazyan/55102527891/",
+        "image_url": "https://live.staticflickr.com/65535/55102527891_d792ace345_b.jpg",
+        "published_utc": "2026-02-18T11:29:19+00:00"
       }
     ],
     "joke": [
