@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-02-19T16:39:21+00:00",
+  "generated_utc": "2026-02-19T16:47:09+00:00",
   "sections": {
     "romania": [
       {
@@ -161,6 +161,14 @@
       {
         "section": "science",
         "source": "NASA Breaking News",
+        "title": "Award-Winning NASA Camera Revolutionizes How We See the Invisible",
+        "summary": "Imagine trying to photograph wind. That&#8217;s similar to what NASA engineers dealt with during a recent effort to study how air moves around planes, rockets, and other kinds of aerospace vehicles. Air is invisible, but our understanding of how it flows is crucial for building better, safer aircraft. For 80 years, researchers used a technique [&#8230;]",
+        "link": "https://www.nasa.gov/aeronautics/award-winning-nasa-camera-revolutionizes-how-we-see-the-invisible/",
+        "published_utc": "2026-02-19T16:31:41+00:00"
+      },
+      {
+        "section": "science",
+        "source": "NASA Breaking News",
         "title": "Crystals Grown in Space",
         "summary": "This June 5, 2024, image shows lysozyme crystals aboard&#160;the International Space Station. Lysozyme is a protein found in bodily fluids like tears, saliva, and milk, and is used as a control compound to demonstrate well-formed crystals. Lysozyme plays a vital role in innate immunity, protecting against bacteria, viruses, and fungi. The crystals were grown with [&#8230;]",
         "link": "https://www.nasa.gov/image-article/crystals-grown-in-space/",
@@ -269,14 +277,6 @@
         "summary": "The CSDA Program announced eight new agreements that will give users more access to multispectral and synthetic aperture radar data.",
         "link": "https://science.nasa.gov/uncategorized/csda-program-announces-eight-new-data-agreements/",
         "published_utc": "2026-02-18T20:23:53+00:00"
-      },
-      {
-        "section": "science",
-        "source": "NASA Breaking News",
-        "title": "Notes from the Field",
-        "summary": "Looking at Chlorophyll from Space By Compton “Jim” Tucker NASA scientists are able to study plants from space, but this wasn’t always the case. “I love using satellite data to study the Earth,” says Dr. Compton “Jim” Tucker. When Tucker was a graduate student, he and some friends discovered a new way to study photosynthesis. […]",
-        "link": "https://science.nasa.gov/missions/explorer/notes-from-the-field/",
-        "published_utc": "2026-02-18T19:23:57+00:00"
       }
     ],
     "environment": [
