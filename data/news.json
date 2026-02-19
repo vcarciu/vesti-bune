@@ -1,7 +1,17 @@
 {
-  "generated_utc": "2026-02-19T05:53:10+00:00",
-  "count": 24,
+  "generated_utc": "2026-02-19T06:47:33+00:00",
+  "count": 26,
   "items": [
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Salvamont: 64 de persoane au fost salvate de pe munte în ultimele 24 de ore. România a fost sub avertizare de ninsori și viscol",
+      "summary": "64 de persoane au fost salvate de pe munte în ultimele 24 de ore, anunță Salvamont România. Aceasta, în condițiile în care România a trecut prin cel mai sever episod de ninsori și viscol din acest an.",
+      "link": "https://www.digi24.ro/stiri/actualitate/salvamont-64-de-persoane-au-fost-salvate-de-pe-munte-in-ultimele-24-de-ore-romania-a-fost-sub-avertizare-de-ninsori-si-viscol-3638161",
+      "published_utc": "2026-02-19T06:32:33+00:00",
+      "score": 3
+    },
     {
       "section": "romania",
       "kind": "ro",
@@ -11,6 +21,16 @@
       "link": "https://hotnews.ro/ciolacu-a-lasat-datorii-de-trei-ori-mai-mari-decat-dancila-ce-a-facut-ciuca-2174170",
       "published_utc": "2026-02-19T05:08:52+00:00",
       "score": 2
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "ScienceDaily Science",
+      "title": "Ancient drought may have wiped out the real-life hobbits 61,000 years ago",
+      "summary": "A massive, centuries-long drought may have driven the extinction of the “hobbits” of Flores. Climate records preserved in cave formations show rainfall plummeted just as the small human species disappeared. At the same time, pygmy elephants they depended on declined sharply as rivers dried up. With food and water vanishing, the hobbits may have been pushed out—and into their final chapter.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260218031601.htm",
+      "published_utc": "2026-02-19T06:15:45+00:00",
+      "score": 3
     },
     {
       "section": "romania",
@@ -23,16 +43,6 @@
       "score": 1
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "NASA Breaking News",
-      "title": "Notes from the Field",
-      "summary": "Looking at Chlorophyll from Space By Compton “Jim” Tucker NASA scientists are able to study plants from space, but this wasn’t always the case. “I love using satellite data to study the Earth,” says Dr. Compton “Jim” Tucker. When Tucker was a graduate student, he and some friends discovered a new way to study photosynthesis. […]",
-      "link": "https://science.nasa.gov/missions/explorer/notes-from-the-field/",
-      "published_utc": "2026-02-18T19:23:57+00:00",
-      "score": 1
-    },
-    {
       "section": "romania",
       "kind": "ro",
       "source": "Digi24",
@@ -41,6 +51,16 @@
       "link": "https://www.digi24.ro/magazin/timp-liber/cultura/ziua-nationala-constantin-brancusi-2026-evenimente-culturale-organizate-in-bucuresti-si-in-alte-orase-din-tara-3636933",
       "published_utc": "2026-02-18T18:00:08+00:00",
       "score": 2
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "NASA Breaking News",
+      "title": "Notes from the Field",
+      "summary": "Looking at Chlorophyll from Space By Compton “Jim” Tucker NASA scientists are able to study plants from space, but this wasn’t always the case. “I love using satellite data to study the Earth,” says Dr. Compton “Jim” Tucker. When Tucker was a graduate student, he and some friends discovered a new way to study photosynthesis. […]",
+      "link": "https://science.nasa.gov/missions/explorer/notes-from-the-field/",
+      "published_utc": "2026-02-18T19:23:57+00:00",
+      "score": 1
     },
     {
       "section": "romania",
@@ -248,6 +268,16 @@
       {
         "section": "romania",
         "kind": "ro",
+        "source": "Digi24",
+        "title": "Salvamont: 64 de persoane au fost salvate de pe munte în ultimele 24 de ore. România a fost sub avertizare de ninsori și viscol",
+        "summary": "64 de persoane au fost salvate de pe munte în ultimele 24 de ore, anunță Salvamont România. Aceasta, în condițiile în care România a trecut prin cel mai sever episod de ninsori și viscol din acest an.",
+        "link": "https://www.digi24.ro/stiri/actualitate/salvamont-64-de-persoane-au-fost-salvate-de-pe-munte-in-ultimele-24-de-ore-romania-a-fost-sub-avertizare-de-ninsori-si-viscol-3638161",
+        "published_utc": "2026-02-19T06:32:33+00:00",
+        "score": 3
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
         "source": "HotNews",
         "title": "Ciolacu a lăsat datorii de trei ori mai mari decât Dăncilă. Ce a făcut Ciucă",
         "summary": "Pentru mandatele președinților Ciolacu și Ciucă cele două partide, PSD și PNL, au raportat recent datorii record, după ce au primit cele mai mari subvenții de la bugetul de stat, arată datele oficiale publicate recent,&#8230;",
@@ -392,6 +422,16 @@
       {
         "section": "science",
         "kind": "global",
+        "source": "ScienceDaily Science",
+        "title": "Ancient drought may have wiped out the real-life hobbits 61,000 years ago",
+        "summary": "A massive, centuries-long drought may have driven the extinction of the “hobbits” of Flores. Climate records preserved in cave formations show rainfall plummeted just as the small human species disappeared. At the same time, pygmy elephants they depended on declined sharply as rivers dried up. With food and water vanishing, the hobbits may have been pushed out—and into their final chapter.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260218031601.htm",
+        "published_utc": "2026-02-19T06:15:45+00:00",
+        "score": 3
+      },
+      {
+        "section": "science",
+        "kind": "global",
         "source": "NASA Breaking News",
         "title": "Notes from the Field",
         "summary": "Looking at Chlorophyll from Space By Compton “Jim” Tucker NASA scientists are able to study plants from space, but this wasn’t always the case. “I love using satellite data to study the Earth,” says Dr. Compton “Jim” Tucker. When Tucker was a graduate student, he and some friends discovered a new way to study photosynthesis. […]",
@@ -506,19 +546,19 @@
         "category_id": "animals",
         "category_label": "🐾 Animale",
         "source": "Flickr (animals)",
-        "title": "Common Grackle adult feeding young",
-        "link": "https://www.flickr.com/photos/luminouscompositions/55104230274/",
-        "image_url": "https://live.staticflickr.com/65535/55104230274_4e5e433b2e_b.jpg",
-        "published_utc": "2026-02-19T05:31:49+00:00"
+        "title": "Овсянка Стюарта, Emberiza stewarti, White-capped Bunting ♂️",
+        "link": "https://www.flickr.com/photos/140734051@N08/55104287189/",
+        "image_url": "https://live.staticflickr.com/65535/55104287189_ce51e89bce_b.jpg",
+        "published_utc": "2026-02-19T06:44:59+00:00"
       },
       {
         "category_id": "landscapes",
         "category_label": "🏞️ Peisaj",
         "source": "Flickr (landscape)",
-        "title": "Ashford Mill, Death Valley N.P.",
-        "link": "https://www.flickr.com/photos/35900399@N07/55104140013/",
-        "image_url": "https://live.staticflickr.com/65535/55104140013_a5f041fa34_b.jpg",
-        "published_utc": "2026-02-19T05:02:08+00:00"
+        "title": "Volta a Carrasqueira",
+        "link": "https://www.flickr.com/photos/78391947@N06/55104289154/",
+        "image_url": "https://live.staticflickr.com/65535/55104289154_22f78c7b39_b.jpg",
+        "published_utc": "2026-02-19T06:46:47+00:00"
       }
     ],
     "joke": [
@@ -531,9 +571,9 @@
       {
         "date_utc": "2026-02-19",
         "source": "TimesNewRoman",
-        "title": "Sting abia aşteaptă să cânte la Untold: &#8222;Am învăţat deja prima manea!&#8221;",
+        "title": "Alte 7 produse lansate de fotbalişti după vinul ÎmbăTamaş al lui Tamaş",
         "summary": "Cotidian independent de umor voluntar",
-        "link": "https://www.timesnewroman.ro/monden/sting-abia-asteapta-sa-cante-la-untold-am-invatat-deja-prima-manea/",
+        "link": "https://www.timesnewroman.ro/sport/alte-7-produse-lansate-de-fotbalisti-dupa-vinul-imbatamas-al-lui-tamas/",
         "note": "Satiră — nu este știre reală."
       }
     ]
