@@ -1,397 +1,323 @@
 {
-  "generated_utc": "2026-02-19T17:42:17+00:00",
+  "generated_utc": "2026-02-19T17:53:35+00:00",
   "sections": {
     "romania": [
       {
         "section": "romania",
+        "kind": "ro",
         "source": "HotNews",
         "title": "Realitatea Plus și-a suspendat emisia trei ore, potrivit sancțiunii CNA. Programul a continuat pe canalul de YouTube",
         "summary": "Realitatea Plus a pus în aplicare joi seara sancţiunea primită de la CNA de a-şi suspenda emisia timp de trei ore. În tot acest timp, în loc de emisia obişnuită a postului, a fost difuzat&#8230;",
         "link": "https://hotnews.ro/realitatea-plus-si-a-suspendat-emisia-trei-ore-potrivit-sanctiunii-cna-programul-a-continuat-pe-canalul-de-youtube-2175077",
-        "published_utc": "2026-02-19T17:13:07+00:00"
+        "published_utc": "2026-02-19T17:13:07+00:00",
+        "score": 1,
+        "image": "https://hotnews.ro/wp-content/uploads/2026/02/realitatea.jpg"
       },
       {
         "section": "romania",
+        "kind": "ro",
         "source": "Digi24",
         "title": "CIA ar fi fost informată din timp despre planurile de sabotaj ale atacatorilor Nord Stream (Der Spiegel)",
         "summary": "În 2022, un comando secret ucrainean a aruncat în aer conductele Nord Stream. Investigațiile publicației germane Der Spiegel dezvăluie că agenții americani CIA ar fi discutat planurile de atac cu sabotorii – înainte de a se opune ulterior acestora.",
         "link": "https://www.digi24.ro/stiri/externe/cia-ar-fi-fost-informata-din-timp-despre-planurile-de-sabotaj-ale-atacatorilor-nord-stream-der-spiegel-3639035",
-        "published_utc": "2026-02-19T15:35:19+00:00"
+        "published_utc": "2026-02-19T15:35:19+00:00",
+        "score": 1,
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjMl/MkYwOSUyRjI3JTJGMTgwNjg0N18xODA2/ODQ3X05vcmQtU3RyZWFtLTEtMjctc2Vw/dGVtYnJpZS5qcGcmaGFzaD1iMjRjNjY5/YWY2ZGNlMmQ1ZTVlZDdmODJhYzhmMjNkMw==.jpg"
       },
       {
         "section": "romania",
+        "kind": "ro",
         "source": "Digi24",
         "title": "JO 2026 Milano Cortina. Julia Sauter evoluează în această seară în programul liber. Miză istorică pentru patinajul românesc",
         "summary": "Julia Sauter, 28 de ani, va evolua, joi, în programul liber din proba feminină de la patinaj artistic, de la Jocurile Olimpice de la Milano-Cortina.",
         "link": "https://www.digi24.ro/stiri/sport/jo-2026-milano-cortina-julia-sauter-evolueaza-in-aceasta-seara-in-programul-liber-miza-istorica-pentru-patinajul-romanesc-3639079",
-        "published_utc": "2026-02-19T14:36:46+00:00"
+        "published_utc": "2026-02-19T14:36:46+00:00",
+        "score": 1,
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMiUyRjE5JTJGMjU5OTQwMV8yNTk5/NDAxX3Byb2ZpbWVkaWEtMTA3NjQ2OTMy/My5qcGcmaGFzaD0wOTdhNzIxNzZkYmE4ZGMyMDM3ZDc2ZjA4NTk0MDY1Yg==.jpg"
       }
     ],
     "medical": [
       {
         "section": "medical",
+        "kind": "global",
         "source": "ScienceDaily Health",
         "title": "Scientists discover the body’s hidden “off switch” for inflammation",
         "summary": "A new human study has uncovered how the body naturally turns off inflammation. Researchers found that fat-derived molecules called epoxy-oxylipins rein in immune cells that can otherwise drive chronic disease. Using a drug to boost these molecules reduced pain faster and lowered harmful inflammatory cells. The discovery could pave the way for safer treatments for arthritis, heart disease, and other inflammation-related conditions.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260219040816.htm",
-        "published_utc": "2026-02-19T15:16:55+00:00"
+        "published_utc": "2026-02-19T15:16:55+00:00",
+        "score": 2
       },
       {
         "section": "medical",
+        "kind": "global",
         "source": "ScienceDaily Health",
         "title": "Scientists finally explain why chronic constipation treatments often fail",
         "summary": "A newly discovered bacterial duo may be the hidden cause of chronic constipation. The two microbes break down the colon’s protective mucus layer, leaving stool dry and hard — a problem traditional laxatives don’t fix. Parkinson’s patients, who often struggle with constipation years before tremors appear, have higher levels of these bacteria. Blocking the bacteria’s mucus-destroying enzyme prevented constipation in mice, hinting at a new treatment strategy.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260219040745.htm",
-        "published_utc": "2026-02-19T13:46:05+00:00"
+        "published_utc": "2026-02-19T13:46:05+00:00",
+        "score": 4
       },
       {
         "section": "medical",
-        "source": "ScienceDaily Health",
-        "title": "The nearsightedness explosion may be fueled by dim indoor light, not just screens",
-        "summary": "Myopia is skyrocketing around the world, often blamed on endless screen time — but new research suggests the real culprit may be something more subtle. Scientists at SUNY College of Optometry propose that it’s not just devices, but the combination of prolonged close-up focus and dim indoor lighting that may quietly strain the eyes. When we concentrate on nearby objects in low light, our pupils constrict in a way that may reduce how much light reaches the retina, potentially triggering changes that lead to nearsightedness.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260218031556.htm",
-        "published_utc": "2026-02-19T12:48:26+00:00"
-      },
-      {
-        "section": "medical",
-        "source": "ScienceDaily Health",
-        "title": "Brain development may continue into your 30s, new research shows",
-        "summary": "That viral claim that your frontal lobe “isn’t fully developed until 25” turns out to be more myth than milestone. Early brain scans showed that gray matter changes dramatically through the teen years, and because studies stopped around age 20, scientists estimated development might wrap up in the mid-20s. But newer, massive brain-imaging research paints a different picture: key wiring and network efficiency in the brain continue evolving into the early 30s.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260218031606.htm",
-        "published_utc": "2026-02-19T07:54:09+00:00"
-      },
-      {
-        "section": "medical",
-        "source": "ScienceDaily Health",
-        "title": "This reengineered HPV vaccine trains T cells to hunt down cancer",
-        "summary": "Northwestern researchers have shown that when it comes to cancer vaccines, arrangement can be just as important as ingredients. By repositioning a small fragment of an HPV protein on a DNA-based nanovaccine, the team dramatically strengthened the immune system’s attack on HPV-driven tumors. One specific design slowed tumor growth, extended survival in animal models, and unleashed far more cancer-killing T cells than other versions made with the exact same components.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260216044006.htm",
-        "published_utc": "2026-02-18T15:00:32+00:00"
-      },
-      {
-        "section": "medical",
-        "source": "ScienceDaily Health",
-        "title": "Sugary drinks linked to rising anxiety in teens",
-        "summary": "Sugary drinks may be linked to more than just physical health problems in teens. A new review of multiple studies found a consistent association between high consumption of beverages like soda, energy drinks, sweetened juices, and flavored milks and increased anxiety symptoms in adolescents.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260218044624.htm",
-        "published_utc": "2026-02-18T14:45:27+00:00"
-      },
-      {
-        "section": "medical",
-        "source": "ScienceDaily Health",
-        "title": "Intermittent fasting fails to beat standard dieting for weight loss",
-        "summary": "Intermittent fasting has become one of the most talked-about weight loss trends in recent years, promising dramatic results with simple changes to when you eat. But a major Cochrane review suggests the reality may be far less exciting. After analyzing 22 clinical trials involving nearly 2,000 adults, researchers found that intermittent fasting did not produce significantly more weight loss than standard diet advice or even no structured plan at all.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260218044620.htm",
-        "published_utc": "2026-02-18T13:11:51+00:00"
-      },
-      {
-        "section": "medical",
-        "source": "ScienceDaily Health",
-        "title": "Viagra and shingles vaccine show surprising promise against Alzheimer’s",
-        "summary": "A major new study has spotlighted three familiar medicines that could take on an unexpected new role in the fight against Alzheimer’s disease — with a shingles vaccine emerging as the front-runner. After reviewing 80 existing drugs, an international panel of experts identified Zostavax, Viagra (sildenafil), and riluzole as the most promising candidates for repurposing.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260217005759.htm",
-        "published_utc": "2026-02-18T12:02:28+00:00"
-      },
-      {
-        "section": "medical",
-        "source": "ScienceDaily Health",
-        "title": "Breakthrough CRISPR system could reverse antibiotic resistance crisis",
-        "summary": "Antibiotic resistance is racing toward a global crisis, with “superbugs” projected to cause over 10 million deaths annually by 2050. Now, scientists at UC San Diego have unveiled a powerful new CRISPR-based tool that doesn’t just fight resistant bacteria—it can actively strip away their drug resistance. Inspired by gene drives used in insects, the technology spreads a genetic “fix” through bacterial populations, even inside stubborn biofilms that shield microbes from antibiotics.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260217005717.htm",
-        "published_utc": "2026-02-18T08:08:21+00:00"
-      },
-      {
-        "section": "medical",
-        "source": "ScienceDaily Health",
-        "title": "People who switched to cannabis drinks cut their alcohol use nearly in half",
-        "summary": "A new University at Buffalo study suggests cannabis-infused beverages could help some people cut back on alcohol. In a survey of cannabis users, those who drank cannabis beverages reported cutting their weekly alcohol intake roughly in half and binge drinking less often. Nearly two-thirds said they reduced or stopped drinking alcohol after starting cannabis drinks.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260217005806.htm",
-        "published_utc": "2026-02-18T04:51:59+00:00"
-      },
-      {
-        "section": "medical",
+        "kind": "global",
         "source": "ScienceDaily Health",
         "title": "One stem cell generates 14 million tumor-killing NK cells in major cancer breakthrough",
         "summary": "Scientists in China have unveiled a breakthrough way to mass-produce powerful cancer-fighting immune cells in the lab. By engineering early-stage stem cells from cord blood—rather than trying to modify mature natural killer (NK) cells—they created a streamlined process that generates enormous numbers of highly potent NK cells, including CAR-equipped versions designed to hunt specific cancers.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260215225600.htm",
-        "published_utc": "2026-02-18T03:31:13+00:00"
+        "published_utc": "2026-02-18T03:31:13+00:00",
+        "score": 2
       },
       {
         "section": "medical",
-        "source": "ScienceDaily Health",
-        "title": "Toxic metals found in bananas after Brazil mining disaster",
-        "summary": "Researchers investigating crops grown in soil contaminated by the 2015 mining disaster in Brazil discovered that toxic metals are moving from the earth into edible plants. Bananas, cassava, and cocoa were found to absorb elements like lead and cadmium, with bananas showing a potential health risk for children under six. Although adults face lower immediate danger, scientists warn that long-term exposure could carry cumulative health consequences.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260217005756.htm",
-        "published_utc": "2026-02-17T12:07:09+00:00"
-      },
-      {
-        "section": "medical",
-        "source": "ScienceDaily Health",
-        "title": "Ancient DNA solves 12,000-year-old mystery of rare genetic growth disorder",
-        "summary": "An Ice Age double burial in Italy has yielded a stunning genetic revelation. DNA from a mother and daughter who lived over 12,000 years ago shows that the younger had a rare inherited growth disorder, confirmed through mutations in a key bone-growth gene. Her mother carried a milder version of the same mutation. The finding not only solves a long-standing mystery but also proves that rare genetic diseases stretch far back into prehistory.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260217005754.htm",
-        "published_utc": "2026-02-17T11:25:57+00:00"
-      },
-      {
-        "section": "medical",
+        "kind": "global",
         "source": "ScienceDaily Health",
         "title": "Scientists discover brain switches that clear Alzheimer’s plaques",
         "summary": "Researchers have identified two brain receptors that help the brain clear away amyloid beta, a hallmark of Alzheimer’s disease. By stimulating these receptors in mice, scientists increased levels of a natural amyloid-breaking enzyme, reduced buildup in the brain, and improved memory-related behavior. Because these receptors are common drug targets, the findings could open the door to affordable pill-based treatments with fewer side effects.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260215225555.htm",
-        "published_utc": "2026-02-17T10:30:08+00:00"
+        "published_utc": "2026-02-17T10:30:08+00:00",
+        "score": 2
       },
       {
         "section": "medical",
+        "kind": "global",
         "source": "ScienceDaily Health",
-        "title": "Mysterious RNA led scientists to a hidden layer of cancer",
-        "summary": "A mysterious RNA found in breast cancer led scientists to uncover an entire hidden class of cancer-specific RNAs across dozens of tumor types. These molecules form unique molecular signatures that identify cancer type and subtype with remarkable accuracy. Some even drive tumor growth and metastasis. Because many are released into the bloodstream, a simple blood test can track how patients respond to treatment and predict survival.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260216084527.htm",
-        "published_utc": "2026-02-17T08:50:37+00:00"
+        "title": "One in three people carry this brain parasite but the body has a kill switch",
+        "summary": "A parasite that may already be hiding in your brain has a shocking survival trick: it can infect the very immune cells sent to destroy it. Yet most people never get sick, and new research from UVA Health reveals why. Scientists discovered that when Toxoplasma gondii invades CD8+ T cells — key defenders of the immune system — those cells can trigger a self-destruct mechanism powered by an enzyme called caspase-8. By sacrificing themselves, the infected cells also wipe out the parasite inside them.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260215225602.htm",
+        "published_utc": "2026-02-16T13:33:46+00:00",
+        "score": 2
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "Lab grown human spinal cord heals after injury in major breakthrough",
+        "summary": "Researchers have built a realistic human mini spinal cord in the lab and used it to simulate traumatic injury. The model reproduced key damage seen in real spinal cord injuries, including inflammation and scar formation. After treatment with fast moving “dancing molecules,” nerve fibers began growing again and scar tissue shrank. The results suggest the therapy could eventually help repair spinal cord damage.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260216044003.htm",
+        "published_utc": "2026-02-16T12:41:25+00:00",
+        "score": 2
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "Brain inflammation may be driving compulsive behavior",
+        "summary": "For years, compulsive behaviors have been viewed as bad habits stuck on autopilot. But new research in rats found the opposite: inflammation in a key decision-making brain region actually made behavior more deliberate, not more automatic. The change was linked to astrocytes, brain support cells that multiplied and disrupted nearby circuits. The discovery hints that some compulsive behaviors may arise from excessive, misdirected control rather than a loss of it.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260215225606.htm",
+        "published_utc": "2026-02-16T12:32:28+00:00",
+        "score": 2
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "Scientists discover the enzyme that lets cancer rapidly rewire its DNA",
+        "summary": "Researchers have uncovered the enzyme behind chromothripsis, a chaotic chromosome-shattering event seen in about one in four cancers. The enzyme, N4BP2, breaks apart DNA trapped in tiny cellular structures, unleashing a burst of genetic changes that can help tumors rapidly adapt and resist therapy. Blocking the enzyme dramatically reduced this genomic destruction in cancer cells.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260215225546.htm",
+        "published_utc": "2026-02-16T06:00:42+00:00",
+        "score": 2
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "Scientists find nerves actively fuel pancreatic cancer",
+        "summary": "Scientists have uncovered a hidden partnership between pancreatic cancer and the nervous system. Support cells in the pancreas lure nerve fibers, which then release signals that accelerate early cancer growth. This creates a self-sustaining loop that helps tumors take hold. Blocking the nerve activity significantly reduced tumor growth in experiments, suggesting a new treatment strategy.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260211204208.htm",
+        "published_utc": "2026-02-15T13:43:27+00:00",
+        "score": 2
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "Scientists discover a hidden gut bacterium linked to good health",
+        "summary": "A global study has uncovered a mysterious group of gut bacteria that shows up again and again in healthy people. Known as CAG-170, these microbes were found at lower levels in people with a range of chronic diseases. Genetic clues suggest they help digest food and support the broader gut ecosystem. Researchers say the discovery could reshape how we measure and maintain gut health.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260211204210.htm",
+        "published_utc": "2026-02-14T12:58:31+00:00",
+        "score": 2
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "Omega-3 fish oil supplements could backfire without this key enzyme",
+        "summary": "Fish oil’s cancer-fighting reputation may hinge on a little-known gene. Researchers discovered that omega-3s like EPA and DHA help curb colorectal cancer only when the enzyme ALOX15 is present. Without it, fish oil sometimes increased tumor growth in mice—especially DHA. The results suggest that not all supplements work the same way, and genetics could determine who truly benefits.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260212234216.htm",
+        "published_utc": "2026-02-13T14:20:25+00:00",
+        "score": 2
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "Scientists discover hidden brain cells that help heal spinal cord injuries",
+        "summary": "Scientists at Cedars-Sinai have uncovered a surprising repair system in the spinal cord that could open new doors for treating paralysis, stroke, and diseases like multiple sclerosis. They found that special support cells called astrocytes—located far from the actual injury—spring into action after damage. These “lesion-remote astrocytes” send out a protein signal, CCN1, that reprograms immune cells to efficiently clean up fatty nerve debris.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260212234218.htm",
+        "published_utc": "2026-02-13T13:47:43+00:00",
+        "score": 2
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "Scientists discover hidden trigger behind achilles pain and tennis elbow",
+        "summary": "A protein called HIF1 may be the missing link behind painful tendon injuries like jumper’s knee and tennis elbow. Researchers showed that high levels of HIF1 actually cause harmful changes that make tendons brittle and prone to pain. In experiments, turning the protein off protected tendons — even under heavy strain.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260212025618.htm",
+        "published_utc": "2026-02-13T04:29:13+00:00",
+        "score": 2
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "Scientists discover protein that rejuvenates aging brain cells",
+        "summary": "A newly identified protein may hold the key to rejuvenating aging brain cells. Researchers found that boosting DMTF1 can restore the ability of neural stem cells to regenerate, even when age-related damage has set in. Without it, these cells struggle to renew and support memory and learning. The findings raise hopes for treatments that could slow or even reverse aspects of brain aging.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260212025620.htm",
+        "published_utc": "2026-02-12T14:42:41+00:00",
+        "score": 2
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "Scientists discover how life experiences rewrite the immune system",
+        "summary": "Why does the same virus barely faze one person while sending another to the hospital? New research shows the answer lies in a molecular record etched into our immune cells by both our genes and our life experiences. Scientists at the Salk Institute have created a detailed epigenetic map of human immune cells, revealing how inherited traits and past exposures—like infections, vaccines, or even environmental chemicals—shape immune responses in different ways.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260210040608.htm",
+        "published_utc": "2026-02-11T05:02:01+00:00",
+        "score": 4
       }
     ],
     "science": [
       {
         "section": "science",
-        "source": "NASA Breaking News",
-        "title": "NASA to Provide Starliner Crew Flight Test Review Findings Today",
-        "summary": "During a news conference at 2 p.m. EST on Thursday NASA will discuss the findings of investigations into the 2024 crewed test flight of Boeing Starliner to the International Space Station. The news conference will stream live on NASA’s YouTube channel. An instant replay will be available online. NASA participants include: To ask questions during [&#8230;]",
-        "link": "https://www.nasa.gov/news-release/nasa-to-provide-starliner-crew-flight-test-review-findings-today/",
-        "published_utc": "2026-02-19T17:09:06+00:00"
-      },
-      {
-        "section": "science",
-        "source": "NASA Breaking News",
-        "title": "Award-Winning NASA Camera Revolutionizes How We See the Invisible",
-        "summary": "Imagine trying to photograph wind. That&#8217;s similar to what NASA engineers dealt with during a recent effort to study how air moves around planes, rockets, and other kinds of aerospace vehicles. Air is invisible, but our understanding of how it flows is crucial for building better, safer aircraft. For 80 years, researchers used a technique [&#8230;]",
-        "link": "https://www.nasa.gov/aeronautics/award-winning-nasa-camera-revolutionizes-how-we-see-the-invisible/",
-        "published_utc": "2026-02-19T16:31:41+00:00"
-      },
-      {
-        "section": "science",
-        "source": "NASA Breaking News",
-        "title": "Crystals Grown in Space",
-        "summary": "This June 5, 2024, image shows lysozyme crystals aboard&#160;the International Space Station. Lysozyme is a protein found in bodily fluids like tears, saliva, and milk, and is used as a control compound to demonstrate well-formed crystals. Lysozyme plays a vital role in innate immunity, protecting against bacteria, viruses, and fungi. The crystals were grown with [&#8230;]",
-        "link": "https://www.nasa.gov/image-article/crystals-grown-in-space/",
-        "published_utc": "2026-02-19T16:12:03+00:00"
-      },
-      {
-        "section": "science",
-        "source": "ScienceDaily Science",
-        "title": "Scientists discover gene that could save bananas from deadly Panama disease",
-        "summary": "A major breakthrough could help save the world’s bananas from a devastating disease. Scientists have discovered the exact genetic region in a wild banana that provides resistance to Fusarium wilt Subtropical Race 4 — a destructive strain that threatens Cavendish bananas worldwide. While this wild banana isn’t edible, the discovery gives breeders a powerful genetic roadmap to develop future bananas that are both delicious and naturally protected from this deadly pathogen.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260219040749.htm",
-        "published_utc": "2026-02-19T14:43:15+00:00"
-      },
-      {
-        "section": "science",
-        "source": "NASA Breaking News",
-        "title": "Map the Earth’s Magnetic Shield with the Space Umbrella Project",
-        "summary": "Use data from NASA’s Magnetosphere Multiscale Mission to shed light on solar storms. For anyone with a laptop or cell.",
-        "link": "https://science.nasa.gov/get-involved/citizen-science/map-the-earths-magnetic-shield-with-the-space-umbrella-project/",
-        "published_utc": "2026-02-19T14:28:32+00:00"
-      },
-      {
-        "section": "science",
-        "source": "ScienceDaily Science",
-        "title": "Atom-sized gates could transform DNA sequencing and neuromorphic computing",
-        "summary": "Scientists have taken a major step toward mimicking nature’s tiniest gateways by creating ultra-small pores that rival the dimensions of biological ion channels—just a few atoms wide. The breakthrough opens new possibilities for single-molecule sensing, neuromorphic computing, and studying how matter behaves in spaces barely larger than atoms.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260219040759.htm",
-        "published_utc": "2026-02-19T14:20:52+00:00"
-      },
-      {
-        "section": "science",
-        "source": "ESA",
-        "title": "Webb maps Uranus's mysterious upper atmosphere",
-        "summary": "For the first time, an international team of astronomers have mapped the vertical structure of Uranus’s upper atmosphere, uncovering how temperature and charged particles vary with height across the planet. Using&nbsp;NASA/ESA/CSA James Webb Space Telescope's NIRSpec instrument, the team observed Uranus for nearly a full rotation, detecting the faint glow from molecules high above the clouds. The results offer a new window into how ice-giant planets distribute energy in their upper layers.",
-        "link": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_maps_Uranus_s_mysterious_upper_atmosphere",
-        "published_utc": "2026-02-19T14:00:00+00:00"
-      },
-      {
-        "section": "science",
-        "source": "NASA Breaking News",
-        "title": "Small But Mighty Lab Device Could Transform NASA Research",
-        "summary": "A small but mighty piece of lab equipment, about the size of a cellphone, has arrived at the International Space Station after launching with NASA’s SpaceX Crew-12 mission. NASA aims to use the off-the-shelf device, called a microplate reader, to conduct vital biological research in space and get real-time access to data.",
-        "link": "https://science.nasa.gov/science-research/biological-physical-sciences/small-but-mighty-lab-device-could-transform-nasa-research/",
-        "published_utc": "2026-02-19T13:34:35+00:00"
-      },
-      {
-        "section": "science",
+        "kind": "global",
         "source": "ScienceDaily Science",
         "title": "Ancient DNA solves 5,500 year old burial mystery in Sweden",
         "summary": "Ancient DNA from a Stone Age burial site in Sweden shows that families 5,500 years ago were more complex than expected. Many individuals buried together were not immediate family, but second- or third-degree relatives. One grave held a young woman alongside two children who were siblings—yet she wasn’t their mother. The discoveries hint at tight-knit communities where extended kin mattered deeply.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260218031559.htm",
-        "published_utc": "2026-02-19T06:47:07+00:00"
+        "published_utc": "2026-02-19T06:47:07+00:00",
+        "score": 2
       },
       {
         "section": "science",
+        "kind": "global",
         "source": "ScienceDaily Science",
         "title": "Ancient drought may have wiped out the real-life hobbits 61,000 years ago",
         "summary": "A massive, centuries-long drought may have driven the extinction of the “hobbits” of Flores. Climate records preserved in cave formations show rainfall plummeted just as the small human species disappeared. At the same time, pygmy elephants they depended on declined sharply as rivers dried up. With food and water vanishing, the hobbits may have been pushed out—and into their final chapter.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260218031601.htm",
-        "published_utc": "2026-02-19T06:15:45+00:00"
+        "published_utc": "2026-02-19T06:15:45+00:00",
+        "score": 2
       },
       {
         "section": "science",
-        "source": "NASA Breaking News",
-        "title": "Northern Glow Spans Iceland and Canada",
-        "summary": "A vivid display of the aurora lit up skies over the Denmark Strait and eastern Canada during a minor geomagnetic storm in February 2026.",
-        "link": "https://science.nasa.gov/earth/earth-observatory/northern-glow-spans-iceland-and-canada/",
-        "published_utc": "2026-02-19T05:00:00+00:00"
-      },
-      {
-        "section": "science",
+        "kind": "global",
         "source": "ScienceDaily Science",
         "title": "New map reveals where lethal scorpions are most likely to strike",
         "summary": "Scientists have developed a powerful new way to forecast where some of the world’s most dangerous scorpions are likely to be found. By combining fieldwork in Africa with advanced computer modeling, the team discovered that soil type is the strongest factor shaping where many lethal species live, while temperature patterns also play a key role.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260218044628.htm",
-        "published_utc": "2026-02-19T04:36:03+00:00"
+        "published_utc": "2026-02-19T04:36:03+00:00",
+        "score": 2
       },
       {
         "section": "science",
-        "source": "NASA Breaking News",
-        "title": "Digital Surface and Terrain Models from Vantor’s Precision3D Product Line Added to Satellite Data Explorer",
-        "summary": "The CSDA Program added three digital elevation and terrain products from Vantor’s Precision3D Product Line to the Satellite Data Explorer.",
-        "link": "https://science.nasa.gov/uncategorized/digital-surface-and-terrain-models-from-vantors-precision3d-product-line-added-to-satellite-data-explorer/",
-        "published_utc": "2026-02-18T21:05:58+00:00"
-      },
-      {
-        "section": "science",
+        "kind": "global",
         "source": "NASA Breaking News",
         "title": "Vantor Archive Imagery Added to Satellite Data Explorer",
         "summary": "The CSDA Program has added imagery from Vantor to its Satellite Data Explorer (SDX) data access and discovery tool.",
         "link": "https://science.nasa.gov/uncategorized/vantor-archive-imagery-added-to-satellite-data-explorer/",
-        "published_utc": "2026-02-18T20:54:31+00:00"
+        "published_utc": "2026-02-18T20:54:31+00:00",
+        "score": 2,
+        "image": "https://science.nasa.gov/wp-content/uploads/2026/02/vator-multispectral-dc-1.jpg"
       },
       {
         "section": "science",
-        "source": "NASA Breaking News",
-        "title": "CSDA Releases New Data Acquisition Request System",
-        "summary": "The CSDA Program’s Data Acquisition Request System lets authorized users submit proposals for yet-to-be-collected data from CSDA’s commercial partners.",
-        "link": "https://science.nasa.gov/uncategorized/csda-releases-new-data-acquisition-request-system/",
-        "published_utc": "2026-02-18T20:42:16+00:00"
+        "kind": "global",
+        "source": "ScienceDaily Science",
+        "title": "125 million-year-old dinosaur with never before seen hollow spikes discovered in China",
+        "summary": "A 125-million-year-old dinosaur just rewrote what we thought we knew about prehistoric life. Scientists in China have uncovered an exceptionally preserved juvenile iguanodontian with fossilized skin so detailed that individual cells are still visible. Even more astonishing, the plant-eating dinosaur was covered in hollow, porcupine-like spikes—structures never before documented in any dinosaur.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260217005734.htm",
+        "published_utc": "2026-02-18T06:10:28+00:00",
+        "score": 2
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "ScienceDaily Science",
+        "title": "Microplastics have reached Antarctica’s only native insect",
+        "summary": "Even Antarctica’s toughest native insect can’t escape the reach of plastic pollution. Scientists have discovered that Belgica antarctica — a tiny, rice-sized midge and the southernmost insect on Earth — is already ingesting microplastics in the wild. While lab tests showed the hardy larvae can survive short-term exposure without obvious harm, those exposed to higher plastic levels had reduced fat reserves, hinting at hidden energy costs.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260212234214.htm",
+        "published_utc": "2026-02-16T12:48:45+00:00",
+        "score": 2
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "ScienceDaily Science",
+        "title": "Astronomers discover an Earth-like planet that may be colder than Mars",
+        "summary": "A newly identified planet candidate, HD 137010 b, looks strikingly Earth-like in size and orbit — but it may be colder than Mars due to its dimmer star. If it has a thick enough atmosphere, though, this icy world could still surprise us.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260212025607.htm",
+        "published_utc": "2026-02-12T13:32:43+00:00",
+        "score": 2
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "ESA",
+        "title": "Cheops discovers late bloomer from another era",
+        "summary": "Scientists used the European Space Agency's Cheops satellite to discover that the planetary system around the star LHS 1903 challenges current planet formation theories with the unusual order of its planets. Surprisingly, the most distant outer planet might be rocky and seems to have formed later – in a different environment than the other planets around the star.",
+        "link": "https://www.esa.int/Science_Exploration/Space_Science/Cheops/Cheops_discovers_late_bloomer_from_another_era",
+        "published_utc": "2026-02-12T11:00:00+00:00",
+        "score": 2,
+        "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/artist_impression_of_the_planetary_system_around_the_star_lhs_1903/27079088-6-eng-GB/Artist_impression_of_the_planetary_system_around_the_star_LHS_1903_card_full.png"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "ESA",
+        "title": "The journey of Juice – episode 2",
+        "summary": "Video: 00:12:24 ESA’s Jupiter Icy Moons Explorer ( Juice ) is on an epic eight-year journey to Jupiter. It left Earth in April 2023 and is due to arrive at the gas giant in 2031.&nbsp; 2025 has been another&nbsp;big year for Juice. It made its closest approach to the Sun&nbsp;and&nbsp;flew close by Venus&nbsp;for a gravity boost to help it on its way. This second episode of ‘The journey of Juice’ takes us&nbsp;on a journey of our own, discovering&nbsp;what Juice – and the humans behind it – have experienced&nbsp;this year.&nbsp; In&nbsp;a&nbsp;clean room&nbsp;at ESA’s technical centre, thermal engineer Romain&nbsp;Peyrou-Lauge shows us&nbsp;the technologies that protect Juice&nbsp;from the intense heat of the Sun during this period.&nbsp; In Uppsala, Sweden,&nbsp;scientists get together for a ‘science working team’ meeting to discuss the scientific aspects of the mission. Juice Project Scientist Olivier&nbsp;Witasse&nbsp;talks about how important it is to continue working as a team to&nbsp;prepare for Juice’s precious time spent collecting data at Jupiter.&nbsp; The video culminates with operations engineer Marc Costa taking us to the Cebreros station in Madrid for the Venus flyby.&nbsp;There we meet deputy station manager Jorge Fauste, Juice intern Charlotte&nbsp;Bergot&nbsp;and Juice Mission Manager Nicolas Altobelli.&nbsp; This series follows on from ‘ The making of Juice ’ series, which covered the planning, testing and launch of this once-in-a-generation mission.",
+        "link": "https://www.esa.int/ESA_Multimedia/Videos/2025/12/The_journey_of_Juice_episode_2",
+        "published_utc": "2025-12-11T13:00:00+00:00",
+        "score": 2,
+        "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2025/12/the_journey_of_juice_episode_2/27013530-1-eng-GB/The_journey_of_Juice_episode_2_card_full.png"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "ESA",
+        "title": "ESA observations of interstellar comet 3I/ATLAS",
+        "summary": "The European Space Agency (ESA) reacted promptly to the discovery of comet 3I/ATLAS on 1 July 2025. Soon after they were alerted to its existence by automated detection systems, ESA astronomers began using ground-based telescopes in&nbsp;Hawaii, Chile, and Australia to monitor its progress. Since then, the comet has been observed by space telescopes close to Earth, including the NASA/ESA Hubble Space Telescope , the NASA/ESA/CSA James Webb Space Telescope , XMM-Newton and XRISM .&nbsp; In recent months, ESA has turned interplanetary voyagers Mars Express , ExoMars Trace Gas Orbiter and the Jupiter Icy Moons Explorer ( Juice ) in the direction of the comet to make further observations from excellent vantage points. Follow the links below for more information.",
+        "link": "https://www.esa.int/Science_Exploration/Space_Science/ESA_observations_of_interstellar_comet_3I_ATLAS",
+        "published_utc": "2025-09-03T14:10:00+00:00",
+        "score": 2,
+        "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/12/comet_3i_atlas_shows_activity_in_juice_navigation_camera_teaser/27008867-1-eng-GB/Comet_3I_ATLAS_shows_activity_in_Juice_navigation_camera_teaser_card_full.png"
       }
     ],
-    "environment": [
-      {
-        "section": "environment",
-        "source": "UN News - Climate",
-        "title": "World News in Brief: Guterres calls for fair swtich to clean energy, Ramadan in Gaza, violence and displacement escalate in South Sudan",
-        "summary": "The world has “entered the age of clean energy” and renewables are now the cheapest, fastest and safest source of new electricity almost everywhere, UN Secretary-General António Guterres said in a video message to the International Energy Agency ministerial meeting in Paris on Wednesday.",
-        "link": "https://news.un.org/feed/view/en/story/2026/02/1166995",
-        "published_utc": "2026-02-18T12:00:00+00:00"
-      },
-      {
-        "section": "environment",
-        "source": "UN News - Climate",
-        "title": "UN chief urges renewed push to complete decolonization as 17 territories remain",
-        "summary": "More than 60 years after the UN launched its formal decolonization drive, Secretary-General António Guterres on Monday urged renewed commitment to completing the unfinished business of ending colonial rule.",
-        "link": "https://news.un.org/feed/view/en/story/2026/02/1166971",
-        "published_utc": "2026-02-16T12:00:00+00:00"
-      },
-      {
-        "section": "environment",
-        "source": "UN News - Climate",
-        "title": "From shelter to strength: How disaster refuges protect lives in Palau",
-        "summary": "The small Pacific Ocean island of Palau is helping communities build resilience against the dangers of climate change-driven extreme weather with the establishment of a network of emergency refuges – thanks to support from the United Nations.",
-        "link": "https://news.un.org/feed/view/en/story/2026/02/1166915",
-        "published_utc": "2026-02-06T12:00:00+00:00"
-      },
-      {
-        "section": "environment",
-        "source": "UN News - Climate",
-        "title": "Welcome to the ‘agrihood’ – the neighbourhood of the future?",
-        "summary": "Towns and cities are home to more than half of the world’s population and responsible for around 70 per cent of the greenhouse gas emissions driving the climate crisis, which is why urban planners in Brazil are leading a design revolution that could point the way to creating built-up areas with a dramatically smaller carbon footprint.",
-        "link": "https://news.un.org/feed/view/en/story/2026/02/1166880",
-        "published_utc": "2026-02-04T12:00:00+00:00"
-      },
-      {
-        "section": "environment",
-        "source": "UN News - Climate",
-        "title": "From family farm to climate tech: How one Kenyan woman is helping farmers outsmart drought",
-        "summary": "“Giving up is not an option - so many people depend on you,” the words of&nbsp;Maryanne Gichanga, a participant in a UN supported initiative, which aims to help farmers in Kenya find solutions to alleviate the pressures of climate change on agricultural production.&nbsp;",
-        "link": "https://news.un.org/feed/view/en/story/2026/01/1166823",
-        "published_utc": "2026-01-25T12:00:00+00:00"
-      },
-      {
-        "section": "environment",
-        "source": "UN News - Climate",
-        "title": "For every $1 spent protecting nature, $30 goes to destroying it",
-        "summary": "The world spends billions to protect nature, but trillions are being invested in business activities that harm the environment.&nbsp;",
-        "link": "https://news.un.org/feed/view/en/story/2026/01/1166809",
-        "published_utc": "2026-01-22T12:00:00+00:00"
-      },
-      {
-        "section": "environment",
-        "source": "UN News - Climate",
-        "title": "World enters era of ‘global water bankruptcy’",
-        "summary": "The world has moved beyond a water crisis and into a state of global water bankruptcy, says a new flagship report released on Tuesday by UN researchers.",
-        "link": "https://news.un.org/feed/view/en/story/2026/01/1166800",
-        "published_utc": "2026-01-20T12:00:00+00:00"
-      },
-      {
-        "section": "environment",
-        "source": "UN News - Climate",
-        "title": "Will AI kickstart a new age of nuclear power?",
-        "summary": "The rapidly expanding use of artificial intelligence worldwide is putting electrical grids under huge pressure and many believe that, to meet that need without contributing to the climate crisis, a full-scale expansion of nuclear energy is essential.",
-        "link": "https://news.un.org/feed/view/en/story/2026/01/1166768",
-        "published_utc": "2026-01-17T12:00:00+00:00"
-      },
-      {
-        "section": "environment",
-        "source": "UN News - Climate",
-        "title": "Game-changing international ocean treaty comes into force",
-        "summary": "Almost two decades in the making, an international agreement to protect and sustainably use marine life in international waters and the international seabed is due to come into force on Saturday, marking a major step forward in efforts to ensure the health of ocean ecosystems for decades to come.",
-        "link": "https://news.un.org/feed/view/en/story/2026/01/1166762",
-        "published_utc": "2026-01-15T12:00:00+00:00"
-      },
-      {
-        "section": "environment",
-        "source": "UN News - Climate",
-        "title": "11-year streak of record global warming continues, UN weather agency warns",
-        "summary": "The past 11 years have been the warmest in the modern era, while oceans continue to heat up, too, says the UN weather agency.",
-        "link": "https://news.un.org/feed/view/en/story/2026/01/1166758",
-        "published_utc": "2026-01-14T12:00:00+00:00"
-      },
-      {
-        "section": "environment",
-        "source": "UN News - Climate",
-        "title": "Gaza: Storms worsen already dire humanitarian situation, UN warns",
-        "summary": "The humanitarian crisis across the Gaza Strip remains extremely serious, with harsh winter weather threatening to reverse recent gains in aid delivery, the United Nations said on Monday.",
-        "link": "https://news.un.org/feed/view/en/story/2026/01/1166747",
-        "published_utc": "2026-01-12T12:00:00+00:00"
-      },
-      {
-        "section": "environment",
-        "source": "UN News - Climate",
-        "title": "How climate change is threatening human rights",
-        "summary": "With rising effects of climate change across the globe, the world has started recognising that climate change is not just an ecological collapse, but also a human rights crisis.",
-        "link": "https://news.un.org/feed/view/en/story/2025/12/1166649",
-        "published_utc": "2025-12-26T12:00:00+00:00"
-      },
-      {
-        "section": "environment",
-        "source": "UN News - Climate",
-        "title": "Paper and wood: Forest products show signs of recovery, UN agency says",
-        "summary": "From wood-based panels used in construction, to charcoal for cooking food, forest products are valued and traded all around the world.",
-        "link": "https://news.un.org/feed/view/en/story/2025/12/1166666",
-        "published_utc": "2025-12-24T12:00:00+00:00"
-      },
-      {
-        "section": "environment",
-        "source": "UN News - Climate",
-        "title": "Fifty days on, Jamaica struggles to rebuild after Hurricane Melissa’s unprecedented destruction",
-        "summary": "Fifty days have passed since Hurricane Melissa ravaged Jamaica, leaving behind an unprecedented trail of destruction.&nbsp;",
-        "link": "https://news.un.org/feed/view/en/story/2025/12/1166621",
-        "published_utc": "2025-12-17T12:00:00+00:00"
-      },
-      {
-        "section": "environment",
-        "source": "UN News - Climate",
-        "title": "UN environment assembly wraps up in Nairobi",
-        "summary": "The seventh session of the United Nations Environment Assembly (UNEA-7) concluded in Nairobi, Kenya, on Friday with Member States adopting 11 resolutions, three decisions and a ministerial declaration aiming to advance solutions for a more resilient planet.&nbsp;",
-        "link": "https://news.un.org/feed/view/en/story/2025/12/1166585",
-        "published_utc": "2025-12-12T12:00:00+00:00"
-      }
-    ]
-  }
+    "environment": []
+  },
+  "joke_ro": {
+    "date_utc": "2026-02-19",
+    "text": "Am încercat să fac sport… dar s-a încărcat o reclamă și am renunțat."
+  },
+  "top_images": [
+    {
+      "tag": "space",
+      "title": "Febrovery 2026 10: Gopha-Loada",
+      "link": "https://www.flickr.com/photos/littlepixel/55104594955/",
+      "image": "https://live.staticflickr.com/65535/55104594955_b39a91d422_b.jpg"
+    },
+    {
+      "tag": "animals",
+      "title": "IMG_0973",
+      "link": "https://www.flickr.com/photos/collectomania/55104979933/",
+      "image": "https://live.staticflickr.com/65535/55104979933_35278e1696_b.jpg"
+    },
+    {
+      "tag": "landscape",
+      "title": "Taormina",
+      "link": "https://www.flickr.com/photos/demeeschter/55103842212/",
+      "image": "https://live.staticflickr.com/65535/55103842212_2174dcc171_b.jpg"
+    }
+  ]
 }
