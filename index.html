@@ -6,6 +6,7 @@
   <title>Vești bune</title>
   <meta name="description" content="Doar știri pozitive. România (RO) + Global (EN). Actualizat automat." />
   <style>
+    :root{color-scheme:light}
     body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;margin:0;background:#fafafa;color:#111}
     header{position:sticky;top:0;background:#fff;border-bottom:1px solid #e8e8e8;z-index:10}
     .wrap{max-width:1100px;margin:0 auto;padding:14px 16px}
@@ -31,6 +32,13 @@
     .error{background:#fff2f2;border:1px solid #ffd0d0;padding:12px;border-radius:12px}
     footer{color:#666;font-size:12px;padding:18px 0 30px}
     code{background:#f3f3f3;padding:2px 6px;border-radius:8px}
+    .toprow{display:grid;grid-template-columns:1fr;gap:12px;margin:12px 0 6px}
+    @media(min-width:900px){.toprow{grid-template-columns:2fr 1fr}}
+    .imggrid{display:grid;grid-template-columns:1fr;gap:10px}
+    .imgcard img{width:100%;border-radius:14px;display:block;max-height:210px;object-fit:cover;border:1px solid #f1f1f1}
+    .imgcard a{color:#111;text-decoration:none}
+    .imgcard a:hover{text-decoration:underline}
+    .joke{font-size:14px;line-height:1.5}
   </style>
 </head>
 <body>
@@ -50,18 +58,33 @@
 <main>
   <div class="wrap">
     <div id="status"></div>
+
+    <div class="toprow">
+      <div class="card">
+        <div class="meta"><span class="src">📸 Top poze</span><span>•</span><span class="muted">space / animals / landscape</span></div>
+        <div id="topImages" class="imggrid"></div>
+      </div>
+      <div class="card">
+        <div class="meta"><span class="src">😄 Gluma zilei</span></div>
+        <div id="joke" class="joke muted">—</div>
+      </div>
+    </div>
+
     <div id="content"></div>
+
     <footer>
-      Dacă vezi versiune veche: <code>Cmd+Shift+R</code> / <code>Ctrl+F5</code><br/>
+      Tip: hard refresh <code>Cmd+Shift+R</code> / <code>Ctrl+F5</code>.<br/>
       Date: <a href="./data/items.json">items.json</a> • <a href="./data/news.json">news.json</a>
     </footer>
   </div>
 </main>
 
 <script>
-  const DATA_URL = "./data/items.json"; // UI-ul tău așteaptă items.json
+  // Robust: încercăm items.json, apoi news.json (ca să nu mai crape când un fișier lipsește)
+  const DATA_URLS = ["./data/items.json", "./data/news.json"];
 
   const state = { mode: "mix", data: null };
+
   const els = {
     btnMix: document.getElementById("btnMix"),
     btnRO: document.getElementById("btnRO"),
@@ -69,6 +92,8 @@
     stamp: document.getElementById("stamp"),
     status: document.getElementById("status"),
     content: document.getElementById("content"),
+    topImages: document.getElementById("topImages"),
+    joke: document.getElementById("joke"),
   };
 
   function setActive() {
@@ -91,6 +116,7 @@
           <span class="src">${esc(it.source || it.section || "")}</span>
           <span>•</span>
           <span>${esc(fmtDate(it.published_utc))}</span>
+          ${typeof it.score !== "undefined" ? `<span>•</span><span>score ${esc(String(it.score))}</span>` : ""}
         </div>
         <div class="title"><a href="${esc(it.link||"#")}" target="_blank" rel="noopener noreferrer">${esc(it.title||"")}</a></div>
         <p class="sum">${esc(it.summary || it.summary_ro || "")}</p>
@@ -110,33 +136,66 @@
     return { ro, globals };
   }
 
+  function renderTopBlocks() {
+    // Top images
+    const imgs = state.data?.top_images || state.data?.topImages || [];
+    els.topImages.innerHTML = (imgs || []).map(it => `
+      <div class="imgcard">
+        <a href="${esc(it.link||"#")}" target="_blank" rel="noopener noreferrer">
+          <img src="${esc(it.image||"")}" alt="">
+          <div class="muted" style="margin-top:6px">${esc(it.title||it.tag||"")}</div>
+        </a>
+      </div>
+    `).join("") || `<div class="muted">Nu am poze acum (verifică generatorul).</div>`;
+
+    // Joke
+    const joke = state.data?.joke_ro?.text || state.data?.joke || "";
+    els.joke.textContent = joke || "—";
+    els.joke.classList.toggle("muted", !joke);
+  }
+
   function render() {
     setActive();
     if (!state.data) return;
 
-    const { ro, globals } = pickSections();
     els.stamp.textContent = state.data.generated_utc ? `Ultima actualizare: ${fmtDate(state.data.generated_utc)}` : "";
+    renderTopBlocks();
 
+    const { ro, globals } = pickSections();
     let html = "";
-    if (state.mode === "ro") html += renderItems("România (RO)", ro);
-    else if (state.mode === "en") for (const [k,arr] of Object.entries(globals)) html += renderItems(`${k.toUpperCase()} (EN)`, arr);
-    else {
+
+    if (state.mode === "ro") {
+      html += renderItems("România (RO)", ro);
+    } else if (state.mode === "en") {
+      for (const [k,arr] of Object.entries(globals)) html += renderItems(`${k.toUpperCase()} (EN)`, arr);
+    } else {
       html += renderItems("România (RO)", ro);
       for (const k of Object.keys(globals).slice(0,2)) html += renderItems(`${k.toUpperCase()} (EN)`, globals[k]);
     }
+
     els.content.innerHTML = html;
+  }
+
+  async function fetchFirstWorkingJson() {
+    let lastErr = null;
+    for (const url of DATA_URLS) {
+      try {
+        const r = await fetch(url, { cache:"no-store" });
+        if (!r.ok) throw new Error(`${url}: ${r.status} ${r.statusText}`);
+        return await r.json();
+      } catch (e) { lastErr = e; }
+    }
+    throw lastErr || new Error("No JSON available");
   }
 
   async function load() {
     els.status.innerHTML = `<div class="muted">Încarc datele…</div>`;
     try {
-      const r = await fetch(DATA_URL, { cache:"no-store" });
-      if (!r.ok) throw new Error(`Fetch failed: ${r.status} ${r.statusText}`);
-      state.data = await r.json();
+      state.data = await fetchFirstWorkingJson();
       els.status.innerHTML = "";
       render();
     } catch (e) {
-      els.status.innerHTML = `<div class="error"><b>Nu pot încărca datele.</b><br/>${esc(String(e))}<br/>Trebuie să existe <code>${esc(DATA_URL)}</code>.</div>`;
+      els.status.innerHTML = `<div class="error"><b>Nu pot încărca datele.</b><br/>${esc(String(e))}</div>`;
     }
   }
 
