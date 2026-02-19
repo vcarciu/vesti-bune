@@ -26,7 +26,6 @@
     .title a { color:#111; text-decoration:none; }
     .title a:hover { text-decoration:underline; }
     .sum { color:#333; font-size: 13px; line-height:1.5; margin:0; white-space: pre-line; }
-    .img { width:100%; border-radius:12px; margin-top:10px; max-height: 240px; object-fit: cover; border:1px solid #f1f1f1; }
     .sec { display:flex; gap:8px; align-items:center; margin: 18px 0 10px; }
     .sec h2 { margin:0; font-size: 16px; }
     .muted { color:#666; font-size:13px; }
@@ -58,18 +57,15 @@
 
     <footer>
       Tip: dacă vezi versiune veche, fă hard refresh (<code>Cmd+Shift+R</code> / <code>Ctrl+F5</code>).<br/>
-      Date: <a href="./data/items.json">items.json</a> • <a href="./data/news.json">news.json</a>
+      Date: <a href="./data/news.json">news.json</a>
     </footer>
   </div>
 </main>
 
 <script>
-  const DATA_URL = "./data/items.json"; // UI-ul citește de aici
+  const DATA_URL = "./data/news.json";
 
-  const state = {
-    mode: "mix",   // mix | ro | en
-    data: null
-  };
+  const state = { mode: "mix", data: null };
 
   const els = {
     btnMix: document.getElementById("btnMix"),
@@ -105,7 +101,6 @@
       const link = escapeHtml(it.link || "#");
       const t = escapeHtml(it.title || "");
       const sum = escapeHtml(it.summary || it.summary_ro || "");
-      const img = it.image ? `<img class="img" src="${escapeHtml(it.image)}" alt="">` : "";
       return `
         <div class="card">
           <div class="meta">
@@ -116,25 +111,22 @@
           </div>
           <div class="title"><a href="${link}" target="_blank" rel="noopener noreferrer">${t}</a></div>
           <p class="sum">${sum}</p>
-          ${img}
         </div>
       `;
     }).join("");
 
     return `
       <div class="sec"><h2>${safeTitle}</h2><span class="muted">(${(items||[]).length})</span></div>
-      <div class="grid">${cards || `<div class="muted">Nimic de afișat aici încă.</div>`}</div>
+      <div class="grid">${cards || `<div class="muted">Nimic de afișat încă.</div>`}</div>
     `;
   }
 
   function pickSections() {
     const sections = (state.data && state.data.sections) ? state.data.sections : {};
     const ro = sections.romania || [];
-    // restul sunt globale (la tine sunt medical/science/mediu etc.)
     const globals = Object.keys(sections)
       .filter(k => k !== "romania")
       .reduce((acc, k) => (acc[k] = sections[k], acc), {});
-
     return { ro, globals };
   }
 
@@ -143,18 +135,14 @@
     if (!state.data) return;
 
     const { ro, globals } = pickSections();
-
     els.stamp.textContent = state.data.generated_utc ? `Ultima actualizare: ${fmtDate(state.data.generated_utc)}` : "";
 
     let html = "";
     if (state.mode === "ro") {
       html += renderItems("România (RO)", ro);
     } else if (state.mode === "en") {
-      for (const [k, arr] of Object.entries(globals)) {
-        html += renderItems(`${k.toUpperCase()} (EN)`, arr);
-      }
+      for (const [k, arr] of Object.entries(globals)) html += renderItems(`${k.toUpperCase()} (EN)`, arr);
     } else {
-      // Mix: RO + primele 2 secțiuni globale
       html += renderItems("România (RO)", ro);
       const keys = Object.keys(globals).slice(0, 2);
       for (const k of keys) html += renderItems(`${k.toUpperCase()} (EN)`, globals[k]);
