@@ -5,22 +5,21 @@ import time
 import hashlib
 import unicodedata
 from datetime import datetime, timezone
-from typing import Dict, Any, List, Optional, Tuple
+from typing import Dict, Any, List, Optional
 
-import requests
 import feedparser
 import yaml
 
+
 ROOT_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 CONFIG_PATH = os.path.join(ROOT_DIR, "config", "sources.yml")
-
 OUT_NEWS = os.path.join(ROOT_DIR, "data", "news.json")
-OUT_ITEMS = os.path.join(ROOT_DIR, "data", "items.json")
+USER_AGENT = "vesti-bune-bot/strict-ro"
 
-USER_AGENT = "vesti-bune-bot/3.0 (+https://vcarciu.github.io/vesti-bune/)"
 
 def utc_now_iso() -> str:
     return datetime.now(timezone.utc).replace(microsecond=0).isoformat()
+
 
 def strip_html(text: str) -> str:
     if not text:
@@ -29,6 +28,7 @@ def strip_html(text: str) -> str:
     text = re.sub(r"\s+", " ", text).strip()
     return text
 
+
 def normalize_text(s: str) -> str:
     s = (s or "").lower()
     s = unicodedata.normalize("NFKD", s)
@@ -36,13 +36,6 @@ def normalize_text(s: str) -> str:
     s = re.sub(r"\s+", " ", s).strip()
     return s
 
-def get_entry_summary(entry: Dict[str, Any]) -> str:
-    if entry.get("summary"):
-        return strip_html(entry.get("summary") or "")
-    content = entry.get("content")
-    if isinstance(content, list) and content:
-        return strip_html(content[0].get("value") or "")
-    return ""
 
 def parse_entry_datetime(entry: Dict[str, Any]) -> Optional[datetime]:
     for key in ("published_parsed", "updated_parsed"):
@@ -54,15 +47,28 @@ def parse_entry_datetime(entry: Dict[str, Any]) -> Optional[datetime]:
                 pass
     return None
 
+
+def get_entry_summary(entry: Dict[str, Any]) -> str:
+    if entry.get("summary"):
+        return strip_html(entry.get("summary") or "")
+    content = entry.get("content")
+    if isinstance(content, list) and content:
+        return strip_html(content[0].get("value") or "")
+    return ""
+
+
 def fetch_rss(url: str) -> feedparser.FeedParserDict:
     return feedparser.parse(url, agent=USER_AGENT)
+
 
 def safe_mkdir(path: str) -> None:
     os.makedirs(path, exist_ok=True)
 
+
 def dedupe_key(link: str, title: str) -> str:
     base = (link or "") + "||" + (title or "")
     return hashlib.sha1(base.encode("utf-8", errors="ignore")).hexdigest()
+
 
 # -------------------------
 # STRICT RO filtering
@@ -103,24 +109,18 @@ RAW_RO_POSITIVE_HINTS = [
 ]
 RO_POSITIVE_HINTS = [normalize_text(x) for x in RAW_RO_POSITIVE_HINTS]
 
+
 def ro_allow(title: str, summary: str) -> bool:
     text = normalize_text(f"{title} {summary}")
-
-    # hard block
     for kw in RO_HARD_BLOCK:
         if kw and kw in text:
             return False
-
-    # must have a positive signal
     for kw in RO_POSITIVE_HINTS:
         if kw and kw in text:
             return True
-
     return False
 
-# -------------------------
-# Build
-# -------------------------
+
 def build_sections(cfg: Dict[str, Any]) -> Dict[str, List[Dict[str, Any]]]:
     rss_sources = cfg.get("rss_sources") or {}
     sections_def = cfg.get("sections") or []
@@ -172,6 +172,7 @@ def build_sections(cfg: Dict[str, Any]) -> Dict[str, List[Dict[str, Any]]]:
 
     return out
 
+
 def main() -> None:
     with open(CONFIG_PATH, "r", encoding="utf-8") as f:
         cfg = yaml.safe_load(f)
@@ -185,10 +186,8 @@ def main() -> None:
     with open(OUT_NEWS, "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
 
-    with open(OUT_ITEMS, "w", encoding="utf-8") as f:
-        json.dump(payload, f, ensure_ascii=False, indent=2)
+    print("[OK] wrote data/news.json")
 
-    print("[OK] wrote data/news.json and data/items.json")
 
 if __name__ == "__main__":
     main()
