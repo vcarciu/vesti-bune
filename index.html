@@ -4,496 +4,189 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Vești bune</title>
-  <meta name="description" content="Agregator de vești (în principal) pozitive, actualizat automat. România + global (EN), surse verificate." />
-  <meta name="robots" content="index,follow" />
-
-  <!-- Open Graph (best-effort) -->
-  <meta property="og:title" content="Vești bune" />
-  <meta property="og:description" content="Știri (în principal) pozitive, actualizate automat. România + global (EN)." />
-  <meta property="og:type" content="website" />
-  <meta property="og:image" content="./og.jpg" />
-
-  <link rel="icon" href="./favicon.ico" />
+  <meta name="description" content="Doar știri pozitive. România (RO) + Global (EN). Actualizat automat." />
   <style>
-    :root {
-      --bg:#fafafa;
-      --card:#fff;
-      --text:#111;
-      --muted:#555;
-      --border:#e8e8e8;
-      --shadow: 0 8px 26px rgba(0,0,0,.06);
-      --radius:16px;
-    }
-    * { box-sizing:border-box; }
-    body {
-      margin:0;
-      font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji";
-      background:var(--bg);
-      color:var(--text);
-      line-height:1.45;
-    }
-    a { color:inherit; }
-    .wrap { max-width:980px; margin:0 auto; padding:22px 16px 64px; }
-
-    header {
-      display:flex;
-      align-items:flex-end;
-      justify-content:space-between;
-      gap:12px;
-      margin-bottom:14px;
-    }
-    h1 { margin:0; font-size:34px; letter-spacing:-.5px; }
-    .sub {
-      color:var(--muted);
-      margin-top:6px;
-      font-size:14px;
-    }
-    .nav {
-      display:flex;
-      gap:10px;
-      align-items:center;
-      flex-wrap:wrap;
-      justify-content:flex-end;
-      font-size:13px;
-      color:var(--muted);
-    }
-    .nav a { text-decoration:underline; color:var(--muted); }
-
-    .top-grid {
-      display:grid;
-      grid-template-columns: 1fr 1fr 1fr;
-      gap:12px;
-      margin:14px 0 18px;
-    }
-    @media (max-width: 860px) { .top-grid { grid-template-columns:1fr; } }
-
-    .card {
-      background:var(--card);
-      border:1px solid var(--border);
-      border-radius:var(--radius);
-      box-shadow: var(--shadow);
-      padding:14px 14px;
-    }
-
-    .photo-card { padding:0; overflow:hidden; }
-    .photo-meta { padding:12px 12px 13px; }
-    .photo-title { font-weight:650; font-size:14px; margin:0 0 6px; }
-    .photo-sub { font-size:12.5px; color:var(--muted); display:flex; gap:8px; flex-wrap:wrap; }
-    .photo-img {
-      width:100%;
-      height:170px;
-      object-fit:cover;
-      display:block;
-      cursor:pointer;
-    }
-    .pill {
-      display:inline-flex;
-      align-items:center;
-      gap:6px;
-      border:1px solid var(--border);
-      border-radius:999px;
-      padding:6px 10px;
-      font-size:12.5px;
-      color:var(--muted);
-      background:#fff;
-    }
-
-    .controls {
-      display:flex;
-      align-items:center;
-      justify-content:space-between;
-      gap:12px;
-      flex-wrap:wrap;
-      margin:10px 0 10px;
-    }
-    .btns { display:flex; gap:8px; flex-wrap:wrap; }
-    button {
-      border:1px solid var(--border);
-      background:#fff;
-      color:var(--text);
-      border-radius:999px;
-      padding:8px 12px;
-      font-size:13px;
-      cursor:pointer;
-    }
-    button.active { border-color:#111; }
-    .small { font-size:12.5px; color:var(--muted); }
-
-    .news { display:flex; flex-direction:column; gap:12px; }
-    .news-item h3 {
-      margin:0 0 6px;
-      font-size:18px;
-      letter-spacing:-.2px;
-    }
-    .news-item h3 a { text-decoration:none; }
-    .news-item h3 a:hover { text-decoration:underline; }
-    .meta { font-size:12.5px; color:var(--muted); }
-    .summary { margin-top:8px; font-size:14px; color:#222; }
-    .hr { height:1px; background:var(--border); margin:18px 0; }
-
-    details { margin-top:12px; }
-    summary { cursor:pointer; color:var(--muted); font-size:13px; }
-    .section-title { margin:18px 0 10px; font-size:20px; letter-spacing:-.3px; }
-    .foot { margin-top:26px; color:var(--muted); font-size:12.5px; }
-    code { background:#fff; border:1px solid var(--border); padding:2px 6px; border-radius:8px; }
-
-    /* tiny modal (for photos) */
-    .modal {
-      position:fixed;
-      inset:0;
-      background:rgba(0,0,0,.65);
-      display:none;
-      align-items:center;
-      justify-content:center;
-      padding:18px;
-      z-index:9999;
-    }
-    .modal.open { display:flex; }
-    .modal-box {
-      max-width:980px;
-      width:100%;
-      background:#111;
-      border-radius:18px;
-      overflow:hidden;
-      box-shadow:0 18px 60px rgba(0,0,0,.35);
-      border:1px solid rgba(255,255,255,.12);
-    }
-    .modal-img { width:100%; display:block; max-height:78vh; object-fit:contain; background:#000; }
-    .modal-bar {
-      display:flex;
-      justify-content:space-between;
-      gap:12px;
-      padding:10px 12px;
-      color:#eee;
-      font-size:13px;
-      background:#0b0b0b;
-    }
-    .modal-bar a { color:#eee; text-decoration:underline; }
-    .modal-close {
-      border:1px solid rgba(255,255,255,.2);
-      background:transparent;
-      color:#eee;
-      border-radius:999px;
-      padding:6px 10px;
-      cursor:pointer;
-    }
+    :root { color-scheme: light; }
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin: 0; background:#fafafa; color:#111; }
+    header { position: sticky; top:0; background:#fff; border-bottom:1px solid #e8e8e8; z-index:10; }
+    .wrap { max-width: 1100px; margin: 0 auto; padding: 14px 16px; }
+    h1 { margin: 0; font-size: 20px; }
+    .sub { margin-top:4px; color:#555; font-size: 13px; }
+    .bar { display:flex; gap:10px; flex-wrap:wrap; align-items:center; margin-top:10px; }
+    .btn { border:1px solid #ddd; background:#fff; padding:8px 10px; border-radius:999px; cursor:pointer; font-size:13px; }
+    .btn.active { border-color:#111; }
+    .pill { font-size:12px; background:#111; color:#fff; padding:4px 8px; border-radius:999px; }
+    main .wrap { padding-top: 18px; }
+    .grid { display:grid; grid-template-columns: 1fr; gap: 12px; }
+    @media (min-width: 900px){ .grid { grid-template-columns: 1fr 1fr; } }
+    .card { background:#fff; border:1px solid #eaeaea; border-radius:16px; padding:14px; box-shadow: 0 1px 0 rgba(0,0,0,0.02); }
+    .meta { display:flex; gap:8px; flex-wrap:wrap; align-items:center; color:#666; font-size:12px; margin-bottom:8px; }
+    .src { font-weight:600; color:#333; }
+    .title { margin: 6px 0 8px; font-size: 16px; line-height:1.35; }
+    .title a { color:#111; text-decoration:none; }
+    .title a:hover { text-decoration:underline; }
+    .sum { color:#333; font-size: 13px; line-height:1.5; margin:0; white-space: pre-line; }
+    .img { width:100%; border-radius:12px; margin-top:10px; max-height: 240px; object-fit: cover; border:1px solid #f1f1f1; }
+    .sec { display:flex; gap:8px; align-items:center; margin: 18px 0 10px; }
+    .sec h2 { margin:0; font-size: 16px; }
+    .muted { color:#666; font-size:13px; }
+    .error { background:#fff2f2; border:1px solid #ffd0d0; padding:12px; border-radius:12px; }
+    footer { color:#666; font-size:12px; padding: 18px 0 30px; }
+    code { background:#f3f3f3; padding:2px 6px; border-radius:8px; }
   </style>
 </head>
 
 <body>
+<header>
   <div class="wrap">
-    <header>
-      <div>
-        <h1>Vești bune</h1>
-        <div class="sub">România (RO) + Global (EN). Actualizat automat.</div>
-      </div>
-      <div class="nav">
-        <a href="./about.html">About</a>
-        <span>•</span>
-        <a href="./data/items.json">Data</a>
-      </div>
-    </header>
+    <h1>Vești bune <span class="pill">beta</span></h1>
+    <div class="sub">România (RO) + Global (EN). Actualizat automat.</div>
 
-    <!-- Top: Photos + Joke + Satire -->
-    <div id="topGrid" class="top-grid"></div>
-
-    <div class="controls">
-      <div class="btns">
-        <button id="btnMix" class="active">✨ Mix</button>
-        <button id="btnRO">🇷🇴 România</button>
-        <button id="btnEN">🌍 Global (EN)</button>
-      </div>
-      <div class="small" id="lastUpdated">—</div>
-    </div>
-
-    <div id="news" class="news"></div>
-
-    <div class="hr"></div>
-
-    <details open>
-      <summary>Secțiuni (România / Știință / Mediu)</summary>
-      <div id="sections"></div>
-    </details>
-
-    <div class="foot">
-      Tip: dacă vezi versiune veche, fă hard refresh (<code>Cmd+Shift+R</code> / <code>Ctrl+F5</code>).
+    <div class="bar">
+      <button id="btnMix" class="btn active">✨ Mix</button>
+      <button id="btnRO" class="btn">România</button>
+      <button id="btnEN" class="btn">Global (EN)</button>
+      <span id="stamp" class="muted"></span>
     </div>
   </div>
+</header>
 
-  <!-- Photo modal -->
-  <div id="modal" class="modal" role="dialog" aria-modal="true" aria-label="Imagine">
-    <div class="modal-box">
-      <img id="modalImg" class="modal-img" alt="Imagine" />
-      <div class="modal-bar">
-        <div id="modalText">—</div>
-        <div style="display:flex; gap:10px; align-items:center;">
-          <a id="modalOpen" href="#" target="_blank" rel="noopener noreferrer">Deschide</a>
-          <button id="modalClose" class="modal-close">Închide</button>
+<main>
+  <div class="wrap">
+    <div id="status"></div>
+    <div id="content"></div>
+
+    <footer>
+      Tip: dacă vezi versiune veche, fă hard refresh (<code>Cmd+Shift+R</code> / <code>Ctrl+F5</code>).<br/>
+      Date: <a href="./data/items.json">items.json</a> • <a href="./data/news.json">news.json</a>
+    </footer>
+  </div>
+</main>
+
+<script>
+  const DATA_URL = "./data/items.json"; // UI-ul citește de aici
+
+  const state = {
+    mode: "mix",   // mix | ro | en
+    data: null
+  };
+
+  const els = {
+    btnMix: document.getElementById("btnMix"),
+    btnRO: document.getElementById("btnRO"),
+    btnEN: document.getElementById("btnEN"),
+    stamp: document.getElementById("stamp"),
+    status: document.getElementById("status"),
+    content: document.getElementById("content"),
+  };
+
+  function setActive() {
+    els.btnMix.classList.toggle("active", state.mode === "mix");
+    els.btnRO.classList.toggle("active", state.mode === "ro");
+    els.btnEN.classList.toggle("active", state.mode === "en");
+  }
+
+  function fmtDate(iso) {
+    try {
+      const d = new Date(iso);
+      return d.toLocaleString("ro-RO", { dateStyle:"medium", timeStyle:"short" });
+    } catch(e) { return iso || ""; }
+  }
+
+  function escapeHtml(s) {
+    return (s || "").replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  }
+
+  function renderItems(title, items) {
+    const safeTitle = escapeHtml(title);
+    const cards = (items || []).map(it => {
+      const src = escapeHtml(it.source || it.section || "");
+      const pub = escapeHtml(fmtDate(it.published_utc));
+      const link = escapeHtml(it.link || "#");
+      const t = escapeHtml(it.title || "");
+      const sum = escapeHtml(it.summary || it.summary_ro || "");
+      const img = it.image ? `<img class="img" src="${escapeHtml(it.image)}" alt="">` : "";
+      return `
+        <div class="card">
+          <div class="meta">
+            <span class="src">${src}</span>
+            <span>•</span>
+            <span>${pub}</span>
+            ${typeof it.score !== "undefined" ? `<span>•</span><span>score ${escapeHtml(String(it.score))}</span>` : ""}
+          </div>
+          <div class="title"><a href="${link}" target="_blank" rel="noopener noreferrer">${t}</a></div>
+          <p class="sum">${sum}</p>
+          ${img}
         </div>
-      </div>
-    </div>
-  </div>
+      `;
+    }).join("");
 
-  <script>
-    // --- helpers ---
-    const $ = (id) => document.getElementById(id);
+    return `
+      <div class="sec"><h2>${safeTitle}</h2><span class="muted">(${(items||[]).length})</span></div>
+      <div class="grid">${cards || `<div class="muted">Nimic de afișat aici încă.</div>`}</div>
+    `;
+  }
 
-    function el(tag, attrs = {}, children = null) {
-      const node = document.createElement(tag);
-      for (const [k, v] of Object.entries(attrs || {})) {
-        if (k === "class") node.className = v;
-        else if (k === "html") node.innerHTML = v;
-        else node.setAttribute(k, v);
+  function pickSections() {
+    const sections = (state.data && state.data.sections) ? state.data.sections : {};
+    const ro = sections.romania || [];
+    // restul sunt globale (la tine sunt medical/science/mediu etc.)
+    const globals = Object.keys(sections)
+      .filter(k => k !== "romania")
+      .reduce((acc, k) => (acc[k] = sections[k], acc), {});
+
+    return { ro, globals };
+  }
+
+  function render() {
+    setActive();
+    if (!state.data) return;
+
+    const { ro, globals } = pickSections();
+
+    els.stamp.textContent = state.data.generated_utc ? `Ultima actualizare: ${fmtDate(state.data.generated_utc)}` : "";
+
+    let html = "";
+    if (state.mode === "ro") {
+      html += renderItems("România (RO)", ro);
+    } else if (state.mode === "en") {
+      for (const [k, arr] of Object.entries(globals)) {
+        html += renderItems(`${k.toUpperCase()} (EN)`, arr);
       }
-      if (children === null || children === undefined) return node;
-      if (Array.isArray(children)) children.forEach(c => node.appendChild(typeof c === "string" ? document.createTextNode(c) : c));
-      else node.appendChild(typeof children === "string" ? document.createTextNode(children) : children);
-      return node;
+    } else {
+      // Mix: RO + primele 2 secțiuni globale
+      html += renderItems("România (RO)", ro);
+      const keys = Object.keys(globals).slice(0, 2);
+      for (const k of keys) html += renderItems(`${k.toUpperCase()} (EN)`, globals[k]);
     }
 
-    function cardBase() {
-      return "background:#fff;border:1px solid var(--border);border-radius:var(--radius);box-shadow:var(--shadow);padding:14px;";
+    els.content.innerHTML = html;
+  }
+
+  async function load() {
+    els.status.innerHTML = `<div class="muted">Încarc datele…</div>`;
+    try {
+      const r = await fetch(DATA_URL, { cache: "no-store" });
+      if (!r.ok) throw new Error(`Fetch failed: ${r.status} ${r.statusText}`);
+      state.data = await r.json();
+      els.status.innerHTML = "";
+      render();
+    } catch (e) {
+      els.status.innerHTML = `
+        <div class="error">
+          <b>Nu pot încărca datele.</b><br/>
+          ${escapeHtml(String(e))}<br/>
+          Verifică dacă există <code>${DATA_URL}</code>.
+        </div>
+      `;
     }
+  }
 
-    async function fetchJSON(url) {
-      // cache-bust ca să nu te lovești de caching agresiv
-      const u = url + (url.includes("?") ? "&" : "?") + "v=" + Date.now();
-      const r = await fetch(u, { cache: "no-store" });
-      if (!r.ok) throw new Error("Fetch failed: " + r.status);
-      return await r.json();
-    }
+  els.btnMix.onclick = () => { state.mode = "mix"; render(); };
+  els.btnRO.onclick  = () => { state.mode = "ro"; render(); };
+  els.btnEN.onclick  = () => { state.mode = "en"; render(); };
 
-    function fmtDate(iso) {
-      try {
-        const d = new Date(iso);
-        return d.toLocaleString("ro-RO");
-      } catch (e) {
-        return iso || "";
-      }
-    }
-
-    // --- render: photo modal ---
-    function openModal(imgUrl, pageUrl, title) {
-      $("modalImg").src = imgUrl;
-      $("modalOpen").href = pageUrl || imgUrl;
-      $("modalText").textContent = title || "";
-      $("modal").classList.add("open");
-    }
-    function closeModal() {
-      $("modal").classList.remove("open");
-      $("modalImg").src = "";
-      $("modalOpen").href = "#";
-      $("modalText").textContent = "";
-    }
-
-    $("modalClose").addEventListener("click", closeModal);
-    $("modal").addEventListener("click", (e) => {
-      if (e.target === $("modal")) closeModal();
-    });
-    document.addEventListener("keydown", (e) => {
-      if (e.key === "Escape") closeModal();
-    });
-
-    // --- render: top blocks ---
-    function renderTopBlocks(sections) {
-      const grid = $("topGrid");
-      grid.innerHTML = "";
-
-      const photos = (sections.photos || []).slice(0, 3);
-      const joke = (sections.joke && sections.joke[0]) ? sections.joke[0] : null;
-      const satire = (sections.satire && sections.satire[0]) ? sections.satire[0] : null;
-
-      // 3 photo cards
-      if (photos.length) {
-        photos.forEach(p => {
-          const img = el("img", {
-            class: "photo-img",
-            src: p.image_url || "",
-            alt: p.title || "Poză",
-            loading: "lazy"
-          });
-          img.addEventListener("click", () => openModal(p.image_url, p.link || p.image_url, p.category_label + " — " + (p.title || "")));
-
-          const card = el("div", { class: "card photo-card" }, [
-            img,
-            el("div", { class: "photo-meta" }, [
-              el("div", { class: "photo-title" }, (p.category_label || "📷") + " — " + (p.title || "")),
-              el("div", { class: "photo-sub" }, [
-                el("span", {}, p.source || ""),
-                el("span", {}, "•"),
-                el("span", {}, fmtDate(p.published_utc)),
-                el("span", {}, "•"),
-                el("a", {
-                  href: p.link || p.image_url || "#",
-                  target: "_blank",
-                  rel: "noopener noreferrer",
-                  style: "text-decoration:underline;color:var(--muted);"
-                }, "Sursa")
-              ])
-            ])
-          ]);
-          grid.appendChild(card);
-        });
-      } else {
-        grid.appendChild(el("div", { class: "card" }, "Pozele zilei nu sunt disponibile încă."));
-      }
-
-      // joke card
-      const jokeCard = el("div", { class: "card" }, [
-        el("div", { style: "font-weight:650;margin-bottom:8px;" }, "😄 Bancul zilei"),
-        el("div", { style: "font-size:14px;color:#222;line-height:1.5;" }, joke ? (joke.text || "") : "—")
-      ]);
-
-      // satire card
-      const satireCard = el("div", { class: "card" }, [
-        el("div", { style: "font-weight:650;margin-bottom:8px;" }, "📰 Satiră (TimesNewRoman)"),
-        satire ? el("div", {}, [
-          el("div", { style: "font-size:14px;color:#222;line-height:1.5;font-weight:650;" }, satire.title || "—"),
-          el("div", { style: "margin-top:8px;font-size:13px;color:#333;line-height:1.45;max-height:70px;overflow:hidden;" }, satire.summary || ""),
-          el("div", { style: "margin-top:10px;font-size:12.5px;color:var(--muted);" , html:
-            `<a href="${satire.link}" target="_blank" rel="noopener noreferrer" style="color:var(--muted);text-decoration:underline">Deschide articol</a>
-             <span style="opacity:.8"> • ${satire.note || "Satiră — nu este știre reală."}</span>`
-          })
-        ]) : el("div", { class: "small" }, "—")
-      ]);
-
-      // on desktop we already have 3 photos in row; on mobile it becomes column; add joke+satire below via normal flow:
-      // But top-grid is 3 cols; we append exactly 3 photos already.
-      // We'll add a second row below the grid:
-      const wrap2 = el("div", { style: "display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:12px;" });
-      wrap2.appendChild(jokeCard);
-      wrap2.appendChild(satireCard);
-
-      // responsive fallback
-      if (window.innerWidth <= 860) wrap2.setAttribute("style", "display:grid;grid-template-columns:1fr;gap:12px;margin-top:12px;");
-
-      grid.parentNode.insertBefore(wrap2, grid.nextSibling);
-    }
-
-    // --- render: news item ---
-    function renderNewsItem(it) {
-      const d = new Date(it.published_utc || it.date_utc || "");
-      const title = it.title_ro || it.title || "";
-      const summary = it.summary_ro || it.summary || "";
-
-
-      const card = el("div", { class: "card news-item" });
-
-      const h = el("h3", {}, el("a", {
-        href: it.link || "#",
-        target: "_blank",
-        rel: "noopener noreferrer"
-      }, title));
-      card.appendChild(h);
-
-      const meta = el("div", { class: "meta" });
-      if (it.kind === "global") {
-        meta.innerHTML =
-          `🌍 EN • ${it.source || ""} • ${d.toLocaleString("ro-RO")} • ` +
-          `<a href="${it.link}" target="_blank" rel="noopener noreferrer" style="color:#555;text-decoration:underline">Original</a>`;
-      } else {
-        meta.textContent = `🇷🇴 RO • ${it.source || ""} • ${d.toLocaleString("ro-RO")}`;
-      }
-      card.appendChild(meta);
-
-      if (summary) {
-        card.appendChild(el("div", { class: "summary" }, summary));
-      }
-      return card;
-    }
-
-    function renderFeed(items) {
-      const root = $("news");
-      root.innerHTML = "";
-      if (!items || !items.length) {
-        root.appendChild(el("div", { class: "card" }, "Nu sunt știri încă."));
-        return;
-      }
-      items.slice(0, 30).forEach(it => root.appendChild(renderNewsItem(it)));
-    }
-
-    // --- render: sections below ---
-    function renderSections(sections) {
-      const root = $("sections");
-      root.innerHTML = "";
-
-      function renderSection(label, key) {
-        const arr = sections[key] || [];
-        root.appendChild(el("div", { class: "section-title" }, label));
-        if (!arr.length) {
-          root.appendChild(el("div", { class: "card" }, "—"));
-          return;
-        }
-        arr.slice(0, 12).forEach(it => root.appendChild(renderNewsItem(it)));
-      }
-
-      renderSection("🇷🇴 România", "romania");
-      renderSection("🔬 Știință (EN)", "science");
-      renderSection("🌿 Mediu (EN)", "environment");
-      // medical poate fi gol momentan
-      if ((sections.medical || []).length) renderSection("🩺 Medical (EN)", "medical");
-    }
-
-    // --- controls ---
-    function applyFilter(allItems, mode) {
-      if (mode === "mix") return allItems;
-      if (mode === "ro") return (allItems || []).filter(x => x.kind !== "global");
-      if (mode === "en") return (allItems || []).filter(x => x.kind === "global");
-      return allItems;
-    }
-
-    function setActive(btnId) {
-      ["btnMix", "btnRO", "btnEN"].forEach(id => $(id).classList.remove("active"));
-      $(btnId).classList.add("active");
-    }
-
-    // --- main ---
-    async function main() {
-      const data = await fetchJSON("data/news.json");
-      const sections = data.sections || {};
-      const items = data.items || [];
-
-      $("lastUpdated").textContent = "Ultimul refresh: " + fmtDate(data.generated_utc || "");
-
-      // render top blocks (photos + joke + satire)
-      // NOTE: renderTopBlocks adds a second row beneath topGrid; to avoid duplicates on reload, clean it
-      // quick cleanup: remove any sibling grid we created before
-      const grid = $("topGrid");
-      // remove the row after grid if it exists and has our structure
-      if (grid.nextSibling && grid.nextSibling.nodeType === 1 && grid.nextSibling.querySelector && grid.nextSibling.querySelector(".card")) {
-        // try to only remove if it contains our "Bancul zilei"
-        const txt = grid.nextSibling.textContent || "";
-        if (txt.includes("Bancul zilei") || txt.includes("Satiră")) {
-          grid.parentNode.removeChild(grid.nextSibling);
-        }
-      }
-      renderTopBlocks(sections);
-
-      // default: MIX
-      renderFeed(items);
-
-      $("btnMix").addEventListener("click", () => {
-        setActive("btnMix");
-        renderFeed(applyFilter(items, "mix"));
-      });
-      $("btnRO").addEventListener("click", () => {
-        setActive("btnRO");
-        renderFeed(applyFilter(items, "ro"));
-      });
-      $("btnEN").addEventListener("click", () => {
-        setActive("btnEN");
-        renderFeed(applyFilter(items, "en"));
-      });
-
-      // sections below
-      renderSections(sections);
-    }
-
-    main().catch(err => {
-      $("news").innerHTML = "";
-      $("news").appendChild(el("div", { class:"card" }, "Eroare la încărcare: " + err.message));
-      console.error(err);
-    });
-  </script>
+  load();
+</script>
 </body>
 </html>
