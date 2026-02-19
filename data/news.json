@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-02-19T17:15:57+00:00",
+  "generated_utc": "2026-02-19T17:17:09+00:00",
   "sections": {
     "romania": [
       {
@@ -153,6 +153,14 @@
       {
         "section": "science",
         "source": "NASA Breaking News",
+        "title": "NASA to Provide Starliner Crew Flight Test Review Findings Today",
+        "summary": "During a news conference at 2 p.m. EST on Thursday NASA will discuss the findings of investigations into the 2024 crewed test flight of Boeing Starliner to the International Space Station. The news conference will stream live on NASA’s YouTube channel. An instant replay will be available online. NASA participants include: To ask questions during [&#8230;]",
+        "link": "https://www.nasa.gov/news-release/nasa-to-provide-starliner-crew-flight-test-review-findings-today/",
+        "published_utc": "2026-02-19T17:09:06+00:00"
+      },
+      {
+        "section": "science",
+        "source": "NASA Breaking News",
         "title": "Award-Winning NASA Camera Revolutionizes How We See the Invisible",
         "summary": "Imagine trying to photograph wind. That&#8217;s similar to what NASA engineers dealt with during a recent effort to study how air moves around planes, rockets, and other kinds of aerospace vehicles. Air is invisible, but our understanding of how it flows is crucial for building better, safer aircraft. For 80 years, researchers used a technique [&#8230;]",
         "link": "https://www.nasa.gov/aeronautics/award-winning-nasa-camera-revolutionizes-how-we-see-the-invisible/",
@@ -261,14 +269,6 @@
         "summary": "The CSDA Program’s Data Acquisition Request System lets authorized users submit proposals for yet-to-be-collected data from CSDA’s commercial partners.",
         "link": "https://science.nasa.gov/uncategorized/csda-releases-new-data-acquisition-request-system/",
         "published_utc": "2026-02-18T20:42:16+00:00"
-      },
-      {
-        "section": "science",
-        "source": "NASA Breaking News",
-        "title": "CSDA Program Announces Eight New Data Agreements",
-        "summary": "The CSDA Program announced eight new agreements that will give users more access to multispectral and synthetic aperture radar data.",
-        "link": "https://science.nasa.gov/uncategorized/csda-program-announces-eight-new-data-agreements/",
-        "published_utc": "2026-02-18T20:23:53+00:00"
       }
     ],
     "environment": [
