@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-02-19T16:32:30+00:00",
+  "generated_utc": "2026-02-19T16:39:21+00:00",
   "sections": {
     "romania": [
       {
@@ -33,14 +33,6 @@
         "summary": "Endoscopia digestivă este o investigație indispensabilă în diagnosticul multor afecțiuni, dar poate crea anxietate legată de disconfort. Sedarea are rolul de a face procedura mai tolerabilă, păstrând în același timp un profil de siguranță cât mai bun.",
         "link": "https://www.digi24.ro/sanatate-digimatinal/cum-se-asigura-confortul-pacientului-la-procedurile-de-endoscopie-digestiva-3633129",
         "published_utc": "2026-02-19T09:21:42+00:00"
-      },
-      {
-        "section": "romania",
-        "source": "Digi24",
-        "title": "Titlurile de stat FIDELIS 2026, disponibile la BVB: cea mai căutată emisiune, cea în euro pe 10 ani, cu dobândă de 6%",
-        "summary": "Ministerul Finanțelor listează joi, la Bursa de Valori București (BVB), titlurile de stat din a doua ediție FIDELIS din 2026, derulată în perioada 6-13 februarie, după ce investitorii au subscris peste 1,013 miliarde de lei. În total, au fost plasate 12.103 ordine, în valoare de 378,52 milioane lei și 124,49 milioane euro, cea mai accesată fiind emisiunea în euro pe 10 ani, cu o dobândă de 6%.",
-        "link": "https://www.digi24.ro/stiri/economie/titlurile-de-stat-fidelis-2026-disponibile-la-bvb-cea-mai-cautata-emisiune-cea-in-euro-pe-10-ani-cu-dobanda-de-6-3638401",
-        "published_utc": "2026-02-19T09:09:12+00:00"
       }
     ],
     "medical": [
@@ -168,6 +160,14 @@
     "science": [
       {
         "section": "science",
+        "source": "NASA Breaking News",
+        "title": "Crystals Grown in Space",
+        "summary": "This June 5, 2024, image shows lysozyme crystals aboard&#160;the International Space Station. Lysozyme is a protein found in bodily fluids like tears, saliva, and milk, and is used as a control compound to demonstrate well-formed crystals. Lysozyme plays a vital role in innate immunity, protecting against bacteria, viruses, and fungi. The crystals were grown with [&#8230;]",
+        "link": "https://www.nasa.gov/image-article/crystals-grown-in-space/",
+        "published_utc": "2026-02-19T16:12:03+00:00"
+      },
+      {
+        "section": "science",
         "source": "ScienceDaily Science",
         "title": "Scientists discover gene that could save bananas from deadly Panama disease",
         "summary": "A major breakthrough could help save the world’s bananas from a devastating disease. Scientists have discovered the exact genetic region in a wild banana that provides resistance to Fusarium wilt Subtropical Race 4 — a destructive strain that threatens Cavendish bananas worldwide. While this wild banana isn’t edible, the discovery gives breeders a powerful genetic roadmap to develop future bananas that are both delicious and naturally protected from this deadly pathogen.",
@@ -277,14 +277,6 @@
         "summary": "Looking at Chlorophyll from Space By Compton “Jim” Tucker NASA scientists are able to study plants from space, but this wasn’t always the case. “I love using satellite data to study the Earth,” says Dr. Compton “Jim” Tucker. When Tucker was a graduate student, he and some friends discovered a new way to study photosynthesis. […]",
         "link": "https://science.nasa.gov/missions/explorer/notes-from-the-field/",
         "published_utc": "2026-02-18T19:23:57+00:00"
-      },
-      {
-        "section": "science",
-        "source": "NASA Breaking News",
-        "title": "42 Years of Measuring the Sun, the Earth and the Energy in Between",
-        "summary": "By Denise Lineberry On Jan. 31, 1958, Explorer 1 became the first satellite launched by the United States. Its primary science instrument, a cosmic ray detector, was designed to measure the radiation environment in Earth orbit. Though its final transmission was in May 1958, it continued to revolve around Earth more than 58,000 times. As […]",
-        "link": "https://science.nasa.gov/missions/explorer/42-years-of-measuring-the-sun-the-earth-and-the-energy-in-between/",
-        "published_utc": "2026-02-18T19:23:36+00:00"
       }
     ],
     "environment": [
