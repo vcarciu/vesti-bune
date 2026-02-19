@@ -2,7 +2,7 @@ name: Refresh good news
 
 on:
   schedule:
-    - cron: "0 * * * *" # o dată pe oră
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -28,6 +28,7 @@ jobs:
       - name: Run refresh
         env:
           DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
+          DEEPL_API_URL: ${{ secrets.DEEPL_API_URL }}
         run: |
           python scripts/refresh.py
 
@@ -36,8 +37,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # commit BOTH json files
-          git add data/news.json data/items.json
+          git add data/news.json
 
           if git diff --cached --quiet; then
             echo "No changes."
