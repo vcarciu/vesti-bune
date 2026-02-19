@@ -6,41 +6,38 @@
   <title>Vești bune</title>
   <meta name="description" content="Doar știri pozitive. România (RO) + Global (EN). Actualizat automat." />
   <style>
-    :root { color-scheme: light; }
-    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin: 0; background:#fafafa; color:#111; }
-    header { position: sticky; top:0; background:#fff; border-bottom:1px solid #e8e8e8; z-index:10; }
-    .wrap { max-width: 1100px; margin: 0 auto; padding: 14px 16px; }
-    h1 { margin: 0; font-size: 20px; }
-    .sub { margin-top:4px; color:#555; font-size: 13px; }
-    .bar { display:flex; gap:10px; flex-wrap:wrap; align-items:center; margin-top:10px; }
-    .btn { border:1px solid #ddd; background:#fff; padding:8px 10px; border-radius:999px; cursor:pointer; font-size:13px; }
-    .btn.active { border-color:#111; }
-    .pill { font-size:12px; background:#111; color:#fff; padding:4px 8px; border-radius:999px; }
-    main .wrap { padding-top: 18px; }
-    .grid { display:grid; grid-template-columns: 1fr; gap: 12px; }
-    @media (min-width: 900px){ .grid { grid-template-columns: 1fr 1fr; } }
-    .card { background:#fff; border:1px solid #eaeaea; border-radius:16px; padding:14px; box-shadow: 0 1px 0 rgba(0,0,0,0.02); }
-    .meta { display:flex; gap:8px; flex-wrap:wrap; align-items:center; color:#666; font-size:12px; margin-bottom:8px; }
-    .src { font-weight:600; color:#333; }
-    .title { margin: 6px 0 8px; font-size: 16px; line-height:1.35; }
-    .title a { color:#111; text-decoration:none; }
-    .title a:hover { text-decoration:underline; }
-    .sum { color:#333; font-size: 13px; line-height:1.5; margin:0; white-space: pre-line; }
-    .sec { display:flex; gap:8px; align-items:center; margin: 18px 0 10px; }
-    .sec h2 { margin:0; font-size: 16px; }
-    .muted { color:#666; font-size:13px; }
-    .error { background:#fff2f2; border:1px solid #ffd0d0; padding:12px; border-radius:12px; }
-    footer { color:#666; font-size:12px; padding: 18px 0 30px; }
-    code { background:#f3f3f3; padding:2px 6px; border-radius:8px; }
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;margin:0;background:#fafafa;color:#111}
+    header{position:sticky;top:0;background:#fff;border-bottom:1px solid #e8e8e8;z-index:10}
+    .wrap{max-width:1100px;margin:0 auto;padding:14px 16px}
+    h1{margin:0;font-size:20px}
+    .sub{margin-top:4px;color:#555;font-size:13px}
+    .bar{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-top:10px}
+    .btn{border:1px solid #ddd;background:#fff;padding:8px 10px;border-radius:999px;cursor:pointer;font-size:13px}
+    .btn.active{border-color:#111}
+    .pill{font-size:12px;background:#111;color:#fff;padding:4px 8px;border-radius:999px}
+    main .wrap{padding-top:18px}
+    .grid{display:grid;grid-template-columns:1fr;gap:12px}
+    @media(min-width:900px){.grid{grid-template-columns:1fr 1fr}}
+    .card{background:#fff;border:1px solid #eaeaea;border-radius:16px;padding:14px;box-shadow:0 1px 0 rgba(0,0,0,.02)}
+    .meta{display:flex;gap:8px;flex-wrap:wrap;align-items:center;color:#666;font-size:12px;margin-bottom:8px}
+    .src{font-weight:600;color:#333}
+    .title{margin:6px 0 8px;font-size:16px;line-height:1.35}
+    .title a{color:#111;text-decoration:none}
+    .title a:hover{text-decoration:underline}
+    .sum{color:#333;font-size:13px;line-height:1.5;margin:0;white-space:pre-line}
+    .sec{display:flex;gap:8px;align-items:center;margin:18px 0 10px}
+    .sec h2{margin:0;font-size:16px}
+    .muted{color:#666;font-size:13px}
+    .error{background:#fff2f2;border:1px solid #ffd0d0;padding:12px;border-radius:12px}
+    footer{color:#666;font-size:12px;padding:18px 0 30px}
+    code{background:#f3f3f3;padding:2px 6px;border-radius:8px}
   </style>
 </head>
-
 <body>
 <header>
   <div class="wrap">
     <h1>Vești bune <span class="pill">beta</span></h1>
     <div class="sub">România (RO) + Global (EN). Actualizat automat.</div>
-
     <div class="bar">
       <button id="btnMix" class="btn active">✨ Mix</button>
       <button id="btnRO" class="btn">România</button>
@@ -54,19 +51,17 @@
   <div class="wrap">
     <div id="status"></div>
     <div id="content"></div>
-
     <footer>
-      Tip: dacă vezi versiune veche, fă hard refresh (<code>Cmd+Shift+R</code> / <code>Ctrl+F5</code>).<br/>
-      Date: <a href="./data/news.json">news.json</a>
+      Dacă vezi versiune veche: <code>Cmd+Shift+R</code> / <code>Ctrl+F5</code><br/>
+      Date: <a href="./data/items.json">items.json</a> • <a href="./data/news.json">news.json</a>
     </footer>
   </div>
 </main>
 
 <script>
-  const DATA_URL = "./data/news.json";
+  const DATA_URL = "./data/items.json"; // UI-ul tău așteaptă items.json
 
   const state = { mode: "mix", data: null };
-
   const els = {
     btnMix: document.getElementById("btnMix"),
     btnRO: document.getElementById("btnRO"),
@@ -83,50 +78,35 @@
   }
 
   function fmtDate(iso) {
-    try {
-      const d = new Date(iso);
-      return d.toLocaleString("ro-RO", { dateStyle:"medium", timeStyle:"short" });
-    } catch(e) { return iso || ""; }
+    try { return new Date(iso).toLocaleString("ro-RO",{dateStyle:"medium",timeStyle:"short"}); }
+    catch(e){ return iso||""; }
   }
 
-  function escapeHtml(s) {
-    return (s || "").replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-  }
+  function esc(s){ return (s||"").replace(/[&<>"']/g,c=>({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;" }[c])); }
 
   function renderItems(title, items) {
-    const safeTitle = escapeHtml(title);
-    const cards = (items || []).map(it => {
-      const src = escapeHtml(it.source || it.section || "");
-      const pub = escapeHtml(fmtDate(it.published_utc));
-      const link = escapeHtml(it.link || "#");
-      const t = escapeHtml(it.title || "");
-      const sum = escapeHtml(it.summary || it.summary_ro || "");
-      return `
-        <div class="card">
-          <div class="meta">
-            <span class="src">${src}</span>
-            <span>•</span>
-            <span>${pub}</span>
-            ${typeof it.score !== "undefined" ? `<span>•</span><span>score ${escapeHtml(String(it.score))}</span>` : ""}
-          </div>
-          <div class="title"><a href="${link}" target="_blank" rel="noopener noreferrer">${t}</a></div>
-          <p class="sum">${sum}</p>
+    const cards = (items||[]).map(it => `
+      <div class="card">
+        <div class="meta">
+          <span class="src">${esc(it.source || it.section || "")}</span>
+          <span>•</span>
+          <span>${esc(fmtDate(it.published_utc))}</span>
         </div>
-      `;
-    }).join("");
+        <div class="title"><a href="${esc(it.link||"#")}" target="_blank" rel="noopener noreferrer">${esc(it.title||"")}</a></div>
+        <p class="sum">${esc(it.summary || it.summary_ro || "")}</p>
+      </div>
+    `).join("");
 
     return `
-      <div class="sec"><h2>${safeTitle}</h2><span class="muted">(${(items||[]).length})</span></div>
+      <div class="sec"><h2>${esc(title)}</h2><span class="muted">(${(items||[]).length})</span></div>
       <div class="grid">${cards || `<div class="muted">Nimic de afișat încă.</div>`}</div>
     `;
   }
 
   function pickSections() {
-    const sections = (state.data && state.data.sections) ? state.data.sections : {};
+    const sections = state.data?.sections || {};
     const ro = sections.romania || [];
-    const globals = Object.keys(sections)
-      .filter(k => k !== "romania")
-      .reduce((acc, k) => (acc[k] = sections[k], acc), {});
+    const globals = Object.keys(sections).filter(k=>k!=="romania").reduce((a,k)=>(a[k]=sections[k],a),{});
     return { ro, globals };
   }
 
@@ -138,41 +118,31 @@
     els.stamp.textContent = state.data.generated_utc ? `Ultima actualizare: ${fmtDate(state.data.generated_utc)}` : "";
 
     let html = "";
-    if (state.mode === "ro") {
+    if (state.mode === "ro") html += renderItems("România (RO)", ro);
+    else if (state.mode === "en") for (const [k,arr] of Object.entries(globals)) html += renderItems(`${k.toUpperCase()} (EN)`, arr);
+    else {
       html += renderItems("România (RO)", ro);
-    } else if (state.mode === "en") {
-      for (const [k, arr] of Object.entries(globals)) html += renderItems(`${k.toUpperCase()} (EN)`, arr);
-    } else {
-      html += renderItems("România (RO)", ro);
-      const keys = Object.keys(globals).slice(0, 2);
-      for (const k of keys) html += renderItems(`${k.toUpperCase()} (EN)`, globals[k]);
+      for (const k of Object.keys(globals).slice(0,2)) html += renderItems(`${k.toUpperCase()} (EN)`, globals[k]);
     }
-
     els.content.innerHTML = html;
   }
 
   async function load() {
     els.status.innerHTML = `<div class="muted">Încarc datele…</div>`;
     try {
-      const r = await fetch(DATA_URL, { cache: "no-store" });
+      const r = await fetch(DATA_URL, { cache:"no-store" });
       if (!r.ok) throw new Error(`Fetch failed: ${r.status} ${r.statusText}`);
       state.data = await r.json();
       els.status.innerHTML = "";
       render();
     } catch (e) {
-      els.status.innerHTML = `
-        <div class="error">
-          <b>Nu pot încărca datele.</b><br/>
-          ${escapeHtml(String(e))}<br/>
-          Verifică dacă există <code>${DATA_URL}</code>.
-        </div>
-      `;
+      els.status.innerHTML = `<div class="error"><b>Nu pot încărca datele.</b><br/>${esc(String(e))}<br/>Trebuie să existe <code>${esc(DATA_URL)}</code>.</div>`;
     }
   }
 
-  els.btnMix.onclick = () => { state.mode = "mix"; render(); };
-  els.btnRO.onclick  = () => { state.mode = "ro"; render(); };
-  els.btnEN.onclick  = () => { state.mode = "en"; render(); };
+  els.btnMix.onclick=()=>{state.mode="mix";render();};
+  els.btnRO.onclick =()=>{state.mode="ro";render();};
+  els.btnEN.onclick =()=>{state.mode="en";render();};
 
   load();
 </script>
