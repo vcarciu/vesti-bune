@@ -1,7 +1,37 @@
 {
-  "generated_utc": "2026-02-19T08:32:32+00:00",
-  "count": 25,
+  "generated_utc": "2026-02-19T09:35:55+00:00",
+  "count": 27,
   "items": [
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Cum se asigură confortul pacientului la procedurile de endoscopie digestivă",
+      "summary": "Endoscopia digestivă este o investigație indispensabilă în diagnosticul multor afecțiuni, dar poate crea anxietate legată de disconfort. Sedarea are rolul de a face procedura mai tolerabilă, păstrând în același timp un profil de siguranță cât mai bun.",
+      "link": "https://www.digi24.ro/sanatate-digimatinal/cum-se-asigura-confortul-pacientului-la-procedurile-de-endoscopie-digestiva-3633129",
+      "published_utc": "2026-02-19T09:21:42+00:00",
+      "score": 1
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Titlurile de stat FIDELIS 2026, disponibile la BVB: cea mai căutată emisiune, cea în euro pe 10 ani, cu dobândă de 6%",
+      "summary": "Ministerul Finanțelor listează joi, la Bursa de Valori București (BVB), titlurile de stat din a doua ediție FIDELIS din 2026, derulată în perioada 6-13 februarie, după ce investitorii au subscris peste 1,013 miliarde de lei. În total, au fost plasate 12.103 ordine, în valoare de 378,52 milioane lei și 124,49 milioane euro, cea mai accesată fiind emisiunea în euro pe 10 ani, cu o dobândă de 6%.",
+      "link": "https://www.digi24.ro/stiri/economie/titlurile-de-stat-fidelis-2026-disponibile-la-bvb-cea-mai-cautata-emisiune-cea-in-euro-pe-10-ani-cu-dobanda-de-6-3638401",
+      "published_utc": "2026-02-19T09:09:12+00:00",
+      "score": 2
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "ScienceDaily Science",
+      "title": "Ancient drought may have wiped out the real-life hobbits 61,000 years ago",
+      "summary": "A massive, centuries-long drought may have driven the extinction of the “hobbits” of Flores. Climate records preserved in cave formations show rainfall plummeted just as the small human species disappeared. At the same time, pygmy elephants they depended on declined sharply as rivers dried up. With food and water vanishing, the hobbits may have been pushed out—and into their final chapter.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260218031601.htm",
+      "published_utc": "2026-02-19T06:15:45+00:00",
+      "score": 3
+    },
     {
       "section": "romania",
       "kind": "ro",
@@ -25,12 +55,12 @@
     {
       "section": "science",
       "kind": "global",
-      "source": "ScienceDaily Science",
-      "title": "Ancient drought may have wiped out the real-life hobbits 61,000 years ago",
-      "summary": "A massive, centuries-long drought may have driven the extinction of the “hobbits” of Flores. Climate records preserved in cave formations show rainfall plummeted just as the small human species disappeared. At the same time, pygmy elephants they depended on declined sharply as rivers dried up. With food and water vanishing, the hobbits may have been pushed out—and into their final chapter.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260218031601.htm",
-      "published_utc": "2026-02-19T06:15:45+00:00",
-      "score": 3
+      "source": "NASA Breaking News",
+      "title": "Notes from the Field",
+      "summary": "Looking at Chlorophyll from Space By Compton “Jim” Tucker NASA scientists are able to study plants from space, but this wasn’t always the case. “I love using satellite data to study the Earth,” says Dr. Compton “Jim” Tucker. When Tucker was a graduate student, he and some friends discovered a new way to study photosynthesis. […]",
+      "link": "https://science.nasa.gov/missions/explorer/notes-from-the-field/",
+      "published_utc": "2026-02-18T19:23:57+00:00",
+      "score": 1
     },
     {
       "section": "romania",
@@ -51,16 +81,6 @@
       "link": "https://hotnews.ro/ciolacu-a-lasat-datorii-de-trei-ori-mai-mari-decat-dancila-ce-a-facut-ciuca-2174170",
       "published_utc": "2026-02-19T05:08:52+00:00",
       "score": 2
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "NASA Breaking News",
-      "title": "Notes from the Field",
-      "summary": "Looking at Chlorophyll from Space By Compton “Jim” Tucker NASA scientists are able to study plants from space, but this wasn’t always the case. “I love using satellite data to study the Earth,” says Dr. Compton “Jim” Tucker. When Tucker was a graduate student, he and some friends discovered a new way to study photosynthesis. […]",
-      "link": "https://science.nasa.gov/missions/explorer/notes-from-the-field/",
-      "published_utc": "2026-02-18T19:23:57+00:00",
-      "score": 1
     },
     {
       "section": "science",
@@ -255,6 +275,26 @@
   ],
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Cum se asigură confortul pacientului la procedurile de endoscopie digestivă",
+        "summary": "Endoscopia digestivă este o investigație indispensabilă în diagnosticul multor afecțiuni, dar poate crea anxietate legată de disconfort. Sedarea are rolul de a face procedura mai tolerabilă, păstrând în același timp un profil de siguranță cât mai bun.",
+        "link": "https://www.digi24.ro/sanatate-digimatinal/cum-se-asigura-confortul-pacientului-la-procedurile-de-endoscopie-digestiva-3633129",
+        "published_utc": "2026-02-19T09:21:42+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Titlurile de stat FIDELIS 2026, disponibile la BVB: cea mai căutată emisiune, cea în euro pe 10 ani, cu dobândă de 6%",
+        "summary": "Ministerul Finanțelor listează joi, la Bursa de Valori București (BVB), titlurile de stat din a doua ediție FIDELIS din 2026, derulată în perioada 6-13 februarie, după ce investitorii au subscris peste 1,013 miliarde de lei. În total, au fost plasate 12.103 ordine, în valoare de 378,52 milioane lei și 124,49 milioane euro, cea mai accesată fiind emisiunea în euro pe 10 ani, cu o dobândă de 6%.",
+        "link": "https://www.digi24.ro/stiri/economie/titlurile-de-stat-fidelis-2026-disponibile-la-bvb-cea-mai-cautata-emisiune-cea-in-euro-pe-10-ani-cu-dobanda-de-6-3638401",
+        "published_utc": "2026-02-19T09:09:12+00:00",
+        "score": 2
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -526,19 +566,19 @@
         "category_id": "animals",
         "category_label": "🐾 Animale",
         "source": "Flickr (animals)",
-        "title": "Tasty Gold",
-        "link": "https://www.flickr.com/photos/130281204@N06/55103230827/",
-        "image_url": "https://live.staticflickr.com/65535/55103230827_24c84acbc1_b.jpg",
-        "published_utc": "2026-02-19T08:30:35+00:00"
+        "title": "Eep",
+        "link": "https://www.flickr.com/photos/202012144@N05/55104412084/",
+        "image_url": "https://live.staticflickr.com/65535/55104412084_70bf328477_b.jpg",
+        "published_utc": "2026-02-19T09:12:45+00:00"
       },
       {
         "category_id": "landscapes",
         "category_label": "🏞️ Peisaj",
         "source": "Flickr (landscape)",
-        "title": "Cloud‑Laced Skies at Golden Hour",
-        "link": "https://www.flickr.com/photos/merrillie/55104114781/",
-        "image_url": "https://live.staticflickr.com/65535/55104114781_c92cf695cd_b.jpg",
-        "published_utc": "2026-02-19T08:31:41+00:00"
+        "title": "La mia felicità",
+        "link": "https://www.flickr.com/photos/54034120@N05/53430306940/",
+        "image_url": "https://live.staticflickr.com/65535/53430306940_efe1c67b9a_b.jpg",
+        "published_utc": "2026-02-19T09:34:04+00:00"
       }
     ],
     "joke": [
@@ -551,9 +591,9 @@
       {
         "date_utc": "2026-02-19",
         "source": "TimesNewRoman",
-        "title": "Tot mai mulți români au făcut țurțuri la mustăți de la atâta încălzire globală",
+        "title": "TNR Premium",
         "summary": "Cotidian independent de umor voluntar",
-        "link": "https://www.timesnewroman.ro/life-death/tot-mai-multi-romani-au-facut-turturi-la-mustati-de-la-atata-incalzire-globala/",
+        "link": "https://www.timesnewroman.ro/product/tnr-premium-subscription/",
         "note": "Satiră — nu este știre reală."
       }
     ]
