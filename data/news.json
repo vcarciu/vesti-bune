@@ -1,269 +1,28 @@
 {
-  "generated_utc": "2026-02-19T14:02:30+00:00",
-  "count": 25,
-  "items": [
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Vaccinarea în România a ajuns la un minim istoric. Numărul cazurilor de tuse convulsivă a crescut de 62 de ori într-un singur an",
-      "summary": "Rata vaccinării în România a ajuns la un minim istoric, avertizează Forumul Român Pro-Vaccinare (FRPV), în timp ce cazurile de rujeolă și tuse convulsivă înregistrează creșteri alarmante. Numai între 2023 și 2025 au fost confirmate 35.736 de cazuri de rujeolă, fiind și 30 de decese, iar tusea convulsivă a crescut în 2024 de 62 de ori față de anul precedent, cu 519 cazuri și două decese raportate în anul trecut, ambele la sugari nevaccinați.",
-      "link": "https://www.digi24.ro/stiri/actualitate/social/rata-vaccinarii-in-romania-este-la-un-minim-istoric-crestere-alarmanta-a-cazurilor-de-tuse-convulsiva-de-62-de-ori-mai-multe-in-2024-3638497",
-      "published_utc": "2026-02-19T10:22:48+00:00",
-      "score": 3
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Cum se asigură confortul pacientului la procedurile de endoscopie digestivă",
-      "summary": "Endoscopia digestivă este o investigație indispensabilă în diagnosticul multor afecțiuni, dar poate crea anxietate legată de disconfort. Sedarea are rolul de a face procedura mai tolerabilă, păstrând în același timp un profil de siguranță cât mai bun.",
-      "link": "https://www.digi24.ro/sanatate-digimatinal/cum-se-asigura-confortul-pacientului-la-procedurile-de-endoscopie-digestiva-3633129",
-      "published_utc": "2026-02-19T09:21:42+00:00",
-      "score": 1
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "ScienceDaily Science",
-      "title": "Ancient drought may have wiped out the real-life hobbits 61,000 years ago",
-      "summary": "A massive, centuries-long drought may have driven the extinction of the “hobbits” of Flores. Climate records preserved in cave formations show rainfall plummeted just as the small human species disappeared. At the same time, pygmy elephants they depended on declined sharply as rivers dried up. With food and water vanishing, the hobbits may have been pushed out—and into their final chapter.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260218031601.htm",
-      "published_utc": "2026-02-19T06:15:45+00:00",
-      "score": 3
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Titlurile de stat FIDELIS 2026, disponibile la BVB: cea mai căutată emisiune, cea în euro pe 10 ani, cu dobândă de 6%",
-      "summary": "Ministerul Finanțelor listează joi, la Bursa de Valori București (BVB), titlurile de stat din a doua ediție FIDELIS din 2026, derulată în perioada 6-13 februarie, după ce investitorii au subscris peste 1,013 miliarde de lei. În total, au fost plasate 12.103 ordine, în valoare de 378,52 milioane lei și 124,49 milioane euro, cea mai accesată fiind emisiunea în euro pe 10 ani, cu o dobândă de 6%.",
-      "link": "https://www.digi24.ro/stiri/economie/titlurile-de-stat-fidelis-2026-disponibile-la-bvb-cea-mai-cautata-emisiune-cea-in-euro-pe-10-ani-cu-dobanda-de-6-3638401",
-      "published_utc": "2026-02-19T09:09:12+00:00",
-      "score": 2
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Digistoria - cele mai importante evenimente petrecute pe 19 februarie",
-      "summary": "Digistoria - cele mai importante evenimente petrecute pe 19 februarie",
-      "link": "https://www.digi24.ro/digistoria/digistoria-cele-mai-importante-evenimente-petrecute-pe-19-februarie-2-3638241",
-      "published_utc": "2026-02-19T07:38:15+00:00",
-      "score": 1
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "NASA Breaking News",
-      "title": "Notes from the Field",
-      "summary": "Looking at Chlorophyll from Space By Compton “Jim” Tucker NASA scientists are able to study plants from space, but this wasn’t always the case. “I love using satellite data to study the Earth,” says Dr. Compton “Jim” Tucker. When Tucker was a graduate student, he and some friends discovered a new way to study photosynthesis. […]",
-      "link": "https://science.nasa.gov/missions/explorer/notes-from-the-field/",
-      "published_utc": "2026-02-18T19:23:57+00:00",
-      "score": 1
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "ScienceDaily Science",
-      "title": "125 million-year-old dinosaur with never before seen hollow spikes discovered in China",
-      "summary": "A 125-million-year-old dinosaur just rewrote what we thought we knew about prehistoric life. Scientists in China have uncovered an exceptionally preserved juvenile iguanodontian with fossilized skin so detailed that individual cells are still visible. Even more astonishing, the plant-eating dinosaur was covered in hollow, porcupine-like spikes—structures never before documented in any dinosaur.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260217005734.htm",
-      "published_utc": "2026-02-18T06:10:28+00:00",
-      "score": 1
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "One stem cell generates 14 million tumor-killing NK cells in major cancer breakthrough",
-      "summary": "Scientists in China have unveiled a breakthrough way to mass-produce powerful cancer-fighting immune cells in the lab. By engineering early-stage stem cells from cord blood—rather than trying to modify mature natural killer (NK) cells—they created a streamlined process that generates enormous numbers of highly potent NK cells, including CAR-equipped versions designed to hunt specific cancers.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260215225600.htm",
-      "published_utc": "2026-02-18T03:31:13+00:00",
-      "score": 1
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "Toxic metals found in bananas after Brazil mining disaster",
-      "summary": "Researchers investigating crops grown in soil contaminated by the 2015 mining disaster in Brazil discovered that toxic metals are moving from the earth into edible plants. Bananas, cassava, and cocoa were found to absorb elements like lead and cadmium, with bananas showing a potential health risk for children under six. Although adults face lower immediate danger, scientists warn that long-term exposure could carry cumulative health consequences.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260217005756.htm",
-      "published_utc": "2026-02-17T12:07:09+00:00",
-      "score": 2
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "Scientists discover brain switches that clear Alzheimer’s plaques",
-      "summary": "Researchers have identified two brain receptors that help the brain clear away amyloid beta, a hallmark of Alzheimer’s disease. By stimulating these receptors in mice, scientists increased levels of a natural amyloid-breaking enzyme, reduced buildup in the brain, and improved memory-related behavior. Because these receptors are common drug targets, the findings could open the door to affordable pill-based treatments with fewer side effects.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260215225555.htm",
-      "published_utc": "2026-02-17T10:30:08+00:00",
-      "score": 1
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "Nearly 200,000 people reveal the real key to heart health",
-      "summary": "A decades-long study of nearly 200,000 adults challenges the low-carb versus low-fat debate. Both eating patterns were tied to lower heart disease risk when they emphasized whole grains, plant-based foods, and healthy fats. Versions filled with refined carbs and animal fats increased risk instead. Quality, not just quantity, appears to make the difference.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260216084521.htm",
-      "published_utc": "2026-02-17T05:29:36+00:00",
-      "score": 1
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "Giving people cash didn’t cause more injuries or deaths",
-      "summary": "As cash transfer programs expand across the United States, critics often warn that giving people money could spark reckless behavior, leading to injuries or even deaths. But a sweeping 11-year analysis of Alaska’s long-running Permanent Fund Dividend program tells a different story. Researchers examined statewide hospital records and death data and found no increase in traumatic injuries or unnatural deaths after annual payments were distributed.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260212023028.htm",
-      "published_utc": "2026-02-17T02:29:23+00:00",
-      "score": 4
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "Large study finds no link between mRNA COVID vaccine in pregnancy and autism",
-      "summary": "Researchers tracked more than 400 toddlers to see whether mRNA COVID-19 vaccination during or just before pregnancy was linked to autism or developmental delays. After detailed assessments of speech, motor skills, behavior, and social development, they found no meaningful differences between vaccinated and unvaccinated groups. Experts say the results provide strong reassurance about vaccine safety in pregnancy.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260215085001.htm",
-      "published_utc": "2026-02-15T14:51:05+00:00",
-      "score": 3
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "Scientists found a way to plant ideas in dreams to boost creativity",
-      "summary": "Sleeping on a problem might be more powerful than we ever imagined. Neuroscientists at Northwestern University have shown that dreams can actually be nudged in specific directions — and those dream tweaks may boost creativity. By playing subtle sound cues during REM sleep, researchers prompted people to dream about unsolved brain teasers they had struggled with earlier. An astonishing 75% of participants dreamed about the cued puzzles, and those puzzles were solved far more often the next day.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260213223926.htm",
-      "published_utc": "2026-02-15T06:47:47+00:00",
-      "score": 1
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "This vegan diet cut insulin use by nearly 30% in type 1 diabetes",
-      "summary": "A low-fat vegan diet—without cutting calories or carbs—may help people with type 1 diabetes significantly reduce how much insulin they need, and how much they spend on it. In a new analysis published in BMC Nutrition, participants following the plant-based plan lowered their daily insulin use by 28%, while those on a portion-controlled diet saw no meaningful change.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260212234212.htm",
-      "published_utc": "2026-02-13T07:30:08+00:00",
-      "score": 1
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "ScienceDaily Science",
-      "title": "60,000 years ago humans were already using poisoned arrows",
-      "summary": "Sixty thousand years ago, humans in southern Africa were already mastering nature’s chemistry. Scientists have discovered chemical traces of poison from the deadly gifbol plant on ancient quartz arrowheads found in South Africa — the oldest direct evidence of arrow poison ever identified. The find reveals that these early hunters didn’t just invent the bow and arrow earlier than once believed — they also knew how to enhance their weapons with toxic plant compounds to make hunts more effective.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260212025616.htm",
-      "published_utc": "2026-02-13T04:01:51+00:00",
-      "score": 1
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "ScienceDaily Science",
-      "title": "Europe’s “untouched” wilderness was shaped by Neanderthals and hunter-gatherers",
-      "summary": "Long before agriculture, humans were transforming Europe’s wild landscapes. Advanced simulations show that hunting and fire use by Neanderthals and Mesolithic hunter-gatherers reshaped forests and grasslands in measurable ways. By reducing populations of giant herbivores, people indirectly altered how dense vegetation became. The findings challenge the idea that prehistoric Europe was an untouched natural world.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260212025613.htm",
-      "published_utc": "2026-02-12T14:14:45+00:00",
-      "score": 1
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "This popular diet was linked to a much lower stroke risk",
-      "summary": "A long-term study found that women who closely followed a Mediterranean diet had a much lower risk of stroke. The strongest benefits were seen in women who ate more plant-based foods, fish, and olive oil while cutting back on red meat and saturated fats. Their risk dropped across all major stroke types, including bleeding strokes, which are less commonly studied. The findings suggest diet may be a powerful but overlooked factor in stroke prevention.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260209064310.htm",
-      "published_utc": "2026-02-09T11:54:46+00:00",
-      "score": 1
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Medicine",
-      "title": "Scientists found a gut compound that helps protect the liver",
-      "summary": "What a mother eats during pregnancy may quietly shape her child’s liver health years down the road—but new research suggests there may be a way to tip the odds back in a healthier direction. Scientists found that a natural compound made by healthy gut bacteria dramatically reduced fatty liver disease in the offspring of mice whose mothers ate a high-fat, high-sugar diet. The compound, called indole, appeared to protect the liver, improve blood sugar, limit weight gain, and even reshape the gut microbiome in lasting ways.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260208011028.htm",
-      "published_utc": "2026-02-08T07:18:29+00:00",
-      "score": 1
-    },
-    {
-      "section": "environment",
-      "kind": "global",
-      "source": "UN News - Climate",
-      "title": "For every $1 spent protecting nature, $30 goes to destroying it",
-      "summary": "The world spends billions to protect nature, but trillions are being invested in business activities that harm the environment.&nbsp;",
-      "link": "https://news.un.org/feed/view/en/story/2026/01/1166809",
-      "published_utc": "2026-01-22T12:00:00+00:00",
-      "score": 1
-    },
-    {
-      "section": "environment",
-      "kind": "global",
-      "source": "UN News - Climate",
-      "title": "11-year streak of record global warming continues, UN weather agency warns",
-      "summary": "The past 11 years have been the warmest in the modern era, while oceans continue to heat up, too, says the UN weather agency.",
-      "link": "https://news.un.org/feed/view/en/story/2026/01/1166758",
-      "published_utc": "2026-01-14T12:00:00+00:00",
-      "score": 3
-    },
-    {
-      "section": "environment",
-      "kind": "global",
-      "source": "UN News - Climate",
-      "title": "UN environment assembly wraps up in Nairobi",
-      "summary": "The seventh session of the United Nations Environment Assembly (UNEA-7) concluded in Nairobi, Kenya, on Friday with Member States adopting 11 resolutions, three decisions and a ministerial declaration aiming to advance solutions for a more resilient planet.&nbsp;",
-      "link": "https://news.un.org/feed/view/en/story/2025/12/1166585",
-      "published_utc": "2025-12-12T12:00:00+00:00",
-      "score": 3
-    },
-    {
-      "section": "environment",
-      "kind": "global",
-      "source": "UN News - Climate",
-      "title": "A sustainable future requires new thinking: UN environment report",
-      "summary": "Adopting a fresh approach to protecting planetary health would deliver stronger economies, fewer deaths and less poverty, the UN Environment Programme (UNEP) insisted on Tuesday, as it released its most comprehensive assessment of environmental pressures facing the world.",
-      "link": "https://news.un.org/feed/view/en/story/2025/12/1166553",
-      "published_utc": "2025-12-09T12:00:00+00:00",
-      "score": 3
-    },
-    {
-      "section": "environment",
-      "kind": "global",
-      "source": "UN News - Climate",
-      "title": "Arab region pushed to limits by climate extremes as 2024 smashes heat records",
-      "summary": "The Arab region is heating at nearly twice the global average, UN weather experts warned on Thursday, after 2024 saw unprecedented heat, destructive storms and worsening water scarcity impact some of the world’s most vulnerable communities.",
-      "link": "https://news.un.org/feed/view/en/story/2025/12/1166509",
-      "published_utc": "2025-12-04T12:00:00+00:00",
-      "score": 3
-    },
-    {
-      "section": "environment",
-      "kind": "global",
-      "source": "UN News - Climate",
-      "title": "Asia: Lives upended by cyclones, ‘extreme’ rainfall on the rise, warn UN agencies",
-      "summary": "Across southeast Asia, record-breaking rains and flooding caused by back-to-back tropical storms have claimed hundreds of lives and brought devastation and displacement upon entire communities, UN agencies said on Tuesday.&nbsp;",
-      "link": "https://news.un.org/feed/view/en/story/2025/12/1166482",
-      "published_utc": "2025-12-02T12:00:00+00:00",
-      "score": 3
-    }
-  ],
+  "generated_utc": "2026-02-19T15:28:28+00:00",
   "sections": {
     "romania": [
       {
         "section": "romania",
         "kind": "ro",
-        "source": "Digi24",
-        "title": "Vaccinarea în România a ajuns la un minim istoric. Numărul cazurilor de tuse convulsivă a crescut de 62 de ori într-un singur an",
-        "summary": "Rata vaccinării în România a ajuns la un minim istoric, avertizează Forumul Român Pro-Vaccinare (FRPV), în timp ce cazurile de rujeolă și tuse convulsivă înregistrează creșteri alarmante. Numai între 2023 și 2025 au fost confirmate 35.736 de cazuri de rujeolă, fiind și 30 de decese, iar tusea convulsivă a crescut în 2024 de 62 de ori față de anul precedent, cu 519 cazuri și două decese raportate în anul trecut, ambele la sugari nevaccinați.",
-        "link": "https://www.digi24.ro/stiri/actualitate/social/rata-vaccinarii-in-romania-este-la-un-minim-istoric-crestere-alarmanta-a-cazurilor-de-tuse-convulsiva-de-62-de-ori-mai-multe-in-2024-3638497",
-        "published_utc": "2026-02-19T10:22:48+00:00",
-        "score": 3
+        "source": "HotNews",
+        "title": "LOREDANA revine la Sala Palatului cu un show-eveniment: „LIBERTATE”",
+        "summary": "Pe 7 noiembrie, barierele cad într-un spectacol despre muzică, spirit și curajul de a fi tu însuți. Loredana ne invită la „Libertate” &#8211; un show-manifest despre curajul de a nu te lăsa încadrat în norme&#8230;",
+        "link": "https://hotnews.ro/loredana-revine-la-sala-palatului-cu-un-show-eveniment-libertate-2174911",
+        "published_utc": "2026-02-19T14:56:14+00:00",
+        "score": 1,
+        "image": "https://hotnews.ro/wp-content/uploads/2026/02/LOREDANA-revine-la-Sala-Palatului-cu-un-show-eveniment.png"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Mega-investiție în infrastructura pentru AI, anunțată la un summit de profil. Ce cuprinde planul pe șapte ani",
+        "summary": "Un conglomerat industrial din India a anunțat investiții de peste 100 miliarde dolari pentru construcția de centre de date și alte elemente de infrastructură pentru diversele aplicații de inteligență artificială. Anunțul a fost făcut la&#8230;",
+        "link": "https://hotnews.ro/mega-investitie-in-infrastructura-pentru-ai-anuntata-la-un-summit-de-profil-ce-cuprinde-planul-pe-sapte-ani-2174839",
+        "published_utc": "2026-02-19T14:25:20+00:00",
+        "score": 1,
+        "image": "https://hotnews.ro/wp-content/uploads/2026/02/Intr-un-centru-de-date.jpg"
       },
       {
         "section": "romania",
@@ -273,7 +32,8 @@
         "summary": "Endoscopia digestivă este o investigație indispensabilă în diagnosticul multor afecțiuni, dar poate crea anxietate legată de disconfort. Sedarea are rolul de a face procedura mai tolerabilă, păstrând în același timp un profil de siguranță cât mai bun.",
         "link": "https://www.digi24.ro/sanatate-digimatinal/cum-se-asigura-confortul-pacientului-la-procedurile-de-endoscopie-digestiva-3633129",
         "published_utc": "2026-02-19T09:21:42+00:00",
-        "score": 1
+        "score": 1,
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjQl/MkYwOCUyRjE0JTJGMjA0ODI4NF8yMDQ4/Mjg0X2RyLXZsYWQtc2ltaW9uLmpwZyZo/YXNoPTk4MDg5MDcwZDUwMmEyZjhjOWIwZTUzNGUzOWE3YTFi.jpg"
       },
       {
         "section": "romania",
@@ -283,17 +43,8 @@
         "summary": "Ministerul Finanțelor listează joi, la Bursa de Valori București (BVB), titlurile de stat din a doua ediție FIDELIS din 2026, derulată în perioada 6-13 februarie, după ce investitorii au subscris peste 1,013 miliarde de lei. În total, au fost plasate 12.103 ordine, în valoare de 378,52 milioane lei și 124,49 milioane euro, cea mai accesată fiind emisiunea în euro pe 10 ani, cu o dobândă de 6%.",
         "link": "https://www.digi24.ro/stiri/economie/titlurile-de-stat-fidelis-2026-disponibile-la-bvb-cea-mai-cautata-emisiune-cea-in-euro-pe-10-ani-cu-dobanda-de-6-3638401",
         "published_utc": "2026-02-19T09:09:12+00:00",
-        "score": 2
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Digistoria - cele mai importante evenimente petrecute pe 19 februarie",
-        "summary": "Digistoria - cele mai importante evenimente petrecute pe 19 februarie",
-        "link": "https://www.digi24.ro/digistoria/digistoria-cele-mai-importante-evenimente-petrecute-pe-19-februarie-2-3638241",
-        "published_utc": "2026-02-19T07:38:15+00:00",
-        "score": 1
+        "score": 2,
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwMyUyRjA3JTJGMjIwNjU3M18yMjA2/NTczX3RpdGx1cmktZmlkZWxpcy5qcGcm/aGFzaD0wZGQxYWQ5NDlmODZhNDE4NDM0Y2IxNWNmZDhjYzU5OA==.jpg"
       }
     ],
     "medical": [
@@ -380,25 +131,25 @@
       {
         "section": "medical",
         "kind": "global",
-        "source": "ScienceDaily Health",
+        "source": "ScienceDaily Medicine",
         "title": "This popular diet was linked to a much lower stroke risk",
         "summary": "A long-term study found that women who closely followed a Mediterranean diet had a much lower risk of stroke. The strongest benefits were seen in women who ate more plant-based foods, fish, and olive oil while cutting back on red meat and saturated fats. Their risk dropped across all major stroke types, including bleeding strokes, which are less commonly studied. The findings suggest diet may be a powerful but overlooked factor in stroke prevention.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260209064310.htm",
         "published_utc": "2026-02-09T11:54:46+00:00",
         "score": 1
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "ScienceDaily Medicine",
-        "title": "Scientists found a gut compound that helps protect the liver",
-        "summary": "What a mother eats during pregnancy may quietly shape her child’s liver health years down the road—but new research suggests there may be a way to tip the odds back in a healthier direction. Scientists found that a natural compound made by healthy gut bacteria dramatically reduced fatty liver disease in the offspring of mice whose mothers ate a high-fat, high-sugar diet. The compound, called indole, appeared to protect the liver, improve blood sugar, limit weight gain, and even reshape the gut microbiome in lasting ways.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260208011028.htm",
-        "published_utc": "2026-02-08T07:18:29+00:00",
-        "score": 1
       }
     ],
     "science": [
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "ScienceDaily Science",
+        "title": "Scientists discover gene that could save bananas from deadly Panama disease",
+        "summary": "A major breakthrough could help save the world’s bananas from a devastating disease. Scientists have discovered the exact genetic region in a wild banana that provides resistance to Fusarium wilt Subtropical Race 4 — a destructive strain that threatens Cavendish bananas worldwide. While this wild banana isn’t edible, the discovery gives breeders a powerful genetic roadmap to develop future bananas that are both delicious and naturally protected from this deadly pathogen.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260219040749.htm",
+        "published_utc": "2026-02-19T14:43:15+00:00",
+        "score": 1
+      },
       {
         "section": "science",
         "kind": "global",
@@ -417,7 +168,8 @@
         "summary": "Looking at Chlorophyll from Space By Compton “Jim” Tucker NASA scientists are able to study plants from space, but this wasn’t always the case. “I love using satellite data to study the Earth,” says Dr. Compton “Jim” Tucker. When Tucker was a graduate student, he and some friends discovered a new way to study photosynthesis. […]",
         "link": "https://science.nasa.gov/missions/explorer/notes-from-the-field/",
         "published_utc": "2026-02-18T19:23:57+00:00",
-        "score": 1
+        "score": 1,
+        "image": "https://assets.science.nasa.gov/content/dam/science/missions/explorer-1/tucker1.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
       },
       {
         "section": "science",
@@ -459,7 +211,8 @@
         "summary": "The world spends billions to protect nature, but trillions are being invested in business activities that harm the environment.&nbsp;",
         "link": "https://news.un.org/feed/view/en/story/2026/01/1166809",
         "published_utc": "2026-01-22T12:00:00+00:00",
-        "score": 1
+        "score": 1,
+        "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/UNHCR/Embargoed%202/18-03-2022-Photostory-Malaysia-01.jpg/image560x340cropped.jpg"
       },
       {
         "section": "environment",
@@ -469,7 +222,8 @@
         "summary": "The past 11 years have been the warmest in the modern era, while oceans continue to heat up, too, says the UN weather agency.",
         "link": "https://news.un.org/feed/view/en/story/2026/01/1166758",
         "published_utc": "2026-01-14T12:00:00+00:00",
-        "score": 3
+        "score": 3,
+        "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/05-10-2023-WMO-2024-Calendar-Antarctica.jpg/image560x340cropped.jpg"
       },
       {
         "section": "environment",
@@ -479,7 +233,8 @@
         "summary": "The seventh session of the United Nations Environment Assembly (UNEA-7) concluded in Nairobi, Kenya, on Friday with Member States adopting 11 resolutions, three decisions and a ministerial declaration aiming to advance solutions for a more resilient planet.&nbsp;",
         "link": "https://news.un.org/feed/view/en/story/2025/12/1166585",
         "published_utc": "2025-12-12T12:00:00+00:00",
-        "score": 3
+        "score": 3,
+        "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/12-12-2025_UNEP_UNEA7_Nairobi_Kenya.jpg/image560x340cropped.jpg"
       },
       {
         "section": "environment",
@@ -489,7 +244,8 @@
         "summary": "Adopting a fresh approach to protecting planetary health would deliver stronger economies, fewer deaths and less poverty, the UN Environment Programme (UNEP) insisted on Tuesday, as it released its most comprehensive assessment of environmental pressures facing the world.",
         "link": "https://news.un.org/feed/view/en/story/2025/12/1166553",
         "published_utc": "2025-12-09T12:00:00+00:00",
-        "score": 3
+        "score": 3,
+        "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/09-12-2025-UNEP-plastic-recycle.jpg/image560x340cropped.jpg"
       },
       {
         "section": "environment",
@@ -499,7 +255,8 @@
         "summary": "The Arab region is heating at nearly twice the global average, UN weather experts warned on Thursday, after 2024 saw unprecedented heat, destructive storms and worsening water scarcity impact some of the world’s most vulnerable communities.",
         "link": "https://news.un.org/feed/view/en/story/2025/12/1166509",
         "published_utc": "2025-12-04T12:00:00+00:00",
-        "score": 3
+        "score": 3,
+        "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/03-03-2021-unsplash-Makkah-Saudi-Arabia.jpg/image560x340cropped.jpg"
       },
       {
         "section": "environment",
@@ -509,53 +266,33 @@
         "summary": "Across southeast Asia, record-breaking rains and flooding caused by back-to-back tropical storms have claimed hundreds of lives and brought devastation and displacement upon entire communities, UN agencies said on Tuesday.&nbsp;",
         "link": "https://news.un.org/feed/view/en/story/2025/12/1166482",
         "published_utc": "2025-12-02T12:00:00+00:00",
-        "score": 3
-      }
-    ],
-    "photos": [
-      {
-        "category_id": "space",
-        "category_label": "🚀 Spațiu",
-        "source": "Flickr (space)",
-        "title": "NGC 7822",
-        "link": "https://www.flickr.com/photos/astrodoc71/55104700880/",
-        "image_url": "https://live.staticflickr.com/65535/55104700880_f45e25342a_b.jpg",
-        "published_utc": "2026-02-19T12:31:21+00:00"
-      },
-      {
-        "category_id": "animals",
-        "category_label": "🐾 Animale",
-        "source": "Flickr (animals)",
-        "title": "One seed……",
-        "link": "https://www.flickr.com/photos/billie4/55104692759/",
-        "image_url": "https://live.staticflickr.com/65535/55104692759_56838907c4_b.jpg",
-        "published_utc": "2026-02-19T13:51:36+00:00"
-      },
-      {
-        "category_id": "landscapes",
-        "category_label": "🏞️ Peisaj",
-        "source": "Flickr (landscape)",
-        "title": "Hanging out at the Coffee Shop/Lobby Bar/Night Disco room inside Viva V Wyndham hotel in Cosón beach, Las Terrenas, Samaná province, DR. January 2026",
-        "link": "https://www.flickr.com/photos/lezumbalaberenjena/55104575843/",
-        "image_url": "https://live.staticflickr.com/65535/55104575843_72683f5ccc_b.jpg",
-        "published_utc": "2026-02-19T13:55:32+00:00"
-      }
-    ],
-    "joke": [
-      {
-        "date_utc": "2026-02-19",
-        "text": "Am încercat să fac sport… dar s-a încărcat o reclamă și am renunțat."
-      }
-    ],
-    "satire": [
-      {
-        "date_utc": "2026-02-19",
-        "source": "TimesNewRoman",
-        "title": "S-a întors roata după decizia CCR! Acum o sună toţi judecătorii pe Lia",
-        "summary": "Cotidian independent de umor voluntar",
-        "link": "https://www.timesnewroman.ro/politic/s-a-intors-roata-dupa-decizia-ccr-acum-o-suna-toti-judecatorii-pe-lia/",
-        "note": "Satiră — nu este știre reală."
+        "score": 3,
+        "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/27-08-2021_WMO_extreme-weather.jpg/image560x340cropped.jpg"
       }
     ]
-  }
+  },
+  "joke_ro": {
+    "date_utc": "2026-02-19",
+    "text": "Am încercat să fac sport… dar s-a încărcat o reclamă și am renunțat."
+  },
+  "top_images": [
+    {
+      "tag": "space",
+      "title": "Galaxy field of low-surface-brightness galaxy CDG-2",
+      "link": "https://www.flickr.com/photos/europeanspaceagency/55103046148/",
+      "image": "https://live.staticflickr.com/65535/55103046148_bbef39e39b_b.jpg"
+    },
+    {
+      "tag": "animals",
+      "title": "260215 Donosaka Park-07.jpg",
+      "link": "https://www.flickr.com/photos/77903093@N00/55104534988/",
+      "image": "https://live.staticflickr.com/65535/55104534988_f032a24474_b.jpg"
+    },
+    {
+      "tag": "landscape",
+      "title": "2026-02-19_05-00-19",
+      "link": "https://www.flickr.com/photos/203860434@N04/55104732008/",
+      "image": "https://live.staticflickr.com/65535/55104732008_434f5597de_b.jpg"
+    }
+  ]
 }
