@@ -1,7 +1,17 @@
 {
-  "generated_utc": "2026-02-19T06:47:33+00:00",
+  "generated_utc": "2026-02-19T07:43:23+00:00",
   "count": 26,
   "items": [
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Digistoria - cele mai importante evenimente petrecute pe 19 februarie",
+      "summary": "Digistoria - cele mai importante evenimente petrecute pe 19 februarie",
+      "link": "https://www.digi24.ro/digistoria/digistoria-cele-mai-importante-evenimente-petrecute-pe-19-februarie-2-3638241",
+      "published_utc": "2026-02-19T07:38:15+00:00",
+      "score": 1
+    },
     {
       "section": "romania",
       "kind": "ro",
@@ -11,16 +21,6 @@
       "link": "https://www.digi24.ro/stiri/actualitate/salvamont-64-de-persoane-au-fost-salvate-de-pe-munte-in-ultimele-24-de-ore-romania-a-fost-sub-avertizare-de-ninsori-si-viscol-3638161",
       "published_utc": "2026-02-19T06:32:33+00:00",
       "score": 3
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "HotNews",
-      "title": "Ciolacu a lăsat datorii de trei ori mai mari decât Dăncilă. Ce a făcut Ciucă",
-      "summary": "Pentru mandatele președinților Ciolacu și Ciucă cele două partide, PSD și PNL, au raportat recent datorii record, după ce au primit cele mai mari subvenții de la bugetul de stat, arată datele oficiale publicate recent,&#8230;",
-      "link": "https://hotnews.ro/ciolacu-a-lasat-datorii-de-trei-ori-mai-mari-decat-dancila-ce-a-facut-ciuca-2174170",
-      "published_utc": "2026-02-19T05:08:52+00:00",
-      "score": 2
     },
     {
       "section": "science",
@@ -36,21 +36,21 @@
       "section": "romania",
       "kind": "ro",
       "source": "HotNews",
+      "title": "Ciolacu a lăsat datorii de trei ori mai mari decât Dăncilă. Ce a făcut Ciucă",
+      "summary": "Pentru mandatele președinților Ciolacu și Ciucă cele două partide, PSD și PNL, au raportat recent datorii record, după ce au primit cele mai mari subvenții de la bugetul de stat, arată datele oficiale publicate recent,&#8230;",
+      "link": "https://hotnews.ro/ciolacu-a-lasat-datorii-de-trei-ori-mai-mari-decat-dancila-ce-a-facut-ciuca-2174170",
+      "published_utc": "2026-02-19T05:08:52+00:00",
+      "score": 2
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
       "title": "Investiție gigant amânată în România. Plan de aproape un miliard de euro mai așteaptă",
       "summary": "Compania turcă de investiții Ussuri Capital, care-și anunța în urmă cu doi ani intenția de a dezvolta în România o investiție gigant, de aproape 1 miliard de euro, într-o fabrică de oțel cu emisii reduse&#8230;",
       "link": "https://hotnews.ro/investitie-gigant-amanata-in-romania-plan-de-aproape-un-miliard-de-euro-mai-asteapta-2174391",
       "published_utc": "2026-02-19T04:52:00+00:00",
       "score": 1
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Ziua Națională Constantin Brâncuși 2026: Evenimente culturale organizate în București și în alte orașe din țară",
-      "summary": "La 19 februarie, România marchează Ziua Națională Constantin Brâncuși, o ocazie de a celebra moștenirea unuia dintre cei mai importanți artiști ai secolului XX, considerat părintele sculpturii moderne. Cu acest prilej, instituțiile culturale din țară organizează expoziții, conferințe și evenimente dedicate operei sale.",
-      "link": "https://www.digi24.ro/magazin/timp-liber/cultura/ziua-nationala-constantin-brancusi-2026-evenimente-culturale-organizate-in-bucuresti-si-in-alte-orase-din-tara-3636933",
-      "published_utc": "2026-02-18T18:00:08+00:00",
-      "score": 2
     },
     {
       "section": "science",
@@ -66,10 +66,10 @@
       "section": "romania",
       "kind": "ro",
       "source": "Digi24",
-      "title": "Ilie Bolojan: „Proiectul care vizează cumulul pensie-salariu va fi adoptat zilele următoare”. Ce prevede legea",
-      "summary": "Ilie Bolojan a spus la Digi24 că un proiect de lege privind cumulul pensie-salariu la stat va fi adoptat de Guvern „zilele următoare”. Premierul a afirmat că o persoană „după ce s-a pensionat, nu mai poate beneficia și de pensie integral și de salariu, ci doar de 15% din valoarea pensiei”.",
-      "link": "https://www.digi24.ro/stiri/actualitate/politica/ilie-bolojan-proiectul-care-vizeaza-cumulul-pensie-salariu-va-fi-adoptat-zilele-urmatoare-ce-prevede-legea-3637591",
-      "published_utc": "2026-02-18T17:28:38+00:00",
+      "title": "Ziua Națională Constantin Brâncuși 2026: Evenimente culturale organizate în București și în alte orașe din țară",
+      "summary": "La 19 februarie, România marchează Ziua Națională Constantin Brâncuși, o ocazie de a celebra moștenirea unuia dintre cei mai importanți artiști ai secolului XX, considerat părintele sculpturii moderne. Cu acest prilej, instituțiile culturale din țară organizează expoziții, conferințe și evenimente dedicate operei sale.",
+      "link": "https://www.digi24.ro/magazin/timp-liber/cultura/ziua-nationala-constantin-brancusi-2026-evenimente-culturale-organizate-in-bucuresti-si-in-alte-orase-din-tara-3636933",
+      "published_utc": "2026-02-18T18:00:08+00:00",
       "score": 2
     },
     {
@@ -269,6 +269,16 @@
         "section": "romania",
         "kind": "ro",
         "source": "Digi24",
+        "title": "Digistoria - cele mai importante evenimente petrecute pe 19 februarie",
+        "summary": "Digistoria - cele mai importante evenimente petrecute pe 19 februarie",
+        "link": "https://www.digi24.ro/digistoria/digistoria-cele-mai-importante-evenimente-petrecute-pe-19-februarie-2-3638241",
+        "published_utc": "2026-02-19T07:38:15+00:00",
+        "score": 1
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
         "title": "Salvamont: 64 de persoane au fost salvate de pe munte în ultimele 24 de ore. România a fost sub avertizare de ninsori și viscol",
         "summary": "64 de persoane au fost salvate de pe munte în ultimele 24 de ore, anunță Salvamont România. Aceasta, în condițiile în care România a trecut prin cel mai sever episod de ninsori și viscol din acest an.",
         "link": "https://www.digi24.ro/stiri/actualitate/salvamont-64-de-persoane-au-fost-salvate-de-pe-munte-in-ultimele-24-de-ore-romania-a-fost-sub-avertizare-de-ninsori-si-viscol-3638161",
@@ -303,16 +313,6 @@
         "summary": "La 19 februarie, România marchează Ziua Națională Constantin Brâncuși, o ocazie de a celebra moștenirea unuia dintre cei mai importanți artiști ai secolului XX, considerat părintele sculpturii moderne. Cu acest prilej, instituțiile culturale din țară organizează expoziții, conferințe și evenimente dedicate operei sale.",
         "link": "https://www.digi24.ro/magazin/timp-liber/cultura/ziua-nationala-constantin-brancusi-2026-evenimente-culturale-organizate-in-bucuresti-si-in-alte-orase-din-tara-3636933",
         "published_utc": "2026-02-18T18:00:08+00:00",
-        "score": 2
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Ilie Bolojan: „Proiectul care vizează cumulul pensie-salariu va fi adoptat zilele următoare”. Ce prevede legea",
-        "summary": "Ilie Bolojan a spus la Digi24 că un proiect de lege privind cumulul pensie-salariu la stat va fi adoptat de Guvern „zilele următoare”. Premierul a afirmat că o persoană „după ce s-a pensionat, nu mai poate beneficia și de pensie integral și de salariu, ci doar de 15% din valoarea pensiei”.",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/ilie-bolojan-proiectul-care-vizeaza-cumulul-pensie-salariu-va-fi-adoptat-zilele-urmatoare-ce-prevede-legea-3637591",
-        "published_utc": "2026-02-18T17:28:38+00:00",
         "score": 2
       }
     ],
@@ -546,19 +546,19 @@
         "category_id": "animals",
         "category_label": "🐾 Animale",
         "source": "Flickr (animals)",
-        "title": "Овсянка Стюарта, Emberiza stewarti, White-capped Bunting ♂️",
-        "link": "https://www.flickr.com/photos/140734051@N08/55104287189/",
-        "image_url": "https://live.staticflickr.com/65535/55104287189_ce51e89bce_b.jpg",
-        "published_utc": "2026-02-19T06:44:59+00:00"
+        "title": "Cat Paw Prints in Sand",
+        "link": "https://www.flickr.com/photos/sierragoddess/55104068201/",
+        "image_url": "https://live.staticflickr.com/65535/55104068201_ff6fecdd56_b.jpg",
+        "published_utc": "2026-02-19T07:40:36+00:00"
       },
       {
         "category_id": "landscapes",
         "category_label": "🏞️ Peisaj",
         "source": "Flickr (landscape)",
-        "title": "Volta a Carrasqueira",
-        "link": "https://www.flickr.com/photos/78391947@N06/55104289154/",
-        "image_url": "https://live.staticflickr.com/65535/55104289154_22f78c7b39_b.jpg",
-        "published_utc": "2026-02-19T06:46:47+00:00"
+        "title": "Norway / Nordland - Vestfjorden",
+        "link": "https://www.flickr.com/photos/133876835@N08/55104433600/",
+        "image_url": "https://live.staticflickr.com/65535/55104433600_cdebc1c84b_b.jpg",
+        "published_utc": "2026-02-19T07:30:22+00:00"
       }
     ],
     "joke": [
@@ -571,9 +571,9 @@
       {
         "date_utc": "2026-02-19",
         "source": "TimesNewRoman",
-        "title": "Alte 7 produse lansate de fotbalişti după vinul ÎmbăTamaş al lui Tamaş",
+        "title": "Accident grav la patinoar! Un cocalar și-a tăiat unghia de la degetul mic cu patina",
         "summary": "Cotidian independent de umor voluntar",
-        "link": "https://www.timesnewroman.ro/sport/alte-7-produse-lansate-de-fotbalisti-dupa-vinul-imbatamas-al-lui-tamas/",
+        "link": "https://www.timesnewroman.ro/monden/accident-grav-la-patinoar-un-cocalar-si-a-taiat-unghia-de-la-degetul-mic-cu-patina/",
         "note": "Satiră — nu este știre reală."
       }
     ]
