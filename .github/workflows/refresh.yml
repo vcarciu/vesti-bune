@@ -36,7 +36,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # IMPORTANT: commit BOTH files
+          # commit BOTH json files
           git add data/news.json data/items.json
 
           if git diff --cached --quiet; then
@@ -45,8 +45,4 @@ jobs:
           fi
 
           git commit -m "chore: refresh news"
-
-          # Always sync with remote in case you pushed commits while this job was running
-          git fetch origin main
-          git rebase origin/main
-          git push origin HEAD:main
+          git push
