@@ -1,7 +1,19 @@
 {
-  "generated_utc": "2026-02-20T20:18:38+00:00",
+  "generated_utc": "2026-02-20T21:14:45+00:00",
   "sections": {
-    "romania": [],
+    "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Ce cred ucrainenii despre noua rachetă de croazieră românească Sahara, prevăzută cu Nemesis AI: „Singurul proiect cunoscut publicului”",
+        "summary": "O companie românească specializată în software a dezvoltat prima sa rachetă de croazieră autonomă, care integrează inteligența artificială. Racheta este capabilă să opereze la altitudine joasă şi în zone cu navigaţie perturbată. Demonstraţiile oficiale sunt programate pentru primăvara sau toamna acestui an.",
+        "link": "https://www.digi24.ro/stiri/actualitate/ce-cred-ucrainenii-despre-noua-racheta-de-croaziera-romaneasca-sahara-prevazuta-cu-nemesis-ai-singurul-proiect-cunoscut-publicului-3641461",
+        "published_utc": "2026-02-20T20:41:26+00:00",
+        "score": 1,
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMiUyRjIwJTJGMjYwMTMxMl8yNjAx/MzEyX1NhaGFyYS5qcGcmaGFzaD0wMzZk/YTkxZmQxZjQ1Njk4ZTU3OWJkNjE5N2RhN2IwZA==.jpg"
+      }
+    ],
     "medical": [
       {
         "section": "medical",
@@ -268,21 +280,21 @@
   "top_images": [
     {
       "tag": "space",
-      "title": "Crater Buggy",
-      "link": "https://www.flickr.com/photos/158127482@N02/55105462317/",
-      "image": "https://live.staticflickr.com/65535/55105462317_7117e0a120_b.jpg"
+      "title": "12k MoonStar 02-19",
+      "link": "https://www.flickr.com/photos/silentoneproductions/55106526798/",
+      "image": "https://www.flickr.com/apps/video/stewart.swf?v=2968162862&photo_id=55106526798"
     },
     {
       "tag": "animals",
-      "title": "Zf2602131642DSC_1862",
-      "link": "https://www.flickr.com/photos/liluyf/55106698970/",
-      "image": "https://live.staticflickr.com/65535/55106698970_f6dca2c777_b.jpg"
+      "title": "Zf2602141000DSC_1910",
+      "link": "https://www.flickr.com/photos/liluyf/55106581619/",
+      "image": "https://live.staticflickr.com/65535/55106581619_8fb902756e_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "Ripples of Gold",
-      "link": "https://www.flickr.com/photos/163555494@N04/55105730287/",
-      "image": "https://live.staticflickr.com/65535/55105730287_d956a6c04a_b.jpg"
+      "title": "Eisenhower Farm",
+      "link": "https://www.flickr.com/photos/georgeneat/55106816364/",
+      "image": "https://live.staticflickr.com/65535/55106816364_1f4be0341f_b.jpg"
     }
   ]
 }
