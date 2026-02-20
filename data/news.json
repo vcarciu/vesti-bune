@@ -1,7 +1,18 @@
 {
-  "generated_utc": "2026-02-20T05:44:43+00:00",
+  "generated_utc": "2026-02-20T06:41:22+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Alianța giganților. Pariul de miliarde pe care cea mai valoroasă companie din lume îl plănuiește în domeniul AI",
+        "summary": "Nvidia, cel mai important producător mondial de cipuri AI, este pe cale să finalizeze o investiție de 30 de miliarde de dolari în OpenAI, pe măsură ce compania condusă de Jensen Huang se pregătește să&#8230;",
+        "link": "https://hotnews.ro/nvidia-openai-cipuri-ai-investitie-inteligenta-artificiala-2175381",
+        "published_utc": "2026-02-20T06:34:34+00:00",
+        "score": 1,
+        "image": "https://hotnews.ro/wp-content/uploads/2025/12/profimedia-1052157614.jpg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -193,6 +204,16 @@
         "section": "science",
         "kind": "global",
         "source": "ScienceDaily Science",
+        "title": "Giant virus discovery could rewrite the origin of complex life",
+        "summary": "A giant virus discovered in Japan is adding fuel to the provocative idea that viruses helped create complex life. Named ushikuvirus, it infects amoebae and shows unique traits that connect different families of giant DNA viruses. Its unusual way of hijacking and disrupting the host cell’s nucleus offers fresh insight into how viruses may have influenced the evolution of the cell nucleus itself. The finding deepens the mystery of viruses—and their possible role in life’s biggest leap.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260219040814.htm",
+        "published_utc": "2026-02-20T03:28:24+00:00",
+        "score": 2
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "ScienceDaily Science",
         "title": "Ancient DNA solves 5,500 year old burial mystery in Sweden",
         "summary": "Ancient DNA from a Stone Age burial site in Sweden shows that families 5,500 years ago were more complex than expected. Many individuals buried together were not immediate family, but second- or third-degree relatives. One grave held a young woman alongside two children who were siblings—yet she wasn’t their mother. The discoveries hint at tight-knit communities where extended kin mattered deeply.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260218031559.htm",
@@ -292,21 +313,21 @@
   "top_images": [
     {
       "tag": "space",
-      "title": "Evergreen Aviation & Space Museum",
-      "link": "https://www.flickr.com/photos/10979857@N06/55105582811/",
-      "image": "https://live.staticflickr.com/65535/55105582811_8686125bf3_b.jpg"
+      "title": "FloraTron Mooncruiser",
+      "link": "https://www.flickr.com/photos/190302883@N05/55104780652/",
+      "image": "https://live.staticflickr.com/65535/55104780652_90b9359357_b.jpg"
     },
     {
       "tag": "animals",
-      "title": "DSC_2764",
-      "link": "https://www.flickr.com/photos/lakeworth/55105719280/",
-      "image": "https://live.staticflickr.com/65535/55105719280_b438005731_b.jpg"
+      "title": "20260215-DSCI0683.jpg",
+      "link": "https://www.flickr.com/photos/emmonsfamily/55104498162/",
+      "image": "https://live.staticflickr.com/65535/55104498162_dc0b3a4748_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "sBs_2509(WE)_Semois&Meuse_0128 copie",
-      "link": "https://www.flickr.com/photos/schoolartbyschoolboy/55105864954/",
-      "image": "https://live.staticflickr.com/65535/55105864954_335e7f3de7_b.jpg"
+      "title": "sBs_2509(WE)_Semois&Meuse_0100 copie",
+      "link": "https://www.flickr.com/photos/schoolartbyschoolboy/55105864674/",
+      "image": "https://live.staticflickr.com/65535/55105864674_7ffe268d17_b.jpg"
     }
   ]
 }
