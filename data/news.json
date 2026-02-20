@@ -1,7 +1,18 @@
 {
-  "generated_utc": "2026-02-20T04:04:53+00:00",
+  "generated_utc": "2026-02-20T05:44:43+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Legătura între culturile de bumbac din România și programul european de reînarmare. Ce experimente se fac în România",
+        "summary": "România are șansa de a-și readuce la viață o ramură moartă a agriculturii: culturile de bumbac. Asta pentru că gigantul german Rheinmetall s-a angajat să cumpere din România cea mai mare parte din materia primă&#8230;",
+        "link": "https://hotnews.ro/legatura-intre-culturile-de-bumbac-din-romania-si-programul-european-de-reinarmare-ce-experimente-se-fac-in-romania-2172243",
+        "published_utc": "2026-02-20T05:00:03+00:00",
+        "score": 1,
+        "image": "https://hotnews.ro/wp-content/uploads/2026/02/bumbac.jpg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -23,17 +34,6 @@
         "published_utc": "2026-02-19T15:35:19+00:00",
         "score": 1,
         "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjMl/MkYwOSUyRjI3JTJGMTgwNjg0N18xODA2/ODQ3X05vcmQtU3RyZWFtLTEtMjctc2Vw/dGVtYnJpZS5qcGcmaGFzaD1iMjRjNjY5/YWY2ZGNlMmQ1ZTVlZDdmODJhYzhmMjNkMw==.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "JO 2026 Milano Cortina. Julia Sauter evoluează în această seară în programul liber. Miză istorică pentru patinajul românesc",
-        "summary": "Julia Sauter, 28 de ani, va evolua, joi, în programul liber din proba feminină de la patinaj artistic, de la Jocurile Olimpice de la Milano-Cortina.",
-        "link": "https://www.digi24.ro/stiri/sport/jo-2026-milano-cortina-julia-sauter-evolueaza-in-aceasta-seara-in-programul-liber-miza-istorica-pentru-patinajul-romanesc-3639079",
-        "published_utc": "2026-02-19T14:36:46+00:00",
-        "score": 1,
-        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMiUyRjE5JTJGMjU5OTQwMV8yNTk5/NDAxX3Byb2ZpbWVkaWEtMTA3NjQ2OTMy/My5qcGcmaGFzaD0wOTdhNzIxNzZkYmE4ZGMyMDM3ZDc2ZjA4NTk0MDY1Yg==.jpg"
       }
     ],
     "medical": [
@@ -222,17 +222,6 @@
       {
         "section": "science",
         "kind": "global",
-        "source": "NASA Breaking News",
-        "title": "Vantor Archive Imagery Added to Satellite Data Explorer",
-        "summary": "The CSDA Program has added imagery from Vantor to its Satellite Data Explorer (SDX) data access and discovery tool.",
-        "link": "https://science.nasa.gov/uncategorized/vantor-archive-imagery-added-to-satellite-data-explorer/",
-        "published_utc": "2026-02-18T20:54:31+00:00",
-        "score": 2,
-        "image": "https://science.nasa.gov/wp-content/uploads/2026/02/vator-multispectral-dc-1.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
         "source": "ScienceDaily Science",
         "title": "125 million-year-old dinosaur with never before seen hollow spikes discovered in China",
         "summary": "A 125-million-year-old dinosaur just rewrote what we thought we knew about prehistoric life. Scientists in China have uncovered an exceptionally preserved juvenile iguanodontian with fossilized skin so detailed that individual cells are still visible. Even more astonishing, the plant-eating dinosaur was covered in hollow, porcupine-like spikes—structures never before documented in any dinosaur.",
@@ -303,21 +292,21 @@
   "top_images": [
     {
       "tag": "space",
-      "title": "Gregg Hurwitz, CF, 2/17/26",
-      "link": "https://www.flickr.com/photos/slclevents/55105323378/",
-      "image": "https://live.staticflickr.com/65535/55105323378_d26793a972_b.jpg"
+      "title": "Evergreen Aviation & Space Museum",
+      "link": "https://www.flickr.com/photos/10979857@N06/55105582811/",
+      "image": "https://live.staticflickr.com/65535/55105582811_8686125bf3_b.jpg"
     },
     {
       "tag": "animals",
-      "title": "4th Year Bald Eagle and the Gray Ghost (3)",
-      "link": "https://www.flickr.com/photos/matthewpaulson/55105599559/",
-      "image": "https://live.staticflickr.com/65535/55105599559_4b33082c4c_b.jpg"
+      "title": "DSC_2764",
+      "link": "https://www.flickr.com/photos/lakeworth/55105719280/",
+      "image": "https://live.staticflickr.com/65535/55105719280_b438005731_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "DJI_0139-HDR",
-      "link": "https://www.flickr.com/photos/tomhauburn/55105751979/",
-      "image": "https://live.staticflickr.com/65535/55105751979_3e4119a569_b.jpg"
+      "title": "sBs_2509(WE)_Semois&Meuse_0128 copie",
+      "link": "https://www.flickr.com/photos/schoolartbyschoolboy/55105864954/",
+      "image": "https://live.staticflickr.com/65535/55105864954_335e7f3de7_b.jpg"
     }
   ]
 }
