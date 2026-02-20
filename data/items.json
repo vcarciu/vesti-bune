@@ -1,7 +1,18 @@
 {
-  "generated_utc": "2026-02-20T08:29:13+00:00",
+  "generated_utc": "2026-02-20T09:30:48+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "VIDEO Un pui de maimuță abandonat de mama sa a cucerit inimile japonezilor",
+        "summary": "La o grădină zoologică din apropiere de Tokyo, țarcul maimuțelor a devenit o atracție de neratat datorită unui cuplu inseparabil: „Punch”, un pui de macac japonez, și companionul său de pluș, un urangutan, relatează Reuters.&#8230;",
+        "link": "https://hotnews.ro/video-un-pui-de-maimuta-abandonat-de-mama-sa-a-cucerit-inimile-japonezilor-2175475",
+        "published_utc": "2026-02-20T09:21:58+00:00",
+        "score": 1,
+        "image": "https://hotnews.ro/wp-content/uploads/2026/02/profimedia-1076643808.jpg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -34,17 +45,6 @@
         "published_utc": "2026-02-20T06:34:34+00:00",
         "score": 1,
         "image": "https://hotnews.ro/wp-content/uploads/2025/12/profimedia-1052157614.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "Legătura între culturile de bumbac din România și programul european de reînarmare. Ce experimente se fac în România",
-        "summary": "România are șansa de a-și readuce la viață o ramură moartă a agriculturii: culturile de bumbac. Asta pentru că gigantul german Rheinmetall s-a angajat să cumpere din România cea mai mare parte din materia primă&#8230;",
-        "link": "https://hotnews.ro/legatura-intre-culturile-de-bumbac-din-romania-si-programul-european-de-reinarmare-ce-experimente-se-fac-in-romania-2172243",
-        "published_utc": "2026-02-20T05:00:03+00:00",
-        "score": 1,
-        "image": "https://hotnews.ro/wp-content/uploads/2026/02/bumbac.jpg"
       },
       {
         "section": "romania",
@@ -330,15 +330,15 @@
     },
     {
       "tag": "animals",
-      "title": "The Green Beast",
-      "link": "https://www.flickr.com/photos/bkhagar_gallery/55105744736/",
-      "image": "https://live.staticflickr.com/65535/55105744736_f8fd10cb19_b.jpg"
+      "title": "Jerusalem Biblical Zoo",
+      "link": "https://www.flickr.com/photos/shalva1948/55105934888/",
+      "image": "https://live.staticflickr.com/65535/55105934888_86c6bafd53_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "Cannock Chase Forest",
-      "link": "https://www.flickr.com/photos/68166820@N08/55105955403/",
-      "image": "https://live.staticflickr.com/65535/55105955403_50483984a2_b.jpg"
+      "title": "Etna South",
+      "link": "https://www.flickr.com/photos/demeeschter/55105907263/",
+      "image": "https://live.staticflickr.com/65535/55105907263_60a5384f6b_b.jpg"
     }
   ]
 }
