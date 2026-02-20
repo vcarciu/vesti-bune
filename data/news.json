@@ -1,7 +1,29 @@
 {
-  "generated_utc": "2026-02-20T07:40:31+00:00",
+  "generated_utc": "2026-02-20T08:29:13+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Jandarmii din Predeal au salvat un schior căzut într-un pârâu de pe pârtia închisă",
+        "summary": "Patrula de jandarmi aflată joi în patrulare cu snowmobilul pe pârtiile din Stațiunea Predeal a fost solicitată să acorde sprijin unui schior care căzuse în albia unui pârâu din apropierea Pârtiei Subteleferic Predeal.",
+        "link": "https://www.digi24.ro/stiri/actualitate/social/jandarmii-din-predeal-au-salvat-un-schior-cazut-intr-un-parau-de-pe-partia-inchisa-3640187",
+        "published_utc": "2026-02-20T08:23:20+00:00",
+        "score": 1,
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMiUyRjIwJTJGMjYwMDI1MF8yNjAw/MjUwX1NjcmVlbnNob3QtMjAyNi0wMi0y/MC0xMDE5MzQucG5nJmhhc2g9NTBmMTc1/MGEzYzc1MDY4NDEyOTgzMDdkMjU5Yzk1N2M=.png"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "NASA anunță că a finalizat testul pentru „megaracheta” SLS, care va duce astronauți în jurul Lunii",
+        "summary": "NASA a anunţat joi că a finalizat testul general pentru lansarea uriaşei sale rachete Space Launch System (SLS), care va transporta astronauţi în jurul Lunii pentru prima dată după mai bine de 50 de ani în cadrul misiunii Artemis 2.",
+        "link": "https://www.digi24.ro/stiri/externe/nasa-anunta-ca-a-finalizat-testul-pentru-megaracheta-sls-care-va-duce-astronauti-in-jurul-lunii-3640141",
+        "published_utc": "2026-02-20T07:50:25+00:00",
+        "score": 1,
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMiUyRjIwJTJGMjYwMDE5OF8yNjAw/MTk4X3JhY2hldGEtbmFzYS1TcGFjZS1M/YXVuY2gtU3lzdGVtLXNscy1wcm9maW1l/ZGlhLmpwZyZoYXNoPTQ3MmQzMWY5MDMwNmM2ODI1ZGRkZWZhZTYxNTZjNDJk.jpg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -302,21 +324,21 @@
   "top_images": [
     {
       "tag": "space",
-      "title": "Milky Way at Damboring Lakes, Western Australia",
-      "link": "https://www.flickr.com/photos/trevor_dobson_inefekt69/55105868158/",
-      "image": "https://live.staticflickr.com/65535/55105868158_a610ea75f5_b.jpg"
+      "title": "FloraTron Mooncruiser",
+      "link": "https://www.flickr.com/photos/190302883@N05/55105927814/",
+      "image": "https://live.staticflickr.com/65535/55105927814_82c3fb431e_b.jpg"
     },
     {
       "tag": "animals",
-      "title": "Jerusalem Biblical Zoo",
-      "link": "https://www.flickr.com/photos/shalva1948/55105730686/",
-      "image": "https://live.staticflickr.com/65535/55105730686_83d2d3bdec_b.jpg"
+      "title": "The Green Beast",
+      "link": "https://www.flickr.com/photos/bkhagar_gallery/55105744736/",
+      "image": "https://live.staticflickr.com/65535/55105744736_f8fd10cb19_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "Driving up the Etna",
-      "link": "https://www.flickr.com/photos/demeeschter/55106084035/",
-      "image": "https://live.staticflickr.com/65535/55106084035_e562121bfc_b.jpg"
+      "title": "Cannock Chase Forest",
+      "link": "https://www.flickr.com/photos/68166820@N08/55105955403/",
+      "image": "https://live.staticflickr.com/65535/55105955403_50483984a2_b.jpg"
     }
   ]
 }
