@@ -1,7 +1,29 @@
 {
-  "generated_utc": "2026-02-20T14:33:04+00:00",
+  "generated_utc": "2026-02-20T15:29:14+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Un nou drum expres în România. Undă verde pentru un contract de 1 miliard de euro în Moldova / Ce termen de finalizare are – VIDEO",
+        "summary": "Toate contestațiile în urma atribuirii contractului pentru proiectarea și execuția Drumului Expres Bacău &#8211; Piatra Neamț au fost respinse. Compania de Investiții Rutiere este, astfel, obligată să semneze contractul de aproape 1 miliard de euro&#8230;",
+        "link": "https://hotnews.ro/un-nou-drum-expres-in-romania-unda-verde-pentru-un-contract-de-1-miliard-de-euro-in-moldova-ce-termen-de-finalizare-are-video-2175703",
+        "published_utc": "2026-02-20T15:23:26+00:00",
+        "score": 1,
+        "image": "https://hotnews.ro/wp-content/uploads/2024/04/image-2022-07-28-25702910-0-drumul-expres-craiova-pitesti.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "După ce ore în șir a avut probleme cu emisia, B1 TV a venit cu un anunț: „Vom merge mai departe cu programe simplificate”",
+        "summary": "Postul tv de pe Calea Victoriei s-a confruntat vineri cu probleme tehnice. Astfel din jurul orei 10.00, B1 TV a afișat doar imagini de pe o cameră de supraveghere din centrul Bucureştiului, scrie PaginadeMedia. După&#8230;",
+        "link": "https://hotnews.ro/dupa-ce-ore-in-sir-a-avut-probleme-cu-emisia-b1-tv-a-venit-cu-un-anunt-vom-merge-mai-departe-cu-programe-simplificate-2175708",
+        "published_utc": "2026-02-20T14:47:13+00:00",
+        "score": 1,
+        "image": "https://hotnews.ro/wp-content/uploads/2026/02/b1-tv-probleme-emisie-1.jpg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -56,20 +78,19 @@
         "published_utc": "2026-02-20T08:23:20+00:00",
         "score": 1,
         "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMiUyRjIwJTJGMjYwMDI1MF8yNjAw/MjUwX1NjcmVlbnNob3QtMjAyNi0wMi0y/MC0xMDE5MzQucG5nJmhhc2g9NTBmMTc1/MGEzYzc1MDY4NDEyOTgzMDdkMjU5Yzk1N2M=.png"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "NASA anunță că a finalizat testul pentru „megaracheta” SLS, care va duce astronauți în jurul Lunii",
-        "summary": "NASA a anunţat joi că a finalizat testul general pentru lansarea uriaşei sale rachete Space Launch System (SLS), care va transporta astronauţi în jurul Lunii pentru prima dată după mai bine de 50 de ani în cadrul misiunii Artemis 2.",
-        "link": "https://www.digi24.ro/stiri/externe/nasa-anunta-ca-a-finalizat-testul-pentru-megaracheta-sls-care-va-duce-astronauti-in-jurul-lunii-3640141",
-        "published_utc": "2026-02-20T07:50:25+00:00",
-        "score": 1,
-        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMiUyRjIwJTJGMjYwMDE5OF8yNjAw/MTk4X3JhY2hldGEtbmFzYS1TcGFjZS1M/YXVuY2gtU3lzdGVtLXNscy1wcm9maW1l/ZGlhLmpwZyZoYXNoPTQ3MmQzMWY5MDMwNmM2ODI1ZGRkZWZhZTYxNTZjNDJk.jpg"
       }
     ],
     "medical": [
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "Scientists reveal how exercise protects the brain from Alzheimer’s",
+        "summary": "Exercise may sharpen the mind by repairing the brain’s protective shield. Researchers found that physical activity prompts the liver to release an enzyme that removes a harmful protein causing the blood-brain barrier to become leaky with age. In older mice, dialing down this protein reduced inflammation and improved memory. The discovery points to a surprising body-to-brain pathway that could inspire new Alzheimer’s therapies.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260219040752.htm",
+        "published_utc": "2026-02-20T15:19:43+00:00",
+        "score": 2
+      },
       {
         "section": "medical",
         "kind": "global",
@@ -209,16 +230,6 @@
         "link": "https://www.sciencedaily.com/releases/2026/02/260212025620.htm",
         "published_utc": "2026-02-12T14:42:41+00:00",
         "score": 2
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "ScienceDaily Health",
-        "title": "Scientists discover how life experiences rewrite the immune system",
-        "summary": "Why does the same virus barely faze one person while sending another to the hospital? New research shows the answer lies in a molecular record etched into our immune cells by both our genes and our life experiences. Scientists at the Salk Institute have created a detailed epigenetic map of human immune cells, revealing how inherited traits and past exposures—like infections, vaccines, or even environmental chemicals—shape immune responses in different ways.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260210040608.htm",
-        "published_utc": "2026-02-11T05:02:01+00:00",
-        "score": 4
       }
     ],
     "science": [
@@ -335,21 +346,21 @@
   "top_images": [
     {
       "tag": "space",
-      "title": "FloraTron Mooncruiser",
-      "link": "https://www.flickr.com/photos/190302883@N05/55106040620/",
-      "image": "https://live.staticflickr.com/65535/55106040620_1aa1aae726_b.jpg"
+      "title": "Smile mission milestones",
+      "link": "https://www.flickr.com/photos/europeanspaceagency/55106048871/",
+      "image": "https://live.staticflickr.com/65535/55106048871_70580486d5_b.jpg"
     },
     {
       "tag": "animals",
-      "title": "Jerusalem Biblical Zoo",
-      "link": "https://www.flickr.com/photos/shalva1948/55105934888/",
-      "image": "https://live.staticflickr.com/65535/55105934888_86c6bafd53_b.jpg"
+      "title": "DSCF2924",
+      "link": "https://www.flickr.com/photos/198117645@N03/55105099992/",
+      "image": "https://live.staticflickr.com/65535/55105099992_b4f450bdbc_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "Skies on fire",
-      "link": "https://www.flickr.com/photos/193987171@N07/55106481430/",
-      "image": "https://live.staticflickr.com/65535/55106481430_6136c41325_b.jpg"
+      "title": "Lipari, Castello and old town",
+      "link": "https://www.flickr.com/photos/39631091@N03/55106447703/",
+      "image": "https://live.staticflickr.com/65535/55106447703_39a347f344_b.jpg"
     }
   ]
 }
