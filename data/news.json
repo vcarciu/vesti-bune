@@ -1,7 +1,18 @@
 {
-  "generated_utc": "2026-02-21T08:17:55+00:00",
+  "generated_utc": "2026-02-21T09:19:51+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Legea „Fără reclamă la jocuri de noroc în online”: În Spania, numărul jucătorilor noi s-a redus mult, dar nu s-a redus numărul celor care jucau deja /  Cum e în alte țări europene",
+        "summary": "Site-ul de investigații Snoop a analizat cum este reglementată industria jocurilor de noroc în alte state europene și cât de restrictive sunt legile comparativ cu cele votate recent în România. Senatul a votat luni două&#8230;",
+        "link": "https://hotnews.ro/legea-fara-reclama-la-jocuri-de-noroc-in-online-in-spania-numarul-jucatorilor-noi-s-a-redus-mult-dar-nu-s-a-redus-numarul-celor-care-jucau-deja-cum-e-in-alte-tari-europene-2175699",
+        "published_utc": "2026-02-21T09:00:53+00:00",
+        "score": 1,
+        "image": "https://hotnews.ro/wp-content/uploads/2025/11/profimedia-0049541651-1.jpg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -335,21 +346,21 @@
   "top_images": [
     {
       "tag": "space",
-      "title": "A moment of connection with nourishment at the heart of London",
-      "link": "https://www.flickr.com/photos/201517953@N06/55106557814/",
-      "image": "https://live.staticflickr.com/65535/55106557814_4de314e92b_b.jpg"
+      "title": "Crater Buggy",
+      "link": "https://www.flickr.com/photos/158127482@N02/55105462317/",
+      "image": "https://live.staticflickr.com/65535/55105462317_7117e0a120_b.jpg"
     },
     {
       "tag": "animals",
-      "title": "Post Valentine's Day Cuddles (2)",
-      "link": "https://www.flickr.com/photos/matthewpaulson/55107213064/",
-      "image": "https://live.staticflickr.com/65535/55107213064_6bb93f560c_b.jpg"
+      "title": "DR101103_039ab",
+      "link": "https://www.flickr.com/photos/dmitryzhkov/47109946884/",
+      "image": "https://live.staticflickr.com/65535/47109946884_61741547d8_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "Orange sunset over the Mediterranean Sea with Benidorm skyline",
-      "link": "https://www.flickr.com/photos/markowihu/55107718295/",
-      "image": "https://live.staticflickr.com/65535/55107718295_87bce7afe1_b.jpg"
+      "title": "Summit of Mayar",
+      "link": "https://www.flickr.com/photos/96654411@N02/55107543058/",
+      "image": "https://live.staticflickr.com/65535/55107543058_95132e96d0_b.jpg"
     }
   ]
 }
