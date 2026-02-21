@@ -1,7 +1,29 @@
 {
-  "generated_utc": "2026-02-21T15:14:28+00:00",
+  "generated_utc": "2026-02-21T16:15:53+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "S-a închis o cunoscută cafenea din centrul Bucureștiului, la 12 ani de la inaugurare",
+        "summary": "Una dintre cele mai vizitate adrese din Centrul Vechi al Capitalei, cafeneaua Starbucks de la Hanu&#8217; lui Manuc și-a închis porțile, scrie Profit.ro. După această închidere, lanțul de cafenele Starbucks mai are o singură cafenea&#8230;",
+        "link": "https://hotnews.ro/s-a-inchis-o-cunoscuta-cafenea-din-centrul-bucurestiului-la-12-ani-de-la-inaugurare-2176252",
+        "published_utc": "2026-02-21T15:49:58+00:00",
+        "score": 1,
+        "image": "https://hotnews.ro/wp-content/uploads/2026/02/cafenea.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Ce a câștigat România prin participarea la Consiliul pentru Pace. Marius Lazurca: „Am fost mai puțin izolați decât se spune”",
+        "summary": "Marius Lazurca, consilierul prezidențial pentru securitate națională, a vorbit, în exclusivitate pentru Digi24, despre participarea lui Nicușor Dan în calitate de observator la prima reuniune a Consiliului pentru Pace al lui Donald Trump. Oficialul a explicat ce a câștigat România prin faptul că a fost prezentă la nivel înalt, în cadrul acestui eveniment.",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/ce-a-castigat-romania-prin-participarea-la-consiliul-pentru-pace-marius-lazurca-am-fost-mai-putin-izolati-decat-se-spune-3642027",
+        "published_utc": "2026-02-21T15:33:35+00:00",
+        "score": 1,
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMiUyRjIxJTJGMjYwMTc5MF8yNjAx/NzkwX01hcml1cy1MYXp1cmNhLmpwZyZo/YXNoPTM4M2ExNzljZmI1OTZkZjViNzc1NDA2Nzc4ZjFlZjUx.jpg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -368,21 +390,21 @@
   "top_images": [
     {
       "tag": "space",
-      "title": "M10 globular cluster",
-      "link": "https://www.flickr.com/photos/gomeyer/55106521921/",
-      "image": "https://live.staticflickr.com/65535/55106521921_344d83dd82_b.jpg"
+      "title": "12k MoonStar 02-19",
+      "link": "https://www.flickr.com/photos/silentoneproductions/55106526798/",
+      "image": "https://www.flickr.com/apps/video/stewart.swf?v=2968162862&photo_id=55106526798"
     },
     {
       "tag": "animals",
-      "title": "Catwoman - Fierce panther-woman",
-      "link": "https://www.flickr.com/photos/185524201@N08/55107734055/",
-      "image": "https://live.staticflickr.com/65535/55107734055_7b5e3940df_b.jpg"
+      "title": "Seagulls in Front of Heidelberg Castle - February 2026 III",
+      "link": "https://www.flickr.com/photos/sashahasha/55107811951/",
+      "image": "https://live.staticflickr.com/65535/55107811951_811b3d7430_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "Shabbat streets of Jerusalem",
-      "link": "https://www.flickr.com/photos/andreysklyarenko/55107957519/",
-      "image": "https://live.staticflickr.com/65535/55107957519_aca1075dc7_b.jpg"
+      "title": "Isola della Cona 21.02.2026",
+      "link": "https://www.flickr.com/photos/190338986@N02/55108048024/",
+      "image": "https://live.staticflickr.com/65535/55108048024_c5edc998dd_b.jpg"
     }
   ]
 }
