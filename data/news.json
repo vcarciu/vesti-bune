@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-02-21T11:14:00+00:00",
+  "generated_utc": "2026-02-21T12:23:21+00:00",
   "sections": {
     "romania": [
       {
@@ -7,7 +7,7 @@
         "kind": "ro",
         "source": "HotNews",
         "title": "Cum a fost salvat din Ucraina șeful spionilor nemți de către agenții polonezi, după o acțiune de o incompetență „über alles”",
-        "summary": "Bruno Kahl, șeful serviciului de informații externe german BND, serviciul secret al celei mai puternice țări din Europa, Germania, a fost ultimul care a aflat sau a luat în calcul avertismentele. Zilele trecute, posibilitatea existenței&#8230;",
+        "summary": "Bruno Kahl, șeful serviciului de informații externe german BND, serviciul secret al celei mai puternice țări din Europa, Germania, a fost ultimul care a aflat sau a luat în calcul avertismentele.&#160; Zilele trecute, posibilitatea existenței&#8230;",
         "link": "https://hotnews.ro/cum-a-fost-salvat-seful-spionilor-nemti-de-agentii-polonezi-dupa-o-actiune-de-o-incompetenta-uber-alles-2176117",
         "published_utc": "2026-02-21T10:16:17+00:00",
         "score": 1,
@@ -81,6 +81,16 @@
       }
     ],
     "medical": [
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "Generative AI analyzes medical data faster than human research teams",
+        "summary": "Researchers tested whether generative AI could handle complex medical datasets as well as human experts. In some cases, the AI matched or outperformed teams that had spent months building prediction models. By generating usable analytical code from precise prompts, the systems dramatically reduced the time needed to process health data. The findings hint at a future where AI helps scientists move faster from data to discovery.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260221060942.htm",
+        "published_utc": "2026-02-21T11:17:29+00:00",
+        "score": 2
+      },
       {
         "section": "medical",
         "kind": "global",
@@ -220,19 +230,19 @@
         "link": "https://www.sciencedaily.com/releases/2026/02/260212025618.htm",
         "published_utc": "2026-02-13T04:29:13+00:00",
         "score": 2
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "ScienceDaily Health",
-        "title": "Scientists discover protein that rejuvenates aging brain cells",
-        "summary": "A newly identified protein may hold the key to rejuvenating aging brain cells. Researchers found that boosting DMTF1 can restore the ability of neural stem cells to regenerate, even when age-related damage has set in. Without it, these cells struggle to renew and support memory and learning. The findings raise hopes for treatments that could slow or even reverse aspects of brain aging.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260212025620.htm",
-        "published_utc": "2026-02-12T14:42:41+00:00",
-        "score": 2
       }
     ],
     "science": [
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "ScienceDaily Science",
+        "title": "NASA’s Hubble spots nearly invisible “ghost galaxy” made of 99% dark matter",
+        "summary": "Astronomers have uncovered one of the most mysterious galaxies ever found — a dim, ghostly object called CDG-2 that is almost entirely made of dark matter. Located 300 million light-years away in the Perseus galaxy cluster, it was discovered in an unusual way: not by its stars, but by four tightly packed globular clusters acting like cosmic breadcrumbs.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260221000307.htm",
+        "published_utc": "2026-02-21T06:57:52+00:00",
+        "score": 2
+      },
       {
         "section": "science",
         "kind": "global",
@@ -346,21 +356,21 @@
   "top_images": [
     {
       "tag": "space",
-      "title": "FebRovery 2026 # 20",
-      "link": "https://www.flickr.com/photos/crimso-giger/55105876597/",
-      "image": "https://live.staticflickr.com/65535/55105876597_e93498aaa1_b.jpg"
+      "title": "Reminder",
+      "link": "https://www.flickr.com/photos/jukkah/55105346132/",
+      "image": "https://live.staticflickr.com/65535/55105346132_9580ce1788_b.jpg"
     },
     {
       "tag": "animals",
-      "title": "Catwoman - Fierce panther-woman",
-      "link": "https://www.flickr.com/photos/185524201@N08/55107734055/",
-      "image": "https://live.staticflickr.com/65535/55107734055_7b5e3940df_b.jpg"
+      "title": "Western crowned pigeon",
+      "link": "https://www.flickr.com/photos/shalva1948/55107148686/",
+      "image": "https://www.flickr.com/apps/video/stewart.swf?v=2968162862&photo_id=55107148686"
     },
     {
       "tag": "landscape",
-      "title": "DB Regio 146 234 „SWR3“ mit dem RE4729 (RE2 Karlsruhe Hbf- Konstanz)",
-      "link": "https://www.flickr.com/photos/140324647@N02/55107864250/",
-      "image": "https://live.staticflickr.com/65535/55107864250_8fb8732183_b.jpg"
+      "title": "Driftwood on the beach 2026 02 19 #1",
+      "link": "https://www.flickr.com/photos/swansealocalboy/55107917695/",
+      "image": "https://live.staticflickr.com/65535/55107917695_1122d7c01d_b.jpg"
     }
   ]
 }
