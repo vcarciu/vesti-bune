@@ -1,7 +1,18 @@
 {
-  "generated_utc": "2026-02-21T12:23:21+00:00",
+  "generated_utc": "2026-02-21T13:35:40+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Cum arată Arena Națională înainte de Rapid – Dinamo: peisaj de iarnă plină! Se lucrează intens, dar gazonul suferă",
+        "summary": "Arena Națională arată departe de condițiile ideale cu doar câteva ore înainte de Rapid &#8211; Dinamo, meci programat în această seară, de la ora 20:30. Ninsoarea care a început ieri seară a îngreunat și mai&#8230;",
+        "link": "https://hotnews.ro/cum-arata-arena-nationala-inainte-de-rapid-dinamo-peisaj-de-iarna-plina-se-lucreaza-intens-dar-gazonul-sufera-2176167",
+        "published_utc": "2026-02-21T12:54:06+00:00",
+        "score": 1,
+        "image": "https://hotnews.ro/wp-content/uploads/2025/01/8116d2d6-91c0-436f-88bf-dda970c43f37.jpeg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -356,21 +367,21 @@
   "top_images": [
     {
       "tag": "space",
-      "title": "Reminder",
-      "link": "https://www.flickr.com/photos/jukkah/55105346132/",
-      "image": "https://live.staticflickr.com/65535/55105346132_9580ce1788_b.jpg"
+      "title": "Blacktron surveyor",
+      "link": "https://www.flickr.com/photos/misterfrost/55106275942/",
+      "image": "https://live.staticflickr.com/65535/55106275942_6a3cd1f1c9_b.jpg"
     },
     {
       "tag": "animals",
-      "title": "Western crowned pigeon",
-      "link": "https://www.flickr.com/photos/shalva1948/55107148686/",
-      "image": "https://www.flickr.com/apps/video/stewart.swf?v=2968162862&photo_id=55107148686"
+      "title": "Svartvingad glada / Black-winged kite 2026-01-15_01",
+      "link": "https://www.flickr.com/photos/thovas1/55107952995/",
+      "image": "https://live.staticflickr.com/65535/55107952995_36fab1a35f_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "Driftwood on the beach 2026 02 19 #1",
-      "link": "https://www.flickr.com/photos/swansealocalboy/55107917695/",
-      "image": "https://live.staticflickr.com/65535/55107917695_1122d7c01d_b.jpg"
+      "title": "Hart Crag Views",
+      "link": "https://www.flickr.com/photos/matrobinsonphoto/55108016145/",
+      "image": "https://live.staticflickr.com/65535/55108016145_6b032777f5_b.jpg"
     }
   ]
 }
