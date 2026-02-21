@@ -1,7 +1,40 @@
 {
-  "generated_utc": "2026-02-21T14:16:36+00:00",
+  "generated_utc": "2026-02-21T15:14:28+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Informare ANAF pentru firme, PFA și alți contribuabili: Noile obligații 2026 privind mijloacele moderne de plată și deschiderea unui cont de plăți",
+        "summary": "Direcția Generală Regională a Finanțelor Publice (DGRFP) Cluj-Napoca reamintește firmelor, PFA-urilor, întreprinderilor individuale și familiale, precum și altor categorii de contribuabili, care sunt noile obligații privind mijloacele moderne de plată și conturile de plăți, începând&#8230;",
+        "link": "https://hotnews.ro/informare-anaf-pentru-firme-pfa-si-alti-contribuabili-noile-obligatii-2026-privind-mijloacele-moderne-de-plata-si-deschiderea-unui-cont-de-plati-2176234",
+        "published_utc": "2026-02-21T15:11:52+00:00",
+        "score": 1,
+        "image": "https://hotnews.ro/wp-content/uploads/2026/01/anaf-foto-denisa-craciun-startupcafe.webp"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "„Brutar fără frontiere”. Povestea voluntarului francez care le-a dat ucrainenilor zeci de mii de pâini de când a început războiul: „Un sacrificiu făcut pentru Ucraina”",
+        "summary": "Loic Nervi le-a distribuit ucrainenilor zeci de mii de pâini de la începutul războiului lansat de Rusia în februarie 2022, în special persoanelor vârstnice care nu beneficiază de sprijinul familiei sau al statului, a scris&#8230;",
+        "link": "https://hotnews.ro/brutar-fara-frontiere-povestea-voluntarului-francez-care-le-a-dat-ucrainenilor-zeci-de-mii-de-paini-de-cand-a-inceput-razboiul-un-sacrificiu-facut-pentru-ucraina-2176217",
+        "published_utc": "2026-02-21T15:05:07+00:00",
+        "score": 1,
+        "image": "https://hotnews.ro/wp-content/uploads/2026/02/profimedia-1077018990.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "VIDEO Puiul de maimuță abandonat de mama sa și devenit viral și-a găsit alinare. Noi imagini cu „Punch”",
+        "summary": "Puiul de maimuță abandonat, care a emoționat milioane de oameni pe internet după ce a fost filmat în compania unei jucării de pluș în formă de urangutan, pare că și-a găsit în cele din urmă&#8230;",
+        "link": "https://hotnews.ro/video-puiul-de-maimuta-abandonat-de-mama-sa-si-devenit-viral-si-a-gasit-alinare-noi-imagini-cu-punch-2176209",
+        "published_utc": "2026-02-21T14:56:11+00:00",
+        "score": 1,
+        "image": "https://hotnews.ro/wp-content/uploads/2026/02/profimedia-1076767412.jpg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -12,17 +45,6 @@
         "published_utc": "2026-02-21T12:54:06+00:00",
         "score": 1,
         "image": "https://hotnews.ro/wp-content/uploads/2025/01/8116d2d6-91c0-436f-88bf-dda970c43f37.jpeg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "Cum a fost salvat din Ucraina șeful spionilor nemți de către agenții polonezi, după o acțiune de o incompetență „über alles”",
-        "summary": "Bruno Kahl, șeful serviciului de informații externe german BND, serviciul secret al celei mai puternice țări din Europa, Germania, a fost ultimul care a aflat sau a luat în calcul avertismentele.&#160; Zilele trecute, posibilitatea existenței&#8230;",
-        "link": "https://hotnews.ro/cum-a-fost-salvat-seful-spionilor-nemti-de-agentii-polonezi-dupa-o-actiune-de-o-incompetenta-uber-alles-2176117",
-        "published_utc": "2026-02-21T10:16:17+00:00",
-        "score": 1,
-        "image": "https://hotnews.ro/wp-content/uploads/2026/02/profimedia-1075784458.jpg"
       },
       {
         "section": "romania",
@@ -81,6 +103,16 @@
       }
     ],
     "medical": [
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "Scientists discover why high altitude protects against diabetes",
+        "summary": "Living at high altitude appears to protect against diabetes, and scientists have finally discovered the reason. When oxygen levels drop, red blood cells switch into a new metabolic mode and absorb large amounts of glucose from the blood. This helps the body cope with thin air while also reducing blood sugar levels. A drug that recreates this effect reversed diabetes in mice, hinting at a powerful new treatment strategy.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260221060952.htm",
+        "published_utc": "2026-02-21T13:43:47+00:00",
+        "score": 4
+      },
       {
         "section": "medical",
         "kind": "global",
@@ -220,16 +252,6 @@
         "link": "https://www.sciencedaily.com/releases/2026/02/260212234218.htm",
         "published_utc": "2026-02-13T13:47:43+00:00",
         "score": 2
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "ScienceDaily Health",
-        "title": "Scientists discover hidden trigger behind achilles pain and tennis elbow",
-        "summary": "A protein called HIF1 may be the missing link behind painful tendon injuries like jumper’s knee and tennis elbow. Researchers showed that high levels of HIF1 actually cause harmful changes that make tendons brittle and prone to pain. In experiments, turning the protein off protected tendons — even under heavy strain.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260212025618.htm",
-        "published_utc": "2026-02-13T04:29:13+00:00",
-        "score": 2
       }
     ],
     "science": [
@@ -306,16 +328,6 @@
       {
         "section": "science",
         "kind": "global",
-        "source": "ScienceDaily Science",
-        "title": "Astronomers discover an Earth-like planet that may be colder than Mars",
-        "summary": "A newly identified planet candidate, HD 137010 b, looks strikingly Earth-like in size and orbit — but it may be colder than Mars due to its dimmer star. If it has a thick enough atmosphere, though, this icy world could still surprise us.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260212025607.htm",
-        "published_utc": "2026-02-12T13:32:43+00:00",
-        "score": 2
-      },
-      {
-        "section": "science",
-        "kind": "global",
         "source": "ESA",
         "title": "Cheops discovers late bloomer from another era",
         "summary": "Scientists used the European Space Agency's Cheops satellite to discover that the planetary system around the star LHS 1903 challenges current planet formation theories with the unusual order of its planets. Surprisingly, the most distant outer planet might be rocky and seems to have formed later – in a different environment than the other planets around the star.",
@@ -356,21 +368,21 @@
   "top_images": [
     {
       "tag": "space",
-      "title": "Mars Perseverance - Sol 1774 / RGB",
-      "link": "https://www.flickr.com/photos/195227719@N04/55107603854/",
-      "image": "https://live.staticflickr.com/65535/55107603854_72d2ee5b4e_b.jpg"
+      "title": "M10 globular cluster",
+      "link": "https://www.flickr.com/photos/gomeyer/55106521921/",
+      "image": "https://live.staticflickr.com/65535/55106521921_344d83dd82_b.jpg"
     },
     {
       "tag": "animals",
-      "title": "26021 Donosaka Park-11.jpg",
-      "link": "https://www.flickr.com/photos/77903093@N00/55107926625/",
-      "image": "https://live.staticflickr.com/65535/55107926625_635ff78457_b.jpg"
+      "title": "Catwoman - Fierce panther-woman",
+      "link": "https://www.flickr.com/photos/185524201@N08/55107734055/",
+      "image": "https://live.staticflickr.com/65535/55107734055_7b5e3940df_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "MV_20260221_0448",
-      "link": "https://www.flickr.com/photos/molecatcher/55106731397/",
-      "image": "https://live.staticflickr.com/65535/55106731397_8cedbddd98_b.jpg"
+      "title": "Shabbat streets of Jerusalem",
+      "link": "https://www.flickr.com/photos/andreysklyarenko/55107957519/",
+      "image": "https://live.staticflickr.com/65535/55107957519_aca1075dc7_b.jpg"
     }
   ]
 }
