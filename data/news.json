@@ -1,7 +1,18 @@
 {
-  "generated_utc": "2026-02-21T10:14:51+00:00",
+  "generated_utc": "2026-02-21T11:14:00+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Cum a fost salvat din Ucraina șeful spionilor nemți de către agenții polonezi, după o acțiune de o incompetență „über alles”",
+        "summary": "Bruno Kahl, șeful serviciului de informații externe german BND, serviciul secret al celei mai puternice țări din Europa, Germania, a fost ultimul care a aflat sau a luat în calcul avertismentele. Zilele trecute, posibilitatea existenței&#8230;",
+        "link": "https://hotnews.ro/cum-a-fost-salvat-seful-spionilor-nemti-de-agentii-polonezi-dupa-o-actiune-de-o-incompetenta-uber-alles-2176117",
+        "published_utc": "2026-02-21T10:16:17+00:00",
+        "score": 1,
+        "image": "https://hotnews.ro/wp-content/uploads/2026/02/profimedia-1075784458.jpg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -34,17 +45,6 @@
         "published_utc": "2026-02-21T07:00:23+00:00",
         "score": 1,
         "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMiUyRjAxJTJGMjU2NTE2Ml8yNTY1/MTYyX2pvLW1pbGFuby1wcm9maW1lZGlh/LTEwNzExOTkxMTcuanBnJmhhc2g9ZDcx/ODg5N2JmMGIzYThkNjg2NDFlY2ExMzBlMTlkZGY=.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "FOTO Starbucks închide în România un local emblematic",
-        "summary": "După mai bine de un deceniu de la inaugurare, cafeneaua Starbucks de la Hanu&#8217; lui Manuc, una dintre cele mai vizitate adrese din Centrul Vechi al Capitalei, și-a închis porțile. Citiți mai mult pe Profit.ro.",
-        "link": "https://hotnews.ro/foto-starbucks-inchide-in-romania-un-local-emblematic-2175987",
-        "published_utc": "2026-02-21T05:21:51+00:00",
-        "score": 1,
-        "image": "https://hotnews.ro/wp-content/uploads/2024/04/image-2023-12-28-26785029-41-pahare-starbucks.jpg"
       },
       {
         "section": "romania",
@@ -346,21 +346,21 @@
   "top_images": [
     {
       "tag": "space",
-      "title": "MoonStar UCP: 20K Contrasted",
-      "link": "https://www.flickr.com/photos/silentoneproductions/55106805076/",
-      "image": "https://www.flickr.com/apps/video/stewart.swf?v=2968162862&photo_id=55106805076"
+      "title": "FebRovery 2026 # 20",
+      "link": "https://www.flickr.com/photos/crimso-giger/55105876597/",
+      "image": "https://live.staticflickr.com/65535/55105876597_e93498aaa1_b.jpg"
     },
     {
       "tag": "animals",
-      "title": "DR101103_039ab",
-      "link": "https://www.flickr.com/photos/dmitryzhkov/47109946884/",
-      "image": "https://live.staticflickr.com/65535/47109946884_61741547d8_b.jpg"
+      "title": "Catwoman - Fierce panther-woman",
+      "link": "https://www.flickr.com/photos/185524201@N08/55107734055/",
+      "image": "https://live.staticflickr.com/65535/55107734055_7b5e3940df_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "Nebeltag im Schwarzwald",
-      "link": "https://www.flickr.com/photos/peterwtravel/55107457761/",
-      "image": "https://live.staticflickr.com/65535/55107457761_45a5b806ba_b.jpg"
+      "title": "DB Regio 146 234 „SWR3“ mit dem RE4729 (RE2 Karlsruhe Hbf- Konstanz)",
+      "link": "https://www.flickr.com/photos/140324647@N02/55107864250/",
+      "image": "https://live.staticflickr.com/65535/55107864250_8fb8732183_b.jpg"
     }
   ]
 }
