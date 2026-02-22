@@ -1,7 +1,18 @@
 {
-  "generated_utc": "2026-02-22T18:20:21+00:00",
+  "generated_utc": "2026-02-22T19:16:56+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Una din marile companii ale lumii are o scădere neașteptată la bursă. Se întâmplă ceva în economie?",
+        "summary": "Industria tehnologică a computerelor este definită de câteva nume în ultimele decenii, în principal din America. Una dintre aceste companii a scăzut cu 11,5% la bursă în ultimele 21 zile, stârnind stupefacția nu doar a&#8230;",
+        "link": "https://hotnews.ro/una-din-marile-companii-ale-lumii-are-o-scadere-neasteptata-la-bursa-se-intampla-ceva-in-economie-2176721",
+        "published_utc": "2026-02-22T18:56:50+00:00",
+        "score": 1,
+        "image": "https://hotnews.ro/wp-content/uploads/2025/05/shutterstock_1746066035.jpg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -302,21 +313,21 @@
   "top_images": [
     {
       "tag": "space",
-      "title": "Febrovery  2026 - 5",
-      "link": "https://www.flickr.com/photos/misterfrost/55108902817/",
-      "image": "https://live.staticflickr.com/65535/55108902817_f08e761673_b.jpg"
+      "title": "The Observatory",
+      "link": "https://www.flickr.com/photos/scratchproductions/55109796159/",
+      "image": "https://live.staticflickr.com/65535/55109796159_31bb66e29b_b.jpg"
     },
     {
       "tag": "animals",
-      "title": "Little Pied Cormorant / Fljótaskarfur (Microcarbo melanoleucos)",
-      "link": "https://www.flickr.com/photos/dorres/55110543455/",
-      "image": "https://live.staticflickr.com/65535/55110543455_5c19398427_b.jpg"
+      "title": "Welcome Swallow / Morgunsvala (Hirundo neoxena)",
+      "link": "https://www.flickr.com/photos/dorres/55110445204/",
+      "image": "https://live.staticflickr.com/65535/55110445204_30de959f85_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "Fernweh",
-      "link": "https://www.flickr.com/photos/31303432@N04/55110161141/",
-      "image": "https://live.staticflickr.com/65535/55110161141_e1c4290642_b.jpg"
+      "title": "Brandon Marsh 22nd February 2026",
+      "link": "https://www.flickr.com/photos/boddle/55110496828/",
+      "image": "https://live.staticflickr.com/65535/55110496828_2ca25e42c1_b.jpg"
     }
   ]
 }
