@@ -1,7 +1,18 @@
 {
-  "generated_utc": "2026-02-22T15:14:54+00:00",
+  "generated_utc": "2026-02-22T16:16:17+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Distincţie acordată ambasadorului României în Italia la inaugurarea unei expoziţii dedicate lui Brâncuşi la Mercati di Traiano",
+        "summary": "Ambasadorului României în Italia, Gabriela Dancău, i-a fost conferită Medalia Camerei Deputaţilor a Republicii Italiene, a informat duminică misiunea diplomatică a ţării noastre la Roma.",
+        "link": "https://www.digi24.ro/stiri/actualitate/distinctie-acordata-ambasadorului-romaniei-in-italia-la-inaugurarea-unei-expozitii-dedicate-lui-brancusi-la-mercati-di-traiano-3642751",
+        "published_utc": "2026-02-22T16:13:00+00:00",
+        "score": 1,
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMiUyRjIyJTJGMjYwMjQ2NV8yNjAy/NDY1X2dhYnJpZWxhLWRhbmNhdS1mb3Rv/LWFtYmFzYWRhLXJvbWFuaWVpLWxhLXJv/bWEucG5nJmhhc2g9NTcyYjlhMDcwNWMxODRlYWVjYzM5MzQyZGQyODczOWM=.png"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -9,7 +20,7 @@
         "title": "Gloria Bistriţa a câştigat în Norvegia și s-a calificat în play-off-ul Ligii Campionilor la handbal feminin",
         "summary": "CS Gloria Bistriţa a învins echipa norvegiană Storhamar Handbal Elite, cu scorul de 34-30 (14-12), duminică, la Hamar, într-un meci din Grupa A a Ligii Campionilor la handbal feminin.",
         "link": "https://www.digi24.ro/stiri/sport/handbal/gloria-bistrita-a-castigat-in-norvegia-si-s-a-calificat-in-play-off-ul-ligii-campionilor-la-handbal-feminin-3642681",
-        "published_utc": "2026-02-22T15:11:05+00:00",
+        "published_utc": "2026-02-22T15:27:13+00:00",
         "score": 1,
         "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMiUyRjIyJTJGMjYwMjQxOV8yNjAy/NDE5X2dsb3JpYS1iaXN0cml0YS5wbmcm/aGFzaD1iNjYzYzEwZWM2MTM3ZWQ0ODY3MWRkYWMxZGZjNjFhZQ==.png"
       },
@@ -302,21 +313,21 @@
   "top_images": [
     {
       "tag": "space",
-      "title": "NGC6791 the oldest of them all",
-      "link": "https://www.flickr.com/photos/nevenkrcmarek/55108572307/",
-      "image": "https://live.staticflickr.com/65535/55108572307_e7f43c10ee_b.jpg"
+      "title": "Mars Perseverance - Sol 1771",
+      "link": "https://www.flickr.com/photos/195227719@N04/55109598370/",
+      "image": "https://live.staticflickr.com/65535/55109598370_8b8f6fef2a_b.jpg"
     },
     {
       "tag": "animals",
-      "title": "Banff Osprey...#32",
-      "link": "https://www.flickr.com/photos/black_cat_photography/55109984300/",
-      "image": "https://live.staticflickr.com/65535/55109984300_95b37fd863_b.jpg"
+      "title": "260221 Donosaka Park-04.jpg",
+      "link": "https://www.flickr.com/photos/77903093@N00/55109538643/",
+      "image": "https://live.staticflickr.com/65535/55109538643_c7f6282dee_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "Monument luxueux",
-      "link": "https://www.flickr.com/photos/pat21/55110240440/",
-      "image": "https://live.staticflickr.com/65535/55110240440_5debd7d1d4_b.jpg"
+      "title": "North Berwick Stroll",
+      "link": "https://www.flickr.com/photos/189037808@N07/55109923476/",
+      "image": "https://live.staticflickr.com/65535/55109923476_f37e8424b6_b.jpg"
     }
   ]
 }
