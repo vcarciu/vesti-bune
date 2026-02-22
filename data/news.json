@@ -1,7 +1,18 @@
 {
-  "generated_utc": "2026-02-22T19:16:56+00:00",
+  "generated_utc": "2026-02-22T20:14:04+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Universitatea Craiova învinge Unirea Slobozia cu 3-0 și se distanțează în fruntea clasamentului",
+        "summary": "Universitatea Craiova s-a impus pe terenul echipei Unirea Slobozia, scor 3-0, într-un meci disputat duminică, în etapa a 28-a din SuperLiga. Gazdele au inaugurat nocturna de pe stadionul „1 Mai”, însă doar oaspeții au avut&#8230;",
+        "link": "https://hotnews.ro/universitatea-craiova-invinge-unirea-slobozia-cu-3-0-si-se-distanteaza-in-fruntea-clasamentului-2176765",
+        "published_utc": "2026-02-22T19:55:43+00:00",
+        "score": 1,
+        "image": "https://hotnews.ro/wp-content/uploads/2026/02/universitatea-craiova-suporteri.jpg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -313,21 +324,21 @@
   "top_images": [
     {
       "tag": "space",
-      "title": "The Observatory",
-      "link": "https://www.flickr.com/photos/scratchproductions/55109796159/",
-      "image": "https://live.staticflickr.com/65535/55109796159_31bb66e29b_b.jpg"
+      "title": "Brenna",
+      "link": "https://www.flickr.com/photos/austinspace/55110603999/",
+      "image": "https://live.staticflickr.com/65535/55110603999_5cea29c4ce_b.jpg"
     },
     {
       "tag": "animals",
-      "title": "Welcome Swallow / Morgunsvala (Hirundo neoxena)",
-      "link": "https://www.flickr.com/photos/dorres/55110445204/",
-      "image": "https://live.staticflickr.com/65535/55110445204_30de959f85_b.jpg"
+      "title": "Banff Osprey...#32",
+      "link": "https://www.flickr.com/photos/black_cat_photography/55109984300/",
+      "image": "https://live.staticflickr.com/65535/55109984300_95b37fd863_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "Brandon Marsh 22nd February 2026",
-      "link": "https://www.flickr.com/photos/boddle/55110496828/",
-      "image": "https://live.staticflickr.com/65535/55110496828_2ca25e42c1_b.jpg"
+      "title": "_DSC8534-Pano-Edit",
+      "link": "https://www.flickr.com/photos/204257518@N03/55109445442/",
+      "image": "https://live.staticflickr.com/65535/55109445442_87398e2380_b.jpg"
     }
   ]
 }
