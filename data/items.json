@@ -1,7 +1,18 @@
 {
-  "generated_utc": "2026-02-22T06:34:24+00:00",
+  "generated_utc": "2026-02-22T07:29:14+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Care este situația zborurilor pe aeroporturile Băneasa și Otopeni după viscolul din Capitală",
+        "summary": "După un weekend marcat de ninsori și vânt puternic, traficul aerian se desfăşoară în condiții de iarnă, conform programului de zbor, atât pe Aeroportul Internaţional Henri Coandă și Aeroportul Internațional Băneasa din București, au transmis duminică autoritățile.&#8230;",
+        "link": "https://hotnews.ro/care-este-situatia-zborurilor-pe-aeroporturile-baneasa-si-otopeni-dupa-viscolul-din-capitala-2176430",
+        "published_utc": "2026-02-22T07:21:46+00:00",
+        "score": 1,
+        "image": "https://hotnews.ro/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-19-at-10.47.37.jpeg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -313,21 +324,21 @@
   "top_images": [
     {
       "tag": "space",
-      "title": "OH Lewis Center - Olentangy Orange High School Painted Parking Spot 125",
-      "link": "https://www.flickr.com/photos/10707024@N04/55108473273/",
-      "image": "https://live.staticflickr.com/65535/55108473273_efe9f1d6cd_b.jpg"
+      "title": "Lime Green Blob - Febrovery 2026-22",
+      "link": "https://www.flickr.com/photos/captain_j03/55108239432/",
+      "image": "https://live.staticflickr.com/65535/55108239432_7671e7d995_b.jpg"
     },
     {
       "tag": "animals",
-      "title": "Black Vulture",
-      "link": "https://www.flickr.com/photos/7519633@N08/55109281164/",
-      "image": "https://live.staticflickr.com/65535/55109281164_87c368f095_b.jpg"
+      "title": "Jumping spider male",
+      "link": "https://www.flickr.com/photos/7519633@N08/55108027787/",
+      "image": "https://live.staticflickr.com/65535/55108027787_399e0993ea_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "Kodak EasyShare CD40",
-      "link": "https://www.flickr.com/photos/204236376@N05/55109249795/",
-      "image": "https://live.staticflickr.com/65535/55109249795_60635e8e4a_b.jpg"
+      "title": "Korakuen Garden",
+      "link": "https://www.flickr.com/photos/30262508@N04/55109548910/",
+      "image": "https://live.staticflickr.com/65535/55109548910_1d9a44a591_b.jpg"
     }
   ]
 }
