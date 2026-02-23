@@ -1,7 +1,18 @@
 {
-  "generated_utc": "2026-02-23T15:36:54+00:00",
+  "generated_utc": "2026-02-23T16:42:35+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Un bărbat a cumpărat un bilet câștigător la loto din magazinul unde lucra, după ce s-au extras numerele. Premiul: 12 milioane de dolari",
+        "summary": "Bărbat din SUA a fost dat în judecată pentru că ar fi cumpărat un bilet câștigător la loterie, în valoare de 12,8 milioane de dolari, după ce numerele au fost extrase.",
+        "link": "https://www.digi24.ro/stiri/externe/mapamond/un-barbat-a-cumparat-un-bilet-castigator-la-loto-din-magazinul-unde-lucra-dupa-ce-s-au-extras-numerele-premiul-12-milioane-de-dolari-3644609",
+        "published_utc": "2026-02-23T15:42:19+00:00",
+        "score": 1,
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA2dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjAl/MkYxMiUyRjAzJTJGMTI1OTQ1NV8xMjU5/NDU1X2xvdGVyaWUtYWZyaWNhLWRlLXN1/ZC1nZXR0eS1pbWFnZXMtLmpwZyZoYXNo/PTkyZTYyMWUzMDBkZjFjYWJiM2EzYjQyNWViNmE4MWEx.jpg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -161,7 +172,7 @@
       {
         "section": "medical",
         "kind": "global",
-        "source": "ScienceDaily Health",
+        "source": "ScienceDaily Medicine",
         "title": "Scientists find nerves actively fuel pancreatic cancer",
         "summary": "Scientists have uncovered a hidden partnership between pancreatic cancer and the nervous system. Support cells in the pancreas lure nerve fibers, which then release signals that accelerate early cancer growth. This creates a self-sustaining loop that helps tumors take hold. Blocking the nerve activity significantly reduced tumor growth in experiments, suggesting a new treatment strategy.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260211204208.htm",
@@ -171,7 +182,7 @@
       {
         "section": "medical",
         "kind": "global",
-        "source": "ScienceDaily Health",
+        "source": "ScienceDaily Medicine",
         "title": "Scientists discover a hidden gut bacterium linked to good health",
         "summary": "A global study has uncovered a mysterious group of gut bacteria that shows up again and again in healthy people. Known as CAG-170, these microbes were found at lower levels in people with a range of chronic diseases. Genetic clues suggest they help digest food and support the broader gut ecosystem. Researchers say the discovery could reshape how we measure and maintain gut health.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260211204210.htm",
@@ -313,21 +324,21 @@
   "top_images": [
     {
       "tag": "space",
-      "title": "2026-02-22_20h39_12:  MoonStar",
-      "link": "https://www.flickr.com/photos/silentoneproductions/55111417960/",
-      "image": "https://live.staticflickr.com/65535/55111417960_e495cbc2b1_b.jpg"
+      "title": "Planetoid Prowler",
+      "link": "https://www.flickr.com/photos/158127482@N02/55112275953/",
+      "image": "https://live.staticflickr.com/65535/55112275953_02419f0b74_b.jpg"
     },
     {
       "tag": "animals",
-      "title": "Little Pied Cormorant / Fljótaskarfur (Microcarbo melanoleucos)",
-      "link": "https://www.flickr.com/photos/dorres/55110644872/",
-      "image": "https://live.staticflickr.com/65535/55110644872_44d5b41a61_b.jpg"
+      "title": "Thirsty Robin",
+      "link": "https://www.flickr.com/photos/vplut/55112277299/",
+      "image": "https://live.staticflickr.com/65535/55112277299_994f327ffb_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "mooring place",
-      "link": "https://www.flickr.com/photos/plattlandtmann/55112261135/",
-      "image": "https://live.staticflickr.com/65535/55112261135_b73b076dfe_b.jpg"
+      "title": "Anchored with Purpose",
+      "link": "https://www.flickr.com/photos/malioli/55112064231/",
+      "image": "https://live.staticflickr.com/65535/55112064231_0958b89a34_b.jpg"
     }
   ]
 }
