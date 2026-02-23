@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-02-23T17:54:04+00:00",
+  "generated_utc": "2026-02-23T18:47:33+00:00",
   "sections": {
     "romania": [
       {
@@ -203,6 +203,17 @@
       {
         "section": "science",
         "kind": "global",
+        "source": "NASA Breaking News",
+        "title": "Curiosity Studies Nodules on Boxwork Formations",
+        "summary": "Description NASA’s Curiosity Mars rover discovered these bumpy, pea-sized nodules while exploring a region filled with boxwork formations — low ridges standing roughly 3 to 6 feet (1 to 2 meters) tall with sandy hollows in-between. This mosaic is made up of 50 individual images taken by Curiosity’s Mars Hand Lens Imager (MAHLI), a camera on […]",
+        "link": "https://science.nasa.gov/photojournal/curiosity-studies-nodules-on-boxwork-formations/",
+        "published_utc": "2026-02-23T17:58:30+00:00",
+        "score": 2,
+        "image": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26697/PIA26697.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
         "source": "ScienceDaily Science",
         "title": "A giant blade-crested spinosaurus, the “hell heron,” discovered in the Sahara",
         "summary": "Deep in the heart of the Sahara, scientists have uncovered Spinosaurus mirabilis — a spectacular new predator crowned with a massive, scimitar-shaped crest that may once have blazed with color under the desert sun. Discovered in remote inland river deposits in Niger, the fossil rewrites what we thought we knew about spinosaur dinosaurs, suggesting they weren’t fully aquatic hunters but powerful waders stalking fish in forested waterways hundreds of miles from the sea.",
@@ -313,21 +324,21 @@
   "top_images": [
     {
       "tag": "space",
-      "title": "Why is the sky polluted?",
-      "link": "https://www.flickr.com/photos/silentoneproductions/55111967048/",
-      "image": "https://live.staticflickr.com/65535/55111967048_fc7e2a21bc_b.jpg"
+      "title": "M82 Cigar Galaxy",
+      "link": "https://www.flickr.com/photos/dannygibson/55109874402/",
+      "image": "https://live.staticflickr.com/65535/55109874402_a656d54362_b.jpg"
     },
     {
       "tag": "animals",
-      "title": "DSC05545",
-      "link": "https://www.flickr.com/photos/145082406@N02/55110658492/",
-      "image": "https://live.staticflickr.com/65535/55110658492_064814eee2_b.jpg"
+      "title": "photography spot (2)",
+      "link": "https://www.flickr.com/photos/127508165@N06/55112110830/",
+      "image": "https://live.staticflickr.com/65535/55112110830_8008e52a9d_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "Winter in Großenrade",
-      "link": "https://www.flickr.com/photos/144055782@N05/55112378149/",
-      "image": "https://live.staticflickr.com/65535/55112378149_08eeb37b62_b.jpg"
+      "title": "Harbor Harlingen",
+      "link": "https://www.flickr.com/photos/be_me_photography_55/55112544438/",
+      "image": "https://live.staticflickr.com/65535/55112544438_b7f839e787_b.jpg"
     }
   ]
 }
