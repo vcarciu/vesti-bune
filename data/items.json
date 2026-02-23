@@ -1,7 +1,29 @@
 {
-  "generated_utc": "2026-02-23T14:00:49+00:00",
+  "generated_utc": "2026-02-23T15:36:54+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "FOTO Corporație finlandeză intră în România, preluând direct o fabrică",
+        "summary": "Incap Corporation, furnizor global de Electronics Manufacturing Services (EMS), a finalizat achiziția Lacon Group, extinzându-și capacitatea de producție și prezența în Europa Centrală. În decembrie 2025, Incap Corporation a anunțat semnarea unui acord pentru achiziționarea&#8230;",
+        "link": "https://hotnews.ro/foto-corporatie-finlandeza-intra-in-romania-preluand-direct-o-fabrica-2177417",
+        "published_utc": "2026-02-23T15:01:44+00:00",
+        "score": 1,
+        "image": "https://hotnews.ro/wp-content/uploads/2026/02/incap.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Galați: Doi antreprenori români au accesat fonduri europene și investesc 6 milioane EUR într-o unitate de fabricație mecanică și integrare electrică pentru vapoare",
+        "summary": "Doi antreprenori români, cu afaceri în domeniul modernizării și conversiei de vapoare, au accesat fonduri europene și investesc aproximativ 6 milioane EUR într-o nouă unitate integrată de asamblare și producție, la Galați, potrivit unui comunicat&#8230;",
+        "link": "https://hotnews.ro/galati-doi-antreprenori-romani-au-accesat-fonduri-europene-si-investesc-6-milioane-eur-intr-o-unitate-de-fabricatie-mecanica-si-integrare-electrica-pentru-vapoare-2177386",
+        "published_utc": "2026-02-23T14:08:00+00:00",
+        "score": 1,
+        "image": "https://hotnews.ro/wp-content/uploads/2026/02/1GLO-Marine.jpeg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -12,17 +34,6 @@
         "published_utc": "2026-02-23T11:26:30+00:00",
         "score": 1,
         "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYxMiUyRjA5JTJGMjQ4NjM5MV8yNDg2/MzkxX3JhcmVzLWhvcGluY2EucG5nJmhh/c2g9Yzg4N2ZkYTVkNmQzNjcwZjZkNWY5ZTY5OTQ0MDk3NTA=.png"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "MAI a găsit un site fals care clonează HotNews și avertizează: „Tentativă de înșelăciune foarte periculoasă”",
-        "summary": "Ministerul Afacerilor Interne avertizează luni, 23 februarie, asupra unei tentative de fraudă în care este folosită o clonă a site-ului HotNews pentru a promova o investiție falsă. „Este o înșelătorie și riscați să pierdeți sume&#8230;",
-        "link": "https://hotnews.ro/mai-a-gasit-un-site-fals-care-cloneaza-hotnews-si-avertizeaza-tentativa-de-inselaciune-foarte-periculoasa-2177058",
-        "published_utc": "2026-02-23T10:42:25+00:00",
-        "score": 1,
-        "image": "https://hotnews.ro/wp-content/uploads/2026/02/mai.png"
       },
       {
         "section": "romania",
@@ -302,21 +313,21 @@
   "top_images": [
     {
       "tag": "space",
-      "title": "March for Ukraine",
-      "link": "https://www.flickr.com/photos/motus/55111244414/",
-      "image": "https://live.staticflickr.com/65535/55111244414_5e982a9406_b.jpg"
+      "title": "2026-02-22_20h39_12:  MoonStar",
+      "link": "https://www.flickr.com/photos/silentoneproductions/55111417960/",
+      "image": "https://live.staticflickr.com/65535/55111417960_e495cbc2b1_b.jpg"
     },
     {
       "tag": "animals",
-      "title": "Brahminy Kite / Bramagleða (Haliastur indus)",
-      "link": "https://www.flickr.com/photos/dorres/55110620762/",
-      "image": "https://live.staticflickr.com/65535/55110620762_0f477df152_b.jpg"
+      "title": "Little Pied Cormorant / Fljótaskarfur (Microcarbo melanoleucos)",
+      "link": "https://www.flickr.com/photos/dorres/55110644872/",
+      "image": "https://live.staticflickr.com/65535/55110644872_44d5b41a61_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "Rural landscapes and back roads. Vol. 2.",
-      "link": "https://www.flickr.com/photos/149375491@N04/55111984333/",
-      "image": "https://live.staticflickr.com/65535/55111984333_dbb1bf096f_b.jpg"
+      "title": "mooring place",
+      "link": "https://www.flickr.com/photos/plattlandtmann/55112261135/",
+      "image": "https://live.staticflickr.com/65535/55112261135_b73b076dfe_b.jpg"
     }
   ]
 }
