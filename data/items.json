@@ -1,7 +1,18 @@
 {
-  "generated_utc": "2026-02-23T16:42:35+00:00",
+  "generated_utc": "2026-02-23T17:54:04+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "4 ani de război. Un poet ucrainean care a decis să se înroleze, mesaj pentru europeni: „Petreceți câteva săptămâni trăind ca noi, iar nemulțumirile legate de țara voastră vor pieri în scurt timp”",
+        "summary": "„Am petrecut o lună în Slovenia, un paradis. Toți se plângeau amarnic de țara lor”, spune Andrii Liubka, scriitor ucrainean și voluntar activ. Într-un text pentru HotNews, la aniversarea a patru ani de la declanșarea&#8230;",
+        "link": "https://hotnews.ro/4-ani-de-razboi-un-poet-ucrainean-care-a-decis-sa-se-inroleze-mesaj-pentru-europeni-petreceti-cateva-saptamani-traind-ca-noi-iar-nemultumirile-legate-de-tara-voastra-vor-pieri-in-scurt-ti-2177181",
+        "published_utc": "2026-02-23T17:00:14+00:00",
+        "score": 1,
+        "image": "https://hotnews.ro/wp-content/uploads/2026/02/profimedia-1077648819.jpg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -27,17 +38,6 @@
       {
         "section": "romania",
         "kind": "ro",
-        "source": "HotNews",
-        "title": "Galați: Doi antreprenori români au accesat fonduri europene și investesc 6 milioane EUR într-o unitate de fabricație mecanică și integrare electrică pentru vapoare",
-        "summary": "Doi antreprenori români, cu afaceri în domeniul modernizării și conversiei de vapoare, au accesat fonduri europene și investesc aproximativ 6 milioane EUR într-o nouă unitate integrată de asamblare și producție, la Galați, potrivit unui comunicat&#8230;",
-        "link": "https://hotnews.ro/galati-doi-antreprenori-romani-au-accesat-fonduri-europene-si-investesc-6-milioane-eur-intr-o-unitate-de-fabricatie-mecanica-si-integrare-electrica-pentru-vapoare-2177386",
-        "published_utc": "2026-02-23T14:08:00+00:00",
-        "score": 1,
-        "image": "https://hotnews.ro/wp-content/uploads/2026/02/1GLO-Marine.jpeg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
         "source": "Digi24",
         "title": "După modelul companiilor municipale din Capitală, Sectorul 2 vrea să înființeze o firmă publică pentru investiții locale",
         "summary": "Primarul Sectorului 2, Rareş Hopincă, propune, potrivit unei postări publicate luni pe pagina sa de Facebook, înfiinţarea unei societăţi pe acţiuni, deţinută integral de Consiliul Local Sector 2, care să gestioneze intervenţii rapide în infrastructură, dezvoltarea de parcări în zonele aglomerate şi atragerea de finanţări şi investiţii fără presiune suplimentară asupra bugetului local.",
@@ -45,17 +45,6 @@
         "published_utc": "2026-02-23T11:26:30+00:00",
         "score": 1,
         "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYxMiUyRjA5JTJGMjQ4NjM5MV8yNDg2/MzkxX3JhcmVzLWhvcGluY2EucG5nJmhh/c2g9Yzg4N2ZkYTVkNmQzNjcwZjZkNWY5ZTY5OTQ0MDk3NTA=.png"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Un jandarm a murit subit în timp ce păzea un obiectiv în Capitală. Sindicatele acuză stresul și orele suplimentare",
-        "summary": "Un jandarm a murit subit în timp ce se afla în serviciu, păzind un obiectiv din Capitală. Bărbatul s-a prăbușit la pământ, iar momentul a fost surprins de camerele de supraveghere din zonă. Colegii săi l-au găsit inconștient și au sunat la 112, însă, în ciuda manevrelor de resuscitare efectuate de echipajele medicale ajunse la fața locului, acesta nu a mai putut fi salvat. Trupul a fost transportat la Institutul Național de Medicină Legală, unde urmează să fie stabilită cauza exactă a decesului, în timp ce sindicatele din sistem acuză suprasolicitarea și condițiile de muncă.",
-        "link": "https://www.digi24.ro/stiri/actualitate/un-jandarm-a-murit-subit-in-timp-ce-pazea-un-obiectiv-in-capitala-sindicatele-acuza-stresul-si-orele-suplimentare-3643669",
-        "published_utc": "2026-02-23T10:24:22+00:00",
-        "score": 1,
-        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMSUyRjEzJTJGMjU0MDg3OF8yNTQw/ODc4X2phbmRhcm1lcmlhLW1hc2luYS5w/bmcmaGFzaD05MzJhOGZmOGE4ZjY5YjA2YzUzYzQ0MDNhZGQ2ZjVjOQ==.png"
       }
     ],
     "medical": [
@@ -324,21 +313,21 @@
   "top_images": [
     {
       "tag": "space",
-      "title": "Planetoid Prowler",
-      "link": "https://www.flickr.com/photos/158127482@N02/55112275953/",
-      "image": "https://live.staticflickr.com/65535/55112275953_02419f0b74_b.jpg"
+      "title": "Why is the sky polluted?",
+      "link": "https://www.flickr.com/photos/silentoneproductions/55111967048/",
+      "image": "https://live.staticflickr.com/65535/55111967048_fc7e2a21bc_b.jpg"
     },
     {
       "tag": "animals",
-      "title": "Thirsty Robin",
-      "link": "https://www.flickr.com/photos/vplut/55112277299/",
-      "image": "https://live.staticflickr.com/65535/55112277299_994f327ffb_b.jpg"
+      "title": "DSC05545",
+      "link": "https://www.flickr.com/photos/145082406@N02/55110658492/",
+      "image": "https://live.staticflickr.com/65535/55110658492_064814eee2_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "Anchored with Purpose",
-      "link": "https://www.flickr.com/photos/malioli/55112064231/",
-      "image": "https://live.staticflickr.com/65535/55112064231_0958b89a34_b.jpg"
+      "title": "Winter in Großenrade",
+      "link": "https://www.flickr.com/photos/144055782@N05/55112378149/",
+      "image": "https://live.staticflickr.com/65535/55112378149_08eeb37b62_b.jpg"
     }
   ]
 }
