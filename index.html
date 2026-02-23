@@ -2,270 +2,655 @@
 <html lang="ro">
 <head>
   <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Vești bune</title>
-  <meta name="description" content="Vești bune: știri pozitive, curate, din surse serioase. România și global, pe secțiuni." />
+  <meta name="description" content="România (RO) + Global (EN). Vești curate, actualizate automat." />
+  <meta name="theme-color" content="#0b0b0f" />
+  <style>
+    :root{
+      --bg:#0b0b0f;
+      --panel:#12121a;
+      --panel2:#171724;
+      --text:#f2f2f7;
+      --muted:#b7b7c7;
+      --muted2:#8b8ba1;
+      --border:rgba(255,255,255,.10);
+      --border2:rgba(255,255,255,.14);
+      --shadow: 0 10px 30px rgba(0,0,0,.35);
+      --r:18px;
+      --r2:14px;
+      --max: 1180px;
+      --btn:#1b1b2a;
+      --btn2:#23233a;
+      --ok:#2be27a;
+      --warn:#ffcc66;
+      --bad:#ff6b6b;
+      --link:#9fd3ff;
+    }
+    *{ box-sizing:border-box; }
+    html,body{ height:100%; }
+    body{
+      margin:0;
+      font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji";
+      background: radial-gradient(1200px 600px at 20% 0%, rgba(90,60,255,.18), transparent 60%),
+                  radial-gradient(900px 500px at 90% 15%, rgba(0,255,200,.10), transparent 55%),
+                  var(--bg);
+      color:var(--text);
+      line-height:1.35;
+    }
+    a{ color:inherit; text-decoration:none; }
+    a:hover{ text-decoration:underline; }
+    .wrap{ max-width: var(--max); margin:0 auto; padding: 18px 14px 60px; }
+    header{
+      display:flex;
+      gap:14px;
+      align-items:flex-end;
+      justify-content:space-between;
+      padding: 10px 6px 14px;
+    }
+    .brand{
+      display:flex;
+      flex-direction:column;
+      gap:4px;
+    }
+    .brand h1{
+      margin:0;
+      font-size: 26px;
+      letter-spacing:.2px;
+    }
+    .brand .sub{
+      color:var(--muted);
+      font-size: 14px;
+    }
+    .pillrow{
+      display:flex;
+      gap:8px;
+      flex-wrap:wrap;
+      justify-content:flex-end;
+    }
+    .pill{
+      border:1px solid var(--border);
+      background: rgba(255,255,255,.04);
+      color:var(--muted);
+      padding:8px 10px;
+      border-radius: 999px;
+      font-size: 12px;
+      display:flex;
+      gap:8px;
+      align-items:center;
+      user-select:none;
+    }
+    .pill b{ color:var(--text); font-weight:600; }
+    .grid3{
+      display:grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 12px;
+      margin: 6px 0 14px;
+    }
+    .card{
+      border: 1px solid var(--border);
+      background: linear-gradient(180deg, rgba(255,255,255,.04), rgba(255,255,255,.02));
+      border-radius: var(--r);
+      box-shadow: var(--shadow);
+      overflow:hidden;
+    }
+    .photo{
+      position:relative;
+      aspect-ratio: 16/10;
+      background:#111;
+    }
+    .photo img{
+      width:100%;
+      height:100%;
+      object-fit:cover;
+      display:block;
+      filter:saturate(1.05) contrast(1.05);
+    }
+    .photo .tag{
+      position:absolute;
+      left:10px;
+      top:10px;
+      background: rgba(0,0,0,.45);
+      border:1px solid rgba(255,255,255,.18);
+      backdrop-filter: blur(8px);
+      color:#fff;
+      padding:6px 10px;
+      border-radius:999px;
+      font-size: 12px;
+      display:flex;
+      gap:8px;
+      align-items:center;
+    }
+    .photo .tag .dot{
+      width:8px; height:8px; border-radius:999px; background: var(--ok);
+      box-shadow: 0 0 0 3px rgba(43,226,122,.18);
+    }
+    .card .body{
+      padding: 12px 12px 12px;
+      display:flex;
+      flex-direction:column;
+      gap:6px;
+    }
+    .card .title{
+      font-size: 14px;
+      font-weight: 700;
+      letter-spacing:.1px;
+      margin:0;
+    }
+    .card .small{
+      color:var(--muted);
+      font-size: 12px;
+      margin:0;
+    }
 
-  <link rel="canonical" href="https://vcarciu.github.io/vesti-bune/" />
-  <link rel="icon" href="/vesti-bune/favicon.svg" type="image/svg+xml" />
+    .grid2{
+      display:grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+      margin: 10px 0 18px;
+    }
+    .mini{
+      padding: 14px 14px 14px;
+      background: linear-gradient(180deg, rgba(255,255,255,.04), rgba(255,255,255,.02));
+      border: 1px solid var(--border);
+      border-radius: var(--r);
+      box-shadow: var(--shadow);
+    }
+    .mini h2{
+      margin:0 0 8px;
+      font-size: 16px;
+      display:flex;
+      gap:10px;
+      align-items:center;
+    }
+    .mini h2 span{
+      font-size:12px;
+      color:var(--muted);
+      font-weight:600;
+      border:1px solid var(--border);
+      background: rgba(255,255,255,.04);
+      padding: 4px 8px;
+      border-radius:999px;
+    }
+    .mini .txt{
+      margin:0;
+      color:var(--text);
+      font-size: 14px;
+    }
+    .mini .src{
+      margin:10px 0 0;
+      font-size: 12px;
+      color:var(--muted);
+    }
+    .mini .src a{ color: var(--link); }
 
-  <!-- Open Graph -->
-  <meta property="og:type" content="website" />
-  <meta property="og:site_name" content="Vești bune" />
-  <meta property="og:title" content="Vești bune" />
-  <meta property="og:description" content="Știri pozitive, curate, din surse serioase. România + global, pe secțiuni." />
-  <meta property="og:url" content="https://vcarciu.github.io/vesti-bune/" />
-  <meta property="og:image" content="https://vcarciu.github.io/vesti-bune/og.jpg" />
-  <meta property="og:image:secure_url" content="https://vcarciu.github.io/vesti-bune/og.jpg" />
-  <meta property="og:image:type" content="image/jpeg" />
-  <meta property="og:image:width" content="1200" />
-  <meta property="og:image:height" content="630" />
+    .controls{
+      display:flex;
+      justify-content:space-between;
+      gap:12px;
+      flex-wrap:wrap;
+      align-items:center;
+      margin: 10px 0 10px;
+    }
+    .btnrow{
+      display:flex;
+      gap:8px;
+      flex-wrap:wrap;
+    }
+    button{
+      border:1px solid var(--border);
+      background: var(--btn);
+      color: var(--text);
+      padding: 10px 12px;
+      border-radius: 999px;
+      font-size: 13px;
+      cursor:pointer;
+      user-select:none;
+    }
+    button:hover{ background: var(--btn2); }
+    button.active{
+      border-color: rgba(43,226,122,.55);
+      box-shadow: 0 0 0 4px rgba(43,226,122,.12);
+      background: rgba(43,226,122,.10);
+    }
+    .status{
+      color: var(--muted);
+      font-size: 12px;
+      display:flex;
+      gap:10px;
+      align-items:center;
+      flex-wrap:wrap;
+    }
+    .status code{
+      color: var(--text);
+      background: rgba(255,255,255,.06);
+      border:1px solid var(--border);
+      padding: 3px 6px;
+      border-radius: 8px;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+      font-size: 11px;
+    }
 
-  <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Vești bune" />
-  <meta name="twitter:description" content="Știri pozitive, curate, din surse serioase." />
-  <meta name="twitter:image" content="https://vcarciu.github.io/vesti-bune/og.jpg" />
+    .sections{
+      display:grid;
+      grid-template-columns: 1fr;
+      gap: 12px;
+      margin-top: 10px;
+    }
+
+    .section{
+      border: 1px solid var(--border);
+      background: linear-gradient(180deg, rgba(255,255,255,.03), rgba(255,255,255,.015));
+      border-radius: var(--r);
+      overflow:hidden;
+      box-shadow: var(--shadow);
+    }
+    .sectionhead{
+      padding: 12px 14px;
+      border-bottom: 1px solid var(--border);
+      display:flex;
+      justify-content:space-between;
+      align-items:center;
+      gap: 10px;
+      flex-wrap:wrap;
+      background: rgba(255,255,255,.03);
+    }
+    .sectionhead h3{
+      margin:0;
+      font-size: 15px;
+      display:flex;
+      gap:10px;
+      align-items:center;
+    }
+    .badge{
+      font-size: 11px;
+      color: var(--muted);
+      border:1px solid var(--border);
+      background: rgba(255,255,255,.04);
+      padding: 4px 8px;
+      border-radius:999px;
+      font-weight:600;
+    }
+    .items{
+      display:grid;
+      grid-template-columns: 1fr;
+    }
+    .item{
+      display:grid;
+      grid-template-columns: 140px 1fr;
+      gap: 12px;
+      padding: 12px 14px;
+      border-top: 1px solid rgba(255,255,255,.06);
+      align-items:start;
+    }
+    .item:first-child{ border-top:0; }
+    .thumb{
+      width:140px;
+      aspect-ratio: 16/10;
+      border-radius: 14px;
+      overflow:hidden;
+      border:1px solid rgba(255,255,255,.10);
+      background: #0f0f16;
+    }
+    .thumb img{
+      width:100%;
+      height:100%;
+      object-fit:cover;
+      display:block;
+    }
+    .meta{
+      display:flex;
+      flex-direction:column;
+      gap:6px;
+      min-width: 0;
+    }
+    .meta .t{
+      margin:0;
+      font-weight: 800;
+      font-size: 14px;
+      letter-spacing:.1px;
+      line-height: 1.25;
+    }
+    .meta .s{
+      margin:0;
+      color: var(--muted);
+      font-size: 13px;
+      overflow-wrap:anywhere;
+    }
+    .meta .row{
+      display:flex;
+      gap:10px;
+      flex-wrap:wrap;
+      align-items:center;
+      color: var(--muted2);
+      font-size: 12px;
+    }
+    .dot{
+      width:6px; height:6px; border-radius:999px; background: rgba(255,255,255,.28);
+      display:inline-block;
+    }
+    .k{
+      padding: 3px 8px;
+      border-radius: 999px;
+      border:1px solid rgba(255,255,255,.10);
+      background: rgba(255,255,255,.04);
+      color: var(--muted);
+      font-weight:700;
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing:.6px;
+    }
+    .k.ro{ border-color: rgba(159,211,255,.35); background: rgba(159,211,255,.08); }
+    .k.en{ border-color: rgba(255,204,102,.35); background: rgba(255,204,102,.10); }
+
+    footer{
+      margin-top: 26px;
+      color: var(--muted2);
+      font-size: 12px;
+      text-align:center;
+      padding: 18px 0 0;
+    }
+    footer a{ color: var(--link); }
+    @media (max-width: 920px){
+      .grid3{ grid-template-columns: 1fr; }
+      .grid2{ grid-template-columns: 1fr; }
+      .item{ grid-template-columns: 1fr; }
+      .thumb{ width:100%; }
+      header{ align-items:flex-start; flex-direction:column; }
+      .pillrow{ justify-content:flex-start; }
+    }
+  </style>
 </head>
 
-<body style="
-  font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
-  max-width: 900px;
-  margin: 0 auto;
-  padding: 20px;
-  background: #fafafa;
-  color: #111;
-">
+<body>
+  <div class="wrap">
+    <header>
+      <div class="brand">
+        <h1>Vești bune</h1>
+        <div class="sub">România (RO) + Global (EN). Actualizat automat. ❤️</div>
+      </div>
+      <div class="pillrow">
+        <div class="pill"><b>Mix</b> RO + EN</div>
+        <div class="pill"><b>Tip</b> hard refresh <code>Cmd+Shift+R</code></div>
+        <div class="pill"><b>Date</b> <a href="./data/news.json" target="_blank" rel="noopener">news.json</a></div>
+      </div>
+    </header>
 
-  <header style="display:flex; align-items:center; justify-content:space-between; gap:10px; margin-bottom:10px;">
-    <div></div>
-    <a href="/vesti-bune/about.html" style="color:#111; text-decoration:underline; font-size:13px;">
-      Despre proiect
-    </a>
-  </header>
+    <!-- TOP PHOTOS -->
+    <div class="grid3" id="topPhotos">
+      <div class="card">
+        <div class="photo">
+          <img alt="Space" src="https://source.unsplash.com/featured/1200x800/?space,stars,nebula" />
+          <div class="tag"><span class="dot"></span> Space</div>
+        </div>
+        <div class="body">
+          <p class="title">Top poze</p>
+          <p class="small">space / animals / landscape</p>
+        </div>
+      </div>
 
-  <h1 style="font-size:44px; margin:10px 0;">Vești bune</h1>
-  <p style="color:#444; margin:0 0 10px;">
-    Curate. Pe secțiuni. Refresh automat la fiecare 60 de minute.
-  </p>
-  <p id="meta" style="color:#666; font-size:13px; margin:0 0 18px;"></p>
+      <div class="card">
+        <div class="photo">
+          <img alt="Animals" src="https://source.unsplash.com/featured/1200x800/?animals,cute" />
+          <div class="tag"><span class="dot"></span> Animals</div>
+        </div>
+        <div class="body">
+          <p class="title">Doar vibe bun</p>
+          <p class="small">poze fresh, fără API keys</p>
+        </div>
+      </div>
 
-  <!-- Top blocks -->
-  <div id="top-blocks" style="
-    display:grid;
-    grid-template-columns: 1fr;
-    gap:12px;
-    margin-bottom:18px;
-    align-items:stretch;
-  "></div>
+      <div class="card">
+        <div class="photo">
+          <img alt="Landscape" src="https://source.unsplash.com/featured/1200x800/?landscape,nature,mountains" />
+          <div class="tag"><span class="dot"></span> Landscape</div>
+        </div>
+        <div class="body">
+          <p class="title">Reset mental</p>
+          <p class="small">3 carduri sus, ca înainte</p>
+        </div>
+      </div>
+    </div>
 
-  <!-- Sections -->
-  <div id="sections"></div>
+    <!-- JOKE + SATIRE -->
+    <div class="grid2">
+      <div class="mini" id="jokeBox">
+        <h2>Gluma zilei <span>RO</span></h2>
+        <p class="txt" id="jokeText">Se încarcă…</p>
+        <p class="src">Sursă: <a href="#" id="jokeSrc" target="_blank" rel="noopener">random intern (offline-safe)</a></p>
+      </div>
+
+      <div class="mini" id="satireBox">
+        <h2>Satira zilei <span>RO</span></h2>
+        <p class="txt" id="satireText">Se încarcă…</p>
+        <p class="src">Sursă: <a href="#" id="satireSrc" target="_blank" rel="noopener">link (manual)</a></p>
+      </div>
+    </div>
+
+    <!-- CONTROLS -->
+    <div class="controls">
+      <div class="btnrow">
+        <button id="btnMix" class="active" type="button">✨ Mix</button>
+        <button id="btnRO" type="button">🇷🇴 RO</button>
+        <button id="btnEN" type="button">🌍 EN</button>
+      </div>
+      <div class="status">
+        <span id="statusText">Se încarcă știrile…</span>
+        <span>•</span>
+        <span>Ultima actualizare: <code id="generatedUtc">—</code></span>
+      </div>
+    </div>
+
+    <!-- FEED -->
+    <div class="sections" id="sections"></div>
+
+    <footer>
+      Dacă “pare stricat”, fă <b>hard refresh</b>. Dacă tot nu revine, verifică să fie Pages pe <b>main / root</b>. •
+      <a href="https://github.com/vcarciu/vesti-bune" target="_blank" rel="noopener">Repo</a>
+    </footer>
+  </div>
 
   <script>
-    const SECTION_TITLES = {
-      romania: "🇷🇴 România",
-      medical: "🩺 Descoperiri medicale",
-      science: "🔬 Știință & Tech",
-      environment: "🌱 Mediu & Energie"
+    // ========= Helpers =========
+    const $ = (sel) => document.querySelector(sel);
+    const escapeHTML = (s) => (s ?? "").replace(/[&<>"']/g, m => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[m]));
+    const toDate = (iso) => {
+      try {
+        const d = new Date(iso);
+        return d.toLocaleString("ro-RO", { year:"numeric", month:"short", day:"2-digit", hour:"2-digit", minute:"2-digit" });
+      } catch { return iso || ""; }
+    };
+    const hostOf = (url) => {
+      try { return new URL(url).hostname.replace(/^www\./,''); } catch { return ""; }
     };
 
-    function el(tag, attrs = {}, text = "") {
-      const n = document.createElement(tag);
-      for (const [k, v] of Object.entries(attrs)) {
-        if (k === "style") n.style.cssText = v;
-        else n.setAttribute(k, v);
-      }
-      if (text) n.textContent = text;
-      return n;
+    // ========= Joke + Satire (offline-safe, deterministic daily) =========
+    const jokes = [
+      { t: "— De ce QA-ul nu merge la petreceri? — Pentru că mereu găsește bug-uri în atmosferă.", u: "https://en.wikipedia.org/wiki/Software_testing" },
+      { t: "Dacă totul pare ok… înseamnă că n-ai testat suficient.", u: "https://en.wikipedia.org/wiki/Quality_assurance" },
+      { t: "Am încercat să fiu pozitiv. A ieșit un test case cu 0 pași și 3 așteptări.", u: "https://en.wikipedia.org/wiki/Test_case" },
+      { t: "Veste bună: am reparat bug-ul. Veste și mai bună: am găsit încă 5!", u: "https://en.wikipedia.org/wiki/Debugging" }
+    ];
+    const satire = [
+      { t: "Breaking: România intră în topul mondial la optimism… după ce a dezinstalat notificările.", u: "https://en.wikipedia.org/wiki/Satire" },
+      { t: "S-a descoperit o metodă nouă de productivitate: închizi 3 tab-uri și te simți ca și cum ai terminat proiectul.", u: "https://en.wikipedia.org/wiki/Procrastination" },
+      { t: "Un studiu arată că 9 din 10 oameni preferă veștile bune. Al 10-lea preferă să se plângă că sunt prea puține.", u: "https://en.wikipedia.org/wiki/Negativity_bias" },
+      { t: "Economiștii confirmă: dacă nu verifici contul, cheltuielile scad cu 100%.", u: "https://en.wikipedia.org/wiki/Behavioral_economics" }
+    ];
+    function pickDaily(arr){
+      const d = new Date();
+      const key = Number(`${d.getFullYear()}${String(d.getMonth()+1).padStart(2,'0')}${String(d.getDate()).padStart(2,'0')}`);
+      return arr[key % arr.length];
+    }
+    const j = pickDaily(jokes);
+    $("#jokeText").textContent = j.t;
+    $("#jokeSrc").href = j.u;
+
+    const s = pickDaily(satire);
+    $("#satireText").textContent = s.t;
+    $("#satireSrc").href = s.u;
+
+    // ========= Data + Rendering =========
+    const state = {
+      mode: "mix", // mix | ro | en
+      data: null
+    };
+
+    function sectionLabel(key){
+      const map = {
+        romania: "România",
+        medical: "Medical",
+        science: "Știință",
+        environment: "Mediu",
+        tech: "Tech",
+        business: "Business",
+        culture: "Cultură",
+        sports: "Sport",
+        funny: "Fun",
+      };
+      return map[key] || (key.charAt(0).toUpperCase() + key.slice(1));
     }
 
-    function cardBase(extra = "") {
-      return `
-        background:#fff;
-        border:1px solid #e8e8e8;
-        border-radius:14px;
-        padding:16px;
-        box-shadow:0 1px 8px rgba(0,0,0,0.04);
-        ${extra}
-      `;
+    function isRO(item){ return (item.kind === "ro") || (item.section === "romania"); }
+    function isEN(item){ return (item.kind === "global") || (!isRO(item)); }
+
+    function normalizeSections(raw){
+      // raw: { generated_utc, sections: { key: [items...] } }
+      const out = { generated_utc: raw.generated_utc, sections: {} };
+      const secs = raw.sections || {};
+      for (const [k, arr] of Object.entries(secs)){
+        out.sections[k] = (arr || []).map(x => ({
+          section: x.section || k,
+          kind: x.kind || (k === "romania" ? "ro" : "global"),
+          source: x.source || hostOf(x.link),
+          title: x.title || "",
+          summary: x.summary || "",
+          link: x.link || "#",
+          published_utc: x.published_utc || "",
+          score: typeof x.score === "number" ? x.score : null,
+          image: x.image || null
+        }));
+      }
+      return out;
     }
 
-    function renderNewsItem(it) {
-      const card = el("div", { style: cardBase() + " margin:12px 0;" });
-
-      const h = el("h3", { style: "margin:0 0 8px;font-size:18px;line-height:1.25" });
-      const a = el("a", {
-        href: it.link,
-        target: "_blank",
-        rel: "noopener noreferrer",
-        style: "color:#111;text-decoration:none"
-      });
-
-      const title = (it.kind === "global" && it.title_ro) ? it.title_ro : it.title;
-      a.textContent = title;
-      a.onmouseover = () => a.style.textDecoration = "underline";
-      a.onmouseout = () => a.style.textDecoration = "none";
-      h.appendChild(a);
-
-      const summary = (it.kind === "global" && it.summary_ro) ? it.summary_ro : (it.summary || "");
-      const p = el("p", { style: "margin:0 0 10px;color:#333;line-height:1.5" }, summary);
-
-      const meta = el("div", { style: "font-size:12px;color:#777" });
-      const d = new Date(it.published_utc);
-
-      if (it.kind === "global") {
-        meta.innerHTML =
-          `🌍 GLOBAL • Titlu & rezumat traduse • ${it.source} • ${d.toLocaleString("ro-RO")} • ` +
-          `<a href="${it.link}" target="_blank" rel="noopener noreferrer" style="color:#555;text-decoration:underline">Original</a>`;
-      } else {
-        meta.textContent = `🇷🇴 RO • ${it.source} • ${d.toLocaleString("ro-RO")}`;
+    function buildMixed(sections){
+      // produce one "mix" stream grouped back into sections (keep same section keys)
+      const mixed = {};
+      for (const [k, arr] of Object.entries(sections)){
+        mixed[k] = [...arr].sort((a,b) => (b.published_utc||"").localeCompare(a.published_utc||""));
       }
-
-      card.appendChild(h);
-      if (summary) card.appendChild(p);
-      card.appendChild(meta);
-
-      return card;
+      return mixed;
     }
 
-    function renderTopBlocks(sections) {
-      const host = document.getElementById("top-blocks");
-      host.innerHTML = "";
-
-      // responsive: 3 cols on desktop
-      function setCols() {
-        host.style.gridTemplateColumns = (window.innerWidth >= 900) ? "1fr 1fr 1fr" : "1fr";
+    function filterByMode(allSections, mode){
+      const filtered = {};
+      for (const [k, arr] of Object.entries(allSections)){
+        let a = arr;
+        if (mode === "ro") a = arr.filter(isRO);
+        if (mode === "en") a = arr.filter(isEN);
+        // păstrează secțiunea doar dacă are elemente
+        if (a.length) filtered[k] = a;
       }
-      setCols();
-      window.addEventListener("resize", setCols);
-
-      // Fixed height for all 3 cards (prevents photos ruining layout)
-      const FIXED_H = "240px";
-
-      // 📸 Photos (compact thumbnails)
-      const photos = Array.isArray(sections.photos) ? sections.photos : [];
-      const photoCard = el("div", { style: cardBase(`height:${FIXED_H}; overflow:hidden; display:flex; flex-direction:column;`) });
-      photoCard.appendChild(el("div", { style:"font-size:13px;color:#666;margin-bottom:10px" }, "📸 Poza zilei"));
-
-      if (photos.length) {
-        const list = el("div", { style:"display:flex; flex-direction:column; gap:10px; overflow:hidden;" });
-
-        photos.slice(0, 2).forEach(ph => {
-          const row = el("div", { style:"display:flex; gap:10px; align-items:center;" });
-
-          const img = el("img", {
-            src: ph.image_url,
-            alt: ph.title || "Photo",
-            style: "width:90px;height:60px;object-fit:cover;border-radius:10px;border:1px solid #eee;flex:0 0 auto;"
-          });
-
-          const right = el("div", { style:"min-width:0; flex:1 1 auto;" });
-          const t = el("a", {
-            href: ph.link,
-            target: "_blank",
-            rel: "noopener noreferrer",
-            style: "display:block; color:#111; text-decoration:none; font-size:14px; line-height:1.25; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;"
-          }, ph.title || "Deschide");
-
-          t.onmouseover = () => t.style.textDecoration = "underline";
-          t.onmouseout = () => t.style.textDecoration = "none";
-
-          const s = el("div", { style:"font-size:12px;color:#777; margin-top:3px;" }, ph.source || "");
-
-          right.appendChild(t);
-          right.appendChild(s);
-
-          row.appendChild(img);
-          row.appendChild(right);
-          list.appendChild(row);
-        });
-
-        photoCard.appendChild(list);
-
-        // optional footer
-        photoCard.appendChild(el("div", { style:"margin-top:auto; font-size:12px;color:#999;" }, "2 imagini (latest)"));
-      } else {
-        photoCard.appendChild(el("div", { style:"font-size:16px;color:#111;line-height:1.5" }, "În curând 🙂"));
-        photoCard.appendChild(el("div", { style:"margin-top:auto; font-size:12px;color:#999;" }, " "));
-      }
-
-      // 😄 Joke
-      const joke = (sections.joke && sections.joke[0]) ? sections.joke[0] : null;
-      const jokeCard = el("div", { style: cardBase(`height:${FIXED_H}; overflow:hidden; display:flex; flex-direction:column;`) });
-      jokeCard.appendChild(el("div", { style:"font-size:13px;color:#666;margin-bottom:10px" }, "😄 Bancul zilei"));
-
-      const jokeText = (joke && joke.text) ? joke.text : "În curând 🙂";
-      jokeCard.appendChild(el("div", { style:"font-size:16px;color:#111;line-height:1.5" }, jokeText));
-      jokeCard.appendChild(el("div", { style:"margin-top:auto; font-size:12px;color:#999;" }, " "));
-
-      // 😈 Satire
-      const satire = (sections.satire && sections.satire[0]) ? sections.satire[0] : null;
-      const satCard = el("div", { style: cardBase(`height:${FIXED_H}; overflow:hidden; display:flex; flex-direction:column;`) });
-      satCard.appendChild(el("div", { style:"font-size:13px;color:#666;margin-bottom:10px" }, "😈 Satiră (TimesNewRoman)"));
-
-      if (satire && satire.link) {
-        const sa = el("a", {
-          href: satire.link,
-          target: "_blank",
-          rel: "noopener noreferrer",
-          style: "color:#111;text-decoration:none;font-size:16px;line-height:1.35; display:block;"
-        }, satire.title || "Citește");
-
-        sa.onmouseover = () => sa.style.textDecoration = "underline";
-        sa.onmouseout = () => sa.style.textDecoration = "none";
-
-        satCard.appendChild(sa);
-        satCard.appendChild(el("div", { style:"font-size:12px;color:#777;margin-top:8px" }, "Satiră — nu este știre reală."));
-      } else {
-        satCard.appendChild(el("div", { style:"font-size:16px;color:#111;line-height:1.5" }, "În curând 🙂"));
-      }
-      satCard.appendChild(el("div", { style:"margin-top:auto; font-size:12px;color:#999;" }, " "));
-
-      host.appendChild(photoCard);
-      host.appendChild(jokeCard);
-      host.appendChild(satCard);
+      return filtered;
     }
 
-    function renderSections(sections) {
-      const container = document.getElementById("sections");
-      container.innerHTML = "";
+    function render(sections){
+      const root = $("#sections");
+      root.innerHTML = "";
 
-      const order = ["romania", "medical", "science", "environment"];
+      const keys = Object.keys(sections);
+      if (!keys.length){
+        root.innerHTML = `<div class="mini"><h2>Nu sunt știri pentru filtrul ales</h2><p class="txt">Încearcă <b>Mix</b> sau adaugă surse.</p></div>`;
+        return;
+      }
 
-      for (const secId of order) {
-        const arr = Array.isArray(sections[secId]) ? sections[secId] : [];
-        if (!arr.length) continue;
+      for (const k of keys){
+        const arr = sections[k];
+        const box = document.createElement("div");
+        box.className = "section";
+        box.innerHTML = `
+          <div class="sectionhead">
+            <h3>${escapeHTML(sectionLabel(k))}</h3>
+            <span class="badge">${arr.length} articole</span>
+          </div>
+          <div class="items"></div>
+        `;
+        const itemsEl = box.querySelector(".items");
 
-        const header = el("h2", { style:"margin:26px 0 10px;font-size:22px" }, SECTION_TITLES[secId] || secId);
-        container.appendChild(header);
+        for (const it of arr){
+          const kindClass = isRO(it) ? "ro" : "en";
+          const kindText = isRO(it) ? "RO" : "EN";
+          const imgHTML = it.image
+            ? `<div class="thumb"><img loading="lazy" alt="" src="${escapeHTML(it.image)}" /></div>`
+            : `<div class="thumb"><img loading="lazy" alt="" src="https://source.unsplash.com/featured/800x500/?good,news" /></div>`;
 
-        arr.forEach(it => container.appendChild(renderNewsItem(it)));
+          const el = document.createElement("div");
+          el.className = "item";
+          el.innerHTML = `
+            ${imgHTML}
+            <div class="meta">
+              <p class="t"><a target="_blank" rel="noopener" href="${escapeHTML(it.link)}">${escapeHTML(it.title)}</a></p>
+              <p class="s">${escapeHTML(it.summary)}</p>
+              <div class="row">
+                <span class="k ${kindClass}">${kindText}</span>
+                <span class="dot"></span>
+                <span>${escapeHTML(it.source || hostOf(it.link))}</span>
+                <span class="dot"></span>
+                <span>${escapeHTML(toDate(it.published_utc))}</span>
+              </div>
+            </div>
+          `;
+          itemsEl.appendChild(el);
+        }
+
+        root.appendChild(box);
       }
     }
 
-    async function load() {
-      const res = await fetch(`./data/news.json?t=${Date.now()}`, { cache: "no-store" });
-      const data = await res.json();
+    function setMode(mode){
+      state.mode = mode;
+      $("#btnMix").classList.toggle("active", mode === "mix");
+      $("#btnRO").classList.toggle("active", mode === "ro");
+      $("#btnEN").classList.toggle("active", mode === "en");
 
-      const meta = document.getElementById("meta");
-      const generated = new Date(data.generated_utc);
-      meta.textContent = `Ultima actualizare: ${generated.toLocaleString("ro-RO")}`;
+      const all = state.data?.sections || {};
+      const filtered = filterByMode(all, mode);
+      render(filtered);
 
-      const sections = data.sections || {};
-      renderTopBlocks(sections);
-      renderSections(sections);
+      const count = Object.values(filtered).reduce((acc, a) => acc + a.length, 0);
+      $("#statusText").textContent = `Afișez: ${count} articole • Filtru: ${mode.toUpperCase()}`;
     }
 
-    load().catch(err => {
-      document.getElementById("sections").innerHTML = `
-        <div style="${cardBase()} margin:12px 0;">
-          <h2 style="margin:0 0 8px;">Eroare la încărcare</h2>
-          <p style="margin:0;color:#333">${String(err)}</p>
-        </div>
-      `;
-    });
+    async function load(){
+      try{
+        $("#statusText").textContent = "Se încarcă știrile…";
+        const res = await fetch("./data/news.json", { cache: "no-store" });
+        if (!res.ok) throw new Error("Nu pot încărca data/news.json");
+        const raw = await res.json();
+        const norm = normalizeSections(raw);
+        state.data = { generated_utc: norm.generated_utc, sections: buildMixed(norm.sections) };
+
+        $("#generatedUtc").textContent = state.data.generated_utc || "—";
+        setMode(state.mode);
+      }catch(e){
+        console.error(e);
+        $("#statusText").textContent = "Eroare la încărcarea știrilor.";
+        $("#sections").innerHTML = `
+          <div class="mini">
+            <h2>Nu pot încărca datele</h2>
+            <p class="txt">Verifică dacă există <code>data/news.json</code> și că Pages servește din <b>main / root</b>.</p>
+          </div>
+        `;
+      }
+    }
+
+    // ========= Events =========
+    $("#btnMix").addEventListener("click", () => setMode("mix"));
+    $("#btnRO").addEventListener("click", () => setMode("ro"));
+    $("#btnEN").addEventListener("click", () => setMode("en"));
+
+    load();
   </script>
-
 </body>
 </html>
