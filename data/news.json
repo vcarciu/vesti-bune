@@ -1,7 +1,18 @@
 {
-  "generated_utc": "2026-02-23T04:12:21+00:00",
+  "generated_utc": "2026-02-23T05:58:47+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Investigație. Membru al comisiei care judecă abuzurile psihologilor, acuzat că își hărțuiește sexual clientele. Înregistrări din cabinet: „Ești sigură că știi să faci sex ca lumea?”",
+        "summary": "Ion Duvac, doctor în psihologie și membru în Comisia de Deontologie și Disciplină a Colegiului Psihologilor din România, își hărțuiește sexual clientele prin propuneri sexuale explicite și cere poze cu părțile intime încă de la&#8230;",
+        "link": "https://hotnews.ro/investigatie-membru-al-comisiei-care-judeca-abuzurile-psihologilor-acuzat-ca-isi-hartuieste-sexual-clientele-inregistrari-din-cabinet-esti-sigura-ca-stii-sa-faci-sex-ca-lumea-2176921",
+        "published_utc": "2026-02-23T05:44:02+00:00",
+        "score": 1,
+        "image": "https://hotnews.ro/wp-content/uploads/2026/02/phiholog.png"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -56,17 +67,6 @@
         "published_utc": "2026-02-22T15:27:13+00:00",
         "score": 1,
         "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMiUyRjIyJTJGMjYwMjQxOV8yNjAy/NDE5X2dsb3JpYS1iaXN0cml0YS5wbmcm/aGFzaD1iNjYzYzEwZWM2MTM3ZWQ0ODY3MWRkYWMxZGZjNjFhZQ==.png"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Intervenții pe bandă rulantă la munte. 133 de persoane salvate într-o singură zi",
-        "summary": "Zi dificilă pentru salvamontiști. În ultimele 24 de ore au fost înregistrate 127 de apeluri de urgență, iar echipele de intervenție au fost mobilizate în mai multe zone montane din țară. În total, 133 de persoane aflate în dificultate pe trasee au fost salvate.",
-        "link": "https://www.digi24.ro/stiri/actualitate/social/interventii-pe-banda-rulanta-la-munte-133-de-persoane-salvate-intr-o-singura-zi-3642431",
-        "published_utc": "2026-02-22T08:24:28+00:00",
-        "score": 1,
-        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMSUyRjE5JTJGMjU0Nzc2N18yNTQ3/NzY3X3NhbHZhbW9udC0yLmpwZyZoYXNo/PTkxNzJlZmUzODAzYzYwM2JhZjcxZjBhY2IyNWE0MTNj.jpg"
       }
     ],
     "medical": [
@@ -226,6 +226,16 @@
         "section": "science",
         "kind": "global",
         "source": "ScienceDaily Science",
+        "title": "A giant blade-crested spinosaurus, the “hell heron,” discovered in the Sahara",
+        "summary": "Deep in the heart of the Sahara, scientists have uncovered Spinosaurus mirabilis — a spectacular new predator crowned with a massive, scimitar-shaped crest that may once have blazed with color under the desert sun. Discovered in remote inland river deposits in Niger, the fossil rewrites what we thought we knew about spinosaur dinosaurs, suggesting they weren’t fully aquatic hunters but powerful waders stalking fish in forested waterways hundreds of miles from the sea.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260222092251.htm",
+        "published_utc": "2026-02-23T05:10:43+00:00",
+        "score": 2
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "ScienceDaily Science",
         "title": "NASA’s Hubble spots nearly invisible “ghost galaxy” made of 99% dark matter",
         "summary": "Astronomers have uncovered one of the most mysterious galaxies ever found — a dim, ghostly object called CDG-2 that is almost entirely made of dark matter. Located 300 million light-years away in the Perseus galaxy cluster, it was discovered in an unusual way: not by its stars, but by four tightly packed globular clusters acting like cosmic breadcrumbs.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260221000307.htm",
@@ -335,21 +345,21 @@
   "top_images": [
     {
       "tag": "space",
-      "title": "Brenna",
-      "link": "https://www.flickr.com/photos/austinspace/55110727325/",
-      "image": "https://live.staticflickr.com/65535/55110727325_b7e9666427_b.jpg"
+      "title": "Basic Rover - Febrovery 2026-23",
+      "link": "https://www.flickr.com/photos/captain_j03/55111436423/",
+      "image": "https://live.staticflickr.com/65535/55111436423_a4dcd7943a_b.jpg"
     },
     {
       "tag": "animals",
-      "title": "Short-tailed Hawk (6)",
-      "link": "https://www.flickr.com/photos/matthewpaulson/55111067308/",
-      "image": "https://live.staticflickr.com/65535/55111067308_c67e8508ef_b.jpg"
+      "title": "Mason wasp",
+      "link": "https://www.flickr.com/photos/7519633@N08/55110868204/",
+      "image": "https://live.staticflickr.com/65535/55110868204_06c925df1b_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "20260222-JS2_1455",
-      "link": "https://www.flickr.com/photos/jschaef00/55111374789/",
-      "image": "https://live.staticflickr.com/65535/55111374789_9a63484f62_b.jpg"
+      "title": "07-20-25 (4)",
+      "link": "https://www.flickr.com/photos/tonedef999/55111027818/",
+      "image": "https://live.staticflickr.com/65535/55111027818_f4f5cbb204_b.jpg"
     }
   ]
 }
