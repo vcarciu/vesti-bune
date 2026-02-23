@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-02-23T11:32:15+00:00",
+  "generated_utc": "2026-02-23T12:37:22+00:00",
   "sections": {
     "romania": [
       {
@@ -273,16 +273,6 @@
       {
         "section": "science",
         "kind": "global",
-        "source": "ScienceDaily Science",
-        "title": "Microplastics have reached Antarctica’s only native insect",
-        "summary": "Even Antarctica’s toughest native insect can’t escape the reach of plastic pollution. Scientists have discovered that Belgica antarctica — a tiny, rice-sized midge and the southernmost insect on Earth — is already ingesting microplastics in the wild. While lab tests showed the hardy larvae can survive short-term exposure without obvious harm, those exposed to higher plastic levels had reduced fat reserves, hinting at hidden energy costs.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260212234214.htm",
-        "published_utc": "2026-02-16T12:48:45+00:00",
-        "score": 2
-      },
-      {
-        "section": "science",
-        "kind": "global",
         "source": "ESA",
         "title": "Cheops discovers late bloomer from another era",
         "summary": "Scientists used the European Space Agency's Cheops satellite to discover that the planetary system around the star LHS 1903 challenges current planet formation theories with the unusual order of its planets. Surprisingly, the most distant outer planet might be rocky and seems to have formed later – in a different environment than the other planets around the star.",
@@ -323,21 +313,21 @@
   "top_images": [
     {
       "tag": "space",
-      "title": "Supernova",
-      "link": "https://www.flickr.com/photos/manual_exp/55110517608/",
-      "image": "https://live.staticflickr.com/65535/55110517608_8342fd8eae_b.jpg"
+      "title": "35° F",
+      "link": "https://www.flickr.com/photos/blazer8696/55111145240/",
+      "image": "https://live.staticflickr.com/65535/55111145240_2edff8fe71_b.jpg"
     },
     {
       "tag": "animals",
-      "title": "Brahminy Kite / Bramagleða (Haliastur indus)",
-      "link": "https://www.flickr.com/photos/dorres/55111694658/",
-      "image": "https://live.staticflickr.com/65535/55111694658_84ed32c684_b.jpg"
+      "title": "White-bellied Sea Eagle / Glæörn (Haliaeetus leucogaster)",
+      "link": "https://www.flickr.com/photos/dorres/55110633077/",
+      "image": "https://live.staticflickr.com/65535/55110633077_373cb5ce33_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "2026 01 30_xt2_0159",
-      "link": "https://www.flickr.com/photos/swedgatch/55110738267/",
-      "image": "https://live.staticflickr.com/65535/55110738267_c56acbc70d_b.jpg"
+      "title": "The Road to the Tetons",
+      "link": "https://www.flickr.com/photos/rondakimbrow/55111687961/",
+      "image": "https://live.staticflickr.com/65535/55111687961_ef34c4253b_b.jpg"
     }
   ]
 }
