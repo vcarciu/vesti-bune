@@ -1,7 +1,19 @@
 {
-  "generated_utc": "2026-02-24T09:40:33+00:00",
+  "generated_utc": "2026-02-24T10:37:30+00:00",
   "sections": {
-    "romania": [],
+    "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Mesajul sfidător al Kremlinului la patru ani de când Putin a ordonat începerea invaziei pe scară largă în Ucraina",
+        "summary": "Purtătorul de cuvânt al Kremlinului a venit cu un mesaj sfidător la patru ani din momentul în care Moscova a declanșat invazia pe scară largă în Ucraina. Dmitri Peskov a vorbit despre informațiile oferite presei de către spionii lui Putin potrivit cărora Franța și Marea Britanie ar urma să livreze o armă nucleară Kievului. Acesta a adăugat răspicat că războiul va continua.",
+        "link": "https://www.digi24.ro/stiri/externe/rusia/mesajul-sfidator-al-kremlinului-la-patru-ani-de-cand-putin-a-ordonat-inceperea-invaziei-pe-scara-larga-3645655",
+        "published_utc": "2026-02-24T10:12:07+00:00",
+        "score": 1,
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwOSUyRjI0JTJGMjM1OTUyM18yMzU5/NTIzX05EQW1hR0Z6YUQxbE1XVTJPREZs/WlRkaU5qUmxORFExWkROa1ptUXlPRFF6/TVRGak1EaGtZUV90aHVtYl8uanBnJmhh/c2g9OWFmMDZhMmYxYzlkNDg2NjNiMTlkODdmN2M1ZjFiZWQ=.jpg"
+      }
+    ],
     "medical": [
       {
         "section": "medical",
@@ -279,21 +291,21 @@
   "top_images": [
     {
       "tag": "space",
-      "title": "Everything White is PseudoShite",
-      "link": "https://www.flickr.com/photos/silentoneproductions/55113011440/",
-      "image": "https://live.staticflickr.com/65535/55113011440_10f96ce7d3_b.jpg"
+      "title": "Vela SNR",
+      "link": "https://www.flickr.com/photos/cafuego/55113225711/",
+      "image": "https://live.staticflickr.com/65535/55113225711_fb6c433190_b.jpg"
     },
     {
       "tag": "animals",
-      "title": "IMG_4144",
-      "link": "https://www.flickr.com/photos/202086947@N07/55113133616/",
-      "image": "https://live.staticflickr.com/65535/55113133616_c2b0b44a30_b.jpg"
+      "title": "IMG_4228",
+      "link": "https://www.flickr.com/photos/202086947@N07/55113395689/",
+      "image": "https://live.staticflickr.com/65535/55113395689_92589e6e9f_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "Providence dam at Grand Rapids Ohio. Historical site on the Maumee river.",
-      "link": "https://www.flickr.com/photos/204266006@N07/55113334171/",
-      "image": "https://live.staticflickr.com/65535/55113334171_702b533943_b.jpg"
+      "title": "Kolukkumalai, Tamil Nadu",
+      "link": "https://www.flickr.com/photos/kumarprashant27/55113742244/",
+      "image": "https://live.staticflickr.com/65535/55113742244_60f6c0defe_b.jpg"
     }
   ]
 }
