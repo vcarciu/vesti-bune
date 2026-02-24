@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-02-24T17:50:18+00:00",
+  "generated_utc": "2026-02-24T18:45:16+00:00",
   "sections": {
     "romania": [
       {
@@ -12,17 +12,6 @@
         "published_utc": "2026-02-24T16:44:02+00:00",
         "score": 1,
         "image": "https://hotnews.ro/wp-content/uploads/2026/02/profimedia-1077868120.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "Prima reacție a psihologului Ion Duvac, acuzat de hărțuire sexuală de paciente. Invocă o „campanie de denigrare”",
-        "summary": "Ion Duvac, membru în Comisia de Deontologie și Disciplină a Colegiul Psihologilor din România, respinge acuzațiile de hărțuire sexuală și susține că este victima unei „campanii de denigrare”. PressOne a scris că Duvac este acuzat&#8230;",
-        "link": "https://hotnews.ro/prima-reactie-a-psihologului-ion-duvac-acuzat-de-hartuire-sexuala-de-paciente-invoca-o-campanie-de-denigrare-2178334",
-        "published_utc": "2026-02-24T15:06:28+00:00",
-        "score": 1,
-        "image": "https://hotnews.ro/wp-content/uploads/2026/02/phiholog.png"
       },
       {
         "section": "romania",
@@ -366,21 +355,21 @@
   "top_images": [
     {
       "tag": "space",
-      "title": "iX3",
-      "link": "https://www.flickr.com/photos/130309051@N04/55113579773/",
-      "image": "https://live.staticflickr.com/65535/55113579773_df0c3c462c_b.jpg"
+      "title": "Jupiter",
+      "link": "https://www.flickr.com/photos/9518053@N05/55113529430/",
+      "image": "https://live.staticflickr.com/video/55113529430/b93102ece8/360p.mp4?s=eyJpIjo1NTExMzUyOTQzMCwiZSI6MTc3MTk2MDU3MywicyI6IjczYjA2ZjNjZTE4ZDZmZDVmYTdlMzVkZWM0ZTgwNGRmMjY0N2M5MzQiLCJ2IjoxfQ"
     },
     {
       "tag": "animals",
-      "title": "Red lechwe, Southern lechwe",
-      "link": "https://www.flickr.com/photos/fotobienve/55112671557/",
-      "image": "https://live.staticflickr.com/65535/55112671557_5b083d483f_b.jpg"
+      "title": "260221 Donosaka Park-09.jpg",
+      "link": "https://www.flickr.com/photos/77903093@N00/55113556461/",
+      "image": "https://live.staticflickr.com/65535/55113556461_7ed6c1b3ac_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "Vue depuis le château de Beynac",
-      "link": "https://www.flickr.com/photos/194805143@N05/55114300264/",
-      "image": "https://live.staticflickr.com/65535/55114300264_dbdce6cc81_b.jpg"
+      "title": "Rapid Feb 26",
+      "link": "https://www.flickr.com/photos/194341878@N07/55114086656/",
+      "image": "https://live.staticflickr.com/65535/55114086656_2911383f5a_b.jpg"
     }
   ]
 }
