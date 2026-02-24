@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-02-24T22:22:34+00:00",
+  "generated_utc": "2026-02-24T23:21:07+00:00",
   "sections": {
     "romania": [
       {
@@ -23,17 +23,6 @@
         "published_utc": "2026-02-24T20:49:38+00:00",
         "score": 1,
         "image": "https://hotnews.ro/wp-content/uploads/2026/02/profimedia-1074311769.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "„Aș vrea un copil. Am investit prea mult în munca mea și prea puțin în viața mea. Dacă totul se va sfârși, nu voi mai avea nimic”. Dezvăluirea făcută de una dintre cele mai mari cântărețe din Italia cu câteva ore înainte de începerea Festivalului de la Sanremo",
-        "summary": "„Înaintea mea, mama mea a pierdut doi copii după nouă luni de sarcină. Sunt recunoscătoare că sunt în viață”, spune Arisa, într-un podcast difuzat cu puțin timp înainte să urce pe scena Festivalului de la&#8230;",
-        "link": "https://hotnews.ro/as-vrea-un-copil-am-investit-prea-mult-in-munca-mea-si-prea-putin-in-viata-mea-daca-totul-se-va-sfarsi-nu-voi-mai-avea-nimic-dezvaluirea-facuta-de-una-dintre-cele-mai-mari-cantar-2178460",
-        "published_utc": "2026-02-24T16:44:02+00:00",
-        "score": 1,
-        "image": "https://hotnews.ro/wp-content/uploads/2026/02/profimedia-1077868120.jpg"
       },
       {
         "section": "romania",
@@ -366,21 +355,21 @@
   "top_images": [
     {
       "tag": "space",
-      "title": "iX3",
-      "link": "https://www.flickr.com/photos/130309051@N04/55113579663/",
-      "image": "https://live.staticflickr.com/65535/55113579663_386284dfc7_b.jpg"
+      "title": "Orion Nebula",
+      "link": "https://www.flickr.com/photos/9518053@N05/55112258617/",
+      "image": "https://live.staticflickr.com/65535/55112258617_7765ecca2f_b.jpg"
     },
     {
       "tag": "animals",
-      "title": "Sunda Scops-Owl (Otus lempiji)",
-      "link": "https://www.flickr.com/photos/200625507@N06/55114529358/",
-      "image": "https://live.staticflickr.com/65535/55114529358_924a8249ef_b.jpg"
+      "title": "Great Egret (Ardea alba)",
+      "link": "https://www.flickr.com/photos/200625507@N06/55113406897/",
+      "image": "https://live.staticflickr.com/65535/55113406897_672f9da4da_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "Parc national des Everglades de Lothéa",
-      "link": "https://www.flickr.com/photos/stephanegachet/55114595389/",
-      "image": "https://live.staticflickr.com/65535/55114595389_6744f5422e_b.jpg"
+      "title": "This place is peaceful.",
+      "link": "https://www.flickr.com/photos/204101566@N02/55114756835/",
+      "image": "https://live.staticflickr.com/65535/55114756835_d4ab78f9cd_b.jpg"
     }
   ]
 }
