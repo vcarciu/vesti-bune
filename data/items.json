@@ -1,7 +1,18 @@
 {
-  "generated_utc": "2026-02-24T15:45:10+00:00",
+  "generated_utc": "2026-02-24T16:54:02+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "„Aș vrea un copil. Am investit prea mult în munca mea și prea puțin în viața mea. Dacă totul se va sfârși, nu voi mai avea nimic”. Dezvăluirea făcută de una dintre cele mai mari cântărețe din Italia cu câteva ore înainte de începerea Festivalului de la Sanremo",
+        "summary": "„Înaintea mea, mama mea a pierdut doi copii după nouă luni de sarcină. Sunt recunoscătoare că sunt în viață”, spune Arisa, într-un podcast difuzat cu puțin timp înainte să urce pe scena Festivalului de la&#8230;",
+        "link": "https://hotnews.ro/as-vrea-un-copil-am-investit-prea-mult-in-munca-mea-si-prea-putin-in-viata-mea-daca-totul-se-va-sfarsi-nu-voi-mai-avea-nimic-dezvaluirea-facuta-de-una-dintre-cele-mai-mari-cantar-2178460",
+        "published_utc": "2026-02-24T16:44:02+00:00",
+        "score": 1,
+        "image": "https://hotnews.ro/wp-content/uploads/2026/02/profimedia-1077868120.jpg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -214,6 +225,26 @@
       {
         "section": "science",
         "kind": "global",
+        "source": "ScienceDaily Science",
+        "title": "50 year quest ends with creation of silicon aromatic once thought impossible",
+        "summary": "After nearly 50 years of failed attempts and scientific speculation, chemists at Saarland University have achieved what many thought might be impossible: creating a long-sought silicon-based aromatic molecule. By replacing carbon atoms in a famously stable ring-shaped compound with silicon, the team synthesized pentasilacyclopentadienide — a breakthrough published in Science.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260224023205.htm",
+        "published_utc": "2026-02-24T16:50:06+00:00",
+        "score": 2
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "ScienceDaily Science",
+        "title": "Congo basin blackwater lakes are releasing ancient carbon into the atmosphere",
+        "summary": "Deep in the Congo Basin, vast peatlands quietly store enormous amounts of Earth’s carbon — but new research suggests this ancient vault may be leaking. Scientists studying Africa’s largest blackwater lakes discovered that significant amounts of carbon dioxide bubbling into the atmosphere come not just from recent plant life, but from peat that has been locked away for thousands of years.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260224023201.htm",
+        "published_utc": "2026-02-24T13:16:20+00:00",
+        "score": 2
+      },
+      {
+        "section": "science",
+        "kind": "global",
         "source": "NASA Breaking News",
         "title": "Curiosity Studies Nodules on Boxwork Formations",
         "summary": "Description NASA’s Curiosity Mars rover discovered these bumpy, pea-sized nodules while exploring a region filled with boxwork formations — low ridges standing roughly 3 to 6 feet (1 to 2 meters) tall with sandy hollows in-between. This mosaic is made up of 50 individual images taken by Curiosity’s Mars Hand Lens Imager (MAHLI), a camera on […]",
@@ -335,21 +366,21 @@
   "top_images": [
     {
       "tag": "space",
-      "title": "Sirius",
-      "link": "https://www.flickr.com/photos/9518053@N05/55112258677/",
-      "image": "https://live.staticflickr.com/65535/55112258677_4af6c8c94f_z.jpg"
+      "title": "Ice Planet Speeder",
+      "link": "https://www.flickr.com/photos/156191615@N03/55112863163/",
+      "image": "https://live.staticflickr.com/65535/55112863163_1e925dd972_b.jpg"
     },
     {
       "tag": "animals",
-      "title": "White-bellied Sea Eagle / Glæörn (Haliaeetus leucogaster)",
-      "link": "https://www.flickr.com/photos/dorres/55114043958/",
-      "image": "https://live.staticflickr.com/65535/55114043958_9e57b1294b_b.jpg"
+      "title": "260219 Yakushiike Park-09.jpg",
+      "link": "https://www.flickr.com/photos/77903093@N00/55113713248/",
+      "image": "https://live.staticflickr.com/65535/55113713248_af2e394f71_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "Tori",
-      "link": "https://www.flickr.com/photos/203471592@N03/55112999837/",
-      "image": "https://live.staticflickr.com/65535/55112999837_248e4aeeb0_b.jpg"
+      "title": "Amy",
+      "link": "https://www.flickr.com/photos/203471592@N03/55114266380/",
+      "image": "https://live.staticflickr.com/65535/55114266380_e7265d0bbb_b.jpg"
     }
   ]
 }
