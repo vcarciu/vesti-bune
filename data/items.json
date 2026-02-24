@@ -1,7 +1,40 @@
 {
-  "generated_utc": "2026-02-24T12:38:17+00:00",
+  "generated_utc": "2026-02-24T14:03:26+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Interviu de pe frontul din Ucraina. „Un băiat nu a supraviețuit și exact atunci i-a sunat telefonul, iar pe ecran a apărut cuvântul „Mama”. Ucraineancă înrolată voluntar în armată, mesaj la 4 ani de război",
+        "summary": "„Sunt momente foarte grele. Eu sunt mai în vârstă și raportez totul la mine: când moare un tânăr, mă gândesc ce ar fi simțit mama lui”, povestește Zoia Kovaleț, într-un interviu pentru publicul HotNews. Are&#8230;",
+        "link": "https://hotnews.ro/interviu-de-pe-frontul-din-ucraina-un-baiat-nu-a-supravietuit-si-exact-atunci-i-a-sunat-telefonul-iar-pe-ecran-a-aparut-cuvantul-mama-ucraineanca-inrolata-voluntar-in-arm-2174098",
+        "published_utc": "2026-02-24T14:02:28+00:00",
+        "score": 1,
+        "image": "https://hotnews.ro/wp-content/uploads/2026/02/Untitled-1.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Primăria Cluj-Napoca a semnat un contract de 10,8 milioane de euro pentru reabilitarea rețelelor de termoficare",
+        "summary": "Primarul municipiului Cluj-Napoca, Emil Boc, a anunțat marți semnarea unui contract în valoare de 10,8 milioane de euro pentru modernizarea a 6,3 kilometri de rețele de termoficare din oraș. Lucrările, finanțate în proporție de aproximativ 60% din fonduri europene și cu o durată de execuție de 18 luni, vizează reducerea pierderilor din rețea, scăderea facturilor la energia termică pentru consumatorii rezidențiali și diminuarea emisiilor de gaze cu efect de seră.",
+        "link": "https://www.digi24.ro/stiri/economie/primaria-cluj-napoca-a-semnat-un-contract-de-108-milioane-de-euro-pentru-reabilitarea-retelelor-de-termoficare-3646211",
+        "published_utc": "2026-02-24T14:00:45+00:00",
+        "score": 1,
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjQl/MkYxMiUyRjI5JTJGMjE1ODk3Ml8yMTU4/OTcyX0NsdWotTmFwb2NhXy1Gb3RvLVNo/dXR0ZXJzdG9jay5qcGcmaGFzaD1mNjYy/NTg0OWFlYjVjODJiNWU3OTJiOTJkMWRlM2FjNw==.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Rețeaua de magazine „La Cocoș” va fi preluată de proprietarul Lidl și Kaufland, după ce tranzacția a fost aprobată de Consiliul Concurenței. Instituția a fixat însă câteva condiții",
+        "summary": "Consiliul Concurenței a anunțat marți că a autorizat condiționat preluarea „La Cocoș” de către grupul Schwarz, care operează rețelele Kaufland și Lidl. Angajamentele asumate de germani „asigură menținerea modelului comercial al rețelei La Cocoș, caracterizat&#8230;",
+        "link": "https://hotnews.ro/unda-verde-pentru-preluarea-la-cocos-de-catre-proprietarul-lidl-si-kaufland-preturile-mici-vor-fi-mentinute-asigura-consiliul-concurentei-2178186",
+        "published_utc": "2026-02-24T12:18:34+00:00",
+        "score": 1,
+        "image": "https://hotnews.ro/wp-content/uploads/2025/06/ID239794_INQUAM_Photos_George_Calin.jpg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -291,21 +324,21 @@
   "top_images": [
     {
       "tag": "space",
-      "title": "the business end of the Space Shuttle (Main Engines). getting up close to them boy they were huge!",
-      "link": "https://www.flickr.com/photos/tonyromanphotography/55111786302/",
-      "image": "https://live.staticflickr.com/65535/55111786302_6c5b95d559_b.jpg"
+      "title": "Betelgeuse",
+      "link": "https://www.flickr.com/photos/9518053@N05/55113343448/",
+      "image": "https://live.staticflickr.com/65535/55113343448_733cd08945_b.jpg"
     },
     {
       "tag": "animals",
-      "title": "Ruby Tetra",
-      "link": "https://www.flickr.com/photos/findtheapex/55113424784/",
-      "image": "https://live.staticflickr.com/65535/55113424784_146e4a0fac_b.jpg"
+      "title": "Cats of Manila",
+      "link": "https://www.flickr.com/photos/61530609@N03/55113979399/",
+      "image": "https://live.staticflickr.com/65535/55113979399_ed1254f3bd_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "BarnesWWT-Feb2026-No1-JPEG - Copy",
-      "link": "https://www.flickr.com/photos/148522344@N08/55113830618/",
-      "image": "https://live.staticflickr.com/65535/55113830618_ae66ba290b_b.jpg"
+      "title": "Lonely crow on a frozen river",
+      "link": "https://www.flickr.com/photos/ultro/55113981514/",
+      "image": "https://live.staticflickr.com/65535/55113981514_58dcb80f04_b.jpg"
     }
   ]
 }
