@@ -1,7 +1,18 @@
 {
-  "generated_utc": "2026-02-24T20:23:02+00:00",
+  "generated_utc": "2026-02-24T21:24:19+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Aproape 30 de grade Celsius în sud-vestul Franţei, un record de căldură pentru luna februarie",
+        "summary": "Temperaturi de peste 25 de grade Celsius şi aproape de 30 de grade Celsius s-au înregistrat marţi în sud-vestul Franţei, prilej cu care au fost doborâte mai multe recorduri de căldură pentru luna februarie, vremea&#8230;",
+        "link": "https://hotnews.ro/aproape-30-de-grade-celsius-in-sud-vestul-frantei-un-record-de-caldura-pentru-luna-februarie-2178667",
+        "published_utc": "2026-02-24T20:49:38+00:00",
+        "score": 1,
+        "image": "https://hotnews.ro/wp-content/uploads/2026/02/profimedia-1074311769.jpg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -344,21 +355,21 @@
   "top_images": [
     {
       "tag": "space",
-      "title": "Betelgeuse",
-      "link": "https://www.flickr.com/photos/9518053@N05/55113138166/",
-      "image": "https://live.staticflickr.com/video/55113138166/b57c6eb6c1/360p.mp4?s=eyJpIjo1NTExMzEzODE2NiwiZSI6MTc3MTk2NjQ1NiwicyI6ImYzYzY5MjMzNWJjNTYzYTVkMTE4NzM0OTQ3ZTZkYTEzZGRhNTgyZjAiLCJ2IjoxfQ"
+      "title": "Moon, 50% illuminated 24 2 26",
+      "link": "https://www.flickr.com/photos/186327807@N05/55114251791/",
+      "image": "https://live.staticflickr.com/65535/55114251791_2ae29061bf_b.jpg"
     },
     {
       "tag": "animals",
-      "title": "Any Questions?",
-      "link": "https://www.flickr.com/photos/194768801@N03/55114224424/",
-      "image": "https://live.staticflickr.com/65535/55114224424_62c3766951_b.jpg"
+      "title": "Black-thighed Falconet (Microhierax fringillarius)",
+      "link": "https://www.flickr.com/photos/200625507@N06/55114484598/",
+      "image": "https://live.staticflickr.com/65535/55114484598_cfd820950a_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "Desert Gold & Blue",
-      "link": "https://www.flickr.com/photos/ewoerlen/55114552824/",
-      "image": "https://live.staticflickr.com/65535/55114552824_fab4145587_b.jpg"
+      "title": "Lac du Gabas",
+      "link": "https://www.flickr.com/photos/chogori20/55114313221/",
+      "image": "https://live.staticflickr.com/65535/55114313221_c0ab5b39f7_b.jpg"
     }
   ]
 }
