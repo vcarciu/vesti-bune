@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-02-25T17:50:30+00:00",
+  "generated_utc": "2026-02-25T17:53:49+00:00",
   "sections": {
     "romania": [
       {
@@ -282,7 +282,7 @@
       {
         "section": "medical",
         "kind": "global",
-        "source": "ScienceDaily Medicine",
+        "source": "ScienceDaily Health",
         "title": "Just two days of oatmeal cut bad cholesterol by 10%",
         "summary": "Eating nothing but oatmeal for just two days might sound extreme, but it delivered a striking payoff in a new clinical trial. People with metabolic syndrome who followed a short, calorie-reduced oat-based plan saw their harmful LDL cholesterol drop by 10%, along with modest weight loss and lower blood pressure. Even more surprising, the cholesterol benefits were still visible six weeks later.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260225081217.htm",
@@ -292,7 +292,7 @@
       {
         "section": "medical",
         "kind": "global",
-        "source": "ScienceDaily Medicine",
+        "source": "ScienceDaily Health",
         "title": "New brain stimulation approach could treat depression in just 5 days",
         "summary": "A weeklong, high-intensity version of TMS may work nearly as well as the standard six-week treatment for depression. In a UCLA study, patients who received five sessions a day for five days experienced meaningful symptom relief comparable to those on the traditional schedule. Some who didn’t improve immediately showed strong gains weeks later. The findings hint at a faster, more accessible path to recovery.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260224023103.htm",
@@ -302,7 +302,7 @@
       {
         "section": "medical",
         "kind": "global",
-        "source": "ScienceDaily Medicine",
+        "source": "ScienceDaily Health",
         "title": "Microplastics found in 90% of prostate cancer tumors, study reveals",
         "summary": "Researchers have detected microplastics in nearly all prostate cancer tumors examined in a new study. Tumor tissue contained about 2.5 times more plastic than nearby healthy prostate tissue. Scientists say this is the first Western study to directly measure plastic particles in prostate tumors. More research is needed, but the findings suggest microplastic exposure could play a role in cancer development.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260225001250.htm",
@@ -312,7 +312,7 @@
       {
         "section": "medical",
         "kind": "global",
-        "source": "ScienceDaily Medicine",
+        "source": "ScienceDaily Health",
         "title": "Scientists engineer bacteria to eat cancer tumors from the inside out",
         "summary": "Researchers are engineering bacteria to invade tumors and consume them from the inside. Because tumor cores lack oxygen, they’re the perfect breeding ground for these microbes. The team added a genetic tweak that helps the bacteria survive longer near oxygen-exposed edges — but only once enough of them are present to trigger the change. It’s a carefully programmed biological attack that could one day offer a new way to destroy cancer.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260224023101.htm",
@@ -322,7 +322,7 @@
       {
         "section": "medical",
         "kind": "global",
-        "source": "ScienceDaily Medicine",
+        "source": "ScienceDaily Health",
         "title": "Training harder could be rewiring your gut bacteria",
         "summary": "Training harder may do more than build muscle—it could transform your gut. Researchers found that intense workouts change the balance of bacteria and important compounds in athletes’ digestive systems. When training loads dropped, diet quality slipped and digestion slowed, triggering different microbial shifts. These hidden changes might influence performance in ways scientists are only beginning to understand.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260222092317.htm",
@@ -332,7 +332,7 @@
       {
         "section": "medical",
         "kind": "global",
-        "source": "ScienceDaily Medicine",
+        "source": "ScienceDaily Health",
         "title": "Simple blood test can forecast Alzheimer’s years before memory loss",
         "summary": "Scientists have created a blood test that can estimate when Alzheimer’s symptoms are likely to begin. By measuring a protein called p-tau217, the model predicts symptom onset within roughly three to four years. The protein mirrors the silent buildup of amyloid and tau in the brain long before memory loss appears. This advance could speed up preventive drug trials and eventually guide personalized care.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260222085203.htm",
@@ -342,7 +342,7 @@
       {
         "section": "medical",
         "kind": "global",
-        "source": "ScienceDaily Medicine",
+        "source": "ScienceDaily Health",
         "title": "Generative AI analyzes medical data faster than human research teams",
         "summary": "Researchers tested whether generative AI could handle complex medical datasets as well as human experts. In some cases, the AI matched or outperformed teams that had spent months building prediction models. By generating usable analytical code from precise prompts, the systems dramatically reduced the time needed to process health data. The findings hint at a future where AI helps scientists move faster from data to discovery.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260221060942.htm",
@@ -352,7 +352,7 @@
       {
         "section": "medical",
         "kind": "global",
-        "source": "ScienceDaily Medicine",
+        "source": "ScienceDaily Health",
         "title": "Scientists reveal how exercise protects the brain from Alzheimer’s",
         "summary": "Exercise may sharpen the mind by repairing the brain’s protective shield. Researchers found that physical activity prompts the liver to release an enzyme that removes a harmful protein causing the blood-brain barrier to become leaky with age. In older mice, dialing down this protein reduced inflammation and improved memory. The discovery points to a surprising body-to-brain pathway that could inspire new Alzheimer’s therapies.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260219040752.htm",
@@ -362,7 +362,7 @@
       {
         "section": "medical",
         "kind": "global",
-        "source": "ScienceDaily Medicine",
+        "source": "ScienceDaily Health",
         "title": "Scientists discover the body’s hidden “off switch” for inflammation",
         "summary": "A new human study has uncovered how the body naturally turns off inflammation. Researchers found that fat-derived molecules called epoxy-oxylipins rein in immune cells that can otherwise drive chronic disease. Using a drug to boost these molecules reduced pain faster and lowered harmful inflammatory cells. The discovery could pave the way for safer treatments for arthritis, heart disease, and other inflammation-related conditions.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260219040816.htm",
@@ -372,7 +372,7 @@
       {
         "section": "medical",
         "kind": "global",
-        "source": "ScienceDaily Medicine",
+        "source": "ScienceDaily Health",
         "title": "This reengineered HPV vaccine trains T cells to hunt down cancer",
         "summary": "Northwestern researchers have shown that when it comes to cancer vaccines, arrangement can be just as important as ingredients. By repositioning a small fragment of an HPV protein on a DNA-based nanovaccine, the team dramatically strengthened the immune system’s attack on HPV-driven tumors. One specific design slowed tumor growth, extended survival in animal models, and unleashed far more cancer-killing T cells than other versions made with the exact same components.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260216044006.htm",
@@ -382,7 +382,7 @@
       {
         "section": "medical",
         "kind": "global",
-        "source": "ScienceDaily Medicine",
+        "source": "ScienceDaily Health",
         "title": "Intermittent fasting fails to beat standard dieting for weight loss",
         "summary": "Intermittent fasting has become one of the most talked-about weight loss trends in recent years, promising dramatic results with simple changes to when you eat. But a major Cochrane review suggests the reality may be far less exciting. After analyzing 22 clinical trials involving nearly 2,000 adults, researchers found that intermittent fasting did not produce significantly more weight loss than standard diet advice or even no structured plan at all.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260218044620.htm",
@@ -392,7 +392,7 @@
       {
         "section": "medical",
         "kind": "global",
-        "source": "ScienceDaily Medicine",
+        "source": "ScienceDaily Health",
         "title": "Viagra and shingles vaccine show surprising promise against Alzheimer’s",
         "summary": "A major new study has spotlighted three familiar medicines that could take on an unexpected new role in the fight against Alzheimer’s disease — with a shingles vaccine emerging as the front-runner. After reviewing 80 existing drugs, an international panel of experts identified Zostavax, Viagra (sildenafil), and riluzole as the most promising candidates for repurposing.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260217005759.htm",
@@ -402,7 +402,7 @@
       {
         "section": "medical",
         "kind": "global",
-        "source": "ScienceDaily Medicine",
+        "source": "ScienceDaily Health",
         "title": "People who switched to cannabis drinks cut their alcohol use nearly in half",
         "summary": "A new University at Buffalo study suggests cannabis-infused beverages could help some people cut back on alcohol. In a survey of cannabis users, those who drank cannabis beverages reported cutting their weekly alcohol intake roughly in half and binge drinking less often. Nearly two-thirds said they reduced or stopped drinking alcohol after starting cannabis drinks.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260217005806.htm",
@@ -412,7 +412,7 @@
       {
         "section": "medical",
         "kind": "global",
-        "source": "ScienceDaily Medicine",
+        "source": "ScienceDaily Health",
         "title": "One stem cell generates 14 million tumor-killing NK cells in major cancer breakthrough",
         "summary": "Scientists in China have unveiled a breakthrough way to mass-produce powerful cancer-fighting immune cells in the lab. By engineering early-stage stem cells from cord blood—rather than trying to modify mature natural killer (NK) cells—they created a streamlined process that generates enormous numbers of highly potent NK cells, including CAR-equipped versions designed to hunt specific cancers.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260215225600.htm",
@@ -422,7 +422,7 @@
       {
         "section": "medical",
         "kind": "global",
-        "source": "ScienceDaily Medicine",
+        "source": "ScienceDaily Health",
         "title": "Lab grown human spinal cord heals after injury in major breakthrough",
         "summary": "Researchers have built a realistic human mini spinal cord in the lab and used it to simulate traumatic injury. The model reproduced key damage seen in real spinal cord injuries, including inflammation and scar formation. After treatment with fast moving “dancing molecules,” nerve fibers began growing again and scar tissue shrank. The results suggest the therapy could eventually help repair spinal cord damage.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260216044003.htm",
@@ -432,7 +432,7 @@
       {
         "section": "medical",
         "kind": "global",
-        "source": "ScienceDaily Medicine",
+        "source": "ScienceDaily Health",
         "title": "Brain inflammation may be driving compulsive behavior",
         "summary": "For years, compulsive behaviors have been viewed as bad habits stuck on autopilot. But new research in rats found the opposite: inflammation in a key decision-making brain region actually made behavior more deliberate, not more automatic. The change was linked to astrocytes, brain support cells that multiplied and disrupted nearby circuits. The discovery hints that some compulsive behaviors may arise from excessive, misdirected control rather than a loss of it.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260215225606.htm",
@@ -453,7 +453,7 @@
       {
         "section": "medical",
         "kind": "global",
-        "source": "ScienceDaily Medicine",
+        "source": "ScienceDaily Health",
         "title": "Scientists discover the enzyme that lets cancer rapidly rewire its DNA",
         "summary": "Researchers have uncovered the enzyme behind chromothripsis, a chaotic chromosome-shattering event seen in about one in four cancers. The enzyme, N4BP2, breaks apart DNA trapped in tiny cellular structures, unleashing a burst of genetic changes that can help tumors rapidly adapt and resist therapy. Blocking the enzyme dramatically reduced this genomic destruction in cancer cells.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260215225546.htm",
@@ -463,7 +463,7 @@
       {
         "section": "medical",
         "kind": "global",
-        "source": "ScienceDaily Medicine",
+        "source": "ScienceDaily Health",
         "title": "This planet friendly diet could cut your risk of early death by 23%",
         "summary": "A major new study suggests that eating the Nordic way could help you live significantly longer—while also helping the planet. Researchers from Aarhus University found that people who closely followed the 2023 Nordic dietary guidelines had a 23% lower risk of death compared to those who didn’t.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260213223920.htm",
@@ -473,12 +473,42 @@
       {
         "section": "medical",
         "kind": "global",
-        "source": "ScienceDaily Medicine",
+        "source": "ScienceDaily Health",
+        "title": "Why some kids struggle with math even when they try hard",
+        "summary": "A new Stanford study suggests math struggles may be about more than numbers. Children who had difficulty with math were less likely to adjust their thinking after making mistakes during number comparison tasks. Brain imaging showed weaker activity in regions that help monitor errors and guide behavioral changes. These brain patterns could predict which children were more likely to struggle.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260213020416.htm",
+        "published_utc": "2026-02-15T15:50:20+00:00",
+        "score": 1
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
         "title": "Stop eating 3 hours before bed to improve heart health",
         "summary": "A simple shift in your evening routine may give your heart a measurable boost. In a new study, adults who stopped eating and dimmed the lights three hours before bed and extended their overnight fast by about two hours saw improvements in blood pressure, heart rate, and blood-sugar control — without cutting calories.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260215084958.htm",
         "published_utc": "2026-02-15T13:58:31+00:00",
         "score": 3
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "Scientists found a way to plant ideas in dreams to boost creativity",
+        "summary": "Sleeping on a problem might be more powerful than we ever imagined. Neuroscientists at Northwestern University have shown that dreams can actually be nudged in specific directions — and those dream tweaks may boost creativity. By playing subtle sound cues during REM sleep, researchers prompted people to dream about unsolved brain teasers they had struggled with earlier. An astonishing 75% of participants dreamed about the cued puzzles, and those puzzles were solved far more often the next day.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260213223926.htm",
+        "published_utc": "2026-02-15T06:47:47+00:00",
+        "score": 1
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "Scientists used brain stimulation to make people more generous",
+        "summary": "A new study suggests that generosity may be more than a moral lesson—it could be shaped by how different parts of the brain work together. By gently stimulating two brain regions and syncing their activity, researchers found that people became more willing to share money with others, even when it meant earning less themselves.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260213020407.htm",
+        "published_utc": "2026-02-14T01:06:33+00:00",
+        "score": 2
       },
       {
         "section": "medical",
@@ -499,37 +529,6 @@
         "link": "https://www.sciencedaily.com/releases/2026/02/260212234156.htm",
         "published_utc": "2026-02-13T09:32:15+00:00",
         "score": 2
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "ScienceDaily Medicine",
-        "title": "Scientists discover hidden trigger behind achilles pain and tennis elbow",
-        "summary": "A protein called HIF1 may be the missing link behind painful tendon injuries like jumper’s knee and tennis elbow. Researchers showed that high levels of HIF1 actually cause harmful changes that make tendons brittle and prone to pain. In experiments, turning the protein off protected tendons — even under heavy strain.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260212025618.htm",
-        "published_utc": "2026-02-13T04:29:13+00:00",
-        "score": 1
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "ScienceDaily Medicine",
-        "title": "Scientists discover protein that rejuvenates aging brain cells",
-        "summary": "A newly identified protein may hold the key to rejuvenating aging brain cells. Researchers found that boosting DMTF1 can restore the ability of neural stem cells to regenerate, even when age-related damage has set in. Without it, these cells struggle to renew and support memory and learning. The findings raise hopes for treatments that could slow or even reverse aspects of brain aging.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260212025620.htm",
-        "published_utc": "2026-02-12T14:42:41+00:00",
-        "score": 1
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Positive News",
-        "title": "Novel paint could aid drought-hit regions",
-        "summary": "Researchers in Australia have developed a dual-purpose paint that tackles rising heat and water scarcity in one stroke The post Novel paint could aid drought-hit regions appeared first on Positive News .",
-        "link": "https://www.positive.news/environment/novel-paint-could-aid-drought-hit-regions/",
-        "published_utc": "2026-02-12T07:00:20+00:00",
-        "score": 1,
-        "image": "https://www.positive.news/wp-content/uploads/2026/02/ian-talmacs-_NIyVAFo5xI-unsplash-2-scaled.jpg"
       }
     ],
     "science": [
@@ -727,21 +726,21 @@
   "top_images": [
     {
       "tag": "space",
-      "title": "Misha Brown, CF, 2/21/26",
-      "link": "https://www.flickr.com/photos/slclevents/55115047828/",
-      "image": "https://live.staticflickr.com/65535/55115047828_f45d22fa83_b.jpg"
+      "title": "The Great Orion Nebula",
+      "link": "https://www.flickr.com/photos/196232402@N03/55115155469/",
+      "image": "https://live.staticflickr.com/65535/55115155469_5d52dfe6b6_b.jpg"
     },
     {
       "tag": "animals",
-      "title": "my lovely dog in swag",
-      "link": "https://www.flickr.com/photos/202649719@N08/55114936517/",
-      "image": "https://live.staticflickr.com/65535/55114936517_142e577886_b.jpg"
+      "title": "RACHEL BROSNAHAN",
+      "link": "https://www.flickr.com/photos/199012501@N04/55114979157/",
+      "image": "https://live.staticflickr.com/65535/55114979157_0642601bfd_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "DSC_3601",
-      "link": "https://www.flickr.com/photos/lakeworth/55116089024/",
-      "image": "https://live.staticflickr.com/65535/55116089024_b2d21f1ba9_b.jpg"
+      "title": "Hello Darkness My Old Friend..",
+      "link": "https://www.flickr.com/photos/100121190@N06/55116078529/",
+      "image": "https://live.staticflickr.com/65535/55116078529_a68fe65ecf_b.jpg"
     }
   ]
 }
