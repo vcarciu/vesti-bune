@@ -1,11 +1,9 @@
 # config/sources.yml
 
 filters:
-  # dacă RO e puțin, intră automat “relaxed” (dar tot fără politică/scandal)
-  ro_min_items: 14
+  ro_min_items: 16
   ro_try_relaxed: true
 
-  # praguri minime pe scor (global). 1 = destul de permisiv dar încă “pozitiv”
   thresholds:
     romania: 0
     medical: 1
@@ -15,7 +13,7 @@ filters:
 sections:
   - id: romania
     title: Romania
-    max_items: 35
+    max_items: 40
 
   - id: medical
     title: Medical
@@ -31,74 +29,49 @@ sections:
 
 rss_sources:
   romania:
-    # RO “general” (rămâne, dar filtrăm agresiv politicul/alarmismul)
     - name: Digi24
       url: https://www.digi24.ro/rss
 
-    # RO (economic) – uneori util, dar tot trece prin hard-block + “pozitiv/constructiv”
+    - name: HotNews
+      url: https://hotnews.ro/feed/
+
     - name: Bursa - Titlurile zilei
       url: https://www.bursa.ro/titluri-bursa.xml
 
-    # Feel-good (EN) dar le băgăm în RO ca să ai “povești cu happy end / animale / funny”
-    # Feed URL-urile sunt de la pagina oficială GNN RSS Feeds. :contentReference[oaicite:0]{index=0}
-    - name: GNN - Animals
-      url: https://www.goodnewsnetwork.org/category/news/animals/feed/
-      lang: en
-
-    - name: GNN - Inspiring
-      url: https://www.goodnewsnetwork.org/category/news/inspiring/feed/
-      lang: en
-
-    - name: GNN - Laughs
-      url: https://www.goodnewsnetwork.org/category/news/laughs/feed/
-      lang: en
-
-    # Sunny Skyz (feel-good / love / kindness) – RSS via feedburner. :contentReference[oaicite:1]{index=1}
-    - name: Sunny Skyz
-      url: https://feeds.feedburner.com/SunnySkyz
-      lang: en
-
-    # Upworthy (uplifting) – RSS direct. :contentReference[oaicite:2]{index=2}
-    - name: Upworthy
-      url: https://www.upworthy.com/feeds/feed.rss
-      lang: en
+    # StiriPozitive (WordPress -> /feed/ + categorii)
+    - name: StiriPozitive - Toate
+      url: https://stiripozitive.com/feed/
+    - name: StiriPozitive - Povesti de viata
+      url: https://stiripozitive.com/category/povesti-de-viata/feed/
+    - name: StiriPozitive - Ecologie
+      url: https://stiripozitive.com/category/ecologie/feed/
+    - name: StiriPozitive - Sport
+      url: https://stiripozitive.com/category/sport/feed/
+    - name: StiriPozitive - Cultura
+      url: https://stiripozitive.com/category/cultura/feed/
 
   medical:
-    # GNN health (pozitiv, medical). :contentReference[oaicite:3]{index=3}
-    - name: GNN - Health
-      url: https://www.goodnewsnetwork.org/category/news/health/feed/
-      lang: en
-
-    # Optimist Daily (solutions-focused) – feed general. :contentReference[oaicite:4]{index=4}
-    - name: The Optimist Daily
-      url: https://www.optimistdaily.com/feed
-      lang: en
+    - name: ScienceDaily Health
+      url: https://www.sciencedaily.com/rss/top/health.xml
+    - name: ScienceDaily Medicine
+      url: https://www.sciencedaily.com/rss/health_medicine.xml
+    - name: Positive News
+      url: https://www.positive.news/feed/
 
   science:
-    # GNN science. :contentReference[oaicite:5]{index=5}
-    - name: GNN - Science
-      url: https://www.goodnewsnetwork.org/category/news/science/feed
-      lang: en
-
-    - name: The Optimist Daily
-      url: https://www.optimistdaily.com/feed
-      lang: en
-
-    # Positive News (good journalism about good things) – feed oficial. :contentReference[oaicite:6]{index=6}
+    - name: NASA Breaking News
+      url: https://www.nasa.gov/rss/dyn/breaking_news.rss
+    - name: ScienceDaily Science
+      url: https://www.sciencedaily.com/rss/top/science.xml
     - name: Positive News
       url: https://www.positive.news/feed/
-      lang: en
 
   environment:
-    # GNN “Good Earth” (environment). :contentReference[oaicite:7]{index=7}
-    - name: GNN - Good Earth
-      url: https://www.goodnewsnetwork.org/category/news/good-earth/feed/
-      lang: en
-
-    - name: The Optimist Daily
-      url: https://www.optimistdaily.com/feed
-      lang: en
-
+    - name: ScienceDaily Environment
+      url: https://www.sciencedaily.com/rss/top/environment.xml
+    - name: NASA Earth Observatory - Image of the Day
+      url: https://earthobservatory.nasa.gov/feeds/image-of-the-day.rss
+    - name: NASA Earth Observatory - Natural Hazards
+      url: https://earthobservatory.nasa.gov/feeds/natural-hazards.rss
     - name: Positive News
       url: https://www.positive.news/feed/
-      lang: en
