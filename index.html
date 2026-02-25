@@ -25,9 +25,12 @@
 body{
   margin:0;
   font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial;
-  background:var(--bg);
+  background: radial-gradient(1200px 600px at 20% 0%, rgba(90,60,255,.18), transparent 60%),
+              radial-gradient(900px 500px at 90% 15%, rgba(0,255,200,.10), transparent 55%),
+              var(--bg);
   color:var(--text);
 }
+a{color:inherit}
 .wrap{max-width:var(--max);margin:0 auto;padding:20px}
 
 /* HEADER */
@@ -35,53 +38,67 @@ header{
   display:flex;
   justify-content:space-between;
   align-items:flex-end;
-  margin-bottom:20px;
+  gap:14px;
+  margin-bottom:18px;
 }
 h1{margin:0;font-size:26px}
 .sub{color:var(--muted);font-size:14px}
+.metaTop{color:var(--muted2);font-size:12px}
+.metaTop a{color:var(--link)}
 
 /* TOP 3 CARDS */
 .grid3{
   display:grid;
-  grid-template-columns:repeat(3,1fr);
+  grid-template-columns:repeat(3, minmax(0, 1fr));
   gap:14px;
   margin-bottom:18px;
 }
 .card{
-  background:var(--panel);
+  background:linear-gradient(180deg, rgba(255,255,255,.04), rgba(255,255,255,.02));
   border:1px solid var(--border);
   border-radius:var(--r);
   overflow:hidden;
   box-shadow:var(--shadow);
   display:flex;
   flex-direction:column;
+  min-height:280px;
 }
 .photo{
   height:190px;
   overflow:hidden;
+  background:#111;
+  flex:0 0 auto;
 }
 .photo img{
   width:100%;
   height:100%;
   object-fit:cover;
   display:block;
-}
-.tag{
-  position:absolute;
+  filter:saturate(1.05) contrast(1.05);
 }
 .body{
   padding:12px;
-  min-height:80px;
+  min-height:88px;
 }
 .title{
   margin:0;
-  font-weight:700;
+  font-weight:800;
   font-size:14px;
+  line-height:1.25;
+  display:-webkit-box;
+  -webkit-line-clamp:2;
+  -webkit-box-orient:vertical;
+  overflow:hidden;
 }
 .small{
-  margin:4px 0 0;
+  margin:6px 0 0;
   font-size:12px;
   color:var(--muted);
+  line-height:1.25;
+  display:-webkit-box;
+  -webkit-line-clamp:2;
+  -webkit-box-orient:vertical;
+  overflow:hidden;
 }
 
 /* JOKE + SATIRE */
@@ -89,25 +106,33 @@ h1{margin:0;font-size:26px}
   display:grid;
   grid-template-columns:1fr 1fr;
   gap:14px;
-  margin-bottom:20px;
+  margin-bottom:18px;
 }
 .mini{
-  background:var(--panel);
+  background:linear-gradient(180deg, rgba(255,255,255,.04), rgba(255,255,255,.02));
   border:1px solid var(--border);
   border-radius:var(--r);
   padding:14px;
   box-shadow:var(--shadow);
+  min-height:150px;
+  display:flex;
+  flex-direction:column;
 }
 .mini h2{margin:0 0 10px;font-size:15px}
-.mini p{margin:0}
+.mini p{margin:0; color:var(--text); line-height:1.5}
+.mini .foot{margin-top:auto;color:var(--muted2);font-size:12px}
+.mini .foot a{color:var(--link)}
 
 /* CONTROLS */
 .controls{
   display:flex;
   justify-content:space-between;
   align-items:center;
+  gap:12px;
+  flex-wrap:wrap;
   margin-bottom:14px;
 }
+.btns{display:flex;gap:8px;flex-wrap:wrap}
 button{
   border:1px solid var(--border);
   background:var(--btn);
@@ -116,57 +141,117 @@ button{
   border-radius:999px;
   cursor:pointer;
 }
+button:hover{background:var(--btn2)}
 button.active{
-  background:var(--btn2);
-  border-color:#9fd3ff;
+  background:rgba(159,211,255,.12);
+  border-color:rgba(159,211,255,.60);
+  box-shadow:0 0 0 4px rgba(159,211,255,.10);
+}
+.status{color:var(--muted);font-size:12px}
+.status code{
+  color:var(--text);
+  background: rgba(255,255,255,.06);
+  border:1px solid var(--border);
+  padding:3px 6px;
+  border-radius:8px;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-size:11px;
 }
 
 /* NEWS */
 .section{
-  background:var(--panel);
+  background:linear-gradient(180deg, rgba(255,255,255,.03), rgba(255,255,255,.015));
   border:1px solid var(--border);
   border-radius:var(--r);
   margin-bottom:14px;
   box-shadow:var(--shadow);
+  overflow:hidden;
 }
 .sectionhead{
-  padding:12px;
+  padding:12px 14px;
   border-bottom:1px solid var(--border);
-  font-weight:700;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  gap:12px;
+  flex-wrap:wrap;
+  font-weight:800;
+}
+.badge{
+  font-size:11px;
+  color:var(--muted);
+  border:1px solid var(--border);
+  background:rgba(255,255,255,.04);
+  padding:4px 8px;
+  border-radius:999px;
 }
 .item{
   display:grid;
   grid-template-columns:160px 1fr;
   gap:12px;
-  padding:12px;
-  border-top:1px solid var(--border);
+  padding:12px 14px;
+  border-top:1px solid rgba(255,255,255,.08);
 }
+.item:first-child{border-top:0}
 .thumb{
   height:100px;
   overflow:hidden;
   border-radius:12px;
+  background:#0f0f16;
+  border:1px solid rgba(255,255,255,.10);
 }
 .thumb img{
   width:100%;
   height:100%;
   object-fit:cover;
+  display:block;
 }
 .meta .t{
   margin:0;
-  font-weight:700;
+  font-weight:900;
+  line-height:1.25;
 }
+.meta .t a{text-decoration:none}
+.meta .t a:hover{text-decoration:underline}
 .meta .s{
-  margin:4px 0;
+  margin:6px 0;
   font-size:13px;
   color:var(--muted);
+  line-height:1.5;
+  display:-webkit-box;
+  -webkit-line-clamp:4;
+  -webkit-box-orient:vertical;
+  overflow:hidden;
 }
 .meta .row{
   font-size:12px;
   color:var(--muted2);
+  display:flex;
+  gap:10px;
+  flex-wrap:wrap;
+  align-items:center;
+}
+.k{
+  padding:3px 8px;
+  border-radius:999px;
+  border:1px solid rgba(255,255,255,.10);
+  background:rgba(255,255,255,.04);
+  font-weight:900;
+  font-size:11px;
+  letter-spacing:.6px;
+  text-transform:uppercase;
+  color:var(--muted);
+}
+.k.ro{border-color:rgba(159,211,255,.35); background:rgba(159,211,255,.08)}
+.k.en{border-color:rgba(255,204,102,.35); background:rgba(255,204,102,.10)}
+.empty{
+  padding:14px;
+  color:var(--muted);
+  font-size:13px;
 }
 
-/* MOBILE */
 @media(max-width:900px){
+  header{flex-direction:column;align-items:flex-start}
   .grid3{grid-template-columns:1fr}
   .grid2{grid-template-columns:1fr}
   .item{grid-template-columns:1fr}
@@ -183,37 +268,44 @@ button.active{
     <h1>Vești bune</h1>
     <div class="sub">România (RO) + Global (EN)</div>
   </div>
+  <div class="metaTop">
+    Data: <a href="./data/news.json" target="_blank" rel="noopener">news.json</a>
+    • Ultima actualizare: <code id="generatedUtc">—</code>
+  </div>
 </header>
 
-<!-- TOP -->
+<!-- TOP 3 (relevante, nu random) -->
 <div class="grid3">
   <div class="card">
     <div class="photo">
-      <img src="https://picsum.photos/seed/vbspace/1200/800"/>
+      <img referrerpolicy="no-referrer" loading="lazy" alt="Space"
+           src="https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1400&q=70"/>
     </div>
     <div class="body">
       <p class="title">Space</p>
-      <p class="small">Astronomie și cosmos</p>
+      <p class="small">Astronomie și cosmos.</p>
     </div>
   </div>
 
   <div class="card">
     <div class="photo">
-      <img src="https://picsum.photos/seed/vbanimals/1200/800"/>
+      <img referrerpolicy="no-referrer" loading="lazy" alt="Animals"
+           src="https://images.unsplash.com/photo-1456926631375-92c8ce872def?auto=format&fit=crop&w=1400&q=70"/>
     </div>
     <div class="body">
       <p class="title">Animals</p>
-      <p class="small">Doar vibe bun 🐾</p>
+      <p class="small">Doar vibe bun. 🐾</p>
     </div>
   </div>
 
   <div class="card">
     <div class="photo">
-      <img src="https://picsum.photos/seed/vblandscape/1200/800"/>
+      <img referrerpolicy="no-referrer" loading="lazy" alt="Landscape"
+           src="https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1400&q=70"/>
     </div>
     <div class="body">
       <p class="title">Landscape</p>
-      <p class="small">Natură și reset mental</p>
+      <p class="small">Natură și reset mental.</p>
     </div>
   </div>
 </div>
@@ -223,21 +315,23 @@ button.active{
   <div class="mini">
     <h2>Gluma zilei</h2>
     <p id="jokeText">Se încarcă…</p>
+    <div class="foot">Sursă: <a id="jokeSrc" href="#" target="_blank" rel="noopener">link</a></div>
   </div>
   <div class="mini">
     <h2>Satira zilei</h2>
     <p id="satireText">Se încarcă…</p>
+    <div class="foot">Sursă: <a id="satireSrc" href="#" target="_blank" rel="noopener">link</a></div>
   </div>
 </div>
 
 <!-- CONTROLS -->
 <div class="controls">
-  <div>
+  <div class="btns">
     <button id="btnMix" class="active">Mix</button>
     <button id="btnRO">RO</button>
     <button id="btnEN">EN</button>
   </div>
-  <div id="statusText">Se încarcă știrile…</div>
+  <div class="status" id="statusText">Se încarcă știrile…</div>
 </div>
 
 <div id="sections"></div>
@@ -245,69 +339,201 @@ button.active{
 </div>
 
 <script>
-// Simplified stable logic
-
-const jokes=[
-"QA-ul nu merge la petreceri. Găsește bug-uri în atmosferă.",
-"Dacă totul pare ok, n-ai testat suficient.",
-"Am reparat bug-ul. Am găsit încă 5."
+/* ===== Banc + Satiră ===== */
+const jokes = [
+  { t:"— De ce QA-ul nu merge la petreceri? — Pentru că mereu găsește bug-uri în atmosferă.", u:"https://en.wikipedia.org/wiki/Software_testing" },
+  { t:"Dacă totul pare ok… înseamnă că n-ai testat suficient.", u:"https://en.wikipedia.org/wiki/Quality_assurance" },
+  { t:"Veste bună: am reparat bug-ul. Veste și mai bună: am găsit încă 5!", u:"https://en.wikipedia.org/wiki/Debugging" },
 ];
-const satire=[
-"România intră în topul optimismului după dezinstalarea notificărilor.",
-"Nouă metodă de productivitate: închizi 3 tab-uri.",
-"9 din 10 oameni preferă veștile bune."
+const satire = [
+  { t:"Breaking: România intră în topul optimismului după dezinstalarea notificărilor.", u:"https://en.wikipedia.org/wiki/Satire" },
+  { t:"Nouă metodă de productivitate: închizi 3 tab-uri și te simți ca și cum ai terminat proiectul.", u:"https://en.wikipedia.org/wiki/Procrastination" },
+  { t:"9 din 10 oameni preferă veștile bune. Al 10-lea preferă să se plângă că sunt prea puține.", u:"https://en.wikipedia.org/wiki/Negativity_bias" },
 ];
-
-function daily(arr){
-  const d=new Date();
-  return arr[d.getDate()%arr.length];
+function pickDaily(arr){
+  const d = new Date();
+  const key = Number(`${d.getFullYear()}${String(d.getMonth()+1).padStart(2,'0')}${String(d.getDate()).padStart(2,'0')}`);
+  return arr[key % arr.length];
 }
-document.getElementById("jokeText").innerText=daily(jokes);
-document.getElementById("satireText").innerText=daily(satire);
+const j = pickDaily(jokes);
+document.getElementById("jokeText").textContent = j.t;
+document.getElementById("jokeSrc").href = j.u;
+const s = pickDaily(satire);
+document.getElementById("satireText").textContent = s.t;
+document.getElementById("satireSrc").href = s.u;
 
-let mode="mix";
-const sectionsEl=document.getElementById("sections");
+/* ===== News UI ===== */
+const SECTIONS_ORDER = ["romania","medical","science","environment"];
+const SECTIONS_LABELS = {
+  romania: "🇷🇴 România",
+  medical: "🩺 Medical",
+  science: "🔬 Știință",
+  environment: "🌱 Mediu",
+};
 
-function render(data){
-  sectionsEl.innerHTML="";
-  Object.keys(data).forEach(sec=>{
-    const box=document.createElement("div");
-    box.className="section";
-    box.innerHTML=`<div class="sectionhead">${sec.toUpperCase()}</div>`;
-    data[sec].forEach(it=>{
-      const img=it.image||`https://picsum.photos/seed/${btoa(it.title).slice(0,8)}/900/600`;
-      const row=document.createElement("div");
-      row.className="item";
-      row.innerHTML=`
-        <div class="thumb"><img src="${img}"/></div>
-        <div class="meta">
-          <p class="t"><a target="_blank" href="${it.link}">${it.title}</a></p>
-          <p class="s">${it.summary||""}</p>
-          <div class="row">${it.source||""}</div>
-        </div>`;
-      box.appendChild(row);
-    });
-    sectionsEl.appendChild(box);
-  });
+function esc(s){
+  return (s ?? "").replace(/[&<>"']/g, m => ({
+    "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"
+  }[m]));
 }
+function hostOf(url){
+  try { return new URL(url).hostname.replace(/^www\./,''); } catch { return ""; }
+}
+function isRO(it){ return (it.kind === "ro") || (it.section === "romania"); }
+function isEN(it){ return !isRO(it); }
+
+function seedForItem(it){
+  const base = (it.link || it.title || "x").toString();
+  let h = 0;
+  for (let i = 0; i < base.length; i++) h = (h * 31 + base.charCodeAt(i)) >>> 0;
+  return "vb-" + h.toString(16);
+}
+function pickImage(it){
+  if (it.image && typeof it.image === "string" && it.image.startsWith("http")) return it.image;
+  const seed = seedForItem(it);
+  return `https://picsum.photos/seed/${seed}/900/600`;
+}
+
+let mode = "mix";
+let rawSections = {};
+
+function normalize(raw){
+  const secs = raw.sections || {};
+  const out = {};
+  for (const [k, arr] of Object.entries(secs)){
+    out[k] = (arr || []).map(x => ({
+      section: x.section || k,
+      kind: x.kind || (k === "romania" ? "ro" : "global"),
+      source: x.source || hostOf(x.link),
+      title: x.title || "",
+      summary: x.summary || "",
+      link: x.link || "#",
+      published_utc: x.published_utc || "",
+      image: x.image || null,
+    }));
+  }
+  // asigură secțiunile principale chiar dacă lipsesc din JSON
+  for (const k of SECTIONS_ORDER){
+    if (!out[k]) out[k] = [];
+  }
+  return out;
+}
+
+function buildMix(sections){
+  // Mix real: unește tot, sortează, apoi împarte înapoi pe secțiuni
+  const all = [];
+  for (const [k, arr] of Object.entries(sections)){
+    for (const it of arr) all.push(it);
+  }
+  all.sort((a,b)=> (b.published_utc||"").localeCompare(a.published_utc||""));
+  const by = {};
+  for (const it of all){
+    const k = it.section || (isRO(it) ? "romania" : "science");
+    (by[k] ||= []).push(it);
+  }
+  for (const k of SECTIONS_ORDER){
+    if (!by[k]) by[k] = [];
+  }
+  return by;
+}
+
+function applyMode(){
+  const base = (mode === "mix") ? buildMix(rawSections) : rawSections;
+  const filtered = {};
+  for (const k of SECTIONS_ORDER){
+    const arr = base[k] || [];
+    let a = arr;
+    if (mode === "ro") a = arr.filter(isRO);
+    if (mode === "en") a = arr.filter(isEN);
+    filtered[k] = a;
+  }
+  render(filtered);
+}
+
+function render(sections){
+  const root = document.getElementById("sections");
+  root.innerHTML = "";
+
+  let total = 0;
+
+  for (const k of SECTIONS_ORDER){
+    const arr = sections[k] || [];
+    total += arr.length;
+
+    const box = document.createElement("div");
+    box.className = "section";
+    box.innerHTML = `
+      <div class="sectionhead">
+        <div>${esc(SECTIONS_LABELS[k] || k)}</div>
+        <div class="badge">${arr.length} articole</div>
+      </div>
+      <div class="items"></div>
+    `;
+    const itemsEl = box.querySelector(".items");
+
+    if (!arr.length){
+      const empty = document.createElement("div");
+      empty.className = "empty";
+      empty.textContent = "0 articole (generatorul nu a populat această secțiune).";
+      itemsEl.appendChild(empty);
+    } else {
+      for (const it of arr){
+        const kindText = isRO(it) ? "RO" : "EN";
+        const kindClass = isRO(it) ? "ro" : "en";
+        const img = pickImage(it);
+
+        const row = document.createElement("div");
+        row.className = "item";
+        row.innerHTML = `
+          <div class="thumb">
+            <img loading="lazy" referrerpolicy="no-referrer" alt="" src="${esc(img)}"/>
+          </div>
+          <div class="meta">
+            <p class="t"><a target="_blank" rel="noopener" href="${esc(it.link)}">${esc(it.title)}</a></p>
+            <p class="s">${esc(it.summary)}</p>
+            <div class="row">
+              <span class="k ${kindClass}">${kindText}</span>
+              <span>${esc(it.source || hostOf(it.link))}</span>
+            </div>
+          </div>
+        `;
+        itemsEl.appendChild(row);
+      }
+    }
+
+    root.appendChild(box);
+  }
+
+  document.getElementById("statusText").textContent =
+    `Afișez: ${total} articole • Filtru: ${mode.toUpperCase()}`;
+}
+
+function setMode(m){
+  mode = m;
+  document.getElementById("btnMix").classList.toggle("active", mode==="mix");
+  document.getElementById("btnRO").classList.toggle("active", mode==="ro");
+  document.getElementById("btnEN").classList.toggle("active", mode==="en");
+  applyMode();
+}
+
+document.getElementById("btnMix").onclick = () => setMode("mix");
+document.getElementById("btnRO").onclick  = () => setMode("ro");
+document.getElementById("btnEN").onclick  = () => setMode("en");
 
 async function load(){
-  const res=await fetch("./data/news.json?"+Date.now());
-  const raw=await res.json();
-  const all=raw.sections||{};
-  let out={};
-  if(mode==="mix") out=all;
-  if(mode==="ro") Object.keys(all).forEach(k=>out[k]=all[k].filter(i=>i.kind==="ro"));
-  if(mode==="en") Object.keys(all).forEach(k=>out[k]=all[k].filter(i=>i.kind!=="ro"));
-  render(out);
-  document.getElementById("statusText").innerText="Actualizat";
+  try{
+    const res = await fetch("./data/news.json?t=" + Date.now(), { cache: "no-store" });
+    const raw = await res.json();
+    document.getElementById("generatedUtc").textContent = raw.generated_utc || "—";
+    rawSections = normalize(raw);
+    setMode("mix");
+  }catch(e){
+    document.getElementById("statusText").textContent = "Eroare: nu pot încărca data/news.json";
+    console.error(e);
+  }
 }
-
-document.getElementById("btnMix").onclick=()=>{mode="mix";load()};
-document.getElementById("btnRO").onclick=()=>{mode="ro";load()};
-document.getElementById("btnEN").onclick=()=>{mode="en";load()};
-
 load();
 </script>
+
 </body>
 </html>
