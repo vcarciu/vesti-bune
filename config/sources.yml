@@ -31,14 +31,12 @@ rss_sources:
   romania:
     - name: Digi24
       url: https://www.digi24.ro/rss
-
     - name: HotNews
       url: https://hotnews.ro/feed/
-
     - name: Bursa - Titlurile zilei
       url: https://www.bursa.ro/titluri-bursa.xml
 
-    # StiriPozitive (WordPress -> /feed/ + categorii)
+    # Știri pozitive RO (WordPress)
     - name: StiriPozitive - Toate
       url: https://stiripozitive.com/feed/
     - name: StiriPozitive - Povesti de viata
@@ -49,6 +47,10 @@ rss_sources:
       url: https://stiripozitive.com/category/sport/feed/
     - name: StiriPozitive - Cultura
       url: https://stiripozitive.com/category/cultura/feed/
+
+    # RomâniaPozitivă (dacă feed-ul e disponibil în runtime)
+    - name: RomaniaPozitiva
+      url: https://www.romaniapozitiva.ro/feed/
 
   medical:
     - name: ScienceDaily Health
