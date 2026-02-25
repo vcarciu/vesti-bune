@@ -1,7 +1,18 @@
 {
-  "generated_utc": "2026-02-25T10:39:37+00:00",
+  "generated_utc": "2026-02-25T11:32:57+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "O locuință din anii ‘80, abandonată de 20 de ani, a fost readusă la viață prin culoare, după o renovare care a durat aproape doi ani: „Primul pas a fost golirea completă și «ștergerea» acestui apartament uitat de lume”",
+        "summary": "Sunt apartamente care au nevoie doar de o schimbare de finisaje. Și sunt apartamente care au nevoie de o a doua șansă. Locuința de 95 metri pătrați de pe Șoseaua Pantelimon, într-un bloc din anii&#8230;",
+        "link": "https://hotnews.ro/o-locuinta-din-anii-80-abandonata-de-20-de-ani-a-fost-readusa-la-viata-prin-culoare-dupa-o-renovare-care-a-durat-aproape-doi-ani-primul-pas-a-fost-golirea-completa-si-sterg-2179059",
+        "published_utc": "2026-02-25T10:58:01+00:00",
+        "score": 1,
+        "image": "https://hotnews.ro/wp-content/uploads/2026/02/apartament-colorat-in-bloc-vechi-renovare-apartament-anii-80.webp"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -34,17 +45,6 @@
         "published_utc": "2026-02-25T09:23:29+00:00",
         "score": 1,
         "image": "https://hotnews.ro/wp-content/uploads/2024/04/image-2023-12-15-26758215-41-muncitori-straini-romania-2.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Record pe calea ferată, tronson modernizat în 2 ani. Pro Infrastructură: Dovadă că poate performa dacă se aprinde focul PNRR sub scaun",
-        "summary": "România a înregistrat un record în lucrări pe calea ferată: modernizarea tronsonului Aghireșu-Poieni în doar 2 ani, anunță asociaţia Pro Infrastructură.",
-        "link": "https://www.digi24.ro/stiri/economie/transporturi/record-pe-calea-ferata-tronson-modernizat-in-2-ani-pro-infrastructura-dovada-ca-poate-performa-daca-se-aprinde-focul-pnrr-sub-scaun-3646873",
-        "published_utc": "2026-02-24T22:12:01+00:00",
-        "score": 1,
-        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjMl/MkYwNyUyRjI0JTJGMTc3MDA5MF8xNzcw/MDkwX3RyZW4tY2ZyLWNhbGUtZmVyYXRh/LmpwZyZoYXNoPTRmN2NmZTU1OGZjMjNiMmJjMjUyYzAyMjc2N2I1NzE1.jpg"
       }
     ],
     "medical": [
@@ -344,15 +344,15 @@
   "top_images": [
     {
       "tag": "space",
-      "title": "Misha Brown, CF, 2/21/26",
-      "link": "https://www.flickr.com/photos/slclevents/55113964337/",
-      "image": "https://live.staticflickr.com/65535/55113964337_788c1e6873_b.jpg"
+      "title": "Concrete Courtyard, Benesse House | Naoshima",
+      "link": "https://www.flickr.com/photos/rudymareelphotography/55115046988/",
+      "image": "https://live.staticflickr.com/65535/55115046988_4521228a78_b.jpg"
     },
     {
       "tag": "animals",
-      "title": "2026-02-15_13-23-59OnePlusNo_IMG20260215132359_Kiri",
-      "link": "https://www.flickr.com/photos/miguel_discart_vrac_3/55114182497/",
-      "image": "https://live.staticflickr.com/65535/55114182497_195b388581_b.jpg"
+      "title": "Spring of '25",
+      "link": "https://www.flickr.com/photos/30559989@N03/55115579830/",
+      "image": "https://live.staticflickr.com/65535/55115579830_2096cd7802_b.jpg"
     },
     {
       "tag": "landscape",
