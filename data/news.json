@@ -1,7 +1,18 @@
 {
-  "generated_utc": "2026-02-25T11:32:57+00:00",
+  "generated_utc": "2026-02-25T12:37:34+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "FNGCIMM: Firmele care au luat finanțare IMM INVEST și IMM INVEST PLUS își pot prelungi și refinanța soldul creditelor",
+        "summary": "Fondul Național de Garantare a Creditelor pentru Întreprinderile Mici și Mijlocii (FNGCIMM) a anunțat, miercuri, într-un comunicat transmis comunității antreprenoriale StartupCafe, că lansează refinanțarea vechilor programe IMM INVEST și IMM INVEST PLUS, prin „soluții optime&#8230;",
+        "link": "https://hotnews.ro/fngcimm-firmele-care-au-luat-finantare-imm-invest-si-imm-invest-plus-isi-pot-prelungi-si-refinanta-soldul-creditelor-2179128",
+        "published_utc": "2026-02-25T12:14:21+00:00",
+        "score": 1,
+        "image": "https://hotnews.ro/wp-content/uploads/2026/02/bani_5ff315.jpg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -34,17 +45,6 @@
         "published_utc": "2026-02-25T09:43:32+00:00",
         "score": 1,
         "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMiUyRjI1JTJGMjYwNjIyNV8yNjA2/MjI1X0ZyaWVkcmljaC1NZXJ6LUxpLVFp/YW5nLmpwZyZoYXNoPWE0YmUwNmZkZGJhMjkzYWIzOWYzYmZmZDQ0MDU0Yjk3.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "Câți bani trimit imigranții din România familiilor lor",
-        "summary": "Sunt circa 150.000 de angajați din afara UE care lucrează în România, potrivit autorităților. Cei mai mulți provin din Nepal, Sri Lanka, Turcia și India, iar prezența lor este concentrată în sectoarele unde piața locală&#8230;",
-        "link": "https://hotnews.ro/cati-bani-trimit-imigrantii-din-romania-familiilor-lor-2178949",
-        "published_utc": "2026-02-25T09:23:29+00:00",
-        "score": 1,
-        "image": "https://hotnews.ro/wp-content/uploads/2024/04/image-2023-12-15-26758215-41-muncitori-straini-romania-2.jpg"
       }
     ],
     "medical": [
@@ -344,21 +344,21 @@
   "top_images": [
     {
       "tag": "space",
-      "title": "Concrete Courtyard, Benesse House | Naoshima",
-      "link": "https://www.flickr.com/photos/rudymareelphotography/55115046988/",
-      "image": "https://live.staticflickr.com/65535/55115046988_4521228a78_b.jpg"
+      "title": "Misha Brown, CF, 2/21/26",
+      "link": "https://www.flickr.com/photos/slclevents/55113964997/",
+      "image": "https://live.staticflickr.com/65535/55113964997_3ed9193986_b.jpg"
     },
     {
       "tag": "animals",
-      "title": "Spring of '25",
-      "link": "https://www.flickr.com/photos/30559989@N03/55115579830/",
-      "image": "https://live.staticflickr.com/65535/55115579830_2096cd7802_b.jpg"
+      "title": "Setonix brachyurus",
+      "link": "https://www.flickr.com/photos/191343261@N02/55115567868/",
+      "image": "https://live.staticflickr.com/65535/55115567868_640db7017c_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "System of Linear Paths",
-      "link": "https://www.flickr.com/photos/204277866@N06/55115209451/",
-      "image": "https://live.staticflickr.com/65535/55115209451_a8dbcc23c7_b.jpg"
+      "title": "LimestoneWalls",
+      "link": "https://www.flickr.com/photos/tonytooth/55114496282/",
+      "image": "https://live.staticflickr.com/65535/55114496282_6e5d880309_b.jpg"
     }
   ]
 }
