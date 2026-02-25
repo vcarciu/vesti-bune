@@ -1,76 +1,104 @@
 # config/sources.yml
 
-sections:
-  - id: romania
-    title: " România"
-    max_items: 35
-
-  - id: medical
-    title: " Medical"
-    max_items: 15
-
-  - id: science
-    title: " Știință"
-    max_items: 15
-
-  - id: environment
-    title: " Mediu"
-    max_items: 15
-
-
-rss_sources:
-  romania:
-    - name: "HotNews"
-      url: "https://hotnews.ro/feed/"
-    - name: "Digi24"
-      url: "https://www.digi24.ro/rss"
-
-  medical:
-    - name: "Mayo Clinic"
-      url: "https://www.mayoclinic.org/rss/all-health-information-topics"
-    - name: "ScienceDaily Health"
-      url: "https://www.sciencedaily.com/rss/top/health.xml"
-    - name: "ScienceDaily Medicine"
-      url: "https://www.sciencedaily.com/rss/health_medicine.xml"
-
-  science:
-    - name: "NASA Breaking News"
-      url: "https://www.nasa.gov/rss/dyn/breaking_news.rss"
-    - name: "ESA"
-      url: "https://www.esa.int/rssfeed/Our_Activities/Space_Science"
-    - name: "ScienceDaily Science"
-      url: "https://www.sciencedaily.com/rss/top/science.xml"
-
-  environment:
-    # foarte stabil + ușor de “pozitivizat” ulterior
-    - name: "ScienceDaily Environment"
-      url: "https://www.sciencedaily.com/rss/top/environment.xml"
-
-    # NASA Earth Observatory (RSS direct)
-    - name: "NASA Earth Observatory - Image of the Day"
-      url: "https://earthobservatory.nasa.gov/feeds/image-of-the-day.rss"
-    - name: "NASA Earth Observatory - Natural Hazards"
-      url: "https://earthobservatory.nasa.gov/feeds/natural-hazards.rss"
-
-
 filters:
+  # dacă RO e puțin, intră automat “relaxed” (dar tot fără politică/scandal)
+  ro_min_items: 14
+  ro_try_relaxed: true
+
+  # praguri minime pe scor (global). 1 = destul de permisiv dar încă “pozitiv”
   thresholds:
-    romania: 1
+    romania: 0
     medical: 1
     science: 1
     environment: 1
 
+sections:
+  - id: romania
+    title: Romania
+    max_items: 35
 
-photo_sources:
-  space:
-    - name: "Flickr (space)"
-      url: "https://www.flickr.com/services/feeds/photos_public.gne?tags=space,nebula,galaxy&tagmode=any&format=rss2"
-  animals:
-    - name: "Flickr (animals)"
-      url: "https://www.flickr.com/services/feeds/photos_public.gne?tags=animals,dog,cat,wildlife&tagmode=any&format=rss2"
-  landscapes:
-    - name: "Flickr (landscape)"
-      url: "https://www.flickr.com/services/feeds/photos_public.gne?tags=landscape,mountains,lake,sunset&tagmode=any&format=rss2"
+  - id: medical
+    title: Medical
+    max_items: 25
 
-satire:
-  enabled: true
+  - id: science
+    title: Stiinta
+    max_items: 25
+
+  - id: environment
+    title: Mediu
+    max_items: 25
+
+rss_sources:
+  romania:
+    # RO “general” (rămâne, dar filtrăm agresiv politicul/alarmismul)
+    - name: Digi24
+      url: https://www.digi24.ro/rss
+
+    # RO (economic) – uneori util, dar tot trece prin hard-block + “pozitiv/constructiv”
+    - name: Bursa - Titlurile zilei
+      url: https://www.bursa.ro/titluri-bursa.xml
+
+    # Feel-good (EN) dar le băgăm în RO ca să ai “povești cu happy end / animale / funny”
+    # Feed URL-urile sunt de la pagina oficială GNN RSS Feeds. :contentReference[oaicite:0]{index=0}
+    - name: GNN - Animals
+      url: https://www.goodnewsnetwork.org/category/news/animals/feed/
+      lang: en
+
+    - name: GNN - Inspiring
+      url: https://www.goodnewsnetwork.org/category/news/inspiring/feed/
+      lang: en
+
+    - name: GNN - Laughs
+      url: https://www.goodnewsnetwork.org/category/news/laughs/feed/
+      lang: en
+
+    # Sunny Skyz (feel-good / love / kindness) – RSS via feedburner. :contentReference[oaicite:1]{index=1}
+    - name: Sunny Skyz
+      url: https://feeds.feedburner.com/SunnySkyz
+      lang: en
+
+    # Upworthy (uplifting) – RSS direct. :contentReference[oaicite:2]{index=2}
+    - name: Upworthy
+      url: https://www.upworthy.com/feeds/feed.rss
+      lang: en
+
+  medical:
+    # GNN health (pozitiv, medical). :contentReference[oaicite:3]{index=3}
+    - name: GNN - Health
+      url: https://www.goodnewsnetwork.org/category/news/health/feed/
+      lang: en
+
+    # Optimist Daily (solutions-focused) – feed general. :contentReference[oaicite:4]{index=4}
+    - name: The Optimist Daily
+      url: https://www.optimistdaily.com/feed
+      lang: en
+
+  science:
+    # GNN science. :contentReference[oaicite:5]{index=5}
+    - name: GNN - Science
+      url: https://www.goodnewsnetwork.org/category/news/science/feed
+      lang: en
+
+    - name: The Optimist Daily
+      url: https://www.optimistdaily.com/feed
+      lang: en
+
+    # Positive News (good journalism about good things) – feed oficial. :contentReference[oaicite:6]{index=6}
+    - name: Positive News
+      url: https://www.positive.news/feed/
+      lang: en
+
+  environment:
+    # GNN “Good Earth” (environment). :contentReference[oaicite:7]{index=7}
+    - name: GNN - Good Earth
+      url: https://www.goodnewsnetwork.org/category/news/good-earth/feed/
+      lang: en
+
+    - name: The Optimist Daily
+      url: https://www.optimistdaily.com/feed
+      lang: en
+
+    - name: Positive News
+      url: https://www.positive.news/feed/
+      lang: en
