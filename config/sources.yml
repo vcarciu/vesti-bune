@@ -2,17 +2,21 @@
 
 sections:
   - id: romania
-    title: "🇷🇴 România"
+    title: " România"
     max_items: 35
+
   - id: medical
-    title: "🩺 Medical"
+    title: " Medical"
     max_items: 15
+
   - id: science
-    title: "🔬 Știință"
+    title: " Știință"
     max_items: 15
+
   - id: environment
-    title: "🌿 Mediu"
+    title: " Mediu"
     max_items: 15
+
 
 rss_sources:
   romania:
@@ -38,10 +42,16 @@ rss_sources:
       url: "https://www.sciencedaily.com/rss/top/science.xml"
 
   environment:
-    - name: "UN News - Climate"
-      url: "https://news.un.org/feed/subscribe/en/news/topic/climate-change/feed/rss.xml"
-    - name: "UN News - Environment"
-      url: "https://news.un.org/feed/subscribe/en/news/topic/environment/feed/rss.xml"
+    # foarte stabil + ușor de “pozitivizat” ulterior
+    - name: "ScienceDaily Environment"
+      url: "https://www.sciencedaily.com/rss/top/environment.xml"
+
+    # NASA Earth Observatory (RSS direct)
+    - name: "NASA Earth Observatory - Image of the Day"
+      url: "https://earthobservatory.nasa.gov/feeds/image-of-the-day.rss"
+    - name: "NASA Earth Observatory - Natural Hazards"
+      url: "https://earthobservatory.nasa.gov/feeds/natural-hazards.rss"
+
 
 filters:
   thresholds:
@@ -49,6 +59,7 @@ filters:
     medical: 1
     science: 1
     environment: 1
+
 
 photo_sources:
   space:
