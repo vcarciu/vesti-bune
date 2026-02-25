@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-02-25T14:02:15+00:00",
+  "generated_utc": "2026-02-25T14:23:20+00:00",
   "sections": {
     "romania": [
       {
@@ -34,17 +34,6 @@
         "published_utc": "2026-02-25T13:18:20+00:00",
         "score": 1,
         "image": "https://hotnews.ro/wp-content/uploads/2026/02/ID330681_INQUAM_Photos_Alex-Nicodim_.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "FNGCIMM: Firmele care au luat finanțare IMM INVEST și IMM INVEST PLUS își pot prelungi și refinanța soldul creditelor",
-        "summary": "Fondul Național de Garantare a Creditelor pentru Întreprinderile Mici și Mijlocii (FNGCIMM) a anunțat, miercuri, într-un comunicat transmis comunității antreprenoriale StartupCafe, că lansează refinanțarea vechilor programe IMM INVEST și IMM INVEST PLUS, prin „soluții optime&#8230;",
-        "link": "https://hotnews.ro/fngcimm-firmele-care-au-luat-finantare-imm-invest-si-imm-invest-plus-isi-pot-prelungi-si-refinanta-soldul-creditelor-2179128",
-        "published_utc": "2026-02-25T12:14:21+00:00",
-        "score": 1,
-        "image": "https://hotnews.ro/wp-content/uploads/2026/02/bani_5ff315.jpg"
       },
       {
         "section": "romania",
@@ -346,7 +335,79 @@
         "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/12/comet_3i_atlas_shows_activity_in_juice_navigation_camera_teaser/27008867-1-eng-GB/Comet_3I_ATLAS_shows_activity_in_Juice_navigation_camera_teaser_card_full.png"
       }
     ],
-    "environment": []
+    "environment": [
+      {
+        "section": "environment",
+        "kind": "global",
+        "source": "ScienceDaily Environment",
+        "title": "Microplastics have reached Antarctica’s only native insect",
+        "summary": "Even Antarctica’s toughest native insect can’t escape the reach of plastic pollution. Scientists have discovered that Belgica antarctica — a tiny, rice-sized midge and the southernmost insect on Earth — is already ingesting microplastics in the wild. While lab tests showed the hardy larvae can survive short-term exposure without obvious harm, those exposed to higher plastic levels had reduced fat reserves, hinting at hidden energy costs.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260212234214.htm",
+        "published_utc": "2026-02-16T12:48:45+00:00",
+        "score": 2
+      },
+      {
+        "section": "environment",
+        "kind": "global",
+        "source": "ScienceDaily Environment",
+        "title": "Scientists discover pets are helping an invasive flatworm spread",
+        "summary": "A new study shows that dogs and cats may be helping an invasive flatworm spread. Researchers analyzing over a decade of reports discovered the worm attached to pet fur. Its sticky mucus and ability to reproduce alone make it highly adaptable. Pets could be giving this slow-moving invader a major boost.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260210231550.htm",
+        "published_utc": "2026-02-14T14:34:47+00:00",
+        "score": 2
+      },
+      {
+        "section": "environment",
+        "kind": "global",
+        "source": "ScienceDaily Environment",
+        "title": "The worst coral bleaching event ever recorded damaged over 50% of reefs",
+        "summary": "Coral reefs, worth an estimated $9.8 trillion a year to humanity, are in far worse shape than previously realized. A massive international study found that during the 2014–2017 global marine heatwave, more than half of the world’s reefs suffered significant bleaching, and many experienced large-scale coral death.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260212025554.htm",
+        "published_utc": "2026-02-12T12:55:48+00:00",
+        "score": 2
+      },
+      {
+        "section": "environment",
+        "kind": "global",
+        "source": "ScienceDaily Environment",
+        "title": "Your cat’s purr says more than you think",
+        "summary": "Your cat’s purr may say more about who they are than their meow ever could. Scientists discovered that purrs are stable and uniquely identifiable, while meows change dramatically depending on context. Domestic cats, in particular, have evolved highly flexible meows as a way to communicate with humans. The purr, meanwhile, stays constant—making it a reliable marker of individual identity.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260210040619.htm",
+        "published_utc": "2026-02-11T08:56:29+00:00",
+        "score": 2
+      },
+      {
+        "section": "environment",
+        "kind": "global",
+        "source": "NASA Earth Observatory - Natural Hazards",
+        "title": "Summer Heat Hits Southeastern Australia",
+        "summary": "January brought blistering extremes Down Under as record temperatures scorched the nation’s southeast. The post Summer Heat Hits Southeastern Australia appeared first on NASA Science .",
+        "link": "https://science.nasa.gov/earth/earth-observatory/summer-heat-hits-southeastern-australia/",
+        "published_utc": "2026-02-11T05:00:00+00:00",
+        "score": 2,
+        "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/summer-heat-hits-southeastern-australia/austheat_gmao_20260129_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
+      },
+      {
+        "section": "environment",
+        "kind": "global",
+        "source": "ScienceDaily Environment",
+        "title": "Scientists were wrong for decades about DNA knots",
+        "summary": "Scientists have discovered that DNA behaves in a surprising way when squeezed through tiny nanopores, overturning a long-held assumption in genetics research. What researchers once thought were knots causing messy electrical signals turn out to be something else entirely: twisted coils called plectonemes, formed as flowing ions inside the pore spin the DNA like a phone cord. These twists can linger and grow as DNA moves through, leaving clear electrical fingerprints.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260208233844.htm",
+        "published_utc": "2026-02-09T12:03:56+00:00",
+        "score": 2
+      },
+      {
+        "section": "environment",
+        "kind": "global",
+        "source": "ScienceDaily Environment",
+        "title": "This weird deep-sea creature was named by thousands of people online",
+        "summary": "A newly discovered deep-sea creature has become an unlikely Internet star. After appearing in a popular YouTube video, a rare chiton found nearly three miles beneath the ocean surface sparked a global naming effort, drawing more than 8,000 suggestions from people around the world. Scientists ultimately chose the name Ferreiraella populi, meaning “of the people,” honoring the public that helped bring it into the scientific record.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260207232242.htm",
+        "published_utc": "2026-02-08T04:32:36+00:00",
+        "score": 4
+      }
+    ]
   },
   "joke_ro": {
     "date_utc": "2026-02-25",
@@ -355,21 +416,21 @@
   "top_images": [
     {
       "tag": "space",
-      "title": "Approaching the Light – Chichu Art Museum, Naoshima",
-      "link": "https://www.flickr.com/photos/rudymareelphotography/55115046998/",
-      "image": "https://live.staticflickr.com/65535/55115046998_ec05e68026_b.jpg"
+      "title": "Taipei skyline at dusk, Taiwan",
+      "link": "https://www.flickr.com/photos/197499620@N07/55115146396/",
+      "image": "https://live.staticflickr.com/65535/55115146396_6751866b30_b.jpg"
     },
     {
       "tag": "animals",
-      "title": "Moloch horridus",
-      "link": "https://www.flickr.com/photos/191343261@N02/55115454626/",
-      "image": "https://live.staticflickr.com/65535/55115454626_3460c12bfb_b.jpg"
+      "title": "Tiliqua rugosa",
+      "link": "https://www.flickr.com/photos/191343261@N02/55115714839/",
+      "image": "https://live.staticflickr.com/65535/55115714839_1783cfe9c2_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "Rio Balata village, at El Coson Beach, Las Terrenas, Dominican Republic, January 2026",
-      "link": "https://www.flickr.com/photos/lezumbalaberenjena/55114541552/",
-      "image": "https://live.staticflickr.com/65535/55114541552_5b6312275d_b.jpg"
+      "title": "La Mola i les Guilleries nevades des del Santuari de Foix",
+      "link": "https://www.flickr.com/photos/11299883@N08/55115696249/",
+      "image": "https://live.staticflickr.com/65535/55115696249_1d49280e16_b.jpg"
     }
   ]
 }
