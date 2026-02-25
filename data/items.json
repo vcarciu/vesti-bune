@@ -1,7 +1,18 @@
 {
-  "generated_utc": "2026-02-25T08:35:34+00:00",
+  "generated_utc": "2026-02-25T09:41:52+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Câți bani trimit imigranții din România familiilor lor",
+        "summary": "Sunt circa 15.000 de angajați din afara UE care lucrează în România, potrivit autorităților. Cei mai mulți provin din Nepal, Sri Lanka, Turcia și India, iar prezența lor este concentrată în sectoarele unde piața locală&#8230;",
+        "link": "https://hotnews.ro/cati-bani-trimit-imigrantii-din-romania-familiilor-lor-2178949",
+        "published_utc": "2026-02-25T09:23:29+00:00",
+        "score": 1,
+        "image": "https://hotnews.ro/wp-content/uploads/2024/04/image-2023-12-15-26758215-41-muncitori-straini-romania-2.jpg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -334,20 +345,20 @@
     {
       "tag": "space",
       "title": "Misha Brown, CF, 2/21/26",
-      "link": "https://www.flickr.com/photos/slclevents/55113964567/",
-      "image": "https://live.staticflickr.com/65535/55113964567_b0f27b586f_b.jpg"
+      "link": "https://www.flickr.com/photos/slclevents/55113964207/",
+      "image": "https://live.staticflickr.com/65535/55113964207_fa0b58a6d8_b.jpg"
     },
     {
       "tag": "animals",
-      "title": "Fox Squirrels During Runyon's Visit to Rolling Hills County Park (Ypsilanti, Michigan) - February 21st & 22nd, 2026",
-      "link": "https://www.flickr.com/photos/cseeman/55114996574/",
-      "image": "https://live.staticflickr.com/65535/55114996574_34cdba0082_b.jpg"
+      "title": "Learn To Fly",
+      "link": "https://www.flickr.com/photos/doklasmboyken/55115307680/",
+      "image": "https://live.staticflickr.com/65535/55115307680_ffd9f0104c_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "Perito Moreno details",
-      "link": "https://www.flickr.com/photos/tomsfries/55115380794/",
-      "image": "https://live.staticflickr.com/65535/55115380794_3d744ed8af_b.jpg"
+      "title": "Lakeside Landscape in Winter",
+      "link": "https://www.flickr.com/photos/186549625@N06/55114311542/",
+      "image": "https://live.staticflickr.com/65535/55114311542_0b2b8d68b1_b.jpg"
     }
   ]
 }
