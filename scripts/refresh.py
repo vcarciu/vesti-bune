@@ -77,7 +77,6 @@ def dedupe_key(link: str, title: str) -> str:
     base = (link or "") + "||" + (title or "")
     return hashlib.sha1(base.encode("utf-8", errors="ignore")).hexdigest()
 
-
 # -----------------------------
 # HTTP / RSS
 # -----------------------------
@@ -101,7 +100,6 @@ def fetch_rss(url: str) -> feedparser.FeedParserDict:
         return feedparser.parse(r.content)
     except Exception:
         return feedparser.FeedParserDict(entries=[])
-
 
 # -----------------------------
 # DeepL (optional)
@@ -136,7 +134,6 @@ def deepl_translate(text: str, target_lang: str = "RO") -> Optional[str]:
         except Exception:
             continue
     return None
-
 
 # -----------------------------
 # Image extraction (RSS + og:image)
@@ -190,91 +187,98 @@ def extract_image_url(entry: dict) -> Optional[str]:
             return img.strip()
     return None
 
-
 # -----------------------------
 # Filtering & scoring
 # -----------------------------
 def _mk_norm_list(words: List[str]) -> List[str]:
     return [normalize_text(w) for w in words if (w or "").strip()]
 
-# Hard-block: politică / scandal / propagandă / crime / alarmism (aplicat peste tot)
+# Common hard-block (NO politics, NO crime, NO war, NO military)
 RAW_HARD_BLOCK_COMMON = [
-    # alarmism / negativ
-    "alerta", "alert", "alarm", "alarmant", "breaking", "soc", "șoc", "groaza", "groază", "panica", "panic",
-    "traged", "dezastru", "catastrof", "criza", "crisis", "exploz", "explosion", "incend", "fire", "wildfire",
-    "cutremur", "earthquake", "inunda", "flood",
-    "razboi", "război", "war", "attack", "atac", "bomb", "teror", "terror",
-    "killed", "dead", "deaths", "murder", "shooting",
-    "crima", "crim", "ucis", "omor", "viol", "agresi", "drog", "arest", "retinut", "anchet", "dosar",
+    # crime / violence / disasters
+    "exploz", "incend", "cutremur", "inunda", "crima", "ucis", "omor", "viol",
+    "agresi", "drog", "arest", "anchet", "dosar", "shooting", "murder", "killed", "dead",
 
-    # politică / instituții / bătălii / acuzatii (exact genul din exemplele tale)
+    # war/military/defense (your request)
+    "razboi", "război", "war",
+    "armata", "armată", "militar", "military", "defense", "defence",
+    "nato", "bomb", "racheta", "rachetă", "missile", "drone", "drona", "tanc", "tank",
+    "munitie", "muniție", "arma", "arme", "weapon", "weapons",
+
+    # politics / accusations / propaganda
     "politic", "politica", "guvern", "parlament", "aleger", "ministr", "premier", "presed",
     "senat", "camera deputatilor", "congres",
     "psd", "pnl", "aur", "udmr",
-    "scandal", "acuz", "ataca", "batalie", "conflict", "disputa", "propaganda",
+    "scandal", "acuz", "propaganda",
 
-    # nume/teme care ți-au intrat în RO (hard block direct)
+    # alarmist clickbait words
+    "alerta", "alarm", "alarmant", "breaking", "soc", "șoc", "groaza", "panic",
+    "traged", "dezastru", "catastrof",
+
+    # names you explicitly want gone
     "trump", "biden", "stalin",
     "ciucu", "baluta", "băluță",
 ]
 HARD_BLOCK_COMMON = _mk_norm_list(RAW_HARD_BLOCK_COMMON)
 
-# RO: strict pozitiv
+# RO-only hard-block: press releases / notices (very common on StiriPozitive)
+RAW_HARD_BLOCK_RO_ONLY = [
+    "comunicat de presa", "comunicat de presă", "anunta publicul", "anunță publicul",
+    "s.c.", "s c ", "sr l", "srl", "cod smis", "smis", "licitatie", "licitație",
+    "anunt", "anunț", "depunerea solicitarii", "depunerea solicitării",
+]
+HARD_BLOCK_RO_ONLY = _mk_norm_list(RAW_HARD_BLOCK_RO_ONLY)
+
 RAW_RO_POSITIVE_STRICT = [
     "premiu", "a castigat", "a câștigat", "medalie", "record",
-    "inaugur", "s-a deschis", "s a deschis", "finalizat", "modernizat",
+    "inaugur", "s-a deschis", "finalizat", "modernizat",
     "invest", "finant", "grant", "fonduri", "proiect", "program",
-    "tratament nou", "terapie nou", "aprobat", "screening gratuit", "gratuit",
-    "salvat", "voluntar", "donat", "campanie", "reabilitat",
-    "a scazut", "scade", "reducere", "mai putin", "imbunatat", "îmbunatat",
-    "solutie", "soluție", "rezolvat", "reusit", "reușit",
+    "aprobat", "gratuit", "donat", "voluntar", "salvat",
+    "a scazut", "scade", "reducere", "imbunatat", "îmbunatat",
+    "adopt", "adopție", "adoptie", "recuperat", "vindec",
 ]
 RO_POSITIVE_STRICT = _mk_norm_list(RAW_RO_POSITIVE_STRICT)
 
-# RO: relaxed constructive (fallback)
 RAW_RO_POSITIVE_RELAX = [
-    "poveste", "happy end", "dragoste", "iubire", "nunta", "logod",
-    "animale", "caine", "câine", "pisica", "pisică", "adopt", "salvare",
-    "educatie", "educație", "scoala", "școala", "elev", "student", "universitate", "cercet", "inov",
-    "cultura", "teatru", "film", "festival", "muzeu",
-    "sport", "victorie", "campion", "turneu",
-    "startup", "tehnolog", "digital", "aplicatie",
-    "comunitate", "volunt", "caritate", "don", "campanie",
-    "spital", "clinica", "sanatate", "sănătate",
-    "infrastruct", "moderniz", "transport",
-    "funny", "amuzant", "banc", "gluma", "glumă",
+    "poveste", "happy end", "iubire", "dragoste", "reunit", "împreună",
+    "animale", "caine", "câine", "pisica", "pisică", "salvare",
+    "educatie", "educație", "cultura", "teatru", "film", "festival",
+    "sport", "victorie", "campion", "startup", "inov", "tehnolog",
+    "comunitate", "caritate", "don", "sanatate", "sănătate",
+    "amuzant", "funny", "gluma", "glumă",
 ]
 RO_POSITIVE_RELAX = _mk_norm_list(RAW_RO_POSITIVE_RELAX)
 
-# EN: progress/solutions boosters
 RAW_GLOBAL_POSITIVE = [
     "breakthrough", "promising", "improves", "improved", "improvement",
-    "reduces risk", "reduced risk", "reduction", "effective", "success", "successful",
-    "approved", "approval", "new treatment", "new therapy", "new method", "new approach",
-    "discovery", "discover", "restores", "recovery", "safer",
+    "reduces risk", "reduced risk", "effective", "successful",
+    "approved", "approval", "new method", "new approach", "discovery",
     "clean energy", "renewable", "reforestation", "conservation", "cleanup", "restoration",
-    "protects", "protected", "saved", "saves", "award", "wins",
-    "uplifting", "heartwarming", "feel-good", "feel good", "happy ending", "kindness",
-    "adoption", "rescued", "rescue", "reunited",
+    "award", "wins", "uplifting", "heartwarming", "happy ending",
+    "rescued", "reunited", "adoption",
 ]
 GLOBAL_POSITIVE = _mk_norm_list(RAW_GLOBAL_POSITIVE)
 
-# EN/Global soft-negative (downscore, not hard-block)
+# Soft negative (downscore, not kill) — include “crisis” so Environment doesn't die
 RAW_GLOBAL_SOFT_NEG = [
     "risk", "disease", "outbreak", "shortage", "pollution", "emissions",
-    "decline", "threat", "crisis", "danger", "deadly", "fatal",
+    "decline", "threat", "danger", "deadly", "fatal",
+    "crisis", "criza", "criză",
 ]
 GLOBAL_SOFT_NEG = _mk_norm_list(RAW_GLOBAL_SOFT_NEG)
 
-def hard_block(title: str, summary: str) -> bool:
+def hard_block_common(title: str, summary: str) -> bool:
     text = normalize_text(f"{title} {summary}")
-    for kw in HARD_BLOCK_COMMON:
-        if kw and kw in text:
-            return True
-    return False
+    return any(kw in text for kw in HARD_BLOCK_COMMON if kw)
+
+def hard_block_ro_only(title: str, summary: str) -> bool:
+    text = normalize_text(f"{title} {summary}")
+    return any(kw in text for kw in HARD_BLOCK_RO_ONLY if kw)
 
 def ro_allow(title: str, summary: str, relaxed: bool = False) -> bool:
-    if hard_block(title, summary):
+    if hard_block_common(title, summary):
+        return False
+    if hard_block_ro_only(title, summary):
         return False
 
     text = normalize_text(f"{title} {summary}")
@@ -293,18 +297,18 @@ def ro_allow(title: str, summary: str, relaxed: bool = False) -> bool:
     return False
 
 def score_global(section_id: str, title: str, summary: str) -> int:
-    if hard_block(title, summary):
+    if hard_block_common(title, summary):
         return -999
 
     text = normalize_text(f"{title} {summary}")
-
     score = 0
+
     for kw in GLOBAL_POSITIVE:
         if kw and kw in text:
             score += 2
 
     if section_id in ("medical", "science"):
-        for kw in _mk_norm_list(["study finds", "trial", "peer-reviewed", "researchers", "clinical", "meta-analysis"]):
+        for kw in _mk_norm_list(["study", "trial", "researchers", "clinical", "peer-reviewed", "meta-analysis"]):
             if kw and kw in text:
                 score += 1
 
@@ -318,7 +322,6 @@ def score_global(section_id: str, title: str, summary: str) -> int:
             score -= 1
 
     return score
-
 
 # -----------------------------
 # Builder
@@ -345,7 +348,6 @@ def build_sections(cfg: Dict[str, Any]) -> Dict[str, List[Dict[str, Any]]]:
         for src in sources:
             name = src.get("name", section_id)
             url = (src.get("url") or "").strip()
-            lang = (src.get("lang") or "").strip().lower()  # "en" optional
             if not url:
                 continue
 
@@ -362,16 +364,9 @@ def build_sections(cfg: Dict[str, Any]) -> Dict[str, List[Dict[str, Any]]]:
                 dt = parse_entry_datetime(e)
                 published = (dt or datetime.now(timezone.utc)).replace(microsecond=0)
 
-                # IMPORTANT:
-                # - section_id == romania rămâne secțiune RO în UI
-                # - dar dacă sursa are lang: en, o tratăm ca global (scor + traducere)
-                is_romania_section = (section_id == "romania")
-                treat_as_global = (lang == "en") or (not is_romania_section)
-
-                if not treat_as_global:
-                    # RO filtering (strict + candidate for relaxed)
+                if section_id == "romania":
                     if not ro_allow(title, summary, relaxed=False):
-                        if ro_try_relaxed and not hard_block(title, summary):
+                        if ro_try_relaxed and not hard_block_common(title, summary) and not hard_block_ro_only(title, summary):
                             candidate_bank[section_id].append({
                                 "section": section_id,
                                 "kind": "ro",
@@ -385,7 +380,7 @@ def build_sections(cfg: Dict[str, Any]) -> Dict[str, List[Dict[str, Any]]]:
                     score = 3
                     kind = "ro"
                 else:
-                    score = score_global(section_id if section_id != "romania" else "science", title, summary)
+                    score = score_global(section_id, title, summary)
                     if score < 0:
                         continue
                     kind = "global"
@@ -401,7 +396,7 @@ def build_sections(cfg: Dict[str, Any]) -> Dict[str, List[Dict[str, Any]]]:
 
                 item: Dict[str, Any] = {
                     "section": section_id,
-                    "kind": "ro" if is_romania_section else kind,
+                    "kind": kind,
                     "source": name,
                     "title": title,
                     "summary": summary,
@@ -414,8 +409,8 @@ def build_sections(cfg: Dict[str, Any]) -> Dict[str, List[Dict[str, Any]]]:
                 if img:
                     item["image"] = img
 
-                # Translate EN sources that are either global sections OR embedded into Romania section
-                if treat_as_global:
+                # Translate global -> RO (optional)
+                if kind == "global":
                     tr_title = deepl_translate(title) or None
                     tr_sum = deepl_translate(summary) or None
                     if tr_title:
@@ -461,10 +456,9 @@ def build_sections(cfg: Dict[str, Any]) -> Dict[str, List[Dict[str, Any]]]:
 
         out["romania"].extend(add)
         out["romania"].sort(key=lambda x: x.get("published_utc", ""), reverse=True)
-        out["romania"] = out["romania"][: max_items_map.get("romania", 35)]
+        out["romania"] = out["romania"][: max_items_map.get("romania", 40)]
 
     return out
-
 
 # -----------------------------
 # Joke + top images
@@ -504,7 +498,6 @@ def pick_flickr_images(limit: int = 3) -> List[Dict[str, Any]]:
         except Exception:
             continue
     return out[:limit]
-
 
 # -----------------------------
 # Main
