@@ -20,7 +20,11 @@ OUT_NEWS = os.path.join(ROOT_DIR, "data", "news.json")
 OUT_ITEMS = os.path.join(ROOT_DIR, "data", "items.json")
 JOKES_PATH = os.path.join(ROOT_DIR, "data", "jokes_ro.txt")
 
-USER_AGENT = "vesti-bune-bot (+https://vcarciu.github.io/vesti-bune/)"
+USER_AGENT = "vesti-bune-bot/strict-ro (+https://vcarciu.github.io/vesti-bune/)"
+
+SESSION = requests.Session()
+SESSION.headers.update({"User-Agent": USER_AGENT})
+
 
 # -----------------------------
 # Utils
@@ -28,12 +32,15 @@ USER_AGENT = "vesti-bune-bot (+https://vcarciu.github.io/vesti-bune/)"
 def utc_now_iso() -> str:
     return datetime.now(timezone.utc).replace(microsecond=0).isoformat()
 
+
 def safe_mkdir(path: str) -> None:
     os.makedirs(path, exist_ok=True)
+
 
 def load_yaml(path: str) -> Dict[str, Any]:
     with open(path, "r", encoding="utf-8") as f:
         return yaml.safe_load(f) or {}
+
 
 def strip_html(text: str) -> str:
     if not text:
@@ -42,12 +49,14 @@ def strip_html(text: str) -> str:
     text = re.sub(r"\s+", " ", text).strip()
     return text
 
+
 def normalize_text(s: str) -> str:
     s = (s or "").lower()
     s = unicodedata.normalize("NFKD", s)
     s = "".join(ch for ch in s if not unicodedata.combining(ch))
     s = re.sub(r"\s+", " ", s).strip()
     return s
+
 
 def parse_entry_datetime(entry: Dict[str, Any]) -> Optional[datetime]:
     for key in ("published_parsed", "updated_parsed"):
@@ -59,6 +68,7 @@ def parse_entry_datetime(entry: Dict[str, Any]) -> Optional[datetime]:
                 pass
     return None
 
+
 def get_entry_summary(entry: Dict[str, Any]) -> str:
     if entry.get("summary"):
         return strip_html(entry.get("summary") or "")
@@ -68,21 +78,21 @@ def get_entry_summary(entry: Dict[str, Any]) -> str:
         return strip_html(val)
     return ""
 
-def write_json(path: str, payload: Dict[str, Any]) -> None:
-    safe_mkdir(os.path.dirname(path))
-    with open(path, "w", encoding="utf-8") as f:
-        json.dump(payload, f, ensure_ascii=False, indent=2)
 
 def dedupe_key(link: str, title: str) -> str:
     base = (link or "") + "||" + (title or "")
     return hashlib.sha1(base.encode("utf-8", errors="ignore")).hexdigest()
 
+
+def write_json(path: str, payload: Dict[str, Any]) -> None:
+    safe_mkdir(os.path.dirname(path))
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(payload, f, ensure_ascii=False, indent=2)
+
+
 # -----------------------------
 # HTTP / RSS
 # -----------------------------
-SESSION = requests.Session()
-SESSION.headers.update({"User-Agent": USER_AGENT})
-
 def fetch_url_with_final(url: str) -> Tuple[Optional[str], Optional[str]]:
     try:
         r = SESSION.get(url, timeout=25, allow_redirects=True)
@@ -92,7 +102,14 @@ def fetch_url_with_final(url: str) -> Tuple[Optional[str], Optional[str]]:
         return None, None
     return None, None
 
+
 def fetch_rss(url: str) -> feedparser.FeedParserDict:
+    """
+    Mai robust decât feedparser.parse(url) direct:
+    - pune User-Agent
+    - timeout controlat
+    - feedparser pe bytes
+    """
     try:
         r = SESSION.get(url, timeout=25, allow_redirects=True)
         if r.status_code != 200:
@@ -100,6 +117,7 @@ def fetch_rss(url: str) -> feedparser.FeedParserDict:
         return feedparser.parse(r.content)
     except Exception:
         return feedparser.FeedParserDict(entries=[])
+
 
 # -----------------------------
 # DeepL (optional)
@@ -109,7 +127,7 @@ def deepl_translate(text: str, target_lang: str = "RO") -> Optional[str]:
     if not key or not (text or "").strip():
         return None
 
-    text = (text or "").strip()
+    text = text.strip()
     if len(text) > 900:
         text = text[:900]
 
@@ -119,12 +137,11 @@ def deepl_translate(text: str, target_lang: str = "RO") -> Optional[str]:
         "https://api.deepl.com/v2/translate",
     ]
 
-    headers = {"User-Agent": USER_AGENT}
     data = {"auth_key": key, "text": text, "target_lang": target_lang}
 
     for url in [u for u in candidates if u]:
         try:
-            r = requests.post(url, data=data, headers=headers, timeout=25)
+            r = requests.post(url, data=data, timeout=25, headers={"User-Agent": USER_AGENT})
             if r.status_code == 200:
                 js = r.json()
                 tr = js.get("translations", [])
@@ -135,12 +152,14 @@ def deepl_translate(text: str, target_lang: str = "RO") -> Optional[str]:
             continue
     return None
 
+
 # -----------------------------
-# Image extraction (RSS + og:image)
+# Images (RSS + og:image)
 # -----------------------------
 OG_IMAGE_RE_1 = re.compile(r'property=["\']og:image["\']\s+content=["\']([^"\']+)["\']', re.I)
 OG_IMAGE_RE_2 = re.compile(r'content=["\']([^"\']+)["\']\s+property=["\']og:image["\']', re.I)
 IMG_SRC_RE = re.compile(r'<img[^>]+src=["\']([^"\']+)["\']', re.I)
+
 
 def extract_og_image(html: str) -> Optional[str]:
     if not html:
@@ -150,22 +169,26 @@ def extract_og_image(html: str) -> Optional[str]:
         return (m.group(1) or "").strip() or None
     return None
 
-def extract_image_url(entry: dict) -> Optional[str]:
-    mc = entry.get("media_content")
+
+def extract_image_url(e: dict) -> Optional[str]:
+    # media:content
+    mc = e.get("media_content")
     if isinstance(mc, list) and mc:
         for item in mc:
             url = (item.get("url") or "").strip()
             if url:
                 return url
 
-    mt = entry.get("media_thumbnail")
+    # media:thumbnail
+    mt = e.get("media_thumbnail")
     if isinstance(mt, list) and mt:
         for item in mt:
             url = (item.get("url") or "").strip()
             if url:
                 return url
 
-    links = entry.get("links")
+    # enclosure links
+    links = e.get("links")
     if isinstance(links, list):
         for l in links:
             rel = (l.get("rel") or "").lower()
@@ -173,147 +196,170 @@ def extract_image_url(entry: dict) -> Optional[str]:
             if rel == "enclosure" and href:
                 return href
 
-    html = entry.get("summary") or ""
+    # inline img in summary/content
+    html = e.get("summary") or ""
     if isinstance(html, str) and html:
         m = IMG_SRC_RE.search(html)
         if m:
             return (m.group(1) or "").strip() or None
 
-    link = (entry.get("link") or "").strip()
+    # og:image from article page
+    link = (e.get("link") or "").strip()
     if link:
         page_html, _final = fetch_url_with_final(link)
         img = extract_og_image(page_html or "")
         if img:
             return img.strip()
+
     return None
 
+
 # -----------------------------
-# Filtering & scoring
+# Filtering (RO strict + relaxed fallback)
 # -----------------------------
 def _mk_norm_list(words: List[str]) -> List[str]:
-    return [normalize_text(w) for w in words if (w or "").strip()]
+    return [normalize_text(x) for x in words if (x or "").strip()]
 
-# Common hard-block (NO politics, NO crime, NO war, NO military)
-RAW_HARD_BLOCK_COMMON = [
-    # crime / violence / disasters
-    "exploz", "incend", "cutremur", "inunda", "crima", "ucis", "omor", "viol",
-    "agresi", "drog", "arest", "anchet", "dosar", "shooting", "murder", "killed", "dead",
 
-    # war/military/defense (your request)
-    "razboi", "război", "war",
-    "armata", "armată", "militar", "military", "defense", "defence",
-    "nato", "bomb", "racheta", "rachetă", "missile", "drone", "drona", "tanc", "tank",
-    "munitie", "muniție", "arma", "arme", "weapon", "weapons",
+# HARD BLOCK – ce NU vrem sub nicio formă în “Vești Bune”
+RAW_RO_HARD_BLOCK = [
+    # alarmism / negative health panic
+    "minim istoric", "record negativ", "crestere alarmanta", "creștere alarmantă",
+    "alarmant", "explozie a cazurilor", "val de", "focar", "epidem", "alerta", "alertă",
 
-    # politics / accusations / propaganda
-    "politic", "politica", "guvern", "parlament", "aleger", "ministr", "premier", "presed",
-    "senat", "camera deputatilor", "congres",
+    # crime / violență / accidente
+    "decese", "mort", "morti", "morți", "victime", "ranit", "răni",
+    "crim", "ucis", "omor", "viol", "agresi", "talhar", "tâlhar", "jaf", "furt",
+    "drog", "arest", "retinut", "reținut", "perchez", "anchet", "dosar",
+    "accident", "traged", "dezastru", "exploz", "incend", "cutremur", "inunda",
+
+    # politică
+    "politic", "guvern", "parlament", "aleger", "ministr", "premier", "presed",
     "psd", "pnl", "aur", "udmr",
-    "scandal", "acuz", "propaganda",
-
-    # alarmist clickbait words
-    "alerta", "alarm", "alarmant", "breaking", "soc", "șoc", "groaza", "panic",
-    "traged", "dezastru", "catastrof",
-
-    # names you explicitly want gone
     "trump", "biden", "stalin",
     "ciucu", "baluta", "băluță",
-]
-HARD_BLOCK_COMMON = _mk_norm_list(RAW_HARD_BLOCK_COMMON)
 
-# RO-only hard-block: press releases / notices (very common on StiriPozitive)
-RAW_HARD_BLOCK_RO_ONLY = [
-    "comunicat de presa", "comunicat de presă", "anunta publicul", "anunță publicul",
-    "s.c.", "s c ", "sr l", "srl", "cod smis", "smis", "licitatie", "licitație",
-    "anunt", "anunț", "depunerea solicitarii", "depunerea solicitării",
-]
-HARD_BLOCK_RO_ONLY = _mk_norm_list(RAW_HARD_BLOCK_RO_ONLY)
+    # JUSTIȚIE / CONDAMNĂRI / PROCURORI (ex: Mario Iorgulescu)
+    "condamn", "condamnare", "pedeaps", "inchiso", "închiso",
+    "procuror", "procurorii", "parchet", "instanta", "instanță",
+    "tribunal", "judec", "sentinta", "sentință", "apel", "recurs",
+    "dna", "diicot", "inculpat", "penal",
+    "iorgulescu",
 
-RAW_RO_POSITIVE_STRICT = [
+    # ARMATĂ / DEFENSE / NATO / WEAPONS (nu le vrei deloc)
+    "armata", "armată", "militar", "military", "defense", "defence",
+    "nato", "arma", "arme", "weapon", "weapons", "munitie", "muniție",
+    "rachet", "missile", "drona", "drone", "tanc", "tank", "razboi", "război", "war",
+
+    # ECONOMIC “rece” / INS / scăderi (ex: INS cifra de afaceri a scăzut)
+    "ins", "institutul national de statistica", "institutul național de statistică",
+    "cifra de afaceri", "volumul cifrei de afaceri", "serie bruta", "serie brută",
+    "a scazut", "a scăzut", "scadere", "scădere", "in scadere", "în scădere",
+    "indicator", "indice", "serie ajustata", "serie ajustată",
+]
+RO_HARD_BLOCK = _mk_norm_list(RAW_RO_HARD_BLOCK)
+
+# RO strict “trebuie să sune bine”
+RAW_RO_POSITIVE_HINTS_STRICT = [
     "premiu", "a castigat", "a câștigat", "medalie", "record",
     "inaugur", "s-a deschis", "finalizat", "modernizat",
-    "invest", "finant", "grant", "fonduri", "proiect", "program",
-    "aprobat", "gratuit", "donat", "voluntar", "salvat",
+    "invest", "finant", "grant", "fonduri", "program", "proiect",
+    "tratament nou", "terapie nou", "aprobat", "screening gratuit", "gratuit",
+    "salvat", "voluntar", "donat", "campanie", "reabilitat",
     "a scazut", "scade", "reducere", "imbunatat", "îmbunatat",
-    "adopt", "adopție", "adoptie", "recuperat", "vindec",
+    "adopt", "adopție", "adoptie", "salvare", "recuperat", "vindec",
 ]
-RO_POSITIVE_STRICT = _mk_norm_list(RAW_RO_POSITIVE_STRICT)
+RO_POSITIVE_HINTS_STRICT = _mk_norm_list(RAW_RO_POSITIVE_HINTS_STRICT)
 
-RAW_RO_POSITIVE_RELAX = [
-    "poveste", "happy end", "iubire", "dragoste", "reunit", "împreună",
-    "animale", "caine", "câine", "pisica", "pisică", "salvare",
-    "educatie", "educație", "cultura", "teatru", "film", "festival",
-    "sport", "victorie", "campion", "startup", "inov", "tehnolog",
-    "comunitate", "caritate", "don", "sanatate", "sănătate",
+# RO relaxed (doar dacă rămân prea puține) – tot pozitiv/constructiv, fără alarmism
+RAW_RO_POSITIVE_HINTS_RELAXED = [
+    "poveste", "happy end", "iubire", "dragoste", "logod", "nunta",
+    "animale", "caine", "câine", "pisica", "pisică", "adopt", "salvare",
+    "educatie", "educație", "scoala", "școala", "elev", "student", "universitate",
+    "cultura", "teatru", "film", "festival", "muzeu",
+    "sport", "victorie", "campion", "turneu",
+    "startup", "inov", "tehnolog", "digital",
+    "comunitate", "caritate", "strangere de fonduri", "strângere de fonduri",
     "amuzant", "funny", "gluma", "glumă",
 ]
-RO_POSITIVE_RELAX = _mk_norm_list(RAW_RO_POSITIVE_RELAX)
+RO_POSITIVE_HINTS_RELAXED = _mk_norm_list(RAW_RO_POSITIVE_HINTS_RELAXED)
 
-RAW_GLOBAL_POSITIVE = [
-    "breakthrough", "promising", "improves", "improved", "improvement",
-    "reduces risk", "reduced risk", "effective", "successful",
-    "approved", "approval", "new method", "new approach", "discovery",
-    "clean energy", "renewable", "reforestation", "conservation", "cleanup", "restoration",
-    "award", "wins", "uplifting", "heartwarming", "happy ending",
-    "rescued", "reunited", "adoption",
-]
-GLOBAL_POSITIVE = _mk_norm_list(RAW_GLOBAL_POSITIVE)
 
-# Soft negative (downscore, not kill) — include “crisis” so Environment doesn't die
-RAW_GLOBAL_SOFT_NEG = [
-    "risk", "disease", "outbreak", "shortage", "pollution", "emissions",
-    "decline", "threat", "danger", "deadly", "fatal",
-    "crisis", "criza", "criză",
-]
-GLOBAL_SOFT_NEG = _mk_norm_list(RAW_GLOBAL_SOFT_NEG)
-
-def hard_block_common(title: str, summary: str) -> bool:
+def ro_hard_block(title: str, summary: str) -> bool:
     text = normalize_text(f"{title} {summary}")
-    return any(kw in text for kw in HARD_BLOCK_COMMON if kw)
+    for kw in RO_HARD_BLOCK:
+        if kw and kw in text:
+            return True
+    return False
 
-def hard_block_ro_only(title: str, summary: str) -> bool:
-    text = normalize_text(f"{title} {summary}")
-    return any(kw in text for kw in HARD_BLOCK_RO_ONLY if kw)
 
 def ro_allow(title: str, summary: str, relaxed: bool = False) -> bool:
-    if hard_block_common(title, summary):
-        return False
-    if hard_block_ro_only(title, summary):
+    if ro_hard_block(title, summary):
         return False
 
     text = normalize_text(f"{title} {summary}")
 
-    for kw in RO_POSITIVE_STRICT:
+    for kw in RO_POSITIVE_HINTS_STRICT:
         if kw and kw in text:
             return True
 
     if not relaxed:
         return False
 
-    for kw in RO_POSITIVE_RELAX:
+    for kw in RO_POSITIVE_HINTS_RELAXED:
         if kw and kw in text:
             return True
 
     return False
 
+
+# -----------------------------
+# Global scoring (EN)
+# - IMPORTANT: nu omorâm environment pe cuvinte gen "crisis"
+#   (le facem soft-negative)
+# -----------------------------
+RAW_GLOBAL_HARD_NEG = [
+    "war", "attack", "killed", "dead", "deaths", "shooting", "murder",
+    "explosion", "earthquake", "flood", "wildfire", "terror", "hostage",
+]
+RAW_GLOBAL_SOFT_NEG = [
+    "crisis", "risk", "disease", "outbreak", "shortage", "pollution", "emissions",
+    "decline", "threat", "danger", "deadly", "fatal",
+]
+RAW_GLOBAL_POSITIVE = [
+    "breakthrough", "promising", "improves", "improved", "improvement",
+    "reduces risk", "reduced risk", "effective", "successful",
+    "approved", "approval", "new treatment", "new therapy", "new method", "new approach",
+    "discovery", "discover", "saved", "rescued", "reunited", "adoption",
+    "clean energy", "renewable", "reforestation", "conservation", "cleanup", "restoration",
+    "award", "wins",
+]
+
+GLOBAL_HARD_NEG = _mk_norm_list(RAW_GLOBAL_HARD_NEG)
+GLOBAL_SOFT_NEG = _mk_norm_list(RAW_GLOBAL_SOFT_NEG)
+GLOBAL_POSITIVE = _mk_norm_list(RAW_GLOBAL_POSITIVE)
+
+
 def score_global(section_id: str, title: str, summary: str) -> int:
-    if hard_block_common(title, summary):
-        return -999
-
     text = normalize_text(f"{title} {summary}")
-    score = 0
 
+    for kw in GLOBAL_HARD_NEG:
+        if kw and kw in text:
+            return -999
+
+    score = 0
     for kw in GLOBAL_POSITIVE:
         if kw and kw in text:
             score += 2
 
+    # section hints
     if section_id in ("medical", "science"):
         for kw in _mk_norm_list(["study", "trial", "researchers", "clinical", "peer-reviewed", "meta-analysis"]):
             if kw and kw in text:
                 score += 1
 
     if section_id == "environment":
-        for kw in _mk_norm_list(["renewable", "solar", "wind", "reforestation", "conservation", "restoration", "protected area", "recycling"]):
+        for kw in _mk_norm_list(["renewable", "solar", "wind", "reforestation", "conservation", "restoration", "recycling"]):
             if kw and kw in text:
                 score += 1
 
@@ -323,8 +369,9 @@ def score_global(section_id: str, title: str, summary: str) -> int:
 
     return score
 
+
 # -----------------------------
-# Builder
+# Build sections
 # -----------------------------
 def build_sections(cfg: Dict[str, Any]) -> Dict[str, List[Dict[str, Any]]]:
     rss_sources = cfg.get("rss_sources") or {}
@@ -332,7 +379,7 @@ def build_sections(cfg: Dict[str, Any]) -> Dict[str, List[Dict[str, Any]]]:
     filters_cfg = cfg.get("filters") or {}
 
     thresholds = (filters_cfg.get("thresholds") or {})
-    ro_min_items = int(filters_cfg.get("ro_min_items", 10))
+    ro_min_items = int(filters_cfg.get("ro_min_items", 12))
     ro_try_relaxed = bool(filters_cfg.get("ro_try_relaxed", True))
 
     max_items_map = {s["id"]: int(s.get("max_items", 20)) for s in sections_def if "id" in s}
@@ -340,7 +387,8 @@ def build_sections(cfg: Dict[str, Any]) -> Dict[str, List[Dict[str, Any]]]:
     out: Dict[str, List[Dict[str, Any]]] = {}
     seen: set = set()
 
-    candidate_bank: Dict[str, List[Dict[str, Any]]] = {sid: [] for sid in rss_sources.keys()}
+    # bank pentru relaxed RO
+    ro_candidates: List[Dict[str, Any]] = []
 
     for section_id, sources in rss_sources.items():
         items: List[Dict[str, Any]] = []
@@ -352,22 +400,23 @@ def build_sections(cfg: Dict[str, Any]) -> Dict[str, List[Dict[str, Any]]]:
                 continue
 
             feed = fetch_rss(url)
-            entries = (feed.entries or [])[:90]
-
-            for e in entries:
+            for e in (feed.entries or [])[:80]:
                 title = (e.get("title") or "").strip()
                 link = (e.get("link") or "").strip()
+                summary = get_entry_summary(e)
                 if not title or not link:
                     continue
 
-                summary = get_entry_summary(e)
                 dt = parse_entry_datetime(e)
                 published = (dt or datetime.now(timezone.utc)).replace(microsecond=0)
 
-                if section_id == "romania":
+                kind = "ro" if section_id == "romania" else "global"
+
+                if kind == "ro":
                     if not ro_allow(title, summary, relaxed=False):
-                        if ro_try_relaxed and not hard_block_common(title, summary) and not hard_block_ro_only(title, summary):
-                            candidate_bank[section_id].append({
+                        # candidat pt fallback relaxed (doar dacă nu e hard-block)
+                        if ro_try_relaxed and not ro_hard_block(title, summary):
+                            ro_candidates.append({
                                 "section": section_id,
                                 "kind": "ro",
                                 "source": name,
@@ -375,15 +424,14 @@ def build_sections(cfg: Dict[str, Any]) -> Dict[str, List[Dict[str, Any]]]:
                                 "summary": summary,
                                 "link": link,
                                 "published_utc": published.isoformat(),
+                                "score": 1,
                             })
                         continue
                     score = 3
-                    kind = "ro"
                 else:
                     score = score_global(section_id, title, summary)
                     if score < 0:
                         continue
-                    kind = "global"
 
                 thr = int(thresholds.get(section_id, 0))
                 if score < thr:
@@ -409,8 +457,8 @@ def build_sections(cfg: Dict[str, Any]) -> Dict[str, List[Dict[str, Any]]]:
                 if img:
                     item["image"] = img
 
-                # Translate global -> RO (optional)
                 if kind == "global":
+                    # optional translation
                     tr_title = deepl_translate(title) or None
                     tr_sum = deepl_translate(summary) or None
                     if tr_title:
@@ -424,41 +472,37 @@ def build_sections(cfg: Dict[str, Any]) -> Dict[str, List[Dict[str, Any]]]:
         items = items[: max_items_map.get(section_id, 20)]
         out[section_id] = items
 
-    # Relax RO if too few
+    # relaxed RO fallback dacă e prea puțin
     if "romania" in out and ro_try_relaxed and len(out["romania"]) < ro_min_items:
         needed = ro_min_items - len(out["romania"])
-        relaxed_candidates = []
-
-        for c in candidate_bank.get("romania", []):
-            if ro_allow(c["title"], c["summary"], relaxed=True):
-                relaxed_candidates.append(c)
+        # re-filtrăm candidații cu relaxed allow
+        relaxed_ok = [c for c in ro_candidates if ro_allow(c["title"], c["summary"], relaxed=True)]
+        relaxed_ok.sort(key=lambda x: x.get("published_utc", ""), reverse=True)
 
         already = set(dedupe_key(it["link"], it["title"]) for it in out["romania"])
-        add = []
-        for c in sorted(relaxed_candidates, key=lambda x: x.get("published_utc", ""), reverse=True):
+        added = 0
+        for c in relaxed_ok:
+            if added >= needed:
+                break
             k = dedupe_key(c["link"], c["title"])
             if k in already:
                 continue
             already.add(k)
 
-            item = dict(c)
-            item["score"] = 1
+            # og:image fallback
+            html, _final = fetch_url_with_final(c["link"])
+            img = extract_og_image(html or "")
+            if img:
+                c["image"] = img
 
-            if item.get("link"):
-                html, _final = fetch_url_with_final(item["link"])
-                img = extract_og_image(html or "")
-                if img:
-                    item["image"] = img
+            out["romania"].append(c)
+            added += 1
 
-            add.append(item)
-            if len(add) >= needed:
-                break
-
-        out["romania"].extend(add)
         out["romania"].sort(key=lambda x: x.get("published_utc", ""), reverse=True)
         out["romania"] = out["romania"][: max_items_map.get("romania", 40)]
 
     return out
+
 
 # -----------------------------
 # Joke + top images
@@ -476,11 +520,12 @@ def build_joke() -> Optional[Dict[str, Any]]:
     idx = int(hashlib.sha1(day.encode("utf-8")).hexdigest(), 16) % len(jokes)
     return {"date_utc": day, "text": jokes[idx]}
 
+
 def pick_flickr_images(limit: int = 3) -> List[Dict[str, Any]]:
     feeds = [
-        ("space", "https://www.flickr.com/services/feeds/photos_public.gne?format=rss2&tags=space,stars,nebula&tagmode=any"),
-        ("animals", "https://www.flickr.com/services/feeds/photos_public.gne?format=rss2&tags=animals,cute,dog,cat&tagmode=any"),
-        ("landscape", "https://www.flickr.com/services/feeds/photos_public.gne?format=rss2&tags=landscape,nature,mountains&tagmode=any"),
+        ("space", "https://www.flickr.com/services/feeds/photos_public.gne?format=rss2&tags=space"),
+        ("animals", "https://www.flickr.com/services/feeds/photos_public.gne?format=rss2&tags=animals"),
+        ("landscape", "https://www.flickr.com/services/feeds/photos_public.gne?format=rss2&tags=landscape"),
     ]
 
     out: List[Dict[str, Any]] = []
@@ -489,7 +534,7 @@ def pick_flickr_images(limit: int = 3) -> List[Dict[str, Any]]:
             f = fetch_rss(url)
             if not f.entries:
                 continue
-            e = random.choice(f.entries[:25])
+            e = random.choice(f.entries[:20])
             title = (e.get("title") or "").strip()
             link = (e.get("link") or "").strip()
             img = extract_image_url(e) or None
@@ -499,22 +544,19 @@ def pick_flickr_images(limit: int = 3) -> List[Dict[str, Any]]:
             continue
     return out[:limit]
 
-# -----------------------------
-# Main
-# -----------------------------
+
 def main() -> None:
     cfg = load_yaml(CONFIG_PATH)
-
     payload: Dict[str, Any] = {
         "generated_utc": utc_now_iso(),
         "sections": build_sections(cfg),
         "joke_ro": build_joke(),
         "top_images": pick_flickr_images(limit=3),
     }
-
     write_json(OUT_NEWS, payload)
     write_json(OUT_ITEMS, payload)
     print("[OK] wrote data/news.json and data/items.json")
+
 
 if __name__ == "__main__":
     main()
