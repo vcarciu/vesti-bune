@@ -1,717 +1,313 @@
 <!doctype html>
 <html lang="ro">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Vești bune</title>
-  <meta name="description" content="România (RO) + Global (EN). Vești curate, actualizate automat." />
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Vești bune</title>
 
-  <style>
-    :root{
-      --bg:#0b0b0f;
-      --panel:#12121a;
-      --panel2:#171724;
-      --text:#f2f2f7;
-      --muted:#b7b7c7;
-      --muted2:#8b8ba1;
-      --border:rgba(255,255,255,.10);
-      --border2:rgba(255,255,255,.14);
-      --shadow: 0 10px 30px rgba(0,0,0,.35);
-      --r:18px;
-      --r2:14px;
-      --max: 1180px;
-      --btn:#1b1b2a;
-      --btn2:#23233a;
-      --link:#9fd3ff;
-      --ok:#2be27a;
-      --chip:#ffffff12;
-    }
-    *{ box-sizing:border-box; }
-    html,body{ height:100%; }
-    body{
-      margin:0;
-      font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji";
-      background:
-        radial-gradient(1200px 600px at 20% 0%, rgba(90,60,255,.18), transparent 60%),
-        radial-gradient(900px 500px at 90% 15%, rgba(0,255,200,.10), transparent 55%),
-        var(--bg);
-      color:var(--text);
-      line-height:1.35;
-    }
-    a{ color:inherit; text-decoration:none; }
-    a:hover{ text-decoration:underline; }
+<style>
+:root{
+  --bg:#0b0b0f;
+  --panel:#14141d;
+  --text:#f2f2f7;
+  --muted:#b7b7c7;
+  --muted2:#8b8ba1;
+  --border:rgba(255,255,255,.10);
+  --shadow:0 10px 30px rgba(0,0,0,.35);
+  --r:18px;
+  --max:1180px;
+  --btn:#1b1b2a;
+  --btn2:#23233a;
+  --link:#9fd3ff;
+}
 
-    .wrap{ max-width: var(--max); margin:0 auto; padding: 18px 14px 60px; }
+*{box-sizing:border-box}
+body{
+  margin:0;
+  font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial;
+  background:var(--bg);
+  color:var(--text);
+}
+.wrap{max-width:var(--max);margin:0 auto;padding:20px}
 
-    header{
-      display:flex;
-      gap:14px;
-      align-items:flex-end;
-      justify-content:space-between;
-      padding: 10px 6px 14px;
-    }
-    .brand{
-      display:flex;
-      flex-direction:column;
-      gap:4px;
-    }
-    .brand h1{
-      margin:0;
-      font-size: 26px;
-      letter-spacing:.2px;
-    }
-    .brand .sub{
-      color:var(--muted);
-      font-size: 14px;
-    }
-    .pillrow{
-      display:flex;
-      gap:8px;
-      flex-wrap:wrap;
-      justify-content:flex-end;
-      align-items:center;
-    }
-    .pill{
-      border:1px solid var(--border);
-      background: rgba(255,255,255,.04);
-      color:var(--muted);
-      padding:8px 10px;
-      border-radius: 999px;
-      font-size: 12px;
-      display:flex;
-      gap:8px;
-      align-items:center;
-      user-select:none;
-    }
-    .pill b{ color:var(--text); font-weight:700; }
-    .pill a{ color: var(--link); text-decoration:underline; }
+/* HEADER */
+header{
+  display:flex;
+  justify-content:space-between;
+  align-items:flex-end;
+  margin-bottom:20px;
+}
+h1{margin:0;font-size:26px}
+.sub{color:var(--muted);font-size:14px}
 
-    /* ===== Top 3 photos ===== */
-    .grid3{
-      display:grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 12px;
-      margin: 6px 0 14px;
-    }
-    .card{
-      border: 1px solid var(--border);
-      background: linear-gradient(180deg, rgba(255,255,255,.04), rgba(255,255,255,.02));
-      border-radius: var(--r);
-      box-shadow: var(--shadow);
-      overflow:hidden;
+/* TOP 3 CARDS */
+.grid3{
+  display:grid;
+  grid-template-columns:repeat(3,1fr);
+  gap:14px;
+  margin-bottom:18px;
+}
+.card{
+  background:var(--panel);
+  border:1px solid var(--border);
+  border-radius:var(--r);
+  overflow:hidden;
+  box-shadow:var(--shadow);
+  display:flex;
+  flex-direction:column;
+}
+.photo{
+  height:190px;
+  overflow:hidden;
+}
+.photo img{
+  width:100%;
+  height:100%;
+  object-fit:cover;
+  display:block;
+}
+.tag{
+  position:absolute;
+}
+.body{
+  padding:12px;
+  min-height:80px;
+}
+.title{
+  margin:0;
+  font-weight:700;
+  font-size:14px;
+}
+.small{
+  margin:4px 0 0;
+  font-size:12px;
+  color:var(--muted);
+}
 
-      display:flex;
-      flex-direction:column;
-      min-height: 260px;
-    }
-    .photo{
-      position:relative;
-      aspect-ratio: 16/10;
-      background:#111;
-      flex: 0 0 auto;
-    }
-    .photo img{
-      width:100%;
-      height:100%;
-      object-fit:cover;
-      display:block;
-      filter:saturate(1.05) contrast(1.05);
-    }
-    .tag{
-      position:absolute;
-      left:10px;
-      top:10px;
-      background: rgba(0,0,0,.45);
-      border:1px solid rgba(255,255,255,.18);
-      backdrop-filter: blur(8px);
-      color:#fff;
-      padding:6px 10px;
-      border-radius:999px;
-      font-size: 12px;
-      display:flex;
-      gap:8px;
-      align-items:center;
-      z-index: 2;
-    }
-    .tag .dot{
-      width:8px;
-      height:8px;
-      border-radius:999px;
-      background: var(--ok);
-      box-shadow: 0 0 0 3px rgba(43,226,122,.18);
-    }
-    .body{
-      padding: 12px 12px 12px;
-      display:flex;
-      flex-direction:column;
-      gap:6px;
-      flex: 1 1 auto;
-      min-height: 86px;
-    }
-    .title{
-      font-size: 14px;
-      font-weight: 800;
-      margin:0;
-      line-height:1.25;
+/* JOKE + SATIRE */
+.grid2{
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:14px;
+  margin-bottom:20px;
+}
+.mini{
+  background:var(--panel);
+  border:1px solid var(--border);
+  border-radius:var(--r);
+  padding:14px;
+  box-shadow:var(--shadow);
+}
+.mini h2{margin:0 0 10px;font-size:15px}
+.mini p{margin:0}
 
-      display:-webkit-box;
-      -webkit-line-clamp: 2;
-      -webkit-box-orient: vertical;
-      overflow:hidden;
-    }
-    .small{
-      margin:0;
-      color:var(--muted);
-      font-size: 12px;
-      line-height:1.25;
+/* CONTROLS */
+.controls{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  margin-bottom:14px;
+}
+button{
+  border:1px solid var(--border);
+  background:var(--btn);
+  color:var(--text);
+  padding:8px 14px;
+  border-radius:999px;
+  cursor:pointer;
+}
+button.active{
+  background:var(--btn2);
+  border-color:#9fd3ff;
+}
 
-      display:-webkit-box;
-      -webkit-line-clamp: 2;
-      -webkit-box-orient: vertical;
-      overflow:hidden;
-    }
+/* NEWS */
+.section{
+  background:var(--panel);
+  border:1px solid var(--border);
+  border-radius:var(--r);
+  margin-bottom:14px;
+  box-shadow:var(--shadow);
+}
+.sectionhead{
+  padding:12px;
+  border-bottom:1px solid var(--border);
+  font-weight:700;
+}
+.item{
+  display:grid;
+  grid-template-columns:160px 1fr;
+  gap:12px;
+  padding:12px;
+  border-top:1px solid var(--border);
+}
+.thumb{
+  height:100px;
+  overflow:hidden;
+  border-radius:12px;
+}
+.thumb img{
+  width:100%;
+  height:100%;
+  object-fit:cover;
+}
+.meta .t{
+  margin:0;
+  font-weight:700;
+}
+.meta .s{
+  margin:4px 0;
+  font-size:13px;
+  color:var(--muted);
+}
+.meta .row{
+  font-size:12px;
+  color:var(--muted2);
+}
 
-    /* ===== Joke + Satire ===== */
-    .grid2{
-      display:grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 12px;
-      margin: 10px 0 18px;
-    }
-    .mini{
-      padding: 14px 14px 14px;
-      background: linear-gradient(180deg, rgba(255,255,255,.04), rgba(255,255,255,.02));
-      border: 1px solid var(--border);
-      border-radius: var(--r);
-      box-shadow: var(--shadow);
-      min-height: 160px;
-      display:flex;
-      flex-direction:column;
-      overflow:hidden;
-    }
-    .mini h2{
-      margin:0 0 8px;
-      font-size: 16px;
-      display:flex;
-      gap:10px;
-      align-items:center;
-    }
-    .mini h2 span{
-      font-size:12px;
-      color:var(--muted);
-      font-weight:800;
-      border:1px solid var(--border);
-      background: rgba(255,255,255,.04);
-      padding: 4px 8px;
-      border-radius:999px;
-    }
-    .mini .txt{
-      margin:0;
-      color:var(--text);
-      font-size: 14px;
-      line-height: 1.5;
-    }
-    .mini .src{
-      margin-top:auto;
-      font-size: 12px;
-      color:var(--muted);
-    }
-    .mini .src a{ color: var(--link); text-decoration: underline; }
-
-    /* ===== Controls ===== */
-    .controls{
-      display:flex;
-      justify-content:space-between;
-      gap:12px;
-      flex-wrap:wrap;
-      align-items:center;
-      margin: 10px 0 10px;
-    }
-    .btnrow{
-      display:flex;
-      gap:8px;
-      flex-wrap:wrap;
-      align-items:center;
-    }
-    button{
-      border:1px solid var(--border);
-      background: var(--btn);
-      color: var(--text);
-      padding: 10px 12px;
-      border-radius: 999px;
-      font-size: 13px;
-      cursor:pointer;
-      user-select:none;
-    }
-    button:hover{ background: var(--btn2); }
-    button.active{
-      border-color: rgba(159,211,255,.55);
-      box-shadow: 0 0 0 4px rgba(159,211,255,.12);
-      background: rgba(159,211,255,.10);
-    }
-    .status{
-      color: var(--muted);
-      font-size: 12px;
-      display:flex;
-      gap:10px;
-      align-items:center;
-      flex-wrap:wrap;
-    }
-    .status code{
-      color: var(--text);
-      background: rgba(255,255,255,.06);
-      border:1px solid var(--border);
-      padding: 3px 6px;
-      border-radius: 8px;
-      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-      font-size: 11px;
-    }
-
-    /* ===== Sections / news cards ===== */
-    .sections{
-      display:grid;
-      grid-template-columns: 1fr;
-      gap: 12px;
-      margin-top: 10px;
-    }
-    .section{
-      border: 1px solid var(--border);
-      background: linear-gradient(180deg, rgba(255,255,255,.03), rgba(255,255,255,.015));
-      border-radius: var(--r);
-      overflow:hidden;
-      box-shadow: var(--shadow);
-    }
-    .sectionhead{
-      padding: 12px 14px;
-      border-bottom: 1px solid var(--border);
-      display:flex;
-      justify-content:space-between;
-      align-items:center;
-      gap: 10px;
-      flex-wrap:wrap;
-      background: rgba(255,255,255,.03);
-    }
-    .sectionhead h3{
-      margin:0;
-      font-size: 15px;
-      display:flex;
-      gap:10px;
-      align-items:center;
-    }
-    .badge{
-      font-size: 11px;
-      color: var(--muted);
-      border:1px solid var(--border);
-      background: rgba(255,255,255,.04);
-      padding: 4px 8px;
-      border-radius:999px;
-      font-weight:800;
-    }
-    .items{
-      display:grid;
-      grid-template-columns: 1fr;
-    }
-    .item{
-      display:grid;
-      grid-template-columns: 160px 1fr;
-      gap: 12px;
-      padding: 12px 14px;
-      border-top: 1px solid rgba(255,255,255,.06);
-      align-items:start;
-    }
-    .item:first-child{ border-top:0; }
-    .thumb{
-      width:160px;
-      aspect-ratio: 16/10;
-      border-radius: 14px;
-      overflow:hidden;
-      border:1px solid rgba(255,255,255,.10);
-      background: #0f0f16;
-    }
-    .thumb img{
-      width:100%;
-      height:100%;
-      object-fit:cover;
-      display:block;
-      filter: saturate(1.03) contrast(1.03);
-    }
-    .meta{
-      display:flex;
-      flex-direction:column;
-      gap:8px;
-      min-width: 0;
-    }
-    .meta .t{
-      margin:0;
-      font-weight: 900;
-      font-size: 15px;
-      letter-spacing:.1px;
-      line-height: 1.25;
-    }
-    .meta .t a{ text-decoration:none; }
-    .meta .t a:hover{ text-decoration:underline; }
-    .meta .s{
-      margin:0;
-      color: var(--muted);
-      font-size: 13px;
-      line-height: 1.5;
-      overflow-wrap:anywhere;
-      display:-webkit-box;
-      -webkit-line-clamp: 4;
-      -webkit-box-orient: vertical;
-      overflow:hidden;
-    }
-    .row{
-      display:flex;
-      gap:8px;
-      flex-wrap:wrap;
-      align-items:center;
-      color: var(--muted2);
-      font-size: 12px;
-    }
-    .k{
-      padding: 4px 10px;
-      border-radius: 999px;
-      border:1px solid rgba(255,255,255,.10);
-      background: var(--chip);
-      color: var(--muted);
-      font-weight:900;
-      font-size: 11px;
-      text-transform: uppercase;
-      letter-spacing:.6px;
-    }
-    .k.ro{ border-color: rgba(159,211,255,.35); background: rgba(159,211,255,.08); }
-    .k.en{ border-color: rgba(255,204,102,.35); background: rgba(255,204,102,.10); }
-
-    .dot2{
-      width:6px;
-      height:6px;
-      border-radius:999px;
-      background: rgba(255,255,255,.28);
-      display:inline-block;
-    }
-
-    .empty{
-      padding: 14px;
-      color: var(--muted);
-    }
-
-    footer{
-      margin-top: 26px;
-      color: var(--muted2);
-      font-size: 12px;
-      text-align:center;
-      padding: 18px 0 0;
-    }
-    footer a{ color: var(--link); }
-
-    @media (max-width: 920px){
-      .grid3{ grid-template-columns: 1fr; }
-      .grid2{ grid-template-columns: 1fr; }
-      .item{ grid-template-columns: 1fr; }
-      .thumb{ width:100%; }
-      header{ align-items:flex-start; flex-direction:column; }
-      .pillrow{ justify-content:flex-start; }
-    }
-  </style>
+/* MOBILE */
+@media(max-width:900px){
+  .grid3{grid-template-columns:1fr}
+  .grid2{grid-template-columns:1fr}
+  .item{grid-template-columns:1fr}
+  .thumb{height:200px}
+}
+</style>
 </head>
 
 <body>
-  <div class="wrap">
-    <header>
-      <div class="brand">
-        <h1>Vești bune</h1>
-        <div class="sub">România (RO) + Global (EN). Actualizat automat.</div>
-      </div>
-      <div class="pillrow">
-        <div class="pill"><b>Mod</b> Mix / RO / EN</div>
-        <div class="pill"><b>Date</b> <a href="./data/news.json" target="_blank" rel="noopener">news.json</a></div>
-        <div class="pill"><b>Tip</b> hard refresh <code>Cmd+Shift+R</code></div>
-      </div>
-    </header>
+<div class="wrap">
 
-    <!-- TOP PHOTOS (3 categories) -->
-    <div class="grid3" id="topPhotos">
-      <div class="card">
-        <div class="photo">
-          <img alt="Space" referrerpolicy="no-referrer" loading="lazy"
-               src="https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=60" />
-          <div class="tag"><span class="dot"></span> Space</div>
-        </div>
-        <div class="body">
-          <p class="title">Space</p>
-          <p class="small">Astronomie, cosmos, imagini liniștitoare.</p>
-        </div>
-      </div>
+<header>
+  <div>
+    <h1>Vești bune</h1>
+    <div class="sub">România (RO) + Global (EN)</div>
+  </div>
+</header>
 
-      <div class="card">
-        <div class="photo">
-          <img alt="Animals" referrerpolicy="no-referrer" loading="lazy"
-               src="https://images.unsplash.com/photo-1504203700686-0be9c8fdf38a?auto=format&fit=crop&w=1200&q=60" />
-          <div class="tag"><span class="dot"></span> Animals</div>
-        </div>
-        <div class="body">
-          <p class="title">Animals</p>
-          <p class="small">Doar vibe bun. 🐾</p>
-        </div>
-      </div>
-
-      <div class="card">
-        <div class="photo">
-          <img alt="Landscape" referrerpolicy="no-referrer" loading="lazy"
-               src="https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=60" />
-          <div class="tag"><span class="dot"></span> Landscape</div>
-        </div>
-        <div class="body">
-          <p class="title">Landscape</p>
-          <p class="small">Natură, munți, reset mental.</p>
-        </div>
-      </div>
+<!-- TOP -->
+<div class="grid3">
+  <div class="card">
+    <div class="photo">
+      <img src="https://picsum.photos/seed/vbspace/1200/800"/>
     </div>
-
-    <!-- JOKE + SATIRE -->
-    <div class="grid2">
-      <div class="mini">
-        <h2>Gluma zilei <span>RO</span></h2>
-        <p class="txt" id="jokeText">Se încarcă…</p>
-        <p class="src">Sursă: <a href="#" id="jokeSrc" target="_blank" rel="noopener">link</a></p>
-      </div>
-
-      <div class="mini">
-        <h2>Satira zilei <span>RO</span></h2>
-        <p class="txt" id="satireText">Se încarcă…</p>
-        <p class="src">Sursă: <a href="#" id="satireSrc" target="_blank" rel="noopener">link</a></p>
-      </div>
+    <div class="body">
+      <p class="title">Space</p>
+      <p class="small">Astronomie și cosmos</p>
     </div>
-
-    <!-- CONTROLS -->
-    <div class="controls">
-      <div class="btnrow">
-        <button id="btnMix" class="active" type="button">✨ Mix</button>
-        <button id="btnRO" type="button">🇷🇴 RO</button>
-        <button id="btnEN" type="button">🌍 EN</button>
-      </div>
-      <div class="status">
-        <span id="statusText">Se încarcă știrile…</span>
-        <span class="dot2"></span>
-        <span>Ultima actualizare: <code id="generatedUtc">—</code></span>
-      </div>
-    </div>
-
-    <!-- FEED -->
-    <div class="sections" id="sections"></div>
-
-    <footer>
-      Dacă vezi versiune veche: <b>Cmd+Shift+R</b> / <b>Ctrl+F5</b>.
-    </footer>
   </div>
 
-  <script>
-    const $ = (sel) => document.querySelector(sel);
+  <div class="card">
+    <div class="photo">
+      <img src="https://picsum.photos/seed/vbanimals/1200/800"/>
+    </div>
+    <div class="body">
+      <p class="title">Animals</p>
+      <p class="small">Doar vibe bun 🐾</p>
+    </div>
+  </div>
 
-    function esc(s){
-      return (s ?? "").replace(/[&<>"']/g, m => ({
-        "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"
-      }[m]));
-    }
-    function toDate(iso){
-      try {
-        const d = new Date(iso);
-        return d.toLocaleString("ro-RO", { year:"numeric", month:"short", day:"2-digit", hour:"2-digit", minute:"2-digit" });
-      } catch { return iso || ""; }
-    }
-    function hostOf(url){
-      try { return new URL(url).hostname.replace(/^www\./,''); }
-      catch { return ""; }
-    }
+  <div class="card">
+    <div class="photo">
+      <img src="https://picsum.photos/seed/vblandscape/1200/800"/>
+    </div>
+    <div class="body">
+      <p class="title">Landscape</p>
+      <p class="small">Natură și reset mental</p>
+    </div>
+  </div>
+</div>
 
-    // Banc + satiră (deterministic pe zi)
-    const jokes = [
-      { t: "— De ce QA-ul nu merge la petreceri? — Pentru că mereu găsește bug-uri în atmosferă.", u: "https://en.wikipedia.org/wiki/Software_testing" },
-      { t: "Dacă totul pare ok… înseamnă că n-ai testat suficient.", u: "https://en.wikipedia.org/wiki/Quality_assurance" },
-      { t: "Veste bună: am reparat bug-ul. Veste și mai bună: am găsit încă 5!", u: "https://en.wikipedia.org/wiki/Debugging" },
-      { t: "Am încercat să fiu pozitiv. A ieșit un test case cu 0 pași și 3 așteptări.", u: "https://en.wikipedia.org/wiki/Test_case" },
-    ];
-    const satire = [
-      { t: "Breaking: România intră în topul mondial la optimism… după ce a dezinstalat notificările.", u: "https://en.wikipedia.org/wiki/Satire" },
-      { t: "S-a descoperit o metodă nouă de productivitate: închizi 3 tab-uri și te simți ca și cum ai terminat proiectul.", u: "https://en.wikipedia.org/wiki/Procrastination" },
-      { t: "Un studiu arată că 9 din 10 oameni preferă veștile bune. Al 10-lea preferă să se plângă că sunt prea puține.", u: "https://en.wikipedia.org/wiki/Negativity_bias" },
-      { t: "Economiștii confirmă: dacă nu verifici contul, cheltuielile scad cu 100%.", u: "https://en.wikipedia.org/wiki/Behavioral_economics" }
-    ];
-    function pickDaily(arr){
-      const d = new Date();
-      const key = Number(`${d.getFullYear()}${String(d.getMonth()+1).padStart(2,'0')}${String(d.getDate()).padStart(2,'0')}`);
-      return arr[key % arr.length];
-    }
-    const j = pickDaily(jokes);
-    $("#jokeText").textContent = j.t;
-    $("#jokeSrc").href = j.u;
+<!-- JOKE + SATIRE -->
+<div class="grid2">
+  <div class="mini">
+    <h2>Gluma zilei</h2>
+    <p id="jokeText">Se încarcă…</p>
+  </div>
+  <div class="mini">
+    <h2>Satira zilei</h2>
+    <p id="satireText">Se încarcă…</p>
+  </div>
+</div>
 
-    const s = pickDaily(satire);
-    $("#satireText").textContent = s.t;
-    $("#satireSrc").href = s.u;
+<!-- CONTROLS -->
+<div class="controls">
+  <div>
+    <button id="btnMix" class="active">Mix</button>
+    <button id="btnRO">RO</button>
+    <button id="btnEN">EN</button>
+  </div>
+  <div id="statusText">Se încarcă știrile…</div>
+</div>
 
-    // ===== News rendering =====
-    const state = { mode: "mix", sections: {} };
+<div id="sections"></div>
 
-    function isRO(it){ return (it.kind === "ro") || (it.section === "romania"); }
-    function isEN(it){ return !isRO(it); }
+</div>
 
-    function sectionLabel(key){
-      const map = {
-        romania: "🇷🇴 România",
-        medical: "🩺 Medical",
-        science: "🔬 Știință",
-        environment: "🌱 Mediu",
-        tech: "💻 Tech",
-        business: "💼 Business",
-        culture: "🎭 Cultură",
-        sports: "⚽ Sport",
-        funny: "😄 Fun"
-      };
-      return map[key] || (key.charAt(0).toUpperCase() + key.slice(1));
-    }
+<script>
+// Simplified stable logic
 
-    // Fallback images per section (so left side is ALWAYS filled)
-    const FALLBACK_BY_SECTION = {
-      romania:     "https://images.unsplash.com/photo-1528909514045-2fa4ac7a08ba?auto=format&fit=crop&w=900&q=60",
-      medical:     "https://images.unsplash.com/photo-1582719478185-2bbf4f2b0b1b?auto=format&fit=crop&w=900&q=60",
-      science:     "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=900&q=60",
-      environment: "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=900&q=60",
-      tech:        "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=900&q=60",
-      business:    "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=900&q=60",
-      culture:     "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=900&q=60",
-      sports:      "https://images.unsplash.com/photo-1521412644187-c49fa049e84d?auto=format&fit=crop&w=900&q=60",
-      funny:       "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?auto=format&fit=crop&w=900&q=60",
-      other:       "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=900&q=60",
-    };
+const jokes=[
+"QA-ul nu merge la petreceri. Găsește bug-uri în atmosferă.",
+"Dacă totul pare ok, n-ai testat suficient.",
+"Am reparat bug-ul. Am găsit încă 5."
+];
+const satire=[
+"România intră în topul optimismului după dezinstalarea notificărilor.",
+"Nouă metodă de productivitate: închizi 3 tab-uri.",
+"9 din 10 oameni preferă veștile bune."
+];
 
-    function pickImage(it){
-      // 1) if generator provides it.image -> use it
-      if (it.image && typeof it.image === "string" && it.image.startsWith("http")) return it.image;
+function daily(arr){
+  const d=new Date();
+  return arr[d.getDate()%arr.length];
+}
+document.getElementById("jokeText").innerText=daily(jokes);
+document.getElementById("satireText").innerText=daily(satire);
 
-      // 2) fallback by section
-      const sec = (it.section || "other").toLowerCase();
-      return FALLBACK_BY_SECTION[sec] || FALLBACK_BY_SECTION.other;
-    }
+let mode="mix";
+const sectionsEl=document.getElementById("sections");
 
-    function normalizeSections(raw){
-      const secs = raw.sections || {};
-      const out = {};
-      for (const [k, arr] of Object.entries(secs)){
-        out[k] = (arr || []).map(x => ({
-          section: x.section || k,
-          kind: x.kind || (k === "romania" ? "ro" : "global"),
-          source: x.source || hostOf(x.link),
-          title: x.title || "",
-          summary: x.summary || "",
-          link: x.link || "#",
-          published_utc: x.published_utc || "",
-          image: x.image || null
-        })).sort((a,b)=> (b.published_utc||"").localeCompare(a.published_utc||""));
-      }
-      return out;
-    }
+function render(data){
+  sectionsEl.innerHTML="";
+  Object.keys(data).forEach(sec=>{
+    const box=document.createElement("div");
+    box.className="section";
+    box.innerHTML=`<div class="sectionhead">${sec.toUpperCase()}</div>`;
+    data[sec].forEach(it=>{
+      const img=it.image||`https://picsum.photos/seed/${btoa(it.title).slice(0,8)}/900/600`;
+      const row=document.createElement("div");
+      row.className="item";
+      row.innerHTML=`
+        <div class="thumb"><img src="${img}"/></div>
+        <div class="meta">
+          <p class="t"><a target="_blank" href="${it.link}">${it.title}</a></p>
+          <p class="s">${it.summary||""}</p>
+          <div class="row">${it.source||""}</div>
+        </div>`;
+      box.appendChild(row);
+    });
+    sectionsEl.appendChild(box);
+  });
+}
 
-    function filterByMode(all, mode){
-      const filtered = {};
-      for (const [k, arr] of Object.entries(all)){
-        let a = arr;
-        if (mode === "ro") a = arr.filter(isRO);
-        if (mode === "en") a = arr.filter(isEN);
-        if (a.length) filtered[k] = a;
-      }
-      return filtered;
-    }
+async function load(){
+  const res=await fetch("./data/news.json?"+Date.now());
+  const raw=await res.json();
+  const all=raw.sections||{};
+  let out={};
+  if(mode==="mix") out=all;
+  if(mode==="ro") Object.keys(all).forEach(k=>out[k]=all[k].filter(i=>i.kind==="ro"));
+  if(mode==="en") Object.keys(all).forEach(k=>out[k]=all[k].filter(i=>i.kind!=="ro"));
+  render(out);
+  document.getElementById("statusText").innerText="Actualizat";
+}
 
-    function render(sections){
-      const root = $("#sections");
-      root.innerHTML = "";
+document.getElementById("btnMix").onclick=()=>{mode="mix";load()};
+document.getElementById("btnRO").onclick=()=>{mode="ro";load()};
+document.getElementById("btnEN").onclick=()=>{mode="en";load()};
 
-      const keys = Object.keys(sections);
-      if (!keys.length){
-        root.innerHTML = `<div class="section"><div class="empty">Nu sunt știri pentru filtrul ales.</div></div>`;
-        return;
-      }
-
-      for (const k of keys){
-        const arr = sections[k];
-
-        const box = document.createElement("div");
-        box.className = "section";
-        box.innerHTML = `
-          <div class="sectionhead">
-            <h3>${esc(sectionLabel(k))}</h3>
-            <span class="badge">${arr.length} articole</span>
-          </div>
-          <div class="items"></div>
-        `;
-        const itemsEl = box.querySelector(".items");
-
-        for (const it of arr){
-          const kindText = isRO(it) ? "RO" : "EN";
-          const kindClass = isRO(it) ? "ro" : "en";
-          const img = pickImage(it);
-
-          const item = document.createElement("div");
-          item.className = "item";
-          item.innerHTML = `
-            <div class="thumb">
-              <img loading="lazy" referrerpolicy="no-referrer" alt="" src="${esc(img)}" />
-            </div>
-            <div class="meta">
-              <p class="t"><a target="_blank" rel="noopener" href="${esc(it.link)}">${esc(it.title)}</a></p>
-              <p class="s">${esc(it.summary)}</p>
-              <div class="row">
-                <span class="k ${kindClass}">${kindText}</span>
-                <span class="dot2"></span>
-                <span>${esc(it.source || hostOf(it.link))}</span>
-                <span class="dot2"></span>
-                <span>${esc(toDate(it.published_utc))}</span>
-              </div>
-            </div>
-          `;
-          itemsEl.appendChild(item);
-        }
-
-        root.appendChild(box);
-      }
-    }
-
-    function setMode(mode){
-      state.mode = mode;
-      $("#btnMix").classList.toggle("active", mode === "mix");
-      $("#btnRO").classList.toggle("active", mode === "ro");
-      $("#btnEN").classList.toggle("active", mode === "en");
-
-      const filtered = filterByMode(state.sections, mode);
-      render(filtered);
-
-      const count = Object.values(filtered).reduce((acc, a) => acc + a.length, 0);
-      $("#statusText").textContent = `Afișez: ${count} articole • Filtru: ${mode.toUpperCase()}`;
-    }
-
-    async function load(){
-      try{
-        $("#statusText").textContent = "Se încarcă știrile…";
-        const res = await fetch("./data/news.json?t=" + Date.now(), { cache: "no-store" });
-        if (!res.ok) throw new Error("Nu pot încărca ./data/news.json");
-        const raw = await res.json();
-        $("#generatedUtc").textContent = raw.generated_utc ? raw.generated_utc : "—";
-        state.sections = normalizeSections(raw);
-        setMode("mix");
-      }catch(e){
-        console.error(e);
-        $("#statusText").textContent = "Eroare la încărcarea știrilor.";
-        $("#sections").innerHTML = `<div class="section"><div class="empty">Nu pot încărca <code>data/news.json</code>.</div></div>`;
-      }
-    }
-
-    $("#btnMix").addEventListener("click", () => setMode("mix"));
-    $("#btnRO").addEventListener("click", () => setMode("ro"));
-    $("#btnEN").addEventListener("click", () => setMode("en"));
-
-    load();
-  </script>
+load();
+</script>
 </body>
 </html>
