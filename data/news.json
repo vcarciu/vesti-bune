@@ -1,13 +1,24 @@
 {
-  "generated_utc": "2026-02-26T17:06:14+00:00",
+  "generated_utc": "2026-02-26T17:51:03+00:00",
   "sections": {
     "romania": [
       {
         "section": "romania",
         "kind": "ro",
+        "source": "Digi24",
+        "title": "„Persoanele LGBTQ+, ținta unui atac orchestrat în Europa”. Discurs împotriva comunității din România în campania prezidențială (raport)",
+        "summary": "Persoanele LGBTI din Europa se confruntă cu o ofensivă coordonată a extremei drepte, avertizează raportul anual al ILGA Europe, realizat cu contribuția organizației românești ACCEPT. Documentul analizează evenimentele sociale, juridice și politice din 54 de țări, inclusiv România, pe parcursul anului 2025.",
+        "link": "https://www.digi24.ro/stiri/actualitate/social/persoanele-lgbtq-tinta-unui-atac-orchestrat-in-europa-discurs-impotriva-comunitatii-din-romania-in-campania-prezidentiala-raport-3650123",
+        "published_utc": "2026-02-26T17:47:41+00:00",
+        "score": 3,
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMiUyRjI2JTJGMjYwODI5Nl8yNjA4/Mjk2X0dldHR5SW1hZ2VzLTE0NDE1NjY0/MDAuanBnJmhhc2g9YWIxNTgwOGE1ZmY1YWQ5ZGY3YjJlYjA1ZTY0MjYxZjc=.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
         "source": "HotNews",
         "title": "Declarația Unică 2026: Cum vor putea românii beneficia de reducerea impozitului pe PFA, chirii, activități independente, crypto. Ce faci dacă ai depus deja formularul 212 la ANAF",
-        "summary": "Ordonanța de urgență 8/2026, publicată în Monitorul Oficial, prevede condițiile în vor putea beneficia de bonificația de 3% din impozit românii care au obținut venituri ca persoană fizică autorizată (PFA) sau din activități independente, chirii,&#8230;",
+        "summary": "Ordonanța de urgență 8/2026, publicată în Monitorul Oficial, prevede condițiile în care vor putea beneficia de bonificația de 3% din impozit românii care au obținut venituri ca persoană fizică autorizată (PFA) sau din activități independente,&#8230;",
         "link": "https://hotnews.ro/declaratia-unica-2026-cum-vor-putea-romanii-beneficia-de-reducerea-impozitului-pe-pfa-chirii-activitati-independente-crypto-ce-faci-daca-ai-depus-deja-formularul-212-la-anaf-2180202",
         "published_utc": "2026-02-26T16:25:02+00:00",
         "score": 3,
@@ -115,17 +126,6 @@
       {
         "section": "romania",
         "kind": "ro",
-        "source": "RomaniaPozitiva",
-        "title": "EcoSolar: elevi implicați în realizarea unui prototip de uscător solar pentru agricultură ecologică",
-        "summary": "Asociația Culturalis, în parteneriat cu Liceul Tehnologic „Nikola Tesla”, Academia Viitorul Verde și Climato Sfera, au derulat în perioada septembrie 2025 &#8211; februarie 2026 proiectul EcoSolar, o inițiativă educațională de&#8230; Articolul EcoSolar: elevi implicați în realizarea unui prototip de uscător solar pentru agricultură ecologică apare prima dată în Romania Pozitiva .",
-        "link": "https://www.romaniapozitiva.ro/coltul-verde/ecosolar-elevi-implicati-in-realizarea-unui-prototip-de-uscator-solar-pentru-agricultura-ecologica",
-        "published_utc": "2026-02-26T10:47:54+00:00",
-        "score": 3,
-        "image": "http://www.romaniapozitiva.ro/wp-content/uploads/2026/02/Imagine-EcoSolar_2.jpeg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
         "source": "Bursa - Titlurile zilei",
         "title": "Centru de monitorizare a traficului pe A7, investiţie-cheie pentru siguranţa circulaţiei",
         "summary": "Deschiderea treptată a tronsoanelor din Autostrada Moldovei - A7 - începe să îşi producă efectele vizibile asupra traficului rutier din zona Buzău - Vrancea, unde şoseaua europeană DN2E85 a fost ani la rând una dintre cele mai aglomerate şi mai riscante artere din ţară.",
@@ -213,6 +213,16 @@
       }
     ],
     "medical": [
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "Popular brain supplement linked to shorter lifespan in men",
+        "summary": "A massive study of more than 270,000 people has uncovered a surprising link between a common amino acid and how long men live. Researchers found that higher levels of tyrosine—an amino acid found in protein-rich foods and often marketed as a focus-boosting supplement—were associated with shorter life expectancy in men, potentially trimming nearly a year off lifespan.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260226042458.htm",
+        "published_utc": "2026-02-26T17:31:50+00:00",
+        "score": 2
+      },
       {
         "section": "medical",
         "kind": "global",
@@ -452,16 +462,6 @@
         "link": "https://www.sciencedaily.com/releases/2026/02/260215225602.htm",
         "published_utc": "2026-02-16T13:33:46+00:00",
         "score": 2
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "ScienceDaily Health",
-        "title": "Lab grown human spinal cord heals after injury in major breakthrough",
-        "summary": "Researchers have built a realistic human mini spinal cord in the lab and used it to simulate traumatic injury. The model reproduced key damage seen in real spinal cord injuries, including inflammation and scar formation. After treatment with fast moving “dancing molecules,” nerve fibers began growing again and scar tissue shrank. The results suggest the therapy could eventually help repair spinal cord damage.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260216044003.htm",
-        "published_utc": "2026-02-16T12:41:25+00:00",
-        "score": 3
       }
     ],
     "science": [
@@ -474,6 +474,17 @@
         "link": "https://www.sciencedaily.com/releases/2026/02/260226042445.htm",
         "published_utc": "2026-02-26T16:03:17+00:00",
         "score": 2
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "NASA Breaking News",
+        "title": "NASA Names Acting Leaders for Two Key Human Spaceflight Roles",
+        "summary": "Editor&#8217;s note: This release was updated Thursday, Feb. 26 to reflect the effective date of the leadership changes. On&#160;Thursday,&#160;NASA announced Joel Montalbano will serve as the acting associate administrator for the Space Operations Mission Directorate (SOMD) at NASA Headquarters in Washington, and Dana Hutcherson will serve as the acting program&#160;manager&#160;of the Commercial Crew Program, effective [&#8230;]",
+        "link": "https://www.nasa.gov/news-release/nasa-names-acting-leaders-for-two-key-human-spaceflight-roles",
+        "published_utc": "2026-02-26T15:08:57+00:00",
+        "score": 2,
+        "image": "https://www.nasa.gov/wp-content/uploads/2020/06/jsc2018e049983.jpg"
       },
       {
         "section": "science",
@@ -665,17 +676,6 @@
         "link": "https://www.sciencedaily.com/releases/2026/02/260217005734.htm",
         "published_utc": "2026-02-18T06:10:28+00:00",
         "score": 2
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Positive News",
-        "title": "Web of undersea cables poised to become marine observatory",
-        "summary": "Telecom infrastructure at the ocean floor is being harnessed as a powerful conservation tool for vulnerable marine mammals The post Web of undersea cables poised to become marine observatory appeared first on Positive News .",
-        "link": "https://www.positive.news/environment/conservation/web-of-undersea-cables-poised-to-become-marine-observatory",
-        "published_utc": "2026-02-16T10:23:21+00:00",
-        "score": 2,
-        "image": "https://www.positive.news/wp-content/uploads/2026/02/CREDIT-Vidar-Nordli-Mathisen.jpg"
       }
     ],
     "environment": [
@@ -807,21 +807,21 @@
   "top_images": [
     {
       "tag": "space",
-      "title": "Moon Mountains",
-      "link": "https://www.flickr.com/photos/deepgreen2009/55115234527/",
-      "image": "https://live.staticflickr.com/65535/55115234527_8dd2915e50_b.jpg"
+      "title": "Clear empty photographer studio background Abstract, background texture of beauty dark and light clear blue, cold gray, snowy white gradient flat wall and floor in empty spacious room winter interior",
+      "link": "https://www.flickr.com/photos/196430520@N07/55116838484/",
+      "image": "https://live.staticflickr.com/65535/55116838484_c80b1d5002_b.jpg"
     },
     {
       "tag": "animals",
-      "title": "Alerta",
-      "link": "https://www.flickr.com/photos/199091216@N04/55117338291/",
-      "image": "https://live.staticflickr.com/65535/55117338291_368177c5c5_b.jpg"
+      "title": "Buffalo Zoo Posing Otter",
+      "link": "https://www.flickr.com/photos/jay_costello/55117537959/",
+      "image": "https://live.staticflickr.com/65535/55117537959_8d68ab9b6e_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "Brown Hare",
-      "link": "https://www.flickr.com/photos/warrencarls_images/55116603612/",
-      "image": "https://live.staticflickr.com/65535/55116603612_d9bf98f7cc_b.jpg"
+      "title": "The Connemara Smokehouse",
+      "link": "https://www.flickr.com/photos/natur-heimat/55117879925/",
+      "image": "https://live.staticflickr.com/65535/55117879925_1eeaf2d9b0_b.jpg"
     }
   ]
 }
