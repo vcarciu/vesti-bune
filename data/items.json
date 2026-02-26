@@ -1,7 +1,18 @@
 {
-  "generated_utc": "2026-02-26T04:06:18+00:00",
+  "generated_utc": "2026-02-26T05:50:35+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Cât costă asigurarea voluntară la pensie în 2026 și cine poate contribui. Cum îți asiguri vechimea fără contract de muncă",
+        "summary": "Românii care nu au un loc de muncă activ sau au perioade fără venituri își pot asigura singuri vechimea necesară pentru pensie prin încheierea unui contract de asigurare voluntară în sistemul public. Mecanismul le permite să plătească contribuția la pensii chiar și în lipsa unui angajator",
+        "link": "https://www.digi24.ro/stiri/actualitate/social/cat-costa-asigurarea-voluntara-la-pensie-in-2026-si-cine-poate-contribui-cum-iti-asiguri-vechimea-fara-contract-de-munca-3648035",
+        "published_utc": "2026-02-26T05:00:18+00:00",
+        "score": 3,
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMiUyRjI1JTJGMjYwNjg0Nl8yNjA2/ODQ2X0FzaWd1cmFyZWEtdm9sdW50YXJh/LXBlbnRydS1wZW5zaWlfLUZvdG8tR2V0/dHktSW1hZ2VzLmpwZyZoYXNoPTQwNWQ0/MTlhZmVhOGU4NmVlOTI3OWYzNzc1MzQ1MWFk.jpg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -67,17 +78,6 @@
         "published_utc": "2026-02-25T17:21:31+00:00",
         "score": 3,
         "image": "http://www.romaniapozitiva.ro/wp-content/uploads/2026/02/ORCHESTRONIC-1.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "„Tulsa King”, unul dintre serialele TV de succes, va avea un spin-off, cu un mare actor",
-        "summary": "Serialul „Tulsa King”, una dintre producțiile de succes ale platformei Paramount+, va avea un spin-off intitulat „Frisco King”, în care rolul principal va fi interpretat de Samuel L. Jackson. Noul proiect este dezvoltat de Taylor&#8230;",
-        "link": "https://hotnews.ro/tulsa-king-unul-dintre-serialele-tv-de-succes-va-avea-un-spin-off-cu-un-mare-actor-2179461",
-        "published_utc": "2026-02-25T17:17:12+00:00",
-        "score": 3,
-        "image": "https://hotnews.ro/wp-content/uploads/2026/02/Screenshot-2026-02-25-191802.png"
       },
       {
         "section": "romania",
@@ -782,21 +782,21 @@
   "top_images": [
     {
       "tag": "space",
-      "title": "Coast Guard Sikorsky HH-52A Seaguard",
-      "link": "https://www.flickr.com/photos/georgeneat/55115421007/",
-      "image": "https://live.staticflickr.com/65535/55115421007_68c8c32a81_b.jpg"
+      "title": "Sparrow II Missle",
+      "link": "https://www.flickr.com/photos/georgeneat/55116497003/",
+      "image": "https://live.staticflickr.com/65535/55116497003_582be17aab_b.jpg"
     },
     {
       "tag": "animals",
-      "title": "Pere David's Deer260115 7",
-      "link": "https://www.flickr.com/photos/suewright2013/55116539656/",
-      "image": "https://live.staticflickr.com/65535/55116539656_a8a60e4a56_b.jpg"
+      "title": "Bee Careful",
+      "link": "https://www.flickr.com/photos/kilowattusaf/55116817838/",
+      "image": "https://live.staticflickr.com/65535/55116817838_ce3196886b_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "20260225-JS1_8571",
-      "link": "https://www.flickr.com/photos/jschaef00/55115697337/",
-      "image": "https://live.staticflickr.com/65535/55115697337_4562e6915f_b.jpg"
+      "title": "Trees In A Row - 138",
+      "link": "https://www.flickr.com/photos/leidorf/55117000059/",
+      "image": "https://live.staticflickr.com/65535/55117000059_8b6bc7c590_b.jpg"
     }
   ]
 }
