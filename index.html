@@ -5,35 +5,140 @@
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Vești bune</title>
   <meta name="description" content="România (RO) + Global (EN) — doar vibe bun." />
+
   <style>
     :root{
-      --bg:#0b0d10; --card:#12161b; --muted:#a8b0bb; --text:#e9eef6; --line:#1f2630;
-      --accent:#7c5cff; --accent2:#22c55e; --warn:#fbbf24;
+      --bg:#0b0d10; 
+      --card:#12161b; 
+      --muted:#a8b0bb; 
+      --text:#e9eef6; 
+      --line:#1f2630;
+      --accent:#7c5cff; 
+      --accent2:#22c55e; 
+      --warn:#fbbf24;
     }
+
     *{box-sizing:border-box}
-    body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;background:var(--bg);color:var(--text)}
+    body{
+      margin:0;
+      font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;
+      background:var(--bg);
+      color:var(--text)
+    }
+
     a{color:inherit;text-decoration:none}
-    .wrap{max-width:1100px;margin:0 auto;padding:18px}
-    .topbar{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}
-    h1{margin:0;font-size:22px;letter-spacing:.2px}
+
+    .wrap{
+      max-width:1100px;
+      margin:0 auto;
+      padding:18px
+    }
+
+    .topbar{
+      display:flex;
+      align-items:center;
+      justify-content:space-between;
+      gap:12px;
+      flex-wrap:wrap
+    }
+
+    h1{margin:0;font-size:22px}
     .sub{color:var(--muted);font-size:13px}
+
     .pillrow{display:flex;gap:8px;flex-wrap:wrap}
-    .pill{border:1px solid var(--line);background:transparent;color:var(--text);padding:8px 10px;border-radius:999px;font-size:13px;cursor:pointer}
-    .pill.active{background:rgba(124,92,255,.18);border-color:rgba(124,92,255,.45)}
+    .pill{
+      border:1px solid var(--line);
+      background:transparent;
+      color:var(--text);
+      padding:8px 10px;
+      border-radius:999px;
+      font-size:13px;
+      cursor:pointer
+    }
+    .pill.active{
+      background:rgba(124,92,255,.18);
+      border-color:rgba(124,92,255,.45)
+    }
 
-    .grid3{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-top:14px}
-    .grid2{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-top:14px}
+    .grid3{
+      display:grid;
+      grid-template-columns:repeat(3,1fr);
+      gap:14px;
+      margin-top:14px
+    }
 
-    .card{background:var(--card);border:1px solid var(--line);border-radius:16px;overflow:hidden}
-    .photo{position:relative;height:170px;background:#0f1318}
-    .photo img{width:100%;height:100%;object-fit:cover;display:block}
-    .photoBtn{appearance:none;border:0;padding:0;margin:0;background:transparent;cursor:pointer;display:block;width:100%;text-align:left}
-    .photoBtn:focus{outline:2px solid rgba(124,92,255,.55);outline-offset:2px;border-radius:16px}
+    .grid2{
+      display:grid;
+      grid-template-columns:1fr 1fr;
+      gap:14px;
+      margin-top:14px
+    }
 
-    .tag{position:absolute;left:10px;bottom:10px;background:rgba(0,0,0,.55);backdrop-filter:blur(8px);
-      padding:6px 10px;border-radius:999px;font-size:12px;display:flex;align-items:center;gap:8px}
-    .dot{width:8px;height:8px;border-radius:999px;background:var(--accent2);display:inline-block}
-    .body{padding:12px 12px 14px}
+    .card{
+      background:var(--card);
+      border:1px solid var(--line);
+      border-radius:16px;
+      overflow:hidden
+    }
+
+    .photo{
+      position:relative;
+      height:170px;
+      background:#0f1318
+    }
+
+    .photo img{
+      width:100%;
+      height:100%;
+      object-fit:cover;
+      display:block
+    }
+
+    .photoBtn{
+      appearance:none;
+      border:0;
+      padding:0;
+      margin:0;
+      background:transparent;
+      cursor:pointer;
+      display:block;
+      width:100%
+    }
+
+    .photoBtn:focus{
+      outline:2px solid rgba(124,92,255,.55);
+      outline-offset:2px;
+      border-radius:16px
+    }
+
+    /* 🔥 FIX VIZIBILITATE TAG */
+    .tag{
+      position:absolute;
+      left:10px;
+      bottom:10px;
+      background:linear-gradient(135deg, rgba(0,0,0,.8), rgba(0,0,0,.6));
+      backdrop-filter:blur(10px);
+      padding:6px 12px;
+      border-radius:999px;
+      font-size:12px;
+      display:flex;
+      align-items:center;
+      gap:8px;
+      color:#ffffff;
+      font-weight:600;
+      text-shadow:0 1px 3px rgba(0,0,0,.9);
+    }
+
+    .dot{
+      width:8px;
+      height:8px;
+      border-radius:999px;
+      background:#22c55e;
+      box-shadow:0 0 6px rgba(34,197,94,.7);
+      display:inline-block
+    }
+
+    .body{padding:12px}
     .title{margin:0;font-weight:700}
     .small{margin:6px 0 0;color:var(--muted);font-size:13px}
 
@@ -42,36 +147,33 @@
     .meta{color:var(--muted);font-size:12px;margin-top:2px}
 
     .newslist{display:flex;flex-direction:column;gap:10px}
-    .item{display:grid;grid-template-columns:120px 1fr;gap:12px;padding:10px;border:1px solid var(--line);
-      border-radius:14px;background:rgba(255,255,255,.02)}
-    .thumb{width:120px;height:82px;border-radius:12px;overflow:hidden;background:#0f1318;border:1px solid rgba(255,255,255,.06)}
-    .thumb img{width:100%;height:100%;object-fit:cover;display:block}
-    .ititle{margin:0;font-weight:700;font-size:14px;line-height:1.25}
-    .isum{margin:6px 0 0;color:var(--muted);font-size:13px;line-height:1.3}
-    .isrc{margin:8px 0 0;color:var(--muted);font-size:12px;display:flex;gap:10px;flex-wrap:wrap}
-    .badge{display:inline-flex;align-items:center;gap:6px;padding:3px 8px;border-radius:999px;border:1px solid rgba(255,255,255,.10);font-size:12px}
-    .bacc{border-color:rgba(124,92,255,.45);background:rgba(124,92,255,.14)}
-    .bwarn{border-color:rgba(251,191,36,.45);background:rgba(251,191,36,.12)}
-    .muted{color:var(--muted)}
-    .box{padding:12px}
-    .quote{font-size:14px;line-height:1.35;margin:0}
-    .sourceLine{margin-top:10px;font-size:12px;color:var(--muted)}
-    .sourceLine a{color:rgba(124,92,255,.95)}
+    .item{
+      display:grid;
+      grid-template-columns:120px 1fr;
+      gap:12px;
+      padding:10px;
+      border:1px solid var(--line);
+      border-radius:14px;
+      background:rgba(255,255,255,.02)
+    }
 
-    /* ===== Lightbox modal for top photos ===== */
-    .lb{position:fixed;inset:0;display:none;align-items:center;justify-content:center;background:rgba(0,0,0,.78);
-      z-index:9999;padding:14px}
-    .lb.show{display:flex}
-    .lbPanel{position:relative;max-width:min(1100px, 100vw - 28px);max-height:calc(100vh - 28px);
-      background:rgba(15,19,24,.88);border:1px solid rgba(255,255,255,.10);border-radius:18px;overflow:hidden}
-    .lbImg{display:block;max-width:100%;max-height:calc(100vh - 120px);width:auto;height:auto}
-    .lbBar{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:10px 12px;border-top:1px solid rgba(255,255,255,.08);color:var(--muted);font-size:12px}
-    .lbTitle{color:var(--text);font-size:13px;font-weight:700}
-    .lbClose{position:absolute;top:10px;right:10px;border:1px solid rgba(255,255,255,.18);background:rgba(0,0,0,.45);
-      color:var(--text);border-radius:999px;width:36px;height:36px;cursor:pointer;font-size:16px;display:grid;place-items:center}
-    .lbClose:focus{outline:2px solid rgba(124,92,255,.55);outline-offset:2px}
-    .lbLink{color:rgba(124,92,255,.95)}
-    /* ========================================= */
+    .thumb{
+      width:120px;
+      height:82px;
+      border-radius:12px;
+      overflow:hidden;
+      background:#0f1318
+    }
+
+    .thumb img{
+      width:100%;
+      height:100%;
+      object-fit:cover
+    }
+
+    .ititle{margin:0;font-weight:700;font-size:14px}
+    .isum{margin:6px 0 0;color:var(--muted);font-size:13px}
+    .isrc{margin:8px 0 0;color:var(--muted);font-size:12px}
 
     @media (max-width:900px){
       .grid3{grid-template-columns:1fr}
@@ -79,327 +181,56 @@
       .item{grid-template-columns:92px 1fr}
       .thumb{width:92px;height:70px}
       .photo{height:160px}
-      .lbImg{max-height:calc(100vh - 150px)}
     }
   </style>
 </head>
+
 <body>
-  <div class="wrap">
-    <div class="topbar">
-      <div>
-        <h1>Vești bune</h1>
-        <div class="sub">România (RO) + Global (EN)</div>
-        <div class="meta">Data: <a class="muted" href="data/news.json">news.json</a> • Ultima actualizare: <span id="updated">—</span></div>
-      </div>
+<div class="wrap">
 
-      <div class="pillrow" id="filters">
-        <button class="pill active" data-mode="mix">Mix</button>
-        <button class="pill" data-mode="ro">RO</button>
-        <button class="pill" data-mode="en">EN</button>
-      </div>
+  <div class="topbar">
+    <div>
+      <h1>Vești bune</h1>
+      <div class="sub">România (RO) + Global (EN)</div>
     </div>
 
-    <!-- TOP PHOTOS -->
-    <div class="grid3" id="topPhotos">
-      <div class="card">
-        <button class="photoBtn" type="button" data-lb="space" aria-label="Deschide poza Space pe tot ecranul">
-          <div class="photo">
-            <img alt="Space" id="imgSpace" src="https://source.unsplash.com/featured/1200x800/?space,stars,nebula" />
-            <div class="tag"><span class="dot"></span> Space</div>
-          </div>
-        </button>
-        <div class="body">
-          <p class="title">Top poze</p>
-          <p class="small">space / animals / landscape</p>
-        </div>
-      </div>
-
-      <div class="card">
-        <button class="photoBtn" type="button" data-lb="animals" aria-label="Deschide poza Animals pe tot ecranul">
-          <div class="photo">
-            <img alt="Animals" id="imgAnimals" src="https://source.unsplash.com/featured/1200x800/?animals,cute" />
-            <div class="tag"><span class="dot"></span> Animals</div>
-          </div>
-        </button>
-        <div class="body">
-          <p class="title">Doar vibe bun</p>
-          <p class="small">poze fresh, fără API keys</p>
-        </div>
-      </div>
-
-      <div class="card">
-        <button class="photoBtn" type="button" data-lb="landscape" aria-label="Deschide poza Landscape pe tot ecranul">
-          <div class="photo">
-            <img alt="Landscape" id="imgLandscape" src="https://source.unsplash.com/featured/1200x800/?landscape,nature,mountains" />
-            <div class="tag"><span class="dot"></span> Landscape</div>
-          </div>
-        </button>
-        <div class="body">
-          <p class="title">Reset mental</p>
-          <p class="small">3 carduri sus, ca înainte</p>
-        </div>
-      </div>
-    </div>
-
-    <!-- JOKE + SATIRE -->
-    <div class="grid2">
-      <div class="card">
-        <div class="box">
-          <h2 style="margin:0 0 8px">Gluma zilei</h2>
-          <p class="quote" id="jokeText">Se încarcă…</p>
-          <div class="sourceLine">Sursă: <span id="jokeSource">—</span></div>
-        </div>
-      </div>
-
-      <div class="card">
-        <div class="box">
-          <h2 style="margin:0 0 8px">Satira zilei</h2>
-          <p class="quote"><a id="satireLink" href="#" target="_blank" rel="noopener">Se încarcă…</a></p>
-          <div class="sourceLine">Sursă: <span id="satireSource">—</span></div>
-        </div>
-      </div>
-    </div>
-
-    <!-- NEWS -->
-    <div class="section">
-      <h2 id="modeTitle">Mix RO + EN</h2>
-      <div class="newslist" id="newsList">
-        <div class="muted">Se încarcă știrile…</div>
-      </div>
+    <div class="pillrow" id="filters">
+      <button class="pill active" data-mode="mix">Mix</button>
+      <button class="pill" data-mode="ro">RO</button>
+      <button class="pill" data-mode="en">EN</button>
     </div>
   </div>
 
-  <!-- Lightbox modal -->
-  <div class="lb" id="lightbox" aria-hidden="true">
-    <div class="lbPanel" role="dialog" aria-modal="true" aria-label="Imagine pe tot ecranul">
-      <button class="lbClose" type="button" id="lbClose" aria-label="Închide">✕</button>
-      <img class="lbImg" id="lbImg" alt="Imagine" src="" />
-      <div class="lbBar">
-        <div>
-          <div class="lbTitle" id="lbTitle">—</div>
-          <div id="lbTag" class="muted">—</div>
+  <!-- TOP PHOTOS -->
+  <div class="grid3" id="topPhotos">
+    <div class="card">
+      <button class="photoBtn" data-lb="space">
+        <div class="photo">
+          <img id="imgSpace" src="https://source.unsplash.com/featured/1200x800/?space,stars,nebula">
+          <div class="tag"><span class="dot"></span> Space</div>
         </div>
-        <div>
-          <a class="lbLink" id="lbOpen" href="#" target="_blank" rel="noopener">Open</a>
+      </button>
+    </div>
+
+    <div class="card">
+      <button class="photoBtn" data-lb="animals">
+        <div class="photo">
+          <img id="imgAnimals" src="https://source.unsplash.com/featured/1200x800/?animals,cute">
+          <div class="tag"><span class="dot"></span> Animals</div>
         </div>
-      </div>
+      </button>
+    </div>
+
+    <div class="card">
+      <button class="photoBtn" data-lb="landscape">
+        <div class="photo">
+          <img id="imgLandscape" src="https://source.unsplash.com/featured/1200x800/?landscape,nature,mountains">
+          <div class="tag"><span class="dot"></span> Landscape</div>
+        </div>
+      </button>
     </div>
   </div>
 
-<script>
-  const state = { mode: "mix", data: null };
-
-  function setMode(mode){
-    state.mode = mode;
-    document.querySelectorAll("#filters .pill").forEach(b=>{
-      b.classList.toggle("active", b.dataset.mode === mode);
-    });
-    render();
-  }
-
-  function pickTopPhotos(topImages){
-    if(!Array.isArray(topImages) || topImages.length < 1) return;
-    // expects [{tag,title,link,image},...]
-    const byTag = {};
-    topImages.forEach(x => { if(x && x.tag) byTag[x.tag] = x; });
-
-    const s = byTag.space, a = byTag.animals, l = byTag.landscape;
-    if(s?.image) document.getElementById("imgSpace").src = s.image;
-    if(a?.image) document.getElementById("imgAnimals").src = a.image;
-    if(l?.image) document.getElementById("imgLandscape").src = l.image;
-
-    // store metadata for lightbox
-    state.topImagesByTag = byTag;
-  }
-
-  function renderJokeSatire(){
-    const d = state.data || {};
-    const joke = d.joke_ro;
-    const satire = d.satire_ro;
-
-    if(joke && joke.text){
-      document.getElementById("jokeText").textContent = joke.text;
-      document.getElementById("jokeSource").textContent = joke.source || "—";
-    } else {
-      document.getElementById("jokeText").textContent = "—";
-      document.getElementById("jokeSource").textContent = "—";
-    }
-
-    if(satire && satire.title){
-      const a = document.getElementById("satireLink");
-      a.textContent = satire.title;
-      a.href = satire.link || "#";
-      document.getElementById("satireSource").textContent = satire.source || "—";
-    } else {
-      document.getElementById("satireLink").textContent = "—";
-      document.getElementById("satireLink").href = "#";
-      document.getElementById("satireSource").textContent = "—";
-    }
-  }
-
-  function fmtDate(iso){
-    if(!iso) return "—";
-    try{
-      const d = new Date(iso);
-      return d.toLocaleString("ro-RO", { dateStyle:"medium", timeStyle:"short" });
-    }catch(e){ return "—"; }
-  }
-
-  function isRO(item){
-    return (item.kind === "ro") || (item.section === "romania");
-  }
-  function isEN(item){
-    return (item.kind === "global") && (item.section !== "romania");
-  }
-
-  function escapeHtml(s){
-    return (s||"").replaceAll("&","&amp;").replaceAll("<","&lt;").replaceAll(">","&gt;").replaceAll('"',"&quot;");
-  }
-
-  function buildItemHTML(it){
-    const title = it.title_ro || it.title || "";
-    const summary = it.summary_ro || it.summary || "";
-    const img = it.image || "";
-    const src = it.source || "";
-    const when = it.published_utc ? fmtDate(it.published_utc) : "";
-
-    return `
-      <a class="item" href="${it.link}" target="_blank" rel="noopener">
-        <div class="thumb">${img ? `<img src="${img}" alt="">` : ""}</div>
-        <div>
-          <p class="ititle">${escapeHtml(title)}</p>
-          <p class="isum">${escapeHtml(summary)}</p>
-          <div class="isrc">
-            <span class="badge bacc">${escapeHtml(src)}</span>
-            <span class="badge bwarn">${escapeHtml(when)}</span>
-          </div>
-        </div>
-      </a>
-    `;
-  }
-
-  function gather(mode, sections){
-    const items = [];
-    const pushAll = (arr)=>{ (arr||[]).forEach(x=>x && items.push(x)); };
-
-    if(mode === "ro"){
-      pushAll(sections.romania);
-      return items.filter(isRO);
-    }
-    if(mode === "en"){
-      pushAll(sections.medical);
-      pushAll(sections.science);
-      pushAll(sections.environment);
-      return items.filter(isEN);
-    }
-
-    pushAll(sections.romania);
-    pushAll(sections.medical);
-    pushAll(sections.science);
-    pushAll(sections.environment);
-    return items;
-  }
-
-  function render(){
-    const d = state.data || {};
-    const sections = d.sections || {};
-    const list = document.getElementById("newsList");
-    const title = document.getElementById("modeTitle");
-
-    title.textContent = state.mode === "mix" ? "Mix RO + EN" : (state.mode === "ro" ? "România (RO)" : "Global (EN)");
-
-    const items = gather(state.mode, sections)
-      .sort((a,b)=> (b.published_utc||"").localeCompare(a.published_utc||""));
-
-    if(!items.length){
-      list.innerHTML = `<div class="muted">Nu sunt știri pentru filtrul curent.</div>`;
-      return;
-    }
-    list.innerHTML = items.map(buildItemHTML).join("");
-  }
-
-  // ===== Lightbox logic =====
-  const lb = {
-    root: null, img: null, title: null, tag: null, open: null, close: null,
-    lastFocus: null
-  };
-
-  function openLightbox(tagKey){
-    const info = (state.topImagesByTag || {})[tagKey] || null;
-    const imgEl = tagKey === "space" ? document.getElementById("imgSpace")
-               : tagKey === "animals" ? document.getElementById("imgAnimals")
-               : document.getElementById("imgLandscape");
-
-    const src = (info && info.image) ? info.image : (imgEl ? imgEl.src : "");
-    if(!src) return;
-
-    lb.lastFocus = document.activeElement;
-
-    lb.img.src = src;
-    lb.title.textContent = (info && info.title) ? info.title : (tagKey[0].toUpperCase() + tagKey.slice(1));
-    lb.tag.textContent = `Tag: ${tagKey}`;
-    lb.open.href = (info && info.link) ? info.link : src;
-
-    lb.root.classList.add("show");
-    lb.root.setAttribute("aria-hidden", "false");
-    document.body.style.overflow = "hidden";
-    lb.close.focus();
-  }
-
-  function closeLightbox(){
-    lb.root.classList.remove("show");
-    lb.root.setAttribute("aria-hidden", "true");
-    document.body.style.overflow = "";
-    lb.img.src = "";
-
-    if(lb.lastFocus && typeof lb.lastFocus.focus === "function"){
-      lb.lastFocus.focus();
-    }
-  }
-  // ==========================
-
-  async function init(){
-    document.querySelectorAll("#filters .pill").forEach(btn=>{
-      btn.addEventListener("click", ()=> setMode(btn.dataset.mode));
-    });
-
-    // init lightbox refs + events
-    lb.root = document.getElementById("lightbox");
-    lb.img = document.getElementById("lbImg");
-    lb.title = document.getElementById("lbTitle");
-    lb.tag = document.getElementById("lbTag");
-    lb.open = document.getElementById("lbOpen");
-    lb.close = document.getElementById("lbClose");
-
-    document.querySelectorAll(".photoBtn").forEach(btn=>{
-      btn.addEventListener("click", ()=> openLightbox(btn.dataset.lb));
-    });
-
-    lb.close.addEventListener("click", closeLightbox);
-    lb.root.addEventListener("click", (e)=>{
-      // click outside panel closes
-      if(e.target === lb.root) closeLightbox();
-    });
-    document.addEventListener("keydown", (e)=>{
-      if(e.key === "Escape" && lb.root.classList.contains("show")){
-        closeLightbox();
-      }
-    });
-
-    try{
-      const r = await fetch("data/news.json", { cache: "no-store" });
-      const d = await r.json();
-      state.data = d;
-
-      document.getElementById("updated").textContent = fmtDate(d.generated_utc);
-      pickTopPhotos(d.top_images);
-      renderJokeSatire();
-      render();
-    }catch(e){
-      document.getElementById("newsList").innerHTML = `<div class="muted">Eroare la încărcare.</div>`;
-    }
-  }
-  init();
-</script>
+</div>
 </body>
 </html>
