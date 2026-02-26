@@ -20,20 +20,27 @@
     .pillrow{display:flex;gap:8px;flex-wrap:wrap}
     .pill{border:1px solid var(--line);background:transparent;color:var(--text);padding:8px 10px;border-radius:999px;font-size:13px;cursor:pointer}
     .pill.active{background:rgba(124,92,255,.18);border-color:rgba(124,92,255,.45)}
+
     .grid3{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-top:14px}
     .grid2{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-top:14px}
+
     .card{background:var(--card);border:1px solid var(--line);border-radius:16px;overflow:hidden}
     .photo{position:relative;height:170px;background:#0f1318}
     .photo img{width:100%;height:100%;object-fit:cover;display:block}
+    .photoBtn{appearance:none;border:0;padding:0;margin:0;background:transparent;cursor:pointer;display:block;width:100%;text-align:left}
+    .photoBtn:focus{outline:2px solid rgba(124,92,255,.55);outline-offset:2px;border-radius:16px}
+
     .tag{position:absolute;left:10px;bottom:10px;background:rgba(0,0,0,.55);backdrop-filter:blur(8px);
       padding:6px 10px;border-radius:999px;font-size:12px;display:flex;align-items:center;gap:8px}
     .dot{width:8px;height:8px;border-radius:999px;background:var(--accent2);display:inline-block}
     .body{padding:12px 12px 14px}
     .title{margin:0;font-weight:700}
     .small{margin:6px 0 0;color:var(--muted);font-size:13px}
+
     .section{margin-top:18px}
     .section h2{margin:0 0 10px;font-size:16px}
     .meta{color:var(--muted);font-size:12px;margin-top:2px}
+
     .newslist{display:flex;flex-direction:column;gap:10px}
     .item{display:grid;grid-template-columns:120px 1fr;gap:12px;padding:10px;border:1px solid var(--line);
       border-radius:14px;background:rgba(255,255,255,.02)}
@@ -50,12 +57,29 @@
     .quote{font-size:14px;line-height:1.35;margin:0}
     .sourceLine{margin-top:10px;font-size:12px;color:var(--muted)}
     .sourceLine a{color:rgba(124,92,255,.95)}
+
+    /* ===== Lightbox modal for top photos ===== */
+    .lb{position:fixed;inset:0;display:none;align-items:center;justify-content:center;background:rgba(0,0,0,.78);
+      z-index:9999;padding:14px}
+    .lb.show{display:flex}
+    .lbPanel{position:relative;max-width:min(1100px, 100vw - 28px);max-height:calc(100vh - 28px);
+      background:rgba(15,19,24,.88);border:1px solid rgba(255,255,255,.10);border-radius:18px;overflow:hidden}
+    .lbImg{display:block;max-width:100%;max-height:calc(100vh - 120px);width:auto;height:auto}
+    .lbBar{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:10px 12px;border-top:1px solid rgba(255,255,255,.08);color:var(--muted);font-size:12px}
+    .lbTitle{color:var(--text);font-size:13px;font-weight:700}
+    .lbClose{position:absolute;top:10px;right:10px;border:1px solid rgba(255,255,255,.18);background:rgba(0,0,0,.45);
+      color:var(--text);border-radius:999px;width:36px;height:36px;cursor:pointer;font-size:16px;display:grid;place-items:center}
+    .lbClose:focus{outline:2px solid rgba(124,92,255,.55);outline-offset:2px}
+    .lbLink{color:rgba(124,92,255,.95)}
+    /* ========================================= */
+
     @media (max-width:900px){
       .grid3{grid-template-columns:1fr}
       .grid2{grid-template-columns:1fr}
       .item{grid-template-columns:92px 1fr}
       .thumb{width:92px;height:70px}
       .photo{height:160px}
+      .lbImg{max-height:calc(100vh - 150px)}
     }
   </style>
 </head>
@@ -78,10 +102,12 @@
     <!-- TOP PHOTOS -->
     <div class="grid3" id="topPhotos">
       <div class="card">
-        <div class="photo">
-          <img alt="Space" id="imgSpace" src="https://source.unsplash.com/featured/1200x800/?space,stars,nebula" />
-          <div class="tag"><span class="dot"></span> Space</div>
-        </div>
+        <button class="photoBtn" type="button" data-lb="space" aria-label="Deschide poza Space pe tot ecranul">
+          <div class="photo">
+            <img alt="Space" id="imgSpace" src="https://source.unsplash.com/featured/1200x800/?space,stars,nebula" />
+            <div class="tag"><span class="dot"></span> Space</div>
+          </div>
+        </button>
         <div class="body">
           <p class="title">Top poze</p>
           <p class="small">space / animals / landscape</p>
@@ -89,10 +115,12 @@
       </div>
 
       <div class="card">
-        <div class="photo">
-          <img alt="Animals" id="imgAnimals" src="https://source.unsplash.com/featured/1200x800/?animals,cute" />
-          <div class="tag"><span class="dot"></span> Animals</div>
-        </div>
+        <button class="photoBtn" type="button" data-lb="animals" aria-label="Deschide poza Animals pe tot ecranul">
+          <div class="photo">
+            <img alt="Animals" id="imgAnimals" src="https://source.unsplash.com/featured/1200x800/?animals,cute" />
+            <div class="tag"><span class="dot"></span> Animals</div>
+          </div>
+        </button>
         <div class="body">
           <p class="title">Doar vibe bun</p>
           <p class="small">poze fresh, fără API keys</p>
@@ -100,10 +128,12 @@
       </div>
 
       <div class="card">
-        <div class="photo">
-          <img alt="Landscape" id="imgLandscape" src="https://source.unsplash.com/featured/1200x800/?landscape,nature,mountains" />
-          <div class="tag"><span class="dot"></span> Landscape</div>
-        </div>
+        <button class="photoBtn" type="button" data-lb="landscape" aria-label="Deschide poza Landscape pe tot ecranul">
+          <div class="photo">
+            <img alt="Landscape" id="imgLandscape" src="https://source.unsplash.com/featured/1200x800/?landscape,nature,mountains" />
+            <div class="tag"><span class="dot"></span> Landscape</div>
+          </div>
+        </button>
         <div class="body">
           <p class="title">Reset mental</p>
           <p class="small">3 carduri sus, ca înainte</p>
@@ -139,6 +169,23 @@
     </div>
   </div>
 
+  <!-- Lightbox modal -->
+  <div class="lb" id="lightbox" aria-hidden="true">
+    <div class="lbPanel" role="dialog" aria-modal="true" aria-label="Imagine pe tot ecranul">
+      <button class="lbClose" type="button" id="lbClose" aria-label="Închide">✕</button>
+      <img class="lbImg" id="lbImg" alt="Imagine" src="" />
+      <div class="lbBar">
+        <div>
+          <div class="lbTitle" id="lbTitle">—</div>
+          <div id="lbTag" class="muted">—</div>
+        </div>
+        <div>
+          <a class="lbLink" id="lbOpen" href="#" target="_blank" rel="noopener">Open</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
 <script>
   const state = { mode: "mix", data: null };
 
@@ -151,8 +198,8 @@
   }
 
   function pickTopPhotos(topImages){
-    if(!Array.isArray(topImages) || topImages.length < 3) return;
-
+    if(!Array.isArray(topImages) || topImages.length < 1) return;
+    // expects [{tag,title,link,image},...]
     const byTag = {};
     topImages.forEach(x => { if(x && x.tag) byTag[x.tag] = x; });
 
@@ -160,6 +207,9 @@
     if(s?.image) document.getElementById("imgSpace").src = s.image;
     if(a?.image) document.getElementById("imgAnimals").src = a.image;
     if(l?.image) document.getElementById("imgLandscape").src = l.image;
+
+    // store metadata for lightbox
+    state.topImagesByTag = byTag;
   }
 
   function renderJokeSatire(){
@@ -202,6 +252,10 @@
     return (item.kind === "global") && (item.section !== "romania");
   }
 
+  function escapeHtml(s){
+    return (s||"").replaceAll("&","&amp;").replaceAll("<","&lt;").replaceAll(">","&gt;").replaceAll('"',"&quot;");
+  }
+
   function buildItemHTML(it){
     const title = it.title_ro || it.title || "";
     const summary = it.summary_ro || it.summary || "";
@@ -216,16 +270,12 @@
           <p class="ititle">${escapeHtml(title)}</p>
           <p class="isum">${escapeHtml(summary)}</p>
           <div class="isrc">
-            <span class="badge bacc"> ${escapeHtml(src)} </span>
-            <span class="badge bwarn"> ${escapeHtml(when)} </span>
+            <span class="badge bacc">${escapeHtml(src)}</span>
+            <span class="badge bwarn">${escapeHtml(when)}</span>
           </div>
         </div>
       </a>
     `;
-  }
-
-  function escapeHtml(s){
-    return (s||"").replaceAll("&","&amp;").replaceAll("<","&lt;").replaceAll(">","&gt;").replaceAll('"',"&quot;");
   }
 
   function gather(mode, sections){
@@ -243,7 +293,6 @@
       return items.filter(isEN);
     }
 
-    // mix
     pushAll(sections.romania);
     pushAll(sections.medical);
     pushAll(sections.science);
@@ -269,9 +318,72 @@
     list.innerHTML = items.map(buildItemHTML).join("");
   }
 
+  // ===== Lightbox logic =====
+  const lb = {
+    root: null, img: null, title: null, tag: null, open: null, close: null,
+    lastFocus: null
+  };
+
+  function openLightbox(tagKey){
+    const info = (state.topImagesByTag || {})[tagKey] || null;
+    const imgEl = tagKey === "space" ? document.getElementById("imgSpace")
+               : tagKey === "animals" ? document.getElementById("imgAnimals")
+               : document.getElementById("imgLandscape");
+
+    const src = (info && info.image) ? info.image : (imgEl ? imgEl.src : "");
+    if(!src) return;
+
+    lb.lastFocus = document.activeElement;
+
+    lb.img.src = src;
+    lb.title.textContent = (info && info.title) ? info.title : (tagKey[0].toUpperCase() + tagKey.slice(1));
+    lb.tag.textContent = `Tag: ${tagKey}`;
+    lb.open.href = (info && info.link) ? info.link : src;
+
+    lb.root.classList.add("show");
+    lb.root.setAttribute("aria-hidden", "false");
+    document.body.style.overflow = "hidden";
+    lb.close.focus();
+  }
+
+  function closeLightbox(){
+    lb.root.classList.remove("show");
+    lb.root.setAttribute("aria-hidden", "true");
+    document.body.style.overflow = "";
+    lb.img.src = "";
+
+    if(lb.lastFocus && typeof lb.lastFocus.focus === "function"){
+      lb.lastFocus.focus();
+    }
+  }
+  // ==========================
+
   async function init(){
     document.querySelectorAll("#filters .pill").forEach(btn=>{
       btn.addEventListener("click", ()=> setMode(btn.dataset.mode));
+    });
+
+    // init lightbox refs + events
+    lb.root = document.getElementById("lightbox");
+    lb.img = document.getElementById("lbImg");
+    lb.title = document.getElementById("lbTitle");
+    lb.tag = document.getElementById("lbTag");
+    lb.open = document.getElementById("lbOpen");
+    lb.close = document.getElementById("lbClose");
+
+    document.querySelectorAll(".photoBtn").forEach(btn=>{
+      btn.addEventListener("click", ()=> openLightbox(btn.dataset.lb));
+    });
+
+    lb.close.addEventListener("click", closeLightbox);
+    lb.root.addEventListener("click", (e)=>{
+      // click outside panel closes
+      if(e.target === lb.root) closeLightbox();
+    });
+    document.addEventListener("keydown", (e)=>{
+      if(e.key === "Escape" && lb.root.classList.contains("show")){
+        closeLightbox();
+      }
     });
 
     try{
