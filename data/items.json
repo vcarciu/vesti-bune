@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-02-26T16:51:46+00:00",
+  "generated_utc": "2026-02-26T17:06:14+00:00",
   "sections": {
     "romania": [
       {
@@ -67,17 +67,6 @@
         "published_utc": "2026-02-26T15:05:00+00:00",
         "score": 3,
         "image": "https://www.bursa.ro/_img/articole/mare/585146.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "O deputată POT cere anularea unui concert rock la Palatul Național al Copiilor: „Sfidarea valorilor creștine” / „Doamna nu știe ce vorbește”",
-        "summary": "Deputata POT Codruța Corcheș a inițiat o petiție prin care cere anularea concertelor „Regeneza” ale formației Trooper, programate pe 28 februarie și 1 martie, la Palatul Național al Copiilor din București. Ea susține că asocierea&#8230;",
-        "link": "https://hotnews.ro/o-deputata-pot-cere-anularea-unui-concert-rock-la-palatul-national-al-copiilor-sfidarea-valorilor-crestine-doamna-nu-stie-ce-vorbeste-2179970",
-        "published_utc": "2026-02-26T14:35:23+00:00",
-        "score": 3,
-        "image": "https://hotnews.ro/wp-content/uploads/2026/02/shutterstock_1449886406.jpg"
       },
       {
         "section": "romania",
@@ -676,6 +665,17 @@
         "link": "https://www.sciencedaily.com/releases/2026/02/260217005734.htm",
         "published_utc": "2026-02-18T06:10:28+00:00",
         "score": 2
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Positive News",
+        "title": "Web of undersea cables poised to become marine observatory",
+        "summary": "Telecom infrastructure at the ocean floor is being harnessed as a powerful conservation tool for vulnerable marine mammals The post Web of undersea cables poised to become marine observatory appeared first on Positive News .",
+        "link": "https://www.positive.news/environment/conservation/web-of-undersea-cables-poised-to-become-marine-observatory",
+        "published_utc": "2026-02-16T10:23:21+00:00",
+        "score": 2,
+        "image": "https://www.positive.news/wp-content/uploads/2026/02/CREDIT-Vidar-Nordli-Mathisen.jpg"
       }
     ],
     "environment": [
@@ -807,21 +807,21 @@
   "top_images": [
     {
       "tag": "space",
-      "title": "The Edge Of Darkness",
-      "link": "https://www.flickr.com/photos/darrenflinders/55117471258/",
-      "image": "https://live.staticflickr.com/65535/55117471258_c902a07180_b.jpg"
+      "title": "Moon Mountains",
+      "link": "https://www.flickr.com/photos/deepgreen2009/55115234527/",
+      "image": "https://live.staticflickr.com/65535/55115234527_8dd2915e50_b.jpg"
     },
     {
       "tag": "animals",
-      "title": "Unexpected sea critters",
-      "link": "https://www.flickr.com/photos/90295829@N00/55117382066/",
-      "image": "https://live.staticflickr.com/65535/55117382066_ccc30e10e3_b.jpg"
+      "title": "Alerta",
+      "link": "https://www.flickr.com/photos/199091216@N04/55117338291/",
+      "image": "https://live.staticflickr.com/65535/55117338291_368177c5c5_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "Botanischer Garten",
-      "link": "https://www.flickr.com/photos/talfotograf/55117659689/",
-      "image": "https://live.staticflickr.com/65535/55117659689_1989a05a84_b.jpg"
+      "title": "Brown Hare",
+      "link": "https://www.flickr.com/photos/warrencarls_images/55116603612/",
+      "image": "https://live.staticflickr.com/65535/55116603612_d9bf98f7cc_b.jpg"
     }
   ]
 }
