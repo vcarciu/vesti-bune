@@ -1,7 +1,18 @@
 {
-  "generated_utc": "2026-02-26T12:44:58+00:00",
+  "generated_utc": "2026-02-26T14:02:50+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Bursa - Titlurile zilei",
+        "title": "eToro: NVIDIA anunţă venituri de 68,13 miliarde de dolari pe fondul boom-ului AI",
+        "summary": "eToro anunţă că NVIDIA a raportat miercuri venituri record, de 68,13 miliarde de dolari în ultimul trimestru fiscal, încheiat la 25 ianuarie.",
+        "link": "https://www.bursa.ro/etoro-nvidia-anunta-venituri-de-68-13-miliarde-de-dolari-pe-fondul-boom-ului-ai-45315857",
+        "published_utc": "2026-02-26T12:53:00+00:00",
+        "score": 3,
+        "image": "https://www.bursa.ro/_img/articole/mare/585135.jpg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -111,17 +122,6 @@
         "published_utc": "2026-02-26T08:24:00+00:00",
         "score": 3,
         "image": "https://www.bursa.ro/_img/articole/mare/585096.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Cât costă asigurarea voluntară la pensie în 2026 și cine poate contribui. Cum îți asiguri vechimea fără contract de muncă",
-        "summary": "Românii care nu au un loc de muncă activ sau au perioade fără venituri își pot asigura singuri vechimea necesară pentru pensie prin încheierea unui contract de asigurare voluntară în sistemul public. Mecanismul le permite să plătească contribuția la pensii chiar și în lipsa unui angajator",
-        "link": "https://www.digi24.ro/stiri/actualitate/social/cat-costa-asigurarea-voluntara-la-pensie-in-2026-si-cine-poate-contribui-cum-iti-asiguri-vechimea-fara-contract-de-munca-3648035",
-        "published_utc": "2026-02-26T05:00:18+00:00",
-        "score": 3,
-        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMiUyRjI1JTJGMjYwNjg0Nl8yNjA2/ODQ2X0FzaWd1cmFyZWEtdm9sdW50YXJh/LXBlbnRydS1wZW5zaWlfLUZvdG8tR2V0/dHktSW1hZ2VzLmpwZyZoYXNoPTQwNWQ0/MTlhZmVhOGU4NmVlOTI3OWYzNzc1MzQ1MWFk.jpg"
       },
       {
         "section": "romania",
@@ -759,28 +759,28 @@
     "source": "vesti-bune"
   },
   "satire_ro": {
-    "title": "Experţii avertizează: dacă le interzicem TikTokul, copiii învaţă de la părinţi, ceea ce e mai rău",
-    "link": "https://www.timesnewroman.ro/life-death/expertii-avertizeaza-daca-le-interzicem-tiktokul-copiii-invata-de-la-parinti-ceea-ce-e-mai-rau/",
+    "title": "Poșta Română, parteneriat cu Luca. În loc de plicuri vom putea folosi şi merdenele",
+    "link": "https://www.timesnewroman.ro/life-death/posta-romana-parteneriat-cu-luca-in-loc-de-plicuri-vom-putea-folosi-si-merdenele/",
     "source": "timesnewroman.ro"
   },
   "top_images": [
     {
       "tag": "space",
-      "title": "Rosette Nebula (C49)🌹✨",
-      "link": "https://www.flickr.com/photos/197033988@N05/55116653048/",
-      "image": "https://live.staticflickr.com/65535/55116653048_55a3d1d1c4_b.jpg"
+      "title": "2026-02-25_18h45_20:  Now!  The MFs  are NON-STOP",
+      "link": "https://www.flickr.com/photos/silentoneproductions/55116645443/",
+      "image": "https://live.staticflickr.com/65535/55116645443_59e1deb3ac_b.jpg"
     },
     {
       "tag": "animals",
-      "title": "",
-      "link": "https://www.flickr.com/photos/155880032@N04/55117458335/",
-      "image": "https://live.staticflickr.com/65535/55117458335_2bd53b42f5_b.jpg"
+      "title": "Buff-breasted Paradise Kingfisher (Tanysiptera Sylvia)",
+      "link": "https://www.flickr.com/photos/dorres/55117404663/",
+      "image": "https://live.staticflickr.com/65535/55117404663_5f03b4e359_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "Banff National Park",
-      "link": "https://www.flickr.com/photos/jvoigts/55117484880/",
-      "image": "https://live.staticflickr.com/65535/55117484880_7cc49e4b20_b.jpg"
+      "title": "Proud mama Nubia!",
+      "link": "https://www.flickr.com/photos/wildlife_diva/55117594880/",
+      "image": "https://live.staticflickr.com/65535/55117594880_0a53cc6741_b.jpg"
     }
   ]
 }
