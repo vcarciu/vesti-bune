@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-02-26T23:20:06+00:00",
+  "generated_utc": "2026-02-27T01:05:48+00:00",
   "sections": {
     "romania": [
       {
@@ -751,8 +751,8 @@
     ]
   },
   "joke_ro": {
-    "date_utc": "2026-02-26",
-    "text": "M-am apucat de citit. După 2 pagini m-am simțit cult și am închis cartea.",
+    "date_utc": "2026-02-27",
+    "text": "Când am zis „vreau să fiu fit”, corpul meu a înțeles „vreau să fiu… fitil” și a cerut somn.",
     "source": "vesti-bune"
   },
   "satire_ro": {
@@ -764,20 +764,20 @@
     {
       "tag": "space",
       "title": "AI artwork",
-      "link": "https://www.flickr.com/photos/sebilden/55116718032/",
-      "image": "https://live.staticflickr.com/65535/55116718032_e4017705b5_z.jpg"
+      "link": "https://www.flickr.com/photos/sebilden/55117983110/",
+      "image": "https://live.staticflickr.com/65535/55117983110_32eb123e4b_z.jpg"
     },
     {
       "tag": "animals",
       "title": "*",
-      "link": "https://www.flickr.com/photos/jevgenijbalezin/55117146512/",
-      "image": "https://live.staticflickr.com/65535/55117146512_63b2b70ea2_b.jpg"
+      "link": "https://www.flickr.com/photos/jevgenijbalezin/55117146502/",
+      "image": "https://live.staticflickr.com/65535/55117146502_89b1bce4c0_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "Snowy, Bluebird Devil's Castle",
-      "link": "https://www.flickr.com/photos/photo-john/55118254164/",
-      "image": "https://live.staticflickr.com/65535/55118254164_0dd5eaff9d_b.jpg"
+      "title": "Tangier Kasbah Ficus Tree",
+      "link": "https://www.flickr.com/photos/11086755@N00/55118324813/",
+      "image": "https://live.staticflickr.com/65535/55118324813_85a1229d90_b.jpg"
     }
   ]
 }
