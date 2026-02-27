@@ -1,17 +1,28 @@
 {
-  "generated_utc": "2026-02-27T04:02:43+00:00",
+  "generated_utc": "2026-02-27T05:43:32+00:00",
   "sections": {
     "romania": [
       {
         "section": "romania",
         "kind": "ro",
-        "source": "Bursa - Titlurile zilei",
-        "title": "BURSELE LUMII Atenţia pieţelor, îndreptată spre raportări",
-        "summary": "Bursele europene au urcat ieri, atenţia investitorilor fiind orientată spre raportările companiilor din regiune.",
-        "link": "https://www.bursa.ro/bursele-lumii-atentia-pietelor-indreptata-spre-raportari-21615856",
-        "published_utc": "2026-02-26T22:00:00+00:00",
+        "source": "HotNews",
+        "title": "Vremea până pe 30 martie. ANM anunță temperaturi diferite față de normalul perioadei, în toată țara",
+        "summary": "Vremea se încălzește, iar temperaturile vor fi chiar mai ridicate decât normalul perioadei din calendar pe întreg teritoriul țării, potrivit prognozei emise de meteorologi pentru intervalul 2 &#8211; 30 martie. În săptămâna 2 &#8211; 9&#8230;",
+        "link": "https://hotnews.ro/vremea-pana-pe-30-martie-anm-anunta-temperaturi-diferite-fata-de-normalul-perioadei-in-toata-tara-2180365",
+        "published_utc": "2026-02-27T05:30:55+00:00",
+        "score": 1,
+        "image": "https://hotnews.ro/wp-content/uploads/2026/02/ID162511_INQUAM_Photos_Cornel_Putan.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Filmul nominalizat la Premiul Oscar care aduce un mic omagiu unei mari campioane a României apare azi în cinematografe. „Era un fenomen mondial”",
+        "summary": "„Agentul secret” devine vineri ultimul dintre filmele nominalizate la Premiile Oscar din acest an care apare și în cinematografele din România. Pelicula rezervă o surpriză publicului român: un omagiu subtil adus Nadiei Comăneci. Regizorul filmului&#8230;",
+        "link": "https://hotnews.ro/filmul-nominalizat-la-premiul-oscar-care-aduce-un-mic-omagiu-unei-mari-campioane-a-romaniei-apare-azi-in-cinematografe-era-un-fenomen-mondial-2179055",
+        "published_utc": "2026-02-27T04:59:11+00:00",
         "score": 3,
-        "image": "https://www.bursa.ro/_img/articole/mare/585161.jpg"
+        "image": "https://hotnews.ro/wp-content/uploads/2026/02/profimedia-1063362133.jpg"
       },
       {
         "section": "romania",
@@ -28,34 +39,23 @@
         "section": "romania",
         "kind": "ro",
         "source": "Bursa - Titlurile zilei",
+        "title": "BURSELE LUMII Atenţia pieţelor, îndreptată spre raportări",
+        "summary": "Bursele europene au urcat ieri, atenţia investitorilor fiind orientată spre raportările companiilor din regiune.",
+        "link": "https://www.bursa.ro/bursele-lumii-atentia-pietelor-indreptata-spre-raportari-21615856",
+        "published_utc": "2026-02-26T22:00:00+00:00",
+        "score": 3,
+        "image": "https://www.bursa.ro/_img/articole/mare/585161.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Bursa - Titlurile zilei",
         "title": "Fondul Proprietatea intră în zona clanului Drăgoi",
         "summary": "Ceea ce ziarul BURSA a anunţat în ultimele luni - şi anume că Bogdan Drăgoi se pregăteşte să pună mâna pe Fondul Proprietatea - s-a confirmat ieri, la şedinţa Adunării Generale a Acţionarilor Fondului Proprietatea. Bineînţeles, şi cu concursul unui fost membru în Consiliul Reprezentanţilor, care a ales să îşi vândă toate acţiunile deţinute după ce oferta Lion Capital pentru acţiunile FP se încheiase.",
         "link": "https://www.bursa.ro/fondul-proprietatea-intra-in-zona-clanului-dragoi-24815851",
         "published_utc": "2026-02-26T22:00:00+00:00",
         "score": 1,
         "image": "https://www.bursa.ro/_img/articole/mare/585184.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Bursa - Titlurile zilei",
-        "title": "Inteligenţa artificială schimbă regulile performanţei sportive",
-        "summary": "Inteligenţa artificială devine tot mai prezentă în sportul de performanţă, de la arbitraj automatizat până la predicţia rezultatelor competiţiilor majore.",
-        "link": "https://www.bursa.ro/inteligenta-artificiala-schimba-regulile-performantei-sportive-43515857",
-        "published_utc": "2026-02-26T22:00:00+00:00",
-        "score": 1,
-        "image": "https://www.bursa.ro/_img/articole/mare/585153.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Bursa - Titlurile zilei",
-        "title": "TradeVille: Digi Communications - creştere solidă, presiune pe profit",
-        "summary": "Digi Communications NV marchează un nou avans al bazei de clienţi şi îşi consolidează poziţia în pieţele-cheie, cu telefonia mobilă în centrul expansiunii şi Spania tot mai relevantă în dinamica grupului.",
-        "link": "https://www.bursa.ro/tradeville-digi-communications-crestere-solida-presiune-pe-profit-48515852",
-        "published_utc": "2026-02-26T22:00:00+00:00",
-        "score": 1,
-        "image": "https://www.bursa.ro/_img/articole/mare/585158.jpg"
       },
       {
         "section": "romania",
@@ -219,6 +219,16 @@
         "link": "https://www.sciencedaily.com/releases/2026/02/260225081159.htm",
         "published_utc": "2026-02-26T12:27:39+00:00",
         "score": 3
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "PFAS found in most americans linked to rapid biological aging",
+        "summary": "“Forever chemicals” known as PFAS have quietly infiltrated everything from nonstick pans to food packaging—and now new research suggests some of them may be speeding up the aging process itself. In a nationally representative U.S. study, two lesser-known PFAS compounds, PFNA and PFOSA, were found in 95% of participants and strongly linked to faster biological aging in men aged 50 to 64.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260226042449.htm",
+        "published_utc": "2026-02-26T09:24:49+00:00",
+        "score": 1
       },
       {
         "section": "medical",
@@ -419,16 +429,6 @@
         "link": "https://www.sciencedaily.com/releases/2026/02/260215225555.htm",
         "published_utc": "2026-02-17T10:30:08+00:00",
         "score": 4
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "ScienceDaily Health",
-        "title": "One in three people carry this brain parasite but the body has a kill switch",
-        "summary": "A parasite that may already be hiding in your brain has a shocking survival trick: it can infect the very immune cells sent to destroy it. Yet most people never get sick, and new research from UVA Health reveals why. Scientists discovered that when Toxoplasma gondii invades CD8+ T cells — key defenders of the immune system — those cells can trigger a self-destruct mechanism powered by an enzyme called caspase-8. By sacrificing themselves, the infected cells also wipe out the parasite inside them.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260215225602.htm",
-        "published_utc": "2026-02-16T13:33:46+00:00",
-        "score": 2
       }
     ],
     "science": [
@@ -670,7 +670,7 @@
       {
         "section": "environment",
         "kind": "global",
-        "source": "NASA Earth Observatory - Image of the Day",
+        "source": "NASA Earth Observatory - Natural Hazards",
         "title": "Mars Global Localization Pinpoints Perseverance’s Location",
         "summary": "Description These images were part of the first successful use of a&#160;new technology called Mars Global Localization, developed at NASA’s Jet Propulsion Laboratory. Using its navigation cameras, NASA’s Perseverance captured a 360-degree view of the surrounding terrain that was matched to orbital imagery, enabling the rover to pinpoint its location on Mars on Feb. 2, [&#8230;] The post Mars Global Localization Pinpoints Perseverance’s Location appeared first on NASA Science .",
         "link": "https://science.nasa.gov/photojournal/mars-global-localization-pinpoints-perseverances-location",
@@ -756,28 +756,28 @@
     "source": "vesti-bune"
   },
   "satire_ro": {
-    "title": "Poșta Română, parteneriat cu Luca. În loc de plicuri vom putea folosi şi merdenele",
-    "link": "https://www.timesnewroman.ro/life-death/posta-romana-parteneriat-cu-luca-in-loc-de-plicuri-vom-putea-folosi-si-merdenele/",
+    "title": "Bolojan se laudă că în gimnaziu a redus fondul clasei cu 10% și a dat afară un profesor",
+    "link": "https://www.timesnewroman.ro/politic/bolojan-se-lauda-ca-in-gimnaziu-a-redus-fondul-clasei-cu-10-si-a-dat-afara-un-profesor/",
     "source": "timesnewroman.ro"
   },
   "top_images": [
     {
       "tag": "space",
-      "title": "Please come home.",
-      "link": "https://www.flickr.com/photos/kevinkemmerer/55118144933/",
-      "image": "https://live.staticflickr.com/65535/55118144933_44af37bdbd_b.jpg"
+      "title": "AI artwork",
+      "link": "https://www.flickr.com/photos/sebilden/55117790913/",
+      "image": "https://live.staticflickr.com/65535/55117790913_e6f5e94ba4_z.jpg"
     },
     {
       "tag": "animals",
-      "title": "St. Vrain Greenway (2025 12 16)-57",
-      "link": "https://www.flickr.com/photos/bencarob/55117416757/",
-      "image": "https://live.staticflickr.com/65535/55117416757_51c9b124c7_b.jpg"
+      "title": "St. Vrain Greenway (2025 12 16)-181",
+      "link": "https://www.flickr.com/photos/bencarob/55118553004/",
+      "image": "https://live.staticflickr.com/65535/55118553004_3f245840aa_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "DJI_0540-HDR",
-      "link": "https://www.flickr.com/photos/tomhauburn/55117393202/",
-      "image": "https://live.staticflickr.com/65535/55117393202_87f8139a91_b.jpg"
+      "title": "Red-naped Sapsucker",
+      "link": "https://www.flickr.com/photos/alangutsell/55117515982/",
+      "image": "https://live.staticflickr.com/65535/55117515982_3e3323627c_z.jpg"
     }
   ]
 }
