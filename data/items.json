@@ -1,7 +1,18 @@
 {
-  "generated_utc": "2026-02-27T06:38:41+00:00",
+  "generated_utc": "2026-02-27T07:38:24+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Bursa - Titlurile zilei",
+        "title": "Antibiotice a publicat raportul pentru anul 2025",
+        "summary": "Antibiotice S.A. informează că Raportul la 31.12.2025 (rezultate preliminare), este disponibil investitorilor prin Bursa de Valori Bucureşti, Autoritatea de Supraveghere Financiară, precum şi prin website-ul propriu: www.antibiotice.ro",
+        "link": "https://www.bursa.ro/antibiotice-a-publicat-raportul-pentru-anul-2025-26025856",
+        "published_utc": "2026-02-27T07:14:00+00:00",
+        "score": 3,
+        "image": "https://www.bursa.ro/__v1/_css/responsive/_img/sigla_mare_f.jpg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -56,17 +67,6 @@
         "published_utc": "2026-02-26T22:00:00+00:00",
         "score": 1,
         "image": "https://www.bursa.ro/_img/articole/mare/585184.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Bursa - Titlurile zilei",
-        "title": "TradeVille: Digi Communications - creştere solidă, presiune pe profit",
-        "summary": "Digi Communications NV marchează un nou avans al bazei de clienţi şi îşi consolidează poziţia în pieţele-cheie, cu telefonia mobilă în centrul expansiunii şi Spania tot mai relevantă în dinamica grupului.",
-        "link": "https://www.bursa.ro/tradeville-digi-communications-crestere-solida-presiune-pe-profit-48515852",
-        "published_utc": "2026-02-26T22:00:00+00:00",
-        "score": 1,
-        "image": "https://www.bursa.ro/_img/articole/mare/585158.jpg"
       },
       {
         "section": "romania",
@@ -763,9 +763,9 @@
   "top_images": [
     {
       "tag": "space",
-      "title": "AI artwork",
-      "link": "https://www.flickr.com/photos/sebilden/55116718062/",
-      "image": "https://live.staticflickr.com/65535/55116718062_cab63ecddd_z.jpg"
+      "title": "SKNK - Suite 34 - Skybox - Green",
+      "link": "https://www.flickr.com/photos/131326245@N04/55118656668/",
+      "image": "https://live.staticflickr.com/65535/55118656668_3d0f7707f4_b.jpg"
     },
     {
       "tag": "animals",
@@ -775,9 +775,9 @@
     },
     {
       "tag": "landscape",
-      "title": "Beautiful February Day",
-      "link": "https://www.flickr.com/photos/186549625@N06/55118675419/",
-      "image": "https://live.staticflickr.com/65535/55118675419_7fe26e2599_b.jpg"
+      "title": "Swan",
+      "link": "https://www.flickr.com/photos/dieter-kretschmer/54888770620/",
+      "image": "https://live.staticflickr.com/65535/54888770620_d08f6777f3_b.jpg"
     }
   ]
 }
