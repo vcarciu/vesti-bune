@@ -1,7 +1,18 @@
 {
-  "generated_utc": "2026-02-27T16:28:10+00:00",
+  "generated_utc": "2026-02-27T17:17:34+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Bursa - Titlurile zilei",
+        "title": "ANEIR: Chimcomplex va opri parţial activitatea din aprilie 2026, peste 1.200 de angajaţi vizaţi de concedieri",
+        "summary": "Chimcomplex va trece începând din aprilie 2026 la un plan de conservare a activităţii, care presupune oprirea unor secţii cu consum ridicat de energie, disponibilizări masive şi suspendarea unor investiţii.",
+        "link": "https://www.bursa.ro/aneir-chimcomplex-va-opri-partial-activitatea-din-aprilie-2026-peste-1200-de-angajati-vizati-de-concedieri-82725859",
+        "published_utc": "2026-02-27T17:12:00+00:00",
+        "score": 3,
+        "image": "https://www.bursa.ro/_img/articole/mare/585272.jpg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -228,11 +239,34 @@
         "section": "medical",
         "kind": "global",
         "source": "ScienceDaily Health",
+        "title": "Iron outperforms rare metals in stunning chemistry advance",
+        "summary": "Researchers at Nagoya University have created a more efficient iron-based photocatalyst that could reduce the need for rare and expensive metals in advanced chemistry. Unlike earlier designs, the new catalyst uses far fewer costly chiral ligands while still precisely controlling the three dimensional structure of molecules.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260227061821.htm",
+        "published_utc": "2026-02-27T16:08:10+00:00",
+        "score": 1,
+        "image": "https://picsum.photos/seed/vb-8d98f73c1fbaa67b/480/320"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "Scientists turn methane into medicine in stunning breakthrough",
+        "summary": "Scientists have unveiled a breakthrough way to turn natural gas—long burned as fuel—into valuable chemical building blocks for medicines and other high-demand products. By designing a clever iron-based catalyst powered by LED light, researchers managed to activate stubborn molecules like methane and transform them into complex compounds, even creating the hormone therapy drug dimestrol directly from methane for the first time.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260227071916.htm",
+        "published_utc": "2026-02-27T15:51:30+00:00",
+        "score": 3,
+        "image": "https://picsum.photos/seed/vb-5403fd69c24168ad/480/320"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
         "title": "Popular brain supplement linked to shorter lifespan in men",
         "summary": "A massive study of more than 270,000 people has uncovered a surprising link between a common amino acid and how long men live. Researchers found that higher levels of tyrosine—an amino acid found in protein-rich foods and often marketed as a focus-boosting supplement—were associated with shorter life expectancy in men, potentially trimming nearly a year off lifespan.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260226042458.htm",
         "published_utc": "2026-02-26T17:31:50+00:00",
-        "score": 2
+        "score": 2,
+        "image": "https://picsum.photos/seed/vb-a65659af766fd859/480/320"
       },
       {
         "section": "medical",
@@ -242,7 +276,8 @@
         "summary": "Biomolecular condensates were long believed to be simple liquid blobs inside cells. Researchers have now uncovered that some are actually supported by fine protein filaments forming an internal scaffold. When this structure is disrupted, cells fail to grow and divide properly. The discovery suggests scientists may one day design drugs that target condensate architecture to fight cancer and neurodegenerative disease.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260226042447.htm",
         "published_utc": "2026-02-26T14:36:27+00:00",
-        "score": 4
+        "score": 4,
+        "image": "https://picsum.photos/seed/vb-699f07af5497a1d5/480/320"
       },
       {
         "section": "medical",
@@ -252,7 +287,8 @@
         "summary": "Worrying about getting older—especially fearing future health problems—may actually speed up aging at the cellular level, according to new research from NYU. In a study of more than 700 women, those who felt more anxious about aging showed signs of faster biological aging in their blood, measured using cutting-edge “epigenetic clocks.” Fears about declining health had the strongest link, while concerns about beauty or fertility didn’t appear to have the same biological impact.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260225081205.htm",
         "published_utc": "2026-02-26T13:14:43+00:00",
-        "score": 1
+        "score": 1,
+        "image": "https://picsum.photos/seed/vb-c53d13499589a230/480/320"
       },
       {
         "section": "medical",
@@ -262,7 +298,8 @@
         "summary": "Popular acid reflux drugs such as Prilosec, Nexium, and Protonix may carry hidden risks when taken long term. A new study found that extended use disrupted iron and calcium levels in rats, changes associated with anemia and osteoporosis risk. Researchers also observed shifts in mineral balance across multiple organs. Experts say the medications are effective, but prolonged use without medical guidance could have unintended consequences.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260225081159.htm",
         "published_utc": "2026-02-26T12:27:39+00:00",
-        "score": 3
+        "score": 3,
+        "image": "https://picsum.photos/seed/vb-ca97c17ec23fc8b0/480/320"
       },
       {
         "section": "medical",
@@ -272,7 +309,8 @@
         "summary": "“Forever chemicals” known as PFAS have quietly infiltrated everything from nonstick pans to food packaging—and now new research suggests some of them may be speeding up the aging process itself. In a nationally representative U.S. study, two lesser-known PFAS compounds, PFNA and PFOSA, were found in 95% of participants and strongly linked to faster biological aging in men aged 50 to 64.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260226042449.htm",
         "published_utc": "2026-02-26T09:24:49+00:00",
-        "score": 1
+        "score": 1,
+        "image": "https://picsum.photos/seed/vb-e82d1748dbe385ea/480/320"
       },
       {
         "section": "medical",
@@ -282,7 +320,8 @@
         "summary": "A sweeping new analysis of the evidence suggests that exercise therapy — long promoted as a first-line treatment for osteoarthritis — may offer only small and short-lived relief, and in some cases might be no better than doing nothing at all. After reviewing dozens of clinical trials involving more than 13,000 participants, researchers found that benefits for knee osteoarthritis pain were minimal and tended to shrink in larger or longer-term studies.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260225081208.htm",
         "published_utc": "2026-02-26T04:43:58+00:00",
-        "score": 3
+        "score": 3,
+        "image": "https://picsum.photos/seed/vb-d905339bacd74b47/480/320"
       },
       {
         "section": "medical",
@@ -292,7 +331,8 @@
         "summary": "Eating nothing but oatmeal for just two days might sound extreme, but it delivered a striking payoff in a new clinical trial. People with metabolic syndrome who followed a short, calorie-reduced oat-based plan saw their harmful LDL cholesterol drop by 10%, along with modest weight loss and lower blood pressure. Even more surprising, the cholesterol benefits were still visible six weeks later.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260225081217.htm",
         "published_utc": "2026-02-25T16:37:57+00:00",
-        "score": 2
+        "score": 2,
+        "image": "https://picsum.photos/seed/vb-6016cc528336e079/480/320"
       },
       {
         "section": "medical",
@@ -302,7 +342,8 @@
         "summary": "A gel-like sugar coating on immune cells has been found to play a starring role in psoriasis. Researchers discovered that immune cells shed this outer layer to help them exit the bloodstream and enter inflamed skin. This challenges the long-held idea that only blood vessel walls changed during this process. The finding could help guide new therapies aimed at controlling harmful inflammation.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260225081142.htm",
         "published_utc": "2026-02-25T13:11:42+00:00",
-        "score": 3
+        "score": 3,
+        "image": "https://picsum.photos/seed/vb-0eacd6e33380146b/480/320"
       },
       {
         "section": "medical",
@@ -312,7 +353,8 @@
         "summary": "A weeklong, high-intensity version of TMS may work nearly as well as the standard six-week treatment for depression. In a UCLA study, patients who received five sessions a day for five days experienced meaningful symptom relief comparable to those on the traditional schedule. Some who didn’t improve immediately showed strong gains weeks later. The findings hint at a faster, more accessible path to recovery.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260224023103.htm",
         "published_utc": "2026-02-25T10:08:45+00:00",
-        "score": 1
+        "score": 1,
+        "image": "https://picsum.photos/seed/vb-40d2fa263b43d96b/480/320"
       },
       {
         "section": "medical",
@@ -322,7 +364,8 @@
         "summary": "Researchers have detected microplastics in nearly all prostate cancer tumors examined in a new study. Tumor tissue contained about 2.5 times more plastic than nearby healthy prostate tissue. Scientists say this is the first Western study to directly measure plastic particles in prostate tumors. More research is needed, but the findings suggest microplastic exposure could play a role in cancer development.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260225001250.htm",
         "published_utc": "2026-02-25T06:28:19+00:00",
-        "score": 2
+        "score": 2,
+        "image": "https://picsum.photos/seed/vb-f7a144c7dff0588b/480/320"
       },
       {
         "section": "medical",
@@ -332,7 +375,8 @@
         "summary": "A sweeping nationwide study has found that U.S. counties located closer to operating nuclear power plants have higher cancer death rates than those farther away. Researchers analyzed data from every nuclear facility and all U.S. counties between 2000 and 2018, adjusting for income, education, smoking, obesity, environmental conditions, and access to health care. Even after accounting for those factors, cancer mortality was higher in communities nearer to nuclear plants, particularly among older adults.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260224015537.htm",
         "published_utc": "2026-02-24T07:26:50+00:00",
-        "score": 2
+        "score": 2,
+        "image": "https://picsum.photos/seed/vb-c2a83fda14c17001/480/320"
       },
       {
         "section": "medical",
@@ -342,7 +386,8 @@
         "summary": "Training harder may do more than build muscle—it could transform your gut. Researchers found that intense workouts change the balance of bacteria and important compounds in athletes’ digestive systems. When training loads dropped, diet quality slipped and digestion slowed, triggering different microbial shifts. These hidden changes might influence performance in ways scientists are only beginning to understand.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260222092317.htm",
         "published_utc": "2026-02-24T04:45:43+00:00",
-        "score": 1
+        "score": 1,
+        "image": "https://picsum.photos/seed/vb-1cd13f54e66a79a1/480/320"
       },
       {
         "section": "medical",
@@ -352,7 +397,8 @@
         "summary": "Scientists have created a blood test that can estimate when Alzheimer’s symptoms are likely to begin. By measuring a protein called p-tau217, the model predicts symptom onset within roughly three to four years. The protein mirrors the silent buildup of amyloid and tau in the brain long before memory loss appears. This advance could speed up preventive drug trials and eventually guide personalized care.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260222085203.htm",
         "published_utc": "2026-02-23T11:46:07+00:00",
-        "score": 1
+        "score": 1,
+        "image": "https://picsum.photos/seed/vb-8082aba78d6be624/480/320"
       },
       {
         "section": "medical",
@@ -362,7 +408,8 @@
         "summary": "Living at high altitude appears to protect against diabetes, and scientists have finally discovered the reason. When oxygen levels drop, red blood cells switch into a new metabolic mode and absorb large amounts of glucose from the blood. This helps the body cope with thin air while also reducing blood sugar levels. A drug that recreates this effect reversed diabetes in mice, hinting at a powerful new treatment strategy.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260221060952.htm",
         "published_utc": "2026-02-21T13:43:47+00:00",
-        "score": 4
+        "score": 4,
+        "image": "https://picsum.photos/seed/vb-323016d52b671cfd/480/320"
       },
       {
         "section": "medical",
@@ -372,7 +419,8 @@
         "summary": "Researchers tested whether generative AI could handle complex medical datasets as well as human experts. In some cases, the AI matched or outperformed teams that had spent months building prediction models. By generating usable analytical code from precise prompts, the systems dramatically reduced the time needed to process health data. The findings hint at a future where AI helps scientists move faster from data to discovery.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260221060942.htm",
         "published_utc": "2026-02-21T11:17:29+00:00",
-        "score": 5
+        "score": 5,
+        "image": "https://picsum.photos/seed/vb-2a301002e688e2a7/480/320"
       },
       {
         "section": "medical",
@@ -382,7 +430,8 @@
         "summary": "Exercise may sharpen the mind by repairing the brain’s protective shield. Researchers found that physical activity prompts the liver to release an enzyme that removes a harmful protein causing the blood-brain barrier to become leaky with age. In older mice, dialing down this protein reduced inflammation and improved memory. The discovery points to a surprising body-to-brain pathway that could inspire new Alzheimer’s therapies.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260219040752.htm",
         "published_utc": "2026-02-20T15:19:43+00:00",
-        "score": 7
+        "score": 7,
+        "image": "https://picsum.photos/seed/vb-93c9caa179f1b73f/480/320"
       },
       {
         "section": "medical",
@@ -392,7 +441,8 @@
         "summary": "A groundbreaking clinical trial is testing whether specially engineered stem cells can help the brain restore its own dopamine production in people with Parkinson’s disease. Because the condition is driven by the gradual loss of dopamine-producing cells—leading to tremors, stiffness, and slowed movement—researchers are implanting lab-grown cells directly into the brain’s movement center to replace what’s been lost.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260219040820.htm",
         "published_utc": "2026-02-20T09:03:58+00:00",
-        "score": 2
+        "score": 2,
+        "image": "https://picsum.photos/seed/vb-acf0d9c8c72beaf2/480/320"
       },
       {
         "section": "medical",
@@ -402,7 +452,8 @@
         "summary": "A sweeping new study has uncovered a troubling mix of hazardous chemicals in popular hair extensions, including products made from human hair. Researchers detected dozens of substances linked to cancer, hormone disruption, reproductive harm, and immune system effects in nearly every sample tested. Some products contained flame retardants, organotins, and chemicals associated with increased breast cancer risk, and several exceeded European safety thresholds.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260219232620.htm",
         "published_utc": "2026-02-20T04:31:46+00:00",
-        "score": 1
+        "score": 1,
+        "image": "https://picsum.photos/seed/vb-ac11a2234666a8b5/480/320"
       },
       {
         "section": "medical",
@@ -412,7 +463,8 @@
         "summary": "A new human study has uncovered how the body naturally turns off inflammation. Researchers found that fat-derived molecules called epoxy-oxylipins rein in immune cells that can otherwise drive chronic disease. Using a drug to boost these molecules reduced pain faster and lowered harmful inflammatory cells. The discovery could pave the way for safer treatments for arthritis, heart disease, and other inflammation-related conditions.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260219040816.htm",
         "published_utc": "2026-02-19T15:16:55+00:00",
-        "score": 5
+        "score": 5,
+        "image": "https://picsum.photos/seed/vb-bd6dae15421156aa/480/320"
       },
       {
         "section": "medical",
@@ -422,7 +474,8 @@
         "summary": "A newly discovered bacterial duo may be the hidden cause of chronic constipation. The two microbes break down the colon’s protective mucus layer, leaving stool dry and hard — a problem traditional laxatives don’t fix. Parkinson’s patients, who often struggle with constipation years before tremors appear, have higher levels of these bacteria. Blocking the bacteria’s mucus-destroying enzyme prevented constipation in mice, hinting at a new treatment strategy.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260219040745.htm",
         "published_utc": "2026-02-19T13:46:05+00:00",
-        "score": 4
+        "score": 4,
+        "image": "https://picsum.photos/seed/vb-4f9a2fbdd88179ae/480/320"
       },
       {
         "section": "medical",
@@ -432,7 +485,8 @@
         "summary": "Intermittent fasting has become one of the most talked-about weight loss trends in recent years, promising dramatic results with simple changes to when you eat. But a major Cochrane review suggests the reality may be far less exciting. After analyzing 22 clinical trials involving nearly 2,000 adults, researchers found that intermittent fasting did not produce significantly more weight loss than standard diet advice or even no structured plan at all.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260218044620.htm",
         "published_utc": "2026-02-18T13:11:51+00:00",
-        "score": 5
+        "score": 5,
+        "image": "https://picsum.photos/seed/vb-42a89e2550042901/480/320"
       },
       {
         "section": "medical",
@@ -442,7 +496,8 @@
         "summary": "A major new study has spotlighted three familiar medicines that could take on an unexpected new role in the fight against Alzheimer’s disease — with a shingles vaccine emerging as the front-runner. After reviewing 80 existing drugs, an international panel of experts identified Zostavax, Viagra (sildenafil), and riluzole as the most promising candidates for repurposing.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260217005759.htm",
         "published_utc": "2026-02-18T12:02:28+00:00",
-        "score": 2
+        "score": 2,
+        "image": "https://picsum.photos/seed/vb-fd1563835b413c5c/480/320"
       },
       {
         "section": "medical",
@@ -452,27 +507,8 @@
         "summary": "A new University at Buffalo study suggests cannabis-infused beverages could help some people cut back on alcohol. In a survey of cannabis users, those who drank cannabis beverages reported cutting their weekly alcohol intake roughly in half and binge drinking less often. Nearly two-thirds said they reduced or stopped drinking alcohol after starting cannabis drinks.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260217005806.htm",
         "published_utc": "2026-02-18T04:51:59+00:00",
-        "score": 1
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "ScienceDaily Health",
-        "title": "One stem cell generates 14 million tumor-killing NK cells in major cancer breakthrough",
-        "summary": "Scientists in China have unveiled a breakthrough way to mass-produce powerful cancer-fighting immune cells in the lab. By engineering early-stage stem cells from cord blood—rather than trying to modify mature natural killer (NK) cells—they created a streamlined process that generates enormous numbers of highly potent NK cells, including CAR-equipped versions designed to hunt specific cancers.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260215225600.htm",
-        "published_utc": "2026-02-18T03:31:13+00:00",
-        "score": 2
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "ScienceDaily Health",
-        "title": "Scientists discover brain switches that clear Alzheimer’s plaques",
-        "summary": "Researchers have identified two brain receptors that help the brain clear away amyloid beta, a hallmark of Alzheimer’s disease. By stimulating these receptors in mice, scientists increased levels of a natural amyloid-breaking enzyme, reduced buildup in the brain, and improved memory-related behavior. Because these receptors are common drug targets, the findings could open the door to affordable pill-based treatments with fewer side effects.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260215225555.htm",
-        "published_utc": "2026-02-17T10:30:08+00:00",
-        "score": 4
+        "score": 1,
+        "image": "https://picsum.photos/seed/vb-9cc3525a8a2b52fc/480/320"
       }
     ],
     "science": [
@@ -491,11 +527,34 @@
         "section": "science",
         "kind": "global",
         "source": "ScienceDaily Science",
+        "title": "MIT study finds Earth’s first animals were likely ancient sea sponges",
+        "summary": "Scientists at MIT have found compelling chemical evidence that Earth’s earliest animals were likely ancient sea sponges. Hidden inside rocks over 541 million years old are rare molecular “fingerprints” that match compounds made by modern demosponges. After testing rocks, living sponges, and lab-made molecules, researchers confirmed the signals came from life — not geology. The discovery suggests sponges were thriving in the oceans well before most other animal groups appeared.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260227071918.htm",
+        "published_utc": "2026-02-27T14:45:38+00:00",
+        "score": 6,
+        "image": "https://picsum.photos/seed/vb-f7a52338e3af8c54/480/320"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "ScienceDaily Science",
+        "title": "Stunning 3D maps reveal DNA is structured before life “switches on”",
+        "summary": "For decades, scientists believed a fertilized egg’s DNA began as a shapeless mass, only organizing itself once the embryo switched on its genes. But new research reveals that the genome is already carefully arranged in three dimensions long before that critical activation step, known as Zygotic Genome Activation. Using a powerful new method called Pico-C, researchers captured this hidden DNA architecture in unprecedented detail, showing that a complex scaffold is built early to control which genes will later turn on.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260227061824.htm",
+        "published_utc": "2026-02-27T11:18:24+00:00",
+        "score": 3,
+        "image": "https://picsum.photos/seed/vb-6635c6a792dcf6d5/480/320"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "ScienceDaily Science",
         "title": "Apollo rocks reveal the Moon had brief bursts of super-strong magnetism",
         "summary": "Scientists at the University of Oxford have finally settled a decades-long mystery about the Moon’s magnetic field — and it turns out both sides were right. By reanalyzing Apollo mission rocks, they discovered that the Moon did occasionally generate an incredibly powerful magnetic field, even stronger than Earth’s — but only for fleeting bursts lasting thousands of years or less. Most of the time, the Moon’s magnetic field was weak.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260226042445.htm",
         "published_utc": "2026-02-26T16:03:17+00:00",
-        "score": 2
+        "score": 2,
+        "image": "https://picsum.photos/seed/vb-8a145a68c2cc8aaa/480/320"
       },
       {
         "section": "science",
@@ -516,7 +575,8 @@
         "summary": "The Old Irish Goat isn’t just part of folklore — it’s genetically linked to goats that lived in Ireland 3,000 years ago. Scientists analyzed ancient remains and discovered that today’s rare breed shares its strongest DNA ties with Late Bronze Age animals. The finding suggests an unbroken Irish lineage stretching back millennia. It also adds urgency to protecting this critically endangered survivor of Ireland’s agricultural past.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260226042451.htm",
         "published_utc": "2026-02-26T13:42:41+00:00",
-        "score": 1
+        "score": 1,
+        "image": "https://picsum.photos/seed/vb-9fb7067f2b66ea6a/480/320"
       },
       {
         "section": "science",
@@ -526,7 +586,8 @@
         "summary": "A lost cache of 250-million-year-old fossils from Australia has rewritten part of the story of life after Earth’s worst mass extinction. Instead of a single marine amphibian species, researchers uncovered evidence of a surprisingly diverse community of early ocean predators. One of these creatures had relatives stretching from the Arctic to Madagascar, showing that some of the first sea-going tetrapods spread across the globe with remarkable speed.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260224023203.htm",
         "published_utc": "2026-02-25T10:20:53+00:00",
-        "score": 1
+        "score": 1,
+        "image": "https://picsum.photos/seed/vb-9a658ab3ee15019b/480/320"
       },
       {
         "section": "science",
@@ -536,7 +597,8 @@
         "summary": "Horses have a vocal trick no one fully understood until now. Scientists have discovered that when a horse whinnies, it produces two completely different sounds at the same time. One is a deep tone created by vibrating the vocal folds, similar to how humans sing. The other is a high-pitched whistle generated inside the larynx, something never before confirmed in a large mammal. This rare ability, known as biphonation, likely helps horses send multiple emotional signals in a single call.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260225001256.htm",
         "published_utc": "2026-02-25T09:01:40+00:00",
-        "score": 2
+        "score": 2,
+        "image": "https://picsum.photos/seed/vb-6256b1c27bebd824/480/320"
       },
       {
         "section": "science",
@@ -546,7 +608,8 @@
         "summary": "More than 40,000 years ago, Ice Age humans were carving repeated patterns of dots, lines, and crosses into tools and small ivory figurines. A new computational study of more than 3,000 of these Paleolithic signs reveals that they were not random decorations but structured sequences with measurable complexity. Surprisingly, their information density rivals that of proto-cuneiform, the earliest known writing system that emerged around 3,000 B.C.E.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260225001301.htm",
         "published_utc": "2026-02-25T05:52:18+00:00",
-        "score": 1
+        "score": 1,
+        "image": "https://picsum.photos/seed/vb-4c3799e53086b80e/480/320"
       },
       {
         "section": "science",
@@ -556,7 +619,8 @@
         "summary": "After nearly 50 years of failed attempts and scientific speculation, chemists at Saarland University have achieved what many thought might be impossible: creating a long-sought silicon-based aromatic molecule. By replacing carbon atoms in a famously stable ring-shaped compound with silicon, the team synthesized pentasilacyclopentadienide — a breakthrough published in Science.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260224023205.htm",
         "published_utc": "2026-02-24T16:50:06+00:00",
-        "score": 2
+        "score": 2,
+        "image": "https://picsum.photos/seed/vb-d185cc76e169e4b6/480/320"
       },
       {
         "section": "science",
@@ -566,7 +630,8 @@
         "summary": "Deep inside the Milky Way, an invisible force is quietly holding everything together — its magnetic field. Now, researchers have created one of the most detailed maps ever of this hidden structure, revealing surprising twists in how it flows through our galaxy.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260224023207.htm",
         "published_utc": "2026-02-24T15:05:10+00:00",
-        "score": 1
+        "score": 1,
+        "image": "https://picsum.photos/seed/vb-eecb5ae039d2a677/480/320"
       },
       {
         "section": "science",
@@ -576,7 +641,8 @@
         "summary": "Deep in the Congo Basin, vast peatlands quietly store enormous amounts of Earth’s carbon — but new research suggests this ancient vault may be leaking. Scientists studying Africa’s largest blackwater lakes discovered that significant amounts of carbon dioxide bubbling into the atmosphere come not just from recent plant life, but from peat that has been locked away for thousands of years.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260224023201.htm",
         "published_utc": "2026-02-24T13:16:20+00:00",
-        "score": 3
+        "score": 3,
+        "image": "https://picsum.photos/seed/vb-299930750b8a96c8/480/320"
       },
       {
         "section": "science",
@@ -586,7 +652,8 @@
         "summary": "A century after Erwin Schrödinger sketched out a bold vision for how we perceive color, scientists have finally filled in the missing pieces. A Los Alamos team used advanced geometry to show that hue, saturation, and lightness aren’t shaped by culture or experience — they’re built directly into the mathematical structure of how we see color. By defining a crucial missing element known as the “neutral axis,” the researchers repaired a long-standing flaw in Schrödinger’s model and even corrected tricky visual quirks like the way brightness can subtly shift perceived hue.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260222092302.htm",
         "published_utc": "2026-02-23T15:24:39+00:00",
-        "score": 1
+        "score": 1,
+        "image": "https://picsum.photos/seed/vb-6bf0d3c7a1da0450/480/320"
       },
       {
         "section": "science",
@@ -596,7 +663,8 @@
         "summary": "Far beyond Neptune, in the frozen depths of the Kuiper Belt, many ancient objects oddly resemble giant snowmen made of ice and rock. For years, scientists wondered how these delicate two-lobed shapes could form without violent collisions tearing them apart. Now researchers at Michigan State University have recreated the process in a powerful new simulation, showing that simple gravitational collapse can naturally produce these cosmic “snowmen.”",
         "link": "https://www.sciencedaily.com/releases/2026/02/260222085206.htm",
         "published_utc": "2026-02-23T07:47:10+00:00",
-        "score": 1
+        "score": 1,
+        "image": "https://picsum.photos/seed/vb-b937578298fb7c0c/480/320"
       },
       {
         "section": "science",
@@ -606,7 +674,8 @@
         "summary": "Deep in the heart of the Sahara, scientists have uncovered Spinosaurus mirabilis — a spectacular new predator crowned with a massive, scimitar-shaped crest that may once have blazed with color under the desert sun. Discovered in remote inland river deposits in Niger, the fossil rewrites what we thought we knew about spinosaur dinosaurs, suggesting they weren’t fully aquatic hunters but powerful waders stalking fish in forested waterways hundreds of miles from the sea.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260222092251.htm",
         "published_utc": "2026-02-23T05:10:43+00:00",
-        "score": 2
+        "score": 2,
+        "image": "https://picsum.photos/seed/vb-ffbef3ddbb0f8c7f/480/320"
       },
       {
         "section": "science",
@@ -616,7 +685,8 @@
         "summary": "Triceratops’ massive head may have been doing more than just showing off those famous horns. Using CT scans and 3D reconstructions of fossil skulls, researchers uncovered a surprisingly complex nasal system hidden inside its enormous snout. Instead of being just a supersized nose for smelling, it likely housed intricate networks of nerves and blood vessels—and even special structures that helped regulate heat and moisture.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260221000313.htm",
         "published_utc": "2026-02-22T12:20:15+00:00",
-        "score": 1
+        "score": 1,
+        "image": "https://picsum.photos/seed/vb-848a1a5d388270c4/480/320"
       },
       {
         "section": "science",
@@ -626,7 +696,8 @@
         "summary": "Astronomers have uncovered one of the most mysterious galaxies ever found — a dim, ghostly object called CDG-2 that is almost entirely made of dark matter. Located 300 million light-years away in the Perseus galaxy cluster, it was discovered in an unusual way: not by its stars, but by four tightly packed globular clusters acting like cosmic breadcrumbs.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260221000307.htm",
         "published_utc": "2026-02-21T06:57:52+00:00",
-        "score": 2
+        "score": 2,
+        "image": "https://picsum.photos/seed/vb-688b09b74ae4b2db/480/320"
       },
       {
         "section": "science",
@@ -636,7 +707,8 @@
         "summary": "A giant virus discovered in Japan is adding fuel to the provocative idea that viruses helped create complex life. Named ushikuvirus, it infects amoebae and shows unique traits that connect different families of giant DNA viruses. Its unusual way of hijacking and disrupting the host cell’s nucleus offers fresh insight into how viruses may have influenced the evolution of the cell nucleus itself. The finding deepens the mystery of viruses—and their possible role in life’s biggest leap.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260219040814.htm",
         "published_utc": "2026-02-20T03:28:24+00:00",
-        "score": 4
+        "score": 4,
+        "image": "https://picsum.photos/seed/vb-9e426408151e76d1/480/320"
       },
       {
         "section": "science",
@@ -646,7 +718,8 @@
         "summary": "Ancient DNA from a Stone Age burial site in Sweden shows that families 5,500 years ago were more complex than expected. Many individuals buried together were not immediate family, but second- or third-degree relatives. One grave held a young woman alongside two children who were siblings—yet she wasn’t their mother. The discoveries hint at tight-knit communities where extended kin mattered deeply.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260218031559.htm",
         "published_utc": "2026-02-19T06:47:07+00:00",
-        "score": 2
+        "score": 2,
+        "image": "https://picsum.photos/seed/vb-e3d7197d42dde656/480/320"
       },
       {
         "section": "science",
@@ -656,7 +729,8 @@
         "summary": "Scientists have developed a powerful new way to forecast where some of the world’s most dangerous scorpions are likely to be found. By combining fieldwork in Africa with advanced computer modeling, the team discovered that soil type is the strongest factor shaping where many lethal species live, while temperature patterns also play a key role.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260218044628.htm",
         "published_utc": "2026-02-19T04:36:03+00:00",
-        "score": 1
+        "score": 1,
+        "image": "https://picsum.photos/seed/vb-d71af13430b86ff2/480/320"
       },
       {
         "section": "science",
@@ -666,7 +740,8 @@
         "summary": "Researchers have uncovered more than a thousand previously unknown tectonic ridges across the Moon’s dark plains, showing the Moon is still contracting and reshaping itself. These features are among the youngest geological structures on the lunar surface. Because they form through the same forces linked to past moonquakes, they could signal new seismic hotspots.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260218031532.htm",
         "published_utc": "2026-02-18T12:49:00+00:00",
-        "score": 1
+        "score": 1,
+        "image": "https://picsum.photos/seed/vb-6cc580f0fc84af72/480/320"
       },
       {
         "section": "science",
@@ -676,7 +751,8 @@
         "summary": "Life on Earth may have learned to breathe oxygen long before oxygen filled the skies. MIT researchers traced a key oxygen-processing enzyme back hundreds of millions of years before the Great Oxidation Event. Early microbes living near oxygen-producing cyanobacteria may have quickly used up the gas as it formed, slowing its rise in the atmosphere. The results suggest life was adapting to oxygen far earlier — and far more creatively — than once thought.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260218031609.htm",
         "published_utc": "2026-02-18T08:50:31+00:00",
-        "score": 1
+        "score": 1,
+        "image": "https://picsum.photos/seed/vb-c48f8275596e964c/480/320"
       }
     ],
     "environment": [
@@ -688,7 +764,8 @@
         "summary": "A newly identified ichthyosaur from the UK’s Jurassic Coast is rewriting part of the prehistoric playbook. Nicknamed the “Sword Dragon of Dorset,” the three-meter-long marine reptile lived during a poorly understood window of evolution when major ichthyosaur groups were disappearing and new ones emerging. Its beautifully preserved skeleton — complete with a blade-like snout and possible last meal — helps pinpoint when this dramatic transition occurred.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260224023218.htm",
         "published_utc": "2026-02-24T12:50:35+00:00",
-        "score": 1
+        "score": 1,
+        "image": "https://picsum.photos/seed/vb-b1cda3071712e0a8/480/320"
       },
       {
         "section": "environment",
@@ -731,7 +808,8 @@
         "summary": "Ocean waves are a vast and steady source of renewable energy, but capturing their power efficiently has long frustrated engineers. A researcher at The University of Osaka has now explored a bold new approach: a gyroscopic wave energy converter that uses a spinning flywheel inside a floating structure to turn wave motion into electricity. By harnessing gyroscopic precession—the subtle wobble of a spinning object under force—the system can be tuned to absorb energy across a wide range of wave conditions.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260218031554.htm",
         "published_utc": "2026-02-18T14:33:28+00:00",
-        "score": 5
+        "score": 5,
+        "image": "https://picsum.photos/seed/vb-5383902763e98df5/480/320"
       },
       {
         "section": "environment",
@@ -741,7 +819,8 @@
         "summary": "A 125-million-year-old dinosaur just rewrote what we thought we knew about prehistoric life. Scientists in China have uncovered an exceptionally preserved juvenile iguanodontian with fossilized skin so detailed that individual cells are still visible. Even more astonishing, the plant-eating dinosaur was covered in hollow, porcupine-like spikes—structures never before documented in any dinosaur.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260217005734.htm",
         "published_utc": "2026-02-18T06:10:28+00:00",
-        "score": 2
+        "score": 2,
+        "image": "https://picsum.photos/seed/vb-ab555ab202f9d8a7/480/320"
       },
       {
         "section": "environment",
@@ -751,7 +830,8 @@
         "summary": "Even Antarctica’s toughest native insect can’t escape the reach of plastic pollution. Scientists have discovered that Belgica antarctica — a tiny, rice-sized midge and the southernmost insect on Earth — is already ingesting microplastics in the wild. While lab tests showed the hardy larvae can survive short-term exposure without obvious harm, those exposed to higher plastic levels had reduced fat reserves, hinting at hidden energy costs.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260212234214.htm",
         "published_utc": "2026-02-16T12:48:45+00:00",
-        "score": 1
+        "score": 1,
+        "image": "https://picsum.photos/seed/vb-f65c0801c2efa750/480/320"
       },
       {
         "section": "environment",
@@ -761,7 +841,8 @@
         "summary": "A new study shows that dogs and cats may be helping an invasive flatworm spread. Researchers analyzing over a decade of reports discovered the worm attached to pet fur. Its sticky mucus and ability to reproduce alone make it highly adaptable. Pets could be giving this slow-moving invader a major boost.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260210231550.htm",
         "published_utc": "2026-02-14T14:34:47+00:00",
-        "score": 2
+        "score": 2,
+        "image": "https://picsum.photos/seed/vb-995eb2555408533a/480/320"
       },
       {
         "section": "environment",
@@ -771,7 +852,8 @@
         "summary": "Even when Earth was locked in its most extreme deep freeze, the planet’s climate may not have been as silent and still as once believed. New research from ancient Scottish rocks reveals that during Snowball Earth — when ice sheets reached the tropics and the planet resembled a giant snowball from space — climate rhythms similar to today’s seasons, solar cycles, and even El Niño–like patterns were still pulsing beneath the ice.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260212025545.htm",
         "published_utc": "2026-02-12T08:48:58+00:00",
-        "score": 1
+        "score": 1,
+        "image": "https://picsum.photos/seed/vb-3392fb090d60e034/480/320"
       },
       {
         "section": "environment",
@@ -781,7 +863,8 @@
         "summary": "Your cat’s purr may say more about who they are than their meow ever could. Scientists discovered that purrs are stable and uniquely identifiable, while meows change dramatically depending on context. Domestic cats, in particular, have evolved highly flexible meows as a way to communicate with humans. The purr, meanwhile, stays constant—making it a reliable marker of individual identity.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260210040619.htm",
         "published_utc": "2026-02-11T08:56:29+00:00",
-        "score": 2
+        "score": 2,
+        "image": "https://picsum.photos/seed/vb-457450103bebd1b3/480/320"
       },
       {
         "section": "environment",
@@ -791,17 +874,8 @@
         "summary": "A bonobo named Kanzi surprised scientists by successfully playing along in pretend tea party experiments, tracking imaginary juice and grapes as if they were real. He consistently pointed to the correct locations of pretend items, while still choosing real food when given the option. The results suggest that imagination may not be exclusive to humans after all.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260210040605.htm",
         "published_utc": "2026-02-11T04:04:44+00:00",
-        "score": 2
-      },
-      {
-        "section": "environment",
-        "kind": "global",
-        "source": "ScienceDaily Environment",
-        "title": "Scientists were wrong for decades about DNA knots",
-        "summary": "Scientists have discovered that DNA behaves in a surprising way when squeezed through tiny nanopores, overturning a long-held assumption in genetics research. What researchers once thought were knots causing messy electrical signals turn out to be something else entirely: twisted coils called plectonemes, formed as flowing ions inside the pore spin the DNA like a phone cord. These twists can linger and grow as DNA moves through, leaving clear electrical fingerprints.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260208233844.htm",
-        "published_utc": "2026-02-09T12:03:56+00:00",
-        "score": 2
+        "score": 2,
+        "image": "https://picsum.photos/seed/vb-67ee3886833e1e4d/480/320"
       }
     ]
   },
@@ -811,28 +885,28 @@
     "source": "vesti-bune"
   },
   "satire_ro": {
-    "title": "Pericolul inteligenței artificiale. Chatgpt l-a convins pe un român să-și cumpere Fiat",
-    "link": "https://www.timesnewroman.ro/it-stiinta/pericolul-inteligentei-artificiale-chatgpt-l-a-convins-pe-un-roman-sa-si-cumpere-fiat/",
+    "title": "Americanii, îngrijorați de soarta lui Britney Spears: a ajuns să arate ca Loredana",
+    "link": "https://www.timesnewroman.ro/monden/americanii-ingrijorati-de-soarta-lui-britney-spears-a-ajuns-sa-arate-ca-loredana/",
     "source": "timesnewroman.ro"
   },
   "top_images": [
     {
       "tag": "space",
       "title": "AI artwork",
-      "link": "https://www.flickr.com/photos/sebilden/55117983110/",
-      "image": "https://live.staticflickr.com/65535/55117983110_32eb123e4b_z.jpg"
+      "link": "https://www.flickr.com/photos/sebilden/55116718062/",
+      "image": "https://live.staticflickr.com/65535/55116718062_cab63ecddd_z.jpg"
     },
     {
       "tag": "animals",
-      "title": "Pied Falconet260122 20",
-      "link": "https://www.flickr.com/photos/suewright2013/55119098636/",
-      "image": "https://live.staticflickr.com/65535/55119098636_5cbb665322_z.jpg"
+      "title": "Bombycilla cedrorum (Vieillot, 1808) - Bombycillidae - Cedar Waxwing Video 1",
+      "link": "https://www.flickr.com/photos/eddingrid/55119357058/",
+      "image": "https://www.flickr.com/apps/video/stewart.swf?v=2968162862&photo_id=55119357058"
     },
     {
       "tag": "landscape",
-      "title": "paddle, Noosa",
-      "link": "https://www.flickr.com/photos/mrphilmy/55119349639/",
-      "image": "https://live.staticflickr.com/65535/55119349639_1bf19354ac_b.jpg"
+      "title": "Bearded Beauties",
+      "link": "https://www.flickr.com/photos/202077422@N03/55118260287/",
+      "image": "https://live.staticflickr.com/65535/55118260287_2604a4cdcb_b.jpg"
     }
   ]
 }
