@@ -1,7 +1,18 @@
 {
-  "generated_utc": "2026-02-27T19:26:11+00:00",
+  "generated_utc": "2026-02-27T20:17:57+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Bursa - Titlurile zilei",
+        "title": "Patria Bank încheie 2025 cu un profit net de 50,2 milioane lei, în creştere cu 53% faţă de 2024",
+        "summary": "Patria Bank (BVB: PBK) a raportat pentru 2025 un profit net de 50,2 milioane de lei, cu 53% peste nivelul din 2024, rezultat susţinut de majorarea veniturilor, îmbunătăţirea eficienţei şi extinderea echilibrată a portofoliului de credite performante.",
+        "link": "https://www.bursa.ro/patria-bank-incheie-2025-cu-un-profit-net-de-50-2-milioane-lei-in-crestere-cu-53-procente-fata-de-2024-44825852",
+        "published_utc": "2026-02-27T19:40:00+00:00",
+        "score": 3,
+        "image": "https://www.bursa.ro/_img/articole/mare/585284.jpg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -914,21 +925,21 @@
   "top_images": [
     {
       "tag": "space",
-      "title": "Orbital plumbing maintenance aboard the International Space Station",
-      "link": "https://www.flickr.com/photos/europeanspaceagency/55118899854/",
-      "image": "https://live.staticflickr.com/65535/55118899854_4e6f34affc_b.jpg"
+      "title": "SKNK - Suite 34 - Skybox - Green",
+      "link": "https://www.flickr.com/photos/131326245@N04/55118656668/",
+      "image": "https://live.staticflickr.com/65535/55118656668_3d0f7707f4_b.jpg"
     },
     {
       "tag": "animals",
-      "title": "IMG_6428",
-      "link": "https://www.flickr.com/photos/156429244@N04/55118452832/",
-      "image": "https://live.staticflickr.com/65535/55118452832_61ecf4bf63_b.jpg"
+      "title": "Coastguard-academy-CT (2)",
+      "link": "https://www.flickr.com/photos/74123384@N08/55118570657/",
+      "image": "https://live.staticflickr.com/65535/55118570657_cb9a244b06_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "Chouette Rayée - Barred Owl - Québec - Canada - 05008",
-      "link": "https://www.flickr.com/photos/rivai56/55119757515/",
-      "image": "https://live.staticflickr.com/65535/55119757515_d855186e94_b.jpg"
+      "title": "",
+      "link": "https://www.flickr.com/photos/fotografolucas/55119871645/",
+      "image": "https://live.staticflickr.com/65535/55119871645_91bf876c8f_b.jpg"
     }
   ]
 }
