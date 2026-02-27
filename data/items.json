@@ -1,7 +1,29 @@
 {
-  "generated_utc": "2026-02-27T17:26:00+00:00",
+  "generated_utc": "2026-02-27T18:26:51+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Bursa - Titlurile zilei",
+        "title": "Primul buget creionat de Marcel Ciolacu pentru Buzău: peste 55% pentru investiţii",
+        "summary": "Primul buget conturat de Marcel Ciolacu pentru judeţul Buzău aduce o schimbare clară de direcţie: investiţiile devin prioritatea principală, cu peste 55% din resursele estimate pentru 2026 orientate către dezvoltare.",
+        "link": "https://www.bursa.ro/primul-buget-creionat-de-marcel-ciolacu-pentru-buzau-peste-55-procente-pentru-investitii-60825858",
+        "published_utc": "2026-02-27T18:21:00+00:00",
+        "score": 3,
+        "image": "https://www.bursa.ro/_img/articole/mare/585280.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "România a început repatrierea voluntară a personalului neesențial de la ambasada din Israel",
+        "summary": "Ministerul Afacerilor Externe a transmis că a fost aprobată retragerea voluntară pentru personalul neesențial și a membrilor de familie de la reprezentanțele diplomatice din Israel și Cisiordania. „Cu referire la personalul Ambasadei României la Tel&#8230;",
+        "link": "https://hotnews.ro/romania-a-inceput-repatrierea-voluntara-a-personalului-neesential-de-la-ambasada-din-israel-2180894",
+        "published_utc": "2026-02-27T17:50:15+00:00",
+        "score": 3,
+        "image": "https://hotnews.ro/wp-content/uploads/2026/02/ioanid.jpg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -82,13 +104,13 @@
       {
         "section": "romania",
         "kind": "ro",
-        "source": "HotNews",
-        "title": "România, de două ori câștigătoare la CTO Global Hackathon 2026: o echipă ING Bank România a câștigat la categoria „AI for Productivity”",
-        "summary": "În luna februarie, comunitatea globală de Tech din Grupul ING s-a reunit în cadrul CTO Global Hackathon 2026, unul dintre cele mai ample evenimente de hackathon din acest an. Un maraton de inovație în format&#8230;",
-        "link": "https://hotnews.ro/romania-de-doua-ori-castigatoare-la-cto-global-hackathon-2026-o-echipa-ing-bank-romania-a-castigat-la-categoria-ai-for-productivity-2180761",
-        "published_utc": "2026-02-27T13:59:18+00:00",
+        "source": "RomaniaPozitiva",
+        "title": "Retail în 2026: De ce magazinul fizic rămâne centrul coșului zilnic",
+        "summary": "Într-un context în care investițiile în e-commerce, AI și automatizare cresc accelerat, comportamentul real al consumatorului român arată o dinamică mai echilibrată. Datele Consumer Report indică faptul că magazinul fizic&#8230; Articolul Retail în 2026: De ce magazinul fizic rămâne centrul coșului zilnic apare prima dată în Romania Pozitiva .",
+        "link": "https://www.romaniapozitiva.ro/economie/retail-in-2026-de-ce-magazinul-fizic-ramane-centrul-cosului-zilnic",
+        "published_utc": "2026-02-27T13:38:15+00:00",
         "score": 3,
-        "image": "https://hotnews.ro/wp-content/uploads/2026/02/ING-Bank-Romania.jpg"
+        "image": "https://www.romaniapozitiva.ro/wp-content/uploads/2026/02/Captura-de-ecran-2026-02-26-153833.jpg"
       },
       {
         "section": "romania",
@@ -100,6 +122,17 @@
         "published_utc": "2026-02-27T13:10:04+00:00",
         "score": 3,
         "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMiUyRjI3JTJGMjYwOTExNl8yNjA5/MTE2X1NjcmVlbnNob3QtMjAyNi0wMi0y/Ny0xNTA5MjMucG5nJmhhc2g9ZjQ5ZjA0/YzZlM2JmMGM2NmM5ZjFkY2YwOWEyODcwZWM=.png"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "RomaniaPozitiva",
+        "title": "Ateliere Fără Frontiere: Angajăm Responsabil Relații Parteneri & Operațiuni!",
+        "summary": "La AFF, credem în puterea muncii de a transforma vieți și comunități. Dacă îți dorești să contribui la un proiect cu impact social real și să fii puntea de legătură&#8230; Articolul Ateliere Fără Frontiere: Angajăm Responsabil Relații Parteneri &#038; Operațiuni! apare prima dată în Romania Pozitiva .",
+        "link": "https://www.romaniapozitiva.ro/antreprenoriat-social/ateliere-fara-frontiere-angajam-responsabil-relatii-parteneri-operatiuni",
+        "published_utc": "2026-02-27T11:18:10+00:00",
+        "score": 3,
+        "image": "http://www.romaniapozitiva.ro/wp-content/uploads/2026/02/642791107_1376483424507043_5035904796561622296_n.jpg"
       },
       {
         "section": "romania",
@@ -213,6 +246,17 @@
       }
     ],
     "medical": [
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "Scientists discover diet that tricks the body into burning fat without exercise",
+        "summary": "Researchers found that cutting two amino acids common in animal protein—methionine and cysteine—made mice burn significantly more energy. The boost in heat production was nearly as powerful as constant exposure to cold temperatures. The mice didn’t eat less or exercise more; they simply generated more heat in their beige fat. The discovery hints that diet alone might activate the body’s calorie-burning machinery.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260227071914.htm",
+        "published_utc": "2026-02-27T18:05:43+00:00",
+        "score": 5,
+        "image": "https://picsum.photos/seed/vb-fb39957dfd54430b/480/320"
+      },
       {
         "section": "medical",
         "kind": "global",
@@ -476,17 +520,6 @@
         "published_utc": "2026-02-18T12:02:28+00:00",
         "score": 2,
         "image": "https://picsum.photos/seed/vb-fd1563835b413c5c/480/320"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "ScienceDaily Health",
-        "title": "People who switched to cannabis drinks cut their alcohol use nearly in half",
-        "summary": "A new University at Buffalo study suggests cannabis-infused beverages could help some people cut back on alcohol. In a survey of cannabis users, those who drank cannabis beverages reported cutting their weekly alcohol intake roughly in half and binge drinking less often. Nearly two-thirds said they reduced or stopped drinking alcohol after starting cannabis drinks.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260217005806.htm",
-        "published_utc": "2026-02-18T04:51:59+00:00",
-        "score": 1,
-        "image": "https://picsum.photos/seed/vb-9cc3525a8a2b52fc/480/320"
       }
     ],
     "science": [
@@ -870,21 +903,21 @@
   "top_images": [
     {
       "tag": "space",
-      "title": "Fliwatüt Rover - Febrovery 2026-27",
-      "link": "https://www.flickr.com/photos/captain_j03/55118413696/",
-      "image": "https://live.staticflickr.com/65535/55118413696_0ecff404fa_b.jpg"
+      "title": "SunStarSet 02-26:  Hazed.",
+      "link": "https://www.flickr.com/photos/silentoneproductions/55119026171/",
+      "image": "https://live.staticflickr.com/65535/55119026171_4716245205_b.jpg"
     },
     {
       "tag": "animals",
-      "title": "Collared Finchbill260122 11",
-      "link": "https://www.flickr.com/photos/suewright2013/55119491615/",
-      "image": "https://live.staticflickr.com/65535/55119491615_e7d352e0b2_b.jpg"
+      "title": "Scaly-sided Merganser260122 5",
+      "link": "https://www.flickr.com/photos/suewright2013/55119488169/",
+      "image": "https://live.staticflickr.com/65535/55119488169_e720b58ba0_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "snowy owl",
-      "link": "https://www.flickr.com/photos/jetomlin/55119528615/",
-      "image": "https://live.staticflickr.com/65535/55119528615_ec8649a6e2_b.jpg"
+      "title": "Bucaneve bagnato Febbraio 2026 7888",
+      "link": "https://www.flickr.com/photos/medeot/55119233216/",
+      "image": "https://live.staticflickr.com/65535/55119233216_02c69aa147_b.jpg"
     }
   ]
 }
