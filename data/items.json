@@ -1,7 +1,29 @@
 {
-  "generated_utc": "2026-02-27T15:29:48+00:00",
+  "generated_utc": "2026-02-27T16:28:10+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Volum record de țigarete de contrabandă capturate de autorități în 2025 – de aproape patru ori mai mare decât în anul anterior",
+        "summary": "Volum record de țigarete de contrabandă capturate de autorități în 2025 – de aproape patru ori mai mare decât în anul anterior",
+        "link": "https://www.digi24.ro/stiri/actualitate/volum-record-de-tigarete-de-contrabanda-capturate-de-autoritati-in-2025-de-aproape-patru-ori-mai-mare-decat-in-anul-anterior-3651775",
+        "published_utc": "2026-02-27T15:35:58+00:00",
+        "score": 3,
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMiUyRjI3JTJGMjYwOTI5Ml8yNjA5/MjkyX0JBVC5qcGVnJmhhc2g9NzM3ODI3/ZmM3ZmZiZDFkOGYyZTNjMzI2NDNmNmQ2NzM=.jpeg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Al doilea om ca importanță din BNR cere „reformarea sectorului public”",
+        "summary": "România intră într-o fază de tranziție structurală în care creșterea nu mai poate fi bazată pe consum și stimulente fiscale, ci pe investiții, productivitate și disciplină fiscală, într‑un context geopolitic în care apărarea și securitatea&#8230;",
+        "link": "https://hotnews.ro/intram-in-faza-in-care-cresterea-nu-mai-poate-fi-bazata-pe-consum-ci-pe-investitii-si-disciplina-fiscala-spune-prim-viceguvernatorul-bancii-nationale-2180791",
+        "published_utc": "2026-02-27T15:10:02+00:00",
+        "score": 3,
+        "image": "https://hotnews.ro/wp-content/uploads/2026/02/profimedia-0325201287.jpg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -457,6 +479,17 @@
       {
         "section": "science",
         "kind": "global",
+        "source": "NASA Breaking News",
+        "title": "NASA Adds Mission to Artemis Lunar Program, Updates Architecture",
+        "summary": "As part of a Golden Age of exploration and discovery, NASA announced Friday the agency is increasing its cadence of missions under the Artemis program to achieve the national objective of returning American astronauts to the Moon and establishing an enduring presence. This includes standardizing vehicle configuration, adding an additional mission in 2027, and undertaking at least one surface [&#8230;]",
+        "link": "https://www.nasa.gov/news-release/nasa-adds-mission-to-artemis-lunar-program-updates-architecture",
+        "published_utc": "2026-02-27T15:37:07+00:00",
+        "score": 4,
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/02/ksc-20260225-ph-csh01-0077large.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
         "source": "ScienceDaily Science",
         "title": "Apollo rocks reveal the Moon had brief bursts of super-strong magnetism",
         "summary": "Scientists at the University of Oxford have finally settled a decades-long mystery about the Moon’s magnetic field — and it turns out both sides were right. By reanalyzing Apollo mission rocks, they discovered that the Moon did occasionally generate an incredibly powerful magnetic field, even stronger than Earth’s — but only for fleeting bursts lasting thousands of years or less. Most of the time, the Moon’s magnetic field was weak.",
@@ -785,21 +818,21 @@
   "top_images": [
     {
       "tag": "space",
-      "title": "2026-02-26_16h13_21",
-      "link": "https://www.flickr.com/photos/silentoneproductions/55118235839/",
-      "image": "https://live.staticflickr.com/65535/55118235839_06b39b4274_b.jpg"
+      "title": "AI artwork",
+      "link": "https://www.flickr.com/photos/sebilden/55117983110/",
+      "image": "https://live.staticflickr.com/65535/55117983110_32eb123e4b_z.jpg"
     },
     {
       "tag": "animals",
-      "title": "Blue Skies - Bretagne, France",
-      "link": "https://www.flickr.com/photos/22794096@N04/55119262174/",
-      "image": "https://live.staticflickr.com/65535/55119262174_edbc80ca65_b.jpg"
+      "title": "Pied Falconet260122 20",
+      "link": "https://www.flickr.com/photos/suewright2013/55119098636/",
+      "image": "https://live.staticflickr.com/65535/55119098636_5cbb665322_z.jpg"
     },
     {
       "tag": "landscape",
-      "title": "Western capercaillie - Metso",
-      "link": "https://www.flickr.com/photos/193841966@N02/55118127602/",
-      "image": "https://live.staticflickr.com/65535/55118127602_9bf60236e2_b.jpg"
+      "title": "paddle, Noosa",
+      "link": "https://www.flickr.com/photos/mrphilmy/55119349639/",
+      "image": "https://live.staticflickr.com/65535/55119349639_1bf19354ac_b.jpg"
     }
   ]
 }
