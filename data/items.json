@@ -1,7 +1,40 @@
 {
-  "generated_utc": "2026-02-27T07:38:24+00:00",
+  "generated_utc": "2026-02-27T08:29:31+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Bursa - Titlurile zilei",
+        "title": "Grupul BT a înregistrat profit în creştere şi active de 224 miliarde lei în 2025",
+        "summary": "Banca Transilvania a înregistrat în 2025 creşteri peste media pieţei în finanţări, operaţiuni şi tranzacţii, iar evoluţia profitului reflectă dinamica activităţii comerciale şi eficienţa operaţională. Achiziţiile şi fuziunile BT din 2025 au consolidat poziţia Grupului Banca Transilvania în banking, pensii private şi microfinanţare, în România şi Republica Moldova. Acţionarii au beneficiat de două runde de dividende: 1,59 miliarde lei, distribuite din profitul anului 2024 (în iunie), respectiv 700 milioane de lei, din rezervele de profit acumulate în anii anteriori (în decembrie)",
+        "link": "https://www.bursa.ro/grupul-bt-a-inregistrat-profit-in-crestere-si-active-de-224-miliarde-lei-in-2025-41125852",
+        "published_utc": "2026-02-27T08:14:00+00:00",
+        "score": 3,
+        "image": "https://www.bursa.ro/_img/articole/mare/585211.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Ciprian Ciucu spune că reparațiile la Pasajul Basarab vor începe în luna aprilie. PMB anunțase joi că lucrările demarează în iunie",
+        "summary": "Primarul general al Capitalei, Ciprian Ciucu, a declarat vineri că lucrările de reparații la Pasajul Basarab vor începe în luna aprilie, după ce a discutat cu reprezentanții companiilor care l-au construit și au decis încheierea unei tranzacții extrajudiciare, „prin care am împărțit lucrările, cine ce anume face”. Primăria Capitalei anunțase joi că lucrărilor vor începe abia în luna iunie. Pasajul a fost terminat în 2011, dar până în prezent construcția nu a fost recepționată, motiv pentru care nimeni nu a putut interveni legal pentru mentenanță și reparații.",
+        "link": "https://www.digi24.ro/stiri/ciprian-ciucu-spune-ca-reparatiile-la-pasajul-basarab-vor-incepe-in-luna-aprilie-pmb-anuntase-joi-ca-lucrarile-demareaza-in-iunie-3650705",
+        "published_utc": "2026-02-27T08:12:08+00:00",
+        "score": 1,
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMSUyRjIwJTJGMjU1MDAyNl8yNTUw/MDI2X0lEMjAxNzI0X0lOUVVBTV9QaG90/b3NfR2VvcmdlX0NhbGluLmpwZyZ3PTEy/MDAmaD02MzAmemM9MSZoYXNoPWUxZDFk/MGNhZjQ0NGJhNWYzZjYxNzhiZmYyZGYyZWU3.thumb.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Statul român pune bonurile fiscale pe blockchain, ca ANAF să poată verifica datele direct într-un registru digital validat criptografic",
+        "summary": "Ministerul Finanțelor și Serviciul de Telecomunicații Speciale s-au apucat să facă un sistem pe tehnologie blockchain pentru stocarea și verificarea bonurilor fiscale emise de casele de marcat electronice, pentru ca ANAF să aibă acces direct&#8230;",
+        "link": "https://hotnews.ro/statul-roman-pune-bonurile-fiscale-pe-blockchain-ca-anaf-sa-poata-verifica-datele-direct-intr-un-registru-digital-validat-criptografic-2180481",
+        "published_utc": "2026-02-27T08:03:30+00:00",
+        "score": 3,
+        "image": "https://hotnews.ro/wp-content/uploads/2026/02/Bon-Fiscal.jpg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -17,18 +50,7 @@
         "section": "romania",
         "kind": "ro",
         "source": "HotNews",
-        "title": "Vremea până pe 30 martie. ANM anunță temperaturi diferite față de normalul perioadei, în toată țara",
-        "summary": "Vremea se încălzește, iar temperaturile vor fi chiar mai ridicate decât normalul perioadei din calendar pe întreg teritoriul țării, potrivit prognozei emise de meteorologi pentru intervalul 2 &#8211; 30 martie. Săptămâna 2 &#8211; 9 martie&#8230;",
-        "link": "https://hotnews.ro/vremea-pana-pe-30-martie-anm-anunta-temperaturi-diferite-fata-de-normalul-perioadei-in-toata-tara-2180365",
-        "published_utc": "2026-02-27T05:30:55+00:00",
-        "score": 1,
-        "image": "https://hotnews.ro/wp-content/uploads/2026/02/ID162511_INQUAM_Photos_Cornel_Putan.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "Filmul nominalizat la Premiul Oscar care aduce un mic omagiu unei mari campioane a României apare azi în cinematografe. „Era un fenomen mondial”",
+        "title": "Filmul nominalizat la Premiul Oscar care îi aduce un mic omagiu Nadiei apare azi în cinematografe. „Era un fenomen mondial”",
         "summary": "„Agentul secret” devine vineri ultimul dintre filmele nominalizate la Premiile Oscar din acest an care apare și în cinematografele din România. Pelicula rezervă o surpriză publicului român: un omagiu subtil adus Nadiei Comăneci. Regizorul filmului&#8230;",
         "link": "https://hotnews.ro/filmul-nominalizat-la-premiul-oscar-care-aduce-un-mic-omagiu-unei-mari-campioane-a-romaniei-apare-azi-in-cinematografe-era-un-fenomen-mondial-2179055",
         "published_utc": "2026-02-27T04:59:11+00:00",
@@ -56,17 +78,6 @@
         "published_utc": "2026-02-26T22:00:00+00:00",
         "score": 3,
         "image": "https://www.bursa.ro/_img/articole/mare/585161.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Bursa - Titlurile zilei",
-        "title": "Fondul Proprietatea intră în zona clanului Drăgoi",
-        "summary": "Ceea ce ziarul BURSA a anunţat în ultimele luni - şi anume că Bogdan Drăgoi se pregăteşte să pună mâna pe Fondul Proprietatea - s-a confirmat ieri, la şedinţa Adunării Generale a Acţionarilor Fondului Proprietatea. Bineînţeles, şi cu concursul unui fost membru în Consiliul Reprezentanţilor, care a ales să îşi vândă toate acţiunile deţinute după ce oferta Lion Capital pentru acţiunile FP se încheiase.",
-        "link": "https://www.bursa.ro/fondul-proprietatea-intra-in-zona-clanului-dragoi-24815851",
-        "published_utc": "2026-02-26T22:00:00+00:00",
-        "score": 1,
-        "image": "https://www.bursa.ro/_img/articole/mare/585184.jpg"
       },
       {
         "section": "romania",
@@ -111,17 +122,6 @@
         "published_utc": "2026-02-26T16:07:31+00:00",
         "score": 3,
         "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwOCUyRjEzJTJGMjMyNzYzNl8yMzI3/NjM2X0lEMjAxNzIzX0lOUVVBTV9QaG90/b3NfR2VvcmdlX0NhbGluLmpwZyZoYXNo/PWE4ODZhNzQwOWQzYmM3Njc0ZTI0NDFhZDQyNGFjZWU2.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Crucea Roșie Română avertizează asupra unei noi escrocherii online: donații false cu promisiuni de „câștiguri rapide”",
-        "summary": "Crucea Roșie Română atenționează joi că imaginea și numele organizației sunt folosite într-o nouă schemă de fraudă online, în care persoane sau grupări infracționale promit „câștiguri financiare substanțiale și sigure” în schimbul unor donații. Reprezentanții organizației anunță, într-un comunicat, că atacatorii cibernetici profită de empatia oamenilor și de dorința acestora de a susține cauze umanitare.",
-        "link": "https://www.digi24.ro/stiri/actualitate/crucea-rosie-romana-avertizeaza-asupra-unei-noi-escrocherii-online-donatii-false-cu-promisiuni-de-castiguri-rapide-3649595",
-        "published_utc": "2026-02-26T12:32:22+00:00",
-        "score": 3,
-        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTAzdHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTQl/MkYxMiUyRjA0JTJGMzU1NzY5XzM1NTc2/OV9jcnVjZWFfcm9zaWVfY2FsZW5kYXIu/anBnJmhhc2g9OGUxYzA3M2RkZmY0ZjljMjNkZjE4YWZjNTNlODJlNzU=.jpg"
       },
       {
         "section": "romania",
@@ -670,17 +670,6 @@
       {
         "section": "environment",
         "kind": "global",
-        "source": "NASA Earth Observatory - Natural Hazards",
-        "title": "Mars Global Localization Pinpoints Perseverance’s Location",
-        "summary": "Description These images were part of the first successful use of a&#160;new technology called Mars Global Localization, developed at NASA’s Jet Propulsion Laboratory. Using its navigation cameras, NASA’s Perseverance captured a 360-degree view of the surrounding terrain that was matched to orbital imagery, enabling the rover to pinpoint its location on Mars on Feb. 2, [&#8230;] The post Mars Global Localization Pinpoints Perseverance’s Location appeared first on NASA Science .",
-        "link": "https://science.nasa.gov/photojournal/mars-global-localization-pinpoints-perseverances-location",
-        "published_utc": "2026-02-18T17:21:08+00:00",
-        "score": 2,
-        "image": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26705/PIA26705.png/jcr:content/renditions/cq5dam.web.1280.1280.png"
-      },
-      {
-        "section": "environment",
-        "kind": "global",
         "source": "ScienceDaily Environment",
         "title": "A spinning gyroscope could finally unlock ocean wave energy",
         "summary": "Ocean waves are a vast and steady source of renewable energy, but capturing their power efficiently has long frustrated engineers. A researcher at The University of Osaka has now explored a bold new approach: a gyroscopic wave energy converter that uses a spinning flywheel inside a floating structure to turn wave motion into electricity. By harnessing gyroscopic precession—the subtle wobble of a spinning object under force—the system can be tuned to absorb energy across a wide range of wave conditions.",
@@ -763,21 +752,21 @@
   "top_images": [
     {
       "tag": "space",
-      "title": "SKNK - Suite 34 - Skybox - Green",
-      "link": "https://www.flickr.com/photos/131326245@N04/55118656668/",
-      "image": "https://live.staticflickr.com/65535/55118656668_3d0f7707f4_b.jpg"
+      "title": "AI artwork",
+      "link": "https://www.flickr.com/photos/sebilden/55116718062/",
+      "image": "https://live.staticflickr.com/65535/55116718062_cab63ecddd_z.jpg"
     },
     {
       "tag": "animals",
-      "title": "The Test Pilot",
-      "link": "https://www.flickr.com/photos/88642461@N05/52500523462/",
-      "image": "https://live.staticflickr.com/65535/52500523462_0bac5bac31_b.jpg"
+      "title": "Rojo sobre verde 3",
+      "link": "https://www.flickr.com/photos/36105381@N05/55118747349/",
+      "image": "https://live.staticflickr.com/65535/55118747349_3b04666f5a_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "Swan",
-      "link": "https://www.flickr.com/photos/dieter-kretschmer/54888770620/",
-      "image": "https://live.staticflickr.com/65535/54888770620_d08f6777f3_b.jpg"
+      "title": "Insecte",
+      "link": "https://www.flickr.com/photos/de1967/55118798499/",
+      "image": "https://live.staticflickr.com/65535/55118798499_c5708c8995_b.jpg"
     }
   ]
 }
