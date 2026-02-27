@@ -202,6 +202,14 @@ def extract_image_url(e: dict) -> Optional[str]:
 
     return None
 
+def fallback_image_url(section_id: str, title: str, link: str) -> str:
+    """
+    Fallback dinamic, determinist per articol, ca sa evitam aceeasi poza repetata.
+    """
+    seed_src = f"{section_id}|{title}|{link}"
+    seed = hashlib.sha1(seed_src.encode("utf-8", errors="ignore")).hexdigest()[:16]
+    return f"https://picsum.photos/seed/vb-{seed}/480/320"
+
 # -----------------------------
 # Filtering (RO)
 # -----------------------------
@@ -511,8 +519,7 @@ def build_sections(cfg: Dict[str, Any]) -> Dict[str, List[Dict[str, Any]]]:
                 }
 
                 img = extract_image_url(e)
-                if img:
-                    item["image"] = img
+                item["image"] = img or fallback_image_url(section_id, title, link)
 
                 if kind == "global":
                     tr_title = deepl_translate(title) or None
@@ -546,8 +553,7 @@ def build_sections(cfg: Dict[str, Any]) -> Dict[str, List[Dict[str, Any]]]:
 
             html, _final = fetch_url_with_final(c["link"])
             img = extract_og_image(html or "")
-            if img:
-                c["image"] = img
+            c["image"] = img or fallback_image_url(c["section"], c["title"], c["link"])
 
             out["romania"].append(c)
             added += 1
