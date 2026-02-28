@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-02-28T14:12:47+00:00",
+  "generated_utc": "2026-02-28T15:12:06+00:00",
   "sections": {
     "romania": [
       {
@@ -104,6 +104,17 @@
       {
         "section": "romania",
         "kind": "ro",
+        "source": "Bursa - Titlurile zilei",
+        "title": "Ciucu: Restructurări ample în cadrul STB, peste 1.000 de angajaţi disponibilizaţi din aprilie",
+        "summary": "Societatea de Transport Bucureşti (STB) se pregăteşte pentru o amplă reorganizare, care ar putea aduce concedierea a peste 1.000 de angajaţi începând cu 1 aprilie, eficientizare fiind inevitabilă în contextul dificultăţilor financiare majore cu care se confruntă compania, aflată sub presiunea unor datorii ce depăşesc 1,6 miliarde de lei.",
+        "link": "https://www.bursa.ro/ciucu-restructurari-ample-in-cadrul-stb-peste-1000-de-angajati-disponibilizati-din-aprilie-65825853",
+        "published_utc": "2026-02-28T07:34:00+00:00",
+        "score": 1,
+        "image": "https://www.bursa.ro/_img/articole/mare/585285.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
         "source": "Digi24",
         "title": "Când nu se fac nunți în 2026: Lista completă a perioadelor de post și a zilelor în care biserica interzice cununiile religioase",
         "summary": "Cuplurile care își programează nunta în 2026 trebuie să verifice cu atenție calendarul religios înainte de a stabili data evenimentului din biserică. În mai multe perioade ale anului, marcate de posturi și sărbători importante, biserica ortodoxă română nu oficiază slujba de cununie.",
@@ -122,17 +133,6 @@
         "published_utc": "2026-02-27T18:47:13+00:00",
         "score": 3,
         "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMiUyRjI3JTJGMjYwOTQ4Nl8yNjA5/NDg2X21hcmlhLXBldHJpc29yLmpwZyZo/YXNoPWQ0ODJmYTRkNGM5MGJiMjYyNTBjZjk4OWVkMjEwNGM3.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Amenzi pentru cei care au absentat nemotivat de la ședința Prefecturii București. Anunțul Prefectului",
-        "summary": "Prefectul Capitalei anunţă amenzi pentru cei care au absentat nemotivat de la şedinţa de fond funciar. Ședința programată joi nu s-a mai putut ține, din lipsă de cvorum. Într-o postare pe Facebook, Andrei Nistor a explicat că a luat această măsură pentru a fi sigur că nu mai tratează nimeni superficial sedințele.",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/amenzi-pentru-cei-care-au-absentat-nemotivat-de-la-sedinta-prefecturii-bucuresti-anuntul-prefectului-3651657",
-        "published_utc": "2026-02-27T14:06:40+00:00",
-        "score": 3,
-        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYxMCUyRjIzJTJGMjQwMjcxOV8yNDAy/NzE5X0lEMzIyMTE0X0lOUVVBTV9QaG90/b3NfT2N0YXZfR2FuZWEuanBnJmhhc2g9/MzZhZTExYjk4YmE0NjAyNzY0YmIyYmQyOTlmNmVkZGI=.jpg"
       },
       {
         "section": "romania",
@@ -826,21 +826,21 @@
   "top_images": [
     {
       "tag": "space",
-      "title": "My girl Tess",
-      "link": "https://www.flickr.com/photos/paulasatijn/55120316411/",
-      "image": "https://live.staticflickr.com/65535/55120316411_f752db880b_b.jpg"
+      "title": "FebRovery 2026 # 27 (2/2)",
+      "link": "https://www.flickr.com/photos/crimso-giger/55118565837/",
+      "image": "https://live.staticflickr.com/65535/55118565837_bcba5d6ffe_b.jpg"
     },
     {
       "tag": "animals",
-      "title": "Whiskered Tern260126 10",
-      "link": "https://www.flickr.com/photos/suewright2013/55119694017/",
-      "image": "https://live.staticflickr.com/65535/55119694017_135f62a11a_b.jpg"
+      "title": "Japanese Waxwing260127 7",
+      "link": "https://www.flickr.com/photos/suewright2013/55120855653/",
+      "image": "https://live.staticflickr.com/65535/55120855653_a34de4a711_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "Sunset at Lodi (26-0201 Lodi-0487)",
-      "link": "https://www.flickr.com/photos/royprasad/55075460080/",
-      "image": "https://live.staticflickr.com/65535/55075460080_78ab521e9a_b.jpg"
+      "title": "P1250157",
+      "link": "https://www.flickr.com/photos/rpealit/55121072935/",
+      "image": "https://live.staticflickr.com/65535/55121072935_09cef446c7_b.jpg"
     }
   ]
 }
