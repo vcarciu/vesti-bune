@@ -1,7 +1,18 @@
 {
-  "generated_utc": "2026-02-28T12:22:49+00:00",
+  "generated_utc": "2026-02-28T13:30:07+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Aproximativ 1.500 de pasageri din România, afectați de atacul asupra Iranului. Sfaturi pentru cei afectați",
+        "summary": "Închiderea spațiului aerian în mai multe țări din Orientul Mijlociu, după atacul Israelului și SUA asupra Iranului, a afectat astăzi 12 curse aeriene din România, a anunțat Teo Postelnicu, purtător de cuvânt al Companiei Naționale&#8230;",
+        "link": "https://hotnews.ro/aproximativ-1-500-de-pasageri-din-romania-afectati-de-atacul-asupra-iranului-avem-deja-programari-de-anulari-cu-siguranta-vor-mai-fi-sfaturi-pentru-cei-afectati-2181609",
+        "published_utc": "2026-02-28T13:10:10+00:00",
+        "score": 1,
+        "image": "https://hotnews.ro/wp-content/uploads/2024/04/image-2019-06-12-23199957-41-aeroportul-otopeni-henri-coanda.jpg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -17,7 +28,7 @@
         "section": "romania",
         "kind": "ro",
         "source": "HotNews",
-        "title": "FOTO. Imaginea cenzurată de televiziunea italiană de la festivalul transmis și în România: „Ne-am îndrăgostit”",
+        "title": "FOTO. O scenă cenzurată la televizor de la Festivalul de la Sanremo face valuri în presa italiană: „Ne-am îndrăgostit”",
         "summary": "Seara de coveruri de vineri de la Festivalul de la Sanremo a avut și un moment cenzurat de televiziunea italiană Rai 1, scrie publicația Fanpage.it. Festivalul este retransmis în România de TVR 1, iar în&#8230;",
         "link": "https://hotnews.ro/foto-imaginea-cenzurata-de-televiziunea-italiana-de-la-festivalul-transmis-si-in-romania-ne-am-indragostit-2181584",
         "published_utc": "2026-02-28T12:07:13+00:00",
@@ -78,17 +89,6 @@
         "published_utc": "2026-02-28T10:34:00+00:00",
         "score": 1,
         "image": "https://www.bursa.ro/_img/articole/mare/585294.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "Un nume important din Vodafone România pleacă din companie după mai bine de 20 de ani: „Nu sunt încă pregătit să împărtășesc toate „următoarele capitole” ale vieții mele”",
-        "summary": "Fost director al diviziei Vodafone Business şi membru al comitetului executiv al Vodafone România, Dinu Dragomir, a anunţat că părăseşte compania după 21 de ani, scrie Ziarul Financiar. Dinu Dragomir a început să lucreze pentru&#8230;",
-        "link": "https://hotnews.ro/un-nume-important-din-vodafone-romania-pleaca-din-companie-dupa-mai-bine-de-20-de-ani-nu-sunt-inca-pregatit-sa-impartasesc-toate-urmatoarele-capitole-ale-vietii-mele-2181468",
-        "published_utc": "2026-02-28T10:29:11+00:00",
-        "score": 1,
-        "image": "https://hotnews.ro/wp-content/uploads/2025/09/Vodafone.jpg"
       },
       {
         "section": "romania",
@@ -826,21 +826,21 @@
   "top_images": [
     {
       "tag": "space",
-      "title": "Star Citizen",
-      "link": "https://www.flickr.com/photos/absolutelygametastic/55119396056/",
-      "image": "https://live.staticflickr.com/65535/55119396056_777f008609_b.jpg"
+      "title": "The Quiet Game Acte 4",
+      "link": "https://www.flickr.com/photos/164652074@N05/55118277677/",
+      "image": "https://live.staticflickr.com/65535/55118277677_18bc7b08b0_b.jpg"
     },
     {
       "tag": "animals",
-      "title": "Havant parkrun #649",
-      "link": "https://www.flickr.com/photos/78396455@N04/55120709143/",
-      "image": "https://live.staticflickr.com/65535/55120709143_1639c6b2a6_b.jpg"
+      "title": "Hollywood Rd Hong Kong",
+      "link": "https://www.flickr.com/photos/137765940@N03/55120538476/",
+      "image": "https://live.staticflickr.com/65535/55120538476_9dd2c1d6aa_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "IMGP2310 - FR",
-      "link": "https://www.flickr.com/photos/200012330@N05/55119644762/",
-      "image": "https://live.staticflickr.com/65535/55119644762_6866f0c293_b.jpg"
+      "title": "Het pad van de stilte",
+      "link": "https://www.flickr.com/photos/204185490@N07/55120551411/",
+      "image": "https://live.staticflickr.com/65535/55120551411_92480c0e8d_b.jpg"
     }
   ]
 }
