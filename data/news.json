@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-02-28T16:14:26+00:00",
+  "generated_utc": "2026-02-28T17:11:26+00:00",
   "sections": {
     "romania": [
       {
@@ -34,17 +34,6 @@
         "published_utc": "2026-02-28T12:11:51+00:00",
         "score": 1,
         "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjMl/MkYxMCUyRjA3JTJGMTgxMzE3OF8xODEz/MTc4X1BhdHJpYXJoaWEtUm9tYW5hLmpw/ZWcmdz0xMjAwJmg9NjMwJnpjPTEmaGFz/aD03ZWZhODYxOWNiYjc4NzQ0N2JmNDk4NzBmYTVjMmRjMQ==.thumb.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "FOTO. O scenă cenzurată la televizor de la Festivalul de la Sanremo face valuri în presa italiană: „Ne-am îndrăgostit”",
-        "summary": "Seara de coveruri de vineri de la Festivalul de la Sanremo a avut și un moment cenzurat de televiziunea italiană Rai 1, scrie publicația Fanpage.it. Festivalul este retransmis în România de TVR 1, iar în&#8230;",
-        "link": "https://hotnews.ro/foto-imaginea-cenzurata-de-televiziunea-italiana-de-la-festivalul-transmis-si-in-romania-ne-am-indragostit-2181584",
-        "published_utc": "2026-02-28T12:07:13+00:00",
-        "score": 1,
-        "image": "https://hotnews.ro/wp-content/uploads/2026/02/profimedia-1078940455.jpg"
       },
       {
         "section": "romania",
@@ -133,6 +122,17 @@
         "published_utc": "2026-02-27T18:46:41+00:00",
         "score": 1,
         "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMiUyRjI3JTJGMjYwOTQ4N18yNjA5/NDg3X3Byb2ZpbWVkaWEtMTA3ODc0OTI3/NS5qcGcmdz0xMjAwJmg9NjMwJnpjPTEm/aGFzaD1iMDkyYTBlYjg3MmJmY2VhMTdlOWNjZDE3ODc1NDc4ZA==.thumb.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Regatul Unit retrage tot personalul din Iran și închide ambasada de la Teheran",
+        "summary": "Regatul Unit a anunţat, vineri, că îşi închide ambasada din Iran şi îşi retrage tot personalul de acolo, „în contextul situaţiei de securitate” din regiune, unde este aşteptat un atac al SUA asupra Iranului.",
+        "link": "https://www.digi24.ro/stiri/externe/regatul-unit-retrage-tot-personalul-din-iran-si-inchide-ambasada-de-la-teheran-3651915",
+        "published_utc": "2026-02-27T17:34:34+00:00",
+        "score": 1,
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMiUyRjI3JTJGMjYwOTQ1OV8yNjA5/NDU5X0dldHR5SW1hZ2VzLTEwODk3Mjc2/MzQuanBnJnc9MTIwMCZoPTYzMCZ6Yz0x/Jmhhc2g9YzhjZDMwNTEwMmYyNjU2OWJjYjVkMzQ3YjlhMDkzMTE=.thumb.jpg"
       },
       {
         "section": "romania",
@@ -726,28 +726,6 @@
       {
         "section": "environment",
         "kind": "global",
-        "source": "NASA Earth Observatory - Image of the Day",
-        "title": "Showy Swirls Around Jeju Island",
-        "summary": "Winds blowing past the volcanic landmass near the Korean Peninsula created a trail of spiraling clouds, while murky water churned nearby. The post Showy Swirls Around Jeju Island appeared first on NASA Science .",
-        "link": "https://science.nasa.gov/earth/earth-observatory/showy-swirls-around-jeju-island",
-        "published_utc": "2026-02-24T05:01:00+00:00",
-        "score": 1,
-        "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/showy-spirals-around-jeju-island/cloudvortices_tmo_20260219_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
-      },
-      {
-        "section": "environment",
-        "kind": "global",
-        "source": "NASA Earth Observatory - Image of the Day",
-        "title": "Curiosity Studies Nodules on Boxwork Formations",
-        "summary": "Description NASA’s Curiosity Mars rover discovered these bumpy, pea-sized nodules while exploring a region filled with&#160;boxwork formations — low ridges standing roughly 3 to 6 feet (1 to 2 meters) tall with sandy hollows in-between. This mosaic is made up of 50 individual images taken by Curiosity’s Mars Hand Lens Imager (MAHLI), a camera on [&#8230;] The post Curiosity Studies Nodules on Boxwork Formations appeared first on NASA Science .",
-        "link": "https://science.nasa.gov/photojournal/curiosity-studies-nodules-on-boxwork-formations",
-        "published_utc": "2026-02-23T17:58:30+00:00",
-        "score": 2,
-        "image": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26697/PIA26697.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
-      },
-      {
-        "section": "environment",
-        "kind": "global",
         "source": "ScienceDaily Environment",
         "title": "Ancient DNA solves 5,500 year old burial mystery in Sweden",
         "summary": "Ancient DNA from a Stone Age burial site in Sweden shows that families 5,500 years ago were more complex than expected. Many individuals buried together were not immediate family, but second- or third-degree relatives. One grave held a young woman alongside two children who were siblings—yet she wasn’t their mother. The discoveries hint at tight-knit communities where extended kin mattered deeply.",
@@ -755,17 +733,6 @@
         "published_utc": "2026-02-19T06:47:07+00:00",
         "score": 2,
         "image": "https://picsum.photos/seed/vb-d8395b40b9492e0b/480/320"
-      },
-      {
-        "section": "environment",
-        "kind": "global",
-        "source": "NASA Earth Observatory - Natural Hazards",
-        "title": "Mars Global Localization Pinpoints Perseverance’s Location",
-        "summary": "Description These images were part of the first successful use of a&#160;new technology called Mars Global Localization, developed at NASA’s Jet Propulsion Laboratory. Using its navigation cameras, NASA’s Perseverance captured a 360-degree view of the surrounding terrain that was matched to orbital imagery, enabling the rover to pinpoint its location on Mars on Feb. 2, [&#8230;] The post Mars Global Localization Pinpoints Perseverance’s Location appeared first on NASA Science .",
-        "link": "https://science.nasa.gov/photojournal/mars-global-localization-pinpoints-perseverances-location",
-        "published_utc": "2026-02-18T17:21:08+00:00",
-        "score": 2,
-        "image": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26705/PIA26705.png/jcr:content/renditions/cq5dam.web.1280.1280.png"
       },
       {
         "section": "environment",
@@ -826,21 +793,21 @@
   "top_images": [
     {
       "tag": "space",
-      "title": "Barbie spaceship",
-      "link": "https://www.flickr.com/photos/paulasatijn/55119440532/",
-      "image": "https://live.staticflickr.com/65535/55119440532_4473dcb286_b.jpg"
+      "title": "MARZ Vyper Head - Eden by Eve Lippe and...",
+      "link": "https://www.flickr.com/photos/131326245@N04/55120304570/",
+      "image": "https://live.staticflickr.com/65535/55120304570_6452058b03_b.jpg"
     },
     {
       "tag": "animals",
-      "title": "XH2_DSCF6922_C1",
-      "link": "https://www.flickr.com/photos/bazoka/55120732806/",
-      "image": "https://live.staticflickr.com/65535/55120732806_bbb6ceda77_b.jpg"
+      "title": "cat Buttom sheet",
+      "link": "https://www.flickr.com/photos/bchbch/55120855491/",
+      "image": "https://live.staticflickr.com/65535/55120855491_964bd1b766_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "Four and twenty…..",
-      "link": "https://www.flickr.com/photos/67357077@N05/55120779856/",
-      "image": "https://live.staticflickr.com/65535/55120779856_f5f2401222_b.jpg"
+      "title": "Lincoln ON - 10",
+      "link": "https://www.flickr.com/photos/texera/55120881396/",
+      "image": "https://live.staticflickr.com/65535/55120881396_4205268e60_b.jpg"
     }
   ]
 }
