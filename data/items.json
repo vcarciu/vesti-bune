@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-02-28T05:25:26+00:00",
+  "generated_utc": "2026-02-28T06:23:46+00:00",
   "sections": {
     "romania": [
       {
@@ -71,13 +71,13 @@
       {
         "section": "romania",
         "kind": "ro",
-        "source": "HotNews",
-        "title": "România a început repatrierea voluntară a personalului neesențial de la ambasada din Israel",
-        "summary": "Ministerul Afacerilor Externe a transmis că a fost aprobată retragerea voluntară pentru personalul neesențial și a membrilor de familie de la reprezentanțele diplomatice din Israel și Cisiordania. „Cu referire la personalul Ambasadei României la Tel&#8230;",
-        "link": "https://hotnews.ro/romania-a-inceput-repatrierea-voluntara-a-personalului-neesential-de-la-ambasada-din-israel-2180894",
-        "published_utc": "2026-02-27T17:50:15+00:00",
-        "score": 3,
-        "image": "https://hotnews.ro/wp-content/uploads/2026/02/ioanid.jpg"
+        "source": "Digi24",
+        "title": "Regatul Unit retrage tot personalul din Iran și închide ambasada de la Teheran",
+        "summary": "Regatul Unit a anunţat, vineri, că îşi închide ambasada din Iran şi îşi retrage tot personalul de acolo, „în contextul situaţiei de securitate” din regiune, unde este aşteptat un atac al SUA asupra Iranului.",
+        "link": "https://www.digi24.ro/stiri/externe/regatul-unit-retrage-tot-personalul-din-iran-si-inchide-ambasada-de-la-teheran-3651915",
+        "published_utc": "2026-02-27T17:34:34+00:00",
+        "score": 1,
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMiUyRjI3JTJGMjYwOTQ1OV8yNjA5/NDU5X0dldHR5SW1hZ2VzLTEwODk3Mjc2/MzQuanBnJnc9MTIwMCZoPTYzMCZ6Yz0x/Jmhhc2g9YzhjZDMwNTEwMmYyNjU2OWJjYjVkMzQ3YjlhMDkzMTE=.thumb.jpg"
       },
       {
         "section": "romania",
@@ -837,21 +837,21 @@
   "top_images": [
     {
       "tag": "space",
-      "title": "Star Citizen",
-      "link": "https://www.flickr.com/photos/absolutelygametastic/55119396056/",
-      "image": "https://live.staticflickr.com/65535/55119396056_777f008609_b.jpg"
+      "title": "Orbital plumbing maintenance aboard the International Space Station",
+      "link": "https://www.flickr.com/photos/europeanspaceagency/55118899854/",
+      "image": "https://live.staticflickr.com/65535/55118899854_4e6f34affc_b.jpg"
     },
     {
       "tag": "animals",
-      "title": "Hey, good looking!",
-      "link": "https://www.flickr.com/photos/196506958@N06/55120347010/",
-      "image": "https://live.staticflickr.com/65535/55120347010_be5c94b392_b.jpg"
+      "title": "Bison, Yellowstone National Park",
+      "link": "https://www.flickr.com/photos/austingranger/55120420294/",
+      "image": "https://live.staticflickr.com/65535/55120420294_d38b499230_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "Black and White Nature Shot",
-      "link": "https://www.flickr.com/photos/202736515@N02/55120385239/",
-      "image": "https://live.staticflickr.com/65535/55120385239_dc05877311_b.jpg"
+      "title": "Mésange nonnette - Marsh Tit",
+      "link": "https://www.flickr.com/photos/122558117@N08/55119300452/",
+      "image": "https://live.staticflickr.com/65535/55119300452_4136d24d5e_b.jpg"
     }
   ]
 }
