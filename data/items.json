@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-02-28T17:11:26+00:00",
+  "generated_utc": "2026-02-28T18:17:42+00:00",
   "sections": {
     "romania": [
       {
@@ -726,6 +726,28 @@
       {
         "section": "environment",
         "kind": "global",
+        "source": "NASA Earth Observatory - Image of the Day",
+        "title": "Showy Swirls Around Jeju Island",
+        "summary": "Winds blowing past the volcanic landmass near the Korean Peninsula created a trail of spiraling clouds, while murky water churned nearby. The post Showy Swirls Around Jeju Island appeared first on NASA Science .",
+        "link": "https://science.nasa.gov/earth/earth-observatory/showy-swirls-around-jeju-island",
+        "published_utc": "2026-02-24T05:01:00+00:00",
+        "score": 1,
+        "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/showy-spirals-around-jeju-island/cloudvortices_tmo_20260219_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
+      },
+      {
+        "section": "environment",
+        "kind": "global",
+        "source": "NASA Earth Observatory - Image of the Day",
+        "title": "Curiosity Studies Nodules on Boxwork Formations",
+        "summary": "Description NASA’s Curiosity Mars rover discovered these bumpy, pea-sized nodules while exploring a region filled with&#160;boxwork formations — low ridges standing roughly 3 to 6 feet (1 to 2 meters) tall with sandy hollows in-between. This mosaic is made up of 50 individual images taken by Curiosity’s Mars Hand Lens Imager (MAHLI), a camera on [&#8230;] The post Curiosity Studies Nodules on Boxwork Formations appeared first on NASA Science .",
+        "link": "https://science.nasa.gov/photojournal/curiosity-studies-nodules-on-boxwork-formations",
+        "published_utc": "2026-02-23T17:58:30+00:00",
+        "score": 2,
+        "image": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26697/PIA26697.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
+      },
+      {
+        "section": "environment",
+        "kind": "global",
         "source": "ScienceDaily Environment",
         "title": "Ancient DNA solves 5,500 year old burial mystery in Sweden",
         "summary": "Ancient DNA from a Stone Age burial site in Sweden shows that families 5,500 years ago were more complex than expected. Many individuals buried together were not immediate family, but second- or third-degree relatives. One grave held a young woman alongside two children who were siblings—yet she wasn’t their mother. The discoveries hint at tight-knit communities where extended kin mattered deeply.",
@@ -733,6 +755,17 @@
         "published_utc": "2026-02-19T06:47:07+00:00",
         "score": 2,
         "image": "https://picsum.photos/seed/vb-d8395b40b9492e0b/480/320"
+      },
+      {
+        "section": "environment",
+        "kind": "global",
+        "source": "NASA Earth Observatory - Natural Hazards",
+        "title": "Mars Global Localization Pinpoints Perseverance’s Location",
+        "summary": "Description These images were part of the first successful use of a&#160;new technology called Mars Global Localization, developed at NASA’s Jet Propulsion Laboratory. Using its navigation cameras, NASA’s Perseverance captured a 360-degree view of the surrounding terrain that was matched to orbital imagery, enabling the rover to pinpoint its location on Mars on Feb. 2, [&#8230;] The post Mars Global Localization Pinpoints Perseverance’s Location appeared first on NASA Science .",
+        "link": "https://science.nasa.gov/photojournal/mars-global-localization-pinpoints-perseverances-location",
+        "published_utc": "2026-02-18T17:21:08+00:00",
+        "score": 2,
+        "image": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26705/PIA26705.png/jcr:content/renditions/cq5dam.web.1280.1280.png"
       },
       {
         "section": "environment",
@@ -793,21 +826,21 @@
   "top_images": [
     {
       "tag": "space",
-      "title": "MARZ Vyper Head - Eden by Eve Lippe and...",
-      "link": "https://www.flickr.com/photos/131326245@N04/55120304570/",
-      "image": "https://live.staticflickr.com/65535/55120304570_6452058b03_b.jpg"
+      "title": "My girl Tess",
+      "link": "https://www.flickr.com/photos/paulasatijn/55120316411/",
+      "image": "https://live.staticflickr.com/65535/55120316411_f752db880b_b.jpg"
     },
     {
       "tag": "animals",
-      "title": "cat Buttom sheet",
-      "link": "https://www.flickr.com/photos/bchbch/55120855491/",
-      "image": "https://live.staticflickr.com/65535/55120855491_964bd1b766_b.jpg"
+      "title": "20260131_092804 r1000",
+      "link": "https://www.flickr.com/photos/18083893@N05/55121163738/",
+      "image": "https://live.staticflickr.com/65535/55121163738_b40d01e3fe_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "Lincoln ON - 10",
-      "link": "https://www.flickr.com/photos/texera/55120881396/",
-      "image": "https://live.staticflickr.com/65535/55120881396_4205268e60_b.jpg"
+      "title": "Crocus",
+      "link": "https://www.flickr.com/photos/katzefudder/55121213294/",
+      "image": "https://live.staticflickr.com/65535/55121213294_50d7e583fe_b.jpg"
     }
   ]
 }
