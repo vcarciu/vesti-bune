@@ -1,7 +1,18 @@
 {
-  "generated_utc": "2026-02-28T13:30:07+00:00",
+  "generated_utc": "2026-02-28T14:12:47+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Ministerul Transporturilor avertizează românii să își anuleze călătoriile către Israel sau statele limitrofe",
+        "summary": "Cetăţenii români care au planificate călătorii către statul Israel sau statele limitrofe direct afectate de conflict trebuie să anuleze sau să reprogrameze aceste deplasări pentru o dată ulterioară, recomandă Ministerul Transporturilor şi Infrastructurii (MTI).",
+        "link": "https://www.digi24.ro/stiri/actualitate/ministerul-transporturilor-avertizeaza-romanii-sa-isi-anuleze-calatoriile-catre-israel-sau-statele-limitrofe-3652937",
+        "published_utc": "2026-02-28T13:47:01+00:00",
+        "score": 3,
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMiUyRjI4JTJGMjYwOTkzM18yNjA5/OTMzX29hbWVuaS1hZXJvcG9ydC1vdG9w/ZW5pX0lOUVVBTV9QaG90b3NfR2Vvcmdl/X0NhbGluLXNjYWxlZC0xLmpwZyZoYXNo/PWM5MDhmMDc0MGQyYmE3MGYzMWQ2YzdmYTk4MjA2NWUx.jpg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -11,7 +22,7 @@
         "link": "https://hotnews.ro/aproximativ-1-500-de-pasageri-din-romania-afectati-de-atacul-asupra-iranului-avem-deja-programari-de-anulari-cu-siguranta-vor-mai-fi-sfaturi-pentru-cei-afectati-2181609",
         "published_utc": "2026-02-28T13:10:10+00:00",
         "score": 1,
-        "image": "https://hotnews.ro/wp-content/uploads/2024/04/image-2019-06-12-23199957-41-aeroportul-otopeni-henri-coanda.jpg"
+        "image": "https://hotnews.ro/wp-content/uploads/2026/02/zboruri-evita-.jpg"
       },
       {
         "section": "romania",
@@ -111,17 +122,6 @@
         "published_utc": "2026-02-27T18:47:13+00:00",
         "score": 3,
         "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMiUyRjI3JTJGMjYwOTQ4Nl8yNjA5/NDg2X21hcmlhLXBldHJpc29yLmpwZyZo/YXNoPWQ0ODJmYTRkNGM5MGJiMjYyNTBjZjk4OWVkMjEwNGM3.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Comună fără canalizare și asfalt, dar cu cheltuieli de 60% din buget pe asistența socială în caz de invaliditate: „Ei fac treabă”",
-        "summary": "O comună din județul Olt nu are canalizare și nici asfalt, dar cheltuielile pe asistența socială în caz de invaliditate se ridică la 60% din buget, conform datelor Ministerului de Finanțe. Direcția Generală de Asistență Socială și Protecția Copilului (DGASPC) Olt a început reevaluarea tuturor persoanelor cu dizabilități din comuna Ștefan cel Mare.",
-        "link": "https://www.digi24.ro/stiri/actualitate/social/comuna-fara-canalizare-si-asfalt-dar-cu-cheltuieli-de-60-din-buget-pe-asistenta-sociala-in-caz-de-invaliditate-ei-fac-treaba-3651553",
-        "published_utc": "2026-02-27T14:18:08+00:00",
-        "score": 3,
-        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMiUyRjI3JTJGMjYwOTEzOV8yNjA5/MTM5X3N0ZWZhbi1jZWwtbWFyZS1qdWRl/dHVsLW9sdC5qcGcmaGFzaD0zNmE1MDA0/YjdmNzE2MTI0YjI0OGVlMzcwYjhhNzY3ZQ==.jpg"
       },
       {
         "section": "romania",
@@ -819,28 +819,28 @@
     "source": "vesti-bune"
   },
   "satire_ro": {
-    "title": "Au apărut spălătoriile self-service unde mașinile se spală una pe alta",
-    "link": "https://www.timesnewroman.ro/it-stiinta/au-aparut-spalatoriile-self-service-unde-masinile-se-spala-una-pe-alta/",
+    "title": "CFR anunță că din cauza atacului SUA în Iran mai multe curse vor avea întârzieri",
+    "link": "https://www.timesnewroman.ro/life-death/cfr-anunta-ca-din-cauza-atacului-sua-in-iran-mai-multe-curse-vor-avea-intarzieri/",
     "source": "timesnewroman.ro"
   },
   "top_images": [
     {
       "tag": "space",
-      "title": "The Quiet Game Acte 4",
-      "link": "https://www.flickr.com/photos/164652074@N05/55118277677/",
-      "image": "https://live.staticflickr.com/65535/55118277677_18bc7b08b0_b.jpg"
+      "title": "My girl Tess",
+      "link": "https://www.flickr.com/photos/paulasatijn/55120316411/",
+      "image": "https://live.staticflickr.com/65535/55120316411_f752db880b_b.jpg"
     },
     {
       "tag": "animals",
-      "title": "Hollywood Rd Hong Kong",
-      "link": "https://www.flickr.com/photos/137765940@N03/55120538476/",
-      "image": "https://live.staticflickr.com/65535/55120538476_9dd2c1d6aa_b.jpg"
+      "title": "Whiskered Tern260126 10",
+      "link": "https://www.flickr.com/photos/suewright2013/55119694017/",
+      "image": "https://live.staticflickr.com/65535/55119694017_135f62a11a_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "Het pad van de stilte",
-      "link": "https://www.flickr.com/photos/204185490@N07/55120551411/",
-      "image": "https://live.staticflickr.com/65535/55120551411_92480c0e8d_b.jpg"
+      "title": "Sunset at Lodi (26-0201 Lodi-0487)",
+      "link": "https://www.flickr.com/photos/royprasad/55075460080/",
+      "image": "https://live.staticflickr.com/65535/55075460080_78ab521e9a_b.jpg"
     }
   ]
 }
