@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-02-28T06:23:46+00:00",
+  "generated_utc": "2026-02-28T07:19:04+00:00",
   "sections": {
     "romania": [
       {
@@ -460,6 +460,17 @@
       {
         "section": "science",
         "kind": "global",
+        "source": "ScienceDaily Science",
+        "title": "Scientists discover microbe that breaks a fundamental rule of the genetic code",
+        "summary": "Scientists at UC Berkeley have discovered a microbe that bends one of biology’s most sacred rules. Instead of treating a specific three-letter DNA code as a clear “stop” signal, this methane-producing archaeon sometimes reads it as a green light—adding an unusual amino acid and continuing to build the protein. The result is a kind of genetic coin flip: two different proteins can emerge from the same code, influenced partly by environmental conditions.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260227071920.htm",
+        "published_utc": "2026-02-28T06:47:32+00:00",
+        "score": 2,
+        "image": "https://picsum.photos/seed/vb-db7d86bb7493f817/480/320"
+      },
+      {
+        "section": "science",
+        "kind": "global",
         "source": "NASA Breaking News",
         "title": "NASA Adds Mission to Artemis Lunar Program, Updates Architecture",
         "summary": "As part of a Golden Age of exploration and discovery, NASA announced Friday the agency is increasing its cadence of missions under the Artemis program to achieve the national objective of returning American astronauts to the Moon and establishing an enduring presence. This includes standardizing vehicle configuration, adding an additional mission in 2027, and undertaking at least one surface [&#8230;]",
@@ -681,17 +692,6 @@
         "section": "science",
         "kind": "global",
         "source": "ScienceDaily Science",
-        "title": "The Moon is still shrinking and it could trigger more moonquakes",
-        "summary": "Researchers have uncovered more than a thousand previously unknown tectonic ridges across the Moon’s dark plains, showing the Moon is still contracting and reshaping itself. These features are among the youngest geological structures on the lunar surface. Because they form through the same forces linked to past moonquakes, they could signal new seismic hotspots.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260218031532.htm",
-        "published_utc": "2026-02-18T12:49:00+00:00",
-        "score": 1,
-        "image": "https://picsum.photos/seed/vb-6cc580f0fc84af72/480/320"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "ScienceDaily Science",
         "title": "Ancient microbes may have used oxygen 500 million years before it filled Earth’s atmosphere",
         "summary": "Life on Earth may have learned to breathe oxygen long before oxygen filled the skies. MIT researchers traced a key oxygen-processing enzyme back hundreds of millions of years before the Great Oxidation Event. Early microbes living near oxygen-producing cyanobacteria may have quickly used up the gas as it formed, slowing its rise in the atmosphere. The results suggest life was adapting to oxygen far earlier — and far more creatively — than once thought.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260218031609.htm",
@@ -810,17 +810,6 @@
         "published_utc": "2026-02-11T08:56:29+00:00",
         "score": 2,
         "image": "https://picsum.photos/seed/vb-457450103bebd1b3/480/320"
-      },
-      {
-        "section": "environment",
-        "kind": "global",
-        "source": "ScienceDaily Environment",
-        "title": "A bonobo’s pretend tea party is rewriting what we know about imagination",
-        "summary": "A bonobo named Kanzi surprised scientists by successfully playing along in pretend tea party experiments, tracking imaginary juice and grapes as if they were real. He consistently pointed to the correct locations of pretend items, while still choosing real food when given the option. The results suggest that imagination may not be exclusive to humans after all.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260210040605.htm",
-        "published_utc": "2026-02-11T04:04:44+00:00",
-        "score": 2,
-        "image": "https://picsum.photos/seed/vb-67ee3886833e1e4d/480/320"
       }
     ]
   },
@@ -837,21 +826,21 @@
   "top_images": [
     {
       "tag": "space",
-      "title": "Orbital plumbing maintenance aboard the International Space Station",
-      "link": "https://www.flickr.com/photos/europeanspaceagency/55118899854/",
-      "image": "https://live.staticflickr.com/65535/55118899854_4e6f34affc_b.jpg"
+      "title": "SunStarSet 02-26:  Hazed.",
+      "link": "https://www.flickr.com/photos/silentoneproductions/55119026171/",
+      "image": "https://live.staticflickr.com/65535/55119026171_4716245205_b.jpg"
     },
     {
       "tag": "animals",
-      "title": "Bison, Yellowstone National Park",
-      "link": "https://www.flickr.com/photos/austingranger/55120420294/",
-      "image": "https://live.staticflickr.com/65535/55120420294_d38b499230_b.jpg"
+      "title": "Female King Parrot 2",
+      "link": "https://www.flickr.com/photos/rajbhoy/55119344992/",
+      "image": "https://live.staticflickr.com/65535/55119344992_0c67cfc771_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "Mésange nonnette - Marsh Tit",
-      "link": "https://www.flickr.com/photos/122558117@N08/55119300452/",
-      "image": "https://live.staticflickr.com/65535/55119300452_4136d24d5e_b.jpg"
+      "title": "Female King Parrot 2",
+      "link": "https://www.flickr.com/photos/rajbhoy/55119344992/",
+      "image": "https://live.staticflickr.com/65535/55119344992_0c67cfc771_b.jpg"
     }
   ]
 }
