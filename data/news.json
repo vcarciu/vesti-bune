@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-02-28T09:16:07+00:00",
+  "generated_utc": "2026-02-28T10:13:19+00:00",
   "sections": {
     "romania": [
       {
@@ -23,17 +23,6 @@
         "published_utc": "2026-02-28T05:00:28+00:00",
         "score": 3,
         "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMiUyRjI3JTJGMjYwODY5OV8yNjA4/Njk5X0NhbmQtbnUtc2UtZmFjLW51bnRp/LWluLTIwMjZfLUZvdG8tR2V0dHktSW1h/Z2VzLmpwZyZoYXNoPWFjMmI5ODYzMzg4YmJhMGU1MDFlNDk1ZDI1N2YwYWEz.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "Weekend trending în București, 28 februarie – 1 martie: Mărțișor, petrecere cu prețuri din 2016, fericirea Andreei Bălan la Sala Palatului și Oscar la Expirat",
-        "summary": "Ultimul weekend din februarie și primul din martie aduc în București un program dens, în care începutul de primăvară e marcat mai ales prin concerte și evenimente cu Mărțișor în titlu. De la heavy metal&#8230;",
-        "link": "https://hotnews.ro/weekend-trending-in-bucuresti-28-februarie-1-martie-martisor-petrecere-cu-preturi-din-2016-fericirea-andreei-balan-la-sala-palatului-si-oscar-la-expirat-2179763",
-        "published_utc": "2026-02-28T04:56:41+00:00",
-        "score": 3,
-        "image": "https://hotnews.ro/wp-content/uploads/2026/02/Andreea-Balan-7-1.jpeg"
       },
       {
         "section": "romania",
@@ -100,6 +89,17 @@
         "published_utc": "2026-02-27T14:06:40+00:00",
         "score": 3,
         "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYxMCUyRjIzJTJGMjQwMjcxOV8yNDAy/NzE5X0lEMzIyMTE0X0lOUVVBTV9QaG90/b3NfT2N0YXZfR2FuZWEuanBnJmhhc2g9/MzZhZTExYjk4YmE0NjAyNzY0YmIyYmQyOTlmNmVkZGI=.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "RomaniaPozitiva",
+        "title": "Retail în 2026: De ce magazinul fizic rămâne centrul coșului zilnic",
+        "summary": "Într-un context în care investițiile în e-commerce, AI și automatizare cresc accelerat, comportamentul real al consumatorului român arată o dinamică mai echilibrată. Datele Consumer Report indică faptul că magazinul fizic&#8230; Articolul Retail în 2026: De ce magazinul fizic rămâne centrul coșului zilnic apare prima dată în Romania Pozitiva .",
+        "link": "https://www.romaniapozitiva.ro/economie/retail-in-2026-de-ce-magazinul-fizic-ramane-centrul-cosului-zilnic",
+        "published_utc": "2026-02-27T13:38:15+00:00",
+        "score": 3,
+        "image": "https://www.romaniapozitiva.ro/wp-content/uploads/2026/02/Captura-de-ecran-2026-02-26-153833.jpg"
       },
       {
         "section": "romania",
@@ -826,21 +826,21 @@
   "top_images": [
     {
       "tag": "space",
-      "title": "\"Hidden Fire: The Enigma Nebula and surroundings”",
-      "link": "https://www.flickr.com/photos/deepskyjourney/55119188787/",
-      "image": "https://live.staticflickr.com/65535/55119188787_73f6f4f08a_b.jpg"
+      "title": "Greentron Grasshopper",
+      "link": "https://www.flickr.com/photos/158127482@N02/55119907569/",
+      "image": "https://live.staticflickr.com/65535/55119907569_c5185b21b4_b.jpg"
     },
     {
       "tag": "animals",
-      "title": "🎁[^.^Ayashi^.^] Kiyomi&Fuyumi hair & accessories special for Saturday Weekend & K9",
-      "link": "https://www.flickr.com/photos/sl-ayashi/55120715325/",
-      "image": "https://live.staticflickr.com/65535/55120715325_1f983da724_b.jpg"
+      "title": "IMG_8430",
+      "link": "https://www.flickr.com/photos/acb/55119418362/",
+      "image": "https://live.staticflickr.com/65535/55119418362_109666bb66_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "*",
-      "link": "https://www.flickr.com/photos/pkostar/55120546133/",
-      "image": "https://live.staticflickr.com/65535/55120546133_fdc88ef7b4_b.jpg"
+      "title": "Twilight by the fjord",
+      "link": "https://www.flickr.com/photos/starcitizen/55119502322/",
+      "image": "https://live.staticflickr.com/65535/55119502322_e267604084_b.jpg"
     }
   ]
 }
