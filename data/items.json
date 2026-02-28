@@ -1,7 +1,18 @@
 {
-  "generated_utc": "2026-02-28T18:17:42+00:00",
+  "generated_utc": "2026-02-28T19:13:05+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Bursa - Titlurile zilei",
+        "title": "IDF: Peste 200 de aeronave au lovit 500 de ţinte iraniene sâmbătă noaptea",
+        "summary": "IDF a anunţat că peste 200 de aeronave ale Forţelor Aeriene Israeliene au lovit 500 de ţinte iraniene sâmbătă noaptea, în cel mai amplu atac aerian desfăşurat vreodată de forţele israeliene.",
+        "link": "https://www.bursa.ro/idf-peste-200-de-aeronave-au-lovit-500-de-tinte-iraniene-sambata-noaptea-44235857",
+        "published_utc": "2026-02-28T18:26:00+00:00",
+        "score": 1,
+        "image": "https://www.bursa.ro/_img/articole/mare/585324.jpg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -12,17 +23,6 @@
         "published_utc": "2026-02-28T13:47:01+00:00",
         "score": 3,
         "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMiUyRjI4JTJGMjYwOTkzM18yNjA5/OTMzX29hbWVuaS1hZXJvcG9ydC1vdG9w/ZW5pX0lOUVVBTV9QaG90b3NfR2Vvcmdl/X0NhbGluLXNjYWxlZC0xLmpwZyZoYXNo/PWM5MDhmMDc0MGQyYmE3MGYzMWQ2YzdmYTk4MjA2NWUx.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "Aproximativ 1.500 de pasageri din România, afectați de atacul asupra Iranului. Sfaturi pentru cei afectați",
-        "summary": "Închiderea spațiului aerian în mai multe țări din Orientul Mijlociu, după atacul Israelului și SUA asupra Iranului, a afectat astăzi 12 curse aeriene din România, a anunțat Teo Postelnicu, purtător de cuvânt al Companiei Naționale&#8230;",
-        "link": "https://hotnews.ro/aproximativ-1-500-de-pasageri-din-romania-afectati-de-atacul-asupra-iranului-avem-deja-programari-de-anulari-cu-siguranta-vor-mai-fi-sfaturi-pentru-cei-afectati-2181609",
-        "published_utc": "2026-02-28T13:10:10+00:00",
-        "score": 1,
-        "image": "https://hotnews.ro/wp-content/uploads/2026/02/zboruri-evita-.jpg"
       },
       {
         "section": "romania",
@@ -44,7 +44,7 @@
         "link": "https://www.romaniapozitiva.ro/cultura/de-la-pagina-la-scena-dezbatere-despre-traducerea-si-montarea-textului-dramatic",
         "published_utc": "2026-02-28T11:30:24+00:00",
         "score": 1,
-        "image": "http://www.romaniapozitiva.ro/wp-content/uploads/2026/02/Afis_de-la-Pagina-la-scena.jpg.jpeg"
+        "image": "http://www.romaniapozitiva.ro/wp-content/uploads/2026/02/Coperta1_Grec_greaca_grecesc_v4.jpg.jpeg"
       },
       {
         "section": "romania",
@@ -826,21 +826,21 @@
   "top_images": [
     {
       "tag": "space",
-      "title": "My girl Tess",
-      "link": "https://www.flickr.com/photos/paulasatijn/55120316411/",
-      "image": "https://live.staticflickr.com/65535/55120316411_f752db880b_b.jpg"
+      "title": "StarP CL 2",
+      "link": "https://www.flickr.com/photos/silentoneproductions/55121214280/",
+      "image": "https://www.flickr.com/apps/video/stewart.swf?v=2968162862&photo_id=55121214280"
     },
     {
       "tag": "animals",
-      "title": "20260131_092804 r1000",
-      "link": "https://www.flickr.com/photos/18083893@N05/55121163738/",
-      "image": "https://live.staticflickr.com/65535/55121163738_b40d01e3fe_b.jpg"
+      "title": "",
+      "link": "https://www.flickr.com/photos/bigashd/55121412585/",
+      "image": "https://live.staticflickr.com/65535/55121412585_e0775e88b3_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "Crocus",
-      "link": "https://www.flickr.com/photos/katzefudder/55121213294/",
-      "image": "https://live.staticflickr.com/65535/55121213294_50d7e583fe_b.jpg"
+      "title": "_61A4157",
+      "link": "https://www.flickr.com/photos/60345101@N08/55121409570/",
+      "image": "https://live.staticflickr.com/65535/55121409570_f6a8f5b038_b.jpg"
     }
   ]
 }
