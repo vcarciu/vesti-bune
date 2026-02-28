@@ -1,7 +1,18 @@
 {
-  "generated_utc": "2026-02-27T23:15:15+00:00",
+  "generated_utc": "2026-02-28T00:59:45+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Iranul n-a mai permis verificarea programului său nuclear de la atacurile din 2025 / Unde și-a ascuns uraniul îmbogățit la 60% puritate",
+        "summary": "Agenția Internațională pentru Energie Atomică (AIEA) a avertizat vineri că Iranul nu îi oferă acces și nici informații despre cele mai sensibile aspecte ale programului său nuclear de la atacurile Israelului și Statelor Unite asupra&#8230;",
+        "link": "https://hotnews.ro/iranul-n-a-mai-permis-verificarea-programului-sau-nuclear-de-la-atacurile-din-2025-spune-agentia-onu-pentru-energie-atomica-2181057",
+        "published_utc": "2026-02-28T00:15:00+00:00",
+        "score": 3,
+        "image": "https://hotnews.ro/wp-content/uploads/2024/04/image-2020-07-2-24149697-41-instalatie-nucleara-natanz-din-iran-3.jpg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -67,17 +78,6 @@
         "published_utc": "2026-02-27T15:35:58+00:00",
         "score": 3,
         "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMiUyRjI3JTJGMjYwOTI5Ml8yNjA5/MjkyX0JBVC5qcGVnJmhhc2g9NzM3ODI3/ZmM3ZmZiZDFkOGYyZTNjMzI2NDNmNmQ2NzM=.jpeg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "România, încă un pas către „Clubul bogaților”. Țara noastră a primit cel de-al 22-lea aviz din partea OCDE, anunță Luca Niculescu",
-        "summary": "România a mai făcut un pas important în drumul său către OCDE. În două zile a primit două avize, numărul acestora fiind 22 din 25, anunță secretarul de stat, Luca Niculescu.",
-        "link": "https://www.digi24.ro/stiri/romania-inca-un-pas-catre-clubul-bogatilor-tara-noastra-a-primit-cel-de-al-22-lea-aviz-din-partea-ocde-anunta-luca-niculescu-3651743",
-        "published_utc": "2026-02-27T15:15:47+00:00",
-        "score": 1,
-        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA0dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjIl/MkYwMSUyRjI3JTJGMTQ1MDk0Nl8xNDUw/OTQ2X29jZGUuanBnJnc9MTIwMCZoPTYz/MCZ6Yz0xJmhhc2g9ODU2ZDNlZjUyYzQ1ODMxMGRmYWEzYzE1M2Y5ZjEyOGI=.thumb.jpg"
       },
       {
         "section": "romania",
@@ -825,8 +825,8 @@
     ]
   },
   "joke_ro": {
-    "date_utc": "2026-02-27",
-    "text": "Când am zis „vreau să fiu fit”, corpul meu a înțeles „vreau să fiu… fitil” și a cerut somn.",
+    "date_utc": "2026-02-28",
+    "text": "— Ce faci? — Mă organizez. — Cum? — Îmi mut haosul dintr-un colț în altul.",
     "source": "vesti-bune"
   },
   "satire_ro": {
@@ -843,15 +843,15 @@
     },
     {
       "tag": "animals",
-      "title": "Taiga Bean Goose260125 8",
-      "link": "https://www.flickr.com/photos/suewright2013/55118771082/",
-      "image": "https://live.staticflickr.com/65535/55118771082_05c6024736_b.jpg"
+      "title": "Booted Racket-tail, female",
+      "link": "https://www.flickr.com/photos/132165466@N08/55120008888/",
+      "image": "https://live.staticflickr.com/65535/55120008888_76808c7ed6_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "Brown Hare",
-      "link": "https://www.flickr.com/photos/warrencarls_images/55119926994/",
-      "image": "https://live.staticflickr.com/65535/55119926994_e3a134c827_b.jpg"
+      "title": "330 seconds",
+      "link": "https://www.flickr.com/photos/90069595@N06/55120183725/",
+      "image": "https://live.staticflickr.com/65535/55120183725_94f556c8ec_b.jpg"
     }
   ]
 }
