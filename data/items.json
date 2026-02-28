@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-02-28T15:12:06+00:00",
+  "generated_utc": "2026-02-28T16:14:26+00:00",
   "sections": {
     "romania": [
       {
@@ -56,17 +56,6 @@
         "published_utc": "2026-02-28T11:30:24+00:00",
         "score": 1,
         "image": "http://www.romaniapozitiva.ro/wp-content/uploads/2026/02/Afis_de-la-Pagina-la-scena.jpg.jpeg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "Israelienii și americanii și-au împărțit rolurile în atacul asupra Iranului. Ce a urmărit fiecare țară",
-        "summary": "În atacul început sâmbătă dimineață contra Iranului Israelul și Statele Unite au fost complementari, a dezvăluit un oficial american pentru televiziunea Fox News. Israelul a vizat oficialii de rang înalt din conducerea Republicii Islamice, în&#8230;",
-        "link": "https://hotnews.ro/israelienii-si-americanii-si-au-impartit-rolurile-in-atac-unii-i-au-luat-la-tinta-pe-liderii-iranieni-altii-obiectivele-militare-2181507",
-        "published_utc": "2026-02-28T11:06:27+00:00",
-        "score": 1,
-        "image": "https://hotnews.ro/wp-content/uploads/2026/02/profimedia-1078930437-1.jpg"
       },
       {
         "section": "romania",
@@ -137,6 +126,17 @@
       {
         "section": "romania",
         "kind": "ro",
+        "source": "Digi24",
+        "title": "Controversatul fost rege al Spaniei, Juan Carlos, este rechemat în țară după 5 ani de exil",
+        "summary": "Familia regală a Spaniei vede deschisă calea pentru controversatul fost rege Juan Carlos să se întoarcă în patria sa după cinci ani şi jumătate petrecuţi în exil, în Orientul Mijlociu, informează DPA și Agerpres. Regele-emerit spaniol, în vârstă de 88 de ani, care locuieşte în capitala Emiratelor Arabe Unite, Abu Dhabi, ar putea să se întoarcă în orice moment şi să locuiască permanent în Spania, a anunţat Palatul Regal din Madrid.",
+        "link": "https://www.digi24.ro/stiri/externe/controversatul-fost-rege-al-spaniei-juan-carlos-este-rechemat-in-tara-dupa-5-ani-de-exil-3651999",
+        "published_utc": "2026-02-27T18:46:41+00:00",
+        "score": 1,
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMiUyRjI3JTJGMjYwOTQ4N18yNjA5/NDg3X3Byb2ZpbWVkaWEtMTA3ODc0OTI3/NS5qcGcmdz0xMjAwJmg9NjMwJnpjPTEm/aGFzaD1iMDkyYTBlYjg3MmJmY2VhMTdlOWNjZDE3ODc1NDc4ZA==.thumb.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
         "source": "StiriPozitive - Cultura",
         "title": "Her Art Story, expoziție a Muzeului de Artă Brașov, poate fi admirată în aer liber la Palatul SuțuHer Art Story 2",
         "summary": "Muzeul de Artă Brașov aduce pentru prima dată la București expoziția „Her Art Story”, un proiect dedicat recuperării și valorificării contribuției femeilor în istoria artei românești. Expoziția, itinerată în aer &#8230; Read More The post Her Art Story, expoziție a Muzeului de Artă Brașov, poate fi admirată în aer liber la Palatul SuțuHer Art Story 2 appeared first on Stiri pozitive .",
@@ -180,6 +180,39 @@
       }
     ],
     "medical": [
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "How the body really ages: 7 million cells mapped across 21 organs",
+        "summary": "Scientists have built a massive cellular atlas showing how aging reshapes the body across 21 organs. Studying nearly 7 million cells, they found that aging starts earlier than expected and unfolds in a coordinated way throughout the body. About a quarter of cell types change in number over time, and many of these shifts differ between males and females. The research also highlights shared genetic “hotspots” that could become targets for anti-aging therapies.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260228082717.htm",
+        "published_utc": "2026-02-28T15:25:43+00:00",
+        "score": 1,
+        "image": "https://picsum.photos/seed/vb-542cc2231feaf4c2/480/320"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "Scientists discover a bacterial kill switch and it could change the fight against superbugs",
+        "summary": "Drug-resistant bacteria are becoming harder to treat, pushing scientists to look for new antibiotic targets. Researchers have now discovered that several unrelated viruses disable a key bacterial protein called MurJ, which is essential for building the bacterial cell wall. High-resolution imaging shows these viral proteins lock MurJ into a single position, stopping cell wall construction and leading to bacterial death.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260228082723.htm",
+        "published_utc": "2026-02-28T14:20:04+00:00",
+        "score": 3,
+        "image": "https://picsum.photos/seed/vb-c23c5213391b9cc1/480/320"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "Your morning coffee could one day help fight cancer",
+        "summary": "Scientists at Texas A&amp;M are turning an everyday pick-me-up into a high-tech medical switch. By combining caffeine with CRISPR gene editing, researchers have created a system that allows cells to be programmed in advance — and then activated simply by consuming a small dose of caffeine from coffee, chocolate, or soda. The approach, known as chemogenetics, lets scientists precisely turn gene-editing activity on and off inside targeted cells, including powerful immune T cells that can fight cancer.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260227071940.htm",
+        "published_utc": "2026-02-28T14:03:20+00:00",
+        "score": 1,
+        "image": "https://picsum.photos/seed/vb-1992caf74a5ca65b/480/320"
+      },
       {
         "section": "medical",
         "kind": "global",
@@ -421,42 +454,31 @@
         "published_utc": "2026-02-19T15:16:55+00:00",
         "score": 5,
         "image": "https://picsum.photos/seed/vb-bd6dae15421156aa/480/320"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "ScienceDaily Health",
-        "title": "Scientists finally explain why chronic constipation treatments often fail",
-        "summary": "A newly discovered bacterial duo may be the hidden cause of chronic constipation. The two microbes break down the colon’s protective mucus layer, leaving stool dry and hard — a problem traditional laxatives don’t fix. Parkinson’s patients, who often struggle with constipation years before tremors appear, have higher levels of these bacteria. Blocking the bacteria’s mucus-destroying enzyme prevented constipation in mice, hinting at a new treatment strategy.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260219040745.htm",
-        "published_utc": "2026-02-19T13:46:05+00:00",
-        "score": 4,
-        "image": "https://picsum.photos/seed/vb-4f9a2fbdd88179ae/480/320"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "ScienceDaily Health",
-        "title": "Intermittent fasting fails to beat standard dieting for weight loss",
-        "summary": "Intermittent fasting has become one of the most talked-about weight loss trends in recent years, promising dramatic results with simple changes to when you eat. But a major Cochrane review suggests the reality may be far less exciting. After analyzing 22 clinical trials involving nearly 2,000 adults, researchers found that intermittent fasting did not produce significantly more weight loss than standard diet advice or even no structured plan at all.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260218044620.htm",
-        "published_utc": "2026-02-18T13:11:51+00:00",
-        "score": 5,
-        "image": "https://picsum.photos/seed/vb-42a89e2550042901/480/320"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "ScienceDaily Health",
-        "title": "Viagra and shingles vaccine show surprising promise against Alzheimer’s",
-        "summary": "A major new study has spotlighted three familiar medicines that could take on an unexpected new role in the fight against Alzheimer’s disease — with a shingles vaccine emerging as the front-runner. After reviewing 80 existing drugs, an international panel of experts identified Zostavax, Viagra (sildenafil), and riluzole as the most promising candidates for repurposing.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260217005759.htm",
-        "published_utc": "2026-02-18T12:02:28+00:00",
-        "score": 2,
-        "image": "https://picsum.photos/seed/vb-fd1563835b413c5c/480/320"
       }
     ],
     "science": [
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "ScienceDaily Science",
+        "title": "The first animals on Earth had no skeletons and that changes everything",
+        "summary": "Sponges may be ancient, but their timeline has been murky. New research suggests the earliest sponges were soft and skeleton-free, explaining why their fossils don’t appear until much later. By analyzing hundreds of genes and modeling how skeletons evolved, scientists found that mineralized spicules arose separately in different sponge lineages. The discovery rewrites the story of how the first reef-building animals—and possibly the first animals of all—emerged.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260227071924.htm",
+        "published_utc": "2026-02-28T14:50:14+00:00",
+        "score": 4,
+        "image": "https://picsum.photos/seed/vb-71f75214b3710838/480/320"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "ScienceDaily Science",
+        "title": "Textbooks challenged by new discovery about how cells divide",
+        "summary": "Scientists have uncovered a surprising new way that giant embryonic cells divide—without relying on the classic “purse-string” ring long thought essential for splitting a cell in two. Studying zebrafish embryos, researchers found that instead of forming a fully closed contractile ring, cells use a clever “mechanical ratchet” system.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260227071928.htm",
+        "published_utc": "2026-02-28T14:33:54+00:00",
+        "score": 6,
+        "image": "https://picsum.photos/seed/vb-edfe72426745cf4b/480/320"
+      },
       {
         "section": "science",
         "kind": "global",
@@ -670,37 +692,26 @@
         "section": "science",
         "kind": "global",
         "source": "ScienceDaily Science",
-        "title": "Ancient DNA solves 5,500 year old burial mystery in Sweden",
-        "summary": "Ancient DNA from a Stone Age burial site in Sweden shows that families 5,500 years ago were more complex than expected. Many individuals buried together were not immediate family, but second- or third-degree relatives. One grave held a young woman alongside two children who were siblings—yet she wasn’t their mother. The discoveries hint at tight-knit communities where extended kin mattered deeply.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260218031559.htm",
-        "published_utc": "2026-02-19T06:47:07+00:00",
-        "score": 2,
-        "image": "https://picsum.photos/seed/vb-e3d7197d42dde656/480/320"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "ScienceDaily Science",
         "title": "New map reveals where lethal scorpions are most likely to strike",
         "summary": "Scientists have developed a powerful new way to forecast where some of the world’s most dangerous scorpions are likely to be found. By combining fieldwork in Africa with advanced computer modeling, the team discovered that soil type is the strongest factor shaping where many lethal species live, while temperature patterns also play a key role.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260218044628.htm",
         "published_utc": "2026-02-19T04:36:03+00:00",
         "score": 1,
         "image": "https://picsum.photos/seed/vb-d71af13430b86ff2/480/320"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "ScienceDaily Science",
-        "title": "Ancient microbes may have used oxygen 500 million years before it filled Earth’s atmosphere",
-        "summary": "Life on Earth may have learned to breathe oxygen long before oxygen filled the skies. MIT researchers traced a key oxygen-processing enzyme back hundreds of millions of years before the Great Oxidation Event. Early microbes living near oxygen-producing cyanobacteria may have quickly used up the gas as it formed, slowing its rise in the atmosphere. The results suggest life was adapting to oxygen far earlier — and far more creatively — than once thought.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260218031609.htm",
-        "published_utc": "2026-02-18T08:50:31+00:00",
-        "score": 1,
-        "image": "https://picsum.photos/seed/vb-c48f8275596e964c/480/320"
       }
     ],
     "environment": [
+      {
+        "section": "environment",
+        "kind": "global",
+        "source": "ScienceDaily Environment",
+        "title": "A major climate hope in Antarctica just melted away",
+        "summary": "A popular climate theory suggested that melting Antarctic glaciers would release iron into the ocean, sparking algae blooms that pull carbon dioxide from the air. New field data from West Antarctica reveal that meltwater provides far less iron than scientists once believed. Instead, most of the iron comes from deep ocean water and sediments, not from the melting ice itself. The discovery raises new questions about how Antarctica influences climate change.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260228082714.htm",
+        "published_utc": "2026-02-28T14:59:08+00:00",
+        "score": 4,
+        "image": "https://picsum.photos/seed/vb-57e41a5607b95cbb/480/320"
+      },
       {
         "section": "environment",
         "kind": "global",
@@ -733,6 +744,17 @@
         "published_utc": "2026-02-23T17:58:30+00:00",
         "score": 2,
         "image": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26697/PIA26697.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
+      },
+      {
+        "section": "environment",
+        "kind": "global",
+        "source": "ScienceDaily Environment",
+        "title": "Ancient DNA solves 5,500 year old burial mystery in Sweden",
+        "summary": "Ancient DNA from a Stone Age burial site in Sweden shows that families 5,500 years ago were more complex than expected. Many individuals buried together were not immediate family, but second- or third-degree relatives. One grave held a young woman alongside two children who were siblings—yet she wasn’t their mother. The discoveries hint at tight-knit communities where extended kin mattered deeply.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260218031559.htm",
+        "published_utc": "2026-02-19T06:47:07+00:00",
+        "score": 2,
+        "image": "https://picsum.photos/seed/vb-d8395b40b9492e0b/480/320"
       },
       {
         "section": "environment",
@@ -782,34 +804,12 @@
         "section": "environment",
         "kind": "global",
         "source": "ScienceDaily Environment",
-        "title": "Scientists discover pets are helping an invasive flatworm spread",
-        "summary": "A new study shows that dogs and cats may be helping an invasive flatworm spread. Researchers analyzing over a decade of reports discovered the worm attached to pet fur. Its sticky mucus and ability to reproduce alone make it highly adaptable. Pets could be giving this slow-moving invader a major boost.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260210231550.htm",
-        "published_utc": "2026-02-14T14:34:47+00:00",
-        "score": 2,
-        "image": "https://picsum.photos/seed/vb-995eb2555408533a/480/320"
-      },
-      {
-        "section": "environment",
-        "kind": "global",
-        "source": "ScienceDaily Environment",
         "title": "Snowball Earth was not completely frozen, new study reveals",
         "summary": "Even when Earth was locked in its most extreme deep freeze, the planet’s climate may not have been as silent and still as once believed. New research from ancient Scottish rocks reveals that during Snowball Earth — when ice sheets reached the tropics and the planet resembled a giant snowball from space — climate rhythms similar to today’s seasons, solar cycles, and even El Niño–like patterns were still pulsing beneath the ice.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260212025545.htm",
         "published_utc": "2026-02-12T08:48:58+00:00",
         "score": 1,
         "image": "https://picsum.photos/seed/vb-3392fb090d60e034/480/320"
-      },
-      {
-        "section": "environment",
-        "kind": "global",
-        "source": "ScienceDaily Environment",
-        "title": "Your cat’s purr says more than you think",
-        "summary": "Your cat’s purr may say more about who they are than their meow ever could. Scientists discovered that purrs are stable and uniquely identifiable, while meows change dramatically depending on context. Domestic cats, in particular, have evolved highly flexible meows as a way to communicate with humans. The purr, meanwhile, stays constant—making it a reliable marker of individual identity.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260210040619.htm",
-        "published_utc": "2026-02-11T08:56:29+00:00",
-        "score": 2,
-        "image": "https://picsum.photos/seed/vb-457450103bebd1b3/480/320"
       }
     ]
   },
@@ -826,21 +826,21 @@
   "top_images": [
     {
       "tag": "space",
-      "title": "FebRovery 2026 # 27 (2/2)",
-      "link": "https://www.flickr.com/photos/crimso-giger/55118565837/",
-      "image": "https://live.staticflickr.com/65535/55118565837_bcba5d6ffe_b.jpg"
+      "title": "Barbie spaceship",
+      "link": "https://www.flickr.com/photos/paulasatijn/55119440532/",
+      "image": "https://live.staticflickr.com/65535/55119440532_4473dcb286_b.jpg"
     },
     {
       "tag": "animals",
-      "title": "Japanese Waxwing260127 7",
-      "link": "https://www.flickr.com/photos/suewright2013/55120855653/",
-      "image": "https://live.staticflickr.com/65535/55120855653_a34de4a711_b.jpg"
+      "title": "XH2_DSCF6922_C1",
+      "link": "https://www.flickr.com/photos/bazoka/55120732806/",
+      "image": "https://live.staticflickr.com/65535/55120732806_bbb6ceda77_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "P1250157",
-      "link": "https://www.flickr.com/photos/rpealit/55121072935/",
-      "image": "https://live.staticflickr.com/65535/55121072935_09cef446c7_b.jpg"
+      "title": "Four and twenty…..",
+      "link": "https://www.flickr.com/photos/67357077@N05/55120779856/",
+      "image": "https://live.staticflickr.com/65535/55120779856_f5f2401222_b.jpg"
     }
   ]
 }
