@@ -1,7 +1,18 @@
 {
-  "generated_utc": "2026-03-01T10:14:45+00:00",
+  "generated_utc": "2026-03-01T11:11:28+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "INTERVIU. „Toți suntem produsul propriei noastre gândiri. Dacă nu gândim…” Un cunoscut medic neurolog explică care e vârsta sub care copiii nu ar trebui să aibă telefon mobil – efectele asupra creierului",
+        "summary": "„Părinții trebuie să explice copiilor, trebuie să le ia dispozitivul. Copiii au dreptul la iubire, la educație, la explicații, dar nu au dreptul să își otrăvească propriile creiere doar pentru că toți ceilalți își otrăvesc&#8230;",
+        "link": "https://hotnews.ro/interviu-toti-suntem-produsul-propriei-noastre-gandiri-daca-nu-gandim-un-cunoscut-medic-neurolog-explica-care-e-varsta-sub-care-copiii-nu-ar-trebui-sa-aiba-telefon-mobil-2179321",
+        "published_utc": "2026-03-01T10:32:16+00:00",
+        "score": 1,
+        "image": "https://hotnews.ro/wp-content/uploads/2026/02/social-media-brain.jpg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -111,17 +122,6 @@
         "published_utc": "2026-02-28T12:11:51+00:00",
         "score": 1,
         "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjMl/MkYxMCUyRjA3JTJGMTgxMzE3OF8xODEz/MTc4X1BhdHJpYXJoaWEtUm9tYW5hLmpw/ZWcmdz0xMjAwJmg9NjMwJnpjPTEmaGFz/aD03ZWZhODYxOWNiYjc4NzQ0N2JmNDk4NzBmYTVjMmRjMQ==.thumb.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "RomaniaPozitiva",
-        "title": "De la pagină la scenă. Dezbatere despre traducerea și montarea textului dramatic",
-        "summary": "Activitatea Fundației Culturale „Camil Petrescu” continuă și în acest an chestionările, dezbaterile pe marginea complexității fenomenologiei artelor spectacolului azi. Credem că actul spectacular teatral este, în esență, un tablou vizual&#8230; Articolul De la pagină la scenă. Dezbatere despre traducerea și montarea textului dramatic apare prima dată în Romania Pozitiva .",
-        "link": "https://www.romaniapozitiva.ro/cultura/de-la-pagina-la-scena-dezbatere-despre-traducerea-si-montarea-textului-dramatic",
-        "published_utc": "2026-02-28T11:30:24+00:00",
-        "score": 1,
-        "image": "http://www.romaniapozitiva.ro/wp-content/uploads/2026/02/Coperta1_Grec_greaca_grecesc_v4.jpg.jpeg"
       },
       {
         "section": "romania",
@@ -819,28 +819,28 @@
     "source": "vesti-bune"
   },
   "satire_ro": {
-    "title": "Derapaj. Un psiholog i-a spus unei paciente că FCSB ar fi Steaua",
-    "link": "https://www.timesnewroman.ro/sport/derapaj-un-psiholog-i-a-spus-unei-paciente-ca-fcsb-ar-fi-steaua/",
+    "title": "Ne pierdem tradițiile? Românii renunță la mâncarea turcească și trec pe chinezească",
+    "link": "https://www.timesnewroman.ro/life-death/ne-pierdem-traditiile-romanii-renunta-la-mancarea-turceasca-si-trec-pe-chinezeasca/",
     "source": "timesnewroman.ro"
   },
   "top_images": [
     {
       "tag": "space",
-      "title": "",
-      "link": "https://www.flickr.com/photos/kevinkemmerer/55121929771/",
-      "image": "https://live.staticflickr.com/65535/55121929771_e2bec75031_b.jpg"
+      "title": "BHADRESHKUMAR CHETANBHAI PATEL MOST WANTED CALL FBI",
+      "link": "https://www.flickr.com/photos/liondragon7/55121516614/",
+      "image": "https://live.staticflickr.com/65535/55121516614_6769f38bc0_b.jpg"
     },
     {
       "tag": "animals",
-      "title": "DO01000883",
-      "link": "https://www.flickr.com/photos/remkotanis/55121262562/",
-      "image": "https://live.staticflickr.com/65535/55121262562_9755d54e09_b.jpg"
+      "title": "Bridled Honeyeater (Bolemoreus frenatus)",
+      "link": "https://www.flickr.com/photos/dorres/55122234541/",
+      "image": "https://live.staticflickr.com/65535/55122234541_b1edf80ce1_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "581A1827: Showing the Importance of Headgerows!",
-      "link": "https://www.flickr.com/photos/198011004@N07/55122320288/",
-      "image": "https://live.staticflickr.com/65535/55122320288_cba24fe2f2_b.jpg"
+      "title": "Rabensteine",
+      "link": "https://www.flickr.com/photos/131418754@N05/55121347107/",
+      "image": "https://live.staticflickr.com/65535/55121347107_0b058b2e90_b.jpg"
     }
   ]
 }
