@@ -1,7 +1,18 @@
 {
-  "generated_utc": "2026-03-01T19:15:02+00:00",
+  "generated_utc": "2026-03-01T20:14:07+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Bursa - Titlurile zilei",
+        "title": "TAROM organizează curse speciale Cairo-Bucureşti pentru repatrierea românilor din Orientul Mijlociu",
+        "summary": "Compania Naţională de Transporturi Aeriene Române TAROM a anunţat duminică seară că este pregătită să opereze zboruri speciale pentru aducerea în ţară a peste 360 de cetăţeni români aflaţi în zona afectată de conflictul din Orientul Mijlociu.",
+        "link": "https://www.bursa.ro/tarom-organizeaza-curse-speciale-cairo-bucuresti-pentru-repatrierea-romanilor-din-orientul-mijlociu-63935853",
+        "published_utc": "2026-03-01T19:28:00+00:00",
+        "score": 1,
+        "image": "https://www.bursa.ro/_img/articole/mare/585393.jpg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -111,17 +122,6 @@
         "published_utc": "2026-03-01T06:00:27+00:00",
         "score": 1,
         "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMiUyRjI1JTJGMjYwNjQ0N18yNjA2/NDQ3X0NhdC10aW1wLXNlLXBvYXJ0YS1t/YXJ0aXNvcnVsLTIwMjZfLUZvdG8tR2V0/dHktSW1hZ2VzLTEuanBnJnc9MTIwMCZo/PTYzMCZ6Yz0xJmhhc2g9MTFiM2Q1ZmNjMGUxZTZjYzZiNDg4MmNjY2Y2Yjg1MWE=.thumb.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Cât timp se poartă Mărțișorul pentru noroc și protecție. Ce semnificație are tradiția de 1 Martie",
-        "summary": "Marcat la începutul lunii martie, gestul de a oferi mărțișorul cu șnur alb-roșu se regăsește printre reperele definitorii ale patrimoniului cultural românesc, simbolizând trecerea către primăvară și reînnoirea naturii. Acesta este dăruit persoanelor apropiate ca expresie a urărilor de noroc, sănătate și protecție.",
-        "link": "https://www.digi24.ro/magazin/stil-de-viata/cat-timp-se-poarta-martisorul-pentru-noroc-si-protectie-ce-semnificatie-are-traditia-de-1-martie-3647413",
-        "published_utc": "2026-03-01T05:00:58+00:00",
-        "score": 1,
-        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMiUyRjI1JTJGMjYwNjQ1M18yNjA2/NDUzX0dldHR5SW1hZ2VzLTY0NTczMTU4/Ni5qcGcmdz0xMjAwJmg9NjMwJnpjPTEm/aGFzaD0zZDViZmVhZGIyYjZiZmNmMTA3MDhkY2U5ODVhZTg1Ng==.thumb.jpg"
       },
       {
         "section": "romania",
@@ -859,21 +859,21 @@
   "top_images": [
     {
       "tag": "space",
-      "title": "I married a Patriot.",
-      "link": "https://www.flickr.com/photos/kevinkemmerer/55121929771/",
-      "image": "https://live.staticflickr.com/65535/55121929771_e2bec75031_b.jpg"
+      "title": "Emily",
+      "link": "https://www.flickr.com/photos/austinspace/55122099773/",
+      "image": "https://live.staticflickr.com/65535/55122099773_28c7a4f53d_b.jpg"
     },
     {
       "tag": "animals",
-      "title": "Spoonbill",
-      "link": "https://www.flickr.com/photos/kdaa/55123020781/",
-      "image": "https://live.staticflickr.com/65535/55123020781_3fbceee461_b.jpg"
+      "title": "Z9_DSC_3194_C1",
+      "link": "https://www.flickr.com/photos/bazoka/55123072046/",
+      "image": "https://live.staticflickr.com/65535/55123072046_9dd7cfbd58_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "The Photographer being photographed",
-      "link": "https://www.flickr.com/photos/fotonormann/55123107306/",
-      "image": "https://live.staticflickr.com/65535/55123107306_cacbbf262e_b.jpg"
+      "title": "White Stork (Ciconia ciconia)",
+      "link": "https://www.flickr.com/photos/captiveimage/55123584270/",
+      "image": "https://live.staticflickr.com/65535/55123584270_c92a12f49d_b.jpg"
     }
   ]
 }
