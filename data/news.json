@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-03-01T16:15:09+00:00",
+  "generated_utc": "2026-03-01T17:13:35+00:00",
   "sections": {
     "romania": [
       {
@@ -461,6 +461,17 @@
         "section": "science",
         "kind": "global",
         "source": "ScienceDaily Science",
+        "title": "Massive asteroid impact 6.3 million years ago left giant glass field in Brazil",
+        "summary": "For the first time ever, scientists have uncovered a vast field of tektites in Brazil — mysterious glassy fragments forged when a powerful extraterrestrial object slammed into Earth about 6.3 million years ago. Named “geraisites” after Minas Gerais, where they were first found, these dark, aerodynamic droplets of natural glass stretch across more than 900 kilometers and may mark one of South America’s most significant ancient impact events.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260228093512.htm",
+        "published_utc": "2026-03-01T16:29:33+00:00",
+        "score": 1,
+        "image": "https://picsum.photos/seed/vb-e9beb4d618973e70/480/320"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "ScienceDaily Science",
         "title": "For the first time, light mimics a Nobel Prize quantum effect",
         "summary": "Scientists have pulled off a feat long considered out of reach: getting light to mimic the famous quantum Hall effect. In their experiment, photons drift sideways in perfectly defined, quantized steps—just like electrons do in powerful magnetic fields. Because these steps depend only on nature’s fundamental constants, they could become a new gold standard for ultra-precise measurements. The discovery also hints at tougher, more reliable quantum photonic technologies.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260228093446.htm",
@@ -848,21 +859,21 @@
   "top_images": [
     {
       "tag": "space",
-      "title": "Stargazing Photo Walks",
-      "link": "https://www.flickr.com/photos/tomasinmarsh/55122509720/",
-      "image": "https://live.staticflickr.com/65535/55122509720_00cb08021f_b.jpg"
+      "title": "Exploration rover - Front",
+      "link": "https://www.flickr.com/photos/193949112@N05/55120764337/",
+      "image": "https://live.staticflickr.com/65535/55120764337_b6d5aed365_b.jpg"
     },
     {
       "tag": "animals",
-      "title": "Ethiopian White-eye (Zosterops poliogastrus)",
-      "link": "https://www.flickr.com/photos/200625507@N06/55122825899/",
-      "image": "https://live.staticflickr.com/65535/55122825899_9370c51973_b.jpg"
+      "title": "Abyssinian Thrush (Turdus abyssinicus)",
+      "link": "https://www.flickr.com/photos/200625507@N06/55122696121/",
+      "image": "https://live.staticflickr.com/65535/55122696121_c01519c978_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "Marsh Lane Nature Reserve 28th February 2026",
-      "link": "https://www.flickr.com/photos/boddle/55123156710/",
-      "image": "https://live.staticflickr.com/65535/55123156710_768f1a5727_b.jpg"
+      "title": "Superb Starling (Lamprotornis superbus)",
+      "link": "https://www.flickr.com/photos/200625507@N06/55123115805/",
+      "image": "https://live.staticflickr.com/65535/55123115805_6f4c51879c_b.jpg"
     }
   ]
 }
