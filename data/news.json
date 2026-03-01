@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-03-01T13:32:42+00:00",
+  "generated_utc": "2026-03-01T14:14:53+00:00",
   "sections": {
     "romania": [
       {
@@ -461,6 +461,28 @@
         "section": "science",
         "kind": "global",
         "source": "ScienceDaily Science",
+        "title": "For the first time, light mimics a Nobel Prize quantum effect",
+        "summary": "Scientists have pulled off a feat long considered out of reach: getting light to mimic the famous quantum Hall effect. In their experiment, photons drift sideways in perfectly defined, quantized steps—just like electrons do in powerful magnetic fields. Because these steps depend only on nature’s fundamental constants, they could become a new gold standard for ultra-precise measurements. The discovery also hints at tougher, more reliable quantum photonic technologies.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260228093446.htm",
+        "published_utc": "2026-03-01T13:40:10+00:00",
+        "score": 4,
+        "image": "https://picsum.photos/seed/vb-e0d3474f3789ad98/480/320"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "ScienceDaily Science",
+        "title": "A faint cosmic hum could solve the Universe’s expansion mystery",
+        "summary": "Astronomers have long known the universe is expanding—but exactly how fast remains one of the biggest mysteries in cosmology. Different techniques for measuring the Hubble constant stubbornly disagree, creating the so-called “Hubble tension.” Now researchers at the University of Illinois Urbana-Champaign and the University of Chicago have unveiled a bold new way to weigh in on the debate using gravitational waves—the faint ripples in spacetime produced by colliding black holes.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260228093453.htm",
+        "published_utc": "2026-03-01T12:55:42+00:00",
+        "score": 1,
+        "image": "https://picsum.photos/seed/vb-33eba32199ade099/480/320"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "ScienceDaily Science",
         "title": "The first animals on Earth had no skeletons and that changes everything",
         "summary": "Sponges may be ancient, but their timeline has been murky. New research suggests the earliest sponges were soft and skeleton-free, explaining why their fossils don’t appear until much later. By analyzing hundreds of genes and modeling how skeletons evolved, scientists found that mineralized spicules arose separately in different sponge lineages. The discovery rewrites the story of how the first reef-building animals—and possibly the first animals of all—emerged.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260227071924.htm",
@@ -687,17 +709,6 @@
         "published_utc": "2026-02-20T03:28:24+00:00",
         "score": 4,
         "image": "https://picsum.photos/seed/vb-9e426408151e76d1/480/320"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "ScienceDaily Science",
-        "title": "New map reveals where lethal scorpions are most likely to strike",
-        "summary": "Scientists have developed a powerful new way to forecast where some of the world’s most dangerous scorpions are likely to be found. By combining fieldwork in Africa with advanced computer modeling, the team discovered that soil type is the strongest factor shaping where many lethal species live, while temperature patterns also play a key role.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260218044628.htm",
-        "published_utc": "2026-02-19T04:36:03+00:00",
-        "score": 1,
-        "image": "https://picsum.photos/seed/vb-d71af13430b86ff2/480/320"
       }
     ],
     "environment": [
@@ -755,6 +766,17 @@
         "published_utc": "2026-02-19T06:47:07+00:00",
         "score": 2,
         "image": "https://picsum.photos/seed/vb-d8395b40b9492e0b/480/320"
+      },
+      {
+        "section": "environment",
+        "kind": "global",
+        "source": "ScienceDaily Environment",
+        "title": "New map reveals where lethal scorpions are most likely to strike",
+        "summary": "Scientists have developed a powerful new way to forecast where some of the world’s most dangerous scorpions are likely to be found. By combining fieldwork in Africa with advanced computer modeling, the team discovered that soil type is the strongest factor shaping where many lethal species live, while temperature patterns also play a key role.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260218044628.htm",
+        "published_utc": "2026-02-19T04:36:03+00:00",
+        "score": 1,
+        "image": "https://picsum.photos/seed/vb-80c34b6f3b9f4b02/480/320"
       },
       {
         "section": "environment",
@@ -826,21 +848,21 @@
   "top_images": [
     {
       "tag": "space",
-      "title": "Emily",
-      "link": "https://www.flickr.com/photos/austinspace/55122286295/",
-      "image": "https://live.staticflickr.com/65535/55122286295_55e1d510da_b.jpg"
+      "title": "Exploration rover - Front",
+      "link": "https://www.flickr.com/photos/193949112@N05/55120764337/",
+      "image": "https://live.staticflickr.com/65535/55120764337_b6d5aed365_b.jpg"
     },
     {
       "tag": "animals",
-      "title": "Printemps!/Весна!",
-      "link": "https://www.flickr.com/photos/195568485@N06/55121461592/",
-      "image": "https://live.staticflickr.com/65535/55121461592_341fc3819c_b.jpg"
+      "title": "Inky, Saltford, Somerset",
+      "link": "https://www.flickr.com/photos/117006786@N06/55122700185/",
+      "image": "https://live.staticflickr.com/65535/55122700185_434054b4d2_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "Wintery Eastern Bluebird",
-      "link": "https://www.flickr.com/photos/tekfx/55122840455/",
-      "image": "https://live.staticflickr.com/65535/55122840455_9bd0401100_b.jpg"
+      "title": "Lake Union, Seattle: Red chairs on dock, cloudy sunset.",
+      "link": "https://www.flickr.com/photos/taharaja/55122895505/",
+      "image": "https://live.staticflickr.com/65535/55122895505_ceaf0b32c6_b.jpg"
     }
   ]
 }
