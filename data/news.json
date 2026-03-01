@@ -1,7 +1,29 @@
 {
-  "generated_utc": "2026-02-28T23:12:02+00:00",
+  "generated_utc": "2026-03-01T01:14:34+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Un mort și mai mulți răniți într-un incident la cel mai important aeroport din Abu Dhabi",
+        "summary": "Aeroportul din Abu Dhabi a anunțat că o persoană a murit în urma unui „incident” la Aeroportul Internațional Zayed, relatează Al Jazeera. Agenția aeroportuară a declarat că incidentul de la Aeroportul Internațional Zayed „a dus&#8230;",
+        "link": "https://hotnews.ro/un-mort-si-mai-multi-raniti-intr-un-incident-la-cel-mai-important-aeroport-din-abu-dhabi-2182123",
+        "published_utc": "2026-02-28T23:34:09+00:00",
+        "score": 1,
+        "image": "https://hotnews.ro/wp-content/uploads/2026/03/profimedia-0982441315.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Anunț așteptat. Noul star al televiziunii din Italia va fi noul co-prezentator al Festivalului de la Sanremo",
+        "summary": "Ediția de anul viitor, cea cu numărul 77 a Festivalului de la Sanremo, va avea un nou prezentator. Numele său a fost anunțat sâmbătă seara pe scena teatrului Ariston de gazda ultimelor două ediții, Carlo&#8230;",
+        "link": "https://hotnews.ro/anunt-asteptat-noul-star-al-televiziunii-din-italia-va-fi-noul-co-prezentator-al-festivalului-de-la-sanremo-2182110",
+        "published_utc": "2026-02-28T23:23:59+00:00",
+        "score": 1,
+        "image": "https://hotnews.ro/wp-content/uploads/2026/03/profimedia-1079087842.jpg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -111,28 +133,6 @@
         "published_utc": "2026-02-27T18:47:13+00:00",
         "score": 3,
         "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMiUyRjI3JTJGMjYwOTQ4Nl8yNjA5/NDg2X21hcmlhLXBldHJpc29yLmpwZyZo/YXNoPWQ0ODJmYTRkNGM5MGJiMjYyNTBjZjk4OWVkMjEwNGM3.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Controversatul fost rege al Spaniei, Juan Carlos, este rechemat în țară după 5 ani de exil",
-        "summary": "Familia regală a Spaniei vede deschisă calea pentru controversatul fost rege Juan Carlos să se întoarcă în patria sa după cinci ani şi jumătate petrecuţi în exil, în Orientul Mijlociu, informează DPA și Agerpres. Regele-emerit spaniol, în vârstă de 88 de ani, care locuieşte în capitala Emiratelor Arabe Unite, Abu Dhabi, ar putea să se întoarcă în orice moment şi să locuiască permanent în Spania, a anunţat Palatul Regal din Madrid.",
-        "link": "https://www.digi24.ro/stiri/externe/controversatul-fost-rege-al-spaniei-juan-carlos-este-rechemat-in-tara-dupa-5-ani-de-exil-3651999",
-        "published_utc": "2026-02-27T18:46:41+00:00",
-        "score": 1,
-        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMiUyRjI3JTJGMjYwOTQ4N18yNjA5/NDg3X3Byb2ZpbWVkaWEtMTA3ODc0OTI3/NS5qcGcmdz0xMjAwJmg9NjMwJnpjPTEm/aGFzaD1iMDkyYTBlYjg3MmJmY2VhMTdlOWNjZDE3ODc1NDc4ZA==.thumb.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "StiriPozitive - Toate",
-        "title": "Rodica Bretin lansează romanul puzzle „Pisica de la ora cinci” la Librăria Libris din Brașov",
-        "summary": "Joi, 12 februarie, de la ora 18:00, la Librăria Libris (Str. Șt. O. Iosif) din Brașov, Rodica Bretin lansează volumul „Pisica de la ora cinci”, apărut în colecția Corint Fiction. &#8230; Read More The post Rodica Bretin lansează romanul puzzle „Pisica de la ora cinci” la Librăria Libris din Brașov appeared first on Stiri pozitive .",
-        "link": "https://stiripozitive.com/rodica-bretin-lanseaza-romanul-puzzle-pisica-de-la-ora-cinci-la-libraria-libris-din-brasov",
-        "published_utc": "2026-02-10T10:23:38+00:00",
-        "score": 1,
-        "image": "https://stiripozitive.com/wp-content/uploads/2026/02/Pisica-de-la-ora-cinci-Rodica-Bretin-676x1024.jpg"
       },
       {
         "section": "romania",
@@ -814,8 +814,8 @@
     ]
   },
   "joke_ro": {
-    "date_utc": "2026-02-28",
-    "text": "— Ce faci? — Mă organizez. — Cum? — Îmi mut haosul dintr-un colț în altul.",
+    "date_utc": "2026-03-01",
+    "text": "Mi-am setat alarmă să mă trezesc devreme. Alarma s-a trezit. Eu… nu.",
     "source": "vesti-bune"
   },
   "satire_ro": {
@@ -826,21 +826,21 @@
   "top_images": [
     {
       "tag": "space",
-      "title": "Avebury Silhouettes",
-      "link": "https://www.flickr.com/photos/cactusjim/55120173612/",
-      "image": "https://live.staticflickr.com/65535/55120173612_25a81567f6_b.jpg"
+      "title": "Young lady Senna",
+      "link": "https://www.flickr.com/photos/paulasatijn/55120573669/",
+      "image": "https://live.staticflickr.com/65535/55120573669_4b8caec0d7_b.jpg"
     },
     {
       "tag": "animals",
-      "title": "The Test Pilot",
-      "link": "https://www.flickr.com/photos/88642461@N05/52500523462/",
-      "image": "https://live.staticflickr.com/65535/52500523462_0bac5bac31_b.jpg"
+      "title": "DSCF7752",
+      "link": "https://www.flickr.com/photos/200529708@N06/55120681322/",
+      "image": "https://live.staticflickr.com/65535/55120681322_e9fd8ccda7_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "Three Boys in a Cemetery",
-      "link": "https://www.flickr.com/photos/maleny_steve/55121436076/",
-      "image": "https://live.staticflickr.com/65535/55121436076_39dfcf9e38_b.jpg"
+      "title": "Winter Afternoon",
+      "link": "https://www.flickr.com/photos/159210083@N04/55121838649/",
+      "image": "https://live.staticflickr.com/65535/55121838649_0f80d34ec7_b.jpg"
     }
   ]
 }
