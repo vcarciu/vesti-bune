@@ -1,18 +1,7 @@
 {
-  "generated_utc": "2026-02-28T11:38:00+00:00",
+  "generated_utc": "2026-02-27T22:00:51+00:00",
   "sections": {
     "romania": [
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "RomaniaPozitiva",
-        "title": "De la pagină la scenă. Dezbatere despre traducerea și montarea textului dramatic",
-        "summary": "Activitatea Fundației Culturale „Camil Petrescu” continuă și în acest an chestionările, dezbaterile pe marginea complexității fenomenologiei artelor spectacolului azi. Credem că actul spectacular teatral este, în esență, un tablou vizual&#8230; Articolul De la pagină la scenă. Dezbatere despre traducerea și montarea textului dramatic apare prima dată în Romania Pozitiva .",
-        "link": "https://www.romaniapozitiva.ro/cultura/de-la-pagina-la-scena-dezbatere-despre-traducerea-si-montarea-textului-dramatic",
-        "published_utc": "2026-02-28T09:30:24+00:00",
-        "score": 1,
-        "image": "http://www.romaniapozitiva.ro/wp-content/uploads/2026/02/Afis_de-la-Pagina-la-scena.jpg.jpeg"
-      },
       {
         "section": "romania",
         "kind": "ro",
@@ -34,6 +23,17 @@
         "published_utc": "2026-02-27T15:17:25+00:00",
         "score": 3,
         "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/02/britney_batrana.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "RomaniaPozitiva",
+        "title": "Retail în 2026: De ce magazinul fizic rămâne centrul coșului zilnic",
+        "summary": "Într-un context în care investițiile în e-commerce, AI și automatizare cresc accelerat, comportamentul real al consumatorului român arată o dinamică mai echilibrată. Datele Consumer Report indică faptul că magazinul fizic&#8230; Articolul Retail în 2026: De ce magazinul fizic rămâne centrul coșului zilnic apare prima dată în Romania Pozitiva .",
+        "link": "https://www.romaniapozitiva.ro/economie/retail-in-2026-de-ce-magazinul-fizic-ramane-centrul-cosului-zilnic",
+        "published_utc": "2026-02-27T11:38:15+00:00",
+        "score": 3,
+        "image": "https://www.romaniapozitiva.ro/wp-content/uploads/2026/02/Captura-de-ecran-2026-02-26-153833.jpg"
       },
       {
         "section": "romania",
@@ -461,17 +461,6 @@
         "section": "science",
         "kind": "global",
         "source": "ScienceDaily Science",
-        "title": "Scientists discover microbe that breaks a fundamental rule of the genetic code",
-        "summary": "Scientists at UC Berkeley have discovered a microbe that bends one of biology’s most sacred rules. Instead of treating a specific three-letter DNA code as a clear “stop” signal, this methane-producing archaeon sometimes reads it as a green light—adding an unusual amino acid and continuing to build the protein. The result is a kind of genetic coin flip: two different proteins can emerge from the same code, influenced partly by environmental conditions.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260227071920.htm",
-        "published_utc": "2026-02-28T04:47:32+00:00",
-        "score": 2,
-        "image": "https://picsum.photos/seed/vb-db7d86bb7493f817/480/320"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "ScienceDaily Science",
         "title": "James Webb reveals a barred spiral galaxy shockingly early in the Universe",
         "summary": "Astronomers have spotted what may be one of the universe’s earliest barred spiral galaxies — a striking cosmic structure forming just 2 billion years after the Big Bang. The galaxy, COSMOS-74706, dates back about 11.5 billion years and contains a stellar bar, a bright, linear band of stars and gas stretching across its center, similar to the one in our own Milky Way.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260227071931.htm",
@@ -731,6 +720,17 @@
         "published_utc": "2026-02-23T03:10:43+00:00",
         "score": 2,
         "image": "https://picsum.photos/seed/vb-ffbef3ddbb0f8c7f/480/320"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "ScienceDaily Science",
+        "title": "Triceratops had a giant nose that may have cooled its massive head",
+        "summary": "Triceratops’ massive head may have been doing more than just showing off those famous horns. Using CT scans and 3D reconstructions of fossil skulls, researchers uncovered a surprisingly complex nasal system hidden inside its enormous snout. Instead of being just a supersized nose for smelling, it likely housed intricate networks of nerves and blood vessels—and even special structures that helped regulate heat and moisture.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260221000313.htm",
+        "published_utc": "2026-02-22T10:20:15+00:00",
+        "score": 1,
+        "image": "https://picsum.photos/seed/vb-848a1a5d388270c4/480/320"
       }
     ],
     "environment": [
@@ -991,23 +991,23 @@
         "section": "environment",
         "kind": "global",
         "source": "ScienceDaily Environment",
+        "title": "A bonobo’s pretend tea party is rewriting what we know about imagination",
+        "summary": "A bonobo named Kanzi surprised scientists by successfully playing along in pretend tea party experiments, tracking imaginary juice and grapes as if they were real. He consistently pointed to the correct locations of pretend items, while still choosing real food when given the option. The results suggest that imagination may not be exclusive to humans after all.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260210040605.htm",
+        "published_utc": "2026-02-11T02:04:44+00:00",
+        "score": 2,
+        "image": "https://picsum.photos/seed/vb-67ee3886833e1e4d/480/320"
+      },
+      {
+        "section": "environment",
+        "kind": "global",
+        "source": "ScienceDaily Environment",
         "title": "Scientists uncover the climate shock that reshaped Easter Island",
         "summary": "Around 1550, life on Rapa Nui began changing in ways long misunderstood. New research reveals that a severe drought, lasting more than a century, dramatically reduced rainfall on the already water-scarce island, reshaping how people lived, worshiped, and organized society. Instead of collapsing, Rapanui communities adapted—shifting rituals, power structures, and sacred spaces in response to climate stress.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260210040611.htm",
         "published_utc": "2026-02-10T13:01:48+00:00",
         "score": 0,
         "image": "https://picsum.photos/seed/vb-644971f60665cc6f/480/320"
-      },
-      {
-        "section": "environment",
-        "kind": "global",
-        "source": "ScienceDaily Environment",
-        "title": "Scientists find genes that existed before all life on Earth",
-        "summary": "Life’s story may stretch further back than scientists once thought. Some genes found in nearly every organism today were already duplicated before all life shared a common ancestor. By tracking these rare genes, researchers can investigate how early cells worked and what features of life emerged first. New computational tools are now helping scientists unlock this hidden chapter of evolution.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260210082913.htm",
-        "published_utc": "2026-02-10T11:42:05+00:00",
-        "score": 0,
-        "image": "https://picsum.photos/seed/vb-ca8406c919f9660a/480/320"
       }
     ]
   },
@@ -1026,17 +1026,6 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "De la pagină la scenă. Dezbatere despre traducerea și montarea textului dramatic",
-      "summary": "Activitatea Fundației Culturale „Camil Petrescu” continuă și în acest an chestionările, dezbaterile pe marginea complexității fenomenologiei artelor spectacolului azi. Credem că actul spectacular teatral este, în esență, un tablou vizual&#8230; Articolul De la pagină la scenă. Dezbatere despre traducerea și montarea textului dramatic apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/cultura/de-la-pagina-la-scena-dezbatere-despre-traducerea-si-montarea-textului-dramatic",
-      "published_utc": "2026-02-28T09:30:24+00:00",
-      "score": 1,
-      "image": "http://www.romaniapozitiva.ro/wp-content/uploads/2026/02/Afis_de-la-Pagina-la-scena.jpg.jpeg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "Times New Roman (Satira)",
       "title": "😂 Americanii, îngrijorați de soarta lui Britney Spears: a ajuns să arate ca Loredana",
       "summary": "Îngrijorare în mass-media din SUA după ce Britney Spears a ajuns în ultimul hal și lumea îi spune Loredana de peste Ocean. Fosta artistă e atât de decrepită și are un comportament atât de bizar că mulți o compară deschis cu Loredana Groza, o bătrânică din showbizul românesc, despre care nu mai scrie nici măcar revista [&#8230;] The post Americanii, îngrijorați de soarta lui Britney Spears: a ajuns să arate ca Loredana appeared first on Times New Roman .",
@@ -1044,6 +1033,17 @@
       "published_utc": "2026-02-27T15:17:25+00:00",
       "score": 3,
       "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/02/britney_batrana.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "RomaniaPozitiva",
+      "title": "Retail în 2026: De ce magazinul fizic rămâne centrul coșului zilnic",
+      "summary": "Într-un context în care investițiile în e-commerce, AI și automatizare cresc accelerat, comportamentul real al consumatorului român arată o dinamică mai echilibrată. Datele Consumer Report indică faptul că magazinul fizic&#8230; Articolul Retail în 2026: De ce magazinul fizic rămâne centrul coșului zilnic apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/economie/retail-in-2026-de-ce-magazinul-fizic-ramane-centrul-cosului-zilnic",
+      "published_utc": "2026-02-27T11:38:15+00:00",
+      "score": 3,
+      "image": "https://www.romaniapozitiva.ro/wp-content/uploads/2026/02/Captura-de-ecran-2026-02-26-153833.jpg"
     },
     {
       "section": "romania",
@@ -1145,15 +1145,15 @@
       "image": "https://start-up.ro/img/articles/3/7/9/37915/cover-37915-src.jpg"
     },
     {
-      "section": "science",
+      "section": "medical",
       "kind": "global",
-      "source": "ScienceDaily Science",
-      "title": "Scientists discover microbe that breaks a fundamental rule of the genetic code",
-      "summary": "Scientists at UC Berkeley have discovered a microbe that bends one of biology’s most sacred rules. Instead of treating a specific three-letter DNA code as a clear “stop” signal, this methane-producing archaeon sometimes reads it as a green light—adding an unusual amino acid and continuing to build the protein. The result is a kind of genetic coin flip: two different proteins can emerge from the same code, influenced partly by environmental conditions.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260227071920.htm",
-      "published_utc": "2026-02-28T04:47:32+00:00",
-      "score": 2,
-      "image": "https://picsum.photos/seed/vb-db7d86bb7493f817/480/320"
+      "source": "ScienceDaily Health",
+      "title": "Scientists discover diet that tricks the body into burning fat without exercise",
+      "summary": "Researchers found that cutting two amino acids common in animal protein—methionine and cysteine—made mice burn significantly more energy. The boost in heat production was nearly as powerful as constant exposure to cold temperatures. The mice didn’t eat less or exercise more; they simply generated more heat in their beige fat. The discovery hints that diet alone might activate the body’s calorie-burning machinery.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260227071914.htm",
+      "published_utc": "2026-02-27T16:05:43+00:00",
+      "score": 5,
+      "image": "https://picsum.photos/seed/vb-fb39957dfd54430b/480/320"
     },
     {
       "section": "romania",
@@ -1178,15 +1178,15 @@
       "image": "https://green.start-up.ro/img/articles/3/5/6/35698/cover-35698-src.jpg"
     },
     {
-      "section": "medical",
+      "section": "science",
       "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "Scientists discover diet that tricks the body into burning fat without exercise",
-      "summary": "Researchers found that cutting two amino acids common in animal protein—methionine and cysteine—made mice burn significantly more energy. The boost in heat production was nearly as powerful as constant exposure to cold temperatures. The mice didn’t eat less or exercise more; they simply generated more heat in their beige fat. The discovery hints that diet alone might activate the body’s calorie-burning machinery.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260227071914.htm",
-      "published_utc": "2026-02-27T16:05:43+00:00",
-      "score": 5,
-      "image": "https://picsum.photos/seed/vb-fb39957dfd54430b/480/320"
+      "source": "ScienceDaily Science",
+      "title": "James Webb reveals a barred spiral galaxy shockingly early in the Universe",
+      "summary": "Astronomers have spotted what may be one of the universe’s earliest barred spiral galaxies — a striking cosmic structure forming just 2 billion years after the Big Bang. The galaxy, COSMOS-74706, dates back about 11.5 billion years and contains a stellar bar, a bright, linear band of stars and gas stretching across its center, similar to the one in our own Milky Way.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260227071931.htm",
+      "published_utc": "2026-02-27T15:15:06+00:00",
+      "score": 0,
+      "image": "https://picsum.photos/seed/vb-325a67957bc8ac91/480/320"
     },
     {
       "section": "romania",
@@ -1209,17 +1209,6 @@
       "published_utc": "2026-02-02T08:32:03+00:00",
       "score": 3,
       "image": "https://stiripozitive.com/wp-content/uploads/2026/02/harta-.jpeg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "ScienceDaily Science",
-      "title": "James Webb reveals a barred spiral galaxy shockingly early in the Universe",
-      "summary": "Astronomers have spotted what may be one of the universe’s earliest barred spiral galaxies — a striking cosmic structure forming just 2 billion years after the Big Bang. The galaxy, COSMOS-74706, dates back about 11.5 billion years and contains a stellar bar, a bright, linear band of stars and gas stretching across its center, similar to the one in our own Milky Way.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260227071931.htm",
-      "published_utc": "2026-02-27T15:15:06+00:00",
-      "score": 0,
-      "image": "https://picsum.photos/seed/vb-325a67957bc8ac91/480/320"
     },
     {
       "section": "medical",
@@ -1794,6 +1783,17 @@
       "image": "https://picsum.photos/seed/vb-acf89239402e0509/480/320"
     },
     {
+      "section": "science",
+      "kind": "global",
+      "source": "ScienceDaily Science",
+      "title": "Triceratops had a giant nose that may have cooled its massive head",
+      "summary": "Triceratops’ massive head may have been doing more than just showing off those famous horns. Using CT scans and 3D reconstructions of fossil skulls, researchers uncovered a surprisingly complex nasal system hidden inside its enormous snout. Instead of being just a supersized nose for smelling, it likely housed intricate networks of nerves and blood vessels—and even special structures that helped regulate heat and moisture.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260221000313.htm",
+      "published_utc": "2026-02-22T10:20:15+00:00",
+      "score": 1,
+      "image": "https://picsum.photos/seed/vb-848a1a5d388270c4/480/320"
+    },
+    {
       "section": "environment",
       "kind": "global",
       "source": "NASA Earth Observatory - Image of the Day",
@@ -1995,33 +1995,33 @@
       "section": "environment",
       "kind": "global",
       "source": "ScienceDaily Environment",
+      "title": "A bonobo’s pretend tea party is rewriting what we know about imagination",
+      "summary": "A bonobo named Kanzi surprised scientists by successfully playing along in pretend tea party experiments, tracking imaginary juice and grapes as if they were real. He consistently pointed to the correct locations of pretend items, while still choosing real food when given the option. The results suggest that imagination may not be exclusive to humans after all.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260210040605.htm",
+      "published_utc": "2026-02-11T02:04:44+00:00",
+      "score": 2,
+      "image": "https://picsum.photos/seed/vb-67ee3886833e1e4d/480/320"
+    },
+    {
+      "section": "environment",
+      "kind": "global",
+      "source": "ScienceDaily Environment",
       "title": "Scientists uncover the climate shock that reshaped Easter Island",
       "summary": "Around 1550, life on Rapa Nui began changing in ways long misunderstood. New research reveals that a severe drought, lasting more than a century, dramatically reduced rainfall on the already water-scarce island, reshaping how people lived, worshiped, and organized society. Instead of collapsing, Rapanui communities adapted—shifting rituals, power structures, and sacred spaces in response to climate stress.",
       "link": "https://www.sciencedaily.com/releases/2026/02/260210040611.htm",
       "published_utc": "2026-02-10T13:01:48+00:00",
       "score": 0,
       "image": "https://picsum.photos/seed/vb-644971f60665cc6f/480/320"
-    },
-    {
-      "section": "environment",
-      "kind": "global",
-      "source": "ScienceDaily Environment",
-      "title": "Scientists find genes that existed before all life on Earth",
-      "summary": "Life’s story may stretch further back than scientists once thought. Some genes found in nearly every organism today were already duplicated before all life shared a common ancestor. By tracking these rare genes, researchers can investigate how early cells worked and what features of life emerged first. New computational tools are now helping scientists unlock this hidden chapter of evolution.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260210082913.htm",
-      "published_utc": "2026-02-10T11:42:05+00:00",
-      "score": 0,
-      "image": "https://picsum.photos/seed/vb-ca8406c919f9660a/480/320"
     }
   ],
   "joke_ro": {
-    "date_utc": "2026-02-28",
-    "text": "- Mi-am setat alarma la 6:00. Ea a venit, eu am dat delegare.",
+    "date_utc": "2026-02-27",
+    "text": "- Mi-am facut lista de treburi. Acum am doua: lista si vinovatia.",
     "source": "data/jokes_ro.txt"
   },
   "satire_ro": {
-    "title": "Au apărut spălătoriile self-service unde mașinile se spală una pe alta",
-    "link": "https://www.timesnewroman.ro/it-stiinta/au-aparut-spalatoriile-self-service-unde-masinile-se-spala-una-pe-alta/",
+    "title": "Americanii, îngrijorați de soarta lui Britney Spears: a ajuns să arate ca Loredana",
+    "link": "https://www.timesnewroman.ro/monden/americanii-ingrijorati-de-soarta-lui-britney-spears-a-ajuns-sa-arate-ca-loredana/",
     "source": "timesnewroman.ro"
   },
   "top_images": [
@@ -2035,7 +2035,7 @@
       "tag": "animals",
       "title": "Animals",
       "link": "https://commons.wikimedia.org/wiki/Category:Animals",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Golde33443.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg"
     },
     {
       "tag": "landscape",
