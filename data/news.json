@@ -1,7 +1,18 @@
 {
-  "generated_utc": "2026-03-02T11:25:27+00:00",
+  "generated_utc": "2026-03-02T12:32:45+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "RomaniaPozitiva",
+        "title": "Concertul de Gală „I LOVE BEETHOVEN”, în 10 mai 2026, la Sala Radio",
+        "summary": "Bilete disponibile pe eventim.ro Fundaţia Calea Victoriei are bucuria să vă invite duminică, 10 mai 2026, de la ora 19.00, la Sala Radio, la Concertul de Gală „I LOVE BEETHOVEN”. Vă aşteptăm să descoperiţi&#8230; Articolul Concertul de Gală „I LOVE BEETHOVEN”, în 10 mai 2026, la Sala Radio apare prima dată în Romania Pozitiva .",
+        "link": "https://www.romaniapozitiva.ro/featured/concertul-de-gala-i-love-beethoven-in-10-mai-2026-la-sala-radio",
+        "published_utc": "2026-03-02T12:00:17+00:00",
+        "score": 1,
+        "image": "http://www.romaniapozitiva.ro/wp-content/uploads/2026/03/afis-700x500-1.jpg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -45,39 +56,6 @@
         "published_utc": "2026-03-02T09:40:00+00:00",
         "score": 3,
         "image": "https://www.bursa.ro/_img/articole/mare/585420.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "Al șaptelea film al unei francize cunoscute a stabilit un record de încasări la lansare, dar abia ia o notă de trecere",
-        "summary": "Ghostface încă mai atrage spectatori în sălile de cinema, în pofida faptului că franciza „Scream” a ajuns acum la al șaptelea său film. Mai mult, noul lungmetraj a stabilit un record de încasări pentru franciză,&#8230;",
-        "link": "https://hotnews.ro/al-saptelea-film-al-unei-francize-cunoscute-a-stabilit-un-record-de-incasari-la-lansare-dar-abia-ia-o-nota-de-trecere-2183126",
-        "published_utc": "2026-03-02T09:36:03+00:00",
-        "score": 3,
-        "image": "https://hotnews.ro/wp-content/uploads/2026/03/profimedia-1058957370.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "RomaniaPozitiva",
-        "title": "Expoziția de fotografie a tinerilor din Programul Canon pentru Tineri, ediția 2025, a fost inaugurată la Casa de Cultură a Studenților din București",
-        "summary": "București, 2 martie 2026 &#8211; Tinerii incluși în cea de-a cincea ediție a Programului Canon pentru Tineri și-au aprofundat pasiunea pentru fotografie în cadrul workshopurilor gratuite organizate de Canon România,&#8230; Articolul Expoziția de fotografie a tinerilor din Programul Canon pentru Tineri, ediția 2025, a fost inaugurată la Casa de Cultură a Studenților din București apare prima dată în Romania Pozitiva .",
-        "link": "https://www.romaniapozitiva.ro/cultura/expozitia-de-fotografie-a-tinerilor-din-programul-canon-pentru-tineri-editia-2025-a-fost-inaugurata-la-casa-de-cultura-a-studentilor-din-bucuresti",
-        "published_utc": "2026-03-02T09:25:13+00:00",
-        "score": 3,
-        "image": "http://www.romaniapozitiva.ro/wp-content/uploads/2026/03/IMG-0008.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "[P] TeraSteel deschide la Lehliu-Gară cea mai modernă fabrică de panouri termoizolante din România",
-        "summary": "TeraSteel marchează o nouă etapă majoră în dezvoltarea industriei materialelor de construcții din România, prin inaugurarea celei mai moderne fabrici de panouri termoizolante din țară. Investiția, în valoare de peste 20 de milioane de euro&#8230;",
-        "link": "https://hotnews.ro/p-terasteel-deschide-la-lehliu-gara-cea-mai-moderna-fabrica-de-panouri-termoizolante-din-romania-2183139",
-        "published_utc": "2026-03-02T09:02:02+00:00",
-        "score": 3,
-        "image": "https://hotnews.ro/wp-content/uploads/2026/03/terasteel-inaugureaza-o-noua-fabrica-de-panouri-termoizolante-in-romania12.jpg"
       },
       {
         "section": "romania",
@@ -885,8 +863,8 @@
     "source": "vesti-bune"
   },
   "satire_ro": {
-    "title": "Patriarhul Daniel și-a ras barba, să nu-l confunde Trump cu vreun ayatollah",
-    "link": "https://www.timesnewroman.ro/life-death/patriarhul-daniel-si-a-ras-barba-sa-nu-l-confunde-trump-cu-vreun-ayatollah/",
+    "title": "Gigi i-a dat o șpagă lui Gino și LPF a decis că în play-off ajung 7 echipe, nu doar 6",
+    "link": "https://www.timesnewroman.ro/sport/gigi-i-a-dat-o-spaga-lui-gino-si-lpf-a-decis-ca-in-play-off-ajung-7-echipe-nu-doar-6/",
     "source": "timesnewroman.ro"
   },
   "top_images": [
@@ -898,15 +876,15 @@
     },
     {
       "tag": "animals",
-      "title": "Galahs / Rósakakadúar (Eolophus roseicapilla)",
-      "link": "https://www.flickr.com/photos/dorres/55124349736/",
-      "image": "https://live.staticflickr.com/65535/55124349736_1f57a784a9_b.jpg"
+      "title": "Floodwaters Of Stephens Creek (Wilyakali Country, Outback New South Wales)",
+      "link": "https://www.flickr.com/photos/basalamant/55124782910/",
+      "image": "https://live.staticflickr.com/65535/55124782910_2cf762fa2f_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "28. februar 2026_3429-DxO_DeepPRIME 3 kopi",
-      "link": "https://www.flickr.com/photos/119791587@N06/55124802965/",
-      "image": "https://live.staticflickr.com/65535/55124802965_0f706df4bf_b.jpg"
+      "title": "The EM 120 \"Arjuna\" Railway Measuring Train passes through Cimahi Area",
+      "link": "https://www.flickr.com/photos/188871871@N07/55124890020/",
+      "image": "https://live.staticflickr.com/65535/55124890020_65970a5a2d_b.jpg"
     }
   ]
 }
