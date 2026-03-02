@@ -1,7 +1,18 @@
 {
-  "generated_utc": "2026-03-02T19:30:00+00:00",
+  "generated_utc": "2026-03-02T20:24:00+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Senatul a adoptat excepții privind prima zi de concediu medical. Cine va primi plata integrală",
+        "summary": "Senatul a adoptat un amendament prin care introduce excepții de la neplata primei zile de concediu medical. Astfel, anumite categorii de pacienți nu vor mai fi afectate de regula care prevedea diminuarea indemnizației cu o zi. Proiectul a trecut cu 72 de voturi „pentru”, 2 „contra” și 8 abțineri, iar decizia vine în contextul dezbaterilor privind impactul măsurii asupra persoanelor vulnerabile și asupra bugetului sistemului de sănătate. Senatul este primul for sesizat, urmând ca proiectul să fie analizat și de Camera Deputaților, care este for decizional.",
+        "link": "https://www.digi24.ro/stiri/actualitate/social/senatul-a-adoptat-exceptii-privind-prima-zi-de-concediu-medical-cine-va-primi-plata-integrala-3656343",
+        "published_utc": "2026-03-02T19:57:34+00:00",
+        "score": 3,
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjQl/MkYwNCUyRjA5JTJGMTk0ODg1MV8xOTQ4/ODUxX2NvbmNlZGl1LW1lZGljYWwtZ2V0/dHlpbWFnZXMuanBlZyZoYXNoPTVhZTll/MWIyMzVkMDMyZTYxNDJmZDk2YmM5NTk0N2Jm.jpeg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -89,17 +100,6 @@
         "published_utc": "2026-03-02T09:40:00+00:00",
         "score": 3,
         "image": "https://www.bursa.ro/_img/articole/mare/585420.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "EVERGENT Investments: profit net 387,39 mil. lei în 2025, +43,5%; randament EVER 103%, dublu față de BET-TR",
-        "summary": "EVERGENT Investments, companie de investiții listată sub simbolul EVER, raportează un rezultat net de 378,39 milioane lei aferent anului 2025, în creștere cu 43,5% față de cel înregistrat în anul anterior.",
-        "link": "https://www.digi24.ro/stiri/diverse/evergent-investments-profit-net-38739-mil-lei-in-2025-435-randament-ever-103-dublu-fata-de-bet-tr-3654883",
-        "published_utc": "2026-03-02T07:21:35+00:00",
-        "score": 3,
-        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMyUyRjAyJTJGMjYxMDk2OF8yNjEw/OTY4X1N0ZWFndXJpLUVWRVIuanBnJmhh/c2g9NjExZmEwYjE5OWY0NDcyOWUwY2JjMjk5NzU0NDE3ODc=.jpg"
       },
       {
         "section": "romania",
@@ -479,17 +479,6 @@
       }
     ],
     "science": [
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "NASA Breaking News",
-        "title": "Collaborating Through Data: Inside the PSI Users Group",
-        "summary": "About the PSI Users Group The Physical Sciences Informatics (PSI) Users Group is a recurring Webex forum that brings together researchers, open-science practitioners, and collaborators from across the physical sciences community. Designed to foster collaboration, knowledge-sharing, and data-driven discovery, each meeting provides participants with a platform to directly engage with leading researchers and PIs. Each […]",
-        "link": "https://science.nasa.gov/science-research/biological-physical-sciences/collaborating-through-data-inside-the-psi-users-group",
-        "published_utc": "2026-03-02T17:30:01+00:00",
-        "score": 5,
-        "image": "https://assets.science.nasa.gov/content/dam/science/bps/bps-general/bps-data_osdr_psi/PSI_Patch_Logo_111x128.png/jcr:content/renditions/cq5dam.web.1280.1280.png"
-      },
       {
         "section": "science",
         "kind": "global",
@@ -903,21 +892,21 @@
   "top_images": [
     {
       "tag": "space",
-      "title": "I bit of Fog",
-      "link": "https://www.flickr.com/photos/captspaulding/55121821867/",
-      "image": "https://live.staticflickr.com/65535/55121821867_cdbe408540_b.jpg"
+      "title": "2025-11-13: Planets Walkway",
+      "link": "https://www.flickr.com/photos/psyxjaw/55124515899/",
+      "image": "https://live.staticflickr.com/65535/55124515899_9826f0f3d2_b.jpg"
     },
     {
       "tag": "animals",
-      "title": "47317_PUMPKIN",
-      "link": "https://www.flickr.com/photos/citydogs4streetdogs/55125475253/",
-      "image": "https://live.staticflickr.com/65535/55125475253_d688a76788_b.jpg"
+      "title": "CV Sant Quirze V.-CV Salou",
+      "link": "https://www.flickr.com/photos/203683390@N05/55124492772/",
+      "image": "https://live.staticflickr.com/65535/55124492772_d36b2c1bdf_b.jpg"
     },
     {
       "tag": "landscape",
-      "title": "Great Crested Grebe's",
-      "link": "https://www.flickr.com/photos/190456556@N03/55125259921/",
-      "image": "https://live.staticflickr.com/65535/55125259921_f24d35407d_b.jpg"
+      "title": "Essenzialità.",
+      "link": "https://www.flickr.com/photos/194458366@N07/55125604913/",
+      "image": "https://live.staticflickr.com/65535/55125604913_c38d5a52e3_b.jpg"
     }
   ]
 }
