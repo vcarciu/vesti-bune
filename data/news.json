@@ -1,7 +1,18 @@
 {
-  "generated_utc": "2026-03-03T21:29:13+00:00",
+  "generated_utc": "2026-03-03T22:22:03+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Un petrolier rusesc sancționat de Occident a explodat în Marea Mediterană. Ce se știe despre soarta echipajului",
+        "summary": "Nava petrolieră Arctic Metagaz, care transporta gaze naturale lichefiate și care arborează pavilion rusesc, este în flăcări în Marea Mediterană, echipajul său fiind salvat de autoritățile malteze, au declarat, marți, surse din domeniul transporturilor maritime și al securității maritime, potrivit Reuters.",
+        "link": "https://www.digi24.ro/stiri/externe/ue/un-petrolier-rusesc-sanctionat-de-occident-a-explodat-in-marea-mediterana-ce-se-stie-despre-soarta-echipajului-3658581",
+        "published_utc": "2026-03-03T21:34:31+00:00",
+        "score": 3,
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMyUyRjAzJTJGMjYyMDE0NV8yNjIw/MTQ1X0V4cGxvemllLUFyY3RpYy1NZXRh/Z2F6LmpwZyZoYXNoPTE0NGY4NGE2ZTA1MGY5NGRmNDQ3NmU0Y2FiNjVmMDJi.jpg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -78,17 +89,6 @@
         "published_utc": "2026-03-03T14:28:33+00:00",
         "score": 3,
         "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwNSUyRjMxJTJGMjI3MzMxM18yMjcz/MzEzX2FuYS1iYXJib3N1LWZvdG8tRXVy/b3BlYW4tR3ltbmFzdGljcy5wbmcmaGFz/aD1jMjQyY2Q4MGViM2JjNzUwYTJiOGMyZDM4MDMxNWE3Mg==.png"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Descopera (Stiinta)",
-        "title": "Substanțe toxice din ecrane, descoperite în creierul delfinilor din Marea Chinei de Sud",
-        "summary": "Substanțe chimice provenite din deșeurile electronice, utilizate în fabricarea ecranelor de televizoare, laptopuri și smartphone-uri, au fost identificate în creierul și țesuturile unor delfini pe cale de dispariție din Marea Chinei de Sud, potrivit unui [&#8230;] Articolul Substanțe toxice din ecrane, descoperite în creierul delfinilor din Marea Chinei de Sud apare prima dată în Descopera .",
-        "link": "https://www.descopera.ro/natura/21033041-substante-toxice-din-ecrane-descoperite-in-creierul-delfinilor-din-marea-chinei-de-sud",
-        "published_utc": "2026-03-03T14:00:01+00:00",
-        "score": 1,
-        "image": "https://www.descopera.ro/wp-content/uploads/2026/03/creierul-delfinilor-shutter_Descopera-scaled.jpg"
       },
       {
         "section": "romania",
@@ -461,6 +461,28 @@
         "section": "science",
         "kind": "global",
         "source": "NASA Breaking News",
+        "title": "NASA Strengthens Artemis: Adds Mission, Refines Overall Architecture",
+        "summary": "To achieve the national goal of landing American astronauts on the surface of the Moon and maintaining U.S. superiority in exploration and discovery, NASA announced Feb. 27 it is increasing its cadence of missions under the Artemis program, standardizing the SLS (Space Launch System) rocket configuration, and adding a new mission. The plans were shared [&#8230;]",
+        "link": "https://www.nasa.gov/directorates/esdmd/nasa-strengthens-artemis-adds-mission-refines-overall-architecture",
+        "published_utc": "2026-03-03T21:50:18+00:00",
+        "score": 4,
+        "image": "https://images-assets.nasa.gov/image/iss074e0325229/iss074e0325229~large.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "NASA Breaking News",
+        "title": "Artemis II: What’s on the Menu?",
+        "summary": "The food flying aboard Artemis II is designed to support crew health and performance during the mission around the Moon. With no resupply, refrigeration, or late-load capability, all meals must be carefully selected to remain safe, shelf-stable, and easy to prepare and consume in NASA’s Orion spacecraft. Food selections are developed in coordination with space [&#8230;]",
+        "link": "https://www.nasa.gov/missions/artemis/artemis-2/artemis-ii-whats-on-the-menu",
+        "published_utc": "2026-03-03T21:00:25+00:00",
+        "score": 0,
+        "image": "https://www.youtube.com/embed/3Tkib8zc-Ws"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "NASA Breaking News",
         "title": "Curiosity Blog, Sols 4818-4824: Thinking Out of the Boxwork",
         "summary": "Written by Ashley Stroupe, Operations Systems Engineer at NASA’s Jet Propulsion Laboratory Earth planning date: Friday, Feb. 27, 2026 This week we had three planning sessions, exploring the eastern side of the boxwork unit. As a Rover Planner on Monday, I worked on the arm and drive activities, while on Friday I served as the […]",
         "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4818-4824-thinking-out-of-the-boxwork",
@@ -709,28 +731,6 @@
         "published_utc": "2026-02-27T12:19:45+00:00",
         "score": 0,
         "image": "https://picsum.photos/seed/vb-30572bddcf8dd087/480/320"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "ScienceDaily Science",
-        "title": "Stunning 3D maps reveal DNA is structured before life “switches on”",
-        "summary": "For decades, scientists believed a fertilized egg’s DNA began as a shapeless mass, only organizing itself once the embryo switched on its genes. But new research reveals that the genome is already carefully arranged in three dimensions long before that critical activation step, known as Zygotic Genome Activation. Using a powerful new method called Pico-C, researchers captured this hidden DNA architecture in unprecedented detail, showing that a complex scaffold is built early to control which genes will later turn on.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260227061824.htm",
-        "published_utc": "2026-02-27T11:18:24+00:00",
-        "score": 3,
-        "image": "https://picsum.photos/seed/vb-6635c6a792dcf6d5/480/320"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "ScienceDaily Science",
-        "title": "Scientists compared dinosaurs to mammals for decades but missed this key difference",
-        "summary": "Baby dinosaurs weren’t coddled like lion cubs or elephant calves—they were more like prehistoric latchkey kids. New research suggests that young dinosaurs quickly struck out on their own, forming kid-only groups and surviving without much parental help, while their massive parents lived entirely different lives. Because juveniles and adults ate different foods, faced different predators, and moved through different parts of the landscape, they may have functioned almost like separate species within the same ecosystem.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260226042502.htm",
-        "published_utc": "2026-02-27T10:08:15+00:00",
-        "score": 0,
-        "image": "https://picsum.photos/seed/vb-0d3ee2c0ebb66c0d/480/320"
       }
     ],
     "environment": [
@@ -960,6 +960,17 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "Digi24",
+      "title": "Un petrolier rusesc sancționat de Occident a explodat în Marea Mediterană. Ce se știe despre soarta echipajului",
+      "summary": "Nava petrolieră Arctic Metagaz, care transporta gaze naturale lichefiate și care arborează pavilion rusesc, este în flăcări în Marea Mediterană, echipajul său fiind salvat de autoritățile malteze, au declarat, marți, surse din domeniul transporturilor maritime și al securității maritime, potrivit Reuters.",
+      "link": "https://www.digi24.ro/stiri/externe/ue/un-petrolier-rusesc-sanctionat-de-occident-a-explodat-in-marea-mediterana-ce-se-stie-despre-soarta-echipajului-3658581",
+      "published_utc": "2026-03-03T21:34:31+00:00",
+      "score": 3,
+      "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMyUyRjAzJTJGMjYyMDE0NV8yNjIw/MTQ1X0V4cGxvemllLUFyY3RpYy1NZXRh/Z2F6LmpwZyZoYXNoPTE0NGY4NGE2ZTA1MGY5NGRmNDQ3NmU0Y2FiNjVmMDJi.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "Start-Up Romania",
       "title": "Apple lansează MacBook Air cu cip M5 și 512GB stocare de bază",
       "summary": "Apple a anunțat noul MacBook Air echipat cu cipul M5, disponibil în variante de 13 și 15 inch.",
@@ -1037,17 +1048,6 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Descopera (Stiinta)",
-      "title": "Substanțe toxice din ecrane, descoperite în creierul delfinilor din Marea Chinei de Sud",
-      "summary": "Substanțe chimice provenite din deșeurile electronice, utilizate în fabricarea ecranelor de televizoare, laptopuri și smartphone-uri, au fost identificate în creierul și țesuturile unor delfini pe cale de dispariție din Marea Chinei de Sud, potrivit unui [&#8230;] Articolul Substanțe toxice din ecrane, descoperite în creierul delfinilor din Marea Chinei de Sud apare prima dată în Descopera .",
-      "link": "https://www.descopera.ro/natura/21033041-substante-toxice-din-ecrane-descoperite-in-creierul-delfinilor-din-marea-chinei-de-sud",
-      "published_utc": "2026-03-03T14:00:01+00:00",
-      "score": 1,
-      "image": "https://www.descopera.ro/wp-content/uploads/2026/03/creierul-delfinilor-shutter_Descopera-scaled.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "Digi24",
       "title": "Avertisment privind numărul record de mame-adolescente în România. Salvați Copiii cere introducerea educației sexuale obligatorii",
       "summary": "În România, aproape una din zece nașteri este înregistrată în rândul fetelor cu vârsta între 15 și 19 ani, iar pentru 23 de mame sub 15 ani este vorba deja de al doilea copil. Situația reflectă lacunele legislative și lipsa accesului adecvat la educația sexuală, atrage atenția organizația Salvați Copiii.",
@@ -1093,12 +1093,12 @@
       "section": "science",
       "kind": "global",
       "source": "NASA Breaking News",
-      "title": "Curiosity Blog, Sols 4818-4824: Thinking Out of the Boxwork",
-      "summary": "Written by Ashley Stroupe, Operations Systems Engineer at NASA’s Jet Propulsion Laboratory Earth planning date: Friday, Feb. 27, 2026 This week we had three planning sessions, exploring the eastern side of the boxwork unit. As a Rover Planner on Monday, I worked on the arm and drive activities, while on Friday I served as the […]",
-      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4818-4824-thinking-out-of-the-boxwork",
-      "published_utc": "2026-03-03T18:40:37+00:00",
-      "score": 0,
-      "image": "https://assets.science.nasa.gov/content/dam/science/missions/msl/2026/curiosity-rover-updates/february/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04820_opgs_edr_fcam_FLB_825378820EDR_F1202030FHAZ00200M_.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
+      "title": "NASA Strengthens Artemis: Adds Mission, Refines Overall Architecture",
+      "summary": "To achieve the national goal of landing American astronauts on the surface of the Moon and maintaining U.S. superiority in exploration and discovery, NASA announced Feb. 27 it is increasing its cadence of missions under the Artemis program, standardizing the SLS (Space Launch System) rocket configuration, and adding a new mission. The plans were shared [&#8230;]",
+      "link": "https://www.nasa.gov/directorates/esdmd/nasa-strengthens-artemis-adds-mission-refines-overall-architecture",
+      "published_utc": "2026-03-03T21:50:18+00:00",
+      "score": 4,
+      "image": "https://images-assets.nasa.gov/image/iss074e0325229/iss074e0325229~large.jpg"
     },
     {
       "section": "romania",
@@ -1126,12 +1126,12 @@
       "section": "science",
       "kind": "global",
       "source": "NASA Breaking News",
-      "title": "NASA Invites Proposals to Lease Land Parcels at Sandusky Facility",
-      "summary": "NASA’s Glenn Research Center is seeking proposals to lease select land parcels at its Neil Armstrong Test Facility in Sandusky, Ohio. Proposals are due by 5 p.m. EST on July 2, 2026. The parcels are part of an area of land that currently serves as a buffer for ongoing NASA operations. The solicitation includes the [&#8230;]",
-      "link": "https://www.nasa.gov/news-release/nasa-invites-land-lease-proposals",
-      "published_utc": "2026-03-03T18:29:23+00:00",
+      "title": "Artemis II: What’s on the Menu?",
+      "summary": "The food flying aboard Artemis II is designed to support crew health and performance during the mission around the Moon. With no resupply, refrigeration, or late-load capability, all meals must be carefully selected to remain safe, shelf-stable, and easy to prepare and consume in NASA’s Orion spacecraft. Food selections are developed in coordination with space [&#8230;]",
+      "link": "https://www.nasa.gov/missions/artemis/artemis-2/artemis-ii-whats-on-the-menu",
+      "published_utc": "2026-03-03T21:00:25+00:00",
       "score": 0,
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/03/grc-2024-c-11142.jpg"
+      "image": "https://www.youtube.com/embed/3Tkib8zc-Ws"
     },
     {
       "section": "romania",
@@ -1154,6 +1154,28 @@
       "published_utc": "2026-02-02T10:32:03+00:00",
       "score": 3,
       "image": "https://stiripozitive.com/wp-content/uploads/2026/02/harta-.jpeg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "NASA Breaking News",
+      "title": "Curiosity Blog, Sols 4818-4824: Thinking Out of the Boxwork",
+      "summary": "Written by Ashley Stroupe, Operations Systems Engineer at NASA’s Jet Propulsion Laboratory Earth planning date: Friday, Feb. 27, 2026 This week we had three planning sessions, exploring the eastern side of the boxwork unit. As a Rover Planner on Monday, I worked on the arm and drive activities, while on Friday I served as the […]",
+      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4818-4824-thinking-out-of-the-boxwork",
+      "published_utc": "2026-03-03T18:40:37+00:00",
+      "score": 0,
+      "image": "https://assets.science.nasa.gov/content/dam/science/missions/msl/2026/curiosity-rover-updates/february/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04820_opgs_edr_fcam_FLB_825378820EDR_F1202030FHAZ00200M_.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "NASA Breaking News",
+      "title": "NASA Invites Proposals to Lease Land Parcels at Sandusky Facility",
+      "summary": "NASA’s Glenn Research Center is seeking proposals to lease select land parcels at its Neil Armstrong Test Facility in Sandusky, Ohio. Proposals are due by 5 p.m. EST on July 2, 2026. The parcels are part of an area of land that currently serves as a buffer for ongoing NASA operations. The solicitation includes the [&#8230;]",
+      "link": "https://www.nasa.gov/news-release/nasa-invites-land-lease-proposals",
+      "published_utc": "2026-03-03T18:29:23+00:00",
+      "score": 0,
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/03/grc-2024-c-11142.jpg"
     },
     {
       "section": "medical",
@@ -1651,28 +1673,6 @@
       "image": "https://picsum.photos/seed/vb-30572bddcf8dd087/480/320"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "ScienceDaily Science",
-      "title": "Stunning 3D maps reveal DNA is structured before life “switches on”",
-      "summary": "For decades, scientists believed a fertilized egg’s DNA began as a shapeless mass, only organizing itself once the embryo switched on its genes. But new research reveals that the genome is already carefully arranged in three dimensions long before that critical activation step, known as Zygotic Genome Activation. Using a powerful new method called Pico-C, researchers captured this hidden DNA architecture in unprecedented detail, showing that a complex scaffold is built early to control which genes will later turn on.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260227061824.htm",
-      "published_utc": "2026-02-27T11:18:24+00:00",
-      "score": 3,
-      "image": "https://picsum.photos/seed/vb-6635c6a792dcf6d5/480/320"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "ScienceDaily Science",
-      "title": "Scientists compared dinosaurs to mammals for decades but missed this key difference",
-      "summary": "Baby dinosaurs weren’t coddled like lion cubs or elephant calves—they were more like prehistoric latchkey kids. New research suggests that young dinosaurs quickly struck out on their own, forming kid-only groups and surviving without much parental help, while their massive parents lived entirely different lives. Because juveniles and adults ate different foods, faced different predators, and moved through different parts of the landscape, they may have functioned almost like separate species within the same ecosystem.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260226042502.htm",
-      "published_utc": "2026-02-27T10:08:15+00:00",
-      "score": 0,
-      "image": "https://picsum.photos/seed/vb-0d3ee2c0ebb66c0d/480/320"
-    },
-    {
       "section": "medical",
       "kind": "global",
       "source": "Positive News",
@@ -1925,7 +1925,7 @@
       "tag": "animals",
       "title": "Animals",
       "link": "https://commons.wikimedia.org/wiki/Category:Animals",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Golde33443.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg"
     },
     {
       "tag": "landscape",
