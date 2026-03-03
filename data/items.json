@@ -1,17 +1,17 @@
 {
-  "generated_utc": "2026-03-03T08:31:37+00:00",
+  "generated_utc": "2026-03-03T09:35:36+00:00",
   "sections": {
     "romania": [
       {
         "section": "romania",
         "kind": "ro",
         "source": "Start-Up Romania",
-        "title": "Ecosistemul Românesc de Apărare: ce companii își unesc forțele cu Orbotix pentru industria națională de apărare",
-        "summary": "Orbotix Industries anunță semnarea unei serii de Memorandumuri de Înțelegere (MoU) strategice cu trei companii românești esențiale pentru industria națională de apărare. Se pun astfel bazele unui...",
-        "link": "https://start-up.ro/ecosistemul-romanesc-de-aparare-orbotrix-si-parteneriatul-esential-pentru-industria-nationala-de-aparare",
-        "published_utc": "2026-03-03T07:54:21+00:00",
-        "score": 1,
-        "image": "https://start-up.ro/img/thumbs/articles/3/7/9/37945/image-37945-760x400-00-65.jpg?v=1772524422"
+        "title": "Studiu Market Pulse 2025: Portofoliul mediu al investitorilor români a ajuns la 445.000 lei, +19% într-un an",
+        "summary": "În 2025, portofoliul mediu al investitorilor români a ajuns la 445.000 de lei, în creștere cu 19% față de anul precedent, potrivit ediției din 2025 a studiului Market Pulse, dedicat pieței de...",
+        "link": "https://start-up.ro/studiu-market-pulse-2025-portofoliul-mediu-al-investitorilor-romani-a-ajuns-la-445-000-lei-19-intr-un-an",
+        "published_utc": "2026-03-03T09:14:09+00:00",
+        "score": 3,
+        "image": "https://start-up.ro/img/articles/3/7/9/37948/cover-37948-src.jpg"
       },
       {
         "section": "romania",
@@ -983,12 +983,12 @@
       "section": "romania",
       "kind": "ro",
       "source": "Start-Up Romania",
-      "title": "Ecosistemul Românesc de Apărare: ce companii își unesc forțele cu Orbotix pentru industria națională de apărare",
-      "summary": "Orbotix Industries anunță semnarea unei serii de Memorandumuri de Înțelegere (MoU) strategice cu trei companii românești esențiale pentru industria națională de apărare. Se pun astfel bazele unui...",
-      "link": "https://start-up.ro/ecosistemul-romanesc-de-aparare-orbotrix-si-parteneriatul-esential-pentru-industria-nationala-de-aparare",
-      "published_utc": "2026-03-03T07:54:21+00:00",
-      "score": 1,
-      "image": "https://start-up.ro/img/thumbs/articles/3/7/9/37945/image-37945-760x400-00-65.jpg?v=1772524422"
+      "title": "Studiu Market Pulse 2025: Portofoliul mediu al investitorilor români a ajuns la 445.000 lei, +19% într-un an",
+      "summary": "În 2025, portofoliul mediu al investitorilor români a ajuns la 445.000 de lei, în creștere cu 19% față de anul precedent, potrivit ediției din 2025 a studiului Market Pulse, dedicat pieței de...",
+      "link": "https://start-up.ro/studiu-market-pulse-2025-portofoliul-mediu-al-investitorilor-romani-a-ajuns-la-445-000-lei-19-intr-un-an",
+      "published_utc": "2026-03-03T09:14:09+00:00",
+      "score": 3,
+      "image": "https://start-up.ro/img/articles/3/7/9/37948/cover-37948-src.jpg"
     },
     {
       "section": "romania",
@@ -1932,8 +1932,8 @@
     "source": "data/jokes_ro.txt"
   },
   "satire_ro": {
-    "title": "Miliardarii planetei părăsesc Dubaiul ca să stea câte 7 într-o garsonieră la Cluj",
-    "link": "https://www.timesnewroman.ro/monden/miliardarii-planetei-parasesc-dubaiul-ca-sa-stea-cate-7-intr-o-garsoniera-la-cluj/",
+    "title": "Ultima ofertă",
+    "link": "https://www.timesnewroman.ro/ovi/ulltima-oferta/",
     "source": "timesnewroman.ro"
   },
   "top_images": [
@@ -1941,13 +1941,13 @@
       "tag": "space",
       "title": "Space",
       "link": "https://commons.wikimedia.org/wiki/Category:Astronomy",
-      "image": "https://live.staticflickr.com/65535/55118553617_ccb01fe436_b.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/NGC_4414_%28NASA-med%29.jpg"
     },
     {
       "tag": "animals",
       "title": "Animals",
       "link": "https://commons.wikimedia.org/wiki/Category:Animals",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Siberischer_tiger_de_edit02.jpg"
     },
     {
       "tag": "landscape",
