@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-03-03T22:22:03+00:00",
+  "generated_utc": "2026-03-03T23:20:09+00:00",
   "sections": {
     "romania": [
       {
@@ -461,8 +461,19 @@
         "section": "science",
         "kind": "global",
         "source": "NASA Breaking News",
+        "title": "La NASA refuerza Artemis: añade una misión y perfecciona su arquitectura general",
+        "summary": "Read this story in English&#160;here. A fin de lograr el objetivo nacional de llevar astronautas estadounidenses a la superficie de la Luna y mantener la superioridad de Estados Unidos en exploración y descubrimientos, la NASA anunció el 27 de febrero que aumentará la frecuencia de sus misiones con el programa Artemis, estandarizará la configuración del [&#8230;]",
+        "link": "https://www.nasa.gov/missions/artemis/la-nasa-refuerza-artemis-anade-una-mision-y-perfecciona-su-arquitectura-general",
+        "published_utc": "2026-03-03T22:34:27+00:00",
+        "score": 0,
+        "image": "https://images-assets.nasa.gov/image/iss074e0325229/iss074e0325229~large.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "NASA Breaking News",
         "title": "NASA Strengthens Artemis: Adds Mission, Refines Overall Architecture",
-        "summary": "To achieve the national goal of landing American astronauts on the surface of the Moon and maintaining U.S. superiority in exploration and discovery, NASA announced Feb. 27 it is increasing its cadence of missions under the Artemis program, standardizing the SLS (Space Launch System) rocket configuration, and adding a new mission. The plans were shared [&#8230;]",
+        "summary": "Lee esta historia en español aquí. To achieve the national goal of landing American astronauts on the surface of the Moon and maintaining U.S. superiority in exploration and discovery, NASA announced Feb. 27 it is increasing its cadence of missions under the Artemis program, standardizing the SLS (Space Launch System) rocket configuration, and adding a new [&#8230;]",
         "link": "https://www.nasa.gov/directorates/esdmd/nasa-strengthens-artemis-adds-mission-refines-overall-architecture",
         "published_utc": "2026-03-03T21:50:18+00:00",
         "score": 4,
@@ -614,17 +625,6 @@
       {
         "section": "science",
         "kind": "global",
-        "source": "NASA Breaking News",
-        "title": "Scoria Cones on Earth and Mars",
-        "summary": "The hill-shaped features are a sign of explosive volcanic activity—a rarity on the Red Planet.",
-        "link": "https://science.nasa.gov/earth/earth-observatory/scoria-cones-on-earth-and-mars",
-        "published_utc": "2026-03-02T05:01:00+00:00",
-        "score": 0,
-        "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/scoria-cones-on-earth-and-mars/sunsetcratercomp_ctx_oli_20250619_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
         "source": "ScienceDaily Science",
         "title": "Massive asteroid impact 6.3 million years ago left giant glass field in Brazil",
         "summary": "For the first time ever, scientists have uncovered a vast field of tektites in Brazil — mysterious glassy fragments forged when a powerful extraterrestrial object slammed into Earth about 6.3 million years ago. Named “geraisites” after Minas Gerais, where they were first found, these dark, aerodynamic droplets of natural glass stretch across more than 900 kilometers and may mark one of South America’s most significant ancient impact events.",
@@ -755,6 +755,17 @@
         "published_utc": "2026-03-02T16:27:11+00:00",
         "score": 1,
         "image": "https://picsum.photos/seed/vb-f4ad7905503342e0/480/320"
+      },
+      {
+        "section": "environment",
+        "kind": "global",
+        "source": "NASA Earth Observatory - Image of the Day",
+        "title": "Scoria Cones on Earth and Mars",
+        "summary": "The hill-shaped features are a sign of explosive volcanic activity—a rarity on the Red Planet. The post Scoria Cones on Earth and Mars appeared first on NASA Science .",
+        "link": "https://science.nasa.gov/earth/earth-observatory/scoria-cones-on-earth-and-mars",
+        "published_utc": "2026-03-02T05:01:00+00:00",
+        "score": 0,
+        "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/scoria-cones-on-earth-and-mars/sunsetcratercomp_ctx_oli_20250619_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
       },
       {
         "section": "environment",
@@ -1093,11 +1104,11 @@
       "section": "science",
       "kind": "global",
       "source": "NASA Breaking News",
-      "title": "NASA Strengthens Artemis: Adds Mission, Refines Overall Architecture",
-      "summary": "To achieve the national goal of landing American astronauts on the surface of the Moon and maintaining U.S. superiority in exploration and discovery, NASA announced Feb. 27 it is increasing its cadence of missions under the Artemis program, standardizing the SLS (Space Launch System) rocket configuration, and adding a new mission. The plans were shared [&#8230;]",
-      "link": "https://www.nasa.gov/directorates/esdmd/nasa-strengthens-artemis-adds-mission-refines-overall-architecture",
-      "published_utc": "2026-03-03T21:50:18+00:00",
-      "score": 4,
+      "title": "La NASA refuerza Artemis: añade una misión y perfecciona su arquitectura general",
+      "summary": "Read this story in English&#160;here. A fin de lograr el objetivo nacional de llevar astronautas estadounidenses a la superficie de la Luna y mantener la superioridad de Estados Unidos en exploración y descubrimientos, la NASA anunció el 27 de febrero que aumentará la frecuencia de sus misiones con el programa Artemis, estandarizará la configuración del [&#8230;]",
+      "link": "https://www.nasa.gov/missions/artemis/la-nasa-refuerza-artemis-anade-una-mision-y-perfecciona-su-arquitectura-general",
+      "published_utc": "2026-03-03T22:34:27+00:00",
+      "score": 0,
       "image": "https://images-assets.nasa.gov/image/iss074e0325229/iss074e0325229~large.jpg"
     },
     {
@@ -1126,12 +1137,12 @@
       "section": "science",
       "kind": "global",
       "source": "NASA Breaking News",
-      "title": "Artemis II: What’s on the Menu?",
-      "summary": "The food flying aboard Artemis II is designed to support crew health and performance during the mission around the Moon. With no resupply, refrigeration, or late-load capability, all meals must be carefully selected to remain safe, shelf-stable, and easy to prepare and consume in NASA’s Orion spacecraft. Food selections are developed in coordination with space [&#8230;]",
-      "link": "https://www.nasa.gov/missions/artemis/artemis-2/artemis-ii-whats-on-the-menu",
-      "published_utc": "2026-03-03T21:00:25+00:00",
-      "score": 0,
-      "image": "https://www.youtube.com/embed/3Tkib8zc-Ws"
+      "title": "NASA Strengthens Artemis: Adds Mission, Refines Overall Architecture",
+      "summary": "Lee esta historia en español aquí. To achieve the national goal of landing American astronauts on the surface of the Moon and maintaining U.S. superiority in exploration and discovery, NASA announced Feb. 27 it is increasing its cadence of missions under the Artemis program, standardizing the SLS (Space Launch System) rocket configuration, and adding a new [&#8230;]",
+      "link": "https://www.nasa.gov/directorates/esdmd/nasa-strengthens-artemis-adds-mission-refines-overall-architecture",
+      "published_utc": "2026-03-03T21:50:18+00:00",
+      "score": 4,
+      "image": "https://images-assets.nasa.gov/image/iss074e0325229/iss074e0325229~large.jpg"
     },
     {
       "section": "romania",
@@ -1154,6 +1165,17 @@
       "published_utc": "2026-02-02T10:32:03+00:00",
       "score": 3,
       "image": "https://stiripozitive.com/wp-content/uploads/2026/02/harta-.jpeg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "NASA Breaking News",
+      "title": "Artemis II: What’s on the Menu?",
+      "summary": "The food flying aboard Artemis II is designed to support crew health and performance during the mission around the Moon. With no resupply, refrigeration, or late-load capability, all meals must be carefully selected to remain safe, shelf-stable, and easy to prepare and consume in NASA’s Orion spacecraft. Food selections are developed in coordination with space [&#8230;]",
+      "link": "https://www.nasa.gov/missions/artemis/artemis-2/artemis-ii-whats-on-the-menu",
+      "published_utc": "2026-03-03T21:00:25+00:00",
+      "score": 0,
+      "image": "https://www.youtube.com/embed/3Tkib8zc-Ws"
     },
     {
       "section": "science",
@@ -1409,11 +1431,11 @@
       "image": "https://picsum.photos/seed/vb-81c49e06612b5020/480/320"
     },
     {
-      "section": "science",
+      "section": "environment",
       "kind": "global",
-      "source": "NASA Breaking News",
+      "source": "NASA Earth Observatory - Image of the Day",
       "title": "Scoria Cones on Earth and Mars",
-      "summary": "The hill-shaped features are a sign of explosive volcanic activity—a rarity on the Red Planet.",
+      "summary": "The hill-shaped features are a sign of explosive volcanic activity—a rarity on the Red Planet. The post Scoria Cones on Earth and Mars appeared first on NASA Science .",
       "link": "https://science.nasa.gov/earth/earth-observatory/scoria-cones-on-earth-and-mars",
       "published_utc": "2026-03-02T05:01:00+00:00",
       "score": 0,
@@ -1919,7 +1941,7 @@
       "tag": "space",
       "title": "Space",
       "link": "https://commons.wikimedia.org/wiki/Category:Astronomy",
-      "image": "https://live.staticflickr.com/65535/55118553617_ccb01fe436_b.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/NGC_4414_%28NASA-med%29.jpg"
     },
     {
       "tag": "animals",
