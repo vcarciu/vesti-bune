@@ -1,7 +1,40 @@
 {
-  "generated_utc": "2026-03-03T17:43:20+00:00",
+  "generated_utc": "2026-03-03T18:37:16+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Start-Up Romania",
+        "title": "Apple lansează MacBook Air cu cip M5 și 512GB stocare de bază",
+        "summary": "Apple a anunțat noul MacBook Air echipat cu cipul M5, disponibil în variante de 13 și 15 inch.",
+        "link": "https://start-up.ro/apple-lanseaza-macbook-air-cu-cip-m5-si-512gb-stocare-de-baza",
+        "published_utc": "2026-03-03T18:17:56+00:00",
+        "score": 1,
+        "image": "https://start-up.ro/img/thumbs/articles/3/7/9/37952/image-37952-760x400-00-65.jpg?v=1772561910"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Start-Up Romania",
+        "title": "MacBook Pro cu M5 Pro și M5 Max: performanță AI de până la 4× și autonomie de 24 de ore",
+        "summary": "Apple a anunțat noile modele MacBook Pro de 14 și 16 inch, echipate cu procesoarele M5 Pro și M5 Max.",
+        "link": "https://start-up.ro/macbook-pro-cu-m5-pro-si-m5-max-performanta-ai-de-pana-la-4x-si-autonomie-de-24-de-ore",
+        "published_utc": "2026-03-03T18:12:12+00:00",
+        "score": 1,
+        "image": "https://start-up.ro/img/thumbs/articles/3/7/9/37951/image-37951-760x400-00-65.jpg?v=1772561538"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Descopera (Stiinta)",
+        "title": "Oamenii de știință, bulversați după descoperirea unor planete colosale: „Este o enigmă”",
+        "summary": "Jupiter poate fi regele planetelor în Sistemul Solar, dar în alte sisteme stelare din galaxie, planete și mai mari orbitează la miliarde de kilometri de stelele lor, în locuri unde teoriile tradiționale de formare cu [&#8230;] Articolul Oamenii de știință, bulversați după descoperirea unor planete colosale: „Este o enigmă” apare prima dată în Descopera .",
+        "link": "https://www.descopera.ro/stiinta/21032138-oamenii-de-stiinta-bulversati-dupa-descoperirea-unor-planete-colosale-este-o-enigma",
+        "published_utc": "2026-03-03T18:00:41+00:00",
+        "score": 3,
+        "image": "https://www.descopera.ro/wp-content/uploads/2025/05/Jupiter-era-de-doua-ori-mai_shutterstock_descopera-3-1024x683.jpg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -12,17 +45,6 @@
         "published_utc": "2026-03-03T16:41:14+00:00",
         "score": 3,
         "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMyUyRjAzJTJGMjYxNDc4Ml8yNjE0/NzgyX2x1Y3J1cmktYXV0b3N0cmFkYS1h/OC1mb3RvLWZiLWNuaXIucG5nJmhhc2g9/YzQwOTg2NmYzZTgxODkwNjg5ZTUzODIzOGE0MDBiY2I=.png"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "ULTIMA ORĂ Producție mutată în România. Grup italian furnizor major de componente auto, inclusiv pentru Dacia, se gândește să mute în țară producția oprită în alte unități",
-        "summary": "Grupul italian Sogefi, furnizor major de componente auto, inclusiv pentru Dacia, și-a îmbunătățit performanța operațională la fabrica de componente pentru suspensii din Oradea, care se află „pe o traiectorie bună” după cinci ani de la&#8230;",
-        "link": "https://hotnews.ro/ultima-ora-productie-mutata-in-romania-grup-italian-furnizor-major-de-componente-auto-inclusiv-pentru-dacia-se-gandeste-sa-mute-in-tara-productia-oprita-in-alte-unitati-2184331",
-        "published_utc": "2026-03-03T14:50:08+00:00",
-        "score": 3,
-        "image": "https://hotnews.ro/wp-content/uploads/2026/03/sogefi-oradea-profit.jpg"
       },
       {
         "section": "romania",
@@ -89,28 +111,6 @@
         "published_utc": "2026-03-03T09:14:09+00:00",
         "score": 3,
         "image": "https://start-up.ro/img/articles/3/7/9/37948/cover-37948-src.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Descopera (Stiinta)",
-        "title": "Test de cultură generală. De ce muștele își freacă „picioarele”?",
-        "summary": "Mai mult ca sigur ați văzut, măcar o dată în viață, o muscă în timp ce își freca „picioarele” din față, de parcă pregătea un plan malefic. Dar acest comportament nu are de-a face cu [&#8230;] Articolul Test de cultură generală. De ce muștele își freacă „picioarele”? apare prima dată în Descopera .",
-        "link": "https://www.descopera.ro/natura/21031920-test-de-cultura-generala-de-ce-mustele-isi-freaca-picioarele",
-        "published_utc": "2026-03-03T09:00:31+00:00",
-        "score": 1,
-        "image": "https://www.descopera.ro/wp-content/uploads/2026/03/de-ce-mustele-shutter_descopera-1-scaled.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Start-Up Romania",
-        "title": "Ecosistemul Românesc de Apărare: ce companii își unesc forțele cu Orbotix pentru industria națională de apărare",
-        "summary": "Orbotix Industries anunță semnarea unei serii de Memorandumuri de Înțelegere (MoU) strategice cu trei companii românești esențiale pentru industria națională de apărare. Se pun astfel bazele unui...",
-        "link": "https://start-up.ro/ecosistemul-romanesc-de-aparare-orbotrix-si-parteneriatul-esential-pentru-industria-nationala-de-aparare",
-        "published_utc": "2026-03-03T07:54:21+00:00",
-        "score": 1,
-        "image": "https://start-up.ro/img/thumbs/articles/3/7/9/37945/image-37945-760x400-00-65.jpg?v=1772524422"
       },
       {
         "section": "romania",
@@ -949,13 +949,35 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Digi24",
-      "title": "Avertisment privind numărul record de mame-adolescente în România. Salvați Copiii cere introducerea educației sexuale obligatorii",
-      "summary": "În România, aproape una din zece nașteri este înregistrată în rândul fetelor cu vârsta între 15 și 19 ani, iar pentru 23 de mame sub 15 ani este vorba deja de al doilea copil. Situația reflectă lacunele legislative și lipsa accesului adecvat la educația sexuală, atrage atenția organizația Salvați Copiii.",
-      "link": "https://www.digi24.ro/stiri/actualitate/social/avertisment-privind-numarul-record-de-mame-adolescente-in-romania-salvati-copiii-cere-introducerea-educatiei-sexuale-obligatorii-3657091",
-      "published_utc": "2026-03-03T10:27:42+00:00",
+      "source": "Start-Up Romania",
+      "title": "Apple lansează MacBook Air cu cip M5 și 512GB stocare de bază",
+      "summary": "Apple a anunțat noul MacBook Air echipat cu cipul M5, disponibil în variante de 13 și 15 inch.",
+      "link": "https://start-up.ro/apple-lanseaza-macbook-air-cu-cip-m5-si-512gb-stocare-de-baza",
+      "published_utc": "2026-03-03T18:17:56+00:00",
+      "score": 1,
+      "image": "https://start-up.ro/img/thumbs/articles/3/7/9/37952/image-37952-760x400-00-65.jpg?v=1772561910"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Start-Up Romania",
+      "title": "MacBook Pro cu M5 Pro și M5 Max: performanță AI de până la 4× și autonomie de 24 de ore",
+      "summary": "Apple a anunțat noile modele MacBook Pro de 14 și 16 inch, echipate cu procesoarele M5 Pro și M5 Max.",
+      "link": "https://start-up.ro/macbook-pro-cu-m5-pro-si-m5-max-performanta-ai-de-pana-la-4x-si-autonomie-de-24-de-ore",
+      "published_utc": "2026-03-03T18:12:12+00:00",
+      "score": 1,
+      "image": "https://start-up.ro/img/thumbs/articles/3/7/9/37951/image-37951-760x400-00-65.jpg?v=1772561538"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Descopera (Stiinta)",
+      "title": "Oamenii de știință, bulversați după descoperirea unor planete colosale: „Este o enigmă”",
+      "summary": "Jupiter poate fi regele planetelor în Sistemul Solar, dar în alte sisteme stelare din galaxie, planete și mai mari orbitează la miliarde de kilometri de stelele lor, în locuri unde teoriile tradiționale de formare cu [&#8230;] Articolul Oamenii de știință, bulversați după descoperirea unor planete colosale: „Este o enigmă” apare prima dată în Descopera .",
+      "link": "https://www.descopera.ro/stiinta/21032138-oamenii-de-stiinta-bulversati-dupa-descoperirea-unor-planete-colosale-este-o-enigma",
+      "published_utc": "2026-03-03T18:00:41+00:00",
       "score": 3,
-      "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMyUyRjAzJTJGMjYxMzI5MV8yNjEz/MjkxX21hbWEtYWRvbGVzY2VudGEuanBl/ZyZoYXNoPTk0YTQzMjVjMGNkMTRhZDA4MmNlYjFhZDdlNjA1MDVl.jpeg"
+      "image": "https://www.descopera.ro/wp-content/uploads/2025/05/Jupiter-era-de-doua-ori-mai_shutterstock_descopera-3-1024x683.jpg"
     },
     {
       "section": "romania",
@@ -967,17 +989,6 @@
       "published_utc": "2026-03-03T16:41:14+00:00",
       "score": 3,
       "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMyUyRjAzJTJGMjYxNDc4Ml8yNjE0/NzgyX2x1Y3J1cmktYXV0b3N0cmFkYS1h/OC1mb3RvLWZiLWNuaXIucG5nJmhhc2g9/YzQwOTg2NmYzZTgxODkwNjg5ZTUzODIzOGE0MDBiY2I=.png"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "HotNews",
-      "title": "ULTIMA ORĂ Producție mutată în România. Grup italian furnizor major de componente auto, inclusiv pentru Dacia, se gândește să mute în țară producția oprită în alte unități",
-      "summary": "Grupul italian Sogefi, furnizor major de componente auto, inclusiv pentru Dacia, și-a îmbunătățit performanța operațională la fabrica de componente pentru suspensii din Oradea, care se află „pe o traiectorie bună” după cinci ani de la&#8230;",
-      "link": "https://hotnews.ro/ultima-ora-productie-mutata-in-romania-grup-italian-furnizor-major-de-componente-auto-inclusiv-pentru-dacia-se-gandeste-sa-mute-in-tara-productia-oprita-in-alte-unitati-2184331",
-      "published_utc": "2026-03-03T14:50:08+00:00",
-      "score": 3,
-      "image": "https://hotnews.ro/wp-content/uploads/2026/03/sogefi-oradea-profit.jpg"
     },
     {
       "section": "romania",
@@ -1026,6 +1037,17 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "Digi24",
+      "title": "Avertisment privind numărul record de mame-adolescente în România. Salvați Copiii cere introducerea educației sexuale obligatorii",
+      "summary": "În România, aproape una din zece nașteri este înregistrată în rândul fetelor cu vârsta între 15 și 19 ani, iar pentru 23 de mame sub 15 ani este vorba deja de al doilea copil. Situația reflectă lacunele legislative și lipsa accesului adecvat la educația sexuală, atrage atenția organizația Salvați Copiii.",
+      "link": "https://www.digi24.ro/stiri/actualitate/social/avertisment-privind-numarul-record-de-mame-adolescente-in-romania-salvati-copiii-cere-introducerea-educatiei-sexuale-obligatorii-3657091",
+      "published_utc": "2026-03-03T10:27:42+00:00",
+      "score": 3,
+      "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMyUyRjAzJTJGMjYxMzI5MV8yNjEz/MjkxX21hbWEtYWRvbGVzY2VudGEuanBl/ZyZoYXNoPTk0YTQzMjVjMGNkMTRhZDA4MmNlYjFhZDdlNjA1MDVl.jpeg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "Start-Up Romania",
       "title": "Studiu Market Pulse 2025: Portofoliul mediu al investitorilor români a ajuns la 445.000 lei, +19% într-un an",
       "summary": "În 2025, portofoliul mediu al investitorilor români a ajuns la 445.000 de lei, în creștere cu 19% față de anul precedent, potrivit ediției din 2025 a studiului Market Pulse, dedicat pieței de...",
@@ -1033,28 +1055,6 @@
       "published_utc": "2026-03-03T09:14:09+00:00",
       "score": 3,
       "image": "https://start-up.ro/img/articles/3/7/9/37948/cover-37948-src.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Descopera (Stiinta)",
-      "title": "Test de cultură generală. De ce muștele își freacă „picioarele”?",
-      "summary": "Mai mult ca sigur ați văzut, măcar o dată în viață, o muscă în timp ce își freca „picioarele” din față, de parcă pregătea un plan malefic. Dar acest comportament nu are de-a face cu [&#8230;] Articolul Test de cultură generală. De ce muștele își freacă „picioarele”? apare prima dată în Descopera .",
-      "link": "https://www.descopera.ro/natura/21031920-test-de-cultura-generala-de-ce-mustele-isi-freaca-picioarele",
-      "published_utc": "2026-03-03T09:00:31+00:00",
-      "score": 1,
-      "image": "https://www.descopera.ro/wp-content/uploads/2026/03/de-ce-mustele-shutter_descopera-1-scaled.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Start-Up Romania",
-      "title": "Ecosistemul Românesc de Apărare: ce companii își unesc forțele cu Orbotix pentru industria națională de apărare",
-      "summary": "Orbotix Industries anunță semnarea unei serii de Memorandumuri de Înțelegere (MoU) strategice cu trei companii românești esențiale pentru industria națională de apărare. Se pun astfel bazele unui...",
-      "link": "https://start-up.ro/ecosistemul-romanesc-de-aparare-orbotrix-si-parteneriatul-esential-pentru-industria-nationala-de-aparare",
-      "published_utc": "2026-03-03T07:54:21+00:00",
-      "score": 1,
-      "image": "https://start-up.ro/img/thumbs/articles/3/7/9/37945/image-37945-760x400-00-65.jpg?v=1772524422"
     },
     {
       "section": "romania",
@@ -1884,7 +1884,7 @@
   ],
   "joke_ro": {
     "date_utc": "2026-03-03",
-    "text": "- Azi am fost productiv: am mutat haosul dintr-un colt in altul.",
+    "text": "- Azi am fost foarte organizat: mi-am amanat amanarea.",
     "source": "data/jokes_ro.txt"
   },
   "satire_ro": {
@@ -1897,13 +1897,13 @@
       "tag": "space",
       "title": "Space",
       "link": "https://commons.wikimedia.org/wiki/Category:Astronomy",
-      "image": "https://live.staticflickr.com/65535/55118553617_ccb01fe436_b.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/NGC_4414_%28NASA-med%29.jpg"
     },
     {
       "tag": "animals",
       "title": "Animals",
       "link": "https://commons.wikimedia.org/wiki/Category:Animals",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Golde33443.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg"
     },
     {
       "tag": "landscape",
