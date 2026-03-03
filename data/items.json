@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-03-03T06:40:07+00:00",
+  "generated_utc": "2026-03-03T07:39:49+00:00",
   "sections": {
     "romania": [
       {
@@ -180,6 +180,17 @@
       }
     ],
     "medical": [
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "Positive News",
+        "title": "Could solar panels help strengthen global food security?",
+        "summary": "Solar panels could increase global crop yields by creating cooler, more resilient growing conditions, researchers say The post Could solar panels help strengthen global food security? appeared first on Positive News .",
+        "link": "https://www.positive.news/environment/agriculture/could-solar-panels-help-strengthen-global-food-security",
+        "published_utc": "2026-03-03T07:00:22+00:00",
+        "score": 1,
+        "image": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/02/Credit_-Lisamiri-1-scaled.jpg"
+      },
       {
         "section": "medical",
         "kind": "global",
@@ -443,17 +454,6 @@
         "published_utc": "2026-02-26T12:27:39+00:00",
         "score": 3,
         "image": "https://picsum.photos/seed/vb-ca97c17ec23fc8b0/480/320"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "ScienceDaily Health",
-        "title": "PFAS found in most americans linked to rapid biological aging",
-        "summary": "“Forever chemicals” known as PFAS have quietly infiltrated everything from nonstick pans to food packaging—and now new research suggests some of them may be speeding up the aging process itself. In a nationally representative U.S. study, two lesser-known PFAS compounds, PFNA and PFOSA, were found in 95% of participants and strongly linked to faster biological aging in men aged 50 to 64.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260226042449.htm",
-        "published_utc": "2026-02-26T09:24:49+00:00",
-        "score": 1,
-        "image": "https://picsum.photos/seed/vb-e82d1748dbe385ea/480/320"
       }
     ],
     "science": [
@@ -1101,15 +1101,15 @@
       "image": "https://green.start-up.ro/img/articles/3/5/7/35716/cover-35716-src.jpg"
     },
     {
-      "section": "science",
+      "section": "medical",
       "kind": "global",
-      "source": "NASA Breaking News",
-      "title": "What’s Up: March 2026 Skywatching Tips from NASA",
-      "summary": "What are some skywatching highlights in March 2026? A total lunar eclipse blood moon takes centre stage, Venus and Saturn cozy up for a conjunction, and we celebrate the vernal equinox.",
-      "link": "https://science.nasa.gov/solar-system/whats-up-march-2026-skywatching-tips-from-nasa",
-      "published_utc": "2026-03-02T20:45:51+00:00",
-      "score": 0,
-      "image": "https://assets.science.nasa.gov/content/dam/science/psd/solar-system/skywatching/2026/march/Blood%20Moon_Trevor%20Dobson%20via%20Flick_CC%20BY-NC-ND%202.0.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
+      "source": "Positive News",
+      "title": "Could solar panels help strengthen global food security?",
+      "summary": "Solar panels could increase global crop yields by creating cooler, more resilient growing conditions, researchers say The post Could solar panels help strengthen global food security? appeared first on Positive News .",
+      "link": "https://www.positive.news/environment/agriculture/could-solar-panels-help-strengthen-global-food-security",
+      "published_utc": "2026-03-03T07:00:22+00:00",
+      "score": 1,
+      "image": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/02/Credit_-Lisamiri-1-scaled.jpg"
     },
     {
       "section": "romania",
@@ -1134,15 +1134,15 @@
       "image": "https://green.start-up.ro/img/articles/3/5/7/35711/cover-35711-src.jpg"
     },
     {
-      "section": "medical",
+      "section": "science",
       "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "Young cancer survivors face faster aging and possible early dementia",
-      "summary": "Surviving cancer at a young age may come with an unexpected cost: faster aging at both the cellular and brain levels. Researchers found that survivors often show signs of being biologically older than their actual age, with chemotherapy accelerating the process most dramatically. This accelerated aging is linked to struggles with memory and focus, which can ripple into education and career outcomes. Encouragingly, scientists believe healthy habits like exercise may help turn back the clock.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260302030652.htm",
-      "published_utc": "2026-03-02T17:11:26+00:00",
-      "score": 1,
-      "image": "https://picsum.photos/seed/vb-6b327c2860daacda/480/320"
+      "source": "NASA Breaking News",
+      "title": "What’s Up: March 2026 Skywatching Tips from NASA",
+      "summary": "What are some skywatching highlights in March 2026? A total lunar eclipse blood moon takes centre stage, Venus and Saturn cozy up for a conjunction, and we celebrate the vernal equinox.",
+      "link": "https://science.nasa.gov/solar-system/whats-up-march-2026-skywatching-tips-from-nasa",
+      "published_utc": "2026-03-02T20:45:51+00:00",
+      "score": 0,
+      "image": "https://assets.science.nasa.gov/content/dam/science/psd/solar-system/skywatching/2026/march/Blood%20Moon_Trevor%20Dobson%20via%20Flick_CC%20BY-NC-ND%202.0.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
     },
     {
       "section": "romania",
@@ -1165,6 +1165,17 @@
       "published_utc": "2026-02-02T10:32:03+00:00",
       "score": 3,
       "image": "https://stiripozitive.com/wp-content/uploads/2026/02/harta-.jpeg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "Young cancer survivors face faster aging and possible early dementia",
+      "summary": "Surviving cancer at a young age may come with an unexpected cost: faster aging at both the cellular and brain levels. Researchers found that survivors often show signs of being biologically older than their actual age, with chemotherapy accelerating the process most dramatically. This accelerated aging is linked to struggles with memory and focus, which can ripple into education and career outcomes. Encouragingly, scientists believe healthy habits like exercise may help turn back the clock.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260302030652.htm",
+      "published_utc": "2026-03-02T17:11:26+00:00",
+      "score": 1,
+      "image": "https://picsum.photos/seed/vb-6b327c2860daacda/480/320"
     },
     {
       "section": "science",
@@ -1684,17 +1695,6 @@
       "image": "https://picsum.photos/seed/vb-ca97c17ec23fc8b0/480/320"
     },
     {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "PFAS found in most americans linked to rapid biological aging",
-      "summary": "“Forever chemicals” known as PFAS have quietly infiltrated everything from nonstick pans to food packaging—and now new research suggests some of them may be speeding up the aging process itself. In a nationally representative U.S. study, two lesser-known PFAS compounds, PFNA and PFOSA, were found in 95% of participants and strongly linked to faster biological aging in men aged 50 to 64.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260226042449.htm",
-      "published_utc": "2026-02-26T09:24:49+00:00",
-      "score": 1,
-      "image": "https://picsum.photos/seed/vb-e82d1748dbe385ea/480/320"
-    },
-    {
       "section": "science",
       "kind": "global",
       "source": "ScienceDaily Science",
@@ -1941,13 +1941,13 @@
       "tag": "space",
       "title": "Space",
       "link": "https://commons.wikimedia.org/wiki/Category:Astronomy",
-      "image": "https://live.staticflickr.com/65535/55118553617_ccb01fe436_b.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/NGC_4414_%28NASA-med%29.jpg"
     },
     {
       "tag": "animals",
       "title": "Animals",
       "link": "https://commons.wikimedia.org/wiki/Category:Animals",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Golde33443.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Siberischer_tiger_de_edit02.jpg"
     },
     {
       "tag": "landscape",
