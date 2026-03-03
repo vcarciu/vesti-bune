@@ -1,7 +1,18 @@
 {
-  "generated_utc": "2026-03-03T07:39:49+00:00",
+  "generated_utc": "2026-03-03T08:31:37+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Start-Up Romania",
+        "title": "Ecosistemul Românesc de Apărare: ce companii își unesc forțele cu Orbotix pentru industria națională de apărare",
+        "summary": "Orbotix Industries anunță semnarea unei serii de Memorandumuri de Înțelegere (MoU) strategice cu trei companii românești esențiale pentru industria națională de apărare. Se pun astfel bazele unui...",
+        "link": "https://start-up.ro/ecosistemul-romanesc-de-aparare-orbotrix-si-parteneriatul-esential-pentru-industria-nationala-de-aparare",
+        "published_utc": "2026-03-03T07:54:21+00:00",
+        "score": 1,
+        "image": "https://start-up.ro/img/thumbs/articles/3/7/9/37945/image-37945-760x400-00-65.jpg?v=1772524422"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -155,17 +166,6 @@
         "published_utc": "2026-02-26T10:09:45+00:00",
         "score": 3,
         "image": "https://green.start-up.ro/img/articles/3/5/7/35711/cover-35711-src.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Start-Up Romania",
-        "title": "Program media for equity - cum se leagă o relație de durată între media (TV, presă, online) și startup-uri",
-        "summary": "Borderbridge, companie specializată în consultanță de investiții Media-for-Equity (Capital Media), anunță lansarea programului educațional Mediamorphosis – Media Capital Readiness Bootcamp. Acesta...",
-        "link": "https://start-up.ro/program-media-for-equity-cum-se-leaga-o-relatie-de-durata-intre-media-tv-presa-online-si-startup-uri",
-        "published_utc": "2026-02-26T06:05:02+00:00",
-        "score": 3,
-        "image": "https://start-up.ro/img/articles/3/7/9/37921/cover-37921-src.jpg"
       },
       {
         "section": "romania",
@@ -982,6 +982,17 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "Start-Up Romania",
+      "title": "Ecosistemul Românesc de Apărare: ce companii își unesc forțele cu Orbotix pentru industria națională de apărare",
+      "summary": "Orbotix Industries anunță semnarea unei serii de Memorandumuri de Înțelegere (MoU) strategice cu trei companii românești esențiale pentru industria națională de apărare. Se pun astfel bazele unui...",
+      "link": "https://start-up.ro/ecosistemul-romanesc-de-aparare-orbotrix-si-parteneriatul-esential-pentru-industria-nationala-de-aparare",
+      "published_utc": "2026-03-03T07:54:21+00:00",
+      "score": 1,
+      "image": "https://start-up.ro/img/thumbs/articles/3/7/9/37945/image-37945-760x400-00-65.jpg?v=1772524422"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "Descopera (Stiinta)",
       "title": "Cel mai verde oraș din lume este în Europa: aici a fost creată prima „autostradă a albinelor”",
       "summary": "Un oraș european uimitor a câștigat un sondaj pentru că este cel mai verde. Cunoscut pentru parcurile sale frumoase și atmosfera relaxată, orașul a obținut un scor ridicat pentru calitatea aerului, spațiile verzi și parcurile [&#8230;] Articolul Cel mai verde oraș din lume este în Europa: aici a fost creată prima „autostradă a albinelor” apare prima dată în Descopera .",
@@ -1090,17 +1101,6 @@
       "image": "https://www.timesnewroman.ro/wp-content/uploads/2023/05/livrator_glovo_bucuresti.jpg"
     },
     {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Green Start-Up Romania",
-      "title": "Proiecte care oferă un scut climatic Bucureștiului în verile toride",
-      "summary": "Prin Platforma de mediu pentru București, Fundația Comunitară București și Orange Romania investesc până la jumătate de milion de lei într-o serie de proiecte care construiesc infrastructură verde...",
-      "link": "https://green.start-up.ro/ro/proiecte-care-ofera-un-scut-climatic-bucurestiului-in-verile-toride",
-      "published_utc": "2026-02-27T10:38:30+00:00",
-      "score": 3,
-      "image": "https://green.start-up.ro/img/articles/3/5/7/35716/cover-35716-src.jpg"
-    },
-    {
       "section": "medical",
       "kind": "global",
       "source": "Positive News",
@@ -1115,23 +1115,23 @@
       "section": "romania",
       "kind": "ro",
       "source": "Green Start-Up Romania",
+      "title": "Proiecte care oferă un scut climatic Bucureștiului în verile toride",
+      "summary": "Prin Platforma de mediu pentru București, Fundația Comunitară București și Orange Romania investesc până la jumătate de milion de lei într-o serie de proiecte care construiesc infrastructură verde...",
+      "link": "https://green.start-up.ro/ro/proiecte-care-ofera-un-scut-climatic-bucurestiului-in-verile-toride",
+      "published_utc": "2026-02-27T10:38:30+00:00",
+      "score": 3,
+      "image": "https://green.start-up.ro/img/articles/3/5/7/35716/cover-35716-src.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Green Start-Up Romania",
       "title": "Peste 500 de copii din România învață despre lumea înconjurătoare direct în natură",
       "summary": "540 de elevi din 13 școli din județele Brașov, Argeș și Sibiu participă la proiectul „Educație pentru un viitor sustenabil”, dezvoltat de Fundația Conservation Carpathia, care aduce copiii mai...",
       "link": "https://green.start-up.ro/ro/peste-500-de-copii-din-romania-invata-despre-lumea-inconjuratoare-direct-in-natura",
       "published_utc": "2026-02-27T06:00:22+00:00",
       "score": 3,
       "image": "https://green.start-up.ro/img/articles/3/5/7/35715/cover-35715-src.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Green Start-Up Romania",
-      "title": "BYD ATTO DM-i se lansează în România. Sistem Super Hybrid și preț competitiv",
-      "summary": "BYD lansează ATTO 2 DM-i în România. Noul SUV compact vine cu tehnologia Super Hybrid DM-i, aceeași tehnologie din spatele succesului SEAL U DM-i, unul dintre cele mai bine vândute modele plug-in...",
-      "link": "https://green.start-up.ro/ro/byd-atto-dm-i-se-lanseaza-in-romania-sistem-super-hybrid-si-pret-competitiv",
-      "published_utc": "2026-02-26T10:09:45+00:00",
-      "score": 3,
-      "image": "https://green.start-up.ro/img/articles/3/5/7/35711/cover-35711-src.jpg"
     },
     {
       "section": "science",
@@ -1147,13 +1147,13 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Start-Up Romania",
-      "title": "Program media for equity - cum se leagă o relație de durată între media (TV, presă, online) și startup-uri",
-      "summary": "Borderbridge, companie specializată în consultanță de investiții Media-for-Equity (Capital Media), anunță lansarea programului educațional Mediamorphosis – Media Capital Readiness Bootcamp. Acesta...",
-      "link": "https://start-up.ro/program-media-for-equity-cum-se-leaga-o-relatie-de-durata-intre-media-tv-presa-online-si-startup-uri",
-      "published_utc": "2026-02-26T06:05:02+00:00",
+      "source": "Green Start-Up Romania",
+      "title": "BYD ATTO DM-i se lansează în România. Sistem Super Hybrid și preț competitiv",
+      "summary": "BYD lansează ATTO 2 DM-i în România. Noul SUV compact vine cu tehnologia Super Hybrid DM-i, aceeași tehnologie din spatele succesului SEAL U DM-i, unul dintre cele mai bine vândute modele plug-in...",
+      "link": "https://green.start-up.ro/ro/byd-atto-dm-i-se-lanseaza-in-romania-sistem-super-hybrid-si-pret-competitiv",
+      "published_utc": "2026-02-26T10:09:45+00:00",
       "score": 3,
-      "image": "https://start-up.ro/img/articles/3/7/9/37921/cover-37921-src.jpg"
+      "image": "https://green.start-up.ro/img/articles/3/5/7/35711/cover-35711-src.jpg"
     },
     {
       "section": "romania",
@@ -1941,13 +1941,13 @@
       "tag": "space",
       "title": "Space",
       "link": "https://commons.wikimedia.org/wiki/Category:Astronomy",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/NGC_4414_%28NASA-med%29.jpg"
+      "image": "https://live.staticflickr.com/65535/55118553617_ccb01fe436_b.jpg"
     },
     {
       "tag": "animals",
       "title": "Animals",
       "link": "https://commons.wikimedia.org/wiki/Category:Animals",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Siberischer_tiger_de_edit02.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg"
     },
     {
       "tag": "landscape",
