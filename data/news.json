@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-03-03T12:36:44+00:00",
+  "generated_utc": "2026-03-03T13:55:45+00:00",
   "sections": {
     "romania": [
       {
@@ -12,28 +12,6 @@
         "published_utc": "2026-03-03T11:17:36+00:00",
         "score": 3,
         "image": "http://www.romaniapozitiva.ro/wp-content/uploads/2026/03/Adopta-un-colt-de-natura.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "RomaniaPozitiva",
-        "title": "Severin Shopping Center anunță „Cupa Mărțișor”, primul concurs de șah pentru copii din acest an",
-        "summary": "Severin, 3 martie 2026 &#8211; Severin Shopping Center anunță organizarea primului concurs oficial de șah din 2026, dedicat copiilor pasionați de sportul minții. „Cupa Mărțișor” va avea loc pe 7&#8230; Articolul Severin Shopping Center anunță „Cupa Mărțișor”, primul concurs de șah pentru copii din acest an apare prima dată în Romania Pozitiva .",
-        "link": "https://www.romaniapozitiva.ro/cultura/severin-shopping-center-anunta-cupa-martisor-primul-concurs-de-sah-pentru-copii-din-acest-an",
-        "published_utc": "2026-03-03T11:03:51+00:00",
-        "score": 1,
-        "image": "http://www.romaniapozitiva.ro/wp-content/uploads/2026/03/Severin-Shopping-Center-Concurs-de-sah-pentru-copii.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "RomaniaPozitiva",
-        "title": "MedLife continuă programele de educație medicală cu un masterclass despre abordarea multidisciplinară a obezității",
-        "summary": "București, 3 martie 2026: MedLife, cea mai mare rețea de servicii medicale private din Romania a organizat, în perioada 27–28 februarie 2026, la MedLife Medical Park din București, masterclass-ul „Abordarea&#8230; Articolul MedLife continuă programele de educație medicală cu un masterclass despre abordarea multidisciplinară a obezității apare prima dată în Romania Pozitiva .",
-        "link": "https://www.romaniapozitiva.ro/educatie/medlife-continua-programele-de-educatie-medicala-cu-un-masterclass-despre-abordarea-multidisciplinara-a-obezitatii",
-        "published_utc": "2026-03-03T11:02:21+00:00",
-        "score": 3,
-        "image": "http://www.romaniapozitiva.ro/wp-content/uploads/2026/03/poza-3.jpg"
       },
       {
         "section": "romania",
@@ -93,6 +71,17 @@
       {
         "section": "romania",
         "kind": "ro",
+        "source": "Green Start-Up Romania",
+        "title": "Bateria cu sodiu care stochează mai multă energie și produce apă potabilă",
+        "summary": "Cercetători de la Universitatea din Surrey au dezvoltat o baterie sodium-ion care, potrivit rezultatelor publicate, poate stoca aproape de două ori mai multă energie decât variantele convenționale...",
+        "link": "https://green.start-up.ro/ro/bateria-cu-sodiu-care-stocheaza-mai-multa-energie-si-produce-apa-potabila",
+        "published_utc": "2026-03-03T06:00:02+00:00",
+        "score": 1,
+        "image": "https://green.start-up.ro/img/thumbs/articles/3/5/7/35721/image-35721-760x400-00-65.jpg?v=1772441005"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
         "source": "Digi24",
         "title": "Senatul a adoptat excepții privind prima zi de concediu medical. Cine va primi plata integrală",
         "summary": "Senatul a adoptat un amendament prin care introduce excepții de la neplata primei zile de concediu medical. Astfel, anumite categorii de pacienți nu vor mai fi afectate de regula care prevedea diminuarea indemnizației cu o zi. Proiectul a trecut cu 72 de voturi „pentru”, 2 „contra” și 8 abțineri, iar decizia vine în contextul dezbaterilor privind impactul măsurii asupra persoanelor vulnerabile și asupra bugetului sistemului de sănătate. Senatul este primul for sesizat, urmând ca proiectul să fie analizat și de Camera Deputaților, care este for decizional.",
@@ -104,13 +93,24 @@
       {
         "section": "romania",
         "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 Situația din Dubai",
-        "summary": "The post Situația din Dubai appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/ovi/situatia-din-dubai",
-        "published_utc": "2026-03-02T09:09:42+00:00",
-        "score": 3,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/Situatia-din-Dubai.jpg"
+        "source": "Start-Up Romania",
+        "title": "Prețul oficial în Europa pentru motorola razr fold. Ediție specială pentru Campionatul Mondial",
+        "summary": "Motorola a lansat două noi smartphone-uri în Europa: motorola razr fold, primul model fold din familia razr, prezentat anterior la CES 2026 Las Vegas și motorola edge 70 fusion. Compania extinde...",
+        "link": "https://start-up.ro/pretul-oficial-in-europa-pentru-motorola-razr-fold-editie-speciala-pentru-campionatul-mondial",
+        "published_utc": "2026-03-02T14:54:53+00:00",
+        "score": 1,
+        "image": "https://start-up.ro/img/thumbs/articles/3/7/9/37941/image-37941-760x400-00-65.jpg?v=1772463327"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Start-Up Romania",
+        "title": "Apple prezintă iPhone 17e: același preț, multe upgradeuri",
+        "summary": "Apple a prezentat iPhone 17E, un nou model poziționat în zona accesibilă a gamei sale de smartphone-uri. Dispozitivul a fost anunțat pe 2 martie 2026 și aduce actualizări la nivel de procesor,...",
+        "link": "https://start-up.ro/apple-prezinta-iphone-17e-acelasi-pret-multe-upgradeuri",
+        "published_utc": "2026-03-02T14:42:42+00:00",
+        "score": 1,
+        "image": "https://start-up.ro/img/thumbs/articles/3/7/9/37940/image-37940-760x400-00-65.jpg?v=1772462401"
       },
       {
         "section": "romania",
@@ -460,6 +460,17 @@
       {
         "section": "science",
         "kind": "global",
+        "source": "ScienceDaily Science",
+        "title": "For every known vertebrate species, two more may be hiding in plain sight",
+        "summary": "Earth’s vertebrate diversity may be far richer than anyone realized. A sweeping analysis of more than 300 studies suggests that for every known fish, bird, reptile, amphibian, or mammal species, there are about two nearly identical “cryptic” species hiding in plain sight—genetically distinct but visually almost impossible to tell apart. Thanks to advances in DNA sequencing, scientists are uncovering these long-separated lineages, some evolving independently for over a million years.",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260303050621.htm",
+        "published_utc": "2026-03-03T11:49:27+00:00",
+        "score": 0,
+        "image": "https://picsum.photos/seed/vb-2ccb0d166dd7db80/480/320"
+      },
+      {
+        "section": "science",
+        "kind": "global",
         "source": "NASA Breaking News",
         "title": "What’s Up: March 2026 Skywatching Tips from NASA",
         "summary": "What are some skywatching highlights in March 2026? A total lunar eclipse blood moon takes centre stage, Venus and Saturn cozy up for a conjunction, and we celebrate the vernal equinox.",
@@ -720,20 +731,20 @@
         "published_utc": "2026-02-25T09:01:40+00:00",
         "score": 2,
         "image": "https://picsum.photos/seed/vb-6256b1c27bebd824/480/320"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "ScienceDaily Science",
-        "title": "40,000-year-old signs show humans were recording information long before writing",
-        "summary": "More than 40,000 years ago, Ice Age humans were carving repeated patterns of dots, lines, and crosses into tools and small ivory figurines. A new computational study of more than 3,000 of these Paleolithic signs reveals that they were not random decorations but structured sequences with measurable complexity. Surprisingly, their information density rivals that of proto-cuneiform, the earliest known writing system that emerged around 3,000 B.C.E.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260225001301.htm",
-        "published_utc": "2026-02-25T05:52:18+00:00",
-        "score": 1,
-        "image": "https://picsum.photos/seed/vb-4c3799e53086b80e/480/320"
       }
     ],
     "environment": [
+      {
+        "section": "environment",
+        "kind": "global",
+        "source": "ScienceDaily Environment",
+        "title": "The hidden technology that could unlock commercial fusion power",
+        "summary": "Fusion energy may be one of the most promising clean power sources of the future—but only if scientists can precisely measure the extreme, fast-moving plasmas that make it possible. A new U.S. Department of Energy–sponsored report urges major investment in advanced diagnostic tools—the high-tech “sensors” that track plasma temperature, density, and behavior inside fusion systems. Bringing together 70 experts from universities, national labs, and private industry, the workshop identified seven priority areas ranging from burning plasma to full-scale pilot plants.",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260303050622.htm",
+        "published_utc": "2026-03-03T12:50:59+00:00",
+        "score": 2,
+        "image": "https://picsum.photos/seed/vb-516e122a64d48dd3/480/320"
+      },
       {
         "section": "environment",
         "kind": "global",
@@ -931,28 +942,6 @@
         "published_utc": "2026-02-12T14:14:45+00:00",
         "score": 0,
         "image": "https://picsum.photos/seed/vb-9403cdc3fadee42e/480/320"
-      },
-      {
-        "section": "environment",
-        "kind": "global",
-        "source": "ScienceDaily Environment",
-        "title": "Yellowstone wolves may not have transformed the national park after all",
-        "summary": "A new scientific review challenges the headline-grabbing claim that Yellowstone’s returning wolves triggered one of the strongest trophic cascades on Earth. Researchers found that the reported 1,500% surge in willow growth was based on circular calculations and questionable comparisons. After correcting for modeling and sampling flaws, the supposed ecosystem-wide boom largely disappears.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260212025612.htm",
-        "published_utc": "2026-02-12T13:51:03+00:00",
-        "score": 0,
-        "image": "https://picsum.photos/seed/vb-7c037974f7e3685a/480/320"
-      },
-      {
-        "section": "environment",
-        "kind": "global",
-        "source": "ScienceDaily Environment",
-        "title": "NASA scientists say meteorites can’t explain mysterious organic compounds on Mars",
-        "summary": "Scientists studying a rock sample collected by NASA’s Curiosity rover have uncovered something tantalizing: the largest organic molecules ever detected on Mars. The compounds — decane, undecane, and dodecane — may be fragments of fatty acids, which on Earth are most often linked to life. While non-living processes like meteorite impacts can also create such molecules, researchers found those sources couldn’t fully explain the amounts detected.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260212025604.htm",
-        "published_utc": "2026-02-12T13:17:53+00:00",
-        "score": 0,
-        "image": "https://picsum.photos/seed/vb-a852b692d47dce3a/480/320"
       }
     ]
   },
@@ -960,13 +949,13 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "MedLife continuă programele de educație medicală cu un masterclass despre abordarea multidisciplinară a obezității",
-      "summary": "București, 3 martie 2026: MedLife, cea mai mare rețea de servicii medicale private din Romania a organizat, în perioada 27–28 februarie 2026, la MedLife Medical Park din București, masterclass-ul „Abordarea&#8230; Articolul MedLife continuă programele de educație medicală cu un masterclass despre abordarea multidisciplinară a obezității apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/educatie/medlife-continua-programele-de-educatie-medicala-cu-un-masterclass-despre-abordarea-multidisciplinara-a-obezitatii",
-      "published_utc": "2026-03-03T11:02:21+00:00",
+      "source": "Digi24",
+      "title": "Avertisment privind numărul record de mame-adolescente în România. Salvați Copiii cere introducerea educației sexuale obligatorii",
+      "summary": "În România, aproape una din zece nașteri este înregistrată în rândul fetelor cu vârsta între 15 și 19 ani, iar pentru 23 de mame sub 15 ani este vorba deja de al doilea copil. Situația reflectă lacunele legislative și lipsa accesului adecvat la educația sexuală, atrage atenția organizația Salvați Copiii.",
+      "link": "https://www.digi24.ro/stiri/actualitate/social/avertisment-privind-numarul-record-de-mame-adolescente-in-romania-salvati-copiii-cere-introducerea-educatiei-sexuale-obligatorii-3657091",
+      "published_utc": "2026-03-03T10:27:42+00:00",
       "score": 3,
-      "image": "http://www.romaniapozitiva.ro/wp-content/uploads/2026/03/poza-3.jpg"
+      "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMyUyRjAzJTJGMjYxMzI5MV8yNjEz/MjkxX21hbWEtYWRvbGVzY2VudGEuanBl/ZyZoYXNoPTk0YTQzMjVjMGNkMTRhZDA4MmNlYjFhZDdlNjA1MDVl.jpeg"
     },
     {
       "section": "romania",
@@ -978,28 +967,6 @@
       "published_utc": "2026-03-03T11:17:36+00:00",
       "score": 3,
       "image": "http://www.romaniapozitiva.ro/wp-content/uploads/2026/03/Adopta-un-colt-de-natura.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "Severin Shopping Center anunță „Cupa Mărțișor”, primul concurs de șah pentru copii din acest an",
-      "summary": "Severin, 3 martie 2026 &#8211; Severin Shopping Center anunță organizarea primului concurs oficial de șah din 2026, dedicat copiilor pasionați de sportul minții. „Cupa Mărțișor” va avea loc pe 7&#8230; Articolul Severin Shopping Center anunță „Cupa Mărțișor”, primul concurs de șah pentru copii din acest an apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/cultura/severin-shopping-center-anunta-cupa-martisor-primul-concurs-de-sah-pentru-copii-din-acest-an",
-      "published_utc": "2026-03-03T11:03:51+00:00",
-      "score": 1,
-      "image": "http://www.romaniapozitiva.ro/wp-content/uploads/2026/03/Severin-Shopping-Center-Concurs-de-sah-pentru-copii.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Avertisment privind numărul record de mame-adolescente în România. Salvați Copiii cere introducerea educației sexuale obligatorii",
-      "summary": "În România, aproape una din zece nașteri este înregistrată în rândul fetelor cu vârsta între 15 și 19 ani, iar pentru 23 de mame sub 15 ani este vorba deja de al doilea copil. Situația reflectă lacunele legislative și lipsa accesului adecvat la educația sexuală, atrage atenția organizația Salvați Copiii.",
-      "link": "https://www.digi24.ro/stiri/actualitate/social/avertisment-privind-numarul-record-de-mame-adolescente-in-romania-salvati-copiii-cere-introducerea-educatiei-sexuale-obligatorii-3657091",
-      "published_utc": "2026-03-03T10:27:42+00:00",
-      "score": 3,
-      "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMyUyRjAzJTJGMjYxMzI5MV8yNjEz/MjkxX21hbWEtYWRvbGVzY2VudGEuanBl/ZyZoYXNoPTk0YTQzMjVjMGNkMTRhZDA4MmNlYjFhZDdlNjA1MDVl.jpeg"
     },
     {
       "section": "romania",
@@ -1048,6 +1015,17 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "Green Start-Up Romania",
+      "title": "Bateria cu sodiu care stochează mai multă energie și produce apă potabilă",
+      "summary": "Cercetători de la Universitatea din Surrey au dezvoltat o baterie sodium-ion care, potrivit rezultatelor publicate, poate stoca aproape de două ori mai multă energie decât variantele convenționale...",
+      "link": "https://green.start-up.ro/ro/bateria-cu-sodiu-care-stocheaza-mai-multa-energie-si-produce-apa-potabila",
+      "published_utc": "2026-03-03T06:00:02+00:00",
+      "score": 1,
+      "image": "https://green.start-up.ro/img/thumbs/articles/3/5/7/35721/image-35721-760x400-00-65.jpg?v=1772441005"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "Digi24",
       "title": "Senatul a adoptat excepții privind prima zi de concediu medical. Cine va primi plata integrală",
       "summary": "Senatul a adoptat un amendament prin care introduce excepții de la neplata primei zile de concediu medical. Astfel, anumite categorii de pacienți nu vor mai fi afectate de regula care prevedea diminuarea indemnizației cu o zi. Proiectul a trecut cu 72 de voturi „pentru”, 2 „contra” și 8 abțineri, iar decizia vine în contextul dezbaterilor privind impactul măsurii asupra persoanelor vulnerabile și asupra bugetului sistemului de sănătate. Senatul este primul for sesizat, urmând ca proiectul să fie analizat și de Camera Deputaților, care este for decizional.",
@@ -1059,13 +1037,24 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Situația din Dubai",
-      "summary": "The post Situația din Dubai appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/ovi/situatia-din-dubai",
-      "published_utc": "2026-03-02T09:09:42+00:00",
-      "score": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/Situatia-din-Dubai.jpg"
+      "source": "Start-Up Romania",
+      "title": "Prețul oficial în Europa pentru motorola razr fold. Ediție specială pentru Campionatul Mondial",
+      "summary": "Motorola a lansat două noi smartphone-uri în Europa: motorola razr fold, primul model fold din familia razr, prezentat anterior la CES 2026 Las Vegas și motorola edge 70 fusion. Compania extinde...",
+      "link": "https://start-up.ro/pretul-oficial-in-europa-pentru-motorola-razr-fold-editie-speciala-pentru-campionatul-mondial",
+      "published_utc": "2026-03-02T14:54:53+00:00",
+      "score": 1,
+      "image": "https://start-up.ro/img/thumbs/articles/3/7/9/37941/image-37941-760x400-00-65.jpg?v=1772463327"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Start-Up Romania",
+      "title": "Apple prezintă iPhone 17e: același preț, multe upgradeuri",
+      "summary": "Apple a prezentat iPhone 17E, un nou model poziționat în zona accesibilă a gamei sale de smartphone-uri. Dispozitivul a fost anunțat pe 2 martie 2026 și aduce actualizări la nivel de procesor,...",
+      "link": "https://start-up.ro/apple-prezinta-iphone-17e-acelasi-pret-multe-upgradeuri",
+      "published_utc": "2026-03-02T14:42:42+00:00",
+      "score": 1,
+      "image": "https://start-up.ro/img/thumbs/articles/3/7/9/37940/image-37940-760x400-00-65.jpg?v=1772462401"
     },
     {
       "section": "romania",
@@ -1090,15 +1079,15 @@
       "image": "https://start-up.ro/img/articles/3/7/9/37925/cover-37925-src.jpg"
     },
     {
-      "section": "medical",
+      "section": "environment",
       "kind": "global",
-      "source": "Positive News",
-      "title": "Could solar panels help strengthen global food security?",
-      "summary": "Solar panels could increase global crop yields by creating cooler, more resilient growing conditions, researchers say The post Could solar panels help strengthen global food security? appeared first on Positive News .",
-      "link": "https://www.positive.news/environment/agriculture/could-solar-panels-help-strengthen-global-food-security",
-      "published_utc": "2026-03-03T07:00:22+00:00",
-      "score": 1,
-      "image": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/02/Credit_-Lisamiri-1-scaled.jpg"
+      "source": "ScienceDaily Environment",
+      "title": "The hidden technology that could unlock commercial fusion power",
+      "summary": "Fusion energy may be one of the most promising clean power sources of the future—but only if scientists can precisely measure the extreme, fast-moving plasmas that make it possible. A new U.S. Department of Energy–sponsored report urges major investment in advanced diagnostic tools—the high-tech “sensors” that track plasma temperature, density, and behavior inside fusion systems. Bringing together 70 experts from universities, national labs, and private industry, the workshop identified seven priority areas ranging from burning plasma to full-scale pilot plants.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260303050622.htm",
+      "published_utc": "2026-03-03T12:50:59+00:00",
+      "score": 2,
+      "image": "https://picsum.photos/seed/vb-516e122a64d48dd3/480/320"
     },
     {
       "section": "romania",
@@ -1125,13 +1114,13 @@
     {
       "section": "science",
       "kind": "global",
-      "source": "NASA Breaking News",
-      "title": "What’s Up: March 2026 Skywatching Tips from NASA",
-      "summary": "What are some skywatching highlights in March 2026? A total lunar eclipse blood moon takes centre stage, Venus and Saturn cozy up for a conjunction, and we celebrate the vernal equinox.",
-      "link": "https://science.nasa.gov/solar-system/whats-up-march-2026-skywatching-tips-from-nasa",
-      "published_utc": "2026-03-02T20:45:51+00:00",
+      "source": "ScienceDaily Science",
+      "title": "For every known vertebrate species, two more may be hiding in plain sight",
+      "summary": "Earth’s vertebrate diversity may be far richer than anyone realized. A sweeping analysis of more than 300 studies suggests that for every known fish, bird, reptile, amphibian, or mammal species, there are about two nearly identical “cryptic” species hiding in plain sight—genetically distinct but visually almost impossible to tell apart. Thanks to advances in DNA sequencing, scientists are uncovering these long-separated lineages, some evolving independently for over a million years.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260303050621.htm",
+      "published_utc": "2026-03-03T11:49:27+00:00",
       "score": 0,
-      "image": "https://assets.science.nasa.gov/content/dam/science/psd/solar-system/skywatching/2026/march/Blood%20Moon_Trevor%20Dobson%20via%20Flick_CC%20BY-NC-ND%202.0.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
+      "image": "https://picsum.photos/seed/vb-2ccb0d166dd7db80/480/320"
     },
     {
       "section": "romania",
@@ -1154,6 +1143,28 @@
       "published_utc": "2026-02-02T10:32:03+00:00",
       "score": 3,
       "image": "https://stiripozitive.com/wp-content/uploads/2026/02/harta-.jpeg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Positive News",
+      "title": "Could solar panels help strengthen global food security?",
+      "summary": "Solar panels could increase global crop yields by creating cooler, more resilient growing conditions, researchers say The post Could solar panels help strengthen global food security? appeared first on Positive News .",
+      "link": "https://www.positive.news/environment/agriculture/could-solar-panels-help-strengthen-global-food-security",
+      "published_utc": "2026-03-03T07:00:22+00:00",
+      "score": 1,
+      "image": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/02/Credit_-Lisamiri-1-scaled.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "NASA Breaking News",
+      "title": "What’s Up: March 2026 Skywatching Tips from NASA",
+      "summary": "What are some skywatching highlights in March 2026? A total lunar eclipse blood moon takes centre stage, Venus and Saturn cozy up for a conjunction, and we celebrate the vernal equinox.",
+      "link": "https://science.nasa.gov/solar-system/whats-up-march-2026-skywatching-tips-from-nasa",
+      "published_utc": "2026-03-02T20:45:51+00:00",
+      "score": 0,
+      "image": "https://assets.science.nasa.gov/content/dam/science/psd/solar-system/skywatching/2026/march/Blood%20Moon_Trevor%20Dobson%20via%20Flick_CC%20BY-NC-ND%202.0.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
     },
     {
       "section": "medical",
@@ -1706,17 +1717,6 @@
       "image": "https://picsum.photos/seed/vb-6256b1c27bebd824/480/320"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "ScienceDaily Science",
-      "title": "40,000-year-old signs show humans were recording information long before writing",
-      "summary": "More than 40,000 years ago, Ice Age humans were carving repeated patterns of dots, lines, and crosses into tools and small ivory figurines. A new computational study of more than 3,000 of these Paleolithic signs reveals that they were not random decorations but structured sequences with measurable complexity. Surprisingly, their information density rivals that of proto-cuneiform, the earliest known writing system that emerged around 3,000 B.C.E.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260225001301.htm",
-      "published_utc": "2026-02-25T05:52:18+00:00",
-      "score": 1,
-      "image": "https://picsum.photos/seed/vb-4c3799e53086b80e/480/320"
-    },
-    {
       "section": "environment",
       "kind": "global",
       "source": "NASA Earth Observatory - Image of the Day",
@@ -1880,28 +1880,6 @@
       "published_utc": "2026-02-12T14:14:45+00:00",
       "score": 0,
       "image": "https://picsum.photos/seed/vb-9403cdc3fadee42e/480/320"
-    },
-    {
-      "section": "environment",
-      "kind": "global",
-      "source": "ScienceDaily Environment",
-      "title": "Yellowstone wolves may not have transformed the national park after all",
-      "summary": "A new scientific review challenges the headline-grabbing claim that Yellowstone’s returning wolves triggered one of the strongest trophic cascades on Earth. Researchers found that the reported 1,500% surge in willow growth was based on circular calculations and questionable comparisons. After correcting for modeling and sampling flaws, the supposed ecosystem-wide boom largely disappears.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260212025612.htm",
-      "published_utc": "2026-02-12T13:51:03+00:00",
-      "score": 0,
-      "image": "https://picsum.photos/seed/vb-7c037974f7e3685a/480/320"
-    },
-    {
-      "section": "environment",
-      "kind": "global",
-      "source": "ScienceDaily Environment",
-      "title": "NASA scientists say meteorites can’t explain mysterious organic compounds on Mars",
-      "summary": "Scientists studying a rock sample collected by NASA’s Curiosity rover have uncovered something tantalizing: the largest organic molecules ever detected on Mars. The compounds — decane, undecane, and dodecane — may be fragments of fatty acids, which on Earth are most often linked to life. While non-living processes like meteorite impacts can also create such molecules, researchers found those sources couldn’t fully explain the amounts detected.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260212025604.htm",
-      "published_utc": "2026-02-12T13:17:53+00:00",
-      "score": 0,
-      "image": "https://picsum.photos/seed/vb-a852b692d47dce3a/480/320"
     }
   ],
   "joke_ro": {
@@ -1910,8 +1888,8 @@
     "source": "data/jokes_ro.txt"
   },
   "satire_ro": {
-    "title": "Costumul olimpic al Juttei vândut cu 195.000 €, surclasat de costumul rupt în fund al Juttei: s-a dat cu 8 milioane €",
-    "link": "https://www.timesnewroman.ro/sport/costumul-olimpic-al-juttei-vandut-cu-195-000-e-surclasat-de-costumul-rupt-in-fund-al-juttei-s-a-dat-cu-8-milioane-e/",
+    "title": "Turist român, furios că o dronă iraniană i-a dărâmat oala cu ciorbă de pe balconul din Burj al-Arab",
+    "link": "https://www.timesnewroman.ro/life-death/turist-roman-furios-ca-o-drona-iraniana-i-a-daramat-oala-cu-ciorba-de-pe-balconul-din-burj-al-arab/",
     "source": "timesnewroman.ro"
   },
   "top_images": [
@@ -1919,13 +1897,13 @@
       "tag": "space",
       "title": "Space",
       "link": "https://commons.wikimedia.org/wiki/Category:Astronomy",
-      "image": "https://live.staticflickr.com/65535/55118553617_ccb01fe436_b.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/NGC_4414_%28NASA-med%29.jpg"
     },
     {
       "tag": "animals",
       "title": "Animals",
       "link": "https://commons.wikimedia.org/wiki/Category:Animals",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Golde33443.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg"
     },
     {
       "tag": "landscape",
