@@ -1,7 +1,18 @@
 {
-  "generated_utc": "2026-03-03T16:39:31+00:00",
+  "generated_utc": "2026-03-03T17:43:20+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "CNIR: Constructorii au preluat amplasamentul și încep lucrările la două loturi din Autostrada A8",
+        "summary": "Compania Naţională de Investiţii Rutiere (CNIR), prin supervizorii desemnaţi, a pus marţi la dispoziţia antreprenorilor amplasamentul loturilor 1D Joseni-Ditrău şi 2A Ditrău-Grinţieş pe Autostrada A8 Târgu Mureş-Târgu Neamţ.",
+        "link": "https://www.digi24.ro/stiri/economie/transporturi/cnir-constructorii-au-preluat-marti-amplasamentul-si-incep-lucrarile-la-doua-loturi-din-autostrada-a8-3658079",
+        "published_utc": "2026-03-03T16:41:14+00:00",
+        "score": 3,
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMyUyRjAzJTJGMjYxNDc4Ml8yNjE0/NzgyX2x1Y3J1cmktYXV0b3N0cmFkYS1h/OC1mb3RvLWZiLWNuaXIucG5nJmhhc2g9/YzQwOTg2NmYzZTgxODkwNjg5ZTUzODIzOGE0MDBiY2I=.png"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -104,17 +115,6 @@
       {
         "section": "romania",
         "kind": "ro",
-        "source": "Green Start-Up Romania",
-        "title": "Bateria cu sodiu care stochează mai multă energie și produce apă potabilă",
-        "summary": "Cercetători de la Universitatea din Surrey au dezvoltat o baterie sodium-ion care, potrivit rezultatelor publicate, poate stoca aproape de două ori mai multă energie decât variantele convenționale...",
-        "link": "https://green.start-up.ro/ro/bateria-cu-sodiu-care-stocheaza-mai-multa-energie-si-produce-apa-potabila",
-        "published_utc": "2026-03-03T06:00:02+00:00",
-        "score": 1,
-        "image": "https://green.start-up.ro/img/thumbs/articles/3/5/7/35721/image-35721-760x400-00-65.jpg?v=1772441005"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
         "source": "Start-Up Romania",
         "title": "Innovation Labs 2026 lansează un hackathon național pentru startup-uri tech. Early Game Ventures oferă finanțări de 500.000 de euro",
         "summary": "Programul de educație antreprenorială Innovation Labs intră într-o nouă etapă în 2026 și anunță un singur hackathon național care va aduna echipe din toată țara la București. Hackathonul va avea...",
@@ -180,6 +180,28 @@
       }
     ],
     "medical": [
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "Scientists find the genetic switch that makes pancreatic cancer resist chemotherapy",
+        "summary": "Scientists have identified a crucial molecular switch that decides whether pancreatic cancer cells resist chemotherapy or respond to it. The key player, a gene called GATA6, keeps tumours in a more structured and treatable form—but it gets shut down by an overactive KRAS-driven pathway. When researchers blocked that pathway, GATA6 levels rebounded and cancer cells became more sensitive to chemo. The discovery could help turn some of the toughest pancreatic tumours into ones doctors can better control.",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260303050624.htm",
+        "published_utc": "2026-03-03T16:33:04+00:00",
+        "score": 5,
+        "image": "https://picsum.photos/seed/vb-3176d0b26cc44490/480/320"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "Intelligence emerges when the whole brain works as one",
+        "summary": "For decades, scientists have mapped attention, memory, language, and reasoning to separate brain networks — yet one big mystery remained: why does the mind feel like a single, unified system? Researchers at the University of Notre Dame now suggest that intelligence doesn’t live in one “smart” region of the brain at all. Instead, it emerges from how efficiently and flexibly the brain’s many networks communicate and coordinate with each other.",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260303050632.htm",
+        "published_utc": "2026-03-03T15:32:13+00:00",
+        "score": 1,
+        "image": "https://picsum.photos/seed/vb-840adcd03ffa1527/480/320"
+      },
       {
         "section": "medical",
         "kind": "global",
@@ -432,28 +454,6 @@
         "published_utc": "2026-02-26T14:36:27+00:00",
         "score": 4,
         "image": "https://picsum.photos/seed/vb-699f07af5497a1d5/480/320"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "ScienceDaily Health",
-        "title": "The more you fear aging, the faster your body may age",
-        "summary": "Worrying about getting older—especially fearing future health problems—may actually speed up aging at the cellular level, according to new research from NYU. In a study of more than 700 women, those who felt more anxious about aging showed signs of faster biological aging in their blood, measured using cutting-edge “epigenetic clocks.” Fears about declining health had the strongest link, while concerns about beauty or fertility didn’t appear to have the same biological impact.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260225081205.htm",
-        "published_utc": "2026-02-26T13:14:43+00:00",
-        "score": 1,
-        "image": "https://picsum.photos/seed/vb-c53d13499589a230/480/320"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "ScienceDaily Health",
-        "title": "Popular acid reflux medication linked to anemia and bone loss",
-        "summary": "Popular acid reflux drugs such as Prilosec, Nexium, and Protonix may carry hidden risks when taken long term. A new study found that extended use disrupted iron and calcium levels in rats, changes associated with anemia and osteoporosis risk. Researchers also observed shifts in mineral balance across multiple organs. Experts say the medications are effective, but prolonged use without medical guidance could have unintended consequences.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260225081159.htm",
-        "published_utc": "2026-02-26T12:27:39+00:00",
-        "score": 3,
-        "image": "https://picsum.photos/seed/vb-ca97c17ec23fc8b0/480/320"
       }
     ],
     "science": [
@@ -467,6 +467,39 @@
         "published_utc": "2026-03-03T14:00:09+00:00",
         "score": 0,
         "image": "https://assets.science.nasa.gov/content/dam/science/missions/hubble/nebulae/planetary/cats_eye_2026/Hubble_Euclid_CatsEye_2026_LargeJPG_potm2602a.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "ScienceDaily Science",
+        "title": "Blasted off Mars and still alive",
+        "summary": "A famously resilient bacterium may be tough enough to survive one of the most violent events imaginable on Mars. In laboratory experiments designed to mimic the crushing shock of a massive asteroid impact, researchers squeezed Deinococcus radiodurans between steel plates and blasted it with pressures reaching 3 GPa (30,000 times atmospheric pressure). Even under these extreme conditions, a significant portion of the microbes survived.",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260303082606.htm",
+        "published_utc": "2026-03-03T13:53:09+00:00",
+        "score": 1,
+        "image": "https://picsum.photos/seed/vb-7beb06a9fc14cf28/480/320"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "ScienceDaily Science",
+        "title": "James Webb spots a galaxy with tentacles in deep space",
+        "summary": "Astronomers using the James Webb Space Telescope have spotted the most distant “jellyfish galaxy” ever seen — a cosmic oddity streaming long, tentacle-like trails of gas and newborn stars as it speeds through a dense galaxy cluster. The galaxy appears as it was 8.5 billion years ago, revealing that the early universe may have been far more violent than scientists expected.",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260303050635.htm",
+        "published_utc": "2026-03-03T13:25:27+00:00",
+        "score": 0,
+        "image": "https://picsum.photos/seed/vb-c33f36dfab615528/480/320"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "ScienceDaily Science",
+        "title": "A flash of laser light flips a magnet in major light-control breakthrough",
+        "summary": "Researchers at the University of Basel and the ETH in Zurich have succeeded in changing the polarity of a special ferromagnet using a laser beam. In the future, this method could be used to create adaptable electronic circuits with light.",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260303050630.htm",
+        "published_utc": "2026-03-03T13:03:51+00:00",
+        "score": 3,
+        "image": "https://picsum.photos/seed/vb-b6633751cc407f0d/480/320"
       },
       {
         "section": "science",
@@ -698,39 +731,6 @@
         "published_utc": "2026-02-27T05:00:00+00:00",
         "score": 0,
         "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/chesapeake-bay-locked-in-ice/chesapeake_mss_19770208_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "ScienceDaily Science",
-        "title": "Apollo rocks reveal the Moon had brief bursts of super-strong magnetism",
-        "summary": "Scientists at the University of Oxford have finally settled a decades-long mystery about the Moon’s magnetic field — and it turns out both sides were right. By reanalyzing Apollo mission rocks, they discovered that the Moon did occasionally generate an incredibly powerful magnetic field, even stronger than Earth’s — but only for fleeting bursts lasting thousands of years or less. Most of the time, the Moon’s magnetic field was weak.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260226042445.htm",
-        "published_utc": "2026-02-26T16:03:17+00:00",
-        "score": 2,
-        "image": "https://picsum.photos/seed/vb-8a145a68c2cc8aaa/480/320"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "ScienceDaily Science",
-        "title": "Ireland’s Old Irish Goat has survived 3,000 years",
-        "summary": "The Old Irish Goat isn’t just part of folklore — it’s genetically linked to goats that lived in Ireland 3,000 years ago. Scientists analyzed ancient remains and discovered that today’s rare breed shares its strongest DNA ties with Late Bronze Age animals. The finding suggests an unbroken Irish lineage stretching back millennia. It also adds urgency to protecting this critically endangered survivor of Ireland’s agricultural past.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260226042451.htm",
-        "published_utc": "2026-02-26T13:42:41+00:00",
-        "score": 1,
-        "image": "https://picsum.photos/seed/vb-9fb7067f2b66ea6a/480/320"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "ScienceDaily Science",
-        "title": "Lost fossils reveal sea monsters that took over after Earth’s greatest extinction",
-        "summary": "A lost cache of 250-million-year-old fossils from Australia has rewritten part of the story of life after Earth’s worst mass extinction. Instead of a single marine amphibian species, researchers uncovered evidence of a surprisingly diverse community of early ocean predators. One of these creatures had relatives stretching from the Arctic to Madagascar, showing that some of the first sea-going tetrapods spread across the globe with remarkable speed.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260224023203.htm",
-        "published_utc": "2026-02-25T10:20:53+00:00",
-        "score": 1,
-        "image": "https://picsum.photos/seed/vb-9a658ab3ee15019b/480/320"
       }
     ],
     "environment": [
@@ -821,6 +821,17 @@
         "published_utc": "2026-02-23T05:01:00+00:00",
         "score": 0,
         "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/arctic-blast-brightened-the-west-florida-shelf/florida_oli2_20260203_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
+      },
+      {
+        "section": "environment",
+        "kind": "global",
+        "source": "ScienceDaily Environment",
+        "title": "Triceratops had a giant nose that may have cooled its massive head",
+        "summary": "Triceratops’ massive head may have been doing more than just showing off those famous horns. Using CT scans and 3D reconstructions of fossil skulls, researchers uncovered a surprisingly complex nasal system hidden inside its enormous snout. Instead of being just a supersized nose for smelling, it likely housed intricate networks of nerves and blood vessels—and even special structures that helped regulate heat and moisture.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260221000313.htm",
+        "published_utc": "2026-02-22T12:20:15+00:00",
+        "score": 0,
+        "image": "https://picsum.photos/seed/vb-8fc7c7bcf6101d6b/480/320"
       },
       {
         "section": "environment",
@@ -931,17 +942,6 @@
         "published_utc": "2026-02-16T12:48:45+00:00",
         "score": 1,
         "image": "https://picsum.photos/seed/vb-f65c0801c2efa750/480/320"
-      },
-      {
-        "section": "environment",
-        "kind": "global",
-        "source": "ScienceDaily Environment",
-        "title": "Europe’s “untouched” wilderness was shaped by Neanderthals and hunter-gatherers",
-        "summary": "Long before agriculture, humans were transforming Europe’s wild landscapes. Advanced simulations show that hunting and fire use by Neanderthals and Mesolithic hunter-gatherers reshaped forests and grasslands in measurable ways. By reducing populations of giant herbivores, people indirectly altered how dense vegetation became. The findings challenge the idea that prehistoric Europe was an untouched natural world.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260212025613.htm",
-        "published_utc": "2026-02-12T14:14:45+00:00",
-        "score": 0,
-        "image": "https://picsum.photos/seed/vb-9403cdc3fadee42e/480/320"
       }
     ]
   },
@@ -956,6 +956,17 @@
       "published_utc": "2026-03-03T10:27:42+00:00",
       "score": 3,
       "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMyUyRjAzJTJGMjYxMzI5MV8yNjEz/MjkxX21hbWEtYWRvbGVzY2VudGEuanBl/ZyZoYXNoPTk0YTQzMjVjMGNkMTRhZDA4MmNlYjFhZDdlNjA1MDVl.jpeg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "CNIR: Constructorii au preluat amplasamentul și încep lucrările la două loturi din Autostrada A8",
+      "summary": "Compania Naţională de Investiţii Rutiere (CNIR), prin supervizorii desemnaţi, a pus marţi la dispoziţia antreprenorilor amplasamentul loturilor 1D Joseni-Ditrău şi 2A Ditrău-Grinţieş pe Autostrada A8 Târgu Mureş-Târgu Neamţ.",
+      "link": "https://www.digi24.ro/stiri/economie/transporturi/cnir-constructorii-au-preluat-marti-amplasamentul-si-incep-lucrarile-la-doua-loturi-din-autostrada-a8-3658079",
+      "published_utc": "2026-03-03T16:41:14+00:00",
+      "score": 3,
+      "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMyUyRjAzJTJGMjYxNDc4Ml8yNjE0/NzgyX2x1Y3J1cmktYXV0b3N0cmFkYS1h/OC1mb3RvLWZiLWNuaXIucG5nJmhhc2g9/YzQwOTg2NmYzZTgxODkwNjg5ZTUzODIzOGE0MDBiY2I=.png"
     },
     {
       "section": "romania",
@@ -1048,17 +1059,6 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Green Start-Up Romania",
-      "title": "Bateria cu sodiu care stochează mai multă energie și produce apă potabilă",
-      "summary": "Cercetători de la Universitatea din Surrey au dezvoltat o baterie sodium-ion care, potrivit rezultatelor publicate, poate stoca aproape de două ori mai multă energie decât variantele convenționale...",
-      "link": "https://green.start-up.ro/ro/bateria-cu-sodiu-care-stocheaza-mai-multa-energie-si-produce-apa-potabila",
-      "published_utc": "2026-03-03T06:00:02+00:00",
-      "score": 1,
-      "image": "https://green.start-up.ro/img/thumbs/articles/3/5/7/35721/image-35721-760x400-00-65.jpg?v=1772441005"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "Start-Up Romania",
       "title": "Innovation Labs 2026 lansează un hackathon național pentru startup-uri tech. Early Game Ventures oferă finanțări de 500.000 de euro",
       "summary": "Programul de educație antreprenorială Innovation Labs intră într-o nouă etapă în 2026 și anunță un singur hackathon național care va aduna echipe din toată țara la București. Hackathonul va avea...",
@@ -1079,15 +1079,15 @@
       "image": "https://start-up.ro/img/articles/3/7/9/37925/cover-37925-src.jpg"
     },
     {
-      "section": "science",
+      "section": "medical",
       "kind": "global",
-      "source": "NASA Breaking News",
-      "title": "Two Observatories, One Cosmic Eye: Hubble and Euclid View Cat’s Eye Nebula",
-      "summary": "This new NASA/ESA Hubble Space Telescope image features one of the most visually intricate remnants of a dying star: the Cat’s Eye Nebula, also known as NGC 6543. This extraordinary planetary nebula lies in the constellation Draco and has captivated astronomers for decades with its elaborate and multilayered structure. Observations with ESA’s Gaia mission place the nebula at 4,400 light-years away. […]",
-      "link": "https://science.nasa.gov/missions/hubble/two-observatories-one-cosmic-eye-hubble-and-euclid-view-cats-eye-nebula",
-      "published_utc": "2026-03-03T14:00:09+00:00",
-      "score": 0,
-      "image": "https://assets.science.nasa.gov/content/dam/science/missions/hubble/nebulae/planetary/cats_eye_2026/Hubble_Euclid_CatsEye_2026_LargeJPG_potm2602a.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
+      "source": "ScienceDaily Health",
+      "title": "Scientists find the genetic switch that makes pancreatic cancer resist chemotherapy",
+      "summary": "Scientists have identified a crucial molecular switch that decides whether pancreatic cancer cells resist chemotherapy or respond to it. The key player, a gene called GATA6, keeps tumours in a more structured and treatable form—but it gets shut down by an overactive KRAS-driven pathway. When researchers blocked that pathway, GATA6 levels rebounded and cancer cells became more sensitive to chemo. The discovery could help turn some of the toughest pancreatic tumours into ones doctors can better control.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260303050624.htm",
+      "published_utc": "2026-03-03T16:33:04+00:00",
+      "score": 5,
+      "image": "https://picsum.photos/seed/vb-3176d0b26cc44490/480/320"
     },
     {
       "section": "romania",
@@ -1112,15 +1112,15 @@
       "image": "https://green.start-up.ro/img/articles/3/5/7/35715/cover-35715-src.jpg"
     },
     {
-      "section": "environment",
+      "section": "medical",
       "kind": "global",
-      "source": "ScienceDaily Environment",
-      "title": "The hidden technology that could unlock commercial fusion power",
-      "summary": "Fusion energy may be one of the most promising clean power sources of the future—but only if scientists can precisely measure the extreme, fast-moving plasmas that make it possible. A new U.S. Department of Energy–sponsored report urges major investment in advanced diagnostic tools—the high-tech “sensors” that track plasma temperature, density, and behavior inside fusion systems. Bringing together 70 experts from universities, national labs, and private industry, the workshop identified seven priority areas ranging from burning plasma to full-scale pilot plants.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260303050622.htm",
-      "published_utc": "2026-03-03T12:50:59+00:00",
-      "score": 2,
-      "image": "https://picsum.photos/seed/vb-516e122a64d48dd3/480/320"
+      "source": "ScienceDaily Health",
+      "title": "Intelligence emerges when the whole brain works as one",
+      "summary": "For decades, scientists have mapped attention, memory, language, and reasoning to separate brain networks — yet one big mystery remained: why does the mind feel like a single, unified system? Researchers at the University of Notre Dame now suggest that intelligence doesn’t live in one “smart” region of the brain at all. Instead, it emerges from how efficiently and flexibly the brain’s many networks communicate and coordinate with each other.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260303050632.htm",
+      "published_utc": "2026-03-03T15:32:13+00:00",
+      "score": 1,
+      "image": "https://picsum.photos/seed/vb-840adcd03ffa1527/480/320"
     },
     {
       "section": "romania",
@@ -1143,6 +1143,61 @@
       "published_utc": "2026-02-02T10:32:03+00:00",
       "score": 3,
       "image": "https://stiripozitive.com/wp-content/uploads/2026/02/harta-.jpeg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "NASA Breaking News",
+      "title": "Two Observatories, One Cosmic Eye: Hubble and Euclid View Cat’s Eye Nebula",
+      "summary": "This new NASA/ESA Hubble Space Telescope image features one of the most visually intricate remnants of a dying star: the Cat’s Eye Nebula, also known as NGC 6543. This extraordinary planetary nebula lies in the constellation Draco and has captivated astronomers for decades with its elaborate and multilayered structure. Observations with ESA’s Gaia mission place the nebula at 4,400 light-years away. […]",
+      "link": "https://science.nasa.gov/missions/hubble/two-observatories-one-cosmic-eye-hubble-and-euclid-view-cats-eye-nebula",
+      "published_utc": "2026-03-03T14:00:09+00:00",
+      "score": 0,
+      "image": "https://assets.science.nasa.gov/content/dam/science/missions/hubble/nebulae/planetary/cats_eye_2026/Hubble_Euclid_CatsEye_2026_LargeJPG_potm2602a.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "ScienceDaily Science",
+      "title": "Blasted off Mars and still alive",
+      "summary": "A famously resilient bacterium may be tough enough to survive one of the most violent events imaginable on Mars. In laboratory experiments designed to mimic the crushing shock of a massive asteroid impact, researchers squeezed Deinococcus radiodurans between steel plates and blasted it with pressures reaching 3 GPa (30,000 times atmospheric pressure). Even under these extreme conditions, a significant portion of the microbes survived.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260303082606.htm",
+      "published_utc": "2026-03-03T13:53:09+00:00",
+      "score": 1,
+      "image": "https://picsum.photos/seed/vb-7beb06a9fc14cf28/480/320"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "ScienceDaily Science",
+      "title": "James Webb spots a galaxy with tentacles in deep space",
+      "summary": "Astronomers using the James Webb Space Telescope have spotted the most distant “jellyfish galaxy” ever seen — a cosmic oddity streaming long, tentacle-like trails of gas and newborn stars as it speeds through a dense galaxy cluster. The galaxy appears as it was 8.5 billion years ago, revealing that the early universe may have been far more violent than scientists expected.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260303050635.htm",
+      "published_utc": "2026-03-03T13:25:27+00:00",
+      "score": 0,
+      "image": "https://picsum.photos/seed/vb-c33f36dfab615528/480/320"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "ScienceDaily Science",
+      "title": "A flash of laser light flips a magnet in major light-control breakthrough",
+      "summary": "Researchers at the University of Basel and the ETH in Zurich have succeeded in changing the polarity of a special ferromagnet using a laser beam. In the future, this method could be used to create adaptable electronic circuits with light.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260303050630.htm",
+      "published_utc": "2026-03-03T13:03:51+00:00",
+      "score": 3,
+      "image": "https://picsum.photos/seed/vb-b6633751cc407f0d/480/320"
+    },
+    {
+      "section": "environment",
+      "kind": "global",
+      "source": "ScienceDaily Environment",
+      "title": "The hidden technology that could unlock commercial fusion power",
+      "summary": "Fusion energy may be one of the most promising clean power sources of the future—but only if scientists can precisely measure the extreme, fast-moving plasmas that make it possible. A new U.S. Department of Energy–sponsored report urges major investment in advanced diagnostic tools—the high-tech “sensors” that track plasma temperature, density, and behavior inside fusion systems. Bringing together 70 experts from universities, national labs, and private industry, the workshop identified seven priority areas ranging from burning plasma to full-scale pilot plants.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260303050622.htm",
+      "published_utc": "2026-03-03T12:50:59+00:00",
+      "score": 2,
+      "image": "https://picsum.photos/seed/vb-516e122a64d48dd3/480/320"
     },
     {
       "section": "science",
@@ -1651,17 +1706,6 @@
       "image": "https://picsum.photos/seed/vb-92d2e16b33359ee7/480/320"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "ScienceDaily Science",
-      "title": "Apollo rocks reveal the Moon had brief bursts of super-strong magnetism",
-      "summary": "Scientists at the University of Oxford have finally settled a decades-long mystery about the Moon’s magnetic field — and it turns out both sides were right. By reanalyzing Apollo mission rocks, they discovered that the Moon did occasionally generate an incredibly powerful magnetic field, even stronger than Earth’s — but only for fleeting bursts lasting thousands of years or less. Most of the time, the Moon’s magnetic field was weak.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260226042445.htm",
-      "published_utc": "2026-02-26T16:03:17+00:00",
-      "score": 2,
-      "image": "https://picsum.photos/seed/vb-8a145a68c2cc8aaa/480/320"
-    },
-    {
       "section": "medical",
       "kind": "global",
       "source": "ScienceDaily Health",
@@ -1671,50 +1715,6 @@
       "published_utc": "2026-02-26T14:36:27+00:00",
       "score": 4,
       "image": "https://picsum.photos/seed/vb-699f07af5497a1d5/480/320"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "ScienceDaily Science",
-      "title": "Ireland’s Old Irish Goat has survived 3,000 years",
-      "summary": "The Old Irish Goat isn’t just part of folklore — it’s genetically linked to goats that lived in Ireland 3,000 years ago. Scientists analyzed ancient remains and discovered that today’s rare breed shares its strongest DNA ties with Late Bronze Age animals. The finding suggests an unbroken Irish lineage stretching back millennia. It also adds urgency to protecting this critically endangered survivor of Ireland’s agricultural past.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260226042451.htm",
-      "published_utc": "2026-02-26T13:42:41+00:00",
-      "score": 1,
-      "image": "https://picsum.photos/seed/vb-9fb7067f2b66ea6a/480/320"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "The more you fear aging, the faster your body may age",
-      "summary": "Worrying about getting older—especially fearing future health problems—may actually speed up aging at the cellular level, according to new research from NYU. In a study of more than 700 women, those who felt more anxious about aging showed signs of faster biological aging in their blood, measured using cutting-edge “epigenetic clocks.” Fears about declining health had the strongest link, while concerns about beauty or fertility didn’t appear to have the same biological impact.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260225081205.htm",
-      "published_utc": "2026-02-26T13:14:43+00:00",
-      "score": 1,
-      "image": "https://picsum.photos/seed/vb-c53d13499589a230/480/320"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "Popular acid reflux medication linked to anemia and bone loss",
-      "summary": "Popular acid reflux drugs such as Prilosec, Nexium, and Protonix may carry hidden risks when taken long term. A new study found that extended use disrupted iron and calcium levels in rats, changes associated with anemia and osteoporosis risk. Researchers also observed shifts in mineral balance across multiple organs. Experts say the medications are effective, but prolonged use without medical guidance could have unintended consequences.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260225081159.htm",
-      "published_utc": "2026-02-26T12:27:39+00:00",
-      "score": 3,
-      "image": "https://picsum.photos/seed/vb-ca97c17ec23fc8b0/480/320"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "ScienceDaily Science",
-      "title": "Lost fossils reveal sea monsters that took over after Earth’s greatest extinction",
-      "summary": "A lost cache of 250-million-year-old fossils from Australia has rewritten part of the story of life after Earth’s worst mass extinction. Instead of a single marine amphibian species, researchers uncovered evidence of a surprisingly diverse community of early ocean predators. One of these creatures had relatives stretching from the Arctic to Madagascar, showing that some of the first sea-going tetrapods spread across the globe with remarkable speed.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260224023203.htm",
-      "published_utc": "2026-02-25T10:20:53+00:00",
-      "score": 1,
-      "image": "https://picsum.photos/seed/vb-9a658ab3ee15019b/480/320"
     },
     {
       "section": "environment",
@@ -1759,6 +1759,17 @@
       "published_utc": "2026-02-23T05:01:00+00:00",
       "score": 0,
       "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/arctic-blast-brightened-the-west-florida-shelf/florida_oli2_20260203_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
+    },
+    {
+      "section": "environment",
+      "kind": "global",
+      "source": "ScienceDaily Environment",
+      "title": "Triceratops had a giant nose that may have cooled its massive head",
+      "summary": "Triceratops’ massive head may have been doing more than just showing off those famous horns. Using CT scans and 3D reconstructions of fossil skulls, researchers uncovered a surprisingly complex nasal system hidden inside its enormous snout. Instead of being just a supersized nose for smelling, it likely housed intricate networks of nerves and blood vessels—and even special structures that helped regulate heat and moisture.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260221000313.htm",
+      "published_utc": "2026-02-22T12:20:15+00:00",
+      "score": 0,
+      "image": "https://picsum.photos/seed/vb-8fc7c7bcf6101d6b/480/320"
     },
     {
       "section": "environment",
@@ -1869,17 +1880,6 @@
       "published_utc": "2026-02-16T12:48:45+00:00",
       "score": 1,
       "image": "https://picsum.photos/seed/vb-f65c0801c2efa750/480/320"
-    },
-    {
-      "section": "environment",
-      "kind": "global",
-      "source": "ScienceDaily Environment",
-      "title": "Europe’s “untouched” wilderness was shaped by Neanderthals and hunter-gatherers",
-      "summary": "Long before agriculture, humans were transforming Europe’s wild landscapes. Advanced simulations show that hunting and fire use by Neanderthals and Mesolithic hunter-gatherers reshaped forests and grasslands in measurable ways. By reducing populations of giant herbivores, people indirectly altered how dense vegetation became. The findings challenge the idea that prehistoric Europe was an untouched natural world.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260212025613.htm",
-      "published_utc": "2026-02-12T14:14:45+00:00",
-      "score": 0,
-      "image": "https://picsum.photos/seed/vb-9403cdc3fadee42e/480/320"
     }
   ],
   "joke_ro": {
@@ -1897,7 +1897,7 @@
       "tag": "space",
       "title": "Space",
       "link": "https://commons.wikimedia.org/wiki/Category:Astronomy",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/NGC_4414_%28NASA-med%29.jpg"
+      "image": "https://live.staticflickr.com/65535/55118553617_ccb01fe436_b.jpg"
     },
     {
       "tag": "animals",
