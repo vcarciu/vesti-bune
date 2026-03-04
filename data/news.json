@@ -1,7 +1,18 @@
 {
-  "generated_utc": "2026-03-04T22:26:03+00:00",
+  "generated_utc": "2026-03-04T23:23:47+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Metaloglobus a anunțat numele noului său antrenor principal",
+        "summary": "Echipa de fotbal Metaloglobus București a anunțat, miercuri, pe pagina oficială de Facebook, numirea tehnicianului Florin Bratu în funcția de antrenor principal, lăsată liberă după despărțirea de Mihai Teja. Bratu are ca obiectiv principal salvarea de la retrogradare a echipei aflate pe ultimul loc în clasamentul Superligii, scrie Agerpres. „Bun venit în familia Metaloglobus, Florin &#8230;",
+        "link": "https://hotnews.ro/metaloglobus-a-anuntat-numele-noului-sau-antrenor-principal-2185570",
+        "published_utc": "2026-03-04T22:38:17+00:00",
+        "score": 3,
+        "image": "https://hotnews.ro/wp-content/uploads/2026/03/profimedia-0644046798.jpg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -12,17 +23,6 @@
         "published_utc": "2026-03-04T21:27:04+00:00",
         "score": 3,
         "image": "https://hotnews.ro/wp-content/uploads/2026/03/2026-03-04-9003.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "Factura la electricitate poate scădea și la jumătate dacă schimbi furnizorul, dar 95% dintre consumatorii români „stau pe loc” / „Reflexul de a căuta cele mai bune oferte este amorțit”",
-        "summary": "Consumatorii români de electricitate și-au schimbat furnizorul, în 2025, de 650.773 de ori în total, arată datele transmise de Autoritatea Națională de Reglementare în domeniul Energiei (ANRE) la solicitarea HotNews. Ponderea celor care migrează la o altă companie de electricitate rămâne totuși mică, deși o astfel de mișcare poate reduce factura și la jumătate în &#8230;",
-        "link": "https://hotnews.ro/factura-la-electricitate-poate-scadea-si-la-jumatate-daca-schimbi-furnizorul-dar-95-dintre-consumatorii-romani-stau-pe-loc-reflexul-de-a-cauta-cele-mai-bune-oferte-este-a-2179969",
-        "published_utc": "2026-03-04T18:00:45+00:00",
-        "score": 3,
-        "image": "https://hotnews.ro/wp-content/uploads/2025/10/dreamstime_m_388841573.jpg"
       },
       {
         "section": "romania",
@@ -460,6 +460,17 @@
       {
         "section": "science",
         "kind": "global",
+        "source": "ScienceDaily Science",
+        "title": "2700-year-old teeth reveal the hidden lives of Iron Age Italians",
+        "summary": "Iron Age teeth from southern Italy have become time capsules, preserving intimate details of childhood and diet. Growth lines in the enamel reveal moments of early-life stress, while hardened plaque holds microscopic remains of cereals, legumes, and fermented foods. The findings suggest a community with diverse food resources and strong Mediterranean connections. Even a small sample offers a striking glimpse into how people lived, grew, and ate nearly three millennia ago.",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260303145727.htm",
+        "published_utc": "2026-03-04T22:41:14+00:00",
+        "score": 0,
+        "image": "https://picsum.photos/seed/vb-4310a3a10c2a8f2e/480/320"
+      },
+      {
+        "section": "science",
+        "kind": "global",
         "source": "NASA Breaking News",
         "title": "Blowing Stellar Bubbles",
         "summary": "For the first time, a young, Sun-like star has been caught red-handed blowing bubbles in the galaxy, by astronomers using NASA’s Chandra X-ray Observatory. The bubble – called an “astrosphere” – completely surrounds the juvenile star in this image released on Feb. 23, 2026. Winds from the star’s surface are blowing up the bubble and [&#8230;]",
@@ -495,7 +506,7 @@
         "kind": "global",
         "source": "NASA Breaking News",
         "title": "US-French Satellite Takes Stock of World’s River Water",
-        "summary": "Rivers rise and fall throughout the year, but by how much? Perhaps less than previously thought, according to new data from the SWOT mission. Hidden riverbed contours are also emerging. In a first, a space mission led by NASA and France has tracked Earth’s rivers swelling and shrinking from month to month over the course [&#8230;]",
+        "summary": "In a first, a space mission led by NASA and France has tracked Earth’s rivers swelling and shrinking from month to month over the course of a year and found significantly less of a swing than previous model-based estimates. A record drought in the Amazon likely influenced the tally made by the Surface Water and [&#8230;]",
         "link": "https://www.nasa.gov/earth/us-french-satellite-takes-stock-of-worlds-river-water",
         "published_utc": "2026-03-04T16:12:55+00:00",
         "score": 0,
@@ -720,17 +731,6 @@
         "published_utc": "2026-02-28T14:50:14+00:00",
         "score": 4,
         "image": "https://picsum.photos/seed/vb-71f75214b3710838/480/320"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "ScienceDaily Science",
-        "title": "Textbooks challenged by new discovery about how cells divide",
-        "summary": "Scientists have uncovered a surprising new way that giant embryonic cells divide—without relying on the classic “purse-string” ring long thought essential for splitting a cell in two. Studying zebrafish embryos, researchers found that instead of forming a fully closed contractile ring, cells use a clever “mechanical ratchet” system.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260227071928.htm",
-        "published_utc": "2026-02-28T14:33:54+00:00",
-        "score": 6,
-        "image": "https://picsum.photos/seed/vb-edfe72426745cf4b/480/320"
       }
     ],
     "environment": [
@@ -993,13 +993,13 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Descopera (Stiinta)",
-      "title": "Cinci femei care au schimbat lumea pentru totdeauna cu descoperiri istorice, dar nu au primit Premiul Nobel",
-      "summary": "Premiul Nobel este cea mai prestigioasă distincție din știință. Totuși, istoria lui include și absențe notabile. În spatele unor descoperiri care au schimbat medicina, fizica sau genetica se află și nume care nu au fost [&#8230;] Articolul Cinci femei care au schimbat lumea pentru totdeauna cu descoperiri istorice, dar nu au primit Premiul Nobel apare prima dată în Descopera .",
-      "link": "https://www.descopera.ro/istorie/21034101-cinci-femei-care-au-schimbat-lumea-pentru-totdeauna-cu-descoperiri-istorice-dar-nu-au-primit-premiul-nobel",
-      "published_utc": "2026-03-04T17:00:52+00:00",
+      "source": "HotNews",
+      "title": "Metaloglobus a anunțat numele noului său antrenor principal",
+      "summary": "Echipa de fotbal Metaloglobus București a anunțat, miercuri, pe pagina oficială de Facebook, numirea tehnicianului Florin Bratu în funcția de antrenor principal, lăsată liberă după despărțirea de Mihai Teja. Bratu are ca obiectiv principal salvarea de la retrogradare a echipei aflate pe ultimul loc în clasamentul Superligii, scrie Agerpres. „Bun venit în familia Metaloglobus, Florin &#8230;",
+      "link": "https://hotnews.ro/metaloglobus-a-anuntat-numele-noului-sau-antrenor-principal-2185570",
+      "published_utc": "2026-03-04T22:38:17+00:00",
       "score": 3,
-      "image": "https://www.descopera.ro/wp-content/uploads/2026/03/femei-premiul-nobel-wiki_Descopera-1-1024x660.jpg"
+      "image": "https://hotnews.ro/wp-content/uploads/2026/03/profimedia-0644046798.jpg"
     },
     {
       "section": "romania",
@@ -1015,13 +1015,13 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "HotNews",
-      "title": "Factura la electricitate poate scădea și la jumătate dacă schimbi furnizorul, dar 95% dintre consumatorii români „stau pe loc” / „Reflexul de a căuta cele mai bune oferte este amorțit”",
-      "summary": "Consumatorii români de electricitate și-au schimbat furnizorul, în 2025, de 650.773 de ori în total, arată datele transmise de Autoritatea Națională de Reglementare în domeniul Energiei (ANRE) la solicitarea HotNews. Ponderea celor care migrează la o altă companie de electricitate rămâne totuși mică, deși o astfel de mișcare poate reduce factura și la jumătate în &#8230;",
-      "link": "https://hotnews.ro/factura-la-electricitate-poate-scadea-si-la-jumatate-daca-schimbi-furnizorul-dar-95-dintre-consumatorii-romani-stau-pe-loc-reflexul-de-a-cauta-cele-mai-bune-oferte-este-a-2179969",
-      "published_utc": "2026-03-04T18:00:45+00:00",
+      "source": "Descopera (Stiinta)",
+      "title": "Cinci femei care au schimbat lumea pentru totdeauna cu descoperiri istorice, dar nu au primit Premiul Nobel",
+      "summary": "Premiul Nobel este cea mai prestigioasă distincție din știință. Totuși, istoria lui include și absențe notabile. În spatele unor descoperiri care au schimbat medicina, fizica sau genetica se află și nume care nu au fost [&#8230;] Articolul Cinci femei care au schimbat lumea pentru totdeauna cu descoperiri istorice, dar nu au primit Premiul Nobel apare prima dată în Descopera .",
+      "link": "https://www.descopera.ro/istorie/21034101-cinci-femei-care-au-schimbat-lumea-pentru-totdeauna-cu-descoperiri-istorice-dar-nu-au-primit-premiul-nobel",
+      "published_utc": "2026-03-04T17:00:52+00:00",
       "score": 3,
-      "image": "https://hotnews.ro/wp-content/uploads/2025/10/dreamstime_m_388841573.jpg"
+      "image": "https://www.descopera.ro/wp-content/uploads/2026/03/femei-premiul-nobel-wiki_Descopera-1-1024x660.jpg"
     },
     {
       "section": "romania",
@@ -1123,15 +1123,15 @@
       "image": "https://start-up.ro/img/articles/3/7/9/37948/cover-37948-src.jpg"
     },
     {
-      "section": "medical",
+      "section": "science",
       "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "Millions with joint pain and osteoarthritis are missing the most powerful treatment",
-      "summary": "Stiff knees and aching hips may seem like an inevitable part of aging, but experts say we’re getting osteoarthritis all wrong. Despite affecting nearly 600 million people worldwide — and potentially a billion by 2050 — the most powerful treatment isn’t surgery or medication. It’s exercise. Movement nourishes cartilage, strengthens muscles, reduces inflammation, and even reshapes the biological processes driving joint damage.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260303145725.htm",
-      "published_utc": "2026-03-04T21:35:02+00:00",
+      "source": "ScienceDaily Science",
+      "title": "2700-year-old teeth reveal the hidden lives of Iron Age Italians",
+      "summary": "Iron Age teeth from southern Italy have become time capsules, preserving intimate details of childhood and diet. Growth lines in the enamel reveal moments of early-life stress, while hardened plaque holds microscopic remains of cereals, legumes, and fermented foods. The findings suggest a community with diverse food resources and strong Mediterranean connections. Even a small sample offers a striking glimpse into how people lived, grew, and ate nearly three millennia ago.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260303145727.htm",
+      "published_utc": "2026-03-04T22:41:14+00:00",
       "score": 0,
-      "image": "https://picsum.photos/seed/vb-d8fde7dcd700ee85/480/320"
+      "image": "https://picsum.photos/seed/vb-4310a3a10c2a8f2e/480/320"
     },
     {
       "section": "romania",
@@ -1159,12 +1159,12 @@
       "section": "medical",
       "kind": "global",
       "source": "ScienceDaily Health",
-      "title": "Popular fruits and vegetables linked to higher pesticide levels",
-      "summary": "A sweeping new study reveals that what’s on your plate may directly shape the pesticides circulating in your body. Researchers found that people who eat more fruits and vegetables known to carry higher pesticide residues—such as strawberries, spinach, and bell peppers—also have significantly higher levels of those chemicals in their urine. While produce remains a cornerstone of a healthy diet, the findings highlight how everyday food choices can drive real-world exposure to substances linked to cancer, hormone disruption, and developmental harm.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260303145705.htm",
-      "published_utc": "2026-03-04T18:09:52+00:00",
-      "score": 2,
-      "image": "https://picsum.photos/seed/vb-59dfbee4d8ad6aa4/480/320"
+      "title": "Millions with joint pain and osteoarthritis are missing the most powerful treatment",
+      "summary": "Stiff knees and aching hips may seem like an inevitable part of aging, but experts say we’re getting osteoarthritis all wrong. Despite affecting nearly 600 million people worldwide — and potentially a billion by 2050 — the most powerful treatment isn’t surgery or medication. It’s exercise. Movement nourishes cartilage, strengthens muscles, reduces inflammation, and even reshapes the biological processes driving joint damage.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260303145725.htm",
+      "published_utc": "2026-03-04T21:35:02+00:00",
+      "score": 0,
+      "image": "https://picsum.photos/seed/vb-d8fde7dcd700ee85/480/320"
     },
     {
       "section": "romania",
@@ -1187,6 +1187,17 @@
       "published_utc": "2026-02-02T10:32:03+00:00",
       "score": 3,
       "image": "https://stiripozitive.com/wp-content/uploads/2026/02/harta-.jpeg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "Popular fruits and vegetables linked to higher pesticide levels",
+      "summary": "A sweeping new study reveals that what’s on your plate may directly shape the pesticides circulating in your body. Researchers found that people who eat more fruits and vegetables known to carry higher pesticide residues—such as strawberries, spinach, and bell peppers—also have significantly higher levels of those chemicals in their urine. While produce remains a cornerstone of a healthy diet, the findings highlight how everyday food choices can drive real-world exposure to substances linked to cancer, hormone disruption, and developmental harm.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260303145705.htm",
+      "published_utc": "2026-03-04T18:09:52+00:00",
+      "score": 2,
+      "image": "https://picsum.photos/seed/vb-59dfbee4d8ad6aa4/480/320"
     },
     {
       "section": "medical",
@@ -1237,7 +1248,7 @@
       "kind": "global",
       "source": "NASA Breaking News",
       "title": "US-French Satellite Takes Stock of World’s River Water",
-      "summary": "Rivers rise and fall throughout the year, but by how much? Perhaps less than previously thought, according to new data from the SWOT mission. Hidden riverbed contours are also emerging. In a first, a space mission led by NASA and France has tracked Earth’s rivers swelling and shrinking from month to month over the course [&#8230;]",
+      "summary": "In a first, a space mission led by NASA and France has tracked Earth’s rivers swelling and shrinking from month to month over the course of a year and found significantly less of a swing than previous model-based estimates. A record drought in the Amazon likely influenced the tally made by the Surface Water and [&#8230;]",
       "link": "https://www.nasa.gov/earth/us-french-satellite-takes-stock-of-worlds-river-water",
       "published_utc": "2026-03-04T16:12:55+00:00",
       "score": 0,
@@ -1717,17 +1728,6 @@
       "image": "https://picsum.photos/seed/vb-71f75214b3710838/480/320"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "ScienceDaily Science",
-      "title": "Textbooks challenged by new discovery about how cells divide",
-      "summary": "Scientists have uncovered a surprising new way that giant embryonic cells divide—without relying on the classic “purse-string” ring long thought essential for splitting a cell in two. Studying zebrafish embryos, researchers found that instead of forming a fully closed contractile ring, cells use a clever “mechanical ratchet” system.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260227071928.htm",
-      "published_utc": "2026-02-28T14:33:54+00:00",
-      "score": 6,
-      "image": "https://picsum.photos/seed/vb-edfe72426745cf4b/480/320"
-    },
-    {
       "section": "medical",
       "kind": "global",
       "source": "ScienceDaily Health",
@@ -1985,13 +1985,13 @@
       "tag": "space",
       "title": "Space",
       "link": "https://commons.wikimedia.org/wiki/Category:Astronomy",
-      "image": "https://live.staticflickr.com/65535/55118553617_ccb01fe436_b.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/NGC_4414_%28NASA-med%29.jpg"
     },
     {
       "tag": "animals",
       "title": "Animals",
       "link": "https://commons.wikimedia.org/wiki/Category:Animals",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Siberischer_tiger_de_edit02.jpg"
     },
     {
       "tag": "landscape",
