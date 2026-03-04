@@ -1,7 +1,18 @@
 {
-  "generated_utc": "2026-03-04T07:35:04+00:00",
+  "generated_utc": "2026-03-04T08:32:00+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Japonia dizolvă „secta Moon”, controversata Biserică a Unificării acuzată că și-a ruinat adepții",
+        "summary": "Curtea Supremă din Japonia a ratificat miercuri ordinul de dizolvare a Bisericii Unificării, cunoscută peiorativ drept „secta Moon”, acuzată că şi-a ruinat adepţii prin donaţii abuzive şi practici comerciale controversate.",
+        "link": "https://www.digi24.ro/stiri/externe/mapamond/japonia-dizolva-secta-moon-controversata-biserica-a-unificarii-acuzata-ca-si-a-ruinat-adeptii-3658921",
+        "published_utc": "2026-03-04T08:13:31+00:00",
+        "score": 3,
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMyUyRjA0JTJGMjYyMjcxNl8yNjIy/NzE2X3NlY3RhLW1vb24uanBnJmhhc2g9/OTc2MjBhOWJkMTNiNGU5ODE1NTRlYWNhOTFjMzQ0ZjU=.jpg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -9,7 +20,7 @@
         "title": "Compania din Târgu Mureș care vrea să cucerească eficiența energetică în Europa Centrală",
         "summary": "Proiectele de energie regenerabilă se dezvoltă rapid în România, iar eficiența energetică devine și ea tot mai importantă. În acest context, soluțiile inovatoare de producție și mai ales de stocare...",
         "link": "https://green.start-up.ro/ro/compania-din-targu-mures-care-vrea-sa-cucereasca-eficienta-energetica-in-europa-centrala",
-        "published_utc": "2026-03-04T06:05:01+00:00",
+        "published_utc": "2026-03-04T07:37:41+00:00",
         "score": 1,
         "image": "https://green.start-up.ro/img/thumbs/articles/3/5/7/35717/image-35717-760x400-00-65.jpg?v=1772189061"
       },
@@ -49,13 +60,13 @@
       {
         "section": "romania",
         "kind": "ro",
-        "source": "Descopera (Stiinta)",
-        "title": "Oamenii de știință, bulversați după descoperirea unor planete colosale: „Este o enigmă”",
-        "summary": "Jupiter poate fi regele planetelor în Sistemul Solar, dar în alte sisteme stelare din galaxie, planete și mai mari orbitează la miliarde de kilometri de stelele lor, în locuri unde teoriile tradiționale de formare cu [&#8230;] Articolul Oamenii de știință, bulversați după descoperirea unor planete colosale: „Este o enigmă” apare prima dată în Descopera .",
-        "link": "https://www.descopera.ro/stiinta/21032138-oamenii-de-stiinta-bulversati-dupa-descoperirea-unor-planete-colosale-este-o-enigma",
-        "published_utc": "2026-03-03T18:00:41+00:00",
-        "score": 3,
-        "image": "https://www.descopera.ro/wp-content/uploads/2025/05/Jupiter-era-de-doua-ori-mai_shutterstock_descopera-3-1024x683.jpg"
+        "source": "Start-Up Romania",
+        "title": "Apple lansează MacBook Air cu cip M5 și 512GB stocare de bază",
+        "summary": "Apple a anunțat noul MacBook Air echipat cu cipul M5, disponibil în variante de 13 și 15 inch.",
+        "link": "https://start-up.ro/apple-lanseaza-macbook-air-cu-cip-m5-si-512gb-stocare-de-baza",
+        "published_utc": "2026-03-03T18:17:56+00:00",
+        "score": 1,
+        "image": "https://start-up.ro/img/thumbs/articles/3/7/9/37952/image-37952-760x400-00-65.jpg?v=1772561910"
       },
       {
         "section": "romania",
@@ -89,17 +100,6 @@
         "published_utc": "2026-03-03T14:40:16+00:00",
         "score": 3,
         "image": "http://www.romaniapozitiva.ro/wp-content/uploads/2026/03/workshop-write-to-win-strategii-pentru-un-eseu-castigator-2026.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Gimnasta anului 2025 este o româncă. Cine a câștigat titlul decernat de European Gymnastics",
-        "summary": "Ana Maria Bărbosu a câştigat titlul de Gimnasta anului 2025, în campania lansată de forul european de profil (European Gymnastics).",
-        "link": "https://www.digi24.ro/stiri/sport/gimnasta-anului-2025-este-o-romanca-cine-a-castigat-titlul-decernat-de-european-gymnastics-3657661",
-        "published_utc": "2026-03-03T14:28:33+00:00",
-        "score": 3,
-        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwNSUyRjMxJTJGMjI3MzMxM18yMjcz/MzEzX2FuYS1iYXJib3N1LWZvdG8tRXVy/b3BlYW4tR3ltbmFzdGljcy5wbmcmaGFz/aD1jMjQyY2Q4MGViM2JjNzUwYTJiOGMyZDM4MDMxNWE3Mg==.png"
       },
       {
         "section": "romania",
@@ -982,11 +982,22 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "Digi24",
+      "title": "Japonia dizolvă „secta Moon”, controversata Biserică a Unificării acuzată că și-a ruinat adepții",
+      "summary": "Curtea Supremă din Japonia a ratificat miercuri ordinul de dizolvare a Bisericii Unificării, cunoscută peiorativ drept „secta Moon”, acuzată că şi-a ruinat adepţii prin donaţii abuzive şi practici comerciale controversate.",
+      "link": "https://www.digi24.ro/stiri/externe/mapamond/japonia-dizolva-secta-moon-controversata-biserica-a-unificarii-acuzata-ca-si-a-ruinat-adeptii-3658921",
+      "published_utc": "2026-03-04T08:13:31+00:00",
+      "score": 3,
+      "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMyUyRjA0JTJGMjYyMjcxNl8yNjIy/NzE2X3NlY3RhLW1vb24uanBnJmhhc2g9/OTc2MjBhOWJkMTNiNGU5ODE1NTRlYWNhOTFjMzQ0ZjU=.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "Green Start-Up Romania",
       "title": "Compania din Târgu Mureș care vrea să cucerească eficiența energetică în Europa Centrală",
       "summary": "Proiectele de energie regenerabilă se dezvoltă rapid în România, iar eficiența energetică devine și ea tot mai importantă. În acest context, soluțiile inovatoare de producție și mai ales de stocare...",
       "link": "https://green.start-up.ro/ro/compania-din-targu-mures-care-vrea-sa-cucereasca-eficienta-energetica-in-europa-centrala",
-      "published_utc": "2026-03-04T06:05:01+00:00",
+      "published_utc": "2026-03-04T07:37:41+00:00",
       "score": 1,
       "image": "https://green.start-up.ro/img/thumbs/articles/3/5/7/35717/image-35717-760x400-00-65.jpg?v=1772189061"
     },
@@ -1015,13 +1026,13 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Descopera (Stiinta)",
-      "title": "Oamenii de știință, bulversați după descoperirea unor planete colosale: „Este o enigmă”",
-      "summary": "Jupiter poate fi regele planetelor în Sistemul Solar, dar în alte sisteme stelare din galaxie, planete și mai mari orbitează la miliarde de kilometri de stelele lor, în locuri unde teoriile tradiționale de formare cu [&#8230;] Articolul Oamenii de știință, bulversați după descoperirea unor planete colosale: „Este o enigmă” apare prima dată în Descopera .",
-      "link": "https://www.descopera.ro/stiinta/21032138-oamenii-de-stiinta-bulversati-dupa-descoperirea-unor-planete-colosale-este-o-enigma",
-      "published_utc": "2026-03-03T18:00:41+00:00",
-      "score": 3,
-      "image": "https://www.descopera.ro/wp-content/uploads/2025/05/Jupiter-era-de-doua-ori-mai_shutterstock_descopera-3-1024x683.jpg"
+      "source": "Start-Up Romania",
+      "title": "Apple lansează MacBook Air cu cip M5 și 512GB stocare de bază",
+      "summary": "Apple a anunțat noul MacBook Air echipat cu cipul M5, disponibil în variante de 13 și 15 inch.",
+      "link": "https://start-up.ro/apple-lanseaza-macbook-air-cu-cip-m5-si-512gb-stocare-de-baza",
+      "published_utc": "2026-03-03T18:17:56+00:00",
+      "score": 1,
+      "image": "https://start-up.ro/img/thumbs/articles/3/7/9/37952/image-37952-760x400-00-65.jpg?v=1772561910"
     },
     {
       "section": "romania",
@@ -1055,17 +1066,6 @@
       "published_utc": "2026-03-03T14:40:16+00:00",
       "score": 3,
       "image": "http://www.romaniapozitiva.ro/wp-content/uploads/2026/03/workshop-write-to-win-strategii-pentru-un-eseu-castigator-2026.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Gimnasta anului 2025 este o româncă. Cine a câștigat titlul decernat de European Gymnastics",
-      "summary": "Ana Maria Bărbosu a câştigat titlul de Gimnasta anului 2025, în campania lansată de forul european de profil (European Gymnastics).",
-      "link": "https://www.digi24.ro/stiri/sport/gimnasta-anului-2025-este-o-romanca-cine-a-castigat-titlul-decernat-de-european-gymnastics-3657661",
-      "published_utc": "2026-03-03T14:28:33+00:00",
-      "score": 3,
-      "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwNSUyRjMxJTJGMjI3MzMxM18yMjcz/MzEzX2FuYS1iYXJib3N1LWZvdG8tRXVy/b3BlYW4tR3ltbmFzdGljcy5wbmcmaGFz/aD1jMjQyY2Q4MGViM2JjNzUwYTJiOGMyZDM4MDMxNWE3Mg==.png"
     },
     {
       "section": "romania",
