@@ -1,13 +1,24 @@
 {
-  "generated_utc": "2026-03-04T21:29:45+00:00",
+  "generated_utc": "2026-03-04T22:26:03+00:00",
   "sections": {
     "romania": [
       {
         "section": "romania",
         "kind": "ro",
         "source": "HotNews",
+        "title": "Cine este Alexandra Căpitănescu, câștigătoarea Eurovision România 2026 / În trecut a câștigat un talent-show foarte urmărit în România",
+        "summary": "Reprezentanta României la Eurovision Song Contest 2026 a fost aleasă miercuri, într-o finală difuzată în direct de către TVR, organizatorul selecției naționale. Artista Alexandra Căpitănescu a primit cele mai multe puncte din partea celor șapte jurați și, astfel, ea va reprezenta România la Viena cu melodia „Choke me”.&#160; Alexandra Căpitănescu a devenit cunoscută publicului larg &#8230;",
+        "link": "https://hotnews.ro/cine-este-alexandra-capitanescu-castigator-eurovision-romania-2026-2185539",
+        "published_utc": "2026-03-04T21:27:04+00:00",
+        "score": 3,
+        "image": "https://hotnews.ro/wp-content/uploads/2026/03/2026-03-04-9003.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
         "title": "Factura la electricitate poate scădea și la jumătate dacă schimbi furnizorul, dar 95% dintre consumatorii români „stau pe loc” / „Reflexul de a căuta cele mai bune oferte este amorțit”",
-        "summary": "Consumatorii români de electricitate și-au schimbat furnizorul, în 2025, de 650.773 de ori în total, arată datele transmise de Autoritatea Națională de Reglementare în domeniul Energiei (ANRE) la solicitarea HotNews. Ponderea celor care migrează la&#8230;",
+        "summary": "Consumatorii români de electricitate și-au schimbat furnizorul, în 2025, de 650.773 de ori în total, arată datele transmise de Autoritatea Națională de Reglementare în domeniul Energiei (ANRE) la solicitarea HotNews. Ponderea celor care migrează la o altă companie de electricitate rămâne totuși mică, deși o astfel de mișcare poate reduce factura și la jumătate în &#8230;",
         "link": "https://hotnews.ro/factura-la-electricitate-poate-scadea-si-la-jumatate-daca-schimbi-furnizorul-dar-95-dintre-consumatorii-romani-stau-pe-loc-reflexul-de-a-cauta-cele-mai-bune-oferte-este-a-2179969",
         "published_utc": "2026-03-04T18:00:45+00:00",
         "score": 3,
@@ -56,17 +67,6 @@
         "published_utc": "2026-03-04T14:41:29+00:00",
         "score": 1,
         "image": "http://www.romaniapozitiva.ro/wp-content/uploads/2026/03/funky-citizens-dezbatere-civics-in-vet.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "RomaniaPozitiva",
-        "title": "Întâlnire cu dramaturgul canadian Étienne Lepage la UNITER",
-        "summary": "Uniunea Teatrală din România „UNITER” găzduiește pe 9 martie 2026, la ora 12.00, o întâlnire publică cu dramaturgul canadian Étienne Lepage, una dintre vocile relevante ale dramaturgiei contemporane francofone. Evenimentul,&#8230; Articolul Întâlnire cu dramaturgul canadian Étienne Lepage la UNITER apare prima dată în Romania Pozitiva .",
-        "link": "https://www.romaniapozitiva.ro/bucuresti/intalnire-cu-dramaturgul-canadian-etienne-lepage-la-uniter",
-        "published_utc": "2026-03-04T12:44:26+00:00",
-        "score": 1,
-        "image": "http://www.romaniapozitiva.ro/wp-content/uploads/2026/03/unnamed-5.jpg"
       },
       {
         "section": "romania",
@@ -180,6 +180,17 @@
       }
     ],
     "medical": [
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "Millions with joint pain and osteoarthritis are missing the most powerful treatment",
+        "summary": "Stiff knees and aching hips may seem like an inevitable part of aging, but experts say we’re getting osteoarthritis all wrong. Despite affecting nearly 600 million people worldwide — and potentially a billion by 2050 — the most powerful treatment isn’t surgery or medication. It’s exercise. Movement nourishes cartilage, strengthens muscles, reduces inflammation, and even reshapes the biological processes driving joint damage.",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260303145725.htm",
+        "published_utc": "2026-03-04T21:35:02+00:00",
+        "score": 0,
+        "image": "https://picsum.photos/seed/vb-d8fde7dcd700ee85/480/320"
+      },
       {
         "section": "medical",
         "kind": "global",
@@ -443,31 +454,9 @@
         "published_utc": "2026-02-27T18:05:43+00:00",
         "score": 5,
         "image": "https://picsum.photos/seed/vb-fb39957dfd54430b/480/320"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "ScienceDaily Health",
-        "title": "Iron outperforms rare metals in stunning chemistry advance",
-        "summary": "Researchers at Nagoya University have created a more efficient iron-based photocatalyst that could reduce the need for rare and expensive metals in advanced chemistry. Unlike earlier designs, the new catalyst uses far fewer costly chiral ligands while still precisely controlling the three dimensional structure of molecules.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260227061821.htm",
-        "published_utc": "2026-02-27T16:08:10+00:00",
-        "score": 1,
-        "image": "https://picsum.photos/seed/vb-8d98f73c1fbaa67b/480/320"
       }
     ],
     "science": [
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "ScienceDaily Science",
-        "title": "Scientists capture a magnetic flip in 140 trillionths of a second",
-        "summary": "Scientists at the University of Tokyo have captured something never seen before: a frame-by-frame view of how electron spins flip inside an antiferromagnet, a material once thought to be magnetically “invisible.” By firing ultrafast electrical pulses into a thin layer of manganese–tin and tracking the response with precisely timed flashes of light, the team uncovered two distinct switching mechanisms. One relies on heat generated by strong currents, while the other flips spins directly with minimal heating — a far more efficient process.",
-        "link": "https://www.sciencedaily.com/releases/2026/03/260303145707.htm",
-        "published_utc": "2026-03-04T19:45:13+00:00",
-        "score": 0,
-        "image": "https://picsum.photos/seed/vb-b77af1dabafef15c/480/320"
-      },
       {
         "section": "science",
         "kind": "global",
@@ -566,6 +555,17 @@
         "published_utc": "2026-03-03T21:00:25+00:00",
         "score": 0,
         "image": "https://www.youtube.com/embed/3Tkib8zc-Ws"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "ScienceDaily Science",
+        "title": "Scientists capture a magnetic flip in 140 trillionths of a second",
+        "summary": "Scientists at the University of Tokyo have captured something never seen before: a frame-by-frame view of how electron spins flip inside an antiferromagnet, a material once thought to be magnetically “invisible.” By firing ultrafast electrical pulses into a thin layer of manganese–tin and tracking the response with precisely timed flashes of light, the team uncovered two distinct switching mechanisms. One relies on heat generated by strong currents, while the other flips spins directly with minimal heating — a far more efficient process.",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260303145707.htm",
+        "published_utc": "2026-03-03T19:57:07+00:00",
+        "score": 0,
+        "image": "https://picsum.photos/seed/vb-b77af1dabafef15c/480/320"
       },
       {
         "section": "science",
@@ -837,6 +837,17 @@
         "section": "environment",
         "kind": "global",
         "source": "ScienceDaily Environment",
+        "title": "Schrödinger’s color theory finally completed after 100 years",
+        "summary": "A century after Erwin Schrödinger sketched out a bold vision for how we perceive color, scientists have finally filled in the missing pieces. A Los Alamos team used advanced geometry to show that hue, saturation, and lightness aren’t shaped by culture or experience — they’re built directly into the mathematical structure of how we see color. By defining a crucial missing element known as the “neutral axis,” the researchers repaired a long-standing flaw in Schrödinger’s model and even corrected tricky visual quirks like the way brightness can subtly shift perceived hue.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260222092302.htm",
+        "published_utc": "2026-02-23T15:24:39+00:00",
+        "score": 0,
+        "image": "https://picsum.photos/seed/vb-3bb39e00de0578b3/480/320"
+      },
+      {
+        "section": "environment",
+        "kind": "global",
+        "source": "ScienceDaily Environment",
         "title": "A giant blade-crested spinosaurus, the “hell heron,” discovered in the Sahara",
         "summary": "Deep in the heart of the Sahara, scientists have uncovered Spinosaurus mirabilis — a spectacular new predator crowned with a massive, scimitar-shaped crest that may once have blazed with color under the desert sun. Discovered in remote inland river deposits in Niger, the fossil rewrites what we thought we knew about spinosaur dinosaurs, suggesting they weren’t fully aquatic hunters but powerful waders stalking fish in forested waterways hundreds of miles from the sea.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260222092251.htm",
@@ -994,8 +1005,19 @@
       "section": "romania",
       "kind": "ro",
       "source": "HotNews",
+      "title": "Cine este Alexandra Căpitănescu, câștigătoarea Eurovision România 2026 / În trecut a câștigat un talent-show foarte urmărit în România",
+      "summary": "Reprezentanta României la Eurovision Song Contest 2026 a fost aleasă miercuri, într-o finală difuzată în direct de către TVR, organizatorul selecției naționale. Artista Alexandra Căpitănescu a primit cele mai multe puncte din partea celor șapte jurați și, astfel, ea va reprezenta România la Viena cu melodia „Choke me”.&#160; Alexandra Căpitănescu a devenit cunoscută publicului larg &#8230;",
+      "link": "https://hotnews.ro/cine-este-alexandra-capitanescu-castigator-eurovision-romania-2026-2185539",
+      "published_utc": "2026-03-04T21:27:04+00:00",
+      "score": 3,
+      "image": "https://hotnews.ro/wp-content/uploads/2026/03/2026-03-04-9003.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
       "title": "Factura la electricitate poate scădea și la jumătate dacă schimbi furnizorul, dar 95% dintre consumatorii români „stau pe loc” / „Reflexul de a căuta cele mai bune oferte este amorțit”",
-      "summary": "Consumatorii români de electricitate și-au schimbat furnizorul, în 2025, de 650.773 de ori în total, arată datele transmise de Autoritatea Națională de Reglementare în domeniul Energiei (ANRE) la solicitarea HotNews. Ponderea celor care migrează la&#8230;",
+      "summary": "Consumatorii români de electricitate și-au schimbat furnizorul, în 2025, de 650.773 de ori în total, arată datele transmise de Autoritatea Națională de Reglementare în domeniul Energiei (ANRE) la solicitarea HotNews. Ponderea celor care migrează la o altă companie de electricitate rămâne totuși mică, deși o astfel de mișcare poate reduce factura și la jumătate în &#8230;",
       "link": "https://hotnews.ro/factura-la-electricitate-poate-scadea-si-la-jumatate-daca-schimbi-furnizorul-dar-95-dintre-consumatorii-romani-stau-pe-loc-reflexul-de-a-cauta-cele-mai-bune-oferte-este-a-2179969",
       "published_utc": "2026-03-04T18:00:45+00:00",
       "score": 3,
@@ -1033,17 +1055,6 @@
       "published_utc": "2026-03-04T14:41:29+00:00",
       "score": 1,
       "image": "http://www.romaniapozitiva.ro/wp-content/uploads/2026/03/funky-citizens-dezbatere-civics-in-vet.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "Întâlnire cu dramaturgul canadian Étienne Lepage la UNITER",
-      "summary": "Uniunea Teatrală din România „UNITER” găzduiește pe 9 martie 2026, la ora 12.00, o întâlnire publică cu dramaturgul canadian Étienne Lepage, una dintre vocile relevante ale dramaturgiei contemporane francofone. Evenimentul,&#8230; Articolul Întâlnire cu dramaturgul canadian Étienne Lepage la UNITER apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/bucuresti/intalnire-cu-dramaturgul-canadian-etienne-lepage-la-uniter",
-      "published_utc": "2026-03-04T12:44:26+00:00",
-      "score": 1,
-      "image": "http://www.romaniapozitiva.ro/wp-content/uploads/2026/03/unnamed-5.jpg"
     },
     {
       "section": "romania",
@@ -1112,15 +1123,15 @@
       "image": "https://start-up.ro/img/articles/3/7/9/37948/cover-37948-src.jpg"
     },
     {
-      "section": "science",
+      "section": "medical",
       "kind": "global",
-      "source": "ScienceDaily Science",
-      "title": "Scientists capture a magnetic flip in 140 trillionths of a second",
-      "summary": "Scientists at the University of Tokyo have captured something never seen before: a frame-by-frame view of how electron spins flip inside an antiferromagnet, a material once thought to be magnetically “invisible.” By firing ultrafast electrical pulses into a thin layer of manganese–tin and tracking the response with precisely timed flashes of light, the team uncovered two distinct switching mechanisms. One relies on heat generated by strong currents, while the other flips spins directly with minimal heating — a far more efficient process.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260303145707.htm",
-      "published_utc": "2026-03-04T19:45:13+00:00",
+      "source": "ScienceDaily Health",
+      "title": "Millions with joint pain and osteoarthritis are missing the most powerful treatment",
+      "summary": "Stiff knees and aching hips may seem like an inevitable part of aging, but experts say we’re getting osteoarthritis all wrong. Despite affecting nearly 600 million people worldwide — and potentially a billion by 2050 — the most powerful treatment isn’t surgery or medication. It’s exercise. Movement nourishes cartilage, strengthens muscles, reduces inflammation, and even reshapes the biological processes driving joint damage.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260303145725.htm",
+      "published_utc": "2026-03-04T21:35:02+00:00",
       "score": 0,
-      "image": "https://picsum.photos/seed/vb-b77af1dabafef15c/480/320"
+      "image": "https://picsum.photos/seed/vb-d8fde7dcd700ee85/480/320"
     },
     {
       "section": "romania",
@@ -1308,6 +1319,17 @@
       "published_utc": "2026-03-03T21:00:25+00:00",
       "score": 0,
       "image": "https://www.youtube.com/embed/3Tkib8zc-Ws"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "ScienceDaily Science",
+      "title": "Scientists capture a magnetic flip in 140 trillionths of a second",
+      "summary": "Scientists at the University of Tokyo have captured something never seen before: a frame-by-frame view of how electron spins flip inside an antiferromagnet, a material once thought to be magnetically “invisible.” By firing ultrafast electrical pulses into a thin layer of manganese–tin and tracking the response with precisely timed flashes of light, the team uncovered two distinct switching mechanisms. One relies on heat generated by strong currents, while the other flips spins directly with minimal heating — a far more efficient process.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260303145707.htm",
+      "published_utc": "2026-03-03T19:57:07+00:00",
+      "score": 0,
+      "image": "https://picsum.photos/seed/vb-b77af1dabafef15c/480/320"
     },
     {
       "section": "science",
@@ -1739,17 +1761,6 @@
       "image": "https://picsum.photos/seed/vb-fb39957dfd54430b/480/320"
     },
     {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "Iron outperforms rare metals in stunning chemistry advance",
-      "summary": "Researchers at Nagoya University have created a more efficient iron-based photocatalyst that could reduce the need for rare and expensive metals in advanced chemistry. Unlike earlier designs, the new catalyst uses far fewer costly chiral ligands while still precisely controlling the three dimensional structure of molecules.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260227061821.htm",
-      "published_utc": "2026-02-27T16:08:10+00:00",
-      "score": 1,
-      "image": "https://picsum.photos/seed/vb-8d98f73c1fbaa67b/480/320"
-    },
-    {
       "section": "environment",
       "kind": "global",
       "source": "NASA Earth Observatory - Image of the Day",
@@ -1803,6 +1814,17 @@
       "published_utc": "2026-02-23T17:34:16+00:00",
       "score": 0,
       "image": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26693/PIA26693.png/jcr:content/renditions/cq5dam.web.1280.1280.png"
+    },
+    {
+      "section": "environment",
+      "kind": "global",
+      "source": "ScienceDaily Environment",
+      "title": "Schrödinger’s color theory finally completed after 100 years",
+      "summary": "A century after Erwin Schrödinger sketched out a bold vision for how we perceive color, scientists have finally filled in the missing pieces. A Los Alamos team used advanced geometry to show that hue, saturation, and lightness aren’t shaped by culture or experience — they’re built directly into the mathematical structure of how we see color. By defining a crucial missing element known as the “neutral axis,” the researchers repaired a long-standing flaw in Schrödinger’s model and even corrected tricky visual quirks like the way brightness can subtly shift perceived hue.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260222092302.htm",
+      "published_utc": "2026-02-23T15:24:39+00:00",
+      "score": 0,
+      "image": "https://picsum.photos/seed/vb-3bb39e00de0578b3/480/320"
     },
     {
       "section": "environment",
@@ -1963,7 +1985,7 @@
       "tag": "space",
       "title": "Space",
       "link": "https://commons.wikimedia.org/wiki/Category:Astronomy",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/NGC_4414_%28NASA-med%29.jpg"
+      "image": "https://live.staticflickr.com/65535/55118553617_ccb01fe436_b.jpg"
     },
     {
       "tag": "animals",
