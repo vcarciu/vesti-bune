@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-03-04T01:09:34+00:00",
+  "generated_utc": "2026-03-04T04:02:18+00:00",
   "sections": {
     "romania": [
       {
@@ -180,6 +180,28 @@
       }
     ],
     "medical": [
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "Scientists just found the brain’s hidden defense against Alzheimer’s",
+        "summary": "A new study has uncovered why some brain cells are more resistant to Alzheimer’s damage than others. Researchers found a natural cleanup system that helps remove toxic tau protein before it can form harmful clumps. The study also shows that cellular stress can produce a dangerous tau fragment linked to Alzheimer’s. Strengthening the brain’s natural defenses could point the way to new treatments.",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260303145730.htm",
+        "published_utc": "2026-03-04T02:38:45+00:00",
+        "score": 5,
+        "image": "https://picsum.photos/seed/vb-c02faf8218bd57f6/480/320"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "Laser printed hydrogel implant could transform bone repair",
+        "summary": "When a bone break is too severe to heal on its own, surgeons often rely on grafts or rigid metal implants — but both come with serious drawbacks. Now, researchers at ETH Zurich have created a jelly-like hydrogel that mimics the body’s natural healing process, offering a potentially game-changing alternative. Made of 97% water, this soft material can be laser-printed into intricate bone-like structures at record-breaking speeds, down to details thinner than a human hair.",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260303050626.htm",
+        "published_utc": "2026-03-03T17:31:18+00:00",
+        "score": 1,
+        "image": "https://picsum.photos/seed/vb-d67e1c79b7fde048/480/320"
+      },
       {
         "section": "medical",
         "kind": "global",
@@ -432,31 +454,20 @@
         "published_utc": "2026-02-26T17:31:50+00:00",
         "score": 2,
         "image": "https://picsum.photos/seed/vb-a65659af766fd859/480/320"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Positive News",
-        "title": "What advice did you receive as a child that has stayed with you?",
-        "summary": "You can’t put an old head on young shoulders, so they say. But some wisdom is passed on. We want to hear the nuggets that helped guide you The post What advice did you receive as a child that has stayed with you? appeared first on Positive News .",
-        "link": "https://www.positive.news/society/what-advice-did-you-receive-as-a-child-that-has-stayed-with-you",
-        "published_utc": "2026-02-26T16:55:57+00:00",
-        "score": 0,
-        "image": "https://www.positive.news/wp-content/uploads/2026/02/iStock-971388782.jpeg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "ScienceDaily Health",
-        "title": "Hidden architecture inside cellular droplets opens new targets for cancer and ALS",
-        "summary": "Biomolecular condensates were long believed to be simple liquid blobs inside cells. Researchers have now uncovered that some are actually supported by fine protein filaments forming an internal scaffold. When this structure is disrupted, cells fail to grow and divide properly. The discovery suggests scientists may one day design drugs that target condensate architecture to fight cancer and neurodegenerative disease.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260226042447.htm",
-        "published_utc": "2026-02-26T14:36:27+00:00",
-        "score": 4,
-        "image": "https://picsum.photos/seed/vb-699f07af5497a1d5/480/320"
       }
     ],
     "science": [
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "ScienceDaily Science",
+        "title": "Neutrinos could explain why matter survived the Big Bang",
+        "summary": "An international team combining two major neutrino experiments has uncovered stronger evidence that neutrinos and antimatter don’t behave as perfect mirror images. That subtle difference may hold the key to why the universe didn’t vanish in a flash of self-destruction after the Big Bang.",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260303145703.htm",
+        "published_utc": "2026-03-04T00:59:36+00:00",
+        "score": 0,
+        "image": "https://picsum.photos/seed/vb-e5e87fc5db6f75e9/480/320"
+      },
       {
         "section": "science",
         "kind": "global",
@@ -720,17 +731,6 @@
         "published_utc": "2026-02-27T14:45:38+00:00",
         "score": 6,
         "image": "https://picsum.photos/seed/vb-f7a52338e3af8c54/480/320"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "ScienceDaily Science",
-        "title": "A lost moon may have created Titan and Saturn’s rings",
-        "summary": "Saturn’s largest moon, Titan, may have been born in a colossal cosmic crash. New research suggests Titan formed when two older moons slammed together hundreds of millions of years ago—an event so violent it reshaped Saturn’s entire moon system and may have indirectly sparked the formation of its iconic rings. Clues come from Titan’s unusual orbit, its surprisingly smooth surface, and the strange behavior of the tumbling moon Hyperion.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260227071945.htm",
-        "published_utc": "2026-02-27T12:19:45+00:00",
-        "score": 0,
-        "image": "https://picsum.photos/seed/vb-30572bddcf8dd087/480/320"
       }
     ],
     "environment": [
@@ -859,6 +859,17 @@
         "section": "environment",
         "kind": "global",
         "source": "ScienceDaily Environment",
+        "title": "Frozen for 5,000 years, this ice cave bacterium resists modern antibiotics",
+        "summary": "Deep inside a Romanian ice cave, locked away in a 5,000-year-old layer of ice, scientists have uncovered a bacterium with a startling secret: it’s resistant to many modern antibiotics. Despite predating the antibiotic era, this cold-loving microbe carries more than 100 resistance-related genes and can survive drugs used today to treat serious infections like tuberculosis and UTIs.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260218031502.htm",
+        "published_utc": "2026-02-22T03:38:58+00:00",
+        "score": 0,
+        "image": "https://picsum.photos/seed/vb-4dce42d6a307d8d9/480/320"
+      },
+      {
+        "section": "environment",
+        "kind": "global",
+        "source": "ScienceDaily Environment",
         "title": "Scientists uncover oxygen-loving ancestor of all complex life",
         "summary": "For decades, scientists have believed that complex life began when two very different microbes joined forces, eventually giving rise to plants, animals, and fungi. But one major puzzle remained: how could these organisms have met if one depended on oxygen and the other supposedly lived without it? New research suggests the answer lies in ancient microbes called Asgard archaea.",
         "link": "https://www.sciencedaily.com/releases/2026/02/260220010825.htm",
@@ -953,17 +964,6 @@
         "published_utc": "2026-02-18T04:19:32+00:00",
         "score": 0,
         "image": "https://picsum.photos/seed/vb-2f2fc4af51d81a09/480/320"
-      },
-      {
-        "section": "environment",
-        "kind": "global",
-        "source": "ScienceDaily Environment",
-        "title": "Microplastics have reached Antarctica’s only native insect",
-        "summary": "Even Antarctica’s toughest native insect can’t escape the reach of plastic pollution. Scientists have discovered that Belgica antarctica — a tiny, rice-sized midge and the southernmost insect on Earth — is already ingesting microplastics in the wild. While lab tests showed the hardy larvae can survive short-term exposure without obvious harm, those exposed to higher plastic levels had reduced fat reserves, hinting at hidden energy costs.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260212234214.htm",
-        "published_utc": "2026-02-16T12:48:45+00:00",
-        "score": 1,
-        "image": "https://picsum.photos/seed/vb-f65c0801c2efa750/480/320"
       }
     ]
   },
@@ -1101,15 +1101,15 @@
       "image": "https://start-up.ro/img/articles/3/7/9/37925/cover-37925-src.jpg"
     },
     {
-      "section": "science",
+      "section": "medical",
       "kind": "global",
-      "source": "NASA Breaking News",
-      "title": "La NASA refuerza Artemis: añade una misión y perfecciona su arquitectura general",
-      "summary": "Read this story in English&#160;here. A fin de lograr el objetivo nacional de llevar astronautas estadounidenses a la superficie de la Luna y mantener la superioridad de Estados Unidos en exploración y descubrimientos, la NASA anunció el 27 de febrero que aumentará la frecuencia de sus misiones con el programa Artemis, estandarizará la configuración del [&#8230;]",
-      "link": "https://www.nasa.gov/missions/artemis/la-nasa-refuerza-artemis-anade-una-mision-y-perfecciona-su-arquitectura-general",
-      "published_utc": "2026-03-03T22:34:27+00:00",
-      "score": 0,
-      "image": "https://images-assets.nasa.gov/image/iss074e0325229/iss074e0325229~large.jpg"
+      "source": "ScienceDaily Health",
+      "title": "Scientists just found the brain’s hidden defense against Alzheimer’s",
+      "summary": "A new study has uncovered why some brain cells are more resistant to Alzheimer’s damage than others. Researchers found a natural cleanup system that helps remove toxic tau protein before it can form harmful clumps. The study also shows that cellular stress can produce a dangerous tau fragment linked to Alzheimer’s. Strengthening the brain’s natural defenses could point the way to new treatments.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260303145730.htm",
+      "published_utc": "2026-03-04T02:38:45+00:00",
+      "score": 5,
+      "image": "https://picsum.photos/seed/vb-c02faf8218bd57f6/480/320"
     },
     {
       "section": "romania",
@@ -1136,13 +1136,13 @@
     {
       "section": "science",
       "kind": "global",
-      "source": "NASA Breaking News",
-      "title": "NASA Strengthens Artemis: Adds Mission, Refines Overall Architecture",
-      "summary": "Lee esta historia en español aquí. To achieve the national goal of landing American astronauts on the surface of the Moon and maintaining U.S. superiority in exploration and discovery, NASA announced Feb. 27 it is increasing its cadence of missions under the Artemis program, standardizing the SLS (Space Launch System) rocket configuration, and adding a new [&#8230;]",
-      "link": "https://www.nasa.gov/directorates/esdmd/nasa-strengthens-artemis-adds-mission-refines-overall-architecture",
-      "published_utc": "2026-03-03T21:50:18+00:00",
-      "score": 4,
-      "image": "https://images-assets.nasa.gov/image/iss074e0325229/iss074e0325229~large.jpg"
+      "source": "ScienceDaily Science",
+      "title": "Neutrinos could explain why matter survived the Big Bang",
+      "summary": "An international team combining two major neutrino experiments has uncovered stronger evidence that neutrinos and antimatter don’t behave as perfect mirror images. That subtle difference may hold the key to why the universe didn’t vanish in a flash of self-destruction after the Big Bang.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260303145703.htm",
+      "published_utc": "2026-03-04T00:59:36+00:00",
+      "score": 0,
+      "image": "https://picsum.photos/seed/vb-e5e87fc5db6f75e9/480/320"
     },
     {
       "section": "romania",
@@ -1165,6 +1165,28 @@
       "published_utc": "2026-02-02T10:32:03+00:00",
       "score": 3,
       "image": "https://stiripozitive.com/wp-content/uploads/2026/02/harta-.jpeg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "NASA Breaking News",
+      "title": "La NASA refuerza Artemis: añade una misión y perfecciona su arquitectura general",
+      "summary": "Read this story in English&#160;here. A fin de lograr el objetivo nacional de llevar astronautas estadounidenses a la superficie de la Luna y mantener la superioridad de Estados Unidos en exploración y descubrimientos, la NASA anunció el 27 de febrero que aumentará la frecuencia de sus misiones con el programa Artemis, estandarizará la configuración del [&#8230;]",
+      "link": "https://www.nasa.gov/missions/artemis/la-nasa-refuerza-artemis-anade-una-mision-y-perfecciona-su-arquitectura-general",
+      "published_utc": "2026-03-03T22:34:27+00:00",
+      "score": 0,
+      "image": "https://images-assets.nasa.gov/image/iss074e0325229/iss074e0325229~large.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "NASA Breaking News",
+      "title": "NASA Strengthens Artemis: Adds Mission, Refines Overall Architecture",
+      "summary": "Lee esta historia en español aquí. To achieve the national goal of landing American astronauts on the surface of the Moon and maintaining U.S. superiority in exploration and discovery, NASA announced Feb. 27 it is increasing its cadence of missions under the Artemis program, standardizing the SLS (Space Launch System) rocket configuration, and adding a new [&#8230;]",
+      "link": "https://www.nasa.gov/directorates/esdmd/nasa-strengthens-artemis-adds-mission-refines-overall-architecture",
+      "published_utc": "2026-03-03T21:50:18+00:00",
+      "score": 4,
+      "image": "https://images-assets.nasa.gov/image/iss074e0325229/iss074e0325229~large.jpg"
     },
     {
       "section": "science",
@@ -1198,6 +1220,17 @@
       "published_utc": "2026-03-03T18:29:23+00:00",
       "score": 0,
       "image": "https://www.nasa.gov/wp-content/uploads/2026/03/grc-2024-c-11142.jpg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "Laser printed hydrogel implant could transform bone repair",
+      "summary": "When a bone break is too severe to heal on its own, surgeons often rely on grafts or rigid metal implants — but both come with serious drawbacks. Now, researchers at ETH Zurich have created a jelly-like hydrogel that mimics the body’s natural healing process, offering a potentially game-changing alternative. Made of 97% water, this soft material can be laser-printed into intricate bone-like structures at record-breaking speeds, down to details thinner than a human hair.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260303050626.htm",
+      "published_utc": "2026-03-03T17:31:18+00:00",
+      "score": 1,
+      "image": "https://picsum.photos/seed/vb-d67e1c79b7fde048/480/320"
     },
     {
       "section": "medical",
@@ -1684,17 +1717,6 @@
       "image": "https://picsum.photos/seed/vb-f7a52338e3af8c54/480/320"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "ScienceDaily Science",
-      "title": "A lost moon may have created Titan and Saturn’s rings",
-      "summary": "Saturn’s largest moon, Titan, may have been born in a colossal cosmic crash. New research suggests Titan formed when two older moons slammed together hundreds of millions of years ago—an event so violent it reshaped Saturn’s entire moon system and may have indirectly sparked the formation of its iconic rings. Clues come from Titan’s unusual orbit, its surprisingly smooth surface, and the strange behavior of the tumbling moon Hyperion.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260227071945.htm",
-      "published_utc": "2026-02-27T12:19:45+00:00",
-      "score": 0,
-      "image": "https://picsum.photos/seed/vb-30572bddcf8dd087/480/320"
-    },
-    {
       "section": "medical",
       "kind": "global",
       "source": "Positive News",
@@ -1728,17 +1750,6 @@
       "image": "https://picsum.photos/seed/vb-a65659af766fd859/480/320"
     },
     {
-      "section": "medical",
-      "kind": "global",
-      "source": "Positive News",
-      "title": "What advice did you receive as a child that has stayed with you?",
-      "summary": "You can’t put an old head on young shoulders, so they say. But some wisdom is passed on. We want to hear the nuggets that helped guide you The post What advice did you receive as a child that has stayed with you? appeared first on Positive News .",
-      "link": "https://www.positive.news/society/what-advice-did-you-receive-as-a-child-that-has-stayed-with-you",
-      "published_utc": "2026-02-26T16:55:57+00:00",
-      "score": 0,
-      "image": "https://www.positive.news/wp-content/uploads/2026/02/iStock-971388782.jpeg"
-    },
-    {
       "section": "environment",
       "kind": "global",
       "source": "ScienceDaily Environment",
@@ -1748,17 +1759,6 @@
       "published_utc": "2026-02-26T16:47:11+00:00",
       "score": 0,
       "image": "https://picsum.photos/seed/vb-92d2e16b33359ee7/480/320"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "Hidden architecture inside cellular droplets opens new targets for cancer and ALS",
-      "summary": "Biomolecular condensates were long believed to be simple liquid blobs inside cells. Researchers have now uncovered that some are actually supported by fine protein filaments forming an internal scaffold. When this structure is disrupted, cells fail to grow and divide properly. The discovery suggests scientists may one day design drugs that target condensate architecture to fight cancer and neurodegenerative disease.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260226042447.htm",
-      "published_utc": "2026-02-26T14:36:27+00:00",
-      "score": 4,
-      "image": "https://picsum.photos/seed/vb-699f07af5497a1d5/480/320"
     },
     {
       "section": "environment",
@@ -1814,6 +1814,17 @@
       "published_utc": "2026-02-22T12:20:15+00:00",
       "score": 0,
       "image": "https://picsum.photos/seed/vb-8fc7c7bcf6101d6b/480/320"
+    },
+    {
+      "section": "environment",
+      "kind": "global",
+      "source": "ScienceDaily Environment",
+      "title": "Frozen for 5,000 years, this ice cave bacterium resists modern antibiotics",
+      "summary": "Deep inside a Romanian ice cave, locked away in a 5,000-year-old layer of ice, scientists have uncovered a bacterium with a startling secret: it’s resistant to many modern antibiotics. Despite predating the antibiotic era, this cold-loving microbe carries more than 100 resistance-related genes and can survive drugs used today to treat serious infections like tuberculosis and UTIs.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260218031502.htm",
+      "published_utc": "2026-02-22T03:38:58+00:00",
+      "score": 0,
+      "image": "https://picsum.photos/seed/vb-4dce42d6a307d8d9/480/320"
     },
     {
       "section": "environment",
@@ -1913,17 +1924,6 @@
       "published_utc": "2026-02-18T04:19:32+00:00",
       "score": 0,
       "image": "https://picsum.photos/seed/vb-2f2fc4af51d81a09/480/320"
-    },
-    {
-      "section": "environment",
-      "kind": "global",
-      "source": "ScienceDaily Environment",
-      "title": "Microplastics have reached Antarctica’s only native insect",
-      "summary": "Even Antarctica’s toughest native insect can’t escape the reach of plastic pollution. Scientists have discovered that Belgica antarctica — a tiny, rice-sized midge and the southernmost insect on Earth — is already ingesting microplastics in the wild. While lab tests showed the hardy larvae can survive short-term exposure without obvious harm, those exposed to higher plastic levels had reduced fat reserves, hinting at hidden energy costs.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260212234214.htm",
-      "published_utc": "2026-02-16T12:48:45+00:00",
-      "score": 1,
-      "image": "https://picsum.photos/seed/vb-f65c0801c2efa750/480/320"
     }
   ],
   "joke_ro": {
@@ -1941,7 +1941,7 @@
       "tag": "space",
       "title": "Space",
       "link": "https://commons.wikimedia.org/wiki/Category:Astronomy",
-      "image": "https://live.staticflickr.com/65535/55118553617_ccb01fe436_b.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/NGC_4414_%28NASA-med%29.jpg"
     },
     {
       "tag": "animals",
