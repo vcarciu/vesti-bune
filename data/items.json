@@ -1,7 +1,18 @@
 {
-  "generated_utc": "2026-03-04T17:34:55+00:00",
+  "generated_utc": "2026-03-04T18:37:03+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Factura la electricitate poate scădea și la jumătate dacă schimbi furnizorul, dar 95% dintre consumatorii români „stau pe loc” / „Reflexul de a căuta cele mai bune oferte este amorțit”",
+        "summary": "Consumatorii români de electricitate și-au schimbat furnizorul, în 2025, de 650.773 de ori în total, arată datele transmise de Autoritatea Națională de Reglementare în domeniul Energiei (ANRE) la solicitarea HotNews. Ponderea celor care migrează la&#8230;",
+        "link": "https://hotnews.ro/factura-la-electricitate-poate-scadea-si-la-jumatate-daca-schimbi-furnizorul-dar-95-dintre-consumatorii-romani-stau-pe-loc-reflexul-de-a-cauta-cele-mai-bune-oferte-este-a-2179969",
+        "published_utc": "2026-03-04T18:00:45+00:00",
+        "score": 3,
+        "image": "https://hotnews.ro/wp-content/uploads/2025/10/dreamstime_m_388841573.jpg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -67,17 +78,6 @@
         "published_utc": "2026-03-04T12:28:53+00:00",
         "score": 3,
         "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/nea_costel_bere_terasa.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "RomaniaPozitiva",
-        "title": "După un circuit național, prima expoziție a artistei Ana-Maria Gălețeanu se reîntoarce la Brașov",
-        "summary": "Titlu: „[un]folded” Artist: Ana-Maria Gălețeanu Curator: Alexandra Ilnițchi-Ardelean Perioada: 6 martie &#8211; 9 aprilie 2026 Organizator: Muzeul de Artă Brașov Locul desfășurării: Sala unu, Muzeul de Artă Brașov, B-dul Eroilor&#8230; Articolul După un circuit național, prima expoziție a artistei Ana-Maria Gălețeanu se reîntoarce la Brașov apare prima dată în Romania Pozitiva .",
-        "link": "https://www.romaniapozitiva.ro/cultura/dupa-un-circuit-national-prima-expozitie-a-artistei-ana-maria-galeteanu-se-reintoarce-la-brasov",
-        "published_utc": "2026-03-04T12:23:19+00:00",
-        "score": 1,
-        "image": "http://www.romaniapozitiva.ro/wp-content/uploads/2026/03/Ana-Maria-Galeteanu-Foto-de-Razvan-Precup.jpg"
       },
       {
         "section": "romania",
@@ -180,6 +180,28 @@
       }
     ],
     "medical": [
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "Popular fruits and vegetables linked to higher pesticide levels",
+        "summary": "A sweeping new study reveals that what’s on your plate may directly shape the pesticides circulating in your body. Researchers found that people who eat more fruits and vegetables known to carry higher pesticide residues—such as strawberries, spinach, and bell peppers—also have significantly higher levels of those chemicals in their urine. While produce remains a cornerstone of a healthy diet, the findings highlight how everyday food choices can drive real-world exposure to substances linked to cancer, hormone disruption, and developmental harm.",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260303145705.htm",
+        "published_utc": "2026-03-04T18:09:52+00:00",
+        "score": 2,
+        "image": "https://picsum.photos/seed/vb-59dfbee4d8ad6aa4/480/320"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "A simple hand photo may be the key to detecting a serious disease",
+        "summary": "Researchers at Kobe University have developed an AI system that can detect acromegaly, a rare hormone disorder, by analyzing photos of the back of the hand and a clenched fist. The disease often develops slowly and can take years to diagnose, even though untreated cases may shorten life expectancy.",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260303201807.htm",
+        "published_utc": "2026-03-04T16:59:51+00:00",
+        "score": 0,
+        "image": "https://picsum.photos/seed/vb-41a1a65a34205980/480/320"
+      },
       {
         "section": "medical",
         "kind": "global",
@@ -432,28 +454,6 @@
         "published_utc": "2026-02-27T16:08:10+00:00",
         "score": 1,
         "image": "https://picsum.photos/seed/vb-8d98f73c1fbaa67b/480/320"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "ScienceDaily Health",
-        "title": "Scientists turn methane into medicine in stunning breakthrough",
-        "summary": "Scientists have unveiled a breakthrough way to turn natural gas—long burned as fuel—into valuable chemical building blocks for medicines and other high-demand products. By designing a clever iron-based catalyst powered by LED light, researchers managed to activate stubborn molecules like methane and transform them into complex compounds, even creating the hormone therapy drug dimestrol directly from methane for the first time.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260227071916.htm",
-        "published_utc": "2026-02-27T15:51:30+00:00",
-        "score": 3,
-        "image": "https://picsum.photos/seed/vb-5403fd69c24168ad/480/320"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Positive News",
-        "title": "What went right this week: the good news that matters",
-        "summary": "A lost giant returned to Galapagos, Wales passed a ‘life-changing’ bill, and a Chinese river came back from the brink, plus more The post What went right this week: the good news that matters appeared first on Positive News .",
-        "link": "https://www.positive.news/society/good-news-stories-from-week-9-of-2026",
-        "published_utc": "2026-02-27T05:31:05+00:00",
-        "score": 0,
-        "image": "https://www.positive.news/wp-content/uploads/2026/02/DSC00155-1-e1772125208775.jpeg"
       }
     ],
     "science": [
@@ -836,6 +836,17 @@
       {
         "section": "environment",
         "kind": "global",
+        "source": "ScienceDaily Environment",
+        "title": "A giant blade-crested spinosaurus, the “hell heron,” discovered in the Sahara",
+        "summary": "Deep in the heart of the Sahara, scientists have uncovered Spinosaurus mirabilis — a spectacular new predator crowned with a massive, scimitar-shaped crest that may once have blazed with color under the desert sun. Discovered in remote inland river deposits in Niger, the fossil rewrites what we thought we knew about spinosaur dinosaurs, suggesting they weren’t fully aquatic hunters but powerful waders stalking fish in forested waterways hundreds of miles from the sea.",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260222092251.htm",
+        "published_utc": "2026-02-23T05:10:43+00:00",
+        "score": 2,
+        "image": "https://picsum.photos/seed/vb-b1c0882e67267a08/480/320"
+      },
+      {
+        "section": "environment",
+        "kind": "global",
         "source": "NASA Earth Observatory - Natural Hazards",
         "title": "Arctic Blast Brightened the West Florida Shelf",
         "summary": "A cold snap in the southern U.S. stirred up a dazzling display of sediment in coastal waters. The post Arctic Blast Brightened the West Florida Shelf appeared first on NASA Science .",
@@ -982,6 +993,17 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "HotNews",
+      "title": "Factura la electricitate poate scădea și la jumătate dacă schimbi furnizorul, dar 95% dintre consumatorii români „stau pe loc” / „Reflexul de a căuta cele mai bune oferte este amorțit”",
+      "summary": "Consumatorii români de electricitate și-au schimbat furnizorul, în 2025, de 650.773 de ori în total, arată datele transmise de Autoritatea Națională de Reglementare în domeniul Energiei (ANRE) la solicitarea HotNews. Ponderea celor care migrează la&#8230;",
+      "link": "https://hotnews.ro/factura-la-electricitate-poate-scadea-si-la-jumatate-daca-schimbi-furnizorul-dar-95-dintre-consumatorii-romani-stau-pe-loc-reflexul-de-a-cauta-cele-mai-bune-oferte-este-a-2179969",
+      "published_utc": "2026-03-04T18:00:45+00:00",
+      "score": 3,
+      "image": "https://hotnews.ro/wp-content/uploads/2025/10/dreamstime_m_388841573.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "Times New Roman (Satira)",
       "title": "😂 Dealerii exultă: dacă se închid păcănelele, lumea o să aibă în sfârşit bani pentru iarbă",
       "summary": "E sărbătoare în cartierul Pantelimon de când societatea civilă din România e din ce în ce mai hotărâtă să eradicheze flagelul păcănelelor! Mii de cultivatori şi dealeri din zonă sunt încrezători că afacerile lor vor înflori (hehe) după ce oamenii nu îşi vor mai sparge banii la aparate şi vor avea, în sfârşit, cu ce [&#8230;] The post Dealerii exultă: dacă se închid păcănelele, lumea o să aibă în sfârşit bani pentru iarbă appeared first on Times New Roman .",
@@ -1033,17 +1055,6 @@
       "published_utc": "2026-03-04T12:28:53+00:00",
       "score": 3,
       "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/nea_costel_bere_terasa.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "După un circuit național, prima expoziție a artistei Ana-Maria Gălețeanu se reîntoarce la Brașov",
-      "summary": "Titlu: „[un]folded” Artist: Ana-Maria Gălețeanu Curator: Alexandra Ilnițchi-Ardelean Perioada: 6 martie &#8211; 9 aprilie 2026 Organizator: Muzeul de Artă Brașov Locul desfășurării: Sala unu, Muzeul de Artă Brașov, B-dul Eroilor&#8230; Articolul După un circuit național, prima expoziție a artistei Ana-Maria Gălețeanu se reîntoarce la Brașov apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/cultura/dupa-un-circuit-national-prima-expozitie-a-artistei-ana-maria-galeteanu-se-reintoarce-la-brasov",
-      "published_utc": "2026-03-04T12:23:19+00:00",
-      "score": 1,
-      "image": "http://www.romaniapozitiva.ro/wp-content/uploads/2026/03/Ana-Maria-Galeteanu-Foto-de-Razvan-Precup.jpg"
     },
     {
       "section": "romania",
@@ -1101,15 +1112,15 @@
       "image": "https://start-up.ro/img/articles/3/7/9/37948/cover-37948-src.jpg"
     },
     {
-      "section": "science",
+      "section": "medical",
       "kind": "global",
-      "source": "NASA Breaking News",
-      "title": "Blowing Stellar Bubbles",
-      "summary": "For the first time, a young, Sun-like star has been caught red-handed blowing bubbles in the galaxy, by astronomers using NASA’s Chandra X-ray Observatory. The bubble – called an “astrosphere” – completely surrounds the juvenile star in this image released on Feb. 23, 2026. Winds from the star’s surface are blowing up the bubble and [&#8230;]",
-      "link": "https://www.nasa.gov/image-article/blowing-stellar-bubbles",
-      "published_utc": "2026-03-04T16:34:38+00:00",
-      "score": 0,
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/03/astrosphere-xray-infrared.webp"
+      "source": "ScienceDaily Health",
+      "title": "Popular fruits and vegetables linked to higher pesticide levels",
+      "summary": "A sweeping new study reveals that what’s on your plate may directly shape the pesticides circulating in your body. Researchers found that people who eat more fruits and vegetables known to carry higher pesticide residues—such as strawberries, spinach, and bell peppers—also have significantly higher levels of those chemicals in their urine. While produce remains a cornerstone of a healthy diet, the findings highlight how everyday food choices can drive real-world exposure to substances linked to cancer, hormone disruption, and developmental harm.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260303145705.htm",
+      "published_utc": "2026-03-04T18:09:52+00:00",
+      "score": 2,
+      "image": "https://picsum.photos/seed/vb-59dfbee4d8ad6aa4/480/320"
     },
     {
       "section": "romania",
@@ -1134,15 +1145,15 @@
       "image": "https://green.start-up.ro/img/articles/3/5/7/35715/cover-35715-src.jpg"
     },
     {
-      "section": "science",
+      "section": "medical",
       "kind": "global",
-      "source": "NASA Breaking News",
-      "title": "I Am Artemis: Paul Boehm",
-      "summary": "Listen to this audio excerpt from Paul Boehm, Orion crew support and thermal systems&#160;functional area manager: As the Artemis II astronauts fly around the Moon, they’ll rely on systems inside the Orion spacecraft to live, work, and keep them safe during their mission. At NASA’s Johnson Space Center in Houston, Paul Boehm, crew support and [&#8230;]",
-      "link": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-paul-boehm",
-      "published_utc": "2026-03-04T16:31:50+00:00",
+      "source": "ScienceDaily Health",
+      "title": "A simple hand photo may be the key to detecting a serious disease",
+      "summary": "Researchers at Kobe University have developed an AI system that can detect acromegaly, a rare hormone disorder, by analyzing photos of the back of the hand and a clenched fist. The disease often develops slowly and can take years to diagnose, even though untreated cases may shorten life expectancy.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260303201807.htm",
+      "published_utc": "2026-03-04T16:59:51+00:00",
       "score": 0,
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/02/paul-boehm.jpg"
+      "image": "https://picsum.photos/seed/vb-41a1a65a34205980/480/320"
     },
     {
       "section": "romania",
@@ -1165,6 +1176,28 @@
       "published_utc": "2026-02-02T10:32:03+00:00",
       "score": 3,
       "image": "https://stiripozitive.com/wp-content/uploads/2026/02/harta-.jpeg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "NASA Breaking News",
+      "title": "Blowing Stellar Bubbles",
+      "summary": "For the first time, a young, Sun-like star has been caught red-handed blowing bubbles in the galaxy, by astronomers using NASA’s Chandra X-ray Observatory. The bubble – called an “astrosphere” – completely surrounds the juvenile star in this image released on Feb. 23, 2026. Winds from the star’s surface are blowing up the bubble and [&#8230;]",
+      "link": "https://www.nasa.gov/image-article/blowing-stellar-bubbles",
+      "published_utc": "2026-03-04T16:34:38+00:00",
+      "score": 0,
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/03/astrosphere-xray-infrared.webp"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "NASA Breaking News",
+      "title": "I Am Artemis: Paul Boehm",
+      "summary": "Listen to this audio excerpt from Paul Boehm, Orion crew support and thermal systems&#160;functional area manager: As the Artemis II astronauts fly around the Moon, they’ll rely on systems inside the Orion spacecraft to live, work, and keep them safe during their mission. At NASA’s Johnson Space Center in Houston, Paul Boehm, crew support and [&#8230;]",
+      "link": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-paul-boehm",
+      "published_utc": "2026-03-04T16:31:50+00:00",
+      "score": 0,
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/02/paul-boehm.jpg"
     },
     {
       "section": "science",
@@ -1717,28 +1750,6 @@
       "image": "https://picsum.photos/seed/vb-8d98f73c1fbaa67b/480/320"
     },
     {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "Scientists turn methane into medicine in stunning breakthrough",
-      "summary": "Scientists have unveiled a breakthrough way to turn natural gas—long burned as fuel—into valuable chemical building blocks for medicines and other high-demand products. By designing a clever iron-based catalyst powered by LED light, researchers managed to activate stubborn molecules like methane and transform them into complex compounds, even creating the hormone therapy drug dimestrol directly from methane for the first time.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260227071916.htm",
-      "published_utc": "2026-02-27T15:51:30+00:00",
-      "score": 3,
-      "image": "https://picsum.photos/seed/vb-5403fd69c24168ad/480/320"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Positive News",
-      "title": "What went right this week: the good news that matters",
-      "summary": "A lost giant returned to Galapagos, Wales passed a ‘life-changing’ bill, and a Chinese river came back from the brink, plus more The post What went right this week: the good news that matters appeared first on Positive News .",
-      "link": "https://www.positive.news/society/good-news-stories-from-week-9-of-2026",
-      "published_utc": "2026-02-27T05:31:05+00:00",
-      "score": 0,
-      "image": "https://www.positive.news/wp-content/uploads/2026/02/DSC00155-1-e1772125208775.jpeg"
-    },
-    {
       "section": "environment",
       "kind": "global",
       "source": "NASA Earth Observatory - Image of the Day",
@@ -1792,6 +1803,17 @@
       "published_utc": "2026-02-23T17:34:16+00:00",
       "score": 0,
       "image": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26693/PIA26693.png/jcr:content/renditions/cq5dam.web.1280.1280.png"
+    },
+    {
+      "section": "environment",
+      "kind": "global",
+      "source": "ScienceDaily Environment",
+      "title": "A giant blade-crested spinosaurus, the “hell heron,” discovered in the Sahara",
+      "summary": "Deep in the heart of the Sahara, scientists have uncovered Spinosaurus mirabilis — a spectacular new predator crowned with a massive, scimitar-shaped crest that may once have blazed with color under the desert sun. Discovered in remote inland river deposits in Niger, the fossil rewrites what we thought we knew about spinosaur dinosaurs, suggesting they weren’t fully aquatic hunters but powerful waders stalking fish in forested waterways hundreds of miles from the sea.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260222092251.htm",
+      "published_utc": "2026-02-23T05:10:43+00:00",
+      "score": 2,
+      "image": "https://picsum.photos/seed/vb-b1c0882e67267a08/480/320"
     },
     {
       "section": "environment",
@@ -1928,7 +1950,7 @@
   ],
   "joke_ro": {
     "date_utc": "2026-03-04",
-    "text": "- Ce faci diseara? - Ma odihnesc de la cat n-am facut azi.",
+    "text": "- Am incercat sa meditez. M-am gandit prea tare la cum sa nu ma gandesc.",
     "source": "data/jokes_ro.txt"
   },
   "satire_ro": {
@@ -1941,13 +1963,13 @@
       "tag": "space",
       "title": "Space",
       "link": "https://commons.wikimedia.org/wiki/Category:Astronomy",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/NGC_4414_%28NASA-med%29.jpg"
+      "image": "https://live.staticflickr.com/65535/55118553617_ccb01fe436_b.jpg"
     },
     {
       "tag": "animals",
       "title": "Animals",
       "link": "https://commons.wikimedia.org/wiki/Category:Animals",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Siberischer_tiger_de_edit02.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg"
     },
     {
       "tag": "landscape",
