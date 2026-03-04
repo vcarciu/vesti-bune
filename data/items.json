@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-03-03T23:20:09+00:00",
+  "generated_utc": "2026-03-04T01:09:34+00:00",
   "sections": {
     "romania": [
       {
@@ -1927,8 +1927,8 @@
     }
   ],
   "joke_ro": {
-    "date_utc": "2026-03-03",
-    "text": "- Azi am fost foarte organizat: mi-am amanat amanarea.",
+    "date_utc": "2026-03-04",
+    "text": "- Mi-am facut lista de treburi. Acum am doua: lista si vinovatia.",
     "source": "data/jokes_ro.txt"
   },
   "satire_ro": {
@@ -1941,7 +1941,7 @@
       "tag": "space",
       "title": "Space",
       "link": "https://commons.wikimedia.org/wiki/Category:Astronomy",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/NGC_4414_%28NASA-med%29.jpg"
+      "image": "https://live.staticflickr.com/65535/55118553617_ccb01fe436_b.jpg"
     },
     {
       "tag": "animals",
