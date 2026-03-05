@@ -585,6 +585,10 @@ TOP_IMAGE_DEFAULTS = {
     "space": [
         "https://upload.wikimedia.org/wikipedia/commons/e/e5/NGC_4414_%28NASA-med%29.jpg",
         "https://live.staticflickr.com/65535/55118553617_ccb01fe436_b.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/95/ESO_-_Milky_Way.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/00/Crab_Nebula.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c7/The_Pillars_of_Creation_%28NIRCam_Image%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/1a/PIA12235_HIRISE_view_of_Mars.jpg",
     ],
     "animals": [
         "https://upload.wikimedia.org/wikipedia/commons/4/40/Siberischer_tiger_de_edit02.jpg",
@@ -651,7 +655,13 @@ def _pick_with_history(candidates: List[str], recent: List[str]) -> Optional[str
 
     recent_set = set(recent or [])
     fresh = [u for u in unique if u not in recent_set]
-    pool = fresh or unique
+    if fresh:
+        pool = fresh
+    elif recent and len(unique) > 1:
+        # Evita repetarea imediata chiar daca toate candidatele sunt deja in istoric.
+        pool = [u for u in unique if u != recent[0]] or unique
+    else:
+        pool = unique
     return random.choice(pool)
 
 def _update_history(history: Dict[str, List[str]], tag: str, image_url: str) -> None:
