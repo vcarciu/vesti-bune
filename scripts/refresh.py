@@ -234,6 +234,17 @@ def is_top_photo_candidate(tag: str, title: str, summary: str, link: str) -> boo
         bad_animals = _mk_norm_list(["cat", "dog", "bird", "eagle", "hawk", "tiger", "lion", "wolf", "fox", "bear", "animal"])
         good_land = _mk_norm_list(["landscape", "nature", "mountain", "valley", "forest", "lake", "river", "sunset", "sunrise", "waterfall"])
         return any(k in text for k in good_land) and not any(k in text for k in bad_animals)
+    if tag == "animals":
+        good_animals = _mk_norm_list([
+            "animal", "animals", "wildlife", "mammal", "bird", "cat", "dog", "fox", "wolf", "bear",
+            "lion", "tiger", "elephant", "deer", "otter", "seal", "whale", "dolphin", "owl", "eagle",
+            "toucan", "penguin", "koala", "panda"
+        ])
+        bad = _mk_norm_list([
+            "space", "astronomy", "nebula", "galaxy", "planet", "milky way",
+            "landscape", "mountain", "valley", "city", "urban", "architecture", "skyline",
+        ])
+        return any(k in text for k in good_animals) and not any(k in text for k in bad)
     if tag == "humans":
         bad = _mk_norm_list(["nude", "lingerie", "swimwear", "bikini", "nsfw", "erotic"])
         return not any(k in text for k in bad)
@@ -584,28 +595,28 @@ SAFE_ANIMALS_IMAGES = [
 ANIMALS_IMAGE_LOCAL_FALLBACK = "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 800'><defs><linearGradient id='g' x1='0' x2='1'><stop offset='0' stop-color='%23122b1f'/><stop offset='1' stop-color='%230f172a'/></linearGradient></defs><rect width='1200' height='800' fill='url(%23g)'/><text x='600' y='420' text-anchor='middle' fill='%23e5f3ea' font-size='86' font-family='Arial, sans-serif'>Animals</text></svg>"
 TOP_IMAGE_DEFAULTS = {
     "space": [
-        "https://picsum.photos/seed/vb-space-9701/1600/900",
-        "https://picsum.photos/seed/vb-space-9702/1600/900",
-        "https://picsum.photos/seed/vb-space-9703/1600/900",
-        "https://picsum.photos/seed/vb-space-9704/1600/900",
-        "https://picsum.photos/seed/vb-space-9705/1600/900",
-        "https://picsum.photos/seed/vb-space-9706/1600/900",
+        "https://upload.wikimedia.org/wikipedia/commons/e/e5/NGC_4414_%28NASA-med%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/00/Crab_Nebula.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c7/The_Pillars_of_Creation_%28NIRCam_Image%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/1a/PIA12235_HIRISE_view_of_Mars.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/95/ESO_-_Milky_Way.jpg",
+        "https://live.staticflickr.com/65535/55118553617_ccb01fe436_b.jpg",
     ],
     "animals": [
-        "https://picsum.photos/seed/vb-animals-9801/1600/900",
-        "https://picsum.photos/seed/vb-animals-9802/1600/900",
-        "https://picsum.photos/seed/vb-animals-9803/1600/900",
-        "https://picsum.photos/seed/vb-animals-9804/1600/900",
-        "https://picsum.photos/seed/vb-animals-9805/1600/900",
-        "https://picsum.photos/seed/vb-animals-9806/1600/900",
+        "https://upload.wikimedia.org/wikipedia/commons/4/40/Siberischer_tiger_de_edit02.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/6e/Golde33443.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/56/Toco_Toucan_RWD.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/15/Red_fox_-_november_2011.jpg",
     ],
     "landscape": [
-        "https://picsum.photos/seed/vb-landscape-9901/1600/900",
-        "https://picsum.photos/seed/vb-landscape-9902/1600/900",
-        "https://picsum.photos/seed/vb-landscape-9903/1600/900",
-        "https://picsum.photos/seed/vb-landscape-9904/1600/900",
-        "https://picsum.photos/seed/vb-landscape-9905/1600/900",
-        "https://picsum.photos/seed/vb-landscape-9906/1600/900",
+        "https://upload.wikimedia.org/wikipedia/commons/7/7c/Mount_Rainier_from_above_Myrtle_Falls_in_August.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/3/3f/Fronalpstock_big.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/2c/Moraine_Lake_17092005.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/88/Torres_del_Paine_%28Chile%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/6f/YosemitePark2_amk.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/27/Swiss_Alps_Jungfrau-Aletsch.jpg",
     ],
     "humans": [
         "https://upload.wikimedia.org/wikipedia/commons/d/d3/Albert_Einstein_Head.jpg",
@@ -671,7 +682,14 @@ def _save_top_image_state(state: Dict[str, Any]) -> None:
     write_json(TOP_IMAGE_STATE_PATH, state)
 
 def _fallback_unique_image(tag: str, slot: int, nonce: int = 0) -> str:
-    return f"https://picsum.photos/seed/vb-{tag}-slot{slot}-n{nonce}/1600/900"
+    lock = abs(int(hashlib.sha1(f"{tag}|{slot}|{nonce}".encode("utf-8")).hexdigest(), 16)) % 1000000
+    queries = {
+        "space": "space,galaxy,nebula,astronomy",
+        "animals": "animals,wildlife,bird,mammal",
+        "landscape": "landscape,mountains,nature,valley",
+    }
+    q = queries.get(tag, "nature,photo")
+    return f"https://loremflickr.com/1600/900/{q}?lock={lock}"
 
 def _top_tag_feeds(tag: str) -> List[str]:
     if tag == "space":
