@@ -62,6 +62,12 @@ rss_sources:
       url: https://stiripozitive.com/feed/
     - name: StiriPozitive - Povesti de viata
       url: https://stiripozitive.com/category/povesti-de-viata/feed/
+    - name: StiriPozitive - Animale
+      url: https://stiripozitive.com/category/animale/feed/
+    - name: StiriPozitive - Fapte bune
+      url: https://stiripozitive.com/category/fapte-bune/feed/
+    - name: StiriPozitive - Relatii
+      url: https://stiripozitive.com/category/relatii/feed/
     - name: StiriPozitive - Ecologie
       url: https://stiripozitive.com/category/ecologie/feed/
     - name: StiriPozitive - Sport
