@@ -1,0 +1,59 @@
+{
+  "status": "ok",
+  "checked_utc": "2026-03-05T19:18:08+00:00",
+  "generated_utc": "2026-03-05T18:06:45+00:00",
+  "generated_age_minutes": 71,
+  "section_counts": {
+    "romania": 17,
+    "medical": 25,
+    "science": 25,
+    "environment": 22
+  },
+  "mix_count": 89,
+  "fresh_24h_mix": 21,
+  "fresh_24h_all_sections": 21,
+  "duplicate_titles_in_mix": 0,
+  "top_sources_mix": [
+    {
+      "source": "ScienceDaily Health",
+      "count": 19
+    },
+    {
+      "source": "ScienceDaily Science",
+      "count": 15
+    },
+    {
+      "source": "ScienceDaily Environment",
+      "count": 15
+    },
+    {
+      "source": "NASA Breaking News",
+      "count": 10
+    },
+    {
+      "source": "Positive News",
+      "count": 6
+    },
+    {
+      "source": "Start-Up Romania",
+      "count": 5
+    },
+    {
+      "source": "Green Start-Up Romania",
+      "count": 5
+    },
+    {
+      "source": "NASA Earth Observatory - Image of the Day",
+      "count": 4
+    },
+    {
+      "source": "Times New Roman (Satira)",
+      "count": 3
+    },
+    {
+      "source": "NASA Earth Observatory - Natural Hazards",
+      "count": 3
+    }
+  ],
+  "issues": []
+}
