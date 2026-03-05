@@ -583,28 +583,28 @@ SAFE_ANIMALS_IMAGES = [
 ANIMALS_IMAGE_LOCAL_FALLBACK = "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 800'><defs><linearGradient id='g' x1='0' x2='1'><stop offset='0' stop-color='%23122b1f'/><stop offset='1' stop-color='%230f172a'/></linearGradient></defs><rect width='1200' height='800' fill='url(%23g)'/><text x='600' y='420' text-anchor='middle' fill='%23e5f3ea' font-size='86' font-family='Arial, sans-serif'>Animals</text></svg>"
 TOP_IMAGE_DEFAULTS = {
     "space": [
-        "https://picsum.photos/seed/vb-space-9101/1600/900",
-        "https://picsum.photos/seed/vb-space-9102/1600/900",
-        "https://picsum.photos/seed/vb-space-9103/1600/900",
-        "https://picsum.photos/seed/vb-space-9104/1600/900",
-        "https://picsum.photos/seed/vb-space-9105/1600/900",
-        "https://picsum.photos/seed/vb-space-9106/1600/900",
+        "https://picsum.photos/seed/vb-space-9701/1600/900",
+        "https://picsum.photos/seed/vb-space-9702/1600/900",
+        "https://picsum.photos/seed/vb-space-9703/1600/900",
+        "https://picsum.photos/seed/vb-space-9704/1600/900",
+        "https://picsum.photos/seed/vb-space-9705/1600/900",
+        "https://picsum.photos/seed/vb-space-9706/1600/900",
     ],
     "animals": [
-        "https://picsum.photos/seed/vb-animals-9201/1600/900",
-        "https://picsum.photos/seed/vb-animals-9202/1600/900",
-        "https://picsum.photos/seed/vb-animals-9203/1600/900",
-        "https://picsum.photos/seed/vb-animals-9204/1600/900",
-        "https://picsum.photos/seed/vb-animals-9205/1600/900",
-        "https://picsum.photos/seed/vb-animals-9206/1600/900",
+        "https://picsum.photos/seed/vb-animals-9801/1600/900",
+        "https://picsum.photos/seed/vb-animals-9802/1600/900",
+        "https://picsum.photos/seed/vb-animals-9803/1600/900",
+        "https://picsum.photos/seed/vb-animals-9804/1600/900",
+        "https://picsum.photos/seed/vb-animals-9805/1600/900",
+        "https://picsum.photos/seed/vb-animals-9806/1600/900",
     ],
     "landscape": [
-        "https://picsum.photos/seed/vb-landscape-9301/1600/900",
-        "https://picsum.photos/seed/vb-landscape-9302/1600/900",
-        "https://picsum.photos/seed/vb-landscape-9303/1600/900",
-        "https://picsum.photos/seed/vb-landscape-9304/1600/900",
-        "https://picsum.photos/seed/vb-landscape-9305/1600/900",
-        "https://picsum.photos/seed/vb-landscape-9306/1600/900",
+        "https://picsum.photos/seed/vb-landscape-9901/1600/900",
+        "https://picsum.photos/seed/vb-landscape-9902/1600/900",
+        "https://picsum.photos/seed/vb-landscape-9903/1600/900",
+        "https://picsum.photos/seed/vb-landscape-9904/1600/900",
+        "https://picsum.photos/seed/vb-landscape-9905/1600/900",
+        "https://picsum.photos/seed/vb-landscape-9906/1600/900",
     ],
     "humans": [
         "https://upload.wikimedia.org/wikipedia/commons/d/d3/Albert_Einstein_Head.jpg",
@@ -651,6 +651,21 @@ def _normalize_history_map(raw: Any) -> Dict[str, List[str]]:
 def _current_rotation_slot(hours: int = TOP_IMAGE_ROTATION_HOURS) -> int:
     now_ts = datetime.now(timezone.utc).timestamp()
     return int(now_ts // max(1, hours * 3600))
+
+def _pick_for_slot(candidates: List[str], tag: str, slot: int) -> Optional[str]:
+    unique = []
+    seen = set()
+    for c in candidates or []:
+        u = (c or "").strip()
+        if not u or u in seen:
+            continue
+        seen.add(u)
+        unique.append(u)
+    if not unique:
+        return None
+    basis = f"{tag}|{slot}"
+    idx = int(hashlib.sha1(basis.encode("utf-8")).hexdigest(), 16) % len(unique)
+    return unique[idx]
 
 def _pick_with_history(candidates: List[str], recent: List[str], tag: str = "", slot: Optional[int] = None) -> Optional[str]:
     if not candidates:
@@ -718,7 +733,7 @@ def pick_flickr_images(limit: int = 3, prev_payload: Optional[Dict[str, Any]] = 
         recent = history.get(tag, [])
         if tag in STATIC_TOP_TAGS:
             defaults = TOP_IMAGE_DEFAULTS.get(tag) or []
-            picked = _pick_with_history(defaults, recent, tag=tag, slot=slot)
+            picked = _pick_for_slot(defaults, tag=tag, slot=slot)
             if picked:
                 out.append({
                     "tag": tag,
@@ -772,7 +787,7 @@ def pick_flickr_images(limit: int = 3, prev_payload: Optional[Dict[str, Any]] = 
             final.append(by_tag[tag])
             continue
         defaults = TOP_IMAGE_DEFAULTS.get(tag) or []
-        picked = _pick_with_history(defaults, history.get(tag, []), tag=tag, slot=slot)
+        picked = _pick_for_slot(defaults, tag=tag, slot=slot)
         if not picked:
             continue
         chosen = {

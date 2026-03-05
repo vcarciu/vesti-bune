@@ -381,8 +381,6 @@
   }
 
   function pickForViewer(tag, primaryUrl, historyMap){
-    const key = `vb:v2:last-top-image:${tag}`;
-    const last = localStorage.getItem(key) || "";
     const fromHistory = Array.isArray(historyMap?.[tag]) ? historyMap[tag] : [];
     const candidates = uniqUrls([primaryUrl, ...fromHistory]);
     if(!candidates.length) return primaryUrl || "";
@@ -392,14 +390,7 @@
     let h = 0;
     for(let i=0;i<basis.length;i++) h = ((h<<5)-h) + basis.charCodeAt(i);
     h = Math.abs(h);
-    let chosen = candidates[h % candidates.length];
-
-    if(last && chosen === last && candidates.length > 1){
-      const alt = candidates.find(u => u !== last);
-      if(alt) chosen = alt;
-    }
-    try{ localStorage.setItem(key, chosen); }catch(e){}
-    return chosen;
+    return candidates[h % candidates.length];
   }
 
   function pickTopPhotos(topImages, topImageHistory){
