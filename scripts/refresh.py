@@ -605,7 +605,7 @@ TOP_IMAGE_DEFAULTS = {
         "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
     ],
 }
-STATIC_TOP_TAGS = {"space", "animals", "landscape"}
+STATIC_TOP_TAGS = {"animals"}
 TOP_IMAGE_LINKS = {
     "space": "https://commons.wikimedia.org/wiki/Category:Astronomy",
     "animals": "https://commons.wikimedia.org/wiki/Category:Animals",
@@ -614,8 +614,67 @@ TOP_IMAGE_LINKS = {
     "cities": "https://commons.wikimedia.org/wiki/Category:Cities",
     "microcosmos": "https://commons.wikimedia.org/wiki/Category:Microscopy",
 }
+TOP_IMAGE_HISTORY_LIMIT = 18
 
-def pick_flickr_images(limit: int = 3) -> List[Dict[str, Any]]:
+def _normalize_history_map(raw: Any) -> Dict[str, List[str]]:
+    out: Dict[str, List[str]] = {}
+    if not isinstance(raw, dict):
+        return out
+    for tag, arr in raw.items():
+        if not isinstance(tag, str) or not isinstance(arr, list):
+            continue
+        cleaned: List[str] = []
+        seen = set()
+        for x in arr:
+            u = (x or "").strip() if isinstance(x, str) else ""
+            if not u or u in seen:
+                continue
+            seen.add(u)
+            cleaned.append(u)
+        if cleaned:
+            out[tag] = cleaned[:TOP_IMAGE_HISTORY_LIMIT]
+    return out
+
+def _pick_with_history(candidates: List[str], recent: List[str]) -> Optional[str]:
+    if not candidates:
+        return None
+    unique = []
+    seen = set()
+    for c in candidates:
+        u = (c or "").strip()
+        if not u or u in seen:
+            continue
+        seen.add(u)
+        unique.append(u)
+    if not unique:
+        return None
+
+    recent_set = set(recent or [])
+    fresh = [u for u in unique if u not in recent_set]
+    pool = fresh or unique
+    return random.choice(pool)
+
+def _update_history(history: Dict[str, List[str]], tag: str, image_url: str) -> None:
+    if not tag or not image_url:
+        return
+    existing = list(history.get(tag) or [])
+    existing = [x for x in existing if x != image_url]
+    existing.insert(0, image_url)
+    history[tag] = existing[:TOP_IMAGE_HISTORY_LIMIT]
+
+def pick_flickr_images(limit: int = 3, prev_payload: Optional[Dict[str, Any]] = None) -> Tuple[List[Dict[str, Any]], Dict[str, List[str]]]:
+    prev_payload = prev_payload or {}
+    history = _normalize_history_map(prev_payload.get("top_image_history"))
+    prev_top = prev_payload.get("top_images")
+    if isinstance(prev_top, list):
+        for x in prev_top:
+            if not isinstance(x, dict):
+                continue
+            tag = (x.get("tag") or "").strip()
+            img = (x.get("image") or "").strip()
+            if tag and img:
+                _update_history(history, tag, img)
+
     feeds = [
         ("space", "https://www.flickr.com/services/feeds/photos_public.gne?format=rss2&tags=astronomy,nebula,galaxy,nasa,telescope&tagmode=any"),
         ("humans", "https://www.flickr.com/services/feeds/photos_public.gne?format=rss2&tags=portrait,people,human&tagmode=all"),
@@ -626,23 +685,26 @@ def pick_flickr_images(limit: int = 3) -> List[Dict[str, Any]]:
 
     out: List[Dict[str, Any]] = []
     for tag, url in feeds:
+        recent = history.get(tag, [])
         if tag in STATIC_TOP_TAGS:
             defaults = TOP_IMAGE_DEFAULTS.get(tag) or []
-            if defaults:
+            picked = _pick_with_history(defaults, recent)
+            if picked:
                 out.append({
                     "tag": tag,
                     "title": tag.title(),
                     "link": TOP_IMAGE_LINKS.get(tag, "#"),
-                    "image": random.choice(defaults),
+                    "image": picked,
                 })
+                _update_history(history, tag, picked)
             continue
         try:
             f = fetch_rss(url)
             if not f.entries:
-                continue
-            entries = list(f.entries[:40])
+                raise RuntimeError("empty feed")
+            entries = list(f.entries[:60])
             random.shuffle(entries)
-            chosen: Optional[Dict[str, Any]] = None
+            candidates: List[Dict[str, Any]] = []
             for e in entries:
                 title = (e.get("title") or "").strip()
                 link = (e.get("link") or "").strip()
@@ -652,12 +714,26 @@ def pick_flickr_images(limit: int = 3) -> List[Dict[str, Any]]:
                     continue
                 if not is_top_photo_candidate(tag, title, summary, link):
                     continue
-                chosen = {"tag": tag, "title": title, "link": link, "image": img}
-                break
-            if chosen:
-                out.append(chosen)
+                candidates.append({"tag": tag, "title": title, "link": link, "image": img})
+            if not candidates:
+                raise RuntimeError("no valid candidates")
+
+            img_candidates = [c["image"] for c in candidates]
+            picked_img = _pick_with_history(img_candidates, recent)
+            chosen = next((c for c in candidates if c["image"] == picked_img), candidates[0])
+            out.append(chosen)
+            _update_history(history, tag, chosen["image"])
         except Exception:
-            continue
+            defaults = TOP_IMAGE_DEFAULTS.get(tag) or []
+            picked = _pick_with_history(defaults, recent)
+            if picked:
+                out.append({
+                    "tag": tag,
+                    "title": tag.title(),
+                    "link": TOP_IMAGE_LINKS.get(tag, "#"),
+                    "image": picked,
+                })
+                _update_history(history, tag, picked)
     required = ["space", "animals", "landscape"]
     by_tag = {x.get("tag"): x for x in out if x and x.get("tag")}
     final: List[Dict[str, Any]] = []
@@ -666,15 +742,18 @@ def pick_flickr_images(limit: int = 3) -> List[Dict[str, Any]]:
             final.append(by_tag[tag])
             continue
         defaults = TOP_IMAGE_DEFAULTS.get(tag) or []
-        if not defaults:
+        picked = _pick_with_history(defaults, history.get(tag, []))
+        if not picked:
             continue
-        final.append({
+        chosen = {
             "tag": tag,
             "title": tag.title(),
             "link": TOP_IMAGE_LINKS.get(tag, "#"),
-            "image": random.choice(defaults),
-        })
-    return final[:limit]
+            "image": picked,
+        }
+        final.append(chosen)
+        _update_history(history, tag, chosen["image"])
+    return final[:limit], history
 
 def build_mix_items(sections: Dict[str, List[Dict[str, Any]]], ro_head: int = 10, max_items: int = 120) -> List[Dict[str, Any]]:
     ro = list(sections.get("romania") or [])
@@ -981,13 +1060,16 @@ def main() -> None:
         effective_mix = build_mix_items(effective_sections)
         print("[WARN] current refresh returned 0 items; using emergency positive fallback")
 
+    top_images, top_image_history = pick_flickr_images(limit=3, prev_payload=prev if isinstance(prev, dict) else None)
+
     payload: Dict[str, Any] = {
         "generated_utc": utc_now_iso(),
         "sections": effective_sections,
         "mix_items": effective_mix,
         "joke_ro": build_joke(),
         "satire_ro": build_satire(),
-        "top_images": pick_flickr_images(limit=3),
+        "top_images": top_images,
+        "top_image_history": top_image_history,
     }
     write_json(OUT_NEWS, payload)
     write_json(OUT_ITEMS, payload)
