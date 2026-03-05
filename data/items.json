@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-03-05T15:45:30+00:00",
+  "generated_utc": "2026-03-05T17:02:26+00:00",
   "sections": {
     "romania": [
       {
@@ -1976,22 +1976,22 @@
     "source": "data/jokes_ro.txt"
   },
   "satire_ro": {
-    "title": "Nominalizarea lui Cerbu la șefia DNA a fost retrasă. Încă e sub contract cu Ciucaș",
-    "link": "https://www.timesnewroman.ro/politic/nominalizarea-lui-cerbu-la-sefia-dna-a-fost-retrasa-inca-e-sub-contract-cu-ciucas/",
-    "source": "timesnewroman.ro"
+    "title": "Specialiștii confirmă: 80% din stres dispare când nu mai răspunzi la „ai un minut?”",
+    "link": "#",
+    "source": "fallback"
   },
   "top_images": [
     {
       "tag": "space",
       "title": "Space",
       "link": "https://commons.wikimedia.org/wiki/Category:Astronomy",
-      "image": "https://live.staticflickr.com/65535/55118553617_ccb01fe436_b.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/NGC_4414_%28NASA-med%29.jpg"
     },
     {
       "tag": "animals",
       "title": "Animals",
       "link": "https://commons.wikimedia.org/wiki/Category:Animals",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Siberischer_tiger_de_edit02.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Golde33443.jpg"
     },
     {
       "tag": "landscape",
@@ -1999,5 +1999,27 @@
       "link": "https://commons.wikimedia.org/wiki/Category:Landscapes",
       "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Mount_Rainier_from_above_Myrtle_Falls_in_August.JPG"
     }
-  ]
+  ],
+  "top_image_history": {
+    "space": [
+      "https://upload.wikimedia.org/wikipedia/commons/e/e5/NGC_4414_%28NASA-med%29.jpg",
+      "https://live.staticflickr.com/65535/55118553617_ccb01fe436_b.jpg"
+    ],
+    "animals": [
+      "https://upload.wikimedia.org/wikipedia/commons/6/6e/Golde33443.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/40/Siberischer_tiger_de_edit02.jpg"
+    ],
+    "landscape": [
+      "https://upload.wikimedia.org/wikipedia/commons/7/7c/Mount_Rainier_from_above_Myrtle_Falls_in_August.JPG"
+    ],
+    "humans": [
+      "https://upload.wikimedia.org/wikipedia/commons/d/d3/Albert_Einstein_Head.jpg"
+    ],
+    "cities": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/3f/NYC_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg"
+    ],
+    "microcosmos": [
+      "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
+    ]
+  }
 }
