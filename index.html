@@ -381,7 +381,7 @@
   }
 
   function pickForViewer(tag, primaryUrl, historyMap){
-    const key = `vb:last-top-image:${tag}`;
+    const key = `vb:v2:last-top-image:${tag}`;
     const last = localStorage.getItem(key) || "";
     const fromHistory = Array.isArray(historyMap?.[tag]) ? historyMap[tag] : [];
     const candidates = uniqUrls([primaryUrl, ...fromHistory]);
