@@ -4,6 +4,7 @@ filters:
   ro_min_items: 16
   ro_try_relaxed: true
   ro_max_age_days: 45
+  publish_cooldown_days: 35
 
   thresholds:
     romania: 0

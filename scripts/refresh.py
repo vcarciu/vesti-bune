@@ -21,6 +21,7 @@ OUT_NEWS = os.path.join(ROOT_DIR, "data", "news.json")
 OUT_ITEMS = os.path.join(ROOT_DIR, "data", "items.json")
 JOKES_PATH = os.path.join(ROOT_DIR, "data", "jokes_ro.txt")
 TOP_IMAGE_STATE_PATH = os.path.join(ROOT_DIR, "data", "top_images_state.json")
+PUBLISHED_STATE_PATH = os.path.join(ROOT_DIR, "data", "published_state.json")
 
 USER_AGENT = "vesti-bune-bot/strict-ro (+https://vcarciu.github.io/vesti-bune/)"
 SESSION = requests.Session()
@@ -103,6 +104,72 @@ def read_json(path: str) -> Dict[str, Any]:
             return json.load(f) or {}
     except Exception:
         return {}
+
+def parse_iso_datetime(s: str) -> Optional[datetime]:
+    raw = (s or "").strip()
+    if not raw:
+        return None
+    try:
+        if raw.endswith("Z"):
+            raw = raw[:-1] + "+00:00"
+        dt = datetime.fromisoformat(raw)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        return dt.astimezone(timezone.utc)
+    except Exception:
+        return None
+
+def load_published_state(path: str = PUBLISHED_STATE_PATH) -> Dict[str, Dict[str, str]]:
+    raw = read_json(path)
+    by_key = raw.get("by_key") if isinstance(raw, dict) else {}
+    by_title = raw.get("by_title") if isinstance(raw, dict) else {}
+    if not isinstance(by_key, dict):
+        by_key = {}
+    if not isinstance(by_title, dict):
+        by_title = {}
+    return {"by_key": by_key, "by_title": by_title}
+
+def prune_published_state(state: Dict[str, Dict[str, str]], keep_days: int = 400, max_entries: int = 60000) -> Dict[str, Dict[str, str]]:
+    now = datetime.now(timezone.utc)
+    out = {"by_key": {}, "by_title": {}}
+    for bucket in ("by_key", "by_title"):
+        src = state.get(bucket) or {}
+        if not isinstance(src, dict):
+            continue
+        kept: List[Tuple[datetime, str, str]] = []
+        for k, iso in src.items():
+            if not isinstance(k, str) or not isinstance(iso, str):
+                continue
+            dt = parse_iso_datetime(iso)
+            if not dt:
+                continue
+            age = (now - dt).days
+            if age > keep_days:
+                continue
+            kept.append((dt, k, iso))
+        kept.sort(key=lambda x: x[0], reverse=True)
+        for _dt, k, iso in kept[:max_entries]:
+            out[bucket][k] = iso
+    return out
+
+def is_recently_published(state: Dict[str, Dict[str, str]], key: str, title_key: str, cooldown_days: int, now_utc: datetime) -> bool:
+    if cooldown_days <= 0:
+        return False
+    latest: Optional[datetime] = None
+    for bucket, k in (("by_key", key), ("by_title", title_key)):
+        iso = ((state.get(bucket) or {}).get(k) or "").strip()
+        dt = parse_iso_datetime(iso)
+        if not dt:
+            continue
+        if latest is None or dt > latest:
+            latest = dt
+    if latest is None:
+        return False
+    return (now_utc - latest).days < cooldown_days
+
+def mark_published(state: Dict[str, Dict[str, str]], key: str, title_key: str, when_iso: str) -> None:
+    state.setdefault("by_key", {})[key] = when_iso
+    state.setdefault("by_title", {})[title_key] = when_iso
 
 # -----------------------------
 # HTTP / RSS
@@ -1059,7 +1126,7 @@ def build_emergency_sections() -> Dict[str, List[Dict[str, Any]]]:
 # -----------------------------
 # Build sections
 # -----------------------------
-def build_sections(cfg: Dict[str, Any]) -> Dict[str, List[Dict[str, Any]]]:
+def build_sections(cfg: Dict[str, Any], published_state: Optional[Dict[str, Dict[str, str]]] = None) -> Dict[str, List[Dict[str, Any]]]:
     rss_sources = cfg.get("rss_sources") or {}
     sections_def = cfg.get("sections") or []
     filters_cfg = cfg.get("filters") or {}
@@ -1068,7 +1135,9 @@ def build_sections(cfg: Dict[str, Any]) -> Dict[str, List[Dict[str, Any]]]:
     ro_min_items = int(filters_cfg.get("ro_min_items", 16))
     ro_try_relaxed = bool(filters_cfg.get("ro_try_relaxed", True))
     ro_max_age_days = int(filters_cfg.get("ro_max_age_days", 45))
+    publish_cooldown_days = int(filters_cfg.get("publish_cooldown_days", 30))
     now_utc = datetime.now(timezone.utc)
+    published_state = published_state or {"by_key": {}, "by_title": {}}
 
     max_items_map = {s["id"]: int(s.get("max_items", 20)) for s in sections_def if "id" in s}
 
@@ -1157,6 +1226,8 @@ def build_sections(cfg: Dict[str, Any]) -> Dict[str, List[Dict[str, Any]]]:
                 title_key = normalize_text(title)
                 if title_key in seen_titles:
                     continue
+                if is_recently_published(published_state, key, title_key, publish_cooldown_days, now_utc):
+                    continue
                 seen.add(key)
                 seen_titles.add(title_key)
 
@@ -1185,6 +1256,7 @@ def build_sections(cfg: Dict[str, Any]) -> Dict[str, List[Dict[str, Any]]]:
                         item["summary_ro"] = tr_sum
 
                 items.append(item)
+                mark_published(published_state, key, title_key, now_utc.replace(microsecond=0).isoformat())
                 kept_from_source += 1
 
         items.sort(key=lambda x: x.get("published_utc", ""), reverse=True)
@@ -1212,6 +1284,7 @@ def build_sections(cfg: Dict[str, Any]) -> Dict[str, List[Dict[str, Any]]]:
             c["image"] = img or fallback_image_url(c["section"], c["title"], c["link"])
 
             out["romania"].append(c)
+            mark_published(published_state, k, normalize_text(c["title"]), now_utc.replace(microsecond=0).isoformat())
             added += 1
 
         out["romania"].sort(key=lambda x: x.get("published_utc", ""), reverse=True)
@@ -1224,7 +1297,8 @@ def build_sections(cfg: Dict[str, Any]) -> Dict[str, List[Dict[str, Any]]]:
 # -----------------------------
 def main() -> None:
     cfg = load_yaml(CONFIG_PATH)
-    sections = build_sections(cfg)
+    published_state = load_published_state(PUBLISHED_STATE_PATH)
+    sections = build_sections(cfg, published_state=published_state)
     total_items = sum(len(v or []) for v in (sections or {}).values())
 
     prev = read_json(OUT_NEWS)
@@ -1253,6 +1327,7 @@ def main() -> None:
         "top_images": top_images,
         "top_image_history": top_image_history,
     }
+    write_json(PUBLISHED_STATE_PATH, prune_published_state(published_state))
     write_json(OUT_NEWS, payload)
     write_json(OUT_ITEMS, payload)
     print("[OK] wrote data/news.json and data/items.json")
