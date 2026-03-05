@@ -652,6 +652,17 @@ def _current_rotation_slot(hours: int = TOP_IMAGE_ROTATION_HOURS) -> int:
     now_ts = datetime.now(timezone.utc).timestamp()
     return int(now_ts // max(1, hours * 3600))
 
+def _month_slot_key(hours: int = TOP_IMAGE_ROTATION_HOURS) -> str:
+    now = datetime.now(timezone.utc)
+    per_day = max(1, 24 // max(1, hours))
+    slot_in_day = now.hour // max(1, hours)
+    slot_in_month = (now.day - 1) * per_day + slot_in_day
+    return f"{now.year:04d}{now.month:02d}-{slot_in_month:03d}"
+
+def _seeded_static_top_image(tag: str) -> str:
+    key = _month_slot_key(TOP_IMAGE_ROTATION_HOURS)
+    return f"https://picsum.photos/seed/vb-{tag}-{key}/1600/900"
+
 def _pick_for_slot(candidates: List[str], tag: str, slot: int) -> Optional[str]:
     unique = []
     seen = set()
@@ -732,8 +743,7 @@ def pick_flickr_images(limit: int = 3, prev_payload: Optional[Dict[str, Any]] = 
     for tag, url in feeds:
         recent = history.get(tag, [])
         if tag in STATIC_TOP_TAGS:
-            defaults = TOP_IMAGE_DEFAULTS.get(tag) or []
-            picked = _pick_for_slot(defaults, tag=tag, slot=slot)
+            picked = _seeded_static_top_image(tag)
             if picked:
                 out.append({
                     "tag": tag,
@@ -786,8 +796,11 @@ def pick_flickr_images(limit: int = 3, prev_payload: Optional[Dict[str, Any]] = 
         if tag in by_tag:
             final.append(by_tag[tag])
             continue
-        defaults = TOP_IMAGE_DEFAULTS.get(tag) or []
-        picked = _pick_for_slot(defaults, tag=tag, slot=slot)
+        if tag in STATIC_TOP_TAGS:
+            picked = _seeded_static_top_image(tag)
+        else:
+            defaults = TOP_IMAGE_DEFAULTS.get(tag) or []
+            picked = _pick_for_slot(defaults, tag=tag, slot=slot)
         if not picked:
             continue
         chosen = {
