@@ -20,6 +20,7 @@ CONFIG_PATH = os.path.join(ROOT_DIR, "config", "sources.yml")
 OUT_NEWS = os.path.join(ROOT_DIR, "data", "news.json")
 OUT_ITEMS = os.path.join(ROOT_DIR, "data", "items.json")
 JOKES_PATH = os.path.join(ROOT_DIR, "data", "jokes_ro.txt")
+TOP_IMAGE_STATE_PATH = os.path.join(ROOT_DIR, "data", "top_images_state.json")
 
 USER_AGENT = "vesti-bune-bot/strict-ro (+https://vcarciu.github.io/vesti-bune/)"
 SESSION = requests.Session()
@@ -628,6 +629,8 @@ TOP_IMAGE_LINKS = {
 }
 TOP_IMAGE_HISTORY_LIMIT = 18
 TOP_IMAGE_ROTATION_HOURS = 12
+TOP_IMAGE_USED_LIMIT = 20000
+TOP_IMAGE_SLOT_CACHE_LIMIT = 1200
 
 def _normalize_history_map(raw: Any) -> Dict[str, List[str]]:
     out: Dict[str, List[str]] = {}
@@ -652,16 +655,117 @@ def _current_rotation_slot(hours: int = TOP_IMAGE_ROTATION_HOURS) -> int:
     now_ts = datetime.now(timezone.utc).timestamp()
     return int(now_ts // max(1, hours * 3600))
 
-def _month_slot_key(hours: int = TOP_IMAGE_ROTATION_HOURS) -> str:
-    now = datetime.now(timezone.utc)
-    per_day = max(1, 24 // max(1, hours))
-    slot_in_day = now.hour // max(1, hours)
-    slot_in_month = (now.day - 1) * per_day + slot_in_day
-    return f"{now.year:04d}{now.month:02d}-{slot_in_month:03d}"
+def _load_top_image_state() -> Dict[str, Any]:
+    raw = read_json(TOP_IMAGE_STATE_PATH)
+    if not isinstance(raw, dict):
+        raw = {}
+    used = raw.get("used_by_tag")
+    if not isinstance(used, dict):
+        used = {}
+    chosen = raw.get("chosen_by_slot")
+    if not isinstance(chosen, dict):
+        chosen = {}
+    return {"used_by_tag": used, "chosen_by_slot": chosen}
 
-def _seeded_static_top_image(tag: str) -> str:
-    key = _month_slot_key(TOP_IMAGE_ROTATION_HOURS)
-    return f"https://picsum.photos/seed/vb-{tag}-{key}/1600/900"
+def _save_top_image_state(state: Dict[str, Any]) -> None:
+    write_json(TOP_IMAGE_STATE_PATH, state)
+
+def _fallback_unique_image(tag: str, slot: int, nonce: int = 0) -> str:
+    return f"https://picsum.photos/seed/vb-{tag}-slot{slot}-n{nonce}/1600/900"
+
+def _top_tag_feeds(tag: str) -> List[str]:
+    if tag == "space":
+        return [
+            "https://www.flickr.com/services/feeds/photos_public.gne?format=rss2&tags=astronomy,nebula,galaxy,nasa,telescope&tagmode=any",
+            "https://www.flickr.com/services/feeds/photos_public.gne?format=rss2&tags=space,stars,milkyway,cosmos&tagmode=any",
+        ]
+    if tag == "animals":
+        return [
+            "https://www.flickr.com/services/feeds/photos_public.gne?format=rss2&tags=animals,wildlife,nature&tagmode=any",
+            "https://www.flickr.com/services/feeds/photos_public.gne?format=rss2&tags=animal,bird,mammal&tagmode=any",
+        ]
+    if tag == "landscape":
+        return [
+            "https://www.flickr.com/services/feeds/photos_public.gne?format=rss2&tags=landscape,nature,mountains,forest,lake&tagmode=any",
+            "https://www.flickr.com/services/feeds/photos_public.gne?format=rss2&tags=scenery,valley,waterfall,sunset&tagmode=any",
+        ]
+    return []
+
+def _fetch_top_tag_candidates(tag: str) -> List[str]:
+    out: List[str] = []
+    seen = set()
+    for url in _top_tag_feeds(tag):
+        try:
+            f = fetch_rss(url)
+            entries = list((f.entries or [])[:120])
+            random.shuffle(entries)
+            for e in entries:
+                title = (e.get("title") or "").strip()
+                link = (e.get("link") or "").strip()
+                summary = get_entry_summary(e)
+                img = extract_image_url(e) or None
+                if not img or not is_valid_image_url(img):
+                    continue
+                if not is_top_photo_candidate(tag, title, summary, link):
+                    continue
+                if img in seen:
+                    continue
+                seen.add(img)
+                out.append(img)
+        except Exception:
+            continue
+    return out
+
+def _pick_unique_for_slot(tag: str, slot: int, state: Dict[str, Any], history: Dict[str, List[str]]) -> Optional[str]:
+    slot_key = str(slot)
+    chosen_by_slot = state.get("chosen_by_slot") or {}
+    used_by_tag = state.get("used_by_tag") or {}
+    existing_slot = chosen_by_slot.get(slot_key)
+    if isinstance(existing_slot, dict):
+        url = (existing_slot.get(tag) or "").strip()
+        if url:
+            return url
+
+    used_list = used_by_tag.get(tag)
+    if not isinstance(used_list, list):
+        used_list = []
+    used_set = set(str(x).strip() for x in used_list if isinstance(x, str))
+
+    candidates = _fetch_top_tag_candidates(tag)
+    defaults = TOP_IMAGE_DEFAULTS.get(tag) or []
+    candidates.extend([x for x in defaults if x])
+
+    chosen = None
+    for c in candidates:
+        if c not in used_set:
+            chosen = c
+            break
+    if not chosen:
+        nonce = len(used_list) + 1
+        chosen = _fallback_unique_image(tag, slot, nonce=nonce)
+
+    used_list.append(chosen)
+    if len(used_list) > TOP_IMAGE_USED_LIMIT:
+        used_list = used_list[-TOP_IMAGE_USED_LIMIT:]
+    used_by_tag[tag] = used_list
+
+    bucket = chosen_by_slot.get(slot_key)
+    if not isinstance(bucket, dict):
+        bucket = {}
+    bucket[tag] = chosen
+    chosen_by_slot[slot_key] = bucket
+
+    if len(chosen_by_slot) > TOP_IMAGE_SLOT_CACHE_LIMIT:
+        keys = sorted((int(k), k) for k in chosen_by_slot.keys() if str(k).isdigit())
+        remove_n = len(chosen_by_slot) - TOP_IMAGE_SLOT_CACHE_LIMIT
+        for _i, k in keys[:remove_n]:
+            chosen_by_slot.pop(k, None)
+
+    state["used_by_tag"] = used_by_tag
+    state["chosen_by_slot"] = chosen_by_slot
+
+    _update_history(history, tag, chosen)
+    return chosen
 
 def _pick_for_slot(candidates: List[str], tag: str, slot: int) -> Optional[str]:
     unique = []
@@ -720,6 +824,7 @@ def _update_history(history: Dict[str, List[str]], tag: str, image_url: str) -> 
 def pick_flickr_images(limit: int = 3, prev_payload: Optional[Dict[str, Any]] = None) -> Tuple[List[Dict[str, Any]], Dict[str, List[str]]]:
     prev_payload = prev_payload or {}
     history = _normalize_history_map(prev_payload.get("top_image_history"))
+    top_state = _load_top_image_state()
     prev_top = prev_payload.get("top_images")
     if isinstance(prev_top, list):
         for x in prev_top:
@@ -743,7 +848,7 @@ def pick_flickr_images(limit: int = 3, prev_payload: Optional[Dict[str, Any]] = 
     for tag, url in feeds:
         recent = history.get(tag, [])
         if tag in STATIC_TOP_TAGS:
-            picked = _seeded_static_top_image(tag)
+            picked = _pick_unique_for_slot(tag, slot, top_state, history)
             if picked:
                 out.append({
                     "tag": tag,
@@ -797,7 +902,7 @@ def pick_flickr_images(limit: int = 3, prev_payload: Optional[Dict[str, Any]] = 
             final.append(by_tag[tag])
             continue
         if tag in STATIC_TOP_TAGS:
-            picked = _seeded_static_top_image(tag)
+            picked = _pick_unique_for_slot(tag, slot, top_state, history)
         else:
             defaults = TOP_IMAGE_DEFAULTS.get(tag) or []
             picked = _pick_for_slot(defaults, tag=tag, slot=slot)
@@ -811,6 +916,7 @@ def pick_flickr_images(limit: int = 3, prev_payload: Optional[Dict[str, Any]] = 
         }
         final.append(chosen)
         _update_history(history, tag, chosen["image"])
+    _save_top_image_state(top_state)
     return final[:limit], history
 
 def build_mix_items(sections: Dict[str, List[Dict[str, Any]]], ro_head: int = 10, max_items: int = 120) -> List[Dict[str, Any]]:

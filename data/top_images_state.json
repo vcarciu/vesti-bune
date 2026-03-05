@@ -1,0 +1,20 @@
+{
+  "used_by_tag": {
+    "space": [
+      "https://picsum.photos/seed/vb-space-9701/1600/900"
+    ],
+    "landscape": [
+      "https://picsum.photos/seed/vb-landscape-9901/1600/900"
+    ],
+    "animals": [
+      "https://picsum.photos/seed/vb-animals-9801/1600/900"
+    ]
+  },
+  "chosen_by_slot": {
+    "41035": {
+      "space": "https://picsum.photos/seed/vb-space-9701/1600/900",
+      "landscape": "https://picsum.photos/seed/vb-landscape-9901/1600/900",
+      "animals": "https://picsum.photos/seed/vb-animals-9801/1600/900"
+    }
+  }
+}
