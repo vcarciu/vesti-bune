@@ -234,16 +234,25 @@
     const safe = encodeURIComponent(label || "Photo");
     return `data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 800'><defs><linearGradient id='g' x1='0' x2='1'><stop offset='0' stop-color='%2312202a'/><stop offset='1' stop-color='%230f172a'/></linearGradient></defs><rect width='1200' height='800' fill='url(%23g)'/><text x='600' y='420' text-anchor='middle' fill='%23dbeafe' font-size='72' font-family='Arial,sans-serif'>${safe}</text></svg>`;
   }
+  function sitePath(rel){
+    const clean = String(rel || "").replace(/^\/+/, "");
+    const p = window.location.pathname || "/";
+    const prefix = (p === "/vesti-bune" || p.startsWith("/vesti-bune/")) ? "/vesti-bune/" : "/";
+    return prefix + clean;
+  }
   const daySeed = new Date().toISOString().slice(0,10).replaceAll("-","");
   const TOP_FALLBACKS = {
     space: [
-      "site/assets/top-fallbacks/space.svg",
+      sitePath("top-fallback-space.svg"),
+      buildLocalFallback("Space"),
     ],
     animals: [
-      "site/assets/top-fallbacks/animals.svg",
+      sitePath("top-fallback-animals.svg"),
+      buildLocalFallback("Animals"),
     ],
     landscape: [
-      "site/assets/top-fallbacks/landscape.svg",
+      sitePath("top-fallback-landscape.svg"),
+      buildLocalFallback("Landscape"),
     ],
   };
   const MID_FALLBACKS = {
