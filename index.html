@@ -79,6 +79,7 @@
     .badge{display:inline-flex;align-items:center;gap:6px;padding:3px 8px;border-radius:999px;border:1px solid rgba(255,255,255,.10);font-size:12px}
     .bacc{border-color:rgba(124,92,255,.45);background:rgba(124,92,255,.14)}
     .bwarn{border-color:rgba(251,191,36,.45);background:rgba(251,191,36,.12)}
+    .bnew{border-color:rgba(34,197,94,.55);background:rgba(34,197,94,.18);color:#d1fae5;font-weight:700}
     .muted{color:var(--muted)}
     .box{padding:12px}
     .quote{font-size:14px;line-height:1.35;margin:0}
@@ -116,6 +117,7 @@
         <button class="pill active" data-mode="mix">Mix</button>
         <button class="pill" data-mode="ro">RO</button>
         <button class="pill" data-mode="en">EN</button>
+        <button class="pill" data-mode="fresh">Ultimele 24h</button>
       </div>
     </div>
     <div class="growth">
@@ -426,6 +428,13 @@
   function isEN(item){
     return (item.kind === "global") && (item.section !== "romania");
   }
+  function isFresh24(item){
+    const iso = item && item.published_utc;
+    if(!iso) return false;
+    const d = new Date(iso);
+    if(Number.isNaN(d.getTime())) return false;
+    return (Date.now() - d.getTime()) <= 24*60*60*1000;
+  }
 
   function buildItemHTML(it){
     const rawTitle = it.title_ro || it.title || "";
@@ -438,6 +447,7 @@
     const thumbSeed = encodeURIComponent((it.link || rawTitle || "news").slice(0, 120));
     const thumbUrl = img || `https://picsum.photos/seed/vb-${thumbSeed}/240/160`;
     const when = it.published_utc ? fmtDate(it.published_utc) : "";
+    const freshBadge = isFresh24(it) ? `<span class="badge bnew">NOU</span>` : "";
 
     return `
       <a class="item" href="${it.link}" target="_blank" rel="noopener">
@@ -448,6 +458,7 @@
           <div class="isrc">
             <span class="badge bacc"> ${escapeHtml(src)} </span>
             <span class="badge bwarn"> ${escapeHtml(when)} </span>
+            ${freshBadge}
           </div>
         </div>
       </a>
@@ -476,6 +487,13 @@
       pushAll(sections.environment);
       return items.filter(isEN);
     }
+    if(mode === "fresh"){
+      pushAll(sections.romania);
+      pushAll(sections.medical);
+      pushAll(sections.science);
+      pushAll(sections.environment);
+      return items.filter(isFresh24);
+    }
 
     // mix
     pushAll(sections.romania);
@@ -491,7 +509,11 @@
     const list = document.getElementById("newsList");
     const title = document.getElementById("modeTitle");
 
-    title.textContent = state.mode === "mix" ? "Mix RO + EN" : (state.mode === "ro" ? "România (RO)" : "Global (EN)");
+    title.textContent =
+      state.mode === "mix" ? "Mix RO + EN" :
+      state.mode === "ro" ? "România (RO)" :
+      state.mode === "en" ? "Global (EN)" :
+      "Noutăți (ultimele 24h)";
 
     let items = gather(state.mode, sections);
     if(state.mode !== "mix"){
