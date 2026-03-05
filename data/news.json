@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-03-05T06:40:46+00:00",
+  "generated_utc": "2026-03-05T07:38:52+00:00",
   "sections": {
     "romania": [
       {
@@ -56,17 +56,6 @@
         "published_utc": "2026-03-04T22:38:17+00:00",
         "score": 3,
         "image": "https://hotnews.ro/wp-content/uploads/2026/03/profimedia-0644046798.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "Cine este Alexandra Căpitănescu, câștigătoarea Eurovision România 2026 / A câștigat un talent-show super audiat",
-        "summary": "Reprezentanta României la Eurovision Song Contest 2026 a fost aleasă miercuri, într-o finală difuzată în direct de către TVR, organizatorul selecției naționale. Artista Alexandra Căpitănescu a primit cele mai multe puncte din partea celor șapte jurați și, astfel, ea va reprezenta România la Viena cu melodia „Choke me”.&#160; Alexandra Căpitănescu a devenit cunoscută publicului larg &#8230;",
-        "link": "https://hotnews.ro/cine-este-alexandra-capitanescu-castigator-eurovision-romania-2026-2185539",
-        "published_utc": "2026-03-04T21:27:04+00:00",
-        "score": 3,
-        "image": "https://hotnews.ro/wp-content/uploads/2026/03/2026-03-04-9003.jpg"
       },
       {
         "section": "romania",
@@ -202,6 +191,17 @@
       }
     ],
     "medical": [
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "Positive News",
+        "title": "Life lessons: Naz Shah on what life so far has taught her",
+        "summary": "The British politician on being optimistic, what she learned from her incarcerated mother, and her enduring faith in community The post Life lessons: Naz Shah on what life so far has taught her appeared first on Positive News .",
+        "link": "https://www.positive.news/society/life-lessons-naz-shah-on-what-life-so-far-has-taught-her",
+        "published_utc": "2026-03-05T07:00:29+00:00",
+        "score": 0,
+        "image": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/01/Naz-Shah-c-House-of-Commons-1-e1767877471436.jpg"
+      },
       {
         "section": "medical",
         "kind": "global",
@@ -465,17 +465,6 @@
         "published_utc": "2026-02-28T15:25:43+00:00",
         "score": 1,
         "image": "https://picsum.photos/seed/vb-542cc2231feaf4c2/480/320"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "ScienceDaily Health",
-        "title": "Scientists discover a bacterial kill switch and it could change the fight against superbugs",
-        "summary": "Drug-resistant bacteria are becoming harder to treat, pushing scientists to look for new antibiotic targets. Researchers have now discovered that several unrelated viruses disable a key bacterial protein called MurJ, which is essential for building the bacterial cell wall. High-resolution imaging shows these viral proteins lock MurJ into a single position, stopping cell wall construction and leading to bacterial death.",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260228082723.htm",
-        "published_utc": "2026-02-28T14:20:04+00:00",
-        "score": 3,
-        "image": "https://picsum.photos/seed/vb-c23c5213391b9cc1/480/320"
       }
     ],
     "science": [
@@ -1059,17 +1048,6 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "HotNews",
-      "title": "Cine este Alexandra Căpitănescu, câștigătoarea Eurovision România 2026 / A câștigat un talent-show super audiat",
-      "summary": "Reprezentanta României la Eurovision Song Contest 2026 a fost aleasă miercuri, într-o finală difuzată în direct de către TVR, organizatorul selecției naționale. Artista Alexandra Căpitănescu a primit cele mai multe puncte din partea celor șapte jurați și, astfel, ea va reprezenta România la Viena cu melodia „Choke me”.&#160; Alexandra Căpitănescu a devenit cunoscută publicului larg &#8230;",
-      "link": "https://hotnews.ro/cine-este-alexandra-capitanescu-castigator-eurovision-romania-2026-2185539",
-      "published_utc": "2026-03-04T21:27:04+00:00",
-      "score": 3,
-      "image": "https://hotnews.ro/wp-content/uploads/2026/03/2026-03-04-9003.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "Descopera (Stiinta)",
       "title": "Cinci femei care au schimbat lumea pentru totdeauna cu descoperiri istorice, dar nu au primit Premiul Nobel",
       "summary": "Premiul Nobel este cea mai prestigioasă distincție din știință. Totuși, istoria lui include și absențe notabile. În spatele unor descoperiri care au schimbat medicina, fizica sau genetica se află și nume care nu au fost [&#8230;] Articolul Cinci femei care au schimbat lumea pentru totdeauna cu descoperiri istorice, dar nu au primit Premiul Nobel apare prima dată în Descopera .",
@@ -1134,6 +1112,50 @@
       "image": "https://start-up.ro/img/articles/3/7/9/37950/cover-37950-src.jpg"
     },
     {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Green Start-Up Romania",
+      "title": "Motorul de la britanici cu combustibil regenerabil și consum minim record",
+      "summary": "Un nou concept de motor hibrid dezvoltat de Horse Powertrain împreună cu Repsol promite reducerea consumului de carburant și a emisiilor fără baterii mai mari sau modificări majore ale platformei...",
+      "link": "https://green.start-up.ro/ro/motorul-de-la-britanici-cu-combustibil-regenerabil-si-consum-minim-record",
+      "published_utc": "2026-03-04T06:00:01+00:00",
+      "score": 3,
+      "image": "https://green.start-up.ro/img/articles/3/5/7/35723/cover-35723-src.jpg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Positive News",
+      "title": "Life lessons: Naz Shah on what life so far has taught her",
+      "summary": "The British politician on being optimistic, what she learned from her incarcerated mother, and her enduring faith in community The post Life lessons: Naz Shah on what life so far has taught her appeared first on Positive News .",
+      "link": "https://www.positive.news/society/life-lessons-naz-shah-on-what-life-so-far-has-taught-her",
+      "published_utc": "2026-03-05T07:00:29+00:00",
+      "score": 0,
+      "image": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/01/Naz-Shah-c-House-of-Commons-1-e1767877471436.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Start-Up Romania",
+      "title": "Studiu Market Pulse 2025: Portofoliul mediu al investitorilor români a ajuns la 445.000 lei, +19% într-un an",
+      "summary": "În 2025, portofoliul mediu al investitorilor români a ajuns la 445.000 de lei, în creștere cu 19% față de anul precedent, potrivit ediției din 2025 a studiului Market Pulse, dedicat pieței de...",
+      "link": "https://start-up.ro/studiu-market-pulse-2025-portofoliul-mediu-al-investitorilor-romani-a-ajuns-la-445-000-lei-19-intr-un-an",
+      "published_utc": "2026-03-03T09:14:09+00:00",
+      "score": 3,
+      "image": "https://start-up.ro/img/articles/3/7/9/37948/cover-37948-src.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Green Start-Up Romania",
+      "title": "Proiecte care oferă un scut climatic Bucureștiului în verile toride",
+      "summary": "Prin Platforma de mediu pentru București, Fundația Comunitară București și Orange Romania investesc până la jumătate de milion de lei într-o serie de proiecte care construiesc infrastructură verde...",
+      "link": "https://green.start-up.ro/ro/proiecte-care-ofera-un-scut-climatic-bucurestiului-in-verile-toride",
+      "published_utc": "2026-02-27T10:38:30+00:00",
+      "score": 3,
+      "image": "https://green.start-up.ro/img/articles/3/5/7/35716/cover-35716-src.jpg"
+    },
+    {
       "section": "science",
       "kind": "global",
       "source": "ScienceDaily Science",
@@ -1148,23 +1170,23 @@
       "section": "romania",
       "kind": "ro",
       "source": "Green Start-Up Romania",
-      "title": "Motorul de la britanici cu combustibil regenerabil și consum minim record",
-      "summary": "Un nou concept de motor hibrid dezvoltat de Horse Powertrain împreună cu Repsol promite reducerea consumului de carburant și a emisiilor fără baterii mai mari sau modificări majore ale platformei...",
-      "link": "https://green.start-up.ro/ro/motorul-de-la-britanici-cu-combustibil-regenerabil-si-consum-minim-record",
-      "published_utc": "2026-03-04T06:00:01+00:00",
+      "title": "Peste 500 de copii din România învață despre lumea înconjurătoare direct în natură",
+      "summary": "540 de elevi din 13 școli din județele Brașov, Argeș și Sibiu participă la proiectul „Educație pentru un viitor sustenabil”, dezvoltat de Fundația Conservation Carpathia, care aduce copiii mai...",
+      "link": "https://green.start-up.ro/ro/peste-500-de-copii-din-romania-invata-despre-lumea-inconjuratoare-direct-in-natura",
+      "published_utc": "2026-02-27T06:00:22+00:00",
       "score": 3,
-      "image": "https://green.start-up.ro/img/articles/3/5/7/35723/cover-35723-src.jpg"
+      "image": "https://green.start-up.ro/img/articles/3/5/7/35715/cover-35715-src.jpg"
     },
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Start-Up Romania",
-      "title": "Studiu Market Pulse 2025: Portofoliul mediu al investitorilor români a ajuns la 445.000 lei, +19% într-un an",
-      "summary": "În 2025, portofoliul mediu al investitorilor români a ajuns la 445.000 de lei, în creștere cu 19% față de anul precedent, potrivit ediției din 2025 a studiului Market Pulse, dedicat pieței de...",
-      "link": "https://start-up.ro/studiu-market-pulse-2025-portofoliul-mediu-al-investitorilor-romani-a-ajuns-la-445-000-lei-19-intr-un-an",
-      "published_utc": "2026-03-03T09:14:09+00:00",
+      "source": "Green Start-Up Romania",
+      "title": "BYD ATTO DM-i se lansează în România. Sistem Super Hybrid și preț competitiv",
+      "summary": "BYD lansează ATTO 2 DM-i în România. Noul SUV compact vine cu tehnologia Super Hybrid DM-i, aceeași tehnologie din spatele succesului SEAL U DM-i, unul dintre cele mai bine vândute modele plug-in...",
+      "link": "https://green.start-up.ro/ro/byd-atto-dm-i-se-lanseaza-in-romania-sistem-super-hybrid-si-pret-competitiv",
+      "published_utc": "2026-02-26T10:09:45+00:00",
       "score": 3,
-      "image": "https://start-up.ro/img/articles/3/7/9/37948/cover-37948-src.jpg"
+      "image": "https://green.start-up.ro/img/articles/3/5/7/35711/cover-35711-src.jpg"
     },
     {
       "section": "science",
@@ -1180,24 +1202,13 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Green Start-Up Romania",
-      "title": "Proiecte care oferă un scut climatic Bucureștiului în verile toride",
-      "summary": "Prin Platforma de mediu pentru București, Fundația Comunitară București și Orange Romania investesc până la jumătate de milion de lei într-o serie de proiecte care construiesc infrastructură verde...",
-      "link": "https://green.start-up.ro/ro/proiecte-care-ofera-un-scut-climatic-bucurestiului-in-verile-toride",
-      "published_utc": "2026-02-27T10:38:30+00:00",
+      "source": "StiriPozitive - Toate",
+      "title": "Radiografia ecosistemului startup din România si din lume 2025: de la reziliență la scalare globală",
+      "summary": "Într-o economie globală tot mai marcată de incertitudini geopolitice și șocuri inflaționiste, startup-urile au încetat de mult să fie simple experimente tehnologice, devenind adevăratele motoare de reziliență ale comunităților moderne. &#8230; Read More The post Radiografia ecosistemului startup din România si din lume 2025: de la reziliență la scalare globală appeared first on Stiri pozitive .",
+      "link": "https://stiripozitive.com/radiografia-ecosistemului-startup-din-romania-si-din-lume-2025",
+      "published_utc": "2026-02-02T10:32:03+00:00",
       "score": 3,
-      "image": "https://green.start-up.ro/img/articles/3/5/7/35716/cover-35716-src.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Green Start-Up Romania",
-      "title": "Peste 500 de copii din România învață despre lumea înconjurătoare direct în natură",
-      "summary": "540 de elevi din 13 școli din județele Brașov, Argeș și Sibiu participă la proiectul „Educație pentru un viitor sustenabil”, dezvoltat de Fundația Conservation Carpathia, care aduce copiii mai...",
-      "link": "https://green.start-up.ro/ro/peste-500-de-copii-din-romania-invata-despre-lumea-inconjuratoare-direct-in-natura",
-      "published_utc": "2026-02-27T06:00:22+00:00",
-      "score": 3,
-      "image": "https://green.start-up.ro/img/articles/3/5/7/35715/cover-35715-src.jpg"
+      "image": "https://stiripozitive.com/wp-content/uploads/2026/02/harta-.jpeg"
     },
     {
       "section": "medical",
@@ -1209,28 +1220,6 @@
       "published_utc": "2026-03-05T05:03:04+00:00",
       "score": 7,
       "image": "https://picsum.photos/seed/vb-41a3a877528d92ed/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Green Start-Up Romania",
-      "title": "BYD ATTO DM-i se lansează în România. Sistem Super Hybrid și preț competitiv",
-      "summary": "BYD lansează ATTO 2 DM-i în România. Noul SUV compact vine cu tehnologia Super Hybrid DM-i, aceeași tehnologie din spatele succesului SEAL U DM-i, unul dintre cele mai bine vândute modele plug-in...",
-      "link": "https://green.start-up.ro/ro/byd-atto-dm-i-se-lanseaza-in-romania-sistem-super-hybrid-si-pret-competitiv",
-      "published_utc": "2026-02-26T10:09:45+00:00",
-      "score": 3,
-      "image": "https://green.start-up.ro/img/articles/3/5/7/35711/cover-35711-src.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "StiriPozitive - Toate",
-      "title": "Radiografia ecosistemului startup din România si din lume 2025: de la reziliență la scalare globală",
-      "summary": "Într-o economie globală tot mai marcată de incertitudini geopolitice și șocuri inflaționiste, startup-urile au încetat de mult să fie simple experimente tehnologice, devenind adevăratele motoare de reziliență ale comunităților moderne. &#8230; Read More The post Radiografia ecosistemului startup din România si din lume 2025: de la reziliență la scalare globală appeared first on Stiri pozitive .",
-      "link": "https://stiripozitive.com/radiografia-ecosistemului-startup-din-romania-si-din-lume-2025",
-      "published_utc": "2026-02-02T10:32:03+00:00",
-      "score": 3,
-      "image": "https://stiripozitive.com/wp-content/uploads/2026/02/harta-.jpeg"
     },
     {
       "section": "science",
@@ -1783,17 +1772,6 @@
       "image": "https://picsum.photos/seed/vb-57e41a5607b95cbb/480/320"
     },
     {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "Scientists discover a bacterial kill switch and it could change the fight against superbugs",
-      "summary": "Drug-resistant bacteria are becoming harder to treat, pushing scientists to look for new antibiotic targets. Researchers have now discovered that several unrelated viruses disable a key bacterial protein called MurJ, which is essential for building the bacterial cell wall. High-resolution imaging shows these viral proteins lock MurJ into a single position, stopping cell wall construction and leading to bacterial death.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260228082723.htm",
-      "published_utc": "2026-02-28T14:20:04+00:00",
-      "score": 3,
-      "image": "https://picsum.photos/seed/vb-c23c5213391b9cc1/480/320"
-    },
-    {
       "section": "environment",
       "kind": "global",
       "source": "NASA Earth Observatory - Image of the Day",
@@ -2013,7 +1991,7 @@
       "tag": "animals",
       "title": "Animals",
       "link": "https://commons.wikimedia.org/wiki/Category:Animals",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Siberischer_tiger_de_edit02.jpg"
     },
     {
       "tag": "landscape",
