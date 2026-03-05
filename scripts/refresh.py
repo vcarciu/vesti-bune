@@ -583,29 +583,28 @@ SAFE_ANIMALS_IMAGES = [
 ANIMALS_IMAGE_LOCAL_FALLBACK = "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 800'><defs><linearGradient id='g' x1='0' x2='1'><stop offset='0' stop-color='%23122b1f'/><stop offset='1' stop-color='%230f172a'/></linearGradient></defs><rect width='1200' height='800' fill='url(%23g)'/><text x='600' y='420' text-anchor='middle' fill='%23e5f3ea' font-size='86' font-family='Arial, sans-serif'>Animals</text></svg>"
 TOP_IMAGE_DEFAULTS = {
     "space": [
-        "https://upload.wikimedia.org/wikipedia/commons/e/e5/NGC_4414_%28NASA-med%29.jpg",
-        "https://live.staticflickr.com/65535/55118553617_ccb01fe436_b.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/9/95/ESO_-_Milky_Way.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/0/00/Crab_Nebula.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/c/c7/The_Pillars_of_Creation_%28NIRCam_Image%29.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/1/1a/PIA12235_HIRISE_view_of_Mars.jpg",
+        "https://picsum.photos/seed/vb-space-9101/1600/900",
+        "https://picsum.photos/seed/vb-space-9102/1600/900",
+        "https://picsum.photos/seed/vb-space-9103/1600/900",
+        "https://picsum.photos/seed/vb-space-9104/1600/900",
+        "https://picsum.photos/seed/vb-space-9105/1600/900",
+        "https://picsum.photos/seed/vb-space-9106/1600/900",
     ],
     "animals": [
-        "https://upload.wikimedia.org/wikipedia/commons/4/40/Siberischer_tiger_de_edit02.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/6/6e/Golde33443.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/0/0c/Cow_female_black_white.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/1/15/Red_fox_-_november_2011.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/5/56/Toco_Toucan_RWD.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg",
+        "https://picsum.photos/seed/vb-animals-9201/1600/900",
+        "https://picsum.photos/seed/vb-animals-9202/1600/900",
+        "https://picsum.photos/seed/vb-animals-9203/1600/900",
+        "https://picsum.photos/seed/vb-animals-9204/1600/900",
+        "https://picsum.photos/seed/vb-animals-9205/1600/900",
+        "https://picsum.photos/seed/vb-animals-9206/1600/900",
     ],
     "landscape": [
-        "https://upload.wikimedia.org/wikipedia/commons/7/7c/Mount_Rainier_from_above_Myrtle_Falls_in_August.JPG",
-        "https://upload.wikimedia.org/wikipedia/commons/3/3f/Fronalpstock_big.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/2/2c/Moraine_Lake_17092005.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/8/88/Torres_del_Paine_%28Chile%29.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/6/6f/YosemitePark2_amk.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/2/27/Swiss_Alps_Jungfrau-Aletsch.jpg",
+        "https://picsum.photos/seed/vb-landscape-9301/1600/900",
+        "https://picsum.photos/seed/vb-landscape-9302/1600/900",
+        "https://picsum.photos/seed/vb-landscape-9303/1600/900",
+        "https://picsum.photos/seed/vb-landscape-9304/1600/900",
+        "https://picsum.photos/seed/vb-landscape-9305/1600/900",
+        "https://picsum.photos/seed/vb-landscape-9306/1600/900",
     ],
     "humans": [
         "https://upload.wikimedia.org/wikipedia/commons/d/d3/Albert_Einstein_Head.jpg",
@@ -618,7 +617,7 @@ TOP_IMAGE_DEFAULTS = {
         "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
     ],
 }
-STATIC_TOP_TAGS = {"animals"}
+STATIC_TOP_TAGS = {"space", "animals", "landscape"}
 TOP_IMAGE_LINKS = {
     "space": "https://commons.wikimedia.org/wiki/Category:Astronomy",
     "animals": "https://commons.wikimedia.org/wiki/Category:Animals",
@@ -628,6 +627,7 @@ TOP_IMAGE_LINKS = {
     "microcosmos": "https://commons.wikimedia.org/wiki/Category:Microscopy",
 }
 TOP_IMAGE_HISTORY_LIMIT = 18
+TOP_IMAGE_ROTATION_HOURS = 12
 
 def _normalize_history_map(raw: Any) -> Dict[str, List[str]]:
     out: Dict[str, List[str]] = {}
@@ -648,7 +648,11 @@ def _normalize_history_map(raw: Any) -> Dict[str, List[str]]:
             out[tag] = cleaned[:TOP_IMAGE_HISTORY_LIMIT]
     return out
 
-def _pick_with_history(candidates: List[str], recent: List[str]) -> Optional[str]:
+def _current_rotation_slot(hours: int = TOP_IMAGE_ROTATION_HOURS) -> int:
+    now_ts = datetime.now(timezone.utc).timestamp()
+    return int(now_ts // max(1, hours * 3600))
+
+def _pick_with_history(candidates: List[str], recent: List[str], tag: str = "", slot: Optional[int] = None) -> Optional[str]:
     if not candidates:
         return None
     unique = []
@@ -671,7 +675,13 @@ def _pick_with_history(candidates: List[str], recent: List[str]) -> Optional[str
         pool = [u for u in unique if u != recent[0]] or unique
     else:
         pool = unique
-    return random.choice(pool)
+    if not pool:
+        return None
+    if slot is None:
+        return random.choice(pool)
+    basis = f"{tag}|{slot}"
+    idx = int(hashlib.sha1(basis.encode("utf-8")).hexdigest(), 16) % len(pool)
+    return pool[idx]
 
 def _update_history(history: Dict[str, List[str]], tag: str, image_url: str) -> None:
     if not tag or not image_url:
@@ -693,6 +703,7 @@ def pick_flickr_images(limit: int = 3, prev_payload: Optional[Dict[str, Any]] = 
             img = (x.get("image") or "").strip()
             if tag and img:
                 _update_history(history, tag, img)
+    slot = _current_rotation_slot(TOP_IMAGE_ROTATION_HOURS)
 
     feeds = [
         ("space", "https://www.flickr.com/services/feeds/photos_public.gne?format=rss2&tags=astronomy,nebula,galaxy,nasa,telescope&tagmode=any"),
@@ -707,7 +718,7 @@ def pick_flickr_images(limit: int = 3, prev_payload: Optional[Dict[str, Any]] = 
         recent = history.get(tag, [])
         if tag in STATIC_TOP_TAGS:
             defaults = TOP_IMAGE_DEFAULTS.get(tag) or []
-            picked = _pick_with_history(defaults, recent)
+            picked = _pick_with_history(defaults, recent, tag=tag, slot=slot)
             if picked:
                 out.append({
                     "tag": tag,
@@ -738,13 +749,13 @@ def pick_flickr_images(limit: int = 3, prev_payload: Optional[Dict[str, Any]] = 
                 raise RuntimeError("no valid candidates")
 
             img_candidates = [c["image"] for c in candidates]
-            picked_img = _pick_with_history(img_candidates, recent)
+            picked_img = _pick_with_history(img_candidates, recent, tag=tag, slot=slot)
             chosen = next((c for c in candidates if c["image"] == picked_img), candidates[0])
             out.append(chosen)
             _update_history(history, tag, chosen["image"])
         except Exception:
             defaults = TOP_IMAGE_DEFAULTS.get(tag) or []
-            picked = _pick_with_history(defaults, recent)
+            picked = _pick_with_history(defaults, recent, tag=tag, slot=slot)
             if picked:
                 out.append({
                     "tag": tag,
@@ -761,7 +772,7 @@ def pick_flickr_images(limit: int = 3, prev_payload: Optional[Dict[str, Any]] = 
             final.append(by_tag[tag])
             continue
         defaults = TOP_IMAGE_DEFAULTS.get(tag) or []
-        picked = _pick_with_history(defaults, history.get(tag, []))
+        picked = _pick_with_history(defaults, history.get(tag, []), tag=tag, slot=slot)
         if not picked:
             continue
         chosen = {
