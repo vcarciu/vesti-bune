@@ -237,16 +237,13 @@
   const daySeed = new Date().toISOString().slice(0,10).replaceAll("-","");
   const TOP_FALLBACKS = {
     space: [
-      `https://loremflickr.com/1200/800/space,galaxy,nebula?lock=${daySeed}`,
-      `https://picsum.photos/seed/space-${daySeed}/1200/800`,
+      buildLocalFallback("Space"),
     ],
     animals: [
-      `https://loremflickr.com/1200/800/animals,wildlife,cute?lock=${daySeed}`,
-      `https://picsum.photos/seed/animals-${daySeed}/1200/800`,
+      buildLocalFallback("Animals"),
     ],
     landscape: [
-      `https://loremflickr.com/1200/800/landscape,nature,mountains?lock=${daySeed}`,
-      `https://picsum.photos/seed/landscape-${daySeed}/1200/800`,
+      buildLocalFallback("Landscape"),
     ],
   };
   const MID_FALLBACKS = {
