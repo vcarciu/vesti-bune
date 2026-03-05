@@ -368,14 +368,42 @@
     setHref("socialFacebook", appendUtm(GROWTH_LINKS.social.facebook, "facebook"));
   }
 
-  function pickTopPhotos(topImages){
+  function uniqUrls(arr){
+    const out = [];
+    const seen = new Set();
+    (arr || []).forEach(v => {
+      const u = String(v || "").trim();
+      if(!u || seen.has(u)) return;
+      seen.add(u);
+      out.push(u);
+    });
+    return out;
+  }
+
+  function pickForViewer(tag, primaryUrl, historyMap){
+    const key = `vb:last-top-image:${tag}`;
+    const last = localStorage.getItem(key) || "";
+    const fromHistory = Array.isArray(historyMap?.[tag]) ? historyMap[tag] : [];
+    const candidates = uniqUrls([primaryUrl, ...fromHistory]);
+    if(!candidates.length) return primaryUrl || "";
+
+    let chosen = candidates[0];
+    if(last){
+      const alt = candidates.find(u => u !== last);
+      if(alt) chosen = alt;
+    }
+    try{ localStorage.setItem(key, chosen); }catch(e){}
+    return chosen;
+  }
+
+  function pickTopPhotos(topImages, topImageHistory){
     const byTag = {};
     (topImages || []).forEach(x => { if(x && x.tag) byTag[x.tag] = x; });
 
     const s = byTag.space, a = byTag.animals, l = byTag.landscape;
-    setTopImageWithFallback("imgSpace", s?.image, TOP_FALLBACKS.space);
-    setTopImageWithFallback("imgAnimals", a?.image, TOP_FALLBACKS.animals);
-    setTopImageWithFallback("imgLandscape", l?.image, TOP_FALLBACKS.landscape);
+    setTopImageWithFallback("imgSpace", pickForViewer("space", s?.image, topImageHistory), TOP_FALLBACKS.space);
+    setTopImageWithFallback("imgAnimals", pickForViewer("animals", a?.image, topImageHistory), TOP_FALLBACKS.animals);
+    setTopImageWithFallback("imgLandscape", pickForViewer("landscape", l?.image, topImageHistory), TOP_FALLBACKS.landscape);
   }
 
   function renderJokeSatire(){
@@ -516,7 +544,7 @@
       wireGrowthLinks();
 
       document.getElementById("updated").textContent = fmtDate(d.generated_utc);
-      pickTopPhotos(d.top_images);
+      pickTopPhotos(d.top_images, d.top_image_history || {});
       renderJokeSatire();
       render();
     }catch(e){
