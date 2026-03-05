@@ -1,49 +1,29 @@
 {
   "status": "ok",
-  "checked_utc": "2026-03-05T19:18:08+00:00",
-  "generated_utc": "2026-03-05T18:06:45+00:00",
-  "generated_age_minutes": 71,
+  "checked_utc": "2026-03-05T21:49:58+00:00",
+  "generated_utc": "2026-03-05T21:25:33+00:00",
+  "generated_age_minutes": 24,
   "section_counts": {
-    "romania": 17,
-    "medical": 25,
-    "science": 25,
-    "environment": 22
+    "romania": 15,
+    "medical": 6,
+    "science": 6,
+    "environment": 1
   },
-  "mix_count": 89,
+  "mix_count": 28,
   "fresh_24h_mix": 21,
   "fresh_24h_all_sections": 21,
   "duplicate_titles_in_mix": 0,
   "top_sources_mix": [
     {
-      "source": "ScienceDaily Health",
-      "count": 19
-    },
-    {
-      "source": "ScienceDaily Science",
-      "count": 15
-    },
-    {
-      "source": "ScienceDaily Environment",
-      "count": 15
-    },
-    {
-      "source": "NASA Breaking News",
-      "count": 10
-    },
-    {
-      "source": "Positive News",
+      "source": "Medical Xpress",
       "count": 6
     },
     {
-      "source": "Start-Up Romania",
+      "source": "Phys.org",
       "count": 5
     },
     {
-      "source": "Green Start-Up Romania",
-      "count": 5
-    },
-    {
-      "source": "NASA Earth Observatory - Image of the Day",
+      "source": "Descopera (Stiinta)",
       "count": 4
     },
     {
@@ -51,8 +31,28 @@
       "count": 3
     },
     {
-      "source": "NASA Earth Observatory - Natural Hazards",
+      "source": "Green Start-Up Romania",
       "count": 3
+    },
+    {
+      "source": "RomaniaPozitiva",
+      "count": 2
+    },
+    {
+      "source": "Start-Up Romania",
+      "count": 2
+    },
+    {
+      "source": "StiriPozitive - Toate",
+      "count": 1
+    },
+    {
+      "source": "ScienceDaily Environment",
+      "count": 1
+    },
+    {
+      "source": "ScienceDaily Science",
+      "count": 1
     }
   ],
   "issues": []
