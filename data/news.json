@@ -1,7 +1,29 @@
 {
-  "generated_utc": "2026-03-04T23:23:47+00:00",
+  "generated_utc": "2026-03-05T01:13:20+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Descopera (Stiinta)",
+        "title": "Descoperire tulburătoare în Grecia: Peste 150 de cadavre din timpul pandemiei COVID-19 nu s-au descompus nici până azi",
+        "summary": "Autoritățile din Kavala, nordul Greciei, vor exhuma aproximativ 150 de morminte COVID-19. Motivul: trupurile nu s-au descompus nici după cinci ani de la înmormântare. Descoperirea a șocat autoritățile locale și familiile îndoliate. Cauza principală este [&#8230;] Articolul Descoperire tulburătoare în Grecia: Peste 150 de cadavre din timpul pandemiei COVID-19 nu s-au descompus nici până azi apare prima dată în Descopera .",
+        "link": "https://www.descopera.ro/dnews/21032731-descoperire-tulburatoare-in-grecia-peste-150-de-cadavre-din-timpul-pandemiei-covid-19-nu-s-au-descompus-nici-pana-azi",
+        "published_utc": "2026-03-05T01:00:23+00:00",
+        "score": 3,
+        "image": "https://www.descopera.ro/wp-content/uploads/2026/03/pandemie-covid-shutter_Descopera-1024x683.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Descopera (Stiinta)",
+        "title": "Într-un oraș din România, roboții merg pe străzi și îndeamnă trecătorii să păstreze curățenia",
+        "summary": "Tehnologia a ieșit din laboratoare direct pe stradă la Târgu Mureș: un câine-robot care merge printre trecători și le vorbește despre colectarea selectivă nu mai ține de domeniul SF. În zona centrală a orașului, roboți [&#8230;] Articolul Într-un oraș din România, roboții merg pe străzi și îndeamnă trecătorii să păstreze curățenia apare prima dată în Descopera .",
+        "link": "https://www.descopera.ro/dnews/21032697-intr-un-oras-din-romania-robotii-merg-pe-strazi-si-indeamna-trecatorii-sa-pastreze-curatenia",
+        "published_utc": "2026-03-05T00:00:43+00:00",
+        "score": 1,
+        "image": "https://www.descopera.ro/wp-content/uploads/2026/03/roboti-tehnologie-shutter_Descopera-scaled.jpg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -17,7 +39,7 @@
         "section": "romania",
         "kind": "ro",
         "source": "HotNews",
-        "title": "Cine este Alexandra Căpitănescu, câștigătoarea Eurovision România 2026 / În trecut a câștigat un talent-show foarte urmărit în România",
+        "title": "Cine este Alexandra Căpitănescu, câștigătoarea Eurovision România 2026 / A câștigat un talent-show super audiat",
         "summary": "Reprezentanta României la Eurovision Song Contest 2026 a fost aleasă miercuri, într-o finală difuzată în direct de către TVR, organizatorul selecției naționale. Artista Alexandra Căpitănescu a primit cele mai multe puncte din partea celor șapte jurați și, astfel, ea va reprezenta România la Viena cu melodia „Choke me”.&#160; Alexandra Căpitănescu a devenit cunoscută publicului larg &#8230;",
         "link": "https://hotnews.ro/cine-este-alexandra-capitanescu-castigator-eurovision-romania-2026-2185539",
         "published_utc": "2026-03-04T21:27:04+00:00",
@@ -45,28 +67,6 @@
         "published_utc": "2026-03-04T16:14:25+00:00",
         "score": 3,
         "image": "https://www.timesnewroman.ro/wp-content/uploads/2020/11/marijuana-consumer.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Start-Up Romania",
-        "title": "REVIEW Google Pixel 10a: singurul Android pentru care aș renunța la iPhone",
-        "summary": "Google Pixel 10a este cel mai nou telefon de la Google și deși nu aduce foarte multe noutăți față de modelul anterior este în continuare un telefon excelent pentru cei care vor o experiență Android...",
-        "link": "https://start-up.ro/pixel-10a",
-        "published_utc": "2026-03-04T16:05:01+00:00",
-        "score": 1,
-        "image": "https://start-up.ro/img/thumbs/articles/3/7/9/37949/image-37949-760x400-00-65.jpg?v=1772592657"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "RomaniaPozitiva",
-        "title": "Funky Citizens organizează dezbaterea: „Educația civică în școlile profesionale”",
-        "summary": "București, 4 martie 2026: Pe 18 martie 2025, între orele 11:00 și 13:00, Funky Citizens te invită la o dezbatere despre educația civică în învățământul vocațional, tehnologic și profesional (VET)&#8230; Articolul Funky Citizens organizează dezbaterea: „Educația civică în școlile profesionale” apare prima dată în Romania Pozitiva .",
-        "link": "https://www.romaniapozitiva.ro/educatie/funky-citizens-organizeaza-dezbaterea-educatia-civica-in-scolile-profesionale",
-        "published_utc": "2026-03-04T14:41:29+00:00",
-        "score": 1,
-        "image": "http://www.romaniapozitiva.ro/wp-content/uploads/2026/03/funky-citizens-dezbatere-civics-in-vet.jpg"
       },
       {
         "section": "romania",
@@ -460,6 +460,17 @@
       {
         "section": "science",
         "kind": "global",
+        "source": "NASA Breaking News",
+        "title": "High-Speed Flight Project Overview",
+        "summary": "What We do The High-Speed Flight (HSF) project develops technologies that make high-speed, airbreathing, commercial flight possible from Mach 1 to Mach 5 and above. HSF creates tools, technologies, and knowledge that will help eliminate today&#8217;s technical barriers to practical supersonic flight, most notably sonic boom. The project supports the X-59 quiet supersonic vehicle testing [&#8230;]",
+        "link": "https://www.nasa.gov/directorates/armd/aavp/hsf/high-speed-flight-project-overview",
+        "published_utc": "2026-03-05T01:05:42+00:00",
+        "score": 0,
+        "image": "https://www.nasa.gov/wp-content/uploads/2023/06/high-speed-aircraft.png"
+      },
+      {
+        "section": "science",
+        "kind": "global",
         "source": "ScienceDaily Science",
         "title": "2700-year-old teeth reveal the hidden lives of Iron Age Italians",
         "summary": "Iron Age teeth from southern Italy have become time capsules, preserving intimate details of childhood and diet. Growth lines in the enamel reveal moments of early-life stress, while hardened plaque holds microscopic remains of cereals, legumes, and fermented foods. The findings suggest a community with diverse food resources and strong Mediterranean connections. Even a small sample offers a striking glimpse into how people lived, grew, and ate nearly three millennia ago.",
@@ -467,6 +478,17 @@
         "published_utc": "2026-03-04T22:41:14+00:00",
         "score": 0,
         "image": "https://picsum.photos/seed/vb-4310a3a10c2a8f2e/480/320"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "NASA Breaking News",
+        "title": "About Advanced Air Vehicles Program (AAVP)",
+        "summary": "NASA’s Advanced Air Vehicles Program (AAVP) studies, evaluates, and develops technologies and capabilities for new aircraft systems and explores far-future concepts for revolutionary air travel improvements. AAVP develops technologies for all flight regimes from hover to hypersonic to enable safe, new aircraft that are faster, quieter, and more fuel efficient. AAVP develops a broad range [&#8230;]",
+        "link": "https://www.nasa.gov/directorates/armd/aavp/about-aavp",
+        "published_utc": "2026-03-04T19:00:00+00:00",
+        "score": 2,
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/03/aavpbackground-2026.jpg"
       },
       {
         "section": "science",
@@ -577,28 +599,6 @@
         "published_utc": "2026-03-03T19:57:07+00:00",
         "score": 0,
         "image": "https://picsum.photos/seed/vb-b77af1dabafef15c/480/320"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "NASA Breaking News",
-        "title": "Curiosity Blog, Sols 4818-4824: Thinking Out of the Boxwork",
-        "summary": "Written by Ashley Stroupe, Operations Systems Engineer at NASA’s Jet Propulsion Laboratory Earth planning date: Friday, Feb. 27, 2026 This week we had three planning sessions, exploring the eastern side of the boxwork unit. As a Rover Planner on Monday, I worked on the arm and drive activities, while on Friday I served as the […]",
-        "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4818-4824-thinking-out-of-the-boxwork",
-        "published_utc": "2026-03-03T18:40:37+00:00",
-        "score": 0,
-        "image": "https://assets.science.nasa.gov/content/dam/science/missions/msl/2026/curiosity-rover-updates/february/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04820_opgs_edr_fcam_FLB_825378820EDR_F1202030FHAZ00200M_.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "NASA Breaking News",
-        "title": "NASA Invites Proposals to Lease Land Parcels at Sandusky Facility",
-        "summary": "NASA’s Glenn Research Center is seeking proposals to lease select land parcels at its Neil Armstrong Test Facility in Sandusky, Ohio. Proposals are due by 5 p.m. EST on July 2, 2026. The parcels are part of an area of land that currently serves as a buffer for ongoing NASA operations. The solicitation includes the [&#8230;]",
-        "link": "https://www.nasa.gov/news-release/nasa-invites-land-lease-proposals",
-        "published_utc": "2026-03-03T18:29:23+00:00",
-        "score": 0,
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/03/grc-2024-c-11142.jpg"
       },
       {
         "section": "science",
@@ -1004,8 +1004,30 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "Descopera (Stiinta)",
+      "title": "Descoperire tulburătoare în Grecia: Peste 150 de cadavre din timpul pandemiei COVID-19 nu s-au descompus nici până azi",
+      "summary": "Autoritățile din Kavala, nordul Greciei, vor exhuma aproximativ 150 de morminte COVID-19. Motivul: trupurile nu s-au descompus nici după cinci ani de la înmormântare. Descoperirea a șocat autoritățile locale și familiile îndoliate. Cauza principală este [&#8230;] Articolul Descoperire tulburătoare în Grecia: Peste 150 de cadavre din timpul pandemiei COVID-19 nu s-au descompus nici până azi apare prima dată în Descopera .",
+      "link": "https://www.descopera.ro/dnews/21032731-descoperire-tulburatoare-in-grecia-peste-150-de-cadavre-din-timpul-pandemiei-covid-19-nu-s-au-descompus-nici-pana-azi",
+      "published_utc": "2026-03-05T01:00:23+00:00",
+      "score": 3,
+      "image": "https://www.descopera.ro/wp-content/uploads/2026/03/pandemie-covid-shutter_Descopera-1024x683.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Descopera (Stiinta)",
+      "title": "Într-un oraș din România, roboții merg pe străzi și îndeamnă trecătorii să păstreze curățenia",
+      "summary": "Tehnologia a ieșit din laboratoare direct pe stradă la Târgu Mureș: un câine-robot care merge printre trecători și le vorbește despre colectarea selectivă nu mai ține de domeniul SF. În zona centrală a orașului, roboți [&#8230;] Articolul Într-un oraș din România, roboții merg pe străzi și îndeamnă trecătorii să păstreze curățenia apare prima dată în Descopera .",
+      "link": "https://www.descopera.ro/dnews/21032697-intr-un-oras-din-romania-robotii-merg-pe-strazi-si-indeamna-trecatorii-sa-pastreze-curatenia",
+      "published_utc": "2026-03-05T00:00:43+00:00",
+      "score": 1,
+      "image": "https://www.descopera.ro/wp-content/uploads/2026/03/roboti-tehnologie-shutter_Descopera-scaled.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "HotNews",
-      "title": "Cine este Alexandra Căpitănescu, câștigătoarea Eurovision România 2026 / În trecut a câștigat un talent-show foarte urmărit în România",
+      "title": "Cine este Alexandra Căpitănescu, câștigătoarea Eurovision România 2026 / A câștigat un talent-show super audiat",
       "summary": "Reprezentanta României la Eurovision Song Contest 2026 a fost aleasă miercuri, într-o finală difuzată în direct de către TVR, organizatorul selecției naționale. Artista Alexandra Căpitănescu a primit cele mai multe puncte din partea celor șapte jurați și, astfel, ea va reprezenta România la Viena cu melodia „Choke me”.&#160; Alexandra Căpitănescu a devenit cunoscută publicului larg &#8230;",
       "link": "https://hotnews.ro/cine-este-alexandra-capitanescu-castigator-eurovision-romania-2026-2185539",
       "published_utc": "2026-03-04T21:27:04+00:00",
@@ -1033,28 +1055,6 @@
       "published_utc": "2026-03-04T16:14:25+00:00",
       "score": 3,
       "image": "https://www.timesnewroman.ro/wp-content/uploads/2020/11/marijuana-consumer.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Start-Up Romania",
-      "title": "REVIEW Google Pixel 10a: singurul Android pentru care aș renunța la iPhone",
-      "summary": "Google Pixel 10a este cel mai nou telefon de la Google și deși nu aduce foarte multe noutăți față de modelul anterior este în continuare un telefon excelent pentru cei care vor o experiență Android...",
-      "link": "https://start-up.ro/pixel-10a",
-      "published_utc": "2026-03-04T16:05:01+00:00",
-      "score": 1,
-      "image": "https://start-up.ro/img/thumbs/articles/3/7/9/37949/image-37949-760x400-00-65.jpg?v=1772592657"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "Funky Citizens organizează dezbaterea: „Educația civică în școlile profesionale”",
-      "summary": "București, 4 martie 2026: Pe 18 martie 2025, între orele 11:00 și 13:00, Funky Citizens te invită la o dezbatere despre educația civică în învățământul vocațional, tehnologic și profesional (VET)&#8230; Articolul Funky Citizens organizează dezbaterea: „Educația civică în școlile profesionale” apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/educatie/funky-citizens-organizeaza-dezbaterea-educatia-civica-in-scolile-profesionale",
-      "published_utc": "2026-03-04T14:41:29+00:00",
-      "score": 1,
-      "image": "http://www.romaniapozitiva.ro/wp-content/uploads/2026/03/funky-citizens-dezbatere-civics-in-vet.jpg"
     },
     {
       "section": "romania",
@@ -1125,13 +1125,13 @@
     {
       "section": "science",
       "kind": "global",
-      "source": "ScienceDaily Science",
-      "title": "2700-year-old teeth reveal the hidden lives of Iron Age Italians",
-      "summary": "Iron Age teeth from southern Italy have become time capsules, preserving intimate details of childhood and diet. Growth lines in the enamel reveal moments of early-life stress, while hardened plaque holds microscopic remains of cereals, legumes, and fermented foods. The findings suggest a community with diverse food resources and strong Mediterranean connections. Even a small sample offers a striking glimpse into how people lived, grew, and ate nearly three millennia ago.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260303145727.htm",
-      "published_utc": "2026-03-04T22:41:14+00:00",
+      "source": "NASA Breaking News",
+      "title": "High-Speed Flight Project Overview",
+      "summary": "What We do The High-Speed Flight (HSF) project develops technologies that make high-speed, airbreathing, commercial flight possible from Mach 1 to Mach 5 and above. HSF creates tools, technologies, and knowledge that will help eliminate today&#8217;s technical barriers to practical supersonic flight, most notably sonic boom. The project supports the X-59 quiet supersonic vehicle testing [&#8230;]",
+      "link": "https://www.nasa.gov/directorates/armd/aavp/hsf/high-speed-flight-project-overview",
+      "published_utc": "2026-03-05T01:05:42+00:00",
       "score": 0,
-      "image": "https://picsum.photos/seed/vb-4310a3a10c2a8f2e/480/320"
+      "image": "https://www.nasa.gov/wp-content/uploads/2023/06/high-speed-aircraft.png"
     },
     {
       "section": "romania",
@@ -1156,15 +1156,15 @@
       "image": "https://green.start-up.ro/img/articles/3/5/7/35715/cover-35715-src.jpg"
     },
     {
-      "section": "medical",
+      "section": "science",
       "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "Millions with joint pain and osteoarthritis are missing the most powerful treatment",
-      "summary": "Stiff knees and aching hips may seem like an inevitable part of aging, but experts say we’re getting osteoarthritis all wrong. Despite affecting nearly 600 million people worldwide — and potentially a billion by 2050 — the most powerful treatment isn’t surgery or medication. It’s exercise. Movement nourishes cartilage, strengthens muscles, reduces inflammation, and even reshapes the biological processes driving joint damage.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260303145725.htm",
-      "published_utc": "2026-03-04T21:35:02+00:00",
+      "source": "ScienceDaily Science",
+      "title": "2700-year-old teeth reveal the hidden lives of Iron Age Italians",
+      "summary": "Iron Age teeth from southern Italy have become time capsules, preserving intimate details of childhood and diet. Growth lines in the enamel reveal moments of early-life stress, while hardened plaque holds microscopic remains of cereals, legumes, and fermented foods. The findings suggest a community with diverse food resources and strong Mediterranean connections. Even a small sample offers a striking glimpse into how people lived, grew, and ate nearly three millennia ago.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260303145727.htm",
+      "published_utc": "2026-03-04T22:41:14+00:00",
       "score": 0,
-      "image": "https://picsum.photos/seed/vb-d8fde7dcd700ee85/480/320"
+      "image": "https://picsum.photos/seed/vb-4310a3a10c2a8f2e/480/320"
     },
     {
       "section": "romania",
@@ -1187,6 +1187,28 @@
       "published_utc": "2026-02-02T10:32:03+00:00",
       "score": 3,
       "image": "https://stiripozitive.com/wp-content/uploads/2026/02/harta-.jpeg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "Millions with joint pain and osteoarthritis are missing the most powerful treatment",
+      "summary": "Stiff knees and aching hips may seem like an inevitable part of aging, but experts say we’re getting osteoarthritis all wrong. Despite affecting nearly 600 million people worldwide — and potentially a billion by 2050 — the most powerful treatment isn’t surgery or medication. It’s exercise. Movement nourishes cartilage, strengthens muscles, reduces inflammation, and even reshapes the biological processes driving joint damage.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260303145725.htm",
+      "published_utc": "2026-03-04T21:35:02+00:00",
+      "score": 0,
+      "image": "https://picsum.photos/seed/vb-d8fde7dcd700ee85/480/320"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "NASA Breaking News",
+      "title": "About Advanced Air Vehicles Program (AAVP)",
+      "summary": "NASA’s Advanced Air Vehicles Program (AAVP) studies, evaluates, and develops technologies and capabilities for new aircraft systems and explores far-future concepts for revolutionary air travel improvements. AAVP develops technologies for all flight regimes from hover to hypersonic to enable safe, new aircraft that are faster, quieter, and more fuel efficient. AAVP develops a broad range [&#8230;]",
+      "link": "https://www.nasa.gov/directorates/armd/aavp/about-aavp",
+      "published_utc": "2026-03-04T19:00:00+00:00",
+      "score": 2,
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/03/aavpbackground-2026.jpg"
     },
     {
       "section": "medical",
@@ -1341,28 +1363,6 @@
       "published_utc": "2026-03-03T19:57:07+00:00",
       "score": 0,
       "image": "https://picsum.photos/seed/vb-b77af1dabafef15c/480/320"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "NASA Breaking News",
-      "title": "Curiosity Blog, Sols 4818-4824: Thinking Out of the Boxwork",
-      "summary": "Written by Ashley Stroupe, Operations Systems Engineer at NASA’s Jet Propulsion Laboratory Earth planning date: Friday, Feb. 27, 2026 This week we had three planning sessions, exploring the eastern side of the boxwork unit. As a Rover Planner on Monday, I worked on the arm and drive activities, while on Friday I served as the […]",
-      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4818-4824-thinking-out-of-the-boxwork",
-      "published_utc": "2026-03-03T18:40:37+00:00",
-      "score": 0,
-      "image": "https://assets.science.nasa.gov/content/dam/science/missions/msl/2026/curiosity-rover-updates/february/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04820_opgs_edr_fcam_FLB_825378820EDR_F1202030FHAZ00200M_.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "NASA Breaking News",
-      "title": "NASA Invites Proposals to Lease Land Parcels at Sandusky Facility",
-      "summary": "NASA’s Glenn Research Center is seeking proposals to lease select land parcels at its Neil Armstrong Test Facility in Sandusky, Ohio. Proposals are due by 5 p.m. EST on July 2, 2026. The parcels are part of an area of land that currently serves as a buffer for ongoing NASA operations. The solicitation includes the [&#8230;]",
-      "link": "https://www.nasa.gov/news-release/nasa-invites-land-lease-proposals",
-      "published_utc": "2026-03-03T18:29:23+00:00",
-      "score": 0,
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/03/grc-2024-c-11142.jpg"
     },
     {
       "section": "medical",
@@ -1971,8 +1971,8 @@
     }
   ],
   "joke_ro": {
-    "date_utc": "2026-03-04",
-    "text": "- Am incercat sa meditez. M-am gandit prea tare la cum sa nu ma gandesc.",
+    "date_utc": "2026-03-05",
+    "text": "- Daca rasul ar arde calorii, eram deja la mentenanta.",
     "source": "data/jokes_ro.txt"
   },
   "satire_ro": {
@@ -1985,7 +1985,7 @@
       "tag": "space",
       "title": "Space",
       "link": "https://commons.wikimedia.org/wiki/Category:Astronomy",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/NGC_4414_%28NASA-med%29.jpg"
+      "image": "https://live.staticflickr.com/65535/55118553617_ccb01fe436_b.jpg"
     },
     {
       "tag": "animals",
