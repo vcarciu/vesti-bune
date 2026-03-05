@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-03-05T22:21:28+00:00",
+  "generated_utc": "2026-03-05T23:45:21+00:00",
   "sections": {
     "romania": [
       {
@@ -129,85 +129,85 @@
         "section": "medical",
         "kind": "global",
         "source": "Medical Xpress",
-        "title": "Light-sensing genes may connect three childhood tumor types",
-        "summary": "Research uncovering the origin of pineoblastoma, a rare pediatric brain tumor, has also revealed a dependency across multiple brain tumor types that share a similar molecular program. Scientists at St. Jude Children's Research Hospital, Dana-Farber/Boston Children's Cancer and Blood Disorders Center, and Uppsala University have assembled and profiled the largest cohort of pineoblastoma tumors to date with single-cell resolution.",
-        "link": "https://medicalxpress.com/news/2026-03-genes-childhood-tumor.html",
-        "published_utc": "2026-03-05T22:20:01+00:00",
+        "title": "AI model predicts Alzheimer's from MRI brain volume loss with 92.87% accuracy",
+        "summary": "WPI researchers have used a form of artificial intelligence (AI) to analyze anatomical changes in the brain and predict Alzheimer's disease with nearly 93% accuracy. Their research, published in the journal Neuroscience, also revealed that the anatomical changes, involving loss of brain volume, differ by age and sex.",
+        "link": "https://medicalxpress.com/news/2026-03-ai-alzheimer-mri-brain-volume.html",
+        "published_utc": "2026-03-05T23:40:01+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/shared-origins-illumin-1.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/predicting-alzheimers.jpg"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "Scientists discover a hidden force that helps wire the brain",
+        "summary": "Growing neurons rely on chemical cues to find their targets, but new research shows that the brain’s physical properties help shape those signals. Scientists discovered that tissue stiffness can trigger the production of guidance molecules through a force-sensing protein called Piezo1. This protein not only detects mechanical forces but also helps maintain the structure of brain tissue. The discovery reveals a powerful link between the brain’s physical environment and how its wiring is built.",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260304184233.htm",
+        "published_utc": "2026-03-05T23:26:24+00:00",
+        "score": 4,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-2fd13bd47a3cb2ad/480/320"
       },
       {
         "section": "medical",
         "kind": "global",
         "source": "Medical Xpress",
-        "title": "Researchers call for governing health data as a public utility to unlock real-world evidence and protect patients",
-        "summary": "Electronic health records (EHRs); insurance claims; patient registries; wearable tech: Never before has health data been so abundant. However, the United States continues to struggle with siloed health data systems that make it difficult for critical data to be streamlined and used for the advancement of science and medicine—particularly public health, safety monitoring, and precision medicine.",
-        "link": "https://medicalxpress.com/news/2026-03-health-real-world-evidence-patients.html",
-        "published_utc": "2026-03-05T22:10:01+00:00",
+        "title": "Early detection of brain disorders with a single drop of saliva",
+        "summary": "A team of Korean researchers has, for the first time, developed a technology capable of enabling early diagnosis of major neurological disorders including epilepsy, Parkinson's disease, and schizophrenia using only a small amount of saliva. The study was conducted jointly by a research team led by Dr. Sung-Gyu Park of the Advanced Bio and Healthcare Materials Research Division at the Korea Institute of Materials Science (KIMS), together with Prof. Ho Sang Jung's team at Korea University and researchers from the College of Medicine at The Catholic University of Korea.",
+        "link": "https://medicalxpress.com/news/2026-03-early-brain-disorders-saliva.html",
+        "published_utc": "2026-03-05T23:20:03+00:00",
         "score": 1,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/health-data-1.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/korean-researchers-ena.jpg"
       },
       {
         "section": "medical",
         "kind": "global",
         "source": "Medical Xpress",
-        "title": "Study points to potential new therapies for hard-to-treat lung cancers",
-        "summary": "Findings from a study led by researchers at The Ohio State University Comprehensive Cancer Center–Arthur G. James Cancer Hospital and Richard J. Solove Research Institute (OSUCCC–James) support the potential of new therapies that could improve clinical outcomes for patients with squamous and adenocarcinoma non-small cell lung cancers (NSCLC) that don't respond to immunotherapy. The study is published in the journal Science Translational Medicine.",
-        "link": "https://medicalxpress.com/news/2026-03-potential-therapies-hard-lung-cancers.html",
-        "published_utc": "2026-03-05T22:00:05+00:00",
+        "title": "Review finds exercise could cut cardiometabolic risks in severe mental illness",
+        "summary": "People with mental illnesses such as schizophrenia, depression or bipolar disorder die on average 10 to 20 years earlier than the general population. The main causes of this are cardiovascular and metabolic diseases, which are triggered or exacerbated by a lack of exercise. Now, an international team of scientists led by MedUni Vienna is calling for physical activity to be recognized as an integral part of psychiatric treatment and is also describing specific steps for successfully integrating it into practice. The review has been published in JAMA Psychiatry.",
+        "link": "https://medicalxpress.com/news/2026-03-cardiometabolic-severe-mental-illness.html",
+        "published_utc": "2026-03-05T23:10:01+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/running-shoes.jpg"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "Medical Xpress",
+        "title": "Multi-omics model links medical records to measure biological age",
+        "summary": "Researchers at the University of Strathclyde have played a central role in an international study that presents a new method to measure biological age—a key factor in predicting health outcomes and understanding the aging process. The study, \"OMICmAge quantifies biological age by integrating multi-omics with electronic medical records,\" led by Harvard University and published in Nature Aging, introduces a new biological aging model developed using a comprehensive range of molecular data drawn from large-scale population studies.",
+        "link": "https://medicalxpress.com/news/2026-03-multi-omics-links-medical-biological.html",
+        "published_utc": "2026-03-05T23:00:03+00:00",
+        "score": 4,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-contribute.jpg"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "Medical Xpress",
+        "title": "AAAAI: No increase seen in asthma exacerbations with ICI use for melanoma, renal cell carcinoma",
+        "summary": "For patients with asthma, receipt of immune checkpoint inhibitor (ICI) therapy for melanoma or renal cell carcinoma is not associated with an increased risk for exacerbations, according to a study presented at the annual meeting of the American Academy of Allergy, Asthma & Immunology, held from Feb. 27 to March 2 in Philadelphia.",
+        "link": "https://medicalxpress.com/news/2026-03-aaaai-asthma-exacerbations-ici-melanoma.html",
+        "published_utc": "2026-03-05T22:30:02+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/aaaai-no-increase-seen.jpg"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "Medical Xpress",
+        "title": "Cannabis compounds show promise in fighting fatty liver disease",
+        "summary": "Researchers have discovered that non-psychoactive cannabis compounds, CBD and CBG, can significantly reduce liver fat and improve metabolic health. The study reveals that these compounds work by creating a backup energy reserve in the liver and restoring the activity of cellular \"cleaning crews\" to break down harmful waste. These findings highlight a new, plant-based path for treating the world's most common chronic liver disorder.",
+        "link": "https://medicalxpress.com/news/2026-03-cannabis-compounds-fatty-liver-disease.html",
+        "published_utc": "2026-03-05T22:30:01+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-points-to-potent.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Why studying two brains at once could reshape autism research and diagnosis",
-        "summary": "Could the mysteries of cognition be revealed in the interactions between minds, not just the operation of the brain in isolation? This is the question behind two recent studies by Guillaume Dumas, a professor in the Department of Psychiatry and Addiction at Université de Montréal and principal investigator at the Precision Psychiatry and Social Physiology Laboratory at the CHU Sainte-Justine Research Center.",
-        "link": "https://medicalxpress.com/news/2026-03-brains-reshape-autism-diagnosis.html",
-        "published_utc": "2026-03-05T22:00:03+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/no-man-is-an-island-1.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Consent and its discontents: UK Biobank projects may breach trust of thousands of participants",
-        "summary": "UK Biobank is a major biomedical database and research resource, holding the genetic, health, and lifestyle information of half a million adult volunteers. Its datasets are accessible to approved researchers from academic, charity, government, and commercial organizations for health-related research in the public interest.",
-        "link": "https://medicalxpress.com/news/2026-03-consent-discontents-uk-biobank-breach.html",
-        "published_utc": "2026-03-05T21:50:02+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/genetic-testing.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Smartphone health care app features help motivate users to increase physical activity",
-        "summary": "Smartphone health care applications are widely used to support weight management and broader lifestyle improvement. However, many existing apps primarily emphasize dietary tracking and feedback, while offering relatively few personalized features aimed specifically at promoting physical activity. This gap is notable given that regular physical activity is a cornerstone of long-term health maintenance.",
-        "link": "https://medicalxpress.com/news/2026-03-smartphone-health-app-features-users.html",
-        "published_utc": "2026-03-05T21:40:05+00:00",
-        "score": 2,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/health-app.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Herpes simplex virus liquefies cell nuclei to build viral 'factories'",
-        "summary": "Herpes simplex virus partially liquefies the tightly packed, gel-like interior of human cell nuclei to copy itself faster, a new study shows. The research centers on how the nucleus of each human cell houses the genetic machinery used to copy DNA-encoded instructions when it divides and multiplies as part of growth. Viruses invade human cells and use their machinery to copy themselves, but the invasion can be hindered by the dense structure of the nucleus.",
-        "link": "https://medicalxpress.com/news/2026-03-herpes-simplex-virus-liquefies-cell.html",
-        "published_utc": "2026-03-05T21:40:01+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/herpes-virus-fluidizes.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cannabis-compounds-sho.jpg"
       }
     ],
     "science": [
@@ -215,37 +215,73 @@
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Marine biologists a family history of San Diego's giant kelp over more than four decades",
-        "summary": "The growth form of giant kelp (Macrocystis pyrifera) is composed of shoots known as stipes instead of branches. From one parent holding fast to the hard bottom might come as many as 150 stipes. Typically, the tips of the biggest kelp bob at the ocean surface and calm the waters, appearing as patches of gold visible from land—a sign of the good health of the ecosystem that it anchors. But the kelp, as San Diego knows it, is in trouble.",
-        "link": "https://phys.org/news/2026-03-marine-biologists-family-history-san.html",
-        "published_utc": "2026-03-05T22:20:03+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-create-a-f.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Shrinking the carbon footprint of chemical manufacturing with lasers and solar radiation",
-        "summary": "Researchers have found a way to use solar energy to power a key chemical reaction that drives many manufacturing industries. This new method can significantly reduce the energy required to run these operations, eliminate harsh oxidizing byproducts and minimize carbon emissions.",
-        "link": "https://phys.org/news/2026-03-carbon-footprint-chemical-lasers-solar.html",
-        "published_utc": "2026-03-05T22:00:01+00:00",
+        "title": "Plant cell structure could hold key to cancer therapies and improved crops",
+        "summary": "Can the bend of a banana give us insight into cancer? What does the shape of a rice grain have to do with infertility? The proteins that give plants their shape and structure are also involved in human disease. A team led by researchers at the University of California, Davis, has mapped out the structure of a key player, augmin, in exhaustive detail. Their work is published in the journal Nature Communications.",
+        "link": "https://phys.org/news/2026-03-cell-key-cancer-therapies-crops.html",
+        "published_utc": "2026-03-05T23:40:03+00:00",
         "score": 2,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/shrinking-the-carbon-f.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/plant-cell-structure-c.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Electric field tunes vibrations to ease heat transfer",
-        "summary": "New research from the Department of Energy's Oak Ridge National Laboratory, in collaboration with The Ohio State University and Amphenol Corporation, challenges conventional understanding about controlling heat flow in solid materials. The study, published in PRX Energy, shows that applying an electric field to a ceramic material changes how phonons (tiny vibrations that carry heat) behave.",
-        "link": "https://phys.org/news/2026-03-electric-field-tunes-vibrations-ease.html",
-        "published_utc": "2026-03-05T21:30:01+00:00",
+        "title": "AI-designed diffractive optical processors pave the way for low-power structural health monitoring",
+        "summary": "A team of researchers at the University of California, Los Angeles (UCLA) has introduced a novel framework for monitoring structural vibrations using diffractive optical processors. This new technology uses artificial intelligence to co-optimize a passive diffractive layer and a shallow neural network, allowing the system to encode time-varying mechanical vibrations into distinct spatiotemporal optical patterns.",
+        "link": "https://phys.org/news/2026-03-ai-diffractive-optical-processors-pave.html",
+        "published_utc": "2026-03-05T23:30:01+00:00",
         "score": 1,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/electric-field-tunes-v.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-designed-diffractiv.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Making mini-lightning in a block of plastic",
+        "summary": "Lightning formation and the conditions triggering it have long been shrouded in a cloud of mystery, but new research led by Penn State scientists is lifting the fog. Using mathematical calculations, the researchers have discovered that lightning-like discharge doesn't require a storm cloud—it could be made inside everyday material on a lab bench. The study is published in the journal Physical Review Letters.",
+        "link": "https://phys.org/news/2026-03-mini-lightning-block-plastic.html",
+        "published_utc": "2026-03-05T23:10:06+00:00",
+        "score": 4,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/lightning.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Researchers create a never-before-seen molecule and prove its exotic nature with quantum computing",
+        "summary": "An international team of scientists from IBM, The University of Manchester, Oxford University, ETH Zurich, EPFL and the University of Regensburg have created and characterized a molecule unlike any previously known—one whose electrons travel through its structure in a corkscrew-like pattern that fundamentally alters its chemical behavior. The work appears in Science.",
+        "link": "https://phys.org/news/2026-03-molecule-exotic-nature-quantum.html",
+        "published_utc": "2026-03-05T22:50:05+00:00",
+        "score": 1,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-create-a-n.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "NASA now officially has no plans to use new mobile launcher for Artemis",
+        "summary": "When NASA Administrator Jared Isaacman announced the revamped approach to the Artemis moon program, it was unclear whether the new mobile launcher that has been constructed over the last two years at Kennedy Space Center would ever get used.",
+        "link": "https://phys.org/news/2026-03-nasa-mobile-launcher-artemis.html",
+        "published_utc": "2026-03-05T22:50:03+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/nasa.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Chemically tuning nanographene into topological spin chains and why the ends matter",
+        "summary": "When most people hear \"polymer,\" they think of plastics. In our group, polymerization is a way to line up identical molecules like beads on a string and let quantum mechanics take over. Put magnetic building blocks in a one-dimensional row and the chain can behave as a single quantum object. Even more intriguing, the chain can hide its most useful properties at its ends.",
+        "link": "https://phys.org/news/2026-03-chemically-tuning-nanographene-topological-chains.html",
+        "published_utc": "2026-03-05T22:40:01+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/chemically-tuning-nano.jpg"
       }
     ],
     "environment": []
@@ -376,121 +412,157 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Marine biologists a family history of San Diego's giant kelp over more than four decades",
-      "summary": "The growth form of giant kelp (Macrocystis pyrifera) is composed of shoots known as stipes instead of branches. From one parent holding fast to the hard bottom might come as many as 150 stipes. Typically, the tips of the biggest kelp bob at the ocean surface and calm the waters, appearing as patches of gold visible from land—a sign of the good health of the ecosystem that it anchors. But the kelp, as San Diego knows it, is in trouble.",
-      "link": "https://phys.org/news/2026-03-marine-biologists-family-history-san.html",
-      "published_utc": "2026-03-05T22:20:03+00:00",
+      "title": "Plant cell structure could hold key to cancer therapies and improved crops",
+      "summary": "Can the bend of a banana give us insight into cancer? What does the shape of a rice grain have to do with infertility? The proteins that give plants their shape and structure are also involved in human disease. A team led by researchers at the University of California, Davis, has mapped out the structure of a key player, augmin, in exhaustive detail. Their work is published in the journal Nature Communications.",
+      "link": "https://phys.org/news/2026-03-cell-key-cancer-therapies-crops.html",
+      "published_utc": "2026-03-05T23:40:03+00:00",
+      "score": 2,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/plant-cell-structure-c.jpg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "AI model predicts Alzheimer's from MRI brain volume loss with 92.87% accuracy",
+      "summary": "WPI researchers have used a form of artificial intelligence (AI) to analyze anatomical changes in the brain and predict Alzheimer's disease with nearly 93% accuracy. Their research, published in the journal Neuroscience, also revealed that the anatomical changes, involving loss of brain volume, differ by age and sex.",
+      "link": "https://medicalxpress.com/news/2026-03-ai-alzheimer-mri-brain-volume.html",
+      "published_utc": "2026-03-05T23:40:01+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-create-a-f.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Light-sensing genes may connect three childhood tumor types",
-      "summary": "Research uncovering the origin of pineoblastoma, a rare pediatric brain tumor, has also revealed a dependency across multiple brain tumor types that share a similar molecular program. Scientists at St. Jude Children's Research Hospital, Dana-Farber/Boston Children's Cancer and Blood Disorders Center, and Uppsala University have assembled and profiled the largest cohort of pineoblastoma tumors to date with single-cell resolution.",
-      "link": "https://medicalxpress.com/news/2026-03-genes-childhood-tumor.html",
-      "published_utc": "2026-03-05T22:20:01+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/shared-origins-illumin-1.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Researchers call for governing health data as a public utility to unlock real-world evidence and protect patients",
-      "summary": "Electronic health records (EHRs); insurance claims; patient registries; wearable tech: Never before has health data been so abundant. However, the United States continues to struggle with siloed health data systems that make it difficult for critical data to be streamlined and used for the advancement of science and medicine—particularly public health, safety monitoring, and precision medicine.",
-      "link": "https://medicalxpress.com/news/2026-03-health-real-world-evidence-patients.html",
-      "published_utc": "2026-03-05T22:10:01+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/health-data-1.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Study points to potential new therapies for hard-to-treat lung cancers",
-      "summary": "Findings from a study led by researchers at The Ohio State University Comprehensive Cancer Center–Arthur G. James Cancer Hospital and Richard J. Solove Research Institute (OSUCCC–James) support the potential of new therapies that could improve clinical outcomes for patients with squamous and adenocarcinoma non-small cell lung cancers (NSCLC) that don't respond to immunotherapy. The study is published in the journal Science Translational Medicine.",
-      "link": "https://medicalxpress.com/news/2026-03-potential-therapies-hard-lung-cancers.html",
-      "published_utc": "2026-03-05T22:00:05+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-points-to-potent.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Why studying two brains at once could reshape autism research and diagnosis",
-      "summary": "Could the mysteries of cognition be revealed in the interactions between minds, not just the operation of the brain in isolation? This is the question behind two recent studies by Guillaume Dumas, a professor in the Department of Psychiatry and Addiction at Université de Montréal and principal investigator at the Precision Psychiatry and Social Physiology Laboratory at the CHU Sainte-Justine Research Center.",
-      "link": "https://medicalxpress.com/news/2026-03-brains-reshape-autism-diagnosis.html",
-      "published_utc": "2026-03-05T22:00:03+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/no-man-is-an-island-1.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/predicting-alzheimers.jpg"
     },
     {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Shrinking the carbon footprint of chemical manufacturing with lasers and solar radiation",
-      "summary": "Researchers have found a way to use solar energy to power a key chemical reaction that drives many manufacturing industries. This new method can significantly reduce the energy required to run these operations, eliminate harsh oxidizing byproducts and minimize carbon emissions.",
-      "link": "https://phys.org/news/2026-03-carbon-footprint-chemical-lasers-solar.html",
-      "published_utc": "2026-03-05T22:00:01+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/shrinking-the-carbon-f.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Consent and its discontents: UK Biobank projects may breach trust of thousands of participants",
-      "summary": "UK Biobank is a major biomedical database and research resource, holding the genetic, health, and lifestyle information of half a million adult volunteers. Its datasets are accessible to approved researchers from academic, charity, government, and commercial organizations for health-related research in the public interest.",
-      "link": "https://medicalxpress.com/news/2026-03-consent-discontents-uk-biobank-breach.html",
-      "published_utc": "2026-03-05T21:50:02+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/genetic-testing.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Smartphone health care app features help motivate users to increase physical activity",
-      "summary": "Smartphone health care applications are widely used to support weight management and broader lifestyle improvement. However, many existing apps primarily emphasize dietary tracking and feedback, while offering relatively few personalized features aimed specifically at promoting physical activity. This gap is notable given that regular physical activity is a cornerstone of long-term health maintenance.",
-      "link": "https://medicalxpress.com/news/2026-03-smartphone-health-app-features-users.html",
-      "published_utc": "2026-03-05T21:40:05+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/health-app.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Herpes simplex virus liquefies cell nuclei to build viral 'factories'",
-      "summary": "Herpes simplex virus partially liquefies the tightly packed, gel-like interior of human cell nuclei to copy itself faster, a new study shows. The research centers on how the nucleus of each human cell houses the genetic machinery used to copy DNA-encoded instructions when it divides and multiplies as part of growth. Viruses invade human cells and use their machinery to copy themselves, but the invasion can be hindered by the dense structure of the nucleus.",
-      "link": "https://medicalxpress.com/news/2026-03-herpes-simplex-virus-liquefies-cell.html",
-      "published_utc": "2026-03-05T21:40:01+00:00",
+      "title": "AI-designed diffractive optical processors pave the way for low-power structural health monitoring",
+      "summary": "A team of researchers at the University of California, Los Angeles (UCLA) has introduced a novel framework for monitoring structural vibrations using diffractive optical processors. This new technology uses artificial intelligence to co-optimize a passive diffractive layer and a shallow neural network, allowing the system to encode time-varying mechanical vibrations into distinct spatiotemporal optical patterns.",
+      "link": "https://phys.org/news/2026-03-ai-diffractive-optical-processors-pave.html",
+      "published_utc": "2026-03-05T23:30:01+00:00",
       "score": 1,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/herpes-virus-fluidizes.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-designed-diffractiv.jpg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "Scientists discover a hidden force that helps wire the brain",
+      "summary": "Growing neurons rely on chemical cues to find their targets, but new research shows that the brain’s physical properties help shape those signals. Scientists discovered that tissue stiffness can trigger the production of guidance molecules through a force-sensing protein called Piezo1. This protein not only detects mechanical forces but also helps maintain the structure of brain tissue. The discovery reveals a powerful link between the brain’s physical environment and how its wiring is built.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260304184233.htm",
+      "published_utc": "2026-03-05T23:26:24+00:00",
+      "score": 4,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-2fd13bd47a3cb2ad/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "Early detection of brain disorders with a single drop of saliva",
+      "summary": "A team of Korean researchers has, for the first time, developed a technology capable of enabling early diagnosis of major neurological disorders including epilepsy, Parkinson's disease, and schizophrenia using only a small amount of saliva. The study was conducted jointly by a research team led by Dr. Sung-Gyu Park of the Advanced Bio and Healthcare Materials Research Division at the Korea Institute of Materials Science (KIMS), together with Prof. Ho Sang Jung's team at Korea University and researchers from the College of Medicine at The Catholic University of Korea.",
+      "link": "https://medicalxpress.com/news/2026-03-early-brain-disorders-saliva.html",
+      "published_utc": "2026-03-05T23:20:03+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/korean-researchers-ena.jpg"
     },
     {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Electric field tunes vibrations to ease heat transfer",
-      "summary": "New research from the Department of Energy's Oak Ridge National Laboratory, in collaboration with The Ohio State University and Amphenol Corporation, challenges conventional understanding about controlling heat flow in solid materials. The study, published in PRX Energy, shows that applying an electric field to a ceramic material changes how phonons (tiny vibrations that carry heat) behave.",
-      "link": "https://phys.org/news/2026-03-electric-field-tunes-vibrations-ease.html",
-      "published_utc": "2026-03-05T21:30:01+00:00",
+      "title": "Making mini-lightning in a block of plastic",
+      "summary": "Lightning formation and the conditions triggering it have long been shrouded in a cloud of mystery, but new research led by Penn State scientists is lifting the fog. Using mathematical calculations, the researchers have discovered that lightning-like discharge doesn't require a storm cloud—it could be made inside everyday material on a lab bench. The study is published in the journal Physical Review Letters.",
+      "link": "https://phys.org/news/2026-03-mini-lightning-block-plastic.html",
+      "published_utc": "2026-03-05T23:10:06+00:00",
+      "score": 4,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/lightning.jpg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "Review finds exercise could cut cardiometabolic risks in severe mental illness",
+      "summary": "People with mental illnesses such as schizophrenia, depression or bipolar disorder die on average 10 to 20 years earlier than the general population. The main causes of this are cardiovascular and metabolic diseases, which are triggered or exacerbated by a lack of exercise. Now, an international team of scientists led by MedUni Vienna is calling for physical activity to be recognized as an integral part of psychiatric treatment and is also describing specific steps for successfully integrating it into practice. The review has been published in JAMA Psychiatry.",
+      "link": "https://medicalxpress.com/news/2026-03-cardiometabolic-severe-mental-illness.html",
+      "published_utc": "2026-03-05T23:10:01+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/running-shoes.jpg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "Multi-omics model links medical records to measure biological age",
+      "summary": "Researchers at the University of Strathclyde have played a central role in an international study that presents a new method to measure biological age—a key factor in predicting health outcomes and understanding the aging process. The study, \"OMICmAge quantifies biological age by integrating multi-omics with electronic medical records,\" led by Harvard University and published in Nature Aging, introduces a new biological aging model developed using a comprehensive range of molecular data drawn from large-scale population studies.",
+      "link": "https://medicalxpress.com/news/2026-03-multi-omics-links-medical-biological.html",
+      "published_utc": "2026-03-05T23:00:03+00:00",
+      "score": 4,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-contribute.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Researchers create a never-before-seen molecule and prove its exotic nature with quantum computing",
+      "summary": "An international team of scientists from IBM, The University of Manchester, Oxford University, ETH Zurich, EPFL and the University of Regensburg have created and characterized a molecule unlike any previously known—one whose electrons travel through its structure in a corkscrew-like pattern that fundamentally alters its chemical behavior. The work appears in Science.",
+      "link": "https://phys.org/news/2026-03-molecule-exotic-nature-quantum.html",
+      "published_utc": "2026-03-05T22:50:05+00:00",
       "score": 1,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/electric-field-tunes-v.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-create-a-n.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "NASA now officially has no plans to use new mobile launcher for Artemis",
+      "summary": "When NASA Administrator Jared Isaacman announced the revamped approach to the Artemis moon program, it was unclear whether the new mobile launcher that has been constructed over the last two years at Kennedy Space Center would ever get used.",
+      "link": "https://phys.org/news/2026-03-nasa-mobile-launcher-artemis.html",
+      "published_utc": "2026-03-05T22:50:03+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/nasa.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Chemically tuning nanographene into topological spin chains and why the ends matter",
+      "summary": "When most people hear \"polymer,\" they think of plastics. In our group, polymerization is a way to line up identical molecules like beads on a string and let quantum mechanics take over. Put magnetic building blocks in a one-dimensional row and the chain can behave as a single quantum object. Even more intriguing, the chain can hide its most useful properties at its ends.",
+      "link": "https://phys.org/news/2026-03-chemically-tuning-nanographene-topological-chains.html",
+      "published_utc": "2026-03-05T22:40:01+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/chemically-tuning-nano.jpg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "AAAAI: No increase seen in asthma exacerbations with ICI use for melanoma, renal cell carcinoma",
+      "summary": "For patients with asthma, receipt of immune checkpoint inhibitor (ICI) therapy for melanoma or renal cell carcinoma is not associated with an increased risk for exacerbations, according to a study presented at the annual meeting of the American Academy of Allergy, Asthma & Immunology, held from Feb. 27 to March 2 in Philadelphia.",
+      "link": "https://medicalxpress.com/news/2026-03-aaaai-asthma-exacerbations-ici-melanoma.html",
+      "published_utc": "2026-03-05T22:30:02+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/aaaai-no-increase-seen.jpg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "Cannabis compounds show promise in fighting fatty liver disease",
+      "summary": "Researchers have discovered that non-psychoactive cannabis compounds, CBD and CBG, can significantly reduce liver fat and improve metabolic health. The study reveals that these compounds work by creating a backup energy reserve in the liver and restoring the activity of cellular \"cleaning crews\" to break down harmful waste. These findings highlight a new, plant-based path for treating the world's most common chronic liver disorder.",
+      "link": "https://medicalxpress.com/news/2026-03-cannabis-compounds-fatty-liver-disease.html",
+      "published_utc": "2026-03-05T22:30:01+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cannabis-compounds-sho.jpg"
     }
   ],
   "joke_ro": {
@@ -546,20 +618,21 @@
       "https://picsum.photos/seed/vb-landscape-reset-001/1600/900"
     ],
     "humans": [
+      "https://live.staticflickr.com/4501/37067977813_2f9bd2206f_b.jpg",
       "https://live.staticflickr.com/65535/55128893269_f69e963fb0_b.jpg",
       "https://live.staticflickr.com/65535/55126319886_b8dbcded00_b.jpg",
       "https://live.staticflickr.com/537/32399550285_b62bfaa469_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/d/d3/Albert_Einstein_Head.jpg"
     ],
     "cities": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/3f/NYC_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg",
       "https://live.staticflickr.com/65535/55131106964_ac734fe935_b.jpg",
       "https://live.staticflickr.com/65535/55131283415_a6e1770f26_b.jpg",
-      "https://live.staticflickr.com/65535/55131246810_e311cff1ca_b.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/3/3f/NYC_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg"
+      "https://live.staticflickr.com/65535/55131246810_e311cff1ca_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
+      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
