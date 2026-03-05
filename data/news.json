@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-03-05T17:34:28+00:00",
+  "generated_utc": "2026-03-05T17:40:41+00:00",
   "sections": {
     "romania": [
       {
@@ -1985,34 +1985,37 @@
       "tag": "space",
       "title": "Space",
       "link": "https://commons.wikimedia.org/wiki/Category:Astronomy",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Crab_Nebula.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/ESO_-_Milky_Way.jpg"
     },
     {
       "tag": "animals",
       "title": "Animals",
       "link": "https://commons.wikimedia.org/wiki/Category:Animals",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Golde33443.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Toco_Toucan_RWD.jpg"
     },
     {
       "tag": "landscape",
       "title": "Landscape",
       "link": "https://commons.wikimedia.org/wiki/Category:Landscapes",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Mount_Rainier_from_above_Myrtle_Falls_in_August.JPG"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/YosemitePark2_amk.jpg"
     }
   ],
   "top_image_history": {
     "space": [
+      "https://upload.wikimedia.org/wikipedia/commons/9/95/ESO_-_Milky_Way.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/0/00/Crab_Nebula.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/1/1a/PIA12235_HIRISE_view_of_Mars.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/e/e5/NGC_4414_%28NASA-med%29.jpg",
       "https://live.staticflickr.com/65535/55118553617_ccb01fe436_b.jpg"
     ],
     "animals": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/56/Toco_Toucan_RWD.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/6/6e/Golde33443.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/4/40/Siberischer_tiger_de_edit02.jpg"
     ],
     "landscape": [
+      "https://upload.wikimedia.org/wikipedia/commons/6/6f/YosemitePark2_amk.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/7/7c/Mount_Rainier_from_above_Myrtle_Falls_in_August.JPG"
     ],
     "humans": [
@@ -2022,8 +2025,8 @@
       "https://upload.wikimedia.org/wikipedia/commons/3/3f/NYC_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg"
     ],
     "microcosmos": [
-      "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg",
-      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg"
+      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
 }

@@ -594,9 +594,18 @@ TOP_IMAGE_DEFAULTS = {
         "https://upload.wikimedia.org/wikipedia/commons/4/40/Siberischer_tiger_de_edit02.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/6/6e/Golde33443.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/0c/Cow_female_black_white.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/15/Red_fox_-_november_2011.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/56/Toco_Toucan_RWD.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg",
     ],
     "landscape": [
         "https://upload.wikimedia.org/wikipedia/commons/7/7c/Mount_Rainier_from_above_Myrtle_Falls_in_August.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/3/3f/Fronalpstock_big.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/2c/Moraine_Lake_17092005.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/88/Torres_del_Paine_%28Chile%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/6f/YosemitePark2_amk.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/27/Swiss_Alps_Jungfrau-Aletsch.jpg",
     ],
     "humans": [
         "https://upload.wikimedia.org/wikipedia/commons/d/d3/Albert_Einstein_Head.jpg",
