@@ -429,6 +429,7 @@ RO_MAINSTREAM_POSITIVE_GATE = _mk_norm_list([
     "inovatie", "inovație", "descoperire", "startup",
     "educatie", "educație", "profesor", "elev", "student",
     "amuzant", "umor", "satira", "satiră", "gluma", "glumă", "distractiv", "miracol",
+    "salvamont", "interventie reusita", "intervenție reușită", "copil salvat", "persoana salvata", "persoană salvată",
 ])
 
 def ro_hard_block(title: str, summary: str) -> bool:
@@ -487,12 +488,19 @@ def source_item_cap(section_id: str, source_name: str) -> int:
         return 999
     if is_satire_source(source_name, ""):
         return 3
+    trusted_rescue = {"DSU Romania", "IGSU Romania", "Salvamont Romania", "Politia Romana"}
+    if source_name in trusted_rescue:
+        return 8
     if source_name in MAINSTREAM_RO_SOURCES:
         return 6
     return 10
 
 FUNNY_HINTS = _mk_norm_list(["funny", "amuzant", "umor", "gluma", "glumă", "satira", "satiră", "distractiv"])
-HEROIC_HINTS = _mk_norm_list(["salvat", "salvare", "politist", "polițist", "pompier", "medic", "smurd", "operatie reusita", "operație reușită", "miracol"])
+HEROIC_HINTS = _mk_norm_list([
+    "salvat", "salvare", "politist", "polițist", "pompier", "medic", "smurd",
+    "operatie reusita", "operație reușită", "miracol", "salvamont", "descarcerare",
+    "interventie reusita", "intervenție reușită", "copil recuperat", "adoptie reusita", "adopție reușită",
+])
 
 def is_fun_or_hero_item(item: Dict[str, Any]) -> bool:
     text = normalize_text(f"{item.get('title','')} {item.get('summary','')} {item.get('source','')}")

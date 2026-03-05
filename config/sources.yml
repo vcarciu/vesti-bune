@@ -73,11 +73,25 @@ rss_sources:
     - name: RomaniaPozitiva
       url: https://www.romaniapozitiva.ro/feed/
 
+    # Instituții / intervenții (pot avea disponibilitate variabilă de feed)
+    - name: DSU Romania
+      url: https://www.dsu.mai.gov.ro/feed/
+    - name: IGSU Romania
+      url: https://www.igsu.ro/feed/
+    - name: Salvamont Romania
+      url: https://salvamontromania.ro/feed/
+    - name: Politia Romana
+      url: https://www.politiaromana.ro/ro/rss
+
   medical:
     - name: ScienceDaily Health
       url: https://www.sciencedaily.com/rss/top/health.xml
     - name: ScienceDaily Medicine
       url: https://www.sciencedaily.com/rss/health_medicine.xml
+    - name: Medical Xpress
+      url: https://medicalxpress.com/rss-feed/
+    - name: NIH News Releases
+      url: https://www.nih.gov/news-events/news-releases/feed
     - name: Positive News
       url: https://www.positive.news/feed/
 
@@ -86,6 +100,8 @@ rss_sources:
       url: https://www.nasa.gov/rss/dyn/breaking_news.rss
     - name: ScienceDaily Science
       url: https://www.sciencedaily.com/rss/top/science.xml
+    - name: Phys.org
+      url: https://phys.org/rss-feed/
     - name: Positive News
       url: https://www.positive.news/feed/
 
@@ -96,5 +112,7 @@ rss_sources:
       url: https://earthobservatory.nasa.gov/feeds/image-of-the-day.rss
     - name: NASA Earth Observatory - Natural Hazards
       url: https://earthobservatory.nasa.gov/feeds/natural-hazards.rss
+    - name: Mongabay Conservation
+      url: https://news.mongabay.com/feed/
     - name: Positive News
       url: https://www.positive.news/feed/
