@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-03-05T04:06:09+00:00",
+  "generated_utc": "2026-03-05T05:44:35+00:00",
   "sections": {
     "romania": [
       {
@@ -461,6 +461,17 @@
         "section": "science",
         "kind": "global",
         "source": "NASA Breaking News",
+        "title": "A Little Town with a Long Name",
+        "summary": "A NASA luminary from the Apollo era grew up in Wales near Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch.",
+        "link": "https://science.nasa.gov/earth/earth-observatory/a-little-town-with-a-long-name",
+        "published_utc": "2026-03-05T05:01:00+00:00",
+        "score": 0,
+        "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/a-little-town-with-a-long-name/welshtownzm_oli_20250409_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "NASA Breaking News",
         "title": "High-Speed Flight Project Overview",
         "summary": "What We do The High-Speed Flight (HSF) project develops technologies that make high-speed, airbreathing, commercial flight possible from Mach 1 to Mach 5 and above. HSF creates tools, technologies, and knowledge that will help eliminate today&#8217;s technical barriers to practical supersonic flight, most notably sonic boom. The project supports the X-59 quiet supersonic vehicle testing [&#8230;]",
         "link": "https://www.nasa.gov/directorates/armd/aavp/hsf/high-speed-flight-project-overview",
@@ -577,17 +588,6 @@
         "published_utc": "2026-03-03T21:50:18+00:00",
         "score": 4,
         "image": "https://images-assets.nasa.gov/image/iss074e0325229/iss074e0325229~large.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "NASA Breaking News",
-        "title": "Artemis II: What’s on the Menu?",
-        "summary": "The food flying aboard Artemis II is designed to support crew health and performance during the mission around the Moon. With no resupply, refrigeration, or late-load capability, all meals must be carefully selected to remain safe, shelf-stable, and easy to prepare and consume in NASA’s Orion spacecraft. Food selections are developed in coordination with space [&#8230;]",
-        "link": "https://www.nasa.gov/missions/artemis/artemis-2/artemis-ii-whats-on-the-menu",
-        "published_utc": "2026-03-03T21:00:25+00:00",
-        "score": 0,
-        "image": "https://www.youtube.com/embed/3Tkib8zc-Ws"
       },
       {
         "section": "science",
@@ -825,7 +825,7 @@
       {
         "section": "environment",
         "kind": "global",
-        "source": "NASA Earth Observatory - Image of the Day",
+        "source": "NASA Earth Observatory - Natural Hazards",
         "title": "Curiosity Surveys the Boxwork Region",
         "summary": "Description NASA’s Curiosity Mars rover captured this panorama of boxwork formations — the low ridges seen here with hollows in between them — using its Mastcam on Sept. 26, 2025, the 4,671st Martian day, or sol, of the mission. These boxwork formations were created billions of years ago when water leaked through rock cracks. Minerals [&#8230;] The post Curiosity Surveys the Boxwork Region appeared first on NASA Science .",
         "link": "https://science.nasa.gov/photojournal/curiosity-surveys-the-boxwork-region",
@@ -1126,12 +1126,12 @@
       "section": "science",
       "kind": "global",
       "source": "NASA Breaking News",
-      "title": "High-Speed Flight Project Overview",
-      "summary": "What We do The High-Speed Flight (HSF) project develops technologies that make high-speed, airbreathing, commercial flight possible from Mach 1 to Mach 5 and above. HSF creates tools, technologies, and knowledge that will help eliminate today&#8217;s technical barriers to practical supersonic flight, most notably sonic boom. The project supports the X-59 quiet supersonic vehicle testing [&#8230;]",
-      "link": "https://www.nasa.gov/directorates/armd/aavp/hsf/high-speed-flight-project-overview",
-      "published_utc": "2026-03-05T01:05:42+00:00",
+      "title": "A Little Town with a Long Name",
+      "summary": "A NASA luminary from the Apollo era grew up in Wales near Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch.",
+      "link": "https://science.nasa.gov/earth/earth-observatory/a-little-town-with-a-long-name",
+      "published_utc": "2026-03-05T05:01:00+00:00",
       "score": 0,
-      "image": "https://www.nasa.gov/wp-content/uploads/2023/06/high-speed-aircraft.png"
+      "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/a-little-town-with-a-long-name/welshtownzm_oli_20250409_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
     },
     {
       "section": "romania",
@@ -1158,13 +1158,13 @@
     {
       "section": "science",
       "kind": "global",
-      "source": "ScienceDaily Science",
-      "title": "2700-year-old teeth reveal the hidden lives of Iron Age Italians",
-      "summary": "Iron Age teeth from southern Italy have become time capsules, preserving intimate details of childhood and diet. Growth lines in the enamel reveal moments of early-life stress, while hardened plaque holds microscopic remains of cereals, legumes, and fermented foods. The findings suggest a community with diverse food resources and strong Mediterranean connections. Even a small sample offers a striking glimpse into how people lived, grew, and ate nearly three millennia ago.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260303145727.htm",
-      "published_utc": "2026-03-04T22:41:14+00:00",
+      "source": "NASA Breaking News",
+      "title": "High-Speed Flight Project Overview",
+      "summary": "What We do The High-Speed Flight (HSF) project develops technologies that make high-speed, airbreathing, commercial flight possible from Mach 1 to Mach 5 and above. HSF creates tools, technologies, and knowledge that will help eliminate today&#8217;s technical barriers to practical supersonic flight, most notably sonic boom. The project supports the X-59 quiet supersonic vehicle testing [&#8230;]",
+      "link": "https://www.nasa.gov/directorates/armd/aavp/hsf/high-speed-flight-project-overview",
+      "published_utc": "2026-03-05T01:05:42+00:00",
       "score": 0,
-      "image": "https://picsum.photos/seed/vb-4310a3a10c2a8f2e/480/320"
+      "image": "https://www.nasa.gov/wp-content/uploads/2023/06/high-speed-aircraft.png"
     },
     {
       "section": "romania",
@@ -1187,6 +1187,17 @@
       "published_utc": "2026-02-02T10:32:03+00:00",
       "score": 3,
       "image": "https://stiripozitive.com/wp-content/uploads/2026/02/harta-.jpeg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "ScienceDaily Science",
+      "title": "2700-year-old teeth reveal the hidden lives of Iron Age Italians",
+      "summary": "Iron Age teeth from southern Italy have become time capsules, preserving intimate details of childhood and diet. Growth lines in the enamel reveal moments of early-life stress, while hardened plaque holds microscopic remains of cereals, legumes, and fermented foods. The findings suggest a community with diverse food resources and strong Mediterranean connections. Even a small sample offers a striking glimpse into how people lived, grew, and ate nearly three millennia ago.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260303145727.htm",
+      "published_utc": "2026-03-04T22:41:14+00:00",
+      "score": 0,
+      "image": "https://picsum.photos/seed/vb-4310a3a10c2a8f2e/480/320"
     },
     {
       "section": "medical",
@@ -1341,17 +1352,6 @@
       "published_utc": "2026-03-03T21:50:18+00:00",
       "score": 4,
       "image": "https://images-assets.nasa.gov/image/iss074e0325229/iss074e0325229~large.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "NASA Breaking News",
-      "title": "Artemis II: What’s on the Menu?",
-      "summary": "The food flying aboard Artemis II is designed to support crew health and performance during the mission around the Moon. With no resupply, refrigeration, or late-load capability, all meals must be carefully selected to remain safe, shelf-stable, and easy to prepare and consume in NASA’s Orion spacecraft. Food selections are developed in coordination with space [&#8230;]",
-      "link": "https://www.nasa.gov/missions/artemis/artemis-2/artemis-ii-whats-on-the-menu",
-      "published_utc": "2026-03-03T21:00:25+00:00",
-      "score": 0,
-      "image": "https://www.youtube.com/embed/3Tkib8zc-Ws"
     },
     {
       "section": "science",
@@ -1807,7 +1807,7 @@
     {
       "section": "environment",
       "kind": "global",
-      "source": "NASA Earth Observatory - Image of the Day",
+      "source": "NASA Earth Observatory - Natural Hazards",
       "title": "Curiosity Surveys the Boxwork Region",
       "summary": "Description NASA’s Curiosity Mars rover captured this panorama of boxwork formations — the low ridges seen here with hollows in between them — using its Mastcam on Sept. 26, 2025, the 4,671st Martian day, or sol, of the mission. These boxwork formations were created billions of years ago when water leaked through rock cracks. Minerals [&#8230;] The post Curiosity Surveys the Boxwork Region appeared first on NASA Science .",
       "link": "https://science.nasa.gov/photojournal/curiosity-surveys-the-boxwork-region",
