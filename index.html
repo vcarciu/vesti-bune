@@ -147,7 +147,7 @@
     <div class="grid3" id="topPhotos">
       <div class="card">
         <div class="photo">
-          <img alt="Space" id="imgSpace" src="og.jpg" />
+          <img alt="Space" id="imgSpace" src="https://upload.wikimedia.org/wikipedia/commons/e/e5/NGC_4414_%28NASA-med%29.jpg" />
           <div class="tag"><span class="dot"></span> Space</div>
         </div>
         <div class="body">
@@ -158,7 +158,7 @@
 
       <div class="card">
         <div class="photo">
-          <img alt="Animals" id="imgAnimals" src="og.jpg" />
+          <img alt="Animals" id="imgAnimals" src="https://upload.wikimedia.org/wikipedia/commons/4/40/Siberischer_tiger_de_edit02.jpg" />
           <div class="tag"><span class="dot"></span> Animals</div>
         </div>
         <div class="body">
@@ -169,7 +169,7 @@
 
       <div class="card">
         <div class="photo">
-          <img alt="Landscape" id="imgLandscape" src="og.jpg" />
+          <img alt="Landscape" id="imgLandscape" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Mount_Rainier_from_above_Myrtle_Falls_in_August.JPG" />
           <div class="tag"><span class="dot"></span> Landscape</div>
         </div>
         <div class="body">
@@ -243,15 +243,18 @@
   const daySeed = new Date().toISOString().slice(0,10).replaceAll("-","");
   const TOP_FALLBACKS = {
     space: [
-      sitePath("og.jpg"),
+      `https://loremflickr.com/1200/800/space,galaxy,nebula?lock=${daySeed}`,
+      "https://upload.wikimedia.org/wikipedia/commons/0/00/Crab_Nebula.jpg",
       buildLocalFallback("Space"),
     ],
     animals: [
-      sitePath("og.jpg"),
+      `https://loremflickr.com/1200/800/animals,wildlife,mammal?lock=${daySeed}`,
+      "https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg",
       buildLocalFallback("Animals"),
     ],
     landscape: [
-      sitePath("og.jpg"),
+      `https://loremflickr.com/1200/800/landscape,mountains,nature,valley?lock=${daySeed}`,
+      "https://upload.wikimedia.org/wikipedia/commons/3/3f/Fronalpstock_big.jpg",
       buildLocalFallback("Landscape"),
     ],
   };
