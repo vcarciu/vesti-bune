@@ -5,6 +5,12 @@ filters:
   ro_try_relaxed: true
   ro_max_age_days: 45
   publish_cooldown_days: 35
+  freshness:
+    enabled: true
+    hot_hours: 24
+    hot_points: 3
+    warm_hours: 72
+    warm_points: 1
 
   thresholds:
     romania: 0

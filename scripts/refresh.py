@@ -64,6 +64,20 @@ def parse_entry_datetime(entry: Dict[str, Any]) -> Optional[datetime]:
                 pass
     return None
 
+def parse_iso_datetime_safe(s: str) -> Optional[datetime]:
+    raw = (s or "").strip()
+    if not raw:
+        return None
+    try:
+        if raw.endswith("Z"):
+            raw = raw[:-1] + "+00:00"
+        dt = datetime.fromisoformat(raw)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        return dt.astimezone(timezone.utc)
+    except Exception:
+        return None
+
 def get_entry_summary(entry: Dict[str, Any]) -> str:
     if entry.get("summary"):
         return strip_html(entry.get("summary") or "")
@@ -106,18 +120,7 @@ def read_json(path: str) -> Dict[str, Any]:
         return {}
 
 def parse_iso_datetime(s: str) -> Optional[datetime]:
-    raw = (s or "").strip()
-    if not raw:
-        return None
-    try:
-        if raw.endswith("Z"):
-            raw = raw[:-1] + "+00:00"
-        dt = datetime.fromisoformat(raw)
-        if dt.tzinfo is None:
-            dt = dt.replace(tzinfo=timezone.utc)
-        return dt.astimezone(timezone.utc)
-    except Exception:
-        return None
+    return parse_iso_datetime_safe(s)
 
 def load_published_state(path: str = PUBLISHED_STATE_PATH) -> Dict[str, Dict[str, str]]:
     raw = read_json(path)
@@ -170,6 +173,24 @@ def is_recently_published(state: Dict[str, Dict[str, str]], key: str, title_key:
 def mark_published(state: Dict[str, Dict[str, str]], key: str, title_key: str, when_iso: str) -> None:
     state.setdefault("by_key", {})[key] = when_iso
     state.setdefault("by_title", {})[title_key] = when_iso
+
+def compute_freshness_boost(published: datetime, now_utc: datetime, cfg: Dict[str, Any]) -> int:
+    fresh_cfg = cfg.get("freshness") if isinstance(cfg, dict) else {}
+    if not isinstance(fresh_cfg, dict):
+        fresh_cfg = {}
+    enabled = bool(fresh_cfg.get("enabled", True))
+    if not enabled:
+        return 0
+    hot_hours = int(fresh_cfg.get("hot_hours", 24))
+    warm_hours = int(fresh_cfg.get("warm_hours", 72))
+    hot_points = int(fresh_cfg.get("hot_points", 3))
+    warm_points = int(fresh_cfg.get("warm_points", 1))
+    age_h = max(0.0, (now_utc - published).total_seconds() / 3600.0)
+    if age_h <= hot_hours:
+        return hot_points
+    if age_h <= warm_hours:
+        return warm_points
+    return 0
 
 # -----------------------------
 # HTTP / RSS
@@ -1016,8 +1037,11 @@ def build_mix_items(sections: Dict[str, List[Dict[str, Any]]], ro_head: int = 10
     ro = list(sections.get("romania") or [])
     en = list((sections.get("medical") or []) + (sections.get("science") or []) + (sections.get("environment") or []))
 
-    ro.sort(key=lambda x: x.get("published_utc", ""), reverse=True)
-    en.sort(key=lambda x: x.get("published_utc", ""), reverse=True)
+    def rank_key(it: Dict[str, Any]) -> Tuple[int, str]:
+        fresh = int(it.get("freshness_boost", 0))
+        return (fresh, it.get("published_utc", ""))
+    ro.sort(key=rank_key, reverse=True)
+    en.sort(key=rank_key, reverse=True)
 
     out: List[Dict[str, Any]] = []
     out.extend(ro[:ro_head])
@@ -1248,6 +1272,7 @@ def build_sections(cfg: Dict[str, Any], published_state: Optional[Dict[str, Dict
                     "link": link,
                     "published_utc": published.isoformat(),
                     "score": score,
+                    "freshness_boost": compute_freshness_boost(published, now_utc, filters_cfg),
                 }
                 if is_satire_source(name, link):
                     item["title"] = f"😂 {item['title']}"
