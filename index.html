@@ -147,7 +147,7 @@
     <div class="grid3" id="topPhotos">
       <div class="card">
         <div class="photo">
-          <img alt="Space" id="imgSpace" src="top-fallback-space.svg" />
+          <img alt="Space" id="imgSpace" src="og.jpg" />
           <div class="tag"><span class="dot"></span> Space</div>
         </div>
         <div class="body">
@@ -158,7 +158,7 @@
 
       <div class="card">
         <div class="photo">
-          <img alt="Animals" id="imgAnimals" src="top-fallback-animals.svg" />
+          <img alt="Animals" id="imgAnimals" src="og.jpg" />
           <div class="tag"><span class="dot"></span> Animals</div>
         </div>
         <div class="body">
@@ -169,7 +169,7 @@
 
       <div class="card">
         <div class="photo">
-          <img alt="Landscape" id="imgLandscape" src="top-fallback-landscape.svg" />
+          <img alt="Landscape" id="imgLandscape" src="og.jpg" />
           <div class="tag"><span class="dot"></span> Landscape</div>
         </div>
         <div class="body">
@@ -243,15 +243,15 @@
   const daySeed = new Date().toISOString().slice(0,10).replaceAll("-","");
   const TOP_FALLBACKS = {
     space: [
-      sitePath("top-fallback-space.svg"),
+      sitePath("og.jpg"),
       buildLocalFallback("Space"),
     ],
     animals: [
-      sitePath("top-fallback-animals.svg"),
+      sitePath("og.jpg"),
       buildLocalFallback("Animals"),
     ],
     landscape: [
-      sitePath("top-fallback-landscape.svg"),
+      sitePath("og.jpg"),
       buildLocalFallback("Landscape"),
     ],
   };
