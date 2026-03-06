@@ -1,18 +1,29 @@
 {
-  "generated_utc": "2026-03-06T06:35:49+00:00",
+  "generated_utc": "2026-03-06T07:33:15+00:00",
   "sections": {
     "romania": [
       {
         "section": "romania",
         "kind": "ro",
+        "source": "Start-Up Romania",
+        "title": "Google schimbă modelul de comisioane din Play Store după disputa cu Epic Games",
+        "summary": "Google schimbă structura taxelor din Play Store și renunță la modelul tradițional de comision de până la 30% pentru aplicațiile Android.",
+        "link": "https://start-up.ro/google-schimba-modelul-de-comisioane-din-play-store-dupa-disputa-cu-epic-games",
+        "published_utc": "2026-03-06T07:20:40+00:00",
+        "score": 1,
+        "image": "https://start-up.ro/img/thumbs/articles/3/7/9/37977/image-37977-760x400-00-65.jpg?v=1772781634"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
         "source": "HotNews",
-        "title": "Noi modificări la Startup Nation, prin care statul promite ajutoare de 50.000 EUR pentru tineri cu afaceri",
-        "summary": "Ministerul Economiei a modificat din nou regulile programului Start-Up Nation, ediția a patra, care are prevăzută o valoare totală de aproape jumătate de miliard de euro, din care tinerii și alți beneficiari eligibili vor putea accesa ajutoare de câte 50.000 EUR pentru mici afaceri în toată România. Citiți mai mult pe StartupCafe.ro. Sursă foto: Dreamstime.com",
-        "link": "https://hotnews.ro/noi-modificari-la-startup-nation-prin-care-statul-promite-ajutoare-de-50-000-eur-pentru-tineri-cu-afaceri-2187003",
-        "published_utc": "2026-03-06T06:25:29+00:00",
+        "title": "HotNews are un nou design, vă mulțumim! Un nou pas pentru jurnalismul pe care contați. Cum vi se pare?",
+        "summary": "Am lansat joi noua versiune a site-ului HotNewsdin dorința de a oferi cititorilor noștri o experiență îmbunătățită. Și pentru că peste trei sferturi dintre dumneavoastră ne citiți în fiecare zi pe dispozitive mobile, de aici am pornit. Noul site este mai clar, mai aerisit și mai ușor de navigat. O vreme pot apărea unele probleme, ne &#8230;",
+        "link": "https://hotnews.ro/hotnews-are-un-nou-design-un-nou-pas-pentru-jurnalismul-care-conteaza-cum-vi-se-pare-2186510",
+        "published_utc": "2026-03-06T06:56:41+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://hotnews.ro/wp-content/uploads/2025/11/Euro-si-steagul-Romaniei.jpg"
+        "image": "https://hotnews.ro/wp-content/uploads/2026/03/poza-hn1.jpg"
       },
       {
         "section": "romania",
@@ -24,18 +35,6 @@
         "published_utc": "2026-03-06T06:05:01+00:00",
         "score": 1,
         "image": "https://start-up.ro/img/thumbs/articles/3/7/9/37965/image-37965-760x400-00-65.jpg?v=1772698172"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Green Start-Up Romania",
-        "title": "Cum putem refolosi minele abandonate ca să stocăm eficient energia",
-        "summary": "Minele abandonate din Statele Unite ar putea deveni sisteme de stocare a energiei printr-o tehnologie care folosește gravitația pentru a produce electricitate. Conceptul presupune utilizarea...",
-        "link": "https://green.start-up.ro/ro/cum-putem-refolosi-minele-abandonate-ca-sa-stocam-eficient-energia",
-        "published_utc": "2026-03-06T06:00:02+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://green.start-up.ro/img/articles/3/5/7/35734/cover-35734-src.jpg"
       },
       {
         "section": "romania",
@@ -141,69 +140,79 @@
       {
         "section": "medical",
         "kind": "global",
-        "source": "Positive News",
-        "title": "What went right this week: the good news that matters",
-        "summary": "Health breakthroughs, a Ukrainian conservation success, and a win for river defenders in the Amazon, plus more The post What went right this week: the good news that matters appeared first on Positive News .",
-        "link": "https://www.positive.news/society/good-news-stories-from-week-10-of-2026",
-        "published_utc": "2026-03-06T05:16:49+00:00",
-        "score": 4,
+        "source": "ScienceDaily Health",
+        "title": "AI blood test finds silent liver disease years before symptoms",
+        "summary": "Researchers created an AI-driven liquid biopsy that scans patterns in fragments of DNA circulating in the blood. The system detected early liver fibrosis and cirrhosis—conditions that often go unnoticed until serious damage occurs. By analyzing genome-wide DNA fragmentation patterns rather than specific mutations, the approach captures hidden signals about a person’s overall health. Early detection could help doctors treat liver disease sooner and potentially prevent cancer.",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260305223204.htm",
+        "published_utc": "2026-03-06T05:20:31+00:00",
+        "score": 0,
         "freshness_boost": 3,
-        "image": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/03/shutterstock_2740379153.jpg"
+        "image": "https://picsum.photos/seed/vb-934e0c21c68cc397/480/320"
       }
     ],
     "science": [
       {
         "section": "science",
         "kind": "global",
-        "source": "NASA Breaking News",
-        "title": "About Airspace Operations and Safety Program (AOSP)",
-        "summary": "The Airspace Operations and Safety Program (AOSP)&#160;accelerates&#160;the&#160;transformation&#160;of the National Airspace System (NAS) to meet the&#160;variety, density, and complexity of future&#160;airspace users. Our mission is to ensure that U.S. skies&#160;remain&#160;safe, innovative, and globally competitive while enabling&#160;Advanced&#160;Air&#160;Mobility and next-generation aviation technologies.&#160; &#160;AOSP partners with the FAA, industry, academia, and other government agencies to ensure seamless integration of [&#8230;]",
-        "link": "https://www.nasa.gov/directorates/armd/aosp/about-aosp",
-        "published_utc": "2026-03-05T20:30:00+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://www.nasa.gov/wp-content/uploads/2023/01/aosp-overview-4x3-text.jpg"
-      }
-    ],
-    "environment": [
-      {
-        "section": "environment",
-        "kind": "global",
-        "source": "Mongabay Conservation",
-        "title": "This bird is disappearing from Indonesia’s forests for its song",
-        "summary": "The rising popularity of songbird singing competitions in Indonesia has led to the dramatic decline of the white-rumped shama, a bird known locally as murai batu. Mongabay Indonesia video contributor Rizky Maulana Yanuar recently reported that keeping such birds is deeply rooted in local culture. In Javanese society, a man is considered to be successful [&#8230;]",
-        "link": "https://news.mongabay.com/short-article/2026/03/this-bird-is-disappearing-from-indonesias-forests-for-its-song",
-        "published_utc": "2026-03-06T06:05:21+00:00",
+        "source": "ScienceDaily Science",
+        "title": "Electrons catapult across solar materials in just 18 femtoseconds",
+        "summary": "Electrons in solar materials can be launched across molecules almost as fast as nature allows, thanks to tiny atomic vibrations acting like a “molecular catapult.” In experiments lasting just 18 femtoseconds, researchers at the University of Cambridge observed electrons blasting across a boundary in a single burst, far faster than long-standing theories predicted. Instead of slow, random movement, the electron rides the natural vibrations of the molecule itself, challenging decades of design rules for solar materials.",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260305223219.htm",
+        "published_utc": "2026-03-06T05:49:18+00:00",
         "score": 1,
         "freshness_boost": 3,
-        "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/03/06055408/Indonesia-Songbird-e1772777002290-768x468.jpg"
+        "image": "https://picsum.photos/seed/vb-d74c8f6884dfd958/480/320"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "ScienceDaily Science",
+        "title": "Humpback whale recovery is changing who fathers the calves",
+        "summary": "A new study shows that as humpback whale populations recover from past whaling, older males are gaining a major advantage in reproduction. Early in the recovery, breeding groups were dominated by younger whales. But as more mature males returned, they increasingly fathered more calves than their younger rivals. Scientists say experience in singing and competing may help older males win the breeding battle.",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260305182700.htm",
+        "published_utc": "2026-03-06T01:19:42+00:00",
+        "score": 1,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-1aca8ab9fe27dec5/480/320"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "ScienceDaily Science",
+        "title": "ALMA captures the most detailed image ever of the Milky Way’s turbulent core",
+        "summary": "A sweeping new ALMA image has peeled back the veil on the Milky Way’s core, exposing a dense network of cold gas filaments near the central black hole. Stretching across 650 light-years, the survey maps the hidden fuel for star formation in remarkable detail and reveals a surprisingly complex chemical brew. This extreme region hosts some of the galaxy’s most massive, short-lived stars. The findings could help explain how stars — and even entire galaxies — formed under the universe’s most chaotic conditions.",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260305182705.htm",
+        "published_utc": "2026-03-05T23:27:05+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-a54673c8d00320e5/480/320"
       }
-    ]
+    ],
+    "environment": []
   },
   "mix_items": [
     {
       "section": "romania",
       "kind": "ro",
       "source": "HotNews",
-      "title": "Noi modificări la Startup Nation, prin care statul promite ajutoare de 50.000 EUR pentru tineri cu afaceri",
-      "summary": "Ministerul Economiei a modificat din nou regulile programului Start-Up Nation, ediția a patra, care are prevăzută o valoare totală de aproape jumătate de miliard de euro, din care tinerii și alți beneficiari eligibili vor putea accesa ajutoare de câte 50.000 EUR pentru mici afaceri în toată România. Citiți mai mult pe StartupCafe.ro. Sursă foto: Dreamstime.com",
-      "link": "https://hotnews.ro/noi-modificari-la-startup-nation-prin-care-statul-promite-ajutoare-de-50-000-eur-pentru-tineri-cu-afaceri-2187003",
-      "published_utc": "2026-03-06T06:25:29+00:00",
+      "title": "HotNews are un nou design, vă mulțumim! Un nou pas pentru jurnalismul pe care contați. Cum vi se pare?",
+      "summary": "Am lansat joi noua versiune a site-ului HotNewsdin dorința de a oferi cititorilor noștri o experiență îmbunătățită. Și pentru că peste trei sferturi dintre dumneavoastră ne citiți în fiecare zi pe dispozitive mobile, de aici am pornit. Noul site este mai clar, mai aerisit și mai ușor de navigat. O vreme pot apărea unele probleme, ne &#8230;",
+      "link": "https://hotnews.ro/hotnews-are-un-nou-design-un-nou-pas-pentru-jurnalismul-care-conteaza-cum-vi-se-pare-2186510",
+      "published_utc": "2026-03-06T06:56:41+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://hotnews.ro/wp-content/uploads/2025/11/Euro-si-steagul-Romaniei.jpg"
+      "image": "https://hotnews.ro/wp-content/uploads/2026/03/poza-hn1.jpg"
     },
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Green Start-Up Romania",
-      "title": "Cum putem refolosi minele abandonate ca să stocăm eficient energia",
-      "summary": "Minele abandonate din Statele Unite ar putea deveni sisteme de stocare a energiei printr-o tehnologie care folosește gravitația pentru a produce electricitate. Conceptul presupune utilizarea...",
-      "link": "https://green.start-up.ro/ro/cum-putem-refolosi-minele-abandonate-ca-sa-stocam-eficient-energia",
-      "published_utc": "2026-03-06T06:00:02+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://green.start-up.ro/img/articles/3/5/7/35734/cover-35734-src.jpg"
+      "source": "Start-Up Romania",
+      "title": "Google schimbă modelul de comisioane din Play Store după disputa cu Epic Games",
+      "summary": "Google schimbă structura taxelor din Play Store și renunță la modelul tradițional de comision de până la 30% pentru aplicațiile Android.",
+      "link": "https://start-up.ro/google-schimba-modelul-de-comisioane-din-play-store-dupa-disputa-cu-epic-games",
+      "published_utc": "2026-03-06T07:20:40+00:00",
+      "score": 1,
+      "image": "https://start-up.ro/img/thumbs/articles/3/7/9/37977/image-37977-760x400-00-65.jpg?v=1772781634"
     },
     {
       "section": "romania",
@@ -316,40 +325,52 @@
       "image": "https://stiripozitive.com/wp-content/uploads/2026/02/Pisica-de-la-ora-cinci-Rodica-Bretin-676x1024.jpg"
     },
     {
-      "section": "environment",
+      "section": "science",
       "kind": "global",
-      "source": "Mongabay Conservation",
-      "title": "This bird is disappearing from Indonesia’s forests for its song",
-      "summary": "The rising popularity of songbird singing competitions in Indonesia has led to the dramatic decline of the white-rumped shama, a bird known locally as murai batu. Mongabay Indonesia video contributor Rizky Maulana Yanuar recently reported that keeping such birds is deeply rooted in local culture. In Javanese society, a man is considered to be successful [&#8230;]",
-      "link": "https://news.mongabay.com/short-article/2026/03/this-bird-is-disappearing-from-indonesias-forests-for-its-song",
-      "published_utc": "2026-03-06T06:05:21+00:00",
+      "source": "ScienceDaily Science",
+      "title": "Electrons catapult across solar materials in just 18 femtoseconds",
+      "summary": "Electrons in solar materials can be launched across molecules almost as fast as nature allows, thanks to tiny atomic vibrations acting like a “molecular catapult.” In experiments lasting just 18 femtoseconds, researchers at the University of Cambridge observed electrons blasting across a boundary in a single burst, far faster than long-standing theories predicted. Instead of slow, random movement, the electron rides the natural vibrations of the molecule itself, challenging decades of design rules for solar materials.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260305223219.htm",
+      "published_utc": "2026-03-06T05:49:18+00:00",
       "score": 1,
       "freshness_boost": 3,
-      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/03/06055408/Indonesia-Songbird-e1772777002290-768x468.jpg"
+      "image": "https://picsum.photos/seed/vb-d74c8f6884dfd958/480/320"
     },
     {
       "section": "medical",
       "kind": "global",
-      "source": "Positive News",
-      "title": "What went right this week: the good news that matters",
-      "summary": "Health breakthroughs, a Ukrainian conservation success, and a win for river defenders in the Amazon, plus more The post What went right this week: the good news that matters appeared first on Positive News .",
-      "link": "https://www.positive.news/society/good-news-stories-from-week-10-of-2026",
-      "published_utc": "2026-03-06T05:16:49+00:00",
-      "score": 4,
+      "source": "ScienceDaily Health",
+      "title": "AI blood test finds silent liver disease years before symptoms",
+      "summary": "Researchers created an AI-driven liquid biopsy that scans patterns in fragments of DNA circulating in the blood. The system detected early liver fibrosis and cirrhosis—conditions that often go unnoticed until serious damage occurs. By analyzing genome-wide DNA fragmentation patterns rather than specific mutations, the approach captures hidden signals about a person’s overall health. Early detection could help doctors treat liver disease sooner and potentially prevent cancer.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260305223204.htm",
+      "published_utc": "2026-03-06T05:20:31+00:00",
+      "score": 0,
       "freshness_boost": 3,
-      "image": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/03/shutterstock_2740379153.jpg"
+      "image": "https://picsum.photos/seed/vb-934e0c21c68cc397/480/320"
     },
     {
       "section": "science",
       "kind": "global",
-      "source": "NASA Breaking News",
-      "title": "About Airspace Operations and Safety Program (AOSP)",
-      "summary": "The Airspace Operations and Safety Program (AOSP)&#160;accelerates&#160;the&#160;transformation&#160;of the National Airspace System (NAS) to meet the&#160;variety, density, and complexity of future&#160;airspace users. Our mission is to ensure that U.S. skies&#160;remain&#160;safe, innovative, and globally competitive while enabling&#160;Advanced&#160;Air&#160;Mobility and next-generation aviation technologies.&#160; &#160;AOSP partners with the FAA, industry, academia, and other government agencies to ensure seamless integration of [&#8230;]",
-      "link": "https://www.nasa.gov/directorates/armd/aosp/about-aosp",
-      "published_utc": "2026-03-05T20:30:00+00:00",
+      "source": "ScienceDaily Science",
+      "title": "Humpback whale recovery is changing who fathers the calves",
+      "summary": "A new study shows that as humpback whale populations recover from past whaling, older males are gaining a major advantage in reproduction. Early in the recovery, breeding groups were dominated by younger whales. But as more mature males returned, they increasingly fathered more calves than their younger rivals. Scientists say experience in singing and competing may help older males win the breeding battle.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260305182700.htm",
+      "published_utc": "2026-03-06T01:19:42+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-1aca8ab9fe27dec5/480/320"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "ScienceDaily Science",
+      "title": "ALMA captures the most detailed image ever of the Milky Way’s turbulent core",
+      "summary": "A sweeping new ALMA image has peeled back the veil on the Milky Way’s core, exposing a dense network of cold gas filaments near the central black hole. Stretching across 650 light-years, the survey maps the hidden fuel for star formation in remarkable detail and reveals a surprisingly complex chemical brew. This extreme region hosts some of the galaxy’s most massive, short-lived stars. The findings could help explain how stars — and even entire galaxies — formed under the universe’s most chaotic conditions.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260305182705.htm",
+      "published_utc": "2026-03-05T23:27:05+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://www.nasa.gov/wp-content/uploads/2023/01/aosp-overview-4x3-text.jpg"
+      "image": "https://picsum.photos/seed/vb-a54673c8d00320e5/480/320"
     }
   ],
   "joke_ro": {
@@ -408,6 +429,7 @@
       "https://picsum.photos/seed/vb-landscape-reset-001/1600/900"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/55129719977_b746f507f1_b.jpg",
       "https://live.staticflickr.com/65535/38047493801_2f9e853229_b.jpg",
       "https://live.staticflickr.com/65535/38220511094_2cd287f1d7_b.jpg",
       "https://live.staticflickr.com/65535/30607987674_1b9699f1f8_b.jpg",
@@ -419,6 +441,7 @@
       "https://upload.wikimedia.org/wikipedia/commons/d/d3/Albert_Einstein_Head.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55130719232_4064251565_b.jpg",
       "https://live.staticflickr.com/65535/55131926320_d4a6de285e_b.jpg",
       "https://live.staticflickr.com/65535/55131649894_eb26c1de6e_b.jpg",
       "https://live.staticflickr.com/65535/55121753700_d1b1858e8e_b.jpg",
@@ -429,8 +452,8 @@
       "https://live.staticflickr.com/65535/55131246810_e311cff1ca_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
+      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
