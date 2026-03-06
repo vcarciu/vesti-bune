@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-03-06T13:46:32+00:00",
+  "generated_utc": "2026-03-06T14:29:10+00:00",
   "sections": {
     "romania": [
       {
@@ -1874,9 +1874,9 @@
     "source": "data/jokes_ro.txt"
   },
   "satire_ro": {
-    "title": "ProTV scoate din grilă Războiul din Ucraina și îl înlocuiește cu Războiul din Iran, din motive de audiență",
-    "link": "https://www.timesnewroman.ro/monden/protv-scoate-din-grila-razboiul-din-ucraina-si-il-inlocuieste-cu-razboiul-din-iran-din-motive-de-audienta/",
-    "source": "timesnewroman.ro"
+    "title": "Un cetățean a cerut „doar vești bune”; internetul a intrat în concediu medical",
+    "link": "#",
+    "source": "fallback"
   },
   "top_images": [
     {
@@ -1924,19 +1924,19 @@
       "https://picsum.photos/seed/vb-landscape-reset-001/1600/900"
     ],
     "humans": [
+      "https://upload.wikimedia.org/wikipedia/commons/d/d3/Albert_Einstein_Head.jpg",
       "https://live.staticflickr.com/65535/55130998775_653d773cb2_b.jpg",
-      "https://live.staticflickr.com/65535/55123545992_7bc13eb6c2_b.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/d/d3/Albert_Einstein_Head.jpg"
+      "https://live.staticflickr.com/65535/55123545992_7bc13eb6c2_b.jpg"
     ],
     "cities": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/3f/NYC_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg",
       "https://live.staticflickr.com/65535/55131977121_710727589c_b.jpg",
-      "https://live.staticflickr.com/65535/4299237761_7443abfc4e_b.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/3/3f/NYC_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg"
+      "https://live.staticflickr.com/65535/4299237761_7443abfc4e_b.jpg"
     ],
     "microcosmos": [
+      "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg",
       "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
-      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
+      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg"
     ]
   }
 }
