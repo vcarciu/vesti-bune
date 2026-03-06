@@ -80,6 +80,12 @@ rss_sources:
       url: https://stiripozitive.com/category/fapte-bune/feed/
     - name: StiriPozitive - Relatii
       url: https://stiripozitive.com/category/relatii/feed/
+    - name: StiriPozitive - Sanatate
+      url: https://stiripozitive.com/category/sanatate/feed/
+    - name: StiriPozitive - Educatie
+      url: https://stiripozitive.com/category/educatie/feed/
+    - name: StiriPozitive - Comunitate
+      url: https://stiripozitive.com/category/comunitate/feed/
     - name: StiriPozitive - Ecologie
       url: https://stiripozitive.com/category/ecologie/feed/
     - name: StiriPozitive - Sport
@@ -90,6 +96,12 @@ rss_sources:
     # RomâniaPozitivă (dacă feed-ul e disponibil în runtime)
     - name: RomaniaPozitiva
       url: https://www.romaniapozitiva.ro/feed/
+    - name: RomaniaPozitiva - Sanatate
+      url: https://www.romaniapozitiva.ro/category/sanatate/feed/
+    - name: RomaniaPozitiva - Educatie
+      url: https://www.romaniapozitiva.ro/category/educatie/feed/
+    - name: RomaniaPozitiva - Lifestyle
+      url: https://www.romaniapozitiva.ro/category/lifestyle/feed/
 
     # Instituții / intervenții (pot avea disponibilitate variabilă de feed)
     - name: DSU Romania
@@ -110,6 +122,10 @@ rss_sources:
       url: https://medicalxpress.com/rss-feed/
     - name: NIH News Releases
       url: https://www.nih.gov/news-events/news-releases/feed
+    - name: Viata Medicala
+      url: https://www.viata-medicala.ro/rss
+    - name: Medichub
+      url: https://www.medichub.ro/rss
     - name: Positive News
       url: https://www.positive.news/feed/
 
