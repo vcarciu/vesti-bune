@@ -436,6 +436,15 @@
     if(Number.isNaN(d.getTime())) return false;
     return (Date.now() - d.getTime()) <= 24*60*60*1000;
   }
+  function isFreshWindow(item){
+    const iso = item && item.published_utc;
+    if(!iso) return false;
+    const d = new Date(iso);
+    if(Number.isNaN(d.getTime())) return false;
+    const age = Date.now() - d.getTime();
+    const limit = isRO(item) ? (24*60*60*1000) : (72*60*60*1000);
+    return age <= limit;
+  }
 
   function buildItemHTML(it){
     const rawTitle = it.title_ro || it.title || "";
@@ -448,7 +457,7 @@
     const thumbSeed = encodeURIComponent((it.link || rawTitle || "news").slice(0, 120));
     const thumbUrl = img || `https://picsum.photos/seed/vb-${thumbSeed}/240/160`;
     const when = it.published_utc ? fmtDate(it.published_utc) : "";
-    const freshBadge = isFresh24(it) ? `<span class="badge bnew">NOU</span>` : "";
+    const freshBadge = isFreshWindow(it) ? `<span class="badge bnew">NOU</span>` : "";
 
     return `
       <a class="item" href="${it.link}" target="_blank" rel="noopener">
@@ -493,7 +502,7 @@
       pushAll(sections.medical);
       pushAll(sections.science);
       pushAll(sections.environment);
-      return items.filter(isFresh24);
+      return items.filter(isFreshWindow);
     }
 
     // mix
