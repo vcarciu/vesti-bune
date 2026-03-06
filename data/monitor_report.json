@@ -1,41 +1,37 @@
 {
   "status": "ok",
-  "checked_utc": "2026-03-05T21:49:58+00:00",
-  "generated_utc": "2026-03-05T21:25:33+00:00",
-  "generated_age_minutes": 24,
+  "checked_utc": "2026-03-06T02:51:49+00:00",
+  "generated_utc": "2026-03-06T01:13:13+00:00",
+  "generated_age_minutes": 98,
   "section_counts": {
-    "romania": 15,
-    "medical": 6,
-    "science": 6,
-    "environment": 1
+    "romania": 10,
+    "medical": 5,
+    "science": 3,
+    "environment": 0
   },
-  "mix_count": 28,
-  "fresh_24h_mix": 21,
-  "fresh_24h_all_sections": 21,
+  "mix_count": 18,
+  "fresh_24h_mix": 12,
+  "fresh_24h_all_sections": 12,
   "duplicate_titles_in_mix": 0,
   "top_sources_mix": [
     {
       "source": "Medical Xpress",
-      "count": 6
-    },
-    {
-      "source": "Phys.org",
       "count": 5
-    },
-    {
-      "source": "Descopera (Stiinta)",
-      "count": 4
-    },
-    {
-      "source": "Times New Roman (Satira)",
-      "count": 3
     },
     {
       "source": "Green Start-Up Romania",
       "count": 3
     },
     {
+      "source": "Phys.org",
+      "count": 3
+    },
+    {
       "source": "RomaniaPozitiva",
+      "count": 2
+    },
+    {
+      "source": "Descopera (Stiinta)",
       "count": 2
     },
     {
@@ -44,14 +40,6 @@
     },
     {
       "source": "StiriPozitive - Toate",
-      "count": 1
-    },
-    {
-      "source": "ScienceDaily Environment",
-      "count": 1
-    },
-    {
-      "source": "ScienceDaily Science",
       "count": 1
     }
   ],
