@@ -1,18 +1,18 @@
 {
-  "generated_utc": "2026-03-06T09:28:45+00:00",
+  "generated_utc": "2026-03-06T10:24:50+00:00",
   "sections": {
     "romania": [
       {
         "section": "romania",
         "kind": "ro",
-        "source": "Start-Up Romania",
-        "title": "Fondul Enterprise Investors investește 20,4 milioane de euro în rețeaua românească de fitness 18GYM pentru a susține extinderea",
-        "summary": "Fondul de private equity Enterprise Investors Fund IX va investi 20,4 milioane de euro ȋn 18GYM, unul din cele mai importante lanţuri de săli de fitness din Romȃnia, prin achiziţia unui pachet...",
-        "link": "https://start-up.ro/fondul-enterprise-investors-investeste-20-4-milioane-de-euro-in-reteaua-romaneasca-de-fitness-18gym-pentru-a-sustine-extinderea",
-        "published_utc": "2026-03-06T09:14:13+00:00",
+        "source": "HotNews",
+        "title": "Mulți părinți își plătesc copiii să citească. Este sau nu o idee bună?",
+        "summary": "Raportul pe 2025 al unei companii care se ocupă cu educația financiară a copiilor arată că activități precum cititul sau sportul sunt tot mai des incluse de părinți în lista de sarcini plătite. Fenomenul ridică o întrebare esențială pentru educație: ajută banii pe care îi primesc copiii care termină de citit o carte la formarea &#8230;",
+        "link": "https://hotnews.ro/multi-parinti-isi-platesc-copiii-sa-citeasca-este-sau-nu-o-idee-buna-2185849",
+        "published_utc": "2026-03-06T10:09:59+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://start-up.ro/img/articles/3/7/9/37982/cover-37982-src.jpg"
+        "image": "https://hotnews.ro/wp-content/uploads/2026/03/citit-copii.jpg"
       },
       {
         "section": "romania",
@@ -24,18 +24,6 @@
         "published_utc": "2026-03-06T09:07:24+00:00",
         "score": 1,
         "image": "http://www.romaniapozitiva.ro/wp-content/uploads/2026/03/800x600px.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "RomaniaPozitiva",
-        "title": "Băneasa Shopping City a donat 80.000 euro către copii din medii defavorizate,  pentru prevenirea abandonului școlar, prin intermediul proiectului ,,Școala fără pauză”",
-        "summary": "În perioada decembrie 2025 – ianuarie 2026, Băneasa Shopping City a derulat cea de-a cincea ediție a proiectului ,,Școala fără pauză”, realizat împreună cu Asociația Banca de Bine, proiect al&#8230; Articolul Băneasa Shopping City a donat 80.000 euro către copii din medii defavorizate, pentru prevenirea abandonului școlar, prin intermediul proiectului ,,Școala fără pauză” apare prima dată în Romania Pozitiva .",
-        "link": "https://www.romaniapozitiva.ro/bucuresti/baneasa-shopping-city-a-donat-80-000-euro-catre-copii-din-medii-defavorizate-pentru-prevenirea-abandonului-scolar-prin-intermediul-proiectului-scoala-fara-pauza",
-        "published_utc": "2026-03-06T08:55:24+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "http://www.romaniapozitiva.ro/wp-content/uploads/2026/03/BSC_scoala_fara_pauza_1kcopii_1920x1080px.jpg"
       },
       {
         "section": "romania",
@@ -137,47 +125,59 @@
         "image": "https://stiripozitive.com/wp-content/uploads/2026/02/Pisica-de-la-ora-cinci-Rodica-Bretin-676x1024.jpg"
       }
     ],
-    "medical": [],
-    "science": [
+    "medical": [
       {
-        "section": "science",
+        "section": "medical",
         "kind": "global",
-        "source": "Phys.org",
-        "title": "Fluorescent imaging reveals how a global parasite develops, opening new paths for drug treatment",
-        "summary": "It infects nearly one-third of the global population, yet its microscopic size makes the parasite difficult for scientists to study. That parasite is Toxoplasma gondii, a widespread organism that infects humans and animals. To better understand how it functions, infectious disease researchers at the USF Health Morsani College of Medicine adapted a fluorescent imaging system typically used to study human cells to observe the parasite's growth in real time—paving the way for future treatments.",
-        "link": "https://phys.org/news/2026-03-fluorescent-imaging-reveals-global-parasite.html",
-        "published_utc": "2026-03-06T09:22:12+00:00",
-        "score": 1,
+        "source": "Medical Xpress",
+        "title": "Japan approves stem-cell treatment for Parkinson's in world first",
+        "summary": "Japan has approved ground-breaking stem-cell treatments for Parkinson's and severe heart failure, one of the manufacturers and media reports said Friday, with the therapies expected to reach patients within months.",
+        "link": "https://medicalxpress.com/news/2026-03-japan-stem-cell-treatment-parkinson.html",
+        "published_utc": "2026-03-06T10:10:01+00:00",
+        "score": 2,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fluorescent-imaging-re.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/parkinsons.jpg"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "Medical Xpress",
+        "title": "Cancer has a unique nuclear metabolic fingerprint, researchers discover",
+        "summary": "More than 200 metabolic enzymes, many of which are normally tasked with producing energy in the mitochondria, are also found sitting directly on top of human DNA, according to a study published in Nature Communications. The research shows that different cell types, tissues and even cancers each have a unique pattern of metabolic enzymes compartmentalized inside the nucleus and interacting with DNA. It's the first evidence of human cells having what the authors of the study call a \"nuclear metabolic fingerprint.\"",
+        "link": "https://medicalxpress.com/news/2026-03-cancer-unique-nuclear-metabolic-fingerprint.html",
+        "published_utc": "2026-03-06T10:00:03+00:00",
+        "score": 4,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cancer-has-a-unique-nu.jpg"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "Medical Xpress",
+        "title": "Anti-obesity treatment could cost as little as $3 per month: Study",
+        "summary": "A blockbuster anti-obesity and diabetes drug could cost as little as $3 per month to manufacture once it goes off patent later this month, researchers said Friday, providing a major opportunity to boost health in low- and middle-income countries.",
+        "link": "https://medicalxpress.com/news/2026-03-anti-obesity-treatment-month.html",
+        "published_utc": "2026-03-06T09:36:44+00:00",
+        "score": 2,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/obese.jpg"
       }
     ],
+    "science": [],
     "environment": []
   },
   "mix_items": [
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Start-Up Romania",
-      "title": "Fondul Enterprise Investors investește 20,4 milioane de euro în rețeaua românească de fitness 18GYM pentru a susține extinderea",
-      "summary": "Fondul de private equity Enterprise Investors Fund IX va investi 20,4 milioane de euro ȋn 18GYM, unul din cele mai importante lanţuri de săli de fitness din Romȃnia, prin achiziţia unui pachet...",
-      "link": "https://start-up.ro/fondul-enterprise-investors-investeste-20-4-milioane-de-euro-in-reteaua-romaneasca-de-fitness-18gym-pentru-a-sustine-extinderea",
-      "published_utc": "2026-03-06T09:14:13+00:00",
+      "source": "HotNews",
+      "title": "Mulți părinți își plătesc copiii să citească. Este sau nu o idee bună?",
+      "summary": "Raportul pe 2025 al unei companii care se ocupă cu educația financiară a copiilor arată că activități precum cititul sau sportul sunt tot mai des incluse de părinți în lista de sarcini plătite. Fenomenul ridică o întrebare esențială pentru educație: ajută banii pe care îi primesc copiii care termină de citit o carte la formarea &#8230;",
+      "link": "https://hotnews.ro/multi-parinti-isi-platesc-copiii-sa-citeasca-este-sau-nu-o-idee-buna-2185849",
+      "published_utc": "2026-03-06T10:09:59+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://start-up.ro/img/articles/3/7/9/37982/cover-37982-src.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "Băneasa Shopping City a donat 80.000 euro către copii din medii defavorizate,  pentru prevenirea abandonului școlar, prin intermediul proiectului ,,Școala fără pauză”",
-      "summary": "În perioada decembrie 2025 – ianuarie 2026, Băneasa Shopping City a derulat cea de-a cincea ediție a proiectului ,,Școala fără pauză”, realizat împreună cu Asociația Banca de Bine, proiect al&#8230; Articolul Băneasa Shopping City a donat 80.000 euro către copii din medii defavorizate, pentru prevenirea abandonului școlar, prin intermediul proiectului ,,Școala fără pauză” apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/bucuresti/baneasa-shopping-city-a-donat-80-000-euro-catre-copii-din-medii-defavorizate-pentru-prevenirea-abandonului-scolar-prin-intermediul-proiectului-scoala-fara-pauza",
-      "published_utc": "2026-03-06T08:55:24+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "http://www.romaniapozitiva.ro/wp-content/uploads/2026/03/BSC_scoala_fara_pauza_1kcopii_1920x1080px.jpg"
+      "image": "https://hotnews.ro/wp-content/uploads/2026/03/citit-copii.jpg"
     },
     {
       "section": "romania",
@@ -290,16 +290,40 @@
       "image": "https://stiripozitive.com/wp-content/uploads/2026/02/Pisica-de-la-ora-cinci-Rodica-Bretin-676x1024.jpg"
     },
     {
-      "section": "science",
+      "section": "medical",
       "kind": "global",
-      "source": "Phys.org",
-      "title": "Fluorescent imaging reveals how a global parasite develops, opening new paths for drug treatment",
-      "summary": "It infects nearly one-third of the global population, yet its microscopic size makes the parasite difficult for scientists to study. That parasite is Toxoplasma gondii, a widespread organism that infects humans and animals. To better understand how it functions, infectious disease researchers at the USF Health Morsani College of Medicine adapted a fluorescent imaging system typically used to study human cells to observe the parasite's growth in real time—paving the way for future treatments.",
-      "link": "https://phys.org/news/2026-03-fluorescent-imaging-reveals-global-parasite.html",
-      "published_utc": "2026-03-06T09:22:12+00:00",
-      "score": 1,
+      "source": "Medical Xpress",
+      "title": "Japan approves stem-cell treatment for Parkinson's in world first",
+      "summary": "Japan has approved ground-breaking stem-cell treatments for Parkinson's and severe heart failure, one of the manufacturers and media reports said Friday, with the therapies expected to reach patients within months.",
+      "link": "https://medicalxpress.com/news/2026-03-japan-stem-cell-treatment-parkinson.html",
+      "published_utc": "2026-03-06T10:10:01+00:00",
+      "score": 2,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fluorescent-imaging-re.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/parkinsons.jpg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "Cancer has a unique nuclear metabolic fingerprint, researchers discover",
+      "summary": "More than 200 metabolic enzymes, many of which are normally tasked with producing energy in the mitochondria, are also found sitting directly on top of human DNA, according to a study published in Nature Communications. The research shows that different cell types, tissues and even cancers each have a unique pattern of metabolic enzymes compartmentalized inside the nucleus and interacting with DNA. It's the first evidence of human cells having what the authors of the study call a \"nuclear metabolic fingerprint.\"",
+      "link": "https://medicalxpress.com/news/2026-03-cancer-unique-nuclear-metabolic-fingerprint.html",
+      "published_utc": "2026-03-06T10:00:03+00:00",
+      "score": 4,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cancer-has-a-unique-nu.jpg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "Anti-obesity treatment could cost as little as $3 per month: Study",
+      "summary": "A blockbuster anti-obesity and diabetes drug could cost as little as $3 per month to manufacture once it goes off patent later this month, researchers said Friday, providing a major opportunity to boost health in low- and middle-income countries.",
+      "link": "https://medicalxpress.com/news/2026-03-anti-obesity-treatment-month.html",
+      "published_utc": "2026-03-06T09:36:44+00:00",
+      "score": 2,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/obese.jpg"
     }
   ],
   "joke_ro": {
@@ -358,6 +382,7 @@
       "https://picsum.photos/seed/vb-landscape-reset-001/1600/900"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/55122199651_2620f732e3_b.jpg",
       "https://live.staticflickr.com/65535/35308686466_222082f0fb_b.jpg",
       "https://live.staticflickr.com/65535/55130998610_8d4c386215_b.jpg",
       "https://live.staticflickr.com/65535/55129719977_b746f507f1_b.jpg",
@@ -372,6 +397,7 @@
       "https://upload.wikimedia.org/wikipedia/commons/d/d3/Albert_Einstein_Head.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55131925288_baeef8f72b_z.jpg",
       "https://live.staticflickr.com/65535/55131940124_207742d53c_b.jpg",
       "https://live.staticflickr.com/65535/55131639721_ff075d0046_b.jpg",
       "https://live.staticflickr.com/65535/55130719232_4064251565_b.jpg",
@@ -385,8 +411,8 @@
       "https://live.staticflickr.com/65535/55131246810_e311cff1ca_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
+      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
