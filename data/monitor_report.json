@@ -1,29 +1,25 @@
 {
   "status": "ok",
-  "checked_utc": "2026-03-06T02:51:49+00:00",
-  "generated_utc": "2026-03-06T01:13:13+00:00",
-  "generated_age_minutes": 98,
+  "checked_utc": "2026-03-06T04:50:57+00:00",
+  "generated_utc": "2026-03-06T04:00:58+00:00",
+  "generated_age_minutes": 49,
   "section_counts": {
     "romania": 10,
-    "medical": 5,
-    "science": 3,
+    "medical": 3,
+    "science": 2,
     "environment": 0
   },
-  "mix_count": 18,
-  "fresh_24h_mix": 12,
-  "fresh_24h_all_sections": 12,
+  "mix_count": 15,
+  "fresh_24h_mix": 9,
+  "fresh_24h_all_sections": 9,
   "duplicate_titles_in_mix": 0,
   "top_sources_mix": [
-    {
-      "source": "Medical Xpress",
-      "count": 5
-    },
     {
       "source": "Green Start-Up Romania",
       "count": 3
     },
     {
-      "source": "Phys.org",
+      "source": "Medical Xpress",
       "count": 3
     },
     {
@@ -36,6 +32,10 @@
     },
     {
       "source": "Start-Up Romania",
+      "count": 2
+    },
+    {
+      "source": "Phys.org",
       "count": 2
     },
     {

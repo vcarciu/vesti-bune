@@ -23,6 +23,14 @@
       "fresh_24h_mix": 12,
       "generated_age_minutes": 98,
       "issues": []
+    },
+    {
+      "checked_utc": "2026-03-06T04:50:57+00:00",
+      "status": "ok",
+      "mix_count": 15,
+      "fresh_24h_mix": 9,
+      "generated_age_minutes": 49,
+      "issues": []
     }
   ]
 }
