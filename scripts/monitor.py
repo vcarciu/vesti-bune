@@ -3,17 +3,27 @@ from collections import Counter
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Dict, List, Optional
+import yaml
 
 
 ROOT = Path(__file__).resolve().parents[1]
 NEWS_PATH = ROOT / "data" / "news.json"
 REPORT_PATH = ROOT / "data" / "monitor_report.json"
 HISTORY_PATH = ROOT / "data" / "monitor_history.json"
+SOURCE_YIELD_PATH = ROOT / "data" / "source_yield_report.json"
+CONFIG_PATH = ROOT / "config" / "sources.yml"
 
 
 def read_json(path: Path) -> Dict[str, Any]:
     try:
         return json.loads(path.read_text(encoding="utf-8"))
+    except Exception:
+        return {}
+
+
+def read_yaml(path: Path) -> Dict[str, Any]:
+    try:
+        return yaml.safe_load(path.read_text(encoding="utf-8")) or {}
     except Exception:
         return {}
 
@@ -107,15 +117,90 @@ def update_history(report: Dict[str, Any]) -> Dict[str, Any]:
     return {"entries": entries}
 
 
+def build_source_yield(news: Dict[str, Any], cfg: Dict[str, Any]) -> Dict[str, Any]:
+    now = datetime.now(timezone.utc)
+    sections = news.get("sections") or {}
+    configured = cfg.get("rss_sources") or {}
+
+    rows: List[Dict[str, Any]] = []
+    for section_id, srcs in configured.items():
+        sec_items = list(sections.get(section_id) or [])
+        by_src: Dict[str, List[Dict[str, Any]]] = {}
+        for it in sec_items:
+            s = (it.get("source") or "Unknown").strip()
+            by_src.setdefault(s, []).append(it)
+
+        for src in srcs or []:
+            name = (src.get("name") or "").strip()
+            if not name:
+                continue
+            items = by_src.get(name) or []
+            fresh24 = 0
+            fresh72 = 0
+            newest_iso = None
+            for it in items:
+                iso = (it.get("published_utc") or "").strip()
+                dt = parse_iso(iso)
+                if dt:
+                    age_h = (now - dt).total_seconds() / 3600.0
+                    if age_h <= 24:
+                        fresh24 += 1
+                    if age_h <= 72:
+                        fresh72 += 1
+                    if (not newest_iso) or (iso > newest_iso):
+                        newest_iso = iso
+            rows.append({
+                "section": section_id,
+                "source": name,
+                "configured": True,
+                "items": len(items),
+                "fresh_24h": fresh24,
+                "fresh_72h": fresh72,
+                "newest_published_utc": newest_iso,
+            })
+
+        # keep track of unexpected runtime sources
+        known = set((x.get("name") or "").strip() for x in (srcs or []))
+        for runtime_src, items in by_src.items():
+            if runtime_src in known:
+                continue
+            rows.append({
+                "section": section_id,
+                "source": runtime_src,
+                "configured": False,
+                "items": len(items),
+                "fresh_24h": sum(1 for it in items if is_fresh_24h(it.get("published_utc", ""), now)),
+                "fresh_72h": sum(1 for it in items if parse_iso(it.get("published_utc", "")) and (now - parse_iso(it.get("published_utc", ""))).total_seconds() <= 72 * 3600),
+                "newest_published_utc": max((it.get("published_utc") or "" for it in items), default=None),
+            })
+
+    rows.sort(key=lambda x: (x["section"], -x["items"], x["source"].lower()))
+    active = sum(1 for r in rows if r["items"] > 0)
+    silent = sum(1 for r in rows if r["items"] == 0 and r["configured"])
+    return {
+        "checked_utc": now.replace(microsecond=0).isoformat(),
+        "generated_utc": news.get("generated_utc"),
+        "summary": {
+            "configured_sources": sum(len(v or []) for v in configured.values()),
+            "rows": len(rows),
+            "active_sources": active,
+            "silent_sources": silent,
+        },
+        "rows": rows,
+    }
+
+
 def main() -> None:
     news = read_json(NEWS_PATH)
+    cfg = read_yaml(CONFIG_PATH)
     report = analyze(news)
+    source_yield = build_source_yield(news, cfg)
     history = update_history(report)
     write_json(REPORT_PATH, report)
+    write_json(SOURCE_YIELD_PATH, source_yield)
     write_json(HISTORY_PATH, history)
     print(f"[monitor] status={report['status']} mix={report['mix_count']} fresh24h={report['fresh_24h_mix']}")
 
 
 if __name__ == "__main__":
     main()
-

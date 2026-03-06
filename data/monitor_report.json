@@ -1,17 +1,17 @@
 {
   "status": "ok",
-  "checked_utc": "2026-03-06T13:20:21+00:00",
-  "generated_utc": "2026-03-06T12:31:37+00:00",
-  "generated_age_minutes": 48,
+  "checked_utc": "2026-03-06T15:43:30+00:00",
+  "generated_utc": "2026-03-06T14:29:10+00:00",
+  "generated_age_minutes": 74,
   "section_counts": {
-    "romania": 9,
+    "romania": 12,
     "medical": 25,
     "science": 25,
     "environment": 22
   },
-  "mix_count": 81,
-  "fresh_24h_mix": 6,
-  "fresh_24h_all_sections": 6,
+  "mix_count": 84,
+  "fresh_24h_mix": 9,
+  "fresh_24h_all_sections": 9,
   "duplicate_titles_in_mix": 0,
   "top_sources_mix": [
     {
@@ -39,7 +39,7 @@
       "count": 4
     },
     {
-      "source": "RomaniaPozitiva",
+      "source": "Times New Roman (Satira)",
       "count": 3
     },
     {
@@ -51,7 +51,7 @@
       "count": 3
     },
     {
-      "source": "Start-Up Romania",
+      "source": "RomaniaPozitiva",
       "count": 2
     }
   ],

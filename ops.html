@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="ro">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Vesti Bune - Ops Dashboard</title>
+  <style>
+    :root{--bg:#0b0d10;--card:#12161b;--line:#1f2630;--text:#e9eef6;--muted:#a8b0bb;--ok:#22c55e;--warn:#f59e0b}
+    *{box-sizing:border-box}
+    body{margin:0;background:var(--bg);color:var(--text);font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif}
+    .wrap{max-width:1200px;margin:0 auto;padding:18px}
+    h1{margin:0 0 6px}
+    .muted{color:var(--muted)}
+    .grid{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-top:14px}
+    .card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px}
+    .k{font-size:12px;color:var(--muted)} .v{font-size:20px;font-weight:700}
+    table{width:100%;border-collapse:collapse;margin-top:14px;background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden}
+    th,td{padding:8px 10px;border-bottom:1px solid var(--line);font-size:13px;text-align:left}
+    th{color:var(--muted);font-weight:600}
+    tr:last-child td{border-bottom:0}
+    .ok{color:var(--ok)} .warn{color:var(--warn)}
+    @media (max-width:900px){.grid{grid-template-columns:repeat(2,1fr)}}
+    @media (max-width:560px){.grid{grid-template-columns:1fr}}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>Ops Dashboard</h1>
+    <div class="muted">Monitorizare surse si starea fluxului de continut</div>
+    <div class="muted" id="checked">Se incarca...</div>
+
+    <div class="grid">
+      <div class="card"><div class="k">Status</div><div class="v" id="status">-</div></div>
+      <div class="card"><div class="k">Mix Count</div><div class="v" id="mixCount">-</div></div>
+      <div class="card"><div class="k">Fresh 24h (mix)</div><div class="v" id="fresh24">-</div></div>
+      <div class="card"><div class="k">Silent Sources</div><div class="v" id="silent">-</div></div>
+    </div>
+
+    <h2 style="margin-top:18px">Source Yield</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Section</th>
+          <th>Source</th>
+          <th>Items</th>
+          <th>Fresh 24h</th>
+          <th>Fresh 72h</th>
+          <th>Newest</th>
+        </tr>
+      </thead>
+      <tbody id="rows">
+        <tr><td colspan="6" class="muted">Se incarca...</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <script>
+    async function load(){
+      const [m, y] = await Promise.all([
+        fetch("data/monitor_report.json", {cache:"no-store"}).then(r=>r.json()),
+        fetch("data/source_yield_report.json", {cache:"no-store"}).then(r=>r.json())
+      ]);
+
+      document.getElementById("checked").textContent = `Checked: ${m.checked_utc || "-"} | Generated: ${m.generated_utc || "-"}`;
+      const statusEl = document.getElementById("status");
+      statusEl.textContent = (m.status || "-").toUpperCase();
+      statusEl.className = "v " + ((m.status === "ok") ? "ok" : "warn");
+      document.getElementById("mixCount").textContent = m.mix_count ?? "-";
+      document.getElementById("fresh24").textContent = m.fresh_24h_mix ?? "-";
+      document.getElementById("silent").textContent = y?.summary?.silent_sources ?? "-";
+
+      const rows = Array.isArray(y.rows) ? y.rows : [];
+      const tbody = document.getElementById("rows");
+      if(!rows.length){
+        tbody.innerHTML = `<tr><td colspan="6" class="muted">Nu exista date.</td></tr>`;
+        return;
+      }
+      tbody.innerHTML = rows.map(r => `
+        <tr>
+          <td>${(r.section||"-")}</td>
+          <td>${(r.source||"-")}${r.configured===false ? " (runtime)" : ""}</td>
+          <td>${r.items ?? 0}</td>
+          <td>${r.fresh_24h ?? 0}</td>
+          <td>${r.fresh_72h ?? 0}</td>
+          <td>${r.newest_published_utc || "-"}</td>
+        </tr>
+      `).join("");
+    }
+    load().catch(() => {
+      document.getElementById("checked").textContent = "Eroare la incarcare dashboard.";
+    });
+  </script>
+</body>
+</html>
+

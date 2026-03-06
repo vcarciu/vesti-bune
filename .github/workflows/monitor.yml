@@ -29,7 +29,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add data/monitor_report.json data/monitor_history.json
+          git add data/monitor_report.json data/monitor_history.json data/source_yield_report.json
 
           if git diff --cached --quiet; then
             echo "No monitor changes."
@@ -38,4 +38,3 @@ jobs:
 
           git commit -m "chore: update monitor report"
           git push
-

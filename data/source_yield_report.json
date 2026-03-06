@@ -1,0 +1,435 @@
+{
+  "checked_utc": "2026-03-06T15:43:30+00:00",
+  "generated_utc": "2026-03-06T14:29:10+00:00",
+  "summary": {
+    "configured_sources": 47,
+    "rows": 47,
+    "active_sources": 13,
+    "silent_sources": 34
+  },
+  "rows": [
+    {
+      "section": "environment",
+      "source": "ScienceDaily Environment",
+      "configured": true,
+      "items": 15,
+      "fresh_24h": 0,
+      "fresh_72h": 0,
+      "newest_published_utc": "2026-03-03T12:50:59+00:00"
+    },
+    {
+      "section": "environment",
+      "source": "NASA Earth Observatory - Image of the Day",
+      "configured": true,
+      "items": 4,
+      "fresh_24h": 0,
+      "fresh_72h": 0,
+      "newest_published_utc": "2026-03-02T05:01:00+00:00"
+    },
+    {
+      "section": "environment",
+      "source": "NASA Earth Observatory - Natural Hazards",
+      "configured": true,
+      "items": 3,
+      "fresh_24h": 0,
+      "fresh_72h": 0,
+      "newest_published_utc": "2026-02-23T17:34:16+00:00"
+    },
+    {
+      "section": "environment",
+      "source": "Mongabay Conservation",
+      "configured": true,
+      "items": 0,
+      "fresh_24h": 0,
+      "fresh_72h": 0,
+      "newest_published_utc": null
+    },
+    {
+      "section": "environment",
+      "source": "Positive News",
+      "configured": true,
+      "items": 0,
+      "fresh_24h": 0,
+      "fresh_72h": 0,
+      "newest_published_utc": null
+    },
+    {
+      "section": "medical",
+      "source": "ScienceDaily Health",
+      "configured": true,
+      "items": 19,
+      "fresh_24h": 0,
+      "fresh_72h": 8,
+      "newest_published_utc": "2026-03-05T05:03:04+00:00"
+    },
+    {
+      "section": "medical",
+      "source": "Positive News",
+      "configured": true,
+      "items": 6,
+      "fresh_24h": 0,
+      "fresh_72h": 3,
+      "newest_published_utc": "2026-03-05T11:00:21+00:00"
+    },
+    {
+      "section": "medical",
+      "source": "Medical Xpress",
+      "configured": true,
+      "items": 0,
+      "fresh_24h": 0,
+      "fresh_72h": 0,
+      "newest_published_utc": null
+    },
+    {
+      "section": "medical",
+      "source": "Medichub",
+      "configured": true,
+      "items": 0,
+      "fresh_24h": 0,
+      "fresh_72h": 0,
+      "newest_published_utc": null
+    },
+    {
+      "section": "medical",
+      "source": "NIH News Releases",
+      "configured": true,
+      "items": 0,
+      "fresh_24h": 0,
+      "fresh_72h": 0,
+      "newest_published_utc": null
+    },
+    {
+      "section": "medical",
+      "source": "ScienceDaily Medicine",
+      "configured": true,
+      "items": 0,
+      "fresh_24h": 0,
+      "fresh_72h": 0,
+      "newest_published_utc": null
+    },
+    {
+      "section": "medical",
+      "source": "Viata Medicala",
+      "configured": true,
+      "items": 0,
+      "fresh_24h": 0,
+      "fresh_72h": 0,
+      "newest_published_utc": null
+    },
+    {
+      "section": "romania",
+      "source": "Green Start-Up Romania",
+      "configured": true,
+      "items": 3,
+      "fresh_24h": 1,
+      "fresh_72h": 2,
+      "newest_published_utc": "2026-03-06T06:00:02+00:00"
+    },
+    {
+      "section": "romania",
+      "source": "Times New Roman (Satira)",
+      "configured": true,
+      "items": 3,
+      "fresh_24h": 3,
+      "fresh_72h": 3,
+      "newest_published_utc": "2026-03-06T10:44:36+00:00"
+    },
+    {
+      "section": "romania",
+      "source": "RomaniaPozitiva",
+      "configured": true,
+      "items": 2,
+      "fresh_24h": 2,
+      "fresh_72h": 2,
+      "newest_published_utc": "2026-03-06T12:53:30+00:00"
+    },
+    {
+      "section": "romania",
+      "source": "Start-Up Romania",
+      "configured": true,
+      "items": 2,
+      "fresh_24h": 2,
+      "fresh_72h": 2,
+      "newest_published_utc": "2026-03-06T07:20:40+00:00"
+    },
+    {
+      "section": "romania",
+      "source": "HotNews",
+      "configured": true,
+      "items": 1,
+      "fresh_24h": 1,
+      "fresh_72h": 1,
+      "newest_published_utc": "2026-03-06T13:07:23+00:00"
+    },
+    {
+      "section": "romania",
+      "source": "StiriPozitive - Toate",
+      "configured": true,
+      "items": 1,
+      "fresh_24h": 0,
+      "fresh_72h": 0,
+      "newest_published_utc": "2026-02-10T10:23:38+00:00"
+    },
+    {
+      "section": "romania",
+      "source": "B365 Lifestyle",
+      "configured": true,
+      "items": 0,
+      "fresh_24h": 0,
+      "fresh_72h": 0,
+      "newest_published_utc": null
+    },
+    {
+      "section": "romania",
+      "source": "Descopera (Stiinta)",
+      "configured": true,
+      "items": 0,
+      "fresh_24h": 0,
+      "fresh_72h": 0,
+      "newest_published_utc": null
+    },
+    {
+      "section": "romania",
+      "source": "Digi24",
+      "configured": true,
+      "items": 0,
+      "fresh_24h": 0,
+      "fresh_72h": 0,
+      "newest_published_utc": null
+    },
+    {
+      "section": "romania",
+      "source": "DSU Romania",
+      "configured": true,
+      "items": 0,
+      "fresh_24h": 0,
+      "fresh_72h": 0,
+      "newest_published_utc": null
+    },
+    {
+      "section": "romania",
+      "source": "Good News From Romania",
+      "configured": true,
+      "items": 0,
+      "fresh_24h": 0,
+      "fresh_72h": 0,
+      "newest_published_utc": null
+    },
+    {
+      "section": "romania",
+      "source": "IGSU Romania",
+      "configured": true,
+      "items": 0,
+      "fresh_24h": 0,
+      "fresh_72h": 0,
+      "newest_published_utc": null
+    },
+    {
+      "section": "romania",
+      "source": "Life.ro (Lifestyle)",
+      "configured": true,
+      "items": 0,
+      "fresh_24h": 0,
+      "fresh_72h": 0,
+      "newest_published_utc": null
+    },
+    {
+      "section": "romania",
+      "source": "Mindcraft Stories",
+      "configured": true,
+      "items": 0,
+      "fresh_24h": 0,
+      "fresh_72h": 0,
+      "newest_published_utc": null
+    },
+    {
+      "section": "romania",
+      "source": "Politia Romana",
+      "configured": true,
+      "items": 0,
+      "fresh_24h": 0,
+      "fresh_72h": 0,
+      "newest_published_utc": null
+    },
+    {
+      "section": "romania",
+      "source": "Positive News (Global)",
+      "configured": true,
+      "items": 0,
+      "fresh_24h": 0,
+      "fresh_72h": 0,
+      "newest_published_utc": null
+    },
+    {
+      "section": "romania",
+      "source": "RomaniaPozitiva - Educatie",
+      "configured": true,
+      "items": 0,
+      "fresh_24h": 0,
+      "fresh_72h": 0,
+      "newest_published_utc": null
+    },
+    {
+      "section": "romania",
+      "source": "RomaniaPozitiva - Lifestyle",
+      "configured": true,
+      "items": 0,
+      "fresh_24h": 0,
+      "fresh_72h": 0,
+      "newest_published_utc": null
+    },
+    {
+      "section": "romania",
+      "source": "RomaniaPozitiva - Sanatate",
+      "configured": true,
+      "items": 0,
+      "fresh_24h": 0,
+      "fresh_72h": 0,
+      "newest_published_utc": null
+    },
+    {
+      "section": "romania",
+      "source": "Salvamont Romania",
+      "configured": true,
+      "items": 0,
+      "fresh_24h": 0,
+      "fresh_72h": 0,
+      "newest_published_utc": null
+    },
+    {
+      "section": "romania",
+      "source": "StiriPozitive - Animale",
+      "configured": true,
+      "items": 0,
+      "fresh_24h": 0,
+      "fresh_72h": 0,
+      "newest_published_utc": null
+    },
+    {
+      "section": "romania",
+      "source": "StiriPozitive - Comunitate",
+      "configured": true,
+      "items": 0,
+      "fresh_24h": 0,
+      "fresh_72h": 0,
+      "newest_published_utc": null
+    },
+    {
+      "section": "romania",
+      "source": "StiriPozitive - Cultura",
+      "configured": true,
+      "items": 0,
+      "fresh_24h": 0,
+      "fresh_72h": 0,
+      "newest_published_utc": null
+    },
+    {
+      "section": "romania",
+      "source": "StiriPozitive - Ecologie",
+      "configured": true,
+      "items": 0,
+      "fresh_24h": 0,
+      "fresh_72h": 0,
+      "newest_published_utc": null
+    },
+    {
+      "section": "romania",
+      "source": "StiriPozitive - Educatie",
+      "configured": true,
+      "items": 0,
+      "fresh_24h": 0,
+      "fresh_72h": 0,
+      "newest_published_utc": null
+    },
+    {
+      "section": "romania",
+      "source": "StiriPozitive - Fapte bune",
+      "configured": true,
+      "items": 0,
+      "fresh_24h": 0,
+      "fresh_72h": 0,
+      "newest_published_utc": null
+    },
+    {
+      "section": "romania",
+      "source": "StiriPozitive - Povesti de viata",
+      "configured": true,
+      "items": 0,
+      "fresh_24h": 0,
+      "fresh_72h": 0,
+      "newest_published_utc": null
+    },
+    {
+      "section": "romania",
+      "source": "StiriPozitive - Relatii",
+      "configured": true,
+      "items": 0,
+      "fresh_24h": 0,
+      "fresh_72h": 0,
+      "newest_published_utc": null
+    },
+    {
+      "section": "romania",
+      "source": "StiriPozitive - Sanatate",
+      "configured": true,
+      "items": 0,
+      "fresh_24h": 0,
+      "fresh_72h": 0,
+      "newest_published_utc": null
+    },
+    {
+      "section": "romania",
+      "source": "StiriPozitive - Sport",
+      "configured": true,
+      "items": 0,
+      "fresh_24h": 0,
+      "fresh_72h": 0,
+      "newest_published_utc": null
+    },
+    {
+      "section": "romania",
+      "source": "Turism Romania",
+      "configured": true,
+      "items": 0,
+      "fresh_24h": 0,
+      "fresh_72h": 0,
+      "newest_published_utc": null
+    },
+    {
+      "section": "science",
+      "source": "ScienceDaily Science",
+      "configured": true,
+      "items": 15,
+      "fresh_24h": 0,
+      "fresh_72h": 5,
+      "newest_published_utc": "2026-03-05T05:58:53+00:00"
+    },
+    {
+      "section": "science",
+      "source": "NASA Breaking News",
+      "configured": true,
+      "items": 10,
+      "fresh_24h": 0,
+      "fresh_72h": 10,
+      "newest_published_utc": "2026-03-05T05:01:00+00:00"
+    },
+    {
+      "section": "science",
+      "source": "Phys.org",
+      "configured": true,
+      "items": 0,
+      "fresh_24h": 0,
+      "fresh_72h": 0,
+      "newest_published_utc": null
+    },
+    {
+      "section": "science",
+      "source": "Positive News",
+      "configured": true,
+      "items": 0,
+      "fresh_24h": 0,
+      "fresh_72h": 0,
+      "newest_published_utc": null
+    }
+  ]
+}

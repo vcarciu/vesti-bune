@@ -55,6 +55,22 @@
       "fresh_24h_mix": 6,
       "generated_age_minutes": 48,
       "issues": []
+    },
+    {
+      "checked_utc": "2026-03-06T15:43:24+00:00",
+      "status": "ok",
+      "mix_count": 84,
+      "fresh_24h_mix": 9,
+      "generated_age_minutes": 74,
+      "issues": []
+    },
+    {
+      "checked_utc": "2026-03-06T15:43:30+00:00",
+      "status": "ok",
+      "mix_count": 84,
+      "fresh_24h_mix": 9,
+      "generated_age_minutes": 74,
+      "issues": []
     }
   ]
 }
