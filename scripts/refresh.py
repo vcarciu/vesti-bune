@@ -1348,6 +1348,19 @@ def main() -> None:
         effective_sections = build_emergency_sections()
         effective_mix = build_mix_items(effective_sections)
         print("[WARN] current refresh returned 0 items; using emergency positive fallback")
+    elif isinstance(prev_sections, dict):
+        # If one refresh partially fails (e.g., only RO survives), keep previous section
+        # content for emptied sections so EN buckets don't disappear from the site.
+        patched = False
+        for sec_id in ("medical", "science", "environment"):
+            cur_len = len((effective_sections.get(sec_id) or []))
+            prev_len = len((prev_sections.get(sec_id) or []))
+            if cur_len == 0 and prev_len > 0:
+                effective_sections[sec_id] = list(prev_sections.get(sec_id) or [])
+                patched = True
+        if patched:
+            effective_mix = build_mix_items(effective_sections)
+            print("[WARN] partial refresh detected; restored previous EN sections")
 
     top_images, top_image_history = pick_flickr_images(limit=3, prev_payload=prev if isinstance(prev, dict) else None)
 
