@@ -203,6 +203,7 @@
     <!-- NEWS -->
     <div class="section">
       <h2 id="modeTitle">Mix RO + EN</h2>
+      <div class="meta" id="modeStats">Afișate: 0 • RO: 0 • EN: 0</div>
       <div class="newslist" id="newsList">
         <div class="muted">Se încarcă știrile…</div>
       </div>
@@ -508,6 +509,7 @@
     const sections = d.sections || {};
     const list = document.getElementById("newsList");
     const title = document.getElementById("modeTitle");
+    const stats = document.getElementById("modeStats");
 
     title.textContent =
       state.mode === "mix" ? "Mix RO + EN" :
@@ -518,6 +520,12 @@
     let items = gather(state.mode, sections);
     if(state.mode !== "mix"){
       items = items.sort((a,b)=> (b.published_utc||"").localeCompare(a.published_utc||""));
+    }
+
+    const roCount = items.filter(isRO).length;
+    const enCount = items.length - roCount;
+    if(stats){
+      stats.textContent = `Afișate: ${items.length} • RO: ${roCount} • EN: ${enCount}`;
     }
 
     if(!items.length){
