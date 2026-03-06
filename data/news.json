@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-03-06T04:00:58+00:00",
+  "generated_utc": "2026-03-06T05:11:49+00:00",
   "sections": {
     "romania": [
       {
@@ -113,71 +113,35 @@
         "image": "https://stiripozitive.com/wp-content/uploads/2026/02/Pisica-de-la-ora-cinci-Rodica-Bretin-676x1024.jpg"
       }
     ],
-    "medical": [
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Finding the right supportive footwear for pain relief is key, say podiatrists",
-        "summary": "If you suffer from persistent foot or lower body discomfort, the solution might be found in your closet rather than your medicine cabinet.",
-        "link": "https://medicalxpress.com/news/2026-03-footwear-pain-relief-key-podiatrists.html",
-        "published_utc": "2026-03-06T02:50:01+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/finding-the-right-supp.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Thymus function may hold the key to understanding immune aging",
-        "summary": "As populations age worldwide, the decline of the immune system, a process known as immunosenescence, has become a critical biomedical challenge. This decline leads to increased susceptibility to infections, reduced vaccine effectiveness, and chronic low-grade inflammation in older individuals.",
-        "link": "https://medicalxpress.com/news/2026-03-thymus-function-key-immune-aging.html",
-        "published_utc": "2026-03-06T02:00:01+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/thymus-function-may-ho.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Trader Joe's pulls frozen meals tied to 37 million-pound nationwide recall",
-        "summary": "Trader Joe's is recalling several frozen food items after reports that they may contain small pieces of glass.",
-        "link": "https://medicalxpress.com/news/2026-03-trader-joe-frozen-meals-million.html",
-        "published_utc": "2026-03-06T01:40:01+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/trader-joes-pulls-froz-1.jpg"
-      }
-    ],
+    "medical": [],
     "science": [
       {
         "section": "science",
         "kind": "global",
-        "source": "Phys.org",
-        "title": "Upconversion materials: A new frontier in solar water-splitting",
-        "summary": "Solar water splitting is one of the most direct ways to produce green hydrogen using sunlight. However, most photocatalysts and photoelectrodes absorb only a limited portion of solar radiation, mainly ultraviolet and part of the visible spectrum. A large share of solar energy, particularly infrared photons, remains unused. This spectral mismatch significantly limits the efficiency of hydrogen production from sunlight.",
-        "link": "https://phys.org/news/2026-03-upconversion-materials-frontier-solar.html",
-        "published_utc": "2026-03-06T02:40:01+00:00",
+        "source": "NASA Breaking News",
+        "title": "About Air Traffic Management and Safety Project",
+        "summary": "The Air Traffic Management and Safety (ATMS) project defines, validates, and transfers advanced requirements and technologies to shift air traffic management from tactical to strategic. This change enables efficient, productive, and resilient operations while reducing safety assurance and compliance costs for highly automated systems. ATMS researches and develops technologies that safely integrate new air vehicles with traditional aviation operations to meet growing demand. Through close collaboration with the FAA, ATMS delivers actionable automation solutions, advanced operational concepts, [&#8230;]",
+        "link": "https://www.nasa.gov/directorates/armd/aosp/atms/about-atms",
+        "published_utc": "2026-03-06T04:29:02+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/upconversion-materials-1.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Elephants avoid humans far more than baboons, waterbucks or antelopes",
-        "summary": "Wild animal species respond very differently to human development, and as a result, they use ecological corridors in agricultural and urban areas in distinct ways. This emerges from research in Botswana by ecologist Marlee Tucker of Radboud University published in Integrative Conservation.",
-        "link": "https://phys.org/news/2026-03-elephants-humans-baboons-waterbucks-antelopes.html",
-        "published_utc": "2026-03-06T01:20:02+00:00",
-        "score": 2,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/elephant.jpg"
+        "image": "https://www.nasa.gov/wp-content/uploads/2023/02/08_future_airspace_1.gif"
       }
     ],
-    "environment": []
+    "environment": [
+      {
+        "section": "environment",
+        "kind": "global",
+        "source": "NASA Earth Observatory - Image of the Day",
+        "title": "Ailing “Megaberg” Sparks Surge of Microscopic Life",
+        "summary": "As Iceberg A-23A disintegrated, it shed meltwater that helped fuel an extensive phytoplankton bloom in the South Atlantic Ocean. The post Ailing &#8220;Megaberg&#8221; Sparks Surge of Microscopic Life appeared first on NASA Science .",
+        "link": "https://science.nasa.gov/earth/earth-observatory/ailing-megaberg-sparks-surge-of-microscopic-life",
+        "published_utc": "2026-03-06T05:01:00+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/ailing--megaberg--sparks-surge-of-microscopic-life/iceberga23amelt_oli_oci_20260125_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
+      }
+    ]
   },
   "mix_items": [
     {
@@ -291,64 +255,28 @@
       "image": "https://stiripozitive.com/wp-content/uploads/2026/02/Pisica-de-la-ora-cinci-Rodica-Bretin-676x1024.jpg"
     },
     {
-      "section": "medical",
+      "section": "environment",
       "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Finding the right supportive footwear for pain relief is key, say podiatrists",
-      "summary": "If you suffer from persistent foot or lower body discomfort, the solution might be found in your closet rather than your medicine cabinet.",
-      "link": "https://medicalxpress.com/news/2026-03-footwear-pain-relief-key-podiatrists.html",
-      "published_utc": "2026-03-06T02:50:01+00:00",
+      "source": "NASA Earth Observatory - Image of the Day",
+      "title": "Ailing “Megaberg” Sparks Surge of Microscopic Life",
+      "summary": "As Iceberg A-23A disintegrated, it shed meltwater that helped fuel an extensive phytoplankton bloom in the South Atlantic Ocean. The post Ailing &#8220;Megaberg&#8221; Sparks Surge of Microscopic Life appeared first on NASA Science .",
+      "link": "https://science.nasa.gov/earth/earth-observatory/ailing-megaberg-sparks-surge-of-microscopic-life",
+      "published_utc": "2026-03-06T05:01:00+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/finding-the-right-supp.jpg"
+      "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/ailing--megaberg--sparks-surge-of-microscopic-life/iceberga23amelt_oli_oci_20260125_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
     },
     {
       "section": "science",
       "kind": "global",
-      "source": "Phys.org",
-      "title": "Upconversion materials: A new frontier in solar water-splitting",
-      "summary": "Solar water splitting is one of the most direct ways to produce green hydrogen using sunlight. However, most photocatalysts and photoelectrodes absorb only a limited portion of solar radiation, mainly ultraviolet and part of the visible spectrum. A large share of solar energy, particularly infrared photons, remains unused. This spectral mismatch significantly limits the efficiency of hydrogen production from sunlight.",
-      "link": "https://phys.org/news/2026-03-upconversion-materials-frontier-solar.html",
-      "published_utc": "2026-03-06T02:40:01+00:00",
+      "source": "NASA Breaking News",
+      "title": "About Air Traffic Management and Safety Project",
+      "summary": "The Air Traffic Management and Safety (ATMS) project defines, validates, and transfers advanced requirements and technologies to shift air traffic management from tactical to strategic. This change enables efficient, productive, and resilient operations while reducing safety assurance and compliance costs for highly automated systems. ATMS researches and develops technologies that safely integrate new air vehicles with traditional aviation operations to meet growing demand. Through close collaboration with the FAA, ATMS delivers actionable automation solutions, advanced operational concepts, [&#8230;]",
+      "link": "https://www.nasa.gov/directorates/armd/aosp/atms/about-atms",
+      "published_utc": "2026-03-06T04:29:02+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/upconversion-materials-1.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Thymus function may hold the key to understanding immune aging",
-      "summary": "As populations age worldwide, the decline of the immune system, a process known as immunosenescence, has become a critical biomedical challenge. This decline leads to increased susceptibility to infections, reduced vaccine effectiveness, and chronic low-grade inflammation in older individuals.",
-      "link": "https://medicalxpress.com/news/2026-03-thymus-function-key-immune-aging.html",
-      "published_utc": "2026-03-06T02:00:01+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/thymus-function-may-ho.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Trader Joe's pulls frozen meals tied to 37 million-pound nationwide recall",
-      "summary": "Trader Joe's is recalling several frozen food items after reports that they may contain small pieces of glass.",
-      "link": "https://medicalxpress.com/news/2026-03-trader-joe-frozen-meals-million.html",
-      "published_utc": "2026-03-06T01:40:01+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/trader-joes-pulls-froz-1.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Elephants avoid humans far more than baboons, waterbucks or antelopes",
-      "summary": "Wild animal species respond very differently to human development, and as a result, they use ecological corridors in agricultural and urban areas in distinct ways. This emerges from research in Botswana by ecologist Marlee Tucker of Radboud University published in Integrative Conservation.",
-      "link": "https://phys.org/news/2026-03-elephants-humans-baboons-waterbucks-antelopes.html",
-      "published_utc": "2026-03-06T01:20:02+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/elephant.jpg"
+      "image": "https://www.nasa.gov/wp-content/uploads/2023/02/08_future_airspace_1.gif"
     }
   ],
   "joke_ro": {
@@ -357,8 +285,8 @@
     "source": "data/jokes_ro.txt"
   },
   "satire_ro": {
-    "title": "Nominalizarea lui Cerbu la șefia DNA a fost retrasă. Încă e sub contract cu Ciucaș",
-    "link": "https://www.timesnewroman.ro/politic/nominalizarea-lui-cerbu-la-sefia-dna-a-fost-retrasa-inca-e-sub-contract-cu-ciucas/",
+    "title": "Român, bântuit de un poltergeist leneş: „Mă pune pe mine să mut mobila, că pe el îl doare spatele”",
+    "link": "https://www.timesnewroman.ro/monden/roman-bantuit-de-un-poltergeist-lenes-ma-pune-pe-mine-sa-mut-mobila-ca-pe-el-il-doare-spatele/",
     "source": "timesnewroman.ro"
   },
   "top_images": [
@@ -407,6 +335,7 @@
       "https://picsum.photos/seed/vb-landscape-reset-001/1600/900"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/38220511094_2cd287f1d7_b.jpg",
       "https://live.staticflickr.com/65535/30607987674_1b9699f1f8_b.jpg",
       "https://live.staticflickr.com/65535/55118857859_e76d888604_b.jpg",
       "https://live.staticflickr.com/4501/37067977813_2f9bd2206f_b.jpg",
@@ -416,6 +345,7 @@
       "https://upload.wikimedia.org/wikipedia/commons/d/d3/Albert_Einstein_Head.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55131649894_eb26c1de6e_b.jpg",
       "https://live.staticflickr.com/65535/55121753700_d1b1858e8e_b.jpg",
       "https://live.staticflickr.com/65535/55131200606_7eccdf309b_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/3/3f/NYC_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg",
@@ -424,8 +354,8 @@
       "https://live.staticflickr.com/65535/55131246810_e311cff1ca_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
+      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
