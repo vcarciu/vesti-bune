@@ -1361,6 +1361,18 @@ def main() -> None:
         if patched:
             effective_mix = build_mix_items(effective_sections)
             print("[WARN] partial refresh detected; restored previous EN sections")
+        # Guard against gradual EN erosion across multiple partial runs.
+        min_en_floor = {"medical": 8, "science": 8, "environment": 8}
+        floor_patched = False
+        for sec_id, floor in min_en_floor.items():
+            cur_items = list(effective_sections.get(sec_id) or [])
+            prev_items = list(prev_sections.get(sec_id) or [])
+            if len(cur_items) < floor and len(prev_items) > len(cur_items):
+                effective_sections[sec_id] = prev_items
+                floor_patched = True
+        if floor_patched:
+            effective_mix = build_mix_items(effective_sections)
+            print("[WARN] EN floor restore applied from previous snapshot")
 
     top_images, top_image_history = pick_flickr_images(limit=3, prev_payload=prev if isinstance(prev, dict) else None)
 
