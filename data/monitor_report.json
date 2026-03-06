@@ -1,53 +1,37 @@
 {
   "status": "ok",
-  "checked_utc": "2026-03-06T07:07:27+00:00",
-  "generated_utc": "2026-03-06T06:35:49+00:00",
-  "generated_age_minutes": 31,
+  "checked_utc": "2026-03-06T09:55:53+00:00",
+  "generated_utc": "2026-03-06T09:28:45+00:00",
+  "generated_age_minutes": 27,
   "section_counts": {
     "romania": 12,
-    "medical": 1,
+    "medical": 0,
     "science": 1,
-    "environment": 1
+    "environment": 0
   },
-  "mix_count": 15,
-  "fresh_24h_mix": 11,
-  "fresh_24h_all_sections": 11,
+  "mix_count": 13,
+  "fresh_24h_mix": 9,
+  "fresh_24h_all_sections": 9,
   "duplicate_titles_in_mix": 0,
   "top_sources_mix": [
     {
-      "source": "Green Start-Up Romania",
+      "source": "Start-Up Romania",
       "count": 4
     },
     {
-      "source": "Start-Up Romania",
-      "count": 2
-    },
-    {
       "source": "RomaniaPozitiva",
-      "count": 2
+      "count": 4
     },
     {
-      "source": "Descopera (Stiinta)",
-      "count": 2
-    },
-    {
-      "source": "HotNews",
-      "count": 1
+      "source": "Green Start-Up Romania",
+      "count": 3
     },
     {
       "source": "StiriPozitive - Toate",
       "count": 1
     },
     {
-      "source": "Mongabay Conservation",
-      "count": 1
-    },
-    {
-      "source": "Positive News",
-      "count": 1
-    },
-    {
-      "source": "NASA Breaking News",
+      "source": "Phys.org",
       "count": 1
     }
   ],
