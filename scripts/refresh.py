@@ -1216,12 +1216,11 @@ def build_sections(cfg: Dict[str, Any], published_state: Optional[Dict[str, Dict
                 published = (dt or datetime.now(timezone.utc)).replace(microsecond=0)
 
                 kind = "ro" if section_id == "romania" else "global"
+                satire_source = is_satire_source(name, url) if kind == "ro" else False
 
                 if kind == "ro":
-                    satire_source = is_satire_source(name, url)
                     if satire_source:
-                        if ro_hard_block(title, summary):
-                            continue
+                        # Satire is intentionally allowed to keep variety in mix.
                         score = 3
                     else:
                         strict_hits = ro_positive_hits(title, summary, relaxed=False)
@@ -1265,7 +1264,7 @@ def build_sections(cfg: Dict[str, Any], published_state: Optional[Dict[str, Dict
                 title_key = normalize_text(title)
                 if title_key in seen_titles:
                     continue
-                if is_recently_published(published_state, key, title_key, publish_cooldown_days, now_utc):
+                if (not satire_source) and is_recently_published(published_state, key, title_key, publish_cooldown_days, now_utc):
                     continue
                 seen.add(key)
                 seen_titles.add(title_key)
