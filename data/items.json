@@ -1,7 +1,53 @@
 {
-  "generated_utc": "2026-03-06T05:11:49+00:00",
+  "generated_utc": "2026-03-06T06:35:49+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Noi modificări la Startup Nation, prin care statul promite ajutoare de 50.000 EUR pentru tineri cu afaceri",
+        "summary": "Ministerul Economiei a modificat din nou regulile programului Start-Up Nation, ediția a patra, care are prevăzută o valoare totală de aproape jumătate de miliard de euro, din care tinerii și alți beneficiari eligibili vor putea accesa ajutoare de câte 50.000 EUR pentru mici afaceri în toată România. Citiți mai mult pe StartupCafe.ro. Sursă foto: Dreamstime.com",
+        "link": "https://hotnews.ro/noi-modificari-la-startup-nation-prin-care-statul-promite-ajutoare-de-50-000-eur-pentru-tineri-cu-afaceri-2187003",
+        "published_utc": "2026-03-06T06:25:29+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://hotnews.ro/wp-content/uploads/2025/11/Euro-si-steagul-Romaniei.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Start-Up Romania",
+        "title": "Marea divergență adusă de AI - de care parte a baricadei vrem să fim?",
+        "summary": "Putem ignora trendurile tehnologice la nivelul societății, putem considera că sunt trecătoare, dar un lucru este sigur: schimbările vor avea loc. Există doar două locuri unde o țară poate fi. În...",
+        "link": "https://start-up.ro/marea-divergenta-adusa-de-ai-de-care-parte-a-baricadei-vrem-sa-fim",
+        "published_utc": "2026-03-06T06:05:01+00:00",
+        "score": 1,
+        "image": "https://start-up.ro/img/thumbs/articles/3/7/9/37965/image-37965-760x400-00-65.jpg?v=1772698172"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Green Start-Up Romania",
+        "title": "Cum putem refolosi minele abandonate ca să stocăm eficient energia",
+        "summary": "Minele abandonate din Statele Unite ar putea deveni sisteme de stocare a energiei printr-o tehnologie care folosește gravitația pentru a produce electricitate. Conceptul presupune utilizarea...",
+        "link": "https://green.start-up.ro/ro/cum-putem-refolosi-minele-abandonate-ca-sa-stocam-eficient-energia",
+        "published_utc": "2026-03-06T06:00:02+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://green.start-up.ro/img/articles/3/5/7/35734/cover-35734-src.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Green Start-Up Romania",
+        "title": "Genuin, afacere de familie cu așternuturi sustenabile, se extinde în Europa",
+        "summary": "Genuin, brandul românesc specializat în produse home &amp; deco realizate exclusiv din in 100% european, anunță accelerarea planurilor de extindere internațională, cu sprijinul Băncii Europene pentru...",
+        "link": "https://green.start-up.ro/ro/genuin-afacere-de-familie-cu-asternuturi-sustenabile-se-extinde-in-europa",
+        "published_utc": "2026-03-06T06:00:02+00:00",
+        "score": 1,
+        "image": "https://green.start-up.ro/img/thumbs/articles/3/5/7/35735/image-35735-760x400-00-65.jpg?v=1772776826"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -71,17 +117,6 @@
       {
         "section": "romania",
         "kind": "ro",
-        "source": "Start-Up Romania",
-        "title": "Apple lansează MacBook Air cu cip M5 și 512GB stocare de bază",
-        "summary": "Apple a anunțat noul MacBook Air echipat cu cipul M5, disponibil în variante de 13 și 15 inch.",
-        "link": "https://start-up.ro/apple-lanseaza-macbook-air-cu-cip-m5-si-512gb-stocare-de-baza",
-        "published_utc": "2026-03-03T18:17:56+00:00",
-        "score": 1,
-        "image": "https://start-up.ro/img/thumbs/articles/3/7/9/37952/image-37952-760x400-00-65.jpg?v=1772561910"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
         "source": "Green Start-Up Romania",
         "title": "Bateria cu sodiu care stochează mai multă energie și produce apă potabilă",
         "summary": "Cercetători de la Universitatea din Surrey au dezvoltat o baterie sodium-ion care, potrivit rezultatelor publicate, poate stoca aproape de două ori mai multă energie decât variantele convenționale...",
@@ -89,17 +124,6 @@
         "published_utc": "2026-03-03T06:00:02+00:00",
         "score": 1,
         "image": "https://green.start-up.ro/img/thumbs/articles/3/5/7/35721/image-35721-760x400-00-65.jpg?v=1772441005"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Green Start-Up Romania",
-        "title": "Rewilding România: obiceiurile umane care rănesc animalele vulnerabile",
-        "summary": "Rewilding România readuce zimbrul în Munții Țarcu și reconstruiește ecosisteme întregi, dar zimbrii nu sunt singurele specii care au nevoie de ajutor pentru a deveni autosustenabile, nici singurele...",
-        "link": "https://green.start-up.ro/ro/rewilding-romania-obiceiurile-umane-care-ranesc-animalele-vulnerabile",
-        "published_utc": "2026-03-02T06:05:02+00:00",
-        "score": 1,
-        "image": "https://green.start-up.ro/img/thumbs/articles/3/5/7/35714/image-35714-760x400-00-65.jpg?v=1772179191"
       },
       {
         "section": "romania",
@@ -113,37 +137,96 @@
         "image": "https://stiripozitive.com/wp-content/uploads/2026/02/Pisica-de-la-ora-cinci-Rodica-Bretin-676x1024.jpg"
       }
     ],
-    "medical": [],
+    "medical": [
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "Positive News",
+        "title": "What went right this week: the good news that matters",
+        "summary": "Health breakthroughs, a Ukrainian conservation success, and a win for river defenders in the Amazon, plus more The post What went right this week: the good news that matters appeared first on Positive News .",
+        "link": "https://www.positive.news/society/good-news-stories-from-week-10-of-2026",
+        "published_utc": "2026-03-06T05:16:49+00:00",
+        "score": 4,
+        "freshness_boost": 3,
+        "image": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/03/shutterstock_2740379153.jpg"
+      }
+    ],
     "science": [
       {
         "section": "science",
         "kind": "global",
         "source": "NASA Breaking News",
-        "title": "About Air Traffic Management and Safety Project",
-        "summary": "The Air Traffic Management and Safety (ATMS) project defines, validates, and transfers advanced requirements and technologies to shift air traffic management from tactical to strategic. This change enables efficient, productive, and resilient operations while reducing safety assurance and compliance costs for highly automated systems. ATMS researches and develops technologies that safely integrate new air vehicles with traditional aviation operations to meet growing demand. Through close collaboration with the FAA, ATMS delivers actionable automation solutions, advanced operational concepts, [&#8230;]",
-        "link": "https://www.nasa.gov/directorates/armd/aosp/atms/about-atms",
-        "published_utc": "2026-03-06T04:29:02+00:00",
+        "title": "About Airspace Operations and Safety Program (AOSP)",
+        "summary": "The Airspace Operations and Safety Program (AOSP)&#160;accelerates&#160;the&#160;transformation&#160;of the National Airspace System (NAS) to meet the&#160;variety, density, and complexity of future&#160;airspace users. Our mission is to ensure that U.S. skies&#160;remain&#160;safe, innovative, and globally competitive while enabling&#160;Advanced&#160;Air&#160;Mobility and next-generation aviation technologies.&#160; &#160;AOSP partners with the FAA, industry, academia, and other government agencies to ensure seamless integration of [&#8230;]",
+        "link": "https://www.nasa.gov/directorates/armd/aosp/about-aosp",
+        "published_utc": "2026-03-05T20:30:00+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://www.nasa.gov/wp-content/uploads/2023/02/08_future_airspace_1.gif"
+        "image": "https://www.nasa.gov/wp-content/uploads/2023/01/aosp-overview-4x3-text.jpg"
       }
     ],
     "environment": [
       {
         "section": "environment",
         "kind": "global",
-        "source": "NASA Earth Observatory - Image of the Day",
-        "title": "Ailing “Megaberg” Sparks Surge of Microscopic Life",
-        "summary": "As Iceberg A-23A disintegrated, it shed meltwater that helped fuel an extensive phytoplankton bloom in the South Atlantic Ocean. The post Ailing &#8220;Megaberg&#8221; Sparks Surge of Microscopic Life appeared first on NASA Science .",
-        "link": "https://science.nasa.gov/earth/earth-observatory/ailing-megaberg-sparks-surge-of-microscopic-life",
-        "published_utc": "2026-03-06T05:01:00+00:00",
-        "score": 0,
+        "source": "Mongabay Conservation",
+        "title": "This bird is disappearing from Indonesia’s forests for its song",
+        "summary": "The rising popularity of songbird singing competitions in Indonesia has led to the dramatic decline of the white-rumped shama, a bird known locally as murai batu. Mongabay Indonesia video contributor Rizky Maulana Yanuar recently reported that keeping such birds is deeply rooted in local culture. In Javanese society, a man is considered to be successful [&#8230;]",
+        "link": "https://news.mongabay.com/short-article/2026/03/this-bird-is-disappearing-from-indonesias-forests-for-its-song",
+        "published_utc": "2026-03-06T06:05:21+00:00",
+        "score": 1,
         "freshness_boost": 3,
-        "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/ailing--megaberg--sparks-surge-of-microscopic-life/iceberga23amelt_oli_oci_20260125_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
+        "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/03/06055408/Indonesia-Songbird-e1772777002290-768x468.jpg"
       }
     ]
   },
   "mix_items": [
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "Noi modificări la Startup Nation, prin care statul promite ajutoare de 50.000 EUR pentru tineri cu afaceri",
+      "summary": "Ministerul Economiei a modificat din nou regulile programului Start-Up Nation, ediția a patra, care are prevăzută o valoare totală de aproape jumătate de miliard de euro, din care tinerii și alți beneficiari eligibili vor putea accesa ajutoare de câte 50.000 EUR pentru mici afaceri în toată România. Citiți mai mult pe StartupCafe.ro. Sursă foto: Dreamstime.com",
+      "link": "https://hotnews.ro/noi-modificari-la-startup-nation-prin-care-statul-promite-ajutoare-de-50-000-eur-pentru-tineri-cu-afaceri-2187003",
+      "published_utc": "2026-03-06T06:25:29+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://hotnews.ro/wp-content/uploads/2025/11/Euro-si-steagul-Romaniei.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Green Start-Up Romania",
+      "title": "Cum putem refolosi minele abandonate ca să stocăm eficient energia",
+      "summary": "Minele abandonate din Statele Unite ar putea deveni sisteme de stocare a energiei printr-o tehnologie care folosește gravitația pentru a produce electricitate. Conceptul presupune utilizarea...",
+      "link": "https://green.start-up.ro/ro/cum-putem-refolosi-minele-abandonate-ca-sa-stocam-eficient-energia",
+      "published_utc": "2026-03-06T06:00:02+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://green.start-up.ro/img/articles/3/5/7/35734/cover-35734-src.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Start-Up Romania",
+      "title": "Marea divergență adusă de AI - de care parte a baricadei vrem să fim?",
+      "summary": "Putem ignora trendurile tehnologice la nivelul societății, putem considera că sunt trecătoare, dar un lucru este sigur: schimbările vor avea loc. Există doar două locuri unde o țară poate fi. În...",
+      "link": "https://start-up.ro/marea-divergenta-adusa-de-ai-de-care-parte-a-baricadei-vrem-sa-fim",
+      "published_utc": "2026-03-06T06:05:01+00:00",
+      "score": 1,
+      "image": "https://start-up.ro/img/thumbs/articles/3/7/9/37965/image-37965-760x400-00-65.jpg?v=1772698172"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Green Start-Up Romania",
+      "title": "Genuin, afacere de familie cu așternuturi sustenabile, se extinde în Europa",
+      "summary": "Genuin, brandul românesc specializat în produse home &amp; deco realizate exclusiv din in 100% european, anunță accelerarea planurilor de extindere internațională, cu sprijinul Băncii Europene pentru...",
+      "link": "https://green.start-up.ro/ro/genuin-afacere-de-familie-cu-asternuturi-sustenabile-se-extinde-in-europa",
+      "published_utc": "2026-03-06T06:00:02+00:00",
+      "score": 1,
+      "image": "https://green.start-up.ro/img/thumbs/articles/3/5/7/35735/image-35735-760x400-00-65.jpg?v=1772776826"
+    },
     {
       "section": "romania",
       "kind": "ro",
@@ -213,17 +296,6 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Start-Up Romania",
-      "title": "Apple lansează MacBook Air cu cip M5 și 512GB stocare de bază",
-      "summary": "Apple a anunțat noul MacBook Air echipat cu cipul M5, disponibil în variante de 13 și 15 inch.",
-      "link": "https://start-up.ro/apple-lanseaza-macbook-air-cu-cip-m5-si-512gb-stocare-de-baza",
-      "published_utc": "2026-03-03T18:17:56+00:00",
-      "score": 1,
-      "image": "https://start-up.ro/img/thumbs/articles/3/7/9/37952/image-37952-760x400-00-65.jpg?v=1772561910"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "Green Start-Up Romania",
       "title": "Bateria cu sodiu care stochează mai multă energie și produce apă potabilă",
       "summary": "Cercetători de la Universitatea din Surrey au dezvoltat o baterie sodium-ion care, potrivit rezultatelor publicate, poate stoca aproape de două ori mai multă energie decât variantele convenționale...",
@@ -231,17 +303,6 @@
       "published_utc": "2026-03-03T06:00:02+00:00",
       "score": 1,
       "image": "https://green.start-up.ro/img/thumbs/articles/3/5/7/35721/image-35721-760x400-00-65.jpg?v=1772441005"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Green Start-Up Romania",
-      "title": "Rewilding România: obiceiurile umane care rănesc animalele vulnerabile",
-      "summary": "Rewilding România readuce zimbrul în Munții Țarcu și reconstruiește ecosisteme întregi, dar zimbrii nu sunt singurele specii care au nevoie de ajutor pentru a deveni autosustenabile, nici singurele...",
-      "link": "https://green.start-up.ro/ro/rewilding-romania-obiceiurile-umane-care-ranesc-animalele-vulnerabile",
-      "published_utc": "2026-03-02T06:05:02+00:00",
-      "score": 1,
-      "image": "https://green.start-up.ro/img/thumbs/articles/3/5/7/35714/image-35714-760x400-00-65.jpg?v=1772179191"
     },
     {
       "section": "romania",
@@ -257,31 +318,43 @@
     {
       "section": "environment",
       "kind": "global",
-      "source": "NASA Earth Observatory - Image of the Day",
-      "title": "Ailing “Megaberg” Sparks Surge of Microscopic Life",
-      "summary": "As Iceberg A-23A disintegrated, it shed meltwater that helped fuel an extensive phytoplankton bloom in the South Atlantic Ocean. The post Ailing &#8220;Megaberg&#8221; Sparks Surge of Microscopic Life appeared first on NASA Science .",
-      "link": "https://science.nasa.gov/earth/earth-observatory/ailing-megaberg-sparks-surge-of-microscopic-life",
-      "published_utc": "2026-03-06T05:01:00+00:00",
-      "score": 0,
+      "source": "Mongabay Conservation",
+      "title": "This bird is disappearing from Indonesia’s forests for its song",
+      "summary": "The rising popularity of songbird singing competitions in Indonesia has led to the dramatic decline of the white-rumped shama, a bird known locally as murai batu. Mongabay Indonesia video contributor Rizky Maulana Yanuar recently reported that keeping such birds is deeply rooted in local culture. In Javanese society, a man is considered to be successful [&#8230;]",
+      "link": "https://news.mongabay.com/short-article/2026/03/this-bird-is-disappearing-from-indonesias-forests-for-its-song",
+      "published_utc": "2026-03-06T06:05:21+00:00",
+      "score": 1,
       "freshness_boost": 3,
-      "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/ailing--megaberg--sparks-surge-of-microscopic-life/iceberga23amelt_oli_oci_20260125_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
+      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/03/06055408/Indonesia-Songbird-e1772777002290-768x468.jpg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Positive News",
+      "title": "What went right this week: the good news that matters",
+      "summary": "Health breakthroughs, a Ukrainian conservation success, and a win for river defenders in the Amazon, plus more The post What went right this week: the good news that matters appeared first on Positive News .",
+      "link": "https://www.positive.news/society/good-news-stories-from-week-10-of-2026",
+      "published_utc": "2026-03-06T05:16:49+00:00",
+      "score": 4,
+      "freshness_boost": 3,
+      "image": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/03/shutterstock_2740379153.jpg"
     },
     {
       "section": "science",
       "kind": "global",
       "source": "NASA Breaking News",
-      "title": "About Air Traffic Management and Safety Project",
-      "summary": "The Air Traffic Management and Safety (ATMS) project defines, validates, and transfers advanced requirements and technologies to shift air traffic management from tactical to strategic. This change enables efficient, productive, and resilient operations while reducing safety assurance and compliance costs for highly automated systems. ATMS researches and develops technologies that safely integrate new air vehicles with traditional aviation operations to meet growing demand. Through close collaboration with the FAA, ATMS delivers actionable automation solutions, advanced operational concepts, [&#8230;]",
-      "link": "https://www.nasa.gov/directorates/armd/aosp/atms/about-atms",
-      "published_utc": "2026-03-06T04:29:02+00:00",
+      "title": "About Airspace Operations and Safety Program (AOSP)",
+      "summary": "The Airspace Operations and Safety Program (AOSP)&#160;accelerates&#160;the&#160;transformation&#160;of the National Airspace System (NAS) to meet the&#160;variety, density, and complexity of future&#160;airspace users. Our mission is to ensure that U.S. skies&#160;remain&#160;safe, innovative, and globally competitive while enabling&#160;Advanced&#160;Air&#160;Mobility and next-generation aviation technologies.&#160; &#160;AOSP partners with the FAA, industry, academia, and other government agencies to ensure seamless integration of [&#8230;]",
+      "link": "https://www.nasa.gov/directorates/armd/aosp/about-aosp",
+      "published_utc": "2026-03-05T20:30:00+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://www.nasa.gov/wp-content/uploads/2023/02/08_future_airspace_1.gif"
+      "image": "https://www.nasa.gov/wp-content/uploads/2023/01/aosp-overview-4x3-text.jpg"
     }
   ],
   "joke_ro": {
     "date_utc": "2026-03-06",
-    "text": "- Nu sunt lenes. Sunt pe modul economie de energie.",
+    "text": "- Mi-am facut lista de treburi. Acum am doua: lista si vinovatia.",
     "source": "data/jokes_ro.txt"
   },
   "satire_ro": {
@@ -335,6 +408,7 @@
       "https://picsum.photos/seed/vb-landscape-reset-001/1600/900"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/38047493801_2f9e853229_b.jpg",
       "https://live.staticflickr.com/65535/38220511094_2cd287f1d7_b.jpg",
       "https://live.staticflickr.com/65535/30607987674_1b9699f1f8_b.jpg",
       "https://live.staticflickr.com/65535/55118857859_e76d888604_b.jpg",
@@ -345,6 +419,7 @@
       "https://upload.wikimedia.org/wikipedia/commons/d/d3/Albert_Einstein_Head.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55131926320_d4a6de285e_b.jpg",
       "https://live.staticflickr.com/65535/55131649894_eb26c1de6e_b.jpg",
       "https://live.staticflickr.com/65535/55121753700_d1b1858e8e_b.jpg",
       "https://live.staticflickr.com/65535/55131200606_7eccdf309b_b.jpg",
@@ -354,8 +429,8 @@
       "https://live.staticflickr.com/65535/55131246810_e311cff1ca_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
+      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
