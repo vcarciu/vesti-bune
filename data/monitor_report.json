@@ -1,38 +1,58 @@
 {
   "status": "ok",
-  "checked_utc": "2026-03-06T09:55:53+00:00",
-  "generated_utc": "2026-03-06T09:28:45+00:00",
-  "generated_age_minutes": 27,
+  "checked_utc": "2026-03-06T13:20:21+00:00",
+  "generated_utc": "2026-03-06T12:31:37+00:00",
+  "generated_age_minutes": 48,
   "section_counts": {
-    "romania": 12,
-    "medical": 0,
-    "science": 1,
-    "environment": 0
+    "romania": 9,
+    "medical": 25,
+    "science": 25,
+    "environment": 22
   },
-  "mix_count": 13,
-  "fresh_24h_mix": 9,
-  "fresh_24h_all_sections": 9,
+  "mix_count": 81,
+  "fresh_24h_mix": 6,
+  "fresh_24h_all_sections": 6,
   "duplicate_titles_in_mix": 0,
   "top_sources_mix": [
     {
-      "source": "Start-Up Romania",
+      "source": "ScienceDaily Health",
+      "count": 19
+    },
+    {
+      "source": "ScienceDaily Science",
+      "count": 15
+    },
+    {
+      "source": "ScienceDaily Environment",
+      "count": 15
+    },
+    {
+      "source": "NASA Breaking News",
+      "count": 10
+    },
+    {
+      "source": "Positive News",
+      "count": 6
+    },
+    {
+      "source": "NASA Earth Observatory - Image of the Day",
       "count": 4
     },
     {
       "source": "RomaniaPozitiva",
-      "count": 4
+      "count": 3
     },
     {
       "source": "Green Start-Up Romania",
       "count": 3
     },
     {
-      "source": "StiriPozitive - Toate",
-      "count": 1
+      "source": "NASA Earth Observatory - Natural Hazards",
+      "count": 3
     },
     {
-      "source": "Phys.org",
-      "count": 1
+      "source": "Start-Up Romania",
+      "count": 2
     }
   ],
   "issues": []
