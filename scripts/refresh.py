@@ -1033,7 +1033,14 @@ def pick_flickr_images(limit: int = 3, prev_payload: Optional[Dict[str, Any]] = 
     _save_top_image_state(top_state)
     return final[:limit], history
 
-def build_mix_items(sections: Dict[str, List[Dict[str, Any]]], ro_head: int = 10, max_items: int = 120) -> List[Dict[str, Any]]:
+def build_mix_items(
+    sections: Dict[str, List[Dict[str, Any]]],
+    ro_head: int = 10,
+    max_items: int = 120,
+    fun_boost_top_k: int = 20,
+    fun_boost_max: int = 2,
+    min_satire: int = 1,
+) -> List[Dict[str, Any]]:
     ro = list(sections.get("romania") or [])
     en = list((sections.get("medical") or []) + (sections.get("science") or []) + (sections.get("environment") or []))
 
@@ -1070,7 +1077,7 @@ def build_mix_items(sections: Dict[str, List[Dict[str, Any]]], ro_head: int = 10
             break
         out.append(it)
 
-    return apply_fun_boost(out, top_k=8, max_boost=1, min_satire=0)
+    return apply_fun_boost(out, top_k=fun_boost_top_k, max_boost=fun_boost_max, min_satire=min_satire)
 
 def build_emergency_sections() -> Dict[str, List[Dict[str, Any]]]:
     """
@@ -1333,20 +1340,43 @@ def main() -> None:
     published_state = load_published_state(PUBLISHED_STATE_PATH)
     sections = build_sections(cfg, published_state=published_state)
     total_items = sum(len(v or []) for v in (sections or {}).values())
+    filters_cfg = cfg.get("filters") or {}
+    mix_cfg = filters_cfg.get("mix") if isinstance(filters_cfg, dict) else {}
+    if not isinstance(mix_cfg, dict):
+        mix_cfg = {}
+    mix_ro_head = int(mix_cfg.get("ro_head", 10))
+    mix_max_items = int(mix_cfg.get("max_items", 120))
+    mix_fun_top_k = int(mix_cfg.get("fun_boost_top_k", 20))
+    mix_fun_max = int(mix_cfg.get("fun_boost_max", 2))
+    mix_min_satire = int(mix_cfg.get("min_satire", 1))
 
     prev = read_json(OUT_NEWS)
     prev_sections = prev.get("sections") if isinstance(prev, dict) else {}
     prev_total = sum(len(v or []) for v in (prev_sections or {}).values()) if isinstance(prev_sections, dict) else 0
 
     effective_sections = sections
-    effective_mix = build_mix_items(sections)
+    effective_mix = build_mix_items(
+        sections,
+        ro_head=mix_ro_head,
+        max_items=mix_max_items,
+        fun_boost_top_k=mix_fun_top_k,
+        fun_boost_max=mix_fun_max,
+        min_satire=mix_min_satire,
+    )
     if total_items == 0 and prev_total > 0:
         effective_sections = prev_sections
         effective_mix = list(prev.get("mix_items") or [])
         print("[WARN] current refresh returned 0 items; keeping previous news sections")
     elif total_items == 0:
         effective_sections = build_emergency_sections()
-        effective_mix = build_mix_items(effective_sections)
+        effective_mix = build_mix_items(
+            effective_sections,
+            ro_head=mix_ro_head,
+            max_items=mix_max_items,
+            fun_boost_top_k=mix_fun_top_k,
+            fun_boost_max=mix_fun_max,
+            min_satire=mix_min_satire,
+        )
         print("[WARN] current refresh returned 0 items; using emergency positive fallback")
     elif isinstance(prev_sections, dict):
         # If one refresh partially fails (e.g., only RO survives), keep previous section
@@ -1359,7 +1389,14 @@ def main() -> None:
                 effective_sections[sec_id] = list(prev_sections.get(sec_id) or [])
                 patched = True
         if patched:
-            effective_mix = build_mix_items(effective_sections)
+            effective_mix = build_mix_items(
+                effective_sections,
+                ro_head=mix_ro_head,
+                max_items=mix_max_items,
+                fun_boost_top_k=mix_fun_top_k,
+                fun_boost_max=mix_fun_max,
+                min_satire=mix_min_satire,
+            )
             print("[WARN] partial refresh detected; restored previous EN sections")
         # Guard against gradual EN erosion across multiple partial runs.
         min_en_floor = {"medical": 8, "science": 8, "environment": 8}
@@ -1371,7 +1408,14 @@ def main() -> None:
                 effective_sections[sec_id] = prev_items
                 floor_patched = True
         if floor_patched:
-            effective_mix = build_mix_items(effective_sections)
+            effective_mix = build_mix_items(
+                effective_sections,
+                ro_head=mix_ro_head,
+                max_items=mix_max_items,
+                fun_boost_top_k=mix_fun_top_k,
+                fun_boost_max=mix_fun_max,
+                min_satire=mix_min_satire,
+            )
             print("[WARN] EN floor restore applied from previous snapshot")
 
     top_images, top_image_history = pick_flickr_images(limit=3, prev_payload=prev if isinstance(prev, dict) else None)

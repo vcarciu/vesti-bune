@@ -11,6 +11,12 @@ filters:
     hot_points: 3
     warm_hours: 72
     warm_points: 1
+  mix:
+    max_items: 120
+    ro_head: 10
+    fun_boost_top_k: 20
+    fun_boost_max: 2
+    min_satire: 1
 
   thresholds:
     romania: 0
