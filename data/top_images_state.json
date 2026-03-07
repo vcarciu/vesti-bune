@@ -3,17 +3,20 @@
     "space": [
       "https://upload.wikimedia.org/wikipedia/commons/e/e5/NGC_4414_%28NASA-med%29.jpg",
       "https://live.staticflickr.com/65535/55130886316_b306b841d1_b.jpg",
-      "https://live.staticflickr.com/65535/55131338165_4c6c6a036a_b.jpg"
+      "https://live.staticflickr.com/65535/55131338165_4c6c6a036a_b.jpg",
+      "https://live.staticflickr.com/65535/55132907634_4188f4e566_b.jpg"
     ],
     "landscape": [
       "https://upload.wikimedia.org/wikipedia/commons/7/7c/Mount_Rainier_from_above_Myrtle_Falls_in_August.JPG",
       "https://live.staticflickr.com/65535/55130330022_10f28b7398_b.jpg",
-      "https://live.staticflickr.com/65535/55131855361_95284bb736_b.jpg"
+      "https://live.staticflickr.com/65535/55131855361_95284bb736_b.jpg",
+      "https://live.staticflickr.com/65535/55132956321_03bf4a6d65_b.jpg"
     ],
     "animals": [
       "https://upload.wikimedia.org/wikipedia/commons/4/40/Siberischer_tiger_de_edit02.jpg",
       "https://live.staticflickr.com/65535/55131586110_2cd238583f_b.jpg",
-      "https://live.staticflickr.com/65535/55130957892_9fc4090f1b_b.jpg"
+      "https://live.staticflickr.com/65535/55130957892_9fc4090f1b_b.jpg",
+      "https://live.staticflickr.com/65535/55132989351_8ab71d6074_b.jpg"
     ]
   },
   "chosen_by_slot": {
@@ -31,6 +34,11 @@
       "space": "https://live.staticflickr.com/65535/55131338165_4c6c6a036a_b.jpg",
       "landscape": "https://live.staticflickr.com/65535/55131855361_95284bb736_b.jpg",
       "animals": "https://live.staticflickr.com/65535/55130957892_9fc4090f1b_b.jpg"
+    },
+    "41038": {
+      "space": "https://live.staticflickr.com/65535/55132907634_4188f4e566_b.jpg",
+      "landscape": "https://live.staticflickr.com/65535/55132956321_03bf4a6d65_b.jpg",
+      "animals": "https://live.staticflickr.com/65535/55132989351_8ab71d6074_b.jpg"
     }
   }
 }
