@@ -8,7 +8,8 @@
       "https://live.staticflickr.com/65535/55133221864_87fb96d15f_b.jpg",
       "https://live.staticflickr.com/65535/55134473095_957763f75b_b.jpg",
       "https://live.staticflickr.com/65535/55135067670_e58a24d990_b.jpg",
-      "https://live.staticflickr.com/65535/55136775670_c7e1940c9c_b.jpg"
+      "https://live.staticflickr.com/65535/55136775670_c7e1940c9c_b.jpg",
+      "https://live.staticflickr.com/65535/55136940651_a3afec2910_b.jpg"
     ],
     "landscape": [
       "https://upload.wikimedia.org/wikipedia/commons/7/7c/Mount_Rainier_from_above_Myrtle_Falls_in_August.JPG",
@@ -18,7 +19,8 @@
       "https://live.staticflickr.com/65535/55133859644_35bd7fd6b6_b.jpg",
       "https://live.staticflickr.com/65535/55134938764_6992af36c5_b.jpg",
       "https://live.staticflickr.com/65535/55135482601_9acf0e6be1_b.jpg",
-      "https://live.staticflickr.com/65535/55135911762_368d8bf80d_b.jpg"
+      "https://live.staticflickr.com/65535/55135911762_368d8bf80d_b.jpg",
+      "https://live.staticflickr.com/65535/55138123760_66fd09b9f5_b.jpg"
     ],
     "animals": [
       "https://upload.wikimedia.org/wikipedia/commons/4/40/Siberischer_tiger_de_edit02.jpg",
@@ -28,7 +30,8 @@
       "https://live.staticflickr.com/65535/55132724257_0138928715_b.jpg",
       "https://live.staticflickr.com/65535/55134927419_6e48a26474_b.jpg",
       "https://live.staticflickr.com/65535/55134623082_4038497a2c_b.jpg",
-      "https://live.staticflickr.com/65535/55136999178_5e84a6e497_b.jpg"
+      "https://live.staticflickr.com/65535/55136999178_5e84a6e497_b.jpg",
+      "https://live.staticflickr.com/65535/55137979199_44642d43d1_b.jpg"
     ]
   },
   "chosen_by_slot": {
@@ -71,6 +74,11 @@
       "space": "https://live.staticflickr.com/65535/55136775670_c7e1940c9c_b.jpg",
       "landscape": "https://live.staticflickr.com/65535/55135911762_368d8bf80d_b.jpg",
       "animals": "https://live.staticflickr.com/65535/55136999178_5e84a6e497_b.jpg"
+    },
+    "41043": {
+      "space": "https://live.staticflickr.com/65535/55136940651_a3afec2910_b.jpg",
+      "landscape": "https://live.staticflickr.com/65535/55138123760_66fd09b9f5_b.jpg",
+      "animals": "https://live.staticflickr.com/65535/55137979199_44642d43d1_b.jpg"
     }
   }
 }
