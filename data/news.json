@@ -1,7 +1,30 @@
 {
-  "generated_utc": "2026-03-11T11:26:16+00:00",
+  "generated_utc": "2026-03-11T12:35:33+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Descopera (Stiinta)",
+        "title": "Un supliment anti-îmbătrânire ar putea contribui la evoluția celulelor canceroase",
+        "summary": "O nouă cercetare arată cum o familie de substanțe chimice numite poliamine accelerează creșterea celulelor canceroase. Condus de o echipă de la Universitatea de Științe din Tokyo, Japonia, studiul oferă perspective noi și semnificative atât [&#8230;] Articolul Un supliment anti-îmbătrânire ar putea contribui la evoluția celulelor canceroase apare prima dată în Descopera .",
+        "link": "https://www.descopera.ro/stiinta/21036547-un-supliment-anti-imbatranire-ar-putea-contribui-la-evolutia-celulelor-canceroase",
+        "published_utc": "2026-03-11T12:00:55+00:00",
+        "score": 1,
+        "image": "https://www.descopera.ro/wp-content/uploads/2026/03/cancer-celule-shutter_descopera.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Un nou model AI prezice răspândirea cancerului cu o acuratețe uimitoare",
+        "summary": "Oamenii de știință au dezvoltat un sistem de inteligență artificială (AI) care analizează semnături complexe de expresie genetică pentru a estima probabilitatea ca o tumoare de cancer să se răspândească, relatează SciTechDaily. De ce unele tumori se răspândesc în întregul organism, în timp ce altele rămân „limitate” la locul lor de origine? Oamenii de știință &#8230;",
+        "link": "https://hotnews.ro/un-nou-model-ai-prezice-raspandirea-cancerului-cu-o-acuratete-uimitoare-2191024",
+        "published_utc": "2026-03-11T11:34:24+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://hotnews.ro/wp-content/uploads/2025/11/profimedia-0783739293.jpg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -50,29 +73,6 @@
       {
         "section": "romania",
         "kind": "ro",
-        "source": "Descopera (Stiinta)",
-        "title": "Stresul părinților poate avea efecte directe asupra copiilor. Ce arată un studiu?",
-        "summary": "Gestionarea stresului părinților poate reduce semnificativ riscul de obezitate la copiii mici, potrivit unui studiu realizat de cercetători de la Universitatea Yale și citat de Euronews. Rezultatele sugerează că sprijinirea părinților în controlul stresului ar [&#8230;] Articolul Stresul părinților poate avea efecte directe asupra copiilor. Ce arată un studiu? apare prima dată în Descopera .",
-        "link": "https://www.descopera.ro/dnews/21036924-stresul-parintilor-poate-avea-efecte-directe-asupra-copiilor-ce-arata-un-studiu",
-        "published_utc": "2026-03-11T01:00:32+00:00",
-        "score": 1,
-        "image": "https://www.descopera.ro/wp-content/uploads/2026/03/stres-parinti-copii-shutter_descopera-scaled.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 România cumpără 5 tone de tranchilizant de cai pentru când află Şoşoacă că vine Zelenski",
-        "summary": "Sistemul de sănătate din România trebuie să fie pregătit pentru orice! Într-un comunicat oficial, Guvernul anunţă că a demarat, în regim de urgenţă, licitaţia pentru 5 tone de tranchilizant de cai. Sedativul de uz ecvestru, marca CALOCALM™, e folosit în mod curent nu doar pentru a trata insomnia la cabaline, ci şi pentru a îi [&#8230;] The post România cumpără 5 tone de tranchilizant de cai pentru când află Şoşoacă că vine Zelenski appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/politic/romania-cumpara-5-tone-de-tranchilizant-de-cai-pentru-cand-afla-sosoaca-ca-vine-zelenski",
-        "published_utc": "2026-03-10T15:23:33+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/tranchilizantdecai.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
         "source": "Start-Up Romania",
         "title": "Sonos Play și Era 100 SL: două boxe noi pentru extinderea ecosistemului audio Sonos",
         "summary": "Sonos a anunțat două boxe noi, Sonos Play și Era 100 SL, produse care marchează o revenire la conceptul de sistem audio conectat care a stat la baza brandului.",
@@ -80,6 +80,18 @@
         "published_utc": "2026-03-10T14:56:08+00:00",
         "score": 1,
         "image": "https://start-up.ro/img/thumbs/articles/3/7/9/37980/image-37980-760x400-00-65.jpg?v=1773153041"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 Majoritatea bărbaților răsuflă ușurați! Doar cei cu două coa*e vor fi luați în armată",
+        "summary": "Cum conflictele militare de pe glob se tot înmulțesc, nu e deloc o surpriză că Ministerul Apărării se gândește serios să reintroducă armata obligatorie pentru români. Există însă și o veste bună: pentru început, vor fi luați în armată doar bărbații cu două coa*e &#8211; care din fericire reprezintă doar o minoritate în țara noastră. [&#8230;] The post Majoritatea bărbaților răsuflă ușurați! Doar cei cu două coa*e vor fi luați în armată appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/politic/majoritatea-barbatilor-rasufla-usurati-doar-cei-cu-doua-coae-vor-fi-luati-in-armata",
+        "published_utc": "2026-03-10T13:19:41+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/barbati_usurati_veseli.jpg"
       },
       {
         "section": "romania",
@@ -101,7 +113,7 @@
         "link": "https://www.timesnewroman.ro/politic/stramtoarea-ormuz-blocata-dupa-declaratiile-lui-ponta-au-inghetat-apele-pe-sute-de-kilometri",
         "published_utc": "2026-03-10T12:09:20+00:00",
         "score": 3,
-        "freshness_boost": 3,
+        "freshness_boost": 1,
         "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/pontaingheataapele.jpg"
       },
       {
@@ -632,14 +644,26 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 România cumpără 5 tone de tranchilizant de cai pentru când află Şoşoacă că vine Zelenski",
-      "summary": "Sistemul de sănătate din România trebuie să fie pregătit pentru orice! Într-un comunicat oficial, Guvernul anunţă că a demarat, în regim de urgenţă, licitaţia pentru 5 tone de tranchilizant de cai. Sedativul de uz ecvestru, marca CALOCALM™, e folosit în mod curent nu doar pentru a trata insomnia la cabaline, ci şi pentru a îi [&#8230;] The post România cumpără 5 tone de tranchilizant de cai pentru când află Şoşoacă că vine Zelenski appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/politic/romania-cumpara-5-tone-de-tranchilizant-de-cai-pentru-cand-afla-sosoaca-ca-vine-zelenski",
-      "published_utc": "2026-03-10T15:23:33+00:00",
+      "source": "HotNews",
+      "title": "Un nou model AI prezice răspândirea cancerului cu o acuratețe uimitoare",
+      "summary": "Oamenii de știință au dezvoltat un sistem de inteligență artificială (AI) care analizează semnături complexe de expresie genetică pentru a estima probabilitatea ca o tumoare de cancer să se răspândească, relatează SciTechDaily. De ce unele tumori se răspândesc în întregul organism, în timp ce altele rămân „limitate” la locul lor de origine? Oamenii de știință &#8230;",
+      "link": "https://hotnews.ro/un-nou-model-ai-prezice-raspandirea-cancerului-cu-o-acuratete-uimitoare-2191024",
+      "published_utc": "2026-03-11T11:34:24+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/tranchilizantdecai.jpg"
+      "image": "https://hotnews.ro/wp-content/uploads/2025/11/profimedia-0783739293.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Majoritatea bărbaților răsuflă ușurați! Doar cei cu două coa*e vor fi luați în armată",
+      "summary": "Cum conflictele militare de pe glob se tot înmulțesc, nu e deloc o surpriză că Ministerul Apărării se gândește serios să reintroducă armata obligatorie pentru români. Există însă și o veste bună: pentru început, vor fi luați în armată doar bărbații cu două coa*e &#8211; care din fericire reprezintă doar o minoritate în țara noastră. [&#8230;] The post Majoritatea bărbaților răsuflă ușurați! Doar cei cu două coa*e vor fi luați în armată appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/politic/majoritatea-barbatilor-rasufla-usurati-doar-cei-cu-doua-coae-vor-fi-luati-in-armata",
+      "published_utc": "2026-03-10T13:19:41+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/barbati_usurati_veseli.jpg"
     },
     {
       "section": "romania",
@@ -650,8 +674,19 @@
       "link": "https://www.timesnewroman.ro/politic/stramtoarea-ormuz-blocata-dupa-declaratiile-lui-ponta-au-inghetat-apele-pe-sute-de-kilometri",
       "published_utc": "2026-03-10T12:09:20+00:00",
       "score": 3,
-      "freshness_boost": 3,
+      "freshness_boost": 1,
       "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/pontaingheataapele.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Descopera (Stiinta)",
+      "title": "Un supliment anti-îmbătrânire ar putea contribui la evoluția celulelor canceroase",
+      "summary": "O nouă cercetare arată cum o familie de substanțe chimice numite poliamine accelerează creșterea celulelor canceroase. Condus de o echipă de la Universitatea de Științe din Tokyo, Japonia, studiul oferă perspective noi și semnificative atât [&#8230;] Articolul Un supliment anti-îmbătrânire ar putea contribui la evoluția celulelor canceroase apare prima dată în Descopera .",
+      "link": "https://www.descopera.ro/stiinta/21036547-un-supliment-anti-imbatranire-ar-putea-contribui-la-evolutia-celulelor-canceroase",
+      "published_utc": "2026-03-11T12:00:55+00:00",
+      "score": 1,
+      "image": "https://www.descopera.ro/wp-content/uploads/2026/03/cancer-celule-shutter_descopera.jpg"
     },
     {
       "section": "romania",
@@ -685,17 +720,6 @@
       "published_utc": "2026-03-11T08:39:38+00:00",
       "score": 1,
       "image": "https://start-up.ro/img/thumbs/articles/3/8/0/38013/image-38013-760x400-00-65.jpg?v=1773218387"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Descopera (Stiinta)",
-      "title": "Stresul părinților poate avea efecte directe asupra copiilor. Ce arată un studiu?",
-      "summary": "Gestionarea stresului părinților poate reduce semnificativ riscul de obezitate la copiii mici, potrivit unui studiu realizat de cercetători de la Universitatea Yale și citat de Euronews. Rezultatele sugerează că sprijinirea părinților în controlul stresului ar [&#8230;] Articolul Stresul părinților poate avea efecte directe asupra copiilor. Ce arată un studiu? apare prima dată în Descopera .",
-      "link": "https://www.descopera.ro/dnews/21036924-stresul-parintilor-poate-avea-efecte-directe-asupra-copiilor-ce-arata-un-studiu",
-      "published_utc": "2026-03-11T01:00:32+00:00",
-      "score": 1,
-      "image": "https://www.descopera.ro/wp-content/uploads/2026/03/stres-parinti-copii-shutter_descopera-scaled.jpg"
     },
     {
       "section": "romania",
@@ -1226,12 +1250,12 @@
   ],
   "joke_ro": {
     "date_utc": "2026-03-11",
-    "text": "- Ce ai rezolvat azi? - Toata cafeaua.",
+    "text": "- Azi am facut curat pe birou. Acum nu mai gasesc nimic.",
     "source": "data/jokes_ro.txt"
   },
   "satire_ro": {
-    "title": "Pe pista de la Kogălniceanu a apărut deja măsuța de alba-neagra, semn că vin americanii",
-    "link": "https://www.timesnewroman.ro/politic/pe-pista-de-la-kogalniceanu-a-aparut-deja-masuta-de-alba-neagra-semn-ca-vin-americanii/",
+    "title": "S-a lansat noua Dacia F*cker, o maşină cu bancheta din spate extrem de comodă",
+    "link": "https://www.timesnewroman.ro/monden/s-a-lansat-noua-dacia-fcker-o-masina-cu-bancheta-din-spate-extrem-de-comoda/",
     "source": "timesnewroman.ro"
   },
   "top_images": [
@@ -1239,23 +1263,24 @@
       "tag": "space",
       "title": "Space",
       "link": "https://commons.wikimedia.org/wiki/Category:Astronomy",
-      "image": "https://live.staticflickr.com/65535/55140763554_502dac6c3c_b.jpg"
+      "image": "https://live.staticflickr.com/65535/55141076185_265c8bff0b_b.jpg"
     },
     {
       "tag": "animals",
       "title": "Animals",
       "link": "https://commons.wikimedia.org/wiki/Category:Animals",
-      "image": "https://live.staticflickr.com/65535/55141078138_444b029b5b_b.jpg"
+      "image": "https://live.staticflickr.com/65535/55140791877_6c60cf67b0_b.jpg"
     },
     {
       "tag": "landscape",
       "title": "Landscape",
       "link": "https://commons.wikimedia.org/wiki/Category:Landscapes",
-      "image": "https://live.staticflickr.com/65535/55141102193_4cfef12088_b.jpg"
+      "image": "https://live.staticflickr.com/65535/55142062245_4c1241de67_b.jpg"
     }
   ],
   "top_image_history": {
     "space": [
+      "https://live.staticflickr.com/65535/55141076185_265c8bff0b_b.jpg",
       "https://live.staticflickr.com/65535/55140763554_502dac6c3c_b.jpg",
       "https://live.staticflickr.com/65535/55139371364_192b2194a2_b.jpg",
       "https://live.staticflickr.com/65535/55138879288_02dc2153e7_b.jpg",
@@ -1273,6 +1298,7 @@
       "https://picsum.photos/seed/vb-space-reset-001/1600/900"
     ],
     "animals": [
+      "https://live.staticflickr.com/65535/55140791877_6c60cf67b0_b.jpg",
       "https://live.staticflickr.com/65535/55141078138_444b029b5b_b.jpg",
       "https://live.staticflickr.com/65535/55138896497_11e639a9b5_b.jpg",
       "https://live.staticflickr.com/65535/55139333069_2a154c0033_b.jpg",
@@ -1290,6 +1316,7 @@
       "https://picsum.photos/seed/vb-animals-reset-001/1600/900"
     ],
     "landscape": [
+      "https://live.staticflickr.com/65535/55142062245_4c1241de67_b.jpg",
       "https://live.staticflickr.com/65535/55141102193_4cfef12088_b.jpg",
       "https://live.staticflickr.com/65535/55139950208_b27b772f50_b.jpg",
       "https://live.staticflickr.com/65535/55139509095_910903d918_b.jpg",
@@ -1307,6 +1334,7 @@
       "https://picsum.photos/seed/vb-landscape-reset-001/1600/900"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/36443339264_d702b59af5_b.jpg",
       "https://live.staticflickr.com/65535/34784249782_0e0ed42a7b_b.jpg",
       "https://live.staticflickr.com/65535/55130998610_8d4c386215_b.jpg",
       "https://live.staticflickr.com/65535/55124463328_220d9d742f_b.jpg",
@@ -1323,10 +1351,10 @@
       "https://live.staticflickr.com/537/32399550285_b62bfaa469_b.jpg",
       "https://live.staticflickr.com/65535/55133576733_26bccd38e2_b.jpg",
       "https://live.staticflickr.com/65535/33562774754_5c855b50aa_b.jpg",
-      "https://live.staticflickr.com/65535/55123545992_7bc13eb6c2_b.jpg",
-      "https://live.staticflickr.com/65535/55130612166_4133cbe484_b.jpg"
+      "https://live.staticflickr.com/65535/55123545992_7bc13eb6c2_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55141751313_bd7bf79f86_b.jpg",
       "https://live.staticflickr.com/65535/55141852284_dcdffea20a_b.jpg",
       "https://live.staticflickr.com/65535/55141761924_08ea3cd5d7_b.jpg",
       "https://live.staticflickr.com/65535/55141680679_ef1349c89e_b.jpg",
@@ -1343,12 +1371,11 @@
       "https://live.staticflickr.com/65535/55140618954_6395afe0d3_b.jpg",
       "https://live.staticflickr.com/65535/55140406099_8719cc5aec_b.jpg",
       "https://live.staticflickr.com/65535/55139758816_c1ed64c5de_b.jpg",
-      "https://live.staticflickr.com/65535/55139646911_b1ee636815_b.jpg",
-      "https://live.staticflickr.com/65535/55139983915_c49d6b2a89_b.jpg"
+      "https://live.staticflickr.com/65535/55139646911_b1ee636815_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
+      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
