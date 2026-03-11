@@ -424,6 +424,8 @@ RAW_RO_HARD_BLOCK = [
     "contrabanda", "contrabandă", "tigarete de contrabanda", "tigarete de contrabandă",
     "fara canalizare", "fără canalizare", "asistenta sociala", "asistență socială", "invaliditate",
     "comisia europeana", "comisia europeană", "investigheaz", "investigatie", "investigație", "ajutor de stat",
+    "petrol", "pretul petrolului", "prețul petrolului", "rezervele de urgenta", "rezervele de urgență",
+    "sectorului 3", "negoita", "negoiță", "primaria condusa", "primăria condusă",
     "israel", "gaza", "hamas", "hezbollah", "iran",
     "ambasada", "consulat", "repatrier", "evacuar", "alerta de calatorie", "alertă de călătorie",
     "conflict armat", "tensiuni militare",
@@ -452,6 +454,13 @@ RAW_RO_LOW_SIGNAL_BLOCK = [
     "dlss ",
     "rtx ",
     "sonos ",
+    "program director",
+    "communications",
+    "communication director",
+    "pr manager",
+    "ceo build",
+    "apel pentru depunerea candidaturilor",
+    "pnrr",
 ]
 RO_LOW_SIGNAL_BLOCK = _mk_norm_list(RAW_RO_LOW_SIGNAL_BLOCK)
 
@@ -475,14 +484,86 @@ RAW_RO_POSITIVE_HINTS_RELAXED = [
     "animale", "caine", "câine", "pisica", "pisică", "adopt", "salvare",
     "educatie", "educație", "scoala", "școala", "elev", "student", "universitate",
     "cultura", "teatru", "film", "festival", "muzeu",
+    "expozitie", "expoziție", "fotografie", "atelier", "centru cultural", "arta", "artiști", "artisti",
+    "concert", "documentar", "bursieri", "tinere talente", "generatii", "generații",
     "sport", "victorie", "campion", "turneu",
     "startup", "inov", "tehnolog", "digital",
     "comunitate", "caritate", "strangere de fonduri", "strângere de fonduri",
+    "seniori", "vârstnici", "varstnici", "solidaritate", "sprijiniti", "sprijiniți",
+    "fundatie", "fundație", "centre sociale", "educatie intergenerationala", "educație intergenerațională",
+    "participanti", "participanți", "eveniment", "editia", "ediția",
     "amuzant", "funny", "gluma", "glumă",
     "voluntar", "copii", "familie", "tabara", "tabără", "parc", "atelier", "biblioteca", "bibliotecă",
 ]
 RO_POSITIVE_HINTS_RELAXED = _mk_norm_list(RAW_RO_POSITIVE_HINTS_RELAXED)
 MAINSTREAM_RO_SOURCES = {"Digi24", "HotNews"}
+CURATED_RO_SOURCES = {
+    "Good News From Romania",
+    "Start-Up Romania",
+    "Green Start-Up Romania",
+    "Mindcraft Stories",
+    "Descopera (Stiinta)",
+    "Life.ro (Lifestyle)",
+    "B365 Lifestyle",
+    "Turism Romania",
+    "StiriPozitive - Toate",
+    "StiriPozitive - Povesti de viata",
+    "StiriPozitive - Animale",
+    "StiriPozitive - Fapte bune",
+    "StiriPozitive - Relatii",
+    "StiriPozitive - Sanatate",
+    "StiriPozitive - Educatie",
+    "StiriPozitive - Comunitate",
+    "StiriPozitive - Ecologie",
+    "StiriPozitive - Cariera",
+    "StiriPozitive - CSR",
+    "StiriPozitive - Social",
+    "StiriPozitive - Sport",
+    "StiriPozitive - Timp liber",
+    "StiriPozitive - Cultura",
+    "RomaniaPozitiva",
+    "RomaniaPozitiva - Sanatate",
+    "RomaniaPozitiva - Educatie",
+    "RomaniaPozitiva - Lifestyle",
+    "Fundatia Regala Margareta",
+    "Hope and Homes for Children Romania",
+    "Fundatia Motivation Romania",
+    "United Way Romania",
+    "Asociatia Zi de BINE",
+    "Fundatia Vodafone Romania",
+    "Teach for Romania",
+    "Fundatia Inocenti",
+    "World Vision Romania",
+    "SOS Satele Copiilor Romania",
+}
+SOURCE_NATIVE_POSITIVE_RO = {
+    "StiriPozitive - Toate",
+    "StiriPozitive - Povesti de viata",
+    "StiriPozitive - Animale",
+    "StiriPozitive - Fapte bune",
+    "StiriPozitive - Relatii",
+    "StiriPozitive - Sanatate",
+    "StiriPozitive - Educatie",
+    "StiriPozitive - Comunitate",
+    "StiriPozitive - Ecologie",
+    "StiriPozitive - Cariera",
+    "StiriPozitive - CSR",
+    "StiriPozitive - Social",
+    "StiriPozitive - Sport",
+    "StiriPozitive - Timp liber",
+    "StiriPozitive - Cultura",
+    "RomaniaPozitiva",
+    "Fundatia Regala Margareta",
+    "Hope and Homes for Children Romania",
+    "Fundatia Motivation Romania",
+    "United Way Romania",
+    "Asociatia Zi de BINE",
+    "Fundatia Vodafone Romania",
+    "Teach for Romania",
+    "Fundatia Inocenti",
+    "World Vision Romania",
+    "SOS Satele Copiilor Romania",
+}
 RO_MAINSTREAM_POSITIVE_GATE = _mk_norm_list([
     "salvat", "salvare", "eroi", "erou", "pompier", "smurd", "paramedic", "politist", "polițist",
     "medic", "operatie reusita", "operație reușită", "transplant reusit", "transplant reușit",
@@ -542,6 +623,25 @@ def ro_allow(title: str, summary: str, relaxed: bool = False) -> bool:
 
     return False
 
+def ro_curated_allow(title: str, summary: str) -> bool:
+    if ro_hard_block(title, summary):
+        return False
+    return ro_positive_hits(title, summary, relaxed=True) >= 1
+
+def ro_source_native_allow(title: str, summary: str) -> bool:
+    if ro_hard_block(title, summary):
+        return False
+    text = normalize_text(f"{title} {summary}")
+    blocked = _mk_norm_list([
+        "angajam", "angajeaza", "angajează", "job", "joburi", "candidatur", "inscrieri", "înscrieri",
+        "calendar", "webinar", "apel deschis", "apel pentru",
+        "mihaela pene", "mihaela penes",
+        "corporate fundraiser", "fundraiser", "ingrijitor", "îngrijitor", "pozitia oficiala", "poziția oficială",
+    ])
+    if any(kw in text for kw in blocked):
+        return False
+    return ro_positive_hits(title, summary, relaxed=True) >= 1
+
 def ro_positive_hits(title: str, summary: str, relaxed: bool = False) -> int:
     text = normalize_text(f"{title} {summary}")
     hits = sum(1 for kw in RO_POSITIVE_HINTS_STRICT if kw and kw in text)
@@ -578,6 +678,8 @@ def source_item_cap(section_id: str, source_name: str) -> int:
     trusted_rescue = {"DSU Romania", "IGSU Romania", "Salvamont Romania", "Politia Romana"}
     if source_name in trusted_rescue:
         return 8
+    if source_name in CURATED_RO_SOURCES:
+        return 12
     if source_name in MAINSTREAM_RO_SOURCES:
         return 8
     return 10
@@ -727,6 +829,7 @@ def load_jokes_from_file(path: str) -> List[str]:
     with open(path, "r", encoding="utf-8") as f:
         for line in f:
             t = line.strip()
+            t = re.sub(r"^\s*[-*•]+\s*", "", t)
             if not t or t.startswith("#") or len(t) < 12:
                 continue
             key = normalize_text(t)
@@ -1407,12 +1510,16 @@ def build_sections(
                             age_days = (now_utc - published).days
                             if age_days > ro_max_age_days:
                                 continue
-                        if not ro_allow(title, summary, relaxed=False):
+                        curated_relaxed_ok = name in CURATED_RO_SOURCES and ro_curated_allow(title, summary)
+                        source_native_ok = name in SOURCE_NATIVE_POSITIVE_RO and ro_source_native_allow(title, summary)
+                        if not ro_allow(title, summary, relaxed=False) and not curated_relaxed_ok and not source_native_ok:
                             if ro_try_relaxed and not ro_hard_block(title, summary):
                                 relaxed_hits = ro_positive_hits(title, summary, relaxed=True)
                                 if name in MAINSTREAM_RO_SOURCES:
                                     if relaxed_hits < 2 or not ro_mainstream_allow(title, summary):
                                         continue
+                                elif name in CURATED_RO_SOURCES and relaxed_hits < 1:
+                                    continue
                                 ro_candidates.append({
                                     "section": section_id,
                                     "kind": "ro",
@@ -1443,7 +1550,8 @@ def build_sections(
                 title_key = normalized_title_key(title)
                 if title_key in seen_titles:
                     continue
-                if (not satire_source) and is_recently_published(published_state, key, title_key, publish_cooldown_days, now_utc):
+                cooldown_exempt = satire_source or (kind == "ro" and name in SOURCE_NATIVE_POSITIVE_RO)
+                if (not cooldown_exempt) and is_recently_published(published_state, key, title_key, publish_cooldown_days, now_utc):
                     continue
                 seen.add(key)
                 seen_titles.add(title_key)

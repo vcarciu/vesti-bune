@@ -1,10 +1,12 @@
 # config/sources.yml
 
 filters:
-  ro_min_items: 16
+  ro_min_items: 32
   ro_try_relaxed: true
   ro_max_age_days: 45
-  publish_cooldown_days: 35
+  publish_cooldown_days: 5
+  stale_refresh_hours: 48
+  stale_emergency_per_section: 2
   freshness:
     enabled: true
     hot_hours: 24
@@ -13,7 +15,7 @@ filters:
     warm_points: 1
   mix:
     max_items: 120
-    ro_head: 10
+    ro_head: 14
     fun_boost_top_k: 20
     fun_boost_max: 2
     min_satire: 1
@@ -27,7 +29,7 @@ filters:
 sections:
   - id: romania
     title: Romania
-    max_items: 40
+    max_items: 50
 
   - id: medical
     title: Medical
@@ -62,8 +64,6 @@ rss_sources:
       url: https://www.descopera.ro/feed/
     - name: Life.ro (Lifestyle)
       url: https://life.ro/feed/
-    - name: Positive News (Global)
-      url: https://www.positive.news/feed/
     - name: B365 Lifestyle
       url: https://b365.ro/life/feed/
     - name: Turism Romania
@@ -88,8 +88,16 @@ rss_sources:
       url: https://stiripozitive.com/category/comunitate/feed/
     - name: StiriPozitive - Ecologie
       url: https://stiripozitive.com/category/ecologie/feed/
+    - name: StiriPozitive - Cariera
+      url: https://stiripozitive.com/category/cariera/feed/
+    - name: StiriPozitive - CSR
+      url: https://stiripozitive.com/category/corporate-social-responsibility/feed/
+    - name: StiriPozitive - Social
+      url: https://stiripozitive.com/category/social/feed/
     - name: StiriPozitive - Sport
       url: https://stiripozitive.com/category/sport/feed/
+    - name: StiriPozitive - Timp liber
+      url: https://stiripozitive.com/category/timp-liber/feed/
     - name: StiriPozitive - Cultura
       url: https://stiripozitive.com/category/cultura/feed/
 
@@ -112,6 +120,26 @@ rss_sources:
       url: https://salvamontromania.ro/feed/
     - name: Politia Romana
       url: https://www.politiaromana.ro/ro/rss
+    - name: Fundatia Regala Margareta
+      url: https://www.frmr.ro/feed/
+    - name: Hope and Homes for Children Romania
+      url: https://www.hopeandhomes.ro/feed/
+    - name: Fundatia Motivation Romania
+      url: https://motivation.ro/feed/
+    - name: United Way Romania
+      url: https://www.unitedway.ro/feed/
+    - name: Asociatia Zi de BINE
+      url: https://zidebine.ro/feed/
+    - name: Fundatia Vodafone Romania
+      url: https://fundatia-vodafone.ro/feed/
+    - name: Teach for Romania
+      url: https://teachforromania.org/feed/
+    - name: Fundatia Inocenti
+      url: https://inocenti.ro/feed/
+    - name: World Vision Romania
+      url: https://worldvision.ro/feed/
+    - name: SOS Satele Copiilor Romania
+      url: https://www.sos-satelecopiilor.ro/feed/
 
   medical:
     - name: ScienceDaily Health
