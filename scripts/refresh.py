@@ -54,6 +54,20 @@ def normalize_text(s: str) -> str:
     s = re.sub(r"\s+", " ", s).strip()
     return s
 
+def normalized_title_key(title: str) -> str:
+    """
+    Normalizeaza titlurile agresiv pentru deduplicare intre surse:
+    elimina emoji/punctuatie, prefixe decorative si separatori de tip
+    " - ", " | ", ":" folositi frecvent in feed-uri.
+    """
+    text = normalize_text(title)
+    text = re.sub(r"^[^a-z0-9]+", "", text)
+    text = re.sub(r"\s*(?:\||-|:)\s+", " ", text)
+    text = re.sub(r"[^a-z0-9\s]", " ", text)
+    text = re.sub(r"\b(romania|romanian|video|foto|live|update|breaking)\b", " ", text)
+    text = re.sub(r"\s+", " ", text).strip()
+    return text
+
 def parse_entry_datetime(entry: Dict[str, Any]) -> Optional[datetime]:
     for key in ("published_parsed", "updated_parsed"):
         t = entry.get(key)
@@ -316,7 +330,11 @@ def is_top_photo_candidate(tag: str, title: str, summary: str, link: str) -> boo
     text = normalize_text(f"{title} {summary} {link}")
     if tag == "space":
         good = _mk_norm_list(["space", "astronomy", "nebula", "galaxy", "milky way", "nasa", "telescope", "star"])
-        bad = _mk_norm_list(["office", "cowork", "workspace", "interior", "meeting room", "desk"])
+        bad = _mk_norm_list([
+            "office", "cowork", "workspace", "interior", "meeting room", "desk",
+            "people", "person", "portrait", "human", "man", "woman", "child",
+            "car", "vehicle", "truck", "motorcycle", "bike", "bicycle", "road", "street",
+        ])
         return any(k in text for k in good) and not any(k in text for k in bad)
     if tag == "landscape":
         bad_animals = _mk_norm_list(["cat", "dog", "bird", "eagle", "hawk", "tiger", "lion", "wolf", "fox", "bear", "animal"])
@@ -402,6 +420,7 @@ RAW_RO_HARD_BLOCK = [
     "a scazut", "a scăzut", "scadere", "scădere", "in scadere", "în scădere",
     "indicator", "indice", "serie ajustata", "serie ajustată",
     "concedier", "disponibiliz", "somaj", "șomaj", "insolvent", "faliment",
+    "deficit", "datoria publica", "datoria publică", "buget", "taxe", "impozit", "fiscal",
     "contrabanda", "contrabandă", "tigarete de contrabanda", "tigarete de contrabandă",
     "fara canalizare", "fără canalizare", "asistenta sociala", "asistență socială", "invaliditate",
     "comisia europeana", "comisia europeană", "investigheaz", "investigatie", "investigație", "ajutor de stat",
@@ -417,6 +436,25 @@ RAW_RO_HARD_BLOCK = [
 ]
 RO_HARD_BLOCK = _mk_norm_list(RAW_RO_HARD_BLOCK)
 
+RAW_RO_LOW_SIGNAL_BLOCK = [
+    "apocalips",
+    "socant", "șocant",
+    "incredibil",
+    "versiunea platita", "versiunea plătită",
+    "review ",
+    "black friday",
+    "cod promo",
+    "sloturi", "casino", "cazinou", "pariuri",
+    "horoscop",
+    "test de cultura generala", "test de cultură generală",
+    "boxe noi",
+    "whatsapp plus",
+    "dlss ",
+    "rtx ",
+    "sonos ",
+]
+RO_LOW_SIGNAL_BLOCK = _mk_norm_list(RAW_RO_LOW_SIGNAL_BLOCK)
+
 RAW_RO_POSITIVE_HINTS_STRICT = [
     "premiu", "a castigat", "a câștigat", "medalie", "record",
     "inaugur", "s-a deschis", "finalizat", "modernizat",
@@ -427,6 +465,8 @@ RAW_RO_POSITIVE_HINTS_STRICT = [
     "adopt", "adopție", "adoptie", "salvare", "recuperat", "vindec",
     "inovatie", "inovație", "startup", "tehnologie", "descoperire",
     "educatie", "educație", "amuzant", "gluma", "glumă", "umor", "satira", "satiră",
+    "voluntar", "voluntari", "burse", "bursa", "olimpiada", "olimpiadă", "performanta", "performanță",
+    "festival", "expozitie", "expoziție", "plantare", "impadurire", "împădurire", "renovare",
 ]
 RO_POSITIVE_HINTS_STRICT = _mk_norm_list(RAW_RO_POSITIVE_HINTS_STRICT)
 
@@ -439,6 +479,7 @@ RAW_RO_POSITIVE_HINTS_RELAXED = [
     "startup", "inov", "tehnolog", "digital",
     "comunitate", "caritate", "strangere de fonduri", "strângere de fonduri",
     "amuzant", "funny", "gluma", "glumă",
+    "voluntar", "copii", "familie", "tabara", "tabără", "parc", "atelier", "biblioteca", "bibliotecă",
 ]
 RO_POSITIVE_HINTS_RELAXED = _mk_norm_list(RAW_RO_POSITIVE_HINTS_RELAXED)
 MAINSTREAM_RO_SOURCES = {"Digi24", "HotNews"}
@@ -456,6 +497,31 @@ RO_MAINSTREAM_POSITIVE_GATE = _mk_norm_list([
 def ro_hard_block(title: str, summary: str) -> bool:
     text = normalize_text(f"{title} {summary}")
     return any(kw in text for kw in RO_HARD_BLOCK if kw)
+
+def ro_low_signal_block(title: str, summary: str, source_name: str = "") -> bool:
+    text = normalize_text(f"{title} {summary}")
+    source = normalize_text(source_name)
+    if any(kw in text for kw in RO_LOW_SIGNAL_BLOCK if kw):
+        return True
+    if "cancero" in text and any(tag in source for tag in ("descopera", "life.ro", "b365")):
+        return True
+    if any(tag in source for tag in ("descopera", "start-up", "startup")):
+        if any(kw in text for kw in _mk_norm_list([
+            "test de cultura generala", "test de cultură generală",
+            "nvidia", "dlss", "rtx", "sonos", "samsung",
+            "boxe noi", "tehnologia siliciu carbon", "tehnologia siliciu-carbon",
+        ])):
+            return True
+    # Blocheaza review-urile comerciale si "ce functii..." pe surse tech/lifestyle,
+    # fara sa taiem stirile despre startup-uri sau inovatie reala.
+    if any(tag in source for tag in ("start-up", "startup", "descopera", "life.ro", "b365")):
+        if "review" in text:
+            return True
+        if "ce noi functii" in text or "ce noi funcții" in text:
+            return True
+        if any(brand in text for brand in ("iphone", "pixel", "sonos", "samsung", "whatsapp plus")):
+            return True
+    return False
 
 def ro_allow(title: str, summary: str, relaxed: bool = False) -> bool:
     if ro_hard_block(title, summary):
@@ -513,7 +579,7 @@ def source_item_cap(section_id: str, source_name: str) -> int:
     if source_name in trusted_rescue:
         return 8
     if source_name in MAINSTREAM_RO_SOURCES:
-        return 6
+        return 8
     return 10
 
 FUNNY_HINTS = _mk_norm_list(["funny", "amuzant", "umor", "gluma", "glumă", "satira", "satiră", "distractiv"])
@@ -533,7 +599,7 @@ def apply_fun_boost(items: List[Dict[str, Any]], top_k: int = 20, max_boost: int
     boosted: List[Dict[str, Any]] = []
     seen = set()
 
-    # 1) Prioritize satire in front (up to min_satire), if available.
+    # 1) Collect satire candidates first (up to min_satire).
     for it in items:
         if len(boosted) >= min_satire:
             break
@@ -554,13 +620,39 @@ def apply_fun_boost(items: List[Dict[str, Any]], top_k: int = 20, max_boost: int
             if key not in seen:
                 boosted.append(it)
                 seen.add(key)
-    out = list(boosted)
+
+    # Base list without boosted items.
+    out: List[Dict[str, Any]] = []
     for it in items:
         key = dedupe_key(it.get("link", ""), it.get("title", ""))
         if key in seen:
             continue
         out.append(it)
-    return out
+
+    if not boosted:
+        return out
+
+    # Place boosted items randomly in the first 10 slots (or less if list shorter).
+    top_window = min(10, len(out) + len(boosted))
+    random.shuffle(boosted)
+    place_count = min(len(boosted), top_window)
+    slots = set(random.sample(range(top_window), k=place_count)) if place_count > 0 else set()
+
+    top: List[Dict[str, Any]] = []
+    base_idx = 0
+    boost_idx = 0
+    for pos in range(top_window):
+        if pos in slots and boost_idx < place_count:
+            top.append(boosted[boost_idx])
+            boost_idx += 1
+            continue
+        if base_idx < len(out):
+            top.append(out[base_idx])
+            base_idx += 1
+
+    tail = out[base_idx:]
+    remaining_boost = boosted[boost_idx:]
+    return top + remaining_boost + tail
 
 # -----------------------------
 # Global scoring (EN) – nu omorâm environment pe “crisis”
@@ -1090,7 +1182,8 @@ def build_emergency_sections() -> Dict[str, List[Dict[str, Any]]]:
             {
                 "section": "romania",
                 "kind": "ro",
-                "source": "Vesti Bune",
+                "source": "Vesti Bune (Fallback)",
+                "synthetic": True,
                 "title": "Tineri voluntari planteaza copaci in mai multe orase din Romania",
                 "summary": "Actiuni locale de reimpadurire au atras sute de participanti si sprijin din comunitate.",
                 "link": "https://www.wwf.ro/ce_facem/paduri/",
@@ -1101,7 +1194,8 @@ def build_emergency_sections() -> Dict[str, List[Dict[str, Any]]]:
             {
                 "section": "romania",
                 "kind": "ro",
-                "source": "Vesti Bune",
+                "source": "Vesti Bune (Fallback)",
+                "synthetic": True,
                 "title": "Elevi romani premiati la concursuri internationale de stiinta",
                 "summary": "Loturile de elevi continua sa obtina rezultate foarte bune la olimpiade si competitii STEM.",
                 "link": "https://www.edu.ro/",
@@ -1112,7 +1206,8 @@ def build_emergency_sections() -> Dict[str, List[Dict[str, Any]]]:
             {
                 "section": "romania",
                 "kind": "ro",
-                "source": "Vesti Bune",
+                "source": "Vesti Bune (Fallback)",
+                "synthetic": True,
                 "title": "Medicii raporteaza tot mai multe interventii minim invazive reusite",
                 "summary": "Noile tehnici reduc timpul de recuperare si cresc confortul pacientilor.",
                 "link": "https://insp.gov.ro/",
@@ -1125,7 +1220,8 @@ def build_emergency_sections() -> Dict[str, List[Dict[str, Any]]]:
             {
                 "section": "medical",
                 "kind": "global",
-                "source": "ScienceDaily Health",
+                "source": "Vesti Bune (Fallback)",
+                "synthetic": True,
                 "title": "Researchers report promising results for early disease screening",
                 "summary": "A new method may help detect disease earlier and improve treatment outcomes.",
                 "link": "https://www.sciencedaily.com/news/health_medicine/",
@@ -1138,7 +1234,8 @@ def build_emergency_sections() -> Dict[str, List[Dict[str, Any]]]:
             {
                 "section": "science",
                 "kind": "global",
-                "source": "NASA",
+                "source": "Vesti Bune (Fallback)",
+                "synthetic": True,
                 "title": "New space images reveal details about distant galaxies",
                 "summary": "Fresh observations help scientists better understand galaxy evolution.",
                 "link": "https://www.nasa.gov/news/all-news/",
@@ -1151,7 +1248,8 @@ def build_emergency_sections() -> Dict[str, List[Dict[str, Any]]]:
             {
                 "section": "environment",
                 "kind": "global",
-                "source": "Positive News",
+                "source": "Vesti Bune (Fallback)",
+                "synthetic": True,
                 "title": "Local conservation projects restore habitats for wildlife",
                 "summary": "Community-led restoration efforts are improving biodiversity in several regions.",
                 "link": "https://www.positive.news/environment/",
@@ -1162,10 +1260,81 @@ def build_emergency_sections() -> Dict[str, List[Dict[str, Any]]]:
         ],
     }
 
+def normalize_legacy_fallback_items(items: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    known_links = {
+        "https://www.wwf.ro/ce_facem/paduri",
+        "https://www.edu.ro",
+        "https://insp.gov.ro",
+        "https://www.sciencedaily.com/news/health_medicine",
+        "https://www.nasa.gov/news/all-news",
+        "https://www.positive.news/environment",
+    }
+    out: List[Dict[str, Any]] = []
+    for it in items or []:
+        if not isinstance(it, dict):
+            continue
+        source = (it.get("source") or "").strip()
+        link = canonicalize_url((it.get("link") or "").strip())
+        if link in known_links:
+            it = dict(it)
+            it["source"] = "Vesti Bune (Fallback)"
+            it["synthetic"] = True
+        out.append(it)
+    return out
+
+def merge_sections_with_emergency(
+    base_sections: Dict[str, List[Dict[str, Any]]],
+    emergency_sections: Dict[str, List[Dict[str, Any]]],
+    per_section: int = 2,
+    max_items_map: Optional[Dict[str, int]] = None,
+) -> Dict[str, List[Dict[str, Any]]]:
+    """
+    Injecteaza cateva iteme pozitive "fresh" in snapshotul anterior cand feed-urile
+    nu aduc nimic nou mult timp. Pastreaza deduplicarea pe URL canonic + titlu.
+    """
+    out: Dict[str, List[Dict[str, Any]]] = {}
+    max_items_map = max_items_map or {}
+    section_ids = set((base_sections or {}).keys()) | set((emergency_sections or {}).keys())
+
+    for sec_id in section_ids:
+        base_items = list((base_sections or {}).get(sec_id) or [])
+        fresh_candidates = list((emergency_sections or {}).get(sec_id) or [])[: max(0, per_section)]
+
+        existing_keys = set(dedupe_key(it.get("link", ""), it.get("title", "")) for it in base_items)
+        existing_titles = set(normalized_title_key(it.get("title", "")) for it in base_items)
+
+        injected: List[Dict[str, Any]] = []
+        for it in fresh_candidates:
+            k = dedupe_key(it.get("link", ""), it.get("title", ""))
+            t = normalized_title_key(it.get("title", ""))
+            if k in existing_keys or t in existing_titles:
+                continue
+            injected.append(it)
+            existing_keys.add(k)
+            existing_titles.add(t)
+
+        merged = injected + base_items
+        limit = int(max_items_map.get(sec_id, len(merged)))
+        out[sec_id] = merged[:limit]
+    return out
+
+def has_fresh_items(items: List[Dict[str, Any]], now_utc: datetime, within_hours: int = 24) -> bool:
+    for it in items or []:
+        dt = parse_iso_datetime_safe((it.get("published_utc") or "").strip())
+        if not dt:
+            continue
+        if (now_utc - dt).total_seconds() <= max(1, within_hours) * 3600:
+            return True
+    return False
+
 # -----------------------------
 # Build sections
 # -----------------------------
-def build_sections(cfg: Dict[str, Any], published_state: Optional[Dict[str, Dict[str, str]]] = None) -> Dict[str, List[Dict[str, Any]]]:
+def build_sections(
+    cfg: Dict[str, Any],
+    published_state: Optional[Dict[str, Dict[str, str]]] = None,
+    publish_cooldown_override: Optional[int] = None,
+) -> Dict[str, List[Dict[str, Any]]]:
     rss_sources = cfg.get("rss_sources") or {}
     sections_def = cfg.get("sections") or []
     filters_cfg = cfg.get("filters") or {}
@@ -1174,7 +1343,11 @@ def build_sections(cfg: Dict[str, Any], published_state: Optional[Dict[str, Dict
     ro_min_items = int(filters_cfg.get("ro_min_items", 16))
     ro_try_relaxed = bool(filters_cfg.get("ro_try_relaxed", True))
     ro_max_age_days = int(filters_cfg.get("ro_max_age_days", 45))
-    publish_cooldown_days = int(filters_cfg.get("publish_cooldown_days", 30))
+    publish_cooldown_days = int(
+        publish_cooldown_override
+        if publish_cooldown_override is not None
+        else filters_cfg.get("publish_cooldown_days", 30)
+    )
     now_utc = datetime.now(timezone.utc)
     published_state = published_state or {"by_key": {}, "by_title": {}}
 
@@ -1223,6 +1396,10 @@ def build_sections(cfg: Dict[str, Any], published_state: Optional[Dict[str, Dict
                         # Satire is intentionally allowed to keep variety in mix.
                         score = 3
                     else:
+                        if ro_low_signal_block(title, summary, name):
+                            continue
+                        if name in {"DSU Romania", "IGSU Romania", "Salvamont Romania", "Politia Romana"} and not ro_mainstream_allow(title, summary):
+                            continue
                         strict_hits = ro_positive_hits(title, summary, relaxed=False)
                         if name in MAINSTREAM_RO_SOURCES and strict_hits < 1 and not ro_mainstream_allow(title, summary):
                             continue
@@ -1232,8 +1409,10 @@ def build_sections(cfg: Dict[str, Any], published_state: Optional[Dict[str, Dict
                                 continue
                         if not ro_allow(title, summary, relaxed=False):
                             if ro_try_relaxed and not ro_hard_block(title, summary):
+                                relaxed_hits = ro_positive_hits(title, summary, relaxed=True)
                                 if name in MAINSTREAM_RO_SOURCES:
-                                    continue
+                                    if relaxed_hits < 2 or not ro_mainstream_allow(title, summary):
+                                        continue
                                 ro_candidates.append({
                                     "section": section_id,
                                     "kind": "ro",
@@ -1242,7 +1421,7 @@ def build_sections(cfg: Dict[str, Any], published_state: Optional[Dict[str, Dict
                                     "summary": summary,
                                     "link": link,
                                     "published_utc": published.isoformat(),
-                                    "score": 1,
+                                    "score": 2 if name in MAINSTREAM_RO_SOURCES else 1,
                                 })
                             continue
                         score = 3
@@ -1261,7 +1440,7 @@ def build_sections(cfg: Dict[str, Any], published_state: Optional[Dict[str, Dict
                 key = dedupe_key(link, title)
                 if key in seen:
                     continue
-                title_key = normalize_text(title)
+                title_key = normalized_title_key(title)
                 if title_key in seen_titles:
                     continue
                 if (not satire_source) and is_recently_published(published_state, key, title_key, publish_cooldown_days, now_utc):
@@ -1309,21 +1488,26 @@ def build_sections(cfg: Dict[str, Any], published_state: Optional[Dict[str, Dict
         relaxed_ok.sort(key=lambda x: x.get("published_utc", ""), reverse=True)
 
         already = set(dedupe_key(it["link"], it["title"]) for it in out["romania"])
+        already_titles = set(normalized_title_key(it["title"]) for it in out["romania"])
         added = 0
         for c in relaxed_ok:
             if added >= needed:
                 break
             k = dedupe_key(c["link"], c["title"])
+            title_key = normalized_title_key(c["title"])
             if k in already:
                 continue
+            if title_key in already_titles:
+                continue
             already.add(k)
+            already_titles.add(title_key)
 
             html, _final = fetch_url_with_final(c["link"])
             img = extract_og_image(html or "")
             c["image"] = img or fallback_image_url(c["section"], c["title"], c["link"])
 
             out["romania"].append(c)
-            mark_published(published_state, k, normalize_text(c["title"]), now_utc.replace(microsecond=0).isoformat())
+            mark_published(published_state, k, title_key, now_utc.replace(microsecond=0).isoformat())
             added += 1
 
         out["romania"].sort(key=lambda x: x.get("published_utc", ""), reverse=True)
@@ -1339,7 +1523,17 @@ def main() -> None:
     published_state = load_published_state(PUBLISHED_STATE_PATH)
     sections = build_sections(cfg, published_state=published_state)
     total_items = sum(len(v or []) for v in (sections or {}).values())
+    if total_items == 0:
+        retry_state = load_published_state(PUBLISHED_STATE_PATH)
+        sections = build_sections(cfg, published_state=retry_state, publish_cooldown_override=0)
+        retry_total = sum(len(v or []) for v in (sections or {}).values())
+        if retry_total > 0:
+            published_state = retry_state
+            total_items = retry_total
+            print("[WARN] publish cooldown blocked all items; retried refresh with cooldown disabled")
     filters_cfg = cfg.get("filters") or {}
+    sections_def = cfg.get("sections") or []
+    max_items_map = {s.get("id"): int(s.get("max_items", 20)) for s in sections_def if isinstance(s, dict) and s.get("id")}
     mix_cfg = filters_cfg.get("mix") if isinstance(filters_cfg, dict) else {}
     if not isinstance(mix_cfg, dict):
         mix_cfg = {}
@@ -1351,6 +1545,9 @@ def main() -> None:
 
     prev = read_json(OUT_NEWS)
     prev_sections = prev.get("sections") if isinstance(prev, dict) else {}
+    if isinstance(prev_sections, dict):
+        prev_sections = {k: normalize_legacy_fallback_items(list(v or [])) for k, v in prev_sections.items()}
+    prev_mix_items = normalize_legacy_fallback_items(list(prev.get("mix_items") or [])) if isinstance(prev, dict) else []
     prev_total = sum(len(v or []) for v in (prev_sections or {}).values()) if isinstance(prev_sections, dict) else 0
 
     effective_sections = sections
@@ -1364,8 +1561,35 @@ def main() -> None:
     )
     if total_items == 0 and prev_total > 0:
         effective_sections = prev_sections
-        effective_mix = list(prev.get("mix_items") or [])
+        effective_mix = prev_mix_items
         print("[WARN] current refresh returned 0 items; keeping previous news sections")
+        stale_refresh_hours = int(filters_cfg.get("stale_refresh_hours", 48))
+        stale_emergency_per_section = int(filters_cfg.get("stale_emergency_per_section", 2))
+        now_utc = datetime.now(timezone.utc)
+        prev_generated = parse_iso_datetime_safe(prev.get("generated_utc", "")) if isinstance(prev, dict) else None
+        stale_by_generated = False
+        if prev_generated:
+            age_h = (now_utc - prev_generated).total_seconds() / 3600.0
+            stale_by_generated = age_h >= max(1, stale_refresh_hours)
+        stale_by_content = not has_fresh_items(effective_mix if isinstance(effective_mix, list) else [], now_utc, within_hours=24)
+        if stale_by_generated or stale_by_content:
+            emergency_sections = build_emergency_sections()
+            effective_sections = merge_sections_with_emergency(
+                effective_sections if isinstance(effective_sections, dict) else {},
+                emergency_sections,
+                per_section=max(1, stale_emergency_per_section),
+                max_items_map=max_items_map,
+            )
+            effective_mix = build_mix_items(
+                effective_sections,
+                ro_head=mix_ro_head,
+                max_items=mix_max_items,
+                fun_boost_top_k=mix_fun_top_k,
+                fun_boost_max=mix_fun_max,
+                min_satire=mix_min_satire,
+            )
+            reason = "generated-age" if stale_by_generated else "stale-content"
+            print(f"[WARN] stale snapshot detected ({reason}); injected emergency fresh positives")
     elif total_items == 0:
         effective_sections = build_emergency_sections()
         effective_mix = build_mix_items(
