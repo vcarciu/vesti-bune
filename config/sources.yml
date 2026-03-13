@@ -50,76 +50,33 @@ rss_sources:
     - name: HotNews
       url: https://hotnews.ro/feed/
 
-    - name: Good News From Romania
-      url: https://goodnewsfromromania.ro/feed/
     - name: Start-Up Romania
       url: https://start-up.ro/feed/
     - name: Green Start-Up Romania
       url: https://green.start-up.ro/feed/
-    - name: Mindcraft Stories
-      url: https://mindcraftstories.ro/feed/
     - name: Times New Roman (Satira)
       url: https://www.timesnewroman.ro/feed/
-    - name: Descopera (Stiinta)
-      url: https://www.descopera.ro/feed/
     - name: Life.ro (Lifestyle)
       url: https://life.ro/feed/
-    - name: B365 Lifestyle
-      url: https://b365.ro/life/feed/
-    - name: Turism Romania
-      url: https://turism.gov.ro/web/feed/
 
     # Știri pozitive RO (WordPress)
     - name: StiriPozitive - Toate
       url: https://stiripozitive.com/feed/
     - name: StiriPozitive - Povesti de viata
       url: https://stiripozitive.com/category/povesti-de-viata/feed/
-    - name: StiriPozitive - Animale
-      url: https://stiripozitive.com/category/animale/feed/
     - name: StiriPozitive - Fapte bune
       url: https://stiripozitive.com/category/fapte-bune/feed/
-    - name: StiriPozitive - Relatii
-      url: https://stiripozitive.com/category/relatii/feed/
-    - name: StiriPozitive - Sanatate
-      url: https://stiripozitive.com/category/sanatate/feed/
-    - name: StiriPozitive - Educatie
-      url: https://stiripozitive.com/category/educatie/feed/
-    - name: StiriPozitive - Comunitate
-      url: https://stiripozitive.com/category/comunitate/feed/
-    - name: StiriPozitive - Ecologie
-      url: https://stiripozitive.com/category/ecologie/feed/
-    - name: StiriPozitive - Cariera
-      url: https://stiripozitive.com/category/cariera/feed/
-    - name: StiriPozitive - CSR
-      url: https://stiripozitive.com/category/corporate-social-responsibility/feed/
     - name: StiriPozitive - Social
       url: https://stiripozitive.com/category/social/feed/
-    - name: StiriPozitive - Sport
-      url: https://stiripozitive.com/category/sport/feed/
-    - name: StiriPozitive - Timp liber
-      url: https://stiripozitive.com/category/timp-liber/feed/
     - name: StiriPozitive - Cultura
       url: https://stiripozitive.com/category/cultura/feed/
 
     # RomâniaPozitivă (dacă feed-ul e disponibil în runtime)
     - name: RomaniaPozitiva
       url: https://www.romaniapozitiva.ro/feed/
-    - name: RomaniaPozitiva - Sanatate
-      url: https://www.romaniapozitiva.ro/category/sanatate/feed/
-    - name: RomaniaPozitiva - Educatie
-      url: https://www.romaniapozitiva.ro/category/educatie/feed/
-    - name: RomaniaPozitiva - Lifestyle
-      url: https://www.romaniapozitiva.ro/category/lifestyle/feed/
-
-    # Instituții / intervenții (pot avea disponibilitate variabilă de feed)
-    - name: DSU Romania
-      url: https://www.dsu.mai.gov.ro/feed/
-    - name: IGSU Romania
-      url: https://www.igsu.ro/feed/
+    # Instituții / intervenții
     - name: Salvamont Romania
       url: https://salvamontromania.ro/feed/
-    - name: Politia Romana
-      url: https://www.politiaromana.ro/ro/rss
     - name: Fundatia Regala Margareta
       url: https://www.frmr.ro/feed/
     - name: Hope and Homes for Children Romania

@@ -71,6 +71,153 @@
       "fresh_24h_mix": 9,
       "generated_age_minutes": 74,
       "issues": []
+    },
+    {
+      "checked_utc": "2026-03-10T11:45:05+00:00",
+      "status": "warn",
+      "mix_count": 83,
+      "fresh_24h_mix": 0,
+      "generated_age_minutes": 5537,
+      "issues": [
+        "no fresh items in last 24h (mix)",
+        "news.json older than 180 minutes"
+      ]
+    },
+    {
+      "checked_utc": "2026-03-10T11:47:08+00:00",
+      "status": "warn",
+      "mix_count": 83,
+      "fresh_24h_mix": 0,
+      "generated_age_minutes": 0,
+      "issues": [
+        "no fresh items in last 24h (mix)"
+      ]
+    },
+    {
+      "checked_utc": "2026-03-10T11:47:30+00:00",
+      "status": "ok",
+      "mix_count": 86,
+      "fresh_24h_mix": 5,
+      "generated_age_minutes": 0,
+      "issues": []
+    },
+    {
+      "checked_utc": "2026-03-10T12:01:32+00:00",
+      "status": "ok",
+      "mix_count": 86,
+      "fresh_24h_mix": 5,
+      "generated_age_minutes": 0,
+      "issues": []
+    },
+    {
+      "checked_utc": "2026-03-10T12:11:09+00:00",
+      "status": "ok",
+      "mix_count": 86,
+      "fresh_24h_mix": 5,
+      "generated_age_minutes": 0,
+      "issues": []
+    },
+    {
+      "checked_utc": "2026-03-10T12:11:51+00:00",
+      "status": "ok",
+      "mix_count": 86,
+      "fresh_24h_mix": 5,
+      "generated_age_minutes": 0,
+      "issues": []
+    },
+    {
+      "checked_utc": "2026-03-10T12:12:20+00:00",
+      "status": "ok",
+      "mix_count": 86,
+      "fresh_24h_mix": 5,
+      "generated_age_minutes": 0,
+      "issues": []
+    },
+    {
+      "checked_utc": "2026-03-10T12:12:37+00:00",
+      "status": "warn",
+      "mix_count": 86,
+      "fresh_24h_mix": 5,
+      "generated_age_minutes": 0,
+      "issues": [
+        "no real fresh items in last 24h (fallback-only or stale feeds)"
+      ]
+    },
+    {
+      "checked_utc": "2026-03-10T12:23:03+00:00",
+      "status": "ok",
+      "mix_count": 80,
+      "fresh_24h_mix": 67,
+      "generated_age_minutes": 0,
+      "issues": []
+    },
+    {
+      "checked_utc": "2026-03-10T12:25:07+00:00",
+      "status": "ok",
+      "mix_count": 80,
+      "fresh_24h_mix": 67,
+      "generated_age_minutes": 0,
+      "issues": []
+    },
+    {
+      "checked_utc": "2026-03-11T13:19:24+00:00",
+      "status": "warn",
+      "mix_count": 83,
+      "fresh_24h_mix": 5,
+      "generated_age_minutes": 0,
+      "issues": [
+        "no real fresh items in last 24h (fallback-only or stale feeds)"
+      ]
+    },
+    {
+      "checked_utc": "2026-03-11T13:19:36+00:00",
+      "status": "warn",
+      "mix_count": 83,
+      "fresh_24h_mix": 5,
+      "generated_age_minutes": 0,
+      "issues": [
+        "no real fresh items in last 24h (fallback-only or stale feeds)"
+      ]
+    },
+    {
+      "checked_utc": "2026-03-13T13:32:57+00:00",
+      "status": "ok",
+      "mix_count": 78,
+      "fresh_24h_mix": 55,
+      "generated_age_minutes": 15,
+      "issues": []
+    },
+    {
+      "checked_utc": "2026-03-13T13:49:27+00:00",
+      "status": "ok",
+      "mix_count": 78,
+      "fresh_24h_mix": 55,
+      "generated_age_minutes": 31,
+      "issues": []
+    },
+    {
+      "checked_utc": "2026-03-13T13:51:30+00:00",
+      "status": "ok",
+      "mix_count": 78,
+      "fresh_24h_mix": 55,
+      "generated_age_minutes": 2,
+      "issues": []
+    },
+    {
+      "checked_utc": "2026-03-13T13:59:47+00:00",
+      "status": "ok",
+      "mix_count": 79,
+      "fresh_24h_mix": 57,
+      "generated_age_minutes": 0,
+      "issues": []
+    },
+    {
+      "checked_utc": "2026-03-13T14:02:30+00:00",
+      "status": "ok",
+      "mix_count": 78,
+      "fresh_24h_mix": 56,
+      "generated_age_minutes": 0,
+      "issues": []
     }
   ]
 }

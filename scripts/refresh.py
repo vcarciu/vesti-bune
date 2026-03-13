@@ -466,6 +466,10 @@ RAW_RO_LOW_SIGNAL_BLOCK = [
     "implant cerebral",
     "beijingului", "beijing",
     "cultura generala", "cultură generală",
+    "audit extern",
+    "consiliul general",
+    "termoenergetica",
+    "stb",
 ]
 RO_LOW_SIGNAL_BLOCK = _mk_norm_list(RAW_RO_LOW_SIGNAL_BLOCK)
 
@@ -503,33 +507,15 @@ RAW_RO_POSITIVE_HINTS_RELAXED = [
 RO_POSITIVE_HINTS_RELAXED = _mk_norm_list(RAW_RO_POSITIVE_HINTS_RELAXED)
 MAINSTREAM_RO_SOURCES = {"Digi24", "HotNews"}
 CURATED_RO_SOURCES = {
-    "Good News From Romania",
     "Start-Up Romania",
     "Green Start-Up Romania",
-    "Mindcraft Stories",
-    "Descopera (Stiinta)",
     "Life.ro (Lifestyle)",
-    "B365 Lifestyle",
-    "Turism Romania",
     "StiriPozitive - Toate",
     "StiriPozitive - Povesti de viata",
-    "StiriPozitive - Animale",
     "StiriPozitive - Fapte bune",
-    "StiriPozitive - Relatii",
-    "StiriPozitive - Sanatate",
-    "StiriPozitive - Educatie",
-    "StiriPozitive - Comunitate",
-    "StiriPozitive - Ecologie",
-    "StiriPozitive - Cariera",
-    "StiriPozitive - CSR",
     "StiriPozitive - Social",
-    "StiriPozitive - Sport",
-    "StiriPozitive - Timp liber",
     "StiriPozitive - Cultura",
     "RomaniaPozitiva",
-    "RomaniaPozitiva - Sanatate",
-    "RomaniaPozitiva - Educatie",
-    "RomaniaPozitiva - Lifestyle",
     "Fundatia Regala Margareta",
     "Hope and Homes for Children Romania",
     "Fundatia Motivation Romania",
@@ -544,18 +530,8 @@ CURATED_RO_SOURCES = {
 SOURCE_NATIVE_POSITIVE_RO = {
     "StiriPozitive - Toate",
     "StiriPozitive - Povesti de viata",
-    "StiriPozitive - Animale",
     "StiriPozitive - Fapte bune",
-    "StiriPozitive - Relatii",
-    "StiriPozitive - Sanatate",
-    "StiriPozitive - Educatie",
-    "StiriPozitive - Comunitate",
-    "StiriPozitive - Ecologie",
-    "StiriPozitive - Cariera",
-    "StiriPozitive - CSR",
     "StiriPozitive - Social",
-    "StiriPozitive - Sport",
-    "StiriPozitive - Timp liber",
     "StiriPozitive - Cultura",
     "RomaniaPozitiva",
     "Fundatia Regala Margareta",
@@ -589,6 +565,12 @@ def ro_low_signal_block(title: str, summary: str, source_name: str = "") -> bool
     source = normalize_text(source_name)
     if any(kw in text for kw in RO_LOW_SIGNAL_BLOCK if kw):
         return True
+    if any(tag in source for tag in ("digi24", "hotnews")):
+        if any(kw in text for kw in _mk_norm_list([
+            "audit extern", "consiliul general", "termoenergetica", "stb",
+            "compania municipala", "compania municipală", "cgtmb",
+        ])):
+            return True
     if "cancero" in text and any(tag in source for tag in ("descopera", "life.ro", "b365")):
         return True
     if any(tag in source for tag in ("descopera", "start-up", "startup")):
@@ -688,7 +670,7 @@ def source_item_cap(section_id: str, source_name: str) -> int:
         return 999
     if is_satire_source(source_name, ""):
         return 3
-    trusted_rescue = {"DSU Romania", "IGSU Romania", "Salvamont Romania", "Politia Romana"}
+    trusted_rescue = {"Salvamont Romania"}
     if source_name in trusted_rescue:
         return 8
     if source_name in CURATED_RO_SOURCES:
@@ -1516,7 +1498,7 @@ def build_sections(
                     else:
                         if ro_low_signal_block(title, summary, name):
                             continue
-                        if name in {"DSU Romania", "IGSU Romania", "Salvamont Romania", "Politia Romana"} and not ro_mainstream_allow(title, summary):
+                        if name in {"Salvamont Romania"} and not ro_mainstream_allow(title, summary):
                             continue
                         strict_hits = ro_positive_hits(title, summary, relaxed=False)
                         if name in MAINSTREAM_RO_SOURCES and strict_hits < 1 and not ro_mainstream_allow(title, summary):

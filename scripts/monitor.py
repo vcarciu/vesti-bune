@@ -69,6 +69,15 @@ def analyze(news: Dict[str, Any]) -> Dict[str, Any]:
     section_counts = {k: len(list(v or [])) for k, v in sections.items()}
     fresh_24h_mix = sum(1 for it in mix_items if is_fresh_24h(it.get("published_utc", ""), now))
     fresh_24h_all = sum(1 for it in all_items if is_fresh_24h(it.get("published_utc", ""), now))
+    fresh_24h_mix_real = sum(
+        1
+        for it in mix_items
+        if is_fresh_24h(it.get("published_utc", ""), now)
+        and not bool(it.get("synthetic"))
+        and "fallback" not in (it.get("source") or "").strip().lower()
+        and "vesti bune" not in (it.get("source") or "").strip().lower()
+    )
+    fresh_24h_mix_fallback = fresh_24h_mix - fresh_24h_mix_real
 
     source_counts = Counter((it.get("source") or "Unknown").strip() for it in mix_items)
     top_sources = [{"source": s, "count": c} for s, c in source_counts.most_common(10)]
@@ -81,6 +90,8 @@ def analyze(news: Dict[str, Any]) -> Dict[str, Any]:
         issues.append("mix_items empty")
     if fresh_24h_mix == 0:
         issues.append("no fresh items in last 24h (mix)")
+    if fresh_24h_mix_real == 0:
+        issues.append("no real fresh items in last 24h (fallback-only or stale feeds)")
     if gen_age_min is not None and gen_age_min > 180:
         issues.append("news.json older than 180 minutes")
     if section_counts.get("romania", 0) < 8:
@@ -95,6 +106,8 @@ def analyze(news: Dict[str, Any]) -> Dict[str, Any]:
         "section_counts": section_counts,
         "mix_count": len(mix_items),
         "fresh_24h_mix": fresh_24h_mix,
+        "fresh_24h_mix_real": fresh_24h_mix_real,
+        "fresh_24h_mix_fallback": fresh_24h_mix_fallback,
         "fresh_24h_all_sections": fresh_24h_all,
         "duplicate_titles_in_mix": duplicate_titles,
         "top_sources_mix": top_sources,

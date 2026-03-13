@@ -1,41 +1,39 @@
 {
   "status": "ok",
-  "checked_utc": "2026-03-06T15:43:30+00:00",
-  "generated_utc": "2026-03-06T14:29:10+00:00",
-  "generated_age_minutes": 74,
+  "checked_utc": "2026-03-13T14:02:30+00:00",
+  "generated_utc": "2026-03-13T14:02:17+00:00",
+  "generated_age_minutes": 0,
   "section_counts": {
-    "romania": 12,
+    "romania": 19,
     "medical": 25,
     "science": 25,
-    "environment": 22
+    "environment": 9
   },
-  "mix_count": 84,
-  "fresh_24h_mix": 9,
-  "fresh_24h_all_sections": 9,
+  "mix_count": 78,
+  "fresh_24h_mix": 56,
+  "fresh_24h_mix_real": 56,
+  "fresh_24h_mix_fallback": 0,
+  "fresh_24h_all_sections": 56,
   "duplicate_titles_in_mix": 0,
   "top_sources_mix": [
     {
-      "source": "ScienceDaily Health",
-      "count": 19
+      "source": "Medical Xpress",
+      "count": 24
     },
     {
-      "source": "ScienceDaily Science",
-      "count": 15
+      "source": "Phys.org",
+      "count": 18
     },
     {
-      "source": "ScienceDaily Environment",
-      "count": 15
+      "source": "Mongabay Conservation",
+      "count": 9
+    },
+    {
+      "source": "World Vision Romania",
+      "count": 5
     },
     {
       "source": "NASA Breaking News",
-      "count": 10
-    },
-    {
-      "source": "Positive News",
-      "count": 6
-    },
-    {
-      "source": "NASA Earth Observatory - Image of the Day",
       "count": 4
     },
     {
@@ -43,16 +41,20 @@
       "count": 3
     },
     {
-      "source": "Green Start-Up Romania",
+      "source": "Fundatia Regala Margareta",
       "count": 3
     },
     {
-      "source": "NASA Earth Observatory - Natural Hazards",
+      "source": "ScienceDaily Science",
       "count": 3
+    },
+    {
+      "source": "Fundatia Inocenti",
+      "count": 2
     },
     {
       "source": "RomaniaPozitiva",
-      "count": 2
+      "count": 1
     }
   ],
   "issues": []

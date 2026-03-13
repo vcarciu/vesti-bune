@@ -5,22 +5,30 @@
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Vesti Bune - Ops Dashboard</title>
   <style>
-    :root{--bg:#0b0d10;--card:#12161b;--line:#1f2630;--text:#e9eef6;--muted:#a8b0bb;--ok:#22c55e;--warn:#f59e0b}
+    :root{--bg:#0b0d10;--card:#12161b;--line:#1f2630;--text:#e9eef6;--muted:#a8b0bb;--ok:#22c55e;--warn:#f59e0b;--bad:#ef4444}
     *{box-sizing:border-box}
     body{margin:0;background:var(--bg);color:var(--text);font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif}
     .wrap{max-width:1200px;margin:0 auto;padding:18px}
     h1{margin:0 0 6px}
+    h2{margin:18px 0 8px}
     .muted{color:var(--muted)}
-    .grid{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-top:14px}
+    .grid{display:grid;grid-template-columns:repeat(6,1fr);gap:10px;margin-top:14px}
+    .grid2{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-top:14px}
     .card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px}
     .k{font-size:12px;color:var(--muted)} .v{font-size:20px;font-weight:700}
     table{width:100%;border-collapse:collapse;margin-top:14px;background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden}
     th,td{padding:8px 10px;border-bottom:1px solid var(--line);font-size:13px;text-align:left}
     th{color:var(--muted);font-weight:600}
     tr:last-child td{border-bottom:0}
-    .ok{color:var(--ok)} .warn{color:var(--warn)}
-    @media (max-width:900px){.grid{grid-template-columns:repeat(2,1fr)}}
-    @media (max-width:560px){.grid{grid-template-columns:1fr}}
+    .ok{color:var(--ok)} .warn{color:var(--warn)} .bad{color:var(--bad)}
+    .pill{display:inline-flex;align-items:center;gap:6px;border:1px solid var(--line);border-radius:999px;padding:5px 10px;font-size:12px}
+    .list{display:flex;flex-direction:column;gap:8px}
+    .row{display:flex;justify-content:space-between;gap:12px;padding:8px 0;border-bottom:1px solid var(--line);font-size:13px}
+    .row:last-child{border-bottom:0}
+    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace}
+    @media (max-width:1100px){.grid{grid-template-columns:repeat(3,1fr)}}
+    @media (max-width:900px){.grid,.grid2{grid-template-columns:1fr 1fr}}
+    @media (max-width:560px){.grid,.grid2{grid-template-columns:1fr}}
   </style>
 </head>
 <body>
@@ -33,7 +41,40 @@
       <div class="card"><div class="k">Status</div><div class="v" id="status">-</div></div>
       <div class="card"><div class="k">Mix Count</div><div class="v" id="mixCount">-</div></div>
       <div class="card"><div class="k">Fresh 24h (mix)</div><div class="v" id="fresh24">-</div></div>
+      <div class="card"><div class="k">Fresh 24h Real</div><div class="v" id="fresh24Real">-</div></div>
+      <div class="card"><div class="k">Romania Count</div><div class="v" id="romaniaCount">-</div></div>
+      <div class="card"><div class="k">Active Sources</div><div class="v" id="active">-</div></div>
       <div class="card"><div class="k">Silent Sources</div><div class="v" id="silent">-</div></div>
+    </div>
+
+    <div class="grid2">
+      <div class="card">
+        <div class="k">Top Active Sources</div>
+        <div class="list" id="topSources">
+          <div class="muted">Se incarca...</div>
+        </div>
+      </div>
+      <div class="card">
+        <div class="k">Romania Sources Needing Attention</div>
+        <div class="list" id="roAttention">
+          <div class="muted">Se incarca...</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="grid2">
+      <div class="card">
+        <div class="k">Recent Health History</div>
+        <div class="list" id="history">
+          <div class="muted">Se incarca...</div>
+        </div>
+      </div>
+      <div class="card">
+        <div class="k">Current Issues</div>
+        <div class="list" id="issues">
+          <div class="muted">Se incarca...</div>
+        </div>
+      </div>
     </div>
 
     <h2 style="margin-top:18px">Source Yield</h2>
@@ -55,10 +96,25 @@
   </div>
 
   <script>
+    function esc(s){
+      return String(s ?? "").replaceAll("&","&amp;").replaceAll("<","&lt;").replaceAll(">","&gt;");
+    }
+    function fmtAge(iso){
+      if(!iso) return "-";
+      const d = new Date(iso);
+      if(Number.isNaN(d.getTime())) return iso;
+      const h = Math.floor((Date.now() - d.getTime()) / 3600000);
+      if(h < 1) return "<1h";
+      if(h < 24) return `${h}h`;
+      const days = Math.floor(h / 24);
+      return `${days}d`;
+    }
+
     async function load(){
-      const [m, y] = await Promise.all([
+      const [m, y, h] = await Promise.all([
         fetch("data/monitor_report.json", {cache:"no-store"}).then(r=>r.json()),
-        fetch("data/source_yield_report.json", {cache:"no-store"}).then(r=>r.json())
+        fetch("data/source_yield_report.json", {cache:"no-store"}).then(r=>r.json()),
+        fetch("data/monitor_history.json", {cache:"no-store"}).then(r=>r.json())
       ]);
 
       document.getElementById("checked").textContent = `Checked: ${m.checked_utc || "-"} | Generated: ${m.generated_utc || "-"}`;
@@ -67,9 +123,51 @@
       statusEl.className = "v " + ((m.status === "ok") ? "ok" : "warn");
       document.getElementById("mixCount").textContent = m.mix_count ?? "-";
       document.getElementById("fresh24").textContent = m.fresh_24h_mix ?? "-";
+      document.getElementById("fresh24Real").textContent = m.fresh_24h_mix_real ?? "-";
+      document.getElementById("romaniaCount").textContent = m.section_counts?.romania ?? "-";
+      document.getElementById("active").textContent = y?.summary?.active_sources ?? "-";
       document.getElementById("silent").textContent = y?.summary?.silent_sources ?? "-";
 
       const rows = Array.isArray(y.rows) ? y.rows : [];
+      const activeRows = rows.filter(r => (r.items || 0) > 0)
+        .sort((a,b) => (b.items - a.items) || (b.fresh_24h - a.fresh_24h));
+      const roAttention = rows
+        .filter(r => r.section === "romania" && r.configured !== false)
+        .filter(r => (r.items || 0) === 0 || !(r.fresh_72h > 0))
+        .sort((a,b) => (a.items - b.items) || String(a.source).localeCompare(String(b.source)))
+        .slice(0, 8);
+
+      const topSourcesEl = document.getElementById("topSources");
+      topSourcesEl.innerHTML = activeRows.slice(0,8).map(r => `
+        <div class="row">
+          <span>${esc(r.source)}</span>
+          <span class="mono">${r.items} items • ${r.fresh_24h} fresh24</span>
+        </div>
+      `).join("") || `<div class="muted">Nu exista surse active.</div>`;
+
+      const roAttentionEl = document.getElementById("roAttention");
+      roAttentionEl.innerHTML = roAttention.map(r => `
+        <div class="row">
+          <span>${esc(r.source)}</span>
+          <span class="mono">${r.items || 0} items • newest ${fmtAge(r.newest_published_utc)}</span>
+        </div>
+      `).join("") || `<div class="muted">Nicio sursa RO problematica acum.</div>`;
+
+      const issues = Array.isArray(m.issues) ? m.issues : [];
+      document.getElementById("issues").innerHTML = issues.length
+        ? issues.map(x => `<div class="pill warn">${esc(x)}</div>`).join("")
+        : `<div class="pill ok">No current issues</div>`;
+
+      const hist = Array.isArray(h.entries) ? h.entries.slice(-8).reverse() : [];
+      document.getElementById("history").innerHTML = hist.length
+        ? hist.map(x => `
+          <div class="row">
+            <span>${esc((x.checked_utc || "").replace("T"," ").slice(0,16))}</span>
+            <span class="${x.status === "ok" ? "ok" : "warn"} mono">${esc(x.status || "-")} • mix ${x.mix_count ?? "-"} • fresh ${x.fresh_24h_mix ?? "-"}</span>
+          </div>
+        `).join("")
+        : `<div class="muted">Istoric indisponibil.</div>`;
+
       const tbody = document.getElementById("rows");
       if(!rows.length){
         tbody.innerHTML = `<tr><td colspan="6" class="muted">Nu exista date.</td></tr>`;
@@ -92,4 +190,3 @@
   </script>
 </body>
 </html>
-
