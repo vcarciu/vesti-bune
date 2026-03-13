@@ -276,7 +276,7 @@ def extract_og_image(html: str) -> Optional[str]:
         return (m.group(1) or "").strip() or None
     return None
 
-def extract_image_url(e: dict) -> Optional[str]:
+def extract_image_url(e: dict, allow_page_fetch: bool = False) -> Optional[str]:
     mc = e.get("media_content")
     if isinstance(mc, list) and mc:
         for item in mc:
@@ -306,7 +306,7 @@ def extract_image_url(e: dict) -> Optional[str]:
             return (m.group(1) or "").strip() or None
 
     link = (e.get("link") or "").strip()
-    if link:
+    if allow_page_fetch and link:
         page_html, _final = fetch_url_with_final(link)
         img = extract_og_image(page_html or "")
         if img:
@@ -461,6 +461,11 @@ RAW_RO_LOW_SIGNAL_BLOCK = [
     "ceo build",
     "apel pentru depunerea candidaturilor",
     "pnrr",
+    "oppo ",
+    "find x",
+    "implant cerebral",
+    "beijingului", "beijing",
+    "cultura generala", "cultură generală",
 ]
 RO_LOW_SIGNAL_BLOCK = _mk_norm_list(RAW_RO_LOW_SIGNAL_BLOCK)
 
@@ -641,6 +646,14 @@ def ro_source_native_allow(title: str, summary: str) -> bool:
     if any(kw in text for kw in blocked):
         return False
     return ro_positive_hits(title, summary, relaxed=True) >= 1
+
+def satire_ro_allow(title: str, summary: str) -> bool:
+    text = normalize_text(f"{title} {summary}")
+    blocked = _mk_norm_list([
+        "iran", "iranieni", "bombard", "rusia", "ucraina", "zelenski", "putin",
+        "motorina", "motorină", "geografie",
+    ])
+    return not any(kw in text for kw in blocked)
 
 def ro_positive_hits(title: str, summary: str, relaxed: bool = False) -> int:
     text = normalize_text(f"{title} {summary}")
@@ -1497,6 +1510,8 @@ def build_sections(
                 if kind == "ro":
                     if satire_source:
                         # Satire is intentionally allowed to keep variety in mix.
+                        if not satire_ro_allow(title, summary):
+                            continue
                         score = 3
                     else:
                         if ro_low_signal_block(title, summary, name):
@@ -1610,9 +1625,7 @@ def build_sections(
             already.add(k)
             already_titles.add(title_key)
 
-            html, _final = fetch_url_with_final(c["link"])
-            img = extract_og_image(html or "")
-            c["image"] = img or fallback_image_url(c["section"], c["title"], c["link"])
+            c["image"] = fallback_image_url(c["section"], c["title"], c["link"])
 
             out["romania"].append(c)
             mark_published(published_state, k, title_key, now_utc.replace(microsecond=0).isoformat())
