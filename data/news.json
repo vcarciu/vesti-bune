@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-03-14T16:19:12+00:00",
+  "generated_utc": "2026-03-14T17:18:58+00:00",
   "sections": {
     "romania": [
       {
@@ -855,13 +855,13 @@
       "section": "romania",
       "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 Primăriile din țară organizează concerte cu Delia și Smiley cu ocazia izbucnirii celui de-al treilea război mondial",
-      "summary": "Știrile că planeta s-a cufundat într-un nou război mondial nu au fost ignorate în zona rurală din România. Mai multe primării din țară au decis să serbeze aceste evenimente istorice cu niște concerte super tari, cu vedete îndrăgite, adică Delia, Smiley, Andra și mulți mulți alți artiști la ale căror concerte n-a plătit nimeni vreodată [&#8230;] The post Primăriile din țară organizează concerte cu Delia și Smiley cu ocazia izbucnirii celui de-al treilea război mondial appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/monden/primariile-din-tara-organizeaza-concerte-cu-delia-si-smiley-cu-ocazia-izbucnirii-celui-de-al-treilea-razboi-mondial",
-      "published_utc": "2026-03-13T13:00:00+00:00",
+      "title": "😂 Savanții Kaufland au încrucișat găina cu prepelița ca să obțină un ou mai mic și mai scump",
+      "summary": "Lanțul de supermarketuri Kaufland anunță o reușită istorică. După 30 de ani de încercări eșuate, Kaufland a reușit să încrucișeze găina cu prepelița și să obțină visul oricărui comerciant: un ou mic cât cel de prepeliță, dar scump cât cel de găină. Avantajele sunt numeroase. În primul rând că într-un carton obișnuit de zece ouă [&#8230;] The post Savanții Kaufland au încrucișat găina cu prepelița ca să obțină un ou mai mic și mai scump appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/life-death/savantii-kaufland-au-incrucisat-gaina-cu-prepelita-ca-sa-obtina-un-ou-mai-mic-si-mai-scump",
+      "published_utc": "2026-03-14T11:42:00+00:00",
       "score": 3,
-      "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/concert_ploiesti.jpeg"
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/prepetila_gaina.jpg"
     },
     {
       "section": "romania",
@@ -874,18 +874,6 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-a5a22f02f60b7d29/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Savanții Kaufland au încrucișat găina cu prepelița ca să obțină un ou mai mic și mai scump",
-      "summary": "Lanțul de supermarketuri Kaufland anunță o reușită istorică. După 30 de ani de încercări eșuate, Kaufland a reușit să încrucișeze găina cu prepelița și să obțină visul oricărui comerciant: un ou mic cât cel de prepeliță, dar scump cât cel de găină. Avantajele sunt numeroase. În primul rând că într-un carton obișnuit de zece ouă [&#8230;] The post Savanții Kaufland au încrucișat găina cu prepelița ca să obțină un ou mai mic și mai scump appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/savantii-kaufland-au-incrucisat-gaina-cu-prepelita-ca-sa-obtina-un-ou-mai-mic-si-mai-scump",
-      "published_utc": "2026-03-14T11:42:00+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/prepetila_gaina.jpg"
     },
     {
       "section": "romania",
@@ -910,6 +898,18 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-cd91d5c05ed09ce2/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Primăriile din țară organizează concerte cu Delia și Smiley cu ocazia izbucnirii celui de-al treilea război mondial",
+      "summary": "Știrile că planeta s-a cufundat într-un nou război mondial nu au fost ignorate în zona rurală din România. Mai multe primării din țară au decis să serbeze aceste evenimente istorice cu niște concerte super tari, cu vedete îndrăgite, adică Delia, Smiley, Andra și mulți mulți alți artiști la ale căror concerte n-a plătit nimeni vreodată [&#8230;] The post Primăriile din țară organizează concerte cu Delia și Smiley cu ocazia izbucnirii celui de-al treilea război mondial appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/monden/primariile-din-tara-organizeaza-concerte-cu-delia-si-smiley-cu-ocazia-izbucnirii-celui-de-al-treilea-razboi-mondial",
+      "published_utc": "2026-03-13T13:00:00+00:00",
+      "score": 3,
+      "freshness_boost": 1,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/concert_ploiesti.jpeg"
     },
     {
       "section": "romania",
@@ -1649,6 +1649,7 @@
       "https://picsum.photos/seed/vb-landscape-reset-001/1600/900"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/34186009590_2b58764ef7_b.jpg",
       "https://live.staticflickr.com/65535/55129719977_b746f507f1_b.jpg",
       "https://live.staticflickr.com/65535/30607987674_1b9699f1f8_b.jpg",
       "https://live.staticflickr.com/65535/34784249782_0e0ed42a7b_b.jpg",
@@ -1665,10 +1666,10 @@
       "https://live.staticflickr.com/65535/55130998610_8d4c386215_b.jpg",
       "https://live.staticflickr.com/65535/55133576733_26bccd38e2_b.jpg",
       "https://live.staticflickr.com/65535/55129719742_141cf67a37_b.jpg",
-      "https://live.staticflickr.com/4363/36354732242_c4e2bc16fd_b.jpg",
-      "https://live.staticflickr.com/65535/36990008514_3c64bf89f7_b.jpg"
+      "https://live.staticflickr.com/4363/36354732242_c4e2bc16fd_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55146981381_ed437388e0_b.jpg",
       "https://live.staticflickr.com/65535/55146924406_0ddd796b86_b.jpg",
       "https://live.staticflickr.com/65535/55147047238_1148426f66_b.jpg",
       "https://live.staticflickr.com/65535/55147158435_f38f3121f8_b.jpg",
@@ -1685,12 +1686,11 @@
       "https://live.staticflickr.com/65535/55145985580_5735db6056_b.jpg",
       "https://live.staticflickr.com/65535/55145034901_702018334f_b.jpg",
       "https://live.staticflickr.com/65535/55145497456_5c768744ec_b.jpg",
-      "https://live.staticflickr.com/65535/55144113527_04d3e061c9_b.jpg",
-      "https://live.staticflickr.com/65535/55143817929_a520ef038f_b.jpg"
+      "https://live.staticflickr.com/65535/55144113527_04d3e061c9_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
+      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
