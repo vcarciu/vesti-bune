@@ -1,66 +1,102 @@
 {
-  "generated_utc": "2026-03-18T06:53:05+00:00",
+  "generated_utc": "2026-03-18T07:45:16+00:00",
   "sections": {
     "romania": [
       {
         "section": "romania",
         "kind": "ro",
+        "source": "HotNews",
+        "title": "Un misterios și puternic model AI nu vrea să spună cine l-a făcut: „Îmi știu doar numele și parametrii”",
+        "summary": "Un puternic model de inteligență artificial, care a apărut în mod anonim pe o platformă pentru dezvoltatori săptămâna trecută, a stârnit speculații potrivit cărora startup-ul chinez DeepSeek ar putea testa în secret sistemul său de nouă generație înainte de lansarea oficială, transmite Reuters. Modelul gratuit, denumit Hunter Alpha, a apărut pe platforma de acces la &#8230;",
+        "link": "https://hotnews.ro/un-misterios-si-puternic-model-ai-nu-vrea-sa-spuna-cine-l-a-facut-imi-stiu-doar-numele-si-parametrii-2196777",
+        "published_utc": "2026-03-18T07:42:42+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-b1da7b639311427d/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Start-Up Romania",
+        "title": "Inițiativa <span class=\"title-highlight\">Fabricat în RO</span> pentru ca studenții să descopere antreprenoriatul românesc",
+        "summary": "Platforma Fabricat în RO lansează inițiativa „Studenții descoperă antreprenoriatul românesc”, un proiect care își propune să conecteze studenții din România cu antreprenorii care au construit...",
+        "link": "https://start-up.ro/initiativa-hi-fabricat-in-ro-hi-pentru-ca-studentii-sa-descopere-antreprenoriatul-romanesc",
+        "published_utc": "2026-03-18T07:34:11+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://start-up.ro/img/articles/3/8/0/38053/cover-38053-src.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Start-Up Romania",
+        "title": "Antreprenorul Marius Grigoraș se alătură platformei de finanțare participativă pentru imobiliare <span class=\"title-highlight\">SyndiFi</span>",
+        "summary": "SyndiFi anunță cooptarea lui Marius Grigoraș ca noul CTO și cofondator. Cu active imobiliare comerciale de peste 24 de milioane de euro sub gestiune, SyndiFi mizează pe experiența lui Marius pentru...",
+        "link": "https://start-up.ro/antreprenorul-marius-grigoras-se-alatura-platformei-de-finantare-participativa-pentru-imobiliare-hi-syndifi-hi",
+        "published_utc": "2026-03-18T07:26:08+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://start-up.ro/img/articles/3/8/0/38052/cover-38052-src.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Start-Up Romania",
+        "title": "Grupul Purcari achiziționează crama SERVE Ceptura, prima cramă privată deschisă după 1989",
+        "summary": "Purcari Wineries anunță semnarea documentelor contractuale în cadrul tranzacției pentru achiziția societății SERVE Ceptura. Tranzacția va fi finalizată după obținerea tuturor aprobărilor...",
+        "link": "https://start-up.ro/grupul-purcari-achizitioneaza-crama-serve-ceptura-prima-crama-privata-deschisa-dupa-1989",
+        "published_utc": "2026-03-18T07:18:56+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://start-up.ro/img/articles/3/8/0/38051/cover-38051-src.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "RomaniaPozitiva",
+        "title": "Premiile Excelenței Interpretative – Gala UCIMR 2026 își anunță nominalizații",
+        "summary": "Uniunea de Creație Interpretativă a Muzicienilor din România (UCIMR) anunță Premiile Excelenței Interpretative – Gala UCIMR 2026 – aflată la a II-a ediție, ce va avea loc marți, 24 martie&#8230; Articolul Premiile Excelenței Interpretative &#8211; Gala UCIMR 2026 își anunță nominalizații apare prima dată în Romania Pozitiva .",
+        "link": "https://www.romaniapozitiva.ro/bucuresti/premiile-excelentei-interpretative-gala-ucimr-2026-isi-anunta-nominalizatii",
+        "published_utc": "2026-03-18T07:12:09+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-e3be3ffa5da32c21/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "RomaniaPozitiva",
+        "title": "Privind de la înălțime… ca o girafă | Atelier de science & craft",
+        "summary": "Muzeul Național de Istorie Naturală Grigore Antipa îi invită sâmbătă, 21 martie 2026, pe tinerii exploratori, cu vârste între 6 și 10 ani, la un atelier de science &#38; craft dedicat unuia dintre&#8230; Articolul Privind de la înălțime&#8230; ca o girafă | Atelier de science &#038; craft apare prima dată în Romania Pozitiva .",
+        "link": "https://www.romaniapozitiva.ro/bucuresti/privind-de-la-inaltime-ca-o-girafa-atelier-de-science-craft",
+        "published_utc": "2026-03-18T07:05:33+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-2c119321ec06274c/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "RomaniaPozitiva",
+        "title": "Campania „Sănătate pentru Sate” a ajuns în localitatea Păcureți",
+        "summary": "O noua acțiune a Campaniei „Sănătate pentru Sate” s-a desfășurat, sâmbătă, 14 martie 2026, la Școala Gimnazială din localitatea Păcureți, județul Prahova. Medici specialiști în diabet zaharat, nutriție și boli&#8230; Articolul Campania „Sănătate pentru Sate” a ajuns în localitatea Păcureți apare prima dată în Romania Pozitiva .",
+        "link": "https://www.romaniapozitiva.ro/sanatate/campania-sanatate-pentru-sate-a-ajuns-in-localitatea-pacureti",
+        "published_utc": "2026-03-18T07:03:02+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-c295006d2a8a6224/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
         "source": "Digi24",
-        "title": "Cel mai mare preț din istorie la pompă. Cât au ajuns să coste benzina și motorina și ce măsuri pregătesc autoritățile",
-        "summary": "A noua scumpire la pompă din ultimele două săptămâni aduce prețuri record pentru carburanți, fiind înregistrat cel mai mare preț din istorie. Benzina standard a ajuns să fie vândută chiar și cu 8,82 lei pe litru, în timp ce motorina costă 9,39 lei, iar varianta premium urcă până la 9,94 lei. În acest context, autoritățile analizează ce măsuri pot lua pentru a face față creșterilor, care se apropie deja de pragul de 10 lei pe litru.",
-        "link": "https://www.digi24.ro/stiri/actualitate/cel-mai-mare-pret-din-istorie-la-pompa-cat-au-ajuns-sa-coste-benzina-si-motorina-si-ce-masuri-pregatesc-autoritatile-3681971",
-        "published_utc": "2026-03-18T06:50:20+00:00",
+        "title": "Simulare Evaluarea Națională 2026: Elevii susțin astăzi proba la limba maternă. Când se afișează notele finale",
+        "summary": "Elevii de clasa a VIII-a care studiază în limbile minorităților naționale susțin miercuri, 18 martie, ultima probă a simulării Evaluării Naționale 2026 - examenul la limba și literatura maternă. Potrivit Ministerului Educației, rezultatele vor fi afișate la finalul lunii martie.",
+        "link": "https://www.digi24.ro/stiri/actualitate/educatie/simulare-evaluarea-nationala-2026-elevii-sustin-astazi-proba-la-limba-materna-cand-se-afiseaza-notele-finale-3681019",
+        "published_utc": "2026-03-18T05:00:32+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMyUyRjE4JTJGMjY0Mjg3Nl8yNjQy/ODc2X3BvbXBhLWRlLWJlbnppbmEtYWxp/bWVudGFyZS1tYXNpbmEtc2h1dHRlcnN0/b2NrXzE1NDQ3MTM3Ni1zY2FsZWQtMS5q/cGcmaGFzaD00YmNiY2YxOTgxYjBiZDk1M2U0MzM2YzkwOGNkMjhlOA==.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Start-Up Romania",
-        "title": "EVA, arena VR în care jucătorii intră fizic în joc, deschide a doua locație în București și pregătește extinderea prin franciză",
-        "summary": "La aproape un an de la deschiderea primei arene EVA (Esports Virtual Arenas) din România, conceptul de gaming în realitate virtuală care combină mișcarea fizică cu jocurile competitive se...",
-        "link": "https://start-up.ro/eva-arena-vr-in-care-jucatorii-intra-fizic-in-joc-deschide-a-doua-locatie-in-bucuresti-si-pregateste-extinderea-prin-franciza",
-        "published_utc": "2026-03-18T06:05:01+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://start-up.ro/img/articles/3/8/0/38033/cover-38033-src.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Start-Up Romania",
-        "title": "The Romanian-founded startup building a „European cloud” from Berlin, Amsterdam and Eastern Europe",
-        "summary": "A startup founded by romanians entrepreneurs, funded from Berlin, headquartered in Amsterdam, with infrastructure spread across France and Germany, wants to simplify one of the most complex areas...",
-        "link": "https://start-up.ro/the-romanian-founded-startup-building-a-european-cloud-from-berlin-amsterdam-and-eastern-europe",
-        "published_utc": "2026-03-18T06:05:01+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://start-up.ro/img/articles/3/8/0/38048/cover-38048-src.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Green Start-Up Romania",
-        "title": "Cum produce BMW noul i3 cu un impact minim asupra mediului înconjurător",
-        "summary": "La fel ca în cazul BMW iX3, BMW Group aplică o abordare 360° a dezvoltării durabile și pentru BMW i3. În centrul se află decarbonizarea pe tot parcursul ciclului de viață al automobilului - de la...",
-        "link": "https://green.start-up.ro/ro/cum-produce-bmw-noul-i3-cu-un-impact-minim-asupra-mediului-inconjurator",
-        "published_utc": "2026-03-18T06:00:01+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://green.start-up.ro/img/articles/3/5/7/35763/cover-35763-src.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 Lia Savonea explică de ce nu l-a scăpat pe Dani Mocanu de puşcărie: „Scuze! N-aveam semnal!”",
-        "summary": "Dani Mocanu n-a reuşit să scape de puşcărie &#8211; recursul în casaţie i-a fost respins, iar manelistul rămâne cu pedeapsa de 4 ani pentru tentativă de omor. De îndată ce a ieşit cu maşina din tunel, şefa ICCJ, Lia Savonea, a oferit şi motivarea pentru decizia Curţii: &#8222;Scuze! Nu aveam semnal.&#8221; Potrivit Liei Savonea, în [&#8230;] The post Lia Savonea explică de ce nu l-a scăpat pe Dani Mocanu de puşcărie: &#8222;Scuze! N-aveam semnal!&#8221; appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/life-death/lia-savonea-explica-de-ce-nu-l-a-scapat-pe-dani-mocanu-de-puscarie-scuze-n-aveam-semnal",
-        "published_utc": "2026-03-17T15:35:17+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/liasavonealavolan.jpg"
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMyUyRjE3JTJGMjY0MjAyMV8yNjQy/MDIxX1N1YmllY3RlLWxpbWJhLW1hdGVy/bmEtU2ltdWxhcmUtRXZhbHVhcmVhLU5h/dGlvbmFsYS0yMDI2Xy1Gb3RvLUdldHR5/LUltYWdlcy5qcGcmaGFzaD1jMTE3ZTJj/MzhiZDA3YTQ1ZWU0MTEyMmY2NmNiNzQ3Zg==.jpg"
       },
       {
         "section": "romania",
@@ -78,13 +114,13 @@
         "section": "romania",
         "kind": "ro",
         "source": "Times New Roman (Satira)",
-        "title": "😂 S-a aflat identitatea lui Banksy, dar marele mister al graffitiului rămâne. Cine era Malone M*istu?",
-        "summary": "După o anchetă Reuters care a durat zeci de ani şi a costat milioane de dolari, renumitul artist stradal Banksy a fost identificat cu succes! Din păcate, iubitorii artei stradale sunt de acord că descoperirea e &#8222;cam degeaba&#8221;, pentru că nu ajută cu nimic la desluşirea adevăratei enigme din lumea graffitiului: cine era Malone Muistu, [&#8230;] The post S-a aflat identitatea lui Banksy, dar marele mister al graffitiului rămâne. Cine era Malone M*istu? appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/monden/s-a-aflat-identitatea-lui-banksy-dar-marele-mister-al-graffitiului-ramane-cine-era-malone-mistu",
-        "published_utc": "2026-03-17T14:27:19+00:00",
+        "title": "😂 E St. Patrick’s Day şi la Vaslui! S-a lansat o ediţie limitată de spirt Mona verde",
+        "summary": "Vasluienii arată încă o dată că sunt cei mai irlandezi dintre moldoveni! În magazinele săteşti, farmaciile, fast-foodurile şi chioşcurile spirt din judeţ se vinde zilele acestea o ediţie limitată a celebrei Mona, colorată în verde strălucitor. Lansarea alcoolului sanitar verde are loc cu ocazia zilei de Sf. Patrick, ocrotitorul Irlandei, ţară insulară poreclită uneori &#8222;Vasluiul [&#8230;] The post E St. Patrick&#8217;s Day şi la Vaslui! S-a lansat o ediţie limitată de spirt Mona verde appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/monden/e-st-patricks-day-si-la-vaslui-s-a-lansat-o-editie-limitata-de-spirt-mona-verde",
+        "published_utc": "2026-03-17T13:19:12+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/banksymalone-1.jpg"
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/stpatricksvaslui.jpg"
       },
       {
         "section": "romania",
@@ -101,26 +137,26 @@
       {
         "section": "romania",
         "kind": "ro",
-        "source": "RomaniaPozitiva",
-        "title": "Programul național inițiat de CONAF a deschis drumul educației antreprenoriale aplicate în liceele din România",
-        "summary": "Maratonul pentru Educație Antreprenorială intră în etapa competițiilor de planuri de afaceri Programul care a adus antreprenoriatul în liceele României a ajuns la a IV a ediție București, 16 martie&#8230; Articolul Programul național inițiat de CONAF a deschis drumul educației antreprenoriale aplicate în liceele din România apare prima dată în Romania Pozitiva .",
-        "link": "https://www.romaniapozitiva.ro/economie/programul-national-initiat-de-conaf-a-deschis-drumul-educatiei-antreprenoriale-aplicate-in-liceele-din-romania",
-        "published_utc": "2026-03-17T11:24:23+00:00",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 Călin Georgescu i-a cerut ajutorul și lui nea Costel. N-o să ghiciți unde l-a trimis!",
+        "summary": "Călin Georgescu a recunoscut că i-a cerut ajutorul lui Sebastian Ghiță înainte de alegerile prezidențiale, dar mai departe de atât a delirat complet. El a pretins că i-a cerut bani lui Sebastian Ghiță doar ca să fie refuzat &#8211; genul de explicație pe care doar cineva uluitor de prost o poate crede. Din fericire pentru [&#8230;] The post Călin Georgescu i-a cerut ajutorul și lui nea Costel. N-o să ghiciți unde l-a trimis! appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/politic/calin-georgescu-i-a-cerut-ajutorul-si-lui-nea-costel-n-o-sa-ghiciti-unde-l-a-trimis",
+        "published_utc": "2026-03-17T10:02:17+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-652b4579f9c1a117/480/320"
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/nea_costel_bere_terasa.jpg"
       },
       {
         "section": "romania",
         "kind": "ro",
         "source": "Times New Roman (Satira)",
-        "title": "😂 Mizilul își renovează ștrandul ca să atragă miliardarii care fug din Dubai",
-        "summary": "Frenezie în Mizil, unde vestea că tot mai mulți miliardari fug din Dubai în căutarea de orașe mai sigure a mobilizat ca niciodată autoritățile locale. Primarul din Mizil a alocat aproape 200 de lei pentru renovarea ștrandului din oraș, convins fiind că astfel orașul lui va deveni irezistibil pentru miliardarii care părăsesc Dubaiul. „Am alocat [&#8230;] The post Mizilul își renovează ștrandul ca să atragă miliardarii care fug din Dubai appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/monden/mizilul-isi-renoveaza-strandul-ca-sa-atraga-miliardarii-care-fug-din-dubai",
-        "published_utc": "2026-03-17T05:21:00+00:00",
+        "title": "😂 Un nou jucător",
+        "summary": "The post Un nou jucător appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/ovi/un-nou-jucator",
+        "published_utc": "2026-03-17T08:04:21+00:00",
         "score": 3,
-        "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/strand_mizil_renovat.jpg"
+        "freshness_boost": 3,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/Un-nou-jucator.jpg"
       },
       {
         "section": "romania",
@@ -830,62 +866,110 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 S-a aflat identitatea lui Banksy, dar marele mister al graffitiului rămâne. Cine era Malone M*istu?",
-      "summary": "După o anchetă Reuters care a durat zeci de ani şi a costat milioane de dolari, renumitul artist stradal Banksy a fost identificat cu succes! Din păcate, iubitorii artei stradale sunt de acord că descoperirea e &#8222;cam degeaba&#8221;, pentru că nu ajută cu nimic la desluşirea adevăratei enigme din lumea graffitiului: cine era Malone Muistu, [&#8230;] The post S-a aflat identitatea lui Banksy, dar marele mister al graffitiului rămâne. Cine era Malone M*istu? appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/monden/s-a-aflat-identitatea-lui-banksy-dar-marele-mister-al-graffitiului-ramane-cine-era-malone-mistu",
-      "published_utc": "2026-03-17T14:27:19+00:00",
+      "source": "HotNews",
+      "title": "Un misterios și puternic model AI nu vrea să spună cine l-a făcut: „Îmi știu doar numele și parametrii”",
+      "summary": "Un puternic model de inteligență artificial, care a apărut în mod anonim pe o platformă pentru dezvoltatori săptămâna trecută, a stârnit speculații potrivit cărora startup-ul chinez DeepSeek ar putea testa în secret sistemul său de nouă generație înainte de lansarea oficială, transmite Reuters. Modelul gratuit, denumit Hunter Alpha, a apărut pe platforma de acces la &#8230;",
+      "link": "https://hotnews.ro/un-misterios-si-puternic-model-ai-nu-vrea-sa-spuna-cine-l-a-facut-imi-stiu-doar-numele-si-parametrii-2196777",
+      "published_utc": "2026-03-18T07:42:42+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/banksymalone-1.jpg"
+      "image": "https://picsum.photos/seed/vb-b1da7b639311427d/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Start-Up Romania",
+      "title": "Inițiativa <span class=\"title-highlight\">Fabricat în RO</span> pentru ca studenții să descopere antreprenoriatul românesc",
+      "summary": "Platforma Fabricat în RO lansează inițiativa „Studenții descoperă antreprenoriatul românesc”, un proiect care își propune să conecteze studenții din România cu antreprenorii care au construit...",
+      "link": "https://start-up.ro/initiativa-hi-fabricat-in-ro-hi-pentru-ca-studentii-sa-descopere-antreprenoriatul-romanesc",
+      "published_utc": "2026-03-18T07:34:11+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://start-up.ro/img/articles/3/8/0/38053/cover-38053-src.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Start-Up Romania",
+      "title": "Antreprenorul Marius Grigoraș se alătură platformei de finanțare participativă pentru imobiliare <span class=\"title-highlight\">SyndiFi</span>",
+      "summary": "SyndiFi anunță cooptarea lui Marius Grigoraș ca noul CTO și cofondator. Cu active imobiliare comerciale de peste 24 de milioane de euro sub gestiune, SyndiFi mizează pe experiența lui Marius pentru...",
+      "link": "https://start-up.ro/antreprenorul-marius-grigoras-se-alatura-platformei-de-finantare-participativa-pentru-imobiliare-hi-syndifi-hi",
+      "published_utc": "2026-03-18T07:26:08+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://start-up.ro/img/articles/3/8/0/38052/cover-38052-src.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Start-Up Romania",
+      "title": "Grupul Purcari achiziționează crama SERVE Ceptura, prima cramă privată deschisă după 1989",
+      "summary": "Purcari Wineries anunță semnarea documentelor contractuale în cadrul tranzacției pentru achiziția societății SERVE Ceptura. Tranzacția va fi finalizată după obținerea tuturor aprobărilor...",
+      "link": "https://start-up.ro/grupul-purcari-achizitioneaza-crama-serve-ceptura-prima-crama-privata-deschisa-dupa-1989",
+      "published_utc": "2026-03-18T07:18:56+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://start-up.ro/img/articles/3/8/0/38051/cover-38051-src.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 E St. Patrick’s Day şi la Vaslui! S-a lansat o ediţie limitată de spirt Mona verde",
+      "summary": "Vasluienii arată încă o dată că sunt cei mai irlandezi dintre moldoveni! În magazinele săteşti, farmaciile, fast-foodurile şi chioşcurile spirt din judeţ se vinde zilele acestea o ediţie limitată a celebrei Mona, colorată în verde strălucitor. Lansarea alcoolului sanitar verde are loc cu ocazia zilei de Sf. Patrick, ocrotitorul Irlandei, ţară insulară poreclită uneori &#8222;Vasluiul [&#8230;] The post E St. Patrick&#8217;s Day şi la Vaslui! S-a lansat o ediţie limitată de spirt Mona verde appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/monden/e-st-patricks-day-si-la-vaslui-s-a-lansat-o-editie-limitata-de-spirt-mona-verde",
+      "published_utc": "2026-03-17T13:19:12+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/stpatricksvaslui.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "RomaniaPozitiva",
+      "title": "Premiile Excelenței Interpretative – Gala UCIMR 2026 își anunță nominalizații",
+      "summary": "Uniunea de Creație Interpretativă a Muzicienilor din România (UCIMR) anunță Premiile Excelenței Interpretative – Gala UCIMR 2026 – aflată la a II-a ediție, ce va avea loc marți, 24 martie&#8230; Articolul Premiile Excelenței Interpretative &#8211; Gala UCIMR 2026 își anunță nominalizații apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/bucuresti/premiile-excelentei-interpretative-gala-ucimr-2026-isi-anunta-nominalizatii",
+      "published_utc": "2026-03-18T07:12:09+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-e3be3ffa5da32c21/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "RomaniaPozitiva",
+      "title": "Campania „Sănătate pentru Sate” a ajuns în localitatea Păcureți",
+      "summary": "O noua acțiune a Campaniei „Sănătate pentru Sate” s-a desfășurat, sâmbătă, 14 martie 2026, la Școala Gimnazială din localitatea Păcureți, județul Prahova. Medici specialiști în diabet zaharat, nutriție și boli&#8230; Articolul Campania „Sănătate pentru Sate” a ajuns în localitatea Păcureți apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/sanatate/campania-sanatate-pentru-sate-a-ajuns-in-localitatea-pacureti",
+      "published_utc": "2026-03-18T07:03:02+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-c295006d2a8a6224/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "RomaniaPozitiva",
+      "title": "Privind de la înălțime… ca o girafă | Atelier de science & craft",
+      "summary": "Muzeul Național de Istorie Naturală Grigore Antipa îi invită sâmbătă, 21 martie 2026, pe tinerii exploratori, cu vârste între 6 și 10 ani, la un atelier de science &#38; craft dedicat unuia dintre&#8230; Articolul Privind de la înălțime&#8230; ca o girafă | Atelier de science &#038; craft apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/bucuresti/privind-de-la-inaltime-ca-o-girafa-atelier-de-science-craft",
+      "published_utc": "2026-03-18T07:05:33+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-2c119321ec06274c/480/320"
     },
     {
       "section": "romania",
       "kind": "ro",
       "source": "Digi24",
-      "title": "Cel mai mare preț din istorie la pompă. Cât au ajuns să coste benzina și motorina și ce măsuri pregătesc autoritățile",
-      "summary": "A noua scumpire la pompă din ultimele două săptămâni aduce prețuri record pentru carburanți, fiind înregistrat cel mai mare preț din istorie. Benzina standard a ajuns să fie vândută chiar și cu 8,82 lei pe litru, în timp ce motorina costă 9,39 lei, iar varianta premium urcă până la 9,94 lei. În acest context, autoritățile analizează ce măsuri pot lua pentru a face față creșterilor, care se apropie deja de pragul de 10 lei pe litru.",
-      "link": "https://www.digi24.ro/stiri/actualitate/cel-mai-mare-pret-din-istorie-la-pompa-cat-au-ajuns-sa-coste-benzina-si-motorina-si-ce-masuri-pregatesc-autoritatile-3681971",
-      "published_utc": "2026-03-18T06:50:20+00:00",
+      "title": "Simulare Evaluarea Națională 2026: Elevii susțin astăzi proba la limba maternă. Când se afișează notele finale",
+      "summary": "Elevii de clasa a VIII-a care studiază în limbile minorităților naționale susțin miercuri, 18 martie, ultima probă a simulării Evaluării Naționale 2026 - examenul la limba și literatura maternă. Potrivit Ministerului Educației, rezultatele vor fi afișate la finalul lunii martie.",
+      "link": "https://www.digi24.ro/stiri/actualitate/educatie/simulare-evaluarea-nationala-2026-elevii-sustin-astazi-proba-la-limba-materna-cand-se-afiseaza-notele-finale-3681019",
+      "published_utc": "2026-03-18T05:00:32+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMyUyRjE4JTJGMjY0Mjg3Nl8yNjQy/ODc2X3BvbXBhLWRlLWJlbnppbmEtYWxp/bWVudGFyZS1tYXNpbmEtc2h1dHRlcnN0/b2NrXzE1NDQ3MTM3Ni1zY2FsZWQtMS5q/cGcmaGFzaD00YmNiY2YxOTgxYjBiZDk1M2U0MzM2YzkwOGNkMjhlOA==.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Start-Up Romania",
-      "title": "EVA, arena VR în care jucătorii intră fizic în joc, deschide a doua locație în București și pregătește extinderea prin franciză",
-      "summary": "La aproape un an de la deschiderea primei arene EVA (Esports Virtual Arenas) din România, conceptul de gaming în realitate virtuală care combină mișcarea fizică cu jocurile competitive se...",
-      "link": "https://start-up.ro/eva-arena-vr-in-care-jucatorii-intra-fizic-in-joc-deschide-a-doua-locatie-in-bucuresti-si-pregateste-extinderea-prin-franciza",
-      "published_utc": "2026-03-18T06:05:01+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://start-up.ro/img/articles/3/8/0/38033/cover-38033-src.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Start-Up Romania",
-      "title": "The Romanian-founded startup building a „European cloud” from Berlin, Amsterdam and Eastern Europe",
-      "summary": "A startup founded by romanians entrepreneurs, funded from Berlin, headquartered in Amsterdam, with infrastructure spread across France and Germany, wants to simplify one of the most complex areas...",
-      "link": "https://start-up.ro/the-romanian-founded-startup-building-a-european-cloud-from-berlin-amsterdam-and-eastern-europe",
-      "published_utc": "2026-03-18T06:05:01+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://start-up.ro/img/articles/3/8/0/38048/cover-38048-src.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Green Start-Up Romania",
-      "title": "Cum produce BMW noul i3 cu un impact minim asupra mediului înconjurător",
-      "summary": "La fel ca în cazul BMW iX3, BMW Group aplică o abordare 360° a dezvoltării durabile și pentru BMW i3. În centrul se află decarbonizarea pe tot parcursul ciclului de viață al automobilului - de la...",
-      "link": "https://green.start-up.ro/ro/cum-produce-bmw-noul-i3-cu-un-impact-minim-asupra-mediului-inconjurator",
-      "published_utc": "2026-03-18T06:00:01+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://green.start-up.ro/img/articles/3/5/7/35763/cover-35763-src.jpg"
+      "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMyUyRjE3JTJGMjY0MjAyMV8yNjQy/MDIxX1N1YmllY3RlLWxpbWJhLW1hdGVy/bmEtU2ltdWxhcmUtRXZhbHVhcmVhLU5h/dGlvbmFsYS0yMDI2Xy1Gb3RvLUdldHR5/LUltYWdlcy5qcGcmaGFzaD1jMTE3ZTJj/MzhiZDA3YTQ1ZWU0MTEyMmY2NmNiNzQ3Zg==.jpg"
     },
     {
       "section": "romania",
@@ -915,37 +999,25 @@
       "section": "romania",
       "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 Lia Savonea explică de ce nu l-a scăpat pe Dani Mocanu de puşcărie: „Scuze! N-aveam semnal!”",
-      "summary": "Dani Mocanu n-a reuşit să scape de puşcărie &#8211; recursul în casaţie i-a fost respins, iar manelistul rămâne cu pedeapsa de 4 ani pentru tentativă de omor. De îndată ce a ieşit cu maşina din tunel, şefa ICCJ, Lia Savonea, a oferit şi motivarea pentru decizia Curţii: &#8222;Scuze! Nu aveam semnal.&#8221; Potrivit Liei Savonea, în [&#8230;] The post Lia Savonea explică de ce nu l-a scăpat pe Dani Mocanu de puşcărie: &#8222;Scuze! N-aveam semnal!&#8221; appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/lia-savonea-explica-de-ce-nu-l-a-scapat-pe-dani-mocanu-de-puscarie-scuze-n-aveam-semnal",
-      "published_utc": "2026-03-17T15:35:17+00:00",
+      "title": "😂 Călin Georgescu i-a cerut ajutorul și lui nea Costel. N-o să ghiciți unde l-a trimis!",
+      "summary": "Călin Georgescu a recunoscut că i-a cerut ajutorul lui Sebastian Ghiță înainte de alegerile prezidențiale, dar mai departe de atât a delirat complet. El a pretins că i-a cerut bani lui Sebastian Ghiță doar ca să fie refuzat &#8211; genul de explicație pe care doar cineva uluitor de prost o poate crede. Din fericire pentru [&#8230;] The post Călin Georgescu i-a cerut ajutorul și lui nea Costel. N-o să ghiciți unde l-a trimis! appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/politic/calin-georgescu-i-a-cerut-ajutorul-si-lui-nea-costel-n-o-sa-ghiciti-unde-l-a-trimis",
+      "published_utc": "2026-03-17T10:02:17+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/liasavonealavolan.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "Programul național inițiat de CONAF a deschis drumul educației antreprenoriale aplicate în liceele din România",
-      "summary": "Maratonul pentru Educație Antreprenorială intră în etapa competițiilor de planuri de afaceri Programul care a adus antreprenoriatul în liceele României a ajuns la a IV a ediție București, 16 martie&#8230; Articolul Programul național inițiat de CONAF a deschis drumul educației antreprenoriale aplicate în liceele din România apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/economie/programul-national-initiat-de-conaf-a-deschis-drumul-educatiei-antreprenoriale-aplicate-in-liceele-din-romania",
-      "published_utc": "2026-03-17T11:24:23+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-652b4579f9c1a117/480/320"
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/nea_costel_bere_terasa.jpg"
     },
     {
       "section": "romania",
       "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 Mizilul își renovează ștrandul ca să atragă miliardarii care fug din Dubai",
-      "summary": "Frenezie în Mizil, unde vestea că tot mai mulți miliardari fug din Dubai în căutarea de orașe mai sigure a mobilizat ca niciodată autoritățile locale. Primarul din Mizil a alocat aproape 200 de lei pentru renovarea ștrandului din oraș, convins fiind că astfel orașul lui va deveni irezistibil pentru miliardarii care părăsesc Dubaiul. „Am alocat [&#8230;] The post Mizilul își renovează ștrandul ca să atragă miliardarii care fug din Dubai appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/monden/mizilul-isi-renoveaza-strandul-ca-sa-atraga-miliardarii-care-fug-din-dubai",
-      "published_utc": "2026-03-17T05:21:00+00:00",
+      "title": "😂 Un nou jucător",
+      "summary": "The post Un nou jucător appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/ovi/un-nou-jucator",
+      "published_utc": "2026-03-17T08:04:21+00:00",
       "score": 3,
-      "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/strand_mizil_renovat.jpg"
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/Un-nou-jucator.jpg"
     },
     {
       "section": "romania",
@@ -984,6 +1056,18 @@
       "image": "https://picsum.photos/seed/vb-cd91d5c05ed09ce2/480/320"
     },
     {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Carbon nanotube 'black paint' absorbs terahertz radiation to cut 6G interference",
+      "summary": "Skoltech researchers and their colleagues from KTH Royal Institute of Technology, Sweden, have created an important building block for future 6G communication technology, which will make wireless data transfer at superior transmission rates possible. The newly developed piece of the 6G puzzle is not a device component, but a carbon nanotube-based black paint of sorts that thoroughly absorbs electromagnetic radiation wherever its transmission would be detrimental. The study was published in Nature Communications.",
+      "link": "https://phys.org/news/2026-03-carbon-nanotube-black-absorbs-terahertz.html",
+      "published_utc": "2026-03-17T21:20:02+00:00",
+      "score": 2,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/paint-it-black-materia.jpg"
+    },
+    {
       "section": "romania",
       "kind": "ro",
       "source": "World Vision Romania",
@@ -1008,54 +1092,6 @@
       "image": "https://picsum.photos/seed/vb-edb0443f2c481e88/480/320"
     },
     {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Fundatia Inocenti",
-      "title": "Beneficiile ieșirilor culturale în dezvoltarea copiilor",
-      "summary": "Descoperă beneficiile ieșirilor culturale pentru copii și modul în care muzeele, teatrul și excursiile contribuie la dezvoltarea lor emoțională și educațională. The post Beneficiile ieșirilor culturale în dezvoltarea copiilor appeared first on Fundația Inocenți .",
-      "link": "https://inocenti.ro/beneficiile-iesirilor-culturale-in-dezvoltarea-copiilor",
-      "published_utc": "2026-02-11T08:47:16+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-e363aa471e40eb2e/480/320"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Carbon nanotube 'black paint' absorbs terahertz radiation to cut 6G interference",
-      "summary": "Skoltech researchers and their colleagues from KTH Royal Institute of Technology, Sweden, have created an important building block for future 6G communication technology, which will make wireless data transfer at superior transmission rates possible. The newly developed piece of the 6G puzzle is not a device component, but a carbon nanotube-based black paint of sorts that thoroughly absorbs electromagnetic radiation wherever its transmission would be detrimental. The study was published in Nature Communications.",
-      "link": "https://phys.org/news/2026-03-carbon-nanotube-black-absorbs-terahertz.html",
-      "published_utc": "2026-03-17T21:20:02+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/paint-it-black-materia.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "StiriPozitive - Toate",
-      "title": "Rodica Bretin lansează romanul puzzle „Pisica de la ora cinci” la Librăria Libris din Brașov",
-      "summary": "Joi, 12 februarie, de la ora 18:00, la Librăria Libris (Str. Șt. O. Iosif) din Brașov, Rodica Bretin lansează volumul „Pisica de la ora cinci”, apărut în colecția Corint Fiction. &#8230; Read More The post Rodica Bretin lansează romanul puzzle „Pisica de la ora cinci” la Librăria Libris din Brașov appeared first on Stiri pozitive .",
-      "link": "https://stiripozitive.com/rodica-bretin-lanseaza-romanul-puzzle-pisica-de-la-ora-cinci-la-libraria-libris-din-brasov",
-      "published_utc": "2026-02-10T10:23:38+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-92e5e32e02f82c41/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "World Vision Romania",
-      "title": "Sondaj World Vision România: 99% dintre adolescenți folosesc AI, 80.96% au întâlnit conținut fals creat cu AI, iar 37.25% învață despre folosirea sigură a AI din online și social media",
-      "summary": "World Vision România: Avem nevoie de o strategie privind folosirea AI în școală și educație media Ziua Siguranței pe Internet,... Articolul Sondaj World Vision România: 99% dintre adolescenți folosesc AI, 80.96% au întâlnit conținut fals creat cu AI, iar 37.25% învață despre folosirea sigură a AI din online și social media apare prima dată în World Vision România .",
-      "link": "https://worldvision.ro/2026/02/10/sondaj-world-vision-romania-99-dintre-adolescenti-folosesc-ai-80-96-au-intalnit-continut-fals-creat-cu-ai-iar-37-25-invata-despre-folosirea-sigura-a-ai-din-online-si-social-media",
-      "published_utc": "2026-02-10T09:23:50+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-6ff3f8cda4c73e98/480/320"
-    },
-    {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
@@ -1070,26 +1106,26 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Fundatia Vodafone Romania",
-      "title": "Peste 6.000 de seniori din România au dobândit competențe digitale la atelierele Hi Digital ale Fundației Vodafone",
-      "summary": "București, 05 februarie 2026 &#8211; Fundația Vodafone și-a continuat și în 2025 misiunea de a oferi educație digitală seniorilor din România pentru a reduce gradul de izolare și vulnerabilitate al acestora într-o societate tot mai tehnologizată. În 2025, la atelierele Hi Digital au participat peste 6.000 de seniori din 30 de localități din România, care [&#8230;] The post Peste 6.000 de seniori din România au dobândit competențe digitale la atelierele Hi Digital ale Fundației Vodafone appeared first on Fundația Vodafone România - e normal sa facem bine .",
-      "link": "https://fundatia-vodafone.ro/noutati/comunicate-de-presa/peste-6-000-de-seniori-din-romania-au-dobandit-competente-digitale-la-atelierele-hi-digital-ale-fundatiei-vodafone",
-      "published_utc": "2026-02-05T11:03:08+00:00",
+      "source": "Fundatia Inocenti",
+      "title": "Beneficiile ieșirilor culturale în dezvoltarea copiilor",
+      "summary": "Descoperă beneficiile ieșirilor culturale pentru copii și modul în care muzeele, teatrul și excursiile contribuie la dezvoltarea lor emoțională și educațională. The post Beneficiile ieșirilor culturale în dezvoltarea copiilor appeared first on Fundația Inocenți .",
+      "link": "https://inocenti.ro/beneficiile-iesirilor-culturale-in-dezvoltarea-copiilor",
+      "published_utc": "2026-02-11T08:47:16+00:00",
       "score": 3,
       "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-7d7cdbac0f2be721/480/320"
+      "image": "https://picsum.photos/seed/vb-e363aa471e40eb2e/480/320"
     },
     {
       "section": "romania",
       "kind": "ro",
-      "source": "World Vision Romania",
-      "title": "„Putem face și noi partea noastră”. Copiii din Consiliul Consultativ World Vision România arată de ce investiția în educația și siguranța copilului nu este o cheltuială, ci cheia viitorului",
-      "summary": "București, 23 ianuarie 2026. De Ziua Internațională a Educației, sărbătorită anul acesta sub tema globală „Puterea tinerilor în co-crearea educației”,... Articolul „Putem face și noi partea noastră”. Copiii din Consiliul Consultativ World Vision România arată de ce investiția în educația și siguranța copilului nu este o cheltuială, ci cheia viitorului apare prima dată în World Vision România .",
-      "link": "https://worldvision.ro/2026/02/04/putem-face-si-noi-partea-noastra-copiii-din-consiliul-consultativ-world-vision-romania-arata-de-ce-investitia-in-educatia-si-siguranta-copilului-nu-este-o-cheltuiala-ci-cheia-viito",
-      "published_utc": "2026-02-04T09:52:45+00:00",
+      "source": "StiriPozitive - Toate",
+      "title": "Rodica Bretin lansează romanul puzzle „Pisica de la ora cinci” la Librăria Libris din Brașov",
+      "summary": "Joi, 12 februarie, de la ora 18:00, la Librăria Libris (Str. Șt. O. Iosif) din Brașov, Rodica Bretin lansează volumul „Pisica de la ora cinci”, apărut în colecția Corint Fiction. &#8230; Read More The post Rodica Bretin lansează romanul puzzle „Pisica de la ora cinci” la Librăria Libris din Brașov appeared first on Stiri pozitive .",
+      "link": "https://stiripozitive.com/rodica-bretin-lanseaza-romanul-puzzle-pisica-de-la-ora-cinci-la-libraria-libris-din-brasov",
+      "published_utc": "2026-02-10T10:23:38+00:00",
       "score": 3,
       "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-3773689b30bbec4f/480/320"
+      "image": "https://picsum.photos/seed/vb-92e5e32e02f82c41/480/320"
     },
     {
       "section": "science",
@@ -1107,25 +1143,25 @@
       "section": "romania",
       "kind": "ro",
       "source": "World Vision Romania",
-      "title": "4 ani de „Start în educație”, cel mai mare program de educație timpurie din România: 1 din 3 grădinițe este dotată cu resurse educaționale.",
-      "summary": "Cel mai mare program de educație timpurie din România ajunge la 240.000 de copii preșcolari, 50.000 de părinți, 9.000 de... Articolul 4 ani de „Start în educație”, cel mai mare program de educație timpurie din România: 1 din 3 grădinițe este dotată cu resurse educaționale. apare prima dată în World Vision România .",
-      "link": "https://worldvision.ro/2026/02/04/4-ani-de-start-in-educatie-cel-mai-mare-program-de-educatie-timpurie-din-romania-1-din-3-gradinite-este-dotata-cu-resurse-educationale",
-      "published_utc": "2026-02-04T09:49:19+00:00",
+      "title": "Sondaj World Vision România: 99% dintre adolescenți folosesc AI, 80.96% au întâlnit conținut fals creat cu AI, iar 37.25% învață despre folosirea sigură a AI din online și social media",
+      "summary": "World Vision România: Avem nevoie de o strategie privind folosirea AI în școală și educație media Ziua Siguranței pe Internet,... Articolul Sondaj World Vision România: 99% dintre adolescenți folosesc AI, 80.96% au întâlnit conținut fals creat cu AI, iar 37.25% învață despre folosirea sigură a AI din online și social media apare prima dată în World Vision România .",
+      "link": "https://worldvision.ro/2026/02/10/sondaj-world-vision-romania-99-dintre-adolescenti-folosesc-ai-80-96-au-intalnit-continut-fals-creat-cu-ai-iar-37-25-invata-despre-folosirea-sigura-a-ai-din-online-si-social-media",
+      "published_utc": "2026-02-10T09:23:50+00:00",
       "score": 3,
       "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-d66905f31c64372e/480/320"
+      "image": "https://picsum.photos/seed/vb-6ff3f8cda4c73e98/480/320"
     },
     {
       "section": "romania",
       "kind": "ro",
-      "source": "United Way Romania",
-      "title": "Programul de educație nutrițională, NutriCOOLtura, și-a dublat impactul în 2025 și a ajuns în și mai multe școli din țară",
-      "summary": "Articolul Programul de educație nutrițională, NutriCOOLtura, și-a dublat impactul în 2025 și a ajuns în și mai multe școli din țară apare prima dată în United Way Romania .",
-      "link": "https://www.unitedway.ro/2026/02/nutricooltura-a-dublat-impactul-in-2025",
-      "published_utc": "2026-02-04T09:40:32+00:00",
+      "source": "Fundatia Vodafone Romania",
+      "title": "Peste 6.000 de seniori din România au dobândit competențe digitale la atelierele Hi Digital ale Fundației Vodafone",
+      "summary": "București, 05 februarie 2026 &#8211; Fundația Vodafone și-a continuat și în 2025 misiunea de a oferi educație digitală seniorilor din România pentru a reduce gradul de izolare și vulnerabilitate al acestora într-o societate tot mai tehnologizată. În 2025, la atelierele Hi Digital au participat peste 6.000 de seniori din 30 de localități din România, care [&#8230;] The post Peste 6.000 de seniori din România au dobândit competențe digitale la atelierele Hi Digital ale Fundației Vodafone appeared first on Fundația Vodafone România - e normal sa facem bine .",
+      "link": "https://fundatia-vodafone.ro/noutati/comunicate-de-presa/peste-6-000-de-seniori-din-romania-au-dobandit-competente-digitale-la-atelierele-hi-digital-ale-fundatiei-vodafone",
+      "published_utc": "2026-02-05T11:03:08+00:00",
       "score": 3,
       "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-d980b13e0a5fd2be/480/320"
+      "image": "https://picsum.photos/seed/vb-7d7cdbac0f2be721/480/320"
     },
     {
       "section": "science",
@@ -1142,14 +1178,26 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Fundatia Regala Margareta",
-      "title": "36 de artiști ai noii generații din România și Republica Moldova selectați  ca bursieri și promotori ai artelor vizuale și muzicii clasice",
-      "summary": "A 18-a generație de bursieri ai programului național Tinere Talente susținut de Fundația Regală Margareta a României Fundația Regală Margareta a României anunță cei 36 de tineri artiști din România și Republica Moldova care vor beneficia de burse în cadrul ediției a 18-a a... Post-ul 36 de artiști ai noii generații din România și Republica Moldova selectați ca bursieri și promotori ai artelor vizuale și muzicii clasice apare prima dată în Fundația Regală Margareta a României .",
-      "link": "https://www.frmr.ro/36-de-artisti-ai-noii-generatii-din-romania-si-republica-moldova-selectati-ca-bursieri-si-promotori-ai-artelor-vizuale-si-muzicii-clasice",
-      "published_utc": "2026-02-03T15:12:21+00:00",
+      "source": "World Vision Romania",
+      "title": "„Putem face și noi partea noastră”. Copiii din Consiliul Consultativ World Vision România arată de ce investiția în educația și siguranța copilului nu este o cheltuială, ci cheia viitorului",
+      "summary": "București, 23 ianuarie 2026. De Ziua Internațională a Educației, sărbătorită anul acesta sub tema globală „Puterea tinerilor în co-crearea educației”,... Articolul „Putem face și noi partea noastră”. Copiii din Consiliul Consultativ World Vision România arată de ce investiția în educația și siguranța copilului nu este o cheltuială, ci cheia viitorului apare prima dată în World Vision România .",
+      "link": "https://worldvision.ro/2026/02/04/putem-face-si-noi-partea-noastra-copiii-din-consiliul-consultativ-world-vision-romania-arata-de-ce-investitia-in-educatia-si-siguranta-copilului-nu-este-o-cheltuiala-ci-cheia-viito",
+      "published_utc": "2026-02-04T09:52:45+00:00",
       "score": 3,
       "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-60ba8ce04ddcd48e/480/320"
+      "image": "https://picsum.photos/seed/vb-3773689b30bbec4f/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "World Vision Romania",
+      "title": "4 ani de „Start în educație”, cel mai mare program de educație timpurie din România: 1 din 3 grădinițe este dotată cu resurse educaționale.",
+      "summary": "Cel mai mare program de educație timpurie din România ajunge la 240.000 de copii preșcolari, 50.000 de părinți, 9.000 de... Articolul 4 ani de „Start în educație”, cel mai mare program de educație timpurie din România: 1 din 3 grădinițe este dotată cu resurse educaționale. apare prima dată în World Vision România .",
+      "link": "https://worldvision.ro/2026/02/04/4-ani-de-start-in-educatie-cel-mai-mare-program-de-educatie-timpurie-din-romania-1-din-3-gradinite-este-dotata-cu-resurse-educationale",
+      "published_utc": "2026-02-04T09:49:19+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-d66905f31c64372e/480/320"
     },
     {
       "section": "science",
@@ -1162,6 +1210,30 @@
       "score": 0,
       "freshness_boost": 3,
       "image": "https://picsum.photos/seed/vb-5798512da4764e7e/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "United Way Romania",
+      "title": "Programul de educație nutrițională, NutriCOOLtura, și-a dublat impactul în 2025 și a ajuns în și mai multe școli din țară",
+      "summary": "Articolul Programul de educație nutrițională, NutriCOOLtura, și-a dublat impactul în 2025 și a ajuns în și mai multe școli din țară apare prima dată în United Way Romania .",
+      "link": "https://www.unitedway.ro/2026/02/nutricooltura-a-dublat-impactul-in-2025",
+      "published_utc": "2026-02-04T09:40:32+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-d980b13e0a5fd2be/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Fundatia Regala Margareta",
+      "title": "36 de artiști ai noii generații din România și Republica Moldova selectați  ca bursieri și promotori ai artelor vizuale și muzicii clasice",
+      "summary": "A 18-a generație de bursieri ai programului național Tinere Talente susținut de Fundația Regală Margareta a României Fundația Regală Margareta a României anunță cei 36 de tineri artiști din România și Republica Moldova care vor beneficia de burse în cadrul ediției a 18-a a... Post-ul 36 de artiști ai noii generații din România și Republica Moldova selectați ca bursieri și promotori ai artelor vizuale și muzicii clasice apare prima dată în Fundația Regală Margareta a României .",
+      "link": "https://www.frmr.ro/36-de-artisti-ai-noii-generatii-din-romania-si-republica-moldova-selectati-ca-bursieri-si-promotori-ai-artelor-vizuale-si-muzicii-clasice",
+      "published_utc": "2026-02-03T15:12:21+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-60ba8ce04ddcd48e/480/320"
     },
     {
       "section": "science",
@@ -1736,6 +1808,7 @@
       "https://picsum.photos/seed/vb-landscape-202603-009/1600/900"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/33132003433_ff4b2c6349_b.jpg",
       "https://live.staticflickr.com/65535/50910446288_a973e67cf2_b.jpg",
       "https://live.staticflickr.com/65535/17649464068_c4fc86e1ff_b.jpg",
       "https://live.staticflickr.com/65535/32673782630_e1266429c2_b.jpg",
@@ -1752,10 +1825,10 @@
       "https://live.staticflickr.com/65535/51115563691_64f9cfd197_b.jpg",
       "https://live.staticflickr.com/65535/36990008514_3c64bf89f7_b.jpg",
       "https://live.staticflickr.com/65535/55135837905_b38dbc9043_b.jpg",
-      "https://live.staticflickr.com/65535/17292280521_aaf0ab3312_b.jpg",
-      "https://live.staticflickr.com/65535/55152597959_152efcb318_b.jpg"
+      "https://live.staticflickr.com/65535/17292280521_aaf0ab3312_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55153196107_659219820a_b.jpg",
       "https://live.staticflickr.com/65535/55153620056_2afdd9766d_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/3/3f/NYC_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg",
       "https://live.staticflickr.com/65535/55152969673_ea99d4769f_b.jpg",
@@ -1772,12 +1845,11 @@
       "https://live.staticflickr.com/65535/55152155741_043d31b939_b.jpg",
       "https://live.staticflickr.com/65535/55152393414_1fcdc68504_b.jpg",
       "https://live.staticflickr.com/65535/55152323953_b6f8f7f962_b.jpg",
-      "https://live.staticflickr.com/65535/55152502785_a93e55c7e4_b.jpg",
-      "https://live.staticflickr.com/65535/55152440070_4926766d1c_b.jpg"
+      "https://live.staticflickr.com/65535/55152502785_a93e55c7e4_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
+      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
