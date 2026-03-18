@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-03-18T17:04:23+00:00",
+  "generated_utc": "2026-03-18T18:43:56+00:00",
   "sections": {
     "romania": [
       {
@@ -25,18 +25,6 @@
         "score": 3,
         "freshness_boost": 3,
         "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/pavlmetrou.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 Georgescu a exagerat, spune Dumnezeu. „Nu-i ţin pe toţi. Doar pe securişti”",
-        "summary": "Momente penibile la Realitatea Plus 2000 TV: Dumnezeu însuşi a fost nevoit să intervină telefonic pentru a corecta o gafă a autoproclamatului preşedinte galactic Călin Georgescu. Întrebat din ce a trăit în ultimii 20 de ani, politicianul ar fi declarat cu nonşalanţă că &#8222;Dumnezeu îi ţine pe toţi&#8221;. În replică, Dumnezeu a simţit nevoia să [&#8230;] The post Georgescu a exagerat, spune Dumnezeu. &#8222;Nu-i ţin pe toţi. Doar pe securişti&#8221; appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/politic/georgescu-a-exagerat-spune-dumnezeu-nu-i-tin-pe-toti-doar-pe-securisti",
-        "published_utc": "2026-03-18T13:15:29+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/ancageorgescudzeu.jpg"
       },
       {
         "section": "romania",
@@ -85,6 +73,18 @@
         "score": 3,
         "freshness_boost": 1,
         "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/banksymalone-1.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 E St. Patrick’s Day şi la Vaslui! S-a lansat o ediţie limitată de spirt Mona verde",
+        "summary": "Vasluienii arată încă o dată că sunt cei mai irlandezi dintre moldoveni! În magazinele săteşti, farmaciile, fast-foodurile şi chioşcurile spirt din judeţ se vinde zilele acestea o ediţie limitată a celebrei Mona, colorată în verde strălucitor. Lansarea alcoolului sanitar verde are loc cu ocazia zilei de Sf. Patrick, ocrotitorul Irlandei, ţară insulară poreclită uneori &#8222;Vasluiul [&#8230;] The post E St. Patrick&#8217;s Day şi la Vaslui! S-a lansat o ediţie limitată de spirt Mona verde appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/monden/e-st-patricks-day-si-la-vaslui-s-a-lansat-o-editie-limitata-de-spirt-mona-verde",
+        "published_utc": "2026-03-17T13:19:12+00:00",
+        "score": 3,
+        "freshness_boost": 1,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/stpatricksvaslui.jpg"
       },
       {
         "section": "romania",
@@ -217,6 +217,18 @@
         "score": 3,
         "freshness_boost": 0,
         "image": "https://picsum.photos/seed/vb-d66905f31c64372e/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "United Way Romania",
+        "title": "Programul de educație nutrițională, NutriCOOLtura, și-a dublat impactul în 2025 și a ajuns în și mai multe școli din țară",
+        "summary": "Articolul Programul de educație nutrițională, NutriCOOLtura, și-a dublat impactul în 2025 și a ajuns în și mai multe școli din țară apare prima dată în United Way Romania .",
+        "link": "https://www.unitedway.ro/2026/02/nutricooltura-a-dublat-impactul-in-2025",
+        "published_utc": "2026-02-04T09:40:32+00:00",
+        "score": 3,
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-d980b13e0a5fd2be/480/320"
       },
       {
         "section": "romania",
@@ -370,109 +382,145 @@
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Children can face more anxiety when religion is lacking, according to study",
-        "summary": "Young people around the world are increasingly suffering from anxiety disorders. A team from the Mental Health Research and Treatment Center (FBZ) at Ruhr University Bochum, Germany, has investigated how this development correlates to changes in societal expectations and values in education. The researchers were able to show that religious belief plays a key role in protecting the mental health of children and adolescents. Countries where religiosity has lost significance exhibit a relatively high increase in the incidence of anxiety disorders, as the researchers report in the journal Developmental Science from February 11, 2026.",
-        "link": "https://phys.org/news/2026-03-children-anxiety-religion-lacking.html",
-        "published_utc": "2026-03-18T17:00:04+00:00",
+        "title": "Finding Easter eggs in entertainment boosts enjoyment and fan behavior, study finds",
+        "summary": "If you've watched popular movies or television shows in the last decade, there's a good chance you've found an Easter egg or two: not an actual brightly colored egg but a subtle reference to another movie or story in the form of a character in the background or object that also appears in other stories. While fan discussions abound online about what such clues might represent, little research has examined which types of fans are most likely to find them and whether they influence enjoyment.",
+        "link": "https://phys.org/news/2026-03-easter-eggs-boosts-enjoyment-fan.html",
+        "published_utc": "2026-03-18T18:40:03+00:00",
+        "score": 1,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/toy-story.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Most mass spectrometers can process just a few molecules at once: Reengineered prototype does a billion simultaneously",
+        "summary": "Mass spectrometry is already a powerful tool for determining what kind and how many molecules are present in a given sample. But most instruments still analyze their molecules one or just a few at a time, an approach that is inefficient and costly, and in which rare, but significant molecules can easily fall between the cracks.",
+        "link": "https://phys.org/news/2026-03-mass-spectrometers-molecules-reengineered-prototype.html",
+        "published_utc": "2026-03-18T18:00:14+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/most-mass-spectrometer.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Children shaped clay 15,000 years ago, long before pottery or farming, archaeologists find",
+        "summary": "Long before pottery, before agriculture, when the first villages took shape, people in the Levant were already molding clay with their hands, carefully, deliberately, and sometimes playfully. Some of those hands belonged to children.",
+        "link": "https://phys.org/news/2026-03-children-clay-years-pottery-farming.html",
+        "published_utc": "2026-03-18T18:00:10+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/15000-years-ago-childr.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "3D model predicts mosquito flight paths from sight and CO&#8322; cues",
+        "summary": "A mosquito finds its target with the help of certain cues in its environment, such as a person's silhouette and the carbon dioxide they exhale. Now researchers at MIT and Georgia Tech have found that these visual and chemical cues help determine the insects' flight paths. The team has developed the first three-dimensional model of mosquito flight, based on experiments with mosquitoes flying in the presence of different sensory cues.",
+        "link": "https://phys.org/news/2026-03-3d-mosquito-flight-paths-sight.html",
+        "published_utc": "2026-03-18T18:00:07+00:00",
+        "score": 1,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-model-predicts-how.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Mental health policy is emerging as a key voting issue for Americans, study suggests",
+        "summary": "A new University of Missouri study suggests mental health policies can play a significant role in how Americans choose political candidates. Past scholarly research has found that most Americans say they support mental health policies. Jake Haselswerdt, an associate professor of political science in Mizzou's College of Arts and Science, wanted to take the topic a step further by asking whether mental health policies actually matter when people choose to vote for a political candidate.",
+        "link": "https://phys.org/news/2026-03-mental-health-policy-emerging-key.html",
+        "published_utc": "2026-03-18T18:00:06+00:00",
+        "score": 1,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mental-health-and-ai.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "New study shows democracy has deep global roots—not just Greece and Rome",
+        "summary": "A new study on ancient societies from around the world is rewriting what we thought we knew about democracy. A team of researchers analyzed archaeological and historical evidence from 31 ancient societies across Europe, Asia, and the Americas and found that shared, inclusive governance was far more common than was once believed. The findings are published in the journal Science Advances.",
+        "link": "https://phys.org/news/2026-03-democracy-deep-global-roots-greece.html",
+        "published_utc": "2026-03-18T18:00:04+00:00",
         "score": 2,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/sunday-school.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-study-shows-democr.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "How young galaxies grew magnetic fields faster than expected",
-        "summary": "How fast can a galaxy build ordered magnetic fields spanning thousands of light-years? Existing theories say several billion years, but observations of galaxies in our universe imply shorter timescales. In a study published in the Physical Review Letters and highlighted in the Physics magazine, scientists propose an explanation that resolves this contradiction. They say that the collapse of plasma clouds during the formation of galaxies could significantly accelerate the growth of these magnetic fields.",
-        "link": "https://phys.org/news/2026-03-young-galaxies-grew-magnetic-fields.html",
-        "published_utc": "2026-03-18T17:00:01+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-young-galaxies-gre.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "What an ancient Chinese philosopher can teach us about Americans' obsession with college rankings",
-        "summary": "Each March, many of the country's most selective colleges and universities release their admissions decisions, reviving debates over the roles of race, wealth and privilege—and putting Americans' cultural obsession with rankings back in the spotlight.",
-        "link": "https://phys.org/news/2026-03-ancient-chinese-philosopher-americans-obsession.html",
-        "published_utc": "2026-03-18T16:50:01+00:00",
+        "title": "Why heights and snakes still hit harder: Study tracks fear sweat in 119 people",
+        "summary": "Fear-eliciting images of modern and ancestral threats are equally likely to evoke physiological reactions, despite their distinct evolutionary origins, according to a study published in the open-access journal PLOS One by Eva Landová from Charles University, the Czech Republic, and colleagues. However, ancestral threats such as heights and venomous snakes trigger greater skin resistance responses, a measure of sweating, compared to modern threats and harmless stimuli.",
+        "link": "https://phys.org/news/2026-03-heights-snakes-harder-tracks-people.html",
+        "published_utc": "2026-03-18T18:00:03+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/college-1.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ancestral-and-modern-t.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Climate change could pose a major risk to cassava in Africa: Study sets out what can be done now",
-        "summary": "Cassava is a starchy, tuberous root, introduced to sub-Saharan Africa by Portuguese traders centuries ago. It is a nutrition lifeboat for over 800 million people worldwide.",
-        "link": "https://phys.org/news/2026-03-climate-pose-major-cassava-africa.html",
-        "published_utc": "2026-03-18T16:40:06+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/cassava-1.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Fossilized whale skulls reveal feeding secrets of sharks 5 million years ago",
-        "summary": "A new study analyzing two fossilized whale skulls from around 5 million years ago has revealed fragments of sharks' teeth lodged inside them. This provides rare evidence of how sharks fed on whales in north European waters in prehistoric times.",
-        "link": "https://phys.org/news/2026-03-fossilized-whale-skulls-reveal-secrets.html",
-        "published_utc": "2026-03-18T16:40:04+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-uncovers-the-fee-1.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "AI could help social entrepreneurs unlock new sources of finance",
-        "summary": "A new research chapter suggests that artificial intelligence could help tackle one of the biggest challenges social entrepreneurs face: getting the funding they need to grow. In the chapter Artificial Intelligence as an Enabler for Financing Social Entrepreneurs, researchers Dr. Nisha Prakash and Rajitha Burra of the Royal Docks School of Business and Law, University of East London explore how new AI-powered financial tools could support businesses that aim to create social impact.",
-        "link": "https://phys.org/news/2026-03-ai-social-entrepreneurs-sources.html",
-        "published_utc": "2026-03-18T16:30:04+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/entrepreneur.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Pioneering research on salmon louse larvae could better inform parasite control strategies",
-        "summary": "A first-of-its-kind University of Stirling study could better inform strategies to control salmon lice, after researchers uncovered major differences in the secretions the parasite produces as larvae. Like other parasites, such as mosquitoes and ticks, salmon lice secrete substances from their glands which make it easier for them to feed or evade their host's immune system.",
-        "link": "https://phys.org/news/2026-03-salmon-louse-larvae-parasite-strategies.html",
-        "published_utc": "2026-03-18T16:20:04+00:00",
+        "title": "Neanderthals may have used birch tar for its anti-bacterial properties, experiments suggest",
+        "summary": "Neanderthals probably used birch tar for multiple functions, including treating their wounds, according to a study published in the open-access journal PLOS One by a team of researchers led by Tjaark Siemssen of the University of Cologne, Germany, and the University of Oxford, U.K.",
+        "link": "https://phys.org/news/2026-03-neanderthals-birch-tar-anti-bacterial.html",
+        "published_utc": "2026-03-18T18:00:01+00:00",
         "score": 2,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/pioneering-research-on.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/neanderthals-may-have.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "The fish species that knows when you are watching them",
-        "summary": "Emperor cichlids, large fish native to Lake Tanganyika in Africa, don't like being stared at, especially if someone's gaze is directed at their offspring. Those are the findings of a new study published in the journal Royal Society Open Science. In animal societies, gaze can provide information to others without vocal signals. For example, when one individual in a group notices that a predator is watching, the others can pick up on it and become more alert.",
-        "link": "https://phys.org/news/2026-03-fish-species.html",
-        "published_utc": "2026-03-18T16:20:03+00:00",
+        "title": "Remote working challenges linked to management issues",
+        "summary": "Strong organizational and management capabilities are key to implementing and getting the most out of successful remote and hybrid working practices.",
+        "link": "https://phys.org/news/2026-03-remote-linked-issues.html",
+        "published_utc": "2026-03-18T17:50:01+00:00",
+        "score": 2,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/remote-work.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Tracking male sea turtles just got easier",
+        "summary": "Monitoring the populations of one of nature's slower creatures could become faster, thanks to the University of Georgia. UGA researchers have developed an easier, more cost-effective way to learn more about male marine turtles, a traditionally elusive creature in the world's oceans.",
+        "link": "https://phys.org/news/2026-03-tracking-male-sea-turtles-easier.html",
+        "published_utc": "2026-03-18T17:40:03+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tracking-male-sea-turt.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "The way you walk can reveal your true feelings",
+        "summary": "Whether you're striding with purpose, swaggering with confidence, or trudging slowly along the street, the way you walk can reveal how you're feeling, according to new research published in the journal Royal Society Open Science. We already know that some features of our gait can reflect our emotional state, such as heavy steps conveying anger and slumped shoulders indicating sadness. However, researchers led by Mina Wakabayashi at the Advanced Telecommunications Research Institute International in Japan and her colleagues sought to determine whether there is a specific, coordinated movement pattern that reliably signals these emotional states.",
+        "link": "https://phys.org/news/2026-03-reveal-true.html",
+        "published_utc": "2026-03-18T17:20:09+00:00",
         "score": 1,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-fish-species-that-1.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-the-way-you-walk-c.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Astronomers search for 'exotrojans' hiding in extreme pulsar systems",
-        "summary": "Greek mythology has given a name to a great many objects in our solar system. But perhaps one of the least well understood are the Trojans, named after the people of Troy featured in \"The Iliad.\" When astronomers refer to them, they are normally talking about a group of more than 10,000 confirmed asteroids orbiting at the Lagrange points both in front of and behind Jupiter on its orbit around the sun.",
-        "link": "https://phys.org/news/2026-03-astronomers-exotrojans-extreme-pulsar.html",
-        "published_utc": "2026-03-18T16:10:06+00:00",
-        "score": 0,
+        "title": "Liquid biopsy method uses nanoparticle Raman signals to separate two lookalike enzymes",
+        "summary": "RIKEN researchers have demonstrated a method that can detect tiny amounts of biomarkers in liquid samples and can distinguish between highly similar biomarkers. This promises to boost the versatility and usefulness of liquid biopsies. The results are published in the Proceedings of the National Academy of Sciences.",
+        "link": "https://phys.org/news/2026-03-liquid-biopsy-method-nanoparticle-raman.html",
+        "published_utc": "2026-03-18T17:20:04+00:00",
+        "score": 1,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/astronomers-search-for.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/liquid-biopsy-method-d.jpg"
       }
     ],
     "environment": [
@@ -770,18 +818,6 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "Chef Forum: echipa României la Bocuse d’Or Europe vine la Cluj după experiența de la Marsilia",
-      "summary": "Cluj-Napoca devine, pe 25 martie, punctul de întâlnire al comunității culinare din România, odată cu prima ediție din acest an a Chef Forum, eveniment organizat de Asociația Națională a Bucătarilor&#8230; Articolul Chef Forum: echipa României la Bocuse d’Or Europe vine la Cluj după experiența de la Marsilia apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/economie/chef-forum-echipa-romaniei-la-bocuse-dor-europe-vine-la-cluj-dupa-experienta-de-la-marsilia",
-      "published_utc": "2026-03-18T11:38:42+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-8ab6d99a031d2ef6/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "Times New Roman (Satira)",
       "title": "😂 Daniel Pavel de la Desafio a făcut senzaţie la metrou! Mii de oameni s-au întrebat cine plm mai e şi ăsta",
       "summary": "Celebra vedetă &#8222;Daniel Pavel&#8221; de la îndrăgita emisiune televizată &#8222;Desafio&#8221; a făcut un adevărat spectacol în această dimineaţă la metrou! Hotărât să renunţe la confortul maşinii şi să coboare printre oameni, Daniel Pavel de la Desafio a fost întâmpinat de o adevărată hoardă de fani, care i-au adresat cuvinte pline de iubire precum &#8222;Cine plm [&#8230;] The post Daniel Pavel de la Desafio a făcut senzaţie la metrou! Mii de oameni s-au întrebat cine plm mai e şi ăsta appeared first on Times New Roman .",
@@ -806,6 +842,30 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "RomaniaPozitiva",
+      "title": "Chef Forum: echipa României la Bocuse d’Or Europe vine la Cluj după experiența de la Marsilia",
+      "summary": "Cluj-Napoca devine, pe 25 martie, punctul de întâlnire al comunității culinare din România, odată cu prima ediție din acest an a Chef Forum, eveniment organizat de Asociația Națională a Bucătarilor&#8230; Articolul Chef Forum: echipa României la Bocuse d’Or Europe vine la Cluj după experiența de la Marsilia apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/economie/chef-forum-echipa-romaniei-la-bocuse-dor-europe-vine-la-cluj-dupa-experienta-de-la-marsilia",
+      "published_utc": "2026-03-18T11:38:42+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-8ab6d99a031d2ef6/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 E St. Patrick’s Day şi la Vaslui! S-a lansat o ediţie limitată de spirt Mona verde",
+      "summary": "Vasluienii arată încă o dată că sunt cei mai irlandezi dintre moldoveni! În magazinele săteşti, farmaciile, fast-foodurile şi chioşcurile spirt din judeţ se vinde zilele acestea o ediţie limitată a celebrei Mona, colorată în verde strălucitor. Lansarea alcoolului sanitar verde are loc cu ocazia zilei de Sf. Patrick, ocrotitorul Irlandei, ţară insulară poreclită uneori &#8222;Vasluiul [&#8230;] The post E St. Patrick&#8217;s Day şi la Vaslui! S-a lansat o ediţie limitată de spirt Mona verde appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/monden/e-st-patricks-day-si-la-vaslui-s-a-lansat-o-editie-limitata-de-spirt-mona-verde",
+      "published_utc": "2026-03-17T13:19:12+00:00",
+      "score": 3,
+      "freshness_boost": 1,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/stpatricksvaslui.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "Teach for Romania",
       "title": "De la un proiect Teach for Romania la o inițiativă europeană: cum elevii din Reghin construiesc „Leadership HUB”",
       "summary": "O idee pornită din dorința de a dezvolta competențele de leadership ale elevilor s-a transformat, în doar câțiva ani, într-o inițiativă educațională care conectează școli din mai multe țări europene. Povestea proiectului „Leadership HUB” începe cu un proiect finanțat de Teach for Romania și continuă astăzi prin colaborări internaționale în cadrul platformei eTwinning și al [&#8230;]",
@@ -826,18 +886,6 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-ed87bce9b35837eb/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Georgescu a exagerat, spune Dumnezeu. „Nu-i ţin pe toţi. Doar pe securişti”",
-      "summary": "Momente penibile la Realitatea Plus 2000 TV: Dumnezeu însuşi a fost nevoit să intervină telefonic pentru a corecta o gafă a autoproclamatului preşedinte galactic Călin Georgescu. Întrebat din ce a trăit în ultimii 20 de ani, politicianul ar fi declarat cu nonşalanţă că &#8222;Dumnezeu îi ţine pe toţi&#8221;. În replică, Dumnezeu a simţit nevoia să [&#8230;] The post Georgescu a exagerat, spune Dumnezeu. &#8222;Nu-i ţin pe toţi. Doar pe securişti&#8221; appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/politic/georgescu-a-exagerat-spune-dumnezeu-nu-i-tin-pe-toti-doar-pe-securisti",
-      "published_utc": "2026-03-18T13:15:29+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/ancageorgescudzeu.jpg"
     },
     {
       "section": "romania",
@@ -927,13 +975,13 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Children can face more anxiety when religion is lacking, according to study",
-      "summary": "Young people around the world are increasingly suffering from anxiety disorders. A team from the Mental Health Research and Treatment Center (FBZ) at Ruhr University Bochum, Germany, has investigated how this development correlates to changes in societal expectations and values in education. The researchers were able to show that religious belief plays a key role in protecting the mental health of children and adolescents. Countries where religiosity has lost significance exhibit a relatively high increase in the incidence of anxiety disorders, as the researchers report in the journal Developmental Science from February 11, 2026.",
-      "link": "https://phys.org/news/2026-03-children-anxiety-religion-lacking.html",
-      "published_utc": "2026-03-18T17:00:04+00:00",
-      "score": 2,
+      "title": "Finding Easter eggs in entertainment boosts enjoyment and fan behavior, study finds",
+      "summary": "If you've watched popular movies or television shows in the last decade, there's a good chance you've found an Easter egg or two: not an actual brightly colored egg but a subtle reference to another movie or story in the form of a character in the background or object that also appears in other stories. While fan discussions abound online about what such clues might represent, little research has examined which types of fans are most likely to find them and whether they influence enjoyment.",
+      "link": "https://phys.org/news/2026-03-easter-eggs-boosts-enjoyment-fan.html",
+      "published_utc": "2026-03-18T18:40:03+00:00",
+      "score": 1,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/sunday-school.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/toy-story.jpg"
     },
     {
       "section": "romania",
@@ -963,13 +1011,25 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "How young galaxies grew magnetic fields faster than expected",
-      "summary": "How fast can a galaxy build ordered magnetic fields spanning thousands of light-years? Existing theories say several billion years, but observations of galaxies in our universe imply shorter timescales. In a study published in the Physical Review Letters and highlighted in the Physics magazine, scientists propose an explanation that resolves this contradiction. They say that the collapse of plasma clouds during the formation of galaxies could significantly accelerate the growth of these magnetic fields.",
-      "link": "https://phys.org/news/2026-03-young-galaxies-grew-magnetic-fields.html",
-      "published_utc": "2026-03-18T17:00:01+00:00",
-      "score": 1,
+      "title": "Most mass spectrometers can process just a few molecules at once: Reengineered prototype does a billion simultaneously",
+      "summary": "Mass spectrometry is already a powerful tool for determining what kind and how many molecules are present in a given sample. But most instruments still analyze their molecules one or just a few at a time, an approach that is inefficient and costly, and in which rare, but significant molecules can easily fall between the cracks.",
+      "link": "https://phys.org/news/2026-03-mass-spectrometers-molecules-reengineered-prototype.html",
+      "published_utc": "2026-03-18T18:00:14+00:00",
+      "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-young-galaxies-gre.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/most-mass-spectrometer.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "United Way Romania",
+      "title": "Programul de educație nutrițională, NutriCOOLtura, și-a dublat impactul în 2025 și a ajuns în și mai multe școli din țară",
+      "summary": "Articolul Programul de educație nutrițională, NutriCOOLtura, și-a dublat impactul în 2025 și a ajuns în și mai multe școli din țară apare prima dată în United Way Romania .",
+      "link": "https://www.unitedway.ro/2026/02/nutricooltura-a-dublat-impactul-in-2025",
+      "published_utc": "2026-02-04T09:40:32+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-d980b13e0a5fd2be/480/320"
     },
     {
       "section": "romania",
@@ -987,85 +1047,121 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "What an ancient Chinese philosopher can teach us about Americans' obsession with college rankings",
-      "summary": "Each March, many of the country's most selective colleges and universities release their admissions decisions, reviving debates over the roles of race, wealth and privilege—and putting Americans' cultural obsession with rankings back in the spotlight.",
-      "link": "https://phys.org/news/2026-03-ancient-chinese-philosopher-americans-obsession.html",
-      "published_utc": "2026-03-18T16:50:01+00:00",
+      "title": "Children shaped clay 15,000 years ago, long before pottery or farming, archaeologists find",
+      "summary": "Long before pottery, before agriculture, when the first villages took shape, people in the Levant were already molding clay with their hands, carefully, deliberately, and sometimes playfully. Some of those hands belonged to children.",
+      "link": "https://phys.org/news/2026-03-children-clay-years-pottery-farming.html",
+      "published_utc": "2026-03-18T18:00:10+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/college-1.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/15000-years-ago-childr.jpg"
     },
     {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Climate change could pose a major risk to cassava in Africa: Study sets out what can be done now",
-      "summary": "Cassava is a starchy, tuberous root, introduced to sub-Saharan Africa by Portuguese traders centuries ago. It is a nutrition lifeboat for over 800 million people worldwide.",
-      "link": "https://phys.org/news/2026-03-climate-pose-major-cassava-africa.html",
-      "published_utc": "2026-03-18T16:40:06+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/cassava-1.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Fossilized whale skulls reveal feeding secrets of sharks 5 million years ago",
-      "summary": "A new study analyzing two fossilized whale skulls from around 5 million years ago has revealed fragments of sharks' teeth lodged inside them. This provides rare evidence of how sharks fed on whales in north European waters in prehistoric times.",
-      "link": "https://phys.org/news/2026-03-fossilized-whale-skulls-reveal-secrets.html",
-      "published_utc": "2026-03-18T16:40:04+00:00",
+      "title": "3D model predicts mosquito flight paths from sight and CO&#8322; cues",
+      "summary": "A mosquito finds its target with the help of certain cues in its environment, such as a person's silhouette and the carbon dioxide they exhale. Now researchers at MIT and Georgia Tech have found that these visual and chemical cues help determine the insects' flight paths. The team has developed the first three-dimensional model of mosquito flight, based on experiments with mosquitoes flying in the presence of different sensory cues.",
+      "link": "https://phys.org/news/2026-03-3d-mosquito-flight-paths-sight.html",
+      "published_utc": "2026-03-18T18:00:07+00:00",
       "score": 1,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-uncovers-the-fee-1.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-model-predicts-how.jpg"
     },
     {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "AI could help social entrepreneurs unlock new sources of finance",
-      "summary": "A new research chapter suggests that artificial intelligence could help tackle one of the biggest challenges social entrepreneurs face: getting the funding they need to grow. In the chapter Artificial Intelligence as an Enabler for Financing Social Entrepreneurs, researchers Dr. Nisha Prakash and Rajitha Burra of the Royal Docks School of Business and Law, University of East London explore how new AI-powered financial tools could support businesses that aim to create social impact.",
-      "link": "https://phys.org/news/2026-03-ai-social-entrepreneurs-sources.html",
-      "published_utc": "2026-03-18T16:30:04+00:00",
+      "title": "Mental health policy is emerging as a key voting issue for Americans, study suggests",
+      "summary": "A new University of Missouri study suggests mental health policies can play a significant role in how Americans choose political candidates. Past scholarly research has found that most Americans say they support mental health policies. Jake Haselswerdt, an associate professor of political science in Mizzou's College of Arts and Science, wanted to take the topic a step further by asking whether mental health policies actually matter when people choose to vote for a political candidate.",
+      "link": "https://phys.org/news/2026-03-mental-health-policy-emerging-key.html",
+      "published_utc": "2026-03-18T18:00:06+00:00",
       "score": 1,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/entrepreneur.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mental-health-and-ai.jpg"
     },
     {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Pioneering research on salmon louse larvae could better inform parasite control strategies",
-      "summary": "A first-of-its-kind University of Stirling study could better inform strategies to control salmon lice, after researchers uncovered major differences in the secretions the parasite produces as larvae. Like other parasites, such as mosquitoes and ticks, salmon lice secrete substances from their glands which make it easier for them to feed or evade their host's immune system.",
-      "link": "https://phys.org/news/2026-03-salmon-louse-larvae-parasite-strategies.html",
-      "published_utc": "2026-03-18T16:20:04+00:00",
+      "title": "New study shows democracy has deep global roots—not just Greece and Rome",
+      "summary": "A new study on ancient societies from around the world is rewriting what we thought we knew about democracy. A team of researchers analyzed archaeological and historical evidence from 31 ancient societies across Europe, Asia, and the Americas and found that shared, inclusive governance was far more common than was once believed. The findings are published in the journal Science Advances.",
+      "link": "https://phys.org/news/2026-03-democracy-deep-global-roots-greece.html",
+      "published_utc": "2026-03-18T18:00:04+00:00",
       "score": 2,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/pioneering-research-on.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-study-shows-democr.jpg"
     },
     {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "The fish species that knows when you are watching them",
-      "summary": "Emperor cichlids, large fish native to Lake Tanganyika in Africa, don't like being stared at, especially if someone's gaze is directed at their offspring. Those are the findings of a new study published in the journal Royal Society Open Science. In animal societies, gaze can provide information to others without vocal signals. For example, when one individual in a group notices that a predator is watching, the others can pick up on it and become more alert.",
-      "link": "https://phys.org/news/2026-03-fish-species.html",
-      "published_utc": "2026-03-18T16:20:03+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-fish-species-that-1.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Astronomers search for 'exotrojans' hiding in extreme pulsar systems",
-      "summary": "Greek mythology has given a name to a great many objects in our solar system. But perhaps one of the least well understood are the Trojans, named after the people of Troy featured in \"The Iliad.\" When astronomers refer to them, they are normally talking about a group of more than 10,000 confirmed asteroids orbiting at the Lagrange points both in front of and behind Jupiter on its orbit around the sun.",
-      "link": "https://phys.org/news/2026-03-astronomers-exotrojans-extreme-pulsar.html",
-      "published_utc": "2026-03-18T16:10:06+00:00",
+      "title": "Why heights and snakes still hit harder: Study tracks fear sweat in 119 people",
+      "summary": "Fear-eliciting images of modern and ancestral threats are equally likely to evoke physiological reactions, despite their distinct evolutionary origins, according to a study published in the open-access journal PLOS One by Eva Landová from Charles University, the Czech Republic, and colleagues. However, ancestral threats such as heights and venomous snakes trigger greater skin resistance responses, a measure of sweating, compared to modern threats and harmless stimuli.",
+      "link": "https://phys.org/news/2026-03-heights-snakes-harder-tracks-people.html",
+      "published_utc": "2026-03-18T18:00:03+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/astronomers-search-for.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ancestral-and-modern-t.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Neanderthals may have used birch tar for its anti-bacterial properties, experiments suggest",
+      "summary": "Neanderthals probably used birch tar for multiple functions, including treating their wounds, according to a study published in the open-access journal PLOS One by a team of researchers led by Tjaark Siemssen of the University of Cologne, Germany, and the University of Oxford, U.K.",
+      "link": "https://phys.org/news/2026-03-neanderthals-birch-tar-anti-bacterial.html",
+      "published_utc": "2026-03-18T18:00:01+00:00",
+      "score": 2,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/neanderthals-may-have.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Remote working challenges linked to management issues",
+      "summary": "Strong organizational and management capabilities are key to implementing and getting the most out of successful remote and hybrid working practices.",
+      "link": "https://phys.org/news/2026-03-remote-linked-issues.html",
+      "published_utc": "2026-03-18T17:50:01+00:00",
+      "score": 2,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/remote-work.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Tracking male sea turtles just got easier",
+      "summary": "Monitoring the populations of one of nature's slower creatures could become faster, thanks to the University of Georgia. UGA researchers have developed an easier, more cost-effective way to learn more about male marine turtles, a traditionally elusive creature in the world's oceans.",
+      "link": "https://phys.org/news/2026-03-tracking-male-sea-turtles-easier.html",
+      "published_utc": "2026-03-18T17:40:03+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tracking-male-sea-turt.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "The way you walk can reveal your true feelings",
+      "summary": "Whether you're striding with purpose, swaggering with confidence, or trudging slowly along the street, the way you walk can reveal how you're feeling, according to new research published in the journal Royal Society Open Science. We already know that some features of our gait can reflect our emotional state, such as heavy steps conveying anger and slumped shoulders indicating sadness. However, researchers led by Mina Wakabayashi at the Advanced Telecommunications Research Institute International in Japan and her colleagues sought to determine whether there is a specific, coordinated movement pattern that reliably signals these emotional states.",
+      "link": "https://phys.org/news/2026-03-reveal-true.html",
+      "published_utc": "2026-03-18T17:20:09+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-the-way-you-walk-c.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Liquid biopsy method uses nanoparticle Raman signals to separate two lookalike enzymes",
+      "summary": "RIKEN researchers have demonstrated a method that can detect tiny amounts of biomarkers in liquid samples and can distinguish between highly similar biomarkers. This promises to boost the versatility and usefulness of liquid biopsies. The results are published in the Proceedings of the National Academy of Sciences.",
+      "link": "https://phys.org/news/2026-03-liquid-biopsy-method-nanoparticle-raman.html",
+      "published_utc": "2026-03-18T17:20:04+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/liquid-biopsy-method-d.jpg"
     },
     {
       "section": "medical",
@@ -1454,7 +1550,7 @@
   ],
   "joke_ro": {
     "date_utc": "2026-03-18",
-    "text": "Daca as primi bani pentru fiecare data cand ma razgandesc, as investi prudent.",
+    "text": "Azi m-am rasfatat cu o pauza. Apoi i-am atasat toata ziua.",
     "source": "data/jokes_ro.txt"
   },
   "satire_ro": {
@@ -1544,6 +1640,7 @@
       "https://picsum.photos/seed/vb-landscape-9901/1600/900"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/51195833034_5e41d216db_b.jpg",
       "https://live.staticflickr.com/4389/36556436823_a0df5b136d_b.jpg",
       "https://live.staticflickr.com/65535/55152597959_152efcb318_b.jpg",
       "https://live.staticflickr.com/65535/51115563691_64f9cfd197_b.jpg",
@@ -1560,10 +1657,10 @@
       "https://live.staticflickr.com/65535/17649481348_1535bc4049_b.jpg",
       "https://live.staticflickr.com/65535/33893014405_33dd40d600_b.jpg",
       "https://live.staticflickr.com/65535/34409071854_46d597d8d5_b.jpg",
-      "https://live.staticflickr.com/4752/40400345272_30e59c5dae_b.jpg",
-      "https://live.staticflickr.com/65535/32167942090_07395e0914_b.jpg"
+      "https://live.staticflickr.com/4752/40400345272_30e59c5dae_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55155208129_91c156bf79_b.jpg",
       "https://live.staticflickr.com/65535/55154814676_d31dc6e74a_b.jpg",
       "https://live.staticflickr.com/65535/55153721432_6d90fc8eaa_b.jpg",
       "https://live.staticflickr.com/65535/55153196107_659219820a_b.jpg",
@@ -1580,12 +1677,11 @@
       "https://live.staticflickr.com/65535/55152796538_88099962f2_b.jpg",
       "https://live.staticflickr.com/65535/55152433728_f12e32357e_b.jpg",
       "https://live.staticflickr.com/65535/55152356289_c4d66401f1_b.jpg",
-      "https://live.staticflickr.com/65535/55151265687_eab2caf30c_b.jpg",
-      "https://live.staticflickr.com/65535/55151167022_e1f6848707_b.jpg"
+      "https://live.staticflickr.com/65535/55151265687_eab2caf30c_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
+      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
