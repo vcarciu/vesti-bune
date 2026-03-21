@@ -1,19 +1,7 @@
 {
-  "generated_utc": "2026-03-21T07:26:24+00:00",
+  "generated_utc": "2026-03-21T08:20:05+00:00",
   "sections": {
     "romania": [
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "Noi scumpiri la carburanți peste noapte. Benzină a sărit de 9 lei pe litru",
-        "summary": "Carburanţii s-au scumpit în această noapte, pentru a 5-a zi consecutiv, benzina standard sărind de 9 lei/l în toate staţiile din Capitală, cu excepţia celor Socar, iar motorina standard îndreptându-se la rândul său accelerat către pragul de 10 lei/l, depăşit deja de cea premium, relatează News.ro Liderul pieţei, OMV Petrom, a majorat acum preţul diesel-ului &#8230;",
-        "link": "https://hotnews.ro/noi-scumpiri-la-carburanti-peste-noapte-benzina-a-sarit-de-9-lei-pe-litru-2199703",
-        "published_utc": "2026-03-21T06:43:20+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-327ee4e6d9a07efe/480/320"
-      },
       {
         "section": "romania",
         "kind": "ro",
@@ -24,6 +12,18 @@
         "published_utc": "2026-03-20T19:10:47+00:00",
         "score": 2,
         "image": "https://picsum.photos/seed/vb-e5c6015c1c9fb4ea/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 Studiu: Femeile, mult mai dispuse să facă sex cu cineva care le trimite glume pe Whatsapp",
+        "summary": "Un studiu recent a confirmat ceea ce majoritatea bărbaților știau de mult: cea mai singură metodă să intri în pantalonii unei femei e să-i trimiți glume foarte amuzante pe Whatsapp. Cu cât mai multe și mai haioase, cu atât mai eficientă este metoda, arată studiul realizat de Catedra de Pshihologie de la Stanford University din [&#8230;] The post Studiu: Femeile, mult mai dispuse să facă sex cu cineva care le trimite glume pe Whatsapp appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/it-stiinta/studiu-femeile-mult-mai-dispuse-sa-faca-sex-cu-cineva-care-le-trimite-glume-pe-whatsapp",
+        "published_utc": "2026-03-20T16:30:00+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/femeie-rade-whatsapp.jpg"
       },
       {
         "section": "romania",
@@ -48,18 +48,6 @@
         "score": 3,
         "freshness_boost": 3,
         "image": "https://picsum.photos/seed/vb-cf5f0297b326dfc6/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 Ca să ne țină ocupați, Guvernul anunță că reintroduce armata obligatorie",
-        "summary": "Întrucât măsurile economice și nesiguranța politică din context internațional au creat o oarecare anxietate și nemulțumire socială, care ar putea degenera în mișcări de stradă necontrolate, Guvernul României a găsit o soluție să distragă atenția populației de la aceste probleme. Astfel, începând cu a doua jumătate a acestui an, armata va redeveni obligatori pentru majoritatea [&#8230;] The post Ca să ne țină ocupați, Guvernul anunță că reintroduce armata obligatorie appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/life-death/ca-sa-ne-tina-ocupati-guvernul-anunta-ca-reintroduce-armata-obligatorie",
-        "published_utc": "2026-03-20T14:54:00+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2022/08/cariera_fulgeratoare_armata.jpeg"
       },
       {
         "section": "romania",
@@ -112,18 +100,6 @@
       {
         "section": "romania",
         "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 SIE admite că Georgescu nu e real, ci un personaj creat cu AI",
-        "summary": "Purtătorul de cuvânt al SIE a admis într-un podcast ceea ce mulți români bănuiau de ceva vreme: Călin Georgescu, candidatul la președinția României nu există în realitate, este doar un personaj creat cu AI care a scăpat de sub control pe rețele sociale. Afirmația a venit ca răspuns la întrebarea &#8222;cu ce se ocupă Călin [&#8230;] The post SIE admite că Georgescu nu e real, ci un personaj creat cu AI appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/politic/sie-admite-ca-georgescu-nu-e-real-ci-un-personaj-creat-cu-ai",
-        "published_utc": "2026-03-20T11:00:00+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/calin-georgescu-imagine-ai.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
         "source": "RomaniaPozitiva",
         "title": "Gabriel Popescu, un tânăr chitarist de 12 ani, pe scena mare a Teatrului Național București, invitat în concertul „Simfonia iubirii”",
         "summary": "Scena mare a Teatrului Național „I.L. Caragiale” din București a găzduit concertul „Simfonia iubirii”, desfășurat pe 16 martie. Publicul a avut ocazia să descopere talentul unui muzician aflat la început&#8230; Articolul Gabriel Popescu, un tânăr chitarist de 12 ani, pe scena mare a Teatrului Național București, invitat în concertul „Simfonia iubirii” apare prima dată în Romania Pozitiva .",
@@ -132,6 +108,18 @@
         "score": 3,
         "freshness_boost": 3,
         "image": "https://picsum.photos/seed/vb-1efa1d102be8e008/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 Gigi Becali e dispus să negocieze cu Trump, că vorbește fluent limba măscăricilor",
+        "summary": "Președintele Statelor Unite, Donald Trump, este tot mai imprevizibil și mai periculos pentru pacea mondială, consideră mulți experți în relații internaționale. Este evidentă nevoia de purta un dialog constructiv cu el, pentru a ameliora o parte din efectele politicii sale agresive și se pare că România chiar are o soluție, una decentă care ne reconfirmă [&#8230;] The post Gigi Becali e dispus să negocieze cu Trump, că vorbește fluent limba măscăricilor appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/politic/gigi-becali-dispus-sa-negocieze-cu-trump-ca-vorbeste-fluent-in-limba-mascaricilor",
+        "published_utc": "2026-03-20T08:15:13+00:00",
+        "score": 3,
+        "freshness_boost": 1,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/gigi-becali-si-trump.jpg"
       },
       {
         "section": "romania",
@@ -685,18 +673,6 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "HotNews",
-      "title": "Noi scumpiri la carburanți peste noapte. Benzină a sărit de 9 lei pe litru",
-      "summary": "Carburanţii s-au scumpit în această noapte, pentru a 5-a zi consecutiv, benzina standard sărind de 9 lei/l în toate staţiile din Capitală, cu excepţia celor Socar, iar motorina standard îndreptându-se la rândul său accelerat către pragul de 10 lei/l, depăşit deja de cea premium, relatează News.ro Liderul pieţei, OMV Petrom, a majorat acum preţul diesel-ului &#8230;",
-      "link": "https://hotnews.ro/noi-scumpiri-la-carburanti-peste-noapte-benzina-a-sarit-de-9-lei-pe-litru-2199703",
-      "published_utc": "2026-03-21T06:43:20+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-327ee4e6d9a07efe/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "Rockerii austrieci Mother’s Cake revin la București!",
       "summary": "Rockerii austrieci Mother’s Cake revin la București! Midpoint (RO) deschid seara Trupa austriacă de rock psihedelic Mother’s Cake revine la București și va concerta miercuri, 25 martie, la Control Club.&#8230; Articolul Rockerii austrieci Mother’s Cake revin la București! apare prima dată în Romania Pozitiva .",
@@ -758,25 +734,25 @@
       "section": "romania",
       "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 Ca să ne țină ocupați, Guvernul anunță că reintroduce armata obligatorie",
-      "summary": "Întrucât măsurile economice și nesiguranța politică din context internațional au creat o oarecare anxietate și nemulțumire socială, care ar putea degenera în mișcări de stradă necontrolate, Guvernul României a găsit o soluție să distragă atenția populației de la aceste probleme. Astfel, începând cu a doua jumătate a acestui an, armata va redeveni obligatori pentru majoritatea [&#8230;] The post Ca să ne țină ocupați, Guvernul anunță că reintroduce armata obligatorie appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/ca-sa-ne-tina-ocupati-guvernul-anunta-ca-reintroduce-armata-obligatorie",
-      "published_utc": "2026-03-20T14:54:00+00:00",
+      "title": "😂 Studiu: Femeile, mult mai dispuse să facă sex cu cineva care le trimite glume pe Whatsapp",
+      "summary": "Un studiu recent a confirmat ceea ce majoritatea bărbaților știau de mult: cea mai singură metodă să intri în pantalonii unei femei e să-i trimiți glume foarte amuzante pe Whatsapp. Cu cât mai multe și mai haioase, cu atât mai eficientă este metoda, arată studiul realizat de Catedra de Pshihologie de la Stanford University din [&#8230;] The post Studiu: Femeile, mult mai dispuse să facă sex cu cineva care le trimite glume pe Whatsapp appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/it-stiinta/studiu-femeile-mult-mai-dispuse-sa-faca-sex-cu-cineva-care-le-trimite-glume-pe-whatsapp",
+      "published_utc": "2026-03-20T16:30:00+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2022/08/cariera_fulgeratoare_armata.jpeg"
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/femeie-rade-whatsapp.jpg"
     },
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 SIE admite că Georgescu nu e real, ci un personaj creat cu AI",
-      "summary": "Purtătorul de cuvânt al SIE a admis într-un podcast ceea ce mulți români bănuiau de ceva vreme: Călin Georgescu, candidatul la președinția României nu există în realitate, este doar un personaj creat cu AI care a scăpat de sub control pe rețele sociale. Afirmația a venit ca răspuns la întrebarea &#8222;cu ce se ocupă Călin [&#8230;] The post SIE admite că Georgescu nu e real, ci un personaj creat cu AI appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/politic/sie-admite-ca-georgescu-nu-e-real-ci-un-personaj-creat-cu-ai",
-      "published_utc": "2026-03-20T11:00:00+00:00",
+      "source": "RomaniaPozitiva",
+      "title": "E suflet în aparat | Fotografie",
+      "summary": "„E suflet în aparat &#124; Fotografie”, realizată de Andrei Jurj, medic ATI, surprinde în imagini viața cadrelor medicale, așa cum se desfășoară la Urgențe (UPU), acolo unde accesul publicului este&#8230; Articolul E suflet în aparat | Fotografie apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/banat-crisana/e-suflet-in-aparat-fotografie",
+      "published_utc": "2026-03-20T14:02:15+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/calin-georgescu-imagine-ai.jpg"
+      "image": "https://picsum.photos/seed/vb-c228654ecf7e395f/480/320"
     },
     {
       "section": "romania",
@@ -793,14 +769,14 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "E suflet în aparat | Fotografie",
-      "summary": "„E suflet în aparat &#124; Fotografie”, realizată de Andrei Jurj, medic ATI, surprinde în imagini viața cadrelor medicale, așa cum se desfășoară la Urgențe (UPU), acolo unde accesul publicului este&#8230; Articolul E suflet în aparat | Fotografie apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/banat-crisana/e-suflet-in-aparat-fotografie",
-      "published_utc": "2026-03-20T14:02:15+00:00",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Gigi Becali e dispus să negocieze cu Trump, că vorbește fluent limba măscăricilor",
+      "summary": "Președintele Statelor Unite, Donald Trump, este tot mai imprevizibil și mai periculos pentru pacea mondială, consideră mulți experți în relații internaționale. Este evidentă nevoia de purta un dialog constructiv cu el, pentru a ameliora o parte din efectele politicii sale agresive și se pare că România chiar are o soluție, una decentă care ne reconfirmă [&#8230;] The post Gigi Becali e dispus să negocieze cu Trump, că vorbește fluent limba măscăricilor appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/politic/gigi-becali-dispus-sa-negocieze-cu-trump-ca-vorbeste-fluent-in-limba-mascaricilor",
+      "published_utc": "2026-03-20T08:15:13+00:00",
       "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-c228654ecf7e395f/480/320"
+      "freshness_boost": 1,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/gigi-becali-si-trump.jpg"
     },
     {
       "section": "romania",
@@ -874,6 +850,18 @@
       "image": "https://picsum.photos/seed/vb-81b888b39966ba95/480/320"
     },
     {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Fundatia Motivation Romania",
+      "title": "Calendarul sesiunilor de recuperare activă pentru utilizatorii de scaune rulante – 2026",
+      "summary": "Fundația Motivation România anunță calendarul sesiunilor de recuperare activă 2026 – stagii și tabere dedicate persoanelor cu leziuni medulare. Programul este gratuit, iar participanții sunt selectați cu sprijinul echipelor regionale Motivation. Stagii de recuperare activă – Bragadiru (Ilfov) Durata fiecărui stagiu: 2 săptămâni Stagiul 1: 1–12 iunie 2026 Stagiul 2: 15–26 iunie 2026 Stagiul 3:... The post Calendarul sesiunilor de recuperare activă pentru utilizatorii de scaune rulante &#8211; 2026 appeared first on Fundatia Motivation Romania .",
+      "link": "https://motivation.ro/blog/calendarul-sesiunilor-de-recuperare-activa-pentru-utilizatorii-de-scaune-rulante-2026",
+      "published_utc": "2026-02-12T10:14:58+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-edb0443f2c481e88/480/320"
+    },
+    {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
@@ -888,18 +876,6 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Fundatia Motivation Romania",
-      "title": "Calendarul sesiunilor de recuperare activă pentru utilizatorii de scaune rulante – 2026",
-      "summary": "Fundația Motivation România anunță calendarul sesiunilor de recuperare activă 2026 – stagii și tabere dedicate persoanelor cu leziuni medulare. Programul este gratuit, iar participanții sunt selectați cu sprijinul echipelor regionale Motivation. Stagii de recuperare activă – Bragadiru (Ilfov) Durata fiecărui stagiu: 2 săptămâni Stagiul 1: 1–12 iunie 2026 Stagiul 2: 15–26 iunie 2026 Stagiul 3:... The post Calendarul sesiunilor de recuperare activă pentru utilizatorii de scaune rulante &#8211; 2026 appeared first on Fundatia Motivation Romania .",
-      "link": "https://motivation.ro/blog/calendarul-sesiunilor-de-recuperare-activa-pentru-utilizatorii-de-scaune-rulante-2026",
-      "published_utc": "2026-02-12T10:14:58+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-edb0443f2c481e88/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "Fundatia Inocenti",
       "title": "Beneficiile ieșirilor culturale în dezvoltarea copiilor",
       "summary": "Descoperă beneficiile ieșirilor culturale pentru copii și modul în care muzeele, teatrul și excursiile contribuie la dezvoltarea lor emoțională și educațională. The post Beneficiile ieșirilor culturale în dezvoltarea copiilor appeared first on Fundația Inocenți .",
@@ -908,6 +884,18 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-e363aa471e40eb2e/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "StiriPozitive - Toate",
+      "title": "Rodica Bretin lansează romanul puzzle „Pisica de la ora cinci” la Librăria Libris din Brașov",
+      "summary": "Joi, 12 februarie, de la ora 18:00, la Librăria Libris (Str. Șt. O. Iosif) din Brașov, Rodica Bretin lansează volumul „Pisica de la ora cinci”, apărut în colecția Corint Fiction. &#8230; Read More The post Rodica Bretin lansează romanul puzzle „Pisica de la ora cinci” la Librăria Libris din Brașov appeared first on Stiri pozitive .",
+      "link": "https://stiripozitive.com/rodica-bretin-lanseaza-romanul-puzzle-pisica-de-la-ora-cinci-la-libraria-libris-din-brasov",
+      "published_utc": "2026-02-10T10:23:38+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-92e5e32e02f82c41/480/320"
     },
     {
       "section": "science",
@@ -924,18 +912,6 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "StiriPozitive - Toate",
-      "title": "Rodica Bretin lansează romanul puzzle „Pisica de la ora cinci” la Librăria Libris din Brașov",
-      "summary": "Joi, 12 februarie, de la ora 18:00, la Librăria Libris (Str. Șt. O. Iosif) din Brașov, Rodica Bretin lansează volumul „Pisica de la ora cinci”, apărut în colecția Corint Fiction. &#8230; Read More The post Rodica Bretin lansează romanul puzzle „Pisica de la ora cinci” la Librăria Libris din Brașov appeared first on Stiri pozitive .",
-      "link": "https://stiripozitive.com/rodica-bretin-lanseaza-romanul-puzzle-pisica-de-la-ora-cinci-la-libraria-libris-din-brasov",
-      "published_utc": "2026-02-10T10:23:38+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-92e5e32e02f82c41/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "World Vision Romania",
       "title": "Sondaj World Vision România: 99% dintre adolescenți folosesc AI, 80.96% au întâlnit conținut fals creat cu AI, iar 37.25% învață despre folosirea sigură a AI din online și social media",
       "summary": "World Vision România: Avem nevoie de o strategie privind folosirea AI în școală și educație media Ziua Siguranței pe Internet,... Articolul Sondaj World Vision România: 99% dintre adolescenți folosesc AI, 80.96% au întâlnit conținut fals creat cu AI, iar 37.25% învață despre folosirea sigură a AI din online și social media apare prima dată în World Vision România .",
@@ -944,6 +920,18 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-6ff3f8cda4c73e98/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Fundatia Vodafone Romania",
+      "title": "Peste 6.000 de seniori din România au dobândit competențe digitale la atelierele Hi Digital ale Fundației Vodafone",
+      "summary": "București, 05 februarie 2026 &#8211; Fundația Vodafone și-a continuat și în 2025 misiunea de a oferi educație digitală seniorilor din România pentru a reduce gradul de izolare și vulnerabilitate al acestora într-o societate tot mai tehnologizată. În 2025, la atelierele Hi Digital au participat peste 6.000 de seniori din 30 de localități din România, care [&#8230;] The post Peste 6.000 de seniori din România au dobândit competențe digitale la atelierele Hi Digital ale Fundației Vodafone appeared first on Fundația Vodafone România - e normal sa facem bine .",
+      "link": "https://fundatia-vodafone.ro/noutati/comunicate-de-presa/peste-6-000-de-seniori-din-romania-au-dobandit-competente-digitale-la-atelierele-hi-digital-ale-fundatiei-vodafone",
+      "published_utc": "2026-02-05T11:03:08+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-7d7cdbac0f2be721/480/320"
     },
     {
       "section": "science",
@@ -960,18 +948,6 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Fundatia Vodafone Romania",
-      "title": "Peste 6.000 de seniori din România au dobândit competențe digitale la atelierele Hi Digital ale Fundației Vodafone",
-      "summary": "București, 05 februarie 2026 &#8211; Fundația Vodafone și-a continuat și în 2025 misiunea de a oferi educație digitală seniorilor din România pentru a reduce gradul de izolare și vulnerabilitate al acestora într-o societate tot mai tehnologizată. În 2025, la atelierele Hi Digital au participat peste 6.000 de seniori din 30 de localități din România, care [&#8230;] The post Peste 6.000 de seniori din România au dobândit competențe digitale la atelierele Hi Digital ale Fundației Vodafone appeared first on Fundația Vodafone România - e normal sa facem bine .",
-      "link": "https://fundatia-vodafone.ro/noutati/comunicate-de-presa/peste-6-000-de-seniori-din-romania-au-dobandit-competente-digitale-la-atelierele-hi-digital-ale-fundatiei-vodafone",
-      "published_utc": "2026-02-05T11:03:08+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-7d7cdbac0f2be721/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "World Vision Romania",
       "title": "„Putem face și noi partea noastră”. Copiii din Consiliul Consultativ World Vision România arată de ce investiția în educația și siguranța copilului nu este o cheltuială, ci cheia viitorului",
       "summary": "București, 23 ianuarie 2026. De Ziua Internațională a Educației, sărbătorită anul acesta sub tema globală „Puterea tinerilor în co-crearea educației”,... Articolul „Putem face și noi partea noastră”. Copiii din Consiliul Consultativ World Vision România arată de ce investiția în educația și siguranța copilului nu este o cheltuială, ci cheia viitorului apare prima dată în World Vision România .",
@@ -980,6 +956,18 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-3773689b30bbec4f/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "World Vision Romania",
+      "title": "4 ani de „Start în educație”, cel mai mare program de educație timpurie din România: 1 din 3 grădinițe este dotată cu resurse educaționale.",
+      "summary": "Cel mai mare program de educație timpurie din România ajunge la 240.000 de copii preșcolari, 50.000 de părinți, 9.000 de... Articolul 4 ani de „Start în educație”, cel mai mare program de educație timpurie din România: 1 din 3 grădinițe este dotată cu resurse educaționale. apare prima dată în World Vision România .",
+      "link": "https://worldvision.ro/2026/02/04/4-ani-de-start-in-educatie-cel-mai-mare-program-de-educatie-timpurie-din-romania-1-din-3-gradinite-este-dotata-cu-resurse-educationale",
+      "published_utc": "2026-02-04T09:49:19+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-d66905f31c64372e/480/320"
     },
     {
       "section": "science",
@@ -996,18 +984,6 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "World Vision Romania",
-      "title": "4 ani de „Start în educație”, cel mai mare program de educație timpurie din România: 1 din 3 grădinițe este dotată cu resurse educaționale.",
-      "summary": "Cel mai mare program de educație timpurie din România ajunge la 240.000 de copii preșcolari, 50.000 de părinți, 9.000 de... Articolul 4 ani de „Start în educație”, cel mai mare program de educație timpurie din România: 1 din 3 grădinițe este dotată cu resurse educaționale. apare prima dată în World Vision România .",
-      "link": "https://worldvision.ro/2026/02/04/4-ani-de-start-in-educatie-cel-mai-mare-program-de-educatie-timpurie-din-romania-1-din-3-gradinite-este-dotata-cu-resurse-educationale",
-      "published_utc": "2026-02-04T09:49:19+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-d66905f31c64372e/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "United Way Romania",
       "title": "Programul de educație nutrițională, NutriCOOLtura, și-a dublat impactul în 2025 și a ajuns în și mai multe școli din țară",
       "summary": "Articolul Programul de educație nutrițională, NutriCOOLtura, și-a dublat impactul în 2025 și a ajuns în și mai multe școli din țară apare prima dată în United Way Romania .",
@@ -1016,18 +992,6 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-d980b13e0a5fd2be/480/320"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "How an RNA-binding protein detects and responds to non-optimal codon usage in human cells",
-      "summary": "Human genes are written in long strings of three-letter units composed of four different nucleotides. These units—or codons—specify one of many amino acids, the building blocks of proteins. Multiple codons can encode the same amino acid, which seems to point to some redundancy in our genetic code.",
-      "link": "https://phys.org/news/2026-03-rna-protein-optimal-codon-usage.html",
-      "published_utc": "2026-03-19T18:00:13+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/optimus-protein.jpg"
     },
     {
       "section": "romania",
@@ -1040,6 +1004,18 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-60ba8ce04ddcd48e/480/320"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "How an RNA-binding protein detects and responds to non-optimal codon usage in human cells",
+      "summary": "Human genes are written in long strings of three-letter units composed of four different nucleotides. These units—or codons—specify one of many amino acids, the building blocks of proteins. Multiple codons can encode the same amino acid, which seems to point to some redundancy in our genetic code.",
+      "link": "https://phys.org/news/2026-03-rna-protein-optimal-codon-usage.html",
+      "published_utc": "2026-03-19T18:00:13+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/optimus-protein.jpg"
     },
     {
       "section": "science",
@@ -1446,6 +1422,7 @@
       "https://upload.wikimedia.org/wikipedia/commons/8/88/Torres_del_Paine_%28Chile%29.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/55158736776_12d7da4caf_b.jpg",
       "https://live.staticflickr.com/1654/25747299581_1ecedd5226_b.jpg",
       "https://live.staticflickr.com/65535/34409071854_46d597d8d5_b.jpg",
       "https://live.staticflickr.com/65535/55148968209_77b7e0c7ea_b.jpg",
@@ -1462,12 +1439,11 @@
       "https://live.staticflickr.com/65535/50910446288_a973e67cf2_b.jpg",
       "https://live.staticflickr.com/65535/55146799949_4989303a57_b.jpg",
       "https://live.staticflickr.com/65535/51115563691_64f9cfd197_b.jpg",
-      "https://live.staticflickr.com/4752/40400345272_30e59c5dae_b.jpg",
-      "https://live.staticflickr.com/65535/55155066097_2dbc75de49_b.jpg"
+      "https://live.staticflickr.com/4752/40400345272_30e59c5dae_b.jpg"
     ],
     "cities": [
-      "https://live.staticflickr.com/65535/55157423237_360012deaa_b.jpg",
       "https://live.staticflickr.com/65535/55159273023_0973bb04e6_b.jpg",
+      "https://live.staticflickr.com/65535/55157423237_360012deaa_b.jpg",
       "https://live.staticflickr.com/65535/55158418643_67ebf57e1d_b.jpg",
       "https://live.staticflickr.com/65535/55158642000_379ce2dbfb_b.jpg",
       "https://live.staticflickr.com/65535/55158565854_f846f2ddca_b.jpg",
@@ -1486,8 +1462,8 @@
       "https://live.staticflickr.com/65535/55156914751_cf8af1396e_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
+      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
