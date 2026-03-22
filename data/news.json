@@ -1,7 +1,31 @@
 {
-  "generated_utc": "2026-03-22T22:14:56+00:00",
+  "generated_utc": "2026-03-22T23:18:04+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "VIDEO Angela Similea, scrisoare deschisă după ce i-a fost folosită o piesă fără acordul ei într-o campanie Distrigaz și DSU / Explicația companiei",
+        "summary": "Angela Similea a declarat, duminică, că nu și-a dat acordul pentru a fi folosită melodia „Casa mea” în campania de informare pe care au inițiat-o Distrigaz Sud Rețele și Departamentul pentru Situații de Urgență (DSU). În replică, compania a spus că este vorba despre o „neînțelegere” și că „a contractat drepturile de autor pentru difuzarea &#8230;",
+        "link": "https://hotnews.ro/video-angela-similea-scrisoare-deschisa-dupa-ce-o-piesa-a-fost-folosita-fara-acordul-ei-intr-o-campanie-distrigaz-si-dsu-ce-spune-artista-2200293",
+        "published_utc": "2026-03-22T20:11:32+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-8d97d02fc28b8a9e/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 A apărut înghețata cu Ozempic, la găletușă de 3 litri: te îndopi și slăbești!",
+        "summary": "Vești bune pentru cei care vor să slăbească fără să suferă sau să renunțe la ritualurile cu care s-au obișnuit. Novo Nordisk, compania daneză care produce popularul medicament pentru slăbit a lansat pe piață o o nouă variantă, cu înghețată, din care poți mânca pe săturate, bucurându-te în același timp de textură și savoare. Ozempic [&#8230;] The post A apărut înghețata cu Ozempic, la găletușă de 3 litri: te îndopi și slăbești! appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/monden/a-aparut-inghetata-cu-ozempic-la-galetusa-de-3-litri-te-indopi-si-slabesti",
+        "published_utc": "2026-03-22T15:00:00+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/ozempic-inghetata.jpg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -54,30 +78,6 @@
         "section": "romania",
         "kind": "ro",
         "source": "Times New Roman (Satira)",
-        "title": "😂 Un român spune că și-a lăsat nevasta în Lidl, a venit cineva i-a pus-o în coș și i-a adus-o înapoi",
-        "summary": "Credea că scapă ușor, dar nimeni nu este ferit de generozitatea și onestitatea românilor! Vlad Popescu, un inginer din București a fost azi dimineață la cumpărături și Lidl cu nevasta și după o oră și jumătate de plictiseală și interogatoriu de tipul &#8222;luăm asta sau asta? Nu mai bine luăm de ambele feluri să fim [&#8230;] The post Un român spune că și-a lăsat nevasta în Lidl, a venit cineva i-a pus-o în coș și i-a adus-o înapoi appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/life-death/un-roman-spune-ca-si-a-lasat-nevasta-in-lidl-a-venit-cineva-i-a-pus-o-in-cos-si-i-a-adus-o-inapoi",
-        "published_utc": "2026-03-21T11:00:00+00:00",
-        "score": 3,
-        "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/nevasta-uitata-la-lidl.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 Studiu: Femeile, mult mai dispuse să facă sex cu cineva care le trimite glume pe Whatsapp",
-        "summary": "Un studiu recent a confirmat ceea ce majoritatea bărbaților știau de mult: cea mai singură metodă să intri în pantalonii unei femei e să-i trimiți glume foarte amuzante pe Whatsapp. Cu cât mai multe și mai haioase, cu atât mai eficientă este metoda, arată studiul realizat de Catedra de Pshihologie de la Stanford University din [&#8230;] The post Studiu: Femeile, mult mai dispuse să facă sex cu cineva care le trimite glume pe Whatsapp appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/it-stiinta/studiu-femeile-mult-mai-dispuse-sa-faca-sex-cu-cineva-care-le-trimite-glume-pe-whatsapp",
-        "published_utc": "2026-03-20T16:30:00+00:00",
-        "score": 3,
-        "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/femeie-rade-whatsapp.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Times New Roman (Satira)",
         "title": "😂 Ca să ne țină ocupați, Guvernul anunță că reintroduce armata obligatorie",
         "summary": "Întrucât măsurile economice și nesiguranța politică din context internațional au creat o oarecare anxietate și nemulțumire socială, care ar putea degenera în mișcări de stradă necontrolate, Guvernul României a găsit o soluție să distragă atenția populației de la aceste probleme. Astfel, începând cu a doua jumătate a acestui an, armata va redeveni obligatori pentru majoritatea [&#8230;] The post Ca să ne țină ocupați, Guvernul anunță că reintroduce armata obligatorie appeared first on Times New Roman .",
         "link": "https://www.timesnewroman.ro/life-death/ca-sa-ne-tina-ocupati-guvernul-anunta-ca-reintroduce-armata-obligatorie",
@@ -85,6 +85,18 @@
         "score": 3,
         "freshness_boost": 1,
         "image": "https://www.timesnewroman.ro/wp-content/uploads/2022/08/cariera_fulgeratoare_armata.jpeg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 Disperare. Situația economică e atât de grea încât tinerii au început să-și caute de muncă",
+        "summary": "Economia României este aproape de colaps, țara noastră a intrat în recesiune tehnică și guvernul nu pare să aibă soluții miraculoase la îndemână. Pe lângă managmentul defectuos, corupția endemică și incompetența locală, un efect important îl au și evenimentele de pe scena internațională care complică și mai mult situația țării. Vremurile bune s-au dus, urmează [&#8230;] The post Disperare. Situația economică e atât de grea încât tinerii au început să-și caute de muncă appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/life-death/disperare-situatia-economica-e-atat-de-grea-incat-tinerii-au-inceput-sa-si-caute-de-munca",
+        "published_utc": "2026-03-20T12:43:00+00:00",
+        "score": 3,
+        "freshness_boost": 1,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2020/07/tineri_la_mcdonalds_in_ajun_rezultate.jpg"
       },
       {
         "section": "romania",
@@ -566,6 +578,18 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "HotNews",
+      "title": "VIDEO Angela Similea, scrisoare deschisă după ce i-a fost folosită o piesă fără acordul ei într-o campanie Distrigaz și DSU / Explicația companiei",
+      "summary": "Angela Similea a declarat, duminică, că nu și-a dat acordul pentru a fi folosită melodia „Casa mea” în campania de informare pe care au inițiat-o Distrigaz Sud Rețele și Departamentul pentru Situații de Urgență (DSU). În replică, compania a spus că este vorba despre o „neînțelegere” și că „a contractat drepturile de autor pentru difuzarea &#8230;",
+      "link": "https://hotnews.ro/video-angela-similea-scrisoare-deschisa-dupa-ce-o-piesa-a-fost-folosita-fara-acordul-ei-intr-o-campanie-distrigaz-si-dsu-ce-spune-artista-2200293",
+      "published_utc": "2026-03-22T20:11:32+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-8d97d02fc28b8a9e/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "ALT UNGHI – noua colecție Alice Books care aduce în prim-plan literatura curajoasă a prezentului",
       "summary": "Editura Alice Books anunță lansarea colecției ALT UNGHI, un nou proiect editorial dedicat ficțiunii literare contemporane care reunește voci puternice din întreaga lume și povești ce nu se mulțumesc să&#8230; Articolul ALT UNGHI – noua colecție Alice Books care aduce în prim-plan literatura curajoasă a prezentului apare prima dată în Romania Pozitiva .",
@@ -574,6 +598,30 @@
       "score": 3,
       "freshness_boost": 3,
       "image": "https://picsum.photos/seed/vb-325c2a3c8dc47261/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Ca să ne țină ocupați, Guvernul anunță că reintroduce armata obligatorie",
+      "summary": "Întrucât măsurile economice și nesiguranța politică din context internațional au creat o oarecare anxietate și nemulțumire socială, care ar putea degenera în mișcări de stradă necontrolate, Guvernul României a găsit o soluție să distragă atenția populației de la aceste probleme. Astfel, începând cu a doua jumătate a acestui an, armata va redeveni obligatori pentru majoritatea [&#8230;] The post Ca să ne țină ocupați, Guvernul anunță că reintroduce armata obligatorie appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/life-death/ca-sa-ne-tina-ocupati-guvernul-anunta-ca-reintroduce-armata-obligatorie",
+      "published_utc": "2026-03-20T14:54:00+00:00",
+      "score": 3,
+      "freshness_boost": 1,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2022/08/cariera_fulgeratoare_armata.jpeg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 A apărut înghețata cu Ozempic, la găletușă de 3 litri: te îndopi și slăbești!",
+      "summary": "Vești bune pentru cei care vor să slăbească fără să suferă sau să renunțe la ritualurile cu care s-au obișnuit. Novo Nordisk, compania daneză care produce popularul medicament pentru slăbit a lansat pe piață o o nouă variantă, cu înghețată, din care poți mânca pe săturate, bucurându-te în același timp de textură și savoare. Ozempic [&#8230;] The post A apărut înghețata cu Ozempic, la găletușă de 3 litri: te îndopi și slăbești! appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/monden/a-aparut-inghetata-cu-ozempic-la-galetusa-de-3-litri-te-indopi-si-slabesti",
+      "published_utc": "2026-03-22T15:00:00+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/ozempic-inghetata.jpg"
     },
     {
       "section": "romania",
@@ -602,18 +650,6 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Un român spune că și-a lăsat nevasta în Lidl, a venit cineva i-a pus-o în coș și i-a adus-o înapoi",
-      "summary": "Credea că scapă ușor, dar nimeni nu este ferit de generozitatea și onestitatea românilor! Vlad Popescu, un inginer din București a fost azi dimineață la cumpărături și Lidl cu nevasta și după o oră și jumătate de plictiseală și interogatoriu de tipul &#8222;luăm asta sau asta? Nu mai bine luăm de ambele feluri să fim [&#8230;] The post Un român spune că și-a lăsat nevasta în Lidl, a venit cineva i-a pus-o în coș și i-a adus-o înapoi appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/un-roman-spune-ca-si-a-lasat-nevasta-in-lidl-a-venit-cineva-i-a-pus-o-in-cos-si-i-a-adus-o-inapoi",
-      "published_utc": "2026-03-21T11:00:00+00:00",
-      "score": 3,
-      "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/nevasta-uitata-la-lidl.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "Oradea marchează Ziua Mondială a Sindromului Down: de la solidaritate locală la oportunități europene de finanțare și dezvoltare",
       "summary": "Oradea găzduiește evenimentul „Împreună împotriva singurătății”, organizat de Asociația Down Oradea România (ADOR), un moment care depășește dimensiunea simbolică și deschide discuția despre incluziune, finanțare și colaborare la nivel european.&#8230; Articolul Oradea marchează Ziua Mondială a Sindromului Down: de la solidaritate locală la oportunități europene de finanțare și dezvoltare apare prima dată în Romania Pozitiva .",
@@ -627,25 +663,13 @@
       "section": "romania",
       "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 Ca să ne țină ocupați, Guvernul anunță că reintroduce armata obligatorie",
-      "summary": "Întrucât măsurile economice și nesiguranța politică din context internațional au creat o oarecare anxietate și nemulțumire socială, care ar putea degenera în mișcări de stradă necontrolate, Guvernul României a găsit o soluție să distragă atenția populației de la aceste probleme. Astfel, începând cu a doua jumătate a acestui an, armata va redeveni obligatori pentru majoritatea [&#8230;] The post Ca să ne țină ocupați, Guvernul anunță că reintroduce armata obligatorie appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/ca-sa-ne-tina-ocupati-guvernul-anunta-ca-reintroduce-armata-obligatorie",
-      "published_utc": "2026-03-20T14:54:00+00:00",
+      "title": "😂 Disperare. Situația economică e atât de grea încât tinerii au început să-și caute de muncă",
+      "summary": "Economia României este aproape de colaps, țara noastră a intrat în recesiune tehnică și guvernul nu pare să aibă soluții miraculoase la îndemână. Pe lângă managmentul defectuos, corupția endemică și incompetența locală, un efect important îl au și evenimentele de pe scena internațională care complică și mai mult situația țării. Vremurile bune s-au dus, urmează [&#8230;] The post Disperare. Situația economică e atât de grea încât tinerii au început să-și caute de muncă appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/life-death/disperare-situatia-economica-e-atat-de-grea-incat-tinerii-au-inceput-sa-si-caute-de-munca",
+      "published_utc": "2026-03-20T12:43:00+00:00",
       "score": 3,
       "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2022/08/cariera_fulgeratoare_armata.jpeg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Studiu: Femeile, mult mai dispuse să facă sex cu cineva care le trimite glume pe Whatsapp",
-      "summary": "Un studiu recent a confirmat ceea ce majoritatea bărbaților știau de mult: cea mai singură metodă să intri în pantalonii unei femei e să-i trimiți glume foarte amuzante pe Whatsapp. Cu cât mai multe și mai haioase, cu atât mai eficientă este metoda, arată studiul realizat de Catedra de Pshihologie de la Stanford University din [&#8230;] The post Studiu: Femeile, mult mai dispuse să facă sex cu cineva care le trimite glume pe Whatsapp appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/it-stiinta/studiu-femeile-mult-mai-dispuse-sa-faca-sex-cu-cineva-care-le-trimite-glume-pe-whatsapp",
-      "published_utc": "2026-03-20T16:30:00+00:00",
-      "score": 3,
-      "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/femeie-rade-whatsapp.jpg"
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2020/07/tineri_la_mcdonalds_in_ajun_rezultate.jpg"
     },
     {
       "section": "romania",
@@ -744,18 +768,6 @@
       "image": "https://picsum.photos/seed/vb-92e5e32e02f82c41/480/320"
     },
     {
-      "section": "romania",
-      "kind": "ro",
-      "source": "World Vision Romania",
-      "title": "Sondaj World Vision România: 99% dintre adolescenți folosesc AI, 80.96% au întâlnit conținut fals creat cu AI, iar 37.25% învață despre folosirea sigură a AI din online și social media",
-      "summary": "World Vision România: Avem nevoie de o strategie privind folosirea AI în școală și educație media Ziua Siguranței pe Internet,... Articolul Sondaj World Vision România: 99% dintre adolescenți folosesc AI, 80.96% au întâlnit conținut fals creat cu AI, iar 37.25% învață despre folosirea sigură a AI din online și social media apare prima dată în World Vision România .",
-      "link": "https://worldvision.ro/2026/02/10/sondaj-world-vision-romania-99-dintre-adolescenti-folosesc-ai-80-96-au-intalnit-continut-fals-creat-cu-ai-iar-37-25-invata-despre-folosirea-sigura-a-ai-din-online-si-social-media",
-      "published_utc": "2026-02-10T09:23:50+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-6ff3f8cda4c73e98/480/320"
-    },
-    {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
@@ -766,6 +778,18 @@
       "score": 2,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/milkweed-evolves-mind.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "World Vision Romania",
+      "title": "Sondaj World Vision România: 99% dintre adolescenți folosesc AI, 80.96% au întâlnit conținut fals creat cu AI, iar 37.25% învață despre folosirea sigură a AI din online și social media",
+      "summary": "World Vision România: Avem nevoie de o strategie privind folosirea AI în școală și educație media Ziua Siguranței pe Internet,... Articolul Sondaj World Vision România: 99% dintre adolescenți folosesc AI, 80.96% au întâlnit conținut fals creat cu AI, iar 37.25% învață despre folosirea sigură a AI din online și social media apare prima dată în World Vision România .",
+      "link": "https://worldvision.ro/2026/02/10/sondaj-world-vision-romania-99-dintre-adolescenti-folosesc-ai-80-96-au-intalnit-continut-fals-creat-cu-ai-iar-37-25-invata-despre-folosirea-sigura-a-ai-din-online-si-social-media",
+      "published_utc": "2026-02-10T09:23:50+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-6ff3f8cda4c73e98/480/320"
     },
     {
       "section": "romania",
@@ -1208,6 +1232,7 @@
       "https://live.staticflickr.com/65535/55144839142_a3158d66de_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/4762/40027868641_97b159b541_b.jpg",
       "https://live.staticflickr.com/65535/50910446288_a973e67cf2_b.jpg",
       "https://live.staticflickr.com/65535/51112825796_4913abcff1_b.jpg",
       "https://live.staticflickr.com/65535/55155066097_2dbc75de49_b.jpg",
@@ -1224,10 +1249,10 @@
       "https://live.staticflickr.com/65535/55148968209_77b7e0c7ea_b.jpg",
       "https://live.staticflickr.com/65535/55158981739_b89020251a_b.jpg",
       "https://live.staticflickr.com/65535/17649481348_1535bc4049_b.jpg",
-      "https://live.staticflickr.com/65535/34409071854_46d597d8d5_b.jpg",
-      "https://live.staticflickr.com/1654/25747299581_1ecedd5226_b.jpg"
+      "https://live.staticflickr.com/65535/34409071854_46d597d8d5_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/4534981857_91961139ab_b.jpg",
       "https://live.staticflickr.com/65535/55162943150_d213edef73_b.jpg",
       "https://live.staticflickr.com/65535/55162222405_d72c87cb69_b.jpg",
       "https://live.staticflickr.com/65535/55162523073_e575352918_b.jpg",
@@ -1244,12 +1269,11 @@
       "https://live.staticflickr.com/65535/55161175940_5a53f46ceb_b.jpg",
       "https://live.staticflickr.com/65535/55160797476_cf98a8996b_b.jpg",
       "https://live.staticflickr.com/65535/55161050319_0806316d6e_b.jpg",
-      "https://live.staticflickr.com/65535/55161048954_5a5915a6c1_b.jpg",
-      "https://live.staticflickr.com/65535/55159717082_f328854edb_b.jpg"
+      "https://live.staticflickr.com/65535/55161048954_5a5915a6c1_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
+      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
