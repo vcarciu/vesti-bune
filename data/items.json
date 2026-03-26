@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-03-26T20:26:54+00:00",
+  "generated_utc": "2026-03-26T21:22:50+00:00",
   "sections": {
     "romania": [
       {
@@ -13,18 +13,6 @@
         "score": 3,
         "freshness_boost": 3,
         "image": "https://picsum.photos/seed/vb-dc5e19bf16ebd5ce/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 Apusul unei ere. La 8 ani după restul planetei, Yahoo Messenger se închide şi la Mizil",
-        "summary": "Yahoo se închide &#8211; de data asta definitiv! Compania americană a anunţat că încheie furnizarea îndrăgitului serviciu Yahoo Messenger în ultima regiune de pe planetă unde acesta mai funcţiona, oraşul Mizil. &#8222;Din 29 aprilie, Yahoo Messenger nu va mai fi disponibil în Mizil. Le recomandăm utilizatorilor să discute până atunci tot ce au de discutat [&#8230;] The post Apusul unei ere. La 8 ani după restul planetei, Yahoo Messenger se închide şi la Mizil appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/it-stiinta/apusul-unei-ere-la-8-ani-dupa-restul-planetei-yahoo-messenger-se-inchide-si-la-mizil",
-        "published_utc": "2026-03-26T12:03:14+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/yahoomizil.jpg"
       },
       {
         "section": "romania",
@@ -61,6 +49,18 @@
         "score": 3,
         "freshness_boost": 3,
         "image": "https://www.timesnewroman.ro/wp-content/uploads/2025/06/oameni_fericiti.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 Țiriac și-a dublat averea, că l-a prins războiul cu plinul făcut la toate cele 400 de mașini",
+        "summary": "Așa arată o lovitură de proporții pe piața financiară! În timp ce bursele internaționale tremură și prețul barilului de petrol a depășit pragul de „mai bine renunți la mașină și mergi pe jos”, cel mai ingenios miliardar al României, Ion Țiriac, privește relaxat spre viitor. Secretul lui ține de o intuiție de mare campion și [&#8230;] The post Țiriac și-a dublat averea, că l-a prins războiul cu plinul făcut la toate cele 400 de mașini appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/monden/tiriac-si-a-dublat-averea-ca-l-a-prins-razboiul-cu-plinul-facut-la-toate-cele-400-de-masini",
+        "published_utc": "2026-03-26T05:38:00+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/tiriac_colectie_masini.jpg"
       },
       {
         "section": "romania",
@@ -358,133 +358,133 @@
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Scientists uncover the secret behind perfectly 3D preserved 'sea reptile' fossils",
-        "summary": "Scientists at Curtin University have solved a long-standing mystery about how some of the world's best-preserved fossils formed in ancient oxygen-free ocean floor settings. The research, published in Communications Earth & Environment, focuses on a 183-million-year-old ichthyosaur—a dolphin-like marine reptile, preserved three dimensionally inside a carbonate concretion from Germany's Posidonia Shale.",
-        "link": "https://phys.org/news/2026-03-scientists-uncover-secret-3d-sea.html",
-        "published_utc": "2026-03-26T17:40:02+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-uncover-the.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "AI learns to read ancient Japanese pottery with 93% accuracy",
-        "summary": "Classifying ancient pottery has always depended on the trained judgment of an archaeologist. Identifying the subtle differences between piece types takes years of experience, and two experts will not always agree. Now, a team including researchers at Nagoya University in Japan has developed a deep learning model that can classify pottery by shape with high accuracy, using three-dimensional scan data rather than photographs or drawings.",
-        "link": "https://phys.org/news/2026-03-ai-ancient-japanese-pottery-accuracy.html",
-        "published_utc": "2026-03-26T17:20:03+00:00",
+        "title": "Beavers bring biodiversity to wetlands, study shows",
+        "summary": "Beavers should be embraced as key allies in the fight against biodiversity loss according to scientists at the University of Stirling, after new research revealed the significant ecological benefits the animals bring to wetland habitats. Beaver populations across Europe and North America are recovering from historically low levels after being hunted to near extinction.",
+        "link": "https://phys.org/news/2026-03-beavers-biodiversity-wetlands.html",
+        "published_utc": "2026-03-26T21:20:17+00:00",
         "score": 1,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/can-ai-learn-to-read-a.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "NASA Breaking News",
-        "title": "Arctic Winter Sea Ice Ties Record Low, NASA, NSIDC Scientists Find",
-        "summary": "For the second consecutive year, winter sea ice in the Arctic reached a level that matches the lowest peak observed since satellite monitoring began in 1979. On March 15, Arctic sea ice extent reached 5.52 million square miles (14.29 million square kilometers), very close to the 2025 peak of 5.53 million square miles (14.31 million […]",
-        "link": "https://science.nasa.gov/uncategorized/arctic-winter-sea-ice-2026",
-        "published_utc": "2026-03-26T17:00:55+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-db2a771cc1a05fbe/480/320"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-shows-biodiversi.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Study finds 40% of European gas stoves leak cancer-causing benzene while turned off",
-        "summary": "Benzene, a compound linked with leukemia and other blood cancers, is leaking from gas stoves in Europe, a new study finds. According to the World Health Organization, there is no safe level of exposure to benzene, a compound that occurs naturally in crude oil and natural gas, and can also be found in cigarette smoke. Experts say that even low levels of benzene can raise the risk of cancer.",
-        "link": "https://phys.org/news/2026-03-european-gas-stoves-leak-cancer.html",
-        "published_utc": "2026-03-26T17:00:05+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/gas-burner.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "NASA Breaking News",
-        "title": "NASA’s IXPE Gets Fresh Look at Supernova",
-        "summary": "NASA’s IXPE (Imaging X-ray Polarimetry Explorer) mission has taken a new observation of a supernova, RCW 86, seen here in an image released on March 24, 2026. This observation helps fill in a fuller picture of what other telescopes have seen. The full image combines IXPE’s data with legacy observations from two other X-ray telescopes: [&#8230;]",
-        "link": "https://www.nasa.gov/image-article/nasas-ixpe-gets-fresh-look-at-supernova",
-        "published_utc": "2026-03-26T16:58:30+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-0c61b7bb18b1b1d5/480/320"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "'Coral houses' are dotted throughout the Pacific. Now, scientists know exactly when they were built",
-        "summary": "The Mangareva Islands are about 1,600 kilometers southeast of Tahiti in French Polynesia. They get their name (which means \"floating mountains\") from the way the sea spray breaking on the surrounding coral atolls, or motu, causes the ancient volcanic peaks to appear as if they are floating above the waves.",
-        "link": "https://phys.org/news/2026-03-coral-houses-dotted-pacific-scientists.html",
-        "published_utc": "2026-03-26T16:50:01+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/coral-houses-are-dotte.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Sediment core reveals 10,800 years of precipitation history in the Sahara",
-        "summary": "The analysis of a sediment core from an oasis lake in Chad provides new insights into the history of precipitation in the Sahara. The study, led by the University of Cologne, shows that a prolonged wet phase, which lasted from 14,800 to 5,500 years ago, was interrupted by short-term droughts. Such drought events could also occur in a similar manner in the future.",
-        "link": "https://phys.org/news/2026-03-sediment-core-reveals-years-precipitation.html",
-        "published_utc": "2026-03-26T16:40:01+00:00",
+        "title": "Quantum computer accurately simulates real magnetic materials, reproducing national laboratory data",
+        "summary": "Studying and designing novel materials is a central application of quantum mechanics. Chemists, materials scientists, and physicists focus on subtle interactions in quantum materials and to uncover them they rely on sophisticated computational and experimental techniques. Computer simulations that connect microscopic quantum interactions to measurable material properties complement experimental data to connect structure to function—but classical computers can struggle to simulate those properties. Fortunately, scientists today have a new tool in their toolbox: quantum computers.",
+        "link": "https://phys.org/news/2026-03-quantum-accurately-simulates-real-magnetic.html",
+        "published_utc": "2026-03-26T21:20:02+00:00",
         "score": 1,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/10800-years-of-precipi.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ibm-quantum-computer-a.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Why cells respond 'incorrectly' in old age",
-        "summary": "Some of the signs of aging in human cells originate in the cell nucleus, because the packaged form of DNA changes with age. This has now been demonstrated by PSI researchers. It means that older cells can no longer react appropriately to external stimuli, and this can even lead to diseases. This insight could help scientists to curb such alterations and support better health in old age.",
-        "link": "https://phys.org/news/2026-03-cells-incorrectly-age.html",
-        "published_utc": "2026-03-26T16:20:06+00:00",
+        "title": "Unlocking scalable entanglement will enable next-generation quantum computing",
+        "summary": "Quantum computing promises to transform our world in rapid, radical and revolutionary ways: solving in seconds problems that would take classical computers years, accelerating the discovery of new medicines, creating sustainable materials, optimizing complex systems, and strengthening cybersecurity. It does so using qubits, the quantum counterparts of classical bits, which can occupy multiple states simultaneously and enable a fundamentally new kind of computation.",
+        "link": "https://phys.org/news/2026-03-scalable-entanglement-enable-generation-quantum.html",
+        "published_utc": "2026-03-26T21:10:01+00:00",
+        "score": 4,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ucf-researchers-unlock-1.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Tiny rotating hairs inside a microscopic cavity decide where your organs will grow",
+        "summary": "Heart to the left. Liver to the right. That's where you'll find these organs in a healthy human body, but surprisingly, in some people, the heart is on the right and the liver on the left. This normal or abnormal asymmetry can be traced back to your embryonic stage. In the early days of your development, a small fluid-filled cavity known as an embryonic node forms in your embryo. Inside, tiny micro-hairs known as cilia create a flow pattern that steers where organs grow in your body. However, the science behind this flow process has remained a mystery until now.",
+        "link": "https://phys.org/news/2026-03-tiny-rotating-hairs-microscopic-cavity.html",
+        "published_utc": "2026-03-26T21:00:04+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-cells-respond-inco.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Tiny bubbles, sound waves clean produce safely and effectively",
-        "summary": "A Jacuzzi for washing your tomatoes might seem odd, but new research finds that a bubble bath with a constant acoustic sound in the water may be the best chemical-free, gentle method for cleaning agricultural produce and possibly medical instruments and semiconductors. The results were published in the journal Droplet.",
-        "link": "https://phys.org/news/2026-03-tiny-safely-effectively.html",
-        "published_utc": "2026-03-26T16:20:03+00:00",
-        "score": 2,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tiny-bubbles-sound-wav.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Independent measurement strengthens the case for toponium",
-        "summary": "A new independent measurement by the CMS experiment at the LHC is consistent with the existence of the most massive composite particle ever observed, the momentary union of a top quark and its antiquark",
-        "link": "https://phys.org/news/2026-03-independent-case-toponium.html",
-        "published_utc": "2026-03-26T16:20:02+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/independent-measuremen.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/have-you-ever-asked-yo.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "NASA Breaking News",
-        "title": "Curiosity Blog, Sols 4838-4844: Wrapping Up the Boxwork Terrain",
-        "summary": "Written by Deborah Padgett, MSL Operations Product Ground System Task Lead at NASA’s Jet Propulsion Laboratory Earth planning date: Friday, March 20, 2026 Curiosity has just concluded a very intense week of science observations and engineering activities, as it wraps up its monthslong investigation of the Martian boxwork terrain. Three days of planning this week […]",
-        "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4838-4844-wrapping-up-the-boxwork-terrain",
-        "published_utc": "2026-03-26T15:26:13+00:00",
+        "title": "La NASA presentará el telescopio Roman completo y ofrecerá una conferencia de prensa",
+        "summary": "Se invita a los medios de comunicación el martes 21 de abril al Centro de Vuelo Espacial Goddard de la NASA en Greenbelt, Maryland, para conocer el telescopio espacial Nancy Grace Roman de la agencia, cuya construcción terminó recientemente y el cual se encuentra ultimando las pruebas previas a su lanzamiento. Esta será una de [&#8230;]",
+        "link": "https://www.nasa.gov/news-release/la-nasa-presentara-el-telescopio-roman-completo-y-ofrecera-una-conferencia-de-prensa",
+        "published_utc": "2026-03-26T20:53:17+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-b5bdd2bf8222bc35/480/320"
+        "image": "https://picsum.photos/seed/vb-257b866551fda1eb/480/320"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Arctic winter sea ice matches record low for the second year in a row, say scientists",
+        "summary": "For the second consecutive year, winter sea ice in the Arctic reached a level that matches the lowest peak observed since satellite monitoring began in 1979. On March 15, Arctic sea ice extent reached 5.52 million square miles (14.29 million square kilometers), very close to the 2025 peak of 5.53 million square miles (14.31 million square kilometers). Scientists with NASA and the National Snow and Ice Data Center (NSIDC) at the University of Colorado, Boulder, note that the two years are statistically tied.",
+        "link": "https://phys.org/news/2026-03-arctic-winter-sea-ice-year-1.html",
+        "published_utc": "2026-03-26T20:50:01+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/arctic-winter-sea-ice.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Employee referrals may trigger bias: Colleagues see referred hires as less meritorious",
+        "summary": "Employee referrals can aid hiring but carry hidden downsides. New research by Rellie Derfler-Rozin at the University of Maryland's Robert H. Smith School of Business and Teodora Tomova Shakur of Texas Christian University finds that staff often see referred hires as less meritorious and offer less support, even when the referred employees demonstrate high performance. Their study, published in the Journal of Applied Psychology, recommends clear communication about hiring rigor and employee involvement to counter these biased perceptions.",
+        "link": "https://phys.org/news/2026-03-employee-referrals-trigger-bias-colleagues.html",
+        "published_utc": "2026-03-26T20:40:05+00:00",
+        "score": 1,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/job-referral.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Succulents as role models: How they balance photosynthesis and water loss so efficiently",
+        "summary": "A research team led by the University of Bern has decoded a mechanism by which an inconspicuous succulent regulates the uptake of carbon dioxide via the leaf surface so finely that it receives enough for photosynthesis without losing too much water—and can therefore conserve water efficiently. The findings might be translated to crops to induce higher drought resistance and ensure yields during heat and drought.",
+        "link": "https://phys.org/news/2026-03-succulents-role-photosynthesis-loss-efficiently.html",
+        "published_utc": "2026-03-26T20:40:02+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/succulents-as-role-mod.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Arctic sea ice at lowest level ever this winter",
+        "summary": "Arctic sea ice reached its lowest level ever recorded, statistically tying last year's record, a leading US climate observatory for this geopolitically significant region said on Thursday.",
+        "link": "https://phys.org/news/2026-03-arctic-sea-ice-lowest-winter.html",
+        "published_utc": "2026-03-26T20:30:02+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/this-years-maximum-arc.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "NASA Breaking News",
+        "title": "NASA to Unveil Complete Roman Telescope, Host Media Briefing",
+        "summary": "Media are invited Tuesday, April 21, to NASA’s Goddard Space Flight Center in Greenbelt, Maryland, for a look at the agency’s Nancy Grace Roman Space Telescope, which recently completed construction and is wrapping up prelaunch testing. This will be one of the last opportunities to view the fully integrated flagship telescope before it ships to [&#8230;]",
+        "link": "https://www.nasa.gov/news-release/nasa-to-unveil-complete-roman-telescope-host-media-briefing",
+        "published_utc": "2026-03-26T20:18:47+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-594cd3f59a86e76b/480/320"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "NASA Breaking News",
+        "title": "NASA Releases Artemis II Moon Mission Launch Countdown",
+        "summary": "Before NASA sends its astronauts Reid Wiseman, Victor Glover, Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen on their Artemis II mission around the Moon, the launch team at NASA’s Kennedy Space Center in Florida and teams across the country will begin counting down about two days before liftoff.&#160; A launch countdown contains [&#8230;]",
+        "link": "https://www.nasa.gov/general/nasa-releases-artemis-ii-moon-mission-launch-countdown",
+        "published_utc": "2026-03-26T20:12:30+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-696513301404fafd/480/320"
       }
     ],
     "environment": [
@@ -602,18 +602,6 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Apusul unei ere. La 8 ani după restul planetei, Yahoo Messenger se închide şi la Mizil",
-      "summary": "Yahoo se închide &#8211; de data asta definitiv! Compania americană a anunţat că încheie furnizarea îndrăgitului serviciu Yahoo Messenger în ultima regiune de pe planetă unde acesta mai funcţiona, oraşul Mizil. &#8222;Din 29 aprilie, Yahoo Messenger nu va mai fi disponibil în Mizil. Le recomandăm utilizatorilor să discute până atunci tot ce au de discutat [&#8230;] The post Apusul unei ere. La 8 ani după restul planetei, Yahoo Messenger se închide şi la Mizil appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/it-stiinta/apusul-unei-ere-la-8-ani-dupa-restul-planetei-yahoo-messenger-se-inchide-si-la-mizil",
-      "published_utc": "2026-03-26T12:03:14+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/yahoomizil.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "World Vision Romania",
       "title": "Bullyingul în adolescență: răni invizibile și cum pot fi vindecate",
       "summary": "De ce vorbim despre bullying Bullyingul nu mai este de mult o problemă „minoră” sau o etapă inevitabilă a copilăriei.... Articolul Bullyingul în adolescență: răni invizibile și cum pot fi vindecate apare prima dată în World Vision România .",
@@ -622,6 +610,18 @@
       "score": 3,
       "freshness_boost": 3,
       "image": "https://picsum.photos/seed/vb-2554b0df5dc098e4/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Ora se va schimba luni la prânz, ca să pierdem o oră de muncă, nu una de somn",
+      "summary": "Așa da! Guvernul României a decis să sfideze directivele europene și a stabilit printr-o ordonanță de urgență ca trecerea la ora de vară să nu mai aibă loc sâmbătă noaptea, ci luni la ora 12:00. Logica este cât se poate de evidentă: în loc să pierdem o oră de somn, mai bine să pierdem o [&#8230;] The post Ora se va schimba luni la prânz, ca să pierdem o oră de muncă, nu una de somn appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/life-death/ora-se-va-schimba-luni-la-pranz-ca-sa-pierdem-o-ora-de-munca-nu-una-de-somn",
+      "published_utc": "2026-03-26T09:31:37+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2025/06/oameni_fericiti.jpg"
     },
     {
       "section": "romania",
@@ -662,18 +662,6 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Ora se va schimba luni la prânz, ca să pierdem o oră de muncă, nu una de somn",
-      "summary": "Așa da! Guvernul României a decis să sfideze directivele europene și a stabilit printr-o ordonanță de urgență ca trecerea la ora de vară să nu mai aibă loc sâmbătă noaptea, ci luni la ora 12:00. Logica este cât se poate de evidentă: în loc să pierdem o oră de somn, mai bine să pierdem o [&#8230;] The post Ora se va schimba luni la prânz, ca să pierdem o oră de muncă, nu una de somn appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/ora-se-va-schimba-luni-la-pranz-ca-sa-pierdem-o-ora-de-munca-nu-una-de-somn",
-      "published_utc": "2026-03-26T09:31:37+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2025/06/oameni_fericiti.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "Teach for Romania",
       "title": "De la un proiect Teach for Romania la o inițiativă europeană: cum elevii din Reghin construiesc „Leadership HUB”",
       "summary": "O idee pornită din dorința de a dezvolta competențele de leadership ale elevilor s-a transformat, în doar câțiva ani, într-o inițiativă educațională care conectează școli din mai multe țări europene. Povestea proiectului „Leadership HUB” începe cu un proiect finanțat de Teach for Romania și continuă astăzi prin colaborări internaționale în cadrul platformei eTwinning și al [&#8230;]",
@@ -694,6 +682,18 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-ed87bce9b35837eb/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Țiriac și-a dublat averea, că l-a prins războiul cu plinul făcut la toate cele 400 de mașini",
+      "summary": "Așa arată o lovitură de proporții pe piața financiară! În timp ce bursele internaționale tremură și prețul barilului de petrol a depășit pragul de „mai bine renunți la mașină și mergi pe jos”, cel mai ingenios miliardar al României, Ion Țiriac, privește relaxat spre viitor. Secretul lui ține de o intuiție de mare campion și [&#8230;] The post Țiriac și-a dublat averea, că l-a prins războiul cu plinul făcut la toate cele 400 de mașini appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/monden/tiriac-si-a-dublat-averea-ca-l-a-prins-razboiul-cu-plinul-facut-la-toate-cele-400-de-masini",
+      "published_utc": "2026-03-26T05:38:00+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/tiriac_colectie_masini.jpg"
     },
     {
       "section": "romania",
@@ -771,133 +771,133 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Scientists uncover the secret behind perfectly 3D preserved 'sea reptile' fossils",
-      "summary": "Scientists at Curtin University have solved a long-standing mystery about how some of the world's best-preserved fossils formed in ancient oxygen-free ocean floor settings. The research, published in Communications Earth & Environment, focuses on a 183-million-year-old ichthyosaur—a dolphin-like marine reptile, preserved three dimensionally inside a carbonate concretion from Germany's Posidonia Shale.",
-      "link": "https://phys.org/news/2026-03-scientists-uncover-secret-3d-sea.html",
-      "published_utc": "2026-03-26T17:40:02+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-uncover-the.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "AI learns to read ancient Japanese pottery with 93% accuracy",
-      "summary": "Classifying ancient pottery has always depended on the trained judgment of an archaeologist. Identifying the subtle differences between piece types takes years of experience, and two experts will not always agree. Now, a team including researchers at Nagoya University in Japan has developed a deep learning model that can classify pottery by shape with high accuracy, using three-dimensional scan data rather than photographs or drawings.",
-      "link": "https://phys.org/news/2026-03-ai-ancient-japanese-pottery-accuracy.html",
-      "published_utc": "2026-03-26T17:20:03+00:00",
+      "title": "Beavers bring biodiversity to wetlands, study shows",
+      "summary": "Beavers should be embraced as key allies in the fight against biodiversity loss according to scientists at the University of Stirling, after new research revealed the significant ecological benefits the animals bring to wetland habitats. Beaver populations across Europe and North America are recovering from historically low levels after being hunted to near extinction.",
+      "link": "https://phys.org/news/2026-03-beavers-biodiversity-wetlands.html",
+      "published_utc": "2026-03-26T21:20:17+00:00",
       "score": 1,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/can-ai-learn-to-read-a.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "NASA Breaking News",
-      "title": "Arctic Winter Sea Ice Ties Record Low, NASA, NSIDC Scientists Find",
-      "summary": "For the second consecutive year, winter sea ice in the Arctic reached a level that matches the lowest peak observed since satellite monitoring began in 1979. On March 15, Arctic sea ice extent reached 5.52 million square miles (14.29 million square kilometers), very close to the 2025 peak of 5.53 million square miles (14.31 million […]",
-      "link": "https://science.nasa.gov/uncategorized/arctic-winter-sea-ice-2026",
-      "published_utc": "2026-03-26T17:00:55+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-db2a771cc1a05fbe/480/320"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-shows-biodiversi.jpg"
     },
     {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Study finds 40% of European gas stoves leak cancer-causing benzene while turned off",
-      "summary": "Benzene, a compound linked with leukemia and other blood cancers, is leaking from gas stoves in Europe, a new study finds. According to the World Health Organization, there is no safe level of exposure to benzene, a compound that occurs naturally in crude oil and natural gas, and can also be found in cigarette smoke. Experts say that even low levels of benzene can raise the risk of cancer.",
-      "link": "https://phys.org/news/2026-03-european-gas-stoves-leak-cancer.html",
-      "published_utc": "2026-03-26T17:00:05+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/gas-burner.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "NASA Breaking News",
-      "title": "NASA’s IXPE Gets Fresh Look at Supernova",
-      "summary": "NASA’s IXPE (Imaging X-ray Polarimetry Explorer) mission has taken a new observation of a supernova, RCW 86, seen here in an image released on March 24, 2026. This observation helps fill in a fuller picture of what other telescopes have seen. The full image combines IXPE’s data with legacy observations from two other X-ray telescopes: [&#8230;]",
-      "link": "https://www.nasa.gov/image-article/nasas-ixpe-gets-fresh-look-at-supernova",
-      "published_utc": "2026-03-26T16:58:30+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-0c61b7bb18b1b1d5/480/320"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "'Coral houses' are dotted throughout the Pacific. Now, scientists know exactly when they were built",
-      "summary": "The Mangareva Islands are about 1,600 kilometers southeast of Tahiti in French Polynesia. They get their name (which means \"floating mountains\") from the way the sea spray breaking on the surrounding coral atolls, or motu, causes the ancient volcanic peaks to appear as if they are floating above the waves.",
-      "link": "https://phys.org/news/2026-03-coral-houses-dotted-pacific-scientists.html",
-      "published_utc": "2026-03-26T16:50:01+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/coral-houses-are-dotte.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Sediment core reveals 10,800 years of precipitation history in the Sahara",
-      "summary": "The analysis of a sediment core from an oasis lake in Chad provides new insights into the history of precipitation in the Sahara. The study, led by the University of Cologne, shows that a prolonged wet phase, which lasted from 14,800 to 5,500 years ago, was interrupted by short-term droughts. Such drought events could also occur in a similar manner in the future.",
-      "link": "https://phys.org/news/2026-03-sediment-core-reveals-years-precipitation.html",
-      "published_utc": "2026-03-26T16:40:01+00:00",
+      "title": "Quantum computer accurately simulates real magnetic materials, reproducing national laboratory data",
+      "summary": "Studying and designing novel materials is a central application of quantum mechanics. Chemists, materials scientists, and physicists focus on subtle interactions in quantum materials and to uncover them they rely on sophisticated computational and experimental techniques. Computer simulations that connect microscopic quantum interactions to measurable material properties complement experimental data to connect structure to function—but classical computers can struggle to simulate those properties. Fortunately, scientists today have a new tool in their toolbox: quantum computers.",
+      "link": "https://phys.org/news/2026-03-quantum-accurately-simulates-real-magnetic.html",
+      "published_utc": "2026-03-26T21:20:02+00:00",
       "score": 1,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/10800-years-of-precipi.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ibm-quantum-computer-a.jpg"
     },
     {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Why cells respond 'incorrectly' in old age",
-      "summary": "Some of the signs of aging in human cells originate in the cell nucleus, because the packaged form of DNA changes with age. This has now been demonstrated by PSI researchers. It means that older cells can no longer react appropriately to external stimuli, and this can even lead to diseases. This insight could help scientists to curb such alterations and support better health in old age.",
-      "link": "https://phys.org/news/2026-03-cells-incorrectly-age.html",
-      "published_utc": "2026-03-26T16:20:06+00:00",
+      "title": "Unlocking scalable entanglement will enable next-generation quantum computing",
+      "summary": "Quantum computing promises to transform our world in rapid, radical and revolutionary ways: solving in seconds problems that would take classical computers years, accelerating the discovery of new medicines, creating sustainable materials, optimizing complex systems, and strengthening cybersecurity. It does so using qubits, the quantum counterparts of classical bits, which can occupy multiple states simultaneously and enable a fundamentally new kind of computation.",
+      "link": "https://phys.org/news/2026-03-scalable-entanglement-enable-generation-quantum.html",
+      "published_utc": "2026-03-26T21:10:01+00:00",
+      "score": 4,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ucf-researchers-unlock-1.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Tiny rotating hairs inside a microscopic cavity decide where your organs will grow",
+      "summary": "Heart to the left. Liver to the right. That's where you'll find these organs in a healthy human body, but surprisingly, in some people, the heart is on the right and the liver on the left. This normal or abnormal asymmetry can be traced back to your embryonic stage. In the early days of your development, a small fluid-filled cavity known as an embryonic node forms in your embryo. Inside, tiny micro-hairs known as cilia create a flow pattern that steers where organs grow in your body. However, the science behind this flow process has remained a mystery until now.",
+      "link": "https://phys.org/news/2026-03-tiny-rotating-hairs-microscopic-cavity.html",
+      "published_utc": "2026-03-26T21:00:04+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-cells-respond-inco.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Tiny bubbles, sound waves clean produce safely and effectively",
-      "summary": "A Jacuzzi for washing your tomatoes might seem odd, but new research finds that a bubble bath with a constant acoustic sound in the water may be the best chemical-free, gentle method for cleaning agricultural produce and possibly medical instruments and semiconductors. The results were published in the journal Droplet.",
-      "link": "https://phys.org/news/2026-03-tiny-safely-effectively.html",
-      "published_utc": "2026-03-26T16:20:03+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tiny-bubbles-sound-wav.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Independent measurement strengthens the case for toponium",
-      "summary": "A new independent measurement by the CMS experiment at the LHC is consistent with the existence of the most massive composite particle ever observed, the momentary union of a top quark and its antiquark",
-      "link": "https://phys.org/news/2026-03-independent-case-toponium.html",
-      "published_utc": "2026-03-26T16:20:02+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/independent-measuremen.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/have-you-ever-asked-yo.jpg"
     },
     {
       "section": "science",
       "kind": "global",
       "source": "NASA Breaking News",
-      "title": "Curiosity Blog, Sols 4838-4844: Wrapping Up the Boxwork Terrain",
-      "summary": "Written by Deborah Padgett, MSL Operations Product Ground System Task Lead at NASA’s Jet Propulsion Laboratory Earth planning date: Friday, March 20, 2026 Curiosity has just concluded a very intense week of science observations and engineering activities, as it wraps up its monthslong investigation of the Martian boxwork terrain. Three days of planning this week […]",
-      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4838-4844-wrapping-up-the-boxwork-terrain",
-      "published_utc": "2026-03-26T15:26:13+00:00",
+      "title": "La NASA presentará el telescopio Roman completo y ofrecerá una conferencia de prensa",
+      "summary": "Se invita a los medios de comunicación el martes 21 de abril al Centro de Vuelo Espacial Goddard de la NASA en Greenbelt, Maryland, para conocer el telescopio espacial Nancy Grace Roman de la agencia, cuya construcción terminó recientemente y el cual se encuentra ultimando las pruebas previas a su lanzamiento. Esta será una de [&#8230;]",
+      "link": "https://www.nasa.gov/news-release/la-nasa-presentara-el-telescopio-roman-completo-y-ofrecera-una-conferencia-de-prensa",
+      "published_utc": "2026-03-26T20:53:17+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-b5bdd2bf8222bc35/480/320"
+      "image": "https://picsum.photos/seed/vb-257b866551fda1eb/480/320"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Arctic winter sea ice matches record low for the second year in a row, say scientists",
+      "summary": "For the second consecutive year, winter sea ice in the Arctic reached a level that matches the lowest peak observed since satellite monitoring began in 1979. On March 15, Arctic sea ice extent reached 5.52 million square miles (14.29 million square kilometers), very close to the 2025 peak of 5.53 million square miles (14.31 million square kilometers). Scientists with NASA and the National Snow and Ice Data Center (NSIDC) at the University of Colorado, Boulder, note that the two years are statistically tied.",
+      "link": "https://phys.org/news/2026-03-arctic-winter-sea-ice-year-1.html",
+      "published_utc": "2026-03-26T20:50:01+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/arctic-winter-sea-ice.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Employee referrals may trigger bias: Colleagues see referred hires as less meritorious",
+      "summary": "Employee referrals can aid hiring but carry hidden downsides. New research by Rellie Derfler-Rozin at the University of Maryland's Robert H. Smith School of Business and Teodora Tomova Shakur of Texas Christian University finds that staff often see referred hires as less meritorious and offer less support, even when the referred employees demonstrate high performance. Their study, published in the Journal of Applied Psychology, recommends clear communication about hiring rigor and employee involvement to counter these biased perceptions.",
+      "link": "https://phys.org/news/2026-03-employee-referrals-trigger-bias-colleagues.html",
+      "published_utc": "2026-03-26T20:40:05+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/job-referral.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Succulents as role models: How they balance photosynthesis and water loss so efficiently",
+      "summary": "A research team led by the University of Bern has decoded a mechanism by which an inconspicuous succulent regulates the uptake of carbon dioxide via the leaf surface so finely that it receives enough for photosynthesis without losing too much water—and can therefore conserve water efficiently. The findings might be translated to crops to induce higher drought resistance and ensure yields during heat and drought.",
+      "link": "https://phys.org/news/2026-03-succulents-role-photosynthesis-loss-efficiently.html",
+      "published_utc": "2026-03-26T20:40:02+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/succulents-as-role-mod.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Arctic sea ice at lowest level ever this winter",
+      "summary": "Arctic sea ice reached its lowest level ever recorded, statistically tying last year's record, a leading US climate observatory for this geopolitically significant region said on Thursday.",
+      "link": "https://phys.org/news/2026-03-arctic-sea-ice-lowest-winter.html",
+      "published_utc": "2026-03-26T20:30:02+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/this-years-maximum-arc.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "NASA Breaking News",
+      "title": "NASA to Unveil Complete Roman Telescope, Host Media Briefing",
+      "summary": "Media are invited Tuesday, April 21, to NASA’s Goddard Space Flight Center in Greenbelt, Maryland, for a look at the agency’s Nancy Grace Roman Space Telescope, which recently completed construction and is wrapping up prelaunch testing. This will be one of the last opportunities to view the fully integrated flagship telescope before it ships to [&#8230;]",
+      "link": "https://www.nasa.gov/news-release/nasa-to-unveil-complete-roman-telescope-host-media-briefing",
+      "published_utc": "2026-03-26T20:18:47+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-594cd3f59a86e76b/480/320"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "NASA Breaking News",
+      "title": "NASA Releases Artemis II Moon Mission Launch Countdown",
+      "summary": "Before NASA sends its astronauts Reid Wiseman, Victor Glover, Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen on their Artemis II mission around the Moon, the launch team at NASA’s Kennedy Space Center in Florida and teams across the country will begin counting down about two days before liftoff.&#160; A launch countdown contains [&#8230;]",
+      "link": "https://www.nasa.gov/general/nasa-releases-artemis-ii-moon-mission-launch-countdown",
+      "published_utc": "2026-03-26T20:12:30+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-696513301404fafd/480/320"
     },
     {
       "section": "medical",
@@ -1256,6 +1256,7 @@
       "https://live.staticflickr.com/65535/55153841175_72ae997458_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/55164127054_3389633478_b.jpg",
       "https://live.staticflickr.com/65535/55169979408_717b7b4f08_b.jpg",
       "https://live.staticflickr.com/65535/55165722294_cfe669b8de_b.jpg",
       "https://live.staticflickr.com/65535/55165667748_7771a00c6b_b.jpg",
@@ -1272,10 +1273,10 @@
       "https://live.staticflickr.com/4280/35379298396_d816f4326b_b.jpg",
       "https://live.staticflickr.com/65535/55156194686_a0616f7277_b.jpg",
       "https://live.staticflickr.com/65535/55152597959_152efcb318_b.jpg",
-      "https://live.staticflickr.com/65535/55166301564_ffd8027383_b.jpg",
-      "https://live.staticflickr.com/65535/55157437364_a5d9923856_b.jpg"
+      "https://live.staticflickr.com/65535/55166301564_ffd8027383_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55170174323_c2e1e41283_b.jpg",
       "https://live.staticflickr.com/65535/55170037311_d4dff3a9a4_b.jpg",
       "https://live.staticflickr.com/65535/55168556292_956bd31e3b_b.jpg",
       "https://live.staticflickr.com/65535/55170258694_e0bd50375e_b.jpg",
@@ -1292,12 +1293,11 @@
       "https://live.staticflickr.com/65535/55167169542_16ceaab032_b.jpg",
       "https://live.staticflickr.com/65535/3262858442_be2100d3c7_b.jpg",
       "https://live.staticflickr.com/video/55168685085/c65d1b549c/360p.mp4?s=eyJpIjo1NTE2ODY4NTA4NSwiZSI6MTc3NDQ3OTM0MiwicyI6IjljYjQ1MjI3Mjg0YmIwYzRkM2FkZWM4Njk2ZDM2ZDRlMzI2YWNjM2YiLCJ2IjoxfQ",
-      "https://live.staticflickr.com/video/55168685085/c65d1b549c/360p.mp4?s=eyJpIjo1NTE2ODY4NTA4NSwiZSI6MTc3NDQ3NTkyMiwicyI6IjU1YTFkMThmZGE2ZTBjMTNkZWRkZTIzMGE4ZmY4NWMxMDZjNjg4MjAiLCJ2IjoxfQ",
-      "https://live.staticflickr.com/65535/14904483193_63091ab910_b.jpg"
+      "https://live.staticflickr.com/video/55168685085/c65d1b549c/360p.mp4?s=eyJpIjo1NTE2ODY4NTA4NSwiZSI6MTc3NDQ3NTkyMiwicyI6IjU1YTFkMThmZGE2ZTBjMTNkZWRkZTIzMGE4ZmY4NWMxMDZjNjg4MjAiLCJ2IjoxfQ"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
+      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
