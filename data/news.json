@@ -1,18 +1,18 @@
 {
-  "generated_utc": "2026-03-26T14:20:33+00:00",
+  "generated_utc": "2026-03-26T16:02:59+00:00",
   "sections": {
     "romania": [
       {
         "section": "romania",
         "kind": "ro",
-        "source": "HotNews",
-        "title": "O multinațională tocmai a anunțat o investiție uriașă într-o fabrică lângă București: „România rămâne o piață cheie pentru noi”",
-        "summary": "Compania JTI, din domeniul produselor din tutun și nicotină, investeşte aproximativ 300 de milioane de euro pentru construirea unei noi fabrici în Ştefăneştii de Jos, judeţul Ilfov, aceasta urmând să fie finalizată în 2027, conform datelor prezentate joi, în cadrul unei conferinţe de presă, de către reprezentanţii companiei, scrie Agerpres. &#8222;Aceasta este una dintre cele &#8230;",
-        "link": "https://hotnews.ro/o-multinationala-tocmai-a-anuntat-o-investitie-uriasa-intr-o-fabrica-langa-bucuresti-romania-ramane-o-piata-cheie-pentru-noi-2203585",
-        "published_utc": "2026-03-26T13:01:21+00:00",
+        "source": "Start-Up Romania",
+        "title": "Ryzen 9 9950X3D2: AMD introduce 208 MB cache și suport pentru gaming și aplicații profesionale",
+        "summary": "AMD anunță lansarea procesorului Ryzen 9 9950X3D2 Dual Edition, un model desktop care combină performanța pentru gaming cu puterea necesară pentru sarcini profesionale.",
+        "link": "https://start-up.ro/ryzen-9-9950x3d2-amd-introduce-208-mb-cache-si-suport-pentru-gaming-si-aplicatii-profesionale",
+        "published_utc": "2026-03-26T14:28:10+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-9ad52a2202e237bf/480/320"
+        "image": "https://start-up.ro/img/articles/3/8/0/38095/cover-38095-src.jpg"
       },
       {
         "section": "romania",
@@ -25,6 +25,18 @@
         "score": 3,
         "freshness_boost": 3,
         "image": "https://picsum.photos/seed/vb-2554b0df5dc098e4/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 Tricolorii, optimiști că se vor întoarce din Istanbul cu mai mult păr",
+        "summary": "Naționala României merge la Istanbul cu obiective clare: să-și refacă linia părului și, dacă se poate, să scoată și un rezultat decent în meciul cu Turcia. Selecția jucătorilor a fost făcută pe criterii clare: „Selecția s-a făcut pe baza formei sportive, dar și a potențialului de regenerare a vârfurilor. Avem experiență, dăruire și doar câteva [&#8230;] The post Tricolorii, optimiști că se vor întoarce din Istanbul cu mai mult păr appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/sport/tricolorii-optimisti-ca-se-vor-intoarce-din-istanbul-cu-mai-mult-par",
+        "published_utc": "2026-03-26T10:56:31+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/nationala_cu_par.jpg"
       },
       {
         "section": "romania",
@@ -54,18 +66,6 @@
         "section": "romania",
         "kind": "ro",
         "source": "Times New Roman (Satira)",
-        "title": "😂 Ora se va schimba luni la prânz, ca să pierdem o oră de muncă, nu una de somn",
-        "summary": "Așa da! Guvernul României a decis să sfideze directivele europene și a stabilit printr-o ordonanță de urgență ca trecerea la ora de vară să nu mai aibă loc sâmbătă noaptea, ci luni la ora 12:00. Logica este cât se poate de evidentă: în loc să pierdem o oră de somn, mai bine să pierdem o [&#8230;] The post Ora se va schimba luni la prânz, ca să pierdem o oră de muncă, nu una de somn appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/life-death/ora-se-va-schimba-luni-la-pranz-ca-sa-pierdem-o-ora-de-munca-nu-una-de-somn",
-        "published_utc": "2026-03-26T09:31:37+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2025/06/oameni_fericiti.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Times New Roman (Satira)",
         "title": "😂 Recomandare luată în seamă",
         "summary": "The post Recomandare luată în seamă appeared first on Times New Roman .",
         "link": "https://www.timesnewroman.ro/ovi/recomandare-luata-in-seama",
@@ -83,7 +83,7 @@
         "link": "https://www.timesnewroman.ro/monden/inspirat-de-covrigii-luca-si-porsche-ieftineste-modelul-taycan-cu-50-de-bani",
         "published_utc": "2026-03-25T14:39:07+00:00",
         "score": 3,
-        "freshness_boost": 3,
+        "freshness_boost": 1,
         "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/porschetaycan.jpg"
       },
       {
@@ -566,14 +566,14 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "HotNews",
-      "title": "O multinațională tocmai a anunțat o investiție uriașă într-o fabrică lângă București: „România rămâne o piață cheie pentru noi”",
-      "summary": "Compania JTI, din domeniul produselor din tutun și nicotină, investeşte aproximativ 300 de milioane de euro pentru construirea unei noi fabrici în Ştefăneştii de Jos, judeţul Ilfov, aceasta urmând să fie finalizată în 2027, conform datelor prezentate joi, în cadrul unei conferinţe de presă, de către reprezentanţii companiei, scrie Agerpres. &#8222;Aceasta este una dintre cele &#8230;",
-      "link": "https://hotnews.ro/o-multinationala-tocmai-a-anuntat-o-investitie-uriasa-intr-o-fabrica-langa-bucuresti-romania-ramane-o-piata-cheie-pentru-noi-2203585",
-      "published_utc": "2026-03-26T13:01:21+00:00",
+      "source": "Start-Up Romania",
+      "title": "Ryzen 9 9950X3D2: AMD introduce 208 MB cache și suport pentru gaming și aplicații profesionale",
+      "summary": "AMD anunță lansarea procesorului Ryzen 9 9950X3D2 Dual Edition, un model desktop care combină performanța pentru gaming cu puterea necesară pentru sarcini profesionale.",
+      "link": "https://start-up.ro/ryzen-9-9950x3d2-amd-introduce-208-mb-cache-si-suport-pentru-gaming-si-aplicatii-profesionale",
+      "published_utc": "2026-03-26T14:28:10+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-9ad52a2202e237bf/480/320"
+      "image": "https://start-up.ro/img/articles/3/8/0/38095/cover-38095-src.jpg"
     },
     {
       "section": "romania",
@@ -586,6 +586,18 @@
       "score": 3,
       "freshness_boost": 3,
       "image": "https://picsum.photos/seed/vb-2554b0df5dc098e4/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Tricolorii, optimiști că se vor întoarce din Istanbul cu mai mult păr",
+      "summary": "Naționala României merge la Istanbul cu obiective clare: să-și refacă linia părului și, dacă se poate, să scoată și un rezultat decent în meciul cu Turcia. Selecția jucătorilor a fost făcută pe criterii clare: „Selecția s-a făcut pe baza formei sportive, dar și a potențialului de regenerare a vârfurilor. Avem experiență, dăruire și doar câteva [&#8230;] The post Tricolorii, optimiști că se vor întoarce din Istanbul cu mai mult păr appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/sport/tricolorii-optimisti-ca-se-vor-intoarce-din-istanbul-cu-mai-mult-par",
+      "published_utc": "2026-03-26T10:56:31+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/nationala_cu_par.jpg"
     },
     {
       "section": "romania",
@@ -620,7 +632,7 @@
       "link": "https://www.timesnewroman.ro/monden/inspirat-de-covrigii-luca-si-porsche-ieftineste-modelul-taycan-cu-50-de-bani",
       "published_utc": "2026-03-25T14:39:07+00:00",
       "score": 3,
-      "freshness_boost": 3,
+      "freshness_boost": 1,
       "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/porschetaycan.jpg"
     },
     {
@@ -638,18 +650,6 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Teach for Romania",
-      "title": "De la un proiect Teach for Romania la o inițiativă europeană: cum elevii din Reghin construiesc „Leadership HUB”",
-      "summary": "O idee pornită din dorința de a dezvolta competențele de leadership ale elevilor s-a transformat, în doar câțiva ani, într-o inițiativă educațională care conectează școli din mai multe țări europene. Povestea proiectului „Leadership HUB” începe cu un proiect finanțat de Teach for Romania și continuă astăzi prin colaborări internaționale în cadrul platformei eTwinning și al [&#8230;]",
-      "link": "https://teachforromania.org/proiect-reghin-leadership-hub",
-      "published_utc": "2026-03-11T11:59:25+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-a5a22f02f60b7d29/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "Times New Roman (Satira)",
       "title": "😂 Recomandare luată în seamă",
       "summary": "The post Recomandare luată în seamă appeared first on Times New Roman .",
@@ -662,14 +662,14 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Ora se va schimba luni la prânz, ca să pierdem o oră de muncă, nu una de somn",
-      "summary": "Așa da! Guvernul României a decis să sfideze directivele europene și a stabilit printr-o ordonanță de urgență ca trecerea la ora de vară să nu mai aibă loc sâmbătă noaptea, ci luni la ora 12:00. Logica este cât se poate de evidentă: în loc să pierdem o oră de somn, mai bine să pierdem o [&#8230;] The post Ora se va schimba luni la prânz, ca să pierdem o oră de muncă, nu una de somn appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/ora-se-va-schimba-luni-la-pranz-ca-sa-pierdem-o-ora-de-munca-nu-una-de-somn",
-      "published_utc": "2026-03-26T09:31:37+00:00",
+      "source": "Teach for Romania",
+      "title": "De la un proiect Teach for Romania la o inițiativă europeană: cum elevii din Reghin construiesc „Leadership HUB”",
+      "summary": "O idee pornită din dorința de a dezvolta competențele de leadership ale elevilor s-a transformat, în doar câțiva ani, într-o inițiativă educațională care conectează școli din mai multe țări europene. Povestea proiectului „Leadership HUB” începe cu un proiect finanțat de Teach for Romania și continuă astăzi prin colaborări internaționale în cadrul platformei eTwinning și al [&#8230;]",
+      "link": "https://teachforromania.org/proiect-reghin-leadership-hub",
+      "published_utc": "2026-03-11T11:59:25+00:00",
       "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2025/06/oameni_fericiti.jpg"
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-a5a22f02f60b7d29/480/320"
     },
     {
       "section": "romania",
@@ -1122,8 +1122,8 @@
     "source": "data/jokes_ro.txt"
   },
   "satire_ro": {
-    "title": "Auzind că iar se dă cu rachete în Golf, mii de români răsuflă uşuraţi că şi-au luat Octavia",
-    "link": "https://www.timesnewroman.ro/life-death/auzind-ca-iar-se-da-cu-rachete-in-golf-mii-de-romani-rasufla-usurati-ca-si-au-luat-octavia/",
+    "title": "Deşi iranienii au deblocat strâmtoarea, petrolierele nu pot ieşi din cauza unui BMW cu număr de Călăraşi",
+    "link": "https://www.timesnewroman.ro/politic/desi-iranienii-au-deblocat-stramtoarea-petrolierele-nu-pot-iesi-din-cauza-unui-bmw-cu-numar-de-calarasi/",
     "source": "timesnewroman.ro"
   },
   "top_images": [
@@ -1208,6 +1208,7 @@
       "https://live.staticflickr.com/65535/55153841175_72ae997458_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/55155066097_2dbc75de49_b.jpg",
       "https://live.staticflickr.com/65535/55161617654_ef5afbf12c_b.jpg",
       "https://live.staticflickr.com/65535/55164077455_089752e46a_b.jpg",
       "https://live.staticflickr.com/65535/55167620394_407be31355_b.jpg",
@@ -1224,10 +1225,10 @@
       "https://live.staticflickr.com/4389/36556436823_a0df5b136d_b.jpg",
       "https://live.staticflickr.com/1654/25747299581_1ecedd5226_b.jpg",
       "https://live.staticflickr.com/65535/55158112970_b51d59d5d2_b.jpg",
-      "https://live.staticflickr.com/370/31956779473_cef30bff4c_b.jpg",
-      "https://live.staticflickr.com/65535/55164127054_3389633478_b.jpg"
+      "https://live.staticflickr.com/370/31956779473_cef30bff4c_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55169168211_33964d0502_b.jpg",
       "https://live.staticflickr.com/video/55168685085/c65d1b549c/360p.mp4?s=eyJpIjo1NTE2ODY4NTA4NSwiZSI6MTc3NDUzNjYzMywicyI6IjM5N2FlNDhhN2EyZGQ3MjhhYzQzYmU0NzMzMjkyYjk3NGNhZWEwMmQiLCJ2IjoxfQ",
       "https://live.staticflickr.com/65535/14861624586_b591b931a9_b.jpg",
       "https://live.staticflickr.com/8224/8445100906_09ddd80f4a_b.jpg",
@@ -1244,12 +1245,11 @@
       "https://live.staticflickr.com/65535/14904483193_63091ab910_b.jpg",
       "https://live.staticflickr.com/65535/55167406307_b4fae14a74_b.jpg",
       "https://live.staticflickr.com/65535/55167780984_2902f972e7_b.jpg",
-      "https://live.staticflickr.com/65535/55168007114_5733efb86c_b.jpg",
-      "https://live.staticflickr.com/65535/55166665047_0a18e61809_b.jpg"
+      "https://live.staticflickr.com/65535/55168007114_5733efb86c_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
+      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
