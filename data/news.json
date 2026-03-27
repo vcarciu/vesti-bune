@@ -1,7 +1,43 @@
 {
-  "generated_utc": "2026-03-27T04:26:08+00:00",
+  "generated_utc": "2026-03-27T06:08:04+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Start-Up Romania",
+        "title": "Art Safari s-a deschis în Amzei 13 și are un nou program expozițional până pe 19 iulie",
+        "summary": "Art Safari, cel mai vizitat eveniment dedicat artei din România, și-a deschis porțile într-un nou spațiu expozițional, de cca. 4500 mp, în Amzei 13 din sectorul 1. Nicolae Vermont, Mihai Eminescu...",
+        "link": "https://start-up.ro/art-safari-s-a-deschis-in-amzei-13-si-are-un-nou-program-expozitional-pana-pe-19-iulie",
+        "published_utc": "2026-03-27T06:05:01+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://start-up.ro/img/articles/3/8/0/38087/cover-38087-src.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Frații Pavăl redenumesc rețeaua cumpărată în Grecia în Dedeman Hellas și majorează capitalul social cu 25 de milioane de euro",
+        "summary": "Conform unui anunț făcut de presa elenă, Praktiker Hellas devine DEDEMAN HELLAS SOLE OWNER S.A, fiind aprobată majorarea capitalului social al companiei cu 25 de milioane de euro. Mai exact, conform unei hotărâri a Adunării Generale Extraordinare a Acționarilor companiei, s-a decis majorarea în continuare a capitalului social cu 25 de milioane de euro prin &#8230;",
+        "link": "https://hotnews.ro/fratii-paval-redenumesc-reteaua-cumparata-in-grecia-in-dedeman-hellas-si-majoreaza-capitalului-social-cu-25-de-milioane-de-euro-2204063",
+        "published_utc": "2026-03-27T04:33:53+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-02efb4b5fb6d9d71/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Life.ro (Lifestyle)",
+        "title": "Ateneul Român: Istoria și 10 lucruri pe care nu le știai despre una dintre clădirile-simbol ale culturii române",
+        "summary": "Ateneul Român este o operă de artă arhitecturală, un document viu al istoriei românești și un simbol al credinței într-o cultură comună. Articolul Ateneul Român: Istoria și 10 lucruri pe care nu le știai despre una dintre clădirile-simbol ale culturii române apare prima dată în life.ro .",
+        "link": "https://life.ro/ateneul-roman-istoria-si-10-lucruri-pe-care-nu-le-stiai-despre-una-dintre-cladirile-simbol-ale-culturii-romane",
+        "published_utc": "2026-03-27T04:31:00+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://life.ro/wp-content/uploads/2026/03/Ateneul-roman.webp"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -18,13 +54,25 @@
         "section": "romania",
         "kind": "ro",
         "source": "Times New Roman (Satira)",
-        "title": "😂 Auzind că iar se dă cu rachete în Golf, mii de români răsuflă uşuraţi că şi-au luat Octavia",
-        "summary": "Situaţia geopolitică din ce în ce mai turbulentă i-a pus pe jar pe mii de români, dar la fel de mulţi răsuflă uşuraţi! Auzind că de câteva săptămâni se trage cu rachete în Golf, proprietarii de Octavia s-au felicitat singuri pentru alegerea făcută. &#8222;Era cât pe aci să-mi iau şi eu Golf&#8221;, mărturiseşte Sebilian Grancea, [&#8230;] The post Auzind că iar se dă cu rachete în Golf, mii de români răsuflă uşuraţi că şi-au luat Octavia appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/life-death/auzind-ca-iar-se-da-cu-rachete-in-golf-mii-de-romani-rasufla-usurati-ca-si-au-luat-octavia",
-        "published_utc": "2026-03-26T13:06:15+00:00",
+        "title": "😂 Apusul unei ere. La 8 ani după restul planetei, Yahoo Messenger se închide şi la Mizil",
+        "summary": "Yahoo se închide &#8211; de data asta definitiv! Compania americană a anunţat că încheie furnizarea îndrăgitului serviciu Yahoo Messenger în ultima regiune de pe planetă unde acesta mai funcţiona, oraşul Mizil. &#8222;Din 29 aprilie, Yahoo Messenger nu va mai fi disponibil în Mizil. Le recomandăm utilizatorilor să discute până atunci tot ce au de discutat [&#8230;] The post Apusul unei ere. La 8 ani după restul planetei, Yahoo Messenger se închide şi la Mizil appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/it-stiinta/apusul-unei-ere-la-8-ani-dupa-restul-planetei-yahoo-messenger-se-inchide-si-la-mizil",
+        "published_utc": "2026-03-26T12:03:14+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/golfoctavia.jpg"
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/yahoomizil.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "World Vision Romania",
+        "title": "Bullyingul în adolescență: răni invizibile și cum pot fi vindecate",
+        "summary": "De ce vorbim despre bullying Bullyingul nu mai este de mult o problemă „minoră” sau o etapă inevitabilă a copilăriei.... Articolul Bullyingul în adolescență: răni invizibile și cum pot fi vindecate apare prima dată în World Vision România .",
+        "link": "https://worldvision.ro/2026/03/26/bullyingul-in-adolescenta-rani-invizibile-si-cum-pot-fi-vindecate",
+        "published_utc": "2026-03-26T11:44:13+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-2554b0df5dc098e4/480/320"
       },
       {
         "section": "romania",
@@ -42,6 +90,18 @@
         "section": "romania",
         "kind": "ro",
         "source": "Times New Roman (Satira)",
+        "title": "😂 Țiriac și-a dublat averea, că l-a prins războiul cu plinul făcut la toate cele 400 de mașini",
+        "summary": "Așa arată o lovitură de proporții pe piața financiară! În timp ce bursele internaționale tremură și prețul barilului de petrol a depășit pragul de „mai bine renunți la mașină și mergi pe jos”, cel mai ingenios miliardar al României, Ion Țiriac, privește relaxat spre viitor. Secretul lui ține de o intuiție de mare campion și [&#8230;] The post Țiriac și-a dublat averea, că l-a prins războiul cu plinul făcut la toate cele 400 de mașini appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/monden/tiriac-si-a-dublat-averea-ca-l-a-prins-razboiul-cu-plinul-facut-la-toate-cele-400-de-masini",
+        "published_utc": "2026-03-26T05:38:00+00:00",
+        "score": 3,
+        "freshness_boost": 1,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/tiriac_colectie_masini.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Times New Roman (Satira)",
         "title": "😂 Emisia Realitatea Plus va fi întreruptă trei ore de 1 Aprilie, ca să mai mintă şi alţii în ziua aia",
         "summary": "Să lăsăm pe toată lumea să dea o tură cu proverbiala cioară vopsită! Măcar de Ziua păcălelilor, să mai mintă şi alţii &#8211; astfel îşi motivează CNA decizia de a întrerupe pe 1 Aprilie, timp de trei ore, emisia Realitatea Plus TV. &#8222;Oricui îi place să-şi tragă semenii în piept măcar un pic, dar nu [&#8230;] The post Emisia Realitatea Plus va fi întreruptă trei ore de 1 Aprilie, ca să mai mintă şi alţii în ziua aia appeared first on Times New Roman .",
         "link": "https://www.timesnewroman.ro/monden/emisia-realitatea-plus-va-fi-intrerupta-trei-ore-de-1-aprilie-ca-sa-mai-minta-si-altii-in-ziua-aia",
@@ -53,14 +113,110 @@
       {
         "section": "romania",
         "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 Inspirat de covrigii Luca, şi Porsche ieftineşte modelul Taycan cu 50 de bani",
-        "summary": "Decizia lanţului de covrigării Luca de a ieftini covrigul cu 50 de bani a stârnit o adevărată reacţie în lanţ pe piaţă! Într-un gest rar de solidaritate cu consumatorii grav afectaţi de criză, şi alţi producători de produse au convenit să reducă preţul produselor pe care le produc cu 50 de bani. Printre numele mari [&#8230;] The post Inspirat de covrigii Luca, şi Porsche ieftineşte modelul Taycan cu 50 de bani appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/monden/inspirat-de-covrigii-luca-si-porsche-ieftineste-modelul-taycan-cu-50-de-bani",
-        "published_utc": "2026-03-25T14:39:07+00:00",
+        "source": "SOS Satele Copiilor Romania",
+        "title": "Părinte Social",
+        "summary": "Descrierea postului: Părintele social crează un mediu de viaţă, îngrijire şi educaţie, caracterizat prin afecţiune şi stabilitate şi adecvat dezvoltării personalităţii fiecărui copil (în plan fizic, psihic, emoţional, social şi... The post Părinte Social appeared first on SOS Satele Copiilor România .",
+        "link": "https://www.sos-satelecopiilor.ro/parinte-social",
+        "published_utc": "2026-03-19T12:56:50+00:00",
         "score": 3,
-        "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/porschetaycan.jpg"
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-5c5602f10ee5770c/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Teach for Romania",
+        "title": "De la un proiect Teach for Romania la o inițiativă europeană: cum elevii din Reghin construiesc „Leadership HUB”",
+        "summary": "O idee pornită din dorința de a dezvolta competențele de leadership ale elevilor s-a transformat, în doar câțiva ani, într-o inițiativă educațională care conectează școli din mai multe țări europene. Povestea proiectului „Leadership HUB” începe cu un proiect finanțat de Teach for Romania și continuă astăzi prin colaborări internaționale în cadrul platformei eTwinning și al [&#8230;]",
+        "link": "https://teachforromania.org/proiect-reghin-leadership-hub",
+        "published_utc": "2026-03-11T11:59:25+00:00",
+        "score": 3,
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-a5a22f02f60b7d29/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Fundatia Inocenti",
+        "title": "Povestea lui Ionuț: cum sprijinul educațional schimbă viața unui copil",
+        "summary": "Află povestea lui Ionuț și cum sprijinul educațional și emoțional oferit de Fundația Inocenți ajută copiii vulnerabili să își descopere încrederea în sine. The post Povestea lui Ionuț: cum sprijinul educațional schimbă viața unui copil appeared first on Fundația Inocenți .",
+        "link": "https://inocenti.ro/povestea-lui-ionut-cum-sprijinul-educational-schimba-viata-unui-copil",
+        "published_utc": "2026-03-05T15:19:42+00:00",
+        "score": 3,
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-ed87bce9b35837eb/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Fundatia Regala Margareta",
+        "title": "Identități 2026: debutul artistic al noii generații de bursieri ai programului Tinere Talente",
+        "summary": "36 de tineri artiști vizuali și muzicieni, susținuți de către Fundația Regală Margareta a României, se prezintă publicului pe 2 martie, la Elite Art Gallery, București Fundația Regală Margareta a României anunță Identități, evenimentul care marchează debutul public al generației 2026 a programului național... Post-ul Identități 2026: debutul artistic al noii generații de bursieri ai programului Tinere Talente apare prima dată în Fundația Regală Margareta a României .",
+        "link": "https://www.frmr.ro/37214",
+        "published_utc": "2026-02-26T11:37:41+00:00",
+        "score": 3,
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-cd91d5c05ed09ce2/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "World Vision Romania",
+        "title": "„Școala Părinților”, din România până în Franța. „Am învățat cât de important este să fim prezenți și să reducem timpul petrecut în fața telefoanelor.”",
+        "summary": "Pentru Alina Măciucă, educația nu se oprește la ușa clasei și nici la granițele unei țări. Profesor pentru învățământ preșcolar... Articolul „Școala Părinților”, din România până în Franța. „Am învățat cât de important este să fim prezenți și să reducem timpul petrecut în fața telefoanelor.” apare prima dată în World Vision România .",
+        "link": "https://worldvision.ro/2026/02/12/scoala-parintilor-din-romania-pana-in-franta-am-invatat-cat-de-important-este-sa-fim-prezenti-si-sa-reducem-timpul-petrecut-in-fata-telefoanelor",
+        "published_utc": "2026-02-12T11:25:23+00:00",
+        "score": 3,
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-81b888b39966ba95/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Fundatia Motivation Romania",
+        "title": "Calendarul sesiunilor de recuperare activă pentru utilizatorii de scaune rulante – 2026",
+        "summary": "Fundația Motivation România anunță calendarul sesiunilor de recuperare activă 2026 – stagii și tabere dedicate persoanelor cu leziuni medulare. Programul este gratuit, iar participanții sunt selectați cu sprijinul echipelor regionale Motivation. Stagii de recuperare activă – Bragadiru (Ilfov) Durata fiecărui stagiu: 2 săptămâni Stagiul 1: 1–12 iunie 2026 Stagiul 2: 15–26 iunie 2026 Stagiul 3:... The post Calendarul sesiunilor de recuperare activă pentru utilizatorii de scaune rulante &#8211; 2026 appeared first on Fundatia Motivation Romania .",
+        "link": "https://motivation.ro/blog/calendarul-sesiunilor-de-recuperare-activa-pentru-utilizatorii-de-scaune-rulante-2026",
+        "published_utc": "2026-02-12T10:14:58+00:00",
+        "score": 3,
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-edb0443f2c481e88/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Fundatia Inocenti",
+        "title": "Beneficiile ieșirilor culturale în dezvoltarea copiilor",
+        "summary": "Descoperă beneficiile ieșirilor culturale pentru copii și modul în care muzeele, teatrul și excursiile contribuie la dezvoltarea lor emoțională și educațională. The post Beneficiile ieșirilor culturale în dezvoltarea copiilor appeared first on Fundația Inocenți .",
+        "link": "https://inocenti.ro/beneficiile-iesirilor-culturale-in-dezvoltarea-copiilor",
+        "published_utc": "2026-02-11T08:47:16+00:00",
+        "score": 3,
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-e363aa471e40eb2e/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "StiriPozitive - Toate",
+        "title": "Rodica Bretin lansează romanul puzzle „Pisica de la ora cinci” la Librăria Libris din Brașov",
+        "summary": "Joi, 12 februarie, de la ora 18:00, la Librăria Libris (Str. Șt. O. Iosif) din Brașov, Rodica Bretin lansează volumul „Pisica de la ora cinci”, apărut în colecția Corint Fiction. &#8230; Read More The post Rodica Bretin lansează romanul puzzle „Pisica de la ora cinci” la Librăria Libris din Brașov appeared first on Stiri pozitive .",
+        "link": "https://stiripozitive.com/rodica-bretin-lanseaza-romanul-puzzle-pisica-de-la-ora-cinci-la-libraria-libris-din-brasov",
+        "published_utc": "2026-02-10T10:23:38+00:00",
+        "score": 3,
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-92e5e32e02f82c41/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "World Vision Romania",
+        "title": "Sondaj World Vision România: 99% dintre adolescenți folosesc AI, 80.96% au întâlnit conținut fals creat cu AI, iar 37.25% învață despre folosirea sigură a AI din online și social media",
+        "summary": "World Vision România: Avem nevoie de o strategie privind folosirea AI în școală și educație media Ziua Siguranței pe Internet,... Articolul Sondaj World Vision România: 99% dintre adolescenți folosesc AI, 80.96% au întâlnit conținut fals creat cu AI, iar 37.25% învață despre folosirea sigură a AI din online și social media apare prima dată în World Vision România .",
+        "link": "https://worldvision.ro/2026/02/10/sondaj-world-vision-romania-99-dintre-adolescenti-folosesc-ai-80-96-au-intalnit-continut-fals-creat-cu-ai-iar-37-25-invata-despre-folosirea-sigura-a-ai-din-online-si-social-media",
+        "published_utc": "2026-02-10T09:23:50+00:00",
+        "score": 3,
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-6ff3f8cda4c73e98/480/320"
       }
     ],
     "medical": [
@@ -446,6 +602,54 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Apusul unei ere. La 8 ani după restul planetei, Yahoo Messenger se închide şi la Mizil",
+      "summary": "Yahoo se închide &#8211; de data asta definitiv! Compania americană a anunţat că încheie furnizarea îndrăgitului serviciu Yahoo Messenger în ultima regiune de pe planetă unde acesta mai funcţiona, oraşul Mizil. &#8222;Din 29 aprilie, Yahoo Messenger nu va mai fi disponibil în Mizil. Le recomandăm utilizatorilor să discute până atunci tot ce au de discutat [&#8230;] The post Apusul unei ere. La 8 ani după restul planetei, Yahoo Messenger se închide şi la Mizil appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/it-stiinta/apusul-unei-ere-la-8-ani-dupa-restul-planetei-yahoo-messenger-se-inchide-si-la-mizil",
+      "published_utc": "2026-03-26T12:03:14+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/yahoomizil.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Start-Up Romania",
+      "title": "Art Safari s-a deschis în Amzei 13 și are un nou program expozițional până pe 19 iulie",
+      "summary": "Art Safari, cel mai vizitat eveniment dedicat artei din România, și-a deschis porțile într-un nou spațiu expozițional, de cca. 4500 mp, în Amzei 13 din sectorul 1. Nicolae Vermont, Mihai Eminescu...",
+      "link": "https://start-up.ro/art-safari-s-a-deschis-in-amzei-13-si-are-un-nou-program-expozitional-pana-pe-19-iulie",
+      "published_utc": "2026-03-27T06:05:01+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://start-up.ro/img/articles/3/8/0/38087/cover-38087-src.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "Frații Pavăl redenumesc rețeaua cumpărată în Grecia în Dedeman Hellas și majorează capitalul social cu 25 de milioane de euro",
+      "summary": "Conform unui anunț făcut de presa elenă, Praktiker Hellas devine DEDEMAN HELLAS SOLE OWNER S.A, fiind aprobată majorarea capitalului social al companiei cu 25 de milioane de euro. Mai exact, conform unei hotărâri a Adunării Generale Extraordinare a Acționarilor companiei, s-a decis majorarea în continuare a capitalului social cu 25 de milioane de euro prin &#8230;",
+      "link": "https://hotnews.ro/fratii-paval-redenumesc-reteaua-cumparata-in-grecia-in-dedeman-hellas-si-majoreaza-capitalului-social-cu-25-de-milioane-de-euro-2204063",
+      "published_utc": "2026-03-27T04:33:53+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-02efb4b5fb6d9d71/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Life.ro (Lifestyle)",
+      "title": "Ateneul Român: Istoria și 10 lucruri pe care nu le știai despre una dintre clădirile-simbol ale culturii române",
+      "summary": "Ateneul Român este o operă de artă arhitecturală, un document viu al istoriei românești și un simbol al credinței într-o cultură comună. Articolul Ateneul Român: Istoria și 10 lucruri pe care nu le știai despre una dintre clădirile-simbol ale culturii române apare prima dată în life.ro .",
+      "link": "https://life.ro/ateneul-roman-istoria-si-10-lucruri-pe-care-nu-le-stiai-despre-una-dintre-cladirile-simbol-ale-culturii-romane",
+      "published_utc": "2026-03-27T04:31:00+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://life.ro/wp-content/uploads/2026/03/Ateneul-roman.webp"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "Uniunea de Creație Interpretativă a Muzicienilor din România a celebrat excelența artistică în cadrul Galei UCIMR 2026 – Premiile Excelenței Interpretative, la Ateneul Român",
       "summary": "Uniunea de Creație Interpretativă a Muzicienilor din România (UCIMR) a organizat marți, 24 martie 2026, de la orele 19:00, în Sala Mare a Ateneului Român, cea de-a doua ediție a Galei&#8230; Articolul Uniunea de Creație Interpretativă a Muzicienilor din România a celebrat excelența artistică în cadrul Galei UCIMR 2026 – Premiile Excelenței Interpretative, la Ateneul Român apare prima dată în Romania Pozitiva .",
@@ -454,6 +658,30 @@
       "score": 3,
       "freshness_boost": 3,
       "image": "https://picsum.photos/seed/vb-dc5e19bf16ebd5ce/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Țiriac și-a dublat averea, că l-a prins războiul cu plinul făcut la toate cele 400 de mașini",
+      "summary": "Așa arată o lovitură de proporții pe piața financiară! În timp ce bursele internaționale tremură și prețul barilului de petrol a depășit pragul de „mai bine renunți la mașină și mergi pe jos”, cel mai ingenios miliardar al României, Ion Țiriac, privește relaxat spre viitor. Secretul lui ține de o intuiție de mare campion și [&#8230;] The post Țiriac și-a dublat averea, că l-a prins războiul cu plinul făcut la toate cele 400 de mașini appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/monden/tiriac-si-a-dublat-averea-ca-l-a-prins-razboiul-cu-plinul-facut-la-toate-cele-400-de-masini",
+      "published_utc": "2026-03-26T05:38:00+00:00",
+      "score": 3,
+      "freshness_boost": 1,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/tiriac_colectie_masini.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "World Vision Romania",
+      "title": "Bullyingul în adolescență: răni invizibile și cum pot fi vindecate",
+      "summary": "De ce vorbim despre bullying Bullyingul nu mai este de mult o problemă „minoră” sau o etapă inevitabilă a copilăriei.... Articolul Bullyingul în adolescență: răni invizibile și cum pot fi vindecate apare prima dată în World Vision România .",
+      "link": "https://worldvision.ro/2026/03/26/bullyingul-in-adolescenta-rani-invizibile-si-cum-pot-fi-vindecate",
+      "published_utc": "2026-03-26T11:44:13+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-2554b0df5dc098e4/480/320"
     },
     {
       "section": "romania",
@@ -471,25 +699,97 @@
       "section": "romania",
       "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 Auzind că iar se dă cu rachete în Golf, mii de români răsuflă uşuraţi că şi-au luat Octavia",
-      "summary": "Situaţia geopolitică din ce în ce mai turbulentă i-a pus pe jar pe mii de români, dar la fel de mulţi răsuflă uşuraţi! Auzind că de câteva săptămâni se trage cu rachete în Golf, proprietarii de Octavia s-au felicitat singuri pentru alegerea făcută. &#8222;Era cât pe aci să-mi iau şi eu Golf&#8221;, mărturiseşte Sebilian Grancea, [&#8230;] The post Auzind că iar se dă cu rachete în Golf, mii de români răsuflă uşuraţi că şi-au luat Octavia appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/auzind-ca-iar-se-da-cu-rachete-in-golf-mii-de-romani-rasufla-usurati-ca-si-au-luat-octavia",
-      "published_utc": "2026-03-26T13:06:15+00:00",
+      "title": "😂 Emisia Realitatea Plus va fi întreruptă trei ore de 1 Aprilie, ca să mai mintă şi alţii în ziua aia",
+      "summary": "Să lăsăm pe toată lumea să dea o tură cu proverbiala cioară vopsită! Măcar de Ziua păcălelilor, să mai mintă şi alţii &#8211; astfel îşi motivează CNA decizia de a întrerupe pe 1 Aprilie, timp de trei ore, emisia Realitatea Plus TV. &#8222;Oricui îi place să-şi tragă semenii în piept măcar un pic, dar nu [&#8230;] The post Emisia Realitatea Plus va fi întreruptă trei ore de 1 Aprilie, ca să mai mintă şi alţii în ziua aia appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/monden/emisia-realitatea-plus-va-fi-intrerupta-trei-ore-de-1-aprilie-ca-sa-mai-minta-si-altii-in-ziua-aia",
+      "published_utc": "2026-03-25T14:58:54+00:00",
       "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/golfoctavia.jpg"
+      "freshness_boost": 1,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/hidepainharoldmare.jpg"
     },
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Inspirat de covrigii Luca, şi Porsche ieftineşte modelul Taycan cu 50 de bani",
-      "summary": "Decizia lanţului de covrigării Luca de a ieftini covrigul cu 50 de bani a stârnit o adevărată reacţie în lanţ pe piaţă! Într-un gest rar de solidaritate cu consumatorii grav afectaţi de criză, şi alţi producători de produse au convenit să reducă preţul produselor pe care le produc cu 50 de bani. Printre numele mari [&#8230;] The post Inspirat de covrigii Luca, şi Porsche ieftineşte modelul Taycan cu 50 de bani appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/monden/inspirat-de-covrigii-luca-si-porsche-ieftineste-modelul-taycan-cu-50-de-bani",
-      "published_utc": "2026-03-25T14:39:07+00:00",
+      "source": "SOS Satele Copiilor Romania",
+      "title": "Părinte Social",
+      "summary": "Descrierea postului: Părintele social crează un mediu de viaţă, îngrijire şi educaţie, caracterizat prin afecţiune şi stabilitate şi adecvat dezvoltării personalităţii fiecărui copil (în plan fizic, psihic, emoţional, social şi... The post Părinte Social appeared first on SOS Satele Copiilor România .",
+      "link": "https://www.sos-satelecopiilor.ro/parinte-social",
+      "published_utc": "2026-03-19T12:56:50+00:00",
       "score": 3,
-      "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/porschetaycan.jpg"
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-5c5602f10ee5770c/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Teach for Romania",
+      "title": "De la un proiect Teach for Romania la o inițiativă europeană: cum elevii din Reghin construiesc „Leadership HUB”",
+      "summary": "O idee pornită din dorința de a dezvolta competențele de leadership ale elevilor s-a transformat, în doar câțiva ani, într-o inițiativă educațională care conectează școli din mai multe țări europene. Povestea proiectului „Leadership HUB” începe cu un proiect finanțat de Teach for Romania și continuă astăzi prin colaborări internaționale în cadrul platformei eTwinning și al [&#8230;]",
+      "link": "https://teachforromania.org/proiect-reghin-leadership-hub",
+      "published_utc": "2026-03-11T11:59:25+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-a5a22f02f60b7d29/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Fundatia Inocenti",
+      "title": "Povestea lui Ionuț: cum sprijinul educațional schimbă viața unui copil",
+      "summary": "Află povestea lui Ionuț și cum sprijinul educațional și emoțional oferit de Fundația Inocenți ajută copiii vulnerabili să își descopere încrederea în sine. The post Povestea lui Ionuț: cum sprijinul educațional schimbă viața unui copil appeared first on Fundația Inocenți .",
+      "link": "https://inocenti.ro/povestea-lui-ionut-cum-sprijinul-educational-schimba-viata-unui-copil",
+      "published_utc": "2026-03-05T15:19:42+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-ed87bce9b35837eb/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Fundatia Regala Margareta",
+      "title": "Identități 2026: debutul artistic al noii generații de bursieri ai programului Tinere Talente",
+      "summary": "36 de tineri artiști vizuali și muzicieni, susținuți de către Fundația Regală Margareta a României, se prezintă publicului pe 2 martie, la Elite Art Gallery, București Fundația Regală Margareta a României anunță Identități, evenimentul care marchează debutul public al generației 2026 a programului național... Post-ul Identități 2026: debutul artistic al noii generații de bursieri ai programului Tinere Talente apare prima dată în Fundația Regală Margareta a României .",
+      "link": "https://www.frmr.ro/37214",
+      "published_utc": "2026-02-26T11:37:41+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-cd91d5c05ed09ce2/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "World Vision Romania",
+      "title": "„Școala Părinților”, din România până în Franța. „Am învățat cât de important este să fim prezenți și să reducem timpul petrecut în fața telefoanelor.”",
+      "summary": "Pentru Alina Măciucă, educația nu se oprește la ușa clasei și nici la granițele unei țări. Profesor pentru învățământ preșcolar... Articolul „Școala Părinților”, din România până în Franța. „Am învățat cât de important este să fim prezenți și să reducem timpul petrecut în fața telefoanelor.” apare prima dată în World Vision România .",
+      "link": "https://worldvision.ro/2026/02/12/scoala-parintilor-din-romania-pana-in-franta-am-invatat-cat-de-important-este-sa-fim-prezenti-si-sa-reducem-timpul-petrecut-in-fata-telefoanelor",
+      "published_utc": "2026-02-12T11:25:23+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-81b888b39966ba95/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Fundatia Motivation Romania",
+      "title": "Calendarul sesiunilor de recuperare activă pentru utilizatorii de scaune rulante – 2026",
+      "summary": "Fundația Motivation România anunță calendarul sesiunilor de recuperare activă 2026 – stagii și tabere dedicate persoanelor cu leziuni medulare. Programul este gratuit, iar participanții sunt selectați cu sprijinul echipelor regionale Motivation. Stagii de recuperare activă – Bragadiru (Ilfov) Durata fiecărui stagiu: 2 săptămâni Stagiul 1: 1–12 iunie 2026 Stagiul 2: 15–26 iunie 2026 Stagiul 3:... The post Calendarul sesiunilor de recuperare activă pentru utilizatorii de scaune rulante &#8211; 2026 appeared first on Fundatia Motivation Romania .",
+      "link": "https://motivation.ro/blog/calendarul-sesiunilor-de-recuperare-activa-pentru-utilizatorii-de-scaune-rulante-2026",
+      "published_utc": "2026-02-12T10:14:58+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-edb0443f2c481e88/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Fundatia Inocenti",
+      "title": "Beneficiile ieșirilor culturale în dezvoltarea copiilor",
+      "summary": "Descoperă beneficiile ieșirilor culturale pentru copii și modul în care muzeele, teatrul și excursiile contribuie la dezvoltarea lor emoțională și educațională. The post Beneficiile ieșirilor culturale în dezvoltarea copiilor appeared first on Fundația Inocenți .",
+      "link": "https://inocenti.ro/beneficiile-iesirilor-culturale-in-dezvoltarea-copiilor",
+      "published_utc": "2026-02-11T08:47:16+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-e363aa471e40eb2e/480/320"
     },
     {
       "section": "science",
@@ -502,6 +802,30 @@
       "score": 0,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/from-simulation-to-str.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "StiriPozitive - Toate",
+      "title": "Rodica Bretin lansează romanul puzzle „Pisica de la ora cinci” la Librăria Libris din Brașov",
+      "summary": "Joi, 12 februarie, de la ora 18:00, la Librăria Libris (Str. Șt. O. Iosif) din Brașov, Rodica Bretin lansează volumul „Pisica de la ora cinci”, apărut în colecția Corint Fiction. &#8230; Read More The post Rodica Bretin lansează romanul puzzle „Pisica de la ora cinci” la Librăria Libris din Brașov appeared first on Stiri pozitive .",
+      "link": "https://stiripozitive.com/rodica-bretin-lanseaza-romanul-puzzle-pisica-de-la-ora-cinci-la-libraria-libris-din-brasov",
+      "published_utc": "2026-02-10T10:23:38+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-92e5e32e02f82c41/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "World Vision Romania",
+      "title": "Sondaj World Vision România: 99% dintre adolescenți folosesc AI, 80.96% au întâlnit conținut fals creat cu AI, iar 37.25% învață despre folosirea sigură a AI din online și social media",
+      "summary": "World Vision România: Avem nevoie de o strategie privind folosirea AI în școală și educație media Ziua Siguranței pe Internet,... Articolul Sondaj World Vision România: 99% dintre adolescenți folosesc AI, 80.96% au întâlnit conținut fals creat cu AI, iar 37.25% învață despre folosirea sigură a AI din online și social media apare prima dată în World Vision România .",
+      "link": "https://worldvision.ro/2026/02/10/sondaj-world-vision-romania-99-dintre-adolescenti-folosesc-ai-80-96-au-intalnit-continut-fals-creat-cu-ai-iar-37-25-invata-despre-folosirea-sigura-a-ai-din-online-si-social-media",
+      "published_utc": "2026-02-10T09:23:50+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-6ff3f8cda4c73e98/480/320"
     },
     {
       "section": "science",
@@ -538,18 +862,6 @@
       "score": 3,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/from-engineered-fungal.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Emisia Realitatea Plus va fi întreruptă trei ore de 1 Aprilie, ca să mai mintă şi alţii în ziua aia",
-      "summary": "Să lăsăm pe toată lumea să dea o tură cu proverbiala cioară vopsită! Măcar de Ziua păcălelilor, să mai mintă şi alţii &#8211; astfel îşi motivează CNA decizia de a întrerupe pe 1 Aprilie, timp de trei ore, emisia Realitatea Plus TV. &#8222;Oricui îi place să-şi tragă semenii în piept măcar un pic, dar nu [&#8230;] The post Emisia Realitatea Plus va fi întreruptă trei ore de 1 Aprilie, ca să mai mintă şi alţii în ziua aia appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/monden/emisia-realitatea-plus-va-fi-intrerupta-trei-ore-de-1-aprilie-ca-sa-mai-minta-si-altii-in-ziua-aia",
-      "published_utc": "2026-03-25T14:58:54+00:00",
-      "score": 3,
-      "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/hidepainharoldmare.jpg"
     },
     {
       "section": "science",
@@ -878,7 +1190,7 @@
   ],
   "joke_ro": {
     "date_utc": "2026-03-27",
-    "text": "Mi-am facut buget pe luna asta. Primele doua zile au fost impecabile.",
+    "text": "Sunt punctual: intarzii cu aceeasi consecventa.",
     "source": "data/jokes_ro.txt"
   },
   "satire_ro": {
@@ -968,6 +1280,7 @@
       "https://live.staticflickr.com/65535/55154093581_0e988155f5_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/55167598104_226d242eaa_b.jpg",
       "https://live.staticflickr.com/65535/55165663175_ecd202ebea_b.jpg",
       "https://live.staticflickr.com/65535/55157437364_a5d9923856_b.jpg",
       "https://live.staticflickr.com/65535/55158112970_b51d59d5d2_b.jpg",
@@ -984,10 +1297,10 @@
       "https://live.staticflickr.com/65535/55154601219_51453edbcd_b.jpg",
       "https://live.staticflickr.com/65535/55161117986_025319884d_b.jpg",
       "https://live.staticflickr.com/2744/32759250362_7dd4df2a8d_b.jpg",
-      "https://live.staticflickr.com/65535/55158981739_b89020251a_b.jpg",
-      "https://live.staticflickr.com/65535/55164236885_0d7bb3e6b3_b.jpg"
+      "https://live.staticflickr.com/65535/55158981739_b89020251a_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55170351143_f3c8a62a51_b.jpg",
       "https://live.staticflickr.com/65535/55170008181_1931e96122_b.jpg",
       "https://live.staticflickr.com/65535/55170174223_9e7018fc8d_b.jpg",
       "https://live.staticflickr.com/65535/55169607438_4fc6dc10b8_b.jpg",
@@ -1004,12 +1317,11 @@
       "https://live.staticflickr.com/video/55168685085/c65d1b549c/360p.mp4?s=eyJpIjo1NTE2ODY4NTA4NSwiZSI6MTc3NDUyMDU2MCwicyI6IjAwZmVmZmY5NzU1MTVhMjczZTgxMTc3ZDc3ZWVlMTlhYmE0YzM1ODIiLCJ2IjoxfQ",
       "https://live.staticflickr.com/65535/55167646849_7a5deb2270_b.jpg",
       "https://live.staticflickr.com/video/55168685085/c65d1b549c/360p.mp4?s=eyJpIjo1NTE2ODY4NTA4NSwiZSI6MTc3NDUxMzUwOSwicyI6ImRkZTJmMDNhZWE1MDAzM2ZkMmM3NzM1MmExY2ZlMTM1ZmNjOTc4OGIiLCJ2IjoxfQ",
-      "https://live.staticflickr.com/65535/55168147398_b93da38af9_b.jpg",
-      "https://live.staticflickr.com/65535/55167713722_411703fc8d_b.jpg"
+      "https://live.staticflickr.com/65535/55168147398_b93da38af9_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
+      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
