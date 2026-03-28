@@ -1,7 +1,30 @@
 {
-  "generated_utc": "2026-03-28T09:27:51+00:00",
+  "generated_utc": "2026-03-28T10:23:04+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Prețul motorinei a sărit din nou în această dimineață. Cea premium se apropie de un nou prag",
+        "summary": "Litrul de motorină standard a înregistrat o nouă scumpire sâmbătă dimineața la pompele Petrom, anunță site-ul Economica. Astfel, noul preț era de 10.27 lei pe litru, cu 15 bani mai mult decât vineri. În același timp, prețul la benzina standard era de 9.28 lei pe litru, neschimbat față de ziua de ieri. Conform Economica, motorina &#8230;",
+        "link": "https://hotnews.ro/pretul-motorinei-a-sarit-din-nou-in-aceasta-dimineata-cea-premium-se-apropie-de-un-nou-prag-2204992",
+        "published_utc": "2026-03-28T10:01:44+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-27ba2e9dbee0976e/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Copiii cu ambii părinți alergici au un risc cu 70% mai mare de a dezvolta alergii: „Se moștenește predispoziția, nu alergia în sine”",
+        "summary": "Într-un mediu ambiental din ce în ce mai poluat, cu schimbări climatice tot mai pronunţate, dar şi un stil de viaţă care presupune mult stres şi consum mare de alimente procesate, incidenţa alergiilor este în continuă creştere. Asist. Univ. Dr. Felicia Bănărescu, medic specialist alergolog în Clinica MedLife Timişoara spune că cei mai mulţi pacienţi care i se adresează vin cu alergii la praf şi la polenuri, în special cel de ambrozie, dar că sunt şi multe cazuri de dermatite cauzate de produsele cosmetice folosite inadecvat. Medicul spune că moştenirea genetică poate fi un factor de risc important al alergiilor, dar se manifestă mai degrabă ca o predispoziţie.",
+        "link": "https://www.digi24.ro/facem-romania-bine/copiii-cu-ambii-parinti-alergici-au-un-risc-cu-70-mai-mare-de-a-dezvolta-alergii-se-mosteneste-predispozitia-nu-alergia-in-sine-3699473",
+        "published_utc": "2026-03-28T09:32:18+00:00",
+        "score": 2,
+        "image": "https://picsum.photos/seed/vb-fe5b106d8af222a2/480/320"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -13,6 +36,18 @@
         "score": 3,
         "freshness_boost": 3,
         "image": "https://picsum.photos/seed/vb-ac3366abb3f4003b/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 Miracol medical. Un clujean a fost operat în Iași: i-au scos figurile din cap!",
+        "summary": "Operație chirurgicală fără precedent reușită la Iași de o echipă mixtă. Pacientul, un clujean cu un caz grav de figuri în cap, a fost vindecat în cadrul unei intervenții complexe, care a durat doar 10 minute. La final, clujeanul nu mai avea figuri în cap, iar echipa de ieșeni este acum cu siguranță pe lista [&#8230;] The post Miracol medical. Un clujean a fost operat în Iași: i-au scos figurile din cap! appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/it-stiinta/miracol-medical-un-clujean-a-fost-operat-in-iasi-i-au-scos-figurile-din-cap",
+        "published_utc": "2026-03-27T15:00:00+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/clujean_figuri.jpg"
       },
       {
         "section": "romania",
@@ -65,18 +100,6 @@
       {
         "section": "romania",
         "kind": "ro",
-        "source": "RomaniaPozitiva",
-        "title": "Aletheea9 – Dialog cu actorul Marius Manole, joi, 2 aprilie 2026, ora 15:00",
-        "summary": "Într-o lume în care copiii sunt expuși la tot mai multe informații contradictorii, în care devine tot mai greu să distingem ce este adevărat de ceea ce este fals, cum&#8230; Articolul Aletheea9 &#8211; Dialog cu actorul Marius Manole, joi, 2 aprilie 2026, ora 15:00 apare prima dată în Romania Pozitiva .",
-        "link": "https://www.romaniapozitiva.ro/bucuresti/aletheea9-dialog-cu-actorul-marius-manole-joi-2-aprilie-2026-ora-1500",
-        "published_utc": "2026-03-27T12:45:56+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-92510bec87e76d1f/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
         "source": "Times New Roman (Satira)",
         "title": "😂 Intervenția guvernului",
         "summary": "The post Intervenția guvernului appeared first on Times New Roman .",
@@ -89,14 +112,110 @@
       {
         "section": "romania",
         "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 Auzind că iar se dă cu rachete în Golf, mii de români răsuflă uşuraţi că şi-au luat Octavia",
-        "summary": "Situaţia geopolitică din ce în ce mai turbulentă i-a pus pe jar pe mii de români, dar la fel de mulţi răsuflă uşuraţi! Auzind că de câteva săptămâni se trage cu rachete în Golf, proprietarii de Octavia s-au felicitat singuri pentru alegerea făcută. &#8222;Era cât pe aci să-mi iau şi eu Golf&#8221;, mărturiseşte Sebilian Grancea, [&#8230;] The post Auzind că iar se dă cu rachete în Golf, mii de români răsuflă uşuraţi că şi-au luat Octavia appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/life-death/auzind-ca-iar-se-da-cu-rachete-in-golf-mii-de-romani-rasufla-usurati-ca-si-au-luat-octavia",
-        "published_utc": "2026-03-26T13:06:15+00:00",
+        "source": "World Vision Romania",
+        "title": "Bullyingul în adolescență: răni invizibile și cum pot fi vindecate",
+        "summary": "De ce vorbim despre bullying Bullyingul nu mai este de mult o problemă „minoră” sau o etapă inevitabilă a copilăriei.... Articolul Bullyingul în adolescență: răni invizibile și cum pot fi vindecate apare prima dată în World Vision România .",
+        "link": "https://worldvision.ro/2026/03/26/bullyingul-in-adolescenta-rani-invizibile-si-cum-pot-fi-vindecate",
+        "published_utc": "2026-03-26T11:44:13+00:00",
         "score": 3,
         "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/golfoctavia.jpg"
+        "image": "https://picsum.photos/seed/vb-2554b0df5dc098e4/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "SOS Satele Copiilor Romania",
+        "title": "Părinte Social",
+        "summary": "Descrierea postului: Părintele social crează un mediu de viaţă, îngrijire şi educaţie, caracterizat prin afecţiune şi stabilitate şi adecvat dezvoltării personalităţii fiecărui copil (în plan fizic, psihic, emoţional, social şi... The post Părinte Social appeared first on SOS Satele Copiilor România .",
+        "link": "https://www.sos-satelecopiilor.ro/parinte-social",
+        "published_utc": "2026-03-19T12:56:50+00:00",
+        "score": 3,
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-5c5602f10ee5770c/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Teach for Romania",
+        "title": "De la un proiect Teach for Romania la o inițiativă europeană: cum elevii din Reghin construiesc „Leadership HUB”",
+        "summary": "O idee pornită din dorința de a dezvolta competențele de leadership ale elevilor s-a transformat, în doar câțiva ani, într-o inițiativă educațională care conectează școli din mai multe țări europene. Povestea proiectului „Leadership HUB” începe cu un proiect finanțat de Teach for Romania și continuă astăzi prin colaborări internaționale în cadrul platformei eTwinning și al [&#8230;]",
+        "link": "https://teachforromania.org/proiect-reghin-leadership-hub",
+        "published_utc": "2026-03-11T11:59:25+00:00",
+        "score": 3,
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-a5a22f02f60b7d29/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Fundatia Inocenti",
+        "title": "Povestea lui Ionuț: cum sprijinul educațional schimbă viața unui copil",
+        "summary": "Află povestea lui Ionuț și cum sprijinul educațional și emoțional oferit de Fundația Inocenți ajută copiii vulnerabili să își descopere încrederea în sine. The post Povestea lui Ionuț: cum sprijinul educațional schimbă viața unui copil appeared first on Fundația Inocenți .",
+        "link": "https://inocenti.ro/povestea-lui-ionut-cum-sprijinul-educational-schimba-viata-unui-copil",
+        "published_utc": "2026-03-05T15:19:42+00:00",
+        "score": 3,
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-ed87bce9b35837eb/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Fundatia Regala Margareta",
+        "title": "Identități 2026: debutul artistic al noii generații de bursieri ai programului Tinere Talente",
+        "summary": "36 de tineri artiști vizuali și muzicieni, susținuți de către Fundația Regală Margareta a României, se prezintă publicului pe 2 martie, la Elite Art Gallery, București Fundația Regală Margareta a României anunță Identități, evenimentul care marchează debutul public al generației 2026 a programului național... Post-ul Identități 2026: debutul artistic al noii generații de bursieri ai programului Tinere Talente apare prima dată în Fundația Regală Margareta a României .",
+        "link": "https://www.frmr.ro/37214",
+        "published_utc": "2026-02-26T11:37:41+00:00",
+        "score": 3,
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-cd91d5c05ed09ce2/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "World Vision Romania",
+        "title": "„Școala Părinților”, din România până în Franța. „Am învățat cât de important este să fim prezenți și să reducem timpul petrecut în fața telefoanelor.”",
+        "summary": "Pentru Alina Măciucă, educația nu se oprește la ușa clasei și nici la granițele unei țări. Profesor pentru învățământ preșcolar... Articolul „Școala Părinților”, din România până în Franța. „Am învățat cât de important este să fim prezenți și să reducem timpul petrecut în fața telefoanelor.” apare prima dată în World Vision România .",
+        "link": "https://worldvision.ro/2026/02/12/scoala-parintilor-din-romania-pana-in-franta-am-invatat-cat-de-important-este-sa-fim-prezenti-si-sa-reducem-timpul-petrecut-in-fata-telefoanelor",
+        "published_utc": "2026-02-12T11:25:23+00:00",
+        "score": 3,
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-81b888b39966ba95/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Fundatia Motivation Romania",
+        "title": "Calendarul sesiunilor de recuperare activă pentru utilizatorii de scaune rulante – 2026",
+        "summary": "Fundația Motivation România anunță calendarul sesiunilor de recuperare activă 2026 – stagii și tabere dedicate persoanelor cu leziuni medulare. Programul este gratuit, iar participanții sunt selectați cu sprijinul echipelor regionale Motivation. Stagii de recuperare activă – Bragadiru (Ilfov) Durata fiecărui stagiu: 2 săptămâni Stagiul 1: 1–12 iunie 2026 Stagiul 2: 15–26 iunie 2026 Stagiul 3:... The post Calendarul sesiunilor de recuperare activă pentru utilizatorii de scaune rulante &#8211; 2026 appeared first on Fundatia Motivation Romania .",
+        "link": "https://motivation.ro/blog/calendarul-sesiunilor-de-recuperare-activa-pentru-utilizatorii-de-scaune-rulante-2026",
+        "published_utc": "2026-02-12T10:14:58+00:00",
+        "score": 3,
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-edb0443f2c481e88/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Fundatia Inocenti",
+        "title": "Beneficiile ieșirilor culturale în dezvoltarea copiilor",
+        "summary": "Descoperă beneficiile ieșirilor culturale pentru copii și modul în care muzeele, teatrul și excursiile contribuie la dezvoltarea lor emoțională și educațională. The post Beneficiile ieșirilor culturale în dezvoltarea copiilor appeared first on Fundația Inocenți .",
+        "link": "https://inocenti.ro/beneficiile-iesirilor-culturale-in-dezvoltarea-copiilor",
+        "published_utc": "2026-02-11T08:47:16+00:00",
+        "score": 3,
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-e363aa471e40eb2e/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "StiriPozitive - Toate",
+        "title": "Rodica Bretin lansează romanul puzzle „Pisica de la ora cinci” la Librăria Libris din Brașov",
+        "summary": "Joi, 12 februarie, de la ora 18:00, la Librăria Libris (Str. Șt. O. Iosif) din Brașov, Rodica Bretin lansează volumul „Pisica de la ora cinci”, apărut în colecția Corint Fiction. &#8230; Read More The post Rodica Bretin lansează romanul puzzle „Pisica de la ora cinci” la Librăria Libris din Brașov appeared first on Stiri pozitive .",
+        "link": "https://stiripozitive.com/rodica-bretin-lanseaza-romanul-puzzle-pisica-de-la-ora-cinci-la-libraria-libris-din-brasov",
+        "published_utc": "2026-02-10T10:23:38+00:00",
+        "score": 3,
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-92e5e32e02f82c41/480/320"
       }
     ],
     "medical": [
@@ -446,14 +565,14 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Românii care fumează pasiv, obligați să plăteasca acciza pe tutun",
-      "summary": "Guvernul Bolojan e disperat după încasări la buget, așa că inventează noi forme de jecmănire. De azi, obligativitatea achitării accizei pe tutun se extinde și la fumătorii pasivi. Concret, orice persoană care nu fumează dar inhalează fum de la un fumător pe lângă care trece trebuie să meargă la cea mai apropiată filială de taxe [&#8230;] The post Românii care fumează pasiv, obligați să plăteasca acciza pe tutun appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/romanii-care-fumeaza-pasiv-obligati-sa-plateasca-acciza-pe-tutun",
-      "published_utc": "2026-03-27T13:00:00+00:00",
+      "source": "HotNews",
+      "title": "Prețul motorinei a sărit din nou în această dimineață. Cea premium se apropie de un nou prag",
+      "summary": "Litrul de motorină standard a înregistrat o nouă scumpire sâmbătă dimineața la pompele Petrom, anunță site-ul Economica. Astfel, noul preț era de 10.27 lei pe litru, cu 15 bani mai mult decât vineri. În același timp, prețul la benzina standard era de 9.28 lei pe litru, neschimbat față de ziua de ieri. Conform Economica, motorina &#8230;",
+      "link": "https://hotnews.ro/pretul-motorinei-a-sarit-din-nou-in-aceasta-dimineata-cea-premium-se-apropie-de-un-nou-prag-2204992",
+      "published_utc": "2026-03-28T10:01:44+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2023/02/elevi_fumat_clasa.jpeg"
+      "image": "https://picsum.photos/seed/vb-27ba2e9dbee0976e/480/320"
     },
     {
       "section": "romania",
@@ -518,26 +637,121 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "Aletheea9 – Dialog cu actorul Marius Manole, joi, 2 aprilie 2026, ora 15:00",
-      "summary": "Într-o lume în care copiii sunt expuși la tot mai multe informații contradictorii, în care devine tot mai greu să distingem ce este adevărat de ceea ce este fals, cum&#8230; Articolul Aletheea9 &#8211; Dialog cu actorul Marius Manole, joi, 2 aprilie 2026, ora 15:00 apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/bucuresti/aletheea9-dialog-cu-actorul-marius-manole-joi-2-aprilie-2026-ora-1500",
-      "published_utc": "2026-03-27T12:45:56+00:00",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Românii care fumează pasiv, obligați să plăteasca acciza pe tutun",
+      "summary": "Guvernul Bolojan e disperat după încasări la buget, așa că inventează noi forme de jecmănire. De azi, obligativitatea achitării accizei pe tutun se extinde și la fumătorii pasivi. Concret, orice persoană care nu fumează dar inhalează fum de la un fumător pe lângă care trece trebuie să meargă la cea mai apropiată filială de taxe [&#8230;] The post Românii care fumează pasiv, obligați să plăteasca acciza pe tutun appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/life-death/romanii-care-fumeaza-pasiv-obligati-sa-plateasca-acciza-pe-tutun",
+      "published_utc": "2026-03-27T13:00:00+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-92510bec87e76d1f/480/320"
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2023/02/elevi_fumat_clasa.jpeg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "World Vision Romania",
+      "title": "Bullyingul în adolescență: răni invizibile și cum pot fi vindecate",
+      "summary": "De ce vorbim despre bullying Bullyingul nu mai este de mult o problemă „minoră” sau o etapă inevitabilă a copilăriei.... Articolul Bullyingul în adolescență: răni invizibile și cum pot fi vindecate apare prima dată în World Vision România .",
+      "link": "https://worldvision.ro/2026/03/26/bullyingul-in-adolescenta-rani-invizibile-si-cum-pot-fi-vindecate",
+      "published_utc": "2026-03-26T11:44:13+00:00",
+      "score": 3,
+      "freshness_boost": 1,
+      "image": "https://picsum.photos/seed/vb-2554b0df5dc098e4/480/320"
     },
     {
       "section": "romania",
       "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 Auzind că iar se dă cu rachete în Golf, mii de români răsuflă uşuraţi că şi-au luat Octavia",
-      "summary": "Situaţia geopolitică din ce în ce mai turbulentă i-a pus pe jar pe mii de români, dar la fel de mulţi răsuflă uşuraţi! Auzind că de câteva săptămâni se trage cu rachete în Golf, proprietarii de Octavia s-au felicitat singuri pentru alegerea făcută. &#8222;Era cât pe aci să-mi iau şi eu Golf&#8221;, mărturiseşte Sebilian Grancea, [&#8230;] The post Auzind că iar se dă cu rachete în Golf, mii de români răsuflă uşuraţi că şi-au luat Octavia appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/auzind-ca-iar-se-da-cu-rachete-in-golf-mii-de-romani-rasufla-usurati-ca-si-au-luat-octavia",
-      "published_utc": "2026-03-26T13:06:15+00:00",
+      "title": "😂 Miracol medical. Un clujean a fost operat în Iași: i-au scos figurile din cap!",
+      "summary": "Operație chirurgicală fără precedent reușită la Iași de o echipă mixtă. Pacientul, un clujean cu un caz grav de figuri în cap, a fost vindecat în cadrul unei intervenții complexe, care a durat doar 10 minute. La final, clujeanul nu mai avea figuri în cap, iar echipa de ieșeni este acum cu siguranță pe lista [&#8230;] The post Miracol medical. Un clujean a fost operat în Iași: i-au scos figurile din cap! appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/it-stiinta/miracol-medical-un-clujean-a-fost-operat-in-iasi-i-au-scos-figurile-din-cap",
+      "published_utc": "2026-03-27T15:00:00+00:00",
       "score": 3,
-      "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/golfoctavia.jpg"
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/clujean_figuri.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Copiii cu ambii părinți alergici au un risc cu 70% mai mare de a dezvolta alergii: „Se moștenește predispoziția, nu alergia în sine”",
+      "summary": "Într-un mediu ambiental din ce în ce mai poluat, cu schimbări climatice tot mai pronunţate, dar şi un stil de viaţă care presupune mult stres şi consum mare de alimente procesate, incidenţa alergiilor este în continuă creştere. Asist. Univ. Dr. Felicia Bănărescu, medic specialist alergolog în Clinica MedLife Timişoara spune că cei mai mulţi pacienţi care i se adresează vin cu alergii la praf şi la polenuri, în special cel de ambrozie, dar că sunt şi multe cazuri de dermatite cauzate de produsele cosmetice folosite inadecvat. Medicul spune că moştenirea genetică poate fi un factor de risc important al alergiilor, dar se manifestă mai degrabă ca o predispoziţie.",
+      "link": "https://www.digi24.ro/facem-romania-bine/copiii-cu-ambii-parinti-alergici-au-un-risc-cu-70-mai-mare-de-a-dezvolta-alergii-se-mosteneste-predispozitia-nu-alergia-in-sine-3699473",
+      "published_utc": "2026-03-28T09:32:18+00:00",
+      "score": 2,
+      "image": "https://picsum.photos/seed/vb-fe5b106d8af222a2/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "SOS Satele Copiilor Romania",
+      "title": "Părinte Social",
+      "summary": "Descrierea postului: Părintele social crează un mediu de viaţă, îngrijire şi educaţie, caracterizat prin afecţiune şi stabilitate şi adecvat dezvoltării personalităţii fiecărui copil (în plan fizic, psihic, emoţional, social şi... The post Părinte Social appeared first on SOS Satele Copiilor România .",
+      "link": "https://www.sos-satelecopiilor.ro/parinte-social",
+      "published_utc": "2026-03-19T12:56:50+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-5c5602f10ee5770c/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Teach for Romania",
+      "title": "De la un proiect Teach for Romania la o inițiativă europeană: cum elevii din Reghin construiesc „Leadership HUB”",
+      "summary": "O idee pornită din dorința de a dezvolta competențele de leadership ale elevilor s-a transformat, în doar câțiva ani, într-o inițiativă educațională care conectează școli din mai multe țări europene. Povestea proiectului „Leadership HUB” începe cu un proiect finanțat de Teach for Romania și continuă astăzi prin colaborări internaționale în cadrul platformei eTwinning și al [&#8230;]",
+      "link": "https://teachforromania.org/proiect-reghin-leadership-hub",
+      "published_utc": "2026-03-11T11:59:25+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-a5a22f02f60b7d29/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Fundatia Inocenti",
+      "title": "Povestea lui Ionuț: cum sprijinul educațional schimbă viața unui copil",
+      "summary": "Află povestea lui Ionuț și cum sprijinul educațional și emoțional oferit de Fundația Inocenți ajută copiii vulnerabili să își descopere încrederea în sine. The post Povestea lui Ionuț: cum sprijinul educațional schimbă viața unui copil appeared first on Fundația Inocenți .",
+      "link": "https://inocenti.ro/povestea-lui-ionut-cum-sprijinul-educational-schimba-viata-unui-copil",
+      "published_utc": "2026-03-05T15:19:42+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-ed87bce9b35837eb/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Fundatia Regala Margareta",
+      "title": "Identități 2026: debutul artistic al noii generații de bursieri ai programului Tinere Talente",
+      "summary": "36 de tineri artiști vizuali și muzicieni, susținuți de către Fundația Regală Margareta a României, se prezintă publicului pe 2 martie, la Elite Art Gallery, București Fundația Regală Margareta a României anunță Identități, evenimentul care marchează debutul public al generației 2026 a programului național... Post-ul Identități 2026: debutul artistic al noii generații de bursieri ai programului Tinere Talente apare prima dată în Fundația Regală Margareta a României .",
+      "link": "https://www.frmr.ro/37214",
+      "published_utc": "2026-02-26T11:37:41+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-cd91d5c05ed09ce2/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "World Vision Romania",
+      "title": "„Școala Părinților”, din România până în Franța. „Am învățat cât de important este să fim prezenți și să reducem timpul petrecut în fața telefoanelor.”",
+      "summary": "Pentru Alina Măciucă, educația nu se oprește la ușa clasei și nici la granițele unei țări. Profesor pentru învățământ preșcolar... Articolul „Școala Părinților”, din România până în Franța. „Am învățat cât de important este să fim prezenți și să reducem timpul petrecut în fața telefoanelor.” apare prima dată în World Vision România .",
+      "link": "https://worldvision.ro/2026/02/12/scoala-parintilor-din-romania-pana-in-franta-am-invatat-cat-de-important-este-sa-fim-prezenti-si-sa-reducem-timpul-petrecut-in-fata-telefoanelor",
+      "published_utc": "2026-02-12T11:25:23+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-81b888b39966ba95/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Fundatia Motivation Romania",
+      "title": "Calendarul sesiunilor de recuperare activă pentru utilizatorii de scaune rulante – 2026",
+      "summary": "Fundația Motivation România anunță calendarul sesiunilor de recuperare activă 2026 – stagii și tabere dedicate persoanelor cu leziuni medulare. Programul este gratuit, iar participanții sunt selectați cu sprijinul echipelor regionale Motivation. Stagii de recuperare activă – Bragadiru (Ilfov) Durata fiecărui stagiu: 2 săptămâni Stagiul 1: 1–12 iunie 2026 Stagiul 2: 15–26 iunie 2026 Stagiul 3:... The post Calendarul sesiunilor de recuperare activă pentru utilizatorii de scaune rulante &#8211; 2026 appeared first on Fundatia Motivation Romania .",
+      "link": "https://motivation.ro/blog/calendarul-sesiunilor-de-recuperare-activa-pentru-utilizatorii-de-scaune-rulante-2026",
+      "published_utc": "2026-02-12T10:14:58+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-edb0443f2c481e88/480/320"
     },
     {
       "section": "medical",
@@ -550,6 +764,30 @@
       "score": 0,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/kid-screen-1.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Fundatia Inocenti",
+      "title": "Beneficiile ieșirilor culturale în dezvoltarea copiilor",
+      "summary": "Descoperă beneficiile ieșirilor culturale pentru copii și modul în care muzeele, teatrul și excursiile contribuie la dezvoltarea lor emoțională și educațională. The post Beneficiile ieșirilor culturale în dezvoltarea copiilor appeared first on Fundația Inocenți .",
+      "link": "https://inocenti.ro/beneficiile-iesirilor-culturale-in-dezvoltarea-copiilor",
+      "published_utc": "2026-02-11T08:47:16+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-e363aa471e40eb2e/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "StiriPozitive - Toate",
+      "title": "Rodica Bretin lansează romanul puzzle „Pisica de la ora cinci” la Librăria Libris din Brașov",
+      "summary": "Joi, 12 februarie, de la ora 18:00, la Librăria Libris (Str. Șt. O. Iosif) din Brașov, Rodica Bretin lansează volumul „Pisica de la ora cinci”, apărut în colecția Corint Fiction. &#8230; Read More The post Rodica Bretin lansează romanul puzzle „Pisica de la ora cinci” la Librăria Libris din Brașov appeared first on Stiri pozitive .",
+      "link": "https://stiripozitive.com/rodica-bretin-lanseaza-romanul-puzzle-pisica-de-la-ora-cinci-la-libraria-libris-din-brasov",
+      "published_utc": "2026-02-10T10:23:38+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-92e5e32e02f82c41/480/320"
     },
     {
       "section": "medical",
@@ -882,8 +1120,8 @@
     "source": "data/jokes_ro.txt"
   },
   "satire_ro": {
-    "title": "95% din ascultătorii RockFM au dansat acum 20 de ani pe “Ochii tăi” a lui L.A.",
-    "link": "https://www.timesnewroman.ro/monden/95-din-ascultarii-rockfm-au-dansat-acu-20-de-ani-pe-ochii-tai-a-lui-l-a/",
+    "title": "Faliment după două zile la cartofiseria care dădea cartofi fierți, dietetici",
+    "link": "https://www.timesnewroman.ro/life-death/faliment-dupa-doua-zile-la-cartofiseria-care-dadea-cartofi-fierti-dietetici/",
     "source": "timesnewroman.ro"
   },
   "top_images": [
@@ -968,6 +1206,7 @@
       "https://live.staticflickr.com/65535/55153414865_3efa49dc3b_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/3711/10888595676_a4193a7cd2_b.jpg",
       "https://live.staticflickr.com/65535/55168759572_210fd8db42_b.jpg",
       "https://live.staticflickr.com/4280/35379298396_d816f4326b_b.jpg",
       "https://live.staticflickr.com/65535/55161117986_025319884d_b.jpg",
@@ -984,10 +1223,10 @@
       "https://live.staticflickr.com/65535/55164077455_089752e46a_b.jpg",
       "https://live.staticflickr.com/65535/55163657225_59ef5320e6_b.jpg",
       "https://live.staticflickr.com/65535/55158981739_b89020251a_b.jpg",
-      "https://live.staticflickr.com/65535/55156194686_a0616f7277_b.jpg",
-      "https://live.staticflickr.com/65535/55167620394_407be31355_b.jpg"
+      "https://live.staticflickr.com/65535/55156194686_a0616f7277_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55172330748_d8c09b75bc_b.jpg",
       "https://live.staticflickr.com/65535/55172330388_28bbd90e2e_b.jpg",
       "https://live.staticflickr.com/65535/55172792361_2920132371_b.jpg",
       "https://live.staticflickr.com/65535/55172415164_92d09da645_b.jpg",
@@ -1004,12 +1243,11 @@
       "https://live.staticflickr.com/65535/55170175008_0a057f00ec_b.jpg",
       "https://live.staticflickr.com/65535/55171015550_d485f3cefd_b.jpg",
       "https://live.staticflickr.com/8109/8656499409_d59033a981_b.jpg",
-      "https://live.staticflickr.com/65535/55170184446_c9d21ed232_b.jpg",
-      "https://live.staticflickr.com/65535/55170258514_8b84583dd1_b.jpg"
+      "https://live.staticflickr.com/65535/55170184446_c9d21ed232_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
+      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
