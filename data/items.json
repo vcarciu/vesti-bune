@@ -1,7 +1,43 @@
 {
-  "generated_utc": "2026-03-28T04:09:54+00:00",
+  "generated_utc": "2026-03-28T05:49:32+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Cantitatea de microplastic din mediu ar putea fi supraestimată, iar vinovatul este un obiect banal: descoperirea unor chimiști",
+        "summary": "Aproape în fiecare zi un nou studiu descoperă particule minuscule de plastic, numite microplastice, acolo unde nu ar trebui să se afle: în corpurile noastre, în alimentele, apa și aerul nostru. Cu toate acestea, găsirea și identificarea microplasticelor este extrem de dificilă, mai ales având în vedere dimensiunile lor reduse. O astfel de particulă poate avea dimensiuni variind de la mărimea unei buburuze până la o optime dintr-o globulă roșie. În plus, cercetătorilor le poate fi greu să evite contaminarea involuntară a probelor, deoarece aceste materiale plastice se găsesc practic peste tot. Ca urmare, o mare parte din aceste cercetări ar putea supraestima numărul de microplastice, scrie The Conversation.",
+        "link": "https://www.digi24.ro/stiri/sci-tech/descoperiri/cantitatea-de-microplastic-din-mediu-ar-putea-fi-supraestimata-iar-vinovatul-este-un-obiect-banal-descoperirea-unor-chimisti-3698303",
+        "published_utc": "2026-03-28T05:00:11+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjQl/MkYwNSUyRjIwJTJGMTk4MDI0M18xOTgw/MjQzX3NodXR0ZXJzdG9ja18yMTcyODkx/ODgxLmpwZyZoYXNoPTUwMWMwYzNkODY3YzFhODZjN2I5MWY1YmM3ZjQxMTk4.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Life.ro (Lifestyle)",
+        "title": "Ștefan Mihăilescu-Brăila: Viața, familia și controversele unui geniu al comediei românești care a murit uitat și în sărăcie",
+        "summary": "Viața lui Ștefan Mihăilescu-Brăila este o poveste despre talent și fragilitate, despre gloria scenei și singurătatea unui pat de spital. Articolul Ștefan Mihăilescu-Brăila: Viața, familia și controversele unui geniu al comediei românești care a murit uitat și în sărăcie apare prima dată în life.ro .",
+        "link": "https://life.ro/stefan-mihailescu-braila-viata-familia-si-controversele-unui-geniu-al-comediei-romanesti-care-a-murit-uitat-si-in-saracie",
+        "published_utc": "2026-03-28T04:52:00+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://life.ro/wp-content/uploads/2026/03/Stefan-Mihailescu-Braila.webp"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 Miracol medical. Un clujean a fost operat în Iași: i-au scos figurile din cap!",
+        "summary": "Operație chirurgicală fără precedent reușită la Iași de o echipă mixtă. Pacientul, un clujean cu un caz grav de figuri în cap, a fost vindecat în cadrul unei intervenții complexe, care a durat doar 10 minute. La final, clujeanul nu mai avea figuri în cap, iar echipa de ieșeni este acum cu siguranță pe lista [&#8230;] The post Miracol medical. Un clujean a fost operat în Iași: i-au scos figurile din cap! appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/it-stiinta/miracol-medical-un-clujean-a-fost-operat-in-iasi-i-au-scos-figurile-din-cap",
+        "published_utc": "2026-03-27T15:00:00+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/clujean_figuri.jpg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -37,18 +73,6 @@
         "score": 3,
         "freshness_boost": 3,
         "image": "https://picsum.photos/seed/vb-5397d29bb24c3bd8/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 Românii care fumează pasiv, obligați să plăteasca acciza pe tutun",
-        "summary": "Guvernul Bolojan e disperat după încasări la buget, așa că inventează noi forme de jecmănire. De azi, obligativitatea achitării accizei pe tutun se extinde și la fumătorii pasivi. Concret, orice persoană care nu fumează dar inhalează fum de la un fumător pe lângă care trece trebuie să meargă la cea mai apropiată filială de taxe [&#8230;] The post Românii care fumează pasiv, obligați să plăteasca acciza pe tutun appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/life-death/romanii-care-fumeaza-pasiv-obligati-sa-plateasca-acciza-pe-tutun",
-        "published_utc": "2026-03-27T13:00:00+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2023/02/elevi_fumat_clasa.jpeg"
       },
       {
         "section": "romania",
@@ -578,14 +602,26 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Un român merge de 3 ani la psiholog ca să-și explice de ce i-a plăcut Tudor Chirilă în tinerețe",
-      "summary": "Situație dificilă pentru Marian Coltea, un bucureștean din zona Lujerului. Acesta se luptă cu o anxietate severă și merge de trei ani la psiholog pentru că are o traumă îngrozitoare. În tinerețe îi plăcea Tudor Chirilă, iar asta îl macină acum, la vârsta de mijloc. Omul spune că se trezește noaptea transpirat, pentru că are [&#8230;] The post Un român merge de 3 ani la psiholog ca să-și explice de ce i-a plăcut Tudor Chirilă în tinerețe appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/it-stiinta/un-roman-merge-de-3-ani-la-psiholog-ca-sa-si-explice-de-ce-i-a-placut-tudor-chirila-in-tinerete",
-      "published_utc": "2026-03-27T11:00:00+00:00",
+      "source": "Digi24",
+      "title": "Cantitatea de microplastic din mediu ar putea fi supraestimată, iar vinovatul este un obiect banal: descoperirea unor chimiști",
+      "summary": "Aproape în fiecare zi un nou studiu descoperă particule minuscule de plastic, numite microplastice, acolo unde nu ar trebui să se afle: în corpurile noastre, în alimentele, apa și aerul nostru. Cu toate acestea, găsirea și identificarea microplasticelor este extrem de dificilă, mai ales având în vedere dimensiunile lor reduse. O astfel de particulă poate avea dimensiuni variind de la mărimea unei buburuze până la o optime dintr-o globulă roșie. În plus, cercetătorilor le poate fi greu să evite contaminarea involuntară a probelor, deoarece aceste materiale plastice se găsesc practic peste tot. Ca urmare, o mare parte din aceste cercetări ar putea supraestima numărul de microplastice, scrie The Conversation.",
+      "link": "https://www.digi24.ro/stiri/sci-tech/descoperiri/cantitatea-de-microplastic-din-mediu-ar-putea-fi-supraestimata-iar-vinovatul-este-un-obiect-banal-descoperirea-unor-chimisti-3698303",
+      "published_utc": "2026-03-28T05:00:11+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2025/06/psihopupu.jpg"
+      "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjQl/MkYwNSUyRjIwJTJGMTk4MDI0M18xOTgw/MjQzX3NodXR0ZXJzdG9ja18yMTcyODkx/ODgxLmpwZyZoYXNoPTUwMWMwYzNkODY3YzFhODZjN2I5MWY1YmM3ZjQxMTk4.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Life.ro (Lifestyle)",
+      "title": "Ștefan Mihăilescu-Brăila: Viața, familia și controversele unui geniu al comediei românești care a murit uitat și în sărăcie",
+      "summary": "Viața lui Ștefan Mihăilescu-Brăila este o poveste despre talent și fragilitate, despre gloria scenei și singurătatea unui pat de spital. Articolul Ștefan Mihăilescu-Brăila: Viața, familia și controversele unui geniu al comediei românești care a murit uitat și în sărăcie apare prima dată în life.ro .",
+      "link": "https://life.ro/stefan-mihailescu-braila-viata-familia-si-controversele-unui-geniu-al-comediei-romanesti-care-a-murit-uitat-si-in-saracie",
+      "published_utc": "2026-03-28T04:52:00+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://life.ro/wp-content/uploads/2026/03/Stefan-Mihailescu-Braila.webp"
     },
     {
       "section": "romania",
@@ -614,6 +650,18 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Un român merge de 3 ani la psiholog ca să-și explice de ce i-a plăcut Tudor Chirilă în tinerețe",
+      "summary": "Situație dificilă pentru Marian Coltea, un bucureștean din zona Lujerului. Acesta se luptă cu o anxietate severă și merge de trei ani la psiholog pentru că are o traumă îngrozitoare. În tinerețe îi plăcea Tudor Chirilă, iar asta îl macină acum, la vârsta de mijloc. Omul spune că se trezește noaptea transpirat, pentru că are [&#8230;] The post Un român merge de 3 ani la psiholog ca să-și explice de ce i-a plăcut Tudor Chirilă în tinerețe appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/it-stiinta/un-roman-merge-de-3-ani-la-psiholog-ca-sa-si-explice-de-ce-i-a-placut-tudor-chirila-in-tinerete",
+      "published_utc": "2026-03-27T11:00:00+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2025/06/psihopupu.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "Aplicația Dendrologie, gratuită pe telefoanele cu Android – descrieri complete ale arborilor și arbuștilor din România, întrebari (quiz) și flash-carduri pentru invatare rapidă.",
       "summary": "Aplicația Dendrologie, gratuită pe telefoanele cu Android &#8211; descrieri complete ale arborilor și arbuștilor din România, întrebari (quiz) și flash-carduri pentru invatare rapidă. După descărcarea imaginilor (apasăți norișorul din dreapta&#8230; Articolul Aplicația Dendrologie, gratuită pe telefoanele cu Android &#8211; descrieri complete ale arborilor și arbuștilor din România, întrebari (quiz) și flash-carduri pentru invatare rapidă. apare prima dată în Romania Pozitiva .",
@@ -622,6 +670,18 @@
       "score": 3,
       "freshness_boost": 3,
       "image": "https://picsum.photos/seed/vb-5397d29bb24c3bd8/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Miracol medical. Un clujean a fost operat în Iași: i-au scos figurile din cap!",
+      "summary": "Operație chirurgicală fără precedent reușită la Iași de o echipă mixtă. Pacientul, un clujean cu un caz grav de figuri în cap, a fost vindecat în cadrul unei intervenții complexe, care a durat doar 10 minute. La final, clujeanul nu mai avea figuri în cap, iar echipa de ieșeni este acum cu siguranță pe lista [&#8230;] The post Miracol medical. Un clujean a fost operat în Iași: i-au scos figurile din cap! appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/it-stiinta/miracol-medical-un-clujean-a-fost-operat-in-iasi-i-au-scos-figurile-din-cap",
+      "published_utc": "2026-03-27T15:00:00+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/clujean_figuri.jpg"
     },
     {
       "section": "romania",
@@ -658,18 +718,6 @@
       "score": 3,
       "freshness_boost": 3,
       "image": "https://picsum.photos/seed/vb-5c8e62d814b4021c/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Românii care fumează pasiv, obligați să plăteasca acciza pe tutun",
-      "summary": "Guvernul Bolojan e disperat după încasări la buget, așa că inventează noi forme de jecmănire. De azi, obligativitatea achitării accizei pe tutun se extinde și la fumătorii pasivi. Concret, orice persoană care nu fumează dar inhalează fum de la un fumător pe lângă care trece trebuie să meargă la cea mai apropiată filială de taxe [&#8230;] The post Românii care fumează pasiv, obligați să plăteasca acciza pe tutun appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/romanii-care-fumeaza-pasiv-obligati-sa-plateasca-acciza-pe-tutun",
-      "published_utc": "2026-03-27T13:00:00+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2023/02/elevi_fumat_clasa.jpeg"
     },
     {
       "section": "romania",
@@ -744,6 +792,18 @@
       "image": "https://picsum.photos/seed/vb-cd91d5c05ed09ce2/480/320"
     },
     {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "UK parents told to limit under-5s screen time",
+      "summary": "The UK government on Friday published its first national guidance on screen time for children, advising parents to allow no more than an hour a day for under-fives.",
+      "link": "https://medicalxpress.com/news/2026-03-uk-parents-told-limit-5s.html",
+      "published_utc": "2026-03-27T15:40:03+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/kid-screen-1.jpg"
+    },
+    {
       "section": "romania",
       "kind": "ro",
       "source": "World Vision Romania",
@@ -771,13 +831,13 @@
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
-      "title": "UK parents told to limit under-5s screen time",
-      "summary": "The UK government on Friday published its first national guidance on screen time for children, advising parents to allow no more than an hour a day for under-fives.",
-      "link": "https://medicalxpress.com/news/2026-03-uk-parents-told-limit-5s.html",
-      "published_utc": "2026-03-27T15:40:03+00:00",
+      "title": "Can marijuana cause lung cancer?",
+      "summary": "As more states legalize marijuana, many people might be wondering if that means it is safe to use. While smoking tobacco is a known and well-studied cause of lung cancer, linking marijuana to cancer is more complicated, says Brooks Udelsman, MD, a thoracic surgeon with USC Surgery, part of Keck Medicine of USC.",
+      "link": "https://medicalxpress.com/news/2026-03-marijuana-lung-cancer.html",
+      "published_utc": "2026-03-27T15:20:01+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/kid-screen-1.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/marijuana-joint.jpg"
     },
     {
       "section": "romania",
@@ -807,13 +867,13 @@
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
-      "title": "Can marijuana cause lung cancer?",
-      "summary": "As more states legalize marijuana, many people might be wondering if that means it is safe to use. While smoking tobacco is a known and well-studied cause of lung cancer, linking marijuana to cancer is more complicated, says Brooks Udelsman, MD, a thoracic surgeon with USC Surgery, part of Keck Medicine of USC.",
-      "link": "https://medicalxpress.com/news/2026-03-marijuana-lung-cancer.html",
-      "published_utc": "2026-03-27T15:20:01+00:00",
-      "score": 0,
+      "title": "Study finds a U-shaped link between ovarian cancer diagnosis time and survival",
+      "summary": "Ovarian cancer is hard to diagnose early. Its symptoms, like bloating and abdominal pain, are vague and similar to other more common conditions. Early diagnosis improves outcomes for many cancers. However, prior research suggests that faster diagnosis does not improve ovarian cancer survival, discouraging investments in better diagnostic tools. One possible explanation that could explain these prior findings is the \"wait time paradox\": the sickest patients are easier to diagnose quickly but also have poorer outcomes.",
+      "link": "https://medicalxpress.com/news/2026-03-link-ovarian-cancer-diagnosis-survival.html",
+      "published_utc": "2026-03-27T15:00:11+00:00",
+      "score": 3,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/marijuana-joint.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/aunt.jpg"
     },
     {
       "section": "romania",
@@ -826,18 +886,6 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-6ff3f8cda4c73e98/480/320"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Study finds a U-shaped link between ovarian cancer diagnosis time and survival",
-      "summary": "Ovarian cancer is hard to diagnose early. Its symptoms, like bloating and abdominal pain, are vague and similar to other more common conditions. Early diagnosis improves outcomes for many cancers. However, prior research suggests that faster diagnosis does not improve ovarian cancer survival, discouraging investments in better diagnostic tools. One possible explanation that could explain these prior findings is the \"wait time paradox\": the sickest patients are easier to diagnose quickly but also have poorer outcomes.",
-      "link": "https://medicalxpress.com/news/2026-03-link-ovarian-cancer-diagnosis-survival.html",
-      "published_utc": "2026-03-27T15:00:11+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/aunt.jpg"
     },
     {
       "section": "medical",
@@ -1232,6 +1280,7 @@
       "https://live.staticflickr.com/65535/55153414865_3efa49dc3b_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/55167598104_226d242eaa_b.jpg",
       "https://live.staticflickr.com/65535/55171876889_97f0c24984_b.jpg",
       "https://live.staticflickr.com/65535/55165722294_cfe669b8de_b.jpg",
       "https://live.staticflickr.com/65535/55164127054_3389633478_b.jpg",
@@ -1248,10 +1297,10 @@
       "https://live.staticflickr.com/65535/55164589254_ae391a04ab_b.jpg",
       "https://live.staticflickr.com/3711/10888595676_a4193a7cd2_b.jpg",
       "https://live.staticflickr.com/4280/35379298396_d816f4326b_b.jpg",
-      "https://live.staticflickr.com/65535/55168759572_210fd8db42_b.jpg",
-      "https://live.staticflickr.com/65535/55166301564_ffd8027383_b.jpg"
+      "https://live.staticflickr.com/65535/55168759572_210fd8db42_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55172415339_8f5cbdfa0d_b.jpg",
       "https://live.staticflickr.com/65535/8656521445_1821c7a7e6_b.jpg",
       "https://live.staticflickr.com/65535/55171405138_d45bb9c2c8_b.jpg",
       "https://live.staticflickr.com/65535/55171483104_b811328346_b.jpg",
@@ -1268,12 +1317,11 @@
       "https://live.staticflickr.com/65535/55170008821_cc4cdcd556_b.jpg",
       "https://live.staticflickr.com/65535/55170071390_2bc024001a_b.jpg",
       "https://live.staticflickr.com/65535/55169960259_d6f21b8e39_b.jpg",
-      "https://live.staticflickr.com/65535/55168989787_ab3b1b8a5f_b.jpg",
-      "https://live.staticflickr.com/65535/55169111322_c54659cfaf_b.jpg"
+      "https://live.staticflickr.com/65535/55168989787_ab3b1b8a5f_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
+      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
