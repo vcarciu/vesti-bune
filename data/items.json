@@ -1,7 +1,91 @@
 {
-  "generated_utc": "2026-03-31T04:27:45+00:00",
+  "generated_utc": "2026-03-31T06:11:20+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "FOTO De la Lamborghini și ceasuri de lux la terenuri și apartamente. Primele bunuri scoase la vânzare pe eLicitatiiANAF",
+        "summary": "Platforma online eLicitatiiANAF, destinată vânzării bunurilor sechestrate sau intrate în proprietatea privată a statului, a fost lansată oficial luni, 30 martie. Citiți mai mult pe StartupCafe.ro.",
+        "link": "https://hotnews.ro/foto-de-la-lamborghini-si-ceasuri-de-lux-la-terenuri-si-apartamente-primele-bunuri-scoase-la-vanzare-pe-elicitatiianaf-2206619",
+        "published_utc": "2026-03-31T06:04:42+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-1c74633b96c608bc/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Start-Up Romania",
+        "title": "Dacă oamenii nu ajung în spațiu, centrele de date da | Starcloud primește 170 de milioane de dolari finanțare pentru asta",
+        "summary": "Startup-ul Starcloud a atras o finanțare de 170.000.000 de dolari într-o rundă Series A pentru a dezvolta centre de date în spațiu. Compania propune mutarea unei părți din infrastructura de...",
+        "link": "https://start-up.ro/daca-oamenii-nu-ajung-in-spatiu-centrele-de-date-da-starcloud-primeste-170-de-milioane-de-dolari-finantare-pentru-asta",
+        "published_utc": "2026-03-31T05:05:01+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://start-up.ro/img/articles/3/8/1/38117/cover-38117-src.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Start-Up Romania",
+        "title": "România va participa la Esports Nations Cup 2026",
+        "summary": "The Romanian Esports Federation (ROESF) a fost desemnată de către Esports Foundation drept partener național pentru România în cadrul Esports Nations Cup 2026 (ENC), competiția globală care va...",
+        "link": "https://start-up.ro/romania-va-participa-la-esports-nations-cup-2026",
+        "published_utc": "2026-03-31T05:05:01+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://start-up.ro/img/articles/3/8/1/38113/cover-38113-src.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Start-Up Romania",
+        "title": "Românul plecat din Giulvăz în Spania prin Erasmus și ajuns în Copenhaga, unde construiește sisteme de vânzări pentru startup-uri AI | Români din lume",
+        "summary": "Pe strada copilăriei lui Abel Aioanei din Giulvăz, un sat din Banat, se auzeau mai multe limbi decât ai crede într-un loc atât de mic. Uneori germană, alteori muzică sârbească la radio, iar din...",
+        "link": "https://start-up.ro/romanul-plecat-din-giulvaz-in-spania-prin-erasmus-si-ajuns-in-copenhaga-unde-construieste-sisteme-de-vanzari-pentru-startup-uri-ai-romani-din-lume",
+        "published_utc": "2026-03-31T05:05:01+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://start-up.ro/img/articles/3/8/1/38115/cover-38115-src.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Start-Up Romania",
+        "title": "8 din 10 români spun că educația financiară ar trebui predată în școală",
+        "summary": "Datele celui mai nou studiu ING Consumer Research arată că românii resimt presiunea schimbărilor economice, dar văd educația financiară ca pe un sprijin concret pentru decizii mai bune și o viață...",
+        "link": "https://start-up.ro/8-din-10-romani-spun-ca-educatia-financiara-ar-trebui-predata-in-scoala",
+        "published_utc": "2026-03-31T05:05:01+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://start-up.ro/img/articles/3/8/1/38110/cover-38110-src.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Green Start-Up Romania",
+        "title": "Cum pregătește Narada elevii pentru o piață tot mai mult dominată de AI",
+        "summary": "Narada, organizație care activează în domeniul educației, a lansat Raportul Anual de Impact 2025, care marchează trecerea organizației la un model de intervenție educațională bazat pe științele...",
+        "link": "https://green.start-up.ro/ro/cum-pregateste-narada-elevii-pentru-o-piata-tot-mai-mult-dominata-de-ai",
+        "published_utc": "2026-03-31T05:00:02+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://green.start-up.ro/img/articles/3/5/8/35803/cover-35803-src.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Green Start-Up Romania",
+        "title": "BMW Group investește într-un nou Centru de Competență în Circularitate",
+        "summary": "BMW Group mută Centrul de Reciclare și Demontare (RDC) de la Unterschleißheim la locația companiei din Wackersdorf, cu o extindere semnificativă. În noul spațiu se construiește un centru de...",
+        "link": "https://green.start-up.ro/ro/bmw-group-investeste-intr-un-nou-centru-de-competenta-in-circularitate",
+        "published_utc": "2026-03-31T05:00:02+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://green.start-up.ro/img/articles/3/5/7/35799/cover-35799-src.jpg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -53,18 +137,6 @@
       {
         "section": "romania",
         "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 Mohammad Murad pleacă din AUR! S-a săturat să-i tot explice lui Dan Tanasă că nu e nepalez",
-        "summary": "Deputatul AUR Mohammad Murad a decis să demisioneze din partid, sătul de invectivele pe care colegul său de partid Dan Tanasă i le adresa de mai multe ori pe zi. „A făcut o adevărată obsesie despre mine, îmi urla de câteva ori pe zi să nu le mai fur românilor locurile de muncă și să [&#8230;] The post Mohammad Murad pleacă din AUR! S-a săturat să-i tot explice lui Dan Tanasă că nu e nepalez appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/politic/mohammad-murad-pleaca-din-aur-s-a-saturat-sa-i-tot-explice-lui-dan-tanasa-ca-nu-e-nepalez",
-        "published_utc": "2026-03-30T13:52:58+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/dantanasa_murad.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
         "source": "RomaniaPozitiva",
         "title": "Timișoara a deschis în weekend Târgul de Paște și a transformat centrul orașului într-o scenă de poveste",
         "summary": "Timișoara a deschis în weekend Târgul de Paște ediția 2026, într-o atmosferă vibrantă, în care, chiar și în ciuda vremii capricioase, mii de oameni au ieșit în oraș pentru a&#8230; Articolul Timișoara a deschis în weekend Târgul de Paște și a transformat centrul orașului într-o scenă de poveste apare prima dată în Romania Pozitiva .",
@@ -78,13 +150,13 @@
         "section": "romania",
         "kind": "ro",
         "source": "Times New Roman (Satira)",
-        "title": "😂 Senzațional! Un alchimist român a reușit să transforme parizerul la loc în petrol",
-        "summary": "În timp ce restul românilor se roagă să le cadă benzină din cer, sau măcar să-și uite vreun vecin bușonul deschis și să poată sustrage niște litri din prețiosul lichid, un alchimist amator din Vârteju, Ilfov, a descoperit „piatra filozofală” a economiei românești: reversibilitatea parizerului. Gelu M., fost laborant la o fabrică de mase plastice [&#8230;] The post Senzațional! Un alchimist român a reușit să transforme parizerul la loc în petrol appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/it-stiinta/senzational-un-alchimist-roman-a-reusit-sa-transforme-parizerul-la-loc-in-petrol",
-        "published_utc": "2026-03-30T04:56:00+00:00",
+        "title": "😂 Grindeanu se plânge că dă de două ori mai mult pe o găleată de c*cat decât acum un an",
+        "summary": "Liderul PSD cere ca politicienii să primească subvenții mai mari, plângându-se că inflația face ravagii în finanțele lor. „Am ajuns să scot de două ori mai mulți bani din buzunar pentru o găleată de c*cat decât în urmă cu un an. Nu se mai poate așa ceva, ne trebuie subvenție, Bolojene!”, i-a transmis Sorin Grindeanu [&#8230;] The post Grindeanu se plânge că dă de două ori mai mult pe o găleată de c*cat decât acum un an appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/politic/grindeanu-se-plange-ca-da-de-doua-ori-mai-mult-pe-o-galeata-de-ccat-decat-acum-un-an",
+        "published_utc": "2026-03-30T09:41:05+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/parizer_petrol_alchimist.jpg"
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/grindeanu_manjit_gura.jpg"
       },
       {
         "section": "romania",
@@ -101,6 +173,18 @@
       {
         "section": "romania",
         "kind": "ro",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 Primăria București luptă cu grafitti-urile. Va scrie peste ele: ”M*uie cine a scris aici”",
+        "summary": "Primarul general Ciprian Ciucu a declarat război grafitti-urilor din Capitală. După o plimbare prin oraș, primarul s-a declarat dezgustat de halul în care arată zidurile clădirilor, toate acoperite cu mâzgălituri și afișe ilegale. Primăria a decis astfel să înceapă lupta cu grafitti-urile, prima măsură fiind cea de descurajare: angajații PMB vor scrie ”Muie cine a [&#8230;] The post Primăria București luptă cu grafitti-urile. Va scrie peste ele: ”M*uie cine a scris aici” appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/politic/primaria-bucuresti-lupta-cu-grafitti-urile-va-scrie-peste-ele-muie-cine-a-scris-aici",
+        "published_utc": "2026-03-29T09:08:29+00:00",
+        "score": 3,
+        "freshness_boost": 1,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2025/10/ciucu_drumul_taberei.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
         "source": "World Vision Romania",
         "title": "Bullyingul în adolescență: răni invizibile și cum pot fi vindecate",
         "summary": "De ce vorbim despre bullying Bullyingul nu mai este de mult o problemă „minoră” sau o etapă inevitabilă a copilăriei.... Articolul Bullyingul în adolescență: răni invizibile și cum pot fi vindecate apare prima dată în World Vision România .",
@@ -109,6 +193,18 @@
         "score": 3,
         "freshness_boost": 0,
         "image": "https://picsum.photos/seed/vb-2554b0df5dc098e4/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Green Start-Up Romania",
+        "title": "Holcim demarează primul proiect de captare și stocare a carbonului în România",
+        "summary": "Holcim România a semnat acordul de finanțare cu Agenția Executivă Europeană pentru Climă, Infrastructură și Mediu (CINEA) pentru proiectul Carbon Hub CPT01, o inițiativă pionier de captare și...",
+        "link": "https://green.start-up.ro/ro/holcim-demareaza-primul-proiect-de-captare-si-stocare-a-carbonului-in-romania",
+        "published_utc": "2026-03-26T06:00:01+00:00",
+        "score": 3,
+        "freshness_boost": 0,
+        "image": "https://green.start-up.ro/img/articles/3/5/7/35791/cover-35791-src.jpg"
       },
       {
         "section": "romania",
@@ -471,13 +567,109 @@
       "section": "romania",
       "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 Senzațional! Un alchimist român a reușit să transforme parizerul la loc în petrol",
-      "summary": "În timp ce restul românilor se roagă să le cadă benzină din cer, sau măcar să-și uite vreun vecin bușonul deschis și să poată sustrage niște litri din prețiosul lichid, un alchimist amator din Vârteju, Ilfov, a descoperit „piatra filozofală” a economiei românești: reversibilitatea parizerului. Gelu M., fost laborant la o fabrică de mase plastice [&#8230;] The post Senzațional! Un alchimist român a reușit să transforme parizerul la loc în petrol appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/it-stiinta/senzational-un-alchimist-roman-a-reusit-sa-transforme-parizerul-la-loc-in-petrol",
-      "published_utc": "2026-03-30T04:56:00+00:00",
+      "title": "😂 Pentru că agricultura e slab tehnologizată, fermierii vor primi iPhone 17",
+      "summary": "Investiții masive la Ministerul Agriculturii. Pentru că fermierii sunt slab tehnologizați, peste 2 milioane de români vor primi câte un iPhone 17, ca să poată lucra la cel mai înalt nivel tehnologic. Ministrul a explicat că măsura face parte dintr-un amplu program de digitalizare rurală care își propune să aducă agricultura românească direct în secolul [&#8230;] The post Pentru că agricultura e slab tehnologizată, fermierii vor primi iPhone 17 appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/it-stiinta/pentru-ca-agricultura-e-slab-tehnologizata-fermierii-vor-primi-iphone-17",
+      "published_utc": "2026-03-29T09:34:29+00:00",
+      "score": 3,
+      "freshness_boost": 1,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2015/12/ionut_cioban.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "FOTO De la Lamborghini și ceasuri de lux la terenuri și apartamente. Primele bunuri scoase la vânzare pe eLicitatiiANAF",
+      "summary": "Platforma online eLicitatiiANAF, destinată vânzării bunurilor sechestrate sau intrate în proprietatea privată a statului, a fost lansată oficial luni, 30 martie. Citiți mai mult pe StartupCafe.ro.",
+      "link": "https://hotnews.ro/foto-de-la-lamborghini-si-ceasuri-de-lux-la-terenuri-si-apartamente-primele-bunuri-scoase-la-vanzare-pe-elicitatiianaf-2206619",
+      "published_utc": "2026-03-31T06:04:42+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/parizer_petrol_alchimist.jpg"
+      "image": "https://picsum.photos/seed/vb-1c74633b96c608bc/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Start-Up Romania",
+      "title": "Dacă oamenii nu ajung în spațiu, centrele de date da | Starcloud primește 170 de milioane de dolari finanțare pentru asta",
+      "summary": "Startup-ul Starcloud a atras o finanțare de 170.000.000 de dolari într-o rundă Series A pentru a dezvolta centre de date în spațiu. Compania propune mutarea unei părți din infrastructura de...",
+      "link": "https://start-up.ro/daca-oamenii-nu-ajung-in-spatiu-centrele-de-date-da-starcloud-primeste-170-de-milioane-de-dolari-finantare-pentru-asta",
+      "published_utc": "2026-03-31T05:05:01+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://start-up.ro/img/articles/3/8/1/38117/cover-38117-src.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Start-Up Romania",
+      "title": "România va participa la Esports Nations Cup 2026",
+      "summary": "The Romanian Esports Federation (ROESF) a fost desemnată de către Esports Foundation drept partener național pentru România în cadrul Esports Nations Cup 2026 (ENC), competiția globală care va...",
+      "link": "https://start-up.ro/romania-va-participa-la-esports-nations-cup-2026",
+      "published_utc": "2026-03-31T05:05:01+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://start-up.ro/img/articles/3/8/1/38113/cover-38113-src.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Start-Up Romania",
+      "title": "Românul plecat din Giulvăz în Spania prin Erasmus și ajuns în Copenhaga, unde construiește sisteme de vânzări pentru startup-uri AI | Români din lume",
+      "summary": "Pe strada copilăriei lui Abel Aioanei din Giulvăz, un sat din Banat, se auzeau mai multe limbi decât ai crede într-un loc atât de mic. Uneori germană, alteori muzică sârbească la radio, iar din...",
+      "link": "https://start-up.ro/romanul-plecat-din-giulvaz-in-spania-prin-erasmus-si-ajuns-in-copenhaga-unde-construieste-sisteme-de-vanzari-pentru-startup-uri-ai-romani-din-lume",
+      "published_utc": "2026-03-31T05:05:01+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://start-up.ro/img/articles/3/8/1/38115/cover-38115-src.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Start-Up Romania",
+      "title": "8 din 10 români spun că educația financiară ar trebui predată în școală",
+      "summary": "Datele celui mai nou studiu ING Consumer Research arată că românii resimt presiunea schimbărilor economice, dar văd educația financiară ca pe un sprijin concret pentru decizii mai bune și o viață...",
+      "link": "https://start-up.ro/8-din-10-romani-spun-ca-educatia-financiara-ar-trebui-predata-in-scoala",
+      "published_utc": "2026-03-31T05:05:01+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://start-up.ro/img/articles/3/8/1/38110/cover-38110-src.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Green Start-Up Romania",
+      "title": "Cum pregătește Narada elevii pentru o piață tot mai mult dominată de AI",
+      "summary": "Narada, organizație care activează în domeniul educației, a lansat Raportul Anual de Impact 2025, care marchează trecerea organizației la un model de intervenție educațională bazat pe științele...",
+      "link": "https://green.start-up.ro/ro/cum-pregateste-narada-elevii-pentru-o-piata-tot-mai-mult-dominata-de-ai",
+      "published_utc": "2026-03-31T05:00:02+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://green.start-up.ro/img/articles/3/5/8/35803/cover-35803-src.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Green Start-Up Romania",
+      "title": "BMW Group investește într-un nou Centru de Competență în Circularitate",
+      "summary": "BMW Group mută Centrul de Reciclare și Demontare (RDC) de la Unterschleißheim la locația companiei din Wackersdorf, cu o extindere semnificativă. În noul spațiu se construiește un centru de...",
+      "link": "https://green.start-up.ro/ro/bmw-group-investeste-intr-un-nou-centru-de-competenta-in-circularitate",
+      "published_utc": "2026-03-31T05:00:02+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://green.start-up.ro/img/articles/3/5/7/35799/cover-35799-src.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Grindeanu se plânge că dă de două ori mai mult pe o găleată de c*cat decât acum un an",
+      "summary": "Liderul PSD cere ca politicienii să primească subvenții mai mari, plângându-se că inflația face ravagii în finanțele lor. „Am ajuns să scot de două ori mai mulți bani din buzunar pentru o găleată de c*cat decât în urmă cu un an. Nu se mai poate așa ceva, ne trebuie subvenție, Bolojene!”, i-a transmis Sorin Grindeanu [&#8230;] The post Grindeanu se plânge că dă de două ori mai mult pe o găleată de c*cat decât acum un an appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/politic/grindeanu-se-plange-ca-da-de-doua-ori-mai-mult-pe-o-galeata-de-ccat-decat-acum-un-an",
+      "published_utc": "2026-03-30T09:41:05+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/grindeanu_manjit_gura.jpg"
     },
     {
       "section": "romania",
@@ -502,18 +694,6 @@
       "score": 3,
       "freshness_boost": 3,
       "image": "https://picsum.photos/seed/vb-1239cb444b3b4335/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Mohammad Murad pleacă din AUR! S-a săturat să-i tot explice lui Dan Tanasă că nu e nepalez",
-      "summary": "Deputatul AUR Mohammad Murad a decis să demisioneze din partid, sătul de invectivele pe care colegul său de partid Dan Tanasă i le adresa de mai multe ori pe zi. „A făcut o adevărată obsesie despre mine, îmi urla de câteva ori pe zi să nu le mai fur românilor locurile de muncă și să [&#8230;] The post Mohammad Murad pleacă din AUR! S-a săturat să-i tot explice lui Dan Tanasă că nu e nepalez appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/politic/mohammad-murad-pleaca-din-aur-s-a-saturat-sa-i-tot-explice-lui-dan-tanasa-ca-nu-e-nepalez",
-      "published_utc": "2026-03-30T13:52:58+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/dantanasa_murad.jpg"
     },
     {
       "section": "romania",
@@ -555,13 +735,13 @@
       "section": "romania",
       "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 Pentru că agricultura e slab tehnologizată, fermierii vor primi iPhone 17",
-      "summary": "Investiții masive la Ministerul Agriculturii. Pentru că fermierii sunt slab tehnologizați, peste 2 milioane de români vor primi câte un iPhone 17, ca să poată lucra la cel mai înalt nivel tehnologic. Ministrul a explicat că măsura face parte dintr-un amplu program de digitalizare rurală care își propune să aducă agricultura românească direct în secolul [&#8230;] The post Pentru că agricultura e slab tehnologizată, fermierii vor primi iPhone 17 appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/it-stiinta/pentru-ca-agricultura-e-slab-tehnologizata-fermierii-vor-primi-iphone-17",
-      "published_utc": "2026-03-29T09:34:29+00:00",
+      "title": "😂 Primăria București luptă cu grafitti-urile. Va scrie peste ele: ”M*uie cine a scris aici”",
+      "summary": "Primarul general Ciprian Ciucu a declarat război grafitti-urilor din Capitală. După o plimbare prin oraș, primarul s-a declarat dezgustat de halul în care arată zidurile clădirilor, toate acoperite cu mâzgălituri și afișe ilegale. Primăria a decis astfel să înceapă lupta cu grafitti-urile, prima măsură fiind cea de descurajare: angajații PMB vor scrie ”Muie cine a [&#8230;] The post Primăria București luptă cu grafitti-urile. Va scrie peste ele: ”M*uie cine a scris aici” appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/politic/primaria-bucuresti-lupta-cu-grafitti-urile-va-scrie-peste-ele-muie-cine-a-scris-aici",
+      "published_utc": "2026-03-29T09:08:29+00:00",
       "score": 3,
       "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2015/12/ionut_cioban.jpg"
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2025/10/ciucu_drumul_taberei.jpg"
     },
     {
       "section": "romania",
@@ -576,6 +756,30 @@
       "image": "https://picsum.photos/seed/vb-2554b0df5dc098e4/480/320"
     },
     {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "Electronic paperwork increasing burnout risk among young doctors",
+      "summary": "An overload of electronic paperwork is increasing the risk of burnout among young doctors, a new study says.",
+      "link": "https://medicalxpress.com/news/2026-03-electronic-paperwork-burnout-young-doctors.html",
+      "published_utc": "2026-03-31T02:50:02+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/electronic-paperwork-i.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Green Start-Up Romania",
+      "title": "Holcim demarează primul proiect de captare și stocare a carbonului în România",
+      "summary": "Holcim România a semnat acordul de finanțare cu Agenția Executivă Europeană pentru Climă, Infrastructură și Mediu (CINEA) pentru proiectul Carbon Hub CPT01, o inițiativă pionier de captare și...",
+      "link": "https://green.start-up.ro/ro/holcim-demareaza-primul-proiect-de-captare-si-stocare-a-carbonului-in-romania",
+      "published_utc": "2026-03-26T06:00:01+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://green.start-up.ro/img/articles/3/5/7/35791/cover-35791-src.jpg"
+    },
+    {
       "section": "romania",
       "kind": "ro",
       "source": "SOS Satele Copiilor Romania",
@@ -586,6 +790,18 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-5c5602f10ee5770c/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "People over 60 feel younger in the morning, suggesting it is the best time to maximize well-being activities",
+      "summary": "A study by psychologists at Nottingham Trent University suggests that mornings are the optimal time for older adults to engage in age-related interventions to maximize well-being. The research involved 86 men and women aged 60 to 81 who completed online questionnaires once early in the morning and once in the late afternoon or early evening. The work is published in the journal Chronobiology International.",
+      "link": "https://medicalxpress.com/news/2026-03-people-younger-morning-maximize.html",
+      "published_utc": "2026-03-31T02:30:01+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/people-over-60-feel-yo.jpg"
     },
     {
       "section": "romania",
@@ -612,42 +828,6 @@
       "image": "https://picsum.photos/seed/vb-ed87bce9b35837eb/480/320"
     },
     {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Fundatia Regala Margareta",
-      "title": "Identități 2026: debutul artistic al noii generații de bursieri ai programului Tinere Talente",
-      "summary": "36 de tineri artiști vizuali și muzicieni, susținuți de către Fundația Regală Margareta a României, se prezintă publicului pe 2 martie, la Elite Art Gallery, București Fundația Regală Margareta a României anunță Identități, evenimentul care marchează debutul public al generației 2026 a programului național... Post-ul Identități 2026: debutul artistic al noii generații de bursieri ai programului Tinere Talente apare prima dată în Fundația Regală Margareta a României .",
-      "link": "https://www.frmr.ro/37214",
-      "published_utc": "2026-02-26T11:37:41+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-cd91d5c05ed09ce2/480/320"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Electronic paperwork increasing burnout risk among young doctors",
-      "summary": "An overload of electronic paperwork is increasing the risk of burnout among young doctors, a new study says.",
-      "link": "https://medicalxpress.com/news/2026-03-electronic-paperwork-burnout-young-doctors.html",
-      "published_utc": "2026-03-31T02:50:02+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/electronic-paperwork-i.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "People over 60 feel younger in the morning, suggesting it is the best time to maximize well-being activities",
-      "summary": "A study by psychologists at Nottingham Trent University suggests that mornings are the optimal time for older adults to engage in age-related interventions to maximize well-being. The research involved 86 men and women aged 60 to 81 who completed online questionnaires once early in the morning and once in the late afternoon or early evening. The work is published in the journal Chronobiology International.",
-      "link": "https://medicalxpress.com/news/2026-03-people-younger-morning-maximize.html",
-      "published_utc": "2026-03-31T02:30:01+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/people-over-60-feel-yo.jpg"
-    },
-    {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
@@ -658,6 +838,18 @@
       "score": 0,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/medical-schools-no-lon.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Fundatia Regala Margareta",
+      "title": "Identități 2026: debutul artistic al noii generații de bursieri ai programului Tinere Talente",
+      "summary": "36 de tineri artiști vizuali și muzicieni, susținuți de către Fundația Regală Margareta a României, se prezintă publicului pe 2 martie, la Elite Art Gallery, București Fundația Regală Margareta a României anunță Identități, evenimentul care marchează debutul public al generației 2026 a programului național... Post-ul Identități 2026: debutul artistic al noii generații de bursieri ai programului Tinere Talente apare prima dată în Fundația Regală Margareta a României .",
+      "link": "https://www.frmr.ro/37214",
+      "published_utc": "2026-02-26T11:37:41+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-cd91d5c05ed09ce2/480/320"
     },
     {
       "section": "medical",
@@ -926,7 +1118,7 @@
   ],
   "joke_ro": {
     "date_utc": "2026-03-31",
-    "text": "Mi-am facut lista de treburi. Acum am doua: lista si vinovatia.",
+    "text": "Am deschis frigiderul doar de trei ori. Progres emotional.",
     "source": "data/jokes_ro.txt"
   },
   "satire_ro": {
@@ -1016,6 +1208,7 @@
       "https://live.staticflickr.com/65535/55160026123_ebe07ce927_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/370/31956779473_cef30bff4c_b.jpg",
       "https://live.staticflickr.com/65535/55166175568_1316606e39_b.jpg",
       "https://live.staticflickr.com/65535/55168759572_210fd8db42_b.jpg",
       "https://live.staticflickr.com/65535/55165766318_0bb856588e_b.jpg",
@@ -1032,15 +1225,14 @@
       "https://live.staticflickr.com/4280/35379298396_d816f4326b_b.jpg",
       "https://live.staticflickr.com/65535/55169529075_c6b3c9a151_b.jpg",
       "https://live.staticflickr.com/65535/55165663175_ecd202ebea_b.jpg",
-      "https://live.staticflickr.com/65535/55171876889_97f0c24984_b.jpg",
-      "https://live.staticflickr.com/65535/55169979408_717b7b4f08_b.jpg"
+      "https://live.staticflickr.com/65535/55171876889_97f0c24984_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55177090507_ec7feeac66_b.jpg",
       "https://live.staticflickr.com/65535/55178000821_9ae2150b7f_b.jpg",
       "https://live.staticflickr.com/65535/55177104062_8e32a4bfdf_b.jpg",
       "https://live.staticflickr.com/65535/55178266430_462a5a276c_b.jpg",
       "https://live.staticflickr.com/65535/55178164763_f88ba04865_b.jpg",
-      "https://live.staticflickr.com/65535/55177090507_ec7feeac66_b.jpg",
       "https://live.staticflickr.com/65535/55177122567_f9126627ae_b.jpg",
       "https://live.staticflickr.com/65535/55177989381_0d94d0c331_b.jpg",
       "https://live.staticflickr.com/65535/8617713732_d0999b781e_b.jpg",
@@ -1056,8 +1248,8 @@
       "https://live.staticflickr.com/65535/55176594165_dd3ac44f01_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
+      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
