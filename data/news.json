@@ -1,30 +1,54 @@
 {
-  "generated_utc": "2026-03-31T08:01:45+00:00",
+  "generated_utc": "2026-03-31T09:54:23+00:00",
   "sections": {
     "romania": [
       {
         "section": "romania",
         "kind": "ro",
-        "source": "Start-Up Romania",
-        "title": "Dezvoltarea GTA 6 ar putea costa peste 2 miliarde de dolari, potrivit unor estimări",
-        "summary": "Costurile de dezvoltare pentru GTA 6 ar putea depăși pragul de 2 miliarde de dolari, potrivit unor estimări realizate de comunitatea de fani, pe baza informațiilor disponibile despre Rockstar Games.",
-        "link": "https://start-up.ro/dezvoltarea-gta-6-ar-putea-costa-peste-2-miliarde-de-dolari-potrivit-unor-estimari",
-        "published_utc": "2026-03-31T07:35:27+00:00",
+        "source": "RomaniaPozitiva",
+        "title": "Cursa pentru Premiile Gopo 2026: nominalizările ediției aniversare",
+        "summary": "București, 31 martie 2026 – Asociația pentru Promovarea Filmului Românesc anunță nominalizații la Premiile Gopo 2026. Prin filtrul a două jurii au trecut 124 de filme românești – lungmetraje de&#8230; Articolul Cursa pentru Premiile Gopo 2026: nominalizările ediției aniversare apare prima dată în Romania Pozitiva .",
+        "link": "https://www.romaniapozitiva.ro/cultura/cursa-pentru-premiile-gopo-2026-nominalizarile-editiei-aniversare",
+        "published_utc": "2026-03-31T09:04:09+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://start-up.ro/img/articles/3/8/1/38121/cover-38121-src.jpg"
+        "image": "https://picsum.photos/seed/vb-2dfc26403d48b656/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "RomaniaPozitiva",
+        "title": "Discuții sincere despre subiectele care îi „dor” pe Modern Owners – FOMO – The Festival Of Modern Owners anunță scenele dedicate speakerilor, antreprenorilor și experților români",
+        "summary": "FOMO &#8211; The Festival Of Modern Owners anunță scenele și temele ediției 2026, dedicate speakerilor români care modelează, în mod concret, ecosistemul de antreprenoriat local și regional. După anunțarea unor&#8230; Articolul Discuții sincere despre subiectele care îi „dor” pe Modern Owners &#8211; FOMO &#8211; The Festival Of Modern Owners anunță scenele dedicate speakerilor, antreprenorilor și experților români apare prima dată în Romania Pozitiva .",
+        "link": "https://www.romaniapozitiva.ro/bucuresti/discutii-sincere-despre-subiectele-care-ii-dor-pe-modern-owners-fomo-the-festival-of-modern-owners-anunta-scenele-dedicate-speakerilor-antreprenorilor-si-expertilor-romani",
+        "published_utc": "2026-03-31T08:58:50+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-dbeb3e60a07c8130/480/320"
       },
       {
         "section": "romania",
         "kind": "ro",
         "source": "Start-Up Romania",
-        "title": "Sezamo lansează asistentul AI cu care poți vorbi pentru cumpărături mai rapide",
-        "summary": "Supermarketul online Sezamo anunță lansarea Maia Voice, noua funcționalitate care transformă asistentul AI al platformei într-o experiență conversațională completă. După succesul interacțiunilor în...",
-        "link": "https://start-up.ro/sezamo-lanseaza-asistentul-ai-cu-care-poti-vorbi-pentru-cumparaturi-mai-rapide",
-        "published_utc": "2026-03-31T06:59:38+00:00",
+        "title": "SeedBlink Legal: soluția juridică pentru ecosistemul de venture, lansată de Andrei Hâncu",
+        "summary": "După șase ani în care a construit infrastructura prin care se execută tranzacțiile de tip venture din Europa, SeedBlink adaugă SeedBlink Legal, coordonat de Andrei Hâncu Law Office, care se...",
+        "link": "https://start-up.ro/seedblink-legal-solutia-juridica-pentru-ecosistemul-de-venture-lansata-de-andrei-hancu",
+        "published_utc": "2026-03-31T08:52:41+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://start-up.ro/img/articles/3/8/1/38118/cover-38118-src.jpg"
+        "image": "https://start-up.ro/img/articles/3/8/1/38125/cover-38125-src.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "RomaniaPozitiva",
+        "title": "Hai să donăm, împreună ajutăm!",
+        "summary": "Asociația Studenților Bioingineri Iași revine, în această primăvară cu cea de-a V-a ediție a proiectului ,,Hai să donăm, împreună ajutăm!’’ , încurajând donarea de sânge. Acesta va fi desfășurat în&#8230; Articolul Hai să donăm, împreună ajutăm! apare prima dată în Romania Pozitiva .",
+        "link": "https://www.romaniapozitiva.ro/educatie/hai-sa-donam-impreuna-ajutam-2",
+        "published_utc": "2026-03-31T06:46:53+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-e07660a6c5acc5d0/480/320"
       },
       {
         "section": "romania",
@@ -41,86 +65,38 @@
       {
         "section": "romania",
         "kind": "ro",
-        "source": "RomaniaPozitiva",
-        "title": "FlixBus: Liberalizarea transportului interjudețean a crescut mobilitatea internă, peste 300.000 de pasageri au călătorit cu noi pe rute interne",
-        "summary": "+++ Constanța, Craiova, Cluj-Napoca, Brașov, Sibiu și Timișoara, printre cele mai populare destinații din rețeaua FlixBus +++ Cu 17 aeroporturi, România are un potențial ridicat pentru intermodalitate, pe măsură ce&#8230; Articolul FlixBus: Liberalizarea transportului interjudețean a crescut mobilitatea internă, peste 300.000 de pasageri au călătorit cu noi pe rute interne apare prima dată în Romania Pozitiva .",
-        "link": "https://www.romaniapozitiva.ro/economie/flixbus-liberalizarea-transportului-interjudetean-a-crescut-mobilitatea-interna-peste-300-000-de-pasageri-au-calatorit-cu-noi-pe-rute-interne",
-        "published_utc": "2026-03-30T15:43:53+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-1239cb444b3b4335/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "RomaniaPozitiva",
-        "title": "Povestea antreprenorială a Georginei Lupu Florian, fondatoare și co-CEO Wolfpack Digital",
-        "summary": "Mâine (31 marti 2026), de la 15:00 la 17:00, la Zbor Hub Cluj, ascultăm și învățăm din povestea antreprenorială a Georginei Lupu Florian, fondatoare și co-CEO Wolfpack Digital &#124; Powerful&#8230; Articolul Povestea antreprenorială a Georginei Lupu Florian, fondatoare și co-CEO Wolfpack Digital apare prima dată în Romania Pozitiva .",
-        "link": "https://www.romaniapozitiva.ro/economie/povestea-antreprenoriala-a-georginei-lupu-florian-fondatoare-si-co-ceo-wolfpack-digital",
-        "published_utc": "2026-03-30T14:29:35+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-aa5f8f2b6a7b025f/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "RomaniaPozitiva",
-        "title": "Volumul 2 din „Jurnalul unui fotbalist de buzunar“ de Alec Blenche, acum în librării. Aventurile celei mai năstrușnice echipe din literatura pentru copii continuă!",
-        "summary": "Jurnalul unui fotbalist de buzunar. Serenade, salate și surprize, al doilea volum din noua serie de cărți pentru copii scrisă de Alec Blenche, este disponibil, din această săptămână, în librăriile din toată&#8230; Articolul Volumul 2 din „Jurnalul unui fotbalist de buzunar“ de Alec Blenche, acum în librării. Aventurile celei mai năstrușnice echipe din literatura pentru copii continuă! apare prima dată în Romania Pozitiva .",
-        "link": "https://www.romaniapozitiva.ro/carte-despre-romania/volumul-2-din-jurnalul-unui-fotbalist-de-buzunar-de-alec-blenche-acum-in-librarii-aventurile-celei-mai-nastrusnice-echipe-din-literatura-pentru-copii-continua",
-        "published_utc": "2026-03-30T14:01:51+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-587957d95def72dc/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
         "source": "Times New Roman (Satira)",
-        "title": "😂 Mohammad Murad pleacă din AUR! S-a săturat să-i tot explice lui Dan Tanasă că nu e nepalez",
-        "summary": "Deputatul AUR Mohammad Murad a decis să demisioneze din partid, sătul de invectivele pe care colegul său de partid Dan Tanasă i le adresa de mai multe ori pe zi. „A făcut o adevărată obsesie despre mine, îmi urla de câteva ori pe zi să nu le mai fur românilor locurile de muncă și să [&#8230;] The post Mohammad Murad pleacă din AUR! S-a săturat să-i tot explice lui Dan Tanasă că nu e nepalez appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/politic/mohammad-murad-pleaca-din-aur-s-a-saturat-sa-i-tot-explice-lui-dan-tanasa-ca-nu-e-nepalez",
-        "published_utc": "2026-03-30T13:52:58+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/dantanasa_murad.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "RomaniaPozitiva",
-        "title": "Timișoara a deschis în weekend Târgul de Paște și a transformat centrul orașului într-o scenă de poveste",
-        "summary": "Timișoara a deschis în weekend Târgul de Paște ediția 2026, într-o atmosferă vibrantă, în care, chiar și în ciuda vremii capricioase, mii de oameni au ieșit în oraș pentru a&#8230; Articolul Timișoara a deschis în weekend Târgul de Paște și a transformat centrul orașului într-o scenă de poveste apare prima dată în Romania Pozitiva .",
-        "link": "https://www.romaniapozitiva.ro/administratie/timisoara-a-deschis-in-weekend-targul-de-paste-si-a-transformat-centrul-orasului-intr-o-scena-de-poveste",
-        "published_utc": "2026-03-30T12:59:59+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-bc5ed86ee54a2f8d/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 Grindeanu se plânge că dă de două ori mai mult pe o găleată de c*cat decât acum un an",
-        "summary": "Liderul PSD cere ca politicienii să primească subvenții mai mari, plângându-se că inflația face ravagii în finanțele lor. „Am ajuns să scot de două ori mai mulți bani din buzunar pentru o găleată de c*cat decât în urmă cu un an. Nu se mai poate așa ceva, ne trebuie subvenție, Bolojene!”, i-a transmis Sorin Grindeanu [&#8230;] The post Grindeanu se plânge că dă de două ori mai mult pe o găleată de c*cat decât acum un an appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/politic/grindeanu-se-plange-ca-da-de-doua-ori-mai-mult-pe-o-galeata-de-ccat-decat-acum-un-an",
-        "published_utc": "2026-03-30T09:41:05+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/grindeanu_manjit_gura.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 Senzațional! Un alchimist român a reușit să transforme parizerul la loc în petrol",
-        "summary": "În timp ce restul românilor se roagă să le cadă benzină din cer, sau măcar să-și uite vreun vecin bușonul deschis și să poată sustrage niște litri din prețiosul lichid, un alchimist amator din Vârteju, Ilfov, a descoperit „piatra filozofală” a economiei românești: reversibilitatea parizerului. Gelu M., fost laborant la o fabrică de mase plastice [&#8230;] The post Senzațional! Un alchimist român a reușit să transforme parizerul la loc în petrol appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/it-stiinta/senzational-un-alchimist-roman-a-reusit-sa-transforme-parizerul-la-loc-in-petrol",
-        "published_utc": "2026-03-30T04:56:00+00:00",
+        "title": "😂 Pentru că agricultura e slab tehnologizată, fermierii vor primi iPhone 17",
+        "summary": "Investiții masive la Ministerul Agriculturii. Pentru că fermierii sunt slab tehnologizați, peste 2 milioane de români vor primi câte un iPhone 17, ca să poată lucra la cel mai înalt nivel tehnologic. Ministrul a explicat că măsura face parte dintr-un amplu program de digitalizare rurală care își propune să aducă agricultura românească direct în secolul [&#8230;] The post Pentru că agricultura e slab tehnologizată, fermierii vor primi iPhone 17 appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/it-stiinta/pentru-ca-agricultura-e-slab-tehnologizata-fermierii-vor-primi-iphone-17",
+        "published_utc": "2026-03-29T09:34:29+00:00",
         "score": 3,
         "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/parizer_petrol_alchimist.jpg"
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2015/12/ionut_cioban.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 Primăria București luptă cu grafitti-urile. Va scrie peste ele: ”M*uie cine a scris aici”",
+        "summary": "Primarul general Ciprian Ciucu a declarat război grafitti-urilor din Capitală. După o plimbare prin oraș, primarul s-a declarat dezgustat de halul în care arată zidurile clădirilor, toate acoperite cu mâzgălituri și afișe ilegale. Primăria a decis astfel să înceapă lupta cu grafitti-urile, prima măsură fiind cea de descurajare: angajații PMB vor scrie ”Muie cine a [&#8230;] The post Primăria București luptă cu grafitti-urile. Va scrie peste ele: ”M*uie cine a scris aici” appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/politic/primaria-bucuresti-lupta-cu-grafitti-urile-va-scrie-peste-ele-muie-cine-a-scris-aici",
+        "published_utc": "2026-03-29T09:08:29+00:00",
+        "score": 3,
+        "freshness_boost": 1,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2025/10/ciucu_drumul_taberei.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 Grindeanu, după trecerea la ora de vară: Bolojan a furat o oră din somnul românilor!",
+        "summary": "Păruiala politică dintre PSD și PNL continuă, iar premierul Bolojan cade din nou victimă șefului social-democraților, Sorin Grindeanu. Acesta l-a acuzat pe premier că a permis trecerea României la ora de vară și deci a furat o oră din somnul românilor, care și-așa erau surmenați din cauza măsurilor de austeritate bugetară luate de guvernul Bolojan. [&#8230;] The post Grindeanu, după trecerea la ora de vară: Bolojan a furat o oră din somnul românilor! appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/life-death/grindeanu-dupa-trecerea-la-ora-de-vara-bolojan-a-furat-o-ora-din-somnul-romanilor",
+        "published_utc": "2026-03-29T05:00:00+00:00",
+        "score": 3,
+        "freshness_boost": 1,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2025/09/grindeanupsd.jpg"
       },
       {
         "section": "romania",
@@ -494,26 +470,62 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Start-Up Romania",
-      "title": "Dezvoltarea GTA 6 ar putea costa peste 2 miliarde de dolari, potrivit unor estimări",
-      "summary": "Costurile de dezvoltare pentru GTA 6 ar putea depăși pragul de 2 miliarde de dolari, potrivit unor estimări realizate de comunitatea de fani, pe baza informațiilor disponibile despre Rockstar Games.",
-      "link": "https://start-up.ro/dezvoltarea-gta-6-ar-putea-costa-peste-2-miliarde-de-dolari-potrivit-unor-estimari",
-      "published_utc": "2026-03-31T07:35:27+00:00",
+      "source": "RomaniaPozitiva",
+      "title": "Cursa pentru Premiile Gopo 2026: nominalizările ediției aniversare",
+      "summary": "București, 31 martie 2026 – Asociația pentru Promovarea Filmului Românesc anunță nominalizații la Premiile Gopo 2026. Prin filtrul a două jurii au trecut 124 de filme românești – lungmetraje de&#8230; Articolul Cursa pentru Premiile Gopo 2026: nominalizările ediției aniversare apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/cultura/cursa-pentru-premiile-gopo-2026-nominalizarile-editiei-aniversare",
+      "published_utc": "2026-03-31T09:04:09+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://start-up.ro/img/articles/3/8/1/38121/cover-38121-src.jpg"
+      "image": "https://picsum.photos/seed/vb-2dfc26403d48b656/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "RomaniaPozitiva",
+      "title": "Discuții sincere despre subiectele care îi „dor” pe Modern Owners – FOMO – The Festival Of Modern Owners anunță scenele dedicate speakerilor, antreprenorilor și experților români",
+      "summary": "FOMO &#8211; The Festival Of Modern Owners anunță scenele și temele ediției 2026, dedicate speakerilor români care modelează, în mod concret, ecosistemul de antreprenoriat local și regional. După anunțarea unor&#8230; Articolul Discuții sincere despre subiectele care îi „dor” pe Modern Owners &#8211; FOMO &#8211; The Festival Of Modern Owners anunță scenele dedicate speakerilor, antreprenorilor și experților români apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/bucuresti/discutii-sincere-despre-subiectele-care-ii-dor-pe-modern-owners-fomo-the-festival-of-modern-owners-anunta-scenele-dedicate-speakerilor-antreprenorilor-si-expertilor-romani",
+      "published_utc": "2026-03-31T08:58:50+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-dbeb3e60a07c8130/480/320"
     },
     {
       "section": "romania",
       "kind": "ro",
       "source": "Start-Up Romania",
-      "title": "Sezamo lansează asistentul AI cu care poți vorbi pentru cumpărături mai rapide",
-      "summary": "Supermarketul online Sezamo anunță lansarea Maia Voice, noua funcționalitate care transformă asistentul AI al platformei într-o experiență conversațională completă. După succesul interacțiunilor în...",
-      "link": "https://start-up.ro/sezamo-lanseaza-asistentul-ai-cu-care-poti-vorbi-pentru-cumparaturi-mai-rapide",
-      "published_utc": "2026-03-31T06:59:38+00:00",
+      "title": "SeedBlink Legal: soluția juridică pentru ecosistemul de venture, lansată de Andrei Hâncu",
+      "summary": "După șase ani în care a construit infrastructura prin care se execută tranzacțiile de tip venture din Europa, SeedBlink adaugă SeedBlink Legal, coordonat de Andrei Hâncu Law Office, care se...",
+      "link": "https://start-up.ro/seedblink-legal-solutia-juridica-pentru-ecosistemul-de-venture-lansata-de-andrei-hancu",
+      "published_utc": "2026-03-31T08:52:41+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://start-up.ro/img/articles/3/8/1/38118/cover-38118-src.jpg"
+      "image": "https://start-up.ro/img/articles/3/8/1/38125/cover-38125-src.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "RomaniaPozitiva",
+      "title": "Hai să donăm, împreună ajutăm!",
+      "summary": "Asociația Studenților Bioingineri Iași revine, în această primăvară cu cea de-a V-a ediție a proiectului ,,Hai să donăm, împreună ajutăm!’’ , încurajând donarea de sânge. Acesta va fi desfășurat în&#8230; Articolul Hai să donăm, împreună ajutăm! apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/educatie/hai-sa-donam-impreuna-ajutam-2",
+      "published_utc": "2026-03-31T06:46:53+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-e07660a6c5acc5d0/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Pentru că agricultura e slab tehnologizată, fermierii vor primi iPhone 17",
+      "summary": "Investiții masive la Ministerul Agriculturii. Pentru că fermierii sunt slab tehnologizați, peste 2 milioane de români vor primi câte un iPhone 17, ca să poată lucra la cel mai înalt nivel tehnologic. Ministrul a explicat că măsura face parte dintr-un amplu program de digitalizare rurală care își propune să aducă agricultura românească direct în secolul [&#8230;] The post Pentru că agricultura e slab tehnologizată, fermierii vor primi iPhone 17 appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/it-stiinta/pentru-ca-agricultura-e-slab-tehnologizata-fermierii-vor-primi-iphone-17",
+      "published_utc": "2026-03-29T09:34:29+00:00",
+      "score": 3,
+      "freshness_boost": 1,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2015/12/ionut_cioban.jpg"
     },
     {
       "section": "romania",
@@ -530,86 +542,26 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "FlixBus: Liberalizarea transportului interjudețean a crescut mobilitatea internă, peste 300.000 de pasageri au călătorit cu noi pe rute interne",
-      "summary": "+++ Constanța, Craiova, Cluj-Napoca, Brașov, Sibiu și Timișoara, printre cele mai populare destinații din rețeaua FlixBus +++ Cu 17 aeroporturi, România are un potențial ridicat pentru intermodalitate, pe măsură ce&#8230; Articolul FlixBus: Liberalizarea transportului interjudețean a crescut mobilitatea internă, peste 300.000 de pasageri au călătorit cu noi pe rute interne apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/economie/flixbus-liberalizarea-transportului-interjudetean-a-crescut-mobilitatea-interna-peste-300-000-de-pasageri-au-calatorit-cu-noi-pe-rute-interne",
-      "published_utc": "2026-03-30T15:43:53+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-1239cb444b3b4335/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "Povestea antreprenorială a Georginei Lupu Florian, fondatoare și co-CEO Wolfpack Digital",
-      "summary": "Mâine (31 marti 2026), de la 15:00 la 17:00, la Zbor Hub Cluj, ascultăm și învățăm din povestea antreprenorială a Georginei Lupu Florian, fondatoare și co-CEO Wolfpack Digital &#124; Powerful&#8230; Articolul Povestea antreprenorială a Georginei Lupu Florian, fondatoare și co-CEO Wolfpack Digital apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/economie/povestea-antreprenoriala-a-georginei-lupu-florian-fondatoare-si-co-ceo-wolfpack-digital",
-      "published_utc": "2026-03-30T14:29:35+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-aa5f8f2b6a7b025f/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "Volumul 2 din „Jurnalul unui fotbalist de buzunar“ de Alec Blenche, acum în librării. Aventurile celei mai năstrușnice echipe din literatura pentru copii continuă!",
-      "summary": "Jurnalul unui fotbalist de buzunar. Serenade, salate și surprize, al doilea volum din noua serie de cărți pentru copii scrisă de Alec Blenche, este disponibil, din această săptămână, în librăriile din toată&#8230; Articolul Volumul 2 din „Jurnalul unui fotbalist de buzunar“ de Alec Blenche, acum în librării. Aventurile celei mai năstrușnice echipe din literatura pentru copii continuă! apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/carte-despre-romania/volumul-2-din-jurnalul-unui-fotbalist-de-buzunar-de-alec-blenche-acum-in-librarii-aventurile-celei-mai-nastrusnice-echipe-din-literatura-pentru-copii-continua",
-      "published_utc": "2026-03-30T14:01:51+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-587957d95def72dc/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 Grindeanu se plânge că dă de două ori mai mult pe o găleată de c*cat decât acum un an",
-      "summary": "Liderul PSD cere ca politicienii să primească subvenții mai mari, plângându-se că inflația face ravagii în finanțele lor. „Am ajuns să scot de două ori mai mulți bani din buzunar pentru o găleată de c*cat decât în urmă cu un an. Nu se mai poate așa ceva, ne trebuie subvenție, Bolojene!”, i-a transmis Sorin Grindeanu [&#8230;] The post Grindeanu se plânge că dă de două ori mai mult pe o găleată de c*cat decât acum un an appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/politic/grindeanu-se-plange-ca-da-de-doua-ori-mai-mult-pe-o-galeata-de-ccat-decat-acum-un-an",
-      "published_utc": "2026-03-30T09:41:05+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/grindeanu_manjit_gura.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "Timișoara a deschis în weekend Târgul de Paște și a transformat centrul orașului într-o scenă de poveste",
-      "summary": "Timișoara a deschis în weekend Târgul de Paște ediția 2026, într-o atmosferă vibrantă, în care, chiar și în ciuda vremii capricioase, mii de oameni au ieșit în oraș pentru a&#8230; Articolul Timișoara a deschis în weekend Târgul de Paște și a transformat centrul orașului într-o scenă de poveste apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/administratie/timisoara-a-deschis-in-weekend-targul-de-paste-si-a-transformat-centrul-orasului-intr-o-scena-de-poveste",
-      "published_utc": "2026-03-30T12:59:59+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-bc5ed86ee54a2f8d/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Mohammad Murad pleacă din AUR! S-a săturat să-i tot explice lui Dan Tanasă că nu e nepalez",
-      "summary": "Deputatul AUR Mohammad Murad a decis să demisioneze din partid, sătul de invectivele pe care colegul său de partid Dan Tanasă i le adresa de mai multe ori pe zi. „A făcut o adevărată obsesie despre mine, îmi urla de câteva ori pe zi să nu le mai fur românilor locurile de muncă și să [&#8230;] The post Mohammad Murad pleacă din AUR! S-a săturat să-i tot explice lui Dan Tanasă că nu e nepalez appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/politic/mohammad-murad-pleaca-din-aur-s-a-saturat-sa-i-tot-explice-lui-dan-tanasa-ca-nu-e-nepalez",
-      "published_utc": "2026-03-30T13:52:58+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/dantanasa_murad.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Senzațional! Un alchimist român a reușit să transforme parizerul la loc în petrol",
-      "summary": "În timp ce restul românilor se roagă să le cadă benzină din cer, sau măcar să-și uite vreun vecin bușonul deschis și să poată sustrage niște litri din prețiosul lichid, un alchimist amator din Vârteju, Ilfov, a descoperit „piatra filozofală” a economiei românești: reversibilitatea parizerului. Gelu M., fost laborant la o fabrică de mase plastice [&#8230;] The post Senzațional! Un alchimist român a reușit să transforme parizerul la loc în petrol appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/it-stiinta/senzational-un-alchimist-roman-a-reusit-sa-transforme-parizerul-la-loc-in-petrol",
-      "published_utc": "2026-03-30T04:56:00+00:00",
+      "title": "😂 Grindeanu, după trecerea la ora de vară: Bolojan a furat o oră din somnul românilor!",
+      "summary": "Păruiala politică dintre PSD și PNL continuă, iar premierul Bolojan cade din nou victimă șefului social-democraților, Sorin Grindeanu. Acesta l-a acuzat pe premier că a permis trecerea României la ora de vară și deci a furat o oră din somnul românilor, care și-așa erau surmenați din cauza măsurilor de austeritate bugetară luate de guvernul Bolojan. [&#8230;] The post Grindeanu, după trecerea la ora de vară: Bolojan a furat o oră din somnul românilor! appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/life-death/grindeanu-dupa-trecerea-la-ora-de-vara-bolojan-a-furat-o-ora-din-somnul-romanilor",
+      "published_utc": "2026-03-29T05:00:00+00:00",
       "score": 3,
       "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/parizer_petrol_alchimist.jpg"
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2025/09/grindeanupsd.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Primăria București luptă cu grafitti-urile. Va scrie peste ele: ”M*uie cine a scris aici”",
+      "summary": "Primarul general Ciprian Ciucu a declarat război grafitti-urilor din Capitală. După o plimbare prin oraș, primarul s-a declarat dezgustat de halul în care arată zidurile clădirilor, toate acoperite cu mâzgălituri și afișe ilegale. Primăria a decis astfel să înceapă lupta cu grafitti-urile, prima măsură fiind cea de descurajare: angajații PMB vor scrie ”Muie cine a [&#8230;] The post Primăria București luptă cu grafitti-urile. Va scrie peste ele: ”M*uie cine a scris aici” appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/politic/primaria-bucuresti-lupta-cu-grafitti-urile-va-scrie-peste-ele-muie-cine-a-scris-aici",
+      "published_utc": "2026-03-29T09:08:29+00:00",
+      "score": 3,
+      "freshness_boost": 1,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2025/10/ciucu_drumul_taberei.jpg"
     },
     {
       "section": "romania",
@@ -978,8 +930,8 @@
     "source": "data/jokes_ro.txt"
   },
   "satire_ro": {
-    "title": "Doamna cu drona",
-    "link": "https://www.timesnewroman.ro/ovi/doamna-cu-drona/",
+    "title": "Fă-ţi propriul covridog acasă! Luca lansează prezervativul din aluat de covrig",
+    "link": "https://www.timesnewroman.ro/monden/fa-ti-propriul-covridog-acasa-luca-lanseaza-prezervativul-din-aluat-de-covrig/",
     "source": "timesnewroman.ro"
   },
   "top_images": [
@@ -1064,6 +1016,7 @@
       "https://live.staticflickr.com/65535/55160026123_ebe07ce927_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/55164236885_0d7bb3e6b3_b.jpg",
       "https://live.staticflickr.com/65535/55169979408_717b7b4f08_b.jpg",
       "https://live.staticflickr.com/370/31956779473_cef30bff4c_b.jpg",
       "https://live.staticflickr.com/65535/55166175568_1316606e39_b.jpg",
@@ -1080,10 +1033,10 @@
       "https://live.staticflickr.com/65535/10722993045_988f8fdccf_b.jpg",
       "https://live.staticflickr.com/65535/55167813585_56c901108b_b.jpg",
       "https://live.staticflickr.com/4280/35379298396_d816f4326b_b.jpg",
-      "https://live.staticflickr.com/65535/55169529075_c6b3c9a151_b.jpg",
-      "https://live.staticflickr.com/65535/55165663175_ecd202ebea_b.jpg"
+      "https://live.staticflickr.com/65535/55169529075_c6b3c9a151_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55178025602_bcb8d2511b_b.jpg",
       "https://live.staticflickr.com/65535/55177038272_e1697013e3_b.jpg",
       "https://live.staticflickr.com/65535/55177090507_ec7feeac66_b.jpg",
       "https://live.staticflickr.com/65535/55178000821_9ae2150b7f_b.jpg",
@@ -1100,12 +1053,11 @@
       "https://live.staticflickr.com/65535/8617723804_74ed815301_b.jpg",
       "https://live.staticflickr.com/65535/55176368774_6f0ce05e89_b.jpg",
       "https://live.staticflickr.com/65535/55176692740_b075a5b119_b.jpg",
-      "https://live.staticflickr.com/65535/55176279773_a62c397b75_b.jpg",
-      "https://live.staticflickr.com/65535/55176365373_b95573bca6_b.jpg"
+      "https://live.staticflickr.com/65535/55176279773_a62c397b75_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
+      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
