@@ -1,78 +1,42 @@
 {
-  "generated_utc": "2026-04-02T07:58:42+00:00",
+  "generated_utc": "2026-04-02T08:53:46+00:00",
   "sections": {
     "romania": [
       {
         "section": "romania",
         "kind": "ro",
-        "source": "Start-Up Romania",
-        "title": "Doi dintre fondatorii SanoPass investesc în FameLoop | Startup-ul crește vizibilitatea brandurilor în fața AI-ului",
-        "summary": "Andrei Vasile și Mihai Vădan, antreprenorii care au fondat în 2019 platforma SanoPass, achiziționată ulterior de MedLife, anunță investiția în Fameloop AI și lansarea unei noi platforme dezvoltate...",
-        "link": "https://start-up.ro/doi-dintre-fondatorii-sanopass-investesc-in-fameloop-startup-ul-creste-vizibilitatea-brandurilor-in-fata-ai-ului",
-        "published_utc": "2026-04-02T07:39:22+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://start-up.ro/img/articles/3/8/1/38151/cover-38151-src.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Start-Up Romania",
-        "title": "Voxa secures over €4 million in a round led by Catalyst Romania",
-        "summary": "Voxa secures over €4 million in a round led by Catalyst Romania to become the regional leader in digital books in Central and Eastern Europe. This marks the 12th investment for Catalyst Romania...",
-        "link": "https://start-up.ro/voxa-secures-over-eur4-million-in-a-round-led-by-catalyst-romania",
-        "published_utc": "2026-04-02T07:10:18+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://start-up.ro/img/articles/3/8/1/38150/cover-38150-src.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Start-Up Romania",
-        "title": "Voxa primește o investiție de 4 milioane de euro într-o rundă condusă de Catalyst Romania",
-        "summary": "Voxa atrage peste 4 milioane euro într-o rundă condusă de Catalyst Romania, pentru a deveni liderul regional al cărții digitale din Europa Centrală și de Est Aceasta este a 12-a investiție din...",
-        "link": "https://start-up.ro/voxa-primeste-o-investitie-de-4-milioane-de-euro-intr-o-runda-condusa-de-catalyst-romania",
-        "published_utc": "2026-04-02T07:08:14+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://start-up.ro/img/articles/3/8/1/38149/cover-38149-src.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
         "source": "HotNews",
-        "title": "Ciucu explică de ce nu susţine parcarea gratuită pentru maşinile electrice și hibride. „E doar absurd”",
-        "summary": "Primarul general al Capitalei, Ciprian Ciucu, consideră că menţinerea gratuităţii pentru parcarea maşinilor electrice ar aduce „inechitate socială” și spune că bucureștenii fără maşină „subvenționează indirect parcarea lor gratis”. Ciprian Ciucu a propus un proiect de hotărâre pentru anularea, de la 1 mai, a gratuităților în parcările Primăriei Capitalei pentru mașinile electrice și hibride. Proiectul &#8230;",
-        "link": "https://hotnews.ro/ciucu-explica-de-ce-nu-sustine-parcarea-gratuita-pentru-masinile-electrice-si-hibride-e-doar-absurd-2208661",
-        "published_utc": "2026-04-02T06:10:14+00:00",
+        "title": "Competență medicală și tehnologie modernă, pentru tratamente minim invazive și o experiență plăcută la dentist",
+        "summary": "Te confrunți cu probleme stomatologice și ai nevoie de tratamente eficiente cu disconfort minim? Mulțumită progreselor recente din medicina dentară, cum este utilizarea laserului în diferite proceduri, pacienții se pot bucura în prezent de tratamente minim invazive, cu disconfort redus și rezultate durabile. Una dintre clinicile care a implementat cu succes laserul dentar și alte &#8230;",
+        "link": "https://hotnews.ro/competenta-medicala-si-tehnologie-moderna-pentru-tratamente-minim-invazive-si-o-experienta-placuta-la-dentist-2208817",
+        "published_utc": "2026-04-02T08:47:59+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-c193478164432abb/480/320"
+        "image": "https://picsum.photos/seed/vb-26255763f9a7528e/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Start-Up Romania",
+        "title": "Studioul de jocuri Paparuda Studio din Republica Moldova atrage o investiție de peste 197 de mii de euro",
+        "summary": "Sectorul dezvoltării de jocuri din Republica Moldova înregistrează o creștere accelerată, odată cu atragerea unei investiții de peste 4 milioane MDL (197 de mii de euro) de către studioul local...",
+        "link": "https://start-up.ro/studioul-de-jocuri-paparuda-studio-din-republica-moldova-atrage-o-investitie-de-peste-4-milioane-mdl",
+        "published_utc": "2026-04-02T08:23:32+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://start-up.ro/img/articles/3/8/1/38152/cover-38152-src.jpg"
       },
       {
         "section": "romania",
         "kind": "ro",
         "source": "Times New Roman (Satira)",
-        "title": "😂 STB: Linia 40 devine metrou după ce şina a fost montată invers, cu tramvaiul în jos",
-        "summary": "E un scandal monstru zilele acestea pe şantierul liniei de tramvai 40 din Capitală! Surse din cadrul STB au confirmat că aceasta va deveni o nouă magistrală de metrou, deoarece şinele proaspăt instalate în zona Bd. Basarabia au fost montate invers, adică cu partea pe care merge tramvaiul în jos. &#8222;E mai simplu să săpăm [&#8230;] The post STB: Linia 40 devine metrou după ce şina a fost montată invers, cu tramvaiul în jos appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/life-death/stb-linia-40-devine-metrou-dupa-ce-sina-a-fost-montata-invers-cu-tramvaiul-in-jos",
-        "published_utc": "2026-04-02T05:25:52+00:00",
+        "title": "😂 Înapoi în viitor",
+        "summary": "The post Înapoi în viitor appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/ovi/inapoi-in-viitor",
+        "published_utc": "2026-04-02T08:01:08+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/sinainvers.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 Epstein Files „Accidentally” Sent to Moon on Board Artemis II",
-        "summary": "A fresh blunder by the clumsy President Donald Trump is dividing American society! Sources close to the White House have reported that, in a &#8222;regrettable mistake&#8221;, the Epstein files were loaded onto the Artemis II rocket and are currently on their way to the Moon. Moreover, according to the calculations of White House astrophysicists, the [&#8230;] The post Epstein Files &#8222;Accidentally&#8221; Sent to Moon on Board Artemis II appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/politic/epstein-files-accidentally-sent-to-moon-on-board-artemis-ii",
-        "published_utc": "2026-04-02T04:43:52+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/trumpoops.jpg"
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/Inapoi-in-viitor.jpg"
       },
       {
         "section": "romania",
@@ -157,6 +121,18 @@
         "score": 3,
         "freshness_boost": 3,
         "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/blocfarapacanele.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 Să reciți Luceafărul e nimic! Un român știe pe de rost toate trupele care vin la Rockstadt",
+        "summary": "Un român care se lăuda că știe pe de rost tot „Luceafărul” lui Eminescu a fost efectiv umilit de un bărbat cu o abilitate mult superioară: știe pe de rost toate trupele care vin anul ăsta la Rockstadt Extreme Fest. „Să memorezi Luceafărul e relativ simplu, că există totuși un fir epic la care să [&#8230;] The post Să reciți Luceafărul e nimic! Un român știe pe de rost toate trupele care vin la Rockstadt appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/monden/sa-reciti-luceafarul-e-nimic-un-roman-stie-pe-de-rost-toate-trupele-care-vin-la-rockstadt",
+        "published_utc": "2026-04-01T09:56:47+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/barba_poster_rockstadt.jpg"
       },
       {
         "section": "romania",
@@ -566,62 +542,26 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Start-Up Romania",
-      "title": "Doi dintre fondatorii SanoPass investesc în FameLoop | Startup-ul crește vizibilitatea brandurilor în fața AI-ului",
-      "summary": "Andrei Vasile și Mihai Vădan, antreprenorii care au fondat în 2019 platforma SanoPass, achiziționată ulterior de MedLife, anunță investiția în Fameloop AI și lansarea unei noi platforme dezvoltate...",
-      "link": "https://start-up.ro/doi-dintre-fondatorii-sanopass-investesc-in-fameloop-startup-ul-creste-vizibilitatea-brandurilor-in-fata-ai-ului",
-      "published_utc": "2026-04-02T07:39:22+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://start-up.ro/img/articles/3/8/1/38151/cover-38151-src.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Start-Up Romania",
-      "title": "Voxa secures over €4 million in a round led by Catalyst Romania",
-      "summary": "Voxa secures over €4 million in a round led by Catalyst Romania to become the regional leader in digital books in Central and Eastern Europe. This marks the 12th investment for Catalyst Romania...",
-      "link": "https://start-up.ro/voxa-secures-over-eur4-million-in-a-round-led-by-catalyst-romania",
-      "published_utc": "2026-04-02T07:10:18+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://start-up.ro/img/articles/3/8/1/38150/cover-38150-src.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Start-Up Romania",
-      "title": "Voxa primește o investiție de 4 milioane de euro într-o rundă condusă de Catalyst Romania",
-      "summary": "Voxa atrage peste 4 milioane euro într-o rundă condusă de Catalyst Romania, pentru a deveni liderul regional al cărții digitale din Europa Centrală și de Est Aceasta este a 12-a investiție din...",
-      "link": "https://start-up.ro/voxa-primeste-o-investitie-de-4-milioane-de-euro-intr-o-runda-condusa-de-catalyst-romania",
-      "published_utc": "2026-04-02T07:08:14+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://start-up.ro/img/articles/3/8/1/38149/cover-38149-src.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "HotNews",
-      "title": "Ciucu explică de ce nu susţine parcarea gratuită pentru maşinile electrice și hibride. „E doar absurd”",
-      "summary": "Primarul general al Capitalei, Ciprian Ciucu, consideră că menţinerea gratuităţii pentru parcarea maşinilor electrice ar aduce „inechitate socială” și spune că bucureștenii fără maşină „subvenționează indirect parcarea lor gratis”. Ciprian Ciucu a propus un proiect de hotărâre pentru anularea, de la 1 mai, a gratuităților în parcările Primăriei Capitalei pentru mașinile electrice și hibride. Proiectul &#8230;",
-      "link": "https://hotnews.ro/ciucu-explica-de-ce-nu-sustine-parcarea-gratuita-pentru-masinile-electrice-si-hibride-e-doar-absurd-2208661",
-      "published_utc": "2026-04-02T06:10:14+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-c193478164432abb/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 STB: Linia 40 devine metrou după ce şina a fost montată invers, cu tramvaiul în jos",
-      "summary": "E un scandal monstru zilele acestea pe şantierul liniei de tramvai 40 din Capitală! Surse din cadrul STB au confirmat că aceasta va deveni o nouă magistrală de metrou, deoarece şinele proaspăt instalate în zona Bd. Basarabia au fost montate invers, adică cu partea pe care merge tramvaiul în jos. &#8222;E mai simplu să săpăm [&#8230;] The post STB: Linia 40 devine metrou după ce şina a fost montată invers, cu tramvaiul în jos appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/stb-linia-40-devine-metrou-dupa-ce-sina-a-fost-montata-invers-cu-tramvaiul-in-jos",
-      "published_utc": "2026-04-02T05:25:52+00:00",
+      "title": "😂 Înapoi în viitor",
+      "summary": "The post Înapoi în viitor appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/ovi/inapoi-in-viitor",
+      "published_utc": "2026-04-02T08:01:08+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/sinainvers.jpg"
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/Inapoi-in-viitor.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Start-Up Romania",
+      "title": "Studioul de jocuri Paparuda Studio din Republica Moldova atrage o investiție de peste 197 de mii de euro",
+      "summary": "Sectorul dezvoltării de jocuri din Republica Moldova înregistrează o creștere accelerată, odată cu atragerea unei investiții de peste 4 milioane MDL (197 de mii de euro) de către studioul local...",
+      "link": "https://start-up.ro/studioul-de-jocuri-paparuda-studio-din-republica-moldova-atrage-o-investitie-de-peste-4-milioane-mdl",
+      "published_utc": "2026-04-02T08:23:32+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://start-up.ro/img/articles/3/8/1/38152/cover-38152-src.jpg"
     },
     {
       "section": "romania",
@@ -646,18 +586,6 @@
       "score": 3,
       "freshness_boost": 3,
       "image": "https://picsum.photos/seed/vb-d57d7278269b93c5/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Epstein Files „Accidentally” Sent to Moon on Board Artemis II",
-      "summary": "A fresh blunder by the clumsy President Donald Trump is dividing American society! Sources close to the White House have reported that, in a &#8222;regrettable mistake&#8221;, the Epstein files were loaded onto the Artemis II rocket and are currently on their way to the Moon. Moreover, according to the calculations of White House astrophysicists, the [&#8230;] The post Epstein Files &#8222;Accidentally&#8221; Sent to Moon on Board Artemis II appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/politic/epstein-files-accidentally-sent-to-moon-on-board-artemis-ii",
-      "published_utc": "2026-04-02T04:43:52+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/trumpoops.jpg"
     },
     {
       "section": "romania",
@@ -722,6 +650,30 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "HotNews",
+      "title": "Competență medicală și tehnologie modernă, pentru tratamente minim invazive și o experiență plăcută la dentist",
+      "summary": "Te confrunți cu probleme stomatologice și ai nevoie de tratamente eficiente cu disconfort minim? Mulțumită progreselor recente din medicina dentară, cum este utilizarea laserului în diferite proceduri, pacienții se pot bucura în prezent de tratamente minim invazive, cu disconfort redus și rezultate durabile. Una dintre clinicile care a implementat cu succes laserul dentar și alte &#8230;",
+      "link": "https://hotnews.ro/competenta-medicala-si-tehnologie-moderna-pentru-tratamente-minim-invazive-si-o-experienta-placuta-la-dentist-2208817",
+      "published_utc": "2026-04-02T08:47:59+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-26255763f9a7528e/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Să reciți Luceafărul e nimic! Un român știe pe de rost toate trupele care vin la Rockstadt",
+      "summary": "Un român care se lăuda că știe pe de rost tot „Luceafărul” lui Eminescu a fost efectiv umilit de un bărbat cu o abilitate mult superioară: știe pe de rost toate trupele care vin anul ăsta la Rockstadt Extreme Fest. „Să memorezi Luceafărul e relativ simplu, că există totuși un fir epic la care să [&#8230;] The post Să reciți Luceafărul e nimic! Un român știe pe de rost toate trupele care vin la Rockstadt appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/monden/sa-reciti-luceafarul-e-nimic-un-roman-stie-pe-de-rost-toate-trupele-care-vin-la-rockstadt",
+      "published_utc": "2026-04-01T09:56:47+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/barba_poster_rockstadt.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "World Vision Romania",
       "title": "Bullyingul în adolescență: răni invizibile și cum pot fi vindecate",
       "summary": "De ce vorbim despre bullying Bullyingul nu mai este de mult o problemă „minoră” sau o etapă inevitabilă a copilăriei.... Articolul Bullyingul în adolescență: răni invizibile și cum pot fi vindecate apare prima dată în World Vision România .",
@@ -756,18 +708,6 @@
       "image": "https://picsum.photos/seed/vb-a5a22f02f60b7d29/480/320"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Inclusive schools see fewer young people drop out and become 'NEET'",
-      "summary": "More inclusive secondary schools see fewer students dropping out of education and becoming \"not in education, employment or training\" (NEET), according to new research from Leeds academics. Schools that are considered more inclusive because they use fewer suspensions, support lower-achieving pupils to make good progress, and have their own post-16 provision see fewer young people dropping out of education or training after Year 11, the data shows. The study is published in the journal Royal Society Open Science.",
-      "link": "https://phys.org/news/2026-04-inclusive-schools-young-people-neet.html",
-      "published_utc": "2026-04-01T19:50:03+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2018/graduate.jpg"
-    },
-    {
       "section": "romania",
       "kind": "ro",
       "source": "Fundatia Inocenti",
@@ -790,6 +730,18 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-cd91d5c05ed09ce2/480/320"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Inclusive schools see fewer young people drop out and become 'NEET'",
+      "summary": "More inclusive secondary schools see fewer students dropping out of education and becoming \"not in education, employment or training\" (NEET), according to new research from Leeds academics. Schools that are considered more inclusive because they use fewer suspensions, support lower-achieving pupils to make good progress, and have their own post-16 provision see fewer young people dropping out of education or training after Year 11, the data shows. The study is published in the journal Royal Society Open Science.",
+      "link": "https://phys.org/news/2026-04-inclusive-schools-young-people-neet.html",
+      "published_utc": "2026-04-01T19:50:03+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2018/graduate.jpg"
     },
     {
       "section": "science",
@@ -1122,8 +1074,8 @@
     "source": "data/jokes_ro.txt"
   },
   "satire_ro": {
-    "title": "Efectul scumpirilor. Un român face sex non-stop de 9 zile pentru că nu îşi permite ţigara de după",
-    "link": "https://www.timesnewroman.ro/monden/efectul-scumpirilor-un-roman-face-sex-non-stop-de-9-zile-pentru-ca-nu-isi-permite-tigara-de-dupa/",
+    "title": "Înapoi în viitor",
+    "link": "https://www.timesnewroman.ro/ovi/inapoi-in-viitor/",
     "source": "timesnewroman.ro"
   },
   "top_images": [
@@ -1208,6 +1160,7 @@
       "https://live.staticflickr.com/65535/55162895897_3fc2d3450e_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/55167620394_407be31355_b.jpg",
       "https://live.staticflickr.com/2744/32759250362_7dd4df2a8d_b.jpg",
       "https://live.staticflickr.com/65535/55167813585_56c901108b_b.jpg",
       "https://live.staticflickr.com/65535/55171876889_97f0c24984_b.jpg",
@@ -1224,10 +1177,10 @@
       "https://live.staticflickr.com/65535/55165663175_ecd202ebea_b.jpg",
       "https://live.staticflickr.com/65535/55166175568_1316606e39_b.jpg",
       "https://live.staticflickr.com/65535/55171923517_c602f6b923_b.jpg",
-      "https://live.staticflickr.com/65535/55167598104_226d242eaa_b.jpg",
-      "https://live.staticflickr.com/370/31956779473_cef30bff4c_b.jpg"
+      "https://live.staticflickr.com/65535/55167598104_226d242eaa_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55183153773_1702d02a4f_b.jpg",
       "https://live.staticflickr.com/65535/55182482988_4c2bc85985_b.jpg",
       "https://live.staticflickr.com/65535/55181428492_a332aec637_b.jpg",
       "https://live.staticflickr.com/65535/55181428617_1599050bec_b.jpg",
@@ -1244,12 +1197,11 @@
       "https://live.staticflickr.com/65535/55181516239_cd5a7fbf78_b.jpg",
       "https://live.staticflickr.com/8523/8619316310_eaf77ec646_b.jpg",
       "https://live.staticflickr.com/65535/55181435209_20ec94ce23_b.jpg",
-      "https://live.staticflickr.com/65535/8619321994_ce8b6084b4_b.jpg",
-      "https://live.staticflickr.com/65535/55181214588_4d4f99d284_b.jpg"
+      "https://live.staticflickr.com/65535/8619321994_ce8b6084b4_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
+      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
