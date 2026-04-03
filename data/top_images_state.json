@@ -49,7 +49,8 @@
       "https://live.staticflickr.com/65535/55180552053_840f146c4f_b.jpg",
       "https://live.staticflickr.com/65535/55181666212_f19e7bc566_b.jpg",
       "https://live.staticflickr.com/65535/55183215884_7df7054215_b.jpg",
-      "https://live.staticflickr.com/65535/55184510749_7795b0f3a9_b.jpg"
+      "https://live.staticflickr.com/65535/55184510749_7795b0f3a9_b.jpg",
+      "https://live.staticflickr.com/65535/55185146114_9f5e9f6f94_b.jpg"
     ],
     "landscape": [
       "https://upload.wikimedia.org/wikipedia/commons/7/7c/Mount_Rainier_from_above_Myrtle_Falls_in_August.JPG",
@@ -100,7 +101,8 @@
       "https://live.staticflickr.com/65535/55181387691_6e78b7f6ac_b.jpg",
       "https://live.staticflickr.com/65535/55181705796_1ba1a35a02_b.jpg",
       "https://live.staticflickr.com/65535/55183670860_4d8c705df1_b.jpg",
-      "https://live.staticflickr.com/65535/55183349946_9ac90dc18c_b.jpg"
+      "https://live.staticflickr.com/65535/55183349946_9ac90dc18c_b.jpg",
+      "https://live.staticflickr.com/65535/55183943750_d1c38b49ae_b.jpg"
     ],
     "animals": [
       "https://upload.wikimedia.org/wikipedia/commons/4/40/Siberischer_tiger_de_edit02.jpg",
@@ -151,7 +153,8 @@
       "https://live.staticflickr.com/65535/55181796455_1399434dce_b.jpg",
       "https://live.staticflickr.com/65535/55182588809_9303669966_b.jpg",
       "https://live.staticflickr.com/65535/55183589285_f8c6675bf5_b.jpg",
-      "https://live.staticflickr.com/65535/55182772047_c310d64f10_b.jpg"
+      "https://live.staticflickr.com/65535/55182772047_c310d64f10_b.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg"
     ]
   },
   "chosen_by_slot": {
@@ -399,6 +402,11 @@
       "space": "https://live.staticflickr.com/65535/55184510749_7795b0f3a9_b.jpg",
       "landscape": "https://live.staticflickr.com/65535/55183349946_9ac90dc18c_b.jpg",
       "animals": "https://live.staticflickr.com/65535/55182772047_c310d64f10_b.jpg"
+    },
+    "41093": {
+      "space": "https://live.staticflickr.com/65535/55185146114_9f5e9f6f94_b.jpg",
+      "landscape": "https://live.staticflickr.com/65535/55183943750_d1c38b49ae_b.jpg",
+      "animals": "https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg"
     }
   }
 }
