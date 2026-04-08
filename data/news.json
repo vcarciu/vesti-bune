@@ -1,19 +1,7 @@
 {
-  "generated_utc": "2026-04-07T23:29:17+00:00",
+  "generated_utc": "2026-04-08T01:20:09+00:00",
   "sections": {
     "romania": [
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "Marele adversar din fotbalul românesc al lui Mircea Lucescu rostește un adevăr dureros despre echipa națională",
-        "summary": "„Într-o discuție în decembrie cu el, spunea că este decepționat de calitatea acestei generații. Nu se poate face mare performanță cu ea. Ăsta este adevărul despre echipa națională”, a declarat Cornel Dinu, pentru Golazo.ro, după moartea lui Mircea Lucescu. Mircea Lucescu a murit marți seară la Spitalul Universitar de Urgență din București, unde se afla &#8230;",
-        "link": "https://hotnews.ro/cornel-dinu-reactie-moarte-mircea-lucescu-2213665",
-        "published_utc": "2026-04-07T22:40:09+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-9cd3f0337302b573/480/320"
-      },
       {
         "section": "romania",
         "kind": "ro",
@@ -163,134 +151,110 @@
       {
         "section": "medical",
         "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Blood-based biomarker could help stratify cancer risk in Lynch Syndrome",
-        "summary": "Researchers at The University of Texas MD Anderson Cancer Center have discovered a new blood-based biomarker that can help identify and characterize asymptomatic people with Lynch Syndrome (LS) who are more susceptible to developing cancer based on early immune detection signatures, allowing clinicians to stratify patients based on their personal risk level.",
-        "link": "https://medicalxpress.com/news/2026-04-blood-based-biomarker-stratify-cancer.html",
-        "published_utc": "2026-04-07T17:40:03+00:00",
-        "score": 2,
+        "source": "ScienceDaily Health",
+        "title": "Scientists discover reversible male birth control that stops sperm production",
+        "summary": "Scientists at Cornell University may be closing in on the long-sought “holy grail” of male contraception: a safe, reversible, nonhormonal method that completely halts sperm production. In a breakthrough mouse study, researchers used a compound called JQ1 to temporarily shut down meiosis—the critical process that produces sperm—without causing lasting harm. After treatment stopped, sperm production bounced back, fertility returned, and the animals produced healthy offspring.",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260407193844.htm",
+        "published_utc": "2026-04-08T00:52:22+00:00",
+        "score": 6,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/genetic-mutation.jpg"
+        "image": "https://picsum.photos/seed/vb-e6aa1da26a0a754e/480/320"
       },
       {
         "section": "medical",
         "kind": "global",
         "source": "Medical Xpress",
-        "title": "While health care struggled to keep up during COVID-19, community clinics never wavered",
-        "summary": "As the COVID-19 pandemic upended virtually every aspect of people's lives, one critical question loomed large for millions of low-income and underserved health care patients: Would they still be able to see their own doctor? Researchers at Case Western Reserve University and the OCHIN nonprofit consultancy conducted a comprehensive, nationwide study of community-based health centers—the frontline primary care providers serving millions of America's most vulnerable patients. The goal: to assess how consistently patients were able to see their primary care provider before, during, and after the COVID-19 pandemic.",
-        "link": "https://medicalxpress.com/news/2026-04-health-struggled-covid-community-clinics.html",
-        "published_utc": "2026-04-07T17:30:01+00:00",
-        "score": 2,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/covid-19-hospital.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Scientists uncover previously unknown chromatin regulation mechanism with therapeutic potential for pediatric cancer",
-        "summary": "As many as 1 in 4 cancers are driven by mutations in the SWI/SNF chromatin-remodeling complex, which controls access to DNA. A study led by St. Jude Children's Research Hospital recently identified the gene-regulatory protein PHIP as a critical vulnerability in cancers driven by broad SWI/SNF inactivation. The work revealed PHIP as a potential therapeutic target for cancers, including rhabdoid tumors in children, and other hard-to-treat malignancies. The results are published in Nature Communications.",
-        "link": "https://medicalxpress.com/news/2026-04-scientists-uncover-previously-unknown-chromatin.html",
-        "published_utc": "2026-04-07T17:00:04+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-identifies-phip.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "AI-driven tests can turn patient feedback into better vision care",
-        "summary": "In eye clinics and clinical trials, doctors increasingly rely on patients' own reports of how eye disease and treatment affect daily life. Yet these patient questionnaires are often long, repetitive and difficult to use in real-time care, limiting their value in both research and care improvement.",
-        "link": "https://medicalxpress.com/news/2026-04-ai-driven-patient-feedback-vision.html",
-        "published_utc": "2026-04-07T17:00:01+00:00",
+        "title": "HRT patches to treat prostate cancer—here's how it works",
+        "summary": "Women's HRT patches can treat prostate cancer just as effectively as standard hormone injections—but with fewer of the worst side effects—according to a large UK trial published in the New England Journal of Medicine. The finding could change how men with prostate cancer that has spread beyond the gland are treated for years to come.",
+        "link": "https://medicalxpress.com/news/2026-04-hrt-patches-prostate-cancer.html",
+        "published_utc": "2026-04-08T00:30:01+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/seri-duke-nus-spin-off.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/male-patient.jpg"
       },
       {
         "section": "medical",
         "kind": "global",
         "source": "Medical Xpress",
-        "title": "Alzheimer's screening tools may work differently for women and men",
-        "summary": "A Georgia State University study shows standard cognitive screening tools used to monitor Alzheimer's disease may not reflect underlying brain changes in the same way for women and men. According to the Alzheimer's Association, nearly two-thirds of Americans living with Alzheimer's are women. New Georgia State research published in the journal Brain Communications adds to growing evidence that Alzheimer's may progress differently in men and women—and that those differences could matter in clinical care. It also suggests doctors may need to interpret common tests differently for each sex.",
-        "link": "https://medicalxpress.com/news/2026-04-alzheimer-screening-tools-differently-women.html",
-        "published_utc": "2026-04-07T16:50:01+00:00",
+        "title": "Biomarkers could improve depression diagnosis",
+        "summary": "Neuroscientists at the University of New England (UNE) have found three distinctive brain patterns shared by people with childhood maltreatment and depression that could provide the launching pad for a new approach to diagnosis and treatment.",
+        "link": "https://medicalxpress.com/news/2026-04-biomarkers-depression-diagnosis.html",
+        "published_utc": "2026-04-07T23:50:01+00:00",
+        "score": 2,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/biomarkers-could-impro.jpg"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "Medical Xpress",
+        "title": "How your neighborhood could be aging you",
+        "summary": "There's a growing consensus that your ZIP code is a strong predictor of your health and lifespan. Now, researchers at NYU School of Global Public Health have determined that neighborhood conditions may be driving aging at the cellular level. Their study, published in Social Science and Medicine, finds that people living in neighborhoods with fewer social and economic opportunities such as jobs and stable housing are more likely to have an abundance of CDKN2A RNA, a measure of cellular aging.",
+        "link": "https://medicalxpress.com/news/2026-04-neighborhood-aging.html",
+        "published_utc": "2026-04-07T23:40:03+00:00",
+        "score": 2,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/safe-neighborhood.jpg"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "Your vitamin D levels in midlife could shape your brain decades later",
+        "summary": "Vitamin D levels in midlife may play a bigger role in long-term brain health than previously thought. In a study following nearly 800 people over 16 years, those with higher vitamin D levels in their 30s and 40s had lower levels of tau protein later on, a key marker linked to dementia.",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260407073850.htm",
+        "published_utc": "2026-04-07T11:47:09+00:00",
         "score": 1,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-alzheimers-scree.jpg"
+        "image": "https://picsum.photos/seed/vb-421ca274197cb2f2/480/320"
       },
       {
         "section": "medical",
         "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Massive eye drop recall reflects ongoing issues with manufacturing and FDA inspection",
-        "summary": "A California company has recalled more than 3.1 million bottles of lubricating eye drops because it had not properly tested—and thus could not prove—whether the products were sterile. These products are sold under several names at major retailers across the country. The company, K.C. Pharmaceuticals, initiated the recall on March 3, 2026.",
-        "link": "https://medicalxpress.com/news/2026-04-massive-eye-recall-ongoing-issues.html",
-        "published_utc": "2026-04-07T16:40:03+00:00",
+        "source": "ScienceDaily Health",
+        "title": "Scientists just watched Alzheimer’s damage happen in real time",
+        "summary": "Scientists at Oregon State University have captured something researchers have long struggled to see: the real-time chemical interactions that help drive Alzheimer’s disease. By watching how metal ions—especially copper—trigger harmful protein clumping in the brain, the team uncovered a clearer picture of how the disease develops at a molecular level.",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260406192922.htm",
+        "published_utc": "2026-04-07T11:37:31+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/eye-drops.jpg"
+        "image": "https://picsum.photos/seed/vb-f671d5bb6d90f9e2/480/320"
       },
       {
         "section": "medical",
         "kind": "global",
-        "source": "Medical Xpress",
-        "title": "A better way to see how brain cells falter in disease",
-        "summary": "To gain better insight into what's happening in the brain, researchers examine the molecules produced by brain cells, including RNA and proteins. But existing methods for molecular profiling don't always capture the cells' full complexity.",
-        "link": "https://medicalxpress.com/news/2026-04-brain-cells-falter-disease.html",
-        "published_utc": "2026-04-07T16:40:01+00:00",
-        "score": 0,
+        "source": "ScienceDaily Health",
+        "title": "This “master gene” may be driving pancreatic cancer’s spread",
+        "summary": "A gene called KLF5 may be a key force behind the spread of pancreatic cancer—but not in the way scientists expected. Rather than mutating DNA, it rewires how genes are turned on and off, helping tumors grow and invade new areas. Researchers found it plays a major role in metastatic cells and even controls other genes linked to cancer progression. The discovery opens the door to new treatments that target cancer’s epigenetic “control system.”",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260406192919.htm",
+        "published_utc": "2026-04-07T11:19:47+00:00",
+        "score": 7,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-better-way-to-see-ho.jpg"
+        "image": "https://picsum.photos/seed/vb-3eb35557a377947d/480/320"
       },
       {
         "section": "medical",
         "kind": "global",
-        "source": "Medical Xpress",
-        "title": "A woman's 'push‑up hack' is trending on social media. An anatomist explains why it works",
-        "summary": "Push-ups can be a challenge for the best of us. But many women struggle to do them, even after months of training in the gym.",
-        "link": "https://medicalxpress.com/news/2026-04-woman-pushup-hack-trending-social.html",
-        "published_utc": "2026-04-07T16:30:01+00:00",
-        "score": 0,
+        "source": "ScienceDaily Health",
+        "title": "Scientists solve 30-year mystery of a hidden nutrient that protects the brain and fights cancer",
+        "summary": "Scientists have finally uncovered the missing link in how our bodies absorb queuosine, a rare micronutrient crucial for brain health, memory, stress response, and cancer defense. For decades, researchers suspected a transporter had to exist, but it remained elusive—until now. By identifying the gene SLC35F2 as the gateway into cells, this breakthrough opens new possibilities for therapies and highlights how diet and gut microbes profoundly shape human health.",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260407004815.htm",
+        "published_utc": "2026-04-07T10:57:46+00:00",
+        "score": 3,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2020/4-exercise.jpg"
+        "image": "https://picsum.photos/seed/vb-842dd0a7e0bc0711/480/320"
       },
       {
         "section": "medical",
         "kind": "global",
-        "source": "Medical Xpress",
-        "title": "AI tool can predict Barrett's esophagus recurrence after therapy with 90% accuracy",
-        "summary": "A new artificial intelligence (AI)-based tool shows promise for improving surveillance in patients treated with endoscopic eradication therapies for Barrett's esophagus (BE)-related dysplasia and early esophageal adenocarcinoma. BE is the only known condition that precedes esophageal adenocarcinoma—an aggressive cancer with high mortality rates.",
-        "link": "https://medicalxpress.com/news/2026-04-ai-tool-barrett-esophagus-recurrence.html",
-        "published_utc": "2026-04-07T16:20:07+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-develop-ai.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Cutting emissions is not the only way to save lives from air pollution",
-        "summary": "A major new global modeling study led by researchers at Stockholm Environment Institute (SEI) at the University of York challenges the international focus on air pollution. Published in The Lancet Planetary Health, the study finds that reducing population vulnerability is as important as cutting emissions for saving lives.",
-        "link": "https://medicalxpress.com/news/2026-04-emissions-air-pollution.html",
-        "published_utc": "2026-04-07T16:20:01+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-research-reveals-t-3.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Study finds rising rates of electric scooter injuries, with racial and ethnic disparities among those harmed",
-        "summary": "As electric scooters (e-scooters) become more available in cities and urban areas, injuries are becoming more common—especially among teenage boys. This is among the findings from a new study using a national database of e-scooter injuries, which also found racial and ethnic disparities among those injured.",
-        "link": "https://medicalxpress.com/news/2026-04-electric-scooter-injuries-racial-ethnic.html",
-        "published_utc": "2026-04-07T16:10:02+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/escooter.jpg"
+        "source": "ScienceDaily Health",
+        "title": "New microwave frying technique could make french fries much healthier",
+        "summary": "Scientists have discovered a way to make French fries less greasy without ruining their taste. By combining regular frying with microwave heating, they reduce the amount of oil absorbed during cooking. The key lies in pressure inside the food—microwaves help push oil out instead of letting it seep in. The result: faster cooking, lower fat, and fries that can still stay crispy.",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260402042803.htm",
+        "published_utc": "2026-04-02T23:15:35+00:00",
+        "score": 2,
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-975c519fff17c094/480/320"
       }
     ],
     "science": [
@@ -506,14 +470,14 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "HotNews",
-      "title": "Marele adversar din fotbalul românesc al lui Mircea Lucescu rostește un adevăr dureros despre echipa națională",
-      "summary": "„Într-o discuție în decembrie cu el, spunea că este decepționat de calitatea acestei generații. Nu se poate face mare performanță cu ea. Ăsta este adevărul despre echipa națională”, a declarat Cornel Dinu, pentru Golazo.ro, după moartea lui Mircea Lucescu. Mircea Lucescu a murit marți seară la Spitalul Universitar de Urgență din București, unde se afla &#8230;",
-      "link": "https://hotnews.ro/cornel-dinu-reactie-moarte-mircea-lucescu-2213665",
-      "published_utc": "2026-04-07T22:40:09+00:00",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Precizare NASA: „Așa-zisul borcan cu Nutella de pe Artemis II nu era cu Nutella”",
+      "summary": "După ce imagini virale cu un borcan de Nutella plutind în interiorul capsulei din misiunea Artemis II au luat azi cu asalt internetul, NASA a simțit nevoia să intervină și să tempereze entuziasmul general. „Așa-zisul borcan cu Nutella de pe Artemis II nu era cu Nutella”, a precizat purtătorul de cuvânt al agenției spațiale americane. [&#8230;] The post Precizare NASA: „Așa-zisul borcan cu Nutella de pe Artemis II nu era cu Nutella” appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/it-stiinta/precizare-nasa-asa-zisul-borcan-cu-nutella-de-pe-artemis-ii-nu-era-cu-nutella",
+      "published_utc": "2026-04-07T14:50:44+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-9cd3f0337302b573/480/320"
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/borcan_nutella_artemis_II.jpg"
     },
     {
       "section": "romania",
@@ -550,18 +514,6 @@
       "score": 3,
       "freshness_boost": 3,
       "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/balutanegoita.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Precizare NASA: „Așa-zisul borcan cu Nutella de pe Artemis II nu era cu Nutella”",
-      "summary": "După ce imagini virale cu un borcan de Nutella plutind în interiorul capsulei din misiunea Artemis II au luat azi cu asalt internetul, NASA a simțit nevoia să intervină și să tempereze entuziasmul general. „Așa-zisul borcan cu Nutella de pe Artemis II nu era cu Nutella”, a precizat purtătorul de cuvânt al agenției spațiale americane. [&#8230;] The post Precizare NASA: „Așa-zisul borcan cu Nutella de pe Artemis II nu era cu Nutella” appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/it-stiinta/precizare-nasa-asa-zisul-borcan-cu-nutella-de-pe-artemis-ii-nu-era-cu-nutella",
-      "published_utc": "2026-04-07T14:50:44+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/borcan_nutella_artemis_II.jpg"
     },
     {
       "section": "romania",
@@ -658,6 +610,54 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-cd91d5c05ed09ce2/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "Scientists discover reversible male birth control that stops sperm production",
+      "summary": "Scientists at Cornell University may be closing in on the long-sought “holy grail” of male contraception: a safe, reversible, nonhormonal method that completely halts sperm production. In a breakthrough mouse study, researchers used a compound called JQ1 to temporarily shut down meiosis—the critical process that produces sperm—without causing lasting harm. After treatment stopped, sperm production bounced back, fertility returned, and the animals produced healthy offspring.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260407193844.htm",
+      "published_utc": "2026-04-08T00:52:22+00:00",
+      "score": 6,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-e6aa1da26a0a754e/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "HRT patches to treat prostate cancer—here's how it works",
+      "summary": "Women's HRT patches can treat prostate cancer just as effectively as standard hormone injections—but with fewer of the worst side effects—according to a large UK trial published in the New England Journal of Medicine. The finding could change how men with prostate cancer that has spread beyond the gland are treated for years to come.",
+      "link": "https://medicalxpress.com/news/2026-04-hrt-patches-prostate-cancer.html",
+      "published_utc": "2026-04-08T00:30:01+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/male-patient.jpg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "Biomarkers could improve depression diagnosis",
+      "summary": "Neuroscientists at the University of New England (UNE) have found three distinctive brain patterns shared by people with childhood maltreatment and depression that could provide the launching pad for a new approach to diagnosis and treatment.",
+      "link": "https://medicalxpress.com/news/2026-04-biomarkers-depression-diagnosis.html",
+      "published_utc": "2026-04-07T23:50:01+00:00",
+      "score": 2,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/biomarkers-could-impro.jpg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "How your neighborhood could be aging you",
+      "summary": "There's a growing consensus that your ZIP code is a strong predictor of your health and lifespan. Now, researchers at NYU School of Global Public Health have determined that neighborhood conditions may be driving aging at the cellular level. Their study, published in Social Science and Medicine, finds that people living in neighborhoods with fewer social and economic opportunities such as jobs and stable housing are more likely to have an abundance of CDKN2A RNA, a measure of cellular aging.",
+      "link": "https://medicalxpress.com/news/2026-04-neighborhood-aging.html",
+      "published_utc": "2026-04-07T23:40:03+00:00",
+      "score": 2,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/safe-neighborhood.jpg"
     },
     {
       "section": "science",
@@ -770,134 +770,62 @@
     {
       "section": "medical",
       "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Blood-based biomarker could help stratify cancer risk in Lynch Syndrome",
-      "summary": "Researchers at The University of Texas MD Anderson Cancer Center have discovered a new blood-based biomarker that can help identify and characterize asymptomatic people with Lynch Syndrome (LS) who are more susceptible to developing cancer based on early immune detection signatures, allowing clinicians to stratify patients based on their personal risk level.",
-      "link": "https://medicalxpress.com/news/2026-04-blood-based-biomarker-stratify-cancer.html",
-      "published_utc": "2026-04-07T17:40:03+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/genetic-mutation.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "While health care struggled to keep up during COVID-19, community clinics never wavered",
-      "summary": "As the COVID-19 pandemic upended virtually every aspect of people's lives, one critical question loomed large for millions of low-income and underserved health care patients: Would they still be able to see their own doctor? Researchers at Case Western Reserve University and the OCHIN nonprofit consultancy conducted a comprehensive, nationwide study of community-based health centers—the frontline primary care providers serving millions of America's most vulnerable patients. The goal: to assess how consistently patients were able to see their primary care provider before, during, and after the COVID-19 pandemic.",
-      "link": "https://medicalxpress.com/news/2026-04-health-struggled-covid-community-clinics.html",
-      "published_utc": "2026-04-07T17:30:01+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/covid-19-hospital.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Scientists uncover previously unknown chromatin regulation mechanism with therapeutic potential for pediatric cancer",
-      "summary": "As many as 1 in 4 cancers are driven by mutations in the SWI/SNF chromatin-remodeling complex, which controls access to DNA. A study led by St. Jude Children's Research Hospital recently identified the gene-regulatory protein PHIP as a critical vulnerability in cancers driven by broad SWI/SNF inactivation. The work revealed PHIP as a potential therapeutic target for cancers, including rhabdoid tumors in children, and other hard-to-treat malignancies. The results are published in Nature Communications.",
-      "link": "https://medicalxpress.com/news/2026-04-scientists-uncover-previously-unknown-chromatin.html",
-      "published_utc": "2026-04-07T17:00:04+00:00",
+      "source": "ScienceDaily Health",
+      "title": "Your vitamin D levels in midlife could shape your brain decades later",
+      "summary": "Vitamin D levels in midlife may play a bigger role in long-term brain health than previously thought. In a study following nearly 800 people over 16 years, those with higher vitamin D levels in their 30s and 40s had lower levels of tau protein later on, a key marker linked to dementia.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260407073850.htm",
+      "published_utc": "2026-04-07T11:47:09+00:00",
       "score": 1,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-identifies-phip.jpg"
+      "image": "https://picsum.photos/seed/vb-421ca274197cb2f2/480/320"
     },
     {
       "section": "medical",
       "kind": "global",
-      "source": "Medical Xpress",
-      "title": "AI-driven tests can turn patient feedback into better vision care",
-      "summary": "In eye clinics and clinical trials, doctors increasingly rely on patients' own reports of how eye disease and treatment affect daily life. Yet these patient questionnaires are often long, repetitive and difficult to use in real-time care, limiting their value in both research and care improvement.",
-      "link": "https://medicalxpress.com/news/2026-04-ai-driven-patient-feedback-vision.html",
-      "published_utc": "2026-04-07T17:00:01+00:00",
+      "source": "ScienceDaily Health",
+      "title": "Scientists just watched Alzheimer’s damage happen in real time",
+      "summary": "Scientists at Oregon State University have captured something researchers have long struggled to see: the real-time chemical interactions that help drive Alzheimer’s disease. By watching how metal ions—especially copper—trigger harmful protein clumping in the brain, the team uncovered a clearer picture of how the disease develops at a molecular level.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260406192922.htm",
+      "published_utc": "2026-04-07T11:37:31+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-f671d5bb6d90f9e2/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "This “master gene” may be driving pancreatic cancer’s spread",
+      "summary": "A gene called KLF5 may be a key force behind the spread of pancreatic cancer—but not in the way scientists expected. Rather than mutating DNA, it rewires how genes are turned on and off, helping tumors grow and invade new areas. Researchers found it plays a major role in metastatic cells and even controls other genes linked to cancer progression. The discovery opens the door to new treatments that target cancer’s epigenetic “control system.”",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260406192919.htm",
+      "published_utc": "2026-04-07T11:19:47+00:00",
+      "score": 7,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-3eb35557a377947d/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "Scientists solve 30-year mystery of a hidden nutrient that protects the brain and fights cancer",
+      "summary": "Scientists have finally uncovered the missing link in how our bodies absorb queuosine, a rare micronutrient crucial for brain health, memory, stress response, and cancer defense. For decades, researchers suspected a transporter had to exist, but it remained elusive—until now. By identifying the gene SLC35F2 as the gateway into cells, this breakthrough opens new possibilities for therapies and highlights how diet and gut microbes profoundly shape human health.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260407004815.htm",
+      "published_utc": "2026-04-07T10:57:46+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/seri-duke-nus-spin-off.jpg"
+      "image": "https://picsum.photos/seed/vb-842dd0a7e0bc0711/480/320"
     },
     {
       "section": "medical",
       "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Alzheimer's screening tools may work differently for women and men",
-      "summary": "A Georgia State University study shows standard cognitive screening tools used to monitor Alzheimer's disease may not reflect underlying brain changes in the same way for women and men. According to the Alzheimer's Association, nearly two-thirds of Americans living with Alzheimer's are women. New Georgia State research published in the journal Brain Communications adds to growing evidence that Alzheimer's may progress differently in men and women—and that those differences could matter in clinical care. It also suggests doctors may need to interpret common tests differently for each sex.",
-      "link": "https://medicalxpress.com/news/2026-04-alzheimer-screening-tools-differently-women.html",
-      "published_utc": "2026-04-07T16:50:01+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-alzheimers-scree.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Massive eye drop recall reflects ongoing issues with manufacturing and FDA inspection",
-      "summary": "A California company has recalled more than 3.1 million bottles of lubricating eye drops because it had not properly tested—and thus could not prove—whether the products were sterile. These products are sold under several names at major retailers across the country. The company, K.C. Pharmaceuticals, initiated the recall on March 3, 2026.",
-      "link": "https://medicalxpress.com/news/2026-04-massive-eye-recall-ongoing-issues.html",
-      "published_utc": "2026-04-07T16:40:03+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/eye-drops.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "A better way to see how brain cells falter in disease",
-      "summary": "To gain better insight into what's happening in the brain, researchers examine the molecules produced by brain cells, including RNA and proteins. But existing methods for molecular profiling don't always capture the cells' full complexity.",
-      "link": "https://medicalxpress.com/news/2026-04-brain-cells-falter-disease.html",
-      "published_utc": "2026-04-07T16:40:01+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-better-way-to-see-ho.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "A woman's 'push‑up hack' is trending on social media. An anatomist explains why it works",
-      "summary": "Push-ups can be a challenge for the best of us. But many women struggle to do them, even after months of training in the gym.",
-      "link": "https://medicalxpress.com/news/2026-04-woman-pushup-hack-trending-social.html",
-      "published_utc": "2026-04-07T16:30:01+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2020/4-exercise.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "AI tool can predict Barrett's esophagus recurrence after therapy with 90% accuracy",
-      "summary": "A new artificial intelligence (AI)-based tool shows promise for improving surveillance in patients treated with endoscopic eradication therapies for Barrett's esophagus (BE)-related dysplasia and early esophageal adenocarcinoma. BE is the only known condition that precedes esophageal adenocarcinoma—an aggressive cancer with high mortality rates.",
-      "link": "https://medicalxpress.com/news/2026-04-ai-tool-barrett-esophagus-recurrence.html",
-      "published_utc": "2026-04-07T16:20:07+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-develop-ai.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Cutting emissions is not the only way to save lives from air pollution",
-      "summary": "A major new global modeling study led by researchers at Stockholm Environment Institute (SEI) at the University of York challenges the international focus on air pollution. Published in The Lancet Planetary Health, the study finds that reducing population vulnerability is as important as cutting emissions for saving lives.",
-      "link": "https://medicalxpress.com/news/2026-04-emissions-air-pollution.html",
-      "published_utc": "2026-04-07T16:20:01+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-research-reveals-t-3.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Study finds rising rates of electric scooter injuries, with racial and ethnic disparities among those harmed",
-      "summary": "As electric scooters (e-scooters) become more available in cities and urban areas, injuries are becoming more common—especially among teenage boys. This is among the findings from a new study using a national database of e-scooter injuries, which also found racial and ethnic disparities among those injured.",
-      "link": "https://medicalxpress.com/news/2026-04-electric-scooter-injuries-racial-ethnic.html",
-      "published_utc": "2026-04-07T16:10:02+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/escooter.jpg"
+      "source": "ScienceDaily Health",
+      "title": "New microwave frying technique could make french fries much healthier",
+      "summary": "Scientists have discovered a way to make French fries less greasy without ruining their taste. By combining regular frying with microwave heating, they reduce the amount of oil absorbed during cooking. The key lies in pressure inside the food—microwaves help push oil out instead of letting it seep in. The result: faster cooking, lower fat, and fries that can still stay crispy.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260402042803.htm",
+      "published_utc": "2026-04-02T23:15:35+00:00",
+      "score": 2,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-975c519fff17c094/480/320"
     },
     {
       "section": "environment",
@@ -997,8 +925,8 @@
     }
   ],
   "joke_ro": {
-    "date_utc": "2026-04-07",
-    "text": "Mi-am facut lista de treburi. Acum am doua: lista si vinovatia.",
+    "date_utc": "2026-04-08",
+    "text": "Mi-am facut curaj. L-am lasat pe canapea si am plecat fara el.",
     "source": "data/jokes_ro.txt"
   },
   "satire_ro": {
@@ -1011,23 +939,24 @@
       "tag": "space",
       "title": "Space",
       "link": "https://commons.wikimedia.org/wiki/Category:Astronomy",
-      "image": "https://live.staticflickr.com/65535/55191830026_4c52c02a25_b.jpg"
+      "image": "https://live.staticflickr.com/65535/55193943176_a3902c01c5_b.jpg"
     },
     {
       "tag": "animals",
       "title": "Animals",
       "link": "https://commons.wikimedia.org/wiki/Category:Animals",
-      "image": "https://live.staticflickr.com/65535/55192785848_4b4f10be7f_b.jpg"
+      "image": "https://live.staticflickr.com/65535/55193437346_eacd6fb70e_b.jpg"
     },
     {
       "tag": "landscape",
       "title": "Landscape",
       "link": "https://commons.wikimedia.org/wiki/Category:Landscapes",
-      "image": "https://live.staticflickr.com/65535/55191338819_e0e844e025_b.jpg"
+      "image": "https://live.staticflickr.com/65535/55192444878_554c4a2c30_b.jpg"
     }
   ],
   "top_image_history": {
     "space": [
+      "https://live.staticflickr.com/65535/55193943176_a3902c01c5_b.jpg",
       "https://live.staticflickr.com/65535/55191830026_4c52c02a25_b.jpg",
       "https://live.staticflickr.com/65535/55192419980_c2187e2ff1_b.jpg",
       "https://live.staticflickr.com/65535/55190569931_032591538f_b.jpg",
@@ -1044,10 +973,10 @@
       "https://live.staticflickr.com/65535/55180615538_70fecb43be_b.jpg",
       "https://live.staticflickr.com/65535/55178707386_b4a476488e_b.jpg",
       "https://live.staticflickr.com/65535/55178849330_444db02e85_b.jpg",
-      "https://live.staticflickr.com/65535/55176919944_45bd079a88_b.jpg",
-      "https://live.staticflickr.com/65535/55176138290_1206bc7af1_b.jpg"
+      "https://live.staticflickr.com/65535/55176919944_45bd079a88_b.jpg"
     ],
     "animals": [
+      "https://live.staticflickr.com/65535/55193437346_eacd6fb70e_b.jpg",
       "https://live.staticflickr.com/65535/55192785848_4b4f10be7f_b.jpg",
       "https://live.staticflickr.com/65535/55191307741_964570cf47_b.jpg",
       "https://live.staticflickr.com/65535/55191075794_2cb1bb7bff_b.jpg",
@@ -1064,10 +993,10 @@
       "https://live.staticflickr.com/65535/55179948740_54a4e8cff0_b.jpg",
       "https://live.staticflickr.com/65535/55179399518_66f70ba2f3_b.jpg",
       "https://live.staticflickr.com/65535/55176569127_0592f269b4_b.jpg",
-      "https://live.staticflickr.com/65535/55177070849_f026fc549b_b.jpg",
-      "https://live.staticflickr.com/65535/55174652942_d9a1568cef_b.jpg"
+      "https://live.staticflickr.com/65535/55177070849_f026fc549b_b.jpg"
     ],
     "landscape": [
+      "https://live.staticflickr.com/65535/55192444878_554c4a2c30_b.jpg",
       "https://live.staticflickr.com/65535/55191338819_e0e844e025_b.jpg",
       "https://live.staticflickr.com/65535/55190320117_2a85e85cc4_b.jpg",
       "https://live.staticflickr.com/65535/55189904647_c34d383952_b.jpg",
@@ -1084,10 +1013,10 @@
       "https://live.staticflickr.com/65535/55178029629_e2021571f4_b.jpg",
       "https://live.staticflickr.com/65535/55177157478_4c66ae0c47_b.jpg",
       "https://live.staticflickr.com/65535/55177161525_d92213730c_b.jpg",
-      "https://live.staticflickr.com/65535/55176069691_daebf8a795_b.jpg",
-      "https://live.staticflickr.com/65535/55175163012_63256e03ea_b.jpg"
+      "https://live.staticflickr.com/65535/55176069691_daebf8a795_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/55187408291_94ca33fc17_b.jpg",
       "https://live.staticflickr.com/65535/55180881946_a7940726e6_b.jpg",
       "https://live.staticflickr.com/3711/10888595676_a4193a7cd2_b.jpg",
       "https://live.staticflickr.com/65535/55168759572_210fd8db42_b.jpg",
@@ -1104,13 +1033,12 @@
       "https://live.staticflickr.com/65535/55171923517_c602f6b923_b.jpg",
       "https://live.staticflickr.com/65535/55179243544_d5a043cd36_b.jpg",
       "https://live.staticflickr.com/3682/11155280503_ceea99432d_b.jpg",
-      "https://live.staticflickr.com/65535/55177161049_c049b1a12c_b.jpg",
-      "https://live.staticflickr.com/65535/55182475840_c90411bef3_b.jpg"
+      "https://live.staticflickr.com/65535/55177161049_c049b1a12c_b.jpg"
     ],
     "cities": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/3f/NYC_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg",
       "https://live.staticflickr.com/65535/55194298210_db209a206e_b.jpg",
       "https://live.staticflickr.com/65535/55194062844_e613fc9e17_b.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/3/3f/NYC_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg",
       "https://live.staticflickr.com/65535/55192992618_acc4326a47_b.jpg",
       "https://live.staticflickr.com/65535/55193154623_61a8da9bd1_b.jpg",
       "https://live.staticflickr.com/65535/55191820708_1b3e47b4a2_b.jpg",
@@ -1128,8 +1056,8 @@
       "https://live.staticflickr.com/65535/55189848925_3b914c86e4_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
+      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
