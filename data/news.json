@@ -1,7 +1,19 @@
 {
-  "generated_utc": "2026-04-11T14:29:09+00:00",
+  "generated_utc": "2026-04-11T15:24:05+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Record de viteză în România la circulația cu trenul, pe ruta Sighișoara-Simeria",
+        "summary": "Nou record de viteză la circulația cu trenul în România, pe ruta Sighișoara-Simeria: 125 km/h în medie cu trei opriri. O ramă electrică scoate 81 de minute între Simeria și Sighișoara, fiind cu 38% mai rapidă comparativ cu trenurile din 1995. Mai multe detalii pe Profit.ro.",
+        "link": "https://hotnews.ro/record-de-viteza-in-romania-la-circulatia-cu-trenul-pe-ruta-sighisoara-simeria-2216657",
+        "published_utc": "2026-04-11T14:23:58+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-868b24ce43fa134e/480/320"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -47,7 +59,7 @@
         "link": "https://www.romaniapozitiva.ro/banat-crisana/calificare-spectaculoasa-in-finala-mondiala-dance-world-cup-2026-timisoara-scrie-istorie-in-dans",
         "published_utc": "2026-04-10T14:43:18+00:00",
         "score": 3,
-        "freshness_boost": 3,
+        "freshness_boost": 1,
         "image": "https://picsum.photos/seed/vb-1237e28ac9357c2c/480/320"
       },
       {
@@ -78,13 +90,13 @@
         "section": "romania",
         "kind": "ro",
         "source": "Times New Roman (Satira)",
-        "title": "😂 Mai nebună decât Trump! O mătușă se laudă că ea face cozonacul cel mai bun",
-        "summary": "O mătușă vizitată cu ocazia Paștelui a demonstrat simptome de schizofrenie mai severe decât ale lui Donald Trump. Aceasta a pretins constant pe parcursul vizitei că ea însăși face cei mai buni cozonaci din lume și că vecinele ei abia sunt în stare să facă un chec. Ea susține că are rețeta de la mama [&#8230;] The post Mai nebună decât Trump! O mătușă se laudă că ea face cozonacul cel mai bun appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/life-death/mai-nebuna-decat-trump-o-matusa-se-lauda-ca-ea-face-cozonacul-cel-mai-bun",
-        "published_utc": "2026-04-10T08:49:00+00:00",
+        "title": "😂 Nicușor Dan era ”fantoma în alb” care dirija jandarmii să bată protestatarii pe 10 august",
+        "summary": "După numirea procurorilor-cheie ai României, care demonstrează încă o dată că Nicușor Dan este doar o slugă obedientă a PSD-ului și o marionetă mai lipsită de inteligență și mai incapabilă decât putoarea supremă Klaus Iohannis, apar indicii că președintele României ar fi cel care a orchestrat reprimarea violentă a protestelor de la 10 August. Nicușor [&#8230;] The post Nicușor Dan era ”fantoma în alb” care dirija jandarmii să bată protestatarii pe 10 august appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/politic/nicusor-dan-era-fantoma-in-alb-care-dirija-jandarmii-sa-bata-protestatarii-pe-10-august",
+        "published_utc": "2026-04-10T09:08:06+00:00",
         "score": 3,
         "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/matusa_nebuna.jpg"
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/antoma_10_august.jpg"
       },
       {
         "section": "romania",
@@ -494,6 +506,30 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "HotNews",
+      "title": "Record de viteză în România la circulația cu trenul, pe ruta Sighișoara-Simeria",
+      "summary": "Nou record de viteză la circulația cu trenul în România, pe ruta Sighișoara-Simeria: 125 km/h în medie cu trei opriri. O ramă electrică scoate 81 de minute între Simeria și Sighișoara, fiind cu 38% mai rapidă comparativ cu trenurile din 1995. Mai multe detalii pe Profit.ro.",
+      "link": "https://hotnews.ro/record-de-viteza-in-romania-la-circulatia-cu-trenul-pe-ruta-sighisoara-simeria-2216657",
+      "published_utc": "2026-04-11T14:23:58+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-868b24ce43fa134e/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Președinte-menajeră! Nicușor Dan face curățenie de Paști la toți pesediștii acasă",
+      "summary": "Pe președinte îl așteaptă niște zile pline de activitate. Imediat după conferința de presă de aseară, în care a acceptat toate numirile dorite de PSD în fruntea justiției, Nicușor Dan și-a pus costumul de menajeră, a luat mopul, găleata și pămătuful pentru praf și a țâșnit spre vila lui Sorin Grindeanu. „Am înțeles perfect mesajul [&#8230;] The post Președinte-menajeră! Nicușor Dan face curățenie de Paști la toți pesediștii acasă appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/politic/presedinte-menajera-nicusor-dan-face-curatenie-de-pasti-la-toti-pesedistii-acasa",
+      "published_utc": "2026-04-09T12:02:42+00:00",
+      "score": 3,
+      "freshness_boost": 1,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/nicusor_menajera.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "COCON Expoziția de fluturi vii de la Muzeul Antipa",
       "summary": "Muzeul Național de Istorie Naturală „Grigore Antipa” redeschide, în perioada aprilie &#8211; iunie, expoziția de fluturi exotici vii, una dintre experiențele sale cele mai iubite de public. „COCON” are loc în interiorul muzeului și&#8230; Articolul COCON Expoziția de fluturi vii de la Muzeul Antipa apare prima dată în Romania Pozitiva .",
@@ -530,37 +566,13 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Președinte-menajeră! Nicușor Dan face curățenie de Paști la toți pesediștii acasă",
-      "summary": "Pe președinte îl așteaptă niște zile pline de activitate. Imediat după conferința de presă de aseară, în care a acceptat toate numirile dorite de PSD în fruntea justiției, Nicușor Dan și-a pus costumul de menajeră, a luat mopul, găleata și pămătuful pentru praf și a țâșnit spre vila lui Sorin Grindeanu. „Am înțeles perfect mesajul [&#8230;] The post Președinte-menajeră! Nicușor Dan face curățenie de Paști la toți pesediștii acasă appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/politic/presedinte-menajera-nicusor-dan-face-curatenie-de-pasti-la-toti-pesedistii-acasa",
-      "published_utc": "2026-04-09T12:02:42+00:00",
-      "score": 3,
-      "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/nicusor_menajera.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Mai nebună decât Trump! O mătușă se laudă că ea face cozonacul cel mai bun",
-      "summary": "O mătușă vizitată cu ocazia Paștelui a demonstrat simptome de schizofrenie mai severe decât ale lui Donald Trump. Aceasta a pretins constant pe parcursul vizitei că ea însăși face cei mai buni cozonaci din lume și că vecinele ei abia sunt în stare să facă un chec. Ea susține că are rețeta de la mama [&#8230;] The post Mai nebună decât Trump! O mătușă se laudă că ea face cozonacul cel mai bun appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/mai-nebuna-decat-trump-o-matusa-se-lauda-ca-ea-face-cozonacul-cel-mai-bun",
-      "published_utc": "2026-04-10T08:49:00+00:00",
-      "score": 3,
-      "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/matusa_nebuna.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "Calificare spectaculoasă în finala mondială Dance World Cup 2026. Timișoara scrie istorie în dans",
       "summary": "Timișoara, 10 aprilie 2026 &#8211; Timișoara urcă pe scena lumii: o performanță care redefinește excelența în dans. Astfel, un moment istoric pentru dansul românesc se conturează în orașul de pe&#8230; Articolul Calificare spectaculoasă în finala mondială Dance World Cup 2026. Timișoara scrie istorie în dans apare prima dată în Romania Pozitiva .",
       "link": "https://www.romaniapozitiva.ro/banat-crisana/calificare-spectaculoasa-in-finala-mondiala-dance-world-cup-2026-timisoara-scrie-istorie-in-dans",
       "published_utc": "2026-04-10T14:43:18+00:00",
       "score": 3,
-      "freshness_boost": 3,
+      "freshness_boost": 1,
       "image": "https://picsum.photos/seed/vb-1237e28ac9357c2c/480/320"
     },
     {
@@ -598,6 +610,18 @@
       "score": 3,
       "freshness_boost": 1,
       "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/ouametal.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Nicușor Dan era ”fantoma în alb” care dirija jandarmii să bată protestatarii pe 10 august",
+      "summary": "După numirea procurorilor-cheie ai României, care demonstrează încă o dată că Nicușor Dan este doar o slugă obedientă a PSD-ului și o marionetă mai lipsită de inteligență și mai incapabilă decât putoarea supremă Klaus Iohannis, apar indicii că președintele României ar fi cel care a orchestrat reprimarea violentă a protestelor de la 10 August. Nicușor [&#8230;] The post Nicușor Dan era ”fantoma în alb” care dirija jandarmii să bată protestatarii pe 10 august appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/politic/nicusor-dan-era-fantoma-in-alb-care-dirija-jandarmii-sa-bata-protestatarii-pe-10-august",
+      "published_utc": "2026-04-10T09:08:06+00:00",
+      "score": 3,
+      "freshness_boost": 1,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/antoma_10_august.jpg"
     },
     {
       "section": "romania",
@@ -672,18 +696,6 @@
       "image": "https://picsum.photos/seed/vb-ed87bce9b35837eb/480/320"
     },
     {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Fundatia Regala Margareta",
-      "title": "Identități 2026: debutul artistic al noii generații de bursieri ai programului Tinere Talente",
-      "summary": "36 de tineri artiști vizuali și muzicieni, susținuți de către Fundația Regală Margareta a României, se prezintă publicului pe 2 martie, la Elite Art Gallery, București Fundația Regală Margareta a României anunță Identități, evenimentul care marchează debutul public al generației 2026 a programului național... Post-ul Identități 2026: debutul artistic al noii generații de bursieri ai programului Tinere Talente apare prima dată în Fundația Regală Margareta a României .",
-      "link": "https://www.frmr.ro/37214",
-      "published_utc": "2026-02-26T11:37:41+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-cd91d5c05ed09ce2/480/320"
-    },
-    {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
@@ -694,6 +706,18 @@
       "score": 1,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/toddler-running.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Fundatia Regala Margareta",
+      "title": "Identități 2026: debutul artistic al noii generații de bursieri ai programului Tinere Talente",
+      "summary": "36 de tineri artiști vizuali și muzicieni, susținuți de către Fundația Regală Margareta a României, se prezintă publicului pe 2 martie, la Elite Art Gallery, București Fundația Regală Margareta a României anunță Identități, evenimentul care marchează debutul public al generației 2026 a programului național... Post-ul Identități 2026: debutul artistic al noii generații de bursieri ai programului Tinere Talente apare prima dată în Fundația Regală Margareta a României .",
+      "link": "https://www.frmr.ro/37214",
+      "published_utc": "2026-02-26T11:37:41+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-cd91d5c05ed09ce2/480/320"
     },
     {
       "section": "science",
@@ -1064,6 +1088,7 @@
       "https://live.staticflickr.com/65535/55183349946_9ac90dc18c_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/26909057839_28785e8888_b.jpg",
       "https://live.staticflickr.com/65535/11306012643_d58a245492_b.jpg",
       "https://live.staticflickr.com/65535/55195142080_f9a469e219_b.jpg",
       "https://live.staticflickr.com/65535/55199875836_47fdc7a350_b.jpg",
@@ -1080,10 +1105,10 @@
       "https://live.staticflickr.com/65535/55188780518_6b208fcd83_b.jpg",
       "https://live.staticflickr.com/65535/55196571774_08b8104d59_b.jpg",
       "https://live.staticflickr.com/65535/38851649394_773b0d988f_b.jpg",
-      "https://live.staticflickr.com/65535/55196301766_5716e19e1a_b.jpg",
-      "https://live.staticflickr.com/65535/55189562467_e686680088_b.jpg"
+      "https://live.staticflickr.com/65535/55196301766_5716e19e1a_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55200217358_ba1c5aa72a_b.jpg",
       "https://live.staticflickr.com/65535/55199178047_2f4f644b4f_b.jpg",
       "https://live.staticflickr.com/65535/55200219508_0560f6151b_b.jpg",
       "https://live.staticflickr.com/65535/55200496850_63f1f0469d_b.jpg",
@@ -1100,12 +1125,11 @@
       "https://live.staticflickr.com/65535/55196881111_9e289666aa_b.jpg",
       "https://live.staticflickr.com/65535/55196344527_a9ae06d915_b.jpg",
       "https://live.staticflickr.com/65535/55196505597_7b9dd569be_b.jpg",
-      "https://live.staticflickr.com/65535/55198624424_86496d4e1b_b.jpg",
-      "https://live.staticflickr.com/65535/55197244639_d408240ce1_b.jpg"
+      "https://live.staticflickr.com/65535/55198624424_86496d4e1b_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
+      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
