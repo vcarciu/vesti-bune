@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-04-12T19:32:35+00:00",
+  "generated_utc": "2026-04-12T20:23:57+00:00",
   "sections": {
     "romania": [
       {
@@ -25,6 +25,18 @@
         "score": 3,
         "freshness_boost": 3,
         "image": "https://www.timesnewroman.ro/wp-content/uploads/2025/06/tiriac_plaja_tron_aur.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 Un român s-a apucat de băut după ce a folosit lumină sfântă contrafăcută",
+        "summary": "Un român din comuna Frâncești Vâlcea s-a apucat de băut după o eroare majoră. Acesta a folosit lumină sfințită falsă, luată de pe marginea drumului. BOR avertizează românii să nu-și mai facă lumină sfântă artizanală, cu dispozitive improvizate, și să ia exclusiv lumină sfântă de la biserici autorizate. Jean nu e un exemplu singular. În [&#8230;] The post Un român s-a apucat de băut după ce a folosit lumină sfântă contrafăcută appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/life-death/un-roman-s-a-apucat-de-baut-dupa-ce-a-folosit-lumina-sfanta-contrafacuta",
+        "published_utc": "2026-04-12T04:49:23+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2020/07/betiv%20rit%20nou.jpg"
       },
       {
         "section": "romania",
@@ -97,18 +109,6 @@
         "score": 3,
         "freshness_boost": 1,
         "image": "https://picsum.photos/seed/vb-c1a059b9eb992231/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 Nicușor Dan era ”fantoma în alb” care dirija jandarmii să bată protestatarii pe 10 august",
-        "summary": "După numirea procurorilor-cheie ai României, care demonstrează încă o dată că Nicușor Dan este doar o slugă obedientă a PSD-ului și o marionetă mai lipsită de inteligență și mai incapabilă decât putoarea supremă Klaus Iohannis, apar indicii că președintele României ar fi cel care a orchestrat reprimarea violentă a protestelor de la 10 August. Nicușor [&#8230;] The post Nicușor Dan era ”fantoma în alb” care dirija jandarmii să bată protestatarii pe 10 august appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/politic/nicusor-dan-era-fantoma-in-alb-care-dirija-jandarmii-sa-bata-protestatarii-pe-10-august",
-        "published_utc": "2026-04-10T09:08:06+00:00",
-        "score": 3,
-        "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/antoma_10_august.jpg"
       },
       {
         "section": "romania",
@@ -554,18 +554,6 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "Calificare spectaculoasă în finala mondială Dance World Cup 2026. Timișoara scrie istorie în dans",
-      "summary": "Timișoara, 10 aprilie 2026 &#8211; Timișoara urcă pe scena lumii: o performanță care redefinește excelența în dans. Astfel, un moment istoric pentru dansul românesc se conturează în orașul de pe&#8230; Articolul Calificare spectaculoasă în finala mondială Dance World Cup 2026. Timișoara scrie istorie în dans apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/banat-crisana/calificare-spectaculoasa-in-finala-mondiala-dance-world-cup-2026-timisoara-scrie-istorie-in-dans",
-      "published_utc": "2026-04-10T14:43:18+00:00",
-      "score": 3,
-      "freshness_boost": 1,
-      "image": "https://picsum.photos/seed/vb-1237e28ac9357c2c/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "Times New Roman (Satira)",
       "title": "😂 Premiul la 6 din 49 va fi dat lui Țiriac, că el nu cheltuie banii ca toți prăpădiții",
       "summary": "Decizie fără precedent la Loteria Română. Extragerea loto 6 din 49, programată pentru diseară, se anulează, iar banii adunați vor fi dați prin încredințare directă miliardarului român Ion Țiriac. Directorul Loteriei Române precizează că s-a săturat să vadă cum banii de la 6 din 49 sunt câștigați de tot felul de bețivi de prin Galați, [&#8230;] The post Premiul la 6 din 49 va fi dat lui Țiriac, că el nu cheltuie banii ca toți prăpădiții appeared first on Times New Roman .",
@@ -574,6 +562,18 @@
       "score": 3,
       "freshness_boost": 3,
       "image": "https://www.timesnewroman.ro/wp-content/uploads/2025/06/tiriac_plaja_tron_aur.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "RomaniaPozitiva",
+      "title": "Calificare spectaculoasă în finala mondială Dance World Cup 2026. Timișoara scrie istorie în dans",
+      "summary": "Timișoara, 10 aprilie 2026 &#8211; Timișoara urcă pe scena lumii: o performanță care redefinește excelența în dans. Astfel, un moment istoric pentru dansul românesc se conturează în orașul de pe&#8230; Articolul Calificare spectaculoasă în finala mondială Dance World Cup 2026. Timișoara scrie istorie în dans apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/banat-crisana/calificare-spectaculoasa-in-finala-mondiala-dance-world-cup-2026-timisoara-scrie-istorie-in-dans",
+      "published_utc": "2026-04-10T14:43:18+00:00",
+      "score": 3,
+      "freshness_boost": 1,
+      "image": "https://picsum.photos/seed/vb-1237e28ac9357c2c/480/320"
     },
     {
       "section": "romania",
@@ -603,18 +603,6 @@
       "section": "romania",
       "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 Nicușor Dan era ”fantoma în alb” care dirija jandarmii să bată protestatarii pe 10 august",
-      "summary": "După numirea procurorilor-cheie ai României, care demonstrează încă o dată că Nicușor Dan este doar o slugă obedientă a PSD-ului și o marionetă mai lipsită de inteligență și mai incapabilă decât putoarea supremă Klaus Iohannis, apar indicii că președintele României ar fi cel care a orchestrat reprimarea violentă a protestelor de la 10 August. Nicușor [&#8230;] The post Nicușor Dan era ”fantoma în alb” care dirija jandarmii să bată protestatarii pe 10 august appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/politic/nicusor-dan-era-fantoma-in-alb-care-dirija-jandarmii-sa-bata-protestatarii-pe-10-august",
-      "published_utc": "2026-04-10T09:08:06+00:00",
-      "score": 3,
-      "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/antoma_10_august.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
       "title": "😂 Mai nebună decât Trump! O mătușă se laudă că ea face cozonacul cel mai bun",
       "summary": "O mătușă vizitată cu ocazia Paștelui a demonstrat simptome de schizofrenie mai severe decât ale lui Donald Trump. Aceasta a pretins constant pe parcursul vizitei că ea însăși face cei mai buni cozonaci din lume și că vecinele ei abia sunt în stare să facă un chec. Ea susține că are rețeta de la mama [&#8230;] The post Mai nebună decât Trump! O mătușă se laudă că ea face cozonacul cel mai bun appeared first on Times New Roman .",
       "link": "https://www.timesnewroman.ro/life-death/mai-nebuna-decat-trump-o-matusa-se-lauda-ca-ea-face-cozonacul-cel-mai-bun",
@@ -622,6 +610,18 @@
       "score": 3,
       "freshness_boost": 1,
       "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/matusa_nebuna.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Un român s-a apucat de băut după ce a folosit lumină sfântă contrafăcută",
+      "summary": "Un român din comuna Frâncești Vâlcea s-a apucat de băut după o eroare majoră. Acesta a folosit lumină sfințită falsă, luată de pe marginea drumului. BOR avertizează românii să nu-și mai facă lumină sfântă artizanală, cu dispozitive improvizate, și să ia exclusiv lumină sfântă de la biserici autorizate. Jean nu e un exemplu singular. În [&#8230;] The post Un român s-a apucat de băut după ce a folosit lumină sfântă contrafăcută appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/life-death/un-roman-s-a-apucat-de-baut-dupa-ce-a-folosit-lumina-sfanta-contrafacuta",
+      "published_utc": "2026-04-12T04:49:23+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2020/07/betiv%20rit%20nou.jpg"
     },
     {
       "section": "romania",
@@ -1088,6 +1088,7 @@
       "https://live.staticflickr.com/65535/55185044096_852aab0715_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/55197201717_09d3bda959_b.jpg",
       "https://live.staticflickr.com/65535/26909057839_28785e8888_b.jpg",
       "https://live.staticflickr.com/65535/55199875836_47fdc7a350_b.jpg",
       "https://live.staticflickr.com/65535/55202069838_39301888da_b.jpg",
@@ -1104,10 +1105,10 @@
       "https://live.staticflickr.com/65535/39729955371_019c36d5db_b.jpg",
       "https://live.staticflickr.com/65535/55196697850_ac35bda24d_b.jpg",
       "https://live.staticflickr.com/65535/11532139364_d253437a5a_b.jpg",
-      "https://live.staticflickr.com/65535/55198363804_1d2f334b4f_b.jpg",
-      "https://live.staticflickr.com/65535/55196571774_08b8104d59_b.jpg"
+      "https://live.staticflickr.com/65535/55198363804_1d2f334b4f_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55203465898_469788d07d_b.jpg",
       "https://live.staticflickr.com/65535/55203089958_9753bbb1f9_b.jpg",
       "https://live.staticflickr.com/65535/55202863883_9b5a055aa7_b.jpg",
       "https://live.staticflickr.com/65535/55202561661_199d436afd_b.jpg",
@@ -1124,12 +1125,11 @@
       "https://live.staticflickr.com/65535/55200317839_b69cce021d_b.jpg",
       "https://live.staticflickr.com/65535/55200217033_92c3744d99_b.jpg",
       "https://live.staticflickr.com/65535/55200342229_d395d2cef9_b.jpg",
-      "https://live.staticflickr.com/65535/55199395771_9cc7c48329_b.jpg",
-      "https://live.staticflickr.com/65535/55200110839_5b61c5c100_b.jpg"
+      "https://live.staticflickr.com/65535/55199395771_9cc7c48329_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
+      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
