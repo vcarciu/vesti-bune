@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-04-13T22:35:01+00:00",
+  "generated_utc": "2026-04-13T23:35:25+00:00",
   "sections": {
     "romania": [
       {
@@ -12,18 +12,6 @@
         "published_utc": "2026-04-13T14:34:13+00:00",
         "score": 2,
         "image": "https://picsum.photos/seed/vb-7508601ffaf55fde/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 Kelemen și-a descarcerat buzele de la curul lui Orbán și s-a mutat la curul lui Magyar",
-        "summary": "Nu degeaba se spune despre Kelemen Hunor că este curva supremă din politica românească. Chiar dacă nu mai era nevoie, liderul UDMR a ținut să o demonstreze și acum, imediat după anunțarea rezultatelor alegerilor din Ungaria. Deși în campanie l-a susținut intens pe Viktor Orbán, Kelemen Hunor s-a dezis de acesta imediat ce a văzut [&#8230;] The post Kelemen și-a descarcerat buzele de la curul lui Orbán și s-a mutat la curul lui Magyar appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/politic/kelemen-si-a-descarcerat-buzele-de-la-curul-lui-orban-si-s-a-mutat-la-curul-lui-magyar",
-        "published_utc": "2026-04-13T06:56:45+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/kelemen_orban_descarcerare.jpg"
       },
       {
         "section": "romania",
@@ -48,6 +36,18 @@
         "score": 3,
         "freshness_boost": 1,
         "image": "https://www.timesnewroman.ro/wp-content/uploads/2025/06/tiriac_plaja_tron_aur.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 După ce a numit procurorii propuși de PSD și SRI, Nicușor îl va pune premier pe Călin Georgescu",
+        "summary": "Echilibru! Nicușor Dan respinge ferm acuzațiile că ar fi sluga PSD-ului și că ar fi numit procurorii-cheie ai României la comanda mafiei securiste. Pentru a demonstra că este absolut echidistant, președintele Nicușor Dan l-a demis pe Ilie Bolojan și l-a numit în locul său pe Călin Georgescu. ”Călin Georgescu este un om capabil, expert în [&#8230;] The post După ce a numit procurorii propuși de PSD și SRI, Nicușor îl va pune premier pe Călin Georgescu appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/politic/dupa-ce-a-numit-procurorii-propusi-de-psd-si-sri-nicusor-il-va-pune-premier-pe-calin-georgescu",
+        "published_utc": "2026-04-11T09:26:08+00:00",
+        "score": 3,
+        "freshness_boost": 1,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/nicusor_premier_georgescu.jpg"
       },
       {
         "section": "romania",
@@ -124,18 +124,6 @@
       {
         "section": "romania",
         "kind": "ro",
-        "source": "United Way Romania",
-        "title": "Sprijinul Raiffeisen Bank schimbă vieți. Povestea lui Victor din programul „Învață să reușești”",
-        "summary": "United Way România lucrează acolo unde nevoia este cea mai mare, acolo unde sprijinul nu este doar util, ci vital. Fără acest ajutor, mulți copii ar rămâne în urmă, riscând să se piardă în dificultățile vieții. De aceea, apreciem sprijinul pe termen lung pe care Raiffeisen Bank îl oferă programului „Învață să reușești”. Printre copiii [&#8230;] Articolul Sprijinul Raiffeisen Bank schimbă vieți. Povestea lui Victor din programul „Învață să reușești” apare prima dată în United Way Romania .",
-        "link": "https://www.unitedway.ro/2026/04/sprijinul-raiffeisen-bank-schimba-vieti-povestea-lui-victor-din-programul-invata-sa-reusesti",
-        "published_utc": "2026-04-06T13:31:35+00:00",
-        "score": 3,
-        "freshness_boost": 0,
-        "image": "https://picsum.photos/seed/vb-9f8c1241fbb24622/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
         "source": "World Vision Romania",
         "title": "Bullyingul în adolescență: răni invizibile și cum pot fi vindecate",
         "summary": "De ce vorbim despre bullying Bullyingul nu mai este de mult o problemă „minoră” sau o etapă inevitabilă a copilăriei.... Articolul Bullyingul în adolescență: răni invizibile și cum pot fi vindecate apare prima dată în World Vision România .",
@@ -180,18 +168,6 @@
         "score": 3,
         "freshness_boost": 0,
         "image": "https://picsum.photos/seed/vb-a5a22f02f60b7d29/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Fundatia Inocenti",
-        "title": "Povestea lui Ionuț: cum sprijinul educațional schimbă viața unui copil",
-        "summary": "Află povestea lui Ionuț și cum sprijinul educațional și emoțional oferit de Fundația Inocenți ajută copiii vulnerabili să își descopere încrederea în sine. The post Povestea lui Ionuț: cum sprijinul educațional schimbă viața unui copil appeared first on Fundația Inocenți .",
-        "link": "https://inocenti.ro/povestea-lui-ionut-cum-sprijinul-educational-schimba-viata-unui-copil",
-        "published_utc": "2026-03-05T15:19:42+00:00",
-        "score": 3,
-        "freshness_boost": 0,
-        "image": "https://picsum.photos/seed/vb-ed87bce9b35837eb/480/320"
       }
     ],
     "medical": [
@@ -297,109 +273,133 @@
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Tiny crystal defects solve decades-old mystery in organic light emitters",
-        "summary": "Materials that emit and manipulate light are at the heart of technologies ranging from solar energy to advanced imaging systems. But even in well-studied materials, some fundamental behaviors remain unexplained. Researchers at Rice University have now solved a long-standing mystery in a widely used organic semiconductor, revealing how tiny structural imperfections can actually improve how these materials work.",
-        "link": "https://phys.org/news/2026-04-tiny-crystal-defects-decades-mystery.html",
-        "published_utc": "2026-04-13T22:30:04+00:00",
+        "title": "A new fruit wash removes pesticides and extends shelf life",
+        "summary": "University of British Columbia researchers have developed a natural, biodegradable wash that removed up to 96% of pesticide residue from fruit and slowed browning and moisture loss. This could mean safer apples, grapes and other fruit that also stays fresh and crisp for days longer. With rising food prices and nearly half of all fresh produce wasted worldwide each year, finding a way to cut pesticide exposure and reduce spoilage could have a big impact. The findings are published in ACS Nano.",
+        "link": "https://phys.org/news/2026-04-fruit-pesticides-shelf-life.html",
+        "published_utc": "2026-04-13T23:30:01+00:00",
         "score": 1,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tiny-structural-defect.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-ubc-wash-removes-p.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Oxide-based sensor opens door to greener, faster, more accurate quality testing of food",
-        "summary": "An electrochemical sensor developed at Oregon State University holds promise for making food quality testing faster, more accurate, more environmentally friendly, and less expensive. The novel sensor, which also has potential applications in health care and environmental monitoring, is based on the design principle of engineered interfacial chemistry. The sensor requires tiny sample amounts, can be built into portable testing devices, and is fast and highly sensitive.",
-        "link": "https://phys.org/news/2026-04-oxide-based-sensor-door-greener.html",
-        "published_utc": "2026-04-13T22:30:01+00:00",
+        "title": "Protein clusters reshape cell movement and may help cells build amino acids faster",
+        "summary": "Cells can be thought of as cities, with factories, a transport system, and lots of building activity. An international team led by scientists at the University of Groningen studied cells growing under different conditions and measured the speed of molecule transport. They found that some conditions led to changes in the mobility inside the cells, caused by the clustering of proteins that produce the building materials for growth. It could be that clustering enables the proteins to produce those building blocks more efficiently. The research is published in the journal Molecular Cell.",
+        "link": "https://phys.org/news/2026-04-protein-clusters-reshape-cell-movement.html",
+        "published_utc": "2026-04-13T23:10:01+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/oxide-based-sensor-ope.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/proteins-cluster-in-ce.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Light tightens young pea stems, revealing a new brake on plant growth",
-        "summary": "Light has long been known to regulate plant growth. New research from Osaka Metropolitan University has discovered a new mechanism behind this regulation. A team led by Professor Kouichi Soga of the Graduate School of Science used a unique method to measure adhesion between the epidermal (the outermost layer) and inner tissues in young pea stems. They found that those grown in light exhibit enhanced adhesion. The research is published in Physiologia Plantarum.",
-        "link": "https://phys.org/news/2026-04-tightens-young-pea-stems-revealing.html",
-        "published_utc": "2026-04-13T22:20:05+00:00",
+        "title": "Scottish Neolithic tombs were used to trace kinship—including descent, DNA analysis reveals",
+        "summary": "Archaeologists have investigated genetic relationships between individuals buried in Neolithic chambered tombs in northern Scotland, suggesting monumental tombs may have been physical embodiments of prehistoric kinship, tracing lineages over centuries.",
+        "link": "https://phys.org/news/2026-04-scottish-neolithic-tombs-kinship-descent.html",
+        "published_utc": "2026-04-13T23:00:04+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scottish-neolithic-tom.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Self-interacting dark matter may solve three cosmic puzzles",
+        "summary": "A study led by UC Riverside physicist Hai-Bo Yu suggests that a new type of dark matter could explain three astrophysical puzzles across vastly different environments. Published in Physical Review Letters, the study proposes that dense clumps of self-interacting dark matter (SIDM)—each about a million times the mass of the sun—can account for unusual gravitational effects observed in gravitational lenses, stellar streams, and satellite galaxies.",
+        "link": "https://phys.org/news/2026-04-interacting-dark-cosmic-puzzles.html",
+        "published_utc": "2026-04-13T22:50:04+00:00",
+        "score": 1,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/self-interacting-dark.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Satellites reveal city methane emissions are rising faster than official estimates",
+        "summary": "Urban emissions of methane—a potent greenhouse gas—are rising faster than bottom-up accounting estimates anticipated, according to a study led by University of Michigan Engineering. The discrepancy was found with satellite measurements of methane over 92 major cities around the world. For 72 of the cities, there were sufficient data to track changes in methane emissions between 2019 and 2023. Overall, global urban methane emissions in 2023 were 6% higher than 2019 levels and 10% higher than 2020 levels, although they tended to decrease in European cities.",
+        "link": "https://phys.org/news/2026-04-satellites-reveal-city-methane-emissions.html",
+        "published_utc": "2026-04-13T22:50:01+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/global-urban-methane-e.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Balancing catalyst functions for improved low-temperature methanol synthesis from carbon dioxide",
+        "summary": "Researchers from National Taiwan University and Chulalongkorn University developed a copper-based catalyst system that improves low-temperature methanol synthesis from carbon dioxide hydrogenation by balancing two key steps in the reaction.",
+        "link": "https://phys.org/news/2026-04-catalyst-functions-temperature-methanol-synthesis.html",
+        "published_utc": "2026-04-13T22:40:06+00:00",
+        "score": 5,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/balancing-catalyst-fun.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Designing better membrane proteins by embracing imperfection",
+        "summary": "Scientists at the VIB–VUB Center for Structural Biology have uncovered a counterintuitive principle that could reshape how membrane proteins are designed from scratch: Sometimes, making a protein less stable helps it fold correctly. In their study published in the Proceedings of the National Academy of Sciences, the researchers demonstrate that introducing carefully placed \"imperfections,\" a strategy known as negative design, enables synthetic membrane proteins to fold and assemble efficiently in artificial membranes.",
+        "link": "https://phys.org/news/2026-04-membrane-proteins-embracing-imperfection.html",
+        "published_utc": "2026-04-13T22:40:01+00:00",
         "score": 2,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-mechanism-for-li-1.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/designing-better-membr-1.jpg"
       },
       {
         "section": "science",
         "kind": "global",
-        "source": "Phys.org",
-        "title": "Quantum sensors get a precision boost as 2D defects reveal their hidden timing",
-        "summary": "A key factor for the performance of sensors is the speed at which the system returns to its initial state after a disturbance or measurement, similar to the taring of a balance. In the quantum sensor under investigation, this corresponds to the transition of electrons from an energetically excited state to the ground state. However, the electrons remain in a kind of metastable intermediate state for a short time. A team of physicists from Julius-Maximilians-Universität Würzburg (JMU) has now directly measured this waiting time in a two-dimensional material: It lasts exactly 24 billionths of a second.",
-        "link": "https://phys.org/news/2026-04-quantum-sensors-precision-boost-2d.html",
-        "published_utc": "2026-04-13T22:20:04+00:00",
+        "source": "NASA Breaking News",
+        "title": "NASA Invites Media to Rollout Event for Artemis III Moon Rocket Stage",
+        "summary": "NASA will roll the largest section of the agency’s SLS (Space Launch System) rocket, which will launch the second crewed Artemis mission, out of the agency’s Michoud Assembly Facility in New Orleans on Monday, April 20. What’s called the top four-fifths of the SLS core stage – the section containing the liquid hydrogen tank, liquid [&#8230;]",
+        "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-rollout-event-for-artemis-iii-moon-rocket-stage",
+        "published_utc": "2026-04-13T21:34:11+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/precision-boost-for-qu.jpg"
+        "image": "https://picsum.photos/seed/vb-c896a033a4d310cc/480/320"
       },
       {
         "section": "science",
         "kind": "global",
-        "source": "Phys.org",
-        "title": "Video shows that sunbirds suck, while hummingbirds don't",
-        "summary": "Two unrelated groups of nectar eaters, hummingbirds and sunbirds, have evolved different techniques to slurp the sweet liquid from flowers. The tongue suctioning employed by sunbirds is unique among vertebrates, according to recent research appearing in Current Biology.",
-        "link": "https://phys.org/news/2026-04-video-sunbirds-hummingbirds-dont.html",
-        "published_utc": "2026-04-13T22:10:01+00:00",
+        "source": "NASA Breaking News",
+        "title": "NASA Announces 32nd Annual Human Exploration Rover Challenge Winners",
+        "summary": "NASA’s 32nd annual Human Exploration Rover Challenge, one of the agency’s longest-standing student challenges, culminated April 10-11 with its final excursion event at the U.S. Space &#38; Rocket Center near NASA’s Marshall Space Flight Center in Huntsville, Alabama. Spanning nine months, the challenge tasks student teams from around the world to design, build, and test [&#8230;]",
+        "link": "https://www.nasa.gov/centers-and-facilities/marshall/nasa-announces-32nd-annual-human-exploration-rover-challenge-winners",
+        "published_utc": "2026-04-13T21:23:11+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/sunbirds-suck-scientis.jpg"
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/04/herc2026horizontal.mp4"
       },
       {
         "section": "science",
         "kind": "global",
-        "source": "Phys.org",
-        "title": "Artemis II crew used modern photography to tell the story of their lunar journey—and update some classic Apollo images",
-        "summary": "At this point in NASA's human spaceflight story, researchers have a substantial amount of material—documents, artifacts and images—with which to tell the stories of past flights to space. But with NASA's Artemis II mission around the moon now in the books, we're getting a refreshed look at space.",
-        "link": "https://phys.org/news/2026-04-artemis-ii-crew-modern-photography.html",
-        "published_utc": "2026-04-13T22:00:03+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/artemis-ii-crew-used-m.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "From ship wakes to soft tissues: Exploring fluid and solid surface-wave physics",
-        "summary": "A new study by scientists in the Harvard John A. Paulson School of Engineering and Applied Sciences (SEAS) shows that when a pressure disturbance moves across an ultrasoft elastic material, such as a gel or a biological tissue, it generates a V-shaped wake that's strikingly similar to the waves that travel behind a boat.",
-        "link": "https://phys.org/news/2026-04-ship-soft-tissues-exploring-fluid.html",
-        "published_utc": "2026-04-13T22:00:01+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ship-wake.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Physicists discover how reverse to 'quantum scrambling'",
-        "summary": "Quantum computers stand to revolutionize research by helping investigators solve certain problems exponentially faster than with conventional computers. Current quantum computers encounter a challenge where they lose stored information in a process known as quantum scrambling. However, scientists at the University of California, Irvine have discovered a method to enable computers to preserve the data that would otherwise be lost during the scrambling process. The research is published in the journal Physical Review Letters.",
-        "link": "https://phys.org/news/2026-04-physicists-reverse-quantum-scrambling.html",
-        "published_utc": "2026-04-13T21:50:01+00:00",
-        "score": 2,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/uc-irvine-physicists-d.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Why do some stars in the galactic center survive while others are destroyed?",
-        "summary": "The center of our galaxy is an extreme place. Surrounding the supermassive black hole Sagittarius A*, stars are packed densely into a region where gravity, radiation, and dark matter all interact in complex ways. It is a natural laboratory for testing some of the deepest ideas about astrophysics.",
-        "link": "https://phys.org/news/2026-04-stars-galactic-center-survive-destroyed.html",
-        "published_utc": "2026-04-13T21:40:01+00:00",
+        "source": "NASA Breaking News",
+        "title": "Curiosity Blog, Sols 4852–4858: When Data Take Their Time…",
+        "summary": "Written by Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, April 3, 2026 I was the geology science team lead on Monday for planning Sols 4852-4853, when our data did not arrive on time for planning. Thus, we got creative as a team thinking what we could […]",
+        "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4852-4858-when-data-take-their-time",
+        "published_utc": "2026-04-13T20:04:25+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-do-some-stars-in-t.jpg"
+        "image": "https://picsum.photos/seed/vb-37b2e9b9e882b4a1/480/320"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "NASA Breaking News",
+        "title": "Curiosity Blog, Sols 4845-4851: Bye-Bye Boxwork, Bye-Bye",
+        "summary": "Written by Lucy Thompson, APXS Strategic Planner and Planetary Geologist at the University of New Brunswick, Canada Earth planning date: Friday, March 27, 2026 Last weekend’s drive took us just over the southernmost contact of the boxwork terrain with the surrounding layered sulfate unit. This was our third time crossing this contact, providing an excellent […]",
+        "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4845-4851-bye-bye-boxwork-bye-bye",
+        "published_utc": "2026-04-13T19:37:17+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-44cee808d175d516/480/320"
       }
     ],
     "environment": [
@@ -505,18 +505,6 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Kelemen și-a descarcerat buzele de la curul lui Orbán și s-a mutat la curul lui Magyar",
-      "summary": "Nu degeaba se spune despre Kelemen Hunor că este curva supremă din politica românească. Chiar dacă nu mai era nevoie, liderul UDMR a ținut să o demonstreze și acum, imediat după anunțarea rezultatelor alegerilor din Ungaria. Deși în campanie l-a susținut intens pe Viktor Orbán, Kelemen Hunor s-a dezis de acesta imediat ce a văzut [&#8230;] The post Kelemen și-a descarcerat buzele de la curul lui Orbán și s-a mutat la curul lui Magyar appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/politic/kelemen-si-a-descarcerat-buzele-de-la-curul-lui-orban-si-s-a-mutat-la-curul-lui-magyar",
-      "published_utc": "2026-04-13T06:56:45+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/kelemen_orban_descarcerare.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "A Place To Bury Strangers (US) & Kontravoid (CA) revin la București pentru un show electrizant",
       "summary": "Trupa americană A Place To Bury Strangers revine la București pentru un concert intens și imersiv, miercuri, 15 aprilie, după ora 19, la Control Club. Considerați unii dintre cei mai&#8230; Articolul A Place To Bury Strangers (US) &#038; Kontravoid (CA) revin la București pentru un show electrizant apare prima dată în Romania Pozitiva .",
@@ -537,6 +525,18 @@
       "score": 3,
       "freshness_boost": 1,
       "image": "https://picsum.photos/seed/vb-77cf07ac662563bc/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 După ce a numit procurorii propuși de PSD și SRI, Nicușor îl va pune premier pe Călin Georgescu",
+      "summary": "Echilibru! Nicușor Dan respinge ferm acuzațiile că ar fi sluga PSD-ului și că ar fi numit procurorii-cheie ai României la comanda mafiei securiste. Pentru a demonstra că este absolut echidistant, președintele Nicușor Dan l-a demis pe Ilie Bolojan și l-a numit în locul său pe Călin Georgescu. ”Călin Georgescu este un om capabil, expert în [&#8230;] The post După ce a numit procurorii propuși de PSD și SRI, Nicușor îl va pune premier pe Călin Georgescu appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/politic/dupa-ce-a-numit-procurorii-propusi-de-psd-si-sri-nicusor-il-va-pune-premier-pe-calin-georgescu",
+      "published_utc": "2026-04-11T09:26:08+00:00",
+      "score": 3,
+      "freshness_boost": 1,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/nicusor_premier_georgescu.jpg"
     },
     {
       "section": "romania",
@@ -624,18 +624,6 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "United Way Romania",
-      "title": "Sprijinul Raiffeisen Bank schimbă vieți. Povestea lui Victor din programul „Învață să reușești”",
-      "summary": "United Way România lucrează acolo unde nevoia este cea mai mare, acolo unde sprijinul nu este doar util, ci vital. Fără acest ajutor, mulți copii ar rămâne în urmă, riscând să se piardă în dificultățile vieții. De aceea, apreciem sprijinul pe termen lung pe care Raiffeisen Bank îl oferă programului „Învață să reușești”. Printre copiii [&#8230;] Articolul Sprijinul Raiffeisen Bank schimbă vieți. Povestea lui Victor din programul „Învață să reușești” apare prima dată în United Way Romania .",
-      "link": "https://www.unitedway.ro/2026/04/sprijinul-raiffeisen-bank-schimba-vieti-povestea-lui-victor-din-programul-invata-sa-reusesti",
-      "published_utc": "2026-04-06T13:31:35+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-9f8c1241fbb24622/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "World Vision Romania",
       "title": "Bullyingul în adolescență: răni invizibile și cum pot fi vindecate",
       "summary": "De ce vorbim despre bullying Bullyingul nu mai este de mult o problemă „minoră” sau o etapă inevitabilă a copilăriei.... Articolul Bullyingul în adolescență: răni invizibile și cum pot fi vindecate apare prima dată în World Vision România .",
@@ -682,124 +670,112 @@
       "image": "https://picsum.photos/seed/vb-a5a22f02f60b7d29/480/320"
     },
     {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Fundatia Inocenti",
-      "title": "Povestea lui Ionuț: cum sprijinul educațional schimbă viața unui copil",
-      "summary": "Află povestea lui Ionuț și cum sprijinul educațional și emoțional oferit de Fundația Inocenți ajută copiii vulnerabili să își descopere încrederea în sine. The post Povestea lui Ionuț: cum sprijinul educațional schimbă viața unui copil appeared first on Fundația Inocenți .",
-      "link": "https://inocenti.ro/povestea-lui-ionut-cum-sprijinul-educational-schimba-viata-unui-copil",
-      "published_utc": "2026-03-05T15:19:42+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-ed87bce9b35837eb/480/320"
-    },
-    {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Tiny crystal defects solve decades-old mystery in organic light emitters",
-      "summary": "Materials that emit and manipulate light are at the heart of technologies ranging from solar energy to advanced imaging systems. But even in well-studied materials, some fundamental behaviors remain unexplained. Researchers at Rice University have now solved a long-standing mystery in a widely used organic semiconductor, revealing how tiny structural imperfections can actually improve how these materials work.",
-      "link": "https://phys.org/news/2026-04-tiny-crystal-defects-decades-mystery.html",
-      "published_utc": "2026-04-13T22:30:04+00:00",
+      "title": "A new fruit wash removes pesticides and extends shelf life",
+      "summary": "University of British Columbia researchers have developed a natural, biodegradable wash that removed up to 96% of pesticide residue from fruit and slowed browning and moisture loss. This could mean safer apples, grapes and other fruit that also stays fresh and crisp for days longer. With rising food prices and nearly half of all fresh produce wasted worldwide each year, finding a way to cut pesticide exposure and reduce spoilage could have a big impact. The findings are published in ACS Nano.",
+      "link": "https://phys.org/news/2026-04-fruit-pesticides-shelf-life.html",
+      "published_utc": "2026-04-13T23:30:01+00:00",
       "score": 1,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tiny-structural-defect.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-ubc-wash-removes-p.jpg"
     },
     {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Oxide-based sensor opens door to greener, faster, more accurate quality testing of food",
-      "summary": "An electrochemical sensor developed at Oregon State University holds promise for making food quality testing faster, more accurate, more environmentally friendly, and less expensive. The novel sensor, which also has potential applications in health care and environmental monitoring, is based on the design principle of engineered interfacial chemistry. The sensor requires tiny sample amounts, can be built into portable testing devices, and is fast and highly sensitive.",
-      "link": "https://phys.org/news/2026-04-oxide-based-sensor-door-greener.html",
-      "published_utc": "2026-04-13T22:30:01+00:00",
+      "title": "Protein clusters reshape cell movement and may help cells build amino acids faster",
+      "summary": "Cells can be thought of as cities, with factories, a transport system, and lots of building activity. An international team led by scientists at the University of Groningen studied cells growing under different conditions and measured the speed of molecule transport. They found that some conditions led to changes in the mobility inside the cells, caused by the clustering of proteins that produce the building materials for growth. It could be that clustering enables the proteins to produce those building blocks more efficiently. The research is published in the journal Molecular Cell.",
+      "link": "https://phys.org/news/2026-04-protein-clusters-reshape-cell-movement.html",
+      "published_utc": "2026-04-13T23:10:01+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/oxide-based-sensor-ope.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/proteins-cluster-in-ce.jpg"
     },
     {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Light tightens young pea stems, revealing a new brake on plant growth",
-      "summary": "Light has long been known to regulate plant growth. New research from Osaka Metropolitan University has discovered a new mechanism behind this regulation. A team led by Professor Kouichi Soga of the Graduate School of Science used a unique method to measure adhesion between the epidermal (the outermost layer) and inner tissues in young pea stems. They found that those grown in light exhibit enhanced adhesion. The research is published in Physiologia Plantarum.",
-      "link": "https://phys.org/news/2026-04-tightens-young-pea-stems-revealing.html",
-      "published_utc": "2026-04-13T22:20:05+00:00",
+      "title": "Scottish Neolithic tombs were used to trace kinship—including descent, DNA analysis reveals",
+      "summary": "Archaeologists have investigated genetic relationships between individuals buried in Neolithic chambered tombs in northern Scotland, suggesting monumental tombs may have been physical embodiments of prehistoric kinship, tracing lineages over centuries.",
+      "link": "https://phys.org/news/2026-04-scottish-neolithic-tombs-kinship-descent.html",
+      "published_utc": "2026-04-13T23:00:04+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scottish-neolithic-tom.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Self-interacting dark matter may solve three cosmic puzzles",
+      "summary": "A study led by UC Riverside physicist Hai-Bo Yu suggests that a new type of dark matter could explain three astrophysical puzzles across vastly different environments. Published in Physical Review Letters, the study proposes that dense clumps of self-interacting dark matter (SIDM)—each about a million times the mass of the sun—can account for unusual gravitational effects observed in gravitational lenses, stellar streams, and satellite galaxies.",
+      "link": "https://phys.org/news/2026-04-interacting-dark-cosmic-puzzles.html",
+      "published_utc": "2026-04-13T22:50:04+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/self-interacting-dark.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Satellites reveal city methane emissions are rising faster than official estimates",
+      "summary": "Urban emissions of methane—a potent greenhouse gas—are rising faster than bottom-up accounting estimates anticipated, according to a study led by University of Michigan Engineering. The discrepancy was found with satellite measurements of methane over 92 major cities around the world. For 72 of the cities, there were sufficient data to track changes in methane emissions between 2019 and 2023. Overall, global urban methane emissions in 2023 were 6% higher than 2019 levels and 10% higher than 2020 levels, although they tended to decrease in European cities.",
+      "link": "https://phys.org/news/2026-04-satellites-reveal-city-methane-emissions.html",
+      "published_utc": "2026-04-13T22:50:01+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/global-urban-methane-e.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Balancing catalyst functions for improved low-temperature methanol synthesis from carbon dioxide",
+      "summary": "Researchers from National Taiwan University and Chulalongkorn University developed a copper-based catalyst system that improves low-temperature methanol synthesis from carbon dioxide hydrogenation by balancing two key steps in the reaction.",
+      "link": "https://phys.org/news/2026-04-catalyst-functions-temperature-methanol-synthesis.html",
+      "published_utc": "2026-04-13T22:40:06+00:00",
+      "score": 5,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/balancing-catalyst-fun.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Designing better membrane proteins by embracing imperfection",
+      "summary": "Scientists at the VIB–VUB Center for Structural Biology have uncovered a counterintuitive principle that could reshape how membrane proteins are designed from scratch: Sometimes, making a protein less stable helps it fold correctly. In their study published in the Proceedings of the National Academy of Sciences, the researchers demonstrate that introducing carefully placed \"imperfections,\" a strategy known as negative design, enables synthetic membrane proteins to fold and assemble efficiently in artificial membranes.",
+      "link": "https://phys.org/news/2026-04-membrane-proteins-embracing-imperfection.html",
+      "published_utc": "2026-04-13T22:40:01+00:00",
       "score": 2,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-mechanism-for-li-1.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/designing-better-membr-1.jpg"
     },
     {
       "section": "science",
       "kind": "global",
-      "source": "Phys.org",
-      "title": "Quantum sensors get a precision boost as 2D defects reveal their hidden timing",
-      "summary": "A key factor for the performance of sensors is the speed at which the system returns to its initial state after a disturbance or measurement, similar to the taring of a balance. In the quantum sensor under investigation, this corresponds to the transition of electrons from an energetically excited state to the ground state. However, the electrons remain in a kind of metastable intermediate state for a short time. A team of physicists from Julius-Maximilians-Universität Würzburg (JMU) has now directly measured this waiting time in a two-dimensional material: It lasts exactly 24 billionths of a second.",
-      "link": "https://phys.org/news/2026-04-quantum-sensors-precision-boost-2d.html",
-      "published_utc": "2026-04-13T22:20:04+00:00",
+      "source": "NASA Breaking News",
+      "title": "NASA Invites Media to Rollout Event for Artemis III Moon Rocket Stage",
+      "summary": "NASA will roll the largest section of the agency’s SLS (Space Launch System) rocket, which will launch the second crewed Artemis mission, out of the agency’s Michoud Assembly Facility in New Orleans on Monday, April 20. What’s called the top four-fifths of the SLS core stage – the section containing the liquid hydrogen tank, liquid [&#8230;]",
+      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-rollout-event-for-artemis-iii-moon-rocket-stage",
+      "published_utc": "2026-04-13T21:34:11+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/precision-boost-for-qu.jpg"
+      "image": "https://picsum.photos/seed/vb-c896a033a4d310cc/480/320"
     },
     {
       "section": "science",
       "kind": "global",
-      "source": "Phys.org",
-      "title": "Video shows that sunbirds suck, while hummingbirds don't",
-      "summary": "Two unrelated groups of nectar eaters, hummingbirds and sunbirds, have evolved different techniques to slurp the sweet liquid from flowers. The tongue suctioning employed by sunbirds is unique among vertebrates, according to recent research appearing in Current Biology.",
-      "link": "https://phys.org/news/2026-04-video-sunbirds-hummingbirds-dont.html",
-      "published_utc": "2026-04-13T22:10:01+00:00",
+      "source": "NASA Breaking News",
+      "title": "NASA Announces 32nd Annual Human Exploration Rover Challenge Winners",
+      "summary": "NASA’s 32nd annual Human Exploration Rover Challenge, one of the agency’s longest-standing student challenges, culminated April 10-11 with its final excursion event at the U.S. Space &#38; Rocket Center near NASA’s Marshall Space Flight Center in Huntsville, Alabama. Spanning nine months, the challenge tasks student teams from around the world to design, build, and test [&#8230;]",
+      "link": "https://www.nasa.gov/centers-and-facilities/marshall/nasa-announces-32nd-annual-human-exploration-rover-challenge-winners",
+      "published_utc": "2026-04-13T21:23:11+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/sunbirds-suck-scientis.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Artemis II crew used modern photography to tell the story of their lunar journey—and update some classic Apollo images",
-      "summary": "At this point in NASA's human spaceflight story, researchers have a substantial amount of material—documents, artifacts and images—with which to tell the stories of past flights to space. But with NASA's Artemis II mission around the moon now in the books, we're getting a refreshed look at space.",
-      "link": "https://phys.org/news/2026-04-artemis-ii-crew-modern-photography.html",
-      "published_utc": "2026-04-13T22:00:03+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/artemis-ii-crew-used-m.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "From ship wakes to soft tissues: Exploring fluid and solid surface-wave physics",
-      "summary": "A new study by scientists in the Harvard John A. Paulson School of Engineering and Applied Sciences (SEAS) shows that when a pressure disturbance moves across an ultrasoft elastic material, such as a gel or a biological tissue, it generates a V-shaped wake that's strikingly similar to the waves that travel behind a boat.",
-      "link": "https://phys.org/news/2026-04-ship-soft-tissues-exploring-fluid.html",
-      "published_utc": "2026-04-13T22:00:01+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ship-wake.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Physicists discover how reverse to 'quantum scrambling'",
-      "summary": "Quantum computers stand to revolutionize research by helping investigators solve certain problems exponentially faster than with conventional computers. Current quantum computers encounter a challenge where they lose stored information in a process known as quantum scrambling. However, scientists at the University of California, Irvine have discovered a method to enable computers to preserve the data that would otherwise be lost during the scrambling process. The research is published in the journal Physical Review Letters.",
-      "link": "https://phys.org/news/2026-04-physicists-reverse-quantum-scrambling.html",
-      "published_utc": "2026-04-13T21:50:01+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/uc-irvine-physicists-d.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Why do some stars in the galactic center survive while others are destroyed?",
-      "summary": "The center of our galaxy is an extreme place. Surrounding the supermassive black hole Sagittarius A*, stars are packed densely into a region where gravity, radiation, and dark matter all interact in complex ways. It is a natural laboratory for testing some of the deepest ideas about astrophysics.",
-      "link": "https://phys.org/news/2026-04-stars-galactic-center-survive-destroyed.html",
-      "published_utc": "2026-04-13T21:40:01+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-do-some-stars-in-t.jpg"
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/04/herc2026horizontal.mp4"
     },
     {
       "section": "medical",
@@ -896,6 +872,30 @@
       "score": 4,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/engineers-identify-new-1.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "NASA Breaking News",
+      "title": "Curiosity Blog, Sols 4852–4858: When Data Take Their Time…",
+      "summary": "Written by Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, April 3, 2026 I was the geology science team lead on Monday for planning Sols 4852-4853, when our data did not arrive on time for planning. Thus, we got creative as a team thinking what we could […]",
+      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4852-4858-when-data-take-their-time",
+      "published_utc": "2026-04-13T20:04:25+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-37b2e9b9e882b4a1/480/320"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "NASA Breaking News",
+      "title": "Curiosity Blog, Sols 4845-4851: Bye-Bye Boxwork, Bye-Bye",
+      "summary": "Written by Lucy Thompson, APXS Strategic Planner and Planetary Geologist at the University of New Brunswick, Canada Earth planning date: Friday, March 27, 2026 Last weekend’s drive took us just over the southernmost contact of the boxwork terrain with the surrounding layered sulfate unit. This was our third time crossing this contact, providing an excellent […]",
+      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4845-4851-bye-bye-boxwork-bye-bye",
+      "published_utc": "2026-04-13T19:37:17+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-44cee808d175d516/480/320"
     },
     {
       "section": "environment",
@@ -1086,6 +1086,7 @@
       "https://live.staticflickr.com/65535/55187437425_d04cf8c914_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/4592/39549168292_5fc04d73c5_b.jpg",
       "https://live.staticflickr.com/65535/55195142080_f9a469e219_b.jpg",
       "https://live.staticflickr.com/65535/55198363804_1d2f334b4f_b.jpg",
       "https://live.staticflickr.com/65535/55202069928_c6b0246d46_b.jpg",
@@ -1102,10 +1103,10 @@
       "https://live.staticflickr.com/65535/38851649394_773b0d988f_b.jpg",
       "https://live.staticflickr.com/4560/37616219594_c1c080592f_b.jpg",
       "https://live.staticflickr.com/65535/55196301766_5716e19e1a_b.jpg",
-      "https://live.staticflickr.com/65535/55197201717_09d3bda959_b.jpg",
-      "https://live.staticflickr.com/65535/26909057839_28785e8888_b.jpg"
+      "https://live.staticflickr.com/65535/55197201717_09d3bda959_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55205833556_a45f774d43_b.jpg",
       "https://live.staticflickr.com/65535/55206229175_10ae82b602_b.jpg",
       "https://live.staticflickr.com/65535/55205718449_e476aeca46_b.jpg",
       "https://live.staticflickr.com/65535/55204486338_af9e44a2ff_b.jpg",
@@ -1122,12 +1123,11 @@
       "https://live.staticflickr.com/65535/55203465898_469788d07d_b.jpg",
       "https://live.staticflickr.com/65535/55203089958_9753bbb1f9_b.jpg",
       "https://live.staticflickr.com/65535/55202863883_9b5a055aa7_b.jpg",
-      "https://live.staticflickr.com/65535/55202561661_199d436afd_b.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/3/3f/NYC_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg"
+      "https://live.staticflickr.com/65535/55202561661_199d436afd_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
+      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
