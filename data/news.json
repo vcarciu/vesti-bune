@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-04-16T22:30:13+00:00",
+  "generated_utc": "2026-04-16T23:32:21+00:00",
   "sections": {
     "romania": [
       {
@@ -25,18 +25,6 @@
         "score": 3,
         "freshness_boost": 3,
         "image": "https://picsum.photos/seed/vb-1820742b102fcd56/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 Miracol! La 3 zile după ce s-a îndopat cu drob, unui român i-a înviat pofta de şaorma",
-        "summary": "O a doua Înviere a anului a avut loc azi în Sectorul 3 al Capitalei, acolo unde un bărbat de 33 de ani s-a trezit miraculos la viață după 3 zile și a cerut, cu voce tremurândă de emoție, o șaorma mare, cu de toate, „dar fără castraveți, că de la Paști mi s-au umflat [&#8230;] The post Miracol! La 3 zile după ce s-a îndopat cu drob, unui român i-a înviat pofta de şaorma appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/life-death/miracol-la-3-zile-dupa-ce-s-a-indopat-cu-drob-unui-roman-i-a-inviat-pofta-de-saorma",
-        "published_utc": "2026-04-16T10:04:53+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/barbat_saorma.jpg"
       },
       {
         "section": "romania",
@@ -101,18 +89,6 @@
       {
         "section": "romania",
         "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 După magiunul de Topoloveni, o nouă marcă protejată: fumul de Sintești",
-        "summary": "Țara noastră anunță cu mândrie încă o victorie importantă pe harta produselor tradiționale: după magiunul de Topoloveni, telemeaua de Ibănești sau cârnații de Pleșcoi, iată că în această frumoasă listă se adaugă și fumul de Sintești, un produs care iese doar din măiestrele mâini ale localnicilor din renumita localitate ilfoveană. Vorbim de un produs care [&#8230;] The post După magiunul de Topoloveni, o nouă marcă protejată: fumul de Sintești appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/life-death/dupa-magiunul-de-topoloveni-o-noua-marca-protejata-fumul-de-sintesti",
-        "published_utc": "2026-04-15T23:18:00+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/fum_de_sintesti.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
         "source": "RomaniaPozitiva",
         "title": "Asociația Rubik lansează ghiduri gratuite de educație naturalistă destinate școlilor din România",
         "summary": "Asociația Rubik Educație Alternativă anunță lansarea a două ghiduri educaționale gratuite, disponibile pentru descărcare pe platforma www.formatorzvac.ro. Resursele vizează sprijinirea cadrelor didactice în implementarea educației naturaliste și dezvoltarea abilităților practice&#8230; Articolul Asociația Rubik lansează ghiduri gratuite de educație naturalistă destinate școlilor din România apare prima dată în Romania Pozitiva .",
@@ -137,6 +113,18 @@
       {
         "section": "romania",
         "kind": "ro",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 98% din mailurile generalilor români sparte de hackerii ruși sunt comenzi de șaorma",
+        "summary": "Hackerii ruși au spart mai multe mailurile ale generalilor români, dar n-au obținut practic nicio informație relevantă. După ce au descărcat cu mândrie sute de gigabytes de „informații sensibile” din mailurile generalilor români, rușii au descoperit că 98% dintre ele nu sunt altceva decât confirmări ale comenzilor de șaorma, iar restul de 2% reprezintă spam [&#8230;] The post 98% din mailurile generalilor români sparte de hackerii ruși sunt comenzi de șaorma appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/it-stiinta/98-din-mailurile-generalilor-romani-sparte-de-hackerii-rusi-sunt-comenzi-de-saorma",
+        "published_utc": "2026-04-15T09:58:01+00:00",
+        "score": 3,
+        "freshness_boost": 1,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/general_roman_saorma.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
         "source": "SOS Satele Copiilor Romania",
         "title": "Psiholog",
         "summary": "Locație: București &#124; Nivel carieră: Experiență de minimum 1 an Candidatul Ideal: Ești tu vocea de care au nevoie? Un copil are nevoie de iubire, siguranță și încredere pentru a... The post Psiholog appeared first on SOS Satele Copiilor România .",
@@ -145,6 +133,18 @@
         "score": 3,
         "freshness_boost": 1,
         "image": "https://picsum.photos/seed/vb-62290e058a5ec56d/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 Sfârșitul mesei de paști",
+        "summary": "The post Sfârșitul mesei de paști appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/ovi/sfarsitul-mesei-de-pasti",
+        "published_utc": "2026-04-15T08:01:19+00:00",
+        "score": 3,
+        "freshness_boost": 1,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/Sfarsitul-mesei-de-pasti.jpg"
       },
       {
         "section": "romania",
@@ -418,97 +418,121 @@
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Wild Canadian freshwater fish reveal opioid and antidepressant buildup downstream",
-        "summary": "Fish living downstream of wastewater treatment plants are accumulating antidepressants, opioids and other drugs of abuse in their bodies, according to a new study. Using a new analytical method they developed, a team of researchers from the University of Waterloo discovered that several substances that affect the central nervous system, including fentanyl, methadone and venlafaxine, were detected in small fish living in rivers that receive urban wastewater.",
-        "link": "https://phys.org/news/2026-04-wild-canadian-freshwater-fish-reveal.html",
-        "published_utc": "2026-04-16T20:40:07+00:00",
-        "score": 4,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/opioids-and-other-drug.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Sex pheromone of a sandgrain-sized insect deciphered",
-        "summary": "Parasitic wasps of the genus Trichogramma are among the smallest insects in the world—yet they play an important role in natural ecosystems and agricultural landscapes as natural antagonists of pest species. Research teams from the Universities of Regensburg, Wageningen and Groningen have now identified for the first time the sex pheromone of a Trichogramma wasp. The study shows that unimaginably small amounts of the female pheromone are sufficient to attract males and trigger their courtship behavior. The findings are published in the journal Scientific Reports.",
-        "link": "https://phys.org/news/2026-04-sex-pheromone-sandgrain-sized-insect.html",
-        "published_utc": "2026-04-16T20:40:04+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/sex-pheromone-of-a-san.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Industrial chemical leaks could push ozone layer recovery back by 7 years",
-        "summary": "The recovery of the ozone layer in Earth's stratosphere could be delayed by several years, according to an international study led by Swiss research institution Empa which included contributions from University of Bristol researchers. The cause is persistent emissions of so-called feedstock chemicals, which are still permitted as raw materials in industry. These ozone-depleting substances have so far been excluded from international agreements because, according to the current study, their emissions and use have been significantly underestimated.",
-        "link": "https://phys.org/news/2026-04-industrial-chemical-leaks-ozone-layer.html",
-        "published_utc": "2026-04-16T20:20:14+00:00",
+        "title": "A newly recognized pollutant is widely present in the atmosphere",
+        "summary": "A new study shows that a specific type of silicone, the so-called methylsiloxanes, is widely present in the atmosphere across diverse environments. Also, concentrations appear to be much higher than expected. According to the researchers, this raises concerns about their potential—yet poorly understood—effects on human health and the climate. Methylsiloxanes are commonly used in industry, transportation, cosmetics, and household products. The study was supervised by Utrecht University and the University of Groningen, and the results are published in Atmospheric Chemistry and Physics.",
+        "link": "https://phys.org/news/2026-04-newly-pollutant-widely-atmosphere.html",
+        "published_utc": "2026-04-16T23:30:01+00:00",
         "score": 2,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/industrial-chemicals-d.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/newly-recognized-pollu.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Washington DC's 240 million‑gallon sewage spill is a symptom of nationwide trouble",
-        "summary": "When 240 million gallons of raw sewage spilled into the Potomac River in Washington, D.C., starting in mid-January 2026 and running through mid-March, it was estimated to be the largest sewage spill in U.S. history. But it wasn't the first, nor will it be the last.",
-        "link": "https://phys.org/news/2026-04-washington-dc-milliongallon-sewage-symptom.html",
-        "published_utc": "2026-04-16T20:20:10+00:00",
+        "title": "Webb's Little Red Dots may reveal how giant black holes formed soon after the Big Bang",
+        "summary": "The launch of NASA's James Webb Space Telescope (JWST) in 2021 pushed the horizon of seeing the early universe, unveiling cosmic events just a few hundred million years after the Big Bang. Among the most striking discoveries are supermassive black holes—some reaching 100 million times the mass of our sun.",
+        "link": "https://phys.org/news/2026-04-webb-red-dots-reveal-giant.html",
+        "published_utc": "2026-04-16T23:20:03+00:00",
+        "score": 2,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/little-red-dots-new-cl.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "From lockdown to the lab: Researcher develops 'decoy molecule' to slow down coronavirus",
+        "summary": "While the Netherlands was in lockdown because of the coronavirus, Ph.D. candidate Koen Rijpkema began his research into the same virus. In the lab, he developed molecules that can inhibit an important viral enzyme.",
+        "link": "https://phys.org/news/2026-04-lockdown-lab-decoy-molecule-coronavirus.html",
+        "published_utc": "2026-04-16T23:20:02+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/sewage.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/from-lockdown-to-the-l.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Laser method unlocks 3,000-Kelvin thin-film synthesis for quantum materials",
-        "summary": "Thin films might not come up in conversation every day, but they are all around us. Take the metallic plastic films of chip bags, for example, or the anti-reflective coatings on eyeglasses. Even the coatings on pills that make them easier to swallow are thin films. Depositing extremely thin layers of materials in a consistent and uniform way is also crucial to the production of semiconductors, which are the foundation of modern electronics.",
-        "link": "https://phys.org/news/2026-04-laser-method-kelvin-thin-synthesis.html",
-        "published_utc": "2026-04-16T20:20:02+00:00",
+        "title": "Weighing in on the mystery of the gravitational constant",
+        "summary": "The time had come to open the envelope, but Stephan Schlamminger, a physicist at the National Institute of Standards and Technology (NIST), wasn't sure he wanted to know the secret number that lay inside. For the past 10 years, Schlamminger had spent most of his working hours trying to measure a single quantity, known as the universal gravitational constant, which determines the strength of gravity everywhere in the universe. The secret number would allow Schlamminger to unscramble his data and get his answer.",
+        "link": "https://phys.org/news/2026-04-mystery-gravitational-constant.html",
+        "published_utc": "2026-04-16T23:10:01+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/making-materials-for-q.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/weighing-in-on-the-mys.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Looking deep inside quarks: CMS test probes to 10⁻²⁰ meters and finds no inner structure",
-        "summary": "According to our current understanding of the universe, quarks are fundamental, point-like particles: basic building blocks that are not made up of smaller particles. A recent paper from the CMS Collaboration describes how it probed quarks to the scale of 10-20 meters to test this premise.",
-        "link": "https://phys.org/news/2026-04-deep-quarks-cms-probes-meters.html",
-        "published_utc": "2026-04-16T20:10:01+00:00",
+        "title": "Financial complaint delays hit seniors and veterans hardest, with gaps widening over time",
+        "summary": "When a bank wrongly charges fees, a debt collector harasses someone over a disputed bill, or a mortgage servicer fails to apply payments correctly, Americans have a formal recourse: the Consumer Financial Protection Bureau. Filing a complaint with the CFPB is not like venting on Yelp. Companies are legally required to respond within a defined window, typically 15 days. That legal muscle makes the CFPB fundamentally different from most consumer redress channels.",
+        "link": "https://phys.org/news/2026-04-financial-complaint-delays-seniors-veterans.html",
+        "published_utc": "2026-04-16T23:00:06+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/looking-deep-inside-qu.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/elderly-cell-phone.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Bird and tortoise fossil tracks on South Africa's coast: Latest findings are world firsts",
-        "summary": "The south coast of South Africa's Western Cape province is a rich source of fossil tracks and traces—clues suggesting what this environment may have been like many thousands of years ago.",
-        "link": "https://phys.org/news/2026-04-bird-tortoise-fossil-tracks-south.html",
-        "published_utc": "2026-04-16T20:00:09+00:00",
-        "score": 0,
+        "title": "Relocating Venice among the options explored to protect the city against sea-level rise",
+        "summary": "Relocating the city of Venice is among four potential options—including movable barriers, ring dikes and closing the Venetian Lagoon—that could help it adapt to future sea-level rise over the next 200 years, according to a new study.",
+        "link": "https://phys.org/news/2026-04-relocating-venice-options-explored-city.html",
+        "published_utc": "2026-04-16T23:00:01+00:00",
+        "score": 1,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bird-and-tortoise-foss.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/relocating-venice-amon-1.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Opioids and other drugs accumulating in freshwater fish",
-        "summary": "Fish living downstream of wastewater treatment plants are accumulating antidepressants, opioids and other drugs of abuse in their bodies, according to a new study. Using a new analytical method they developed, a team of researchers from the University of Waterloo discovered that several substances that affect the central nervous system, including fentanyl, methadone and venlafaxine, were detected in small fish living in rivers that receive urban wastewater.",
-        "link": "https://phys.org/news/2026-04-opioids-drugs-accumulating-freshwater-fish.html",
-        "published_utc": "2026-04-16T20:00:07+00:00",
-        "score": 4,
+        "title": "How a new technique will help us mine rare-earth metals with plants",
+        "summary": "Researchers have developed a technique for detecting and measuring the concentration of many rare-earth elements in plants, without destroying the plant. The technique can be used to optimize \"plant mining\" efforts, in which plants take up and concentrate these critical materials so that they can be harvested for practical use. The paper is published in the journal Plant Direct.",
+        "link": "https://phys.org/news/2026-04-technique-rare-earth-metals.html",
+        "published_utc": "2026-04-16T22:50:01+00:00",
+        "score": 1,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/opioids-and-other-drug.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-a-new-technique-wi.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Can we trust the science shaping our lives?",
+        "summary": "Improved methods for social and behavioral sciences research could help enhance public trust in science, says a new study that investigated the robustness of data analysis to understand whether it reliably stood the test of time. It did.",
+        "link": "https://phys.org/news/2026-04-science.html",
+        "published_utc": "2026-04-16T22:40:01+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/science-papers.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Novel technique drills more detail into ice core records",
+        "summary": "Glaciers can reveal vast archives of information about Earth's environmental past, but deciphering the origins of the matter within them can be a challenge. Now, using a novel technique that enables researchers to directly analyze millions of individual particles at once, a new study has revealed that specks of dust trapped in Antarctic ice likely originated from a common source during the last Ice Age, between about 120,000 and 11,500 years ago.",
+        "link": "https://phys.org/news/2026-04-technique-drills-ice-core.html",
+        "published_utc": "2026-04-16T22:30:03+00:00",
+        "score": 2,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/novel-technique-drills.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Quantum bottleneck breaks wide open as one light beam carries 23 secure channels at the same time",
+        "summary": "A new Bar-Ilan University study points to a major advance in quantum information processing, demonstrating a way to send, manipulate, and measure quantum information across many frequency channels simultaneously, rather than one at a time. The study was recently published in the journal Science Advances.",
+        "link": "https://phys.org/news/2026-04-quantum-bottleneck-wide-channels.html",
+        "published_utc": "2026-04-16T22:30:01+00:00",
+        "score": 1,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-quantum-technique.jpg"
       }
     ],
     "environment": [
@@ -638,6 +662,18 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Sfârșitul mesei de paști",
+      "summary": "The post Sfârșitul mesei de paști appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/ovi/sfarsitul-mesei-de-pasti",
+      "published_utc": "2026-04-15T08:01:19+00:00",
+      "score": 3,
+      "freshness_boost": 1,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/Sfarsitul-mesei-de-pasti.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "Platforma americană Rosebud AI, dezvoltată alături de cofondatorii OpenAI, lansează în România un program prin care elevii pot crea jocuri folosind inteligența artificială, fără să știe programare",
       "summary": "Rosebud AI, platforma americană de creare de jocuri 2D și 3D cu ajutorul inteligenței artificiale generative, susținută de nume cheie din industria globală de tehnologie, inclusiv cofondatorii OpenAI, Andrej Karpathy&#8230; Articolul Platforma americană Rosebud AI, dezvoltată alături de cofondatorii OpenAI, lansează în România un program prin care elevii pot crea jocuri folosind inteligența artificială, fără să știe programare apare prima dată în Romania Pozitiva .",
@@ -687,13 +723,13 @@
       "section": "romania",
       "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 Miracol! La 3 zile după ce s-a îndopat cu drob, unui român i-a înviat pofta de şaorma",
-      "summary": "O a doua Înviere a anului a avut loc azi în Sectorul 3 al Capitalei, acolo unde un bărbat de 33 de ani s-a trezit miraculos la viață după 3 zile și a cerut, cu voce tremurândă de emoție, o șaorma mare, cu de toate, „dar fără castraveți, că de la Paști mi s-au umflat [&#8230;] The post Miracol! La 3 zile după ce s-a îndopat cu drob, unui român i-a înviat pofta de şaorma appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/miracol-la-3-zile-dupa-ce-s-a-indopat-cu-drob-unui-roman-i-a-inviat-pofta-de-saorma",
-      "published_utc": "2026-04-16T10:04:53+00:00",
+      "title": "😂 98% din mailurile generalilor români sparte de hackerii ruși sunt comenzi de șaorma",
+      "summary": "Hackerii ruși au spart mai multe mailurile ale generalilor români, dar n-au obținut practic nicio informație relevantă. După ce au descărcat cu mândrie sute de gigabytes de „informații sensibile” din mailurile generalilor români, rușii au descoperit că 98% dintre ele nu sunt altceva decât confirmări ale comenzilor de șaorma, iar restul de 2% reprezintă spam [&#8230;] The post 98% din mailurile generalilor români sparte de hackerii ruși sunt comenzi de șaorma appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/it-stiinta/98-din-mailurile-generalilor-romani-sparte-de-hackerii-rusi-sunt-comenzi-de-saorma",
+      "published_utc": "2026-04-15T09:58:01+00:00",
       "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/barbat_saorma.jpg"
+      "freshness_boost": 1,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/general_roman_saorma.jpg"
     },
     {
       "section": "romania",
@@ -706,18 +742,6 @@
       "score": 3,
       "freshness_boost": 3,
       "image": "https://picsum.photos/seed/vb-e0895dd5588454bb/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 După magiunul de Topoloveni, o nouă marcă protejată: fumul de Sintești",
-      "summary": "Țara noastră anunță cu mândrie încă o victorie importantă pe harta produselor tradiționale: după magiunul de Topoloveni, telemeaua de Ibănești sau cârnații de Pleșcoi, iată că în această frumoasă listă se adaugă și fumul de Sintești, un produs care iese doar din măiestrele mâini ale localnicilor din renumita localitate ilfoveană. Vorbim de un produs care [&#8230;] The post După magiunul de Topoloveni, o nouă marcă protejată: fumul de Sintești appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/dupa-magiunul-de-topoloveni-o-noua-marca-protejata-fumul-de-sintesti",
-      "published_utc": "2026-04-15T23:18:00+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/fum_de_sintesti.jpg"
     },
     {
       "section": "romania",
@@ -807,13 +831,13 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Wild Canadian freshwater fish reveal opioid and antidepressant buildup downstream",
-      "summary": "Fish living downstream of wastewater treatment plants are accumulating antidepressants, opioids and other drugs of abuse in their bodies, according to a new study. Using a new analytical method they developed, a team of researchers from the University of Waterloo discovered that several substances that affect the central nervous system, including fentanyl, methadone and venlafaxine, were detected in small fish living in rivers that receive urban wastewater.",
-      "link": "https://phys.org/news/2026-04-wild-canadian-freshwater-fish-reveal.html",
-      "published_utc": "2026-04-16T20:40:07+00:00",
-      "score": 4,
+      "title": "A newly recognized pollutant is widely present in the atmosphere",
+      "summary": "A new study shows that a specific type of silicone, the so-called methylsiloxanes, is widely present in the atmosphere across diverse environments. Also, concentrations appear to be much higher than expected. According to the researchers, this raises concerns about their potential—yet poorly understood—effects on human health and the climate. Methylsiloxanes are commonly used in industry, transportation, cosmetics, and household products. The study was supervised by Utrecht University and the University of Groningen, and the results are published in Atmospheric Chemistry and Physics.",
+      "link": "https://phys.org/news/2026-04-newly-pollutant-widely-atmosphere.html",
+      "published_utc": "2026-04-16T23:30:01+00:00",
+      "score": 2,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/opioids-and-other-drug.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/newly-recognized-pollu.jpg"
     },
     {
       "section": "romania",
@@ -843,13 +867,13 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Sex pheromone of a sandgrain-sized insect deciphered",
-      "summary": "Parasitic wasps of the genus Trichogramma are among the smallest insects in the world—yet they play an important role in natural ecosystems and agricultural landscapes as natural antagonists of pest species. Research teams from the Universities of Regensburg, Wageningen and Groningen have now identified for the first time the sex pheromone of a Trichogramma wasp. The study shows that unimaginably small amounts of the female pheromone are sufficient to attract males and trigger their courtship behavior. The findings are published in the journal Scientific Reports.",
-      "link": "https://phys.org/news/2026-04-sex-pheromone-sandgrain-sized-insect.html",
-      "published_utc": "2026-04-16T20:40:04+00:00",
-      "score": 1,
+      "title": "Webb's Little Red Dots may reveal how giant black holes formed soon after the Big Bang",
+      "summary": "The launch of NASA's James Webb Space Telescope (JWST) in 2021 pushed the horizon of seeing the early universe, unveiling cosmic events just a few hundred million years after the Big Bang. Among the most striking discoveries are supermassive black holes—some reaching 100 million times the mass of our sun.",
+      "link": "https://phys.org/news/2026-04-webb-red-dots-reveal-giant.html",
+      "published_utc": "2026-04-16T23:20:03+00:00",
+      "score": 2,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/sex-pheromone-of-a-san.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/little-red-dots-new-cl.jpg"
     },
     {
       "section": "romania",
@@ -879,13 +903,13 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Industrial chemical leaks could push ozone layer recovery back by 7 years",
-      "summary": "The recovery of the ozone layer in Earth's stratosphere could be delayed by several years, according to an international study led by Swiss research institution Empa which included contributions from University of Bristol researchers. The cause is persistent emissions of so-called feedstock chemicals, which are still permitted as raw materials in industry. These ozone-depleting substances have so far been excluded from international agreements because, according to the current study, their emissions and use have been significantly underestimated.",
-      "link": "https://phys.org/news/2026-04-industrial-chemical-leaks-ozone-layer.html",
-      "published_utc": "2026-04-16T20:20:14+00:00",
-      "score": 2,
+      "title": "From lockdown to the lab: Researcher develops 'decoy molecule' to slow down coronavirus",
+      "summary": "While the Netherlands was in lockdown because of the coronavirus, Ph.D. candidate Koen Rijpkema began his research into the same virus. In the lab, he developed molecules that can inhibit an important viral enzyme.",
+      "link": "https://phys.org/news/2026-04-lockdown-lab-decoy-molecule-coronavirus.html",
+      "published_utc": "2026-04-16T23:20:02+00:00",
+      "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/industrial-chemicals-d.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/from-lockdown-to-the-l.jpg"
     },
     {
       "section": "romania",
@@ -903,61 +927,85 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Washington DC's 240 million‑gallon sewage spill is a symptom of nationwide trouble",
-      "summary": "When 240 million gallons of raw sewage spilled into the Potomac River in Washington, D.C., starting in mid-January 2026 and running through mid-March, it was estimated to be the largest sewage spill in U.S. history. But it wasn't the first, nor will it be the last.",
-      "link": "https://phys.org/news/2026-04-washington-dc-milliongallon-sewage-symptom.html",
-      "published_utc": "2026-04-16T20:20:10+00:00",
+      "title": "Weighing in on the mystery of the gravitational constant",
+      "summary": "The time had come to open the envelope, but Stephan Schlamminger, a physicist at the National Institute of Standards and Technology (NIST), wasn't sure he wanted to know the secret number that lay inside. For the past 10 years, Schlamminger had spent most of his working hours trying to measure a single quantity, known as the universal gravitational constant, which determines the strength of gravity everywhere in the universe. The secret number would allow Schlamminger to unscramble his data and get his answer.",
+      "link": "https://phys.org/news/2026-04-mystery-gravitational-constant.html",
+      "published_utc": "2026-04-16T23:10:01+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/sewage.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/weighing-in-on-the-mys.jpg"
     },
     {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Laser method unlocks 3,000-Kelvin thin-film synthesis for quantum materials",
-      "summary": "Thin films might not come up in conversation every day, but they are all around us. Take the metallic plastic films of chip bags, for example, or the anti-reflective coatings on eyeglasses. Even the coatings on pills that make them easier to swallow are thin films. Depositing extremely thin layers of materials in a consistent and uniform way is also crucial to the production of semiconductors, which are the foundation of modern electronics.",
-      "link": "https://phys.org/news/2026-04-laser-method-kelvin-thin-synthesis.html",
-      "published_utc": "2026-04-16T20:20:02+00:00",
+      "title": "Financial complaint delays hit seniors and veterans hardest, with gaps widening over time",
+      "summary": "When a bank wrongly charges fees, a debt collector harasses someone over a disputed bill, or a mortgage servicer fails to apply payments correctly, Americans have a formal recourse: the Consumer Financial Protection Bureau. Filing a complaint with the CFPB is not like venting on Yelp. Companies are legally required to respond within a defined window, typically 15 days. That legal muscle makes the CFPB fundamentally different from most consumer redress channels.",
+      "link": "https://phys.org/news/2026-04-financial-complaint-delays-seniors-veterans.html",
+      "published_utc": "2026-04-16T23:00:06+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/making-materials-for-q.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/elderly-cell-phone.jpg"
     },
     {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Looking deep inside quarks: CMS test probes to 10⁻²⁰ meters and finds no inner structure",
-      "summary": "According to our current understanding of the universe, quarks are fundamental, point-like particles: basic building blocks that are not made up of smaller particles. A recent paper from the CMS Collaboration describes how it probed quarks to the scale of 10-20 meters to test this premise.",
-      "link": "https://phys.org/news/2026-04-deep-quarks-cms-probes-meters.html",
-      "published_utc": "2026-04-16T20:10:01+00:00",
-      "score": 0,
+      "title": "Relocating Venice among the options explored to protect the city against sea-level rise",
+      "summary": "Relocating the city of Venice is among four potential options—including movable barriers, ring dikes and closing the Venetian Lagoon—that could help it adapt to future sea-level rise over the next 200 years, according to a new study.",
+      "link": "https://phys.org/news/2026-04-relocating-venice-options-explored-city.html",
+      "published_utc": "2026-04-16T23:00:01+00:00",
+      "score": 1,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/looking-deep-inside-qu.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/relocating-venice-amon-1.jpg"
     },
     {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Bird and tortoise fossil tracks on South Africa's coast: Latest findings are world firsts",
-      "summary": "The south coast of South Africa's Western Cape province is a rich source of fossil tracks and traces—clues suggesting what this environment may have been like many thousands of years ago.",
-      "link": "https://phys.org/news/2026-04-bird-tortoise-fossil-tracks-south.html",
-      "published_utc": "2026-04-16T20:00:09+00:00",
-      "score": 0,
+      "title": "How a new technique will help us mine rare-earth metals with plants",
+      "summary": "Researchers have developed a technique for detecting and measuring the concentration of many rare-earth elements in plants, without destroying the plant. The technique can be used to optimize \"plant mining\" efforts, in which plants take up and concentrate these critical materials so that they can be harvested for practical use. The paper is published in the journal Plant Direct.",
+      "link": "https://phys.org/news/2026-04-technique-rare-earth-metals.html",
+      "published_utc": "2026-04-16T22:50:01+00:00",
+      "score": 1,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bird-and-tortoise-foss.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-a-new-technique-wi.jpg"
     },
     {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Opioids and other drugs accumulating in freshwater fish",
-      "summary": "Fish living downstream of wastewater treatment plants are accumulating antidepressants, opioids and other drugs of abuse in their bodies, according to a new study. Using a new analytical method they developed, a team of researchers from the University of Waterloo discovered that several substances that affect the central nervous system, including fentanyl, methadone and venlafaxine, were detected in small fish living in rivers that receive urban wastewater.",
-      "link": "https://phys.org/news/2026-04-opioids-drugs-accumulating-freshwater-fish.html",
-      "published_utc": "2026-04-16T20:00:07+00:00",
-      "score": 4,
+      "title": "Can we trust the science shaping our lives?",
+      "summary": "Improved methods for social and behavioral sciences research could help enhance public trust in science, says a new study that investigated the robustness of data analysis to understand whether it reliably stood the test of time. It did.",
+      "link": "https://phys.org/news/2026-04-science.html",
+      "published_utc": "2026-04-16T22:40:01+00:00",
+      "score": 3,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/opioids-and-other-drug.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/science-papers.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Novel technique drills more detail into ice core records",
+      "summary": "Glaciers can reveal vast archives of information about Earth's environmental past, but deciphering the origins of the matter within them can be a challenge. Now, using a novel technique that enables researchers to directly analyze millions of individual particles at once, a new study has revealed that specks of dust trapped in Antarctic ice likely originated from a common source during the last Ice Age, between about 120,000 and 11,500 years ago.",
+      "link": "https://phys.org/news/2026-04-technique-drills-ice-core.html",
+      "published_utc": "2026-04-16T22:30:03+00:00",
+      "score": 2,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/novel-technique-drills.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Quantum bottleneck breaks wide open as one light beam carries 23 secure channels at the same time",
+      "summary": "A new Bar-Ilan University study points to a major advance in quantum information processing, demonstrating a way to send, manipulate, and measure quantum information across many frequency channels simultaneously, rather than one at a time. The study was recently published in the journal Science Advances.",
+      "link": "https://phys.org/news/2026-04-quantum-bottleneck-wide-channels.html",
+      "published_utc": "2026-04-16T22:30:01+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-quantum-technique.jpg"
     },
     {
       "section": "medical",
@@ -1304,6 +1352,7 @@
       "https://live.staticflickr.com/65535/55192444878_554c4a2c30_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/55200954007_420317cfd0_b.jpg",
       "https://live.staticflickr.com/1445/24259565702_922dedd9cf_b.jpg",
       "https://live.staticflickr.com/65535/55208694760_ebfcac98ba_b.jpg",
       "https://live.staticflickr.com/4592/39549168292_5fc04d73c5_b.jpg",
@@ -1320,10 +1369,10 @@
       "https://live.staticflickr.com/4560/37616219594_c1c080592f_b.jpg",
       "https://live.staticflickr.com/65535/26909057839_28785e8888_b.jpg",
       "https://live.staticflickr.com/65535/55202320390_394bf83e53_b.jpg",
-      "https://live.staticflickr.com/65535/55202069838_39301888da_b.jpg",
-      "https://live.staticflickr.com/65535/55199875836_47fdc7a350_b.jpg"
+      "https://live.staticflickr.com/65535/55202069838_39301888da_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55210629572_f2ba867980_b.jpg",
       "https://live.staticflickr.com/65535/55211580599_9bc2095fce_b.jpg",
       "https://live.staticflickr.com/65535/55211498268_09cfd64f30_b.jpg",
       "https://live.staticflickr.com/65535/55211753703_be6d0b8d22_b.jpg",
@@ -1340,12 +1389,11 @@
       "https://live.staticflickr.com/65535/55210638390_dd4161f2d1_b.jpg",
       "https://live.staticflickr.com/65535/55210065914_5bd33fa76f_b.jpg",
       "https://live.staticflickr.com/65535/55209438418_2096f6da72_b.jpg",
-      "https://live.staticflickr.com/65535/55208376012_c9184513f7_b.jpg",
-      "https://live.staticflickr.com/65535/55209221678_847ed28a25_b.jpg"
+      "https://live.staticflickr.com/65535/55208376012_c9184513f7_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
+      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
