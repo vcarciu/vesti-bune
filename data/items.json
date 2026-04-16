@@ -1,7 +1,31 @@
 {
-  "generated_utc": "2026-04-16T01:27:33+00:00",
+  "generated_utc": "2026-04-16T04:43:56+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "INTERVIU. Avertisment de la Prodecanul Facultății de Automatică din București: „Când Uber ajunge să vândă traseele oamenilor care merg la clinici de oncologie”",
+        "summary": "Societatea are responsabilitatea să-i confrunte pe Sam Altman și pe mogulii tehnologiei care fac „transfer din bunul public către interesele private”,&#160; crede profesorul Răzvan Rughiniș, prodecan al Facultății de Automatică și Calculatoare din cadrul Universității Politehnice București.&#160; Răzvan Rughiniș este profesor la Universitatea Politehnică București, specialist în inteligența artificială și autor al cărții „Societatea digitală. &#8230;",
+        "link": "https://hotnews.ro/interviu-avertisment-de-la-prodecanul-facultatii-de-automatica-din-bucuresti-cand-uber-ajunge-sa-vanda-traseele-oamenilor-care-merg-la-clinici-de-oncologie-2219588",
+        "published_utc": "2026-04-16T03:52:45+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-22439aefb38cdfb9/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 După magiunul de Topoloveni, o nouă marcă protejată: fumul de Sintești",
+        "summary": "Țara noastră anunță cu mândrie încă o victorie importantă pe harta produselor tradiționale: după magiunul de Topoloveni, telemeaua de Ibănești sau cârnații de Pleșcoi, iată că în această frumoasă listă se adaugă și fumul de Sintești, un produs care iese doar din măiestrele mâini ale localnicilor din renumita localitate ilfoveană. Vorbim de un produs care [&#8230;] The post După magiunul de Topoloveni, o nouă marcă protejată: fumul de Sintești appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/life-death/dupa-magiunul-de-topoloveni-o-noua-marca-protejata-fumul-de-sintesti",
+        "published_utc": "2026-04-15T23:18:00+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/fum_de_sintesti.jpg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -49,18 +73,6 @@
         "score": 3,
         "freshness_boost": 3,
         "image": "https://picsum.photos/seed/vb-d9ed4acf51e95405/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 98% din mailurile generalilor români sparte de hackerii ruși sunt comenzi de șaorma",
-        "summary": "Hackerii ruși au spart mai multe mailurile ale generalilor români, dar n-au obținut practic nicio informație relevantă. După ce au descărcat cu mândrie sute de gigabytes de „informații sensibile” din mailurile generalilor români, rușii au descoperit că 98% dintre ele nu sunt altceva decât confirmări ale comenzilor de șaorma, iar restul de 2% reprezintă spam [&#8230;] The post 98% din mailurile generalilor români sparte de hackerii ruși sunt comenzi de șaorma appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/it-stiinta/98-din-mailurile-generalilor-romani-sparte-de-hackerii-rusi-sunt-comenzi-de-saorma",
-        "published_utc": "2026-04-15T09:58:01+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/general_roman_saorma.jpg"
       },
       {
         "section": "romania",
@@ -506,6 +518,18 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "HotNews",
+      "title": "INTERVIU. Avertisment de la Prodecanul Facultății de Automatică din București: „Când Uber ajunge să vândă traseele oamenilor care merg la clinici de oncologie”",
+      "summary": "Societatea are responsabilitatea să-i confrunte pe Sam Altman și pe mogulii tehnologiei care fac „transfer din bunul public către interesele private”,&#160; crede profesorul Răzvan Rughiniș, prodecan al Facultății de Automatică și Calculatoare din cadrul Universității Politehnice București.&#160; Răzvan Rughiniș este profesor la Universitatea Politehnică București, specialist în inteligența artificială și autor al cărții „Societatea digitală. &#8230;",
+      "link": "https://hotnews.ro/interviu-avertisment-de-la-prodecanul-facultatii-de-automatica-din-bucuresti-cand-uber-ajunge-sa-vanda-traseele-oamenilor-care-merg-la-clinici-de-oncologie-2219588",
+      "published_utc": "2026-04-16T03:52:45+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-22439aefb38cdfb9/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "Asociația Rubik lansează ghiduri gratuite de educație naturalistă destinate școlilor din România",
       "summary": "Asociația Rubik Educație Alternativă anunță lansarea a două ghiduri educaționale gratuite, disponibile pentru descărcare pe platforma www.formatorzvac.ro. Resursele vizează sprijinirea cadrelor didactice în implementarea educației naturaliste și dezvoltarea abilităților practice&#8230; Articolul Asociația Rubik lansează ghiduri gratuite de educație naturalistă destinate școlilor din România apare prima dată în Romania Pozitiva .",
@@ -514,6 +538,18 @@
       "score": 3,
       "freshness_boost": 3,
       "image": "https://picsum.photos/seed/vb-3f40fb09d62e13b8/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 După magiunul de Topoloveni, o nouă marcă protejată: fumul de Sintești",
+      "summary": "Țara noastră anunță cu mândrie încă o victorie importantă pe harta produselor tradiționale: după magiunul de Topoloveni, telemeaua de Ibănești sau cârnații de Pleșcoi, iată că în această frumoasă listă se adaugă și fumul de Sintești, un produs care iese doar din măiestrele mâini ale localnicilor din renumita localitate ilfoveană. Vorbim de un produs care [&#8230;] The post După magiunul de Topoloveni, o nouă marcă protejată: fumul de Sintești appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/life-death/dupa-magiunul-de-topoloveni-o-noua-marca-protejata-fumul-de-sintesti",
+      "published_utc": "2026-04-15T23:18:00+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/fum_de_sintesti.jpg"
     },
     {
       "section": "romania",
@@ -590,14 +626,14 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 98% din mailurile generalilor români sparte de hackerii ruși sunt comenzi de șaorma",
-      "summary": "Hackerii ruși au spart mai multe mailurile ale generalilor români, dar n-au obținut practic nicio informație relevantă. După ce au descărcat cu mândrie sute de gigabytes de „informații sensibile” din mailurile generalilor români, rușii au descoperit că 98% dintre ele nu sunt altceva decât confirmări ale comenzilor de șaorma, iar restul de 2% reprezintă spam [&#8230;] The post 98% din mailurile generalilor români sparte de hackerii ruși sunt comenzi de șaorma appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/it-stiinta/98-din-mailurile-generalilor-romani-sparte-de-hackerii-rusi-sunt-comenzi-de-saorma",
-      "published_utc": "2026-04-15T09:58:01+00:00",
+      "source": "RomaniaPozitiva",
+      "title": "Salvați Copiii România și Fundația OMV Petrom deschid concursul “Primul pas spre sănătate 4.0” pentru dotarea a aproximativ 60 de cabinete de medicină de familie din mediul rural",
+      "summary": "București, 15 aprilie 2026: Un număr de până la 60 de cabinete de medicină de familie din zone dezavantajate vor fi dotate cu aparatură medicală modernă de către Organizația Salvați&#8230; Articolul Salvați Copiii România și Fundația OMV Petrom deschid concursul “Primul pas spre sănătate 4.0” pentru dotarea a aproximativ 60 de cabinete de medicină de familie din mediul rural apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/csr/salvati-copiii-romania-si-fundatia-omv-petrom-deschid-concursul-primul-pas-spre-sanatate-4-0-pentru-dotarea-a-aproximativ-60-de-cabinete-de-medicina-de-familie-din-mediul-rural",
+      "published_utc": "2026-04-15T17:34:30+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/general_roman_saorma.jpg"
+      "image": "https://picsum.photos/seed/vb-d9ed4acf51e95405/480/320"
     },
     {
       "section": "romania",
@@ -610,18 +646,6 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-670d4182437cf28f/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "Salvați Copiii România și Fundația OMV Petrom deschid concursul “Primul pas spre sănătate 4.0” pentru dotarea a aproximativ 60 de cabinete de medicină de familie din mediul rural",
-      "summary": "București, 15 aprilie 2026: Un număr de până la 60 de cabinete de medicină de familie din zone dezavantajate vor fi dotate cu aparatură medicală modernă de către Organizația Salvați&#8230; Articolul Salvați Copiii România și Fundația OMV Petrom deschid concursul “Primul pas spre sănătate 4.0” pentru dotarea a aproximativ 60 de cabinete de medicină de familie din mediul rural apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/csr/salvati-copiii-romania-si-fundatia-omv-petrom-deschid-concursul-primul-pas-spre-sanatate-4-0-pentru-dotarea-a-aproximativ-60-de-cabinete-de-medicina-de-familie-din-mediul-rural",
-      "published_utc": "2026-04-15T17:34:30+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-d9ed4acf51e95405/480/320"
     },
     {
       "section": "romania",
@@ -684,18 +708,6 @@
       "image": "https://picsum.photos/seed/vb-a5a22f02f60b7d29/480/320"
     },
     {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Fundatia Inocenti",
-      "title": "Povestea lui Ionuț: cum sprijinul educațional schimbă viața unui copil",
-      "summary": "Află povestea lui Ionuț și cum sprijinul educațional și emoțional oferit de Fundația Inocenți ajută copiii vulnerabili să își descopere încrederea în sine. The post Povestea lui Ionuț: cum sprijinul educațional schimbă viața unui copil appeared first on Fundația Inocenți .",
-      "link": "https://inocenti.ro/povestea-lui-ionut-cum-sprijinul-educational-schimba-viata-unui-copil",
-      "published_utc": "2026-03-05T15:19:42+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-ed87bce9b35837eb/480/320"
-    },
-    {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
@@ -706,6 +718,18 @@
       "score": 0,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/epa-delays-decisions-o.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Fundatia Inocenti",
+      "title": "Povestea lui Ionuț: cum sprijinul educațional schimbă viața unui copil",
+      "summary": "Află povestea lui Ionuț și cum sprijinul educațional și emoțional oferit de Fundația Inocenți ajută copiii vulnerabili să își descopere încrederea în sine. The post Povestea lui Ionuț: cum sprijinul educațional schimbă viața unui copil appeared first on Fundația Inocenți .",
+      "link": "https://inocenti.ro/povestea-lui-ionut-cum-sprijinul-educational-schimba-viata-unui-copil",
+      "published_utc": "2026-03-05T15:19:42+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-ed87bce9b35837eb/480/320"
     },
     {
       "section": "medical",
@@ -1088,6 +1112,7 @@
       "https://live.staticflickr.com/65535/55191338819_e0e844e025_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/55202012006_0ec1bdd7f8_b.jpg",
       "https://live.staticflickr.com/4560/37616219594_c1c080592f_b.jpg",
       "https://live.staticflickr.com/65535/26909057839_28785e8888_b.jpg",
       "https://live.staticflickr.com/65535/55202320390_394bf83e53_b.jpg",
@@ -1104,10 +1129,10 @@
       "https://live.staticflickr.com/65535/55198363804_1d2f334b4f_b.jpg",
       "https://live.staticflickr.com/65535/55201023392_26dbe7b807_b.jpg",
       "https://live.staticflickr.com/65535/55202069928_c6b0246d46_b.jpg",
-      "https://live.staticflickr.com/65535/55204552084_89ed19ef38_b.jpg",
-      "https://live.staticflickr.com/65535/11532139364_d253437a5a_b.jpg"
+      "https://live.staticflickr.com/65535/55204552084_89ed19ef38_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55210449638_eb6f86857d_b.jpg",
       "https://live.staticflickr.com/65535/55210638390_dd4161f2d1_b.jpg",
       "https://live.staticflickr.com/65535/55210065914_5bd33fa76f_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/3/3f/NYC_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg",
@@ -1124,12 +1149,11 @@
       "https://live.staticflickr.com/65535/55208001999_f92907ea77_b.jpg",
       "https://live.staticflickr.com/65535/55208001924_af27b361ae_b.jpg",
       "https://live.staticflickr.com/65535/55207778208_142b245be3_b.jpg",
-      "https://live.staticflickr.com/65535/55207960478_9c03ebe492_b.jpg",
-      "https://live.staticflickr.com/65535/55207551316_d7bbc450e8_b.jpg"
+      "https://live.staticflickr.com/65535/55207960478_9c03ebe492_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
+      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
