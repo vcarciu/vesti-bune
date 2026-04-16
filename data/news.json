@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-04-16T15:18:34+00:00",
+  "generated_utc": "2026-04-16T17:03:30+00:00",
   "sections": {
     "romania": [
       {
@@ -49,6 +49,18 @@
         "score": 3,
         "freshness_boost": 3,
         "image": "https://picsum.photos/seed/vb-320b221910a8bb40/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 Prédatór Magyar",
+        "summary": "The post Prédatór Magyar appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/uncategorized/predator-magyar",
+        "published_utc": "2026-04-16T08:00:25+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/Predator-Magyar.jpg"
       },
       {
         "section": "romania",
@@ -113,30 +125,6 @@
       {
         "section": "romania",
         "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 Șeful ITM București spune că umblă cu Lamborghini doar de nevoie, că are elicopterul în service",
-        "summary": "După ce în presă a început să circule informația că se deplasează la birou la volanul unui Lamborghini Urus de 300.000 de euro, șeful ITM București a ținut să facă anumite precizări, unele pe care el le consideră extrem de importante. „Vreau să fie clar pentru toată lumea: vin cu Lamborghini-ul la birou doar de [&#8230;] The post Șeful ITM București spune că umblă cu Lamborghini doar de nevoie, că are elicopterul în service appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/life-death/seful-itm-bucuresti-spune-ca-umbla-cu-lamborghini-doar-de-nevoie-ca-are-elicopterul-in-service",
-        "published_utc": "2026-04-15T13:24:26+00:00",
-        "score": 3,
-        "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/seful_itm_lamborghini.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 98% din mailurile generalilor români sparte de hackerii ruși sunt comenzi de șaorma",
-        "summary": "Hackerii ruși au spart mai multe mailurile ale generalilor români, dar n-au obținut practic nicio informație relevantă. După ce au descărcat cu mândrie sute de gigabytes de „informații sensibile” din mailurile generalilor români, rușii au descoperit că 98% dintre ele nu sunt altceva decât confirmări ale comenzilor de șaorma, iar restul de 2% reprezintă spam [&#8230;] The post 98% din mailurile generalilor români sparte de hackerii ruși sunt comenzi de șaorma appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/it-stiinta/98-din-mailurile-generalilor-romani-sparte-de-hackerii-rusi-sunt-comenzi-de-saorma",
-        "published_utc": "2026-04-15T09:58:01+00:00",
-        "score": 3,
-        "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/general_roman_saorma.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
         "source": "SOS Satele Copiilor Romania",
         "title": "Psiholog",
         "summary": "Locație: București &#124; Nivel carieră: Experiență de minimum 1 an Candidatul Ideal: Ești tu vocea de care au nevoie? Un copil are nevoie de iubire, siguranță și încredere pentru a... The post Psiholog appeared first on SOS Satele Copiilor România .",
@@ -157,6 +145,18 @@
         "score": 3,
         "freshness_boost": 1,
         "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/simion_sofer_plans.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 I-au furat imaginea! Cine e Marcel, bărbatul a cărui burtă de bere apare pe panourile anti-cezariană",
+        "summary": "Încă nu e clar cine e în spatele afişelor împotriva naşterii prin cezariană, dar un lucru e clar: i-a furat imaginea lui Marcel! Bărbatul de 44 de ani din cartierul Berceni, posesor al unei impresionante burţi de bere, spune că pozele lui de pe Facebook au fost folosite fără permisiune în cadrul campaniei de propagandă. [&#8230;] The post I-au furat imaginea! Cine e Marcel, bărbatul a cărui burtă de bere apare pe panourile anti-cezariană appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/monden/i-au-furat-imaginea-cine-e-marcel-barbatul-a-carui-burta-de-bere-apare-pe-panourile-anti-cezariana",
+        "published_utc": "2026-04-14T13:33:45+00:00",
+        "score": 3,
+        "freshness_boost": 1,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/bereanticezariana.jpg"
       },
       {
         "section": "romania",
@@ -418,145 +418,109 @@
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Human sense of smell evolved with diets and lifestyle, genetic study suggests",
-        "summary": "From the ability to detect the smell of wet soil to the scent of ripe fruit, the human olfactory system has evolved over thousands of years in response to how people live and what they eat, according to a new genetic study of Indigenous populations in Malaysia.",
-        "link": "https://phys.org/news/2026-04-human-evolved-diets-lifestyle-genetic.html",
-        "published_utc": "2026-04-16T15:00:09+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/sense-of-smell-1.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Managing risks when intervening to help coral reefs",
-        "summary": "A new tool to help scientists and reef managers consider the ecological risks of different coral reef interventions around the world has been developed by researchers from the Australian Institute of Marine Science (AIMS). The resulting database enables users to identify and explore the risks of a range of interventions from small-scale coral gardening to more advanced approaches like assisted evolution, where corals and their life-giving symbiont algae are made more heat tolerant by accelerating evolutionary processes.",
-        "link": "https://phys.org/news/2026-04-intervening-coral-reefs.html",
-        "published_utc": "2026-04-16T15:00:02+00:00",
+        "title": "Microscopic green pigment provides insights into how successive typhoons drive cumulative water and ecosystem changes",
+        "summary": "A microscopic green pigment can provide major insights into how severe tropical cyclones called typhoons impact water flow and ecosystems. Called chlorophyll a, the pigment is responsible for absorbing light and initiating the photosynthesis process for algae, other plants and some bacteria. The amount of chlorophyll a in a body of water acts as a proxy measurement for the organisms that feed on it, with sharp increases or decreases indicating a disrupted ecosystem.",
+        "link": "https://phys.org/news/2026-04-microscopic-green-pigment-insights-successive.html",
+        "published_utc": "2026-04-16T17:00:05+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/managing-risks-when-in.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tiny-green-pigment-pro.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Atlantic current system could be weakening faster than expected",
-        "summary": "The Atlantic current system, or more formally the Atlantic Meridional Overturning Circulation (AMOC), is more likely to weaken than previously thought. That's the conclusion of a new study published in the journal Science Advances, which used more refined modeling techniques to get a clearer picture of the future. If these new projections are correct, the consequences could be severe, particularly for Europe and Africa.",
-        "link": "https://phys.org/news/2026-04-atlantic-current-weakening-faster.html",
-        "published_utc": "2026-04-16T14:40:05+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/atlantic-current-syste.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Too hot to handle? How heat is reshaping US population shifts",
-        "summary": "As extreme heat intensifies across the United States, it's widely assumed that rising temperatures will push people to pack up and leave. But new research from Florida Atlantic University challenges that narrative, showing that heat alone isn't driving Americans away—at least not yet.",
-        "link": "https://phys.org/news/2026-04-hot-reshaping-population-shifts.html",
-        "published_utc": "2026-04-16T14:40:01+00:00",
+        "title": "Feeling lonely? Try a walk in the great outdoors",
+        "summary": "Taking part in activities can make you less lonely, because you meet people, and because social gatherings are a positive thing. But can the mere fact of being active, especially in natural surroundings, help prevent loneliness?",
+        "link": "https://phys.org/news/2026-04-lonely-great-outdoors.html",
+        "published_utc": "2026-04-16T16:40:06+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/too-hot-to-handle-stud.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "NASA Breaking News",
-        "title": "At the Edge of Light",
-        "summary": "In this photo taken on April 6, 2026, a portion of the Moon’s far side is seen along the terminator—the boundary between lunar day and night—where low-angle sunlight casts long shadows across the surface. A section of Orientale Basin is visible along the upper right portion of the lunar disk, its structure subtly revealed under [&#8230;]",
-        "link": "https://www.nasa.gov/image-article/at-the-edge-of-light",
-        "published_utc": "2026-04-16T14:38:02+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-c0d803fe2e37023f/480/320"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/nature-walk.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Polymer physics reveals DNA loops are formed by single molecular motors",
-        "summary": "Scientists from Skoltech and the University of Potsdam have developed a physical theory that sheds light on how molecular motors organize the three-dimensional structure of the genome. Using theoretical polymer physics and computer simulations, the researchers for the first time calculated a universal parameter of this organization—the density of loops formed through active extrusion by cohesin motors in each living cell.",
-        "link": "https://phys.org/news/2026-04-polymer-physics-reveals-dna-loops.html",
-        "published_utc": "2026-04-16T14:20:06+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/polymer-physics-reveal.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "How industry and geography play a role in support for radical right parties",
-        "summary": "Dr. Ruben Ruiz Rufino found that communities with clusters of workers in labor-intensive sectors consistently showed higher levels of support for radical-right movements than areas dominated by knowledge-based industries. The study, published in the journal Political Studies, sought to examine how local economic environments shape political attitudes across Europe.",
-        "link": "https://phys.org/news/2026-04-industry-geography-play-role-radical.html",
-        "published_utc": "2026-04-16T14:20:01+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-industry-and-geogr.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Titan's lakes may spawn 10-foot waves in gentle winds, new model suggests",
-        "summary": "On a calm day, a light breeze might barely ripple the surface of a lake on Earth. But on Saturn's largest moon, Titan, a similar mild wind would kick up 10-foot-tall waves. This otherworldly behavior is one prediction from a new wave model developed by scientists at MIT. The model is the first to capture the full dynamics of waves and what it takes to whip them up under different planetary conditions.",
-        "link": "https://phys.org/news/2026-04-titan-lakes-spawn-foot-gentle.html",
-        "published_utc": "2026-04-16T14:00:06+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/waves-hit-different-on.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Tracing anglers in the Gulf Coast: New machine learning tools reveal when, where and how anglers fish",
-        "summary": "The Gulf Coast is recognized worldwide for its exceptional fishing opportunities, offering anglers a wide variety of species such as trout, red snapper, and grouper. Recreational fishing represents a significant—yet historically undermeasured—aspect of overall fisheries pressure in the region, raising concerns about its impact on fish populations and the need for effective conservation and management.",
-        "link": "https://phys.org/news/2026-04-tracinganglers-gulf-coast-machinelearning-tools.html",
-        "published_utc": "2026-04-16T14:00:03+00:00",
-        "score": 4,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/angler.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "ALMA confirms rare quasar pair at redshift 5.7 in merging galaxies",
-        "summary": "Using the Atacama Large Millimeter/submillimeter Array (ALMA), astronomers have discovered a close pair of quasars, which is a result of a distant massive galaxy merger. The detection of the quasar pair was detailed in a research paper published April 7 on the arXiv pre-print server.",
-        "link": "https://phys.org/news/2026-04-alma-rare-quasar-pair-redshift.html",
-        "published_utc": "2026-04-16T13:32:51+00:00",
+        "title": "Why couples may be wrong to dread talking about money",
+        "summary": "For many couples, few conversations feel more uncomfortable than talking about money. But new research suggests financial discussions tend to go better than partners anticipate. In a study published in Social Psychological and Personality Science, researchers found that people consistently underestimate how enjoyable, productive and relationship-building financial conversations with their romantic partners will be.",
+        "link": "https://phys.org/news/2026-04-couples-wrong-dread-money.html",
+        "published_utc": "2026-04-16T16:20:05+00:00",
         "score": 2,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/close-pair-of-quasars.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/household-finances.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Combining seismic and space data to detect calving in Greenland glaciers",
-        "summary": "When the edge of a Greenland glacier breaks off into the sea to become an iceberg, can a global seismic network \"hear\" it? The answer is yes—but only if the event is a large one. And it helps to pair the resulting surface seismic waves with satellite observations to get the best overall chance at detecting calving tidewater glaciers, researchers said at the 2026 SSA Annual Meeting.",
-        "link": "https://phys.org/news/2026-04-combining-seismic-space-calving-greenland.html",
-        "published_utc": "2026-04-16T13:20:07+00:00",
+        "title": "Patagonia yields 155-million-year-old long-necked dinosaur with links to two famous lineages",
+        "summary": "A German–Argentine team of paleontologists led by SNSB dinosaur expert Oliver Rauhut has discovered a new long-necked dinosaur, Bicharracosaurus dionidei, from the Upper Jurassic period in Argentina, dating back approximately 155 million years. Long-necked dinosaur fossils from the Jurassic period in the Southern Hemisphere are rare, so the new fossil contributes to a better understanding of the evolution of these giant herbivores on the southern continents. The researchers have now published their findings in the journal PeerJ.",
+        "link": "https://phys.org/news/2026-04-patagonia-yields-million-year-necked.html",
+        "published_utc": "2026-04-16T16:00:06+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/palaeontologists-disco.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Improving everyday journeys for women and girls",
+        "summary": "Welsh local authorities will have new guidance to help make walking, wheeling and cycling safer and more accessible for women and girls, thanks to work led by an Aberystwyth University academic.",
+        "link": "https://phys.org/news/2026-04-everyday-journeys-women-girls.html",
+        "published_utc": "2026-04-16T16:00:01+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/improving-everyday-jou.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "From Salford to Shanghai: Cities taking control of housing",
+        "summary": "A major new international study led by The University of Manchester has revealed how policymakers around the world are becoming far more active in constructing affordable housing. Drawing on evidence from cities including Salford, Shanghai, Nairobi and Paris, the research shows how governments are stepping in where private markets have failed—reshaping housing systems, markets and state institutions in the process. The findings are published in the journal Urban Studies.",
+        "link": "https://phys.org/news/2026-04-salford-shanghai-cities-housing.html",
+        "published_utc": "2026-04-16T15:40:05+00:00",
         "score": 1,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/glacier-breaking.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/housing-shanghai.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "AI turns plain-language prompts into lab-ready recipes for novel materials",
-        "summary": "Advances in artificial intelligence promise to help chemical engineers discover complex new materials. These materials could be used for reactions such as turning carbon dioxide into fuel, but technical barriers have limited catalysis adoption so far. Researchers at the University of Rochester are now harnessing the benefits of large language models (LLMs) similar to ChatGPT, Claude, or Gemini to empower more researchers to use AI to discover new materials and accelerate experiment workflows.",
-        "link": "https://phys.org/news/2026-04-ai-plain-language-prompts-lab.html",
-        "published_utc": "2026-04-16T13:20:05+00:00",
-        "score": 5,
+        "title": "Laser-plasma accelerator drives free-electron laser for record 8 hours",
+        "summary": "For the first time, researchers have demonstrated that a laser-plasma accelerator can reliably drive a free-electron laser for more than eight hours. Published in Physical Review Accelerators and Beams, the result was achieved by a team led by Finn Kohrell at Lawrence Berkeley National Laboratory, in collaboration with Texas-based company Tau Systems—and could soon make the technology vastly more accessible for a broad range of applications in industry and research.",
+        "link": "https://phys.org/news/2026-04-laser-plasma-free-electron-hours.html",
+        "published_utc": "2026-04-16T15:40:03+00:00",
+        "score": 1,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-use-large.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/laser-plasma-accelerat.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Tomato industry taking steps to stop spread of parasitic weed",
+        "summary": "California's processing tomato industry for the first time this past harvest season, agreed to voluntary equipment cleaning and notification guidelines to prevent the spread of branched broomrape, a parasitic weed that attaches to roots and sucks out key nutrients.",
+        "link": "https://phys.org/news/2026-04-tomato-industry-parasitic-weed.html",
+        "published_utc": "2026-04-16T15:20:08+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tomato-industry-taking.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Solar flares' domino effect isn't limited to the sun, 16,000-star sweep reveals",
+        "summary": "Our sun is a roiling mass of energy, with solar flares exploding on its surface, sending gas, plasma, and light that blasts across the solar system. When radiation from extra-powerful flares breaks through Earth's outer protective magnetosphere, it can affect satellites and even electric grids and cause the aurora borealis—lighting up the night sky.",
+        "link": "https://phys.org/news/2026-04-solar-flares-domino-effect-isnt.html",
+        "published_utc": "2026-04-16T15:20:02+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2021/solar-flare.jpg"
       }
     ],
     "environment": [
@@ -710,6 +674,18 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 George Simion, în lacrimi! Gigi Becali i-a luat șoferul, că a rămas fără permis",
+      "summary": "George Simion s-a trezit victimă colaterală după ce polițiștii i-au reținut permisul auto lui Gigi Becali. Cum nu mai are voie la volan, patronul FCSB s-a văzut nevoit să-și ia șofer și, dintre toți șoferii de pe lume, l-a ales tocmai pe cel al lui George Simion. Vestea l-a lovit ca un trăsnet pe George [&#8230;] The post George Simion, în lacrimi! Gigi Becali i-a luat șoferul, că a rămas fără permis appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/politic/george-simion-in-lacrimi-gigi-becali-i-a-luat-soferul-ca-a-ramas-fara-permis",
+      "published_utc": "2026-04-15T04:11:00+00:00",
+      "score": 3,
+      "freshness_boost": 1,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/simion_sofer_plans.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "„Atlasul Universului”, regizat de Paul Negoescu, în selecția Cannes Écrans Juniors 2026, program desfășurat sub umbrela Festivalului Internațional de Film de la Cannes",
       "summary": "Filmul „Atlasul Universului”, premiat anul acesta la festivalurile internaționale de la Berlin și la Sofia, face parte din selecția Cannes Écrans Juniors, prezentată în timpul Festivalului Internațional de Film de&#8230; Articolul „Atlasul Universului”, regizat de Paul Negoescu, în selecția Cannes Écrans Juniors 2026, program desfășurat sub umbrela Festivalului Internațional de Film de la Cannes apare prima dată în Romania Pozitiva .",
@@ -718,6 +694,18 @@
       "score": 3,
       "freshness_boost": 3,
       "image": "https://picsum.photos/seed/vb-96d1859e64f6fe1e/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Prédatór Magyar",
+      "summary": "The post Prédatór Magyar appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/uncategorized/predator-magyar",
+      "published_utc": "2026-04-16T08:00:25+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/Predator-Magyar.jpg"
     },
     {
       "section": "romania",
@@ -742,30 +730,6 @@
       "score": 3,
       "freshness_boost": 3,
       "image": "https://picsum.photos/seed/vb-3f40fb09d62e13b8/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Șeful ITM București spune că umblă cu Lamborghini doar de nevoie, că are elicopterul în service",
-      "summary": "După ce în presă a început să circule informația că se deplasează la birou la volanul unui Lamborghini Urus de 300.000 de euro, șeful ITM București a ținut să facă anumite precizări, unele pe care el le consideră extrem de importante. „Vreau să fie clar pentru toată lumea: vin cu Lamborghini-ul la birou doar de [&#8230;] The post Șeful ITM București spune că umblă cu Lamborghini doar de nevoie, că are elicopterul în service appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/seful-itm-bucuresti-spune-ca-umbla-cu-lamborghini-doar-de-nevoie-ca-are-elicopterul-in-service",
-      "published_utc": "2026-04-15T13:24:26+00:00",
-      "score": 3,
-      "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/seful_itm_lamborghini.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 98% din mailurile generalilor români sparte de hackerii ruși sunt comenzi de șaorma",
-      "summary": "Hackerii ruși au spart mai multe mailurile ale generalilor români, dar n-au obținut practic nicio informație relevantă. După ce au descărcat cu mândrie sute de gigabytes de „informații sensibile” din mailurile generalilor români, rușii au descoperit că 98% dintre ele nu sunt altceva decât confirmări ale comenzilor de șaorma, iar restul de 2% reprezintă spam [&#8230;] The post 98% din mailurile generalilor români sparte de hackerii ruși sunt comenzi de șaorma appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/it-stiinta/98-din-mailurile-generalilor-romani-sparte-de-hackerii-rusi-sunt-comenzi-de-saorma",
-      "published_utc": "2026-04-15T09:58:01+00:00",
-      "score": 3,
-      "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/general_roman_saorma.jpg"
     },
     {
       "section": "romania",
@@ -807,13 +771,13 @@
       "section": "romania",
       "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 George Simion, în lacrimi! Gigi Becali i-a luat șoferul, că a rămas fără permis",
-      "summary": "George Simion s-a trezit victimă colaterală după ce polițiștii i-au reținut permisul auto lui Gigi Becali. Cum nu mai are voie la volan, patronul FCSB s-a văzut nevoit să-și ia șofer și, dintre toți șoferii de pe lume, l-a ales tocmai pe cel al lui George Simion. Vestea l-a lovit ca un trăsnet pe George [&#8230;] The post George Simion, în lacrimi! Gigi Becali i-a luat șoferul, că a rămas fără permis appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/politic/george-simion-in-lacrimi-gigi-becali-i-a-luat-soferul-ca-a-ramas-fara-permis",
-      "published_utc": "2026-04-15T04:11:00+00:00",
+      "title": "😂 I-au furat imaginea! Cine e Marcel, bărbatul a cărui burtă de bere apare pe panourile anti-cezariană",
+      "summary": "Încă nu e clar cine e în spatele afişelor împotriva naşterii prin cezariană, dar un lucru e clar: i-a furat imaginea lui Marcel! Bărbatul de 44 de ani din cartierul Berceni, posesor al unei impresionante burţi de bere, spune că pozele lui de pe Facebook au fost folosite fără permisiune în cadrul campaniei de propagandă. [&#8230;] The post I-au furat imaginea! Cine e Marcel, bărbatul a cărui burtă de bere apare pe panourile anti-cezariană appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/monden/i-au-furat-imaginea-cine-e-marcel-barbatul-a-carui-burta-de-bere-apare-pe-panourile-anti-cezariana",
+      "published_utc": "2026-04-14T13:33:45+00:00",
       "score": 3,
       "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/simion_sofer_plans.jpg"
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/bereanticezariana.jpg"
     },
     {
       "section": "romania",
@@ -855,13 +819,13 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Human sense of smell evolved with diets and lifestyle, genetic study suggests",
-      "summary": "From the ability to detect the smell of wet soil to the scent of ripe fruit, the human olfactory system has evolved over thousands of years in response to how people live and what they eat, according to a new genetic study of Indigenous populations in Malaysia.",
-      "link": "https://phys.org/news/2026-04-human-evolved-diets-lifestyle-genetic.html",
-      "published_utc": "2026-04-16T15:00:09+00:00",
-      "score": 1,
+      "title": "Microscopic green pigment provides insights into how successive typhoons drive cumulative water and ecosystem changes",
+      "summary": "A microscopic green pigment can provide major insights into how severe tropical cyclones called typhoons impact water flow and ecosystems. Called chlorophyll a, the pigment is responsible for absorbing light and initiating the photosynthesis process for algae, other plants and some bacteria. The amount of chlorophyll a in a body of water acts as a proxy measurement for the organisms that feed on it, with sharp increases or decreases indicating a disrupted ecosystem.",
+      "link": "https://phys.org/news/2026-04-microscopic-green-pigment-insights-successive.html",
+      "published_utc": "2026-04-16T17:00:05+00:00",
+      "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/sense-of-smell-1.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tiny-green-pigment-pro.jpg"
     },
     {
       "section": "romania",
@@ -888,16 +852,16 @@
       "image": "https://picsum.photos/seed/vb-5c5602f10ee5770c/480/320"
     },
     {
-      "section": "medical",
+      "section": "science",
       "kind": "global",
-      "source": "Medical Xpress",
-      "title": "New mapping model can help cities efficiently deploy blood resources to patients most in need",
-      "summary": "Using data from hospitals and emergency medical service providers to map out areas with the greatest need for trauma care and prehospital whole blood transfusions can enable hospital systems to deploy scarce blood resources quickly and minimize waste, according to a study published in the Journal of the American College of Surgeons (JACS).",
-      "link": "https://medicalxpress.com/news/2026-04-cities-efficiently-deploy-blood-resources.html",
-      "published_utc": "2026-04-16T15:00:06+00:00",
-      "score": 1,
+      "source": "Phys.org",
+      "title": "Feeling lonely? Try a walk in the great outdoors",
+      "summary": "Taking part in activities can make you less lonely, because you meet people, and because social gatherings are a positive thing. But can the mere fact of being active, especially in natural surroundings, help prevent loneliness?",
+      "link": "https://phys.org/news/2026-04-lonely-great-outdoors.html",
+      "published_utc": "2026-04-16T16:40:06+00:00",
+      "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/blood-transfusion.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/nature-walk.jpg"
     },
     {
       "section": "romania",
@@ -924,16 +888,16 @@
       "image": "https://picsum.photos/seed/vb-a5a22f02f60b7d29/480/320"
     },
     {
-      "section": "medical",
+      "section": "science",
       "kind": "global",
-      "source": "Medical Xpress",
-      "title": "A black licorice compound slashes gut inflammation and cell death in IBD models and animals",
-      "summary": "A new study published in Stem Cell Reports demonstrates how a human stem cell-derived model of the intestine can be used to identify potential therapies for inflammatory bowel disease (IBD), highlighting glycyrrhizin as a promising candidate for reducing intestinal inflammation and cell death.",
-      "link": "https://medicalxpress.com/news/2026-04-black-licorice-compound-slashes-gut.html",
-      "published_utc": "2026-04-16T15:00:05+00:00",
+      "source": "Phys.org",
+      "title": "Why couples may be wrong to dread talking about money",
+      "summary": "For many couples, few conversations feel more uncomfortable than talking about money. But new research suggests financial discussions tend to go better than partners anticipate. In a study published in Social Psychological and Personality Science, researchers found that people consistently underestimate how enjoyable, productive and relationship-building financial conversations with their romantic partners will be.",
+      "link": "https://phys.org/news/2026-04-couples-wrong-dread-money.html",
+      "published_utc": "2026-04-16T16:20:05+00:00",
       "score": 2,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/natural-component-from-1.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/household-finances.jpg"
     },
     {
       "section": "romania",
@@ -948,6 +912,102 @@
       "image": "https://picsum.photos/seed/vb-ed87bce9b35837eb/480/320"
     },
     {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Patagonia yields 155-million-year-old long-necked dinosaur with links to two famous lineages",
+      "summary": "A German–Argentine team of paleontologists led by SNSB dinosaur expert Oliver Rauhut has discovered a new long-necked dinosaur, Bicharracosaurus dionidei, from the Upper Jurassic period in Argentina, dating back approximately 155 million years. Long-necked dinosaur fossils from the Jurassic period in the Southern Hemisphere are rare, so the new fossil contributes to a better understanding of the evolution of these giant herbivores on the southern continents. The researchers have now published their findings in the journal PeerJ.",
+      "link": "https://phys.org/news/2026-04-patagonia-yields-million-year-necked.html",
+      "published_utc": "2026-04-16T16:00:06+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/palaeontologists-disco.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Improving everyday journeys for women and girls",
+      "summary": "Welsh local authorities will have new guidance to help make walking, wheeling and cycling safer and more accessible for women and girls, thanks to work led by an Aberystwyth University academic.",
+      "link": "https://phys.org/news/2026-04-everyday-journeys-women-girls.html",
+      "published_utc": "2026-04-16T16:00:01+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/improving-everyday-jou.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "From Salford to Shanghai: Cities taking control of housing",
+      "summary": "A major new international study led by The University of Manchester has revealed how policymakers around the world are becoming far more active in constructing affordable housing. Drawing on evidence from cities including Salford, Shanghai, Nairobi and Paris, the research shows how governments are stepping in where private markets have failed—reshaping housing systems, markets and state institutions in the process. The findings are published in the journal Urban Studies.",
+      "link": "https://phys.org/news/2026-04-salford-shanghai-cities-housing.html",
+      "published_utc": "2026-04-16T15:40:05+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/housing-shanghai.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Laser-plasma accelerator drives free-electron laser for record 8 hours",
+      "summary": "For the first time, researchers have demonstrated that a laser-plasma accelerator can reliably drive a free-electron laser for more than eight hours. Published in Physical Review Accelerators and Beams, the result was achieved by a team led by Finn Kohrell at Lawrence Berkeley National Laboratory, in collaboration with Texas-based company Tau Systems—and could soon make the technology vastly more accessible for a broad range of applications in industry and research.",
+      "link": "https://phys.org/news/2026-04-laser-plasma-free-electron-hours.html",
+      "published_utc": "2026-04-16T15:40:03+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/laser-plasma-accelerat.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Tomato industry taking steps to stop spread of parasitic weed",
+      "summary": "California's processing tomato industry for the first time this past harvest season, agreed to voluntary equipment cleaning and notification guidelines to prevent the spread of branched broomrape, a parasitic weed that attaches to roots and sucks out key nutrients.",
+      "link": "https://phys.org/news/2026-04-tomato-industry-parasitic-weed.html",
+      "published_utc": "2026-04-16T15:20:08+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tomato-industry-taking.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Solar flares' domino effect isn't limited to the sun, 16,000-star sweep reveals",
+      "summary": "Our sun is a roiling mass of energy, with solar flares exploding on its surface, sending gas, plasma, and light that blasts across the solar system. When radiation from extra-powerful flares breaks through Earth's outer protective magnetosphere, it can affect satellites and even electric grids and cause the aurora borealis—lighting up the night sky.",
+      "link": "https://phys.org/news/2026-04-solar-flares-domino-effect-isnt.html",
+      "published_utc": "2026-04-16T15:20:02+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2021/solar-flare.jpg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "New mapping model can help cities efficiently deploy blood resources to patients most in need",
+      "summary": "Using data from hospitals and emergency medical service providers to map out areas with the greatest need for trauma care and prehospital whole blood transfusions can enable hospital systems to deploy scarce blood resources quickly and minimize waste, according to a study published in the Journal of the American College of Surgeons (JACS).",
+      "link": "https://medicalxpress.com/news/2026-04-cities-efficiently-deploy-blood-resources.html",
+      "published_utc": "2026-04-16T15:00:06+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/blood-transfusion.jpg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "A black licorice compound slashes gut inflammation and cell death in IBD models and animals",
+      "summary": "A new study published in Stem Cell Reports demonstrates how a human stem cell-derived model of the intestine can be used to identify potential therapies for inflammatory bowel disease (IBD), highlighting glycyrrhizin as a promising candidate for reducing intestinal inflammation and cell death.",
+      "link": "https://medicalxpress.com/news/2026-04-black-licorice-compound-slashes-gut.html",
+      "published_utc": "2026-04-16T15:00:05+00:00",
+      "score": 2,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/natural-component-from-1.jpg"
+    },
+    {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
@@ -958,18 +1018,6 @@
       "score": 1,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/neurobiologists-hack-b.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Managing risks when intervening to help coral reefs",
-      "summary": "A new tool to help scientists and reef managers consider the ecological risks of different coral reef interventions around the world has been developed by researchers from the Australian Institute of Marine Science (AIMS). The resulting database enables users to identify and explore the risks of a range of interventions from small-scale coral gardening to more advanced approaches like assisted evolution, where corals and their life-giving symbiont algae are made more heat tolerant by accelerating evolutionary processes.",
-      "link": "https://phys.org/news/2026-04-intervening-coral-reefs.html",
-      "published_utc": "2026-04-16T15:00:02+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/managing-risks-when-in.jpg"
     },
     {
       "section": "medical",
@@ -984,18 +1032,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/blood-sugar-level.jpg"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Atlantic current system could be weakening faster than expected",
-      "summary": "The Atlantic current system, or more formally the Atlantic Meridional Overturning Circulation (AMOC), is more likely to weaken than previously thought. That's the conclusion of a new study published in the journal Science Advances, which used more refined modeling techniques to get a clearer picture of the future. If these new projections are correct, the consequences could be severe, particularly for Europe and Africa.",
-      "link": "https://phys.org/news/2026-04-atlantic-current-weakening-faster.html",
-      "published_utc": "2026-04-16T14:40:05+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/atlantic-current-syste.jpg"
-    },
-    {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
@@ -1006,42 +1042,6 @@
       "score": 0,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/skin-cancer-biological.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Too hot to handle? How heat is reshaping US population shifts",
-      "summary": "As extreme heat intensifies across the United States, it's widely assumed that rising temperatures will push people to pack up and leave. But new research from Florida Atlantic University challenges that narrative, showing that heat alone isn't driving Americans away—at least not yet.",
-      "link": "https://phys.org/news/2026-04-hot-reshaping-population-shifts.html",
-      "published_utc": "2026-04-16T14:40:01+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/too-hot-to-handle-stud.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "NASA Breaking News",
-      "title": "At the Edge of Light",
-      "summary": "In this photo taken on April 6, 2026, a portion of the Moon’s far side is seen along the terminator—the boundary between lunar day and night—where low-angle sunlight casts long shadows across the surface. A section of Orientale Basin is visible along the upper right portion of the lunar disk, its structure subtly revealed under [&#8230;]",
-      "link": "https://www.nasa.gov/image-article/at-the-edge-of-light",
-      "published_utc": "2026-04-16T14:38:02+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-c0d803fe2e37023f/480/320"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Polymer physics reveals DNA loops are formed by single molecular motors",
-      "summary": "Scientists from Skoltech and the University of Potsdam have developed a physical theory that sheds light on how molecular motors organize the three-dimensional structure of the genome. Using theoretical polymer physics and computer simulations, the researchers for the first time calculated a universal parameter of this organization—the density of loops formed through active extrusion by cohesin motors in each living cell.",
-      "link": "https://phys.org/news/2026-04-polymer-physics-reveals-dna-loops.html",
-      "published_utc": "2026-04-16T14:20:06+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/polymer-physics-reveal.jpg"
     },
     {
       "section": "medical",
@@ -1056,30 +1056,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/beyond-cell-death-the.jpg"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "How industry and geography play a role in support for radical right parties",
-      "summary": "Dr. Ruben Ruiz Rufino found that communities with clusters of workers in labor-intensive sectors consistently showed higher levels of support for radical-right movements than areas dominated by knowledge-based industries. The study, published in the journal Political Studies, sought to examine how local economic environments shape political attitudes across Europe.",
-      "link": "https://phys.org/news/2026-04-industry-geography-play-role-radical.html",
-      "published_utc": "2026-04-16T14:20:01+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-industry-and-geogr.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Titan's lakes may spawn 10-foot waves in gentle winds, new model suggests",
-      "summary": "On a calm day, a light breeze might barely ripple the surface of a lake on Earth. But on Saturn's largest moon, Titan, a similar mild wind would kick up 10-foot-tall waves. This otherworldly behavior is one prediction from a new wave model developed by scientists at MIT. The model is the first to capture the full dynamics of waves and what it takes to whip them up under different planetary conditions.",
-      "link": "https://phys.org/news/2026-04-titan-lakes-spawn-foot-gentle.html",
-      "published_utc": "2026-04-16T14:00:06+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/waves-hit-different-on.jpg"
-    },
-    {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
@@ -1092,18 +1068,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-smarter-way-to-find-3.jpg"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Tracing anglers in the Gulf Coast: New machine learning tools reveal when, where and how anglers fish",
-      "summary": "The Gulf Coast is recognized worldwide for its exceptional fishing opportunities, offering anglers a wide variety of species such as trout, red snapper, and grouper. Recreational fishing represents a significant—yet historically undermeasured—aspect of overall fisheries pressure in the region, raising concerns about its impact on fish populations and the need for effective conservation and management.",
-      "link": "https://phys.org/news/2026-04-tracinganglers-gulf-coast-machinelearning-tools.html",
-      "published_utc": "2026-04-16T14:00:03+00:00",
-      "score": 4,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/angler.jpg"
-    },
-    {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
@@ -1114,42 +1078,6 @@
       "score": 1,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/ivf-1.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "ALMA confirms rare quasar pair at redshift 5.7 in merging galaxies",
-      "summary": "Using the Atacama Large Millimeter/submillimeter Array (ALMA), astronomers have discovered a close pair of quasars, which is a result of a distant massive galaxy merger. The detection of the quasar pair was detailed in a research paper published April 7 on the arXiv pre-print server.",
-      "link": "https://phys.org/news/2026-04-alma-rare-quasar-pair-redshift.html",
-      "published_utc": "2026-04-16T13:32:51+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/close-pair-of-quasars.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Combining seismic and space data to detect calving in Greenland glaciers",
-      "summary": "When the edge of a Greenland glacier breaks off into the sea to become an iceberg, can a global seismic network \"hear\" it? The answer is yes—but only if the event is a large one. And it helps to pair the resulting surface seismic waves with satellite observations to get the best overall chance at detecting calving tidewater glaciers, researchers said at the 2026 SSA Annual Meeting.",
-      "link": "https://phys.org/news/2026-04-combining-seismic-space-calving-greenland.html",
-      "published_utc": "2026-04-16T13:20:07+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/glacier-breaking.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "AI turns plain-language prompts into lab-ready recipes for novel materials",
-      "summary": "Advances in artificial intelligence promise to help chemical engineers discover complex new materials. These materials could be used for reactions such as turning carbon dioxide into fuel, but technical barriers have limited catalysis adoption so far. Researchers at the University of Rochester are now harnessing the benefits of large language models (LLMs) similar to ChatGPT, Claude, or Gemini to empower more researchers to use AI to discover new materials and accelerate experiment workflows.",
-      "link": "https://phys.org/news/2026-04-ai-plain-language-prompts-lab.html",
-      "published_utc": "2026-04-16T13:20:05+00:00",
-      "score": 5,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-use-large.jpg"
     },
     {
       "section": "medical",
@@ -1400,6 +1328,7 @@
       "https://live.staticflickr.com/65535/55192444878_554c4a2c30_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/39729955371_019c36d5db_b.jpg",
       "https://live.staticflickr.com/65535/55210689836_e9e6fb5a5d_b.jpg",
       "https://live.staticflickr.com/65535/55201023392_26dbe7b807_b.jpg",
       "https://live.staticflickr.com/65535/55202069928_c6b0246d46_b.jpg",
@@ -1416,10 +1345,10 @@
       "https://live.staticflickr.com/65535/55196571774_08b8104d59_b.jpg",
       "https://live.staticflickr.com/65535/55206798862_31353e7530_b.jpg",
       "https://live.staticflickr.com/65535/55198723572_805e2147bb_b.jpg",
-      "https://live.staticflickr.com/65535/55200500249_190951e670_b.jpg",
-      "https://live.staticflickr.com/65535/55208694760_ebfcac98ba_b.jpg"
+      "https://live.staticflickr.com/65535/55200500249_190951e670_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55211343388_70cf47ea8f_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/3/3f/NYC_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg",
       "https://live.staticflickr.com/65535/55210915841_2505f4f753_b.jpg",
       "https://live.staticflickr.com/65535/55211134464_2e92daeb66_b.jpg",
@@ -1436,12 +1365,11 @@
       "https://live.staticflickr.com/65535/55208733928_8bd5621f56_b.jpg",
       "https://live.staticflickr.com/65535/55207681512_59015978e1_b.jpg",
       "https://live.staticflickr.com/65535/55206908597_76041cde5b_b.jpg",
-      "https://live.staticflickr.com/65535/55208204310_ac26606b8e_b.jpg",
-      "https://live.staticflickr.com/65535/55208215645_13e0a2126b_b.jpg"
+      "https://live.staticflickr.com/65535/55208204310_ac26606b8e_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
+      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
