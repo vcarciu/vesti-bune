@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-04-17T16:42:18+00:00",
+  "generated_utc": "2026-04-17T17:40:11+00:00",
   "sections": {
     "romania": [
       {
@@ -65,18 +65,6 @@
       {
         "section": "romania",
         "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 Chiar a fost un Paște fericit. Nu s-a îngrășat nimeni, nu mai e nevoie de cure de slăbire",
-        "summary": "Ce n-au reușit ani de îndoctrinare religioasă au reușit guvernanții în doar câteva luni de administrare judicioasă a țării. Paștele de anul acesta a fost unul cu adevărat fericit, în care oamenii au petrecut fără să exagereze, iar cazurile în care cineva a ajuns la spital pentru că a mâncat prea mult au fost aproape [&#8230;] The post Chiar a fost un Paște fericit. Nu s-a îngrășat nimeni, nu mai e nevoie de cure de slăbire appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/life-death/chiar-a-fost-un-paste-fericit-nu-s-a-ingrasat-nimeni-nu-mai-e-nevoie-de-cure-de-slabire",
-        "published_utc": "2026-04-17T10:28:14+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2020/07/slabit_dor_de_tara.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
         "source": "Digi24",
         "title": "Controale în zona Sălii Palatului: Poliția verifică parcările ilegale și „rezervările” contra cost",
         "summary": "Poliţiştii desfășoară controale, de vineri seara şi pe parcursul a trei zile în zona Sălii Palatului, pentru a preveni blocajele generate de parcările neregulamentare şi pentru a combate activităţile ilegale asociate concertelor.",
@@ -132,6 +120,18 @@
         "score": 3,
         "freshness_boost": 1,
         "image": "https://picsum.photos/seed/vb-320b221910a8bb40/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 După magiunul de Topoloveni, o nouă marcă protejată: fumul de Sintești",
+        "summary": "Țara noastră anunță cu mândrie încă o victorie importantă pe harta produselor tradiționale: după magiunul de Topoloveni, telemeaua de Ibănești sau cârnații de Pleșcoi, iată că în această frumoasă listă se adaugă și fumul de Sintești, un produs care iese doar din măiestrele mâini ale localnicilor din renumita localitate ilfoveană. Vorbim de un produs care [&#8230;] The post După magiunul de Topoloveni, o nouă marcă protejată: fumul de Sintești appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/life-death/dupa-magiunul-de-topoloveni-o-noua-marca-protejata-fumul-de-sintesti",
+        "published_utc": "2026-04-15T23:18:00+00:00",
+        "score": 3,
+        "freshness_boost": 1,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/fum_de_sintesti.jpg"
       },
       {
         "section": "romania",
@@ -637,6 +637,18 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Compromis cu Pfizer. În loc de vaccinuri vom primi Viagra de toți banii",
+      "summary": "Procesul pierdut cu compania Pfizer pentru vaccinurile pe care le-am comandat în pandemie ar putea afecta grav economia României, care și-așa nu este într-o situație foarte bună. Totuși, ca să nu fim iar în situația de a arunca bani pe fereastră Ministerul Sănătății a reușit, în urma unor negocieri foarte dure, să ajungă la un [&#8230;] The post Compromis cu Pfizer. În loc de vaccinuri vom primi Viagra de toți banii appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/life-death/compromis-cu-pfizer-in-loc-de-vaccinuri-vom-primi-viagra-de-toti-banii",
+      "published_utc": "2026-04-17T08:58:51+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/roman-viagra.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "Galațiul și-a desemnat câștigătorii: Premiul I la semifinala Maratonului pentru Educație Antreprenorială ediția a IV a revenit echipei Liceului Teoretic „Sfânta Maria”",
       "summary": "Teatrul Național de Operă și Operetă „Nae Leonard&#8221; din Galați a fost gazda semifinalei „Maratonului pentru Educație Antreprenorială” IV, program inițiat de Confederația Națională pentru Antreprenoriat Feminin (CONAF). Evenimentul a&#8230; Articolul Galațiul și-a desemnat câștigătorii: Premiul I la semifinala Maratonului pentru Educație Antreprenorială ediția a IV a revenit echipei Liceului Teoretic „Sfânta Maria” apare prima dată în Romania Pozitiva .",
@@ -669,30 +681,6 @@
       "score": 3,
       "freshness_boost": 3,
       "image": "https://picsum.photos/seed/vb-d3fa7fb7e4f6e2ed/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Un nou sondaj de opinie ne arată că românii răspund la sondaje în loc să muncească",
-      "summary": "Un nou sondaj de opinie arată că românii continuă să se afle în topul cetățenilor UE care răspund la sondaje de opinie în loc să muncească. Țara noastră se află pe primul loc în acest domeniu, mai bine de 60% din cei chestionați spun că preferă să răspundă la un sondaj de opinie indiferent de [&#8230;] The post Un nou sondaj de opinie ne arată că românii răspund la sondaje în loc să muncească appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/un-nou-sondaj-de-opinie-ne-arata-ca-romanii-raspund-la-sondaje-in-loc-sa-munceasca",
-      "published_utc": "2026-04-17T12:13:17+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2025/04/nea_costel_bere_telefon.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Compromis cu Pfizer. În loc de vaccinuri vom primi Viagra de toți banii",
-      "summary": "Procesul pierdut cu compania Pfizer pentru vaccinurile pe care le-am comandat în pandemie ar putea afecta grav economia României, care și-așa nu este într-o situație foarte bună. Totuși, ca să nu fim iar în situația de a arunca bani pe fereastră Ministerul Sănătății a reușit, în urma unor negocieri foarte dure, să ajungă la un [&#8230;] The post Compromis cu Pfizer. În loc de vaccinuri vom primi Viagra de toți banii appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/compromis-cu-pfizer-in-loc-de-vaccinuri-vom-primi-viagra-de-toti-banii",
-      "published_utc": "2026-04-17T08:58:51+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/roman-viagra.jpg"
     },
     {
       "section": "romania",
@@ -734,13 +722,25 @@
       "section": "romania",
       "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 Chiar a fost un Paște fericit. Nu s-a îngrășat nimeni, nu mai e nevoie de cure de slăbire",
-      "summary": "Ce n-au reușit ani de îndoctrinare religioasă au reușit guvernanții în doar câteva luni de administrare judicioasă a țării. Paștele de anul acesta a fost unul cu adevărat fericit, în care oamenii au petrecut fără să exagereze, iar cazurile în care cineva a ajuns la spital pentru că a mâncat prea mult au fost aproape [&#8230;] The post Chiar a fost un Paște fericit. Nu s-a îngrășat nimeni, nu mai e nevoie de cure de slăbire appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/chiar-a-fost-un-paste-fericit-nu-s-a-ingrasat-nimeni-nu-mai-e-nevoie-de-cure-de-slabire",
-      "published_utc": "2026-04-17T10:28:14+00:00",
+      "title": "😂 Un nou sondaj de opinie ne arată că românii răspund la sondaje în loc să muncească",
+      "summary": "Un nou sondaj de opinie arată că românii continuă să se afle în topul cetățenilor UE care răspund la sondaje de opinie în loc să muncească. Țara noastră se află pe primul loc în acest domeniu, mai bine de 60% din cei chestionați spun că preferă să răspundă la un sondaj de opinie indiferent de [&#8230;] The post Un nou sondaj de opinie ne arată că românii răspund la sondaje în loc să muncească appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/life-death/un-nou-sondaj-de-opinie-ne-arata-ca-romanii-raspund-la-sondaje-in-loc-sa-munceasca",
+      "published_utc": "2026-04-17T12:13:17+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2020/07/slabit_dor_de_tara.jpg"
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2025/04/nea_costel_bere_telefon.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 După magiunul de Topoloveni, o nouă marcă protejată: fumul de Sintești",
+      "summary": "Țara noastră anunță cu mândrie încă o victorie importantă pe harta produselor tradiționale: după magiunul de Topoloveni, telemeaua de Ibănești sau cârnații de Pleșcoi, iată că în această frumoasă listă se adaugă și fumul de Sintești, un produs care iese doar din măiestrele mâini ale localnicilor din renumita localitate ilfoveană. Vorbim de un produs care [&#8230;] The post După magiunul de Topoloveni, o nouă marcă protejată: fumul de Sintești appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/life-death/dupa-magiunul-de-topoloveni-o-noua-marca-protejata-fumul-de-sintesti",
+      "published_utc": "2026-04-15T23:18:00+00:00",
+      "score": 3,
+      "freshness_boost": 1,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/fum_de_sintesti.jpg"
     },
     {
       "section": "romania",
@@ -1326,6 +1326,7 @@
       "https://live.staticflickr.com/65535/55195727189_9b19fee4b4_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/55202069838_39301888da_b.jpg",
       "https://live.staticflickr.com/65535/26909057839_28785e8888_b.jpg",
       "https://live.staticflickr.com/65535/55206798862_31353e7530_b.jpg",
       "https://live.staticflickr.com/65535/55202320400_e211db1fb1_b.jpg",
@@ -1342,13 +1343,12 @@
       "https://live.staticflickr.com/4592/39549168292_5fc04d73c5_b.jpg",
       "https://live.staticflickr.com/65535/55201023462_c3de566b36_b.jpg",
       "https://live.staticflickr.com/65535/55202442054_8f99b14f16_b.jpg",
-      "https://live.staticflickr.com/65535/39729955371_019c36d5db_b.jpg",
-      "https://live.staticflickr.com/65535/55210689836_e9e6fb5a5d_b.jpg"
+      "https://live.staticflickr.com/65535/39729955371_019c36d5db_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55213398575_c9bf222a73_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/3/3f/NYC_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg",
       "https://live.staticflickr.com/65535/55213306380_4702aa3831_b.jpg",
-      "https://live.staticflickr.com/65535/55213398575_c9bf222a73_b.jpg",
       "https://live.staticflickr.com/65535/55212654641_594f99a420_b.jpg",
       "https://live.staticflickr.com/65535/55212156843_fee9213995_b.jpg",
       "https://live.staticflickr.com/65535/55210629572_f2ba867980_b.jpg",
@@ -1366,8 +1366,8 @@
       "https://live.staticflickr.com/65535/55210449638_eb6f86857d_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
+      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
