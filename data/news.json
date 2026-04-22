@@ -1,7 +1,55 @@
 {
-  "generated_utc": "2026-04-22T06:30:04+00:00",
+  "generated_utc": "2026-04-22T08:24:51+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Start-Up Romania",
+        "title": "De ce să participarea la FOMO - The Festival of Modern Owners",
+        "summary": "FOMO - The Festival Of Modern Owners este organizat de platforma MO - Modern Owners, o inițiativă 100% românească dedicată noii generații de antreprenori și freelanceri, care își propune să creeze...",
+        "link": "https://start-up.ro/de-ce-sa-participarea-la-fomo-the-festival-of-modern-owners",
+        "published_utc": "2026-04-22T08:06:07+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://start-up.ro/img/articles/3/8/2/38238/cover-38238-src.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Studiu Deloitte România despre piața locală de artă: pictura contemporană domină opțiunile de achiziție. Colecționarii îmbină criteriile estetice cu un interes investițional în creștere",
+        "summary": "Pictura contemporană domină opțiunile de achiziție (76%) ale colecționarilor români, în concordanță cu tendințele regionale, urmată de pictura clasică (54%), arată cea de-a doua ediție a studiului Deloitte „Romania Art Report”, realizat în colaborare cu Asociația RAD și cu casa de licitații Artmark. Percepția asupra pieței de artă din România este una predominant orientată spre &#8230;",
+        "link": "https://hotnews.ro/studiu-deloitte-romania-despre-piata-locala-de-arta-pictura-contemporana-domina-optiunile-de-achizitie-colectionarii-imbina-criteriile-estetice-cu-un-interes-investitional-in-crestere-2225934",
+        "published_utc": "2026-04-22T07:56:05+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-29040915676b38d3/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "StartUp Coach: Coperta pitch deck-ului: cel mai ignorat slide care stă cel mai mult pe ecran",
+        "summary": "Acest articol face parte din seria Startup Coach, by Early Game Ventures, dedicată în întregime pitch deck-ului — cel mai important document pe care îl vei scrie ca fondator care vrea să ridice finanțare VC. Seria abordează, pas cu pas, structura unui deck convingător: de la cum gândești povestea, până la ce trebuie să conțină fiecare slide &#8230;",
+        "link": "https://hotnews.ro/startup-coach-coperta-pitch-deck-ului-cel-mai-ignorat-slide-care-sta-cel-mai-mult-pe-ecran-2225913",
+        "published_utc": "2026-04-22T07:49:38+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-9a6037d4039c028e/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Start-Up Romania",
+        "title": "Voxa după finanțarea de 4 mil. euro: ”pregătim lansarea în Balcani și vrem să ajungem la un milion de titluri în portofoliu”",
+        "summary": "Voxa este cea mai cunoscută platformă de audiobooks construită în România. De la lansarea în 2021, Voxa a ajuns pe 10 piețe, de la Italia și Spania, până în America Latină. Recent, compania condusă...",
+        "link": "https://start-up.ro/voxa-dupa-finantarea-de-4-mil-de-euro",
+        "published_utc": "2026-04-22T06:48:30+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://start-up.ro/img/articles/3/8/2/38233/cover-38233-src.jpg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -13,30 +61,6 @@
         "score": 3,
         "freshness_boost": 3,
         "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/grindeanu_fuge_cotroceni.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Green Start-Up Romania",
-        "title": "Bateria care se încarcă în doar 7 minute oferă un nou potențial mașinilor electrice",
-        "summary": "Bateria Shenxing de generația a treia, dezvoltată de CATL, promite timpi de încărcare reduși pentru vehiculele electrice și marchează un nou pas în evoluția tehnologiei LFP (litiu-fier-fosfat)....",
-        "link": "https://green.start-up.ro/ro/bateria-care-se-incarca-in-doar-7-minute-ofera-un-nou-potential-masinilor-electrice",
-        "published_utc": "2026-04-22T05:05:06+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://green.start-up.ro/img/articles/3/5/8/35849/cover-35849-src.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Green Start-Up Romania",
-        "title": "Arborele care poate elimina peste 98% din microplasticele din apă",
-        "summary": "Un arbore utilizat pentru purificarea apei ar putea contribui la reducerea microplasticelor din apa potabilă, după ce un studiu arată că semințele sale pot elimina până la 98% din aceste particule....",
-        "link": "https://green.start-up.ro/ro/arborele-care-poate-elimina-peste-98-din-microplasticele-din-apa",
-        "published_utc": "2026-04-22T05:05:01+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://green.start-up.ro/img/articles/3/5/8/35847/cover-35847-src.jpg"
       },
       {
         "section": "romania",
@@ -114,12 +138,24 @@
         "section": "romania",
         "kind": "ro",
         "source": "Times New Roman (Satira)",
+        "title": "😂 Cultura, în corzi! Singura bibliotecă unde mai mergea lumea, Biblioteca Cișmigiu, a fost dărâmată",
+        "summary": "Lovitură dură pentru cultură! Probabil singura bibliotecă din țară unde românii încă se duceau cu plăcere, terasa „La Bibliotecă” din Cișmigiu, a fost dărmâmată de Poliția Locală. Nu e tocmai o surpriză că niște polițiști de mâna a doua, cum sunt cei de la Locală, dărâmă o bibliotecă, dar asta nu face gestul lor mai [&#8230;] The post Cultura, în corzi! Singura bibliotecă unde mai mergea lumea, Biblioteca Cișmigiu, a fost dărâmată appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/life-death/cultura-in-corzi-singura-biblioteca-unde-mai-mergea-lumea-biblioteca-cismigiu-a-fost-daramata",
+        "published_utc": "2026-04-21T10:12:21+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/la_bibloteca_daramat.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Times New Roman (Satira)",
         "title": "😂 Papucii lui Bolojan",
         "summary": "The post Papucii lui Bolojan appeared first on Times New Roman .",
         "link": "https://www.timesnewroman.ro/ovi/papucii-lui-bolojan",
         "published_utc": "2026-04-21T07:59:58+00:00",
         "score": 3,
-        "freshness_boost": 3,
+        "freshness_boost": 1,
         "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/Papucii-lui-Bolojan.jpg"
       },
       {
@@ -133,66 +169,6 @@
         "score": 3,
         "freshness_boost": 1,
         "image": "https://picsum.photos/seed/vb-aee1cf7180726a8a/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 Mare nenorocire",
-        "summary": "The post Mare nenorocire appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/ovi/mare-nenorocire",
-        "published_utc": "2026-04-20T08:07:18+00:00",
-        "score": 3,
-        "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/Mare-nenorocire.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Start-Up Romania",
-        "title": "Endeavor Outliers 2026: cele mai performante startup-uri din piețe mai dificile. Topul include și un fondator român",
-        "summary": "Endeavor a publicat lista Outliers 2026, care include cele mai performante companii din portofoliul global al organizației. Anul acesta, 238 de companii au ajuns în listă, din peste o mie de...",
-        "link": "https://start-up.ro/endeavor-outliers-2026-cele-mai-performante-startup-uri-din-piete-mai-dificile-topul-include-si-un-fondator-roman",
-        "published_utc": "2026-04-17T05:05:02+00:00",
-        "score": 3,
-        "freshness_boost": 0,
-        "image": "https://start-up.ro/img/articles/3/8/2/38218/cover-38218-src.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Start-Up Romania",
-        "title": "Care e experiența ta cu burnout-ul?",
-        "summary": "Anul acesta, la evenimentul de sănătate mintală dedicat antreprenorilor, Mind your Business, vom vorbi despre burnout. Despre epuizarea profesională. Despre ceea ce ne arde în procesul de a încerca...",
-        "link": "https://start-up.ro/care-e-experienta-ta-cu-burnout-ul",
-        "published_utc": "2026-04-17T05:05:02+00:00",
-        "score": 3,
-        "freshness_boost": 0,
-        "image": "https://start-up.ro/img/articles/3/8/2/38212/cover-38212-src.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Green Start-Up Romania",
-        "title": "Aplicația prin care operatorii de flote pot „împărți” stațiile de încărcare",
-        "summary": "Un startup din Austria propune dezvoltarea unei infrastructuri comune de încărcare pentru flotele comerciale, bazată pe utilizarea în comun a depourilor existente. Inițiativa vizează reducerea...",
-        "link": "https://green.start-up.ro/ro/aplicatia-prin-care-operatorii-de-flote-pot-imparti-statiile-de-incarcare",
-        "published_utc": "2026-04-17T05:00:02+00:00",
-        "score": 3,
-        "freshness_boost": 0,
-        "image": "https://green.start-up.ro/img/articles/3/5/8/35840/cover-35840-src.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Green Start-Up Romania",
-        "title": "Mercedes trece EQS pe 800 de volți: încărcare mai rapidă și eficiență mai bună",
-        "summary": "Mercedes-Benz a actualizat modelul EQS prin trecerea la o arhitectură electrică de 800V, schimbare care vizează reducerea timpilor de încărcare și creșterea eficienței sistemului. Modificarea...",
-        "link": "https://green.start-up.ro/ro/mercedes-trece-eqs-pe-800-de-volti-incarcare-mai-rapida-si-eficienta-mai-buna",
-        "published_utc": "2026-04-17T05:00:02+00:00",
-        "score": 3,
-        "freshness_boost": 0,
-        "image": "https://green.start-up.ro/img/articles/3/5/8/35839/cover-35839-src.jpg"
       },
       {
         "section": "romania",
@@ -308,109 +284,109 @@
         "section": "medical",
         "kind": "global",
         "source": "Medical Xpress",
-        "title": "Preschool children born with heart defects have greater risk of developing behavioral problems, study suggests",
-        "summary": "Congenital heart disease (CHD), which is a problem with how the heart forms before birth—occurs in approximately 1% of newborns. It has previously been shown that school-age children, adolescents, and young adults with CHD are more likely to display traits of autism. Now, a team of researchers in the UK has shown that preschool children with CHD are also at risk of developing behavioral problems. They published their results in Frontiers in Pediatrics.",
-        "link": "https://medicalxpress.com/news/2026-04-preschool-children-born-heart-defects.html",
-        "published_utc": "2026-04-22T04:00:09+00:00",
-        "score": 0,
+        "title": "UK agrees ban on cigarette sales for people born after 2008",
+        "summary": "Both chambers of Britain's parliament have approved a bill that would ban children aged 17 and under from buying cigarettes during their lifetime.",
+        "link": "https://medicalxpress.com/news/2026-04-uk-cigarette-sales-people-born.html",
+        "published_utc": "2026-04-22T08:21:11+00:00",
+        "score": 2,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2018/1-childrenplay.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/cigarette.jpg"
       },
       {
         "section": "medical",
         "kind": "global",
         "source": "Medical Xpress",
-        "title": "AI could help rescue more donor hearts now discarded in transplant decisions",
-        "summary": "A new generation of artificial intelligence (AI) tools could help save more patients who need heart transplants by making better use of donor hearts that are currently discarded, according to research presented by Brian Wayda, MD, at International Society for Heart and Lung Transplantation (ISHLT) 46th Annual Meeting and Scientific Sessions, held from 22–25 April at the Metro Toronto Convention Center in Toronto, ON, Canada.",
-        "link": "https://medicalxpress.com/news/2026-04-ai-donor-hearts-discarded-transplant.html",
-        "published_utc": "2026-04-22T04:00:08+00:00",
-        "score": 0,
+        "title": "How life-saving HIV therapy has contributed to increased rates of a sexually transmitted disease",
+        "summary": "A study in Health Economics uncovered an unintended consequence of a major medical breakthrough: while the availability of HIV treatments in the late 1990s dramatically improved survival, they also contributed to a resurgence in syphilis, a sexually transmitted infection.",
+        "link": "https://medicalxpress.com/news/2026-04-life-hiv-therapy-contributed-sexually.html",
+        "published_utc": "2026-04-22T07:10:03+00:00",
+        "score": 4,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2020/2-surgery.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/nightclub.jpg"
       },
       {
         "section": "medical",
         "kind": "global",
         "source": "Medical Xpress",
-        "title": "Age 70 under debate as lung transplant demand rises, outcomes complicate limits",
-        "summary": "At the International Society for Heart and Lung Transplantation (ISHLT) 46th Annual Meeting and Scientific Sessions, held from 22–25 April at the Metro Toronto Convention Center in Toronto, ON, Canada, transplant specialists Brian Keller, MD, Ph.D., and Thomas Egan, MD debated an ethically fraught question: How old is too old for a lung transplant?",
-        "link": "https://medicalxpress.com/news/2026-04-age-debate-lung-transplant-demand.html",
-        "published_utc": "2026-04-22T04:00:06+00:00",
+        "title": "Why electroconvulsive therapy remains contested: Families report memory loss, worse quality of life and limited benefits",
+        "summary": "Electroconvulsive therapy (ECT), which involves passing electricity through the brain under general anesthesia to cause a seizure, usually between six and 12 times, is used to varying degrees around the world for patients with depression and other mental conditions. A study in Psychology and Psychotherapy: Theory, Research and Practice reveals that the experiences of families and friends of individuals undergoing ECT have challenged claims that the therapy is safe and effective.",
+        "link": "https://medicalxpress.com/news/2026-04-electroconvulsive-therapy-contested-families-memory.html",
+        "published_utc": "2026-04-22T07:10:01+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/12-brain.jpg"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "Positive News",
+        "title": "V&A East opens as ‘civic space’ for creativity and community",
+        "summary": "London’s newest major museum, V&#038;A East, launches in Olympic Park The post V&#038;A East opens as ‘civic space’ for creativity and community appeared first on Positive News .",
+        "link": "https://www.positive.news/society/va-east-opens-as-civic-space-for-creativity-and-community",
+        "published_utc": "2026-04-22T07:00:36+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2018/transplant.jpg"
+        "image": "https://picsum.photos/seed/vb-6620f431406a981f/480/320"
       },
       {
         "section": "medical",
         "kind": "global",
         "source": "Medical Xpress",
-        "title": "Canadian nephrologist shares common-sense, patient-centered solutions to transplant inequities",
-        "summary": "Speaking at the 46th Annual Meeting and Scientific Sessions of the International Society for Heart and Lung Transplantation (ISHLT), held from April 22–25 at the Metro Toronto Convention Center in Toronto, ON, Canada, Jagbir Gill, MD, Associate Professor of Medicine in the Division of Nephrology at the University of British Columbia (UBC), shared practical strategies for reducing disparities in access to transplantation.",
-        "link": "https://medicalxpress.com/news/2026-04-canadian-nephrologist-common-patient-centered.html",
-        "published_utc": "2026-04-22T04:00:04+00:00",
+        "title": "Does stress during pregnancy affect offspring's metabolic health?",
+        "summary": "Physical activity during pregnancy enhances the metabolic health of offspring, but new research in mice indicates that prenatal stress blunts these benefits, at least in male offspring. The findings are published in The FASEB Journal.",
+        "link": "https://medicalxpress.com/news/2026-04-stress-pregnancy-affect-offspring-metabolic.html",
+        "published_utc": "2026-04-22T07:00:07+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2020/surgery.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/pregnanc.jpg"
       },
       {
         "section": "medical",
         "kind": "global",
         "source": "Medical Xpress",
-        "title": "Fewer surgeries, more complex cases in the future for pediatric lung transplantation",
-        "summary": "Pediatric lung transplant specialist Christian Benden, MD, described the future for children who need lung transplants: fewer operations overall, but more complex patients and mounting challenges for the teams who care for them. He addressed the 46th Annual Meeting and Scientific Sessions of the International Society for Heart and Lung Transplantation (ISHLT) held from April 22–25 at the Metro Toronto Convention Center in Toronto, ON, Canada.",
-        "link": "https://medicalxpress.com/news/2026-04-surgeries-complex-cases-future-pediatric.html",
-        "published_utc": "2026-04-22T04:00:02+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/surgeon-1.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Could links between Alzheimer's and gut health lead to prevention?",
-        "summary": "Alzheimer's disease affects more than 55 million people worldwide, and that number is projected to nearly triple by 2050. It has long been thought of as something that happens in the brain: a slow accumulation of toxic proteins, a gradual loss of neurons, a tragedy that unfolds in the mind. But a new collaborative transdisciplinary study by the University of Technology Sydney and Massachusetts General Hospital/Harvard Medical School is pointing somewhere else entirely: the gut.",
-        "link": "https://medicalxpress.com/news/2026-04-links-alzheimer-gut-health.html",
-        "published_utc": "2026-04-22T02:40:02+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/healthy-fish-meal.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "In Switzerland, colorectal cancer is increasing among people under 50",
-        "summary": "While the incidence of colorectal cancer is decreasing among those over 50, it is rising at an alarming rate among younger individuals, sometimes as early as their thirties. A team from the University of Geneva (UNIGE) and the Geneva University Hospitals (HUG) has published the first national study on this phenomenon in Switzerland.",
-        "link": "https://medicalxpress.com/news/2026-04-switzerland-colorectal-cancer-people.html",
-        "published_utc": "2026-04-22T02:20:03+00:00",
+        "title": "How children in rural and urban areas experience different mental health struggles",
+        "summary": "A study in Pediatric Investigation found that rural and urban children and adolescents tend to experience different mental health issues, with those living in the country showing more emotional problems and those in the city demonstrating more behavioral issues.",
+        "link": "https://medicalxpress.com/news/2026-04-children-rural-urban-areas-mental.html",
+        "published_utc": "2026-04-22T07:00:06+00:00",
         "score": 1,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/in-switzerland-colorec.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rural-china.jpg"
       },
       {
         "section": "medical",
         "kind": "global",
         "source": "Medical Xpress",
-        "title": "Poll: Americans see health care as a right, and seek equity",
-        "summary": "A majority of U.S. adults agrees that health care is a right, not a privilege, and that the nation should aim to eliminate health inequities for everyone, according to a new report from the Institute for Policy Solutions at the Johns Hopkins School of Nursing. Based on a survey conducted last fall, the institute's 2025 Health Inequities Survey used a national probability sample of 1,578 U.S. adults recruited from the National Opinion Research Center's AmeriSpeak panel, which covers approximately 97% of U.S. households, with an intentional oversample of individuals identifying as American Indian or Alaska Native.",
-        "link": "https://medicalxpress.com/news/2026-04-poll-americans-health-equity.html",
-        "published_utc": "2026-04-22T02:00:03+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/community-health-care.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Smart implants: How robotic micro-actuators are enhancing bone healing",
-        "summary": "Smart implants that not only stabilize a fracture but also monitor the healing process from day one—and deliver targeted support when required—are currently being developed at Saarland University by a team of engineers, medical researchers and computer scientists. The engineering team led by Professor Paul Motzki is contributing shape-memory micro-actuators with integrated sensing capabilities, while Professor Bergita Ganse and her research group provide the medical expertise in fracture healing. If a fracture is not healing as it should, these novel implants can respond mechanically at the fracture gap by adapting their stiffness or by applying controlled micro-movements to mechanically stimulate tissue and promote bone regeneration.",
-        "link": "https://medicalxpress.com/news/2026-04-smart-implants-robotic-micro-actuators.html",
-        "published_utc": "2026-04-22T01:40:03+00:00",
+        "title": "Do drugs that similarly combat a disease have differing effects on quality of life?",
+        "summary": "A study published in Rheumatology & Autoimmunity challenges the assumption that achieving clinical remission in rheumatoid arthritis is sufficient, showing that patient-reported outcomes vary significantly by drug class even when disease activity is comparable.",
+        "link": "https://medicalxpress.com/news/2026-04-drugs-similarly-combat-disease-differing.html",
+        "published_utc": "2026-04-22T07:00:05+00:00",
         "score": 1,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/smart-implants-at-hann.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/rheumatoid-arthritis.jpg"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "Medical Xpress",
+        "title": "Study finds prostate cancer overdiagnosis rises sharply with age",
+        "summary": "Researchers at Queen Mary University of London have found that the likelihood of prostate cancer overdiagnosis—the detection of a cancer that would never have been diagnosed during a patient's lifetime but for PSA screening—is low in younger men but rises substantially with old age.",
+        "link": "https://medicalxpress.com/news/2026-04-prostate-cancer-overdiagnosis-sharply-age.html",
+        "published_utc": "2026-04-22T07:00:01+00:00",
+        "score": 2,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/older-black-man-1.jpg"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "Can sparkling water boost metabolism and help with weight loss?",
+        "summary": "Sparkling water is often seen as a simple, healthy drink—but could it also help with weight loss? New research suggests it may slightly boost how the body processes blood sugar and energy. However, the effect is very small, meaning it’s no substitute for diet and exercise.",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260417001658.htm",
+        "published_utc": "2026-04-17T07:17:58+00:00",
+        "score": 0,
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-0b1512ae1331710d/480/320"
       }
     ],
     "science": [
@@ -614,18 +590,6 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Green Start-Up Romania",
-      "title": "Bateria care se încarcă în doar 7 minute oferă un nou potențial mașinilor electrice",
-      "summary": "Bateria Shenxing de generația a treia, dezvoltată de CATL, promite timpi de încărcare reduși pentru vehiculele electrice și marchează un nou pas în evoluția tehnologiei LFP (litiu-fier-fosfat)....",
-      "link": "https://green.start-up.ro/ro/bateria-care-se-incarca-in-doar-7-minute-ofera-un-nou-potential-masinilor-electrice",
-      "published_utc": "2026-04-22T05:05:06+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://green.start-up.ro/img/articles/3/5/8/35849/cover-35849-src.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "Maraton de voluntariat Cutia Bebelușului la Craiova: 150 de cutii pregătite pentru mame și nou-născuți",
       "summary": "Craiova, 21 aprilie 2026 – Peste 70 de asistenți medicali comunitari din județele Dolj, Gorj și Mehedinți au participat, în calitate de voluntari, la Maratonul de voluntariat Cutia Bebelușului, organizat&#8230; Articolul Maraton de voluntariat Cutia Bebelușului la Craiova: 150 de cutii pregătite pentru mame și nou-născuți apare prima dată în Romania Pozitiva .",
@@ -638,14 +602,62 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Green Start-Up Romania",
-      "title": "Arborele care poate elimina peste 98% din microplasticele din apă",
-      "summary": "Un arbore utilizat pentru purificarea apei ar putea contribui la reducerea microplasticelor din apa potabilă, după ce un studiu arată că semințele sale pot elimina până la 98% din aceste particule....",
-      "link": "https://green.start-up.ro/ro/arborele-care-poate-elimina-peste-98-din-microplasticele-din-apa",
-      "published_utc": "2026-04-22T05:05:01+00:00",
+      "source": "Start-Up Romania",
+      "title": "De ce să participarea la FOMO - The Festival of Modern Owners",
+      "summary": "FOMO - The Festival Of Modern Owners este organizat de platforma MO - Modern Owners, o inițiativă 100% românească dedicată noii generații de antreprenori și freelanceri, care își propune să creeze...",
+      "link": "https://start-up.ro/de-ce-sa-participarea-la-fomo-the-festival-of-modern-owners",
+      "published_utc": "2026-04-22T08:06:07+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://green.start-up.ro/img/articles/3/5/8/35847/cover-35847-src.jpg"
+      "image": "https://start-up.ro/img/articles/3/8/2/38238/cover-38238-src.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 PSD nu participă la consultările de la Cotroceni, că s-a dat cu otravă de șobolani prin zonă",
+      "summary": "Pesediștii denunță un complot împotriva lor care le face imposibilă prezența la consultările de la Cotroceni. „Primăria a pus otravă de șobolani prin tot Bucureștiul, inclusiv în zona Palatului Cotroceni, exact când noi trebuia să mergem la consultări acolo. Coincidență? Nu cred”, a chițăit Sorin Grindeanu. Liderul PSD spune că atât el, cât și colegii [&#8230;] The post PSD nu participă la consultările de la Cotroceni, că s-a dat cu otravă de șobolani prin zonă appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/politic/psd-nu-participa-la-consultarile-de-la-cotroceni-ca-s-a-dat-cu-otrava-de-sobolani-prin-zona",
+      "published_utc": "2026-04-22T05:43:43+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/grindeanu_fuge_cotroceni.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "Studiu Deloitte România despre piața locală de artă: pictura contemporană domină opțiunile de achiziție. Colecționarii îmbină criteriile estetice cu un interes investițional în creștere",
+      "summary": "Pictura contemporană domină opțiunile de achiziție (76%) ale colecționarilor români, în concordanță cu tendințele regionale, urmată de pictura clasică (54%), arată cea de-a doua ediție a studiului Deloitte „Romania Art Report”, realizat în colaborare cu Asociația RAD și cu casa de licitații Artmark. Percepția asupra pieței de artă din România este una predominant orientată spre &#8230;",
+      "link": "https://hotnews.ro/studiu-deloitte-romania-despre-piata-locala-de-arta-pictura-contemporana-domina-optiunile-de-achizitie-colectionarii-imbina-criteriile-estetice-cu-un-interes-investitional-in-crestere-2225934",
+      "published_utc": "2026-04-22T07:56:05+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-29040915676b38d3/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "StartUp Coach: Coperta pitch deck-ului: cel mai ignorat slide care stă cel mai mult pe ecran",
+      "summary": "Acest articol face parte din seria Startup Coach, by Early Game Ventures, dedicată în întregime pitch deck-ului — cel mai important document pe care îl vei scrie ca fondator care vrea să ridice finanțare VC. Seria abordează, pas cu pas, structura unui deck convingător: de la cum gândești povestea, până la ce trebuie să conțină fiecare slide &#8230;",
+      "link": "https://hotnews.ro/startup-coach-coperta-pitch-deck-ului-cel-mai-ignorat-slide-care-sta-cel-mai-mult-pe-ecran-2225913",
+      "published_utc": "2026-04-22T07:49:38+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-9a6037d4039c028e/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Start-Up Romania",
+      "title": "Voxa după finanțarea de 4 mil. euro: ”pregătim lansarea în Balcani și vrem să ajungem la un milion de titluri în portofoliu”",
+      "summary": "Voxa este cea mai cunoscută platformă de audiobooks construită în România. De la lansarea în 2021, Voxa a ajuns pe 10 piețe, de la Italia și Spania, până în America Latină. Recent, compania condusă...",
+      "link": "https://start-up.ro/voxa-dupa-finantarea-de-4-mil-de-euro",
+      "published_utc": "2026-04-22T06:48:30+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://start-up.ro/img/articles/3/8/2/38233/cover-38233-src.jpg"
     },
     {
       "section": "romania",
@@ -711,13 +723,13 @@
       "section": "romania",
       "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 PSD nu participă la consultările de la Cotroceni, că s-a dat cu otravă de șobolani prin zonă",
-      "summary": "Pesediștii denunță un complot împotriva lor care le face imposibilă prezența la consultările de la Cotroceni. „Primăria a pus otravă de șobolani prin tot Bucureștiul, inclusiv în zona Palatului Cotroceni, exact când noi trebuia să mergem la consultări acolo. Coincidență? Nu cred”, a chițăit Sorin Grindeanu. Liderul PSD spune că atât el, cât și colegii [&#8230;] The post PSD nu participă la consultările de la Cotroceni, că s-a dat cu otravă de șobolani prin zonă appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/politic/psd-nu-participa-la-consultarile-de-la-cotroceni-ca-s-a-dat-cu-otrava-de-sobolani-prin-zona",
-      "published_utc": "2026-04-22T05:43:43+00:00",
+      "title": "😂 Cultura, în corzi! Singura bibliotecă unde mai mergea lumea, Biblioteca Cișmigiu, a fost dărâmată",
+      "summary": "Lovitură dură pentru cultură! Probabil singura bibliotecă din țară unde românii încă se duceau cu plăcere, terasa „La Bibliotecă” din Cișmigiu, a fost dărmâmată de Poliția Locală. Nu e tocmai o surpriză că niște polițiști de mâna a doua, cum sunt cei de la Locală, dărâmă o bibliotecă, dar asta nu face gestul lor mai [&#8230;] The post Cultura, în corzi! Singura bibliotecă unde mai mergea lumea, Biblioteca Cișmigiu, a fost dărâmată appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/life-death/cultura-in-corzi-singura-biblioteca-unde-mai-mergea-lumea-biblioteca-cismigiu-a-fost-daramata",
+      "published_utc": "2026-04-21T10:12:21+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/grindeanu_fuge_cotroceni.jpg"
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/la_bibloteca_daramat.jpg"
     },
     {
       "section": "romania",
@@ -728,7 +740,7 @@
       "link": "https://www.timesnewroman.ro/ovi/papucii-lui-bolojan",
       "published_utc": "2026-04-21T07:59:58+00:00",
       "score": 3,
-      "freshness_boost": 3,
+      "freshness_boost": 1,
       "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/Papucii-lui-Bolojan.jpg"
     },
     {
@@ -742,78 +754,6 @@
       "score": 3,
       "freshness_boost": 1,
       "image": "https://picsum.photos/seed/vb-aee1cf7180726a8a/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Mare nenorocire",
-      "summary": "The post Mare nenorocire appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/ovi/mare-nenorocire",
-      "published_utc": "2026-04-20T08:07:18+00:00",
-      "score": 3,
-      "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/Mare-nenorocire.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Start-Up Romania",
-      "title": "Endeavor Outliers 2026: cele mai performante startup-uri din piețe mai dificile. Topul include și un fondator român",
-      "summary": "Endeavor a publicat lista Outliers 2026, care include cele mai performante companii din portofoliul global al organizației. Anul acesta, 238 de companii au ajuns în listă, din peste o mie de...",
-      "link": "https://start-up.ro/endeavor-outliers-2026-cele-mai-performante-startup-uri-din-piete-mai-dificile-topul-include-si-un-fondator-roman",
-      "published_utc": "2026-04-17T05:05:02+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://start-up.ro/img/articles/3/8/2/38218/cover-38218-src.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Start-Up Romania",
-      "title": "Care e experiența ta cu burnout-ul?",
-      "summary": "Anul acesta, la evenimentul de sănătate mintală dedicat antreprenorilor, Mind your Business, vom vorbi despre burnout. Despre epuizarea profesională. Despre ceea ce ne arde în procesul de a încerca...",
-      "link": "https://start-up.ro/care-e-experienta-ta-cu-burnout-ul",
-      "published_utc": "2026-04-17T05:05:02+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://start-up.ro/img/articles/3/8/2/38212/cover-38212-src.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Green Start-Up Romania",
-      "title": "Aplicația prin care operatorii de flote pot „împărți” stațiile de încărcare",
-      "summary": "Un startup din Austria propune dezvoltarea unei infrastructuri comune de încărcare pentru flotele comerciale, bazată pe utilizarea în comun a depourilor existente. Inițiativa vizează reducerea...",
-      "link": "https://green.start-up.ro/ro/aplicatia-prin-care-operatorii-de-flote-pot-imparti-statiile-de-incarcare",
-      "published_utc": "2026-04-17T05:00:02+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://green.start-up.ro/img/articles/3/5/8/35840/cover-35840-src.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Green Start-Up Romania",
-      "title": "Mercedes trece EQS pe 800 de volți: încărcare mai rapidă și eficiență mai bună",
-      "summary": "Mercedes-Benz a actualizat modelul EQS prin trecerea la o arhitectură electrică de 800V, schimbare care vizează reducerea timpilor de încărcare și creșterea eficienței sistemului. Modificarea...",
-      "link": "https://green.start-up.ro/ro/mercedes-trece-eqs-pe-800-de-volti-incarcare-mai-rapida-si-eficienta-mai-buna",
-      "published_utc": "2026-04-17T05:00:02+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://green.start-up.ro/img/articles/3/5/8/35839/cover-35839-src.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Preschool children born with heart defects have greater risk of developing behavioral problems, study suggests",
-      "summary": "Congenital heart disease (CHD), which is a problem with how the heart forms before birth—occurs in approximately 1% of newborns. It has previously been shown that school-age children, adolescents, and young adults with CHD are more likely to display traits of autism. Now, a team of researchers in the UK has shown that preschool children with CHD are also at risk of developing behavioral problems. They published their results in Frontiers in Pediatrics.",
-      "link": "https://medicalxpress.com/news/2026-04-preschool-children-born-heart-defects.html",
-      "published_utc": "2026-04-22T04:00:09+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2018/1-childrenplay.jpg"
     },
     {
       "section": "romania",
@@ -843,13 +783,13 @@
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
-      "title": "AI could help rescue more donor hearts now discarded in transplant decisions",
-      "summary": "A new generation of artificial intelligence (AI) tools could help save more patients who need heart transplants by making better use of donor hearts that are currently discarded, according to research presented by Brian Wayda, MD, at International Society for Heart and Lung Transplantation (ISHLT) 46th Annual Meeting and Scientific Sessions, held from 22–25 April at the Metro Toronto Convention Center in Toronto, ON, Canada.",
-      "link": "https://medicalxpress.com/news/2026-04-ai-donor-hearts-discarded-transplant.html",
-      "published_utc": "2026-04-22T04:00:08+00:00",
-      "score": 0,
+      "title": "UK agrees ban on cigarette sales for people born after 2008",
+      "summary": "Both chambers of Britain's parliament have approved a bill that would ban children aged 17 and under from buying cigarettes during their lifetime.",
+      "link": "https://medicalxpress.com/news/2026-04-uk-cigarette-sales-people-born.html",
+      "published_utc": "2026-04-22T08:21:11+00:00",
+      "score": 2,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2020/2-surgery.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/cigarette.jpg"
     },
     {
       "section": "romania",
@@ -879,13 +819,13 @@
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
-      "title": "Age 70 under debate as lung transplant demand rises, outcomes complicate limits",
-      "summary": "At the International Society for Heart and Lung Transplantation (ISHLT) 46th Annual Meeting and Scientific Sessions, held from 22–25 April at the Metro Toronto Convention Center in Toronto, ON, Canada, transplant specialists Brian Keller, MD, Ph.D., and Thomas Egan, MD debated an ethically fraught question: How old is too old for a lung transplant?",
-      "link": "https://medicalxpress.com/news/2026-04-age-debate-lung-transplant-demand.html",
-      "published_utc": "2026-04-22T04:00:06+00:00",
-      "score": 0,
+      "title": "How life-saving HIV therapy has contributed to increased rates of a sexually transmitted disease",
+      "summary": "A study in Health Economics uncovered an unintended consequence of a major medical breakthrough: while the availability of HIV treatments in the late 1990s dramatically improved survival, they also contributed to a resurgence in syphilis, a sexually transmitted infection.",
+      "link": "https://medicalxpress.com/news/2026-04-life-hiv-therapy-contributed-sexually.html",
+      "published_utc": "2026-04-22T07:10:03+00:00",
+      "score": 4,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2018/transplant.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/nightclub.jpg"
     },
     {
       "section": "romania",
@@ -915,13 +855,13 @@
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
-      "title": "Canadian nephrologist shares common-sense, patient-centered solutions to transplant inequities",
-      "summary": "Speaking at the 46th Annual Meeting and Scientific Sessions of the International Society for Heart and Lung Transplantation (ISHLT), held from April 22–25 at the Metro Toronto Convention Center in Toronto, ON, Canada, Jagbir Gill, MD, Associate Professor of Medicine in the Division of Nephrology at the University of British Columbia (UBC), shared practical strategies for reducing disparities in access to transplantation.",
-      "link": "https://medicalxpress.com/news/2026-04-canadian-nephrologist-common-patient-centered.html",
-      "published_utc": "2026-04-22T04:00:04+00:00",
-      "score": 0,
+      "title": "Why electroconvulsive therapy remains contested: Families report memory loss, worse quality of life and limited benefits",
+      "summary": "Electroconvulsive therapy (ECT), which involves passing electricity through the brain under general anesthesia to cause a seizure, usually between six and 12 times, is used to varying degrees around the world for patients with depression and other mental conditions. A study in Psychology and Psychotherapy: Theory, Research and Practice reveals that the experiences of families and friends of individuals undergoing ECT have challenged claims that the therapy is safe and effective.",
+      "link": "https://medicalxpress.com/news/2026-04-electroconvulsive-therapy-contested-families-memory.html",
+      "published_utc": "2026-04-22T07:10:01+00:00",
+      "score": 3,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2020/surgery.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/12-brain.jpg"
     },
     {
       "section": "romania",
@@ -950,14 +890,14 @@
     {
       "section": "medical",
       "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Fewer surgeries, more complex cases in the future for pediatric lung transplantation",
-      "summary": "Pediatric lung transplant specialist Christian Benden, MD, described the future for children who need lung transplants: fewer operations overall, but more complex patients and mounting challenges for the teams who care for them. He addressed the 46th Annual Meeting and Scientific Sessions of the International Society for Heart and Lung Transplantation (ISHLT) held from April 22–25 at the Metro Toronto Convention Center in Toronto, ON, Canada.",
-      "link": "https://medicalxpress.com/news/2026-04-surgeries-complex-cases-future-pediatric.html",
-      "published_utc": "2026-04-22T04:00:02+00:00",
+      "source": "Positive News",
+      "title": "V&A East opens as ‘civic space’ for creativity and community",
+      "summary": "London’s newest major museum, V&#038;A East, launches in Olympic Park The post V&#038;A East opens as ‘civic space’ for creativity and community appeared first on Positive News .",
+      "link": "https://www.positive.news/society/va-east-opens-as-civic-space-for-creativity-and-community",
+      "published_utc": "2026-04-22T07:00:36+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/surgeon-1.jpg"
+      "image": "https://picsum.photos/seed/vb-6620f431406a981f/480/320"
     },
     {
       "section": "romania",
@@ -975,49 +915,49 @@
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
-      "title": "Could links between Alzheimer's and gut health lead to prevention?",
-      "summary": "Alzheimer's disease affects more than 55 million people worldwide, and that number is projected to nearly triple by 2050. It has long been thought of as something that happens in the brain: a slow accumulation of toxic proteins, a gradual loss of neurons, a tragedy that unfolds in the mind. But a new collaborative transdisciplinary study by the University of Technology Sydney and Massachusetts General Hospital/Harvard Medical School is pointing somewhere else entirely: the gut.",
-      "link": "https://medicalxpress.com/news/2026-04-links-alzheimer-gut-health.html",
-      "published_utc": "2026-04-22T02:40:02+00:00",
+      "title": "Does stress during pregnancy affect offspring's metabolic health?",
+      "summary": "Physical activity during pregnancy enhances the metabolic health of offspring, but new research in mice indicates that prenatal stress blunts these benefits, at least in male offspring. The findings are published in The FASEB Journal.",
+      "link": "https://medicalxpress.com/news/2026-04-stress-pregnancy-affect-offspring-metabolic.html",
+      "published_utc": "2026-04-22T07:00:07+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/healthy-fish-meal.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/pregnanc.jpg"
     },
     {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
-      "title": "In Switzerland, colorectal cancer is increasing among people under 50",
-      "summary": "While the incidence of colorectal cancer is decreasing among those over 50, it is rising at an alarming rate among younger individuals, sometimes as early as their thirties. A team from the University of Geneva (UNIGE) and the Geneva University Hospitals (HUG) has published the first national study on this phenomenon in Switzerland.",
-      "link": "https://medicalxpress.com/news/2026-04-switzerland-colorectal-cancer-people.html",
-      "published_utc": "2026-04-22T02:20:03+00:00",
+      "title": "How children in rural and urban areas experience different mental health struggles",
+      "summary": "A study in Pediatric Investigation found that rural and urban children and adolescents tend to experience different mental health issues, with those living in the country showing more emotional problems and those in the city demonstrating more behavioral issues.",
+      "link": "https://medicalxpress.com/news/2026-04-children-rural-urban-areas-mental.html",
+      "published_utc": "2026-04-22T07:00:06+00:00",
       "score": 1,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/in-switzerland-colorec.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rural-china.jpg"
     },
     {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
-      "title": "Poll: Americans see health care as a right, and seek equity",
-      "summary": "A majority of U.S. adults agrees that health care is a right, not a privilege, and that the nation should aim to eliminate health inequities for everyone, according to a new report from the Institute for Policy Solutions at the Johns Hopkins School of Nursing. Based on a survey conducted last fall, the institute's 2025 Health Inequities Survey used a national probability sample of 1,578 U.S. adults recruited from the National Opinion Research Center's AmeriSpeak panel, which covers approximately 97% of U.S. households, with an intentional oversample of individuals identifying as American Indian or Alaska Native.",
-      "link": "https://medicalxpress.com/news/2026-04-poll-americans-health-equity.html",
-      "published_utc": "2026-04-22T02:00:03+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/community-health-care.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Smart implants: How robotic micro-actuators are enhancing bone healing",
-      "summary": "Smart implants that not only stabilize a fracture but also monitor the healing process from day one—and deliver targeted support when required—are currently being developed at Saarland University by a team of engineers, medical researchers and computer scientists. The engineering team led by Professor Paul Motzki is contributing shape-memory micro-actuators with integrated sensing capabilities, while Professor Bergita Ganse and her research group provide the medical expertise in fracture healing. If a fracture is not healing as it should, these novel implants can respond mechanically at the fracture gap by adapting their stiffness or by applying controlled micro-movements to mechanically stimulate tissue and promote bone regeneration.",
-      "link": "https://medicalxpress.com/news/2026-04-smart-implants-robotic-micro-actuators.html",
-      "published_utc": "2026-04-22T01:40:03+00:00",
+      "title": "Do drugs that similarly combat a disease have differing effects on quality of life?",
+      "summary": "A study published in Rheumatology & Autoimmunity challenges the assumption that achieving clinical remission in rheumatoid arthritis is sufficient, showing that patient-reported outcomes vary significantly by drug class even when disease activity is comparable.",
+      "link": "https://medicalxpress.com/news/2026-04-drugs-similarly-combat-disease-differing.html",
+      "published_utc": "2026-04-22T07:00:05+00:00",
       "score": 1,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/smart-implants-at-hann.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/rheumatoid-arthritis.jpg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "Study finds prostate cancer overdiagnosis rises sharply with age",
+      "summary": "Researchers at Queen Mary University of London have found that the likelihood of prostate cancer overdiagnosis—the detection of a cancer that would never have been diagnosed during a patient's lifetime but for PSA screening—is low in younger men but rises substantially with old age.",
+      "link": "https://medicalxpress.com/news/2026-04-prostate-cancer-overdiagnosis-sharply-age.html",
+      "published_utc": "2026-04-22T07:00:01+00:00",
+      "score": 2,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/older-black-man-1.jpg"
     },
     {
       "section": "science",
@@ -1114,6 +1054,18 @@
       "score": 1,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mapping-the-hidden-str.jpg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "Can sparkling water boost metabolism and help with weight loss?",
+      "summary": "Sparkling water is often seen as a simple, healthy drink—but could it also help with weight loss? New research suggests it may slightly boost how the body processes blood sugar and energy. However, the effect is very small, meaning it’s no substitute for diet and exercise.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260417001658.htm",
+      "published_utc": "2026-04-17T07:17:58+00:00",
+      "score": 0,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-0b1512ae1331710d/480/320"
     },
     {
       "section": "environment",
@@ -1218,8 +1170,8 @@
     "source": "data/jokes_ro.txt"
   },
   "satire_ro": {
-    "title": "PSD nu participă la consultările de la Cotroceni, că s-a dat cu otravă de șobolani prin zonă",
-    "link": "https://www.timesnewroman.ro/politic/psd-nu-participa-la-consultarile-de-la-cotroceni-ca-s-a-dat-cu-otrava-de-sobolani-prin-zona/",
+    "title": "Dezamăgirea coifului",
+    "link": "https://www.timesnewroman.ro/ovi/dezamagirea-coifului/",
     "source": "timesnewroman.ro"
   },
   "top_images": [
@@ -1304,6 +1256,7 @@
       "https://live.staticflickr.com/65535/55204249301_16141a9d44_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/55202320390_394bf83e53_b.jpg",
       "https://live.staticflickr.com/65535/55215620276_2c3e68b3fc_b.jpg",
       "https://live.staticflickr.com/8606/28572617361_616a09684d_b.jpg",
       "https://live.staticflickr.com/65535/55206798862_31353e7530_b.jpg",
@@ -1320,10 +1273,10 @@
       "https://live.staticflickr.com/65535/36426059055_e0f9275249_b.jpg",
       "https://live.staticflickr.com/65535/55221063060_c4946d8b70_b.jpg",
       "https://live.staticflickr.com/65535/55211732743_d0102ab88a_b.jpg",
-      "https://live.staticflickr.com/65535/55204552084_89ed19ef38_b.jpg",
-      "https://live.staticflickr.com/65535/55208950518_a417781e85_b.jpg"
+      "https://live.staticflickr.com/65535/55204552084_89ed19ef38_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55223044178_887b1582db_b.jpg",
       "https://live.staticflickr.com/65535/55221981717_5e07edd97c_b.jpg",
       "https://live.staticflickr.com/65535/55223004990_182062dae5_b.jpg",
       "https://live.staticflickr.com/65535/55221749007_4130a7b405_b.jpg",
@@ -1340,12 +1293,11 @@
       "https://live.staticflickr.com/65535/55220602364_155aee47e3_b.jpg",
       "https://live.staticflickr.com/65535/55219202357_50b70ac6a4_b.jpg",
       "https://live.staticflickr.com/65535/55220260318_d013bfbfdc_b.jpg",
-      "https://live.staticflickr.com/65535/55220238930_7a9c4855a7_b.jpg",
-      "https://live.staticflickr.com/65535/55220295175_f7ab75468f_b.jpg"
+      "https://live.staticflickr.com/65535/55220238930_7a9c4855a7_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
+      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
