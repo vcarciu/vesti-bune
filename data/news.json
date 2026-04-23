@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-04-23T11:53:26+00:00",
+  "generated_utc": "2026-04-23T12:59:06+00:00",
   "sections": {
     "romania": [
       {
@@ -95,7 +95,7 @@
         "link": "https://www.timesnewroman.ro/politic/bolojan-a-salvat-economia-romania-va-imprumuta-4-miliarde-de-euro-de-la-andreea-esca",
         "published_utc": "2026-04-22T12:11:44+00:00",
         "score": 3,
-        "freshness_boost": 3,
+        "freshness_boost": 1,
         "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/bolojanesca.jpg"
       },
       {
@@ -602,6 +602,18 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 După Parcul Liniei, primăria Sectorului 6 promite că se apucă de Parcul Jointului",
+      "summary": "Oportunităţile de petrecere a timpului liber în zona de vest a Capitalei se diversifică pe zi ce trece! La scurt timp după încheierea lucrărilor la Parcul Liniei, Primăria Sectorului 6 a anunţat demararea unui nou proiect, chiar mai verde şi mai relaxant: Parcul Jointului, care va fi amenajat tot undeva pe după blocuri, într-un loc [&#8230;] The post După Parcul Liniei, primăria Sectorului 6 promite că se apucă de Parcul Jointului appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/monden/dupa-parcul-liniei-primaria-sectorului-6-promite-ca-se-apuca-de-parcul-jointului",
+      "published_utc": "2026-04-23T11:19:53+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2020/11/marijuana-consumer.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "Cea mai mare conferință de tehnologie din România și CEE are loc pe 3–4 iunie la Romexpo, B1",
       "summary": "DevTalks România ajunge, în 2026, la cea de-a 13-a ediție, confirmând fără echivoc statutul său de cel mai așteptat eveniment de technologie din România și din Europa Centrală și de&#8230; Articolul Cea mai mare conferință de tehnologie din România și CEE are loc pe 3–4 iunie la Romexpo, B1 apare prima dată în Romania Pozitiva .",
@@ -668,7 +680,7 @@
       "link": "https://www.timesnewroman.ro/politic/bolojan-a-salvat-economia-romania-va-imprumuta-4-miliarde-de-euro-de-la-andreea-esca",
       "published_utc": "2026-04-22T12:11:44+00:00",
       "score": 3,
-      "freshness_boost": 3,
+      "freshness_boost": 1,
       "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/bolojanesca.jpg"
     },
     {
@@ -694,18 +706,6 @@
       "score": 3,
       "freshness_boost": 3,
       "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/ATM-ul-din-Guvern.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 După Parcul Liniei, primăria Sectorului 6 promite că se apucă de Parcul Jointului",
-      "summary": "Oportunităţile de petrecere a timpului liber în zona de vest a Capitalei se diversifică pe zi ce trece! La scurt timp după încheierea lucrărilor la Parcul Liniei, Primăria Sectorului 6 a anunţat demararea unui nou proiect, chiar mai verde şi mai relaxant: Parcul Jointului, care va fi amenajat tot undeva pe după blocuri, într-un loc [&#8230;] The post După Parcul Liniei, primăria Sectorului 6 promite că se apucă de Parcul Jointului appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/monden/dupa-parcul-liniei-primaria-sectorului-6-promite-ca-se-apuca-de-parcul-jointului",
-      "published_utc": "2026-04-23T11:19:53+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2020/11/marijuana-consumer.jpg"
     },
     {
       "section": "romania",
@@ -1190,7 +1190,7 @@
   ],
   "joke_ro": {
     "date_utc": "2026-04-23",
-    "text": "Azi n-am procrastinat deloc. Am amanat direct toata ziua.",
+    "text": "Mi-am organizat biroul pe categorii: urgente, importante si maine.",
     "source": "data/jokes_ro.txt"
   },
   "satire_ro": {
@@ -1203,23 +1203,24 @@
       "tag": "space",
       "title": "Space",
       "link": "https://commons.wikimedia.org/wiki/Category:Astronomy",
-      "image": "https://live.staticflickr.com/65535/55224441491_dfaec750e8_b.jpg"
+      "image": "https://live.staticflickr.com/65535/55224440711_604ddeef83_b.jpg"
     },
     {
       "tag": "animals",
       "title": "Animals",
       "link": "https://commons.wikimedia.org/wiki/Category:Animals",
-      "image": "https://live.staticflickr.com/65535/55223229432_4a0cd02060_b.jpg"
+      "image": "https://live.staticflickr.com/65535/55225404376_783345064d_b.jpg"
     },
     {
       "tag": "landscape",
       "title": "Landscape",
       "link": "https://commons.wikimedia.org/wiki/Category:Landscapes",
-      "image": "https://live.staticflickr.com/65535/55224582336_cf9ab655c7_b.jpg"
+      "image": "https://live.staticflickr.com/65535/55225305466_d1c7812abe_b.jpg"
     }
   ],
   "top_image_history": {
     "space": [
+      "https://live.staticflickr.com/65535/55224440711_604ddeef83_b.jpg",
       "https://live.staticflickr.com/65535/55224441491_dfaec750e8_b.jpg",
       "https://live.staticflickr.com/65535/55222692438_9d0412ab57_b.jpg",
       "https://live.staticflickr.com/65535/55221438757_760182df7d_b.jpg",
@@ -1236,10 +1237,10 @@
       "https://live.staticflickr.com/65535/55210000138_6b2f33b92e_b.jpg",
       "https://live.staticflickr.com/65535/55209666970_688a01d747_b.jpg",
       "https://live.staticflickr.com/65535/55208172975_eef79fe64d_b.jpg",
-      "https://live.staticflickr.com/65535/55208386050_c8e7d543dd_b.jpg",
-      "https://live.staticflickr.com/65535/55207043778_000f701faa_b.jpg"
+      "https://live.staticflickr.com/65535/55208386050_c8e7d543dd_b.jpg"
     ],
     "animals": [
+      "https://live.staticflickr.com/65535/55225404376_783345064d_b.jpg",
       "https://live.staticflickr.com/65535/55223229432_4a0cd02060_b.jpg",
       "https://live.staticflickr.com/65535/55223518444_4eeab00c6f_b.jpg",
       "https://live.staticflickr.com/65535/55222620151_97716cdf9a_b.jpg",
@@ -1256,10 +1257,10 @@
       "https://upload.wikimedia.org/wikipedia/commons/1/15/Red_fox_-_november_2011.jpg",
       "https://live.staticflickr.com/65535/55210128279_5b25bb12be_b.jpg",
       "https://live.staticflickr.com/65535/55209343610_0629251f66_b.jpg",
-      "https://live.staticflickr.com/65535/55208437794_f9b2c36038_b.jpg",
-      "https://live.staticflickr.com/65535/55206777066_ba4512afda_b.jpg"
+      "https://live.staticflickr.com/65535/55208437794_f9b2c36038_b.jpg"
     ],
     "landscape": [
+      "https://live.staticflickr.com/65535/55225305466_d1c7812abe_b.jpg",
       "https://live.staticflickr.com/65535/55224582336_cf9ab655c7_b.jpg",
       "https://live.staticflickr.com/65535/55222462387_d7dd04cfb0_b.jpg",
       "https://live.staticflickr.com/65535/55222656778_1c75506832_b.jpg",
@@ -1276,10 +1277,10 @@
       "https://live.staticflickr.com/65535/55210873354_2a0164cf16_b.jpg",
       "https://live.staticflickr.com/65535/55209724413_6cb511799d_b.jpg",
       "https://live.staticflickr.com/65535/55207699142_4b69e04373_b.jpg",
-      "https://live.staticflickr.com/65535/55207825086_3e715fd144_b.jpg",
-      "https://live.staticflickr.com/65535/55206836754_240106c408_b.jpg"
+      "https://live.staticflickr.com/65535/55207825086_3e715fd144_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/31770681441_2b6417d5d5_b.jpg",
       "https://live.staticflickr.com/65535/55211732743_d0102ab88a_b.jpg",
       "https://live.staticflickr.com/65535/55208694760_ebfcac98ba_b.jpg",
       "https://live.staticflickr.com/65535/55213718029_2ea96bb203_b.jpg",
@@ -1296,10 +1297,10 @@
       "https://live.staticflickr.com/65535/55206686351_42df150d51_b.jpg",
       "https://live.staticflickr.com/65535/55204552084_89ed19ef38_b.jpg",
       "https://live.staticflickr.com/65535/55213682437_feb403c9af_b.jpg",
-      "https://live.staticflickr.com/65535/55201023462_c3de566b36_b.jpg",
-      "https://live.staticflickr.com/65535/55202320390_394bf83e53_b.jpg"
+      "https://live.staticflickr.com/65535/55201023462_c3de566b36_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55225347981_dd3eae4d68_b.jpg",
       "https://live.staticflickr.com/65535/55225348116_4bc1ee1d52_b.jpg",
       "https://live.staticflickr.com/65535/55224242887_48cf635f1c_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/3/3f/NYC_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg",
@@ -1316,12 +1317,11 @@
       "https://live.staticflickr.com/65535/55221749007_4130a7b405_b.jpg",
       "https://live.staticflickr.com/65535/55221578366_1356076a76_b.jpg",
       "https://live.staticflickr.com/65535/55221740123_123d525094_b.jpg",
-      "https://live.staticflickr.com/65535/55184146594_a7a6a23849_b.jpg",
-      "https://live.staticflickr.com/65535/55221341279_08724baed4_b.jpg"
+      "https://live.staticflickr.com/65535/55184146594_a7a6a23849_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
+      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
