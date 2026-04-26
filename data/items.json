@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-04-26T09:43:48+00:00",
+  "generated_utc": "2026-04-26T10:37:01+00:00",
   "sections": {
     "romania": [
       {
@@ -13,18 +13,6 @@
         "score": 3,
         "freshness_boost": 3,
         "image": "https://www.timesnewroman.ro/wp-content/uploads/2025/06/mihai_viteazul.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Intervenție în Marea Neagră: delfini, rechin și sturioni salvați din plasele braconierilor",
-        "summary": "Acțiune în Marea Neagră. Cinci delfini, un rechin și șase sturioni au fost salvați din plasele braconierilor. Polițiștii de frontieră au descoperit în largul mării mai multe plase de pescuit ilegale, cu o lungime totală de 950 de metri. Din fericire, viețuitoarele marine erau încă în viață și au fost eliberate în mediul natural.",
-        "link": "https://www.digi24.ro/stiri/actualitate/social/interventie-in-marea-neagra-delfini-rechin-si-sturioni-salvati-din-plasele-braconierilor-3745009",
-        "published_utc": "2026-04-26T08:49:13+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjIl/MkYwNyUyRjAyJTJGMTUzODIwM18xNTM4/MjAzX2RlbGZpbmktZmItbWFyZS1ub3N0/cnVtLmpwZyZoYXNoPThlNjQ1NjY3MGNjYzE3ODM0NjU1Mzg1YWVlMzliNWQ0.jpg"
       },
       {
         "section": "romania",
@@ -102,13 +90,13 @@
         "section": "romania",
         "kind": "ro",
         "source": "Times New Roman (Satira)",
-        "title": "😂 Tehnocratul pe care România și-l dorește! Nea Costel, Premier!",
-        "summary": "Criza politică recentă nu este o problemă pentru România, ci mai degrabă o mare oportunitate. Președintele Nicușor Dan are ocazia să facă un bine istoric acestei țări, numind în funcția de premier un tehnocrat autentic, un om capabil, extrem de cunoscut atât în mediile politice cât și în ceea ce unii numesc ”talpa țării”. Este [&#8230;] The post Tehnocratul pe care România și-l dorește! Nea Costel, Premier! appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/politic/tehnocratul-pe-care-romania-si-l-doreste-nea-costel-premier",
-        "published_utc": "2026-04-24T15:08:29+00:00",
+        "title": "😂 De supărare că i-a bătut Craiova, rapidiștii au ars 3.000 de cauciucuri!",
+        "summary": "Recenta înfrângere a Rapidului în fața echipei Universitatea Craiova a provocat un val de tristețe în cartierul Giulești, dar și în multe comune periferice de lângă București, ticsite de fani ai Rapidului. De supărare, oamenii au decis să dea foc la peste 3000 de cauciucuri, iar fumul gros s-a ridicat ca un semn de mare [&#8230;] The post De supărare că i-a bătut Craiova, rapidiștii au ars 3.000 de cauciucuri! appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/sport/de-suparare-ca-i-a-batut-craiova-rapidistii-au-ars-3-000-de-cauciucuri",
+        "published_utc": "2026-04-24T11:30:00+00:00",
         "score": 3,
         "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2020/07/nea_costel_discurs.jpg"
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/fum_de_sintesti.jpg"
       },
       {
         "section": "romania",
@@ -121,30 +109,6 @@
         "score": 3,
         "freshness_boost": 1,
         "image": "https://www.timesnewroman.ro/wp-content/uploads/2025/02/bolojan_studio_tv.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Start-Up Romania",
-        "title": "InRento aduce în România investițiile imobiliare accesibile pentru publicul larg. Tichete de la 500 de euro",
-        "summary": "InRento, platforma europeană de investiții înființată în 2020 în Lituania, s-a lansat oficial pe piața din România. Dezvoltatorii imobiliari pot accesa soluția de finanțare alternativă pentru...",
-        "link": "https://start-up.ro/inrento-aduce-in-romania-investitiile-imobiliare-accesibile-pentru-publicul-larg-tichete-de-la-500-de-euro",
-        "published_utc": "2026-04-21T07:23:16+00:00",
-        "score": 3,
-        "freshness_boost": 0,
-        "image": "https://start-up.ro/img/articles/3/8/2/38232/cover-38232-src.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Green Start-Up Romania",
-        "title": "Cum ajută AI-ul la producția mai rapidă a bateriilor fără defecte",
-        "summary": "BMW testează utilizarea inteligenței artificiale pentru a optimiza procesele de analiză a celulelor de baterii, într-un proiect care vizează eficiența producției și reducerea consumului de resurse....",
-        "link": "https://green.start-up.ro/ro/cum-ajuta-ai-ul-la-productia-mai-rapida-a-bateriilor-fara-defecte",
-        "published_utc": "2026-04-21T06:38:15+00:00",
-        "score": 3,
-        "freshness_boost": 0,
-        "image": "https://green.start-up.ro/img/articles/3/5/8/35846/cover-35846-src.jpg"
       },
       {
         "section": "romania",
@@ -185,18 +149,6 @@
       {
         "section": "romania",
         "kind": "ro",
-        "source": "Green Start-Up Romania",
-        "title": "România intră pe harta digitală a sunetelor din natură pentru promovarea turismului",
-        "summary": "România devine vizibilă pe cea mai complexă hartă digitală a sunetelor naturii din lume. George Vlad, sound designer român cu o carieră internațională de excepție, a petrecut sute de ore în Parcul...",
-        "link": "https://green.start-up.ro/ro/romania-intra-pe-harta-digitala-a-sunetelor-din-natura-pentru-promovarea-turismului",
-        "published_utc": "2026-04-16T07:34:02+00:00",
-        "score": 3,
-        "freshness_boost": 0,
-        "image": "https://green.start-up.ro/img/articles/3/5/8/35838/cover-35838-src.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
         "source": "SOS Satele Copiilor Romania",
         "title": "Psiholog",
         "summary": "Locație: București &#124; Nivel carieră: Experiență de minimum 1 an Candidatul Ideal: Ești tu vocea de care au nevoie? Un copil are nevoie de iubire, siguranță și încredere pentru a... The post Psiholog appeared first on SOS Satele Copiilor România .",
@@ -229,18 +181,6 @@
         "score": 3,
         "freshness_boost": 0,
         "image": "https://picsum.photos/seed/vb-670d4182437cf28f/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "United Way Romania",
-        "title": "Sprijinul Raiffeisen Bank schimbă vieți. Povestea lui Victor din programul „Învață să reușești”",
-        "summary": "United Way România lucrează acolo unde nevoia este cea mai mare, acolo unde sprijinul nu este doar util, ci vital. Fără acest ajutor, mulți copii ar rămâne în urmă, riscând să se piardă în dificultățile vieții. De aceea, apreciem sprijinul pe termen lung pe care Raiffeisen Bank îl oferă programului „Învață să reușești”. Printre copiii [&#8230;] Articolul Sprijinul Raiffeisen Bank schimbă vieți. Povestea lui Victor din programul „Învață să reușești” apare prima dată în United Way Romania .",
-        "link": "https://www.unitedway.ro/2026/04/sprijinul-raiffeisen-bank-schimba-vieti-povestea-lui-victor-din-programul-invata-sa-reusesti",
-        "published_utc": "2026-04-06T13:31:35+00:00",
-        "score": 3,
-        "freshness_boost": 0,
-        "image": "https://picsum.photos/seed/vb-9f8c1241fbb24622/480/320"
       },
       {
         "section": "romania",
@@ -638,6 +578,30 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 De supărare că i-a bătut Craiova, rapidiștii au ars 3.000 de cauciucuri!",
+      "summary": "Recenta înfrângere a Rapidului în fața echipei Universitatea Craiova a provocat un val de tristețe în cartierul Giulești, dar și în multe comune periferice de lângă București, ticsite de fani ai Rapidului. De supărare, oamenii au decis să dea foc la peste 3000 de cauciucuri, iar fumul gros s-a ridicat ca un semn de mare [&#8230;] The post De supărare că i-a bătut Craiova, rapidiștii au ars 3.000 de cauciucuri! appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/sport/de-suparare-ca-i-a-batut-craiova-rapidistii-au-ars-3-000-de-cauciucuri",
+      "published_utc": "2026-04-24T11:30:00+00:00",
+      "score": 3,
+      "freshness_boost": 1,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/fum_de_sintesti.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 A fost adus în țară capului lui Sf. Gheorghe, la schimb cu capul lui Mihai Viteazu",
+      "summary": "Reușită majoră pentru Biserica Ortodoxă Română, care a obținut de la Mânăstirea Xenofont de pe Muntele Athos chiar capul Sfântului Mare Mucenic Gheorghe. Eforturile BOR au durat patru ani, însă athoniții nu s-au îndurat să dea relicva sfântă decât la schimb cu un alt mare simbol al ortodoxiei, mai precis capul lui Mihai Viteazu, ținut [&#8230;] The post A fost adus în țară capului lui Sf. Gheorghe, la schimb cu capul lui Mihai Viteazu appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/life-death/a-fost-adus-in-tara-capului-lui-sf-gheorghe-la-schimb-cu-capul-lui-mihai-viteazu",
+      "published_utc": "2026-04-26T08:50:00+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2025/06/mihai_viteazul.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "După 25 de ani la TIFF.25: zece filme de top care au definit începutul de mileniu",
       "summary": "25 Years Later (După 25 de ani), unul dintre programele speciale ale ediției aniversare TIFF.25 (12-21 iunie 2026, Cluj-Napoca), propune o întoarcere în anul 2001, reunind titluri care au definit&#8230; Articolul După 25 de ani la TIFF.25: zece filme de top care au definit începutul de mileniu apare prima dată în Romania Pozitiva .",
@@ -646,18 +610,6 @@
       "score": 3,
       "freshness_boost": 3,
       "image": "https://picsum.photos/seed/vb-77fc61d31f5464fd/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Intervenție în Marea Neagră: delfini, rechin și sturioni salvați din plasele braconierilor",
-      "summary": "Acțiune în Marea Neagră. Cinci delfini, un rechin și șase sturioni au fost salvați din plasele braconierilor. Polițiștii de frontieră au descoperit în largul mării mai multe plase de pescuit ilegale, cu o lungime totală de 950 de metri. Din fericire, viețuitoarele marine erau încă în viață și au fost eliberate în mediul natural.",
-      "link": "https://www.digi24.ro/stiri/actualitate/social/interventie-in-marea-neagra-delfini-rechin-si-sturioni-salvati-din-plasele-braconierilor-3745009",
-      "published_utc": "2026-04-26T08:49:13+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjIl/MkYwNyUyRjAyJTJGMTUzODIwM18xNTM4/MjAzX2RlbGZpbmktZmItbWFyZS1ub3N0/cnVtLmpwZyZoYXNoPThlNjQ1NjY3MGNjYzE3ODM0NjU1Mzg1YWVlMzliNWQ0.jpg"
     },
     {
       "section": "romania",
@@ -710,18 +662,6 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 A fost adus în țară capului lui Sf. Gheorghe, la schimb cu capul lui Mihai Viteazu",
-      "summary": "Reușită majoră pentru Biserica Ortodoxă Română, care a obținut de la Mânăstirea Xenofont de pe Muntele Athos chiar capul Sfântului Mare Mucenic Gheorghe. Eforturile BOR au durat patru ani, însă athoniții nu s-au îndurat să dea relicva sfântă decât la schimb cu un alt mare simbol al ortodoxiei, mai precis capul lui Mihai Viteazu, ținut [&#8230;] The post A fost adus în țară capului lui Sf. Gheorghe, la schimb cu capul lui Mihai Viteazu appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/a-fost-adus-in-tara-capului-lui-sf-gheorghe-la-schimb-cu-capul-lui-mihai-viteazu",
-      "published_utc": "2026-04-26T08:50:00+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2025/06/mihai_viteazul.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "Fundatia Regala Margareta",
       "title": "SPRIJIN MEDIA OFERIT PROGRAMELOR FUNDAȚIEI REGALE ÎN ANUL 2025",
       "summary": "Programul național Telefonul Vârstnicului – 0800 460 001 Sprijinul media a venit de la Spot TV &#8211; Pro TV, TVR, Antena 1, Antena 3 CNN, Antena Stars, Prima TV, Prima News, Pro Cinema, Pro Arena, Acasă, Acasă Gold, Trinitas TV, Speranța TV, Antena 3 Deva,... Post-ul SPRIJIN MEDIA OFERIT PROGRAMELOR FUNDAȚIEI REGALE ÎN ANUL 2025 apare prima dată în Fundația Regală Margareta a României .",
@@ -735,18 +675,6 @@
       "section": "romania",
       "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 Tehnocratul pe care România și-l dorește! Nea Costel, Premier!",
-      "summary": "Criza politică recentă nu este o problemă pentru România, ci mai degrabă o mare oportunitate. Președintele Nicușor Dan are ocazia să facă un bine istoric acestei țări, numind în funcția de premier un tehnocrat autentic, un om capabil, extrem de cunoscut atât în mediile politice cât și în ceea ce unii numesc ”talpa țării”. Este [&#8230;] The post Tehnocratul pe care România și-l dorește! Nea Costel, Premier! appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/politic/tehnocratul-pe-care-romania-si-l-doreste-nea-costel-premier",
-      "published_utc": "2026-04-24T15:08:29+00:00",
-      "score": 3,
-      "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2020/07/nea_costel_discurs.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
       "title": "😂 Ultimatum de la PSD: Dacă Bolojan nu demisionează, măcar să-și radă sprânceana aia",
       "summary": "După demisia miniștrilor PSD, iată că vine și primul mesaj de împăcare pentru liberali dinspre Partidul Social-Democrat. Pesediștii sunt dispuși să înceteze imediat criza politică cu condiția ca Bolojan să-și radă monosprânceana. În această situație, pesediștii consideră că păcatele liberalului sunt spălate și vor reveni în Guvern. ”N-are sens să mai prelungim criza. Sperăm ca [&#8230;] The post Ultimatum de la PSD: Dacă Bolojan nu demisionează, măcar să-și radă sprânceana aia appeared first on Times New Roman .",
       "link": "https://www.timesnewroman.ro/politic/ultimatum-de-la-psd-daca-bolojan-nu-demisioneaza-macar-sa-si-rada-spranceana-aia",
@@ -754,30 +682,6 @@
       "score": 3,
       "freshness_boost": 1,
       "image": "https://www.timesnewroman.ro/wp-content/uploads/2025/02/bolojan_studio_tv.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Start-Up Romania",
-      "title": "InRento aduce în România investițiile imobiliare accesibile pentru publicul larg. Tichete de la 500 de euro",
-      "summary": "InRento, platforma europeană de investiții înființată în 2020 în Lituania, s-a lansat oficial pe piața din România. Dezvoltatorii imobiliari pot accesa soluția de finanțare alternativă pentru...",
-      "link": "https://start-up.ro/inrento-aduce-in-romania-investitiile-imobiliare-accesibile-pentru-publicul-larg-tichete-de-la-500-de-euro",
-      "published_utc": "2026-04-21T07:23:16+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://start-up.ro/img/articles/3/8/2/38232/cover-38232-src.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Green Start-Up Romania",
-      "title": "Cum ajută AI-ul la producția mai rapidă a bateriilor fără defecte",
-      "summary": "BMW testează utilizarea inteligenței artificiale pentru a optimiza procesele de analiză a celulelor de baterii, într-un proiect care vizează eficiența producției și reducerea consumului de resurse....",
-      "link": "https://green.start-up.ro/ro/cum-ajuta-ai-ul-la-productia-mai-rapida-a-bateriilor-fara-defecte",
-      "published_utc": "2026-04-21T06:38:15+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://green.start-up.ro/img/articles/3/5/8/35846/cover-35846-src.jpg"
     },
     {
       "section": "romania",
@@ -818,30 +722,6 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Green Start-Up Romania",
-      "title": "România intră pe harta digitală a sunetelor din natură pentru promovarea turismului",
-      "summary": "România devine vizibilă pe cea mai complexă hartă digitală a sunetelor naturii din lume. George Vlad, sound designer român cu o carieră internațională de excepție, a petrecut sute de ore în Parcul...",
-      "link": "https://green.start-up.ro/ro/romania-intra-pe-harta-digitala-a-sunetelor-din-natura-pentru-promovarea-turismului",
-      "published_utc": "2026-04-16T07:34:02+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://green.start-up.ro/img/articles/3/5/8/35838/cover-35838-src.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Legacy preference bans may not increase college diversity, researchers say",
-      "summary": "At some highly selective colleges and universities, cohorts of mostly white, wealthy applicants have three to eight times greater odds of admission than other similarly qualified applicants. These beneficiaries are legacy applicants, those who receive an admissions bonus for having alumni relatives.",
-      "link": "https://phys.org/news/2026-04-legacy-college-diversity.html",
-      "published_utc": "2026-04-25T16:30:01+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2020/college.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "SOS Satele Copiilor Romania",
       "title": "Psiholog",
       "summary": "Locație: București &#124; Nivel carieră: Experiență de minimum 1 an Candidatul Ideal: Ești tu vocea de care au nevoie? Un copil are nevoie de iubire, siguranță și încredere pentru a... The post Psiholog appeared first on SOS Satele Copiilor România .",
@@ -864,18 +744,6 @@
       "image": "https://picsum.photos/seed/vb-424625d0661ba497/480/320"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "ScienceDaily Science",
-      "title": "Scientists just discovered Africa is closer to breaking apart than we thought",
-      "summary": "Beneath East Africa’s Turkana Rift, scientists have found the crust is thinning to a critical point, suggesting the continent is gradually breaking apart. This “necking” process marks an advanced stage of rifting that could eventually lead to a new ocean forming millions of years from now. Surprisingly, the same geological forces that are splitting the land may also explain why the region holds such a rich fossil record. Instead of being the birthplace of humanity, Turkana may just be where the story was best preserved.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260424233204.htm",
-      "published_utc": "2026-04-25T16:26:15+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-d34f6cf70eba9b31/480/320"
-    },
-    {
       "section": "romania",
       "kind": "ro",
       "source": "Fundatia Regala Margareta",
@@ -890,30 +758,6 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "United Way Romania",
-      "title": "Sprijinul Raiffeisen Bank schimbă vieți. Povestea lui Victor din programul „Învață să reușești”",
-      "summary": "United Way România lucrează acolo unde nevoia este cea mai mare, acolo unde sprijinul nu este doar util, ci vital. Fără acest ajutor, mulți copii ar rămâne în urmă, riscând să se piardă în dificultățile vieții. De aceea, apreciem sprijinul pe termen lung pe care Raiffeisen Bank îl oferă programului „Învață să reușești”. Printre copiii [&#8230;] Articolul Sprijinul Raiffeisen Bank schimbă vieți. Povestea lui Victor din programul „Învață să reușești” apare prima dată în United Way Romania .",
-      "link": "https://www.unitedway.ro/2026/04/sprijinul-raiffeisen-bank-schimba-vieti-povestea-lui-victor-din-programul-invata-sa-reusesti",
-      "published_utc": "2026-04-06T13:31:35+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-9f8c1241fbb24622/480/320"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "This life‑threatening bacterium's hidden motor just gave medicine an unexpected opening to fight back",
-      "summary": "Scientists have mapped in unprecedented detail the structure of Vibrio bacteria, which can cause life-threatening infections linked to antibiotic resistance. The King's College London team behind the study, published in Nature Communications, say the finding could provide new targets for life-saving treatment.",
-      "link": "https://phys.org/news/2026-04-lifethreatening-bacterium-hidden-motor-gave.html",
-      "published_utc": "2026-04-25T16:00:04+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2016/vibriocholer.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "World Vision Romania",
       "title": "Bullyingul în adolescență: răni invizibile și cum pot fi vindecate",
       "summary": "De ce vorbim despre bullying Bullyingul nu mai este de mult o problemă „minoră” sau o etapă inevitabilă a copilăriei.... Articolul Bullyingul în adolescență: răni invizibile și cum pot fi vindecate apare prima dată în World Vision România .",
@@ -922,6 +766,18 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-2554b0df5dc098e4/480/320"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Legacy preference bans may not increase college diversity, researchers say",
+      "summary": "At some highly selective colleges and universities, cohorts of mostly white, wealthy applicants have three to eight times greater odds of admission than other similarly qualified applicants. These beneficiaries are legacy applicants, those who receive an admissions bonus for having alumni relatives.",
+      "link": "https://phys.org/news/2026-04-legacy-college-diversity.html",
+      "published_utc": "2026-04-25T16:30:01+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2020/college.jpg"
     },
     {
       "section": "romania",
@@ -936,18 +792,6 @@
       "image": "https://picsum.photos/seed/vb-5c5602f10ee5770c/480/320"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "ScienceDaily Science",
-      "title": "This exotic particle could finally explain why matter has mass",
-      "summary": "A major physics experiment has uncovered evidence for a strange new form of matter, where a fleeting particle gets trapped inside a nucleus. This exotic state may reveal how mass is generated, suggesting that particles can weigh less when surrounded by dense nuclear matter. The findings support long-standing theories about how the vacuum of space influences mass.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260424233214.htm",
-      "published_utc": "2026-04-25T14:47:27+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-d411151b335d1993/480/320"
-    },
-    {
       "section": "romania",
       "kind": "ro",
       "source": "Hope and Homes for Children Romania",
@@ -960,6 +804,18 @@
       "image": "https://picsum.photos/seed/vb-0c8deab301e748d9/480/320"
     },
     {
+      "section": "science",
+      "kind": "global",
+      "source": "ScienceDaily Science",
+      "title": "Scientists just discovered Africa is closer to breaking apart than we thought",
+      "summary": "Beneath East Africa’s Turkana Rift, scientists have found the crust is thinning to a critical point, suggesting the continent is gradually breaking apart. This “necking” process marks an advanced stage of rifting that could eventually lead to a new ocean forming millions of years from now. Surprisingly, the same geological forces that are splitting the land may also explain why the region holds such a rich fossil record. Instead of being the birthplace of humanity, Turkana may just be where the story was best preserved.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260424233204.htm",
+      "published_utc": "2026-04-25T16:26:15+00:00",
+      "score": 2,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-d34f6cf70eba9b31/480/320"
+    },
+    {
       "section": "romania",
       "kind": "ro",
       "source": "Teach for Romania",
@@ -970,6 +826,30 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-a5a22f02f60b7d29/480/320"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "This life‑threatening bacterium's hidden motor just gave medicine an unexpected opening to fight back",
+      "summary": "Scientists have mapped in unprecedented detail the structure of Vibrio bacteria, which can cause life-threatening infections linked to antibiotic resistance. The King's College London team behind the study, published in Nature Communications, say the finding could provide new targets for life-saving treatment.",
+      "link": "https://phys.org/news/2026-04-lifethreatening-bacterium-hidden-motor-gave.html",
+      "published_utc": "2026-04-25T16:00:04+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2016/vibriocholer.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "ScienceDaily Science",
+      "title": "This exotic particle could finally explain why matter has mass",
+      "summary": "A major physics experiment has uncovered evidence for a strange new form of matter, where a fleeting particle gets trapped inside a nucleus. This exotic state may reveal how mass is generated, suggesting that particles can weigh less when surrounded by dense nuclear matter. The findings support long-standing theories about how the vacuum of space influences mass.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260424233214.htm",
+      "published_utc": "2026-04-25T14:47:27+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-d411151b335d1993/480/320"
     },
     {
       "section": "science",
@@ -1266,8 +1146,8 @@
     "source": "data/jokes_ro.txt"
   },
   "satire_ro": {
-    "title": "A fost adus în țară capului lui Sf. Gheorghe, la schimb cu capul lui Mihai Viteazu",
-    "link": "https://www.timesnewroman.ro/life-death/a-fost-adus-in-tara-capului-lui-sf-gheorghe-la-schimb-cu-capul-lui-mihai-viteazu/",
+    "title": "Fetele vor reintroducerea limbii latine în școli: Nu mai știu băieții ce e ăla cunnilingus!",
+    "link": "https://www.timesnewroman.ro/it-stiinta/fetele-vor-reintroducerea-limbii-latine-in-scoli-nu-mai-stiu-baietii-ce-e-ala-cunnilingus/",
     "source": "timesnewroman.ro"
   },
   "top_images": [
@@ -1352,6 +1232,7 @@
       "https://live.staticflickr.com/65535/55212934933_413e0c09bb_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/55214721017_e8a545e9b3_b.jpg",
       "https://live.staticflickr.com/65535/55218973966_fae4e501d7_b.jpg",
       "https://live.staticflickr.com/65535/55220304787_b705fcc286_b.jpg",
       "https://live.staticflickr.com/65535/31304148730_0a749c0efd_b.jpg",
@@ -1368,10 +1249,10 @@
       "https://live.staticflickr.com/65535/55206686351_42df150d51_b.jpg",
       "https://live.staticflickr.com/65535/55219157060_0ec8710ec3_b.jpg",
       "https://live.staticflickr.com/65535/55221063060_c4946d8b70_b.jpg",
-      "https://live.staticflickr.com/65535/31789989716_40f922d066_b.jpg",
-      "https://live.staticflickr.com/65535/36426059055_e0f9275249_b.jpg"
+      "https://live.staticflickr.com/65535/31789989716_40f922d066_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55230019482_058cdb4a98_b.jpg",
       "https://live.staticflickr.com/65535/55231066483_f3ff764280_b.jpg",
       "https://live.staticflickr.com/65535/55229899237_b1f03a3a53_b.jpg",
       "https://live.staticflickr.com/65535/55230996414_e9d6c09277_b.jpg",
@@ -1388,12 +1269,11 @@
       "https://live.staticflickr.com/65535/55228387413_2a41e9e01e_b.jpg",
       "https://live.staticflickr.com/65535/55227273012_c5c5c9a3f0_b.jpg",
       "https://live.staticflickr.com/65535/55228609550_c9dbc0369f_b.jpg",
-      "https://live.staticflickr.com/65535/55228218714_e7579a25f6_b.jpg",
-      "https://live.staticflickr.com/65535/55225969420_eda39706ed_b.jpg"
+      "https://live.staticflickr.com/65535/55228218714_e7579a25f6_b.jpg"
     ],
     "microcosmos": [
-      "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg",
       "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg",
       "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg"
     ]
   }
