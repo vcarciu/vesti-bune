@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-04-28T17:30:17+00:00",
+  "generated_utc": "2026-04-28T19:18:14+00:00",
   "sections": {
     "romania": [
       {
@@ -173,6 +173,18 @@
       {
         "section": "romania",
         "kind": "ro",
+        "source": "United Way Romania",
+        "title": "Sprijinul Raiffeisen Bank schimbă vieți. Povestea lui Victor din programul „Învață să reușești”",
+        "summary": "United Way România lucrează acolo unde nevoia este cea mai mare, acolo unde sprijinul nu este doar util, ci vital. Fără acest ajutor, mulți copii ar rămâne în urmă, riscând să se piardă în dificultățile vieții. De aceea, apreciem sprijinul pe termen lung pe care Raiffeisen Bank îl oferă programului „Învață să reușești”. Printre copiii [&#8230;] Articolul Sprijinul Raiffeisen Bank schimbă vieți. Povestea lui Victor din programul „Învață să reușești” apare prima dată în United Way Romania .",
+        "link": "https://www.unitedway.ro/2026/04/sprijinul-raiffeisen-bank-schimba-vieti-povestea-lui-victor-din-programul-invata-sa-reusesti",
+        "published_utc": "2026-04-06T13:31:35+00:00",
+        "score": 3,
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-9f8c1241fbb24622/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
         "source": "World Vision Romania",
         "title": "Bullyingul în adolescență: răni invizibile și cum pot fi vindecate",
         "summary": "De ce vorbim despre bullying Bullyingul nu mai este de mult o problemă „minoră” sau o etapă inevitabilă a copilăriei.... Articolul Bullyingul în adolescență: răni invizibile și cum pot fi vindecate apare prima dată în World Vision România .",
@@ -310,133 +322,97 @@
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Peatlands are vital for tackling climate change, yet scientists still haven't found them all",
-        "summary": "Push a metal corer into a peatland and you pull up something remarkable: a dark, dense, sponge-like material made of partly decomposed plants. This peat is rich in carbon. In some places, that peat has been building up for thousands of years. Peatlands are the ecosystems where this happens.",
-        "link": "https://phys.org/news/2026-04-peatlands-vital-tackling-climate-scientists.html",
-        "published_utc": "2026-04-28T17:20:08+00:00",
+        "title": "Why the dawn chorus sounds different from place to place",
+        "summary": "Each May, nature lovers get out of bed early to experience the seasonal wonder of birds singing, as the sun rises above the horizon to take part in International Dawn Chorus Day.",
+        "link": "https://phys.org/news/2026-04-dawn-chorus.html",
+        "published_utc": "2026-04-28T19:00:07+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/peatland.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dawn.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Soil, not fertilizer, is primary source of nitrogen gas loss in rice paddies, study reveals",
-        "summary": "Rice production is heavily dependent on nitrogen fertilizers, particularly in China, where application rates are two to three times the global average. At the same time, a large amount of nitrogen is lost to the environment—mainly in the form of N2. Scientists widely assumed that fertilizer nitrogen was the primary source of this N2 loss—a conclusion that was reinforced by the technical challenge of distinguishing soil-emitted N2 from the atmospheric background.",
-        "link": "https://phys.org/news/2026-04-soil-fertilizer-primary-source-nitrogen.html",
-        "published_utc": "2026-04-28T17:20:03+00:00",
+        "title": "A mechanical blue LED: Stretching GaN shifts light from UV to blue without changing chemistry",
+        "summary": "A research team from the Faculty of Engineering at the University of Hong Kong (HKU) has successfully used mechanical stretching technology to dynamically control the emission color of gallium nitride (GaN) material from ultraviolet (UV) to blue light. This technological breakthrough provides a new semiconductor material control solution for future advanced power transistors, optoelectronic components, radio frequency components, and micro-LED displays.",
+        "link": "https://phys.org/news/2026-04-mechanical-blue-gan-shifts-uv.html",
+        "published_utc": "2026-04-28T19:00:01+00:00",
+        "score": 4,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mechanical-blue-led-sh.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Ancient farming clues may finally expose where humanity's most important wheat first emerged",
+        "summary": "The exact origin of bread wheat (Triticum aestivum) is still a mystery, but researchers believe they are edging closer to the source of one of the most important food staples worldwide. Using genetic studies and ancient plant remains, an international team of scientists has narrowed the location and timeline to the Neolithic period(around 8,000 years ago) in Georgia, in the South Caucasus. They present their findings in a paper published in the journal Proceedings of the National Academy of Sciences.",
+        "link": "https://phys.org/news/2026-04-ancient-farming-clues-expose-humanity.html",
+        "published_utc": "2026-04-28T18:40:02+00:00",
         "score": 1,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-reveals-soil-not.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-evidence-points-to.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Your local storm forecast is likely based on weather miles away. We're trying to bring it closer to home",
-        "summary": "Whether you're planning a weekend hike, deciding what to wear to work, or preparing your home for severe storms, the weather forecast is essential. You might instinctively grab your smartphone and check an app for an instant weather update.",
-        "link": "https://phys.org/news/2026-04-local-storm-based-weather-miles.html",
-        "published_utc": "2026-04-28T17:00:05+00:00",
-        "score": 0,
+        "title": "Urban agriculture could supply about 28% of Europe's vegetable demand",
+        "summary": "A new study, conducted by researchers from the Netherlands and Germany, estimates that urban agriculture in European cities could produce up to 20 million tons of vegetables annually, representing roughly one-third of the region's current vegetable production. The study, published in the journal Sustainable Cities and Society, systematically analyzes the potential of urban agriculture for 840 cities across 30 European countries.",
+        "link": "https://phys.org/news/2026-04-urban-agriculture-europe-vegetable-demand.html",
+        "published_utc": "2026-04-28T18:20:03+00:00",
+        "score": 2,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/storm-sky.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/urban-agriculture-coul.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "They cover just 3% of Earth, yet the unanswered questions around them could reshape climate action forever",
-        "summary": "Researchers including a number from the University of Exeter, have identified the most urgent unanswered questions about peatlands, providing a global roadmap to guide future science and policy for one of the planet's most important and threatened ecosystems. The paper, \"Priority research questions in global peatland science,\" is published in Communications Earth & Environment.",
-        "link": "https://phys.org/news/2026-04-earth-unanswered-reshape-climate-action.html",
-        "published_utc": "2026-04-28T17:00:03+00:00",
-        "score": 0,
+        "title": "How can opinions be maximally influenced? New research offers insights",
+        "summary": "Who should you target, and when, to maximize the impact of your message? New research uses mathematical models to show that targeted influence is significantly more effective than random persuasion. In social networks, certain individuals play a key role at specific moments in how ideas spread and how polarization arises.",
+        "link": "https://phys.org/news/2026-04-opinions-maximally-insights.html",
+        "published_utc": "2026-04-28T18:00:03+00:00",
+        "score": 2,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-identify-th-4.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "An anomaly in global sea level rise is explained by deep ocean heating",
-        "summary": "Climate scientists like to keep their accounting books neat and balanced. As climate change alters energy flows all across the planet, which in turn causes effects like sea level rise, ice melt and more, keeping close track of these changes is important for an in-depth understanding of the phenomenon of climate alteration as well as how it will play out in the future.",
-        "link": "https://phys.org/news/2026-04-anomaly-global-sea-deep-ocean.html",
-        "published_utc": "2026-04-28T16:40:04+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/an-anomaly-in-global-s-1.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Researchers discover new reproductive method that will improve cattle production",
-        "summary": "There are sure signs of spring on the Canadian Prairies—snow melting, pelicans splashing down in the South Saskatchewan River, and the sight of brand-new calves taking shaky first steps in the field. Behind those brand-new calves is an industry, deeply rooted in research, that works tirelessly to ensure cows are healthy and thriving. Cattle production is integral to Saskatchewan's economy, and the University of Saskatchewan's (USask) is, in many ways, leading the charge in beef cattle research in the province.",
-        "link": "https://phys.org/news/2026-04-reproductive-method-cattle-production.html",
-        "published_utc": "2026-04-28T16:20:04+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-discover-n-4.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/people-as-nodes.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "NASA Breaking News",
-        "title": "NASA Fires Up Powerful Lithium-Fed Thruster for Trips to Mars",
-        "summary": "A technology that could propel crewed missions to Mars and robotic spacecraft throughout the solar system was recently put to the test at NASA’s Jet Propulsion Laboratory in Southern California. On Feb. 24, for the first time in years and at power levels exceeding any previous test in the United States, a team fired up [&#8230;]",
-        "link": "https://www.nasa.gov/missions/tech-demonstration/nasa-fires-up-powerful-lithium-fed-thruster-for-trips-to-mars",
-        "published_utc": "2026-04-28T16:18:34+00:00",
+        "title": "Nighttime Imaging Grows Landsat’s Science Value",
+        "summary": "By Earth Resources Observation and Science (EROS) Center For more than 50 years, Landsat has imaged Earth’s land and near-shore surfaces as the satellites descend in midmorning orbit, when daily sunlight is optimal. That’s just what they’ve always done. Currently, Landsat 8 and Landsat 9 circle the globe while also making better use of their ascending paths, […]",
+        "link": "https://science.nasa.gov/missions/landsat/nighttime-imaging-grows-landsats-science-value",
+        "published_utc": "2026-04-28T17:57:30+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://www.youtube.com/embed/6XsqSA9tNfY"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "NASA Breaking News",
-        "title": "NASA Laser Terminal Enhances Views During Artemis II Mission",
-        "summary": "Millions of people watched the historic launch of Artemis II and were captivated by the mission’s 10-day journey around the Moon as NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen ventured farther into space than any human before. Part of the public’s ability to experience the [&#8230;]",
-        "link": "https://www.nasa.gov/missions/artemis/artemis-2/nasa-laser-terminal-enhances-views-during-artemis-ii-mission",
-        "published_utc": "2026-04-28T16:10:25+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/04/orion-shot-04-1.mp4"
+        "image": "https://picsum.photos/seed/vb-87d6fc49be5489a5/480/320"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "German rescuers launch new bid to free stranded whale",
-        "summary": "German rescuers launched a fresh bid Tuesday to free a humpback whale stranded for a month off the country's coast, aiming to transport the cetacean to deeper waters in a barge.",
+        "title": "Will attendance‑based grading improve school absenteeism?",
+        "summary": "School absenteeism is a major concern across Canada—and beyond. As researchers with the Canadian School Attendance Partnership, we have been exploring this issue for a few years, motivated by concerns raised by families, community agencies and school districts.",
+        "link": "https://phys.org/news/2026-04-attendancebased-grading-school-absenteeism.html",
+        "published_utc": "2026-04-28T17:40:02+00:00",
+        "score": 1,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/school-2.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "German bid to rescue 'Timmy' the whale passes key hurdle",
+        "summary": "German rescuers on Tuesday hauled a stranded humpback whale into a special boat due to carry it to deeper waters, in the latest attempt to free the cetacean whose ordeal has captured hearts in Germany for weeks.",
         "link": "https://phys.org/news/2026-04-german-rescuers-free-stranded-whale.html",
         "published_utc": "2026-04-28T16:00:01+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/two-entrepreneurs-are.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Most sunscreens harm corals. Here's what you can do",
-        "summary": "Every time you go for a swim, some of your sunscreen gets left behind. An estimated 25% of applied sunscreen washes off during recreational water activities, releasing some 5,000 tons annually in reef areas alone, according to a study in Environmental Health Perspectives. That's equivalent to the weight of about 1,000 elephants, and many of those chemicals are toxic to corals. Some researchers argue that may be a low estimate, noting the experiment did not replicate the friction caused by swimming, which could cause more sunscreen to rub off.",
-        "link": "https://phys.org/news/2026-04-sunscreens-corals.html",
-        "published_utc": "2026-04-28T15:20:01+00:00",
-        "score": 2,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/most-sunscreens-harm-c.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "NASA Breaking News",
-        "title": "Six Years of Curiosity’s Wheels on the Move",
-        "summary": "Description NASA’s Curiosity Mars rover used its right navigation camera — one of two on the rover’s mast, or head — to capture the images in this timelapse, which spans six years of driving. The images were snapped between Jan. 2, 2020, and March 8, 2026 (the 2,633rd and 4,830th Martian day, or sol, of […]",
-        "link": "https://science.nasa.gov/photojournal/six-years-of-curiositys-wheels-on-the-move",
-        "published_utc": "2026-04-28T15:19:49+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-e734218437a97f07/480/320"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-humpback-whale-was.jpg"
       }
     ],
     "environment": [
@@ -710,6 +686,18 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "United Way Romania",
+      "title": "Sprijinul Raiffeisen Bank schimbă vieți. Povestea lui Victor din programul „Învață să reușești”",
+      "summary": "United Way România lucrează acolo unde nevoia este cea mai mare, acolo unde sprijinul nu este doar util, ci vital. Fără acest ajutor, mulți copii ar rămâne în urmă, riscând să se piardă în dificultățile vieții. De aceea, apreciem sprijinul pe termen lung pe care Raiffeisen Bank îl oferă programului „Învață să reușești”. Printre copiii [&#8230;] Articolul Sprijinul Raiffeisen Bank schimbă vieți. Povestea lui Victor din programul „Învață să reușești” apare prima dată în United Way Romania .",
+      "link": "https://www.unitedway.ro/2026/04/sprijinul-raiffeisen-bank-schimba-vieti-povestea-lui-victor-din-programul-invata-sa-reusesti",
+      "published_utc": "2026-04-06T13:31:35+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-9f8c1241fbb24622/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "World Vision Romania",
       "title": "Bullyingul în adolescență: răni invizibile și cum pot fi vindecate",
       "summary": "De ce vorbim despre bullying Bullyingul nu mai este de mult o problemă „minoră” sau o etapă inevitabilă a copilăriei.... Articolul Bullyingul în adolescență: răni invizibile și cum pot fi vindecate apare prima dată în World Vision România .",
@@ -718,6 +706,18 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-2554b0df5dc098e4/480/320"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Why the dawn chorus sounds different from place to place",
+      "summary": "Each May, nature lovers get out of bed early to experience the seasonal wonder of birds singing, as the sun rises above the horizon to take part in International Dawn Chorus Day.",
+      "link": "https://phys.org/news/2026-04-dawn-chorus.html",
+      "published_utc": "2026-04-28T19:00:07+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dawn.jpg"
     },
     {
       "section": "romania",
@@ -730,18 +730,6 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-5c5602f10ee5770c/480/320"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Peatlands are vital for tackling climate change, yet scientists still haven't found them all",
-      "summary": "Push a metal corer into a peatland and you pull up something remarkable: a dark, dense, sponge-like material made of partly decomposed plants. This peat is rich in carbon. In some places, that peat has been building up for thousands of years. Peatlands are the ecosystems where this happens.",
-      "link": "https://phys.org/news/2026-04-peatlands-vital-tackling-climate-scientists.html",
-      "published_utc": "2026-04-28T17:20:08+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/peatland.jpg"
     },
     {
       "section": "romania",
@@ -759,13 +747,73 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Soil, not fertilizer, is primary source of nitrogen gas loss in rice paddies, study reveals",
-      "summary": "Rice production is heavily dependent on nitrogen fertilizers, particularly in China, where application rates are two to three times the global average. At the same time, a large amount of nitrogen is lost to the environment—mainly in the form of N2. Scientists widely assumed that fertilizer nitrogen was the primary source of this N2 loss—a conclusion that was reinforced by the technical challenge of distinguishing soil-emitted N2 from the atmospheric background.",
-      "link": "https://phys.org/news/2026-04-soil-fertilizer-primary-source-nitrogen.html",
-      "published_utc": "2026-04-28T17:20:03+00:00",
+      "title": "A mechanical blue LED: Stretching GaN shifts light from UV to blue without changing chemistry",
+      "summary": "A research team from the Faculty of Engineering at the University of Hong Kong (HKU) has successfully used mechanical stretching technology to dynamically control the emission color of gallium nitride (GaN) material from ultraviolet (UV) to blue light. This technological breakthrough provides a new semiconductor material control solution for future advanced power transistors, optoelectronic components, radio frequency components, and micro-LED displays.",
+      "link": "https://phys.org/news/2026-04-mechanical-blue-gan-shifts-uv.html",
+      "published_utc": "2026-04-28T19:00:01+00:00",
+      "score": 4,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mechanical-blue-led-sh.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Ancient farming clues may finally expose where humanity's most important wheat first emerged",
+      "summary": "The exact origin of bread wheat (Triticum aestivum) is still a mystery, but researchers believe they are edging closer to the source of one of the most important food staples worldwide. Using genetic studies and ancient plant remains, an international team of scientists has narrowed the location and timeline to the Neolithic period(around 8,000 years ago) in Georgia, in the South Caucasus. They present their findings in a paper published in the journal Proceedings of the National Academy of Sciences.",
+      "link": "https://phys.org/news/2026-04-ancient-farming-clues-expose-humanity.html",
+      "published_utc": "2026-04-28T18:40:02+00:00",
       "score": 1,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-reveals-soil-not.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-evidence-points-to.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Urban agriculture could supply about 28% of Europe's vegetable demand",
+      "summary": "A new study, conducted by researchers from the Netherlands and Germany, estimates that urban agriculture in European cities could produce up to 20 million tons of vegetables annually, representing roughly one-third of the region's current vegetable production. The study, published in the journal Sustainable Cities and Society, systematically analyzes the potential of urban agriculture for 840 cities across 30 European countries.",
+      "link": "https://phys.org/news/2026-04-urban-agriculture-europe-vegetable-demand.html",
+      "published_utc": "2026-04-28T18:20:03+00:00",
+      "score": 2,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/urban-agriculture-coul.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "How can opinions be maximally influenced? New research offers insights",
+      "summary": "Who should you target, and when, to maximize the impact of your message? New research uses mathematical models to show that targeted influence is significantly more effective than random persuasion. In social networks, certain individuals play a key role at specific moments in how ideas spread and how polarization arises.",
+      "link": "https://phys.org/news/2026-04-opinions-maximally-insights.html",
+      "published_utc": "2026-04-28T18:00:03+00:00",
+      "score": 2,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/people-as-nodes.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "NASA Breaking News",
+      "title": "Nighttime Imaging Grows Landsat’s Science Value",
+      "summary": "By Earth Resources Observation and Science (EROS) Center For more than 50 years, Landsat has imaged Earth’s land and near-shore surfaces as the satellites descend in midmorning orbit, when daily sunlight is optimal. That’s just what they’ve always done. Currently, Landsat 8 and Landsat 9 circle the globe while also making better use of their ascending paths, […]",
+      "link": "https://science.nasa.gov/missions/landsat/nighttime-imaging-grows-landsats-science-value",
+      "published_utc": "2026-04-28T17:57:30+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-87d6fc49be5489a5/480/320"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Will attendance‑based grading improve school absenteeism?",
+      "summary": "School absenteeism is a major concern across Canada—and beyond. As researchers with the Canadian School Attendance Partnership, we have been exploring this issue for a few years, motivated by concerns raised by families, community agencies and school districts.",
+      "link": "https://phys.org/news/2026-04-attendancebased-grading-school-absenteeism.html",
+      "published_utc": "2026-04-28T17:40:02+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/school-2.jpg"
     },
     {
       "section": "medical",
@@ -778,30 +826,6 @@
       "score": 0,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/glucose-monitor.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Your local storm forecast is likely based on weather miles away. We're trying to bring it closer to home",
-      "summary": "Whether you're planning a weekend hike, deciding what to wear to work, or preparing your home for severe storms, the weather forecast is essential. You might instinctively grab your smartphone and check an app for an instant weather update.",
-      "link": "https://phys.org/news/2026-04-local-storm-based-weather-miles.html",
-      "published_utc": "2026-04-28T17:00:05+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/storm-sky.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "They cover just 3% of Earth, yet the unanswered questions around them could reshape climate action forever",
-      "summary": "Researchers including a number from the University of Exeter, have identified the most urgent unanswered questions about peatlands, providing a global roadmap to guide future science and policy for one of the planet's most important and threatened ecosystems. The paper, \"Priority research questions in global peatland science,\" is published in Communications Earth & Environment.",
-      "link": "https://phys.org/news/2026-04-earth-unanswered-reshape-climate-action.html",
-      "published_utc": "2026-04-28T17:00:03+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-identify-th-4.jpg"
     },
     {
       "section": "medical",
@@ -828,18 +852,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rape-sexual-assault-an.jpg"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "An anomaly in global sea level rise is explained by deep ocean heating",
-      "summary": "Climate scientists like to keep their accounting books neat and balanced. As climate change alters energy flows all across the planet, which in turn causes effects like sea level rise, ice melt and more, keeping close track of these changes is important for an in-depth understanding of the phenomenon of climate alteration as well as how it will play out in the future.",
-      "link": "https://phys.org/news/2026-04-anomaly-global-sea-deep-ocean.html",
-      "published_utc": "2026-04-28T16:40:04+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/an-anomaly-in-global-s-1.jpg"
-    },
-    {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
@@ -864,42 +876,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/california-beach.jpg"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Researchers discover new reproductive method that will improve cattle production",
-      "summary": "There are sure signs of spring on the Canadian Prairies—snow melting, pelicans splashing down in the South Saskatchewan River, and the sight of brand-new calves taking shaky first steps in the field. Behind those brand-new calves is an industry, deeply rooted in research, that works tirelessly to ensure cows are healthy and thriving. Cattle production is integral to Saskatchewan's economy, and the University of Saskatchewan's (USask) is, in many ways, leading the charge in beef cattle research in the province.",
-      "link": "https://phys.org/news/2026-04-reproductive-method-cattle-production.html",
-      "published_utc": "2026-04-28T16:20:04+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-discover-n-4.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "NASA Breaking News",
-      "title": "NASA Fires Up Powerful Lithium-Fed Thruster for Trips to Mars",
-      "summary": "A technology that could propel crewed missions to Mars and robotic spacecraft throughout the solar system was recently put to the test at NASA’s Jet Propulsion Laboratory in Southern California. On Feb. 24, for the first time in years and at power levels exceeding any previous test in the United States, a team fired up [&#8230;]",
-      "link": "https://www.nasa.gov/missions/tech-demonstration/nasa-fires-up-powerful-lithium-fed-thruster-for-trips-to-mars",
-      "published_utc": "2026-04-28T16:18:34+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://www.youtube.com/embed/6XsqSA9tNfY"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "NASA Breaking News",
-      "title": "NASA Laser Terminal Enhances Views During Artemis II Mission",
-      "summary": "Millions of people watched the historic launch of Artemis II and were captivated by the mission’s 10-day journey around the Moon as NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen ventured farther into space than any human before. Part of the public’s ability to experience the [&#8230;]",
-      "link": "https://www.nasa.gov/missions/artemis/artemis-2/nasa-laser-terminal-enhances-views-during-artemis-ii-mission",
-      "published_utc": "2026-04-28T16:10:25+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/04/orion-shot-04-1.mp4"
-    },
-    {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
@@ -915,13 +891,13 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "German rescuers launch new bid to free stranded whale",
-      "summary": "German rescuers launched a fresh bid Tuesday to free a humpback whale stranded for a month off the country's coast, aiming to transport the cetacean to deeper waters in a barge.",
+      "title": "German bid to rescue 'Timmy' the whale passes key hurdle",
+      "summary": "German rescuers on Tuesday hauled a stranded humpback whale into a special boat due to carry it to deeper waters, in the latest attempt to free the cetacean whose ordeal has captured hearts in Germany for weeks.",
       "link": "https://phys.org/news/2026-04-german-rescuers-free-stranded-whale.html",
       "published_utc": "2026-04-28T16:00:01+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/two-entrepreneurs-are.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-humpback-whale-was.jpg"
     },
     {
       "section": "medical",
@@ -934,30 +910,6 @@
       "score": 0,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/whole-foods.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Most sunscreens harm corals. Here's what you can do",
-      "summary": "Every time you go for a swim, some of your sunscreen gets left behind. An estimated 25% of applied sunscreen washes off during recreational water activities, releasing some 5,000 tons annually in reef areas alone, according to a study in Environmental Health Perspectives. That's equivalent to the weight of about 1,000 elephants, and many of those chemicals are toxic to corals. Some researchers argue that may be a low estimate, noting the experiment did not replicate the friction caused by swimming, which could cause more sunscreen to rub off.",
-      "link": "https://phys.org/news/2026-04-sunscreens-corals.html",
-      "published_utc": "2026-04-28T15:20:01+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/most-sunscreens-harm-c.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "NASA Breaking News",
-      "title": "Six Years of Curiosity’s Wheels on the Move",
-      "summary": "Description NASA’s Curiosity Mars rover used its right navigation camera — one of two on the rover’s mast, or head — to capture the images in this timelapse, which spans six years of driving. The images were snapped between Jan. 2, 2020, and March 8, 2026 (the 2,633rd and 4,830th Martian day, or sol, of […]",
-      "link": "https://science.nasa.gov/photojournal/six-years-of-curiositys-wheels-on-the-move",
-      "published_utc": "2026-04-28T15:19:49+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-e734218437a97f07/480/320"
     },
     {
       "section": "medical",
@@ -1070,7 +1022,7 @@
   ],
   "joke_ro": {
     "date_utc": "2026-04-28",
-    "text": "Mi-am luat sticla de apa ca sa fiu adult responsabil. Am umplut-o cu suc.",
+    "text": "Am facut pasi spre succes. Majoritatea au fost spre bucatarie.",
     "source": "data/jokes_ro.txt"
   },
   "satire_ro": {
@@ -1160,6 +1112,7 @@
       "https://live.staticflickr.com/65535/55218281053_4e17b9ec60_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/55224892655_8e6570646b_b.jpg",
       "https://live.staticflickr.com/4172/34211681861_de92e4eeaf_b.jpg",
       "https://live.staticflickr.com/65535/55213682437_feb403c9af_b.jpg",
       "https://live.staticflickr.com/65535/55221063060_c4946d8b70_b.jpg",
@@ -1176,10 +1129,10 @@
       "https://live.staticflickr.com/65535/31633620301_034476301c_b.jpg",
       "https://live.staticflickr.com/65535/55220304787_b705fcc286_b.jpg",
       "https://live.staticflickr.com/65535/31304148730_0a749c0efd_b.jpg",
-      "https://live.staticflickr.com/65535/30940199163_ab1492ffea_b.jpg",
-      "https://live.staticflickr.com/65535/55211732743_d0102ab88a_b.jpg"
+      "https://live.staticflickr.com/65535/30940199163_ab1492ffea_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55236775981_4202d41b9d_b.jpg",
       "https://live.staticflickr.com/65535/55236599568_b956f98e54_b.jpg",
       "https://live.staticflickr.com/65535/55236349744_c05ae4a38b_b.jpg",
       "https://live.staticflickr.com/65535/55236025998_7488644da8_b.jpg",
@@ -1196,12 +1149,11 @@
       "https://live.staticflickr.com/65535/55233562049_348ccbaacd_b.jpg",
       "https://live.staticflickr.com/65535/55233252158_7c09feee6c_b.jpg",
       "https://live.staticflickr.com/65535/55232498024_2ccaeef1ed_b.jpg",
-      "https://live.staticflickr.com/65535/55232675695_58c56de4b8_b.jpg",
-      "https://live.staticflickr.com/65535/55231677180_e110227df8_b.jpg"
+      "https://live.staticflickr.com/65535/55232675695_58c56de4b8_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
+      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
