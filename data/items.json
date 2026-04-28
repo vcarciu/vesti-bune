@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-04-28T20:58:20+00:00",
+  "generated_utc": "2026-04-28T21:54:03+00:00",
   "sections": {
     "romania": [
       {
@@ -78,13 +78,13 @@
         "section": "romania",
         "kind": "ro",
         "source": "Times New Roman (Satira)",
-        "title": "😂 Mii de suveraniști cu neuronul blocat după ce au aflat că AUR se aliază cu PSD",
-        "summary": "Vestea că AUR se va alia cu PSD pentru a-l da jos pe Bolojan, ba chiar că cele două partide ar putea forma o coaliție pentru un nou guvern, a creat blocaje intelectuale intense în tabăra suveranistă. Au fost semnalate deja mii de cazuri de suveraniști cu neuronul blocat după ce au încercat să înțeleagă [&#8230;] The post Mii de suveraniști cu neuronul blocat după ce au aflat că AUR se aliază cu PSD appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/politic/mii-de-suveranisti-cu-neuronul-blocat-dupa-ce-au-aflat-ca-aur-se-aliaza-cu-psd",
-        "published_utc": "2026-04-27T09:51:31+00:00",
+        "title": "😂 Scandal la Romsilva: Aşa-zisul elan reintrodus în pădurile României era doar un cal cu o creangă pe cap",
+        "summary": "Reintroducerea elanului în România s-a dovedit a fi un mare fiasco! Conducerea Romsilva şi-a retras postarea şi a prezentat scuze publicului după ce &#8222;maiestuosul elan&#8221; din Neamţ s-a dovedit a fi Neluţu, un cal din zonă, rătăcit prin pădure şi cu o creangă încâlcită în păr. &#8222;Am bătut zeci de kilometri prin bălării, m-am împiedicat [&#8230;] The post Scandal la Romsilva: Aşa-zisul elan reintrodus în pădurile României era doar un cal cu o creangă pe cap appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/monden/scandal-la-romsilva-asa-zisul-elan-reintrodus-in-padurile-romaniei-era-doar-un-cal-cu-o-creanga-pe-cap",
+        "published_utc": "2026-04-27T13:57:33+00:00",
         "score": 3,
         "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/suveranist_parlament.jpg"
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/elanul.jpg"
       },
       {
         "section": "romania",
@@ -169,18 +169,6 @@
         "score": 3,
         "freshness_boost": 0,
         "image": "https://picsum.photos/seed/vb-670d4182437cf28f/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "United Way Romania",
-        "title": "Sprijinul Raiffeisen Bank schimbă vieți. Povestea lui Victor din programul „Învață să reușești”",
-        "summary": "United Way România lucrează acolo unde nevoia este cea mai mare, acolo unde sprijinul nu este doar util, ci vital. Fără acest ajutor, mulți copii ar rămâne în urmă, riscând să se piardă în dificultățile vieții. De aceea, apreciem sprijinul pe termen lung pe care Raiffeisen Bank îl oferă programului „Învață să reușești”. Printre copiii [&#8230;] Articolul Sprijinul Raiffeisen Bank schimbă vieți. Povestea lui Victor din programul „Învață să reușești” apare prima dată în United Way Romania .",
-        "link": "https://www.unitedway.ro/2026/04/sprijinul-raiffeisen-bank-schimba-vieti-povestea-lui-victor-din-programul-invata-sa-reusesti",
-        "published_utc": "2026-04-06T13:31:35+00:00",
-        "score": 3,
-        "freshness_boost": 0,
-        "image": "https://picsum.photos/seed/vb-9f8c1241fbb24622/480/320"
       },
       {
         "section": "romania",
@@ -322,97 +310,97 @@
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Why the dawn chorus sounds different from place to place",
-        "summary": "Each May, nature lovers get out of bed early to experience the seasonal wonder of birds singing, as the sun rises above the horizon to take part in International Dawn Chorus Day.",
-        "link": "https://phys.org/news/2026-04-dawn-chorus.html",
-        "published_utc": "2026-04-28T19:00:07+00:00",
+        "title": "Light can now be shaped in empty space, and it could simplify sensing and boost data links",
+        "summary": "Scientists at the University of East Anglia have uncovered a hidden property of light that allows it to twist, spin and behave differently—without mirrors, materials or special lenses. In a breakthrough that could transform medical testing, data transmission and future quantum technologies, researchers from the UK and South Africa have shown that light can be \"programmed\" simply by exploiting its natural geometry.",
+        "link": "https://phys.org/news/2026-04-space-boost-links.html",
+        "published_utc": "2026-04-28T21:50:01+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-discover-su.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Hidden stripe pattern lets microscopes auto-focus across 400 times deeper range",
+        "summary": "Anyone who has ever used a microscope knows that it takes time to bring a sample into sharp focus. Each time you move the slide, the image blurs, and you have to stop and carefully turn a knob to bring everything back into clear view. For scientists and clinicians, even if the motion is semi-automated, that time quickly adds up as they work with dozens or hundreds of samples.",
+        "link": "https://phys.org/news/2026-04-hidden-stripe-pattern-microscopes-auto.html",
+        "published_utc": "2026-04-28T21:40:03+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dawn.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/simple-new-system-keep.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "A mechanical blue LED: Stretching GaN shifts light from UV to blue without changing chemistry",
-        "summary": "A research team from the Faculty of Engineering at the University of Hong Kong (HKU) has successfully used mechanical stretching technology to dynamically control the emission color of gallium nitride (GaN) material from ultraviolet (UV) to blue light. This technological breakthrough provides a new semiconductor material control solution for future advanced power transistors, optoelectronic components, radio frequency components, and micro-LED displays.",
-        "link": "https://phys.org/news/2026-04-mechanical-blue-gan-shifts-uv.html",
-        "published_utc": "2026-04-28T19:00:01+00:00",
-        "score": 4,
+        "title": "Egg-scanning AI may let hatcheries sort life, death and sex before chicks emerge",
+        "summary": "Eggs and poultry provide important sources of protein globally, driving a major industry with large economic impacts. Challenges to hatchery operations include embryo mortality, fertility, sex determination, and eggshell characteristics. These features have a substantial impact on production, but they are difficult and time-consuming to estimate.",
+        "link": "https://phys.org/news/2026-04-egg-scanning-ai-hatcheries-life.html",
+        "published_utc": "2026-04-28T21:30:03+00:00",
+        "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mechanical-blue-led-sh.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-determine.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Ancient farming clues may finally expose where humanity's most important wheat first emerged",
-        "summary": "The exact origin of bread wheat (Triticum aestivum) is still a mystery, but researchers believe they are edging closer to the source of one of the most important food staples worldwide. Using genetic studies and ancient plant remains, an international team of scientists has narrowed the location and timeline to the Neolithic period(around 8,000 years ago) in Georgia, in the South Caucasus. They present their findings in a paper published in the journal Proceedings of the National Academy of Sciences.",
-        "link": "https://phys.org/news/2026-04-ancient-farming-clues-expose-humanity.html",
-        "published_utc": "2026-04-28T18:40:02+00:00",
+        "title": "Natural rubber process boosts tire toughness about tenfold while preserving stiffness",
+        "summary": "Natural rubber, tapped from trees as latex, is the world's most widely used bio-elastomer. Comprising long molecular chains that make it pliable and stretchy yet highly resistant to cracking and strain, natural rubber is foundational to countless products, including the heavy-duty tires in trucks, buses, and airplanes.",
+        "link": "https://phys.org/news/2026-04-natural-rubber-boosts-toughness-tenfold.html",
+        "published_utc": "2026-04-28T21:20:03+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/toward-tougher-longer.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Conquering the final frontiers in nanographene synthetic methodologies",
+        "summary": "Nanographenes are organic semiconductor materials used in smartphones, OLED displays, and solar cells. At the molecular level, they are composed of polycyclic aromatic hydrocarbons (PAHs), which are a network of connected benzene rings (hexagon-shaped carbon molecules). Chemists can modify the electronic properties of PAHs by adding more benzene rings to them, changing their size and shape. As such, there is high demand for methods that can selectively extend specific sites of PAH molecules to allow greater versatility in technological applications.",
+        "link": "https://phys.org/news/2026-04-conquering-frontiers-nanographene-synthetic-methodologies.html",
+        "published_utc": "2026-04-28T21:20:01+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/conquering-the-final-f.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Study reveals insights for climate resilience in smallholder cacao farms",
+        "summary": "Chocolate is one of the world's most widely consumed foods. It is made from cacao beans grown by millions of smallholder farmers globally. High-quality cacao beans require optimal growing conditions, which are essential for producing good-quality chocolates. However, growing climate variability such as rising temperatures, unpredictable rainfall, and prolonged dry spells, are making it harder to maintain healthy crops and stable yields.",
+        "link": "https://phys.org/news/2026-04-reveals-insights-climate-resilience-smallholder.html",
+        "published_utc": "2026-04-28T21:00:06+00:00",
         "score": 1,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-evidence-points-to.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/chocolate.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Urban agriculture could supply about 28% of Europe's vegetable demand",
-        "summary": "A new study, conducted by researchers from the Netherlands and Germany, estimates that urban agriculture in European cities could produce up to 20 million tons of vegetables annually, representing roughly one-third of the region's current vegetable production. The study, published in the journal Sustainable Cities and Society, systematically analyzes the potential of urban agriculture for 840 cities across 30 European countries.",
-        "link": "https://phys.org/news/2026-04-urban-agriculture-europe-vegetable-demand.html",
-        "published_utc": "2026-04-28T18:20:03+00:00",
-        "score": 2,
+        "title": "Investigating the disordered heart of glass",
+        "summary": "Recent research led by the University of Trento reveals that fundamental atomic vibrations remain unchanged also in ultra-stable glasses. This discovery advances the decade-long debate on the physics of disorder and opens the way to new applications, from electronics to pharmaceuticals. The research work was carried out by the Department of Physics in collaboration with other European research institutions and published in Physical Review X.",
+        "link": "https://phys.org/news/2026-04-disordered-heart-glass.html",
+        "published_utc": "2026-04-28T21:00:03+00:00",
+        "score": 4,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/urban-agriculture-coul.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "How can opinions be maximally influenced? New research offers insights",
-        "summary": "Who should you target, and when, to maximize the impact of your message? New research uses mathematical models to show that targeted influence is significantly more effective than random persuasion. In social networks, certain individuals play a key role at specific moments in how ideas spread and how polarization arises.",
-        "link": "https://phys.org/news/2026-04-opinions-maximally-insights.html",
-        "published_utc": "2026-04-28T18:00:03+00:00",
-        "score": 2,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/people-as-nodes.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-disordered-heart-o.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "NASA Breaking News",
-        "title": "Nighttime Imaging Grows Landsat’s Science Value",
-        "summary": "By Earth Resources Observation and Science (EROS) Center For more than 50 years, Landsat has imaged Earth’s land and near-shore surfaces as the satellites descend in midmorning orbit, when daily sunlight is optimal. That’s just what they’ve always done. Currently, Landsat 8 and Landsat 9 circle the globe while also making better use of their ascending paths, […]",
-        "link": "https://science.nasa.gov/missions/landsat/nighttime-imaging-grows-landsats-science-value",
-        "published_utc": "2026-04-28T17:57:30+00:00",
-        "score": 0,
+        "title": "NASA Connects Little Red Dots with Chandra, Webb",
+        "summary": "A newly discovered object may be a key to unlocking the true nature of a mysterious class of sources that astronomers have found in the early universe in recent years. A “X-ray dot” found by NASA’s Chandra X-ray Observatory could explain what the hundreds or potentially thousands of these objects are. A paper describing the […]",
+        "link": "https://science.nasa.gov/missions/chandra/nasa-connects-little-red-dots-with-chandra-webb",
+        "published_utc": "2026-04-28T20:21:03+00:00",
+        "score": 2,
         "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-87d6fc49be5489a5/480/320"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Will attendance‑based grading improve school absenteeism?",
-        "summary": "School absenteeism is a major concern across Canada—and beyond. As researchers with the Canadian School Attendance Partnership, we have been exploring this issue for a few years, motivated by concerns raised by families, community agencies and school districts.",
-        "link": "https://phys.org/news/2026-04-attendancebased-grading-school-absenteeism.html",
-        "published_utc": "2026-04-28T17:40:02+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/school-2.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "German bid to rescue 'Timmy' the whale passes key hurdle",
-        "summary": "German rescuers on Tuesday hauled a stranded humpback whale into a special boat due to carry it to deeper waters, in the latest attempt to free the cetacean whose ordeal has captured hearts in Germany for weeks.",
-        "link": "https://phys.org/news/2026-04-german-rescuers-free-stranded-whale.html",
-        "published_utc": "2026-04-28T16:00:01+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-humpback-whale-was.jpg"
+        "image": "https://picsum.photos/seed/vb-86280442fec81ceb/480/320"
       }
     ],
     "environment": [
@@ -518,18 +506,6 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 S-a aflat adevărata identitate a şoferului lui Simion. Era Grindeanu!",
-      "summary": "Mai ceva ca SPP-istul lui Nicuşor Dan, misteriosul şofer al liderului AUR George Simion a stârnit constant imaginaţia a mii de bărbaţi! Astăzi, însă, identitatea acestuia ieşit la iveală &#8211; şi, culmea, e de la un partid concurent. &#8222;În tot acest timp, şoferul lui Simion era Grindeanu! Oau! Mă încearcă nişte sentimente tare dubioase acum… [&#8230;] The post S-a aflat adevărata identitate a şoferului lui Simion. Era Grindeanu! appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/politic/s-a-aflat-adevarata-identitate-a-soferului-lui-simion-era-grindeanu",
-      "published_utc": "2026-04-27T15:04:26+00:00",
-      "score": 3,
-      "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/simionsofergrindeanu.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "Masterclass Nadia Comăneci la Sports Festival 2026!",
       "summary": "Evenimentul marchează 50 de ani de la momentul care a schimbat istoria gimnasticii Nadia Comăneci este invitata specială a ediției Sports Festival 2026. Campioana care a schimbat istoria sportului prin&#8230; Articolul Masterclass Nadia Comăneci la Sports Festival 2026! apare prima dată în Romania Pozitiva .",
@@ -579,13 +555,13 @@
       "section": "romania",
       "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 Mii de suveraniști cu neuronul blocat după ce au aflat că AUR se aliază cu PSD",
-      "summary": "Vestea că AUR se va alia cu PSD pentru a-l da jos pe Bolojan, ba chiar că cele două partide ar putea forma o coaliție pentru un nou guvern, a creat blocaje intelectuale intense în tabăra suveranistă. Au fost semnalate deja mii de cazuri de suveraniști cu neuronul blocat după ce au încercat să înțeleagă [&#8230;] The post Mii de suveraniști cu neuronul blocat după ce au aflat că AUR se aliază cu PSD appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/politic/mii-de-suveranisti-cu-neuronul-blocat-dupa-ce-au-aflat-ca-aur-se-aliaza-cu-psd",
-      "published_utc": "2026-04-27T09:51:31+00:00",
+      "title": "😂 Scandal la Romsilva: Aşa-zisul elan reintrodus în pădurile României era doar un cal cu o creangă pe cap",
+      "summary": "Reintroducerea elanului în România s-a dovedit a fi un mare fiasco! Conducerea Romsilva şi-a retras postarea şi a prezentat scuze publicului după ce &#8222;maiestuosul elan&#8221; din Neamţ s-a dovedit a fi Neluţu, un cal din zonă, rătăcit prin pădure şi cu o creangă încâlcită în păr. &#8222;Am bătut zeci de kilometri prin bălării, m-am împiedicat [&#8230;] The post Scandal la Romsilva: Aşa-zisul elan reintrodus în pădurile României era doar un cal cu o creangă pe cap appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/monden/scandal-la-romsilva-asa-zisul-elan-reintrodus-in-padurile-romaniei-era-doar-un-cal-cu-o-creanga-pe-cap",
+      "published_utc": "2026-04-27T13:57:33+00:00",
       "score": 3,
       "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/suveranist_parlament.jpg"
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/elanul.jpg"
     },
     {
       "section": "romania",
@@ -610,6 +586,18 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-aee1cf7180726a8a/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 S-a aflat adevărata identitate a şoferului lui Simion. Era Grindeanu!",
+      "summary": "Mai ceva ca SPP-istul lui Nicuşor Dan, misteriosul şofer al liderului AUR George Simion a stârnit constant imaginaţia a mii de bărbaţi! Astăzi, însă, identitatea acestuia ieşit la iveală &#8211; şi, culmea, e de la un partid concurent. &#8222;În tot acest timp, şoferul lui Simion era Grindeanu! Oau! Mă încearcă nişte sentimente tare dubioase acum… [&#8230;] The post S-a aflat adevărata identitate a şoferului lui Simion. Era Grindeanu! appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/politic/s-a-aflat-adevarata-identitate-a-soferului-lui-simion-era-grindeanu",
+      "published_utc": "2026-04-27T15:04:26+00:00",
+      "score": 3,
+      "freshness_boost": 1,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/simionsofergrindeanu.jpg"
     },
     {
       "section": "romania",
@@ -686,18 +674,6 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "United Way Romania",
-      "title": "Sprijinul Raiffeisen Bank schimbă vieți. Povestea lui Victor din programul „Învață să reușești”",
-      "summary": "United Way România lucrează acolo unde nevoia este cea mai mare, acolo unde sprijinul nu este doar util, ci vital. Fără acest ajutor, mulți copii ar rămâne în urmă, riscând să se piardă în dificultățile vieții. De aceea, apreciem sprijinul pe termen lung pe care Raiffeisen Bank îl oferă programului „Învață să reușești”. Printre copiii [&#8230;] Articolul Sprijinul Raiffeisen Bank schimbă vieți. Povestea lui Victor din programul „Învață să reușești” apare prima dată în United Way Romania .",
-      "link": "https://www.unitedway.ro/2026/04/sprijinul-raiffeisen-bank-schimba-vieti-povestea-lui-victor-din-programul-invata-sa-reusesti",
-      "published_utc": "2026-04-06T13:31:35+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-9f8c1241fbb24622/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "World Vision Romania",
       "title": "Bullyingul în adolescență: răni invizibile și cum pot fi vindecate",
       "summary": "De ce vorbim despre bullying Bullyingul nu mai este de mult o problemă „minoră” sau o etapă inevitabilă a copilăriei.... Articolul Bullyingul în adolescență: răni invizibile și cum pot fi vindecate apare prima dată în World Vision România .",
@@ -706,18 +682,6 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-2554b0df5dc098e4/480/320"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Why the dawn chorus sounds different from place to place",
-      "summary": "Each May, nature lovers get out of bed early to experience the seasonal wonder of birds singing, as the sun rises above the horizon to take part in International Dawn Chorus Day.",
-      "link": "https://phys.org/news/2026-04-dawn-chorus.html",
-      "published_utc": "2026-04-28T19:00:07+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dawn.jpg"
     },
     {
       "section": "romania",
@@ -730,6 +694,18 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-5c5602f10ee5770c/480/320"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Light can now be shaped in empty space, and it could simplify sensing and boost data links",
+      "summary": "Scientists at the University of East Anglia have uncovered a hidden property of light that allows it to twist, spin and behave differently—without mirrors, materials or special lenses. In a breakthrough that could transform medical testing, data transmission and future quantum technologies, researchers from the UK and South Africa have shown that light can be \"programmed\" simply by exploiting its natural geometry.",
+      "link": "https://phys.org/news/2026-04-space-boost-links.html",
+      "published_utc": "2026-04-28T21:50:01+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-discover-su.jpg"
     },
     {
       "section": "romania",
@@ -747,73 +723,85 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "A mechanical blue LED: Stretching GaN shifts light from UV to blue without changing chemistry",
-      "summary": "A research team from the Faculty of Engineering at the University of Hong Kong (HKU) has successfully used mechanical stretching technology to dynamically control the emission color of gallium nitride (GaN) material from ultraviolet (UV) to blue light. This technological breakthrough provides a new semiconductor material control solution for future advanced power transistors, optoelectronic components, radio frequency components, and micro-LED displays.",
-      "link": "https://phys.org/news/2026-04-mechanical-blue-gan-shifts-uv.html",
-      "published_utc": "2026-04-28T19:00:01+00:00",
-      "score": 4,
+      "title": "Hidden stripe pattern lets microscopes auto-focus across 400 times deeper range",
+      "summary": "Anyone who has ever used a microscope knows that it takes time to bring a sample into sharp focus. Each time you move the slide, the image blurs, and you have to stop and carefully turn a knob to bring everything back into clear view. For scientists and clinicians, even if the motion is semi-automated, that time quickly adds up as they work with dozens or hundreds of samples.",
+      "link": "https://phys.org/news/2026-04-hidden-stripe-pattern-microscopes-auto.html",
+      "published_utc": "2026-04-28T21:40:03+00:00",
+      "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mechanical-blue-led-sh.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/simple-new-system-keep.jpg"
     },
     {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Ancient farming clues may finally expose where humanity's most important wheat first emerged",
-      "summary": "The exact origin of bread wheat (Triticum aestivum) is still a mystery, but researchers believe they are edging closer to the source of one of the most important food staples worldwide. Using genetic studies and ancient plant remains, an international team of scientists has narrowed the location and timeline to the Neolithic period(around 8,000 years ago) in Georgia, in the South Caucasus. They present their findings in a paper published in the journal Proceedings of the National Academy of Sciences.",
-      "link": "https://phys.org/news/2026-04-ancient-farming-clues-expose-humanity.html",
-      "published_utc": "2026-04-28T18:40:02+00:00",
+      "title": "Egg-scanning AI may let hatcheries sort life, death and sex before chicks emerge",
+      "summary": "Eggs and poultry provide important sources of protein globally, driving a major industry with large economic impacts. Challenges to hatchery operations include embryo mortality, fertility, sex determination, and eggshell characteristics. These features have a substantial impact on production, but they are difficult and time-consuming to estimate.",
+      "link": "https://phys.org/news/2026-04-egg-scanning-ai-hatcheries-life.html",
+      "published_utc": "2026-04-28T21:30:03+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-determine.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Natural rubber process boosts tire toughness about tenfold while preserving stiffness",
+      "summary": "Natural rubber, tapped from trees as latex, is the world's most widely used bio-elastomer. Comprising long molecular chains that make it pliable and stretchy yet highly resistant to cracking and strain, natural rubber is foundational to countless products, including the heavy-duty tires in trucks, buses, and airplanes.",
+      "link": "https://phys.org/news/2026-04-natural-rubber-boosts-toughness-tenfold.html",
+      "published_utc": "2026-04-28T21:20:03+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/toward-tougher-longer.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Conquering the final frontiers in nanographene synthetic methodologies",
+      "summary": "Nanographenes are organic semiconductor materials used in smartphones, OLED displays, and solar cells. At the molecular level, they are composed of polycyclic aromatic hydrocarbons (PAHs), which are a network of connected benzene rings (hexagon-shaped carbon molecules). Chemists can modify the electronic properties of PAHs by adding more benzene rings to them, changing their size and shape. As such, there is high demand for methods that can selectively extend specific sites of PAH molecules to allow greater versatility in technological applications.",
+      "link": "https://phys.org/news/2026-04-conquering-frontiers-nanographene-synthetic-methodologies.html",
+      "published_utc": "2026-04-28T21:20:01+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/conquering-the-final-f.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Study reveals insights for climate resilience in smallholder cacao farms",
+      "summary": "Chocolate is one of the world's most widely consumed foods. It is made from cacao beans grown by millions of smallholder farmers globally. High-quality cacao beans require optimal growing conditions, which are essential for producing good-quality chocolates. However, growing climate variability such as rising temperatures, unpredictable rainfall, and prolonged dry spells, are making it harder to maintain healthy crops and stable yields.",
+      "link": "https://phys.org/news/2026-04-reveals-insights-climate-resilience-smallholder.html",
+      "published_utc": "2026-04-28T21:00:06+00:00",
       "score": 1,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-evidence-points-to.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/chocolate.jpg"
     },
     {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Urban agriculture could supply about 28% of Europe's vegetable demand",
-      "summary": "A new study, conducted by researchers from the Netherlands and Germany, estimates that urban agriculture in European cities could produce up to 20 million tons of vegetables annually, representing roughly one-third of the region's current vegetable production. The study, published in the journal Sustainable Cities and Society, systematically analyzes the potential of urban agriculture for 840 cities across 30 European countries.",
-      "link": "https://phys.org/news/2026-04-urban-agriculture-europe-vegetable-demand.html",
-      "published_utc": "2026-04-28T18:20:03+00:00",
-      "score": 2,
+      "title": "Investigating the disordered heart of glass",
+      "summary": "Recent research led by the University of Trento reveals that fundamental atomic vibrations remain unchanged also in ultra-stable glasses. This discovery advances the decade-long debate on the physics of disorder and opens the way to new applications, from electronics to pharmaceuticals. The research work was carried out by the Department of Physics in collaboration with other European research institutions and published in Physical Review X.",
+      "link": "https://phys.org/news/2026-04-disordered-heart-glass.html",
+      "published_utc": "2026-04-28T21:00:03+00:00",
+      "score": 4,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/urban-agriculture-coul.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "How can opinions be maximally influenced? New research offers insights",
-      "summary": "Who should you target, and when, to maximize the impact of your message? New research uses mathematical models to show that targeted influence is significantly more effective than random persuasion. In social networks, certain individuals play a key role at specific moments in how ideas spread and how polarization arises.",
-      "link": "https://phys.org/news/2026-04-opinions-maximally-insights.html",
-      "published_utc": "2026-04-28T18:00:03+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/people-as-nodes.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-disordered-heart-o.jpg"
     },
     {
       "section": "science",
       "kind": "global",
       "source": "NASA Breaking News",
-      "title": "Nighttime Imaging Grows Landsat’s Science Value",
-      "summary": "By Earth Resources Observation and Science (EROS) Center For more than 50 years, Landsat has imaged Earth’s land and near-shore surfaces as the satellites descend in midmorning orbit, when daily sunlight is optimal. That’s just what they’ve always done. Currently, Landsat 8 and Landsat 9 circle the globe while also making better use of their ascending paths, […]",
-      "link": "https://science.nasa.gov/missions/landsat/nighttime-imaging-grows-landsats-science-value",
-      "published_utc": "2026-04-28T17:57:30+00:00",
-      "score": 0,
+      "title": "NASA Connects Little Red Dots with Chandra, Webb",
+      "summary": "A newly discovered object may be a key to unlocking the true nature of a mysterious class of sources that astronomers have found in the early universe in recent years. A “X-ray dot” found by NASA’s Chandra X-ray Observatory could explain what the hundreds or potentially thousands of these objects are. A paper describing the […]",
+      "link": "https://science.nasa.gov/missions/chandra/nasa-connects-little-red-dots-with-chandra-webb",
+      "published_utc": "2026-04-28T20:21:03+00:00",
+      "score": 2,
       "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-87d6fc49be5489a5/480/320"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Will attendance‑based grading improve school absenteeism?",
-      "summary": "School absenteeism is a major concern across Canada—and beyond. As researchers with the Canadian School Attendance Partnership, we have been exploring this issue for a few years, motivated by concerns raised by families, community agencies and school districts.",
-      "link": "https://phys.org/news/2026-04-attendancebased-grading-school-absenteeism.html",
-      "published_utc": "2026-04-28T17:40:02+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/school-2.jpg"
+      "image": "https://picsum.photos/seed/vb-86280442fec81ceb/480/320"
     },
     {
       "section": "medical",
@@ -886,18 +874,6 @@
       "score": 0,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/older-couple-1.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "German bid to rescue 'Timmy' the whale passes key hurdle",
-      "summary": "German rescuers on Tuesday hauled a stranded humpback whale into a special boat due to carry it to deeper waters, in the latest attempt to free the cetacean whose ordeal has captured hearts in Germany for weeks.",
-      "link": "https://phys.org/news/2026-04-german-rescuers-free-stranded-whale.html",
-      "published_utc": "2026-04-28T16:00:01+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-humpback-whale-was.jpg"
     },
     {
       "section": "medical",
@@ -1112,6 +1088,7 @@
       "https://live.staticflickr.com/65535/55218281053_4e17b9ec60_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/55219157060_0ec8710ec3_b.jpg",
       "https://live.staticflickr.com/65535/31475318960_d724afa3ae_b.jpg",
       "https://live.staticflickr.com/65535/55224892655_8e6570646b_b.jpg",
       "https://live.staticflickr.com/4172/34211681861_de92e4eeaf_b.jpg",
@@ -1128,10 +1105,10 @@
       "https://live.staticflickr.com/65535/55214721017_e8a545e9b3_b.jpg",
       "https://live.staticflickr.com/65535/55224274542_978200293b_b.jpg",
       "https://live.staticflickr.com/65535/31633620301_034476301c_b.jpg",
-      "https://live.staticflickr.com/65535/55220304787_b705fcc286_b.jpg",
-      "https://live.staticflickr.com/65535/31304148730_0a749c0efd_b.jpg"
+      "https://live.staticflickr.com/65535/55220304787_b705fcc286_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55237305939_1cbf0d4019_b.jpg",
       "https://live.staticflickr.com/65535/55237340810_5dfcc235a7_b.jpg",
       "https://live.staticflickr.com/65535/55236775981_4202d41b9d_b.jpg",
       "https://live.staticflickr.com/65535/55236599568_b956f98e54_b.jpg",
@@ -1148,12 +1125,11 @@
       "https://live.staticflickr.com/65535/55233582006_d5331b03d9_b.jpg",
       "https://live.staticflickr.com/65535/55233719663_ea81532f62_b.jpg",
       "https://live.staticflickr.com/65535/55233562049_348ccbaacd_b.jpg",
-      "https://live.staticflickr.com/65535/55233252158_7c09feee6c_b.jpg",
-      "https://live.staticflickr.com/65535/55232498024_2ccaeef1ed_b.jpg"
+      "https://live.staticflickr.com/65535/55233252158_7c09feee6c_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
+      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
