@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-04-29T22:45:30+00:00",
+  "generated_utc": "2026-04-29T23:43:52+00:00",
   "sections": {
     "romania": [
       {
@@ -66,13 +66,13 @@
         "section": "romania",
         "kind": "ro",
         "source": "Times New Roman (Satira)",
-        "title": "😂 Moţiunea de cenzură AUR-PSD, depusă cu 90 de semnături, 112 amprente şi 33 de X-uri",
-        "summary": "Moţiunea de cenzură AUR-PSD a fost depusă astăzi în Parlament, dar încă nu putem fi siguri dacă e valabilă! Curtea Constituţională e aşteptată să se pronunţe după ce s-a constatat că multe dintre semnăturile ataşate nu sunt chiar semnături propriu-zise, ci amprente ale degetului mare şi X-uri. &#8222;E o situaţie neobişnuită: avem 90 de iscălituri, [&#8230;] The post Moţiunea de cenzură AUR-PSD, depusă cu 90 de semnături, 112 amprente şi 33 de X-uri appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/politic/motiunea-de-cenzura-aur-psd-depusa-cu-90-de-semnaturi-112-amprente-si-33-de-x-uri",
-        "published_utc": "2026-04-28T11:10:22+00:00",
+        "title": "😂 Președinte-mediator! Grindeanu l-a trimis pe Nicușor să-i medieze un pachet de țigări",
+        "summary": "Om cu principii solide, Nicușor Dan rămâne un mediator indiferent de situația în care se regăsește. Chiar și azi, când Sorin Grindeanu l-a trimis după țigări, președintele și-a demonstrat încă o dată abilitățile de mediator și, în locul unui refuz categoric, a ales să-i medieze liderului PSD pachetul de țigări cerut. Nicușor Dan și-a mediat [&#8230;] The post Președinte-mediator! Grindeanu l-a trimis pe Nicușor să-i medieze un pachet de țigări appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/politic/presedinte-mediator-grindeanu-l-a-trimis-azi-pe-nicusor-sa-i-medieze-un-pachet-de-tigari",
+        "published_utc": "2026-04-29T04:28:00+00:00",
         "score": 3,
-        "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/motiuneadepusa.jpg"
+        "freshness_boost": 3,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/nicusor_chiosc_tigari.jpg"
       },
       {
         "section": "romania",
@@ -334,97 +334,109 @@
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Beer waste may become sunscreen ingredient after spent hops show promising UV protection",
-        "summary": "Research conducted at the University of São Paulo (USP) in Brazil revealed that hops (Humulus lupulus L.) industrial waste from the brewing industry is a viable option for sunscreen formulation production. The multidisciplinary study, which involved researchers from USP's School of Pharmaceutical Sciences (FCF), was inspired by the large amount of waste generated and discarded during beer production. The study brought together complementary expertise in natural products and bioactive photoprotection.",
-        "link": "https://phys.org/news/2026-04-beer-sunscreen-ingredient-spent-uv.html",
-        "published_utc": "2026-04-29T22:40:05+00:00",
-        "score": 5,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/beer-waste-may-become.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Blooming surprise in upstate New York reveals first new flowering plant species in nearly ten years",
-        "summary": "Justin Scholten '22 knows the plants growing on the forest floor around the Finger Lakes. There's the white baneberry, Actaea pachypoda and the red baneberry, Actaea rubra. Both are about 30–70 centimeters tall, herbaceous and extremely toxic to humans. But in 2023 as he hiked through Summer Hill State Forest, less than 30 miles northeast of Ithaca, he noticed an oddity: a pink baneberry.",
-        "link": "https://phys.org/news/2026-04-blooming-upstate-york-reveals-species.html",
-        "published_utc": "2026-04-29T22:40:01+00:00",
+        "title": "Diving robot explores mystery of France's deepest shipwreck",
+        "summary": "Deep below the surface of the Mediterranean off the French coast, the pincer of a remotely guided underwater robot delicately closes around a centuries-old jug lying near a 16th-century shipwreck.",
+        "link": "https://phys.org/news/2026-04-robot-explores-mystery-france-deepest.html",
+        "published_utc": "2026-04-29T23:40:04+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/phd-student-finds-new.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/archeologists-use-a-re.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Tiny flexible lasers enable force sensing inside living cells",
-        "summary": "Researchers have developed tiny flexible lasers that can be used to measure forces inside living cells. The new lasers could help illuminate various biological processes, including those involved in early development and tumor progression.",
-        "link": "https://phys.org/news/2026-04-tiny-flexible-lasers-enable-cells.html",
-        "published_utc": "2026-04-29T22:30:05+00:00",
+        "title": "AI classifier flags bird flu genomes more likely to spread in mammals",
+        "summary": "A research team from the LKS Faculty of Medicine at the University of Hong Kong (HKUMed) has developed a machine-learning classifier capable of analyzing the genomes of influenza A viruses (IAVs) to accurately predict their potential risk of transmission among mammals. The team has successfully identified the key clues that may explain cross-species transmission of influenza A viruses from birds to mammals, and even to humans.",
+        "link": "https://phys.org/news/2026-04-ai-flags-bird-flu-genomes.html",
+        "published_utc": "2026-04-29T23:40:01+00:00",
         "score": 1,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tiny-flexible-lasers-e.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/pioneering-ai-early-de-1.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "A new era for ultrafast photonics: 2D mercury-acetylide frameworks for near-infrared nonlinear optics",
-        "summary": "In the increasingly digital world, the demand for faster, more efficient and miniaturized optical devices is ever-growing. From high-speed internet and secure quantum communications to advanced medical imaging and precision manufacturing, the backbone of these technologies is light, specifically how we can control and manipulate it at the nanoscale.",
-        "link": "https://phys.org/news/2026-04-era-ultrafast-photonics-2d-mercury.html",
-        "published_utc": "2026-04-29T22:20:04+00:00",
+        "title": "Pet cats that roam outdoors can carry similar disease risk as feral cats",
+        "summary": "A new study led by University of British Columbia researchers has found that pet cats allowed to roam outside unsupervised carry infectious diseases at rates comparable to feral cats, even when they receive veterinary care, regular meals, and shelter.",
+        "link": "https://phys.org/news/2026-04-pet-cats-roam-outdoors-similar.html",
+        "published_utc": "2026-04-29T23:20:03+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-era-for-ultrafas.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/pet-cats-that-roam-out.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Spintronics at BESSY II: Real-time analysis of magnetic bilayer systems",
-        "summary": "Spintronic devices enable data processing with significantly lower energy consumption. They are based on the interaction between ferromagnetic and antiferromagnetic layers. Now, a team from Freie Universität Berlin, HZB and Uppsala University has succeeded in tracking—separately for each layer—how the magnetic order changes after a short laser pulse has excited the system. The researchers were also able to identify the main cause of the loss of antiferromagnetic order in the oxide layer: The excitation is transported from the hot electrons in the ferromagnetic metal to the spins in the antiferromagnet. The findings are published in the journal Physical Review Letters.",
-        "link": "https://phys.org/news/2026-04-spintronics-bessy-ii-real-analysis.html",
-        "published_utc": "2026-04-29T22:20:01+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/spintronics-at-bessy-i.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Antibodies need a strong core—not just grip—to fight SARS-CoV-2",
-        "summary": "An international research team has identified a previously overlooked factor that influences how antibodies neutralize SARS-CoV-2: their mechanical stability under force. Antibodies are key components of the immune system that bind to viral particles and block infection. Traditionally, their effectiveness has been evaluated based on binding affinity alone—how strongly they attach to viral proteins. However, in the human body, antibodies function in a mechanically dynamic environment shaped by blood flow, respiratory motion, and cellular forces.",
-        "link": "https://phys.org/news/2026-04-antibodies-strong-core-sars-cov.html",
-        "published_utc": "2026-04-29T22:10:01+00:00",
+        "title": "Do birds have accents? The fascinating regional differences in birdsong",
+        "summary": "Birds sing the most about an hour before dawn, when the air is at its stillest. Theoretically, this enables sounds to travel farther, making song up to 20 times more effective than if sung at midday.",
+        "link": "https://phys.org/news/2026-04-birds-accents-fascinating-regional-differences.html",
+        "published_utc": "2026-04-29T23:20:01+00:00",
         "score": 2,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-study-shows-antibo.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/bird-song.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "In study of Taiwanese electronics firms, effects of offshoring on innovation were mixed",
-        "summary": "In recent decades, the global distribution of manufacturing has shifted dramatically, with many multinational firms moving their production to countries that pay workers lower wages while continuing skill-intensive activities in the home country. In a new study, researchers explored whether this offshoring degraded or enhanced Taiwanese electronics manufacturing firms' innovative capabilities. Their results suggest that the practice had mixed outcomes.",
-        "link": "https://phys.org/news/2026-04-taiwanese-electronics-firms-effects-offshoring.html",
-        "published_utc": "2026-04-29T22:00:06+00:00",
-        "score": 2,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/taiwan-business.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "NASA Breaking News",
-        "title": "I Am Artemis: Ryan Schulte",
-        "summary": "Listen to this audio excerpt from Ryan Schulte, Orion flywheel project manager: As&#160;the&#160;four&#160;Artemis II&#160;astronauts&#160;traveled on&#160;a&#160;694,481-mile journey around the Moon and back,&#160;the Orion spacecraft&#160;provided them with all the essentials&#160;for deep space life, including&#160;daily&#160;exercise. The crew used an exercise device called the flywheel throughout their mission to maintain their physical and mental health, and Ryan Schulte, Orion [&#8230;]",
-        "link": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-ryan-schulte",
-        "published_utc": "2026-04-29T21:45:16+00:00",
+        "title": "Tokamak regime sustains stable fusion plasma for one minute while easing heat loads",
+        "summary": "For the first time, a research team has demonstrated, in a metal-wall environment, a plasma regime that simultaneously achieves partial divertor detachment, an edge-localized-mode (ELM)-free high-confinement mode (H-mode), and high pedestal performance. This integrated regime was sustained on a minute scale and the work is published in Physical Review Letters.",
+        "link": "https://phys.org/news/2026-04-tokamak-regime-sustains-stable-fusion.html",
+        "published_utc": "2026-04-29T23:10:08+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-40967920298f7ffd/480/320"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tokamak-regime-sustain.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Carbon credits have enabled vital protection of tropical forests—despite being oversold 10-fold",
+        "summary": "A major analysis led by the University of Cambridge has found that many REDD+ projects achieved meaningful reductions in forest loss—offering real environmental benefits. This is despite the study confirming that almost 11 times more carbon credits were issued from the REDD+ (Reduced Emissions from Deforestation and Degradation) voluntary carbon market than was justified.",
+        "link": "https://phys.org/news/2026-04-carbon-credits-enabled-vital-tropical.html",
+        "published_utc": "2026-04-29T23:10:06+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/carbon-credits-have-en.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Losing a parent in adulthood can affect earnings for years through mental health and family support, study finds",
+        "summary": "New research from the Department of Economics at the University of Oxford suggests that the death of a parent in adulthood can have effects that reach far beyond the immediate shock of bereavement. Published in the May issue of the American Economic Review, the study finds that parental loss is associated with persistent declines in earnings, alongside signs of worsening mental health. Women with young children experience a comparatively larger earnings decline, likely due to the loss of informal childcare.",
+        "link": "https://phys.org/news/2026-04-parent-adulthood-affect-years-mental.html",
+        "published_utc": "2026-04-29T23:10:01+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2020/bereavement.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "AI decides what we see online. It's time digital platforms tell us exactly how they do it",
+        "summary": "If you suffer from information overload, or are unsure what to trust online, you're not alone. Australians are increasingly disengaging from traditional news, turning instead to social media, influencers and—more recently—generative artificial intelligence (AI) chatbots and summaries.",
+        "link": "https://phys.org/news/2026-04-ai-online-digital-platforms.html",
+        "published_utc": "2026-04-29T23:00:03+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/online-post.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Drone radar reveals buried glaciers on Earth, guiding the search for water on Mars",
+        "summary": "Understanding how to explore hidden glaciers on Mars begins not in a laboratory, but in remote field camps across Alaska and Wyoming.",
+        "link": "https://phys.org/news/2026-04-drone-radar-reveals-glaciers-earth.html",
+        "published_utc": "2026-04-29T22:50:01+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/drone-radar-reveals-bu.jpg"
       }
     ],
     "environment": [
@@ -543,6 +555,18 @@
       "section": "romania",
       "kind": "ro",
       "source": "RomaniaPozitiva",
+      "title": "Campania „Sănătate pentru Sate” a revenit în localitatea Fântânele",
+      "summary": "O nouă acțiune a Campaniei „Sănătate pentru Sate” s-a desfășurat sâmbătă, 25 aprilie 2026, la Școala Gimnazială din localitatea Fântânele, județul Prahova. Medici specialiști în diabet zaharat, nutriție și boli&#8230; Articolul Campania „Sănătate pentru Sate” a revenit în localitatea Fântânele apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/sanatate/campania-sanatate-pentru-sate-a-revenit-in-localitatea-fantanele",
+      "published_utc": "2026-04-29T18:47:49+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-12ff77f5530becf8/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "RomaniaPozitiva",
       "title": "Eurowind Energy România inaugurează Parcul Eolian Pecineaga: o investiție de 90 de milioane de euro și 48 MW de energie verde pentru România",
       "summary": "Producția anuală estimată este de aproximativ 176.000 MWh, echivalentul consumului a circa 48.000 de gospodării Eurowind Energy, dezvoltator și operator danez de proiecte regenerabile, anunță inaugurarea oficială a Parcului Eolian&#8230; Articolul Eurowind Energy România inaugurează Parcul Eolian Pecineaga: o investiție de 90 de milioane de euro și 48 MW de energie verde pentru România apare prima dată în Romania Pozitiva .",
       "link": "https://www.romaniapozitiva.ro/coltul-verde/eurowind-energy-romania-inaugureaza-parcul-eolian-pecineaga-o-investitie-de-90-de-milioane-de-euro-si-48-mw-de-energie-verde-pentru-romania",
@@ -567,18 +591,6 @@
       "section": "romania",
       "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 Moţiunea de cenzură AUR-PSD, depusă cu 90 de semnături, 112 amprente şi 33 de X-uri",
-      "summary": "Moţiunea de cenzură AUR-PSD a fost depusă astăzi în Parlament, dar încă nu putem fi siguri dacă e valabilă! Curtea Constituţională e aşteptată să se pronunţe după ce s-a constatat că multe dintre semnăturile ataşate nu sunt chiar semnături propriu-zise, ci amprente ale degetului mare şi X-uri. &#8222;E o situaţie neobişnuită: avem 90 de iscălituri, [&#8230;] The post Moţiunea de cenzură AUR-PSD, depusă cu 90 de semnături, 112 amprente şi 33 de X-uri appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/politic/motiunea-de-cenzura-aur-psd-depusa-cu-90-de-semnaturi-112-amprente-si-33-de-x-uri",
-      "published_utc": "2026-04-28T11:10:22+00:00",
-      "score": 3,
-      "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/motiuneadepusa.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
       "title": "😂 Oamenii au devenit atât de proști încât Idiocracy a fost mutat de la SF la documentar",
       "summary": "Lansat în 2006 ca o satiră SF a unei lumi posibile, dar improbabile, filmul Idiocracy a ajuns să fie perceput azi cu totul altfel. Oamenii efectiv au devenit uluitor de proști, așa că pentru cineva din 2026 Idiocracy nu mai are nimic SF în el: totul în film pare banal, e ca și cum te-ai [&#8230;] The post Oamenii au devenit atât de proști încât Idiocracy a fost mutat de la SF la documentar appeared first on Times New Roman .",
       "link": "https://www.timesnewroman.ro/life-death/oamenii-au-devenit-atat-de-prosti-incat-idiocracy-a-fost-mutat-de-la-sf-la-documentar",
@@ -586,6 +598,18 @@
       "score": 3,
       "freshness_boost": 3,
       "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/idiocracy_romania.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Președinte-mediator! Grindeanu l-a trimis pe Nicușor să-i medieze un pachet de țigări",
+      "summary": "Om cu principii solide, Nicușor Dan rămâne un mediator indiferent de situația în care se regăsește. Chiar și azi, când Sorin Grindeanu l-a trimis după țigări, președintele și-a demonstrat încă o dată abilitățile de mediator și, în locul unui refuz categoric, a ales să-i medieze liderului PSD pachetul de țigări cerut. Nicușor Dan și-a mediat [&#8230;] The post Președinte-mediator! Grindeanu l-a trimis pe Nicușor să-i medieze un pachet de țigări appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/politic/presedinte-mediator-grindeanu-l-a-trimis-azi-pe-nicusor-sa-i-medieze-un-pachet-de-tigari",
+      "published_utc": "2026-04-29T04:28:00+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/nicusor_chiosc_tigari.jpg"
     },
     {
       "section": "romania",
@@ -622,18 +646,6 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-aee1cf7180726a8a/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "Campania „Sănătate pentru Sate” a revenit în localitatea Fântânele",
-      "summary": "O nouă acțiune a Campaniei „Sănătate pentru Sate” s-a desfășurat sâmbătă, 25 aprilie 2026, la Școala Gimnazială din localitatea Fântânele, județul Prahova. Medici specialiști în diabet zaharat, nutriție și boli&#8230; Articolul Campania „Sănătate pentru Sate” a revenit în localitatea Fântânele apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/sanatate/campania-sanatate-pentru-sate-a-revenit-in-localitatea-fantanele",
-      "published_utc": "2026-04-29T18:47:49+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-12ff77f5530becf8/480/320"
     },
     {
       "section": "romania",
@@ -723,13 +735,13 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Beer waste may become sunscreen ingredient after spent hops show promising UV protection",
-      "summary": "Research conducted at the University of São Paulo (USP) in Brazil revealed that hops (Humulus lupulus L.) industrial waste from the brewing industry is a viable option for sunscreen formulation production. The multidisciplinary study, which involved researchers from USP's School of Pharmaceutical Sciences (FCF), was inspired by the large amount of waste generated and discarded during beer production. The study brought together complementary expertise in natural products and bioactive photoprotection.",
-      "link": "https://phys.org/news/2026-04-beer-sunscreen-ingredient-spent-uv.html",
-      "published_utc": "2026-04-29T22:40:05+00:00",
-      "score": 5,
+      "title": "Diving robot explores mystery of France's deepest shipwreck",
+      "summary": "Deep below the surface of the Mediterranean off the French coast, the pincer of a remotely guided underwater robot delicately closes around a centuries-old jug lying near a 16th-century shipwreck.",
+      "link": "https://phys.org/news/2026-04-robot-explores-mystery-france-deepest.html",
+      "published_utc": "2026-04-29T23:40:04+00:00",
+      "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/beer-waste-may-become.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/archeologists-use-a-re.jpg"
     },
     {
       "section": "romania",
@@ -759,85 +771,97 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Blooming surprise in upstate New York reveals first new flowering plant species in nearly ten years",
-      "summary": "Justin Scholten '22 knows the plants growing on the forest floor around the Finger Lakes. There's the white baneberry, Actaea pachypoda and the red baneberry, Actaea rubra. Both are about 30–70 centimeters tall, herbaceous and extremely toxic to humans. But in 2023 as he hiked through Summer Hill State Forest, less than 30 miles northeast of Ithaca, he noticed an oddity: a pink baneberry.",
-      "link": "https://phys.org/news/2026-04-blooming-upstate-york-reveals-species.html",
-      "published_utc": "2026-04-29T22:40:01+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/phd-student-finds-new.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Tiny flexible lasers enable force sensing inside living cells",
-      "summary": "Researchers have developed tiny flexible lasers that can be used to measure forces inside living cells. The new lasers could help illuminate various biological processes, including those involved in early development and tumor progression.",
-      "link": "https://phys.org/news/2026-04-tiny-flexible-lasers-enable-cells.html",
-      "published_utc": "2026-04-29T22:30:05+00:00",
+      "title": "AI classifier flags bird flu genomes more likely to spread in mammals",
+      "summary": "A research team from the LKS Faculty of Medicine at the University of Hong Kong (HKUMed) has developed a machine-learning classifier capable of analyzing the genomes of influenza A viruses (IAVs) to accurately predict their potential risk of transmission among mammals. The team has successfully identified the key clues that may explain cross-species transmission of influenza A viruses from birds to mammals, and even to humans.",
+      "link": "https://phys.org/news/2026-04-ai-flags-bird-flu-genomes.html",
+      "published_utc": "2026-04-29T23:40:01+00:00",
       "score": 1,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tiny-flexible-lasers-e.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/pioneering-ai-early-de-1.jpg"
     },
     {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "A new era for ultrafast photonics: 2D mercury-acetylide frameworks for near-infrared nonlinear optics",
-      "summary": "In the increasingly digital world, the demand for faster, more efficient and miniaturized optical devices is ever-growing. From high-speed internet and secure quantum communications to advanced medical imaging and precision manufacturing, the backbone of these technologies is light, specifically how we can control and manipulate it at the nanoscale.",
-      "link": "https://phys.org/news/2026-04-era-ultrafast-photonics-2d-mercury.html",
-      "published_utc": "2026-04-29T22:20:04+00:00",
+      "title": "Pet cats that roam outdoors can carry similar disease risk as feral cats",
+      "summary": "A new study led by University of British Columbia researchers has found that pet cats allowed to roam outside unsupervised carry infectious diseases at rates comparable to feral cats, even when they receive veterinary care, regular meals, and shelter.",
+      "link": "https://phys.org/news/2026-04-pet-cats-roam-outdoors-similar.html",
+      "published_utc": "2026-04-29T23:20:03+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-era-for-ultrafas.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/pet-cats-that-roam-out.jpg"
     },
     {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Spintronics at BESSY II: Real-time analysis of magnetic bilayer systems",
-      "summary": "Spintronic devices enable data processing with significantly lower energy consumption. They are based on the interaction between ferromagnetic and antiferromagnetic layers. Now, a team from Freie Universität Berlin, HZB and Uppsala University has succeeded in tracking—separately for each layer—how the magnetic order changes after a short laser pulse has excited the system. The researchers were also able to identify the main cause of the loss of antiferromagnetic order in the oxide layer: The excitation is transported from the hot electrons in the ferromagnetic metal to the spins in the antiferromagnet. The findings are published in the journal Physical Review Letters.",
-      "link": "https://phys.org/news/2026-04-spintronics-bessy-ii-real-analysis.html",
-      "published_utc": "2026-04-29T22:20:01+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/spintronics-at-bessy-i.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Antibodies need a strong core—not just grip—to fight SARS-CoV-2",
-      "summary": "An international research team has identified a previously overlooked factor that influences how antibodies neutralize SARS-CoV-2: their mechanical stability under force. Antibodies are key components of the immune system that bind to viral particles and block infection. Traditionally, their effectiveness has been evaluated based on binding affinity alone—how strongly they attach to viral proteins. However, in the human body, antibodies function in a mechanically dynamic environment shaped by blood flow, respiratory motion, and cellular forces.",
-      "link": "https://phys.org/news/2026-04-antibodies-strong-core-sars-cov.html",
-      "published_utc": "2026-04-29T22:10:01+00:00",
+      "title": "Do birds have accents? The fascinating regional differences in birdsong",
+      "summary": "Birds sing the most about an hour before dawn, when the air is at its stillest. Theoretically, this enables sounds to travel farther, making song up to 20 times more effective than if sung at midday.",
+      "link": "https://phys.org/news/2026-04-birds-accents-fascinating-regional-differences.html",
+      "published_utc": "2026-04-29T23:20:01+00:00",
       "score": 2,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-study-shows-antibo.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/bird-song.jpg"
     },
     {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "In study of Taiwanese electronics firms, effects of offshoring on innovation were mixed",
-      "summary": "In recent decades, the global distribution of manufacturing has shifted dramatically, with many multinational firms moving their production to countries that pay workers lower wages while continuing skill-intensive activities in the home country. In a new study, researchers explored whether this offshoring degraded or enhanced Taiwanese electronics manufacturing firms' innovative capabilities. Their results suggest that the practice had mixed outcomes.",
-      "link": "https://phys.org/news/2026-04-taiwanese-electronics-firms-effects-offshoring.html",
-      "published_utc": "2026-04-29T22:00:06+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/taiwan-business.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "NASA Breaking News",
-      "title": "I Am Artemis: Ryan Schulte",
-      "summary": "Listen to this audio excerpt from Ryan Schulte, Orion flywheel project manager: As&#160;the&#160;four&#160;Artemis II&#160;astronauts&#160;traveled on&#160;a&#160;694,481-mile journey around the Moon and back,&#160;the Orion spacecraft&#160;provided them with all the essentials&#160;for deep space life, including&#160;daily&#160;exercise. The crew used an exercise device called the flywheel throughout their mission to maintain their physical and mental health, and Ryan Schulte, Orion [&#8230;]",
-      "link": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-ryan-schulte",
-      "published_utc": "2026-04-29T21:45:16+00:00",
+      "title": "Tokamak regime sustains stable fusion plasma for one minute while easing heat loads",
+      "summary": "For the first time, a research team has demonstrated, in a metal-wall environment, a plasma regime that simultaneously achieves partial divertor detachment, an edge-localized-mode (ELM)-free high-confinement mode (H-mode), and high pedestal performance. This integrated regime was sustained on a minute scale and the work is published in Physical Review Letters.",
+      "link": "https://phys.org/news/2026-04-tokamak-regime-sustains-stable-fusion.html",
+      "published_utc": "2026-04-29T23:10:08+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-40967920298f7ffd/480/320"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tokamak-regime-sustain.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Carbon credits have enabled vital protection of tropical forests—despite being oversold 10-fold",
+      "summary": "A major analysis led by the University of Cambridge has found that many REDD+ projects achieved meaningful reductions in forest loss—offering real environmental benefits. This is despite the study confirming that almost 11 times more carbon credits were issued from the REDD+ (Reduced Emissions from Deforestation and Degradation) voluntary carbon market than was justified.",
+      "link": "https://phys.org/news/2026-04-carbon-credits-enabled-vital-tropical.html",
+      "published_utc": "2026-04-29T23:10:06+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/carbon-credits-have-en.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Losing a parent in adulthood can affect earnings for years through mental health and family support, study finds",
+      "summary": "New research from the Department of Economics at the University of Oxford suggests that the death of a parent in adulthood can have effects that reach far beyond the immediate shock of bereavement. Published in the May issue of the American Economic Review, the study finds that parental loss is associated with persistent declines in earnings, alongside signs of worsening mental health. Women with young children experience a comparatively larger earnings decline, likely due to the loss of informal childcare.",
+      "link": "https://phys.org/news/2026-04-parent-adulthood-affect-years-mental.html",
+      "published_utc": "2026-04-29T23:10:01+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2020/bereavement.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "AI decides what we see online. It's time digital platforms tell us exactly how they do it",
+      "summary": "If you suffer from information overload, or are unsure what to trust online, you're not alone. Australians are increasingly disengaging from traditional news, turning instead to social media, influencers and—more recently—generative artificial intelligence (AI) chatbots and summaries.",
+      "link": "https://phys.org/news/2026-04-ai-online-digital-platforms.html",
+      "published_utc": "2026-04-29T23:00:03+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/online-post.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Drone radar reveals buried glaciers on Earth, guiding the search for water on Mars",
+      "summary": "Understanding how to explore hidden glaciers on Mars begins not in a laboratory, but in remote field camps across Alaska and Wyoming.",
+      "link": "https://phys.org/news/2026-04-drone-radar-reveals-glaciers-earth.html",
+      "published_utc": "2026-04-29T22:50:01+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/drone-radar-reveals-bu.jpg"
     },
     {
       "section": "medical",
@@ -1136,6 +1160,7 @@
       "https://live.staticflickr.com/65535/55219667087_22c07dc626_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/30940199163_ab1492ffea_b.jpg",
       "https://live.staticflickr.com/65535/31918516986_85d399419b_b.jpg",
       "https://live.staticflickr.com/7420/11757578895_d85c236542_b.jpg",
       "https://live.staticflickr.com/65535/31839016841_14983b1de8_b.jpg",
@@ -1152,10 +1177,10 @@
       "https://live.staticflickr.com/65535/55219157060_0ec8710ec3_b.jpg",
       "https://live.staticflickr.com/65535/31475318960_d724afa3ae_b.jpg",
       "https://live.staticflickr.com/65535/55224892655_8e6570646b_b.jpg",
-      "https://live.staticflickr.com/4172/34211681861_de92e4eeaf_b.jpg",
-      "https://live.staticflickr.com/65535/55213682437_feb403c9af_b.jpg"
+      "https://live.staticflickr.com/4172/34211681861_de92e4eeaf_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55238330597_e0fc9dc819_b.jpg",
       "https://live.staticflickr.com/65535/55239449745_50ebe52333_b.jpg",
       "https://live.staticflickr.com/65535/55239041156_4a06dc4e2a_b.jpg",
       "https://live.staticflickr.com/65535/55238857439_071de86858_b.jpg",
@@ -1172,12 +1197,11 @@
       "https://live.staticflickr.com/65535/55236599568_b956f98e54_b.jpg",
       "https://live.staticflickr.com/65535/55236349744_c05ae4a38b_b.jpg",
       "https://live.staticflickr.com/65535/55236025998_7488644da8_b.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/3/3f/NYC_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg",
-      "https://live.staticflickr.com/65535/55235600726_600c750601_b.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/3/3f/NYC_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
+      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
