@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-04-29T23:43:52+00:00",
+  "generated_utc": "2026-04-30T01:53:05+00:00",
   "sections": {
     "romania": [
       {
@@ -542,6 +542,18 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Oamenii au devenit atât de proști încât Idiocracy a fost mutat de la SF la documentar",
+      "summary": "Lansat în 2006 ca o satiră SF a unei lumi posibile, dar improbabile, filmul Idiocracy a ajuns să fie perceput azi cu totul altfel. Oamenii efectiv au devenit uluitor de proști, așa că pentru cineva din 2026 Idiocracy nu mai are nimic SF în el: totul în film pare banal, e ca și cum te-ai [&#8230;] The post Oamenii au devenit atât de proști încât Idiocracy a fost mutat de la SF la documentar appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/life-death/oamenii-au-devenit-atat-de-prosti-incat-idiocracy-a-fost-mutat-de-la-sf-la-documentar",
+      "published_utc": "2026-04-29T12:33:00+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/idiocracy_romania.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "Shopping City Ploiești celebrează Ziua Internațională a Dansului printr-un spectacol multicultural plin de ritm și tradiție",
       "summary": "Ploiești, 29 aprilie 2026 &#8211; Shopping City Ploiești devine, pe 29 aprilie, scena unei celebrări pline de ritm și culoare, marcând Ziua Internațională a Dansului printr-un eveniment dedicat tradițiilor românești&#8230; Articolul Shopping City Ploiești celebrează Ziua Internațională a Dansului printr-un spectacol multicultural plin de ritm și tradiție apare prima dată în Romania Pozitiva .",
@@ -550,18 +562,6 @@
       "score": 3,
       "freshness_boost": 3,
       "image": "https://picsum.photos/seed/vb-baff38c96ca5bd75/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "Campania „Sănătate pentru Sate” a revenit în localitatea Fântânele",
-      "summary": "O nouă acțiune a Campaniei „Sănătate pentru Sate” s-a desfășurat sâmbătă, 25 aprilie 2026, la Școala Gimnazială din localitatea Fântânele, județul Prahova. Medici specialiști în diabet zaharat, nutriție și boli&#8230; Articolul Campania „Sănătate pentru Sate” a revenit în localitatea Fântânele apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/sanatate/campania-sanatate-pentru-sate-a-revenit-in-localitatea-fantanele",
-      "published_utc": "2026-04-29T18:47:49+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-12ff77f5530becf8/480/320"
     },
     {
       "section": "romania",
@@ -586,18 +586,6 @@
       "score": 3,
       "freshness_boost": 3,
       "image": "https://picsum.photos/seed/vb-4f4dc785d4dc0f30/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Oamenii au devenit atât de proști încât Idiocracy a fost mutat de la SF la documentar",
-      "summary": "Lansat în 2006 ca o satiră SF a unei lumi posibile, dar improbabile, filmul Idiocracy a ajuns să fie perceput azi cu totul altfel. Oamenii efectiv au devenit uluitor de proști, așa că pentru cineva din 2026 Idiocracy nu mai are nimic SF în el: totul în film pare banal, e ca și cum te-ai [&#8230;] The post Oamenii au devenit atât de proști încât Idiocracy a fost mutat de la SF la documentar appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/oamenii-au-devenit-atat-de-prosti-incat-idiocracy-a-fost-mutat-de-la-sf-la-documentar",
-      "published_utc": "2026-04-29T12:33:00+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/idiocracy_romania.jpg"
     },
     {
       "section": "romania",
@@ -646,6 +634,18 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-aee1cf7180726a8a/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "RomaniaPozitiva",
+      "title": "Campania „Sănătate pentru Sate” a revenit în localitatea Fântânele",
+      "summary": "O nouă acțiune a Campaniei „Sănătate pentru Sate” s-a desfășurat sâmbătă, 25 aprilie 2026, la Școala Gimnazială din localitatea Fântânele, județul Prahova. Medici specialiști în diabet zaharat, nutriție și boli&#8230; Articolul Campania „Sănătate pentru Sate” a revenit în localitatea Fântânele apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/sanatate/campania-sanatate-pentru-sate-a-revenit-in-localitatea-fantanele",
+      "published_utc": "2026-04-29T18:47:49+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-12ff77f5530becf8/480/320"
     },
     {
       "section": "romania",
@@ -1069,8 +1069,8 @@
     }
   ],
   "joke_ro": {
-    "date_utc": "2026-04-29",
-    "text": "Mi-am facut meal prep. Am pregatit mental ideea.",
+    "date_utc": "2026-04-30",
+    "text": "Telefonul are 3% baterie, dar incredere maxima in mine.",
     "source": "data/jokes_ro.txt"
   },
   "satire_ro": {
@@ -1083,23 +1083,24 @@
       "tag": "space",
       "title": "Space",
       "link": "https://commons.wikimedia.org/wiki/Category:Astronomy",
-      "image": "https://live.staticflickr.com/65535/55232811991_16ef3fb7b3_b.jpg"
+      "image": "https://live.staticflickr.com/65535/55239654240_6976f5d088_b.jpg"
     },
     {
       "tag": "animals",
       "title": "Animals",
       "link": "https://commons.wikimedia.org/wiki/Category:Animals",
-      "image": "https://live.staticflickr.com/65535/55238177003_b46bfcf8b1_b.jpg"
+      "image": "https://live.staticflickr.com/65535/55239294571_16d1146bef_b.jpg"
     },
     {
       "tag": "landscape",
       "title": "Landscape",
       "link": "https://commons.wikimedia.org/wiki/Category:Landscapes",
-      "image": "https://live.staticflickr.com/65535/55236983622_537dd293ff_b.jpg"
+      "image": "https://live.staticflickr.com/65535/55239137729_ac1a6f5f5d_b.jpg"
     }
   ],
   "top_image_history": {
     "space": [
+      "https://live.staticflickr.com/65535/55239654240_6976f5d088_b.jpg",
       "https://live.staticflickr.com/65535/55232811991_16ef3fb7b3_b.jpg",
       "https://live.staticflickr.com/65535/55236850376_b149069ea1_b.jpg",
       "https://live.staticflickr.com/65535/55234704456_80261ae421_b.jpg",
@@ -1116,10 +1117,10 @@
       "https://live.staticflickr.com/65535/55224441491_dfaec750e8_b.jpg",
       "https://live.staticflickr.com/65535/55222692438_9d0412ab57_b.jpg",
       "https://live.staticflickr.com/65535/55221438757_760182df7d_b.jpg",
-      "https://live.staticflickr.com/65535/55221647629_3261557c49_b.jpg",
-      "https://live.staticflickr.com/65535/55220349515_c7270dc2ba_b.jpg"
+      "https://live.staticflickr.com/65535/55221647629_3261557c49_b.jpg"
     ],
     "animals": [
+      "https://live.staticflickr.com/65535/55239294571_16d1146bef_b.jpg",
       "https://live.staticflickr.com/65535/55238177003_b46bfcf8b1_b.jpg",
       "https://live.staticflickr.com/65535/55237316018_1b51e84c62_b.jpg",
       "https://live.staticflickr.com/65535/55236246855_6eedb339c8_b.jpg",
@@ -1136,10 +1137,10 @@
       "https://live.staticflickr.com/65535/55223229432_4a0cd02060_b.jpg",
       "https://live.staticflickr.com/65535/55223518444_4eeab00c6f_b.jpg",
       "https://live.staticflickr.com/65535/55222620151_97716cdf9a_b.jpg",
-      "https://live.staticflickr.com/65535/55221236591_7e6831b6e2_b.jpg",
-      "https://live.staticflickr.com/65535/55220868545_f876a38093_b.jpg"
+      "https://live.staticflickr.com/65535/55221236591_7e6831b6e2_b.jpg"
     ],
     "landscape": [
+      "https://live.staticflickr.com/65535/55239137729_ac1a6f5f5d_b.jpg",
       "https://live.staticflickr.com/65535/55236983622_537dd293ff_b.jpg",
       "https://live.staticflickr.com/65535/55237333354_1b08046e77_b.jpg",
       "https://live.staticflickr.com/65535/55236324565_6be0dc1630_b.jpg",
@@ -1156,10 +1157,10 @@
       "https://live.staticflickr.com/65535/55224582336_cf9ab655c7_b.jpg",
       "https://live.staticflickr.com/65535/55222462387_d7dd04cfb0_b.jpg",
       "https://live.staticflickr.com/65535/55222656778_1c75506832_b.jpg",
-      "https://live.staticflickr.com/65535/55221703430_48622be299_b.jpg",
-      "https://live.staticflickr.com/65535/55219667087_22c07dc626_b.jpg"
+      "https://live.staticflickr.com/65535/55221703430_48622be299_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/31575070722_553616129d_b.jpg",
       "https://live.staticflickr.com/65535/30940199163_ab1492ffea_b.jpg",
       "https://live.staticflickr.com/65535/31918516986_85d399419b_b.jpg",
       "https://live.staticflickr.com/7420/11757578895_d85c236542_b.jpg",
@@ -1176,10 +1177,10 @@
       "https://live.staticflickr.com/65535/36426059055_e0f9275249_b.jpg",
       "https://live.staticflickr.com/65535/55219157060_0ec8710ec3_b.jpg",
       "https://live.staticflickr.com/65535/31475318960_d724afa3ae_b.jpg",
-      "https://live.staticflickr.com/65535/55224892655_8e6570646b_b.jpg",
-      "https://live.staticflickr.com/4172/34211681861_de92e4eeaf_b.jpg"
+      "https://live.staticflickr.com/65535/55224892655_8e6570646b_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55239449745_5aac9f0d3e_b.jpg",
       "https://live.staticflickr.com/65535/55238330597_e0fc9dc819_b.jpg",
       "https://live.staticflickr.com/65535/55239449745_50ebe52333_b.jpg",
       "https://live.staticflickr.com/65535/55239041156_4a06dc4e2a_b.jpg",
@@ -1196,12 +1197,11 @@
       "https://live.staticflickr.com/65535/55236775981_4202d41b9d_b.jpg",
       "https://live.staticflickr.com/65535/55236599568_b956f98e54_b.jpg",
       "https://live.staticflickr.com/65535/55236349744_c05ae4a38b_b.jpg",
-      "https://live.staticflickr.com/65535/55236025998_7488644da8_b.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/3/3f/NYC_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg"
+      "https://live.staticflickr.com/65535/55236025998_7488644da8_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
+      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
