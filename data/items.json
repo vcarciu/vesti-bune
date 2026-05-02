@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-05-02T09:53:21+00:00",
+  "generated_utc": "2026-05-02T10:41:16+00:00",
   "sections": {
     "romania": [
       {
@@ -82,7 +82,7 @@
         "link": "https://www.romaniapozitiva.ro/bucuresti/lansare-intre-doua-lumi-si-o-singura-poveste-scriitoarea-ioana-dragan-revine-cu-in-cautarea-nefericirii-in-continuare",
         "published_utc": "2026-05-01T10:00:55+00:00",
         "score": 3,
-        "freshness_boost": 3,
+        "freshness_boost": 1,
         "image": "https://picsum.photos/seed/vb-fd5e8a354b13c4d4/480/320"
       },
       {
@@ -120,6 +120,18 @@
         "score": 3,
         "freshness_boost": 0,
         "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/nicusor_chiosc_tigari.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Green Start-Up Romania",
+        "title": "Porsche prezintă Cayenne Coupé Electric, al doilea SUV pe baterii al companiei",
+        "summary": "Producătorul auto Porsche a prezentat un concept electric pentru modelul Cayenne Coupé, în cadrul unui eveniment organizat în Shanghai. Vehiculul oferă primele indicii despre viitoarea versiune de...",
+        "link": "https://green.start-up.ro/ro/porsche-prezinta-cayenne-coupe-electric-al-doilea-suv-pe-baterii-al-companiei",
+        "published_utc": "2026-04-27T08:58:37+00:00",
+        "score": 3,
+        "freshness_boost": 0,
+        "image": "https://green.start-up.ro/img/articles/3/5/8/35857/cover-35857-src.jpg"
       },
       {
         "section": "romania",
@@ -204,6 +216,18 @@
         "score": 3,
         "freshness_boost": 0,
         "image": "https://picsum.photos/seed/vb-670d4182437cf28f/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "United Way Romania",
+        "title": "Sprijinul Raiffeisen Bank schimbă vieți. Povestea lui Victor din programul „Învață să reușești”",
+        "summary": "United Way România lucrează acolo unde nevoia este cea mai mare, acolo unde sprijinul nu este doar util, ci vital. Fără acest ajutor, mulți copii ar rămâne în urmă, riscând să se piardă în dificultățile vieții. De aceea, apreciem sprijinul pe termen lung pe care Raiffeisen Bank îl oferă programului „Învață să reușești”. Printre copiii [&#8230;] Articolul Sprijinul Raiffeisen Bank schimbă vieți. Povestea lui Victor din programul „Învață să reușești” apare prima dată în United Way Romania .",
+        "link": "https://www.unitedway.ro/2026/04/sprijinul-raiffeisen-bank-schimba-vieti-povestea-lui-victor-din-programul-invata-sa-reusesti",
+        "published_utc": "2026-04-06T13:31:35+00:00",
+        "score": 3,
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-9f8c1241fbb24622/480/320"
       },
       {
         "section": "romania",
@@ -541,18 +565,6 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Oamenii au devenit atât de proști încât Idiocracy a fost mutat de la SF la documentar",
-      "summary": "Lansat în 2006 ca o satiră SF a unei lumi posibile, dar improbabile, filmul Idiocracy a ajuns să fie perceput azi cu totul altfel. Oamenii efectiv au devenit uluitor de proști, așa că pentru cineva din 2026 Idiocracy nu mai are nimic SF în el: totul în film pare banal, e ca și cum te-ai [&#8230;] The post Oamenii au devenit atât de proști încât Idiocracy a fost mutat de la SF la documentar appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/oamenii-au-devenit-atat-de-prosti-incat-idiocracy-a-fost-mutat-de-la-sf-la-documentar",
-      "published_utc": "2026-04-29T12:33:00+00:00",
-      "score": 3,
-      "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/idiocracy_romania.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "Editura Trei anunță lansarea romanului Dansează când îți vine să plângi, de Camelia Cavadia, un roman despre prietenie și pierdere",
       "summary": "Editura Trei anunță apariția celui mai nou roman semnat de Camelia Cavadia, Dansează când îți vine să plângi, o carte despre prietenie, memorie și felul în care identitatea se construiește&#8230; Articolul Editura Trei anunță lansarea romanului Dansează când îți vine să plângi, de Camelia Cavadia, un roman despre prietenie și pierdere apare prima dată în Romania Pozitiva .",
@@ -573,18 +585,6 @@
       "score": 3,
       "freshness_boost": 3,
       "image": "https://picsum.photos/seed/vb-f731185c2c24e5c5/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Pentru că plouă afară, suveraniștii vor mânca de 1 Mai mici aduși de livratori nepalezi",
-      "summary": "Chiar dacă plouă afară, asta nu înseamnă că tradiția micilor de 1 Mai trebuie să fie abandonată. ȘI mai ales suveraniștii români insistă că e nevoie de o mobilizare suplimentară pentru păstrarea acestei tradiții autentic românești. „Nu ești român adevărat dacă nu mănânci mici de 1 Mai”, a proclamat Giani-Ilarie Lemandroi, un suveranist din Berceni. [&#8230;] The post Pentru că plouă afară, suveraniștii vor mânca de 1 Mai mici aduși de livratori nepalezi appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/pentru-ca-ploua-afara-suveranistii-vor-manca-de-1-mai-mici-adusi-de-livratori-nepalezi",
-      "published_utc": "2026-04-30T05:55:58+00:00",
-      "score": 3,
-      "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/nepalez_mici_suveranist.jpg"
     },
     {
       "section": "romania",
@@ -625,14 +625,38 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Oamenii au devenit atât de proști încât Idiocracy a fost mutat de la SF la documentar",
+      "summary": "Lansat în 2006 ca o satiră SF a unei lumi posibile, dar improbabile, filmul Idiocracy a ajuns să fie perceput azi cu totul altfel. Oamenii efectiv au devenit uluitor de proști, așa că pentru cineva din 2026 Idiocracy nu mai are nimic SF în el: totul în film pare banal, e ca și cum te-ai [&#8230;] The post Oamenii au devenit atât de proști încât Idiocracy a fost mutat de la SF la documentar appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/life-death/oamenii-au-devenit-atat-de-prosti-incat-idiocracy-a-fost-mutat-de-la-sf-la-documentar",
+      "published_utc": "2026-04-29T12:33:00+00:00",
+      "score": 3,
+      "freshness_boost": 1,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/idiocracy_romania.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "Lansare | Între două lumi și o singură poveste: scriitoarea Ioana Drăgan revine cu „În căutarea nefericirii, în continuare”",
       "summary": "Editura Tracus Arte îi invită pe cititorii din capitală marți, 5 mai 2026, începând cu ora 17.00, în Grădina Muzeului Național al Literaturii Române (str. Nicolae Crețulescu 8), la lansarea&#8230; Articolul Lansare | Între două lumi și o singură poveste: scriitoarea Ioana Drăgan revine cu „În căutarea nefericirii, în continuare” apare prima dată în Romania Pozitiva .",
       "link": "https://www.romaniapozitiva.ro/bucuresti/lansare-intre-doua-lumi-si-o-singura-poveste-scriitoarea-ioana-dragan-revine-cu-in-cautarea-nefericirii-in-continuare",
       "published_utc": "2026-05-01T10:00:55+00:00",
       "score": 3,
-      "freshness_boost": 3,
+      "freshness_boost": 1,
       "image": "https://picsum.photos/seed/vb-fd5e8a354b13c4d4/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Pentru că plouă afară, suveraniștii vor mânca de 1 Mai mici aduși de livratori nepalezi",
+      "summary": "Chiar dacă plouă afară, asta nu înseamnă că tradiția micilor de 1 Mai trebuie să fie abandonată. ȘI mai ales suveraniștii români insistă că e nevoie de o mobilizare suplimentară pentru păstrarea acestei tradiții autentic românești. „Nu ești român adevărat dacă nu mănânci mici de 1 Mai”, a proclamat Giani-Ilarie Lemandroi, un suveranist din Berceni. [&#8230;] The post Pentru că plouă afară, suveraniștii vor mânca de 1 Mai mici aduși de livratori nepalezi appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/life-death/pentru-ca-ploua-afara-suveranistii-vor-manca-de-1-mai-mici-adusi-de-livratori-nepalezi",
+      "published_utc": "2026-04-30T05:55:58+00:00",
+      "score": 3,
+      "freshness_boost": 1,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/nepalez_mici_suveranist.jpg"
     },
     {
       "section": "romania",
@@ -656,6 +680,18 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/nicusor_chiosc_tigari.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Green Start-Up Romania",
+      "title": "Porsche prezintă Cayenne Coupé Electric, al doilea SUV pe baterii al companiei",
+      "summary": "Producătorul auto Porsche a prezentat un concept electric pentru modelul Cayenne Coupé, în cadrul unui eveniment organizat în Shanghai. Vehiculul oferă primele indicii despre viitoarea versiune de...",
+      "link": "https://green.start-up.ro/ro/porsche-prezinta-cayenne-coupe-electric-al-doilea-suv-pe-baterii-al-companiei",
+      "published_utc": "2026-04-27T08:58:37+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://green.start-up.ro/img/articles/3/5/8/35857/cover-35857-src.jpg"
     },
     {
       "section": "romania",
@@ -718,18 +754,6 @@
       "image": "https://picsum.photos/seed/vb-62290e058a5ec56d/480/320"
     },
     {
-      "section": "romania",
-      "kind": "ro",
-      "source": "World Vision Romania",
-      "title": "„Școala e drumul vostru”. Învățăturile unei mame cu 10 clase.",
-      "summary": "Într-o casă modestă din județul Vaslui, unde mirosul de lemne arse se amestecă cu zgomotul pașilor mici de copii și... Articolul „Școala e drumul vostru”. Învățăturile unei mame cu 10 clase. apare prima dată în World Vision România .",
-      "link": "https://worldvision.ro/2026/04/14/scoala-e-drumul-vostru-invataturile-unei-mame-cu-10-clase",
-      "published_utc": "2026-04-14T07:30:13+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-424625d0661ba497/480/320"
-    },
-    {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
@@ -744,6 +768,18 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "World Vision Romania",
+      "title": "„Școala e drumul vostru”. Învățăturile unei mame cu 10 clase.",
+      "summary": "Într-o casă modestă din județul Vaslui, unde mirosul de lemne arse se amestecă cu zgomotul pașilor mici de copii și... Articolul „Școala e drumul vostru”. Învățăturile unei mame cu 10 clase. apare prima dată în World Vision România .",
+      "link": "https://worldvision.ro/2026/04/14/scoala-e-drumul-vostru-invataturile-unei-mame-cu-10-clase",
+      "published_utc": "2026-04-14T07:30:13+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-424625d0661ba497/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "Fundatia Regala Margareta",
       "title": "De Paște, 900 de vârstnici singuri primesc prezență umană, ascultare și speranță",
       "summary": "În timp ce pentru mulți români Paștele este sărbătoarea revederii și a meselor în familie, pentru mulți vârstnici singuri aceste zile sunt printre cele mai grele din an. Singurătatea doare, lipsurile și sentimentul de abandon se simt mai apăsat tocmai atunci când toți ceilalți par... Post-ul De Paște, 900 de vârstnici singuri primesc prezență umană, ascultare și speranță apare prima dată în Fundația Regală Margareta a României .",
@@ -752,6 +788,30 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-670d4182437cf28f/480/320"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Dolls beat screens for building children's social skills, study finds",
+      "summary": "What's the point of play? Is it simply a way to keep children occupied, or something more? For some, it's about learning literacy and numeracy. For others, it's how friendships form and relationships deepen. But it can be all of these at once, and more.",
+      "link": "https://phys.org/news/2026-05-dolls-screens-children-social-skills.html",
+      "published_utc": "2026-05-01T16:40:02+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/playing-with-a-doll.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "United Way Romania",
+      "title": "Sprijinul Raiffeisen Bank schimbă vieți. Povestea lui Victor din programul „Învață să reușești”",
+      "summary": "United Way România lucrează acolo unde nevoia este cea mai mare, acolo unde sprijinul nu este doar util, ci vital. Fără acest ajutor, mulți copii ar rămâne în urmă, riscând să se piardă în dificultățile vieții. De aceea, apreciem sprijinul pe termen lung pe care Raiffeisen Bank îl oferă programului „Învață să reușești”. Printre copiii [&#8230;] Articolul Sprijinul Raiffeisen Bank schimbă vieți. Povestea lui Victor din programul „Învață să reușești” apare prima dată în United Way Romania .",
+      "link": "https://www.unitedway.ro/2026/04/sprijinul-raiffeisen-bank-schimba-vieti-povestea-lui-victor-din-programul-invata-sa-reusesti",
+      "published_utc": "2026-04-06T13:31:35+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-9f8c1241fbb24622/480/320"
     },
     {
       "section": "romania",
@@ -769,13 +829,13 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Dolls beat screens for building children's social skills, study finds",
-      "summary": "What's the point of play? Is it simply a way to keep children occupied, or something more? For some, it's about learning literacy and numeracy. For others, it's how friendships form and relationships deepen. But it can be all of these at once, and more.",
-      "link": "https://phys.org/news/2026-05-dolls-screens-children-social-skills.html",
-      "published_utc": "2026-05-01T16:40:02+00:00",
-      "score": 1,
+      "title": "New lithium-plasma engine passes key Mars propulsion test",
+      "summary": "You're on the fourth human mission to Mars, and you're told the Odyssey spacecraft designed to take you there will be the smoothest ride you'll ever take. It features a newly christened electric propulsion engine which was in the late stages of testing during the first three missions. The mission starts and the spacecraft travels at a crawl, and you wonder if it's broken. A week goes by and you're now traveling at more than 400,000 kilometers (250,000 miles) per hour, and your mind is blown as to how fast you're going, how quickly that happened, and that this mission might be more awesome than you thought.",
+      "link": "https://phys.org/news/2026-05-lithium-plasma-key-mars-propulsion.html",
+      "published_utc": "2026-05-01T16:20:06+00:00",
+      "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/playing-with-a-doll.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-lithium-plasma-eng.jpg"
     },
     {
       "section": "romania",
@@ -788,18 +848,6 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-5c5602f10ee5770c/480/320"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "New lithium-plasma engine passes key Mars propulsion test",
-      "summary": "You're on the fourth human mission to Mars, and you're told the Odyssey spacecraft designed to take you there will be the smoothest ride you'll ever take. It features a newly christened electric propulsion engine which was in the late stages of testing during the first three missions. The mission starts and the spacecraft travels at a crawl, and you wonder if it's broken. A week goes by and you're now traveling at more than 400,000 kilometers (250,000 miles) per hour, and your mind is blown as to how fast you're going, how quickly that happened, and that this mission might be more awesome than you thought.",
-      "link": "https://phys.org/news/2026-05-lithium-plasma-key-mars-propulsion.html",
-      "published_utc": "2026-05-01T16:20:06+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-lithium-plasma-eng.jpg"
     },
     {
       "section": "science",
@@ -1158,6 +1206,7 @@
       "https://live.staticflickr.com/65535/55225305466_d1c7812abe_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/55228005307_b84705910d_b.jpg",
       "https://live.staticflickr.com/65535/55235912123_051cc45458_b.jpg",
       "https://live.staticflickr.com/65535/31633620301_034476301c_b.jpg",
       "https://live.staticflickr.com/65535/55243151795_33d1d2849d_b.jpg",
@@ -1174,10 +1223,10 @@
       "https://live.staticflickr.com/65535/55215620276_2c3e68b3fc_b.jpg",
       "https://live.staticflickr.com/65535/31236261064_7e9d4d011d_b.jpg",
       "https://live.staticflickr.com/65535/31304148730_0a749c0efd_b.jpg",
-      "https://live.staticflickr.com/65535/55224892655_8e6570646b_b.jpg",
-      "https://live.staticflickr.com/65535/31789989716_40f922d066_b.jpg"
+      "https://live.staticflickr.com/65535/55224892655_8e6570646b_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55243669891_b5448815d5_b.jpg",
       "https://live.staticflickr.com/65535/55243669331_3c2a23bd90_b.jpg",
       "https://live.staticflickr.com/65535/55243717708_dd58b21637_b.jpg",
       "https://live.staticflickr.com/65535/55243493054_af449c5baf_b.jpg",
@@ -1194,12 +1243,11 @@
       "https://live.staticflickr.com/65535/55240957716_34e56810b6_b.jpg",
       "https://live.staticflickr.com/65535/55241309184_1e3c1aa2fe_z.jpg",
       "https://live.staticflickr.com/65535/55241302970_7c69b9d2ec_b.jpg",
-      "https://live.staticflickr.com/65535/55240613151_6a66c818d4_b.jpg",
-      "https://live.staticflickr.com/65535/55239925391_5654268567_b.jpg"
+      "https://live.staticflickr.com/65535/55240613151_6a66c818d4_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
+      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
