@@ -1,7 +1,19 @@
 {
-  "generated_utc": "2026-05-04T10:55:34+00:00",
+  "generated_utc": "2026-05-04T12:17:46+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "RomaniaPozitiva",
+        "title": "Festivalul Filmului Palestinian revine la București cu ediția a VI-a între 8 și 10 mai",
+        "summary": "Festivalul Filmului Palestinian revine la București cu cea de-a șasea ediție, care va avea loc între 8 și 10 mai 2026, la Cinema Muzeul Țăranului. Evenimentul propune o selecție de&#8230; Articolul Festivalul Filmului Palestinian revine la București cu ediția a VI-a între 8 și 10 mai apare prima dată în Romania Pozitiva .",
+        "link": "https://www.romaniapozitiva.ro/bucuresti/festivalul-filmului-palestinian-revine-la-bucuresti-cu-editia-a-vi-a-intre-8-si-10-mai",
+        "published_utc": "2026-05-04T10:54:06+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-ad45b744d54f0548/480/320"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -13,30 +25,6 @@
         "score": 3,
         "freshness_boost": 3,
         "image": "https://picsum.photos/seed/vb-d641026f8601d439/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Start-Up Romania",
-        "title": "Apollo AI Technologies, Equinox Evolution și OptiComm.AI nominalizate la „Startup of the year” la Premiile ANIS 2026",
-        "summary": "ANIS a anunțat finaliștii ediției 2026 ai Premiilor de Excelență ale industriei ITC, într-un context marcat de competiție ridicată și o orientare către proiecte cu impact măsurabil. La categoria...",
-        "link": "https://start-up.ro/apollo-ai-technologies-equinox-evolution-si-opticomm-ai-nominalizate-la-start-up-of-the-year-la-premiile-anis-2026",
-        "published_utc": "2026-05-04T09:31:06+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://start-up.ro/img/articles/3/8/2/38296/cover-38296-src.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "Cel mai rece început de mai din istoria măsurătorilor meteo din România. Au fost doborâte și recorduri meteo vechi de 111 ani",
-        "summary": "Luna mai 2026 a început cu vreme extrem de rece, cu temperaturi care au coborât până la -13 grade Celsius la munte și cu îngheț în foarte multe zone. La 13 stații meteo au fost noi recorduri absolute de frig pentru luna a cincea, arată datele ANM trimise către HotNews.ro. La Brașov, în 1 mai &#8230;",
-        "link": "https://hotnews.ro/cel-mai-rece-inceput-de-mai-din-istoria-masuratorilor-meteo-din-romania-au-fost-doborate-si-recorduri-meteo-vechi-de-111-ani-2235982",
-        "published_utc": "2026-05-04T09:04:07+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-c4ea4d40e0d5fb32/480/320"
       },
       {
         "section": "romania",
@@ -61,18 +49,6 @@
         "score": 3,
         "freshness_boost": 3,
         "image": "https://picsum.photos/seed/vb-c3d20c04ca9f8d3d/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 Luna mai, luna Bolojan",
-        "summary": "The post Luna mai, luna Bolojan appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/ovi/luna-mai-luna-bolojan",
-        "published_utc": "2026-05-04T08:03:25+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/Luna-mai-luna-Bolojan.jpg"
       },
       {
         "section": "romania",
@@ -114,6 +90,30 @@
         "section": "romania",
         "kind": "ro",
         "source": "Times New Roman (Satira)",
+        "title": "😂 Oana Gheorghiu, greșeală gravă: „Analfabeților le trimiți poze, nu mailuri, că nu știu să citească!”",
+        "summary": "Gest complet necugetat al vicepremierului Oana Gheorghiu. Aceasta le-a trimis tuturor parlamentarilor un mail în format text, ignorând inexplicabil faptul că 80% dintre deputații și senatorii PSD, AUR și POT sunt analfabeți. „O bună parte sunt analfabeți total, deci nu știu nici măcar să citească, în timp ce restul sunt doar analfabeți funcțional. Dibuiesc literele, [&#8230;] The post Oana Gheorghiu, greșeală gravă: „Analfabeților le trimiți poze, nu mailuri, că nu știu să citească!” appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/politic/oana-gheorghiu-greseala-grava-analfabetilor-le-trimiti-poze-nu-mailuri-ca-nu-stiu-sa-citeasca",
+        "published_utc": "2026-05-04T05:58:48+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/deputat_analfabet.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 ANAF introduce autentificarea în doi pași: buletin și adeverință că ai buletin",
+        "summary": "Digitalizarea ANAF continuă cu pași mari. Săptămâna aceasta a fost implementată autentificarea în doi pași pe site-ul web al instituției. Cei înregistrați în sistem vor putea pur și simplu să-și scaneze buletinul, apoi să uploadeze o adeverință de la Evidența Populației, sucursala de la locul nașterii, adeverință prin care se atestă că buletinul este original, [&#8230;] The post ANAF introduce autentificarea în doi pași: buletin și adeverință că ai buletin appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/it-stiinta/anaf-introduce-autentificarea-in-doi-pasi-buletin-si-adeverinta-ca-ai-buletin",
+        "published_utc": "2026-05-03T08:53:00+00:00",
+        "score": 3,
+        "freshness_boost": 1,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2020/07/cozi_anaf_1aprilie.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Times New Roman (Satira)",
         "title": "😂 Coiful de la Coțofenești va fi restaurat. Va primi Wifi și căști JBL",
         "summary": "După ce a fost recuperat din Olanda, coiful dacic de aur de la Coțofenești a ajuns la Muzeul Național de Istorie și urmează să intre în restaurare masivă ca să fie adus la standardele cu care sunt obișnuiți pasionații de istorie din prezent. Celebrul coif dacic de la Coțofenești va beneficia de câteva îmbunătățiri esențiale. [&#8230;] The post Coiful de la Coțofenești va fi restaurat. Va primi Wifi și căști JBL appeared first on Times New Roman .",
         "link": "https://www.timesnewroman.ro/it-stiinta/coiful-de-la-cotofenesti-va-fi-restaurat-va-primi-wifi-si-casti-jbl",
@@ -121,18 +121,6 @@
         "score": 3,
         "freshness_boost": 1,
         "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/coif_cu_casti.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 Un savant nebun din Buzău a creat un covrig indestructibil",
-        "summary": "Corneliu Solomon, savant din Buzău, susține că a creat în laboratorul aflat în garajul propriei locuințe un covrig de Buzău de o duritate nemaiîntâlnită. Covrigul, supranumit „Indestructibilul de Buzău”, rezistă la presiuni de până la 6000 psi și poate sta la raft chiar și 4000 de ani. Covrigul urmează să fie testat și în vidul [&#8230;] The post Un savant nebun din Buzău a creat un covrig indestructibil appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/it-stiinta/un-savant-nebun-din-buzau-a-creat-un-covrig-indestructibil",
-        "published_utc": "2026-05-01T08:42:00+00:00",
-        "score": 3,
-        "freshness_boost": 0,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2020/09/covrigi_prezentare.jpg"
       },
       {
         "section": "romania",
@@ -217,6 +205,18 @@
         "score": 3,
         "freshness_boost": 0,
         "image": "https://picsum.photos/seed/vb-670d4182437cf28f/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "United Way Romania",
+        "title": "Sprijinul Raiffeisen Bank schimbă vieți. Povestea lui Victor din programul „Învață să reușești”",
+        "summary": "United Way România lucrează acolo unde nevoia este cea mai mare, acolo unde sprijinul nu este doar util, ci vital. Fără acest ajutor, mulți copii ar rămâne în urmă, riscând să se piardă în dificultățile vieții. De aceea, apreciem sprijinul pe termen lung pe care Raiffeisen Bank îl oferă programului „Învață să reușești”. Printre copiii [&#8230;] Articolul Sprijinul Raiffeisen Bank schimbă vieți. Povestea lui Victor din programul „Învață să reușești” apare prima dată în United Way Romania .",
+        "link": "https://www.unitedway.ro/2026/04/sprijinul-raiffeisen-bank-schimba-vieti-povestea-lui-victor-din-programul-invata-sa-reusesti",
+        "published_utc": "2026-04-06T13:31:35+00:00",
+        "score": 3,
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-9f8c1241fbb24622/480/320"
       },
       {
         "section": "romania",
@@ -554,14 +554,14 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Coiful de la Coțofenești va fi restaurat. Va primi Wifi și căști JBL",
-      "summary": "După ce a fost recuperat din Olanda, coiful dacic de aur de la Coțofenești a ajuns la Muzeul Național de Istorie și urmează să intre în restaurare masivă ca să fie adus la standardele cu care sunt obișnuiți pasionații de istorie din prezent. Celebrul coif dacic de la Coțofenești va beneficia de câteva îmbunătățiri esențiale. [&#8230;] The post Coiful de la Coțofenești va fi restaurat. Va primi Wifi și căști JBL appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/it-stiinta/coiful-de-la-cotofenesti-va-fi-restaurat-va-primi-wifi-si-casti-jbl",
-      "published_utc": "2026-05-03T03:49:00+00:00",
+      "source": "RomaniaPozitiva",
+      "title": "Festivalul Filmului Palestinian revine la București cu ediția a VI-a între 8 și 10 mai",
+      "summary": "Festivalul Filmului Palestinian revine la București cu cea de-a șasea ediție, care va avea loc între 8 și 10 mai 2026, la Cinema Muzeul Țăranului. Evenimentul propune o selecție de&#8230; Articolul Festivalul Filmului Palestinian revine la București cu ediția a VI-a între 8 și 10 mai apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/bucuresti/festivalul-filmului-palestinian-revine-la-bucuresti-cu-editia-a-vi-a-intre-8-si-10-mai",
+      "published_utc": "2026-05-04T10:54:06+00:00",
       "score": 3,
-      "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/coif_cu_casti.jpg"
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-ad45b744d54f0548/480/320"
     },
     {
       "section": "romania",
@@ -578,30 +578,6 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Start-Up Romania",
-      "title": "Apollo AI Technologies, Equinox Evolution și OptiComm.AI nominalizate la „Startup of the year” la Premiile ANIS 2026",
-      "summary": "ANIS a anunțat finaliștii ediției 2026 ai Premiilor de Excelență ale industriei ITC, într-un context marcat de competiție ridicată și o orientare către proiecte cu impact măsurabil. La categoria...",
-      "link": "https://start-up.ro/apollo-ai-technologies-equinox-evolution-si-opticomm-ai-nominalizate-la-start-up-of-the-year-la-premiile-anis-2026",
-      "published_utc": "2026-05-04T09:31:06+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://start-up.ro/img/articles/3/8/2/38296/cover-38296-src.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "HotNews",
-      "title": "Cel mai rece început de mai din istoria măsurătorilor meteo din România. Au fost doborâte și recorduri meteo vechi de 111 ani",
-      "summary": "Luna mai 2026 a început cu vreme extrem de rece, cu temperaturi care au coborât până la -13 grade Celsius la munte și cu îngheț în foarte multe zone. La 13 stații meteo au fost noi recorduri absolute de frig pentru luna a cincea, arată datele ANM trimise către HotNews.ro. La Brașov, în 1 mai &#8230;",
-      "link": "https://hotnews.ro/cel-mai-rece-inceput-de-mai-din-istoria-masuratorilor-meteo-din-romania-au-fost-doborate-si-recorduri-meteo-vechi-de-111-ani-2235982",
-      "published_utc": "2026-05-04T09:04:07+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-c4ea4d40e0d5fb32/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "Unde mănânci direct la gazdă: S-a lansat harta Punctelor Gastronomice Locale din sudul Munților Făgăraș",
       "summary": "Brașov, 04 mai 2026. Turiștii care vizitează Munții Făgăraș au acum la dispoziție o platformă care reunește Punctele Gastronomice Locale din zonă. Fundația Conservation Carpathia, prin divizia Roadele Munților, lansează&#8230; Articolul Unde mănânci direct la gazdă: S-a lansat harta Punctelor Gastronomice Locale din sudul Munților Făgăraș apare prima dată în Romania Pozitiva .",
@@ -610,18 +586,6 @@
       "score": 3,
       "freshness_boost": 3,
       "image": "https://picsum.photos/seed/vb-87639f1eb6bc21f2/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Luna mai, luna Bolojan",
-      "summary": "The post Luna mai, luna Bolojan appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/ovi/luna-mai-luna-bolojan",
-      "published_utc": "2026-05-04T08:03:25+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/Luna-mai-luna-Bolojan.jpg"
     },
     {
       "section": "romania",
@@ -675,13 +639,37 @@
       "section": "romania",
       "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 Un savant nebun din Buzău a creat un covrig indestructibil",
-      "summary": "Corneliu Solomon, savant din Buzău, susține că a creat în laboratorul aflat în garajul propriei locuințe un covrig de Buzău de o duritate nemaiîntâlnită. Covrigul, supranumit „Indestructibilul de Buzău”, rezistă la presiuni de până la 6000 psi și poate sta la raft chiar și 4000 de ani. Covrigul urmează să fie testat și în vidul [&#8230;] The post Un savant nebun din Buzău a creat un covrig indestructibil appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/it-stiinta/un-savant-nebun-din-buzau-a-creat-un-covrig-indestructibil",
-      "published_utc": "2026-05-01T08:42:00+00:00",
+      "title": "😂 Coiful de la Coțofenești va fi restaurat. Va primi Wifi și căști JBL",
+      "summary": "După ce a fost recuperat din Olanda, coiful dacic de aur de la Coțofenești a ajuns la Muzeul Național de Istorie și urmează să intre în restaurare masivă ca să fie adus la standardele cu care sunt obișnuiți pasionații de istorie din prezent. Celebrul coif dacic de la Coțofenești va beneficia de câteva îmbunătățiri esențiale. [&#8230;] The post Coiful de la Coțofenești va fi restaurat. Va primi Wifi și căști JBL appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/it-stiinta/coiful-de-la-cotofenesti-va-fi-restaurat-va-primi-wifi-si-casti-jbl",
+      "published_utc": "2026-05-03T03:49:00+00:00",
       "score": 3,
-      "freshness_boost": 0,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2020/09/covrigi_prezentare.jpg"
+      "freshness_boost": 1,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/coif_cu_casti.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 ANAF introduce autentificarea în doi pași: buletin și adeverință că ai buletin",
+      "summary": "Digitalizarea ANAF continuă cu pași mari. Săptămâna aceasta a fost implementată autentificarea în doi pași pe site-ul web al instituției. Cei înregistrați în sistem vor putea pur și simplu să-și scaneze buletinul, apoi să uploadeze o adeverință de la Evidența Populației, sucursala de la locul nașterii, adeverință prin care se atestă că buletinul este original, [&#8230;] The post ANAF introduce autentificarea în doi pași: buletin și adeverință că ai buletin appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/it-stiinta/anaf-introduce-autentificarea-in-doi-pasi-buletin-si-adeverinta-ca-ai-buletin",
+      "published_utc": "2026-05-03T08:53:00+00:00",
+      "score": 3,
+      "freshness_boost": 1,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2020/07/cozi_anaf_1aprilie.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Oana Gheorghiu, greșeală gravă: „Analfabeților le trimiți poze, nu mailuri, că nu știu să citească!”",
+      "summary": "Gest complet necugetat al vicepremierului Oana Gheorghiu. Aceasta le-a trimis tuturor parlamentarilor un mail în format text, ignorând inexplicabil faptul că 80% dintre deputații și senatorii PSD, AUR și POT sunt analfabeți. „O bună parte sunt analfabeți total, deci nu știu nici măcar să citească, în timp ce restul sunt doar analfabeți funcțional. Dibuiesc literele, [&#8230;] The post Oana Gheorghiu, greșeală gravă: „Analfabeților le trimiți poze, nu mailuri, că nu știu să citească!” appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/politic/oana-gheorghiu-greseala-grava-analfabetilor-le-trimiti-poze-nu-mailuri-ca-nu-stiu-sa-citeasca",
+      "published_utc": "2026-05-04T05:58:48+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/deputat_analfabet.jpg"
     },
     {
       "section": "romania",
@@ -744,6 +732,18 @@
       "image": "https://picsum.photos/seed/vb-62290e058a5ec56d/480/320"
     },
     {
+      "section": "romania",
+      "kind": "ro",
+      "source": "World Vision Romania",
+      "title": "„Școala e drumul vostru”. Învățăturile unei mame cu 10 clase.",
+      "summary": "Într-o casă modestă din județul Vaslui, unde mirosul de lemne arse se amestecă cu zgomotul pașilor mici de copii și... Articolul „Școala e drumul vostru”. Învățăturile unei mame cu 10 clase. apare prima dată în World Vision România .",
+      "link": "https://worldvision.ro/2026/04/14/scoala-e-drumul-vostru-invataturile-unei-mame-cu-10-clase",
+      "published_utc": "2026-04-14T07:30:13+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-424625d0661ba497/480/320"
+    },
+    {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
@@ -758,18 +758,6 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "World Vision Romania",
-      "title": "„Școala e drumul vostru”. Învățăturile unei mame cu 10 clase.",
-      "summary": "Într-o casă modestă din județul Vaslui, unde mirosul de lemne arse se amestecă cu zgomotul pașilor mici de copii și... Articolul „Școala e drumul vostru”. Învățăturile unei mame cu 10 clase. apare prima dată în World Vision România .",
-      "link": "https://worldvision.ro/2026/04/14/scoala-e-drumul-vostru-invataturile-unei-mame-cu-10-clase",
-      "published_utc": "2026-04-14T07:30:13+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-424625d0661ba497/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "Fundatia Regala Margareta",
       "title": "De Paște, 900 de vârstnici singuri primesc prezență umană, ascultare și speranță",
       "summary": "În timp ce pentru mulți români Paștele este sărbătoarea revederii și a meselor în familie, pentru mulți vârstnici singuri aceste zile sunt printre cele mai grele din an. Singurătatea doare, lipsurile și sentimentul de abandon se simt mai apăsat tocmai atunci când toți ceilalți par... Post-ul De Paște, 900 de vârstnici singuri primesc prezență umană, ascultare și speranță apare prima dată în Fundația Regală Margareta a României .",
@@ -778,6 +766,18 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-670d4182437cf28f/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "United Way Romania",
+      "title": "Sprijinul Raiffeisen Bank schimbă vieți. Povestea lui Victor din programul „Învață să reușești”",
+      "summary": "United Way România lucrează acolo unde nevoia este cea mai mare, acolo unde sprijinul nu este doar util, ci vital. Fără acest ajutor, mulți copii ar rămâne în urmă, riscând să se piardă în dificultățile vieții. De aceea, apreciem sprijinul pe termen lung pe care Raiffeisen Bank îl oferă programului „Învață să reușești”. Printre copiii [&#8230;] Articolul Sprijinul Raiffeisen Bank schimbă vieți. Povestea lui Victor din programul „Învață să reușești” apare prima dată în United Way Romania .",
+      "link": "https://www.unitedway.ro/2026/04/sprijinul-raiffeisen-bank-schimba-vieti-povestea-lui-victor-din-programul-invata-sa-reusesti",
+      "published_utc": "2026-04-06T13:31:35+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-9f8c1241fbb24622/480/320"
     },
     {
       "section": "science",
@@ -1094,12 +1094,12 @@
   ],
   "joke_ro": {
     "date_utc": "2026-05-04",
-    "text": "Sunt intr-o relatie serioasa cu butonul de snooze.",
+    "text": "Telefonul are 3% baterie, dar incredere maxima in mine.",
     "source": "data/jokes_ro.txt"
   },
   "satire_ro": {
-    "title": "Arbitrul VAR de la Craiova-Dinamo spune că n-a văzut ofsaidul, că i-a intrat o bancnotă în ochi",
-    "link": "https://www.timesnewroman.ro/sport/arbitrul-var-de-la-craiova-dinamo-spune-ca-n-a-vazut-ofsaidul-ca-i-a-intrat-o-bancnota-in-ochi/",
+    "title": "Patriarhul i-a donat Diavolului nişte haine, ca să nu se mai îmbrace de la Prada ca ultimul sărac",
+    "link": "https://www.timesnewroman.ro/life-death/patriarhul-i-a-donat-diavolului-niste-haine-ca-sa-nu-se-mai-imbrace-de-la-prada-ca-ultimul-sarac/",
     "source": "timesnewroman.ro"
   },
   "top_images": [
@@ -1107,23 +1107,24 @@
       "tag": "space",
       "title": "Space",
       "link": "https://commons.wikimedia.org/wiki/Category:Astronomy",
-      "image": "https://live.staticflickr.com/65535/55245824917_1e3c23fd6d_b.jpg"
+      "image": "https://live.staticflickr.com/65535/55248102959_39485864cd_b.jpg"
     },
     {
       "tag": "animals",
       "title": "Animals",
       "link": "https://commons.wikimedia.org/wiki/Category:Animals",
-      "image": "https://live.staticflickr.com/65535/55247090941_d64d335d98_b.jpg"
+      "image": "https://live.staticflickr.com/65535/55247972246_a630bea330_b.jpg"
     },
     {
       "tag": "landscape",
       "title": "Landscape",
       "link": "https://commons.wikimedia.org/wiki/Category:Landscapes",
-      "image": "https://live.staticflickr.com/65535/55246317352_864af81ded_b.jpg"
+      "image": "https://live.staticflickr.com/65535/55247810261_aeaa45bde7_b.jpg"
     }
   ],
   "top_image_history": {
     "space": [
+      "https://live.staticflickr.com/65535/55248102959_39485864cd_b.jpg",
       "https://live.staticflickr.com/65535/55245824917_1e3c23fd6d_b.jpg",
       "https://live.staticflickr.com/65535/55245760064_d37b6bf118_b.jpg",
       "https://live.staticflickr.com/65535/55244277896_f0b7586b46_b.jpg",
@@ -1140,10 +1141,10 @@
       "https://live.staticflickr.com/65535/55230537162_46289b11bb_z.jpg",
       "https://live.staticflickr.com/65535/55232602984_2ac2a6dfef_b.jpg",
       "https://live.staticflickr.com/65535/55231088033_7695a7035c_b.jpg",
-      "https://live.staticflickr.com/65535/55230309864_fbe14fd509_b.jpg",
-      "https://live.staticflickr.com/65535/55229033863_f3862c578e_b.jpg"
+      "https://live.staticflickr.com/65535/55230309864_fbe14fd509_b.jpg"
     ],
     "animals": [
+      "https://live.staticflickr.com/65535/55247972246_a630bea330_b.jpg",
       "https://live.staticflickr.com/65535/55247090941_d64d335d98_b.jpg",
       "https://live.staticflickr.com/65535/55245869173_ebe8a3665e_b.jpg",
       "https://live.staticflickr.com/65535/55245006849_5a1c9bf457_b.jpg",
@@ -1160,10 +1161,10 @@
       "https://live.staticflickr.com/65535/55233606973_5818e7d69d_b.jpg",
       "https://live.staticflickr.com/65535/55231731037_750e7c4c1b_b.jpg",
       "https://live.staticflickr.com/65535/55231450879_452cb7ecdb_b.jpg",
-      "https://live.staticflickr.com/65535/55229493957_a11c5e5699_b.jpg",
-      "https://live.staticflickr.com/65535/55229454790_a6536443d3_b.jpg"
+      "https://live.staticflickr.com/65535/55229493957_a11c5e5699_b.jpg"
     ],
     "landscape": [
+      "https://live.staticflickr.com/65535/55247810261_aeaa45bde7_b.jpg",
       "https://live.staticflickr.com/65535/55246317352_864af81ded_b.jpg",
       "https://live.staticflickr.com/65535/55245768101_f7863692fc_b.jpg",
       "https://live.staticflickr.com/65535/55244088032_4bb3726504_b.jpg",
@@ -1180,10 +1181,10 @@
       "https://live.staticflickr.com/65535/55233399756_a524c16c06_b.jpg",
       "https://live.staticflickr.com/65535/55232802034_7aa9954349_z.jpg",
       "https://live.staticflickr.com/65535/55231462424_c3912dc933_b.jpg",
-      "https://live.staticflickr.com/65535/55230450386_e5b241aabf_b.jpg",
-      "https://live.staticflickr.com/65535/55229259798_904329f638_b.jpg"
+      "https://live.staticflickr.com/65535/55230450386_e5b241aabf_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/31839016841_14983b1de8_b.jpg",
       "https://live.staticflickr.com/65535/55240344255_f133365020_b.jpg",
       "https://live.staticflickr.com/65535/31918516986_85d399419b_b.jpg",
       "https://live.staticflickr.com/65535/55228060474_c41bfe7d2c_b.jpg",
@@ -1200,10 +1201,10 @@
       "https://live.staticflickr.com/5809/21515540483_93058f4657_b.jpg",
       "https://live.staticflickr.com/65535/55235912123_051cc45458_b.jpg",
       "https://live.staticflickr.com/7420/11757578895_d85c236542_b.jpg",
-      "https://live.staticflickr.com/65535/55243151795_33d1d2849d_b.jpg",
-      "https://live.staticflickr.com/65535/55238119839_057b8b7b75_b.jpg"
+      "https://live.staticflickr.com/65535/55243151795_33d1d2849d_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55248102623_5c4d801487_b.jpg",
       "https://live.staticflickr.com/65535/55246951122_45491c4ca0_b.jpg",
       "https://live.staticflickr.com/65535/55247768913_16c69be7b3_b.jpg",
       "https://live.staticflickr.com/65535/55247616913_7ec91a7faf_b.jpg",
@@ -1220,12 +1221,11 @@
       "https://live.staticflickr.com/65535/55246065195_258d4e556c_b.jpg",
       "https://live.staticflickr.com/65535/55244516267_7947a5819d_b.jpg",
       "https://live.staticflickr.com/65535/55245462438_0266207ebc_b.jpg",
-      "https://live.staticflickr.com/65535/55245230198_14414d17db_b.jpg",
-      "https://live.staticflickr.com/65535/55245285554_488b0faffb_b.jpg"
+      "https://live.staticflickr.com/65535/55245230198_14414d17db_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
+      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
