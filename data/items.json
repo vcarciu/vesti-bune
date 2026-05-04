@@ -1,7 +1,31 @@
 {
-  "generated_utc": "2026-05-04T01:49:14+00:00",
+  "generated_utc": "2026-05-04T05:24:31+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Start-Up Romania",
+        "title": "Daniel Higgs, Iontra: Ce este încărcarea inteligentă și cum poate fi adoptată de toată lumea",
+        "summary": "Dispozitivele mobile cu baterii reîncărcabile au ajuns să fie parte din viața noastră în aproape tot ceea ce facem, inclusiv pentru comunicare, lucru sau chiar transport. Încărcarea rapidă și...",
+        "link": "https://start-up.ro/daniel-higgs-iontra-incarcarea-inteligenta-poate-fi-implementata-la-scara-larga",
+        "published_utc": "2026-05-04T05:05:02+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://start-up.ro/img/articles/3/8/2/38287/cover-38287-src.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Fiica doctoriței din Oradea care și-a donat organele după moarte: „M-a pregătit pentru asta de când eram mică”",
+        "summary": "O lecție de viață impresionantă vine de la Oradea, unde un medic continuă să salveze vieți chiar și după moarte. O doctoriță urolog și-a pregătit familia pentru momentul în care nu va mai fi, iar decizia ei a dat șansa la o nouă viață altor 5 pacienți. Daniela Jovrea spunea că dorința ei, dacă viața i se va curma brusc, este să-i fie prelevate organele. Fiica ei, studentă la Medicină, a povestit în exclusivitate pentru Digi24 cum a fost luată această decizie.",
+        "link": "https://www.digi24.ro/stiri/fiica-doctoritei-din-oradea-care-si-a-donat-organele-dupa-moarte-m-a-pregatit-pentru-asta-de-cand-am-fost-mica-3754383",
+        "published_utc": "2026-05-04T04:00:33+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNSUyRjAzJTJGMjcwNTk3N18yNzA1/OTc3X3ZnVkcuanBnJmhhc2g9ZmQyMzhl/YTA0NGE4ODA4MzNmN2ExYzM1NDZmZTA5MmQ=.jpg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -29,6 +53,18 @@
       {
         "section": "romania",
         "kind": "ro",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 ANAF introduce autentificarea în doi pași: buletin și adeverință că ai buletin",
+        "summary": "Digitalizarea ANAF continuă cu pași mari. Săptămâna aceasta a fost implementată autentificarea în doi pași pe site-ul web al instituției. Cei înregistrați în sistem vor putea pur și simplu să-și scaneze buletinul, apoi să uploadeze o adeverință de la Evidența Populației, sucursala de la locul nașterii, adeverință prin care se atestă că buletinul este original, [&#8230;] The post ANAF introduce autentificarea în doi pași: buletin și adeverință că ai buletin appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/it-stiinta/anaf-introduce-autentificarea-in-doi-pasi-buletin-si-adeverinta-ca-ai-buletin",
+        "published_utc": "2026-05-03T08:53:00+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2020/07/cozi_anaf_1aprilie.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
         "source": "RomaniaPozitiva",
         "title": "Uniunea Artiștilor Plastici din România propune câteva evenimente din lumea artelor vizuale, care se vor desfășura în perioada 4 – 10 mai 2026",
         "summary": "Luni, 4 mai vor avea loc trei vernisaje: Galeria „ARTOTECA” a Bibliotecii Metropolitane București, în colaborare cu Uniunea Artiștilor Plastici din România, găzduiește, de la ora 18, vernisajul expoziției „OPEN&#8230; Articolul Uniunea Artiștilor Plastici din România propune câteva evenimente din lumea artelor vizuale, care se vor desfășura în perioada 4 – 10 mai 2026 apare prima dată în Romania Pozitiva .",
@@ -47,7 +83,7 @@
         "link": "https://www.timesnewroman.ro/it-stiinta/coiful-de-la-cotofenesti-va-fi-restaurat-va-primi-wifi-si-casti-jbl",
         "published_utc": "2026-05-03T03:49:00+00:00",
         "score": 3,
-        "freshness_boost": 3,
+        "freshness_boost": 1,
         "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/coif_cu_casti.jpg"
       },
       {
@@ -61,18 +97,6 @@
         "score": 3,
         "freshness_boost": 1,
         "image": "https://picsum.photos/seed/vb-b3843d4d1ee1bd98/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 Un român acuză că e mușcat zilnic de căpușele de la CEC, Hidroelectrica și Transgaz",
-        "summary": "Marian Coltea, un bucureștean din zona Lujerului, se plânge că e mușcat zilnic de mai multe căpușe. În primul rând ar fi vorba de căpușele de la Termoenergetica. Acestea îl mușcă zi de zi de mai bine de șase luni, mai ales în perioada de iarnă, lucru atipic pentru căpușe. „Sunt căpușe extrem de agresive. [&#8230;] The post Un român acuză că e mușcat zilnic de căpușele de la CEC, Hidroelectrica și Transgaz appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/life-death/un-roman-acuza-ca-e-muscat-zilnic-de-capusele-de-la-cec-hidroelectrica-si-transgaz",
-        "published_utc": "2026-05-02T08:46:00+00:00",
-        "score": 3,
-        "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2020/07/termocentrala_diplome_doctorat.jpg"
       },
       {
         "section": "romania",
@@ -181,6 +205,18 @@
         "score": 3,
         "freshness_boost": 0,
         "image": "https://picsum.photos/seed/vb-670d4182437cf28f/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "United Way Romania",
+        "title": "Sprijinul Raiffeisen Bank schimbă vieți. Povestea lui Victor din programul „Învață să reușești”",
+        "summary": "United Way România lucrează acolo unde nevoia este cea mai mare, acolo unde sprijinul nu este doar util, ci vital. Fără acest ajutor, mulți copii ar rămâne în urmă, riscând să se piardă în dificultățile vieții. De aceea, apreciem sprijinul pe termen lung pe care Raiffeisen Bank îl oferă programului „Învață să reușești”. Printre copiii [&#8230;] Articolul Sprijinul Raiffeisen Bank schimbă vieți. Povestea lui Victor din programul „Învață să reușești” apare prima dată în United Way Romania .",
+        "link": "https://www.unitedway.ro/2026/04/sprijinul-raiffeisen-bank-schimba-vieti-povestea-lui-victor-din-programul-invata-sa-reusesti",
+        "published_utc": "2026-04-06T13:31:35+00:00",
+        "score": 3,
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-9f8c1241fbb24622/480/320"
       },
       {
         "section": "romania",
@@ -518,6 +554,18 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "Start-Up Romania",
+      "title": "Daniel Higgs, Iontra: Ce este încărcarea inteligentă și cum poate fi adoptată de toată lumea",
+      "summary": "Dispozitivele mobile cu baterii reîncărcabile au ajuns să fie parte din viața noastră în aproape tot ceea ce facem, inclusiv pentru comunicare, lucru sau chiar transport. Încărcarea rapidă și...",
+      "link": "https://start-up.ro/daniel-higgs-iontra-incarcarea-inteligenta-poate-fi-implementata-la-scara-larga",
+      "published_utc": "2026-05-04T05:05:02+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://start-up.ro/img/articles/3/8/2/38287/cover-38287-src.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "Deschiderea expoziției Cotoșman & co. Lecția lui Livius Ciocârlie",
       "summary": "Deschiderea expoziției Cotoșman &#38; co. Lecția lui Livius Ciocârlie 8 mai – 13 septembrie 2026. Curator: Erwin Kessler Muzeul Național de Artă al României vă invită la vernisajul expoziției Cotoșman &#38; co. Lecția&#8230; Articolul Deschiderea expoziției Cotoșman &#038; co. Lecția lui Livius Ciocârlie apare prima dată în Romania Pozitiva .",
@@ -543,13 +591,25 @@
       "section": "romania",
       "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 Coiful de la Coțofenești va fi restaurat. Va primi Wifi și căști JBL",
-      "summary": "După ce a fost recuperat din Olanda, coiful dacic de aur de la Coțofenești a ajuns la Muzeul Național de Istorie și urmează să intre în restaurare masivă ca să fie adus la standardele cu care sunt obișnuiți pasionații de istorie din prezent. Celebrul coif dacic de la Coțofenești va beneficia de câteva îmbunătățiri esențiale. [&#8230;] The post Coiful de la Coțofenești va fi restaurat. Va primi Wifi și căști JBL appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/it-stiinta/coiful-de-la-cotofenesti-va-fi-restaurat-va-primi-wifi-si-casti-jbl",
-      "published_utc": "2026-05-03T03:49:00+00:00",
+      "title": "😂 ANAF introduce autentificarea în doi pași: buletin și adeverință că ai buletin",
+      "summary": "Digitalizarea ANAF continuă cu pași mari. Săptămâna aceasta a fost implementată autentificarea în doi pași pe site-ul web al instituției. Cei înregistrați în sistem vor putea pur și simplu să-și scaneze buletinul, apoi să uploadeze o adeverință de la Evidența Populației, sucursala de la locul nașterii, adeverință prin care se atestă că buletinul este original, [&#8230;] The post ANAF introduce autentificarea în doi pași: buletin și adeverință că ai buletin appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/it-stiinta/anaf-introduce-autentificarea-in-doi-pasi-buletin-si-adeverinta-ca-ai-buletin",
+      "published_utc": "2026-05-03T08:53:00+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/coif_cu_casti.jpg"
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2020/07/cozi_anaf_1aprilie.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Fiica doctoriței din Oradea care și-a donat organele după moarte: „M-a pregătit pentru asta de când eram mică”",
+      "summary": "O lecție de viață impresionantă vine de la Oradea, unde un medic continuă să salveze vieți chiar și după moarte. O doctoriță urolog și-a pregătit familia pentru momentul în care nu va mai fi, iar decizia ei a dat șansa la o nouă viață altor 5 pacienți. Daniela Jovrea spunea că dorința ei, dacă viața i se va curma brusc, este să-i fie prelevate organele. Fiica ei, studentă la Medicină, a povestit în exclusivitate pentru Digi24 cum a fost luată această decizie.",
+      "link": "https://www.digi24.ro/stiri/fiica-doctoritei-din-oradea-care-si-a-donat-organele-dupa-moarte-m-a-pregatit-pentru-asta-de-cand-am-fost-mica-3754383",
+      "published_utc": "2026-05-04T04:00:33+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNSUyRjAzJTJGMjcwNTk3N18yNzA1/OTc3X3ZnVkcuanBnJmhhc2g9ZmQyMzhl/YTA0NGE4ODA4MzNmN2ExYzM1NDZmZTA5MmQ=.jpg"
     },
     {
       "section": "romania",
@@ -562,6 +622,18 @@
       "score": 3,
       "freshness_boost": 3,
       "image": "https://picsum.photos/seed/vb-570ed19ffa7f98cc/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Coiful de la Coțofenești va fi restaurat. Va primi Wifi și căști JBL",
+      "summary": "După ce a fost recuperat din Olanda, coiful dacic de aur de la Coțofenești a ajuns la Muzeul Național de Istorie și urmează să intre în restaurare masivă ca să fie adus la standardele cu care sunt obișnuiți pasionații de istorie din prezent. Celebrul coif dacic de la Coțofenești va beneficia de câteva îmbunătățiri esențiale. [&#8230;] The post Coiful de la Coțofenești va fi restaurat. Va primi Wifi și căști JBL appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/it-stiinta/coiful-de-la-cotofenesti-va-fi-restaurat-va-primi-wifi-si-casti-jbl",
+      "published_utc": "2026-05-03T03:49:00+00:00",
+      "score": 3,
+      "freshness_boost": 1,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/coif_cu_casti.jpg"
     },
     {
       "section": "romania",
@@ -610,18 +682,6 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-b232011f502b8f73/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Un român acuză că e mușcat zilnic de căpușele de la CEC, Hidroelectrica și Transgaz",
-      "summary": "Marian Coltea, un bucureștean din zona Lujerului, se plânge că e mușcat zilnic de mai multe căpușe. În primul rând ar fi vorba de căpușele de la Termoenergetica. Acestea îl mușcă zi de zi de mai bine de șase luni, mai ales în perioada de iarnă, lucru atipic pentru căpușe. „Sunt căpușe extrem de agresive. [&#8230;] The post Un român acuză că e mușcat zilnic de căpușele de la CEC, Hidroelectrica și Transgaz appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/un-roman-acuza-ca-e-muscat-zilnic-de-capusele-de-la-cec-hidroelectrica-si-transgaz",
-      "published_utc": "2026-05-02T08:46:00+00:00",
-      "score": 3,
-      "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2020/07/termocentrala_diplome_doctorat.jpg"
     },
     {
       "section": "romania",
@@ -684,30 +744,6 @@
       "image": "https://picsum.photos/seed/vb-424625d0661ba497/480/320"
     },
     {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Fundatia Regala Margareta",
-      "title": "De Paște, 900 de vârstnici singuri primesc prezență umană, ascultare și speranță",
-      "summary": "În timp ce pentru mulți români Paștele este sărbătoarea revederii și a meselor în familie, pentru mulți vârstnici singuri aceste zile sunt printre cele mai grele din an. Singurătatea doare, lipsurile și sentimentul de abandon se simt mai apăsat tocmai atunci când toți ceilalți par... Post-ul De Paște, 900 de vârstnici singuri primesc prezență umană, ascultare și speranță apare prima dată în Fundația Regală Margareta a României .",
-      "link": "https://www.frmr.ro/de-paste-900-de-varstnici-singuri-primesc-prezenta-umana-ascultare-si-speranta",
-      "published_utc": "2026-04-07T09:25:39+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-670d4182437cf28f/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "World Vision Romania",
-      "title": "Bullyingul în adolescență: răni invizibile și cum pot fi vindecate",
-      "summary": "De ce vorbim despre bullying Bullyingul nu mai este de mult o problemă „minoră” sau o etapă inevitabilă a copilăriei.... Articolul Bullyingul în adolescență: răni invizibile și cum pot fi vindecate apare prima dată în World Vision România .",
-      "link": "https://worldvision.ro/2026/03/26/bullyingul-in-adolescenta-rani-invizibile-si-cum-pot-fi-vindecate",
-      "published_utc": "2026-03-26T11:44:13+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-2554b0df5dc098e4/480/320"
-    },
-    {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
@@ -722,14 +758,26 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "SOS Satele Copiilor Romania",
-      "title": "Părinte Social",
-      "summary": "Descrierea postului: Părintele social crează un mediu de viaţă, îngrijire şi educaţie, caracterizat prin afecţiune şi stabilitate şi adecvat dezvoltării personalităţii fiecărui copil (în plan fizic, psihic, emoţional, social şi... The post Părinte Social appeared first on SOS Satele Copiilor România .",
-      "link": "https://www.sos-satelecopiilor.ro/parinte-social",
-      "published_utc": "2026-03-19T12:56:50+00:00",
+      "source": "Fundatia Regala Margareta",
+      "title": "De Paște, 900 de vârstnici singuri primesc prezență umană, ascultare și speranță",
+      "summary": "În timp ce pentru mulți români Paștele este sărbătoarea revederii și a meselor în familie, pentru mulți vârstnici singuri aceste zile sunt printre cele mai grele din an. Singurătatea doare, lipsurile și sentimentul de abandon se simt mai apăsat tocmai atunci când toți ceilalți par... Post-ul De Paște, 900 de vârstnici singuri primesc prezență umană, ascultare și speranță apare prima dată în Fundația Regală Margareta a României .",
+      "link": "https://www.frmr.ro/de-paste-900-de-varstnici-singuri-primesc-prezenta-umana-ascultare-si-speranta",
+      "published_utc": "2026-04-07T09:25:39+00:00",
       "score": 3,
       "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-5c5602f10ee5770c/480/320"
+      "image": "https://picsum.photos/seed/vb-670d4182437cf28f/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "United Way Romania",
+      "title": "Sprijinul Raiffeisen Bank schimbă vieți. Povestea lui Victor din programul „Învață să reușești”",
+      "summary": "United Way România lucrează acolo unde nevoia este cea mai mare, acolo unde sprijinul nu este doar util, ci vital. Fără acest ajutor, mulți copii ar rămâne în urmă, riscând să se piardă în dificultățile vieții. De aceea, apreciem sprijinul pe termen lung pe care Raiffeisen Bank îl oferă programului „Învață să reușești”. Printre copiii [&#8230;] Articolul Sprijinul Raiffeisen Bank schimbă vieți. Povestea lui Victor din programul „Învață să reușești” apare prima dată în United Way Romania .",
+      "link": "https://www.unitedway.ro/2026/04/sprijinul-raiffeisen-bank-schimba-vieti-povestea-lui-victor-din-programul-invata-sa-reusesti",
+      "published_utc": "2026-04-06T13:31:35+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-9f8c1241fbb24622/480/320"
     },
     {
       "section": "science",
@@ -742,6 +790,30 @@
       "score": 1,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/playing-with-a-doll.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "World Vision Romania",
+      "title": "Bullyingul în adolescență: răni invizibile și cum pot fi vindecate",
+      "summary": "De ce vorbim despre bullying Bullyingul nu mai este de mult o problemă „minoră” sau o etapă inevitabilă a copilăriei.... Articolul Bullyingul în adolescență: răni invizibile și cum pot fi vindecate apare prima dată în World Vision România .",
+      "link": "https://worldvision.ro/2026/03/26/bullyingul-in-adolescenta-rani-invizibile-si-cum-pot-fi-vindecate",
+      "published_utc": "2026-03-26T11:44:13+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-2554b0df5dc098e4/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "SOS Satele Copiilor Romania",
+      "title": "Părinte Social",
+      "summary": "Descrierea postului: Părintele social crează un mediu de viaţă, îngrijire şi educaţie, caracterizat prin afecţiune şi stabilitate şi adecvat dezvoltării personalităţii fiecărui copil (în plan fizic, psihic, emoţional, social şi... The post Părinte Social appeared first on SOS Satele Copiilor România .",
+      "link": "https://www.sos-satelecopiilor.ro/parinte-social",
+      "published_utc": "2026-03-19T12:56:50+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-5c5602f10ee5770c/480/320"
     },
     {
       "section": "science",
@@ -1112,6 +1184,7 @@
       "https://live.staticflickr.com/65535/55229259798_904329f638_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/55228060474_c41bfe7d2c_b.jpg",
       "https://live.staticflickr.com/65535/31236261064_7e9d4d011d_b.jpg",
       "https://live.staticflickr.com/65535/55243446867_a270eea90c_b.jpg",
       "https://live.staticflickr.com/4172/34211681861_de92e4eeaf_b.jpg",
@@ -1128,10 +1201,10 @@
       "https://live.staticflickr.com/65535/55243151795_33d1d2849d_b.jpg",
       "https://live.staticflickr.com/65535/55238119839_057b8b7b75_b.jpg",
       "https://live.staticflickr.com/65535/31839016841_14983b1de8_b.jpg",
-      "https://live.staticflickr.com/65535/31304148730_0a749c0efd_b.jpg",
-      "https://live.staticflickr.com/65535/31784608476_1bc93c31b8_b.jpg"
+      "https://live.staticflickr.com/65535/31304148730_0a749c0efd_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55247616913_7ec91a7faf_b.jpg",
       "https://live.staticflickr.com/65535/55246086542_b38f81cc68_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/3/3f/NYC_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg",
       "https://live.staticflickr.com/65535/55246732956_94e670830d_b.jpg",
@@ -1148,12 +1221,11 @@
       "https://live.staticflickr.com/65535/55245230198_14414d17db_b.jpg",
       "https://live.staticflickr.com/65535/55245285554_488b0faffb_b.jpg",
       "https://live.staticflickr.com/65535/55245225525_9b69dee86e_b.jpg",
-      "https://live.staticflickr.com/65535/55244811238_80d3c2f0df_b.jpg",
-      "https://live.staticflickr.com/65535/55244415624_dd1b1907da_b.jpg"
+      "https://live.staticflickr.com/65535/55244811238_80d3c2f0df_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
+      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
