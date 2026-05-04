@@ -1,114 +1,138 @@
 {
-  "generated_utc": "2026-05-04T05:24:31+00:00",
+  "generated_utc": "2026-05-04T08:15:53+00:00",
   "sections": {
     "romania": [
       {
         "section": "romania",
         "kind": "ro",
-        "source": "Start-Up Romania",
-        "title": "Daniel Higgs, Iontra: Ce este încărcarea inteligentă și cum poate fi adoptată de toată lumea",
-        "summary": "Dispozitivele mobile cu baterii reîncărcabile au ajuns să fie parte din viața noastră în aproape tot ceea ce facem, inclusiv pentru comunicare, lucru sau chiar transport. Încărcarea rapidă și...",
-        "link": "https://start-up.ro/daniel-higgs-iontra-incarcarea-inteligenta-poate-fi-implementata-la-scara-larga",
-        "published_utc": "2026-05-04T05:05:02+00:00",
+        "source": "HotNews",
+        "title": "Experiment în educație: la Colegiul „Gheorghe Lazăr”, elevii își aleg profilul abia în clasa a XI-a. Avantajele, explicate de directoare",
+        "summary": "Elevii admiși la Colegiul Național „Gheorghe Lazăr” începând cu anul școlar 2026-2027 nu vor mai intra direct la matematică-informatică, științele naturii, filologie sau științe sociale. În primii doi ani, vor avea un parcurs comun, astfel încât să își poată testa interesele și aptitudinile înainte de a alege profilul. Specializarea va fi stabilită abia după clasa &#8230;",
+        "link": "https://hotnews.ro/experiment-in-educatie-la-colegiul-gheorghe-lazar-elevii-isi-aleg-profilul-abia-in-clasa-a-xi-a-avantajele-explicate-de-directoare-2235821",
+        "published_utc": "2026-05-04T07:47:27+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://start-up.ro/img/articles/3/8/2/38287/cover-38287-src.jpg"
+        "image": "https://picsum.photos/seed/vb-c3a648c8a03697c3/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "RomaniaPozitiva",
+        "title": "8 din 10 sosiri turistice în România sunt generate de turiști români. Vatră și Ogradă transformă produsul local în experiență gastronomică de weekend",
+        "summary": "Pe 13–14 iunie 2026, la Ferma Dacilor, în zona Dealu Mare, va avea loc evenimentul „Târg Gastronomic Experiențial – VATRĂ ȘI OGRADĂ, de la gospodari la gurmanzi”. Vatră și Ogradă&#8230; Articolul 8 din 10 sosiri turistice în România sunt generate de turiști români. Vatră și Ogradă transformă produsul local în experiență gastronomică de weekend apare prima dată în Romania Pozitiva .",
+        "link": "https://www.romaniapozitiva.ro/implica-te/8-din-10-sosiri-turistice-in-romania-sunt-generate-de-turisti-romani-vatra-si-ograda-transforma-produsul-local-in-experienta-gastronomica-de-weekend",
+        "published_utc": "2026-05-04T07:45:11+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-fb26657216034f9f/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "RomaniaPozitiva",
+        "title": "Concert dedicat Zilei Regalității la Ateneul Român, în prezența Altețelor Lor Regale, Principesa Elena a României și Principesa Sofia a României",
+        "summary": "În data de 10 mai, la Ateneul Român, se va sărbători Ziua Regalității, în cadrul unui Concert Extraordinar susținut de orchestra Camerata Regală. Evenimentul se va desfășura în prezența Alteței&#8230; Articolul Concert dedicat Zilei Regalității la Ateneul Român, în prezența Altețelor Lor Regale, Principesa Elena a României și Principesa Sofia a României apare prima dată în Romania Pozitiva .",
+        "link": "https://www.romaniapozitiva.ro/bucuresti/concert-dedicat-zilei-regalitatii-la-ateneul-roman-in-prezenta-altetelor-lor-regale-principesa-elena-a-romaniei-si-principesa-sofia-a-romaniei",
+        "published_utc": "2026-05-04T07:36:45+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-bab80cdee2766754/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Tumoră pe trahee la 41 de ani, mai mulți medici fără răspuns. A fost operat la Spitalul Memorial Băneasa prin chirurgie robotică sub ECMO și externat după o săptămână",
+        "summary": "Un bărbat de 41 de ani, consultat de mai mulți medici fără a găsi o soluție în țară și care luase în calcul tratamentul în străinătate, a fost operat la Spitalul Memorial Băneasa printr-o procedură de mare complexitate: rezecție de carină și reconstrucție completă a căilor aeriene, realizată robotic, prin tehnica uniportală, sub suport ECMO. &#8230;",
+        "link": "https://hotnews.ro/tumora-pe-trahee-la-41-de-ani-mai-multi-medici-fara-raspuns-a-fost-operat-la-spitalul-memorial-baneasa-prin-chirurgie-robotica-sub-ecmo-si-externat-dupa-o-saptamana-2235844",
+        "published_utc": "2026-05-04T07:35:05+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-688662f41504d0d0/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "RomaniaPozitiva",
+        "title": "Directoarea de casting a lui Paolo Sorrentino vine la București pentru un masterclass de film dedicat actorilor profesioniști, organizat de actrița Olimpia Melinte în colaborare cu Platforma de Arte",
+        "summary": "Masterclass internațional dedicat actorilor, susținut între 22-24 mai de directoarea de casting Annamaria Sambucco, regizorul italian Mario Piredda, actrița Olimpia Melinte, directoarea de casting Domnica Cîrciumaru și regizorul Andrei Gheorghe&#8230; Articolul Directoarea de casting a lui Paolo Sorrentino vine la București pentru un masterclass de film dedicat actorilor profesioniști, organizat de actrița Olimpia Melinte în colaborare cu Platforma de Arte apare prima dată în Romania Pozitiva .",
+        "link": "https://www.romaniapozitiva.ro/bucuresti/directoarea-de-casting-a-lui-paolo-sorrentino-vine-la-bucuresti-pentru-un-masterclass-de-film-dedicat-actorilor-profesionisti-organizat-de-actrita-olimpia-melinte-in-colaborare-cu-platforma-de-arte",
+        "published_utc": "2026-05-04T07:34:12+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-16af189e3dc4d867/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Start-Up Romania",
+        "title": "Asociația ROStartup pregătește 20 de milioane de euro pentru organizații care susțin startup-urile tech din România",
+        "summary": "Asociația ROStartup va avea la dispoziție 20 de milioane de euro printr-un proiect european din programul POCIDIF care se vor duce către incubatoare, acceleratoare și organizații din ecosistem...",
+        "link": "https://start-up.ro/asociatia-rostartup-pregateste-20-de-milioane-de-euro-pentru-organizatii-care-sustin-startup-urile-tech-din-romania",
+        "published_utc": "2026-05-04T07:32:27+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://start-up.ro/img/articles/3/8/2/38259/cover-38259-src.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Patronatele din Bulgaria, supărate că angajații primesc zile libere în plus dacă sărbătorile legale pică în weekend: Pierdem milioane de euro",
+        "summary": "Organizaţia patronatelor din Bulgaria, Asociaţia Capitalului Industrial din Bulgaria (AIKB), a adoptat o poziţie fermă împotriva practicii actuale de a prelungi zilele libere legale atunci când acestea cad în weekend, relatează Novinite, citată de News.ro. Potrivit organizației, sistemul, introdus în 2017, generează pierderi economice semnificative, de milioane de euro, şi ar trebui reconsiderat. Bulgaria are &#8230;",
+        "link": "https://hotnews.ro/patronatele-din-bulgaria-suparate-ca-statul-da-zile-libere-in-plus-daca-sarbatorile-legale-pica-in-weekend-pierdem-milioane-de-euro-2235804",
+        "published_utc": "2026-05-04T06:46:26+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-40835a5dea8cd7c5/480/320"
       },
       {
         "section": "romania",
         "kind": "ro",
         "source": "Digi24",
-        "title": "Fiica doctoriței din Oradea care și-a donat organele după moarte: „M-a pregătit pentru asta de când eram mică”",
-        "summary": "O lecție de viață impresionantă vine de la Oradea, unde un medic continuă să salveze vieți chiar și după moarte. O doctoriță urolog și-a pregătit familia pentru momentul în care nu va mai fi, iar decizia ei a dat șansa la o nouă viață altor 5 pacienți. Daniela Jovrea spunea că dorința ei, dacă viața i se va curma brusc, este să-i fie prelevate organele. Fiica ei, studentă la Medicină, a povestit în exclusivitate pentru Digi24 cum a fost luată această decizie.",
-        "link": "https://www.digi24.ro/stiri/fiica-doctoritei-din-oradea-care-si-a-donat-organele-dupa-moarte-m-a-pregatit-pentru-asta-de-cand-am-fost-mica-3754383",
-        "published_utc": "2026-05-04T04:00:33+00:00",
+        "title": "Cristi Chivu, după ce Inter Milano a câştigat campionatul Italiei: „Cum sărbătoresc? O țigară”. Mesaj pentru jucători",
+        "summary": "Cristian Chivu a reacţionat după ce Inter a câştigat campionatul Italiei şi a spus că a sărbătorit titlul „cu o ţigară” în vestiar. Antrenorul român a subliniat meritul jucătorilor şi al predecesorilor săi, după un sezon cu momente dificile.",
+        "link": "https://www.digi24.ro/stiri/sport/fotbal/cristi-chivu-dupa-ce-inter-milano-a-castigat-campionatul-italiei-cum-sarbatoresc-o-tigara-mesaj-pentru-jucatori-3754727",
+        "published_utc": "2026-05-04T05:59:11+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNSUyRjAzJTJGMjcwNTk3N18yNzA1/OTc3X3ZnVkcuanBnJmhhc2g9ZmQyMzhl/YTA0NGE4ODA4MzNmN2ExYzM1NDZmZTA5MmQ=.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "RomaniaPozitiva",
-        "title": "Deschiderea expoziției Cotoșman & co. Lecția lui Livius Ciocârlie",
-        "summary": "Deschiderea expoziției Cotoșman &#38; co. Lecția lui Livius Ciocârlie 8 mai – 13 septembrie 2026. Curator: Erwin Kessler Muzeul Național de Artă al României vă invită la vernisajul expoziției Cotoșman &#38; co. Lecția&#8230; Articolul Deschiderea expoziției Cotoșman &#038; co. Lecția lui Livius Ciocârlie apare prima dată în Romania Pozitiva .",
-        "link": "https://www.romaniapozitiva.ro/bucuresti/deschiderea-expozitiei-cotosman-co-lectia-lui-livius-ciocarlie",
-        "published_utc": "2026-05-03T14:48:38+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-ab2adf9e099f50fc/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "RomaniaPozitiva",
-        "title": "Voluntim | Spații pentru comunitate. Te poți alătura programului de voluntariat",
-        "summary": "Programul Spații pentru comunitate, derulat de Municipiul Timișoara prin Centrul de Proiecte, pune la dispoziția orașului mai multe spații în care au loc evenimente culturale și comunitare — de la&#8230; Articolul Voluntim | Spații pentru comunitate. Te poți alătura programului de voluntariat apare prima dată în Romania Pozitiva .",
-        "link": "https://www.romaniapozitiva.ro/banat-crisana/voluntim-spatii-pentru-comunitate-te-poti-alatura-programului-de-voluntariat",
-        "published_utc": "2026-05-03T14:46:55+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-1ce80a6ff20e5666/480/320"
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwNCUyRjIzJTJGMjI0MzEzOV8yMjQz/MTM5X2NyaXN0aWFuLWNoaXZ1LXByb2Zp/bWVkaWEtMDk5MTM3Mjc4Ny5wbmcmaGFz/aD1jYjY1NTU2MzEwYjJkZTA5YTE3YzdkZDUzM2U5Mjg0Nw==.png"
       },
       {
         "section": "romania",
         "kind": "ro",
         "source": "Times New Roman (Satira)",
-        "title": "😂 ANAF introduce autentificarea în doi pași: buletin și adeverință că ai buletin",
-        "summary": "Digitalizarea ANAF continuă cu pași mari. Săptămâna aceasta a fost implementată autentificarea în doi pași pe site-ul web al instituției. Cei înregistrați în sistem vor putea pur și simplu să-și scaneze buletinul, apoi să uploadeze o adeverință de la Evidența Populației, sucursala de la locul nașterii, adeverință prin care se atestă că buletinul este original, [&#8230;] The post ANAF introduce autentificarea în doi pași: buletin și adeverință că ai buletin appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/it-stiinta/anaf-introduce-autentificarea-in-doi-pasi-buletin-si-adeverinta-ca-ai-buletin",
-        "published_utc": "2026-05-03T08:53:00+00:00",
+        "title": "😂 Oana Gheorghiu, greșeală gravă: „Analfabeților le trimiți poze, nu mailuri, că nu știu să citească!”",
+        "summary": "Gest complet necugetat al vicepremierului Oana Gheorghiu. Aceasta le-a trimis tuturor parlamentarilor un mail în format text, ignorând inexplicabil faptul că 80% dintre deputații și senatorii PSD, AUR și POT sunt analfabeți. „O bună parte sunt analfabeți total, deci nu știu nici măcar să citească, în timp ce restul sunt doar analfabeți funcțional. Dibuiesc literele, [&#8230;] The post Oana Gheorghiu, greșeală gravă: „Analfabeților le trimiți poze, nu mailuri, că nu știu să citească!” appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/politic/oana-gheorghiu-greseala-grava-analfabetilor-le-trimiti-poze-nu-mailuri-ca-nu-stiu-sa-citeasca",
+        "published_utc": "2026-05-04T05:58:48+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2020/07/cozi_anaf_1aprilie.jpg"
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/deputat_analfabet.jpg"
       },
       {
         "section": "romania",
         "kind": "ro",
         "source": "RomaniaPozitiva",
-        "title": "Uniunea Artiștilor Plastici din România propune câteva evenimente din lumea artelor vizuale, care se vor desfășura în perioada 4 – 10 mai 2026",
-        "summary": "Luni, 4 mai vor avea loc trei vernisaje: Galeria „ARTOTECA” a Bibliotecii Metropolitane București, în colaborare cu Uniunea Artiștilor Plastici din România, găzduiește, de la ora 18, vernisajul expoziției „OPEN&#8230; Articolul Uniunea Artiștilor Plastici din România propune câteva evenimente din lumea artelor vizuale, care se vor desfășura în perioada 4 – 10 mai 2026 apare prima dată în Romania Pozitiva .",
-        "link": "https://www.romaniapozitiva.ro/cultura/uniunea-artistilor-plastici-din-romania-propune-cateva-evenimente-din-lumea-artelor-vizuale-care-se-vor-desfasura-in-perioada-4-10-mai-2026",
-        "published_utc": "2026-05-03T07:36:02+00:00",
+        "title": "România, lider european la implicarea tinerilor în Săptămâna Europeană a Tineretului 2026",
+        "summary": "Săptămâna Europeană a Tineretului – SET, campania emblematică a Comisiei Europene dedicată celebrării tinerilor, a avut loc între 24 aprilie și 1 mai 2026. Ediția din acest an a fost&#8230; Articolul România, lider european la implicarea tinerilor în Săptămâna Europeană a Tineretului 2026 apare prima dată în Romania Pozitiva .",
+        "link": "https://www.romaniapozitiva.ro/administratie/romania-lider-european-la-implicarea-tinerilor-in-saptamana-europeana-a-tineretului-2026",
+        "published_utc": "2026-05-04T05:40:29+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-570ed19ffa7f98cc/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 Coiful de la Coțofenești va fi restaurat. Va primi Wifi și căști JBL",
-        "summary": "După ce a fost recuperat din Olanda, coiful dacic de aur de la Coțofenești a ajuns la Muzeul Național de Istorie și urmează să intre în restaurare masivă ca să fie adus la standardele cu care sunt obișnuiți pasionații de istorie din prezent. Celebrul coif dacic de la Coțofenești va beneficia de câteva îmbunătățiri esențiale. [&#8230;] The post Coiful de la Coțofenești va fi restaurat. Va primi Wifi și căști JBL appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/it-stiinta/coiful-de-la-cotofenesti-va-fi-restaurat-va-primi-wifi-si-casti-jbl",
-        "published_utc": "2026-05-03T03:49:00+00:00",
-        "score": 3,
-        "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/coif_cu_casti.jpg"
+        "image": "https://picsum.photos/seed/vb-dc12d3ae91da5e24/480/320"
       },
       {
         "section": "romania",
         "kind": "ro",
         "source": "RomaniaPozitiva",
-        "title": "Festivalul Internațional ISCM WORLD NEW MUSIC DAYS 2026 – „Columna Infinită” va avea loc la București",
-        "summary": "Cel mai mare eveniment dedicat muzicii noi pe plan mondial, Festivalul Internațional ISCM World New Music Days – „Columna Infinită”, se va desfășura anul acesta la București, în perioada 23-31&#8230; Articolul Festivalul Internațional ISCM WORLD NEW MUSIC DAYS 2026 – „Columna Infinită” va avea loc la București apare prima dată în Romania Pozitiva .",
-        "link": "https://www.romaniapozitiva.ro/cultura/festivalul-international-iscm-world-new-music-days-2026-columna-infinita-va-avea-loc-la-bucuresti",
-        "published_utc": "2026-05-02T16:46:56+00:00",
+        "title": "Gala aniversară Gopo 2026 – invitați, momente speciale și cele mai așteptate premii ale serii",
+        "summary": "București, 4 mai 2026 &#8211; Gala Premiilor Gopo, cel mai important eveniment dedicat cinematografiei din România, se întoarce la cea de-a 20-a ediție în sala Ion Caramitru a Teatrului Național&#8230; Articolul Gala aniversară Gopo 2026 – invitați, momente speciale și cele mai așteptate premii ale serii apare prima dată în Romania Pozitiva .",
+        "link": "https://www.romaniapozitiva.ro/bucuresti/gala-aniversara-gopo-2026-invitati-momente-speciale-si-cele-mai-asteptate-premii-ale-serii",
+        "published_utc": "2026-05-04T04:38:22+00:00",
         "score": 3,
-        "freshness_boost": 1,
-        "image": "https://picsum.photos/seed/vb-b3843d4d1ee1bd98/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "RomaniaPozitiva",
-        "title": "Editura Trei anunță lansarea romanului Dansează când îți vine să plângi, de Camelia Cavadia, un roman despre prietenie și pierdere",
-        "summary": "Editura Trei anunță apariția celui mai nou roman semnat de Camelia Cavadia, Dansează când îți vine să plângi, o carte despre prietenie, memorie și felul în care identitatea se construiește&#8230; Articolul Editura Trei anunță lansarea romanului Dansează când îți vine să plângi, de Camelia Cavadia, un roman despre prietenie și pierdere apare prima dată în Romania Pozitiva .",
-        "link": "https://www.romaniapozitiva.ro/bucuresti/editura-trei-anunta-lansarea-romanului-danseaza-cand-iti-vine-sa-plangi-de-camelia-cavadia-un-roman-despre-prietenie-si-pierdere",
-        "published_utc": "2026-05-02T07:43:17+00:00",
-        "score": 3,
-        "freshness_boost": 1,
-        "image": "https://picsum.photos/seed/vb-2550f8d651623990/480/320"
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-49271ef35425bae3/480/320"
       },
       {
         "section": "romania",
@@ -125,6 +149,18 @@
       {
         "section": "romania",
         "kind": "ro",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 Un savant nebun din Buzău a creat un covrig indestructibil",
+        "summary": "Corneliu Solomon, savant din Buzău, susține că a creat în laboratorul aflat în garajul propriei locuințe un covrig de Buzău de o duritate nemaiîntâlnită. Covrigul, supranumit „Indestructibilul de Buzău”, rezistă la presiuni de până la 6000 psi și poate sta la raft chiar și 4000 de ani. Covrigul urmează să fie testat și în vidul [&#8230;] The post Un savant nebun din Buzău a creat un covrig indestructibil appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/it-stiinta/un-savant-nebun-din-buzau-a-creat-un-covrig-indestructibil",
+        "published_utc": "2026-05-01T08:42:00+00:00",
+        "score": 3,
+        "freshness_boost": 1,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2020/09/covrigi_prezentare.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
         "source": "Fundatia Regala Margareta",
         "title": "SPRIJIN MEDIA OFERIT PROGRAMELOR FUNDAȚIEI REGALE ÎN ANUL 2025",
         "summary": "Programul național Telefonul Vârstnicului – 0800 460 001 Sprijinul media a venit de la Spot TV &#8211; Pro TV, TVR, Antena 1, Antena 3 CNN, Antena Stars, Prima TV, Prima News, Pro Cinema, Pro Arena, Acasă, Acasă Gold, Trinitas TV, Speranța TV, Antena 3 Deva,... Post-ul SPRIJIN MEDIA OFERIT PROGRAMELOR FUNDAȚIEI REGALE ÎN ANUL 2025 apare prima dată în Fundația Regală Margareta a României .",
@@ -133,6 +169,18 @@
         "score": 3,
         "freshness_boost": 0,
         "image": "https://picsum.photos/seed/vb-b232011f502b8f73/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Green Start-Up Romania",
+        "title": "Leapmotor lansează B05, concurent complet electric pentru Volkswagen ID.3",
+        "summary": "Leapmotor lansează oficial în Europa noul B05, primul model electric sportiv al mărcii, marcând un moment important în evoluția sa și consolidând extinderea portofoliului european de vehicule...",
+        "link": "https://green.start-up.ro/ro/leapmotor-lanseaza-b05-concurent-complet-electric-pentru-volkswagen-id-3",
+        "published_utc": "2026-04-24T04:59:19+00:00",
+        "score": 3,
+        "freshness_boost": 0,
+        "image": "https://green.start-up.ro/img/articles/3/5/8/35855/cover-35855-src.jpg"
       },
       {
         "section": "romania",
@@ -205,18 +253,6 @@
         "score": 3,
         "freshness_boost": 0,
         "image": "https://picsum.photos/seed/vb-670d4182437cf28f/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "United Way Romania",
-        "title": "Sprijinul Raiffeisen Bank schimbă vieți. Povestea lui Victor din programul „Învață să reușești”",
-        "summary": "United Way România lucrează acolo unde nevoia este cea mai mare, acolo unde sprijinul nu este doar util, ci vital. Fără acest ajutor, mulți copii ar rămâne în urmă, riscând să se piardă în dificultățile vieții. De aceea, apreciem sprijinul pe termen lung pe care Raiffeisen Bank îl oferă programului „Învață să reușești”. Printre copiii [&#8230;] Articolul Sprijinul Raiffeisen Bank schimbă vieți. Povestea lui Victor din programul „Învață să reușești” apare prima dată în United Way Romania .",
-        "link": "https://www.unitedway.ro/2026/04/sprijinul-raiffeisen-bank-schimba-vieti-povestea-lui-victor-din-programul-invata-sa-reusesti",
-        "published_utc": "2026-04-06T13:31:35+00:00",
-        "score": 3,
-        "freshness_boost": 0,
-        "image": "https://picsum.photos/seed/vb-9f8c1241fbb24622/480/320"
       },
       {
         "section": "romania",
@@ -554,110 +590,134 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Start-Up Romania",
-      "title": "Daniel Higgs, Iontra: Ce este încărcarea inteligentă și cum poate fi adoptată de toată lumea",
-      "summary": "Dispozitivele mobile cu baterii reîncărcabile au ajuns să fie parte din viața noastră în aproape tot ceea ce facem, inclusiv pentru comunicare, lucru sau chiar transport. Încărcarea rapidă și...",
-      "link": "https://start-up.ro/daniel-higgs-iontra-incarcarea-inteligenta-poate-fi-implementata-la-scara-larga",
-      "published_utc": "2026-05-04T05:05:02+00:00",
+      "source": "HotNews",
+      "title": "Experiment în educație: la Colegiul „Gheorghe Lazăr”, elevii își aleg profilul abia în clasa a XI-a. Avantajele, explicate de directoare",
+      "summary": "Elevii admiși la Colegiul Național „Gheorghe Lazăr” începând cu anul școlar 2026-2027 nu vor mai intra direct la matematică-informatică, științele naturii, filologie sau științe sociale. În primii doi ani, vor avea un parcurs comun, astfel încât să își poată testa interesele și aptitudinile înainte de a alege profilul. Specializarea va fi stabilită abia după clasa &#8230;",
+      "link": "https://hotnews.ro/experiment-in-educatie-la-colegiul-gheorghe-lazar-elevii-isi-aleg-profilul-abia-in-clasa-a-xi-a-avantajele-explicate-de-directoare-2235821",
+      "published_utc": "2026-05-04T07:47:27+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://start-up.ro/img/articles/3/8/2/38287/cover-38287-src.jpg"
+      "image": "https://picsum.photos/seed/vb-c3a648c8a03697c3/480/320"
     },
     {
       "section": "romania",
       "kind": "ro",
       "source": "RomaniaPozitiva",
-      "title": "Deschiderea expoziției Cotoșman & co. Lecția lui Livius Ciocârlie",
-      "summary": "Deschiderea expoziției Cotoșman &#38; co. Lecția lui Livius Ciocârlie 8 mai – 13 septembrie 2026. Curator: Erwin Kessler Muzeul Național de Artă al României vă invită la vernisajul expoziției Cotoșman &#38; co. Lecția&#8230; Articolul Deschiderea expoziției Cotoșman &#038; co. Lecția lui Livius Ciocârlie apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/bucuresti/deschiderea-expozitiei-cotosman-co-lectia-lui-livius-ciocarlie",
-      "published_utc": "2026-05-03T14:48:38+00:00",
+      "title": "8 din 10 sosiri turistice în România sunt generate de turiști români. Vatră și Ogradă transformă produsul local în experiență gastronomică de weekend",
+      "summary": "Pe 13–14 iunie 2026, la Ferma Dacilor, în zona Dealu Mare, va avea loc evenimentul „Târg Gastronomic Experiențial – VATRĂ ȘI OGRADĂ, de la gospodari la gurmanzi”. Vatră și Ogradă&#8230; Articolul 8 din 10 sosiri turistice în România sunt generate de turiști români. Vatră și Ogradă transformă produsul local în experiență gastronomică de weekend apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/implica-te/8-din-10-sosiri-turistice-in-romania-sunt-generate-de-turisti-romani-vatra-si-ograda-transforma-produsul-local-in-experienta-gastronomica-de-weekend",
+      "published_utc": "2026-05-04T07:45:11+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-ab2adf9e099f50fc/480/320"
+      "image": "https://picsum.photos/seed/vb-fb26657216034f9f/480/320"
     },
     {
       "section": "romania",
       "kind": "ro",
       "source": "RomaniaPozitiva",
-      "title": "Voluntim | Spații pentru comunitate. Te poți alătura programului de voluntariat",
-      "summary": "Programul Spații pentru comunitate, derulat de Municipiul Timișoara prin Centrul de Proiecte, pune la dispoziția orașului mai multe spații în care au loc evenimente culturale și comunitare — de la&#8230; Articolul Voluntim | Spații pentru comunitate. Te poți alătura programului de voluntariat apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/banat-crisana/voluntim-spatii-pentru-comunitate-te-poti-alatura-programului-de-voluntariat",
-      "published_utc": "2026-05-03T14:46:55+00:00",
+      "title": "Concert dedicat Zilei Regalității la Ateneul Român, în prezența Altețelor Lor Regale, Principesa Elena a României și Principesa Sofia a României",
+      "summary": "În data de 10 mai, la Ateneul Român, se va sărbători Ziua Regalității, în cadrul unui Concert Extraordinar susținut de orchestra Camerata Regală. Evenimentul se va desfășura în prezența Alteței&#8230; Articolul Concert dedicat Zilei Regalității la Ateneul Român, în prezența Altețelor Lor Regale, Principesa Elena a României și Principesa Sofia a României apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/bucuresti/concert-dedicat-zilei-regalitatii-la-ateneul-roman-in-prezenta-altetelor-lor-regale-principesa-elena-a-romaniei-si-principesa-sofia-a-romaniei",
+      "published_utc": "2026-05-04T07:36:45+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-1ce80a6ff20e5666/480/320"
+      "image": "https://picsum.photos/seed/vb-bab80cdee2766754/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "Tumoră pe trahee la 41 de ani, mai mulți medici fără răspuns. A fost operat la Spitalul Memorial Băneasa prin chirurgie robotică sub ECMO și externat după o săptămână",
+      "summary": "Un bărbat de 41 de ani, consultat de mai mulți medici fără a găsi o soluție în țară și care luase în calcul tratamentul în străinătate, a fost operat la Spitalul Memorial Băneasa printr-o procedură de mare complexitate: rezecție de carină și reconstrucție completă a căilor aeriene, realizată robotic, prin tehnica uniportală, sub suport ECMO. &#8230;",
+      "link": "https://hotnews.ro/tumora-pe-trahee-la-41-de-ani-mai-multi-medici-fara-raspuns-a-fost-operat-la-spitalul-memorial-baneasa-prin-chirurgie-robotica-sub-ecmo-si-externat-dupa-o-saptamana-2235844",
+      "published_utc": "2026-05-04T07:35:05+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-688662f41504d0d0/480/320"
     },
     {
       "section": "romania",
       "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 ANAF introduce autentificarea în doi pași: buletin și adeverință că ai buletin",
-      "summary": "Digitalizarea ANAF continuă cu pași mari. Săptămâna aceasta a fost implementată autentificarea în doi pași pe site-ul web al instituției. Cei înregistrați în sistem vor putea pur și simplu să-și scaneze buletinul, apoi să uploadeze o adeverință de la Evidența Populației, sucursala de la locul nașterii, adeverință prin care se atestă că buletinul este original, [&#8230;] The post ANAF introduce autentificarea în doi pași: buletin și adeverință că ai buletin appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/it-stiinta/anaf-introduce-autentificarea-in-doi-pasi-buletin-si-adeverinta-ca-ai-buletin",
-      "published_utc": "2026-05-03T08:53:00+00:00",
+      "title": "😂 Oana Gheorghiu, greșeală gravă: „Analfabeților le trimiți poze, nu mailuri, că nu știu să citească!”",
+      "summary": "Gest complet necugetat al vicepremierului Oana Gheorghiu. Aceasta le-a trimis tuturor parlamentarilor un mail în format text, ignorând inexplicabil faptul că 80% dintre deputații și senatorii PSD, AUR și POT sunt analfabeți. „O bună parte sunt analfabeți total, deci nu știu nici măcar să citească, în timp ce restul sunt doar analfabeți funcțional. Dibuiesc literele, [&#8230;] The post Oana Gheorghiu, greșeală gravă: „Analfabeților le trimiți poze, nu mailuri, că nu știu să citească!” appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/politic/oana-gheorghiu-greseala-grava-analfabetilor-le-trimiti-poze-nu-mailuri-ca-nu-stiu-sa-citeasca",
+      "published_utc": "2026-05-04T05:58:48+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2020/07/cozi_anaf_1aprilie.jpg"
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/deputat_analfabet.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "RomaniaPozitiva",
+      "title": "Directoarea de casting a lui Paolo Sorrentino vine la București pentru un masterclass de film dedicat actorilor profesioniști, organizat de actrița Olimpia Melinte în colaborare cu Platforma de Arte",
+      "summary": "Masterclass internațional dedicat actorilor, susținut între 22-24 mai de directoarea de casting Annamaria Sambucco, regizorul italian Mario Piredda, actrița Olimpia Melinte, directoarea de casting Domnica Cîrciumaru și regizorul Andrei Gheorghe&#8230; Articolul Directoarea de casting a lui Paolo Sorrentino vine la București pentru un masterclass de film dedicat actorilor profesioniști, organizat de actrița Olimpia Melinte în colaborare cu Platforma de Arte apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/bucuresti/directoarea-de-casting-a-lui-paolo-sorrentino-vine-la-bucuresti-pentru-un-masterclass-de-film-dedicat-actorilor-profesionisti-organizat-de-actrita-olimpia-melinte-in-colaborare-cu-platforma-de-arte",
+      "published_utc": "2026-05-04T07:34:12+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-16af189e3dc4d867/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Start-Up Romania",
+      "title": "Asociația ROStartup pregătește 20 de milioane de euro pentru organizații care susțin startup-urile tech din România",
+      "summary": "Asociația ROStartup va avea la dispoziție 20 de milioane de euro printr-un proiect european din programul POCIDIF care se vor duce către incubatoare, acceleratoare și organizații din ecosistem...",
+      "link": "https://start-up.ro/asociatia-rostartup-pregateste-20-de-milioane-de-euro-pentru-organizatii-care-sustin-startup-urile-tech-din-romania",
+      "published_utc": "2026-05-04T07:32:27+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://start-up.ro/img/articles/3/8/2/38259/cover-38259-src.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "Patronatele din Bulgaria, supărate că angajații primesc zile libere în plus dacă sărbătorile legale pică în weekend: Pierdem milioane de euro",
+      "summary": "Organizaţia patronatelor din Bulgaria, Asociaţia Capitalului Industrial din Bulgaria (AIKB), a adoptat o poziţie fermă împotriva practicii actuale de a prelungi zilele libere legale atunci când acestea cad în weekend, relatează Novinite, citată de News.ro. Potrivit organizației, sistemul, introdus în 2017, generează pierderi economice semnificative, de milioane de euro, şi ar trebui reconsiderat. Bulgaria are &#8230;",
+      "link": "https://hotnews.ro/patronatele-din-bulgaria-suparate-ca-statul-da-zile-libere-in-plus-daca-sarbatorile-legale-pica-in-weekend-pierdem-milioane-de-euro-2235804",
+      "published_utc": "2026-05-04T06:46:26+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-40835a5dea8cd7c5/480/320"
     },
     {
       "section": "romania",
       "kind": "ro",
       "source": "Digi24",
-      "title": "Fiica doctoriței din Oradea care și-a donat organele după moarte: „M-a pregătit pentru asta de când eram mică”",
-      "summary": "O lecție de viață impresionantă vine de la Oradea, unde un medic continuă să salveze vieți chiar și după moarte. O doctoriță urolog și-a pregătit familia pentru momentul în care nu va mai fi, iar decizia ei a dat șansa la o nouă viață altor 5 pacienți. Daniela Jovrea spunea că dorința ei, dacă viața i se va curma brusc, este să-i fie prelevate organele. Fiica ei, studentă la Medicină, a povestit în exclusivitate pentru Digi24 cum a fost luată această decizie.",
-      "link": "https://www.digi24.ro/stiri/fiica-doctoritei-din-oradea-care-si-a-donat-organele-dupa-moarte-m-a-pregatit-pentru-asta-de-cand-am-fost-mica-3754383",
-      "published_utc": "2026-05-04T04:00:33+00:00",
+      "title": "Cristi Chivu, după ce Inter Milano a câştigat campionatul Italiei: „Cum sărbătoresc? O țigară”. Mesaj pentru jucători",
+      "summary": "Cristian Chivu a reacţionat după ce Inter a câştigat campionatul Italiei şi a spus că a sărbătorit titlul „cu o ţigară” în vestiar. Antrenorul român a subliniat meritul jucătorilor şi al predecesorilor săi, după un sezon cu momente dificile.",
+      "link": "https://www.digi24.ro/stiri/sport/fotbal/cristi-chivu-dupa-ce-inter-milano-a-castigat-campionatul-italiei-cum-sarbatoresc-o-tigara-mesaj-pentru-jucatori-3754727",
+      "published_utc": "2026-05-04T05:59:11+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNSUyRjAzJTJGMjcwNTk3N18yNzA1/OTc3X3ZnVkcuanBnJmhhc2g9ZmQyMzhl/YTA0NGE4ODA4MzNmN2ExYzM1NDZmZTA5MmQ=.jpg"
+      "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwNCUyRjIzJTJGMjI0MzEzOV8yMjQz/MTM5X2NyaXN0aWFuLWNoaXZ1LXByb2Zp/bWVkaWEtMDk5MTM3Mjc4Ny5wbmcmaGFz/aD1jYjY1NTU2MzEwYjJkZTA5YTE3YzdkZDUzM2U5Mjg0Nw==.png"
     },
     {
       "section": "romania",
       "kind": "ro",
       "source": "RomaniaPozitiva",
-      "title": "Uniunea Artiștilor Plastici din România propune câteva evenimente din lumea artelor vizuale, care se vor desfășura în perioada 4 – 10 mai 2026",
-      "summary": "Luni, 4 mai vor avea loc trei vernisaje: Galeria „ARTOTECA” a Bibliotecii Metropolitane București, în colaborare cu Uniunea Artiștilor Plastici din România, găzduiește, de la ora 18, vernisajul expoziției „OPEN&#8230; Articolul Uniunea Artiștilor Plastici din România propune câteva evenimente din lumea artelor vizuale, care se vor desfășura în perioada 4 – 10 mai 2026 apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/cultura/uniunea-artistilor-plastici-din-romania-propune-cateva-evenimente-din-lumea-artelor-vizuale-care-se-vor-desfasura-in-perioada-4-10-mai-2026",
-      "published_utc": "2026-05-03T07:36:02+00:00",
+      "title": "România, lider european la implicarea tinerilor în Săptămâna Europeană a Tineretului 2026",
+      "summary": "Săptămâna Europeană a Tineretului – SET, campania emblematică a Comisiei Europene dedicată celebrării tinerilor, a avut loc între 24 aprilie și 1 mai 2026. Ediția din acest an a fost&#8230; Articolul România, lider european la implicarea tinerilor în Săptămâna Europeană a Tineretului 2026 apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/administratie/romania-lider-european-la-implicarea-tinerilor-in-saptamana-europeana-a-tineretului-2026",
+      "published_utc": "2026-05-04T05:40:29+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-570ed19ffa7f98cc/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Coiful de la Coțofenești va fi restaurat. Va primi Wifi și căști JBL",
-      "summary": "După ce a fost recuperat din Olanda, coiful dacic de aur de la Coțofenești a ajuns la Muzeul Național de Istorie și urmează să intre în restaurare masivă ca să fie adus la standardele cu care sunt obișnuiți pasionații de istorie din prezent. Celebrul coif dacic de la Coțofenești va beneficia de câteva îmbunătățiri esențiale. [&#8230;] The post Coiful de la Coțofenești va fi restaurat. Va primi Wifi și căști JBL appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/it-stiinta/coiful-de-la-cotofenesti-va-fi-restaurat-va-primi-wifi-si-casti-jbl",
-      "published_utc": "2026-05-03T03:49:00+00:00",
-      "score": 3,
-      "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/coif_cu_casti.jpg"
+      "image": "https://picsum.photos/seed/vb-dc12d3ae91da5e24/480/320"
     },
     {
       "section": "romania",
       "kind": "ro",
       "source": "RomaniaPozitiva",
-      "title": "Festivalul Internațional ISCM WORLD NEW MUSIC DAYS 2026 – „Columna Infinită” va avea loc la București",
-      "summary": "Cel mai mare eveniment dedicat muzicii noi pe plan mondial, Festivalul Internațional ISCM World New Music Days – „Columna Infinită”, se va desfășura anul acesta la București, în perioada 23-31&#8230; Articolul Festivalul Internațional ISCM WORLD NEW MUSIC DAYS 2026 – „Columna Infinită” va avea loc la București apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/cultura/festivalul-international-iscm-world-new-music-days-2026-columna-infinita-va-avea-loc-la-bucuresti",
-      "published_utc": "2026-05-02T16:46:56+00:00",
+      "title": "Gala aniversară Gopo 2026 – invitați, momente speciale și cele mai așteptate premii ale serii",
+      "summary": "București, 4 mai 2026 &#8211; Gala Premiilor Gopo, cel mai important eveniment dedicat cinematografiei din România, se întoarce la cea de-a 20-a ediție în sala Ion Caramitru a Teatrului Național&#8230; Articolul Gala aniversară Gopo 2026 – invitați, momente speciale și cele mai așteptate premii ale serii apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/bucuresti/gala-aniversara-gopo-2026-invitati-momente-speciale-si-cele-mai-asteptate-premii-ale-serii",
+      "published_utc": "2026-05-04T04:38:22+00:00",
       "score": 3,
-      "freshness_boost": 1,
-      "image": "https://picsum.photos/seed/vb-b3843d4d1ee1bd98/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "Editura Trei anunță lansarea romanului Dansează când îți vine să plângi, de Camelia Cavadia, un roman despre prietenie și pierdere",
-      "summary": "Editura Trei anunță apariția celui mai nou roman semnat de Camelia Cavadia, Dansează când îți vine să plângi, o carte despre prietenie, memorie și felul în care identitatea se construiește&#8230; Articolul Editura Trei anunță lansarea romanului Dansează când îți vine să plângi, de Camelia Cavadia, un roman despre prietenie și pierdere apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/bucuresti/editura-trei-anunta-lansarea-romanului-danseaza-cand-iti-vine-sa-plangi-de-camelia-cavadia-un-roman-despre-prietenie-si-pierdere",
-      "published_utc": "2026-05-02T07:43:17+00:00",
-      "score": 3,
-      "freshness_boost": 1,
-      "image": "https://picsum.photos/seed/vb-2550f8d651623990/480/320"
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-49271ef35425bae3/480/320"
     },
     {
       "section": "romania",
@@ -674,6 +734,18 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Un savant nebun din Buzău a creat un covrig indestructibil",
+      "summary": "Corneliu Solomon, savant din Buzău, susține că a creat în laboratorul aflat în garajul propriei locuințe un covrig de Buzău de o duritate nemaiîntâlnită. Covrigul, supranumit „Indestructibilul de Buzău”, rezistă la presiuni de până la 6000 psi și poate sta la raft chiar și 4000 de ani. Covrigul urmează să fie testat și în vidul [&#8230;] The post Un savant nebun din Buzău a creat un covrig indestructibil appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/it-stiinta/un-savant-nebun-din-buzau-a-creat-un-covrig-indestructibil",
+      "published_utc": "2026-05-01T08:42:00+00:00",
+      "score": 3,
+      "freshness_boost": 1,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2020/09/covrigi_prezentare.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "Fundatia Regala Margareta",
       "title": "SPRIJIN MEDIA OFERIT PROGRAMELOR FUNDAȚIEI REGALE ÎN ANUL 2025",
       "summary": "Programul național Telefonul Vârstnicului – 0800 460 001 Sprijinul media a venit de la Spot TV &#8211; Pro TV, TVR, Antena 1, Antena 3 CNN, Antena Stars, Prima TV, Prima News, Pro Cinema, Pro Arena, Acasă, Acasă Gold, Trinitas TV, Speranța TV, Antena 3 Deva,... Post-ul SPRIJIN MEDIA OFERIT PROGRAMELOR FUNDAȚIEI REGALE ÎN ANUL 2025 apare prima dată în Fundația Regală Margareta a României .",
@@ -686,6 +758,18 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "Green Start-Up Romania",
+      "title": "Leapmotor lansează B05, concurent complet electric pentru Volkswagen ID.3",
+      "summary": "Leapmotor lansează oficial în Europa noul B05, primul model electric sportiv al mărcii, marcând un moment important în evoluția sa și consolidând extinderea portofoliului european de vehicule...",
+      "link": "https://green.start-up.ro/ro/leapmotor-lanseaza-b05-concurent-complet-electric-pentru-volkswagen-id-3",
+      "published_utc": "2026-04-24T04:59:19+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://green.start-up.ro/img/articles/3/5/8/35855/cover-35855-src.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "Fundatia Regala Margareta",
       "title": "Angajăm Asistent Social pentru Telefonul Vârstnicului la București!",
       "summary": "Cine suntem noi și de cine avem nevoie? Suntem echipa de la Telefonul Vârstnicului, serviciu social licențiat, singura linie telefonică gratuită și confidențială, accesibilă la nivel național, dedicată persoanelor vârstnice, ce oferă consiliere socială și alinarea singurătății. În fiecare an suntem sunați de peste 5,000... Post-ul Angajăm Asistent Social pentru Telefonul Vârstnicului la București! apare prima dată în Fundația Regală Margareta a României .",
@@ -694,6 +778,18 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-aee1cf7180726a8a/480/320"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "5th-century Belgian burial with 'scrap metal' may reveal missing link between Roman and Merovingian monetary systems",
+      "summary": "A study published in the journal Britannia analyzed coins and metal items found in an early 5th-century AD burial in Oudenburg, Belgium. The burial occurred around the same time that base metal coins ceased arriving in northwestern Roman Provinces (ca. 400 AD). With no new currency introduced, it is plausible that people turned to other practices and materials when still-circulating coins may not have met demand. Burial A-104 may be one example of such practices, possibly representing a sort of \"missing link\" between the Late Roman and Merovingian monetary systems.",
+      "link": "https://phys.org/news/2026-05-5th-century-belgian-burial-scrap.html",
+      "published_utc": "2026-05-01T16:40:03+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fifth-century-belgian.jpg"
     },
     {
       "section": "romania",
@@ -718,6 +814,18 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-320b221910a8bb40/480/320"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Dolls beat screens for building children's social skills, study finds",
+      "summary": "What's the point of play? Is it simply a way to keep children occupied, or something more? For some, it's about learning literacy and numeracy. For others, it's how friendships form and relationships deepen. But it can be all of these at once, and more.",
+      "link": "https://phys.org/news/2026-05-dolls-screens-children-social-skills.html",
+      "published_utc": "2026-05-01T16:40:02+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/playing-with-a-doll.jpg"
     },
     {
       "section": "romania",
@@ -747,13 +855,13 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "5th-century Belgian burial with 'scrap metal' may reveal missing link between Roman and Merovingian monetary systems",
-      "summary": "A study published in the journal Britannia analyzed coins and metal items found in an early 5th-century AD burial in Oudenburg, Belgium. The burial occurred around the same time that base metal coins ceased arriving in northwestern Roman Provinces (ca. 400 AD). With no new currency introduced, it is plausible that people turned to other practices and materials when still-circulating coins may not have met demand. Burial A-104 may be one example of such practices, possibly representing a sort of \"missing link\" between the Late Roman and Merovingian monetary systems.",
-      "link": "https://phys.org/news/2026-05-5th-century-belgian-burial-scrap.html",
-      "published_utc": "2026-05-01T16:40:03+00:00",
-      "score": 1,
+      "title": "New lithium-plasma engine passes key Mars propulsion test",
+      "summary": "You're on the fourth human mission to Mars, and you're told the Odyssey spacecraft designed to take you there will be the smoothest ride you'll ever take. It features a newly christened electric propulsion engine which was in the late stages of testing during the first three missions. The mission starts and the spacecraft travels at a crawl, and you wonder if it's broken. A week goes by and you're now traveling at more than 400,000 kilometers (250,000 miles) per hour, and your mind is blown as to how fast you're going, how quickly that happened, and that this mission might be more awesome than you thought.",
+      "link": "https://phys.org/news/2026-05-lithium-plasma-key-mars-propulsion.html",
+      "published_utc": "2026-05-01T16:20:06+00:00",
+      "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fifth-century-belgian.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-lithium-plasma-eng.jpg"
     },
     {
       "section": "romania",
@@ -770,30 +878,6 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "United Way Romania",
-      "title": "Sprijinul Raiffeisen Bank schimbă vieți. Povestea lui Victor din programul „Învață să reușești”",
-      "summary": "United Way România lucrează acolo unde nevoia este cea mai mare, acolo unde sprijinul nu este doar util, ci vital. Fără acest ajutor, mulți copii ar rămâne în urmă, riscând să se piardă în dificultățile vieții. De aceea, apreciem sprijinul pe termen lung pe care Raiffeisen Bank îl oferă programului „Învață să reușești”. Printre copiii [&#8230;] Articolul Sprijinul Raiffeisen Bank schimbă vieți. Povestea lui Victor din programul „Învață să reușești” apare prima dată în United Way Romania .",
-      "link": "https://www.unitedway.ro/2026/04/sprijinul-raiffeisen-bank-schimba-vieti-povestea-lui-victor-din-programul-invata-sa-reusesti",
-      "published_utc": "2026-04-06T13:31:35+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-9f8c1241fbb24622/480/320"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Dolls beat screens for building children's social skills, study finds",
-      "summary": "What's the point of play? Is it simply a way to keep children occupied, or something more? For some, it's about learning literacy and numeracy. For others, it's how friendships form and relationships deepen. But it can be all of these at once, and more.",
-      "link": "https://phys.org/news/2026-05-dolls-screens-children-social-skills.html",
-      "published_utc": "2026-05-01T16:40:02+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/playing-with-a-doll.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "World Vision Romania",
       "title": "Bullyingul în adolescență: răni invizibile și cum pot fi vindecate",
       "summary": "De ce vorbim despre bullying Bullyingul nu mai este de mult o problemă „minoră” sau o etapă inevitabilă a copilăriei.... Articolul Bullyingul în adolescență: răni invizibile și cum pot fi vindecate apare prima dată în World Vision România .",
@@ -802,30 +886,6 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-2554b0df5dc098e4/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "SOS Satele Copiilor Romania",
-      "title": "Părinte Social",
-      "summary": "Descrierea postului: Părintele social crează un mediu de viaţă, îngrijire şi educaţie, caracterizat prin afecţiune şi stabilitate şi adecvat dezvoltării personalităţii fiecărui copil (în plan fizic, psihic, emoţional, social şi... The post Părinte Social appeared first on SOS Satele Copiilor România .",
-      "link": "https://www.sos-satelecopiilor.ro/parinte-social",
-      "published_utc": "2026-03-19T12:56:50+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-5c5602f10ee5770c/480/320"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "New lithium-plasma engine passes key Mars propulsion test",
-      "summary": "You're on the fourth human mission to Mars, and you're told the Odyssey spacecraft designed to take you there will be the smoothest ride you'll ever take. It features a newly christened electric propulsion engine which was in the late stages of testing during the first three missions. The mission starts and the spacecraft travels at a crawl, and you wonder if it's broken. A week goes by and you're now traveling at more than 400,000 kilometers (250,000 miles) per hour, and your mind is blown as to how fast you're going, how quickly that happened, and that this mission might be more awesome than you thought.",
-      "link": "https://phys.org/news/2026-05-lithium-plasma-key-mars-propulsion.html",
-      "published_utc": "2026-05-01T16:20:06+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-lithium-plasma-eng.jpg"
     },
     {
       "section": "science",
@@ -838,6 +898,18 @@
       "score": 0,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-genetic-informatio.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "SOS Satele Copiilor Romania",
+      "title": "Părinte Social",
+      "summary": "Descrierea postului: Părintele social crează un mediu de viaţă, îngrijire şi educaţie, caracterizat prin afecţiune şi stabilitate şi adecvat dezvoltării personalităţii fiecărui copil (în plan fizic, psihic, emoţional, social şi... The post Părinte Social appeared first on SOS Satele Copiilor România .",
+      "link": "https://www.sos-satelecopiilor.ro/parinte-social",
+      "published_utc": "2026-03-19T12:56:50+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-5c5602f10ee5770c/480/320"
     },
     {
       "section": "science",
@@ -1094,12 +1166,12 @@
   ],
   "joke_ro": {
     "date_utc": "2026-05-04",
-    "text": "M-am culcat devreme. In sensul ca am stat devreme pe telefon.",
+    "text": "Sunt intr-o relatie serioasa cu butonul de snooze.",
     "source": "data/jokes_ro.txt"
   },
   "satire_ro": {
-    "title": "ANAF introduce autentificarea în doi pași: buletin și adeverință că ai buletin",
-    "link": "https://www.timesnewroman.ro/it-stiinta/anaf-introduce-autentificarea-in-doi-pasi-buletin-si-adeverinta-ca-ai-buletin/",
+    "title": "Luna mai, luna Bolojan",
+    "link": "https://www.timesnewroman.ro/ovi/luna-mai-luna-bolojan/",
     "source": "timesnewroman.ro"
   },
   "top_images": [
@@ -1184,6 +1256,7 @@
       "https://live.staticflickr.com/65535/55229259798_904329f638_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/31918516986_85d399419b_b.jpg",
       "https://live.staticflickr.com/65535/55228060474_c41bfe7d2c_b.jpg",
       "https://live.staticflickr.com/65535/31236261064_7e9d4d011d_b.jpg",
       "https://live.staticflickr.com/65535/55243446867_a270eea90c_b.jpg",
@@ -1200,10 +1273,10 @@
       "https://live.staticflickr.com/7420/11757578895_d85c236542_b.jpg",
       "https://live.staticflickr.com/65535/55243151795_33d1d2849d_b.jpg",
       "https://live.staticflickr.com/65535/55238119839_057b8b7b75_b.jpg",
-      "https://live.staticflickr.com/65535/31839016841_14983b1de8_b.jpg",
-      "https://live.staticflickr.com/65535/31304148730_0a749c0efd_b.jpg"
+      "https://live.staticflickr.com/65535/31839016841_14983b1de8_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55247768913_16c69be7b3_b.jpg",
       "https://live.staticflickr.com/65535/55247616913_7ec91a7faf_b.jpg",
       "https://live.staticflickr.com/65535/55246086542_b38f81cc68_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/3/3f/NYC_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg",
@@ -1220,12 +1293,11 @@
       "https://live.staticflickr.com/65535/55245462438_0266207ebc_b.jpg",
       "https://live.staticflickr.com/65535/55245230198_14414d17db_b.jpg",
       "https://live.staticflickr.com/65535/55245285554_488b0faffb_b.jpg",
-      "https://live.staticflickr.com/65535/55245225525_9b69dee86e_b.jpg",
-      "https://live.staticflickr.com/65535/55244811238_80d3c2f0df_b.jpg"
+      "https://live.staticflickr.com/65535/55245225525_9b69dee86e_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
+      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
