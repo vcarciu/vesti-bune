@@ -1,42 +1,54 @@
 {
-  "generated_utc": "2026-05-06T08:05:22+00:00",
+  "generated_utc": "2026-05-06T10:55:22+00:00",
   "sections": {
     "romania": [
       {
         "section": "romania",
         "kind": "ro",
-        "source": "HotNews",
-        "title": "Samsung a devenit doar a treia companie din afara SUA ce valorează peste un trilion de dolari",
-        "summary": "Capitalizarea pe bursă a acțiunilor ordinare ale Samsung Electronics a depășit miercuri pragul de un trilion (1.000 de miliarde) de dolari, ceea ce face ca aceasta să fie a doua din Asia și doar a treia din afara SUA care atinge acest nivel, relatează Reuters. Samsung Electronics, cel mai mare producător mondial de cipuri de &#8230;",
-        "link": "https://hotnews.ro/samsung-a-devenit-doar-a-treia-companie-din-afara-sua-ce-valoreaza-peste-un-trilion-de-dolari-2238398",
-        "published_utc": "2026-05-06T07:40:40+00:00",
+        "source": "Start-Up Romania",
+        "title": "SME ECO-TECH: programul care sprijină IMM-urile din industria prelucrătoare",
+        "summary": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului (MEDAT) lansează „SME ECO-TECH”, un program care are ca scop susținerea transformării verzi și digitale a IMM-urilor din...",
+        "link": "https://start-up.ro/sme-eco-tech-programul-care-sprijina-imm-urile-din-industria-prelucratoare",
+        "published_utc": "2026-05-06T10:12:24+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-96a7605ff202c0e4/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Investigația utilă când endoscopia simplă nu este suficientă",
-        "summary": "Unele probleme digestive nu pot fi evaluate complet doar prin examinarea suprafeței mucoasei sau prin ecografie obișnuită. Atunci când medicul are nevoie de detalii despre peretele tubului digestiv sau despre organele apropiate, este utilă o metodă care combină cele două tipuri de informație.",
-        "link": "https://www.digi24.ro/sanatate-digimatinal/investigatia-utila-cand-endoscopia-simpla-nu-este-suficienta-3754933",
-        "published_utc": "2026-05-06T07:38:36+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYxMiUyRjE2JTJGMjQ5NzQ3MF8yNDk3/NDcwX2RyLUFsZXhhbmRyYS1KaWNoaXR1/LmpwZyZoYXNoPTY1M2ZlZTAzZjlmN2EwMjMxYjYzNWE5ODFiYmVmMjg0.jpg"
+        "image": "https://start-up.ro/img/articles/3/8/3/38306/cover-38306-src.jpg"
       },
       {
         "section": "romania",
         "kind": "ro",
         "source": "HotNews",
-        "title": "Start reduceri pe Trendyol: Mega May Deals aduce milioane de produse și oferte speciale într-un singur loc",
-        "summary": "În luna mai, trendurile prind viață odată cu unul dintre cele mai așteptate momente de shopping ale sezonului. Între 6 și 13 mai, Trendyol dă startul campaniei sale Mega May Deals, un eveniment care transformă complet experiența de cumpărături și aduce împreună milioane de produse din toate categoriile, cu reduceri de până la 70%. Pe &#8230;",
-        "link": "https://hotnews.ro/start-reduceri-pe-trendyol-mega-may-deals-aduce-milioane-de-produse-si-oferte-speciale-intr-un-singur-loc-2238341",
-        "published_utc": "2026-05-06T06:30:39+00:00",
+        "title": "Euro trece de 5.26 lei într-o nouă sesiune de depreciere record. Ce urmează",
+        "summary": "Euro urcă la 5,26 lei, marcând o noua sesiune de depreciere-record a monedei naționale. România intră într-un nou impas politic care se transferă în economie după votul de marți de la moțiunea de cenzură. Dealerii valutari spun că BNR e pregătită să intervină pentru a nu permite o depreciere dincolo de 5.3 lei pentru un &#8230;",
+        "link": "https://hotnews.ro/euro-trece-de-5-26-lei-intr-o-noua-sesiune-de-depreciere-record-ce-urmeaza-2238544",
+        "published_utc": "2026-05-06T10:11:43+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-55a5b8f2c73e61c4/480/320"
+        "image": "https://picsum.photos/seed/vb-1a63a02dc3a2072a/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "RomaniaPozitiva",
+        "title": "”Ofelia. Afterlife” în selecția oficială a Festivalului Internațional Shakespeare de la Craiova",
+        "summary": "Spectacolul va fi prezentat pe 23 mai la Craiova, în cadrul unuia dintre cele mai importante festivaluri dedicate lui Shakespeare din lume, după două reprezentații la București, pe 20 și&#8230; Articolul ”Ofelia. Afterlife” în selecția oficială a Festivalului Internațional Shakespeare de la Craiova apare prima dată în Romania Pozitiva .",
+        "link": "https://www.romaniapozitiva.ro/cultura/ofelia-afterlife-in-selectia-oficiala-a-festivalului-international-shakespeare-de-la-craiova",
+        "published_utc": "2026-05-06T09:22:10+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-e9f84e3d3e24eb14/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Scrisoarea CEO HotNews: Introducem conținutul plătit. Acord cu The New York Times",
+        "summary": "Managerul companiei care editează HotNews, Răzvan Ionescu, a făcut public, miercuri, un mesaj în care anunță că „săptămâna viitoare lansăm HotNews Premium, un proiect bazat pe conținutul plătit, adică pe jurnalism susținut de public”. Care sunt argumentele sale.&#160; Sunt Răzvan Ionescu și vă scriu în calitate de CEO și de acționar minoritar al companiei care &#8230;",
+        "link": "https://hotnews.ro/scrisoarea-ceo-hotnews-introducem-continutul-platit-acord-cu-the-new-york-times-2238483",
+        "published_utc": "2026-05-06T09:01:31+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-cc50e12f54e1041e/480/320"
       },
       {
         "section": "romania",
@@ -65,18 +77,6 @@
       {
         "section": "romania",
         "kind": "ro",
-        "source": "HotNews",
-        "title": "StartUp Coach: Slide-ul cu soluția – cheia de boltă a pitch-ului tău",
-        "summary": "Acest articol face parte din seria Startup Coach, by Early Game Ventures, dedicată în întregime pitch deck-ului — cel mai important document pe care îl vei scrie ca fondator care vrea să ridice finanțare VC. Seria abordează, pas cu pas, structura unui deck convingător: de la cum gândești povestea, până la ce trebuie să conțină &#8230;",
-        "link": "https://hotnews.ro/startup-coach-slide-ul-cu-solutia-cheia-de-bolta-a-pitch-ului-tau-2238331",
-        "published_utc": "2026-05-06T05:31:38+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-beacd302d20b3cbd/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
         "source": "RomaniaPozitiva",
         "title": "EcoDays 2026 s-a încheiat: sute de copii au descoperit știința și educația ecologică prin activități interactive",
         "summary": "Organizația Studenților pentru Natură a încheiat cu succes proiectul EcoDays, desfășurat în două etape, în perioadele 30 martie – 2 aprilie și 20 – 24 aprilie 2026, în județul Cluj,&#8230; Articolul EcoDays 2026 s-a încheiat: sute de copii au descoperit știința și educația ecologică prin activități interactive apare prima dată în Romania Pozitiva .",
@@ -101,26 +101,14 @@
       {
         "section": "romania",
         "kind": "ro",
-        "source": "RomaniaPozitiva",
-        "title": "Tenorul ŞTEFAN von KORCH revine la Târgovişte în concertul „Primăvara Clasică Europeană” pe 9 Mai",
-        "summary": "După recitalul susţinut în Festivalul Belcanto de anul trecut, tenorul Ştefan von Korch revine la Târgovişte în cadrul concertului „Primăvara Clasică Europeană,” programat pe 9 mai 2026 de la ora&#8230; Articolul Tenorul ŞTEFAN von KORCH revine la Târgovişte în concertul „Primăvara Clasică Europeană” pe 9 Mai apare prima dată în Romania Pozitiva .",
-        "link": "https://www.romaniapozitiva.ro/cultura/tenorul-stefan-von-korch-revine-la-targoviste-in-concertul-primavara-clasica-europeana-pe-9-mai",
-        "published_utc": "2026-05-05T12:05:55+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-9ca0a6f038fb8ab3/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
         "source": "Times New Roman (Satira)",
-        "title": "😂 Exclusiv! Am aflat cine a desenat noua siglă Dinamo: Gigi Becali",
-        "summary": "Cei care au bănuit că noua siglă a clubului Dinamo este făcută de o persoană fără talent, cu creierul unui copil de 3 ani, au avut întru-totul dreptate. Sursele noastre au reușit să confirme dincolo de orice dubiu că noua siglă a dinamoviștilor este creația lui Gigi Becali. Există și o poveste interesantă în spatele [&#8230;] The post Exclusiv! Am aflat cine a desenat noua siglă Dinamo: Gigi Becali appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/sport/exclusiv-am-aflat-cine-a-desenat-noua-sigla-dinamo-gigi-becali",
-        "published_utc": "2026-05-05T08:59:56+00:00",
+        "title": "😂 Breaking: Nicuşor Dan şi-a scurtat vizita în Armenia ca să plece undeva şi mai departe",
+        "summary": "Acum că Guvernul a căzut şi e nevoie să îşi facă datoria, preşedintele Nicuşor Dan nu are de gând să stea degeaba! Arătând că e un adevărat om de acţiune, acesta a anunţat că îşi întrerupe urgent vizita în Armenia pentru a pleca undeva şi mai departe. &#8222;Având în vedere ultimele evoluţii din politica de [&#8230;] The post Breaking: Nicuşor Dan şi-a scurtat vizita în Armenia ca să plece undeva şi mai departe appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/politic/breaking-nicusor-dan-si-a-scurtat-vizita-in-armenia-ca-sa-plece-undeva-si-mai-departe",
+        "published_utc": "2026-05-05T12:14:40+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/gigi_becali_sigla_dinamo.jpeg"
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/papuanicusor.jpg"
       },
       {
         "section": "romania",
@@ -133,30 +121,6 @@
         "score": 3,
         "freshness_boost": 1,
         "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/Invitatie-la-negocieri.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Start-Up Romania",
-        "title": "Startup-ul de HoReCa TableTalk, alumni F&B Business Accelerator, acceptat pe scena inovației HoReCa europene",
-        "summary": "TableTalk, startup dedicat industriei ospitalității, fondat de antreprenorul Bogdan Bart, alumni al F&amp;B Business Accelerator, se numără printre cele 15 companii inovatoare selectate să participe la...",
-        "link": "https://start-up.ro/startup-ul-de-horeca-tabletalk-alumni-f-b-business-accelerator-acceptat-pe-scena-inovatiei-horeca-europene",
-        "published_utc": "2026-05-01T07:31:47+00:00",
-        "score": 3,
-        "freshness_boost": 0,
-        "image": "https://start-up.ro/img/articles/3/8/2/38291/cover-38291-src.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Green Start-Up Romania",
-        "title": "BMW investește 300 mil USD într-un fond pentru viitorul industriei auto",
-        "summary": "BMW i Ventures a lansat astăzi cel de-al treilea fond al său, alocând 300 de milioane de dolari pentru o premisă clară: AI va remodela fundamental modul în care industria auto operează și creează...",
-        "link": "https://green.start-up.ro/ro/bmw-investeste-300-mil-usd-intr-un-fond-pentru-viitorul-industriei-auto",
-        "published_utc": "2026-05-01T05:00:01+00:00",
-        "score": 3,
-        "freshness_boost": 0,
-        "image": "https://green.start-up.ro/img/articles/3/5/8/35868/cover-35868-src.jpg"
       },
       {
         "section": "romania",
@@ -638,62 +602,26 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "HotNews",
-      "title": "Samsung a devenit doar a treia companie din afara SUA ce valorează peste un trilion de dolari",
-      "summary": "Capitalizarea pe bursă a acțiunilor ordinare ale Samsung Electronics a depășit miercuri pragul de un trilion (1.000 de miliarde) de dolari, ceea ce face ca aceasta să fie a doua din Asia și doar a treia din afara SUA care atinge acest nivel, relatează Reuters. Samsung Electronics, cel mai mare producător mondial de cipuri de &#8230;",
-      "link": "https://hotnews.ro/samsung-a-devenit-doar-a-treia-companie-din-afara-sua-ce-valoreaza-peste-un-trilion-de-dolari-2238398",
-      "published_utc": "2026-05-06T07:40:40+00:00",
+      "source": "Start-Up Romania",
+      "title": "SME ECO-TECH: programul care sprijină IMM-urile din industria prelucrătoare",
+      "summary": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului (MEDAT) lansează „SME ECO-TECH”, un program care are ca scop susținerea transformării verzi și digitale a IMM-urilor din...",
+      "link": "https://start-up.ro/sme-eco-tech-programul-care-sprijina-imm-urile-din-industria-prelucratoare",
+      "published_utc": "2026-05-06T10:12:24+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-96a7605ff202c0e4/480/320"
+      "image": "https://start-up.ro/img/articles/3/8/3/38306/cover-38306-src.jpg"
     },
     {
       "section": "romania",
       "kind": "ro",
-      "source": "HotNews",
-      "title": "Start reduceri pe Trendyol: Mega May Deals aduce milioane de produse și oferte speciale într-un singur loc",
-      "summary": "În luna mai, trendurile prind viață odată cu unul dintre cele mai așteptate momente de shopping ale sezonului. Între 6 și 13 mai, Trendyol dă startul campaniei sale Mega May Deals, un eveniment care transformă complet experiența de cumpărături și aduce împreună milioane de produse din toate categoriile, cu reduceri de până la 70%. Pe &#8230;",
-      "link": "https://hotnews.ro/start-reduceri-pe-trendyol-mega-may-deals-aduce-milioane-de-produse-si-oferte-speciale-intr-un-singur-loc-2238341",
-      "published_utc": "2026-05-06T06:30:39+00:00",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Breaking: Nicuşor Dan şi-a scurtat vizita în Armenia ca să plece undeva şi mai departe",
+      "summary": "Acum că Guvernul a căzut şi e nevoie să îşi facă datoria, preşedintele Nicuşor Dan nu are de gând să stea degeaba! Arătând că e un adevărat om de acţiune, acesta a anunţat că îşi întrerupe urgent vizita în Armenia pentru a pleca undeva şi mai departe. &#8222;Având în vedere ultimele evoluţii din politica de [&#8230;] The post Breaking: Nicuşor Dan şi-a scurtat vizita în Armenia ca să plece undeva şi mai departe appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/politic/breaking-nicusor-dan-si-a-scurtat-vizita-in-armenia-ca-sa-plece-undeva-si-mai-departe",
+      "published_utc": "2026-05-05T12:14:40+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-55a5b8f2c73e61c4/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "Ziua Verde revine pe 23 mai la ferma bio&co, cu experiențe în natură și agricultură ecologică",
-      "summary": "București, 6 mai: Ateliere Fără Frontiere organizează o nouă ediție a evenimentului Ziua Verde, pe 23 mai, la ferma socială bio&#38;co, în apropierea Bucureștiului, în Ciocănari, județul Dâmbovița. Publicul larg&#8230; Articolul Ziua Verde revine pe 23 mai la ferma bio&#038;co, cu experiențe în natură și agricultură ecologică apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/coltul-verde/ziua-verde-revine-pe-23-mai-la-ferma-bioco-cu-experiente-in-natura-si-agricultura-ecologica",
-      "published_utc": "2026-05-06T06:09:48+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-eeca085ae03b6748/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "HotNews",
-      "title": "StartUp Coach: Slide-ul cu soluția – cheia de boltă a pitch-ului tău",
-      "summary": "Acest articol face parte din seria Startup Coach, by Early Game Ventures, dedicată în întregime pitch deck-ului — cel mai important document pe care îl vei scrie ca fondator care vrea să ridice finanțare VC. Seria abordează, pas cu pas, structura unui deck convingător: de la cum gândești povestea, până la ce trebuie să conțină &#8230;",
-      "link": "https://hotnews.ro/startup-coach-slide-ul-cu-solutia-cheia-de-bolta-a-pitch-ului-tau-2238331",
-      "published_utc": "2026-05-06T05:31:38+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-beacd302d20b3cbd/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "EcoDays 2026 s-a încheiat: sute de copii au descoperit știința și educația ecologică prin activități interactive",
-      "summary": "Organizația Studenților pentru Natură a încheiat cu succes proiectul EcoDays, desfășurat în două etape, în perioadele 30 martie – 2 aprilie și 20 – 24 aprilie 2026, în județul Cluj,&#8230; Articolul EcoDays 2026 s-a încheiat: sute de copii au descoperit știința și educația ecologică prin activități interactive apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/coltul-verde/ecodays-2026-s-a-incheiat-sute-de-copii-au-descoperit-stiinta-si-educatia-ecologica-prin-activitati-interactive",
-      "published_utc": "2026-05-06T05:28:27+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-db0363d9b24485e4/480/320"
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/papuanicusor.jpg"
     },
     {
       "section": "romania",
@@ -710,6 +638,66 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "HotNews",
+      "title": "Euro trece de 5.26 lei într-o nouă sesiune de depreciere record. Ce urmează",
+      "summary": "Euro urcă la 5,26 lei, marcând o noua sesiune de depreciere-record a monedei naționale. România intră într-un nou impas politic care se transferă în economie după votul de marți de la moțiunea de cenzură. Dealerii valutari spun că BNR e pregătită să intervină pentru a nu permite o depreciere dincolo de 5.3 lei pentru un &#8230;",
+      "link": "https://hotnews.ro/euro-trece-de-5-26-lei-intr-o-noua-sesiune-de-depreciere-record-ce-urmeaza-2238544",
+      "published_utc": "2026-05-06T10:11:43+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-1a63a02dc3a2072a/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "RomaniaPozitiva",
+      "title": "”Ofelia. Afterlife” în selecția oficială a Festivalului Internațional Shakespeare de la Craiova",
+      "summary": "Spectacolul va fi prezentat pe 23 mai la Craiova, în cadrul unuia dintre cele mai importante festivaluri dedicate lui Shakespeare din lume, după două reprezentații la București, pe 20 și&#8230; Articolul ”Ofelia. Afterlife” în selecția oficială a Festivalului Internațional Shakespeare de la Craiova apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/cultura/ofelia-afterlife-in-selectia-oficiala-a-festivalului-international-shakespeare-de-la-craiova",
+      "published_utc": "2026-05-06T09:22:10+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-e9f84e3d3e24eb14/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "Scrisoarea CEO HotNews: Introducem conținutul plătit. Acord cu The New York Times",
+      "summary": "Managerul companiei care editează HotNews, Răzvan Ionescu, a făcut public, miercuri, un mesaj în care anunță că „săptămâna viitoare lansăm HotNews Premium, un proiect bazat pe conținutul plătit, adică pe jurnalism susținut de public”. Care sunt argumentele sale.&#160; Sunt Răzvan Ionescu și vă scriu în calitate de CEO și de acționar minoritar al companiei care &#8230;",
+      "link": "https://hotnews.ro/scrisoarea-ceo-hotnews-introducem-continutul-platit-acord-cu-the-new-york-times-2238483",
+      "published_utc": "2026-05-06T09:01:31+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-cc50e12f54e1041e/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "RomaniaPozitiva",
+      "title": "Ziua Verde revine pe 23 mai la ferma bio&co, cu experiențe în natură și agricultură ecologică",
+      "summary": "București, 6 mai: Ateliere Fără Frontiere organizează o nouă ediție a evenimentului Ziua Verde, pe 23 mai, la ferma socială bio&#38;co, în apropierea Bucureștiului, în Ciocănari, județul Dâmbovița. Publicul larg&#8230; Articolul Ziua Verde revine pe 23 mai la ferma bio&#038;co, cu experiențe în natură și agricultură ecologică apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/coltul-verde/ziua-verde-revine-pe-23-mai-la-ferma-bioco-cu-experiente-in-natura-si-agricultura-ecologica",
+      "published_utc": "2026-05-06T06:09:48+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-eeca085ae03b6748/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "RomaniaPozitiva",
+      "title": "EcoDays 2026 s-a încheiat: sute de copii au descoperit știința și educația ecologică prin activități interactive",
+      "summary": "Organizația Studenților pentru Natură a încheiat cu succes proiectul EcoDays, desfășurat în două etape, în perioadele 30 martie – 2 aprilie și 20 – 24 aprilie 2026, în județul Cluj,&#8230; Articolul EcoDays 2026 s-a încheiat: sute de copii au descoperit știința și educația ecologică prin activități interactive apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/coltul-verde/ecodays-2026-s-a-incheiat-sute-de-copii-au-descoperit-stiinta-si-educatia-ecologica-prin-activitati-interactive",
+      "published_utc": "2026-05-06T05:28:27+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-db0363d9b24485e4/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "„Homo Sentient”: cartea lui Gabriel Păun revine într-o ediție cu miză concretă",
       "summary": "Editura Seneca anunță lansarea ediției a doua a volumului Homo Sentient, semnat de Gabriel Păun, care va avea loc pe 7 mai 2026, de la ora 18:00, la Seneca Anticafe,&#8230; Articolul „Homo Sentient”: cartea lui Gabriel Păun revine într-o ediție cu miză concretă apare prima dată în Romania Pozitiva .",
@@ -722,42 +710,6 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "Tenorul ŞTEFAN von KORCH revine la Târgovişte în concertul „Primăvara Clasică Europeană” pe 9 Mai",
-      "summary": "După recitalul susţinut în Festivalul Belcanto de anul trecut, tenorul Ştefan von Korch revine la Târgovişte în cadrul concertului „Primăvara Clasică Europeană,” programat pe 9 mai 2026 de la ora&#8230; Articolul Tenorul ŞTEFAN von KORCH revine la Târgovişte în concertul „Primăvara Clasică Europeană” pe 9 Mai apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/cultura/tenorul-stefan-von-korch-revine-la-targoviste-in-concertul-primavara-clasica-europeana-pe-9-mai",
-      "published_utc": "2026-05-05T12:05:55+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-9ca0a6f038fb8ab3/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Exclusiv! Am aflat cine a desenat noua siglă Dinamo: Gigi Becali",
-      "summary": "Cei care au bănuit că noua siglă a clubului Dinamo este făcută de o persoană fără talent, cu creierul unui copil de 3 ani, au avut întru-totul dreptate. Sursele noastre au reușit să confirme dincolo de orice dubiu că noua siglă a dinamoviștilor este creația lui Gigi Becali. Există și o poveste interesantă în spatele [&#8230;] The post Exclusiv! Am aflat cine a desenat noua siglă Dinamo: Gigi Becali appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/sport/exclusiv-am-aflat-cine-a-desenat-noua-sigla-dinamo-gigi-becali",
-      "published_utc": "2026-05-05T08:59:56+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/gigi_becali_sigla_dinamo.jpeg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Investigația utilă când endoscopia simplă nu este suficientă",
-      "summary": "Unele probleme digestive nu pot fi evaluate complet doar prin examinarea suprafeței mucoasei sau prin ecografie obișnuită. Atunci când medicul are nevoie de detalii despre peretele tubului digestiv sau despre organele apropiate, este utilă o metodă care combină cele două tipuri de informație.",
-      "link": "https://www.digi24.ro/sanatate-digimatinal/investigatia-utila-cand-endoscopia-simpla-nu-este-suficienta-3754933",
-      "published_utc": "2026-05-06T07:38:36+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYxMiUyRjE2JTJGMjQ5NzQ3MF8yNDk3/NDcwX2RyLUFsZXhhbmRyYS1KaWNoaXR1/LmpwZyZoYXNoPTY1M2ZlZTAzZjlmN2EwMjMxYjYzNWE5ODFiYmVmMjg0.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "Times New Roman (Satira)",
       "title": "😂 Invitație la negocieri",
       "summary": "The post Invitație la negocieri appeared first on Times New Roman .",
@@ -766,30 +718,6 @@
       "score": 3,
       "freshness_boost": 1,
       "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/Invitatie-la-negocieri.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Start-Up Romania",
-      "title": "Startup-ul de HoReCa TableTalk, alumni F&B Business Accelerator, acceptat pe scena inovației HoReCa europene",
-      "summary": "TableTalk, startup dedicat industriei ospitalității, fondat de antreprenorul Bogdan Bart, alumni al F&amp;B Business Accelerator, se numără printre cele 15 companii inovatoare selectate să participe la...",
-      "link": "https://start-up.ro/startup-ul-de-horeca-tabletalk-alumni-f-b-business-accelerator-acceptat-pe-scena-inovatiei-horeca-europene",
-      "published_utc": "2026-05-01T07:31:47+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://start-up.ro/img/articles/3/8/2/38291/cover-38291-src.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Green Start-Up Romania",
-      "title": "BMW investește 300 mil USD într-un fond pentru viitorul industriei auto",
-      "summary": "BMW i Ventures a lansat astăzi cel de-al treilea fond al său, alocând 300 de milioane de dolari pentru o premisă clară: AI va remodela fundamental modul în care industria auto operează și creează...",
-      "link": "https://green.start-up.ro/ro/bmw-investeste-300-mil-usd-intr-un-fond-pentru-viitorul-industriei-auto",
-      "published_utc": "2026-05-01T05:00:01+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://green.start-up.ro/img/articles/3/5/8/35868/cover-35868-src.jpg"
     },
     {
       "section": "romania",
@@ -828,18 +756,6 @@
       "image": "https://picsum.photos/seed/vb-1820742b102fcd56/480/320"
     },
     {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Examining factors that might account for the increased risk of autism in children with epilepsy",
-      "summary": "Children with epilepsy have a higher risk of also having autism spectrum disorder (ASD). A new study appearing in Developmental Medicine & Child Neurology has examined factors associated with the co-occurrence of autism and epilepsy in a large population-based group.",
-      "link": "https://medicalxpress.com/news/2026-05-factors-account-autism-children-epilepsy.html",
-      "published_utc": "2026-05-06T07:10:14+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2021/autism-1.jpg"
-    },
-    {
       "section": "romania",
       "kind": "ro",
       "source": "World Vision Romania",
@@ -864,6 +780,54 @@
       "image": "https://picsum.photos/seed/vb-62290e058a5ec56d/480/320"
     },
     {
+      "section": "romania",
+      "kind": "ro",
+      "source": "World Vision Romania",
+      "title": "„Școala e drumul vostru”. Învățăturile unei mame cu 10 clase.",
+      "summary": "Într-o casă modestă din județul Vaslui, unde mirosul de lemne arse se amestecă cu zgomotul pașilor mici de copii și... Articolul „Școala e drumul vostru”. Învățăturile unei mame cu 10 clase. apare prima dată în World Vision România .",
+      "link": "https://worldvision.ro/2026/04/14/scoala-e-drumul-vostru-invataturile-unei-mame-cu-10-clase",
+      "published_utc": "2026-04-14T07:30:13+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-424625d0661ba497/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "Examining factors that might account for the increased risk of autism in children with epilepsy",
+      "summary": "Children with epilepsy have a higher risk of also having autism spectrum disorder (ASD). A new study appearing in Developmental Medicine & Child Neurology has examined factors associated with the co-occurrence of autism and epilepsy in a large population-based group.",
+      "link": "https://medicalxpress.com/news/2026-05-factors-account-autism-children-epilepsy.html",
+      "published_utc": "2026-05-06T07:10:14+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2021/autism-1.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Fundatia Regala Margareta",
+      "title": "De Paște, 900 de vârstnici singuri primesc prezență umană, ascultare și speranță",
+      "summary": "În timp ce pentru mulți români Paștele este sărbătoarea revederii și a meselor în familie, pentru mulți vârstnici singuri aceste zile sunt printre cele mai grele din an. Singurătatea doare, lipsurile și sentimentul de abandon se simt mai apăsat tocmai atunci când toți ceilalți par... Post-ul De Paște, 900 de vârstnici singuri primesc prezență umană, ascultare și speranță apare prima dată în Fundația Regală Margareta a României .",
+      "link": "https://www.frmr.ro/de-paste-900-de-varstnici-singuri-primesc-prezenta-umana-ascultare-si-speranta",
+      "published_utc": "2026-04-07T09:25:39+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-670d4182437cf28f/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "United Way Romania",
+      "title": "Sprijinul Raiffeisen Bank schimbă vieți. Povestea lui Victor din programul „Învață să reușești”",
+      "summary": "United Way România lucrează acolo unde nevoia este cea mai mare, acolo unde sprijinul nu este doar util, ci vital. Fără acest ajutor, mulți copii ar rămâne în urmă, riscând să se piardă în dificultățile vieții. De aceea, apreciem sprijinul pe termen lung pe care Raiffeisen Bank îl oferă programului „Învață să reușești”. Printre copiii [&#8230;] Articolul Sprijinul Raiffeisen Bank schimbă vieți. Povestea lui Victor din programul „Învață să reușești” apare prima dată în United Way Romania .",
+      "link": "https://www.unitedway.ro/2026/04/sprijinul-raiffeisen-bank-schimba-vieti-povestea-lui-victor-din-programul-invata-sa-reusesti",
+      "published_utc": "2026-04-06T13:31:35+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-9f8c1241fbb24622/480/320"
+    },
+    {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
@@ -879,25 +843,13 @@
       "section": "romania",
       "kind": "ro",
       "source": "World Vision Romania",
-      "title": "„Școala e drumul vostru”. Învățăturile unei mame cu 10 clase.",
-      "summary": "Într-o casă modestă din județul Vaslui, unde mirosul de lemne arse se amestecă cu zgomotul pașilor mici de copii și... Articolul „Școala e drumul vostru”. Învățăturile unei mame cu 10 clase. apare prima dată în World Vision România .",
-      "link": "https://worldvision.ro/2026/04/14/scoala-e-drumul-vostru-invataturile-unei-mame-cu-10-clase",
-      "published_utc": "2026-04-14T07:30:13+00:00",
+      "title": "Bullyingul în adolescență: răni invizibile și cum pot fi vindecate",
+      "summary": "De ce vorbim despre bullying Bullyingul nu mai este de mult o problemă „minoră” sau o etapă inevitabilă a copilăriei.... Articolul Bullyingul în adolescență: răni invizibile și cum pot fi vindecate apare prima dată în World Vision România .",
+      "link": "https://worldvision.ro/2026/03/26/bullyingul-in-adolescenta-rani-invizibile-si-cum-pot-fi-vindecate",
+      "published_utc": "2026-03-26T11:44:13+00:00",
       "score": 3,
       "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-424625d0661ba497/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Fundatia Regala Margareta",
-      "title": "De Paște, 900 de vârstnici singuri primesc prezență umană, ascultare și speranță",
-      "summary": "În timp ce pentru mulți români Paștele este sărbătoarea revederii și a meselor în familie, pentru mulți vârstnici singuri aceste zile sunt printre cele mai grele din an. Singurătatea doare, lipsurile și sentimentul de abandon se simt mai apăsat tocmai atunci când toți ceilalți par... Post-ul De Paște, 900 de vârstnici singuri primesc prezență umană, ascultare și speranță apare prima dată în Fundația Regală Margareta a României .",
-      "link": "https://www.frmr.ro/de-paste-900-de-varstnici-singuri-primesc-prezenta-umana-ascultare-si-speranta",
-      "published_utc": "2026-04-07T09:25:39+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-670d4182437cf28f/480/320"
+      "image": "https://picsum.photos/seed/vb-2554b0df5dc098e4/480/320"
     },
     {
       "section": "medical",
@@ -910,30 +862,6 @@
       "score": 0,
       "freshness_boost": 3,
       "image": "https://picsum.photos/seed/vb-7d493cc0a46e6f94/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "United Way Romania",
-      "title": "Sprijinul Raiffeisen Bank schimbă vieți. Povestea lui Victor din programul „Învață să reușești”",
-      "summary": "United Way România lucrează acolo unde nevoia este cea mai mare, acolo unde sprijinul nu este doar util, ci vital. Fără acest ajutor, mulți copii ar rămâne în urmă, riscând să se piardă în dificultățile vieții. De aceea, apreciem sprijinul pe termen lung pe care Raiffeisen Bank îl oferă programului „Învață să reușești”. Printre copiii [&#8230;] Articolul Sprijinul Raiffeisen Bank schimbă vieți. Povestea lui Victor din programul „Învață să reușești” apare prima dată în United Way Romania .",
-      "link": "https://www.unitedway.ro/2026/04/sprijinul-raiffeisen-bank-schimba-vieti-povestea-lui-victor-din-programul-invata-sa-reusesti",
-      "published_utc": "2026-04-06T13:31:35+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-9f8c1241fbb24622/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "World Vision Romania",
-      "title": "Bullyingul în adolescență: răni invizibile și cum pot fi vindecate",
-      "summary": "De ce vorbim despre bullying Bullyingul nu mai este de mult o problemă „minoră” sau o etapă inevitabilă a copilăriei.... Articolul Bullyingul în adolescență: răni invizibile și cum pot fi vindecate apare prima dată în World Vision România .",
-      "link": "https://worldvision.ro/2026/03/26/bullyingul-in-adolescenta-rani-invizibile-si-cum-pot-fi-vindecate",
-      "published_utc": "2026-03-26T11:44:13+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-2554b0df5dc098e4/480/320"
     },
     {
       "section": "medical",
@@ -1266,8 +1194,8 @@
     "source": "data/jokes_ro.txt"
   },
   "satire_ro": {
-    "title": "Noua siglă PSD",
-    "link": "https://www.timesnewroman.ro/ovi/noua-sigla-psd/",
+    "title": "Record! Numărul de experți în moțiuni de cenzură l-a depășit pe cel al experților în vaccin din perioada pandemiei",
+    "link": "https://www.timesnewroman.ro/politic/record-numarul-de-experti-in-motiuni-de-cenzura-l-a-depasit-pe-cel-al-expertilor-in-vaccin-din-perioada-pandemiei/",
     "source": "timesnewroman.ro"
   },
   "top_images": [
@@ -1352,6 +1280,7 @@
       "https://live.staticflickr.com/65535/55233399756_a524c16c06_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/55251116182_6f25f79af7_b.jpg",
       "https://live.staticflickr.com/65535/55252058263_45decf6266_b.jpg",
       "https://live.staticflickr.com/65535/55252058578_0b87d1864d_b.jpg",
       "https://live.staticflickr.com/65535/31918516986_85d399419b_b.jpg",
@@ -1368,10 +1297,10 @@
       "https://live.staticflickr.com/65535/55249984166_2d7d5a2d8d_b.jpg",
       "https://live.staticflickr.com/65535/55240785215_ceeb042937_b.jpg",
       "https://live.staticflickr.com/65535/55249809428_683dcc24a7_b.jpg",
-      "https://live.staticflickr.com/65535/55240568344_963daa0631_b.jpg",
-      "https://live.staticflickr.com/7420/11757578895_d85c236542_b.jpg"
+      "https://live.staticflickr.com/65535/55240568344_963daa0631_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55251437652_412d7bb30b_b.jpg",
       "https://live.staticflickr.com/65535/55251159977_e5e89a73af_b.jpg",
       "https://live.staticflickr.com/65535/55252373240_d7a5d5b3a1_b.jpg",
       "https://live.staticflickr.com/65535/55251949714_55e51d6c8d_b.jpg",
@@ -1388,13 +1317,12 @@
       "https://live.staticflickr.com/65535/55249924906_a7ccd87d39_b.jpg",
       "https://live.staticflickr.com/65535/55249742416_c93e1fd27d_b.jpg",
       "https://live.staticflickr.com/65535/55249785615_a0ff42ed85_b.jpg",
-      "https://live.staticflickr.com/65535/55249626749_4ae8fe05d3_b.jpg",
-      "https://live.staticflickr.com/65535/55249624289_3afd02e2b3_b.jpg"
+      "https://live.staticflickr.com/65535/55249626749_4ae8fe05d3_b.jpg"
     ],
     "microcosmos": [
+      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg",
-      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
 }
