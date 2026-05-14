@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-05-14T20:23:14+00:00",
+  "generated_utc": "2026-05-14T22:00:44+00:00",
   "sections": {
     "romania": [
       {
@@ -100,6 +100,18 @@
         "section": "romania",
         "kind": "ro",
         "source": "Times New Roman (Satira)",
+        "title": "😂 Oficialii care au stat până târziu la Summitul B9, invitaţi să se dreagă la Summitul de Potroace",
+        "summary": "Orice s-ar zice, România ştie să organizeze un summit de succes! Potrivit mai multor surse oficiale, liderii ţărilor participante la reuniunea B9 s-au distrat de minune aseară, până pe la 4 dimineaţa, când au semnat Declaraţia comună &#8222;Ş-altă dată, ş-altă dată o s-o facem şi mai, şi mai lată&#8221; şi s-au retras în camerele lor. [&#8230;] The post Oficialii care au stat până târziu la Summitul B9, invitaţi să se dreagă la Summitul de Potroace appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/politic/oficialii-care-au-stat-pana-tarziu-la-summitul-b9-invitati-sa-se-dreaga-la-summitul-de-potroace",
+        "published_utc": "2026-05-14T11:10:09+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/summitdepotroace.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Times New Roman (Satira)",
         "title": "😂 Un băiețel de 5 ani a stat 2 nopți în pădure, timp în care mii de bucureșteni s-au plâns că n-au căldură",
         "summary": "Un studiu antropologic a scos la iveală că în cele două zile în care un băiețel de 5 ani dintr-un sat sibian a stat singur în pădure, 174.000 de bucureșteni s-au plâns pe social media că n-au destulă căldură sau apă caldă. „În locul acelor smiorcăiți nu aș mai ieși din casă o lună”, a [&#8230;] The post Un băiețel de 5 ani a stat 2 nopți în pădure, timp în care mii de bucureșteni s-au plâns că n-au căldură appeared first on Times New Roman .",
         "link": "https://www.timesnewroman.ro/life-death/un-baietel-de-5-ani-a-stat-2-nopti-in-padure-timp-in-care-mii-de-bucuresteni-s-au-plans-ca-n-au-caldura",
@@ -107,18 +119,6 @@
         "score": 3,
         "freshness_boost": 3,
         "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/baietel_pierdut_padure.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 Inspirat de Summitul B9, Nea Costel organizează în seara asta Summitul Bei 9",
-        "summary": "Summitul B9 care a dat peste cap traficul din Bucureşti e mic copil faţă de ce o să se întâmple diseară în birtul din Piaţa Miniş! Nea Costel, îndrăgitul lider al drojdierilor est-europeni, a convocat zeci de beţivi importanţi din întreaga lume pentru Summitul Bei 9. &#8222;Ne întâlnim în formula Bei 9 pentru a bea [&#8230;] The post Inspirat de Summitul B9, Nea Costel organizează în seara asta Summitul Bei 9 appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/politic/inspirat-de-summitul-b9-nea-costel-organizeaza-in-seara-asta-summitul-bei-9",
-        "published_utc": "2026-05-13T12:10:54+00:00",
-        "score": 3,
-        "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/summitulbei9.jpg"
       },
       {
         "section": "romania",
@@ -428,97 +428,121 @@
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "In productive ecosystems, larger animals capture more energy per species—but human pressure is reshaping the balance",
-        "summary": "How does an ecosystem distribute its energy across body sizes? A new study suggests the answer depends on where you are—and how much humans have altered the landscape. Analyzing communities of birds and mammals worldwide, researchers show that larger-bodied species can, on average, capture more energy per species than smaller ones, particularly in highly productive environments.",
-        "link": "https://phys.org/news/2026-05-productive-ecosystems-larger-animals-capture.html",
-        "published_utc": "2026-05-14T20:09:27+00:00",
+        "title": "New reversible conductive glue could reshape electronics repair, recycling, and material recovery",
+        "summary": "A collaboration between electrical and chemical engineers at Newcastle University is responsible for a reversible glue that can change how we recycle electronic waste. The team has already demonstrated reversible adhesive technology with wide applicability in general packaging applications, but this new glue is electrically conductive. This means that it can join electronic components, just like solder does. Unlike solder, however, a simple wash with a green solvent like acetone, or using an alkaline solution, will allow the components to be separated for reuse or recycling.",
+        "link": "https://phys.org/news/2026-05-reversible-reshape-electronics-recycling-material.html",
+        "published_utc": "2026-05-14T22:00:01+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/reversible-glue-techno.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Scientists estimate sunlight in 18th and 19th century Tokyo using historical diaries",
+        "summary": "The amount of sunlight, or solar radiation, that a location receives makes a big impact on weather conditions, crop success, rainfall and overall climate trends. Today, instruments called pyrheliometers are used to carefully calculate how much sunlight occurs at a particular location, but these instruments weren't available to quantify sunlight until 1838, and automated pyrheliometers weren't invented until the early 20th century.",
+        "link": "https://phys.org/news/2026-05-scientists-sunlight-18th-19th-century.html",
+        "published_utc": "2026-05-14T21:08:26+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-estimate-su-1.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Old journals unlock monthly climate shifts behind Japan's 1830s famine",
+        "summary": "The Tenpō Famine of the 1830s was one of the worst in Japanese history, with the poor weather causing escalating rice prices as a major cause. To better understand how historical weather anomalies affected crop prices in Japan and ultimately led to the famine, researchers developed a new framework to analyze historical weather data.",
+        "link": "https://phys.org/news/2026-05-journals-monthly-climate-shifts-japan.html",
+        "published_utc": "2026-05-14T21:07:35+00:00",
+        "score": 1,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-reconstruct.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Historical DNA connects 1.3 million living relatives to 17th-century Maryland settlers",
+        "summary": "As the United States prepares to mark its 250th anniversary, researchers from 23andMe Research Institute, Harvard University, and the Smithsonian Institution have teamed up to study one of the country's founding settlements: St. Mary's City, Maryland. Established in 1634, St. Mary's City was the first English settlement in the colony of Maryland. Despite existing written records and the ability of many present-day Americans to trace their ancestry to the historic city, many gaps remain in our knowledge of this early founder population.",
+        "link": "https://phys.org/news/2026-05-historical-dna-million-17th-century.html",
+        "published_utc": "2026-05-14T21:03:19+00:00",
         "score": 2,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/in-productive-ecosyste.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/historical-dna-connect.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Indonesia may soon lose its last glaciers",
-        "summary": "Asia's last tropical glaciers can be found near Puncak Jaya, Papua, the highest peak in Southeast Asia. But it is unlikely that they will survive until the end of this decade. Over the past 44 years, the peak has lost 97% of its ice and four of its glaciers. Its remaining two glaciers, Carstensz and the East Northwall Firn glacier, are expected to disappear by 2030, adding Indonesia (alongside Venezuela and Slovenia) to the list of countries that have lost all of their glaciers.",
-        "link": "https://phys.org/news/2026-05-indonesia-glaciers.html",
-        "published_utc": "2026-05-14T20:07:33+00:00",
+        "title": "Tiny ocean life helps scientists estimate whale prevalence off the California coast",
+        "summary": "A new approach to better assessing whale population data has emerged, led by a research team of marine biologists from Scripps Institution of Oceanography at UC San Diego and statisticians from Cal Poly. Scientists typically monitor whale presence through a variety of traditional methods such as visual surveys, photo identification, acoustic monitoring, satellite imagery, and increasingly, genomic methods. But monitoring can be challenging due to a wide-ranging migration area and intermittent surface pop-ups, among other difficulties.",
+        "link": "https://phys.org/news/2026-05-tiny-ocean-life-scientists-whale.html",
+        "published_utc": "2026-05-14T21:00:55+00:00",
+        "score": 2,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tiny-ocean-life-helps.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Improved life satisfaction linked to being in nature",
+        "summary": "A major international study has found that contact with the natural world is linked to higher levels of life satisfaction—and we have our bodies to thank for unlocking this benefit.",
+        "link": "https://phys.org/news/2026-05-life-satisfaction-linked-nature.html",
+        "published_utc": "2026-05-14T21:00:04+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/walk-in-nature.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Q&A: Is it time to expand our thinking about dark matter? A new study says yes",
+        "summary": "We may be more in the dark about dark matter than previously thought, according to a new analysis of distant galaxy clusters. Yale astrophysicist Priyamvada Natarajan, a leading theorist on the nature of black holes and dark matter, says new observational data conflicts with certain assumptions about cold dark matter (CDM)—unseen, slow-moving particles that are inferred by their effect on gravity—and may prompt a fundamental rethinking of dark matter by scientists.",
+        "link": "https://phys.org/news/2026-05-qa-dark.html",
+        "published_utc": "2026-05-14T20:55:12+00:00",
+        "score": 1,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/is-it-time-to-expand-o.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "NASA Breaking News",
+        "title": "NASA Draws on Industry for Mars Telecommunications Network",
+        "summary": "On Thursday, NASA issued a Request for Proposal (RFP), seeking industry collaboration for the Mars Telecommunications Network. Reliable, high bandwidth communications is necessary to relay science data, high-definition imagery, and critical information during Mars missions. The network will use high-performance Mars telecommunications orbiters at the Red Planet to support future surface, orbital, and human exploration. [&#8230;]",
+        "link": "https://www.nasa.gov/directorates/esdmd/nasa-draws-on-industry-for-mars-telecommunications-network",
+        "published_utc": "2026-05-14T20:53:24+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/indonesia-may-soon-los.jpg"
+        "image": "https://picsum.photos/seed/vb-1d8d3443c781c65c/480/320"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Buried in dark waters, viruses reshape one of Earth's largest carbon systems",
-        "summary": "Viruses play a far more active role in Earth's carbon cycle than previously understood, according to new research that reveals how they infect and control microbes responsible for carbon production in some of the planet's largest, darkest ecosystems. The findings are published in the journal Nature Communications.",
-        "link": "https://phys.org/news/2026-05-dark-viruses-reshape-earth-largest.html",
-        "published_utc": "2026-05-14T20:05:52+00:00",
-        "score": 0,
+        "title": "Engineered proteins store digital files with 30 times density at one-tenth cost",
+        "summary": "Massive volumes of digital data are generated every day from AI training, big data analytics and smart devices. As conventional hard drives and cloud storage are increasingly constrained by high costs, limited capacity, high power consumption and short lifespans, molecular data storage has emerged as a breakthrough storage alternative.",
+        "link": "https://phys.org/news/2026-05-proteins-digital-density-tenth.html",
+        "published_utc": "2026-05-14T20:28:33+00:00",
+        "score": 2,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hidden-viruses-reshape.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/gene-editing-2.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Seeing the invisible: The limits of two-photon vision",
-        "summary": "Near-infrared light is invisible to humans. And yet, under the right conditions, the human eye can perceive it. Researchers from Poland's International Center for Translational Eye Research (ICTER) have now shown that the efficiency of this phenomenon depends not only on the laser pulse itself, but also on two highly specific factors: the beam diameter and the precise focusing of light on the retina. The research is published in the journal Optics Letters.",
-        "link": "https://phys.org/news/2026-05-invisible-limits-photon-vision.html",
-        "published_utc": "2026-05-14T20:00:02+00:00",
-        "score": 1,
+        "title": "Hyperspectral imaging to map Gran Dolina's oldest sediments and fossils in infrared",
+        "summary": "The Centro Nacional de Investigación sobre la Evolución Humana (CENIEH) and the Instituto Tecnológico de Castilla y León (ITCL) have begun a collaboration to advance the application of hyperspectral analysis in the study of archaeopalaeontological sites. As part of this initiative—aimed at strengthening links with the private and industrial sectors in order to foster technical innovation and knowledge transfer—researchers have studied the infrared response of the oldest levels of the Gran Dolina Site in the Sierra de Atapuerca (Burgos, Spain).",
+        "link": "https://phys.org/news/2026-05-hyperspectral-imaging-gran-dolina-oldest.html",
+        "published_utc": "2026-05-14T20:23:38+00:00",
+        "score": 3,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-to-see-the-invisib-1.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Biodegradable sensors attached to plants detect pesticides in 3 minutes",
-        "summary": "Researchers at the São Carlos Institute of Physics at the University of São Paulo (IFSC-USP) in Brazil, led by Paulo Augusto Raymundo-Pereira, have created biodegradable, \"wearable\" sensors for plants to monitor their health, including the presence of pesticides. The sensors are made from carbon ink and are screen-printed onto transparent cellulose acetate bioplastics.",
-        "link": "https://phys.org/news/2026-05-biodegradable-sensors-pesticides-minutes.html",
-        "published_utc": "2026-05-14T19:40:02+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/biodegradable-sensors.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Building density, not trees, was strongest predictor of home loss in Los Angeles firestorms",
-        "summary": "A study by Cal Poly faculty and scientists has found that building density, not urban trees, was the strongest predictor of whether homes were destroyed during the catastrophic Southern California firestorms of January 2025. The paper is published in the journal Urban Forestry & Urban Greening.",
-        "link": "https://phys.org/news/2026-05-density-trees-strongest-predictor-home.html",
-        "published_utc": "2026-05-14T19:30:32+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/building-density-not-t.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Silk made into strong plastic-like materials with 6G potential",
-        "summary": "Silk threads can be fused into transparent, plastic-like materials that twist terahertz frequencies of light, according to research led by Imperial College London, University of Michigan Engineering and Tufts University. The findings could enable components of 6G networks to be made from upcycled silk.",
-        "link": "https://phys.org/news/2026-05-silk-strong-plastic-materials-6g.html",
-        "published_utc": "2026-05-14T19:07:22+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/silk-made-into-strong.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Childhood disadvantage can limit the social benefits of intelligence later in life, new research shows",
-        "summary": "Children who grow up in disadvantaged households may receive fewer social benefits from their intelligence in adulthood than those raised in more advantaged environments, according to new research from the University of Bath. A new study by Professor Chris Dawson, published in Personality and Social Psychology Bulletin, finds that childhood disadvantage is linked not only to lower cognitive ability in adulthood, but also to lower levels of trust in other people.",
-        "link": "https://phys.org/news/2026-05-childhood-disadvantage-limit-social-benefits.html",
-        "published_utc": "2026-05-14T18:52:20+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2021/children.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-analyse-th-1.jpg"
       }
     ],
     "environment": [
@@ -624,18 +648,6 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Chibzuit! Un român îşi cumpără bilet la Metallica abia azi, după concert, că e mult mai ieftin",
-      "summary": "În zilele noastre, fiecare bănuţ contează, iar o viaţă chibzuită aduce satisfacţii nebănuite! O spune Marius, un bărbat de 33 de ani din cartierul bucureştean Pantelimon. Marius se laudă că şi-a cumpărat azi două bilete la concertul Metallica cu doar 10 lei, în condiţiile în care zilele trecute acestea l-ar fi costat 1000, 1500, poate [&#8230;] The post Chibzuit! Un român îşi cumpără bilet la Metallica abia azi, după concert, că e mult mai ieftin appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/monden/chibzuit-un-roman-isi-cumpara-bilet-la-metallica-abia-azi-dupa-concert-ca-e-mult-mai-ieftin",
-      "published_utc": "2026-05-14T11:36:41+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2020/07/omfoarteinteligent.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "Ziua Bujorului, un eveniment dedicat comunității, naturii și bucuriei de a petrece timp împreună, care va avea loc în perioada 16-17 mai, pe strada Dumbrava Roșie și în Parcul Icoanei, în inima Capitalei.",
       "summary": "Vă invităm să luați parte la Ziua Bujorului, un eveniment dedicat comunității, naturii și bucuriei de a petrece timp împreună, care va avea loc în perioada 16-17 mai, pe strada&#8230; Articolul Ziua Bujorului, un eveniment dedicat comunității, naturii și bucuriei de a petrece timp împreună, care va avea loc în perioada 16-17 mai, pe strada Dumbrava Roșie și în Parcul Icoanei, în inima Capitalei. apare prima dată în Romania Pozitiva .",
@@ -672,6 +684,18 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Oficialii care au stat până târziu la Summitul B9, invitaţi să se dreagă la Summitul de Potroace",
+      "summary": "Orice s-ar zice, România ştie să organizeze un summit de succes! Potrivit mai multor surse oficiale, liderii ţărilor participante la reuniunea B9 s-au distrat de minune aseară, până pe la 4 dimineaţa, când au semnat Declaraţia comună &#8222;Ş-altă dată, ş-altă dată o s-o facem şi mai, şi mai lată&#8221; şi s-au retras în camerele lor. [&#8230;] The post Oficialii care au stat până târziu la Summitul B9, invitaţi să se dreagă la Summitul de Potroace appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/politic/oficialii-care-au-stat-pana-tarziu-la-summitul-b9-invitati-sa-se-dreaga-la-summitul-de-potroace",
+      "published_utc": "2026-05-14T11:10:09+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/summitdepotroace.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "Corul Madrigal transformă Piața Matache în scenă, de Ziua Bujorului Românesc",
       "summary": "Corul Madrigal, dirijat de Anna Ungureanu, susține recitalul extraordinar dedicat bujorului românesc, în cadrul zilelor „Bujori în Matache”. Evenimentul are loc sâmbătă, 16 mai 2026, de la ora 19:00, la&#8230; Articolul Corul Madrigal transformă Piața Matache în scenă, de Ziua Bujorului Românesc apare prima dată în Romania Pozitiva .",
@@ -697,6 +721,18 @@
       "section": "romania",
       "kind": "ro",
       "source": "Times New Roman (Satira)",
+      "title": "😂 Chibzuit! Un român îşi cumpără bilet la Metallica abia azi, după concert, că e mult mai ieftin",
+      "summary": "În zilele noastre, fiecare bănuţ contează, iar o viaţă chibzuită aduce satisfacţii nebănuite! O spune Marius, un bărbat de 33 de ani din cartierul bucureştean Pantelimon. Marius se laudă că şi-a cumpărat azi două bilete la concertul Metallica cu doar 10 lei, în condiţiile în care zilele trecute acestea l-ar fi costat 1000, 1500, poate [&#8230;] The post Chibzuit! Un român îşi cumpără bilet la Metallica abia azi, după concert, că e mult mai ieftin appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/monden/chibzuit-un-roman-isi-cumpara-bilet-la-metallica-abia-azi-dupa-concert-ca-e-mult-mai-ieftin",
+      "published_utc": "2026-05-14T11:36:41+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2020/07/omfoarteinteligent.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
       "title": "😂 Un băiețel de 5 ani a stat 2 nopți în pădure, timp în care mii de bucureșteni s-au plâns că n-au căldură",
       "summary": "Un studiu antropologic a scos la iveală că în cele două zile în care un băiețel de 5 ani dintr-un sat sibian a stat singur în pădure, 174.000 de bucureșteni s-au plâns pe social media că n-au destulă căldură sau apă caldă. „În locul acelor smiorcăiți nu aș mai ieși din casă o lună”, a [&#8230;] The post Un băiețel de 5 ani a stat 2 nopți în pădure, timp în care mii de bucureșteni s-au plâns că n-au căldură appeared first on Times New Roman .",
       "link": "https://www.timesnewroman.ro/life-death/un-baietel-de-5-ani-a-stat-2-nopti-in-padure-timp-in-care-mii-de-bucuresteni-s-au-plans-ca-n-au-caldura",
@@ -704,18 +740,6 @@
       "score": 3,
       "freshness_boost": 3,
       "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/baietel_pierdut_padure.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Inspirat de Summitul B9, Nea Costel organizează în seara asta Summitul Bei 9",
-      "summary": "Summitul B9 care a dat peste cap traficul din Bucureşti e mic copil faţă de ce o să se întâmple diseară în birtul din Piaţa Miniş! Nea Costel, îndrăgitul lider al drojdierilor est-europeni, a convocat zeci de beţivi importanţi din întreaga lume pentru Summitul Bei 9. &#8222;Ne întâlnim în formula Bei 9 pentru a bea [&#8230;] The post Inspirat de Summitul B9, Nea Costel organizează în seara asta Summitul Bei 9 appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/politic/inspirat-de-summitul-b9-nea-costel-organizeaza-in-seara-asta-summitul-bei-9",
-      "published_utc": "2026-05-13T12:10:54+00:00",
-      "score": 3,
-      "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/summitulbei9.jpg"
     },
     {
       "section": "romania",
@@ -815,13 +839,13 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "In productive ecosystems, larger animals capture more energy per species—but human pressure is reshaping the balance",
-      "summary": "How does an ecosystem distribute its energy across body sizes? A new study suggests the answer depends on where you are—and how much humans have altered the landscape. Analyzing communities of birds and mammals worldwide, researchers show that larger-bodied species can, on average, capture more energy per species than smaller ones, particularly in highly productive environments.",
-      "link": "https://phys.org/news/2026-05-productive-ecosystems-larger-animals-capture.html",
-      "published_utc": "2026-05-14T20:09:27+00:00",
-      "score": 2,
+      "title": "New reversible conductive glue could reshape electronics repair, recycling, and material recovery",
+      "summary": "A collaboration between electrical and chemical engineers at Newcastle University is responsible for a reversible glue that can change how we recycle electronic waste. The team has already demonstrated reversible adhesive technology with wide applicability in general packaging applications, but this new glue is electrically conductive. This means that it can join electronic components, just like solder does. Unlike solder, however, a simple wash with a green solvent like acetone, or using an alkaline solution, will allow the components to be separated for reuse or recycling.",
+      "link": "https://phys.org/news/2026-05-reversible-reshape-electronics-recycling-material.html",
+      "published_utc": "2026-05-14T22:00:01+00:00",
+      "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/in-productive-ecosyste.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/reversible-glue-techno.jpg"
     },
     {
       "section": "romania",
@@ -851,13 +875,13 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Indonesia may soon lose its last glaciers",
-      "summary": "Asia's last tropical glaciers can be found near Puncak Jaya, Papua, the highest peak in Southeast Asia. But it is unlikely that they will survive until the end of this decade. Over the past 44 years, the peak has lost 97% of its ice and four of its glaciers. Its remaining two glaciers, Carstensz and the East Northwall Firn glacier, are expected to disappear by 2030, adding Indonesia (alongside Venezuela and Slovenia) to the list of countries that have lost all of their glaciers.",
-      "link": "https://phys.org/news/2026-05-indonesia-glaciers.html",
-      "published_utc": "2026-05-14T20:07:33+00:00",
+      "title": "Scientists estimate sunlight in 18th and 19th century Tokyo using historical diaries",
+      "summary": "The amount of sunlight, or solar radiation, that a location receives makes a big impact on weather conditions, crop success, rainfall and overall climate trends. Today, instruments called pyrheliometers are used to carefully calculate how much sunlight occurs at a particular location, but these instruments weren't available to quantify sunlight until 1838, and automated pyrheliometers weren't invented until the early 20th century.",
+      "link": "https://phys.org/news/2026-05-scientists-sunlight-18th-19th-century.html",
+      "published_utc": "2026-05-14T21:08:26+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/indonesia-may-soon-los.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-estimate-su-1.jpg"
     },
     {
       "section": "romania",
@@ -887,13 +911,13 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Buried in dark waters, viruses reshape one of Earth's largest carbon systems",
-      "summary": "Viruses play a far more active role in Earth's carbon cycle than previously understood, according to new research that reveals how they infect and control microbes responsible for carbon production in some of the planet's largest, darkest ecosystems. The findings are published in the journal Nature Communications.",
-      "link": "https://phys.org/news/2026-05-dark-viruses-reshape-earth-largest.html",
-      "published_utc": "2026-05-14T20:05:52+00:00",
-      "score": 0,
+      "title": "Old journals unlock monthly climate shifts behind Japan's 1830s famine",
+      "summary": "The Tenpō Famine of the 1830s was one of the worst in Japanese history, with the poor weather causing escalating rice prices as a major cause. To better understand how historical weather anomalies affected crop prices in Japan and ultimately led to the famine, researchers developed a new framework to analyze historical weather data.",
+      "link": "https://phys.org/news/2026-05-journals-monthly-climate-shifts-japan.html",
+      "published_utc": "2026-05-14T21:07:35+00:00",
+      "score": 1,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hidden-viruses-reshape.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-reconstruct.jpg"
     },
     {
       "section": "romania",
@@ -923,13 +947,13 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Seeing the invisible: The limits of two-photon vision",
-      "summary": "Near-infrared light is invisible to humans. And yet, under the right conditions, the human eye can perceive it. Researchers from Poland's International Center for Translational Eye Research (ICTER) have now shown that the efficiency of this phenomenon depends not only on the laser pulse itself, but also on two highly specific factors: the beam diameter and the precise focusing of light on the retina. The research is published in the journal Optics Letters.",
-      "link": "https://phys.org/news/2026-05-invisible-limits-photon-vision.html",
-      "published_utc": "2026-05-14T20:00:02+00:00",
-      "score": 1,
+      "title": "Historical DNA connects 1.3 million living relatives to 17th-century Maryland settlers",
+      "summary": "As the United States prepares to mark its 250th anniversary, researchers from 23andMe Research Institute, Harvard University, and the Smithsonian Institution have teamed up to study one of the country's founding settlements: St. Mary's City, Maryland. Established in 1634, St. Mary's City was the first English settlement in the colony of Maryland. Despite existing written records and the ability of many present-day Americans to trace their ancestry to the historic city, many gaps remain in our knowledge of this early founder population.",
+      "link": "https://phys.org/news/2026-05-historical-dna-million-17th-century.html",
+      "published_utc": "2026-05-14T21:03:19+00:00",
+      "score": 2,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-to-see-the-invisib-1.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/historical-dna-connect.jpg"
     },
     {
       "section": "romania",
@@ -947,49 +971,73 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Biodegradable sensors attached to plants detect pesticides in 3 minutes",
-      "summary": "Researchers at the São Carlos Institute of Physics at the University of São Paulo (IFSC-USP) in Brazil, led by Paulo Augusto Raymundo-Pereira, have created biodegradable, \"wearable\" sensors for plants to monitor their health, including the presence of pesticides. The sensors are made from carbon ink and are screen-printed onto transparent cellulose acetate bioplastics.",
-      "link": "https://phys.org/news/2026-05-biodegradable-sensors-pesticides-minutes.html",
-      "published_utc": "2026-05-14T19:40:02+00:00",
-      "score": 1,
+      "title": "Tiny ocean life helps scientists estimate whale prevalence off the California coast",
+      "summary": "A new approach to better assessing whale population data has emerged, led by a research team of marine biologists from Scripps Institution of Oceanography at UC San Diego and statisticians from Cal Poly. Scientists typically monitor whale presence through a variety of traditional methods such as visual surveys, photo identification, acoustic monitoring, satellite imagery, and increasingly, genomic methods. But monitoring can be challenging due to a wide-ranging migration area and intermittent surface pop-ups, among other difficulties.",
+      "link": "https://phys.org/news/2026-05-tiny-ocean-life-scientists-whale.html",
+      "published_utc": "2026-05-14T21:00:55+00:00",
+      "score": 2,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/biodegradable-sensors.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tiny-ocean-life-helps.jpg"
     },
     {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Building density, not trees, was strongest predictor of home loss in Los Angeles firestorms",
-      "summary": "A study by Cal Poly faculty and scientists has found that building density, not urban trees, was the strongest predictor of whether homes were destroyed during the catastrophic Southern California firestorms of January 2025. The paper is published in the journal Urban Forestry & Urban Greening.",
-      "link": "https://phys.org/news/2026-05-density-trees-strongest-predictor-home.html",
-      "published_utc": "2026-05-14T19:30:32+00:00",
-      "score": 1,
+      "title": "Improved life satisfaction linked to being in nature",
+      "summary": "A major international study has found that contact with the natural world is linked to higher levels of life satisfaction—and we have our bodies to thank for unlocking this benefit.",
+      "link": "https://phys.org/news/2026-05-life-satisfaction-linked-nature.html",
+      "published_utc": "2026-05-14T21:00:04+00:00",
+      "score": 3,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/building-density-not-t.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/walk-in-nature.jpg"
     },
     {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Silk made into strong plastic-like materials with 6G potential",
-      "summary": "Silk threads can be fused into transparent, plastic-like materials that twist terahertz frequencies of light, according to research led by Imperial College London, University of Michigan Engineering and Tufts University. The findings could enable components of 6G networks to be made from upcycled silk.",
-      "link": "https://phys.org/news/2026-05-silk-strong-plastic-materials-6g.html",
-      "published_utc": "2026-05-14T19:07:22+00:00",
+      "title": "Q&A: Is it time to expand our thinking about dark matter? A new study says yes",
+      "summary": "We may be more in the dark about dark matter than previously thought, according to a new analysis of distant galaxy clusters. Yale astrophysicist Priyamvada Natarajan, a leading theorist on the nature of black holes and dark matter, says new observational data conflicts with certain assumptions about cold dark matter (CDM)—unseen, slow-moving particles that are inferred by their effect on gravity—and may prompt a fundamental rethinking of dark matter by scientists.",
+      "link": "https://phys.org/news/2026-05-qa-dark.html",
+      "published_utc": "2026-05-14T20:55:12+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/is-it-time-to-expand-o.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "NASA Breaking News",
+      "title": "NASA Draws on Industry for Mars Telecommunications Network",
+      "summary": "On Thursday, NASA issued a Request for Proposal (RFP), seeking industry collaboration for the Mars Telecommunications Network. Reliable, high bandwidth communications is necessary to relay science data, high-definition imagery, and critical information during Mars missions. The network will use high-performance Mars telecommunications orbiters at the Red Planet to support future surface, orbital, and human exploration. [&#8230;]",
+      "link": "https://www.nasa.gov/directorates/esdmd/nasa-draws-on-industry-for-mars-telecommunications-network",
+      "published_utc": "2026-05-14T20:53:24+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/silk-made-into-strong.jpg"
+      "image": "https://picsum.photos/seed/vb-1d8d3443c781c65c/480/320"
     },
     {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Childhood disadvantage can limit the social benefits of intelligence later in life, new research shows",
-      "summary": "Children who grow up in disadvantaged households may receive fewer social benefits from their intelligence in adulthood than those raised in more advantaged environments, according to new research from the University of Bath. A new study by Professor Chris Dawson, published in Personality and Social Psychology Bulletin, finds that childhood disadvantage is linked not only to lower cognitive ability in adulthood, but also to lower levels of trust in other people.",
-      "link": "https://phys.org/news/2026-05-childhood-disadvantage-limit-social-benefits.html",
-      "published_utc": "2026-05-14T18:52:20+00:00",
-      "score": 1,
+      "title": "Engineered proteins store digital files with 30 times density at one-tenth cost",
+      "summary": "Massive volumes of digital data are generated every day from AI training, big data analytics and smart devices. As conventional hard drives and cloud storage are increasingly constrained by high costs, limited capacity, high power consumption and short lifespans, molecular data storage has emerged as a breakthrough storage alternative.",
+      "link": "https://phys.org/news/2026-05-proteins-digital-density-tenth.html",
+      "published_utc": "2026-05-14T20:28:33+00:00",
+      "score": 2,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2021/children.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/gene-editing-2.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Hyperspectral imaging to map Gran Dolina's oldest sediments and fossils in infrared",
+      "summary": "The Centro Nacional de Investigación sobre la Evolución Humana (CENIEH) and the Instituto Tecnológico de Castilla y León (ITCL) have begun a collaboration to advance the application of hyperspectral analysis in the study of archaeopalaeontological sites. As part of this initiative—aimed at strengthening links with the private and industrial sectors in order to foster technical innovation and knowledge transfer—researchers have studied the infrared response of the oldest levels of the Gran Dolina Site in the Sierra de Atapuerca (Burgos, Spain).",
+      "link": "https://phys.org/news/2026-05-hyperspectral-imaging-gran-dolina-oldest.html",
+      "published_utc": "2026-05-14T20:23:38+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-analyse-th-1.jpg"
     },
     {
       "section": "medical",
@@ -1324,6 +1372,7 @@
       "https://live.staticflickr.com/65535/55251712696_7b83bdf91b_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/55265584519_ac816259e9_b.jpg",
       "https://live.staticflickr.com/65535/32122139133_939032c0db_b.jpg",
       "https://live.staticflickr.com/65535/19039876652_1d78121c28_b.jpg",
       "https://live.staticflickr.com/65535/55269154904_c37708e0d9_b.jpg",
@@ -1340,10 +1389,10 @@
       "https://live.staticflickr.com/8131/29686163384_6eae9d8306_b.jpg",
       "https://live.staticflickr.com/65535/12856956595_b9e118d44d_b.jpg",
       "https://live.staticflickr.com/65535/17849199486_8d1c46eec7_b.jpg",
-      "https://live.staticflickr.com/65535/36847001584_885a6e1b35_b.jpg",
-      "https://live.staticflickr.com/65535/55252058578_0b87d1864d_b.jpg"
+      "https://live.staticflickr.com/65535/36847001584_885a6e1b35_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/51076532043_bf15406864_b.jpg",
       "https://live.staticflickr.com/65535/55270458119_11a254929c_b.jpg",
       "https://live.staticflickr.com/65535/55270363140_64a319bca5_b.jpg",
       "https://live.staticflickr.com/65535/55268723182_b3f870138d_b.jpg",
@@ -1360,12 +1409,11 @@
       "https://live.staticflickr.com/65535/55266703238_1837ddc18f_b.jpg",
       "https://live.staticflickr.com/65535/55266752289_f599c68307_b.jpg",
       "https://live.staticflickr.com/65535/55266506913_45a11f7981_b.jpg",
-      "https://live.staticflickr.com/65535/55266239935_635463db9c_b.jpg",
-      "https://live.staticflickr.com/65535/55263964362_8978938e0a_b.jpg"
+      "https://live.staticflickr.com/65535/55266239935_635463db9c_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
+      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
