@@ -1,7 +1,91 @@
 {
-  "generated_utc": "2026-05-22T10:15:20+00:00",
+  "generated_utc": "2026-05-22T13:22:54+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "România, în inima Festivalului de Film de la Cannes. Jidvei aduce Feteasca Regală pe Covorul Roșu",
+        "summary": "Pe Coasta de Azur, acolo unde cinematografia devine legendă, România vine în 2026 cu patru producții, o ovație de peste 10 minute pentru Fjord al lui Cristian Mungiu, un jurnal în timp real semnat de Amalia Enache și Alexandra Tănăsescu și un soi care a cucerit deopotrivă curțile regale și marile jurii internaționale: Feteasca Regală. &#8230;",
+        "link": "https://hotnews.ro/romania-in-inima-festivalului-de-film-de-la-cannes-jidvei-aduce-feteasca-regala-pe-covorul-rosu-2252978",
+        "published_utc": "2026-05-22T12:54:24+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-f00868c77efb886e/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "RomaniaPozitiva",
+        "title": "Hoinar.Unbroken s-a încheiat în aplauzele unor săli pline și spectacole sold-out",
+        "summary": "Ediția cu numărul 9 a adus aproape 1500 de spectatori în sălile de spectacol, un număr record în istoria festivalului Cea de-a 9-a ediție a Hoinar Festival, desfășurată sub umbrela&#8230; Articolul Hoinar.Unbroken s-a încheiat în aplauzele unor săli pline și spectacole sold-out apare prima dată în Romania Pozitiva .",
+        "link": "https://www.romaniapozitiva.ro/cultura/hoinar-unbroken-s-a-incheiat-in-aplauzele-unor-sali-pline-si-spectacole-sold-out",
+        "published_utc": "2026-05-22T12:03:40+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-4de3a9c84f99b3a5/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "RomaniaPozitiva",
+        "title": "De la László Nemes la noile voci din filmul maghiar: programul Zilei Maghiare la TIFF.25",
+        "summary": "Un thriller despre o familie surogat, documentare construite din arhive personale și povești despre maternitate, identitate sau succes venit prea devreme se regăsesc în programul Zilei Maghiare de la cea&#8230; Articolul De la László Nemes la noile voci din filmul maghiar: programul Zilei Maghiare la TIFF.25 apare prima dată în Romania Pozitiva .",
+        "link": "https://www.romaniapozitiva.ro/cultura/de-la-laszlo-nemes-la-noile-voci-din-filmul-maghiar-programul-zilei-maghiare-la-tiff-25",
+        "published_utc": "2026-05-22T11:56:54+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-53b081eacb08ea62/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "RomaniaPozitiva",
+        "title": "BREAKING NEWS: Gala Premiilor UNITER, ediția 34. Să celebrăm teatrul românesc ÎMPREUNĂ!",
+        "summary": "Luni, 25 mai, ora 20:00, UNITER dezvăluie ediția 34 a premiilor teatrului românesc, la Teatrul Odeon, sărbătoare care – pe lângă menirea de a recunoaște valorile din teatru – vorbește&#8230; Articolul BREAKING NEWS: Gala Premiilor UNITER, ediția 34. Să celebrăm teatrul românesc ÎMPREUNĂ! apare prima dată în Romania Pozitiva .",
+        "link": "https://www.romaniapozitiva.ro/bucuresti/breaking-news-gala-premiilor-uniter-editia-34-sa-celebram-teatrul-romanesc-impreuna",
+        "published_utc": "2026-05-22T10:52:01+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-7d45ef16d4c4e11a/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Start-Up Romania",
+        "title": "10 proiecte dezvoltate de elevi cu AI, robotică și imprimare 3D intră în finala 3DUTECH 2026",
+        "summary": "Elevi din București, Brăila, Galați, Craiova, Zalău, Ploiești, Satu Mare, Comănești și Pitești au ajuns în finala competiției naționale 3DUTECH 2026, concurs dedicat proiectelor dezvoltate cu...",
+        "link": "https://start-up.ro/10-proiecte-dezvoltate-de-elevi-cu-ai-robotica-si-imprimare-3d-intra-in-finala-3dutech-2026",
+        "published_utc": "2026-05-22T10:43:10+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://start-up.ro/img/articles/3/8/4/38416/cover-38416-src.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Lucrările preliminare pentru recuperarea remorcherului Astana, scufundat la Midia, au început: nava e la 26 de metri adâncime",
+        "summary": "Reprezentanţii Midia Marine Terminal au anunţat, vineri, că a fost aprobat planul de ranfluare a remorcherului scufundat la jumătatea lunii martie - eveniment în urma căruia doi marinari au murit şi trei sunt daţi dispăruţi – şi că au început lucrările preliminare pentru operaţiunea de recuperare a remorcherului. Nava este la o adâncime de 26 de metri, iar căutările în interiorul ei vor demara doar dacă operaţiunea va fi considerată sigură.",
+        "link": "https://www.digi24.ro/stiri/lucrarile-preliminare-pentru-recuperarea-remorcherului-scufundat-la-midia-in-martie-au-inceput-nava-e-la-26-de-metri-adancime-3781491",
+        "published_utc": "2026-05-22T10:16:36+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMyUyRjE4JTJGMjY0MzA4NF8yNjQz/MDg0X2FzdGFuYS5wbmcmaGFzaD0wMGMy/ZjNmYWZlZmMyMzJkNTMyYTVmY2Y1N2MwMTk0OA==.png"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "RomaniaPozitiva",
+        "title": "Activități pentru vârstnici la hub-ul cultural timișorean „habitat B1”",
+        "summary": "Club de kinetoterapie pentru seniori + vizită de expoziții de artă la habitat B1 Găzduim sesiuni gratuite de kinetoterapie în fiecare ultimă joi din fiecare lună, de la ora 09:00,&#8230; Articolul Activități pentru vârstnici la hub-ul cultural timișorean „habitat B1” apare prima dată în Romania Pozitiva .",
+        "link": "https://www.romaniapozitiva.ro/banat-crisana/activitati-pentru-varstnici-la-hub-ul-cultural-timisorean-habitat-b1",
+        "published_utc": "2026-05-22T10:00:41+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-2ee173bbd3643c73/480/320"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -29,54 +113,6 @@
       {
         "section": "romania",
         "kind": "ro",
-        "source": "RomaniaPozitiva",
-        "title": "Raiffeisen Comunități anunță câștigătorii ediției a 15-a: finanțări de 4 milioane de lei pentru proiectele selectate",
-        "summary": "Raiffeisen Bank România și Asociația pentru Relații Comunitare (ARC) anunță câștigătorii ediției a 15-a a programului Raiffeisen Comunități și acordă finanțări totale de 4 milioane de lei proiectelor selectate în&#8230; Articolul Raiffeisen Comunități anunță câștigătorii ediției a 15-a: finanțări de 4 milioane de lei pentru proiectele selectate apare prima dată în Romania Pozitiva .",
-        "link": "https://www.romaniapozitiva.ro/csr/raiffeisen-comunitati-anunta-castigatorii-editiei-a-15-a-finantari-de-4-milioane-de-lei-pentru-proiectele-selectate",
-        "published_utc": "2026-05-22T07:12:51+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-edb5130c5bcc29bd/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Start-Up Romania",
-        "title": "cyber_Folks: 1,5 milioane de servere și site-uri au fost expuse recent la atacuri automate. „Nu mai e o întrebare de «dacă», ci de «când» vor fi țintite”",
-        "summary": "cyber_Folks, companie specializată în găzduire web, infrastructură digitală și soluții cloud scalabile, avertizează că firmele mici și mijlocii devin tot mai vulnerabile în fața atacurilor automate...",
-        "link": "https://start-up.ro/cyber-folks-1-5-milioane-de-servere-si-site-uri-au-fost-expuse-recent-la-atacuri-automate-nu-mai-e-o-intrebare-de-daca-ci-de-cand-vor-fi-tintite",
-        "published_utc": "2026-05-22T07:10:21+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://start-up.ro/img/articles/3/8/4/38414/cover-38414-src.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "RomaniaPozitiva",
-        "title": "„Școala care dă încredere: cultivarea sistemică a siguranței emoționale în școli” aduce împreună lideri din educație, business și sectorul public pentru a redefini siguranța emoțională în școlile din România",
-        "summary": "Asociația Școala Încrederii organizează la București, pe 23 mai 2026, la NOD Makerspace începând cu ora 10:00, evenimentul „Școala care dă încredere: cultivarea sistemică a siguranței emoționale în școli”. Evenimentul&#8230; Articolul „Școala care dă încredere: cultivarea sistemică a siguranței emoționale în școli” aduce împreună lideri din educație, business și sectorul public pentru a redefini siguranța emoțională în școlile din România apare prima dată în Romania Pozitiva .",
-        "link": "https://www.romaniapozitiva.ro/bucuresti/scoala-care-da-incredere-cultivarea-sistemica-a-sigurantei-emotionale-in-scoli-aduce-impreuna-lideri-din-educatie-business-si-sectorul-public-pentru-a-redefini-siguranta-emotionala",
-        "published_utc": "2026-05-22T06:58:09+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-aade8a59e43d167c/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "RomaniaPozitiva",
-        "title": "Cel mai important eveniment dedicat muzicii noi la nivel mondial începe mâine, la București: Festivalul Internațional ISCM WORLD NEW MUSIC DAYS 2026 – „Columna Infinită”",
-        "summary": "Între 23 și 31 mai 2026, Bucureștiul devine capitala internațională a muzicii contemporane, odată cu desfășurarea Festivalului Internațional ISCM World New Music Days 2026 – „Columna Infinită”, cel mai prestigios&#8230; Articolul Cel mai important eveniment dedicat muzicii noi la nivel mondial începe mâine, la București: Festivalul Internațional ISCM WORLD NEW MUSIC DAYS 2026 – „Columna Infinită” apare prima dată în Romania Pozitiva .",
-        "link": "https://www.romaniapozitiva.ro/cultura/cel-mai-important-eveniment-dedicat-muzicii-noi-la-nivel-mondial-incepe-maine-la-bucuresti-festivalul-international-iscm-world-new-music-days-2026-columna-infinita",
-        "published_utc": "2026-05-22T06:57:24+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-93d9681a60d8a1fe/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
         "source": "Times New Roman (Satira)",
         "title": "😂 Avertismente și mai înfricoșătoare pe pachetele de țigări: „80% din preț se duce la stat”",
         "summary": "Uită de pozele cu cancer de laringe! Noile ambalaje ale pachetelor de țigări conțin mesaje mult mai înfricoșătoare, care îi vor băga serios în sperieți pe fumători. În locul mesajelor axate pe prevenție și sănătate, vor fi băgate mesaje fiscale sau economice. În primul rând, va exista mesajul „80% din prețul acestui pachet de țigări [&#8230;] The post Avertismente și mai înfricoșătoare pe pachetele de țigări: „80% din preț se duce la stat” appeared first on Times New Roman .",
@@ -100,18 +136,6 @@
       {
         "section": "romania",
         "kind": "ro",
-        "source": "RomaniaPozitiva",
-        "title": "Sports Festival intră într-o nouă etapă: The Grand Stage of Movement Celebration",
-        "summary": "Sports Festival, cel mai mare eveniment multi-sport din România, intră într-o nouă etapă și lansează o nouă identitate de brand, construită în jurul platformei ”The Grand Stage of Movement Celebration”.&#8230; Articolul Sports Festival intră într-o nouă etapă: The Grand Stage of Movement Celebration apare prima dată în Romania Pozitiva .",
-        "link": "https://www.romaniapozitiva.ro/sport/sports-festival-intra-intr-o-noua-etapa-the-grand-stage-of-movement-celebration",
-        "published_utc": "2026-05-21T14:47:40+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-4935fcd20a4a9861/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
         "source": "World Vision Romania",
         "title": "World Vision România investește în formarea viitorilor specialiști ai agriculturii românești. O seră didactică modernizată cu tehnologii de Agricultură 4.0, inaugurată la Liceul Agricol „Sandu Aldea” din Călărași.",
         "summary": "București, 20 mai 2026: Fundația World Vision România, împreună cu Liceul Agricol „Sandu Aldea” din Călărași, a inaugurat o seră... Articolul World Vision România investește în formarea viitorilor specialiști ai agriculturii românești. O seră didactică modernizată cu tehnologii de Agricultură 4.0, inaugurată la Liceul Agricol „Sandu Aldea” din Călărași. apare prima dată în World Vision România .",
@@ -125,13 +149,13 @@
         "section": "romania",
         "kind": "ro",
         "source": "Times New Roman (Satira)",
-        "title": "😂 Pelerinaj vs. consultări",
-        "summary": "The post Pelerinaj vs. consultări appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/ovi/pelerinaj-vs-consultari",
-        "published_utc": "2026-05-21T07:55:30+00:00",
+        "title": "😂 Parcul Central din Cluj va fi închis! A primit aviz negativ din partea Ordinului Onaniștilor Clujeni",
+        "summary": "Clujenii sunt revoltați după ce au aflat că Parcul Central din oraș va trebui închis pe perioadă nedeterminată. Se pare că parcul are aviz de funcționare doar de la Ordinul Arhitecților, dar nu și de la Ordinul Onaniștilor Clujeni &#8211; acesta din urmă fiind absolut obligatoriu. Ordinul Onaniștilor Clujeni a dat aviz negativ parcului pentru [&#8230;] The post Parcul Central din Cluj va fi închis! A primit aviz negativ din partea Ordinului Onaniștilor Clujeni appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/monden/parcul-central-din-cluj-va-fi-inchis-a-primit-aviz-negativ-din-partea-ordinului-onanistilor-clujeni",
+        "published_utc": "2026-05-21T08:41:53+00:00",
         "score": 3,
         "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/Pelerinaj-vs.-consultari.jpg"
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/acces_interzis_parc.jpg"
       },
       {
         "section": "romania",
@@ -453,109 +477,133 @@
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "FIFA's huge World Cup to generate unprecedented cash and CO₂",
-        "summary": "The biggest and most lucrative ever World Cup this summer will also set a record for the most-polluting sporting event in history, environmental experts say.",
-        "link": "https://phys.org/news/2026-05-fifa-huge-world-cup-generate.html",
-        "published_utc": "2026-05-22T09:30:01+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-world-cup-will-pro.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Atlas reveals rocks with rare earth element potential, helping pinpoint new deposits",
-        "summary": "A new atlas charts the global distribution of unusual, critical-metal-bearing igneous rocks, finding that they often form near the thick and ancient cores of the world's major continents. Researchers from Cambridge's Department of Earth Sciences mapped occurrences of CO2-rich igneous rocks—the world's primary source of rare earth elements—finding that their distribution is strongly tied to variations in Earth's rigid outer layer, the lithosphere.",
-        "link": "https://phys.org/news/2026-05-atlas-reveals-rare-earth-element.html",
-        "published_utc": "2026-05-22T09:00:09+00:00",
+        "title": "Researchers collaborate on effort to map biodiversity on Indonesia's unexplored seamounts",
+        "summary": "Researchers from the University of Rhode Island are contributing to an international effort to document life on Indonesia's remote tropical seamounts—underwater mountains rising from the ocean floor that can host diverse deep-sea communities.",
+        "link": "https://phys.org/news/2026-05-collaborate-effort-biodiversity-indonesia-unexplored.html",
+        "published_utc": "2026-05-22T13:20:03+00:00",
         "score": 1,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-map-rocks-w.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-collaborat.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Ancient DNA reveals web of marriage and migration in Peru centuries before Inca rule",
-        "summary": "Long-distance migration along Peru's Pacific coast began at least 800 years ago, centuries before the rise of the Inca Empire and much earlier than previously thought, a new international study reveals.",
-        "link": "https://phys.org/news/2026-05-ancient-dna-reveals-web-marriage.html",
-        "published_utc": "2026-05-22T09:00:03+00:00",
+        "title": "Superconducting vortices moonlight as controllable qubits, turning a disruption into a resource",
+        "summary": "Vortices in superconductors have so far been considered a disruption, as they can impair the superconducting properties. Researchers at the Karlsruhe Institute of Technology (KIT) have proved in experiments that magnetic vortices can be used as controllable quantum systems in certain materials. This means that a previously unwanted phenomenon is becoming a potential resource in quantum technologies, opening up new avenues for the development of quantum computers, highly sensitive sensor systems, and innovative approaches in materials research. These results are published in Nature.",
+        "link": "https://phys.org/news/2026-05-superconducting-vortices-moonlight-qubits-disruption.html",
+        "published_utc": "2026-05-22T13:20:01+00:00",
         "score": 1,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ancient-dna-reveals-we.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/once-a-disruption-now.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "India generates record power as demand surges in severe heat wave",
-        "summary": "India's power producers have set a record for electricity generation as swaths of the world's most populous nation swelters in an intense heat wave, the Ministry of Power said.",
-        "link": "https://phys.org/news/2026-05-india-generates-power-demand-surges.html",
-        "published_utc": "2026-05-22T08:40:07+00:00",
+        "title": "Midwest flamingos and 'hurricane toads': Wildlife's strange storm stories",
+        "summary": "Hurricanes can be a devastating force—leveling trees, erasing beaches and damaging homes. But what do they do to wildlife? The answer ranges from the good to the bad to the ugly. Hurricanes sometimes help native species, but other times, they introduce and spread invasive species. Sometimes, they cause animals to evolve to survive these storms more easily, and sometimes they lead to mass migration or extinction.",
+        "link": "https://phys.org/news/2026-05-midwest-flamingos-hurricane-toads-wildlife.html",
+        "published_utc": "2026-05-22T13:00:01+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-rickshaw-puller-in-d.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ocean-birds.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Gibraltar monkeys eat soil in junk food detox, study finds",
-        "summary": "A colony of macaques that gorge on snacks offered by tourists in the British territory of Gibraltar swallow soil to recover from their junk food binges, a study has found.",
-        "link": "https://phys.org/news/2026-05-gibraltar-monkeys-soil-junk-food.html",
-        "published_utc": "2026-05-22T08:40:05+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Countdown glitch delays world's biggest rocket as SpaceX targets Friday retry",
-        "summary": "Elon Musk's SpaceX postponed the highly anticipated launch of its upgraded Starship megarocket, calling off Thursday's test after multiple countdown stops-and-starts.",
-        "link": "https://phys.org/news/2026-05-countdown-glitch-delays-starship-12th.html",
-        "published_utc": "2026-05-22T08:40:03+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-launch-of-spacexs.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Something coming: what scientists know about a potential 'super' El Nino",
-        "summary": "Forecasters say a potentially \"super\" El Niño is rapidly taking shape in the Pacific—but whether it evolves into a history-making event could hinge on fickle winds and other volatile atmospheric shifts.",
-        "link": "https://phys.org/news/2026-05-scientists-potential-super-el-nino.html",
-        "published_utc": "2026-05-22T08:18:14+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/historic-el-nino-event.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "ScienceDaily Science",
-        "title": "Stunning 150-million-year-old stegosaur skull rewrites dinosaur evolution",
-        "summary": "A spectacular dinosaur discovery in Spain is giving scientists a rare new look inside the world of stegosaurs. Paleontologists uncovered the best-preserved stegosaur skull ever found in Europe, belonging to the iconic plated dinosaur Dacentrurus armatus, which roamed Earth around 150 million years ago. Because stegosaur skulls are extremely fragile and almost never survive intact, the fossil is helping researchers uncover previously unknown details about how these armored giants evolved.",
-        "link": "https://www.sciencedaily.com/releases/2026/05/260515233340.htm",
-        "published_utc": "2026-05-17T06:38:26+00:00",
+        "title": "New tool helps accurately assemble notoriously difficult bird genomes",
+        "summary": "A new computational program, MicroFinder, enables faster and more accurate assembly of bird genomes. Improved genome assemblies will help researchers better understand bird biology, evolution, and help inform conservation efforts.",
+        "link": "https://phys.org/news/2026-05-tool-accurately-notoriously-difficult-bird.html",
+        "published_utc": "2026-05-22T12:40:03+00:00",
         "score": 5,
-        "freshness_boost": 0,
-        "image": "https://picsum.photos/seed/vb-12e2be1002daf130/480/320"
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/black-headed-gull.jpg"
       },
       {
         "section": "science",
         "kind": "global",
-        "source": "ScienceDaily Science",
-        "title": "Lost 1,200-year-old manuscript contains the first English poem",
-        "summary": "A long-lost manuscript discovered in Rome has revealed one of the oldest surviving versions of the very first known poem written in English. Hidden for decades and once believed lost, the 1,200-year-old manuscript contains Caedmon’s Hymn — a nine-line Old English poem said to have been miraculously composed by a shy Northumbrian cowherd after a divine dream.",
-        "link": "https://www.sciencedaily.com/releases/2026/05/260515233337.htm",
-        "published_utc": "2026-05-17T06:22:40+00:00",
-        "score": 2,
-        "freshness_boost": 0,
-        "image": "https://picsum.photos/seed/vb-3d807178624169c5/480/320"
+        "source": "Phys.org",
+        "title": "Human‑made chemicals are harming seals at the molecular level, study finds",
+        "summary": "Ringed seals are among the most common marine mammals in the Canadian Arctic. They strongly rely on sea ice as a habitat, breathing through holes they maintain in the frozen surface, giving birth in snow lairs and diving beneath the ice to hunt Arctic cod and small crustaceans.",
+        "link": "https://phys.org/news/2026-05-humanmade-chemicals-molecular.html",
+        "published_utc": "2026-05-22T12:20:02+00:00",
+        "score": 1,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ringed-seal.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Why the intrinsic quantum effects of axion dark matter are completely undetectable",
+        "summary": "Dark matter is an elusive form of matter that almost never emits, absorbs or reflects light, while only weakly interacting with regular matter. These properties make it very difficult to detect using conventional experimental techniques and instruments.",
+        "link": "https://phys.org/news/2026-05-intrinsic-quantum-effects-axion-dark.html",
+        "published_utc": "2026-05-22T12:10:02+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-the-intrinsic-quan-1.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Would you trust AI to help you find 'the one'? Dating apps are betting it can",
+        "summary": "In the relatively short time they've been around, online dating apps have transformed how we hook up, date and fall in love. These apps have long been characterized by \"swipe logic\": users are shown profiles of others and must swipe left or right to decide whether they like them or not.",
+        "link": "https://phys.org/news/2026-05-ai-dating-apps.html",
+        "published_utc": "2026-05-22T12:00:04+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/dating-apps.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "What do the Commonwealth Writers Prize AI allegations mean for prizes—and short stories?",
+        "summary": "Another day, another literary scandal involving AI. It has been alleged that the judges of the Commonwealth Short Story Prize have been duped by an author using AI in his winning entry. Jamir Nazir's The Serpent in the Grove, which won for the Caribbean region, was then published in leading literary magazine Granta, along with other winning entries.",
+        "link": "https://phys.org/news/2026-05-commonwealth-writers-prize-ai-allegations.html",
+        "published_utc": "2026-05-22T11:40:05+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/what-do-the-commonweal.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "If you need to anesthetize a butterfly, here's the best way to do it",
+        "summary": "Anesthesia makes life-saving procedures as painless and stress-free as possible for the animals we love and care for. But not a lot is known about the effects of anesthesia on animals that we don't typically consider pets—like butterflies and other invertebrates. Insects are often valuable members of nature centers, zoos and museums, but even if they're just being evaluated in the wild, they can need anesthesia during physical examinations and injury treatment.",
+        "link": "https://phys.org/news/2026-05-anesthetize-butterfly.html",
+        "published_utc": "2026-05-22T11:33:54+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/black-and-white-butter.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Exploring education during times of economic crisis",
+        "summary": "Major economic crises affect a country in myriad ways, often resulting in unemployment spikes, increased inequality between financial classes, housing instability, and much more. But how do they impact the educational landscape, particularly at the secondary school level? That's what Pawel Janas, an assistant professor of economics at Caltech, examined in a new study investigating American education rates during the Great Depression.",
+        "link": "https://phys.org/news/2026-05-exploring-economic-crisis.html",
+        "published_utc": "2026-05-22T11:20:03+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/student-4.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Listening to the rainforest: Researcher uses AI to monitor biodiversity through sound",
+        "summary": "In tropical forests, much of the biodiversity can be heard before it is seen. Birds call, insects buzz and frogs croak, creating complex soundscapes that reflect the presence of different species.",
+        "link": "https://phys.org/news/2026-05-rainforest-ai-biodiversity.html",
+        "published_utc": "2026-05-22T11:00:03+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/listening-to-the-rainf.jpg"
       }
     ],
     "environment": [
@@ -661,14 +709,86 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Avertismente și mai înfricoșătoare pe pachetele de țigări: „80% din preț se duce la stat”",
-      "summary": "Uită de pozele cu cancer de laringe! Noile ambalaje ale pachetelor de țigări conțin mesaje mult mai înfricoșătoare, care îi vor băga serios în sperieți pe fumători. În locul mesajelor axate pe prevenție și sănătate, vor fi băgate mesaje fiscale sau economice. În primul rând, va exista mesajul „80% din prețul acestui pachet de țigări [&#8230;] The post Avertismente și mai înfricoșătoare pe pachetele de țigări: „80% din preț se duce la stat” appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/avertismente-si-mai-infricosatoare-pe-pachetele-de-tigari-80-din-pret-se-duce-la-stat",
-      "published_utc": "2026-05-22T03:12:00+00:00",
+      "source": "HotNews",
+      "title": "România, în inima Festivalului de Film de la Cannes. Jidvei aduce Feteasca Regală pe Covorul Roșu",
+      "summary": "Pe Coasta de Azur, acolo unde cinematografia devine legendă, România vine în 2026 cu patru producții, o ovație de peste 10 minute pentru Fjord al lui Cristian Mungiu, un jurnal în timp real semnat de Amalia Enache și Alexandra Tănăsescu și un soi care a cucerit deopotrivă curțile regale și marile jurii internaționale: Feteasca Regală. &#8230;",
+      "link": "https://hotnews.ro/romania-in-inima-festivalului-de-film-de-la-cannes-jidvei-aduce-feteasca-regala-pe-covorul-rosu-2252978",
+      "published_utc": "2026-05-22T12:54:24+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/PRET_LA_STAT.jpg"
+      "image": "https://picsum.photos/seed/vb-f00868c77efb886e/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "RomaniaPozitiva",
+      "title": "Hoinar.Unbroken s-a încheiat în aplauzele unor săli pline și spectacole sold-out",
+      "summary": "Ediția cu numărul 9 a adus aproape 1500 de spectatori în sălile de spectacol, un număr record în istoria festivalului Cea de-a 9-a ediție a Hoinar Festival, desfășurată sub umbrela&#8230; Articolul Hoinar.Unbroken s-a încheiat în aplauzele unor săli pline și spectacole sold-out apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/cultura/hoinar-unbroken-s-a-incheiat-in-aplauzele-unor-sali-pline-si-spectacole-sold-out",
+      "published_utc": "2026-05-22T12:03:40+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-4de3a9c84f99b3a5/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "RomaniaPozitiva",
+      "title": "De la László Nemes la noile voci din filmul maghiar: programul Zilei Maghiare la TIFF.25",
+      "summary": "Un thriller despre o familie surogat, documentare construite din arhive personale și povești despre maternitate, identitate sau succes venit prea devreme se regăsesc în programul Zilei Maghiare de la cea&#8230; Articolul De la László Nemes la noile voci din filmul maghiar: programul Zilei Maghiare la TIFF.25 apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/cultura/de-la-laszlo-nemes-la-noile-voci-din-filmul-maghiar-programul-zilei-maghiare-la-tiff-25",
+      "published_utc": "2026-05-22T11:56:54+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-53b081eacb08ea62/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "RomaniaPozitiva",
+      "title": "BREAKING NEWS: Gala Premiilor UNITER, ediția 34. Să celebrăm teatrul românesc ÎMPREUNĂ!",
+      "summary": "Luni, 25 mai, ora 20:00, UNITER dezvăluie ediția 34 a premiilor teatrului românesc, la Teatrul Odeon, sărbătoare care – pe lângă menirea de a recunoaște valorile din teatru – vorbește&#8230; Articolul BREAKING NEWS: Gala Premiilor UNITER, ediția 34. Să celebrăm teatrul românesc ÎMPREUNĂ! apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/bucuresti/breaking-news-gala-premiilor-uniter-editia-34-sa-celebram-teatrul-romanesc-impreuna",
+      "published_utc": "2026-05-22T10:52:01+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-7d45ef16d4c4e11a/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Start-Up Romania",
+      "title": "10 proiecte dezvoltate de elevi cu AI, robotică și imprimare 3D intră în finala 3DUTECH 2026",
+      "summary": "Elevi din București, Brăila, Galați, Craiova, Zalău, Ploiești, Satu Mare, Comănești și Pitești au ajuns în finala competiției naționale 3DUTECH 2026, concurs dedicat proiectelor dezvoltate cu...",
+      "link": "https://start-up.ro/10-proiecte-dezvoltate-de-elevi-cu-ai-robotica-si-imprimare-3d-intra-in-finala-3dutech-2026",
+      "published_utc": "2026-05-22T10:43:10+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://start-up.ro/img/articles/3/8/4/38416/cover-38416-src.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Lucrările preliminare pentru recuperarea remorcherului Astana, scufundat la Midia, au început: nava e la 26 de metri adâncime",
+      "summary": "Reprezentanţii Midia Marine Terminal au anunţat, vineri, că a fost aprobat planul de ranfluare a remorcherului scufundat la jumătatea lunii martie - eveniment în urma căruia doi marinari au murit şi trei sunt daţi dispăruţi – şi că au început lucrările preliminare pentru operaţiunea de recuperare a remorcherului. Nava este la o adâncime de 26 de metri, iar căutările în interiorul ei vor demara doar dacă operaţiunea va fi considerată sigură.",
+      "link": "https://www.digi24.ro/stiri/lucrarile-preliminare-pentru-recuperarea-remorcherului-scufundat-la-midia-in-martie-au-inceput-nava-e-la-26-de-metri-adancime-3781491",
+      "published_utc": "2026-05-22T10:16:36+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMyUyRjE4JTJGMjY0MzA4NF8yNjQz/MDg0X2FzdGFuYS5wbmcmaGFzaD0wMGMy/ZjNmYWZlZmMyMzJkNTMyYTVmY2Y1N2MwMTk0OA==.png"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "RomaniaPozitiva",
+      "title": "Activități pentru vârstnici la hub-ul cultural timișorean „habitat B1”",
+      "summary": "Club de kinetoterapie pentru seniori + vizită de expoziții de artă la habitat B1 Găzduim sesiuni gratuite de kinetoterapie în fiecare ultimă joi din fiecare lună, de la ora 09:00,&#8230; Articolul Activități pentru vârstnici la hub-ul cultural timișorean „habitat B1” apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/banat-crisana/activitati-pentru-varstnici-la-hub-ul-cultural-timisorean-habitat-b1",
+      "published_utc": "2026-05-22T10:00:41+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-2ee173bbd3643c73/480/320"
     },
     {
       "section": "romania",
@@ -697,62 +817,14 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "Raiffeisen Comunități anunță câștigătorii ediției a 15-a: finanțări de 4 milioane de lei pentru proiectele selectate",
-      "summary": "Raiffeisen Bank România și Asociația pentru Relații Comunitare (ARC) anunță câștigătorii ediției a 15-a a programului Raiffeisen Comunități și acordă finanțări totale de 4 milioane de lei proiectelor selectate în&#8230; Articolul Raiffeisen Comunități anunță câștigătorii ediției a 15-a: finanțări de 4 milioane de lei pentru proiectele selectate apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/csr/raiffeisen-comunitati-anunta-castigatorii-editiei-a-15-a-finantari-de-4-milioane-de-lei-pentru-proiectele-selectate",
-      "published_utc": "2026-05-22T07:12:51+00:00",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Avertismente și mai înfricoșătoare pe pachetele de țigări: „80% din preț se duce la stat”",
+      "summary": "Uită de pozele cu cancer de laringe! Noile ambalaje ale pachetelor de țigări conțin mesaje mult mai înfricoșătoare, care îi vor băga serios în sperieți pe fumători. În locul mesajelor axate pe prevenție și sănătate, vor fi băgate mesaje fiscale sau economice. În primul rând, va exista mesajul „80% din prețul acestui pachet de țigări [&#8230;] The post Avertismente și mai înfricoșătoare pe pachetele de țigări: „80% din preț se duce la stat” appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/life-death/avertismente-si-mai-infricosatoare-pe-pachetele-de-tigari-80-din-pret-se-duce-la-stat",
+      "published_utc": "2026-05-22T03:12:00+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-edb5130c5bcc29bd/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Start-Up Romania",
-      "title": "cyber_Folks: 1,5 milioane de servere și site-uri au fost expuse recent la atacuri automate. „Nu mai e o întrebare de «dacă», ci de «când» vor fi țintite”",
-      "summary": "cyber_Folks, companie specializată în găzduire web, infrastructură digitală și soluții cloud scalabile, avertizează că firmele mici și mijlocii devin tot mai vulnerabile în fața atacurilor automate...",
-      "link": "https://start-up.ro/cyber-folks-1-5-milioane-de-servere-si-site-uri-au-fost-expuse-recent-la-atacuri-automate-nu-mai-e-o-intrebare-de-daca-ci-de-cand-vor-fi-tintite",
-      "published_utc": "2026-05-22T07:10:21+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://start-up.ro/img/articles/3/8/4/38414/cover-38414-src.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "„Școala care dă încredere: cultivarea sistemică a siguranței emoționale în școli” aduce împreună lideri din educație, business și sectorul public pentru a redefini siguranța emoțională în școlile din România",
-      "summary": "Asociația Școala Încrederii organizează la București, pe 23 mai 2026, la NOD Makerspace începând cu ora 10:00, evenimentul „Școala care dă încredere: cultivarea sistemică a siguranței emoționale în școli”. Evenimentul&#8230; Articolul „Școala care dă încredere: cultivarea sistemică a siguranței emoționale în școli” aduce împreună lideri din educație, business și sectorul public pentru a redefini siguranța emoțională în școlile din România apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/bucuresti/scoala-care-da-incredere-cultivarea-sistemica-a-sigurantei-emotionale-in-scoli-aduce-impreuna-lideri-din-educatie-business-si-sectorul-public-pentru-a-redefini-siguranta-emotionala",
-      "published_utc": "2026-05-22T06:58:09+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-aade8a59e43d167c/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "Cel mai important eveniment dedicat muzicii noi la nivel mondial începe mâine, la București: Festivalul Internațional ISCM WORLD NEW MUSIC DAYS 2026 – „Columna Infinită”",
-      "summary": "Între 23 și 31 mai 2026, Bucureștiul devine capitala internațională a muzicii contemporane, odată cu desfășurarea Festivalului Internațional ISCM World New Music Days 2026 – „Columna Infinită”, cel mai prestigios&#8230; Articolul Cel mai important eveniment dedicat muzicii noi la nivel mondial începe mâine, la București: Festivalul Internațional ISCM WORLD NEW MUSIC DAYS 2026 – „Columna Infinită” apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/cultura/cel-mai-important-eveniment-dedicat-muzicii-noi-la-nivel-mondial-incepe-maine-la-bucuresti-festivalul-international-iscm-world-new-music-days-2026-columna-infinita",
-      "published_utc": "2026-05-22T06:57:24+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-93d9681a60d8a1fe/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "Sports Festival intră într-o nouă etapă: The Grand Stage of Movement Celebration",
-      "summary": "Sports Festival, cel mai mare eveniment multi-sport din România, intră într-o nouă etapă și lansează o nouă identitate de brand, construită în jurul platformei ”The Grand Stage of Movement Celebration”.&#8230; Articolul Sports Festival intră într-o nouă etapă: The Grand Stage of Movement Celebration apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/sport/sports-festival-intra-intr-o-noua-etapa-the-grand-stage-of-movement-celebration",
-      "published_utc": "2026-05-21T14:47:40+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-4935fcd20a4a9861/480/320"
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/PRET_LA_STAT.jpg"
     },
     {
       "section": "romania",
@@ -770,13 +842,13 @@
       "section": "romania",
       "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 Pelerinaj vs. consultări",
-      "summary": "The post Pelerinaj vs. consultări appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/ovi/pelerinaj-vs-consultari",
-      "published_utc": "2026-05-21T07:55:30+00:00",
+      "title": "😂 Parcul Central din Cluj va fi închis! A primit aviz negativ din partea Ordinului Onaniștilor Clujeni",
+      "summary": "Clujenii sunt revoltați după ce au aflat că Parcul Central din oraș va trebui închis pe perioadă nedeterminată. Se pare că parcul are aviz de funcționare doar de la Ordinul Arhitecților, dar nu și de la Ordinul Onaniștilor Clujeni &#8211; acesta din urmă fiind absolut obligatoriu. Ordinul Onaniștilor Clujeni a dat aviz negativ parcului pentru [&#8230;] The post Parcul Central din Cluj va fi închis! A primit aviz negativ din partea Ordinului Onaniștilor Clujeni appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/monden/parcul-central-din-cluj-va-fi-inchis-a-primit-aviz-negativ-din-partea-ordinului-onanistilor-clujeni",
+      "published_utc": "2026-05-21T08:41:53+00:00",
       "score": 3,
       "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/Pelerinaj-vs.-consultari.jpg"
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/acces_interzis_parc.jpg"
     },
     {
       "section": "romania",
@@ -827,6 +899,18 @@
       "image": "https://picsum.photos/seed/vb-147a41b3f87f9b8a/480/320"
     },
     {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Researchers collaborate on effort to map biodiversity on Indonesia's unexplored seamounts",
+      "summary": "Researchers from the University of Rhode Island are contributing to an international effort to document life on Indonesia's remote tropical seamounts—underwater mountains rising from the ocean floor that can host diverse deep-sea communities.",
+      "link": "https://phys.org/news/2026-05-collaborate-effort-biodiversity-indonesia-unexplored.html",
+      "published_utc": "2026-05-22T13:20:03+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-collaborat.jpg"
+    },
+    {
       "section": "romania",
       "kind": "ro",
       "source": "World Vision Romania",
@@ -853,13 +937,13 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "FIFA's huge World Cup to generate unprecedented cash and CO₂",
-      "summary": "The biggest and most lucrative ever World Cup this summer will also set a record for the most-polluting sporting event in history, environmental experts say.",
-      "link": "https://phys.org/news/2026-05-fifa-huge-world-cup-generate.html",
-      "published_utc": "2026-05-22T09:30:01+00:00",
-      "score": 0,
+      "title": "Superconducting vortices moonlight as controllable qubits, turning a disruption into a resource",
+      "summary": "Vortices in superconductors have so far been considered a disruption, as they can impair the superconducting properties. Researchers at the Karlsruhe Institute of Technology (KIT) have proved in experiments that magnetic vortices can be used as controllable quantum systems in certain materials. This means that a previously unwanted phenomenon is becoming a potential resource in quantum technologies, opening up new avenues for the development of quantum computers, highly sensitive sensor systems, and innovative approaches in materials research. These results are published in Nature.",
+      "link": "https://phys.org/news/2026-05-superconducting-vortices-moonlight-qubits-disruption.html",
+      "published_utc": "2026-05-22T13:20:01+00:00",
+      "score": 1,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-world-cup-will-pro.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/once-a-disruption-now.jpg"
     },
     {
       "section": "romania",
@@ -886,16 +970,16 @@
       "image": "https://picsum.photos/seed/vb-451d72078f5c9ca1/480/320"
     },
     {
-      "section": "medical",
+      "section": "science",
       "kind": "global",
-      "source": "Medical Xpress",
-      "title": "What to know about the Japanese-style scalp massages catching on in the US",
-      "summary": "Getting a scalp or face massage is often a relaxing highlight of getting a haircut or a facial. Now, head spas are popping up across the country offering deep cranial and facial relaxation.",
-      "link": "https://medicalxpress.com/news/2026-05-japanese-style-scalp-massages.html",
-      "published_utc": "2026-05-22T09:10:01+00:00",
+      "source": "Phys.org",
+      "title": "Midwest flamingos and 'hurricane toads': Wildlife's strange storm stories",
+      "summary": "Hurricanes can be a devastating force—leveling trees, erasing beaches and damaging homes. But what do they do to wildlife? The answer ranges from the good to the bad to the ugly. Hurricanes sometimes help native species, but other times, they introduce and spread invasive species. Sometimes, they cause animals to evolve to survive these storms more easily, and sometimes they lead to mass migration or extinction.",
+      "link": "https://phys.org/news/2026-05-midwest-flamingos-hurricane-toads-wildlife.html",
+      "published_utc": "2026-05-22T13:00:01+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/what-to-know-about-the-18.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ocean-birds.jpg"
     },
     {
       "section": "romania",
@@ -925,13 +1009,13 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Atlas reveals rocks with rare earth element potential, helping pinpoint new deposits",
-      "summary": "A new atlas charts the global distribution of unusual, critical-metal-bearing igneous rocks, finding that they often form near the thick and ancient cores of the world's major continents. Researchers from Cambridge's Department of Earth Sciences mapped occurrences of CO2-rich igneous rocks—the world's primary source of rare earth elements—finding that their distribution is strongly tied to variations in Earth's rigid outer layer, the lithosphere.",
-      "link": "https://phys.org/news/2026-05-atlas-reveals-rare-earth-element.html",
-      "published_utc": "2026-05-22T09:00:09+00:00",
-      "score": 1,
+      "title": "New tool helps accurately assemble notoriously difficult bird genomes",
+      "summary": "A new computational program, MicroFinder, enables faster and more accurate assembly of bird genomes. Improved genome assemblies will help researchers better understand bird biology, evolution, and help inform conservation efforts.",
+      "link": "https://phys.org/news/2026-05-tool-accurately-notoriously-difficult-bird.html",
+      "published_utc": "2026-05-22T12:40:03+00:00",
+      "score": 5,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-map-rocks-w.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/black-headed-gull.jpg"
     },
     {
       "section": "romania",
@@ -958,16 +1042,16 @@
       "image": "https://picsum.photos/seed/vb-c01ff56684c84200/480/320"
     },
     {
-      "section": "medical",
+      "section": "science",
       "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Researchers identify avenue for enhanced GLP-1-induced weight loss",
-      "summary": "A team of researchers at the National Institutes of Health (NIH) have unveiled new details about the events GLP-1 receptor agonists trigger within neurons, which have been largely unexplored until now. A study in mice identified key intracellular signaling processes that are tied to the weight-loss effects of the GLP-1 drug semaglutide. The work has been published in Nature Metabolism",
-      "link": "https://medicalxpress.com/news/2026-05-avenue-glp-weight-loss.html",
-      "published_utc": "2026-05-22T09:00:06+00:00",
-      "score": 2,
+      "source": "Phys.org",
+      "title": "Human‑made chemicals are harming seals at the molecular level, study finds",
+      "summary": "Ringed seals are among the most common marine mammals in the Canadian Arctic. They strongly rely on sea ice as a habitat, breathing through holes they maintain in the frozen surface, giving birth in snow lairs and diving beneath the ice to hunt Arctic cod and small crustaceans.",
+      "link": "https://phys.org/news/2026-05-humanmade-chemicals-molecular.html",
+      "published_utc": "2026-05-22T12:20:02+00:00",
+      "score": 1,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/semaglutide-2.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ringed-seal.jpg"
     },
     {
       "section": "romania",
@@ -994,16 +1078,16 @@
       "image": "https://picsum.photos/seed/vb-aee1cf7180726a8a/480/320"
     },
     {
-      "section": "medical",
+      "section": "science",
       "kind": "global",
-      "source": "Medical Xpress",
-      "title": "COVID-19 mRNA vaccine plus immune system enhancer may reduce need for repeated boosters, say researchers",
-      "summary": "In a new study published in Nature Immunology, researchers at Boston Children's Hospital demonstrated that pairing the original COVID-19 mRNA vaccine with an immune system enhancer, known as an adjuvant, improved the duration of the vaccine's protection in mice. The combo also showed a more pronounced response against omicron viral components than the vaccine alone.",
-      "link": "https://medicalxpress.com/news/2026-05-covid-mrna-vaccine-immune-boosters.html",
-      "published_utc": "2026-05-22T09:00:04+00:00",
-      "score": 4,
+      "source": "Phys.org",
+      "title": "Why the intrinsic quantum effects of axion dark matter are completely undetectable",
+      "summary": "Dark matter is an elusive form of matter that almost never emits, absorbs or reflects light, while only weakly interacting with regular matter. These properties make it very difficult to detect using conventional experimental techniques and instruments.",
+      "link": "https://phys.org/news/2026-05-intrinsic-quantum-effects-axion-dark.html",
+      "published_utc": "2026-05-22T12:10:02+00:00",
+      "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/covid-19-vaccine.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-the-intrinsic-quan-1.jpg"
     },
     {
       "section": "romania",
@@ -1033,13 +1117,13 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Ancient DNA reveals web of marriage and migration in Peru centuries before Inca rule",
-      "summary": "Long-distance migration along Peru's Pacific coast began at least 800 years ago, centuries before the rise of the Inca Empire and much earlier than previously thought, a new international study reveals.",
-      "link": "https://phys.org/news/2026-05-ancient-dna-reveals-web-marriage.html",
-      "published_utc": "2026-05-22T09:00:03+00:00",
-      "score": 1,
+      "title": "Would you trust AI to help you find 'the one'? Dating apps are betting it can",
+      "summary": "In the relatively short time they've been around, online dating apps have transformed how we hook up, date and fall in love. These apps have long been characterized by \"swipe logic\": users are shown profiles of others and must swipe left or right to decide whether they like them or not.",
+      "link": "https://phys.org/news/2026-05-ai-dating-apps.html",
+      "published_utc": "2026-05-22T12:00:04+00:00",
+      "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ancient-dna-reveals-we.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/dating-apps.jpg"
     },
     {
       "section": "romania",
@@ -1069,13 +1153,13 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "India generates record power as demand surges in severe heat wave",
-      "summary": "India's power producers have set a record for electricity generation as swaths of the world's most populous nation swelters in an intense heat wave, the Ministry of Power said.",
-      "link": "https://phys.org/news/2026-05-india-generates-power-demand-surges.html",
-      "published_utc": "2026-05-22T08:40:07+00:00",
+      "title": "What do the Commonwealth Writers Prize AI allegations mean for prizes—and short stories?",
+      "summary": "Another day, another literary scandal involving AI. It has been alleged that the judges of the Commonwealth Short Story Prize have been duped by an author using AI in his winning entry. Jamir Nazir's The Serpent in the Grove, which won for the Caribbean region, was then published in leading literary magazine Granta, along with other winning entries.",
+      "link": "https://phys.org/news/2026-05-commonwealth-writers-prize-ai-allegations.html",
+      "published_utc": "2026-05-22T11:40:05+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-rickshaw-puller-in-d.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/what-do-the-commonweal.jpg"
     },
     {
       "section": "romania",
@@ -1093,37 +1177,73 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Gibraltar monkeys eat soil in junk food detox, study finds",
-      "summary": "A colony of macaques that gorge on snacks offered by tourists in the British territory of Gibraltar swallow soil to recover from their junk food binges, a study has found.",
-      "link": "https://phys.org/news/2026-05-gibraltar-monkeys-soil-junk-food.html",
-      "published_utc": "2026-05-22T08:40:05+00:00",
-      "score": 1,
+      "title": "If you need to anesthetize a butterfly, here's the best way to do it",
+      "summary": "Anesthesia makes life-saving procedures as painless and stress-free as possible for the animals we love and care for. But not a lot is known about the effects of anesthesia on animals that we don't typically consider pets—like butterflies and other invertebrates. Insects are often valuable members of nature centers, zoos and museums, but even if they're just being evaluated in the wild, they can need anesthesia during physical examinations and injury treatment.",
+      "link": "https://phys.org/news/2026-05-anesthetize-butterfly.html",
+      "published_utc": "2026-05-22T11:33:54+00:00",
+      "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/black-and-white-butter.jpg"
     },
     {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Countdown glitch delays world's biggest rocket as SpaceX targets Friday retry",
-      "summary": "Elon Musk's SpaceX postponed the highly anticipated launch of its upgraded Starship megarocket, calling off Thursday's test after multiple countdown stops-and-starts.",
-      "link": "https://phys.org/news/2026-05-countdown-glitch-delays-starship-12th.html",
-      "published_utc": "2026-05-22T08:40:03+00:00",
+      "title": "Exploring education during times of economic crisis",
+      "summary": "Major economic crises affect a country in myriad ways, often resulting in unemployment spikes, increased inequality between financial classes, housing instability, and much more. But how do they impact the educational landscape, particularly at the secondary school level? That's what Pawel Janas, an assistant professor of economics at Caltech, examined in a new study investigating American education rates during the Great Depression.",
+      "link": "https://phys.org/news/2026-05-exploring-economic-crisis.html",
+      "published_utc": "2026-05-22T11:20:03+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-launch-of-spacexs.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/student-4.jpg"
     },
     {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Something coming: what scientists know about a potential 'super' El Nino",
-      "summary": "Forecasters say a potentially \"super\" El Niño is rapidly taking shape in the Pacific—but whether it evolves into a history-making event could hinge on fickle winds and other volatile atmospheric shifts.",
-      "link": "https://phys.org/news/2026-05-scientists-potential-super-el-nino.html",
-      "published_utc": "2026-05-22T08:18:14+00:00",
+      "title": "Listening to the rainforest: Researcher uses AI to monitor biodiversity through sound",
+      "summary": "In tropical forests, much of the biodiversity can be heard before it is seen. Birds call, insects buzz and frogs croak, creating complex soundscapes that reflect the presence of different species.",
+      "link": "https://phys.org/news/2026-05-rainforest-ai-biodiversity.html",
+      "published_utc": "2026-05-22T11:00:03+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/historic-el-nino-event.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/listening-to-the-rainf.jpg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "What to know about the Japanese-style scalp massages catching on in the US",
+      "summary": "Getting a scalp or face massage is often a relaxing highlight of getting a haircut or a facial. Now, head spas are popping up across the country offering deep cranial and facial relaxation.",
+      "link": "https://medicalxpress.com/news/2026-05-japanese-style-scalp-massages.html",
+      "published_utc": "2026-05-22T09:10:01+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/what-to-know-about-the-18.jpg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "Researchers identify avenue for enhanced GLP-1-induced weight loss",
+      "summary": "A team of researchers at the National Institutes of Health (NIH) have unveiled new details about the events GLP-1 receptor agonists trigger within neurons, which have been largely unexplored until now. A study in mice identified key intracellular signaling processes that are tied to the weight-loss effects of the GLP-1 drug semaglutide. The work has been published in Nature Metabolism",
+      "link": "https://medicalxpress.com/news/2026-05-avenue-glp-weight-loss.html",
+      "published_utc": "2026-05-22T09:00:06+00:00",
+      "score": 2,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/semaglutide-2.jpg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "COVID-19 mRNA vaccine plus immune system enhancer may reduce need for repeated boosters, say researchers",
+      "summary": "In a new study published in Nature Immunology, researchers at Boston Children's Hospital demonstrated that pairing the original COVID-19 mRNA vaccine with an immune system enhancer, known as an adjuvant, improved the duration of the vaccine's protection in mice. The combo also showed a more pronounced response against omicron viral components than the vaccine alone.",
+      "link": "https://medicalxpress.com/news/2026-05-covid-mrna-vaccine-immune-boosters.html",
+      "published_utc": "2026-05-22T09:00:04+00:00",
+      "score": 4,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/covid-19-vaccine.jpg"
     },
     {
       "section": "medical",
@@ -1136,30 +1256,6 @@
       "score": 5,
       "freshness_boost": 3,
       "image": "https://picsum.photos/seed/vb-33cdf5200925c4d0/480/320"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "ScienceDaily Science",
-      "title": "Stunning 150-million-year-old stegosaur skull rewrites dinosaur evolution",
-      "summary": "A spectacular dinosaur discovery in Spain is giving scientists a rare new look inside the world of stegosaurs. Paleontologists uncovered the best-preserved stegosaur skull ever found in Europe, belonging to the iconic plated dinosaur Dacentrurus armatus, which roamed Earth around 150 million years ago. Because stegosaur skulls are extremely fragile and almost never survive intact, the fossil is helping researchers uncover previously unknown details about how these armored giants evolved.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260515233340.htm",
-      "published_utc": "2026-05-17T06:38:26+00:00",
-      "score": 5,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-12e2be1002daf130/480/320"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "ScienceDaily Science",
-      "title": "Lost 1,200-year-old manuscript contains the first English poem",
-      "summary": "A long-lost manuscript discovered in Rome has revealed one of the oldest surviving versions of the very first known poem written in English. Hidden for decades and once believed lost, the 1,200-year-old manuscript contains Caedmon’s Hymn — a nine-line Old English poem said to have been miraculously composed by a shy Northumbrian cowherd after a divine dream.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260515233337.htm",
-      "published_utc": "2026-05-17T06:22:40+00:00",
-      "score": 2,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-3d807178624169c5/480/320"
     },
     {
       "section": "medical",
@@ -1308,12 +1404,12 @@
   ],
   "joke_ro": {
     "date_utc": "2026-05-22",
-    "text": "Telefonul are 3% baterie, dar incredere maxima in mine.",
+    "text": "Am facut pasi spre succes. Majoritatea au fost spre bucatarie.",
     "source": "data/jokes_ro.txt"
   },
   "satire_ro": {
-    "title": "Românii au decis deja la ce amanet merg pentru banii de concediu",
-    "link": "https://www.timesnewroman.ro/life-death/romanii-au-decis-deja-la-ce-amanet-merg-pentru-banii-de-concediu/",
+    "title": "După 10 ani de tergiversări, orașul Urlați și-a schimbat denumirea în Corneliu Vadim Tudor",
+    "link": "https://www.timesnewroman.ro/life-death/dupa-10-ani-de-tergiversari-orasul-urlati-si-a-schimbat-denumirea-in-corneliu-vadim-tudor/",
     "source": "timesnewroman.ro"
   },
   "top_images": [
@@ -1321,23 +1417,24 @@
       "tag": "space",
       "title": "Space",
       "link": "https://commons.wikimedia.org/wiki/Category:Astronomy",
-      "image": "https://live.staticflickr.com/65535/55283853887_3c356f2a41_b.jpg"
+      "image": "https://live.staticflickr.com/65535/55285843209_7d0c03ae12_b.jpg"
     },
     {
       "tag": "animals",
       "title": "Animals",
       "link": "https://commons.wikimedia.org/wiki/Category:Animals",
-      "image": "https://live.staticflickr.com/65535/55285801483_31fcbf12d7_b.jpg"
+      "image": "https://live.staticflickr.com/65535/55286543874_1cc144de27_b.jpg"
     },
     {
       "tag": "landscape",
       "title": "Landscape",
       "link": "https://commons.wikimedia.org/wiki/Category:Landscapes",
-      "image": "https://live.staticflickr.com/65535/55284660836_bfe8c8e6ef_b.jpg"
+      "image": "https://live.staticflickr.com/65535/55286371571_43fbb2e4b2_b.jpg"
     }
   ],
   "top_image_history": {
     "space": [
+      "https://live.staticflickr.com/65535/55285843209_7d0c03ae12_b.jpg",
       "https://live.staticflickr.com/65535/55283853887_3c356f2a41_b.jpg",
       "https://live.staticflickr.com/65535/55282392847_d9518dce46_b.jpg",
       "https://live.staticflickr.com/65535/55283497151_59966d4c67_b.jpg",
@@ -1354,10 +1451,10 @@
       "https://live.staticflickr.com/video/55270817284/5a5dc3ef45/360p.mp4?s=eyJpIjo1NTI3MDgxNzI4NCwiZSI6MTc3ODg1MzQ0OSwicyI6IjVjOWI3MDAxYWVjMTUyYjhlY2EzOTVmMzVkYTBiYzdlYzJlYTRhZjQiLCJ2IjoxfQ",
       "https://live.staticflickr.com/65535/55268035952_e5abca34aa_b.jpg",
       "https://live.staticflickr.com/65535/55118553617_ccb01fe436_b.jpg",
-      "https://live.staticflickr.com/65535/55268377001_70d0fda2e9_b.jpg",
-      "https://live.staticflickr.com/65535/55267142851_faf636078b_b.jpg"
+      "https://live.staticflickr.com/65535/55268377001_70d0fda2e9_b.jpg"
     ],
     "animals": [
+      "https://live.staticflickr.com/65535/55286543874_1cc144de27_b.jpg",
       "https://live.staticflickr.com/65535/55285801483_31fcbf12d7_b.jpg",
       "https://live.staticflickr.com/65535/55284503943_0dfdf167de_b.jpg",
       "https://live.staticflickr.com/65535/55283595546_9f8652332c_b.jpg",
@@ -1374,10 +1471,10 @@
       "https://live.staticflickr.com/65535/55271585003_bd7f486326_b.jpg",
       "https://live.staticflickr.com/65535/55270818979_3d4f32b037_b.jpg",
       "https://live.staticflickr.com/65535/55268581197_e8a49b2af2_b.jpg",
-      "https://live.staticflickr.com/65535/55268814938_53bc2d269e_b.jpg",
-      "https://live.staticflickr.com/65535/55266486412_224f4948d4_b.jpg"
+      "https://live.staticflickr.com/65535/55268814938_53bc2d269e_b.jpg"
     ],
     "landscape": [
+      "https://live.staticflickr.com/65535/55286371571_43fbb2e4b2_b.jpg",
       "https://live.staticflickr.com/65535/55284660836_bfe8c8e6ef_b.jpg",
       "https://live.staticflickr.com/65535/55284793155_afeaf5792a_b.jpg",
       "https://live.staticflickr.com/65535/55283618196_27ef411087_b.jpg",
@@ -1394,10 +1491,10 @@
       "https://live.staticflickr.com/65535/55257378819_bf5d71f2fb_b.jpg",
       "https://live.staticflickr.com/65535/55269858287_4e47391cc8_b.jpg",
       "https://live.staticflickr.com/65535/55269799135_a0319a6420_b.jpg",
-      "https://live.staticflickr.com/65535/55267629262_771ebb9803_b.jpg",
-      "https://live.staticflickr.com/65535/55267666294_45de879b5d_b.jpg"
+      "https://live.staticflickr.com/65535/55267629262_771ebb9803_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/55278808763_df85156436_b.jpg",
       "https://live.staticflickr.com/65535/34293674765_6d9cd3ae2c_b.jpg",
       "https://live.staticflickr.com/65535/55278808758_10fdea9c05_b.jpg",
       "https://live.staticflickr.com/65535/55272273280_2795bb4f91_b.jpg",
@@ -1414,10 +1511,10 @@
       "https://live.staticflickr.com/65535/55278808488_237877c62c_b.jpg",
       "https://live.staticflickr.com/65535/16766896473_918e6bc30a_b.jpg",
       "https://live.staticflickr.com/65535/31072479383_5636e8cd4d_b.jpg",
-      "https://live.staticflickr.com/65535/55279795299_e79c2a270e_b.jpg",
-      "https://live.staticflickr.com/65535/51134771917_7742afb25e_b.jpg"
+      "https://live.staticflickr.com/65535/55279795299_e79c2a270e_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55286701880_920be6d02e_b.jpg",
       "https://live.staticflickr.com/5579/14548849174_62c39b965b_b.jpg",
       "https://live.staticflickr.com/65535/55284856992_3a4b921dfc_b.jpg",
       "https://live.staticflickr.com/65535/55285492396_d9e9b43663_b.jpg",
@@ -1434,12 +1531,11 @@
       "https://live.staticflickr.com/65535/14526040486_8737037f62_b.jpg",
       "https://live.staticflickr.com/65535/55282060517_787dd8bdcb_b.jpg",
       "https://live.staticflickr.com/65535/55281802692_f9a28eb748_b.jpg",
-      "https://live.staticflickr.com/65535/55282104548_c68281067d_b.jpg",
-      "https://live.staticflickr.com/65535/51013394261_2112318877_b.jpg"
+      "https://live.staticflickr.com/65535/55282104548_c68281067d_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
+      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
