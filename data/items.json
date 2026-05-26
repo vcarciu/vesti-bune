@@ -1,66 +1,54 @@
 {
-  "generated_utc": "2026-05-26T10:40:41+00:00",
+  "generated_utc": "2026-05-26T13:46:17+00:00",
   "sections": {
     "romania": [
       {
         "section": "romania",
         "kind": "ro",
-        "source": "Green Start-Up Romania",
-        "title": "BYD lansează DOLPHIN G DM-i, model hibrid supermini pentru Europa",
-        "summary": "BYD prezintă DOLPHIN G DM-i pentru segmentul B european. Alimentat de tehnologia Super Hybrid cu DM a BYD, DOLPHIN G DM-i îmbină dimensiunile compacte, practicabilitatea unui automobil de familie...",
-        "link": "https://green.start-up.ro/ro/byd-lanseaza-dolphin-g-dm-i-model-hibrid-subcompact-pentru-europa",
-        "published_utc": "2026-05-26T10:36:45+00:00",
+        "source": "Start-Up Romania",
+        "title": "Logitech lansează Signature Comfort Plus, prima gamă cu mouse cu pernuță pentru palmă",
+        "summary": "Logitech a anunțat lansarea noii game Signature Comfort Plus, care include primul mouse al companiei cu pernuță pentru palmă și o tastatură ergonomică dezvoltată pentru utilizare îndelungată la birou.",
+        "link": "https://start-up.ro/logitech-lanseaza-signature-comfort-plus-prima-gama-cu-mouse-cu-pernuta-pentru-palma",
+        "published_utc": "2026-05-26T13:36:24+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://green.start-up.ro/img/articles/3/5/9/35916/cover-35916-src.jpg"
+        "image": "https://start-up.ro/img/articles/3/8/4/38433/cover-38433-src.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "RomaniaPozitiva",
+        "title": "Peste 1.400 de eleve din România au construit aplicații pentru probleme reale",
+        "summary": "Nu sunt ingineri. Nu sunt cercetători. Nu au început încă facultatea. Sunt eleve între 8 și 18 ani. Și au construit aplicații pentru probleme pe care lumea le ignoră sau&#8230; Articolul Peste 1.400 de eleve din România au construit aplicații pentru probleme reale apare prima dată în Romania Pozitiva .",
+        "link": "https://www.romaniapozitiva.ro/educatie/peste-1-400-de-eleve-din-romania-au-construit-aplicatii-pentru-probleme-reale",
+        "published_utc": "2026-05-26T12:25:39+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-cb72dc75a0226f45/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "RomaniaPozitiva",
+        "title": "ESTE FILM Festival: tineri profesioniști și experți din domeniul cultural explorează practicile rezilienței în cadrul LINE-UP Academy",
+        "summary": "Ceea ce a început ca o idee ambițioasă a devenit acum o tradiție solidă în continuă dezvoltare: cea de-a patra ediție a LINE-UP: International Academy &#38; Networking for Festival Managers&#8230; Articolul ESTE FILM Festival: tineri profesioniști și experți din domeniul cultural explorează practicile rezilienței în cadrul LINE-UP Academy apare prima dată în Romania Pozitiva .",
+        "link": "https://www.romaniapozitiva.ro/cultura/este-film-festival-tineri-profesionisti-si-experti-din-domeniul-cultural-exploreaza-practicile-rezilientei-in-cadrul-line-up-academy",
+        "published_utc": "2026-05-26T11:56:55+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-f2666fd968d49f7d/480/320"
       },
       {
         "section": "romania",
         "kind": "ro",
         "source": "HotNews",
-        "title": "Foraje eșuate pentru OMV în Marea Neagră, lângă Neptun Deep: „Nu am găsit rezerve suficient de gaz, așa că le-am astupat și abandonat”",
-        "summary": "OMV Petrom și compania NewMed Energy, care sunt operatori în perimetrul offshore Han Asparuh din perimetrul bulgăresc al Mării Negre, anunță că au abandonat forajele în această zonă, scrie Profit.ro. “Am forat două sonde în Han Asparuh. Din păcate, nu am reușit să găsim resurse semnificative de gaze naturale acolo. Am astupat și abandonat ambele &#8230;",
-        "link": "https://hotnews.ro/foraje-esuate-pentru-omv-in-marea-neagra-langa-neptun-deep-nu-am-gasit-rezerve-suficient-de-gaz-asa-ca-le-am-astupat-si-abandonat-2255395",
-        "published_utc": "2026-05-26T08:33:14+00:00",
+        "title": "De ce a fost demolat Teatrul cel Mare, un simbol al Bucureștiului. Deși impozanta clădire de pe Calea Victoriei a fost bombardată, putea fi salvată",
+        "summary": "Până în anul 1947, Bucureștiul a avut un magnific spațiu dedicat artei. Azi, doar o copie a porticului neoclasic de la vechiul Teatru Național, azi intrarea în Hotelul Novotel, amintește de acest dispărut loc emblematic al orașului. Era o clădire care „poate să stea alături de cel mai frumos teatru din Viena”, după cum apreciau &#8230;",
+        "link": "https://hotnews.ro/de-ce-a-fost-demolat-teatrul-cel-mare-un-simbol-al-bucurestiului-desi-impozanta-cladire-de-pe-calea-victoriei-a-fost-bombardata-putea-fi-salvata-2255607",
+        "published_utc": "2026-05-26T11:07:42+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-364cad543650dea1/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "Jurnaliștii Recorder, Snoop, Pressone dezbat în fața publicului",
-        "summary": "Jurnaliști de la Recorder, Snoop, PressOne și Gen Știri discută, marți, de la ora 13.15, despre cum poate presa să se susțină și în alte moduri decât cele tradiționale, în cadrul evenimentului IAA Vision on Ethical Media. În România, au apărut în ultimii ani, mai multe publicații media noi, care rămân în afara modelului tradițional, &#8230;",
-        "link": "https://hotnews.ro/cum-se-poate-sustine-jurnalismul-dezbatere-despre-principalele-provocari-cu-jurnalisti-din-patru-redactii-diferite-2255372",
-        "published_utc": "2026-05-26T08:23:58+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-82273492cd1479c3/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "Miliardele SpaceX: Cum poate ajunge cel mai bun prieten al lui Elon Musk în top 50 bogați ai lumii",
-        "summary": "Înainte de listarea pe bursă, SpaceX preia o datorie de 9 miliarde de dolari către firma deținută de un apropiat al lui Elon Musk. Suma provine din contracte de echipamente IA criticate de experți, potrivit Fortune.com. Antonio Gracias, investitor în fonduri private din Detroit și unul dintre cei mai apropiați aliați ai lui Musk, ar &#8230;",
-        "link": "https://hotnews.ro/miliardele-spacex-cum-poate-ajunge-cel-mai-bun-prieten-al-lui-elon-musk-in-top-50-bogati-ai-lumii-2255327",
-        "published_utc": "2026-05-26T08:21:00+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-140a87a7e0d9acec/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Ce este leșinul și cum trebuie investigat",
-        "summary": "Pierderea scurtă a stării de conștiență poate avea cauze benigne, dar și explicații cardiace sau neurologice care trebuie căutate și excluse. Când episoadele de leșin se repetă, apar fără avertisment sau sunt urmate de traumatisme, evaluarea medicală devine esențială.",
-        "link": "https://www.digi24.ro/sanatate-digimatinal/ce-este-lesinul-si-cum-trebuie-investigat-3784965",
-        "published_utc": "2026-05-26T07:40:01+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwMSUyRjI3JTJGMjE3NjQ5NF8yMTc2/NDk0X2RyLUFuY2EtRGFuLmpwZyZoYXNo/PTk1MDkwNDRhZDJiYzlhM2NjNDRjZWUwNzlhYzU0YzM1.jpg"
+        "image": "https://picsum.photos/seed/vb-7ad16368e99fb399/480/320"
       },
       {
         "section": "romania",
@@ -89,62 +77,14 @@
       {
         "section": "romania",
         "kind": "ro",
-        "source": "RomaniaPozitiva",
-        "title": "Fundația World Vision România și Fundația OMV Petrom lansează startineducatie.ro – primul hub național de educație timpurie din România",
-        "summary": "De la intervenție în comunități vulnerabile la soluție națională &#8211; resurse educaționale gratuite pentru părinți, educatori și grădinițe Oportunități pentru grădinițe și educatori: dotare cu materiale educaționale și cursuri acreditate&#8230; Articolul Fundația World Vision România și Fundația OMV Petrom lansează startineducatie.ro &#8211; primul hub național de educație timpurie din România apare prima dată în Romania Pozitiva .",
-        "link": "https://www.romaniapozitiva.ro/educatie/fundatia-world-vision-romania-si-fundatia-omv-petrom-lanseaza-startineducatie-ro-primul-hub-national-de-educatie-timpurie-din-romania",
-        "published_utc": "2026-05-26T07:21:23+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-bbb0571af5649cee/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Start-Up Romania",
-        "title": "AICoustic a câștigat Innovation Labs 2026. Unele startup-uri au urcat pe scenă cerând investiții de până la 1 milion de euro",
-        "summary": "17 echipe au urcat pe scena finalei Innovation Labs 2026, la Opera Națională București, după luni de mentorat, validare și dezvoltare de produs. Fiecare echipă a avut la dispoziție două minute...",
-        "link": "https://start-up.ro/aicoustic-a-castigat-innovation-labs-2026-unele-startup-uri-au-urcat-pe-scena-cerand-investitii-de-pana-la-1-milion-de-euro",
-        "published_utc": "2026-05-26T07:07:31+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://start-up.ro/img/articles/3/8/4/38427/cover-38427-src.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "RomaniaPozitiva",
-        "title": "30 de județe, 15.700 de elevi, o singură finală: Maratonul pentru Educație Antreprenorială ajunge la Opera Națională București",
-        "summary": "Cea mai amplă inițiativă națională de educație antreprenorială dedicată liceenilor ajunge la momentul care transformă ideile în perspectivă economică Expresia unui demers național care pregătește generația ce va construi economia&#8230; Articolul 30 de județe, 15.700 de elevi, o singură finală: Maratonul pentru Educație Antreprenorială ajunge la Opera Națională București apare prima dată în Romania Pozitiva .",
-        "link": "https://www.romaniapozitiva.ro/bucuresti/30-de-judete-15-700-de-elevi-o-singura-finala-maratonul-pentru-educatie-antreprenoriala-ajunge-la-opera-nationala-bucuresti",
-        "published_utc": "2026-05-26T06:28:04+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-94cb5dd907f1ed9d/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "RomaniaPozitiva",
-        "title": "Curaj, prietenie și familie: 3 cărți de care copiii și părinții au nevoie",
-        "summary": "O selecție de cărți pentru copii, adolescenți și părinți de la Editura ap! (ACT și Politon) Din ce în ce mai mulți părinți sunt în căutarea unor cărți care să-i&#8230; Articolul Curaj, prietenie și familie: 3 cărți de care copiii și părinții au nevoie apare prima dată în Romania Pozitiva .",
-        "link": "https://www.romaniapozitiva.ro/carte-despre-romania/curaj-prietenie-si-familie-3-carti-de-care-copiii-si-parintii-au-nevoie",
-        "published_utc": "2026-05-26T06:22:43+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-253a4fcd146f1b99/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
         "source": "Times New Roman (Satira)",
-        "title": "😂 SMURD se chinuie să-i scoată purtătorului de cuvânt al Poliției capul din curul lui Predoiu",
-        "summary": "Mai multe echipaje SMURD se ocupă de mai multe ore cu o descarcerare extrem de complexă: purtătorul de cuvânt al Poliției Române, Georgian Drăgan, a rămas cu capul blocat în curul lui Cătălin Predoiu. Nu e prima oară când Georgian Drăgan plonjează cu capul înainte în curul ministrului de Interne, ba chiar se poate spune [&#8230;] The post SMURD se chinuie să-i scoată purtătorului de cuvânt al Poliției capul din curul lui Predoiu appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/politic/smurd-se-chinuie-sa-i-scoata-purtatorului-de-cuvant-al-politiei-capul-din-curul-lui-predoiu",
-        "published_utc": "2026-05-25T09:08:22+00:00",
+        "title": "😂 Portretul premierului propus de Nicușor",
+        "summary": "The post Portretul premierului propus de Nicușor appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/ovi/portretul-premierului-propus-de-nicusor",
+        "published_utc": "2026-05-26T07:23:00+00:00",
         "score": 3,
-        "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/purtator_cuvant_politia_romana.jpg"
+        "freshness_boost": 3,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/Portretul-premierului-propust-de-Nicusor.jpg"
       },
       {
         "section": "romania",
@@ -193,18 +133,6 @@
         "score": 3,
         "freshness_boost": 0,
         "image": "https://picsum.photos/seed/vb-07bd4c4752a9218a/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Green Start-Up Romania",
-        "title": "Mercedes-AMG GT 4-Door Coupé oferă peste 1.100 de cai putere complet electrici",
-        "summary": "Mercedes-AMG GT 4-Door oferă un concept de propulsie nou dezvoltat, proiectat strict pentru performanță, utilizat pentru prima dată într-un vehicul electric de serie. Acesta folosește o tehnologie...",
-        "link": "https://green.start-up.ro/ro/mercedes-amg-gt-4-door-coupe-ofera-peste-1-100-de-cai-putere-complet-electrici",
-        "published_utc": "2026-05-21T05:00:01+00:00",
-        "score": 3,
-        "freshness_boost": 0,
-        "image": "https://green.start-up.ro/img/articles/3/5/9/35908/cover-35908-src.jpg"
       },
       {
         "section": "romania",
@@ -404,121 +332,97 @@
         "section": "medical",
         "kind": "global",
         "source": "Medical Xpress",
-        "title": "An 'intelligent tattoo' to detect skin cancer before it appears",
-        "summary": "Detecting melanoma before it becomes visible is a major challenge in dermatology. Now, with researchers from Université de Montréal, scientists at Université du Québec's Institut national de la recherche scientifique (INRS) have developed a promising solution.",
-        "link": "https://medicalxpress.com/news/2026-05-intelligent-tattoo-skin-cancer.html",
-        "published_utc": "2026-05-25T16:40:04+00:00",
+        "title": "Why 40% of people are avoiding the news, according to a psychologist",
+        "summary": "During several recent conversations, people have told me that they've stopped checking their phones in the morning. Not because nothing was happening, but because everything was. They described the feeling as standing under a waterfall of perpetual bad news.",
+        "link": "https://medicalxpress.com/news/2026-05-people-news-psychologist.html",
+        "published_utc": "2026-05-26T13:40:03+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/couple-reading-newspap-1.jpg"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "Scientists say they’ve reversed brain aging with a simple nasal spray",
+        "summary": "Researchers at Texas A&amp;M have developed a nasal spray that appears to reverse brain aging by calming inflammation and restoring the brain’s energy systems. After just two doses, memory and cognitive function improved for months, raising hopes for future treatments targeting dementia and brain fog.",
+        "link": "https://www.sciencedaily.com/releases/2026/05/260526022018.htm",
+        "published_utc": "2026-05-26T13:39:35+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/an-intelligent-tattoo-1.jpg"
+        "image": "https://picsum.photos/seed/vb-536c2af3c887ba30/480/320"
       },
       {
         "section": "medical",
         "kind": "global",
         "source": "Medical Xpress",
-        "title": "Whole health approach cuts chronic pain disruption in veterans after 12 months",
-        "summary": "A new study finds that an interdisciplinary, individualized approach to pain management, including coaching support and health goal planning, may reduce the impact of chronic pain on veterans. The findings are published in JAMA.",
-        "link": "https://medicalxpress.com/news/2026-05-health-approach-chronic-pain-disruption.html",
-        "published_utc": "2026-05-25T16:00:03+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/veterans.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "When bariatric surgery may lower cancer risk: Insulin, sex and genes offer new clues",
-        "summary": "Substantial and sustained weight loss has been linked to a reduced risk of cancer and cancer-related death, mainly in women. Two new studies now provide clues to why the risk is reduced—and suggest that gender, metabolism and genetics may play a crucial role.",
-        "link": "https://medicalxpress.com/news/2026-05-bariatric-surgery-cancer-insulin-sex.html",
-        "published_utc": "2026-05-25T15:40:06+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/clues-to-lower-cancer.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Pulse oximeter bias linked to gaps in care for Black patients",
-        "summary": "Pulse oximeter devices routinely overestimate blood oxygen levels in darker-skinned patients—a racial bias that can trigger downstream health harms for Black individuals, compounding well beyond any single inaccurate reading.",
-        "link": "https://medicalxpress.com/news/2026-05-pulse-oximeter-bias-linked-gaps.html",
-        "published_utc": "2026-05-25T15:20:02+00:00",
+        "title": "Girls with ADHD from deprived backgrounds may face a higher risk of long-term health conditions",
+        "summary": "Girls from a deprived background who are diagnosed with attention deficit hyperactivity disorder (ADHD) may be more likely to experience multiple long-term health conditions, or multimorbidity, in adulthood, according to new research led by the University of Glasgow. The study also showed that women who had both a childhood ADHD diagnosis and a background of socioeconomic deprivation were more than twice as likely to develop multimorbidity compared to those without ADHD.",
+        "link": "https://medicalxpress.com/news/2026-05-girls-adhd-deprived-backgrounds-higher.html",
+        "published_utc": "2026-05-26T13:20:08+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/pulse-oximeter.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/paper-dolls.jpg"
       },
       {
         "section": "medical",
         "kind": "global",
         "source": "Medical Xpress",
-        "title": "Ugandan health officials report new Ebola virus infections, bringing cases to 7",
-        "summary": "Ugandan health authorities on Monday reported two new Ebola cases, bringing the number of infections to seven.",
-        "link": "https://medicalxpress.com/news/2026-05-ugandan-health-ebola-virus-infections.html",
-        "published_utc": "2026-05-25T15:20:01+00:00",
+        "title": "Beyond hot flashes: What menopause can do to your heart—and why it matters",
+        "summary": "As women navigate hot flashes, sleep issues and changing waistlines, there's another quieter change that can often occur during perimenopause and post-menopause that deserves just as much attention: heart health.",
+        "link": "https://medicalxpress.com/news/2026-05-hot-menopause-heart.html",
+        "published_utc": "2026-05-26T13:20:01+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ugandan-health-officia.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/heart-in-hand-1.jpg"
       },
       {
         "section": "medical",
         "kind": "global",
         "source": "Medical Xpress",
-        "title": "Sweden hits smoke-free goal of under 5% daily smokers",
-        "summary": "Sweden met its target of becoming smoke-free in 2025 with less than 5% of the population smoking cigarettes daily, though a quarter of the population still used nicotine daily in some form, such as vapes and snus, a report showed Monday.",
-        "link": "https://medicalxpress.com/news/2026-05-sweden-free-goal-daily-smokers.html",
-        "published_utc": "2026-05-25T15:00:04+00:00",
+        "title": "Inhaled fine particulate matter travels beyond the lungs to the brain, radiocarbon nanotracing reveals",
+        "summary": "Checking the fine particulate matter levels along with the weather every morning has become a daily routine. Research continues to show that fine particulate matter affects not only the respiratory system but also the brain and overall health; prolonged exposure can lead not only to reduced lung function but also to inflammatory responses in various organs. For these reasons, these particles are recognized as an environmental issue directly linked to public health.",
+        "link": "https://medicalxpress.com/news/2026-05-inhaled-fine-particulate-lungs-brain.html",
+        "published_utc": "2026-05-26T13:00:08+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/sweden.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/inhaled-fine-particula.jpg"
       },
       {
         "section": "medical",
         "kind": "global",
         "source": "Medical Xpress",
-        "title": "Doing puzzles and joining clubs could help you age well: New research",
-        "summary": "Growing old is a fact of life. But thanks to improved health care and innovative technology, more of us are living longer and healthier lives.",
-        "link": "https://medicalxpress.com/news/2026-05-puzzles-clubs-age.html",
-        "published_utc": "2026-05-25T15:00:03+00:00",
-        "score": 2,
+        "title": "New genetic map of the human eye reveals clues to vision loss",
+        "summary": "An international team led by University of Manchester scientists has created the most detailed picture yet of how genetic differences shape the way the human eye works. The breakthrough could help explain why millions of people develop sight-threatening conditions such as age-related macular degeneration (AMD), as well as rarer inherited eye diseases. The research is published in Nature Communications.",
+        "link": "https://medicalxpress.com/news/2026-05-genetic-human-eye-reveals-clues.html",
+        "published_utc": "2026-05-26T12:20:03+00:00",
+        "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/senior-doing-a-crosswo.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/eye-iris.jpg"
       },
       {
         "section": "medical",
         "kind": "global",
         "source": "Medical Xpress",
-        "title": "Macrophage cell therapy boosts four-year transplant-free survival in advanced cirrhosis",
-        "summary": "A new type of cell therapy shows promise as the first treatment for advanced liver disease, following results from a clinical trial. Patients with the condition who were treated with the cell therapy had a significantly lower risk of death or need for a liver transplant after four years compared with those who received standard medical care.",
-        "link": "https://medicalxpress.com/news/2026-05-macrophage-cell-therapy-boosts-year.html",
-        "published_utc": "2026-05-25T15:00:01+00:00",
+        "title": "Case of mistaken patterns: Slow brain development linked to ADHD for years might just be sex differences",
+        "summary": "Figuring out the causes of why children develop attention-deficit/hyperactivity disorder (ADHD) has been on scientists' radar for a few decades now. A common notion that has been around for nearly 20 years is that ADHD is caused by a delayed maturation of the brain's cortex, the outermost layer of gray matter.",
+        "link": "https://medicalxpress.com/news/2026-05-case-mistaken-patterns-brain-linked.html",
+        "published_utc": "2026-05-26T12:00:02+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/liver-cirrhosis.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/case-of-mistaken-patte.jpg"
       },
       {
         "section": "medical",
         "kind": "global",
         "source": "Medical Xpress",
-        "title": "Looksmaxxing isn't just a TikTok trend—it often reflects severe body image issues in teen boys and young men",
-        "summary": "Punishing regimens of facial exercises. Intentional starvation. Reshaping the jawline or cheekbones by smashing them with a hammer or chisel.",
-        "link": "https://medicalxpress.com/news/2026-05-looksmaxxing-isnt-tiktok-trend-severe.html",
-        "published_utc": "2026-05-25T14:40:02+00:00",
+        "title": "Direct-to-consumer pharmacies could save commercially insured patients 85% on high-cost generic drugs, report suggests",
+        "summary": "A report comparing the Mark Cuban Cost Plus Drug Company (MCCPDC) to copayments or coinsurance under employer-sponsored insurance found that patients with high-cost generic prescriptions could lower their out-of-pocket costs from $140 to $25 by bypassing their insurance and using MCCPDC.",
+        "link": "https://medicalxpress.com/news/2026-05-consumer-pharmacies-commercially-patients-high.html",
+        "published_utc": "2026-05-26T11:00:01+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/teen-boy-mirror.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Positive News",
-        "title": "What if the news reflected what matters most to you?",
-        "summary": "A Positive News listening project will explore what people truly value – and how media can support a healthier relationship with the world The post What if the news reflected what matters most to you? appeared first on Positive News .",
-        "link": "https://www.positive.news/society/what-if-the-news-media-reflected-what-matters-to-you",
-        "published_utc": "2026-05-15T13:51:53+00:00",
-        "score": 0,
-        "freshness_boost": 0,
-        "image": "https://picsum.photos/seed/vb-821a267a90f74661/480/320"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/medication.jpg"
       }
     ],
     "science": [
@@ -526,97 +430,229 @@
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Remote fieldwork and museum collections reveal hidden pit viper diversity in High Asia",
-        "summary": "The high mountain ranges of Asia remain among the least biologically explored regions of the continent. Now, an international team of researchers has shown that one of their most elusive venomous snakes, long treated as a single species, is in fact a complex of five distinct species, three of which are new to science.",
-        "link": "https://phys.org/news/2026-05-remote-fieldwork-museum-reveal-hidden.html",
-        "published_utc": "2026-05-25T16:40:05+00:00",
+        "title": "Heat waves are destroying the sex lives of bees—new research",
+        "summary": "There is not yet much research on the effects of heat waves on bees. What little there is focuses on super extremes of weather that would kill an adult bee.",
+        "link": "https://phys.org/news/2026-05-destroying-sex-bees.html",
+        "published_utc": "2026-05-26T13:40:05+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/honeybees.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "DNA reveals hidden UV defense network that dissipates energy in femtoseconds",
+        "summary": "New details of how DNA protects itself from harmful ultraviolet (UV) radiation show a hidden network of ultrafast molecular reactions that help prevent damage before it can trigger mutations that might lead to cancer, according to a study led by the University of Surrey.",
+        "link": "https://phys.org/news/2026-05-dna-reveals-hidden-uv-defense.html",
+        "published_utc": "2026-05-26T13:40:01+00:00",
         "score": 1,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/remote-fieldwork-and-m.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-uncover-dna.jpg"
       },
       {
         "section": "science",
         "kind": "global",
-        "source": "Phys.org",
-        "title": "Megalibraries could reshape AI-driven materials discovery faster than self-driving labs",
-        "summary": "Scientists may soon stop hunting for new materials—and start designing them to order. For the first time, Northwestern University scientists have demonstrated that megalibraries—tools that dramatically accelerate materials discovery—can do more than uncover promising new materials. They can also help scientists intentionally engineer those new materials with specific properties.",
-        "link": "https://phys.org/news/2026-05-megalibraries-reshape-ai-driven-materials.html",
-        "published_utc": "2026-05-25T16:00:05+00:00",
-        "score": 6,
+        "source": "ScienceDaily Science",
+        "title": "Large Hadron Collider detects strange particle behavior that could rewrite physics",
+        "summary": "Scientists working at CERN’s Large Hadron Collider may be seeing the strongest hints yet of physics beyond the Standard Model — the decades-old theory that explains the fundamental particles and forces of the universe. By studying incredibly rare particle transformations called “penguin decays,” researchers found behavior that doesn’t fully match theoretical predictions, raising the possibility that unknown particles or forces are influencing the results.",
+        "link": "https://www.sciencedaily.com/releases/2026/05/260526022012.htm",
+        "published_utc": "2026-05-26T13:23:43+00:00",
+        "score": 2,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/megalibraries-in-pole.jpg"
+        "image": "https://picsum.photos/seed/vb-84bc457a0c09aac4/480/320"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Mille Lacs walleye return to the same spawning hotspots, highlighting critical need for habitat protection",
-        "summary": "Spring peepers are singing, and walleye harvesters are ready to go out on Mille Lacs Lake, as they have for hundreds of years. The walleye spawn is on.",
-        "link": "https://phys.org/news/2026-05-mille-lacs-walleye-spawning-hotspots.html",
-        "published_utc": "2026-05-25T16:00:01+00:00",
+        "title": "Collective vibrations unlock fast ion flow in superionic crystals",
+        "summary": "In the race to develop safer, faster-charging solid-state batteries and more efficient thermoelectric conversion technologies, engineers and scientists have long faced a fundamental challenge: how to ensure ions move through hard, solid materials as quickly as they do in liquids?",
+        "link": "https://phys.org/news/2026-05-vibrations-fast-ion-superionic-crystals.html",
+        "published_utc": "2026-05-26T13:20:07+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mille-lacs-walleye-ret.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/microscopic-mechanism.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Study reveals how offshore structures can help—or hinder—marine ecosystems",
-        "summary": "A new international review has shed light on how offshore energy structures—from oil and gas platforms to wind turbines—shape marine ecosystems and the benefits they provide to society. The paper, \"Understanding the role of offshore energy structures in ecosystem service delivery: Applying global findings to the North Sea,\" published in Ecosystem Services, draws on evidence from 18 countries over 42 years and provides a roadmap for future policy and management decisions in the U.K. and beyond.",
-        "link": "https://phys.org/news/2026-05-reveals-offshore-hinder-marine-ecosystems.html",
-        "published_utc": "2026-05-25T15:40:04+00:00",
+        "title": "They 'showed me a lot of love': Why young men seeking belonging join gangs",
+        "summary": "The government has published plans for \"once-in-a-generation\" reform of youth justice in England and Wales. The reforms are billed as a blueprint for earlier intervention, more targeted support and addressing the root causes of youth crime.",
+        "link": "https://phys.org/news/2026-05-lot-young-men-gangs.html",
+        "published_utc": "2026-05-26T13:20:05+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/silhouette-two-men.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "ATLAS observes new Bc meson excited state",
+        "summary": "Protons and neutrons—the building blocks of matter—belong to a huge class of particles called hadrons. Hadrons are composite particles made of quarks that are bound together by the strong force. They are classified into two groups: baryons, which consist of three quarks (like protons and neutrons), and mesons, which are formed by a quark–antiquark pair.",
+        "link": "https://phys.org/news/2026-05-atlas-bc-meson-state.html",
+        "published_utc": "2026-05-26T13:10:18+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/atlas-observes-new-bc.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Just 1.2 billion years after the Big Bang, galaxies were already shaped by where they lived",
+        "summary": "A large protocluster of galaxies that existed 12.6 billion years ago, first discovered with the Subaru Telescope, has been examined in detail using the James Webb Space Telescope (JWST). The study found that galaxies in crowded regions are more extended than similar galaxies in less dense environments. The results, published in The Astrophysical Journal Letters , show that even when the universe was only 1.2 billion years old, environment was already influencing how galaxies grow.",
+        "link": "https://phys.org/news/2026-05-billion-years-big-galaxies.html",
+        "published_utc": "2026-05-26T13:00:05+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/just-12-billion-years.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "ScienceDaily Science",
+        "title": "Scientists create global treasure map pointing to hidden rare earth deposits",
+        "summary": "Scientists have created a global “treasure map” for rare earth elements by uncovering where the strange volcanic rocks that contain them are most likely to form. By combining thousands of rock samples with seismic images of Earth’s deep interior, the team discovered that these metal-rich rocks tend to appear along the ancient, thick roots of continents. These unusual rocks, once seen as geological oddities, are now incredibly important because they hold many of the materials used in smartphones, electric vehicles, and wind turbines.",
+        "link": "https://www.sciencedaily.com/releases/2026/05/260525000450.htm",
+        "published_utc": "2026-05-26T12:40:12+00:00",
+        "score": 2,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-041d32841a74696c/480/320"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "How did we learn which plants are safe to eat? Food scientists explain",
+        "summary": "Have you ever eaten a green potato, or a bunch of rhubarb leaves? Hopefully not, because these two plant parts can be toxic to humans. While they may seem edible, they contain chemicals that can make you seriously ill.",
+        "link": "https://phys.org/news/2026-05-safe-food-scientists.html",
+        "published_utc": "2026-05-26T12:40:01+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rhubarb.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Mercury's water ice may have been deposited by a larger, slower impactor than previously thought—in only one day",
+        "summary": "The source of the significant water ice deposits hidden in Mercury's polar regions has been a topic of debate among researchers. A new study, published in the Journal of Geophysical Research: Planets, suggests that these deposits were accumulated in only one Mercurian day (176 Earth days) by a large impactor, such as a comet or asteroid. While previous studies have suggested a similar scenario, this is the first study to fully model the impact. Furthermore, these new models suggest that the impactor may have been larger and slower than previously suggested.",
+        "link": "https://phys.org/news/2026-05-mercury-ice-deposited-larger-slower.html",
+        "published_utc": "2026-05-26T12:20:05+00:00",
+        "score": 2,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mercurys-water-ice-may.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "ScienceDaily Science",
+        "title": "Queenless wasp colonies explode into chaos but hidden helpers save them",
+        "summary": "When a queen wasp suddenly disappears, her colony doesn’t calmly choose a successor — it erupts into chaos. Researchers found that female wasps immediately begin battling for power, shattering the colony’s social order in a frenzy of aggression. But while some fight for the throne, others quietly become the colony’s unsung heroes, stepping up to gather food and care for the young so the society doesn’t collapse.",
+        "link": "https://www.sciencedaily.com/releases/2026/05/260526021958.htm",
+        "published_utc": "2026-05-26T12:19:49+00:00",
         "score": 1,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-reveals-how-offs-1.jpg"
+        "image": "https://picsum.photos/seed/vb-de6ef0b2483d559b/480/320"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Tuning into quantum sounds: Acoustic devices simplify quantum sensors",
-        "summary": "When a singer belts out a tune while a guitar player strums along, sound waves travel through the air, driving collective oscillations of the molecules within. Meanwhile, at the quantum level, something similar is going on. Atoms inside materials, everything from our bodies to metals and more, naturally jiggle around, creating tiny vibrational waves that ripple across the material. These vibrations are known as phonons: the quantum version of sound waves.",
-        "link": "https://phys.org/news/2026-05-tuning-quantum-acoustic-devices-sensors.html",
-        "published_utc": "2026-05-25T15:40:02+00:00",
-        "score": 0,
+        "title": "Researchers upcycle pomegranate peel into high-performance water purifier",
+        "summary": "Pomegranate peel discarded by food vendors could soon help clean up contaminated water, thanks to research from the Department of Chemistry at the Faculty of Science. Led by Professor Sam Li, the research team developed a nanoscale carbon material derived from the fruit waste that is capable of efficiently removing 4-nitrophenol (4-NP), a persistent industrial pollutant, from water.",
+        "link": "https://phys.org/news/2026-05-upcycle-pomegranate-high-purifier.html",
+        "published_utc": "2026-05-26T12:00:05+00:00",
+        "score": 2,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tuning-into-quantum-so.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/nus-researchers-upcycl.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Artists reconstruct extinct Sri Lankan megafauna",
-        "summary": "For animator and academic Dr. Jason Kennedy, palaeoart isn't just a hobby. Creating 3D images of prehistoric animals sits at the intersection of science and art, combining fossil analysis, comparisons with living species, and digital modeling to bring long-extinct creatures back to life.",
-        "link": "https://phys.org/news/2026-05-artists-reconstruct-extinct-sri-lankan.html",
-        "published_utc": "2026-05-25T15:00:05+00:00",
+        "title": "What a toothless, two-legged crocodile cousin reveals about life before dinosaurs dominated",
+        "summary": "In the Triassic, the modern animals we know were just beginning to diversify into a menagerie of forms and body plans that rhyme with the lifestyles of extinct and living animals better known to the public, but nested in groups that ended up taking wildly divergent paths. Case in point: Labrujasuchus expectatus.",
+        "link": "https://phys.org/news/2026-05-toothless-legged-crocodile-cousin-reveals.html",
+        "published_utc": "2026-05-26T12:00:01+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/animating-extinct-sri.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-species-of-bizarre.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "UK beats May heat record with 33.5C registered near London",
-        "summary": "Britain broke its record on Monday for the hottest day in May, according to the national weather agency, with the mercury rising to 33.5C near London as the country baked in a sweltering heat wave.",
-        "link": "https://phys.org/news/2026-05-uk-335c-registered-london.html",
-        "published_utc": "2026-05-25T14:44:02+00:00",
-        "score": 0,
+        "title": "Tiny sesame sea slug species discovered in the waters of northern Taiwan",
+        "summary": "Translucent, speckled, and barely the size of a grain of rice, a new species of sea slug has been identified in the coastal waters of Keelung, Taiwan. Because of its minute size and distinctive black and yellow markings, researchers from National Taiwan Ocean University, National Museum of Natural Science and National Taipei University of Education have named the creature Thecacera sesama.",
+        "link": "https://phys.org/news/2026-05-tiny-sesame-sea-slug-species.html",
+        "published_utc": "2026-05-26T11:40:18+00:00",
+        "score": 3,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/monday-is-expected-to.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tiny-sesame-sea-slug-s.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Universe's most distant 'Hot DOG' yet may owe extreme infrared glow to polar dust, Webb reveals",
-        "summary": "New observations from the James Webb Space Telescope have revealed fresh details about one of the most luminous known objects in the universe: the dust-shrouded quasar W2246−0526, seen just 1.2 billion years after the Big Bang. The paper outlining the results was published in the Monthly Notices of the Royal Astronomical Society on May 14.",
-        "link": "https://phys.org/news/2026-05-universe-distant-hot-dog-owe.html",
-        "published_utc": "2026-05-25T14:40:04+00:00",
+        "title": "Nearly half of every T-shirt goes to waste before you even buy it",
+        "summary": "The global consumption of clothing is enormous. However, a significant portion of the textile fibers is lost before the garments even reach the market. \"When we talk about textile waste, the debate often focuses on the clothes we throw away. But the problem starts much earlier,\" explained former NTNU master's student Rakib Ahmed, currently a researcher at SINTEF Industry.",
+        "link": "https://phys.org/news/2026-05-shirt-buy.html",
+        "published_utc": "2026-05-26T11:40:01+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/universes-most-distant.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/pile-of-clothes.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Triply-eclipsing triple star system discovered with TESS",
+        "summary": "Using NASA's Transiting Exoplanet Survey Satellite (TESS), astronomers have discovered a triply-eclipsing star system. The newfound system, designated TIC 295741342, consists of two sun-like stars in an eclipsing binary and a giant tertiary companion, which orbits the binary. The finding was reported in a paper published May 19 on the arXiv pre-print server.",
+        "link": "https://phys.org/news/2026-05-triply-eclipsing-triple-star-tess.html",
+        "published_utc": "2026-05-26T11:30:01+00:00",
+        "score": 2,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/transiting-exoplanet-s.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "How to encourage a friend to get therapy (without blowing up your friendship)",
+        "summary": "You're trying to be a supportive, empathetic friend. You listen as they outline significant challenges in their life. Maybe they're feeling low or stressed, or there's tension at home or in relationships.",
+        "link": "https://phys.org/news/2026-05-friend-therapy-friendship.html",
+        "published_utc": "2026-05-26T11:20:01+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/sad-friend.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Divers may think they protect reefs, but one unseen habit is taking a steady toll",
+        "summary": "Research at the University of Sydney has found that scuba-diving tourism—widely promoted as a sustainable way to experience coral reefs—is causing frequent and often hidden damage to fragile marine ecosystems.",
+        "link": "https://phys.org/news/2026-05-divers-reefs-unseen-habit-steady.html",
+        "published_utc": "2026-05-26T11:00:03+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-hidden-impacts-of.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "ScienceDaily Science",
+        "title": "Venomous Himalayan pit viper was actually 5 different species all along",
+        "summary": "Hidden deep in the towering mountains of the Himalayas, one of Asia’s most mysterious venomous snakes has been keeping a major secret for over 160 years. Scientists have now discovered that the so-called Himalayan pit viper is not just one species, but actually five separate species — including three completely unknown to science until now.",
+        "link": "https://www.sciencedaily.com/releases/2026/05/260526021953.htm",
+        "published_utc": "2026-05-26T08:52:05+00:00",
+        "score": 2,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-5a6e51eb5cbc7e64/480/320"
       }
     ],
     "environment": [
@@ -722,74 +758,38 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Digi24",
-      "title": "Ce este leșinul și cum trebuie investigat",
-      "summary": "Pierderea scurtă a stării de conștiență poate avea cauze benigne, dar și explicații cardiace sau neurologice care trebuie căutate și excluse. Când episoadele de leșin se repetă, apar fără avertisment sau sunt urmate de traumatisme, evaluarea medicală devine esențială.",
-      "link": "https://www.digi24.ro/sanatate-digimatinal/ce-este-lesinul-si-cum-trebuie-investigat-3784965",
-      "published_utc": "2026-05-26T07:40:01+00:00",
+      "source": "Start-Up Romania",
+      "title": "Logitech lansează Signature Comfort Plus, prima gamă cu mouse cu pernuță pentru palmă",
+      "summary": "Logitech a anunțat lansarea noii game Signature Comfort Plus, care include primul mouse al companiei cu pernuță pentru palmă și o tastatură ergonomică dezvoltată pentru utilizare îndelungată la birou.",
+      "link": "https://start-up.ro/logitech-lanseaza-signature-comfort-plus-prima-gama-cu-mouse-cu-pernuta-pentru-palma",
+      "published_utc": "2026-05-26T13:36:24+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwMSUyRjI3JTJGMjE3NjQ5NF8yMTc2/NDk0X2RyLUFuY2EtRGFuLmpwZyZoYXNo/PTk1MDkwNDRhZDJiYzlhM2NjNDRjZWUwNzlhYzU0YzM1.jpg"
+      "image": "https://start-up.ro/img/articles/3/8/4/38433/cover-38433-src.jpg"
     },
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Green Start-Up Romania",
-      "title": "BYD lansează DOLPHIN G DM-i, model hibrid supermini pentru Europa",
-      "summary": "BYD prezintă DOLPHIN G DM-i pentru segmentul B european. Alimentat de tehnologia Super Hybrid cu DM a BYD, DOLPHIN G DM-i îmbină dimensiunile compacte, practicabilitatea unui automobil de familie...",
-      "link": "https://green.start-up.ro/ro/byd-lanseaza-dolphin-g-dm-i-model-hibrid-subcompact-pentru-europa",
-      "published_utc": "2026-05-26T10:36:45+00:00",
+      "source": "RomaniaPozitiva",
+      "title": "Peste 1.400 de eleve din România au construit aplicații pentru probleme reale",
+      "summary": "Nu sunt ingineri. Nu sunt cercetători. Nu au început încă facultatea. Sunt eleve între 8 și 18 ani. Și au construit aplicații pentru probleme pe care lumea le ignoră sau&#8230; Articolul Peste 1.400 de eleve din România au construit aplicații pentru probleme reale apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/educatie/peste-1-400-de-eleve-din-romania-au-construit-aplicatii-pentru-probleme-reale",
+      "published_utc": "2026-05-26T12:25:39+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://green.start-up.ro/img/articles/3/5/9/35916/cover-35916-src.jpg"
+      "image": "https://picsum.photos/seed/vb-cb72dc75a0226f45/480/320"
     },
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 SMURD se chinuie să-i scoată purtătorului de cuvânt al Poliției capul din curul lui Predoiu",
-      "summary": "Mai multe echipaje SMURD se ocupă de mai multe ore cu o descarcerare extrem de complexă: purtătorul de cuvânt al Poliției Române, Georgian Drăgan, a rămas cu capul blocat în curul lui Cătălin Predoiu. Nu e prima oară când Georgian Drăgan plonjează cu capul înainte în curul ministrului de Interne, ba chiar se poate spune [&#8230;] The post SMURD se chinuie să-i scoată purtătorului de cuvânt al Poliției capul din curul lui Predoiu appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/politic/smurd-se-chinuie-sa-i-scoata-purtatorului-de-cuvant-al-politiei-capul-din-curul-lui-predoiu",
-      "published_utc": "2026-05-25T09:08:22+00:00",
-      "score": 3,
-      "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/purtator_cuvant_politia_romana.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "HotNews",
-      "title": "Foraje eșuate pentru OMV în Marea Neagră, lângă Neptun Deep: „Nu am găsit rezerve suficient de gaz, așa că le-am astupat și abandonat”",
-      "summary": "OMV Petrom și compania NewMed Energy, care sunt operatori în perimetrul offshore Han Asparuh din perimetrul bulgăresc al Mării Negre, anunță că au abandonat forajele în această zonă, scrie Profit.ro. “Am forat două sonde în Han Asparuh. Din păcate, nu am reușit să găsim resurse semnificative de gaze naturale acolo. Am astupat și abandonat ambele &#8230;",
-      "link": "https://hotnews.ro/foraje-esuate-pentru-omv-in-marea-neagra-langa-neptun-deep-nu-am-gasit-rezerve-suficient-de-gaz-asa-ca-le-am-astupat-si-abandonat-2255395",
-      "published_utc": "2026-05-26T08:33:14+00:00",
+      "source": "RomaniaPozitiva",
+      "title": "ESTE FILM Festival: tineri profesioniști și experți din domeniul cultural explorează practicile rezilienței în cadrul LINE-UP Academy",
+      "summary": "Ceea ce a început ca o idee ambițioasă a devenit acum o tradiție solidă în continuă dezvoltare: cea de-a patra ediție a LINE-UP: International Academy &#38; Networking for Festival Managers&#8230; Articolul ESTE FILM Festival: tineri profesioniști și experți din domeniul cultural explorează practicile rezilienței în cadrul LINE-UP Academy apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/cultura/este-film-festival-tineri-profesionisti-si-experti-din-domeniul-cultural-exploreaza-practicile-rezilientei-in-cadrul-line-up-academy",
+      "published_utc": "2026-05-26T11:56:55+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-364cad543650dea1/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "HotNews",
-      "title": "Jurnaliștii Recorder, Snoop, Pressone dezbat în fața publicului",
-      "summary": "Jurnaliști de la Recorder, Snoop, PressOne și Gen Știri discută, marți, de la ora 13.15, despre cum poate presa să se susțină și în alte moduri decât cele tradiționale, în cadrul evenimentului IAA Vision on Ethical Media. În România, au apărut în ultimii ani, mai multe publicații media noi, care rămân în afara modelului tradițional, &#8230;",
-      "link": "https://hotnews.ro/cum-se-poate-sustine-jurnalismul-dezbatere-despre-principalele-provocari-cu-jurnalisti-din-patru-redactii-diferite-2255372",
-      "published_utc": "2026-05-26T08:23:58+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-82273492cd1479c3/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "HotNews",
-      "title": "Miliardele SpaceX: Cum poate ajunge cel mai bun prieten al lui Elon Musk în top 50 bogați ai lumii",
-      "summary": "Înainte de listarea pe bursă, SpaceX preia o datorie de 9 miliarde de dolari către firma deținută de un apropiat al lui Elon Musk. Suma provine din contracte de echipamente IA criticate de experți, potrivit Fortune.com. Antonio Gracias, investitor în fonduri private din Detroit și unul dintre cei mai apropiați aliați ai lui Musk, ar &#8230;",
-      "link": "https://hotnews.ro/miliardele-spacex-cum-poate-ajunge-cel-mai-bun-prieten-al-lui-elon-musk-in-top-50-bogati-ai-lumii-2255327",
-      "published_utc": "2026-05-26T08:21:00+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-140a87a7e0d9acec/480/320"
+      "image": "https://picsum.photos/seed/vb-f2666fd968d49f7d/480/320"
     },
     {
       "section": "romania",
@@ -806,6 +806,18 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "HotNews",
+      "title": "De ce a fost demolat Teatrul cel Mare, un simbol al Bucureștiului. Deși impozanta clădire de pe Calea Victoriei a fost bombardată, putea fi salvată",
+      "summary": "Până în anul 1947, Bucureștiul a avut un magnific spațiu dedicat artei. Azi, doar o copie a porticului neoclasic de la vechiul Teatru Național, azi intrarea în Hotelul Novotel, amintește de acest dispărut loc emblematic al orașului. Era o clădire care „poate să stea alături de cel mai frumos teatru din Viena”, după cum apreciau &#8230;",
+      "link": "https://hotnews.ro/de-ce-a-fost-demolat-teatrul-cel-mare-un-simbol-al-bucurestiului-desi-impozanta-cladire-de-pe-calea-victoriei-a-fost-bombardata-putea-fi-salvata-2255607",
+      "published_utc": "2026-05-26T11:07:42+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-7ad16368e99fb399/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "Heal the World: The Music of Michael Jackson",
       "summary": "Michael Jackson, energia muzicii live și o nouă generație de tineri artiști: joi, 4 iunie 2026, de la ora 19.00, Sala Radio găzduiește concertul extraordinar „Heal the World – The&#8230; Articolul Heal the World: The Music of Michael Jackson apare prima dată în Romania Pozitiva .",
@@ -814,54 +826,6 @@
       "score": 3,
       "freshness_boost": 3,
       "image": "https://picsum.photos/seed/vb-4c7c66da7ed6ee7f/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "Fundația World Vision România și Fundația OMV Petrom lansează startineducatie.ro – primul hub național de educație timpurie din România",
-      "summary": "De la intervenție în comunități vulnerabile la soluție națională &#8211; resurse educaționale gratuite pentru părinți, educatori și grădinițe Oportunități pentru grădinițe și educatori: dotare cu materiale educaționale și cursuri acreditate&#8230; Articolul Fundația World Vision România și Fundația OMV Petrom lansează startineducatie.ro &#8211; primul hub național de educație timpurie din România apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/educatie/fundatia-world-vision-romania-si-fundatia-omv-petrom-lanseaza-startineducatie-ro-primul-hub-national-de-educatie-timpurie-din-romania",
-      "published_utc": "2026-05-26T07:21:23+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-bbb0571af5649cee/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Start-Up Romania",
-      "title": "AICoustic a câștigat Innovation Labs 2026. Unele startup-uri au urcat pe scenă cerând investiții de până la 1 milion de euro",
-      "summary": "17 echipe au urcat pe scena finalei Innovation Labs 2026, la Opera Națională București, după luni de mentorat, validare și dezvoltare de produs. Fiecare echipă a avut la dispoziție două minute...",
-      "link": "https://start-up.ro/aicoustic-a-castigat-innovation-labs-2026-unele-startup-uri-au-urcat-pe-scena-cerand-investitii-de-pana-la-1-milion-de-euro",
-      "published_utc": "2026-05-26T07:07:31+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://start-up.ro/img/articles/3/8/4/38427/cover-38427-src.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "30 de județe, 15.700 de elevi, o singură finală: Maratonul pentru Educație Antreprenorială ajunge la Opera Națională București",
-      "summary": "Cea mai amplă inițiativă națională de educație antreprenorială dedicată liceenilor ajunge la momentul care transformă ideile în perspectivă economică Expresia unui demers național care pregătește generația ce va construi economia&#8230; Articolul 30 de județe, 15.700 de elevi, o singură finală: Maratonul pentru Educație Antreprenorială ajunge la Opera Națională București apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/bucuresti/30-de-judete-15-700-de-elevi-o-singura-finala-maratonul-pentru-educatie-antreprenoriala-ajunge-la-opera-nationala-bucuresti",
-      "published_utc": "2026-05-26T06:28:04+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-94cb5dd907f1ed9d/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "Curaj, prietenie și familie: 3 cărți de care copiii și părinții au nevoie",
-      "summary": "O selecție de cărți pentru copii, adolescenți și părinți de la Editura ap! (ACT și Politon) Din ce în ce mai mulți părinți sunt în căutarea unor cărți care să-i&#8230; Articolul Curaj, prietenie și familie: 3 cărți de care copiii și părinții au nevoie apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/carte-despre-romania/curaj-prietenie-si-familie-3-carti-de-care-copiii-si-parintii-au-nevoie",
-      "published_utc": "2026-05-26T06:22:43+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-253a4fcd146f1b99/480/320"
     },
     {
       "section": "romania",
@@ -902,6 +866,18 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Portretul premierului propus de Nicușor",
+      "summary": "The post Portretul premierului propus de Nicușor appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/ovi/portretul-premierului-propus-de-nicusor",
+      "published_utc": "2026-05-26T07:23:00+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/Portretul-premierului-propust-de-Nicusor.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "World Vision Romania",
       "title": "World Vision România investește în formarea viitorilor specialiști ai agriculturii românești. O seră didactică modernizată cu tehnologii de Agricultură 4.0, inaugurată la Liceul Agricol „Sandu Aldea” din Călărași.",
       "summary": "București, 20 mai 2026: Fundația World Vision România, împreună cu Liceul Agricol „Sandu Aldea” din Călărași, a inaugurat o seră... Articolul World Vision România investește în formarea viitorilor specialiști ai agriculturii românești. O seră didactică modernizată cu tehnologii de Agricultură 4.0, inaugurată la Liceul Agricol „Sandu Aldea” din Călărași. apare prima dată în World Vision România .",
@@ -910,30 +886,6 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-07bd4c4752a9218a/480/320"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Remote fieldwork and museum collections reveal hidden pit viper diversity in High Asia",
-      "summary": "The high mountain ranges of Asia remain among the least biologically explored regions of the continent. Now, an international team of researchers has shown that one of their most elusive venomous snakes, long treated as a single species, is in fact a complex of five distinct species, three of which are new to science.",
-      "link": "https://phys.org/news/2026-05-remote-fieldwork-museum-reveal-hidden.html",
-      "published_utc": "2026-05-25T16:40:05+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/remote-fieldwork-and-m.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Green Start-Up Romania",
-      "title": "Mercedes-AMG GT 4-Door Coupé oferă peste 1.100 de cai putere complet electrici",
-      "summary": "Mercedes-AMG GT 4-Door oferă un concept de propulsie nou dezvoltat, proiectat strict pentru performanță, utilizat pentru prima dată într-un vehicul electric de serie. Acesta folosește o tehnologie...",
-      "link": "https://green.start-up.ro/ro/mercedes-amg-gt-4-door-coupe-ofera-peste-1-100-de-cai-putere-complet-electrici",
-      "published_utc": "2026-05-21T05:00:01+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://green.start-up.ro/img/articles/3/5/9/35908/cover-35908-src.jpg"
     },
     {
       "section": "romania",
@@ -946,18 +898,6 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-14e533e3423790d8/480/320"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "An 'intelligent tattoo' to detect skin cancer before it appears",
-      "summary": "Detecting melanoma before it becomes visible is a major challenge in dermatology. Now, with researchers from Université de Montréal, scientists at Université du Québec's Institut national de la recherche scientifique (INRS) have developed a promising solution.",
-      "link": "https://medicalxpress.com/news/2026-05-intelligent-tattoo-skin-cancer.html",
-      "published_utc": "2026-05-25T16:40:04+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/an-intelligent-tattoo-1.jpg"
     },
     {
       "section": "romania",
@@ -984,18 +924,6 @@
       "image": "https://picsum.photos/seed/vb-6cbfda5262bdc42a/480/320"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Megalibraries could reshape AI-driven materials discovery faster than self-driving labs",
-      "summary": "Scientists may soon stop hunting for new materials—and start designing them to order. For the first time, Northwestern University scientists have demonstrated that megalibraries—tools that dramatically accelerate materials discovery—can do more than uncover promising new materials. They can also help scientists intentionally engineer those new materials with specific properties.",
-      "link": "https://phys.org/news/2026-05-megalibraries-reshape-ai-driven-materials.html",
-      "published_utc": "2026-05-25T16:00:05+00:00",
-      "score": 6,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/megalibraries-in-pole.jpg"
-    },
-    {
       "section": "romania",
       "kind": "ro",
       "source": "SOS Satele Copiilor Romania",
@@ -1020,16 +948,16 @@
       "image": "https://picsum.photos/seed/vb-aa07ae2b6f441a0c/480/320"
     },
     {
-      "section": "medical",
+      "section": "science",
       "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Whole health approach cuts chronic pain disruption in veterans after 12 months",
-      "summary": "A new study finds that an interdisciplinary, individualized approach to pain management, including coaching support and health goal planning, may reduce the impact of chronic pain on veterans. The findings are published in JAMA.",
-      "link": "https://medicalxpress.com/news/2026-05-health-approach-chronic-pain-disruption.html",
-      "published_utc": "2026-05-25T16:00:03+00:00",
-      "score": 1,
+      "source": "Phys.org",
+      "title": "Heat waves are destroying the sex lives of bees—new research",
+      "summary": "There is not yet much research on the effects of heat waves on bees. What little there is focuses on super extremes of weather that would kill an adult bee.",
+      "link": "https://phys.org/news/2026-05-destroying-sex-bees.html",
+      "published_utc": "2026-05-26T13:40:05+00:00",
+      "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/veterans.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/honeybees.jpg"
     },
     {
       "section": "romania",
@@ -1056,16 +984,16 @@
       "image": "https://picsum.photos/seed/vb-451d72078f5c9ca1/480/320"
     },
     {
-      "section": "science",
+      "section": "medical",
       "kind": "global",
-      "source": "Phys.org",
-      "title": "Mille Lacs walleye return to the same spawning hotspots, highlighting critical need for habitat protection",
-      "summary": "Spring peepers are singing, and walleye harvesters are ready to go out on Mille Lacs Lake, as they have for hundreds of years. The walleye spawn is on.",
-      "link": "https://phys.org/news/2026-05-mille-lacs-walleye-spawning-hotspots.html",
-      "published_utc": "2026-05-25T16:00:01+00:00",
+      "source": "Medical Xpress",
+      "title": "Why 40% of people are avoiding the news, according to a psychologist",
+      "summary": "During several recent conversations, people have told me that they've stopped checking their phones in the morning. Not because nothing was happening, but because everything was. They described the feeling as standing under a waterfall of perpetual bad news.",
+      "link": "https://medicalxpress.com/news/2026-05-people-news-psychologist.html",
+      "published_utc": "2026-05-26T13:40:03+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mille-lacs-walleye-ret.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/couple-reading-newspap-1.jpg"
     },
     {
       "section": "romania",
@@ -1092,16 +1020,16 @@
       "image": "https://picsum.photos/seed/vb-33e3d5688a184f91/480/320"
     },
     {
-      "section": "medical",
+      "section": "science",
       "kind": "global",
-      "source": "Medical Xpress",
-      "title": "When bariatric surgery may lower cancer risk: Insulin, sex and genes offer new clues",
-      "summary": "Substantial and sustained weight loss has been linked to a reduced risk of cancer and cancer-related death, mainly in women. Two new studies now provide clues to why the risk is reduced—and suggest that gender, metabolism and genetics may play a crucial role.",
-      "link": "https://medicalxpress.com/news/2026-05-bariatric-surgery-cancer-insulin-sex.html",
-      "published_utc": "2026-05-25T15:40:06+00:00",
+      "source": "Phys.org",
+      "title": "DNA reveals hidden UV defense network that dissipates energy in femtoseconds",
+      "summary": "New details of how DNA protects itself from harmful ultraviolet (UV) radiation show a hidden network of ultrafast molecular reactions that help prevent damage before it can trigger mutations that might lead to cancer, according to a study led by the University of Surrey.",
+      "link": "https://phys.org/news/2026-05-dna-reveals-hidden-uv-defense.html",
+      "published_utc": "2026-05-26T13:40:01+00:00",
       "score": 1,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/clues-to-lower-cancer.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-uncover-dna.jpg"
     },
     {
       "section": "romania",
@@ -1128,16 +1056,16 @@
       "image": "https://picsum.photos/seed/vb-c01ff56684c84200/480/320"
     },
     {
-      "section": "science",
+      "section": "medical",
       "kind": "global",
-      "source": "Phys.org",
-      "title": "Study reveals how offshore structures can help—or hinder—marine ecosystems",
-      "summary": "A new international review has shed light on how offshore energy structures—from oil and gas platforms to wind turbines—shape marine ecosystems and the benefits they provide to society. The paper, \"Understanding the role of offshore energy structures in ecosystem service delivery: Applying global findings to the North Sea,\" published in Ecosystem Services, draws on evidence from 18 countries over 42 years and provides a roadmap for future policy and management decisions in the U.K. and beyond.",
-      "link": "https://phys.org/news/2026-05-reveals-offshore-hinder-marine-ecosystems.html",
-      "published_utc": "2026-05-25T15:40:04+00:00",
-      "score": 1,
+      "source": "ScienceDaily Health",
+      "title": "Scientists say they’ve reversed brain aging with a simple nasal spray",
+      "summary": "Researchers at Texas A&amp;M have developed a nasal spray that appears to reverse brain aging by calming inflammation and restoring the brain’s energy systems. After just two doses, memory and cognitive function improved for months, raising hopes for future treatments targeting dementia and brain fog.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260526022018.htm",
+      "published_utc": "2026-05-26T13:39:35+00:00",
+      "score": 3,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-reveals-how-offs-1.jpg"
+      "image": "https://picsum.photos/seed/vb-536c2af3c887ba30/480/320"
     },
     {
       "section": "romania",
@@ -1166,14 +1094,14 @@
     {
       "section": "science",
       "kind": "global",
-      "source": "Phys.org",
-      "title": "Tuning into quantum sounds: Acoustic devices simplify quantum sensors",
-      "summary": "When a singer belts out a tune while a guitar player strums along, sound waves travel through the air, driving collective oscillations of the molecules within. Meanwhile, at the quantum level, something similar is going on. Atoms inside materials, everything from our bodies to metals and more, naturally jiggle around, creating tiny vibrational waves that ripple across the material. These vibrations are known as phonons: the quantum version of sound waves.",
-      "link": "https://phys.org/news/2026-05-tuning-quantum-acoustic-devices-sensors.html",
-      "published_utc": "2026-05-25T15:40:02+00:00",
-      "score": 0,
+      "source": "ScienceDaily Science",
+      "title": "Large Hadron Collider detects strange particle behavior that could rewrite physics",
+      "summary": "Scientists working at CERN’s Large Hadron Collider may be seeing the strongest hints yet of physics beyond the Standard Model — the decades-old theory that explains the fundamental particles and forces of the universe. By studying incredibly rare particle transformations called “penguin decays,” researchers found behavior that doesn’t fully match theoretical predictions, raising the possibility that unknown particles or forces are influencing the results.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260526022012.htm",
+      "published_utc": "2026-05-26T13:23:43+00:00",
+      "score": 2,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tuning-into-quantum-so.jpg"
+      "image": "https://picsum.photos/seed/vb-84bc457a0c09aac4/480/320"
     },
     {
       "section": "romania",
@@ -1203,13 +1131,13 @@
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
-      "title": "Pulse oximeter bias linked to gaps in care for Black patients",
-      "summary": "Pulse oximeter devices routinely overestimate blood oxygen levels in darker-skinned patients—a racial bias that can trigger downstream health harms for Black individuals, compounding well beyond any single inaccurate reading.",
-      "link": "https://medicalxpress.com/news/2026-05-pulse-oximeter-bias-linked-gaps.html",
-      "published_utc": "2026-05-25T15:20:02+00:00",
+      "title": "Girls with ADHD from deprived backgrounds may face a higher risk of long-term health conditions",
+      "summary": "Girls from a deprived background who are diagnosed with attention deficit hyperactivity disorder (ADHD) may be more likely to experience multiple long-term health conditions, or multimorbidity, in adulthood, according to new research led by the University of Glasgow. The study also showed that women who had both a childhood ADHD diagnosis and a background of socioeconomic deprivation were more than twice as likely to develop multimorbidity compared to those without ADHD.",
+      "link": "https://medicalxpress.com/news/2026-05-girls-adhd-deprived-backgrounds-higher.html",
+      "published_utc": "2026-05-26T13:20:08+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/pulse-oximeter.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/paper-dolls.jpg"
     },
     {
       "section": "romania",
@@ -1224,112 +1152,256 @@
       "image": "https://picsum.photos/seed/vb-62290e058a5ec56d/480/320"
     },
     {
-      "section": "medical",
+      "section": "science",
       "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Ugandan health officials report new Ebola virus infections, bringing cases to 7",
-      "summary": "Ugandan health authorities on Monday reported two new Ebola cases, bringing the number of infections to seven.",
-      "link": "https://medicalxpress.com/news/2026-05-ugandan-health-ebola-virus-infections.html",
-      "published_utc": "2026-05-25T15:20:01+00:00",
+      "source": "Phys.org",
+      "title": "Collective vibrations unlock fast ion flow in superionic crystals",
+      "summary": "In the race to develop safer, faster-charging solid-state batteries and more efficient thermoelectric conversion technologies, engineers and scientists have long faced a fundamental challenge: how to ensure ions move through hard, solid materials as quickly as they do in liquids?",
+      "link": "https://phys.org/news/2026-05-vibrations-fast-ion-superionic-crystals.html",
+      "published_utc": "2026-05-26T13:20:07+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ugandan-health-officia.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/microscopic-mechanism.jpg"
     },
     {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Artists reconstruct extinct Sri Lankan megafauna",
-      "summary": "For animator and academic Dr. Jason Kennedy, palaeoart isn't just a hobby. Creating 3D images of prehistoric animals sits at the intersection of science and art, combining fossil analysis, comparisons with living species, and digital modeling to bring long-extinct creatures back to life.",
-      "link": "https://phys.org/news/2026-05-artists-reconstruct-extinct-sri-lankan.html",
-      "published_utc": "2026-05-25T15:00:05+00:00",
+      "title": "They 'showed me a lot of love': Why young men seeking belonging join gangs",
+      "summary": "The government has published plans for \"once-in-a-generation\" reform of youth justice in England and Wales. The reforms are billed as a blueprint for earlier intervention, more targeted support and addressing the root causes of youth crime.",
+      "link": "https://phys.org/news/2026-05-lot-young-men-gangs.html",
+      "published_utc": "2026-05-26T13:20:05+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/animating-extinct-sri.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/silhouette-two-men.jpg"
     },
     {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
-      "title": "Sweden hits smoke-free goal of under 5% daily smokers",
-      "summary": "Sweden met its target of becoming smoke-free in 2025 with less than 5% of the population smoking cigarettes daily, though a quarter of the population still used nicotine daily in some form, such as vapes and snus, a report showed Monday.",
-      "link": "https://medicalxpress.com/news/2026-05-sweden-free-goal-daily-smokers.html",
-      "published_utc": "2026-05-25T15:00:04+00:00",
+      "title": "Beyond hot flashes: What menopause can do to your heart—and why it matters",
+      "summary": "As women navigate hot flashes, sleep issues and changing waistlines, there's another quieter change that can often occur during perimenopause and post-menopause that deserves just as much attention: heart health.",
+      "link": "https://medicalxpress.com/news/2026-05-hot-menopause-heart.html",
+      "published_utc": "2026-05-26T13:20:01+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/sweden.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/heart-in-hand-1.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "ATLAS observes new Bc meson excited state",
+      "summary": "Protons and neutrons—the building blocks of matter—belong to a huge class of particles called hadrons. Hadrons are composite particles made of quarks that are bound together by the strong force. They are classified into two groups: baryons, which consist of three quarks (like protons and neutrons), and mesons, which are formed by a quark–antiquark pair.",
+      "link": "https://phys.org/news/2026-05-atlas-bc-meson-state.html",
+      "published_utc": "2026-05-26T13:10:18+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/atlas-observes-new-bc.jpg"
     },
     {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
-      "title": "Doing puzzles and joining clubs could help you age well: New research",
-      "summary": "Growing old is a fact of life. But thanks to improved health care and innovative technology, more of us are living longer and healthier lives.",
-      "link": "https://medicalxpress.com/news/2026-05-puzzles-clubs-age.html",
-      "published_utc": "2026-05-25T15:00:03+00:00",
+      "title": "Inhaled fine particulate matter travels beyond the lungs to the brain, radiocarbon nanotracing reveals",
+      "summary": "Checking the fine particulate matter levels along with the weather every morning has become a daily routine. Research continues to show that fine particulate matter affects not only the respiratory system but also the brain and overall health; prolonged exposure can lead not only to reduced lung function but also to inflammatory responses in various organs. For these reasons, these particles are recognized as an environmental issue directly linked to public health.",
+      "link": "https://medicalxpress.com/news/2026-05-inhaled-fine-particulate-lungs-brain.html",
+      "published_utc": "2026-05-26T13:00:08+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/inhaled-fine-particula.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Just 1.2 billion years after the Big Bang, galaxies were already shaped by where they lived",
+      "summary": "A large protocluster of galaxies that existed 12.6 billion years ago, first discovered with the Subaru Telescope, has been examined in detail using the James Webb Space Telescope (JWST). The study found that galaxies in crowded regions are more extended than similar galaxies in less dense environments. The results, published in The Astrophysical Journal Letters , show that even when the universe was only 1.2 billion years old, environment was already influencing how galaxies grow.",
+      "link": "https://phys.org/news/2026-05-billion-years-big-galaxies.html",
+      "published_utc": "2026-05-26T13:00:05+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/just-12-billion-years.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "ScienceDaily Science",
+      "title": "Scientists create global treasure map pointing to hidden rare earth deposits",
+      "summary": "Scientists have created a global “treasure map” for rare earth elements by uncovering where the strange volcanic rocks that contain them are most likely to form. By combining thousands of rock samples with seismic images of Earth’s deep interior, the team discovered that these metal-rich rocks tend to appear along the ancient, thick roots of continents. These unusual rocks, once seen as geological oddities, are now incredibly important because they hold many of the materials used in smartphones, electric vehicles, and wind turbines.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260525000450.htm",
+      "published_utc": "2026-05-26T12:40:12+00:00",
       "score": 2,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/senior-doing-a-crosswo.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Macrophage cell therapy boosts four-year transplant-free survival in advanced cirrhosis",
-      "summary": "A new type of cell therapy shows promise as the first treatment for advanced liver disease, following results from a clinical trial. Patients with the condition who were treated with the cell therapy had a significantly lower risk of death or need for a liver transplant after four years compared with those who received standard medical care.",
-      "link": "https://medicalxpress.com/news/2026-05-macrophage-cell-therapy-boosts-year.html",
-      "published_utc": "2026-05-25T15:00:01+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/liver-cirrhosis.jpg"
+      "image": "https://picsum.photos/seed/vb-041d32841a74696c/480/320"
     },
     {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "UK beats May heat record with 33.5C registered near London",
-      "summary": "Britain broke its record on Monday for the hottest day in May, according to the national weather agency, with the mercury rising to 33.5C near London as the country baked in a sweltering heat wave.",
-      "link": "https://phys.org/news/2026-05-uk-335c-registered-london.html",
-      "published_utc": "2026-05-25T14:44:02+00:00",
+      "title": "How did we learn which plants are safe to eat? Food scientists explain",
+      "summary": "Have you ever eaten a green potato, or a bunch of rhubarb leaves? Hopefully not, because these two plant parts can be toxic to humans. While they may seem edible, they contain chemicals that can make you seriously ill.",
+      "link": "https://phys.org/news/2026-05-safe-food-scientists.html",
+      "published_utc": "2026-05-26T12:40:01+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/monday-is-expected-to.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rhubarb.jpg"
     },
     {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Universe's most distant 'Hot DOG' yet may owe extreme infrared glow to polar dust, Webb reveals",
-      "summary": "New observations from the James Webb Space Telescope have revealed fresh details about one of the most luminous known objects in the universe: the dust-shrouded quasar W2246−0526, seen just 1.2 billion years after the Big Bang. The paper outlining the results was published in the Monthly Notices of the Royal Astronomical Society on May 14.",
-      "link": "https://phys.org/news/2026-05-universe-distant-hot-dog-owe.html",
-      "published_utc": "2026-05-25T14:40:04+00:00",
-      "score": 0,
+      "title": "Mercury's water ice may have been deposited by a larger, slower impactor than previously thought—in only one day",
+      "summary": "The source of the significant water ice deposits hidden in Mercury's polar regions has been a topic of debate among researchers. A new study, published in the Journal of Geophysical Research: Planets, suggests that these deposits were accumulated in only one Mercurian day (176 Earth days) by a large impactor, such as a comet or asteroid. While previous studies have suggested a similar scenario, this is the first study to fully model the impact. Furthermore, these new models suggest that the impactor may have been larger and slower than previously suggested.",
+      "link": "https://phys.org/news/2026-05-mercury-ice-deposited-larger-slower.html",
+      "published_utc": "2026-05-26T12:20:05+00:00",
+      "score": 2,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/universes-most-distant.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mercurys-water-ice-may.jpg"
     },
     {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
-      "title": "Looksmaxxing isn't just a TikTok trend—it often reflects severe body image issues in teen boys and young men",
-      "summary": "Punishing regimens of facial exercises. Intentional starvation. Reshaping the jawline or cheekbones by smashing them with a hammer or chisel.",
-      "link": "https://medicalxpress.com/news/2026-05-looksmaxxing-isnt-tiktok-trend-severe.html",
-      "published_utc": "2026-05-25T14:40:02+00:00",
+      "title": "New genetic map of the human eye reveals clues to vision loss",
+      "summary": "An international team led by University of Manchester scientists has created the most detailed picture yet of how genetic differences shape the way the human eye works. The breakthrough could help explain why millions of people develop sight-threatening conditions such as age-related macular degeneration (AMD), as well as rarer inherited eye diseases. The research is published in Nature Communications.",
+      "link": "https://medicalxpress.com/news/2026-05-genetic-human-eye-reveals-clues.html",
+      "published_utc": "2026-05-26T12:20:03+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/teen-boy-mirror.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/eye-iris.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "ScienceDaily Science",
+      "title": "Queenless wasp colonies explode into chaos but hidden helpers save them",
+      "summary": "When a queen wasp suddenly disappears, her colony doesn’t calmly choose a successor — it erupts into chaos. Researchers found that female wasps immediately begin battling for power, shattering the colony’s social order in a frenzy of aggression. But while some fight for the throne, others quietly become the colony’s unsung heroes, stepping up to gather food and care for the young so the society doesn’t collapse.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260526021958.htm",
+      "published_utc": "2026-05-26T12:19:49+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-de6ef0b2483d559b/480/320"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Researchers upcycle pomegranate peel into high-performance water purifier",
+      "summary": "Pomegranate peel discarded by food vendors could soon help clean up contaminated water, thanks to research from the Department of Chemistry at the Faculty of Science. Led by Professor Sam Li, the research team developed a nanoscale carbon material derived from the fruit waste that is capable of efficiently removing 4-nitrophenol (4-NP), a persistent industrial pollutant, from water.",
+      "link": "https://phys.org/news/2026-05-upcycle-pomegranate-high-purifier.html",
+      "published_utc": "2026-05-26T12:00:05+00:00",
+      "score": 2,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/nus-researchers-upcycl.jpg"
     },
     {
       "section": "medical",
       "kind": "global",
-      "source": "Positive News",
-      "title": "What if the news reflected what matters most to you?",
-      "summary": "A Positive News listening project will explore what people truly value – and how media can support a healthier relationship with the world The post What if the news reflected what matters most to you? appeared first on Positive News .",
-      "link": "https://www.positive.news/society/what-if-the-news-media-reflected-what-matters-to-you",
-      "published_utc": "2026-05-15T13:51:53+00:00",
+      "source": "Medical Xpress",
+      "title": "Case of mistaken patterns: Slow brain development linked to ADHD for years might just be sex differences",
+      "summary": "Figuring out the causes of why children develop attention-deficit/hyperactivity disorder (ADHD) has been on scientists' radar for a few decades now. A common notion that has been around for nearly 20 years is that ADHD is caused by a delayed maturation of the brain's cortex, the outermost layer of gray matter.",
+      "link": "https://medicalxpress.com/news/2026-05-case-mistaken-patterns-brain-linked.html",
+      "published_utc": "2026-05-26T12:00:02+00:00",
       "score": 0,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-821a267a90f74661/480/320"
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/case-of-mistaken-patte.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "What a toothless, two-legged crocodile cousin reveals about life before dinosaurs dominated",
+      "summary": "In the Triassic, the modern animals we know were just beginning to diversify into a menagerie of forms and body plans that rhyme with the lifestyles of extinct and living animals better known to the public, but nested in groups that ended up taking wildly divergent paths. Case in point: Labrujasuchus expectatus.",
+      "link": "https://phys.org/news/2026-05-toothless-legged-crocodile-cousin-reveals.html",
+      "published_utc": "2026-05-26T12:00:01+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-species-of-bizarre.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Tiny sesame sea slug species discovered in the waters of northern Taiwan",
+      "summary": "Translucent, speckled, and barely the size of a grain of rice, a new species of sea slug has been identified in the coastal waters of Keelung, Taiwan. Because of its minute size and distinctive black and yellow markings, researchers from National Taiwan Ocean University, National Museum of Natural Science and National Taipei University of Education have named the creature Thecacera sesama.",
+      "link": "https://phys.org/news/2026-05-tiny-sesame-sea-slug-species.html",
+      "published_utc": "2026-05-26T11:40:18+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tiny-sesame-sea-slug-s.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Nearly half of every T-shirt goes to waste before you even buy it",
+      "summary": "The global consumption of clothing is enormous. However, a significant portion of the textile fibers is lost before the garments even reach the market. \"When we talk about textile waste, the debate often focuses on the clothes we throw away. But the problem starts much earlier,\" explained former NTNU master's student Rakib Ahmed, currently a researcher at SINTEF Industry.",
+      "link": "https://phys.org/news/2026-05-shirt-buy.html",
+      "published_utc": "2026-05-26T11:40:01+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/pile-of-clothes.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Triply-eclipsing triple star system discovered with TESS",
+      "summary": "Using NASA's Transiting Exoplanet Survey Satellite (TESS), astronomers have discovered a triply-eclipsing star system. The newfound system, designated TIC 295741342, consists of two sun-like stars in an eclipsing binary and a giant tertiary companion, which orbits the binary. The finding was reported in a paper published May 19 on the arXiv pre-print server.",
+      "link": "https://phys.org/news/2026-05-triply-eclipsing-triple-star-tess.html",
+      "published_utc": "2026-05-26T11:30:01+00:00",
+      "score": 2,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/transiting-exoplanet-s.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "How to encourage a friend to get therapy (without blowing up your friendship)",
+      "summary": "You're trying to be a supportive, empathetic friend. You listen as they outline significant challenges in their life. Maybe they're feeling low or stressed, or there's tension at home or in relationships.",
+      "link": "https://phys.org/news/2026-05-friend-therapy-friendship.html",
+      "published_utc": "2026-05-26T11:20:01+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/sad-friend.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Divers may think they protect reefs, but one unseen habit is taking a steady toll",
+      "summary": "Research at the University of Sydney has found that scuba-diving tourism—widely promoted as a sustainable way to experience coral reefs—is causing frequent and often hidden damage to fragile marine ecosystems.",
+      "link": "https://phys.org/news/2026-05-divers-reefs-unseen-habit-steady.html",
+      "published_utc": "2026-05-26T11:00:03+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-hidden-impacts-of.jpg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "Direct-to-consumer pharmacies could save commercially insured patients 85% on high-cost generic drugs, report suggests",
+      "summary": "A report comparing the Mark Cuban Cost Plus Drug Company (MCCPDC) to copayments or coinsurance under employer-sponsored insurance found that patients with high-cost generic prescriptions could lower their out-of-pocket costs from $140 to $25 by bypassing their insurance and using MCCPDC.",
+      "link": "https://medicalxpress.com/news/2026-05-consumer-pharmacies-commercially-patients-high.html",
+      "published_utc": "2026-05-26T11:00:01+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/medication.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "ScienceDaily Science",
+      "title": "Venomous Himalayan pit viper was actually 5 different species all along",
+      "summary": "Hidden deep in the towering mountains of the Himalayas, one of Asia’s most mysterious venomous snakes has been keeping a major secret for over 160 years. Scientists have now discovered that the so-called Himalayan pit viper is not just one species, but actually five separate species — including three completely unknown to science until now.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260526021953.htm",
+      "published_utc": "2026-05-26T08:52:05+00:00",
+      "score": 2,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-5a6e51eb5cbc7e64/480/320"
     },
     {
       "section": "environment",
@@ -1430,7 +1502,7 @@
   ],
   "joke_ro": {
     "date_utc": "2026-05-26",
-    "text": "Am deschis frigiderul doar de trei ori. Progres emotional.",
+    "text": "Am zis sa ies la aer. Am deschis geamul si am bifat.",
     "source": "data/jokes_ro.txt"
   },
   "satire_ro": {
@@ -1443,23 +1515,24 @@
       "tag": "space",
       "title": "Space",
       "link": "https://commons.wikimedia.org/wiki/Category:Astronomy",
-      "image": "https://live.staticflickr.com/65535/55292285832_f54fa87016_b.jpg"
+      "image": "https://live.staticflickr.com/65535/55294010633_103ee13881_b.jpg"
     },
     {
       "tag": "animals",
       "title": "Animals",
       "link": "https://commons.wikimedia.org/wiki/Category:Animals",
-      "image": "https://live.staticflickr.com/65535/55292609967_328e30dbb0_b.jpg"
+      "image": "https://live.staticflickr.com/65535/55294556281_3f5a7506e8_b.jpg"
     },
     {
       "tag": "landscape",
       "title": "Landscape",
       "link": "https://commons.wikimedia.org/wiki/Category:Landscapes",
-      "image": "https://live.staticflickr.com/65535/55293853224_06b0021205_b.jpg"
+      "image": "https://live.staticflickr.com/65535/55294823489_778baa2da6_b.jpg"
     }
   ],
   "top_image_history": {
     "space": [
+      "https://live.staticflickr.com/65535/55294010633_103ee13881_b.jpg",
       "https://live.staticflickr.com/65535/55292285832_f54fa87016_b.jpg",
       "https://live.staticflickr.com/65535/55291089347_aa69d6b405_b.jpg",
       "https://live.staticflickr.com/65535/55288711612_2757dfeea7_b.jpg",
@@ -1476,10 +1549,10 @@
       "https://live.staticflickr.com/65535/55280437075_5ac34a21b7_b.jpg",
       "https://live.staticflickr.com/65535/55278290329_9816553938_b.jpg",
       "https://live.staticflickr.com/65535/55278108585_19a8c11f05_b.jpg",
-      "https://live.staticflickr.com/65535/55275775747_6e0838f673_z.jpg",
-      "https://live.staticflickr.com/65535/55274806905_dc53fb510a_b.jpg"
+      "https://live.staticflickr.com/65535/55275775747_6e0838f673_z.jpg"
     ],
     "animals": [
+      "https://live.staticflickr.com/65535/55294556281_3f5a7506e8_b.jpg",
       "https://live.staticflickr.com/65535/55292609967_328e30dbb0_b.jpg",
       "https://live.staticflickr.com/65535/55292427713_324df0f8ee_b.jpg",
       "https://live.staticflickr.com/65535/55291596745_190c79356f_b.jpg",
@@ -1496,10 +1569,10 @@
       "https://live.staticflickr.com/65535/55280068293_634d240ae1_b.jpg",
       "https://live.staticflickr.com/65535/55279468861_0039cd0dba_b.jpg",
       "https://live.staticflickr.com/65535/55278143414_2f78ef47d3_b.jpg",
-      "https://live.staticflickr.com/65535/55276755601_eef49bbf32_b.jpg",
-      "https://live.staticflickr.com/65535/55275471706_e5f684244e_b.jpg"
+      "https://live.staticflickr.com/65535/55276755601_eef49bbf32_b.jpg"
     ],
     "landscape": [
+      "https://live.staticflickr.com/65535/55294823489_778baa2da6_b.jpg",
       "https://live.staticflickr.com/65535/55293853224_06b0021205_b.jpg",
       "https://live.staticflickr.com/65535/55292538793_84ed5de0ea_b.jpg",
       "https://live.staticflickr.com/65535/55291691350_92a8714833_b.jpg",
@@ -1516,10 +1589,10 @@
       "https://live.staticflickr.com/65535/55280086731_40d4dda875_b.jpg",
       "https://live.staticflickr.com/65535/55279784895_d21dbd05db_b.jpg",
       "https://live.staticflickr.com/65535/55278087439_576f5d39c4_b.jpg",
-      "https://live.staticflickr.com/65535/55276768408_41a7d7329b_b.jpg",
-      "https://live.staticflickr.com/65535/55275816825_2f8792f2ba_b.jpg"
+      "https://live.staticflickr.com/65535/55276768408_41a7d7329b_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/17886876976_784911c3f4_b.jpg",
       "https://live.staticflickr.com/65535/55287070733_1cb962d86b_b.jpg",
       "https://live.staticflickr.com/65535/55278900199_6d297fc1d3_b.jpg",
       "https://live.staticflickr.com/65535/55278900124_1c2c0e2476_b.jpg",
@@ -1536,10 +1609,10 @@
       "https://live.staticflickr.com/65535/55278676641_96e98222dd_b.jpg",
       "https://live.staticflickr.com/65535/55278676591_6b8ed132f2_b.jpg",
       "https://live.staticflickr.com/65535/32590730202_1f57cf7894_b.jpg",
-      "https://live.staticflickr.com/65535/55279069920_9a5c48b803_b.jpg",
-      "https://live.staticflickr.com/65535/55283761422_31fefa9be3_b.jpg"
+      "https://live.staticflickr.com/65535/55279069920_9a5c48b803_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55293587017_d03a0fe224_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/3/3f/NYC_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg",
       "https://live.staticflickr.com/65535/55293859546_333a68c464_b.jpg",
       "https://live.staticflickr.com/65535/55292719857_579db6b7ae_b.jpg",
@@ -1556,12 +1629,11 @@
       "https://live.staticflickr.com/65535/55291416895_1efb7a154e_b.jpg",
       "https://live.staticflickr.com/65535/55290882385_a2bd5378de_b.jpg",
       "https://live.staticflickr.com/65535/55289959226_ca99474e51_b.jpg",
-      "https://live.staticflickr.com/65535/55290155938_6211889532_b.jpg",
-      "https://live.staticflickr.com/65535/55289020342_0e87f2be5e_b.jpg"
+      "https://live.staticflickr.com/65535/55290155938_6211889532_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
+      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
