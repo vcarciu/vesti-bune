@@ -1,19 +1,7 @@
 {
-  "generated_utc": "2026-05-26T19:54:37+00:00",
+  "generated_utc": "2026-05-26T21:27:47+00:00",
   "sections": {
     "romania": [
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Un bărbat a stabilit un nou record în sistemul de reciclare după ce a introdus 8.000 de sticle în opt ore",
-        "summary": "Un bărbat a stabilit un nou record în sistemul de garanţie-returnare din Polonia, după ce a introdus timp de opt ore aproximativ 8.000 de sticle şi doze într-un automat de reciclare proiectat chiar de el. La final, acesta a primit o chitanţă în valoare de 3.925,50 zloţi, echivalentul a aproape 1.000 de euro.",
-        "link": "https://www.digi24.ro/stiri/externe/un-barbat-a-stabilit-un-nou-record-in-sistemul-de-reciclare-dupa-ce-a-introdus-8-000-de-sticle-in-opt-ore-3786923",
-        "published_utc": "2026-05-26T17:20:18+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNSUyRjI2JTJGMjc0ODU5NV8yNzQ4/NTk1X3Byb2ZpbWVkaWEtMTA4MjIyMjM2/MC5qcGcmaGFzaD1hMzQ3MDQ3ODQ5YzUwZjA1MzJjNDNlNzRjNGZiNjFlNA==.jpg"
-      },
       {
         "section": "romania",
         "kind": "ro",
@@ -114,13 +102,13 @@
         "section": "romania",
         "kind": "ro",
         "source": "Times New Roman (Satira)",
-        "title": "😂 Șoșoacă după consultări",
-        "summary": "The post Șoșoacă după consultări appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/ovi/sosoaca-dupa-consultari",
-        "published_utc": "2026-05-25T07:44:59+00:00",
+        "title": "😂 SMURD se chinuie să-i scoată purtătorului de cuvânt al Poliției capul din curul lui Predoiu",
+        "summary": "Mai multe echipaje SMURD se ocupă de mai multe ore cu o descarcerare extrem de complexă: purtătorul de cuvânt al Poliției Române, Georgian Drăgan, a rămas cu capul blocat în curul lui Cătălin Predoiu. Nu e prima oară când Georgian Drăgan plonjează cu capul înainte în curul ministrului de Interne, ba chiar se poate spune [&#8230;] The post SMURD se chinuie să-i scoată purtătorului de cuvânt al Poliției capul din curul lui Predoiu appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/politic/smurd-se-chinuie-sa-i-scoata-purtatorului-de-cuvant-al-politiei-capul-din-curul-lui-predoiu",
+        "published_utc": "2026-05-25T09:08:22+00:00",
         "score": 3,
         "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/Sosoaca-dupa-consultari.jpg"
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/purtator_cuvant_politia_romana.jpg"
       },
       {
         "section": "romania",
@@ -454,229 +442,109 @@
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Black detainees twice as likely as white detainees to be strip‑searched in police custody: New study",
-        "summary": "The government has promised a new era of youth justice reform focused on protecting vulnerable children and reducing harm.",
-        "link": "https://phys.org/news/2026-05-black-detainees-white-stripsearched-police.html",
-        "published_utc": "2026-05-26T19:40:04+00:00",
-        "score": 1,
+        "title": "Data-driven model captures dynamics of turbulence at scale",
+        "summary": "Whether the dust borne on the violent winds of a tornado or the sugar grains in a swirled cup of coffee, the behavior of particles carried along in turbulence is subject to some similarities—all of them difficult to predict at scale. As described in a recent publication in the Proceedings of the National Academy of Sciences, a research team led by Los Alamos National Laboratory scientists has developed a first-of-its-kind machine learning framework that models chaotic particle motions in a turbulent flow.",
+        "link": "https://phys.org/news/2026-05-driven-captures-dynamics-turbulence-scale.html",
+        "published_utc": "2026-05-26T21:20:03+00:00",
+        "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/pat-down.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/data-driven-modeling-c.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "How natural selection helps design antennas, cancer treatments and adhesives",
+        "summary": "NASA had a big—and little—problem. For a small satellite, the agency needed a tiny antenna, with very specific communication capabilities and very strict limits on size and weight. The agency gave the problem to a design team adept at simulating the way natural selection engineers solutions.",
+        "link": "https://phys.org/news/2026-05-natural-antennas-cancer-treatments-adhesives.html",
+        "published_utc": "2026-05-26T21:20:01+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/antenna.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "NASA Breaking News",
-        "title": "NASA Provides Update on Moon Base Rovers, Landers, Missions",
-        "summary": "During a Moon Base event Tuesday at NASA’s Headquarters in Washington, the agency announced new contracts for lunar rovers for crew to drive and uncrewed cargo landers bound for the Moon. NASA leaders also shared target launch timeframes and upcoming milestones for the first Moon Base infrastructure and exploration missions to the lunar South Pole [&#8230;]",
-        "link": "https://www.nasa.gov/news-release/nasa-provides-update-on-moon-base-rovers-landers-missions",
-        "published_utc": "2026-05-26T19:33:32+00:00",
+        "title": "NASA Astronauts to Answer Questions from Students in New York",
+        "summary": "Students in New York will hear from NASA astronaut Jessica Meir as she answers their prerecorded science, technology, engineering, and mathematics (STEM) questions while aboard the International Space Station. The Earth-to-space call will begin at 11:05 p.m. EDT Thursday, May 28, and will stream live on the agency’s Learn With NASA YouTube channel. This event [&#8230;]",
+        "link": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-students-in-new-york",
+        "published_utc": "2026-05-26T21:05:04+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-00475cb127d7a062/480/320"
+        "image": "https://picsum.photos/seed/vb-87448e9c6638d33a/480/320"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Just five posts may be enough to shape what people believe online, study finds",
-        "summary": "If people form opinions online before they fully evaluate whether information is true, then the fight against misinformation may begin far earlier than most platforms are designed to address.",
-        "link": "https://phys.org/news/2026-05-people-online.html",
-        "published_utc": "2026-05-26T19:20:04+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/social-media-7.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Reading brachycephalic dogs' facial expressions requires extra cognitive processing by humans",
-        "summary": "People often look to dogs' behavior, especially their facial expressions, for indications of their states of mind. Numerous studies show that this is a popular interpretation strategy. However, modern dog breeds vary greatly in size and structure, and few studies have explored how breed-specific morphology might affect humans' ability to assess visual cues from the faces of different breeds of dogs.",
-        "link": "https://phys.org/news/2026-05-brachycephalic-dogs-facial-requires-extra.html",
-        "published_utc": "2026-05-26T19:20:01+00:00",
+        "title": "Surface design transforms thermal management and enables frictionless systems",
+        "summary": "A research team led by Professor Steven Wang, Associate Vice President (Resources Planning) and Associate Professor in the Department of Mechanical Engineering and School of Energy and Environment, has designed a revolutionary capillary structure that can trigger the Leidenfrost effect, offering a practical solution for the temperature-regulated Leidenfrost effect without requiring complex surface engineering.",
+        "link": "https://phys.org/news/2026-05-surface-thermal-enables-frictionless.html",
+        "published_utc": "2026-05-26T21:00:04+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/reading-brachycephalic.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/surface-design-transfo.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "It looks like rice's own defense, but this fungal trick turns a lifesaving response into a crop-killing weapon",
-        "summary": "For about half the global population, rice is the staple food. Yet every year, a fungal disease—rice blast—destroys harvests that could feed 60 million people. Researchers at the Karlsruhe Institute of Technology (KIT) have uncovered how the pathogen outsmarts the rice plant's defense system. The findings, published in the Journal of Experimental Botany, open up new possibilities for making rice more resilient, directly benefiting global food security.",
-        "link": "https://phys.org/news/2026-05-rice-defense-fungal-lifesaving-response.html",
-        "published_utc": "2026-05-26T19:00:03+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-uncover-at.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Trees in cattle pastures nearly double biodiversity across 15 countries, analysis shows",
-        "summary": "Cattle ranching is the biggest driver of tropical deforestation, but it is also a key livelihood for nearly 1 billion smallholder farmers. A global study by Justus Liebig University Giessen (JLU) shows that this tension can be eased by reintroducing trees into pastureland. Planting trees in cattle pastures nearly doubles biodiversity compared to conventional pastures. However, these plantings cannot replace the protection of native forests. The study is published in the journal Ecological Applications.",
-        "link": "https://phys.org/news/2026-05-trees-cattle-pastures-biodiversity-countries.html",
-        "published_utc": "2026-05-26T19:00:01+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/trees-in-cattle-pastur.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Tropical butterflies 'hedge bets' on reproduction as extreme seasons reshape Amazon life",
-        "summary": "New research from Queen Mary University of London shows how extreme seasonal patterns are causing rainforest butterflies to adapt their reproductive strategies at a rapid pace, with implications for species resilience under accelerating climate disruption.",
-        "link": "https://phys.org/news/2026-05-tropical-butterflies-hedge-reproduction-extreme.html",
-        "published_utc": "2026-05-26T18:52:12+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tropical-butterflies-h.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "California's salmon fishery reopens after a population crash and three‑year closure, but that doesn't mean all is well",
-        "summary": "Along the California coast, from Bodega Bay to Morro Bay, commercial fishing boats have started pulling in salmon for the first time in three years, and local salmon are once again appearing on restaurant menus and in seafood markets across the state.",
-        "link": "https://phys.org/news/2026-05-california-salmon-fishery-reopens-population.html",
-        "published_utc": "2026-05-26T18:40:04+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/pacific-salmon.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Single-step 8-9x expansion reveals nanoscale centrioles without electron microscopy",
-        "summary": "In a study published in ACS Nano, researchers from National Taiwan University report a new expansion microscopy strategy termed high-fold homogeneous expansion microscopy (hiHomoExM), capable of achieving approximately 8–9× isotropic expansion in a single expansion step while preserving delicate ultrastructural organization.",
-        "link": "https://phys.org/news/2026-05-9x-expansion-reveals-nanoscale-centrioles.html",
-        "published_utc": "2026-05-26T18:40:01+00:00",
-        "score": 2,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/high-fold-homogeneous.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Polymer strategy boosts lithium battery safety and performance by making plasticizers compatible",
-        "summary": "The performance and safety profile of lithium batteries has improved immensely over the years, but new technologies are constantly demanding even better performance and increased safety demands due to higher energy densities. Now, a study, published in the Journal of the American Chemical Society, reports on a new method that improves the way plasticizers work with poly(vinylidene fluoride) (PVDF) in the electrolytes of lithium batteries, further improving performance and safety.",
-        "link": "https://phys.org/news/2026-05-polymer-strategy-boosts-lithium-battery.html",
-        "published_utc": "2026-05-26T18:20:07+00:00",
-        "score": 7,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-polymer-strategy-m.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Protein shape mapping could detect diseases before symptoms appear",
-        "summary": "A University of Mississippi professor and his team have developed a technology that may one day lead to the early diagnosis of juvenile diabetes and CTE caused by traumatic brain injuries. The technology allows researchers to see and label protein shapes and interactions in mammal blood that can possibly lead to an earlier diagnosis of disease before a person even shows symptoms.",
-        "link": "https://phys.org/news/2026-05-protein-diseases-symptoms.html",
-        "published_utc": "2026-05-26T18:20:01+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-develop-me-2.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Stretching and squeezing drive the timing of glacial meltwater release",
-        "summary": "As meltwater drains through and beneath a glacier, it can alter how the ice flows and whether it breaks apart. Meltwater can also cause feedback that leads to more ice loss. Understanding when and how glacial meltwater drains is therefore critical to predicting how fast glaciers will lose ice and how that loss will affect sea level.",
-        "link": "https://phys.org/news/2026-05-glacial-meltwater.html",
-        "published_utc": "2026-05-26T18:00:05+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/stretching-and-squeezi-1.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "New mixing guidelines for dense suspensions revealed",
-        "summary": "Solid–liquid mixing is a crucial step for many industrial processes ranging from battery electrode manufacturing to pharmaceutical formulations. These processes often require uniform suspension of particles to ensure consistent product quality. For decades, engineers have always relied on Zwietering's correlation, a classic engineering model effective in estimating the just-suspended speed (NJS), which is the minimum impeller rotation speed that prevents particles from settling down.",
-        "link": "https://phys.org/news/2026-05-guidelines-dense-suspensions-revealed.html",
-        "published_utc": "2026-05-26T18:00:01+00:00",
+        "title": "CO₂ scrubbing microbes discovered in underground laboratory",
+        "summary": "You might not know it, but the hot water and rocks deep within Earth are teeming with undiscovered life. Dr. Tanvi Govil is one of the biologists studying this new frontier of microbial life that thrives in extreme places.",
+        "link": "https://phys.org/news/2026-05-microbes-underground-laboratory.html",
+        "published_utc": "2026-05-26T20:40:06+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-at-nagoya.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/co2-scrubbing-microbes.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Unsealing cells' 'black box' strategy to regulate gene activation",
-        "summary": "While scientists have known for more than two decades that all cells use a strategy called RNA interference to regulate gene expression, a new study is the first to describe how a specific protein manages the step-by-step process of assembling the molecular complex that performs the regulatory job.",
-        "link": "https://phys.org/news/2026-05-unsealing-cells-black-strategy-gene.html",
-        "published_utc": "2026-05-26T17:40:05+00:00",
+        "title": "How homing pigeons keep navigation simple when winging their way home together",
+        "summary": "When it comes to flocking together, homing pigeons use a simple strategy to find better ways home, according to a recent report. The study, published in the journal eLife, suggests that homing pigeons use simple route averaging when navigating as a group. eLife's editors say the work addresses an important question, and provides compelling evidence based on multiple models and data on how homing pigeons can generate social routes from solitary ones.",
+        "link": "https://phys.org/news/2026-05-homing-pigeons-simple-winging-home.html",
+        "published_utc": "2026-05-26T20:40:02+00:00",
         "score": 1,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/unsealing-cells-black.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/homing-pigeon.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Astrophysicists strike black gold with treasure trove of gravitational wave detections",
-        "summary": "Researchers from the University of Glasgow's Institute for Gravitational Research are celebrating the publication of a vast new treasure trove of gravitational wave detections, hailed as a milestone marking the coming of age of gravitational astronomy.",
-        "link": "https://phys.org/news/2026-05-ligovirgokagra-precision-gravitational-astronomy.html",
-        "published_utc": "2026-05-26T17:20:11+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/astrophysicists-strike.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Researchers capture inception of hydrogen-uranium reaction for the first time",
-        "summary": "When hydrogen gas interacts with uranium metal, the combination creates a chemically reactive powder and a runaway reaction that is difficult to stop. The result can impact the safety and lifespan of technology critical for fusion energy, hydrogen storage and nuclear fuels.",
-        "link": "https://phys.org/news/2026-05-capture-inception-hydrogen-uranium-reaction.html",
-        "published_utc": "2026-05-26T17:20:08+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/roll-the-tape-capturin.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Releasing cool water protects fish in the Grand Canyon. That comes at cost to hydropower",
-        "summary": "As the Colorado River and its once massive reservoirs shrink from overuse and climate change, officials are faced with a decision that pits conservation against ratepayer costs for electricity.",
-        "link": "https://phys.org/news/2026-05-cool-fish-grand-canyon-hydropower.html",
-        "published_utc": "2026-05-26T17:20:04+00:00",
-        "score": 2,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/releasing-cool-water-p.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "NASA Breaking News",
-        "title": "Chennai City Lights",
-        "summary": "Chennai, on India&#8217;s southern coast along the Bay of Bengal and with a metropolitan population of about 8.7 million, shines with white LED streetlights in this photograph taken at approximately 9:13 p.m. local time on May 2, 2026, from the International Space Station. Earth observations from the space station let us see how our planet [&#8230;]",
-        "link": "https://www.nasa.gov/image-article/chennai-city-lights",
-        "published_utc": "2026-05-26T14:49:48+00:00",
+        "title": "The US is seeing stronger storms, so why are droughts getting worse?",
+        "summary": "About two-thirds of the U.S. is in some stage of drought in late spring 2026, yet at the same time the country has been seeing more intense downpours. It might seem contradictory, but both are symptoms of rising global temperatures.",
+        "link": "https://phys.org/news/2026-05-stronger-storms-droughts-worse.html",
+        "published_utc": "2026-05-26T20:20:03+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-3e244a2cb63232af/480/320"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/storm.jpg"
       },
       {
         "section": "science",
         "kind": "global",
-        "source": "NASA Breaking News",
-        "title": "New Instrument Used Antarctic Ice Sheet to Probe Extreme Universe",
-        "summary": "The Payload for Ultrahigh Energy Observations (PUEO) is a NASA Astrophysics Pioneers Program mission designed to detect the most energetic particles in the universe.",
-        "link": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/new-instrument-used-antarctic-ice-sheet-to-probe-extreme-universe",
-        "published_utc": "2026-05-26T12:00:00+00:00",
+        "source": "Phys.org",
+        "title": "As wolves recover, golden jackals may still conquer most of Europe thanks to 'human shield'",
+        "summary": "Human activity may be enabling the expansion of golden jackals across Europe by reducing the suppressive effect of gray wolves, suggests research published in Nature Ecology & Evolution. This human-mediated interaction could allow jackals to occupy up to 75% of the continent, almost six times more than the current area, the authors suggest.",
+        "link": "https://phys.org/news/2026-05-wolves-recover-golden-jackals-conquer.html",
+        "published_utc": "2026-05-26T20:00:03+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-9f33a4d276e786e9/480/320"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/humans-are-enabling-ja-1.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Why we struggle to predict our future choices",
+        "summary": "You probably think you know yourself pretty well. So when you make a plan, you assume you have a reasonably accurate picture of what future you will do. New research suggests that assumption is wrong, and that the gap has real consequences for the decisions we make every day.",
+        "link": "https://phys.org/news/2026-05-struggle-future-choices.html",
+        "published_utc": "2026-05-26T20:00:01+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/choice.jpg"
       }
     ],
     "environment": [
@@ -782,30 +650,6 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Războiul gospodinelor: Mihai Neamţu o acuză pe Jamila că i-a furat reţeta de salată cu balegă de cal",
-      "summary": "După eclerul la tavă, un nou preparat delicios face furori pe culoarele tribunalelor! Bloggerul culinar şi deputatul AUR Mihai Neamţu a dat-o recent în judecată pe celebra Jamila, pe care o acuză că i-a furat cea mai de succes reţetă: salata cu balegă de cal. &#8222;N-avea de unde altundeva să o afle, pentru că e [&#8230;] The post Războiul gospodinelor: Mihai Neamţu o acuză pe Jamila că i-a furat reţeta de salată cu balegă de cal appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/monden/razboiul-gospodinelor-mihai-neamtu-o-acuza-pe-jamila-ca-i-a-furat-reteta-de-salata-cu-balega-de-cal",
-      "published_utc": "2026-05-25T11:49:50+00:00",
-      "score": 3,
-      "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/balegarneamtu.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Un bărbat a stabilit un nou record în sistemul de reciclare după ce a introdus 8.000 de sticle în opt ore",
-      "summary": "Un bărbat a stabilit un nou record în sistemul de garanţie-returnare din Polonia, după ce a introdus timp de opt ore aproximativ 8.000 de sticle şi doze într-un automat de reciclare proiectat chiar de el. La final, acesta a primit o chitanţă în valoare de 3.925,50 zloţi, echivalentul a aproape 1.000 de euro.",
-      "link": "https://www.digi24.ro/stiri/externe/un-barbat-a-stabilit-un-nou-record-in-sistemul-de-reciclare-dupa-ce-a-introdus-8-000-de-sticle-in-opt-ore-3786923",
-      "published_utc": "2026-05-26T17:20:18+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNSUyRjI2JTJGMjc0ODU5NV8yNzQ4/NTk1X3Byb2ZpbWVkaWEtMTA4MjIyMjM2/MC5qcGcmaGFzaD1hMzQ3MDQ3ODQ5YzUwZjA1MzJjNDNlNzRjNGZiNjFlNA==.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "Cireșar transformă Timișoara în orașul copilăriei!",
       "summary": "Sărbătorim împreună copilăria, toată luna iunie ! În acest an, ne bucurăm de „Cireșar” întreaga lună iunie. Începând de sâmbătă, 30 mai, Primăria Municipiului Timișoara și Casa de Cultură pregătesc activități&#8230; Articolul Cireșar transformă Timișoara în orașul copilăriei! apare prima dată în Romania Pozitiva .",
@@ -866,14 +710,14 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "ESTE FILM Festival: tineri profesioniști și experți din domeniul cultural explorează practicile rezilienței în cadrul LINE-UP Academy",
-      "summary": "Ceea ce a început ca o idee ambițioasă a devenit acum o tradiție solidă în continuă dezvoltare: cea de-a patra ediție a LINE-UP: International Academy &#38; Networking for Festival Managers&#8230; Articolul ESTE FILM Festival: tineri profesioniști și experți din domeniul cultural explorează practicile rezilienței în cadrul LINE-UP Academy apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/cultura/este-film-festival-tineri-profesionisti-si-experti-din-domeniul-cultural-exploreaza-practicile-rezilientei-in-cadrul-line-up-academy",
-      "published_utc": "2026-05-26T11:56:55+00:00",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Războiul gospodinelor: Mihai Neamţu o acuză pe Jamila că i-a furat reţeta de salată cu balegă de cal",
+      "summary": "După eclerul la tavă, un nou preparat delicios face furori pe culoarele tribunalelor! Bloggerul culinar şi deputatul AUR Mihai Neamţu a dat-o recent în judecată pe celebra Jamila, pe care o acuză că i-a furat cea mai de succes reţetă: salata cu balegă de cal. &#8222;N-avea de unde altundeva să o afle, pentru că e [&#8230;] The post Războiul gospodinelor: Mihai Neamţu o acuză pe Jamila că i-a furat reţeta de salată cu balegă de cal appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/monden/razboiul-gospodinelor-mihai-neamtu-o-acuza-pe-jamila-ca-i-a-furat-reteta-de-salata-cu-balega-de-cal",
+      "published_utc": "2026-05-25T11:49:50+00:00",
       "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-f2666fd968d49f7d/480/320"
+      "freshness_boost": 1,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/balegarneamtu.jpg"
     },
     {
       "section": "romania",
@@ -890,14 +734,26 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "RomaniaPozitiva",
+      "title": "ESTE FILM Festival: tineri profesioniști și experți din domeniul cultural explorează practicile rezilienței în cadrul LINE-UP Academy",
+      "summary": "Ceea ce a început ca o idee ambițioasă a devenit acum o tradiție solidă în continuă dezvoltare: cea de-a patra ediție a LINE-UP: International Academy &#38; Networking for Festival Managers&#8230; Articolul ESTE FILM Festival: tineri profesioniști și experți din domeniul cultural explorează practicile rezilienței în cadrul LINE-UP Academy apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/cultura/este-film-festival-tineri-profesionisti-si-experti-din-domeniul-cultural-exploreaza-practicile-rezilientei-in-cadrul-line-up-academy",
+      "published_utc": "2026-05-26T11:56:55+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-f2666fd968d49f7d/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 Șoșoacă după consultări",
-      "summary": "The post Șoșoacă după consultări appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/ovi/sosoaca-dupa-consultari",
-      "published_utc": "2026-05-25T07:44:59+00:00",
+      "title": "😂 SMURD se chinuie să-i scoată purtătorului de cuvânt al Poliției capul din curul lui Predoiu",
+      "summary": "Mai multe echipaje SMURD se ocupă de mai multe ore cu o descarcerare extrem de complexă: purtătorul de cuvânt al Poliției Române, Georgian Drăgan, a rămas cu capul blocat în curul lui Cătălin Predoiu. Nu e prima oară când Georgian Drăgan plonjează cu capul înainte în curul ministrului de Interne, ba chiar se poate spune [&#8230;] The post SMURD se chinuie să-i scoată purtătorului de cuvânt al Poliției capul din curul lui Predoiu appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/politic/smurd-se-chinuie-sa-i-scoata-purtatorului-de-cuvant-al-politiei-capul-din-curul-lui-predoiu",
+      "published_utc": "2026-05-25T09:08:22+00:00",
       "score": 3,
       "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/Sosoaca-dupa-consultari.jpg"
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/purtator_cuvant_politia_romana.jpg"
     },
     {
       "section": "romania",
@@ -972,18 +828,6 @@
       "image": "https://picsum.photos/seed/vb-147a41b3f87f9b8a/480/320"
     },
     {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Vitamin D analog shuts down pancreatic cancer's shield in a clinical trial",
-      "summary": "A small clinical trial led by Dana-Farber Cancer Institute researchers has put a Salk Institute idea to the test in patients: that activating the vitamin D receptor can help reshape the protective environment surrounding pancreatic tumors in ways that could make the notoriously difficult-to-treat cancer more vulnerable to therapeutic treatments.",
-      "link": "https://medicalxpress.com/news/2026-05-vitamin-d-analog-pancreatic-cancer.html",
-      "published_utc": "2026-05-26T19:52:42+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/from-salk-institute-di.jpg"
-    },
-    {
       "section": "romania",
       "kind": "ro",
       "source": "World Vision Romania",
@@ -994,6 +838,18 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-aa07ae2b6f441a0c/480/320"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Data-driven model captures dynamics of turbulence at scale",
+      "summary": "Whether the dust borne on the violent winds of a tornado or the sugar grains in a swirled cup of coffee, the behavior of particles carried along in turbulence is subject to some similarities—all of them difficult to predict at scale. As described in a recent publication in the Proceedings of the National Academy of Sciences, a research team led by Los Alamos National Laboratory scientists has developed a first-of-its-kind machine learning framework that models chaotic particle motions in a turbulent flow.",
+      "link": "https://phys.org/news/2026-05-driven-captures-dynamics-turbulence-scale.html",
+      "published_utc": "2026-05-26T21:20:03+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/data-driven-modeling-c.jpg"
     },
     {
       "section": "romania",
@@ -1008,18 +864,6 @@
       "image": "https://picsum.photos/seed/vb-9934b0d47c9a6244/480/320"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Black detainees twice as likely as white detainees to be strip‑searched in police custody: New study",
-      "summary": "The government has promised a new era of youth justice reform focused on protecting vulnerable children and reducing harm.",
-      "link": "https://phys.org/news/2026-05-black-detainees-white-stripsearched-police.html",
-      "published_utc": "2026-05-26T19:40:04+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/pat-down.jpg"
-    },
-    {
       "section": "romania",
       "kind": "ro",
       "source": "World Vision Romania",
@@ -1030,6 +874,18 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-451d72078f5c9ca1/480/320"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "How natural selection helps design antennas, cancer treatments and adhesives",
+      "summary": "NASA had a big—and little—problem. For a small satellite, the agency needed a tiny antenna, with very specific communication capabilities and very strict limits on size and weight. The agency gave the problem to a design team adept at simulating the way natural selection engineers solutions.",
+      "link": "https://phys.org/news/2026-05-natural-antennas-cancer-treatments-adhesives.html",
+      "published_utc": "2026-05-26T21:20:01+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/antenna.jpg"
     },
     {
       "section": "romania",
@@ -1044,18 +900,6 @@
       "image": "https://picsum.photos/seed/vb-981f1e8cf23a6b08/480/320"
     },
     {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Kids exposed to prenatal alcohol lack diagnosis and aid, Finnish study finds",
-      "summary": "The Finnish Association on Intellectual and Developmental Disabilities estimates that between 600 and 3,000 children are born in Finland each year with permanent developmental damage caused by maternal alcohol consumption during pregnancy. Many children remain without a diagnosis and the support they need.",
-      "link": "https://medicalxpress.com/news/2026-05-kids-exposed-prenatal-alcohol-lack.html",
-      "published_utc": "2026-05-26T19:40:01+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/kids-exposed-to-prenat.jpg"
-    },
-    {
       "section": "romania",
       "kind": "ro",
       "source": "World Vision Romania",
@@ -1066,6 +910,18 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-33e3d5688a184f91/480/320"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "NASA Breaking News",
+      "title": "NASA Astronauts to Answer Questions from Students in New York",
+      "summary": "Students in New York will hear from NASA astronaut Jessica Meir as she answers their prerecorded science, technology, engineering, and mathematics (STEM) questions while aboard the International Space Station. The Earth-to-space call will begin at 11:05 p.m. EDT Thursday, May 28, and will stream live on the agency’s Learn With NASA YouTube channel. This event [&#8230;]",
+      "link": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-students-in-new-york",
+      "published_utc": "2026-05-26T21:05:04+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-87448e9c6638d33a/480/320"
     },
     {
       "section": "romania",
@@ -1080,18 +936,6 @@
       "image": "https://picsum.photos/seed/vb-f4198d9ecf3c2ce7/480/320"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "NASA Breaking News",
-      "title": "NASA Provides Update on Moon Base Rovers, Landers, Missions",
-      "summary": "During a Moon Base event Tuesday at NASA’s Headquarters in Washington, the agency announced new contracts for lunar rovers for crew to drive and uncrewed cargo landers bound for the Moon. NASA leaders also shared target launch timeframes and upcoming milestones for the first Moon Base infrastructure and exploration missions to the lunar South Pole [&#8230;]",
-      "link": "https://www.nasa.gov/news-release/nasa-provides-update-on-moon-base-rovers-landers-missions",
-      "published_utc": "2026-05-26T19:33:32+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-00475cb127d7a062/480/320"
-    },
-    {
       "section": "romania",
       "kind": "ro",
       "source": "World Vision Romania",
@@ -1102,6 +946,18 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-c01ff56684c84200/480/320"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Surface design transforms thermal management and enables frictionless systems",
+      "summary": "A research team led by Professor Steven Wang, Associate Vice President (Resources Planning) and Associate Professor in the Department of Mechanical Engineering and School of Energy and Environment, has designed a revolutionary capillary structure that can trigger the Leidenfrost effect, offering a practical solution for the temperature-regulated Leidenfrost effect without requiring complex surface engineering.",
+      "link": "https://phys.org/news/2026-05-surface-thermal-enables-frictionless.html",
+      "published_utc": "2026-05-26T21:00:04+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/surface-design-transfo.jpg"
     },
     {
       "section": "romania",
@@ -1116,18 +972,6 @@
       "image": "https://picsum.photos/seed/vb-b232011f502b8f73/480/320"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Just five posts may be enough to shape what people believe online, study finds",
-      "summary": "If people form opinions online before they fully evaluate whether information is true, then the fight against misinformation may begin far earlier than most platforms are designed to address.",
-      "link": "https://phys.org/news/2026-05-people-online.html",
-      "published_utc": "2026-05-26T19:20:04+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/social-media-7.jpg"
-    },
-    {
       "section": "romania",
       "kind": "ro",
       "source": "Fundatia Regala Margareta",
@@ -1138,6 +982,18 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-aee1cf7180726a8a/480/320"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "CO₂ scrubbing microbes discovered in underground laboratory",
+      "summary": "You might not know it, but the hot water and rocks deep within Earth are teeming with undiscovered life. Dr. Tanvi Govil is one of the biologists studying this new frontier of microbial life that thrives in extreme places.",
+      "link": "https://phys.org/news/2026-05-microbes-underground-laboratory.html",
+      "published_utc": "2026-05-26T20:40:06+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/co2-scrubbing-microbes.jpg"
     },
     {
       "section": "romania",
@@ -1152,18 +1008,6 @@
       "image": "https://picsum.photos/seed/vb-1820742b102fcd56/480/320"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Reading brachycephalic dogs' facial expressions requires extra cognitive processing by humans",
-      "summary": "People often look to dogs' behavior, especially their facial expressions, for indications of their states of mind. Numerous studies show that this is a popular interpretation strategy. However, modern dog breeds vary greatly in size and structure, and few studies have explored how breed-specific morphology might affect humans' ability to assess visual cues from the faces of different breeds of dogs.",
-      "link": "https://phys.org/news/2026-05-brachycephalic-dogs-facial-requires-extra.html",
-      "published_utc": "2026-05-26T19:20:01+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/reading-brachycephalic.jpg"
-    },
-    {
       "section": "romania",
       "kind": "ro",
       "source": "World Vision Romania",
@@ -1174,6 +1018,18 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-320b221910a8bb40/480/320"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "How homing pigeons keep navigation simple when winging their way home together",
+      "summary": "When it comes to flocking together, homing pigeons use a simple strategy to find better ways home, according to a recent report. The study, published in the journal eLife, suggests that homing pigeons use simple route averaging when navigating as a group. eLife's editors say the work addresses an important question, and provides compelling evidence based on multiple models and data on how homing pigeons can generate social routes from solitary ones.",
+      "link": "https://phys.org/news/2026-05-homing-pigeons-simple-winging-home.html",
+      "published_utc": "2026-05-26T20:40:02+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/homing-pigeon.jpg"
     },
     {
       "section": "romania",
@@ -1188,6 +1044,66 @@
       "image": "https://picsum.photos/seed/vb-62290e058a5ec56d/480/320"
     },
     {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "The US is seeing stronger storms, so why are droughts getting worse?",
+      "summary": "About two-thirds of the U.S. is in some stage of drought in late spring 2026, yet at the same time the country has been seeing more intense downpours. It might seem contradictory, but both are symptoms of rising global temperatures.",
+      "link": "https://phys.org/news/2026-05-stronger-storms-droughts-worse.html",
+      "published_utc": "2026-05-26T20:20:03+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/storm.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "As wolves recover, golden jackals may still conquer most of Europe thanks to 'human shield'",
+      "summary": "Human activity may be enabling the expansion of golden jackals across Europe by reducing the suppressive effect of gray wolves, suggests research published in Nature Ecology & Evolution. This human-mediated interaction could allow jackals to occupy up to 75% of the continent, almost six times more than the current area, the authors suggest.",
+      "link": "https://phys.org/news/2026-05-wolves-recover-golden-jackals-conquer.html",
+      "published_utc": "2026-05-26T20:00:03+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/humans-are-enabling-ja-1.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Why we struggle to predict our future choices",
+      "summary": "You probably think you know yourself pretty well. So when you make a plan, you assume you have a reasonably accurate picture of what future you will do. New research suggests that assumption is wrong, and that the gap has real consequences for the decisions we make every day.",
+      "link": "https://phys.org/news/2026-05-struggle-future-choices.html",
+      "published_utc": "2026-05-26T20:00:01+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/choice.jpg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "Vitamin D analog shuts down pancreatic cancer's shield in a clinical trial",
+      "summary": "A small clinical trial led by Dana-Farber Cancer Institute researchers has put a Salk Institute idea to the test in patients: that activating the vitamin D receptor can help reshape the protective environment surrounding pancreatic tumors in ways that could make the notoriously difficult-to-treat cancer more vulnerable to therapeutic treatments.",
+      "link": "https://medicalxpress.com/news/2026-05-vitamin-d-analog-pancreatic-cancer.html",
+      "published_utc": "2026-05-26T19:52:42+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/from-salk-institute-di.jpg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "Kids exposed to prenatal alcohol lack diagnosis and aid, Finnish study finds",
+      "summary": "The Finnish Association on Intellectual and Developmental Disabilities estimates that between 600 and 3,000 children are born in Finland each year with permanent developmental damage caused by maternal alcohol consumption during pregnancy. Many children remain without a diagnosis and the support they need.",
+      "link": "https://medicalxpress.com/news/2026-05-kids-exposed-prenatal-alcohol-lack.html",
+      "published_utc": "2026-05-26T19:40:01+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/kids-exposed-to-prenat.jpg"
+    },
+    {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
@@ -1198,78 +1114,6 @@
       "score": 0,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/soccer-1.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "It looks like rice's own defense, but this fungal trick turns a lifesaving response into a crop-killing weapon",
-      "summary": "For about half the global population, rice is the staple food. Yet every year, a fungal disease—rice blast—destroys harvests that could feed 60 million people. Researchers at the Karlsruhe Institute of Technology (KIT) have uncovered how the pathogen outsmarts the rice plant's defense system. The findings, published in the Journal of Experimental Botany, open up new possibilities for making rice more resilient, directly benefiting global food security.",
-      "link": "https://phys.org/news/2026-05-rice-defense-fungal-lifesaving-response.html",
-      "published_utc": "2026-05-26T19:00:03+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-uncover-at.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Trees in cattle pastures nearly double biodiversity across 15 countries, analysis shows",
-      "summary": "Cattle ranching is the biggest driver of tropical deforestation, but it is also a key livelihood for nearly 1 billion smallholder farmers. A global study by Justus Liebig University Giessen (JLU) shows that this tension can be eased by reintroducing trees into pastureland. Planting trees in cattle pastures nearly doubles biodiversity compared to conventional pastures. However, these plantings cannot replace the protection of native forests. The study is published in the journal Ecological Applications.",
-      "link": "https://phys.org/news/2026-05-trees-cattle-pastures-biodiversity-countries.html",
-      "published_utc": "2026-05-26T19:00:01+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/trees-in-cattle-pastur.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Tropical butterflies 'hedge bets' on reproduction as extreme seasons reshape Amazon life",
-      "summary": "New research from Queen Mary University of London shows how extreme seasonal patterns are causing rainforest butterflies to adapt their reproductive strategies at a rapid pace, with implications for species resilience under accelerating climate disruption.",
-      "link": "https://phys.org/news/2026-05-tropical-butterflies-hedge-reproduction-extreme.html",
-      "published_utc": "2026-05-26T18:52:12+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tropical-butterflies-h.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "California's salmon fishery reopens after a population crash and three‑year closure, but that doesn't mean all is well",
-      "summary": "Along the California coast, from Bodega Bay to Morro Bay, commercial fishing boats have started pulling in salmon for the first time in three years, and local salmon are once again appearing on restaurant menus and in seafood markets across the state.",
-      "link": "https://phys.org/news/2026-05-california-salmon-fishery-reopens-population.html",
-      "published_utc": "2026-05-26T18:40:04+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/pacific-salmon.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Single-step 8-9x expansion reveals nanoscale centrioles without electron microscopy",
-      "summary": "In a study published in ACS Nano, researchers from National Taiwan University report a new expansion microscopy strategy termed high-fold homogeneous expansion microscopy (hiHomoExM), capable of achieving approximately 8–9× isotropic expansion in a single expansion step while preserving delicate ultrastructural organization.",
-      "link": "https://phys.org/news/2026-05-9x-expansion-reveals-nanoscale-centrioles.html",
-      "published_utc": "2026-05-26T18:40:01+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/high-fold-homogeneous.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Polymer strategy boosts lithium battery safety and performance by making plasticizers compatible",
-      "summary": "The performance and safety profile of lithium batteries has improved immensely over the years, but new technologies are constantly demanding even better performance and increased safety demands due to higher energy densities. Now, a study, published in the Journal of the American Chemical Society, reports on a new method that improves the way plasticizers work with poly(vinylidene fluoride) (PVDF) in the electrolytes of lithium batteries, further improving performance and safety.",
-      "link": "https://phys.org/news/2026-05-polymer-strategy-boosts-lithium-battery.html",
-      "published_utc": "2026-05-26T18:20:07+00:00",
-      "score": 7,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-polymer-strategy-m.jpg"
     },
     {
       "section": "medical",
@@ -1296,30 +1140,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-finds-challenges.jpg"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Protein shape mapping could detect diseases before symptoms appear",
-      "summary": "A University of Mississippi professor and his team have developed a technology that may one day lead to the early diagnosis of juvenile diabetes and CTE caused by traumatic brain injuries. The technology allows researchers to see and label protein shapes and interactions in mammal blood that can possibly lead to an earlier diagnosis of disease before a person even shows symptoms.",
-      "link": "https://phys.org/news/2026-05-protein-diseases-symptoms.html",
-      "published_utc": "2026-05-26T18:20:01+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-develop-me-2.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Stretching and squeezing drive the timing of glacial meltwater release",
-      "summary": "As meltwater drains through and beneath a glacier, it can alter how the ice flows and whether it breaks apart. Meltwater can also cause feedback that leads to more ice loss. Understanding when and how glacial meltwater drains is therefore critical to predicting how fast glaciers will lose ice and how that loss will affect sea level.",
-      "link": "https://phys.org/news/2026-05-glacial-meltwater.html",
-      "published_utc": "2026-05-26T18:00:05+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/stretching-and-squeezi-1.jpg"
-    },
-    {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
@@ -1330,30 +1150,6 @@
       "score": 0,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-puts-cance.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "New mixing guidelines for dense suspensions revealed",
-      "summary": "Solid–liquid mixing is a crucial step for many industrial processes ranging from battery electrode manufacturing to pharmaceutical formulations. These processes often require uniform suspension of particles to ensure consistent product quality. For decades, engineers have always relied on Zwietering's correlation, a classic engineering model effective in estimating the just-suspended speed (NJS), which is the minimum impeller rotation speed that prevents particles from settling down.",
-      "link": "https://phys.org/news/2026-05-guidelines-dense-suspensions-revealed.html",
-      "published_utc": "2026-05-26T18:00:01+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-at-nagoya.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Unsealing cells' 'black box' strategy to regulate gene activation",
-      "summary": "While scientists have known for more than two decades that all cells use a strategy called RNA interference to regulate gene expression, a new study is the first to describe how a specific protein manages the step-by-step process of assembling the molecular complex that performs the regulatory job.",
-      "link": "https://phys.org/news/2026-05-unsealing-cells-black-strategy-gene.html",
-      "published_utc": "2026-05-26T17:40:05+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/unsealing-cells-black.jpg"
     },
     {
       "section": "medical",
@@ -1380,42 +1176,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2020/2-patient.jpg"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Astrophysicists strike black gold with treasure trove of gravitational wave detections",
-      "summary": "Researchers from the University of Glasgow's Institute for Gravitational Research are celebrating the publication of a vast new treasure trove of gravitational wave detections, hailed as a milestone marking the coming of age of gravitational astronomy.",
-      "link": "https://phys.org/news/2026-05-ligovirgokagra-precision-gravitational-astronomy.html",
-      "published_utc": "2026-05-26T17:20:11+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/astrophysicists-strike.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Researchers capture inception of hydrogen-uranium reaction for the first time",
-      "summary": "When hydrogen gas interacts with uranium metal, the combination creates a chemically reactive powder and a runaway reaction that is difficult to stop. The result can impact the safety and lifespan of technology critical for fusion energy, hydrogen storage and nuclear fuels.",
-      "link": "https://phys.org/news/2026-05-capture-inception-hydrogen-uranium-reaction.html",
-      "published_utc": "2026-05-26T17:20:08+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/roll-the-tape-capturin.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Releasing cool water protects fish in the Grand Canyon. That comes at cost to hydropower",
-      "summary": "As the Colorado River and its once massive reservoirs shrink from overuse and climate change, officials are faced with a decision that pits conservation against ratepayer costs for electricity.",
-      "link": "https://phys.org/news/2026-05-cool-fish-grand-canyon-hydropower.html",
-      "published_utc": "2026-05-26T17:20:04+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/releasing-cool-water-p.jpg"
-    },
-    {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
@@ -1426,30 +1186,6 @@
       "score": 0,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-insight-into-how-t-2.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "NASA Breaking News",
-      "title": "Chennai City Lights",
-      "summary": "Chennai, on India&#8217;s southern coast along the Bay of Bengal and with a metropolitan population of about 8.7 million, shines with white LED streetlights in this photograph taken at approximately 9:13 p.m. local time on May 2, 2026, from the International Space Station. Earth observations from the space station let us see how our planet [&#8230;]",
-      "link": "https://www.nasa.gov/image-article/chennai-city-lights",
-      "published_utc": "2026-05-26T14:49:48+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-3e244a2cb63232af/480/320"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "NASA Breaking News",
-      "title": "New Instrument Used Antarctic Ice Sheet to Probe Extreme Universe",
-      "summary": "The Payload for Ultrahigh Energy Observations (PUEO) is a NASA Astrophysics Pioneers Program mission designed to detect the most energetic particles in the universe.",
-      "link": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/new-instrument-used-antarctic-ice-sheet-to-probe-extreme-universe",
-      "published_utc": "2026-05-26T12:00:00+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-9f33a4d276e786e9/480/320"
     },
     {
       "section": "environment",
@@ -1640,6 +1376,7 @@
       "https://live.staticflickr.com/65535/55276768408_41a7d7329b_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/32590730202_1f57cf7894_b.jpg",
       "https://live.staticflickr.com/65535/55282498995_2475d5e291_b.jpg",
       "https://live.staticflickr.com/65535/55283761422_31fefa9be3_b.jpg",
       "https://live.staticflickr.com/65535/17886876976_784911c3f4_b.jpg",
@@ -1656,10 +1393,10 @@
       "https://live.staticflickr.com/65535/55279070100_3110193db7_b.jpg",
       "https://live.staticflickr.com/65535/55279795299_e79c2a270e_b.jpg",
       "https://live.staticflickr.com/65535/55277270041_4bde8ea72f_b.jpg",
-      "https://live.staticflickr.com/65535/55278676641_96e98222dd_b.jpg",
-      "https://live.staticflickr.com/65535/55278676591_6b8ed132f2_b.jpg"
+      "https://live.staticflickr.com/65535/55278676641_96e98222dd_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55294555432_5ce43674b1_b.jpg",
       "https://live.staticflickr.com/65535/55295841890_7471fe1751_b.jpg",
       "https://live.staticflickr.com/65535/55294950441_fe73236a81_b.jpg",
       "https://live.staticflickr.com/65535/55293587017_d03a0fe224_b.jpg",
@@ -1676,12 +1413,11 @@
       "https://live.staticflickr.com/2949/15212726178_6df14bed2f_b.jpg",
       "https://live.staticflickr.com/65535/55291211676_17619bb8b0_b.jpg",
       "https://live.staticflickr.com/65535/55291038833_68c5cd9b34_b.jpg",
-      "https://live.staticflickr.com/65535/55291416895_1efb7a154e_b.jpg",
-      "https://live.staticflickr.com/65535/55290882385_a2bd5378de_b.jpg"
+      "https://live.staticflickr.com/65535/55291416895_1efb7a154e_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
+      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
