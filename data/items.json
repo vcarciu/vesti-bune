@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-05-26T21:27:47+00:00",
+  "generated_utc": "2026-05-26T23:00:23+00:00",
   "sections": {
     "romania": [
       {
@@ -78,6 +78,18 @@
         "section": "romania",
         "kind": "ro",
         "source": "Times New Roman (Satira)",
+        "title": "😂 Portretul premierului propus de Nicușor",
+        "summary": "The post Portretul premierului propus de Nicușor appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/ovi/portretul-premierului-propus-de-nicusor",
+        "published_utc": "2026-05-26T07:23:00+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/Portretul-premierului-propust-de-Nicusor.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Times New Roman (Satira)",
         "title": "😂 Războiul gospodinelor: Mihai Neamţu o acuză pe Jamila că i-a furat reţeta de salată cu balegă de cal",
         "summary": "După eclerul la tavă, un nou preparat delicios face furori pe culoarele tribunalelor! Bloggerul culinar şi deputatul AUR Mihai Neamţu a dat-o recent în judecată pe celebra Jamila, pe care o acuză că i-a furat cea mai de succes reţetă: salata cu balegă de cal. &#8222;N-avea de unde altundeva să o afle, pentru că e [&#8230;] The post Războiul gospodinelor: Mihai Neamţu o acuză pe Jamila că i-a furat reţeta de salată cu balegă de cal appeared first on Times New Roman .",
         "link": "https://www.timesnewroman.ro/monden/razboiul-gospodinelor-mihai-neamtu-o-acuza-pe-jamila-ca-i-a-furat-reteta-de-salata-cu-balega-de-cal",
@@ -97,18 +109,6 @@
         "score": 3,
         "freshness_boost": 1,
         "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/ghindevirale.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 SMURD se chinuie să-i scoată purtătorului de cuvânt al Poliției capul din curul lui Predoiu",
-        "summary": "Mai multe echipaje SMURD se ocupă de mai multe ore cu o descarcerare extrem de complexă: purtătorul de cuvânt al Poliției Române, Georgian Drăgan, a rămas cu capul blocat în curul lui Cătălin Predoiu. Nu e prima oară când Georgian Drăgan plonjează cu capul înainte în curul ministrului de Interne, ba chiar se poate spune [&#8230;] The post SMURD se chinuie să-i scoată purtătorului de cuvânt al Poliției capul din curul lui Predoiu appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/politic/smurd-se-chinuie-sa-i-scoata-purtatorului-de-cuvant-al-politiei-capul-din-curul-lui-predoiu",
-        "published_utc": "2026-05-25T09:08:22+00:00",
-        "score": 3,
-        "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/purtator_cuvant_politia_romana.jpg"
       },
       {
         "section": "romania",
@@ -442,109 +442,97 @@
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Data-driven model captures dynamics of turbulence at scale",
-        "summary": "Whether the dust borne on the violent winds of a tornado or the sugar grains in a swirled cup of coffee, the behavior of particles carried along in turbulence is subject to some similarities—all of them difficult to predict at scale. As described in a recent publication in the Proceedings of the National Academy of Sciences, a research team led by Los Alamos National Laboratory scientists has developed a first-of-its-kind machine learning framework that models chaotic particle motions in a turbulent flow.",
-        "link": "https://phys.org/news/2026-05-driven-captures-dynamics-turbulence-scale.html",
-        "published_utc": "2026-05-26T21:20:03+00:00",
-        "score": 0,
+        "title": "Plastic upcycling method turns food packaging into faster-degrading materials",
+        "summary": "Scientists have discovered a way to convert widely used plastics into new materials with distinct properties that degrade more rapidly. Applying this new process to upcycle existing plastics—such as those used for food packaging and in 3D printing—could contribute to tackling global plastic pollution issues, researchers say.",
+        "link": "https://phys.org/news/2026-05-plastic-upcycling-method-food-packaging.html",
+        "published_utc": "2026-05-26T22:40:03+00:00",
+        "score": 2,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/data-driven-modeling-c.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/chemical-upcycling-met.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "How natural selection helps design antennas, cancer treatments and adhesives",
-        "summary": "NASA had a big—and little—problem. For a small satellite, the agency needed a tiny antenna, with very specific communication capabilities and very strict limits on size and weight. The agency gave the problem to a design team adept at simulating the way natural selection engineers solutions.",
-        "link": "https://phys.org/news/2026-05-natural-antennas-cancer-treatments-adhesives.html",
-        "published_utc": "2026-05-26T21:20:01+00:00",
+        "title": "Q&A: The Alps are crumbling, and permafrost is not playing the role many assumed",
+        "summary": "From the Kleines Nesthorn to Pizzo Cengalo, the Alps appear to be crumbling. Permafrost researcher Robert Kenner has penned a summary explaining the role that thawing permafrost and melting glaciers play—or don't play—in this process.",
+        "link": "https://phys.org/news/2026-05-qa-alps-crumbling-permafrost-playing.html",
+        "published_utc": "2026-05-26T22:40:01+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/antenna.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-alps-1.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Researchers want to clear the air on traffic pollution in Tampa",
+        "summary": "If you live near an interstate or busy roadway in Tampa, you can literally wipe the grime from auto exhaust off your windows. Imagine breathing all that stuff into your lungs. Such pollution is a serious issue as traffic continues to grow and researchers at USF's College of Public Health (COPH) want to improve ways to monitor airborne contaminants and build more robust data on their levels and impact. The information on traffic-related air pollution (TRAP) also may pave the way in planning for cleaner air in Tampa's expanding neighborhoods.",
+        "link": "https://phys.org/news/2026-05-air-traffic-pollution-tampa.html",
+        "published_utc": "2026-05-26T22:20:03+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/usf-researchers-want-t.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Discovery of furtivovirus advances understanding of giant virus evolution",
+        "summary": "In evolutionary biology, all life on Earth is theoretically part of a single phylogenetic tree, indicating common ancestry. This model suggests that every living organism can be traced back to a distant common ancestor. However, viruses—which are not made of cells, but consist only of genetic material—are not part of this traditional cellular tree of life, raising important questions about their origin and evolution.",
+        "link": "https://phys.org/news/2026-05-discovery-furtivovirus-advances-giant-virus.html",
+        "published_utc": "2026-05-26T22:00:05+00:00",
+        "score": 4,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/discovery-of-furtivovi.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Beyond Anglo‑Saxons, Celts and Vikings: DNA uncovers a dynamic history of migration to Britain",
+        "summary": "Each of us tells a story about who we are, often tracing our identity back through an imagined line of ancestors. Though identity is fundamentally cultural, we tend to anchor it in biology—in the idea of a stable genetic inheritance passed down through generations.",
+        "link": "https://phys.org/news/2026-05-anglosaxons-celts-vikings-dna-uncovers.html",
+        "published_utc": "2026-05-26T22:00:03+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/britain-coast.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Supply chain crises increase banks' credit risks by 70%, modeling study finds",
+        "summary": "Mutual credit relations between banks can destabilize the financial system, as the 2007-08 crisis laid bare. Researchers at the Complexity Science Hub have developed a new model showing that supply chain disruptions sharply exacerbate this systemic risk.",
+        "link": "https://phys.org/news/2026-05-chain-crises-banks-credit.html",
+        "published_utc": "2026-05-26T21:40:03+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/supply-chain-crises-in.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "New fossil salamander species related to the famous axolotl is discovered in Mexico",
+        "summary": "The Mexican axolotl (Ambystoma mexicanum) is famous because adults look like overgrown babies, or tadpoles, retaining juvenile features as adults and capable of remarkable regeneration of lost limbs or tails. New studies at the National Autonomous University of Mexico have revealed a new species related to this living form.",
+        "link": "https://phys.org/news/2026-05-fossil-salamander-species-famous-axolotl.html",
+        "published_utc": "2026-05-26T21:40:01+00:00",
+        "score": 2,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-species-of-fossi-1.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "NASA Breaking News",
-        "title": "NASA Astronauts to Answer Questions from Students in New York",
-        "summary": "Students in New York will hear from NASA astronaut Jessica Meir as she answers their prerecorded science, technology, engineering, and mathematics (STEM) questions while aboard the International Space Station. The Earth-to-space call will begin at 11:05 p.m. EDT Thursday, May 28, and will stream live on the agency’s Learn With NASA YouTube channel. This event [&#8230;]",
-        "link": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-students-in-new-york",
-        "published_utc": "2026-05-26T21:05:04+00:00",
+        "title": "NASA to Announce Artemis III Crew, Provide Mission Progress Update",
+        "summary": "NASA will provide an update on the agency’s Artemis III mission and announce the astronauts assigned to the test flight during a live event at 11 a.m. EDT on Tuesday, June 9, at the agency’s Johnson Space Center in Houston. The event will stream on NASA+ and on the agency’s YouTube channel. Learn how to [&#8230;]",
+        "link": "https://www.nasa.gov/news-release/nasa-to-announce-artemis-iii-crew-provide-mission-progress-update",
+        "published_utc": "2026-05-26T21:33:04+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-87448e9c6638d33a/480/320"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Surface design transforms thermal management and enables frictionless systems",
-        "summary": "A research team led by Professor Steven Wang, Associate Vice President (Resources Planning) and Associate Professor in the Department of Mechanical Engineering and School of Energy and Environment, has designed a revolutionary capillary structure that can trigger the Leidenfrost effect, offering a practical solution for the temperature-regulated Leidenfrost effect without requiring complex surface engineering.",
-        "link": "https://phys.org/news/2026-05-surface-thermal-enables-frictionless.html",
-        "published_utc": "2026-05-26T21:00:04+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/surface-design-transfo.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "CO₂ scrubbing microbes discovered in underground laboratory",
-        "summary": "You might not know it, but the hot water and rocks deep within Earth are teeming with undiscovered life. Dr. Tanvi Govil is one of the biologists studying this new frontier of microbial life that thrives in extreme places.",
-        "link": "https://phys.org/news/2026-05-microbes-underground-laboratory.html",
-        "published_utc": "2026-05-26T20:40:06+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/co2-scrubbing-microbes.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "How homing pigeons keep navigation simple when winging their way home together",
-        "summary": "When it comes to flocking together, homing pigeons use a simple strategy to find better ways home, according to a recent report. The study, published in the journal eLife, suggests that homing pigeons use simple route averaging when navigating as a group. eLife's editors say the work addresses an important question, and provides compelling evidence based on multiple models and data on how homing pigeons can generate social routes from solitary ones.",
-        "link": "https://phys.org/news/2026-05-homing-pigeons-simple-winging-home.html",
-        "published_utc": "2026-05-26T20:40:02+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/homing-pigeon.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "The US is seeing stronger storms, so why are droughts getting worse?",
-        "summary": "About two-thirds of the U.S. is in some stage of drought in late spring 2026, yet at the same time the country has been seeing more intense downpours. It might seem contradictory, but both are symptoms of rising global temperatures.",
-        "link": "https://phys.org/news/2026-05-stronger-storms-droughts-worse.html",
-        "published_utc": "2026-05-26T20:20:03+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/storm.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "As wolves recover, golden jackals may still conquer most of Europe thanks to 'human shield'",
-        "summary": "Human activity may be enabling the expansion of golden jackals across Europe by reducing the suppressive effect of gray wolves, suggests research published in Nature Ecology & Evolution. This human-mediated interaction could allow jackals to occupy up to 75% of the continent, almost six times more than the current area, the authors suggest.",
-        "link": "https://phys.org/news/2026-05-wolves-recover-golden-jackals-conquer.html",
-        "published_utc": "2026-05-26T20:00:03+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/humans-are-enabling-ja-1.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Why we struggle to predict our future choices",
-        "summary": "You probably think you know yourself pretty well. So when you make a plan, you assume you have a reasonably accurate picture of what future you will do. New research suggests that assumption is wrong, and that the gap has real consequences for the decisions we make every day.",
-        "link": "https://phys.org/news/2026-05-struggle-future-choices.html",
-        "published_utc": "2026-05-26T20:00:01+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/choice.jpg"
+        "image": "https://picsum.photos/seed/vb-4bf18d174afe5731/480/320"
       }
     ],
     "environment": [
@@ -711,6 +699,18 @@
       "section": "romania",
       "kind": "ro",
       "source": "Times New Roman (Satira)",
+      "title": "😂 Portretul premierului propus de Nicușor",
+      "summary": "The post Portretul premierului propus de Nicușor appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/ovi/portretul-premierului-propus-de-nicusor",
+      "published_utc": "2026-05-26T07:23:00+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/Portretul-premierului-propust-de-Nicusor.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
       "title": "😂 Războiul gospodinelor: Mihai Neamţu o acuză pe Jamila că i-a furat reţeta de salată cu balegă de cal",
       "summary": "După eclerul la tavă, un nou preparat delicios face furori pe culoarele tribunalelor! Bloggerul culinar şi deputatul AUR Mihai Neamţu a dat-o recent în judecată pe celebra Jamila, pe care o acuză că i-a furat cea mai de succes reţetă: salata cu balegă de cal. &#8222;N-avea de unde altundeva să o afle, pentru că e [&#8230;] The post Războiul gospodinelor: Mihai Neamţu o acuză pe Jamila că i-a furat reţeta de salată cu balegă de cal appeared first on Times New Roman .",
       "link": "https://www.timesnewroman.ro/monden/razboiul-gospodinelor-mihai-neamtu-o-acuza-pe-jamila-ca-i-a-furat-reteta-de-salata-cu-balega-de-cal",
@@ -718,18 +718,6 @@
       "score": 3,
       "freshness_boost": 1,
       "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/balegarneamtu.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Uită de corcoduşe! Mii de români mănâncă ghinde după ce o veveriţă a fost virală pe TikTok",
-      "summary": "Credeai că nimic nu e mai rău decât o corcoduşă verde cu sare? Ei bine, pregăteşte-ţi papilele pentru ceva şi mai scârbos! Mii de români dau târcoale stejarilor pentru a-şi procura cea mai &#8222;în trend&#8221; gustare &#8211; ghindele &#8211; după ce un filmuleţ cu o veveriţă a fost extrem de viral pe reţeaua chinezească TikTok. [&#8230;] The post Uită de corcoduşe! Mii de români mănâncă ghinde după ce o veveriţă a fost virală pe TikTok appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/monden/uita-de-corcoduse-mii-de-romani-mananca-ghinde-dupa-ce-o-veverita-a-fost-virala-pe-tiktok",
-      "published_utc": "2026-05-25T10:13:31+00:00",
-      "score": 3,
-      "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/ghindevirale.jpg"
     },
     {
       "section": "romania",
@@ -747,13 +735,13 @@
       "section": "romania",
       "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 SMURD se chinuie să-i scoată purtătorului de cuvânt al Poliției capul din curul lui Predoiu",
-      "summary": "Mai multe echipaje SMURD se ocupă de mai multe ore cu o descarcerare extrem de complexă: purtătorul de cuvânt al Poliției Române, Georgian Drăgan, a rămas cu capul blocat în curul lui Cătălin Predoiu. Nu e prima oară când Georgian Drăgan plonjează cu capul înainte în curul ministrului de Interne, ba chiar se poate spune [&#8230;] The post SMURD se chinuie să-i scoată purtătorului de cuvânt al Poliției capul din curul lui Predoiu appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/politic/smurd-se-chinuie-sa-i-scoata-purtatorului-de-cuvant-al-politiei-capul-din-curul-lui-predoiu",
-      "published_utc": "2026-05-25T09:08:22+00:00",
+      "title": "😂 Uită de corcoduşe! Mii de români mănâncă ghinde după ce o veveriţă a fost virală pe TikTok",
+      "summary": "Credeai că nimic nu e mai rău decât o corcoduşă verde cu sare? Ei bine, pregăteşte-ţi papilele pentru ceva şi mai scârbos! Mii de români dau târcoale stejarilor pentru a-şi procura cea mai &#8222;în trend&#8221; gustare &#8211; ghindele &#8211; după ce un filmuleţ cu o veveriţă a fost extrem de viral pe reţeaua chinezească TikTok. [&#8230;] The post Uită de corcoduşe! Mii de români mănâncă ghinde după ce o veveriţă a fost virală pe TikTok appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/monden/uita-de-corcoduse-mii-de-romani-mananca-ghinde-dupa-ce-o-veverita-a-fost-virala-pe-tiktok",
+      "published_utc": "2026-05-25T10:13:31+00:00",
       "score": 3,
       "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/purtator_cuvant_politia_romana.jpg"
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/ghindevirale.jpg"
     },
     {
       "section": "romania",
@@ -843,13 +831,13 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Data-driven model captures dynamics of turbulence at scale",
-      "summary": "Whether the dust borne on the violent winds of a tornado or the sugar grains in a swirled cup of coffee, the behavior of particles carried along in turbulence is subject to some similarities—all of them difficult to predict at scale. As described in a recent publication in the Proceedings of the National Academy of Sciences, a research team led by Los Alamos National Laboratory scientists has developed a first-of-its-kind machine learning framework that models chaotic particle motions in a turbulent flow.",
-      "link": "https://phys.org/news/2026-05-driven-captures-dynamics-turbulence-scale.html",
-      "published_utc": "2026-05-26T21:20:03+00:00",
-      "score": 0,
+      "title": "Plastic upcycling method turns food packaging into faster-degrading materials",
+      "summary": "Scientists have discovered a way to convert widely used plastics into new materials with distinct properties that degrade more rapidly. Applying this new process to upcycle existing plastics—such as those used for food packaging and in 3D printing—could contribute to tackling global plastic pollution issues, researchers say.",
+      "link": "https://phys.org/news/2026-05-plastic-upcycling-method-food-packaging.html",
+      "published_utc": "2026-05-26T22:40:03+00:00",
+      "score": 2,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/data-driven-modeling-c.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/chemical-upcycling-met.jpg"
     },
     {
       "section": "romania",
@@ -879,13 +867,13 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "How natural selection helps design antennas, cancer treatments and adhesives",
-      "summary": "NASA had a big—and little—problem. For a small satellite, the agency needed a tiny antenna, with very specific communication capabilities and very strict limits on size and weight. The agency gave the problem to a design team adept at simulating the way natural selection engineers solutions.",
-      "link": "https://phys.org/news/2026-05-natural-antennas-cancer-treatments-adhesives.html",
-      "published_utc": "2026-05-26T21:20:01+00:00",
+      "title": "Q&A: The Alps are crumbling, and permafrost is not playing the role many assumed",
+      "summary": "From the Kleines Nesthorn to Pizzo Cengalo, the Alps appear to be crumbling. Permafrost researcher Robert Kenner has penned a summary explaining the role that thawing permafrost and melting glaciers play—or don't play—in this process.",
+      "link": "https://phys.org/news/2026-05-qa-alps-crumbling-permafrost-playing.html",
+      "published_utc": "2026-05-26T22:40:01+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/antenna.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-alps-1.jpg"
     },
     {
       "section": "romania",
@@ -914,14 +902,14 @@
     {
       "section": "science",
       "kind": "global",
-      "source": "NASA Breaking News",
-      "title": "NASA Astronauts to Answer Questions from Students in New York",
-      "summary": "Students in New York will hear from NASA astronaut Jessica Meir as she answers their prerecorded science, technology, engineering, and mathematics (STEM) questions while aboard the International Space Station. The Earth-to-space call will begin at 11:05 p.m. EDT Thursday, May 28, and will stream live on the agency’s Learn With NASA YouTube channel. This event [&#8230;]",
-      "link": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-students-in-new-york",
-      "published_utc": "2026-05-26T21:05:04+00:00",
+      "source": "Phys.org",
+      "title": "Researchers want to clear the air on traffic pollution in Tampa",
+      "summary": "If you live near an interstate or busy roadway in Tampa, you can literally wipe the grime from auto exhaust off your windows. Imagine breathing all that stuff into your lungs. Such pollution is a serious issue as traffic continues to grow and researchers at USF's College of Public Health (COPH) want to improve ways to monitor airborne contaminants and build more robust data on their levels and impact. The information on traffic-related air pollution (TRAP) also may pave the way in planning for cleaner air in Tampa's expanding neighborhoods.",
+      "link": "https://phys.org/news/2026-05-air-traffic-pollution-tampa.html",
+      "published_utc": "2026-05-26T22:20:03+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-87448e9c6638d33a/480/320"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/usf-researchers-want-t.jpg"
     },
     {
       "section": "romania",
@@ -951,13 +939,13 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Surface design transforms thermal management and enables frictionless systems",
-      "summary": "A research team led by Professor Steven Wang, Associate Vice President (Resources Planning) and Associate Professor in the Department of Mechanical Engineering and School of Energy and Environment, has designed a revolutionary capillary structure that can trigger the Leidenfrost effect, offering a practical solution for the temperature-regulated Leidenfrost effect without requiring complex surface engineering.",
-      "link": "https://phys.org/news/2026-05-surface-thermal-enables-frictionless.html",
-      "published_utc": "2026-05-26T21:00:04+00:00",
-      "score": 0,
+      "title": "Discovery of furtivovirus advances understanding of giant virus evolution",
+      "summary": "In evolutionary biology, all life on Earth is theoretically part of a single phylogenetic tree, indicating common ancestry. This model suggests that every living organism can be traced back to a distant common ancestor. However, viruses—which are not made of cells, but consist only of genetic material—are not part of this traditional cellular tree of life, raising important questions about their origin and evolution.",
+      "link": "https://phys.org/news/2026-05-discovery-furtivovirus-advances-giant-virus.html",
+      "published_utc": "2026-05-26T22:00:05+00:00",
+      "score": 4,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/surface-design-transfo.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/discovery-of-furtivovi.jpg"
     },
     {
       "section": "romania",
@@ -987,13 +975,13 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "CO₂ scrubbing microbes discovered in underground laboratory",
-      "summary": "You might not know it, but the hot water and rocks deep within Earth are teeming with undiscovered life. Dr. Tanvi Govil is one of the biologists studying this new frontier of microbial life that thrives in extreme places.",
-      "link": "https://phys.org/news/2026-05-microbes-underground-laboratory.html",
-      "published_utc": "2026-05-26T20:40:06+00:00",
-      "score": 3,
+      "title": "Beyond Anglo‑Saxons, Celts and Vikings: DNA uncovers a dynamic history of migration to Britain",
+      "summary": "Each of us tells a story about who we are, often tracing our identity back through an imagined line of ancestors. Though identity is fundamentally cultural, we tend to anchor it in biology—in the idea of a stable genetic inheritance passed down through generations.",
+      "link": "https://phys.org/news/2026-05-anglosaxons-celts-vikings-dna-uncovers.html",
+      "published_utc": "2026-05-26T22:00:03+00:00",
+      "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/co2-scrubbing-microbes.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/britain-coast.jpg"
     },
     {
       "section": "romania",
@@ -1023,13 +1011,13 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "How homing pigeons keep navigation simple when winging their way home together",
-      "summary": "When it comes to flocking together, homing pigeons use a simple strategy to find better ways home, according to a recent report. The study, published in the journal eLife, suggests that homing pigeons use simple route averaging when navigating as a group. eLife's editors say the work addresses an important question, and provides compelling evidence based on multiple models and data on how homing pigeons can generate social routes from solitary ones.",
-      "link": "https://phys.org/news/2026-05-homing-pigeons-simple-winging-home.html",
-      "published_utc": "2026-05-26T20:40:02+00:00",
-      "score": 1,
+      "title": "Supply chain crises increase banks' credit risks by 70%, modeling study finds",
+      "summary": "Mutual credit relations between banks can destabilize the financial system, as the 2007-08 crisis laid bare. Researchers at the Complexity Science Hub have developed a new model showing that supply chain disruptions sharply exacerbate this systemic risk.",
+      "link": "https://phys.org/news/2026-05-chain-crises-banks-credit.html",
+      "published_utc": "2026-05-26T21:40:03+00:00",
+      "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/homing-pigeon.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/supply-chain-crises-in.jpg"
     },
     {
       "section": "romania",
@@ -1047,37 +1035,25 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "The US is seeing stronger storms, so why are droughts getting worse?",
-      "summary": "About two-thirds of the U.S. is in some stage of drought in late spring 2026, yet at the same time the country has been seeing more intense downpours. It might seem contradictory, but both are symptoms of rising global temperatures.",
-      "link": "https://phys.org/news/2026-05-stronger-storms-droughts-worse.html",
-      "published_utc": "2026-05-26T20:20:03+00:00",
-      "score": 0,
+      "title": "New fossil salamander species related to the famous axolotl is discovered in Mexico",
+      "summary": "The Mexican axolotl (Ambystoma mexicanum) is famous because adults look like overgrown babies, or tadpoles, retaining juvenile features as adults and capable of remarkable regeneration of lost limbs or tails. New studies at the National Autonomous University of Mexico have revealed a new species related to this living form.",
+      "link": "https://phys.org/news/2026-05-fossil-salamander-species-famous-axolotl.html",
+      "published_utc": "2026-05-26T21:40:01+00:00",
+      "score": 2,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/storm.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-species-of-fossi-1.jpg"
     },
     {
       "section": "science",
       "kind": "global",
-      "source": "Phys.org",
-      "title": "As wolves recover, golden jackals may still conquer most of Europe thanks to 'human shield'",
-      "summary": "Human activity may be enabling the expansion of golden jackals across Europe by reducing the suppressive effect of gray wolves, suggests research published in Nature Ecology & Evolution. This human-mediated interaction could allow jackals to occupy up to 75% of the continent, almost six times more than the current area, the authors suggest.",
-      "link": "https://phys.org/news/2026-05-wolves-recover-golden-jackals-conquer.html",
-      "published_utc": "2026-05-26T20:00:03+00:00",
+      "source": "NASA Breaking News",
+      "title": "NASA to Announce Artemis III Crew, Provide Mission Progress Update",
+      "summary": "NASA will provide an update on the agency’s Artemis III mission and announce the astronauts assigned to the test flight during a live event at 11 a.m. EDT on Tuesday, June 9, at the agency’s Johnson Space Center in Houston. The event will stream on NASA+ and on the agency’s YouTube channel. Learn how to [&#8230;]",
+      "link": "https://www.nasa.gov/news-release/nasa-to-announce-artemis-iii-crew-provide-mission-progress-update",
+      "published_utc": "2026-05-26T21:33:04+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/humans-are-enabling-ja-1.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Why we struggle to predict our future choices",
-      "summary": "You probably think you know yourself pretty well. So when you make a plan, you assume you have a reasonably accurate picture of what future you will do. New research suggests that assumption is wrong, and that the gap has real consequences for the decisions we make every day.",
-      "link": "https://phys.org/news/2026-05-struggle-future-choices.html",
-      "published_utc": "2026-05-26T20:00:01+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/choice.jpg"
+      "image": "https://picsum.photos/seed/vb-4bf18d174afe5731/480/320"
     },
     {
       "section": "medical",
@@ -1376,6 +1352,7 @@
       "https://live.staticflickr.com/65535/55276768408_41a7d7329b_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/55288272937_24080f1c70_b.jpg",
       "https://live.staticflickr.com/65535/32590730202_1f57cf7894_b.jpg",
       "https://live.staticflickr.com/65535/55282498995_2475d5e291_b.jpg",
       "https://live.staticflickr.com/65535/55283761422_31fefa9be3_b.jpg",
@@ -1392,10 +1369,10 @@
       "https://live.staticflickr.com/65535/55283230452_6d721fa0f0_b.jpg",
       "https://live.staticflickr.com/65535/55279070100_3110193db7_b.jpg",
       "https://live.staticflickr.com/65535/55279795299_e79c2a270e_b.jpg",
-      "https://live.staticflickr.com/65535/55277270041_4bde8ea72f_b.jpg",
-      "https://live.staticflickr.com/65535/55278676641_96e98222dd_b.jpg"
+      "https://live.staticflickr.com/65535/55277270041_4bde8ea72f_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55295799988_88ce4ba52c_b.jpg",
       "https://live.staticflickr.com/65535/55294555432_5ce43674b1_b.jpg",
       "https://live.staticflickr.com/65535/55295841890_7471fe1751_b.jpg",
       "https://live.staticflickr.com/65535/55294950441_fe73236a81_b.jpg",
@@ -1412,12 +1389,11 @@
       "https://live.staticflickr.com/65535/55292074600_0eeb7dddbb_b.jpg",
       "https://live.staticflickr.com/2949/15212726178_6df14bed2f_b.jpg",
       "https://live.staticflickr.com/65535/55291211676_17619bb8b0_b.jpg",
-      "https://live.staticflickr.com/65535/55291038833_68c5cd9b34_b.jpg",
-      "https://live.staticflickr.com/65535/55291416895_1efb7a154e_b.jpg"
+      "https://live.staticflickr.com/65535/55291038833_68c5cd9b34_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
+      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
