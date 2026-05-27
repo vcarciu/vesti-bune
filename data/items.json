@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-05-26T23:00:23+00:00",
+  "generated_utc": "2026-05-27T00:05:30+00:00",
   "sections": {
     "romania": [
       {
@@ -53,6 +53,18 @@
       {
         "section": "romania",
         "kind": "ro",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 Deși n-are niciun venit, Călin Georgescu a plătit și cele 600 de milioane € către Pfizer",
+        "summary": "Călin Georgescu insistă în continuare că nu are niciun venit și că tot ce are, are de la Dumnezeu, dar cu toate acestea continuă să arunce cu sume fabuloase. Mai întâi a plătit o amendă de 200.000 de lei către Autoritatea Electorală Permanentă, iar acum deja cei 200.000 de lei par bani de semințe. Nu [&#8230;] The post Deși n-are niciun venit, Călin Georgescu a plătit și cele 600 de milioane € către Pfizer appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/politic/desi-n-are-niciun-venit-calin-georgescu-a-platit-si-cele-600-de-milioane-e-catre-pfizer",
+        "published_utc": "2026-05-26T14:04:15+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2024/12/georgescu_divinitati.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
         "source": "RomaniaPozitiva",
         "title": "Peste 1.400 de eleve din România au construit aplicații pentru probleme reale",
         "summary": "Nu sunt ingineri. Nu sunt cercetători. Nu au început încă facultatea. Sunt eleve între 8 și 18 ani. Și au construit aplicații pentru probleme pe care lumea le ignoră sau&#8230; Articolul Peste 1.400 de eleve din România au construit aplicații pentru probleme reale apare prima dată în Romania Pozitiva .",
@@ -85,18 +97,6 @@
         "score": 3,
         "freshness_boost": 3,
         "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/Portretul-premierului-propust-de-Nicusor.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 Războiul gospodinelor: Mihai Neamţu o acuză pe Jamila că i-a furat reţeta de salată cu balegă de cal",
-        "summary": "După eclerul la tavă, un nou preparat delicios face furori pe culoarele tribunalelor! Bloggerul culinar şi deputatul AUR Mihai Neamţu a dat-o recent în judecată pe celebra Jamila, pe care o acuză că i-a furat cea mai de succes reţetă: salata cu balegă de cal. &#8222;N-avea de unde altundeva să o afle, pentru că e [&#8230;] The post Războiul gospodinelor: Mihai Neamţu o acuză pe Jamila că i-a furat reţeta de salată cu balegă de cal appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/monden/razboiul-gospodinelor-mihai-neamtu-o-acuza-pe-jamila-ca-i-a-furat-reteta-de-salata-cu-balega-de-cal",
-        "published_utc": "2026-05-25T11:49:50+00:00",
-        "score": 3,
-        "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/balegarneamtu.jpg"
       },
       {
         "section": "romania",
@@ -711,13 +711,13 @@
       "section": "romania",
       "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 Războiul gospodinelor: Mihai Neamţu o acuză pe Jamila că i-a furat reţeta de salată cu balegă de cal",
-      "summary": "După eclerul la tavă, un nou preparat delicios face furori pe culoarele tribunalelor! Bloggerul culinar şi deputatul AUR Mihai Neamţu a dat-o recent în judecată pe celebra Jamila, pe care o acuză că i-a furat cea mai de succes reţetă: salata cu balegă de cal. &#8222;N-avea de unde altundeva să o afle, pentru că e [&#8230;] The post Războiul gospodinelor: Mihai Neamţu o acuză pe Jamila că i-a furat reţeta de salată cu balegă de cal appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/monden/razboiul-gospodinelor-mihai-neamtu-o-acuza-pe-jamila-ca-i-a-furat-reteta-de-salata-cu-balega-de-cal",
-      "published_utc": "2026-05-25T11:49:50+00:00",
+      "title": "😂 Deși n-are niciun venit, Călin Georgescu a plătit și cele 600 de milioane € către Pfizer",
+      "summary": "Călin Georgescu insistă în continuare că nu are niciun venit și că tot ce are, are de la Dumnezeu, dar cu toate acestea continuă să arunce cu sume fabuloase. Mai întâi a plătit o amendă de 200.000 de lei către Autoritatea Electorală Permanentă, iar acum deja cei 200.000 de lei par bani de semințe. Nu [&#8230;] The post Deși n-are niciun venit, Călin Georgescu a plătit și cele 600 de milioane € către Pfizer appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/politic/desi-n-are-niciun-venit-calin-georgescu-a-platit-si-cele-600-de-milioane-e-catre-pfizer",
+      "published_utc": "2026-05-26T14:04:15+00:00",
       "score": 3,
-      "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/balegarneamtu.jpg"
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2024/12/georgescu_divinitati.jpg"
     },
     {
       "section": "romania",
@@ -1261,8 +1261,8 @@
     }
   ],
   "joke_ro": {
-    "date_utc": "2026-05-26",
-    "text": "Am facut un plan perfect. A lipsit doar cheful.",
+    "date_utc": "2026-05-27",
+    "text": "Sunt punctual: intarzii cu aceeasi consecventa.",
     "source": "data/jokes_ro.txt"
   },
   "satire_ro": {
@@ -1275,23 +1275,24 @@
       "tag": "space",
       "title": "Space",
       "link": "https://commons.wikimedia.org/wiki/Category:Astronomy",
-      "image": "https://live.staticflickr.com/65535/55294010633_103ee13881_b.jpg"
+      "image": "https://live.staticflickr.com/65535/55294899732_4c626513d8_b.jpg"
     },
     {
       "tag": "animals",
       "title": "Animals",
       "link": "https://commons.wikimedia.org/wiki/Category:Animals",
-      "image": "https://live.staticflickr.com/65535/55294556281_3f5a7506e8_b.jpg"
+      "image": "https://live.staticflickr.com/65535/55294899692_343433fa48_b.jpg"
     },
     {
       "tag": "landscape",
       "title": "Landscape",
       "link": "https://commons.wikimedia.org/wiki/Category:Landscapes",
-      "image": "https://live.staticflickr.com/65535/55294823489_778baa2da6_b.jpg"
+      "image": "https://live.staticflickr.com/65535/55295849783_70d07ecfc9_b.jpg"
     }
   ],
   "top_image_history": {
     "space": [
+      "https://live.staticflickr.com/65535/55294899732_4c626513d8_b.jpg",
       "https://live.staticflickr.com/65535/55294010633_103ee13881_b.jpg",
       "https://live.staticflickr.com/65535/55292285832_f54fa87016_b.jpg",
       "https://live.staticflickr.com/65535/55291089347_aa69d6b405_b.jpg",
@@ -1308,10 +1309,10 @@
       "https://live.staticflickr.com/65535/55281687988_b4caaef3a0_b.jpg",
       "https://live.staticflickr.com/65535/55280437075_5ac34a21b7_b.jpg",
       "https://live.staticflickr.com/65535/55278290329_9816553938_b.jpg",
-      "https://live.staticflickr.com/65535/55278108585_19a8c11f05_b.jpg",
-      "https://live.staticflickr.com/65535/55275775747_6e0838f673_z.jpg"
+      "https://live.staticflickr.com/65535/55278108585_19a8c11f05_b.jpg"
     ],
     "animals": [
+      "https://live.staticflickr.com/65535/55294899692_343433fa48_b.jpg",
       "https://live.staticflickr.com/65535/55294556281_3f5a7506e8_b.jpg",
       "https://live.staticflickr.com/65535/55292609967_328e30dbb0_b.jpg",
       "https://live.staticflickr.com/65535/55292427713_324df0f8ee_b.jpg",
@@ -1328,10 +1329,10 @@
       "https://live.staticflickr.com/65535/55281941775_b74eddc584_b.jpg",
       "https://live.staticflickr.com/65535/55280068293_634d240ae1_b.jpg",
       "https://live.staticflickr.com/65535/55279468861_0039cd0dba_b.jpg",
-      "https://live.staticflickr.com/65535/55278143414_2f78ef47d3_b.jpg",
-      "https://live.staticflickr.com/65535/55276755601_eef49bbf32_b.jpg"
+      "https://live.staticflickr.com/65535/55278143414_2f78ef47d3_b.jpg"
     ],
     "landscape": [
+      "https://live.staticflickr.com/65535/55295849783_70d07ecfc9_b.jpg",
       "https://live.staticflickr.com/65535/55294823489_778baa2da6_b.jpg",
       "https://live.staticflickr.com/65535/55293853224_06b0021205_b.jpg",
       "https://live.staticflickr.com/65535/55292538793_84ed5de0ea_b.jpg",
@@ -1348,10 +1349,10 @@
       "https://live.staticflickr.com/65535/55280640347_b1871d73bf_b.jpg",
       "https://live.staticflickr.com/65535/55280086731_40d4dda875_b.jpg",
       "https://live.staticflickr.com/65535/55279784895_d21dbd05db_b.jpg",
-      "https://live.staticflickr.com/65535/55278087439_576f5d39c4_b.jpg",
-      "https://live.staticflickr.com/65535/55276768408_41a7d7329b_b.jpg"
+      "https://live.staticflickr.com/65535/55278087439_576f5d39c4_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/55278676591_6b8ed132f2_b.jpg",
       "https://live.staticflickr.com/65535/55288272937_24080f1c70_b.jpg",
       "https://live.staticflickr.com/65535/32590730202_1f57cf7894_b.jpg",
       "https://live.staticflickr.com/65535/55282498995_2475d5e291_b.jpg",
@@ -1368,10 +1369,10 @@
       "https://live.staticflickr.com/65535/55278808758_10fdea9c05_b.jpg",
       "https://live.staticflickr.com/65535/55283230452_6d721fa0f0_b.jpg",
       "https://live.staticflickr.com/65535/55279070100_3110193db7_b.jpg",
-      "https://live.staticflickr.com/65535/55279795299_e79c2a270e_b.jpg",
-      "https://live.staticflickr.com/65535/55277270041_4bde8ea72f_b.jpg"
+      "https://live.staticflickr.com/65535/55279795299_e79c2a270e_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55295836433_3d2baf3510_b.jpg",
       "https://live.staticflickr.com/65535/55295799988_88ce4ba52c_b.jpg",
       "https://live.staticflickr.com/65535/55294555432_5ce43674b1_b.jpg",
       "https://live.staticflickr.com/65535/55295841890_7471fe1751_b.jpg",
@@ -1388,12 +1389,11 @@
       "https://live.staticflickr.com/65535/55292684900_c4fae6bc85_b.jpg",
       "https://live.staticflickr.com/65535/55292074600_0eeb7dddbb_b.jpg",
       "https://live.staticflickr.com/2949/15212726178_6df14bed2f_b.jpg",
-      "https://live.staticflickr.com/65535/55291211676_17619bb8b0_b.jpg",
-      "https://live.staticflickr.com/65535/55291038833_68c5cd9b34_b.jpg"
+      "https://live.staticflickr.com/65535/55291211676_17619bb8b0_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
+      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
