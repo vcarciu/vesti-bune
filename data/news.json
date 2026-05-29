@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-05-29T16:35:13+00:00",
+  "generated_utc": "2026-05-29T19:28:11+00:00",
   "sections": {
     "romania": [
       {
@@ -65,18 +65,6 @@
       {
         "section": "romania",
         "kind": "ro",
-        "source": "Digi24",
-        "title": "Duminică începe Festivalul Copiilor Oradea",
-        "summary": "Duminică începe Festivalul Copiilor Oradea! Evenimentul se desfășoară anul acesta pe parcursul a două zile dedicate celor mici. Duminică, 31 mai, activitățile vor avea loc în Cetatea Oradea, iar luni, 1 iunie, festivalul continuă în Cetatea Oradea, Orășelul Copiilor și Parcul Barcăului, între orele 10:00 și 21:00.",
-        "link": "https://www.digi24.ro/magazin/timp-liber/duminica-incepe-festivalul-copiilor-oradea-3791955",
-        "published_utc": "2026-05-29T13:43:05+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNSUyRjI5JTJGMjc1MjE0N18yNzUy/MTQ3X05ldy1Qcm9qZWN0LTI2LnBuZyZo/YXNoPTgwMDgwNjVkZTQwMzZkNWI4MTM1MTdjMjk2N2VmN2Y1.png"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
         "source": "Times New Roman (Satira)",
         "title": "😂 Avertisment dur! Dacă nu cheltuim banii pe înarmare, vin rușii și ne fură sărăcia!",
         "summary": "Incidentele de la granița României pictează un tablou destul de trist al situației actuale din țară. Nu suntem pregătiți pentru un eventual atac iar cei responsabili nu au făcut nimic în ultimii patru ani de când avem efectiv un război la graniță. În cadrul ședinței CSAȚ de azi situația a fost expusă în termeni clari [&#8230;] The post Avertisment dur! Dacă nu cheltuim banii pe înarmare, vin rușii și ne fură sărăcia! appeared first on Times New Roman .",
@@ -85,6 +73,18 @@
         "score": 3,
         "freshness_boost": 3,
         "image": "https://www.timesnewroman.ro/wp-content/uploads/2020/07/armata_rusa_jurnalisti.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 Învățăminte",
+        "summary": "The post Învățăminte appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/ovi/invataminte",
+        "published_utc": "2026-05-29T07:59:45+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/Invataminte.jpg"
       },
       {
         "section": "romania",
@@ -109,18 +109,6 @@
         "score": 3,
         "freshness_boost": 1,
         "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/ironmaidensintesti.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 Turism în patru labe: 74 de birturi din 10 judeţe vor fi legate prin proiectul Via Beţivanica",
-        "summary": "După Via Transilvanica, un nou traseu turistic tematic ia naştere în România! O asociaţie nou înfiinţată promite să lege birturi săteşti din întreaga ţară cu poteci marcate, pe care orice carmolist le va putea parcurge în patru labe în siguranţă, departe de traficul rutier sau temutele trotinete electrice. &#8222;Până acum, 74 de cârciumi, spelunci şi [&#8230;] The post Turism în patru labe: 74 de birturi din 10 judeţe vor fi legate prin proiectul Via Beţivanica appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/monden/turism-in-patru-labe-74-de-birturi-din-10-judete-vor-fi-legate-prin-proiectul-via-betivanica",
-        "published_utc": "2026-05-28T10:25:23+00:00",
-        "score": 3,
-        "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/viabetivanica.jpg"
       },
       {
         "section": "romania",
@@ -356,229 +344,133 @@
         "section": "medical",
         "kind": "global",
         "source": "Medical Xpress",
-        "title": "Light movement in pregnancy linked to lower risk of complications",
-        "summary": "Moving more and sitting less could lower the risk of adverse pregnancy outcomes, according to a new study published in the Journal of the American Medical Association.",
-        "link": "https://medicalxpress.com/news/2026-05-movement-pregnancy-linked-complications.html",
-        "published_utc": "2026-05-29T16:20:03+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/pregnant-walking.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Cannabidiol significantly reduces chronic pain for those with nerve damage",
-        "summary": "A new study by researchers at the University of Sydney has shown that taking cannabidiol (CBD) can significantly reduce chronic neuropathic pain in those suffering from it. The findings of the randomized placebo-controlled trial, published in eClinicalMedicine, demonstrated that taking CBD over a six-week period reduced pain by approximately 14%, compared to 6.5% from the placebo.",
-        "link": "https://medicalxpress.com/news/2026-05-cannabidiol-significantly-chronic-pain-nerve.html",
-        "published_utc": "2026-05-29T16:00:02+00:00",
-        "score": 4,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cannabidiol-significan.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Researchers uncover a substantial genetic component to postpartum psychosis",
-        "summary": "Researchers at the Icahn School of Medicine at Mount Sinai have uncovered a substantial genetic component to postpartum psychosis, a rare but severe psychiatric illness that occurs in the days to weeks after childbirth. The findings, published in Molecular Psychiatry, provide new evidence that the condition has a substantial biological and genetic basis and may help guide future research into prediction, prevention, and treatment.",
-        "link": "https://medicalxpress.com/news/2026-05-uncover-substantial-genetic-component-postpartum.html",
-        "published_utc": "2026-05-29T15:40:11+00:00",
+        "title": "Brain scans reveal two distinct autism subtypes with different underlying biology",
+        "summary": "An international research team led by Istituto Italiano di Tecnologia (IIT-Italian Institute of Technology) in Rovereto (Trento, Italy) and the Child Mind Institute in New York (U.S.), and in collaboration with researchers from the University of Trento, has shown that it is possible to identify at least two distinct subtypes of autism, defined by their patterns of brain connectivity. In the \"hyperconnectivity\" subtype, brain areas communicate more than usual; in the \"hypoconnectivity\" subtype, communication between brain areas is reduced.",
+        "link": "https://medicalxpress.com/news/2026-05-brain-scans-reveal-distinct-autism.html",
+        "published_utc": "2026-05-29T19:20:03+00:00",
         "score": 1,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/postpartum-depression-1.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/brain-scans-reveal-two.jpg"
       },
       {
         "section": "medical",
         "kind": "global",
         "source": "Medical Xpress",
-        "title": "Simulation-guided search uncovers two promising tuberculosis drug candidates targeting CYP",
-        "summary": "A research team led by Associate Professor Noriyuki Kurita from the Department of Computer Science and Engineering at Toyohashi University of Technology and by Associate Professor Pornpan Pungpo from Ubon Ratchathani University in Thailand has proposed a novel therapeutic agent for tuberculosis, using high-precision molecular simulation techniques.",
-        "link": "https://medicalxpress.com/news/2026-05-simulation-uncovers-tuberculosis-drug-candidates.html",
-        "published_utc": "2026-05-29T15:20:05+00:00",
-        "score": 2,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/proposing-a-novel-ther.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Analysis reveals consumer wearables emerge as the new health care gatekeepers",
-        "summary": "A News and Perspectives expert analysis on consumer wearable platforms' forays into the clinical health care space. Authored by MedTech expert Blythe Karow, MBA, \"Meet the New Health Care Gatekeeper: Your Wearable\" lays out the implications of wearable tech companies owning the first conversation about a patient's health, as well as the potential impacts on patient trust, policy, and regulation. The analysis appears in the Journal of Medical Internet Research.",
-        "link": "https://medicalxpress.com/news/2026-05-analysis-reveals-consumer-wearables-emerge.html",
-        "published_utc": "2026-05-29T15:20:03+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2021/wearable-sensor.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Brain waste maps reveal 'nearest exit' routes and hidden Alzheimer's breakdown",
-        "summary": "Think of the brain as if it were a house. Insulated from its environment, a house relies on complex networks—pipes, drains, and disposal systems—that interface with the outside world to keep the home functional on the inside. But when this infrastructure breaks down, trash accumulates and the resulting damage can be difficult to reverse.",
-        "link": "https://medicalxpress.com/news/2026-05-brain-reveal-nearest-exit-routes.html",
-        "published_utc": "2026-05-29T15:00:03+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mapping-how-the-brain.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Free contraception policy sharply reduces patient costs in B.C., especially for young adults",
-        "summary": "Researchers at UBC found that B.C.'s decision to provide universal, no-cost prescription contraception sharply reduced what patients pay, with the largest financial gains for people in their 20s. Unaffordable contraception is linked to higher rates of unintended pregnancy, which carries significant consequences for health, education and economic equality.",
-        "link": "https://medicalxpress.com/news/2026-05-free-contraception-policy-sharply-patient.html",
-        "published_utc": "2026-05-29T15:00:02+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2020/contraception.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Analysis of 14 million Reddit posts reveals a striking shift in how we talk about mental health",
-        "summary": "More people are relying on social media—such as TikTok, Instagram, YouTube and Reddit—to learn about mental health conditions and to interact with people who have shared experiences.",
-        "link": "https://medicalxpress.com/news/2026-05-analysis-million-reddit-reveals-shift.html",
-        "published_utc": "2026-05-29T14:40:03+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/reddit-1.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "What separates dreaming from deep sleep? Brain rhythm offers new clue to consciousness",
-        "summary": "Neuropsychology researchers at LMU have discovered a rhythm in the midbrain that could serve as a biophysiological signature for specific states of consciousness.",
-        "link": "https://medicalxpress.com/news/2026-05-deep-brain-rhythm-clue-consciousness.html",
-        "published_utc": "2026-05-29T14:40:02+00:00",
+        "title": "RNA therapy for genetic heart failure moves closer to patients after lab gains",
+        "summary": "Using patient-derived cardiac tissue and stem cell-based models, the team of translational researchers demonstrated that targeting the genetic cause of disease improved cellular abnormalities and identified the biological pathways involved. The results of this study were published in Signal Transduction and Targeted Therapy.",
+        "link": "https://medicalxpress.com/news/2026-05-rna-therapy-genetic-heart-failure.html",
+        "published_utc": "2026-05-29T19:00:02+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/signals-from-the-deep.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rna-therapy-as-a-novel.jpg"
       },
       {
         "section": "medical",
         "kind": "global",
         "source": "Medical Xpress",
-        "title": "Why your wearable health tracker can make you feel anxious",
-        "summary": "Millions of people use a wearable health and fitness tracker. These devices can be useful for monitoring activity levels, sleep quality, and heart rate. But for some, wearables can have unintended consequences on well-being.",
-        "link": "https://medicalxpress.com/news/2026-05-wearable-health-tracker-anxious.html",
-        "published_utc": "2026-05-29T14:20:03+00:00",
+        "title": "Obesity tied to longer operative time for pediatric adenotonsillectomy",
+        "summary": "Pediatric patients with obesity undergoing adenotonsillectomy (AT) face longer operating times, according to a study published online May 21 in the Ear, Nose & Throat Journal.",
+        "link": "https://medicalxpress.com/news/2026-05-obesity-longer-pediatric-adenotonsillectomy.html",
+        "published_utc": "2026-05-29T18:20:03+00:00",
+        "score": 1,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/obesity-tied-to-longer.jpg"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "Medical Xpress",
+        "title": "Naloxone use during cardiac arrest linked to improved survival",
+        "summary": "A new study by emergency medicine researchers at UC Davis Health set out to assess the effects of naloxone administration by first responders treating patients with out-of-hospital cardiac arrest (OA-OHCA). The study, published in JAMA Network Open, found naloxone administration during resuscitation by emergency medical service (EMS) personnel was associated with improved outcomes in patients with suspected OA-OHCA.",
+        "link": "https://medicalxpress.com/news/2026-05-naloxone-cardiac-linked-survival.html",
+        "published_utc": "2026-05-29T18:20:01+00:00",
+        "score": 4,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2021/naloxone.jpg"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "Medical Xpress",
+        "title": "Health coaching app helpful for inflammatory bowel disease management",
+        "summary": "Integrating a mobile app with online health coaching into usual care boosts outcomes for inflammatory bowel disease (IBD), according to a study published online April 26 in Crohn's & Colitis 360.",
+        "link": "https://medicalxpress.com/news/2026-05-health-app-inflammatory-bowel-disease.html",
+        "published_utc": "2026-05-29T18:00:04+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/wearable-health-tracke.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "ScienceDaily Health",
-        "title": "Protein traffic jams may explain aging, memory loss, and Alzheimer’s",
-        "summary": "Scientists at Stanford may have uncovered a hidden reason our brains decline with age. Studying the ultra-short-lived turquoise killifish, researchers discovered that the cellular machinery responsible for building proteins begins to jam and malfunction over time. Tiny structures called ribosomes start colliding and stalling while reading genetic instructions, triggering a chain reaction that leads to faulty proteins and harmful clumps linked to diseases like Alzheimer’s.",
-        "link": "https://www.sciencedaily.com/releases/2026/05/260528082505.htm",
-        "published_utc": "2026-05-29T14:17:40+00:00",
-        "score": 2,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-ab68c0fe41e58013/480/320"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/health-coaching-app-he.jpg"
       },
       {
         "section": "medical",
         "kind": "global",
         "source": "Medical Xpress",
-        "title": "Limited evidence to suggest food labels reduce sugar intake among low-income groups",
-        "summary": "Researchers are calling for stronger measures to reduce sugar consumption after a new paper finds limited evidence that front-of-pack food labels help lower intake among disadvantaged groups.",
-        "link": "https://medicalxpress.com/news/2026-05-limited-evidence-food-sugar-intake.html",
-        "published_utc": "2026-05-29T14:00:02+00:00",
+        "title": "Traffic and industrial pollutants tied to chronic rhinosinusitis risk",
+        "summary": "Long-term residential exposure to traffic-related and industry-related pollutants is associated with increased chronic rhinosinusitis (CRS) risk, according to a study published online May 28 in JAMA Otolaryngology-Head & Neck Surgery.",
+        "link": "https://medicalxpress.com/news/2026-05-traffic-industrial-pollutants-chronic-rhinosinusitis.html",
+        "published_utc": "2026-05-29T17:51:45+00:00",
         "score": 1,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/packaged-food.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/traffic-and-industrial.jpg"
       },
       {
         "section": "medical",
         "kind": "global",
         "source": "Medical Xpress",
-        "title": "Maternal health knowledge strong, but gaps remain, survey finds",
-        "summary": "Most Americans know that how well a mother takes care of herself before and during pregnancy affects the health of a baby, but many people remain unclear about some specific maternal health recommendations, including when to start avoiding alcohol, according to a new nationally representative survey from the Annenberg Public Policy Center (APPC) of the University of Pennsylvania.",
-        "link": "https://medicalxpress.com/news/2026-05-maternal-health-knowledge-strong-gaps.html",
-        "published_utc": "2026-05-29T13:40:02+00:00",
+        "title": "Kenyan court blocks Trump's plan to quarantine Ebola patients",
+        "summary": "A Kenyan court has reportedly shut down a plan set in motion by the Trump administration to quarantine Ebola-exposed Americans in Kenya.",
+        "link": "https://medicalxpress.com/news/2026-05-kenyan-court-blocks-trump-quarantine.html",
+        "published_utc": "2026-05-29T17:40:03+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/baby-sleeping.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/kenyan-court-blocks-tr.jpg"
       },
       {
         "section": "medical",
         "kind": "global",
         "source": "Medical Xpress",
-        "title": "Targeted drug outperforms chemotherapy for patients with hard-to-treat lung cancer",
-        "summary": "The targeted therapy sunvozertinib was more effective than standard platinum-based chemotherapy as a first-line treatment for patients with advanced non-small cell lung cancer (NSCLC) driven by EGFR exon 20 insertion mutations (EGFR exon20ins), according to new research from The University of Texas MD Anderson Cancer Center.",
-        "link": "https://medicalxpress.com/news/2026-05-drug-outperforms-chemotherapy-patients-hard.html",
-        "published_utc": "2026-05-29T13:00:05+00:00",
-        "score": 2,
+        "title": "Device-driven, nurse-led intervention safe but neutral for heart failure outcomes",
+        "summary": "For patients with heart failure, insertable cardiac monitor (ICM)-based high-risk detection combined with centrally managed, nurse-facilitated, individually protocolized diuretic interventions are safe but did not lead to a change in heart failure outcomes, according to a study published online May 27 in the Journal of the American College of Cardiology.",
+        "link": "https://medicalxpress.com/news/2026-05-device-driven-nurse-intervention-safe.html",
+        "published_utc": "2026-05-29T17:20:04+00:00",
+        "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/lung.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/device-driven-nurse-le.jpg"
       },
       {
         "section": "medical",
         "kind": "global",
         "source": "Medical Xpress",
-        "title": "Study identifies protein that helps eye cancer spread to the liver",
-        "summary": "A study led by researchers at Moffitt Cancer Center helps explain why uveal melanoma, the most common form of eye cancer, often spreads to the liver. The uvea is the middle layer of the eye, including the iris.",
-        "link": "https://medicalxpress.com/news/2026-05-protein-eye-cancer-liver.html",
-        "published_utc": "2026-05-29T12:40:01+00:00",
-        "score": 2,
+        "title": "From dish to brain: Researchers chart human glial cell maturation",
+        "summary": "A new study published in Nature Communications shows that human glial progenitor cells are a promising and safe cell product for transplantation. The research also defines the transcriptional and epigenetic signatures of these cells as they mature into astrocytes and oligodendrocytes, two essential support cell types in the brain.",
+        "link": "https://medicalxpress.com/news/2026-05-dish-brain-human-glial-cell.html",
+        "published_utc": "2026-05-29T16:40:06+00:00",
+        "score": 4,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/iris.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/neuron.jpg"
       },
       {
         "section": "medical",
         "kind": "global",
-        "source": "ScienceDaily Health",
-        "title": "Vitamin B12 and folate deficiencies linked to chronic fatigue",
-        "summary": "Feeling constantly drained might not just be about poor sleep or working too hard. Researchers in Japan found that low levels of key vitamins — especially vitamin B12 and folate — may quietly contribute to fatigue and lack of motivation, even in otherwise healthy people.",
-        "link": "https://www.sciencedaily.com/releases/2026/05/260528082501.htm",
-        "published_utc": "2026-05-29T03:23:48+00:00",
-        "score": 1,
+        "source": "Medical Xpress",
+        "title": "Team develops open-source framework to accelerate health AI research",
+        "summary": "A research team led by Columbia University has developed an open-source framework designed to streamline and accelerate artificial intelligence research using health data, addressing longstanding challenges in data standardization, reproducibility, and collaboration across institutions.",
+        "link": "https://medicalxpress.com/news/2026-05-team-source-framework-health-ai.html",
+        "published_utc": "2026-05-29T16:40:01+00:00",
+        "score": 0,
         "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-e3719c96f2856259/480/320"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/digital-health.jpg"
       },
       {
         "section": "medical",
         "kind": "global",
         "source": "ScienceDaily Health",
-        "title": "Surprising research reveals why you shouldn't add bananas to your smoothies",
-        "summary": "Researchers found that adding bananas to berry smoothies can dramatically reduce the body’s ability to absorb healthy flavanols. The surprising discovery shows that even simple food combinations can change how much nutrition your body actually gets.",
-        "link": "https://www.sciencedaily.com/releases/2026/05/260524020950.htm",
-        "published_utc": "2026-05-24T12:48:32+00:00",
-        "score": 5,
-        "freshness_boost": 0,
-        "image": "https://picsum.photos/seed/vb-cbd9dc31bcf4c1d3/480/320"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "ScienceDaily Health",
-        "title": "Scientists say house cats could help unlock new cancer treatments for humans",
-        "summary": "Scientists have cracked open the “black box” of feline cancer in a landmark study that genetically analyzed nearly 500 cat tumors from around the world. The research uncovered striking similarities between cancers in cats, dogs, and humans — including shared cancer-driving genes tied to aggressive breast cancers.",
-        "link": "https://www.sciencedaily.com/releases/2026/05/260523103943.htm",
-        "published_utc": "2026-05-24T12:35:15+00:00",
+        "title": "Scientists boosted one protein and aging mice became stronger and healthier",
+        "summary": "Scientists have identified a protein that appears to put the brakes on the chronic inflammation linked to aging. Older mice with boosted levels of the protein were stronger, more energetic, and had healthier bones than untreated mice. Researchers say the findings could eventually lead to therapies that help people stay healthier and more independent later in life.",
+        "link": "https://www.sciencedaily.com/releases/2026/05/260518041436.htm",
+        "published_utc": "2026-05-19T13:11:02+00:00",
         "score": 1,
         "freshness_boost": 0,
-        "image": "https://picsum.photos/seed/vb-9608ee566165f281/480/320"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "ScienceDaily Health",
-        "title": "Scientists “recharge” damaged nerves to ease chronic pain",
-        "summary": "For millions battling chronic nerve pain, even the softest touch can feel agonizing — but scientists may have uncovered a radically new way to stop it at the source. Researchers at Duke University found that damaged nerves can be revived by supplying them with healthy mitochondria, the tiny energy producers inside cells.",
-        "link": "https://www.sciencedaily.com/releases/2026/05/260523103950.htm",
-        "published_utc": "2026-05-24T11:51:53+00:00",
-        "score": 1,
-        "freshness_boost": 0,
-        "image": "https://picsum.photos/seed/vb-40b0e20c1a037b01/480/320"
+        "image": "https://picsum.photos/seed/vb-a5bc465e8c0b8492/480/320"
       }
     ],
     "science": [
@@ -962,6 +854,18 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Învățăminte",
+      "summary": "The post Învățăminte appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/ovi/invataminte",
+      "published_utc": "2026-05-29T07:59:45+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/Invataminte.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "De Ziua Copilului, peste 17.000 de copii cântă la Ora Copiilor by Cantus Mundi în România și Republica Moldova",
       "summary": "Ziua Internațională a Copilului 2026 va fi marcată de Programul Național Cantus Mundi și Corul Madrigal printr-o serie amplă de evenimente, ce vor aduce împreună zeci de mii de copii&#8230; Articolul De Ziua Copilului, peste 17.000 de copii cântă la Ora Copiilor by Cantus Mundi în România și Republica Moldova apare prima dată în Romania Pozitiva .",
@@ -974,18 +878,6 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "„Caravana filmului românesc”, din nou la Jimbolia, în perioada 30 mai – 1 iunie",
-      "summary": "În perioada 30 mai – 1 iunie 2026, „Caravana filmului românesc – Cartea și filmul” revine în Piațeta Sfântul Florian din Jimbolia, pentru a aduce un strop de bucurie și&#8230; Articolul „Caravana filmului românesc”, din nou la Jimbolia, în perioada 30 mai – 1 iunie apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/banat-crisana/caravana-filmului-romanesc-din-nou-la-jimbolia-in-perioada-30-mai-1-iunie",
-      "published_utc": "2026-05-29T13:53:34+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-93a6a411c57ac6e6/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "Times New Roman (Satira)",
       "title": "😂 Avertisment dur! Dacă nu cheltuim banii pe înarmare, vin rușii și ne fură sărăcia!",
       "summary": "Incidentele de la granița României pictează un tablou destul de trist al situației actuale din țară. Nu suntem pregătiți pentru un eventual atac iar cei responsabili nu au făcut nimic în ultimii patru ani de când avem efectiv un război la graniță. În cadrul ședinței CSAȚ de azi situația a fost expusă în termeni clari [&#8230;] The post Avertisment dur! Dacă nu cheltuim banii pe înarmare, vin rușii și ne fură sărăcia! appeared first on Times New Roman .",
@@ -994,6 +886,18 @@
       "score": 3,
       "freshness_boost": 3,
       "image": "https://www.timesnewroman.ro/wp-content/uploads/2020/07/armata_rusa_jurnalisti.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "RomaniaPozitiva",
+      "title": "„Caravana filmului românesc”, din nou la Jimbolia, în perioada 30 mai – 1 iunie",
+      "summary": "În perioada 30 mai – 1 iunie 2026, „Caravana filmului românesc – Cartea și filmul” revine în Piațeta Sfântul Florian din Jimbolia, pentru a aduce un strop de bucurie și&#8230; Articolul „Caravana filmului românesc”, din nou la Jimbolia, în perioada 30 mai – 1 iunie apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/banat-crisana/caravana-filmului-romanesc-din-nou-la-jimbolia-in-perioada-30-mai-1-iunie",
+      "published_utc": "2026-05-29T13:53:34+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-93a6a411c57ac6e6/480/320"
     },
     {
       "section": "romania",
@@ -1022,18 +926,6 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Trupa Iron Maiden, vizită surpriză la Sinteşti: “Am auzit că vă place metalul!”",
-      "summary": "Legendara trupă metal Iron Maiden a făcut o descindere surpriză înainte de concertul de pe Arena Naţională! Artiştii britanici s-au plimbat pe uliţele celebrului sat Sinteşti din comuna Vidra, Ilfov, dornici să se întâlnească cu cei mai înfocaţi fani ai genului metal. &#8222;L-am întrebat pe taximetristul care m-a luat de la Otopeni unde sunt oamenii [&#8230;] The post Trupa Iron Maiden, vizită surpriză la Sinteşti: “Am auzit că vă place metalul!” appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/monden/trupa-iron-maiden-vizita-surpriza-la-sintesti-am-auzit-ca-va-place-metalul",
-      "published_utc": "2026-05-28T10:25:56+00:00",
-      "score": 3,
-      "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/ironmaidensintesti.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "Urania Cremene vine la Wonder Family Fest",
       "summary": "FLASH SALE de Ziua Copilului: 70% reducere la biletele pentru copii la Wonder Family Fest 2026 Componenta educațională a Wonder Family Fest este un pilon important pentru organizatorii celui mai&#8230; Articolul Urania Cremene vine la Wonder Family Fest apare prima dată în Romania Pozitiva .",
@@ -1042,18 +934,6 @@
       "score": 3,
       "freshness_boost": 3,
       "image": "https://picsum.photos/seed/vb-a184780ff1c24f74/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Duminică începe Festivalul Copiilor Oradea",
-      "summary": "Duminică începe Festivalul Copiilor Oradea! Evenimentul se desfășoară anul acesta pe parcursul a două zile dedicate celor mici. Duminică, 31 mai, activitățile vor avea loc în Cetatea Oradea, iar luni, 1 iunie, festivalul continuă în Cetatea Oradea, Orășelul Copiilor și Parcul Barcăului, între orele 10:00 și 21:00.",
-      "link": "https://www.digi24.ro/magazin/timp-liber/duminica-incepe-festivalul-copiilor-oradea-3791955",
-      "published_utc": "2026-05-29T13:43:05+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNSUyRjI5JTJGMjc1MjE0N18yNzUy/MTQ3X05ldy1Qcm9qZWN0LTI2LnBuZyZo/YXNoPTgwMDgwNjVkZTQwMzZkNWI4MTM1MTdjMjk2N2VmN2Y1.png"
     },
     {
       "section": "romania",
@@ -1071,13 +951,13 @@
       "section": "romania",
       "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 Turism în patru labe: 74 de birturi din 10 judeţe vor fi legate prin proiectul Via Beţivanica",
-      "summary": "După Via Transilvanica, un nou traseu turistic tematic ia naştere în România! O asociaţie nou înfiinţată promite să lege birturi săteşti din întreaga ţară cu poteci marcate, pe care orice carmolist le va putea parcurge în patru labe în siguranţă, departe de traficul rutier sau temutele trotinete electrice. &#8222;Până acum, 74 de cârciumi, spelunci şi [&#8230;] The post Turism în patru labe: 74 de birturi din 10 judeţe vor fi legate prin proiectul Via Beţivanica appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/monden/turism-in-patru-labe-74-de-birturi-din-10-judete-vor-fi-legate-prin-proiectul-via-betivanica",
-      "published_utc": "2026-05-28T10:25:23+00:00",
+      "title": "😂 Trupa Iron Maiden, vizită surpriză la Sinteşti: “Am auzit că vă place metalul!”",
+      "summary": "Legendara trupă metal Iron Maiden a făcut o descindere surpriză înainte de concertul de pe Arena Naţională! Artiştii britanici s-au plimbat pe uliţele celebrului sat Sinteşti din comuna Vidra, Ilfov, dornici să se întâlnească cu cei mai înfocaţi fani ai genului metal. &#8222;L-am întrebat pe taximetristul care m-a luat de la Otopeni unde sunt oamenii [&#8230;] The post Trupa Iron Maiden, vizită surpriză la Sinteşti: “Am auzit că vă place metalul!” appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/monden/trupa-iron-maiden-vizita-surpriza-la-sintesti-am-auzit-ca-va-place-metalul",
+      "published_utc": "2026-05-28T10:25:56+00:00",
       "score": 3,
       "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/viabetivanica.jpg"
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/ironmaidensintesti.jpg"
     },
     {
       "section": "romania",
@@ -1152,18 +1032,6 @@
       "image": "https://picsum.photos/seed/vb-6cbfda5262bdc42a/480/320"
     },
     {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Light movement in pregnancy linked to lower risk of complications",
-      "summary": "Moving more and sitting less could lower the risk of adverse pregnancy outcomes, according to a new study published in the Journal of the American Medical Association.",
-      "link": "https://medicalxpress.com/news/2026-05-movement-pregnancy-linked-complications.html",
-      "published_utc": "2026-05-29T16:20:03+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/pregnant-walking.jpg"
-    },
-    {
       "section": "romania",
       "kind": "ro",
       "source": "SOS Satele Copiilor Romania",
@@ -1174,6 +1042,18 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-147a41b3f87f9b8a/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "Brain scans reveal two distinct autism subtypes with different underlying biology",
+      "summary": "An international research team led by Istituto Italiano di Tecnologia (IIT-Italian Institute of Technology) in Rovereto (Trento, Italy) and the Child Mind Institute in New York (U.S.), and in collaboration with researchers from the University of Trento, has shown that it is possible to identify at least two distinct subtypes of autism, defined by their patterns of brain connectivity. In the \"hyperconnectivity\" subtype, brain areas communicate more than usual; in the \"hypoconnectivity\" subtype, communication between brain areas is reduced.",
+      "link": "https://medicalxpress.com/news/2026-05-brain-scans-reveal-distinct-autism.html",
+      "published_utc": "2026-05-29T19:20:03+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/brain-scans-reveal-two.jpg"
     },
     {
       "section": "romania",
@@ -1188,18 +1068,6 @@
       "image": "https://picsum.photos/seed/vb-aa07ae2b6f441a0c/480/320"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Rare male red pipefish carrying eggs on its trunk spotted in Sydney",
-      "summary": "The red pipefish (Notiocampus ruber) is a rare relative of seahorses and seadragons found only in Australia.",
-      "link": "https://phys.org/news/2026-05-rare-male-red-pipefish-eggs.html",
-      "published_utc": "2026-05-29T16:20:02+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rare-male-red-pipefish.jpg"
-    },
-    {
       "section": "romania",
       "kind": "ro",
       "source": "World Vision Romania",
@@ -1210,6 +1078,18 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-9934b0d47c9a6244/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "RNA therapy for genetic heart failure moves closer to patients after lab gains",
+      "summary": "Using patient-derived cardiac tissue and stem cell-based models, the team of translational researchers demonstrated that targeting the genetic cause of disease improved cellular abnormalities and identified the biological pathways involved. The results of this study were published in Signal Transduction and Targeted Therapy.",
+      "link": "https://medicalxpress.com/news/2026-05-rna-therapy-genetic-heart-failure.html",
+      "published_utc": "2026-05-29T19:00:02+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rna-therapy-as-a-novel.jpg"
     },
     {
       "section": "romania",
@@ -1224,18 +1104,6 @@
       "image": "https://picsum.photos/seed/vb-451d72078f5c9ca1/480/320"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "How Alaska Native communities navigate a potential $170 billion gold mine",
-      "summary": "Sitting at the northwestern edge of North America, Alaska stretches across a vast Arctic land of wilderness, culture, and wealth beneath the surface. Among its resources is the Donlin Gold deposit, located in southwestern Alaska's Kuskokwim River basin. As one of the world's largest undeveloped gold mines, it holds an estimated 39 million ounces worth more than $170 billion at today's prices.",
-      "link": "https://phys.org/news/2026-05-alaska-native-communities-potential-billion.html",
-      "published_utc": "2026-05-29T16:00:06+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-alaska-native-comm.jpg"
-    },
-    {
       "section": "romania",
       "kind": "ro",
       "source": "SOS Satele Copiilor Romania",
@@ -1246,6 +1114,18 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-981f1e8cf23a6b08/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "Obesity tied to longer operative time for pediatric adenotonsillectomy",
+      "summary": "Pediatric patients with obesity undergoing adenotonsillectomy (AT) face longer operating times, according to a study published online May 21 in the Ear, Nose & Throat Journal.",
+      "link": "https://medicalxpress.com/news/2026-05-obesity-longer-pediatric-adenotonsillectomy.html",
+      "published_utc": "2026-05-29T18:20:03+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/obesity-tied-to-longer.jpg"
     },
     {
       "section": "romania",
@@ -1260,18 +1140,6 @@
       "image": "https://picsum.photos/seed/vb-33e3d5688a184f91/480/320"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Chromosome model links one steady motor to shape shift needed for cell division",
-      "summary": "It's tricky to make an exact copy of yourself. Or at least it is for cells undergoing mitosis, where cells replicate everything inside of them, including their neatly packaged DNA, then split in half. Rice University professor Peter Wolynes is interested in how the packaged DNA, called a chromosome, changes its structure during replication, going from a ball shape to a cylinder shape that can be transported easily to the daughter cell.",
-      "link": "https://phys.org/news/2026-05-chromosome-links-steady-motor-shift.html",
-      "published_utc": "2026-05-29T16:00:03+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2021/chromosome.jpg"
-    },
-    {
       "section": "romania",
       "kind": "ro",
       "source": "SOS Satele Copiilor Romania",
@@ -1282,6 +1150,18 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-f4198d9ecf3c2ce7/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "Naloxone use during cardiac arrest linked to improved survival",
+      "summary": "A new study by emergency medicine researchers at UC Davis Health set out to assess the effects of naloxone administration by first responders treating patients with out-of-hospital cardiac arrest (OA-OHCA). The study, published in JAMA Network Open, found naloxone administration during resuscitation by emergency medical service (EMS) personnel was associated with improved outcomes in patients with suspected OA-OHCA.",
+      "link": "https://medicalxpress.com/news/2026-05-naloxone-cardiac-linked-survival.html",
+      "published_utc": "2026-05-29T18:20:01+00:00",
+      "score": 4,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2021/naloxone.jpg"
     },
     {
       "section": "romania",
@@ -1296,18 +1176,6 @@
       "image": "https://picsum.photos/seed/vb-c01ff56684c84200/480/320"
     },
     {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Cannabidiol significantly reduces chronic pain for those with nerve damage",
-      "summary": "A new study by researchers at the University of Sydney has shown that taking cannabidiol (CBD) can significantly reduce chronic neuropathic pain in those suffering from it. The findings of the randomized placebo-controlled trial, published in eClinicalMedicine, demonstrated that taking CBD over a six-week period reduced pain by approximately 14%, compared to 6.5% from the placebo.",
-      "link": "https://medicalxpress.com/news/2026-05-cannabidiol-significantly-chronic-pain-nerve.html",
-      "published_utc": "2026-05-29T16:00:02+00:00",
-      "score": 4,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cannabidiol-significan.jpg"
-    },
-    {
       "section": "romania",
       "kind": "ro",
       "source": "Fundatia Regala Margareta",
@@ -1318,6 +1186,18 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-b232011f502b8f73/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "Health coaching app helpful for inflammatory bowel disease management",
+      "summary": "Integrating a mobile app with online health coaching into usual care boosts outcomes for inflammatory bowel disease (IBD), according to a study published online April 26 in Crohn's & Colitis 360.",
+      "link": "https://medicalxpress.com/news/2026-05-health-app-inflammatory-bowel-disease.html",
+      "published_utc": "2026-05-29T18:00:04+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/health-coaching-app-he.jpg"
     },
     {
       "section": "romania",
@@ -1332,18 +1212,6 @@
       "image": "https://picsum.photos/seed/vb-aee1cf7180726a8a/480/320"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Three astronauts from China return to Earth after nearly 7 months in space, a record for a Chinese crew",
-      "summary": "Three Chinese astronauts returned to Earth on Friday after spending nearly seven months in space, setting a record for the longest on-orbit stay by a Chinese crew.",
-      "link": "https://phys.org/news/2026-05-astronauts-china-earth-months-space.html",
-      "published_utc": "2026-05-29T15:58:03+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/3-astronauts-from-chin.jpg"
-    },
-    {
       "section": "romania",
       "kind": "ro",
       "source": "World Vision Romania",
@@ -1354,6 +1222,18 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-1820742b102fcd56/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "Traffic and industrial pollutants tied to chronic rhinosinusitis risk",
+      "summary": "Long-term residential exposure to traffic-related and industry-related pollutants is associated with increased chronic rhinosinusitis (CRS) risk, according to a study published online May 28 in JAMA Otolaryngology-Head & Neck Surgery.",
+      "link": "https://medicalxpress.com/news/2026-05-traffic-industrial-pollutants-chronic-rhinosinusitis.html",
+      "published_utc": "2026-05-29T17:51:45+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/traffic-and-industrial.jpg"
     },
     {
       "section": "romania",
@@ -1368,18 +1248,6 @@
       "image": "https://picsum.photos/seed/vb-320b221910a8bb40/480/320"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Mars's manganese 'bathtub ring' reveals ancient ocean timeline and its potential for life",
-      "summary": "Past research has indicated Mars's largest northern basin, Utopia Planitia, was once the location of a large body of water, but details surrounding when this body of water may have existed have not been resolved. Researchers have now identified a ring of minerals in the region that have helped them string together a timeline of what happened there. The new study, published in Nature Communications, provides details about the ocean's timeline and what it says about life on Mars.",
-      "link": "https://phys.org/news/2026-05-mars-manganese-bathtub-reveals-ancient.html",
-      "published_utc": "2026-05-29T15:50:26+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/manganese-bathtub-ring.jpg"
-    },
-    {
       "section": "romania",
       "kind": "ro",
       "source": "SOS Satele Copiilor Romania",
@@ -1390,6 +1258,114 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-62290e058a5ec56d/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "Kenyan court blocks Trump's plan to quarantine Ebola patients",
+      "summary": "A Kenyan court has reportedly shut down a plan set in motion by the Trump administration to quarantine Ebola-exposed Americans in Kenya.",
+      "link": "https://medicalxpress.com/news/2026-05-kenyan-court-blocks-trump-quarantine.html",
+      "published_utc": "2026-05-29T17:40:03+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/kenyan-court-blocks-tr.jpg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "Device-driven, nurse-led intervention safe but neutral for heart failure outcomes",
+      "summary": "For patients with heart failure, insertable cardiac monitor (ICM)-based high-risk detection combined with centrally managed, nurse-facilitated, individually protocolized diuretic interventions are safe but did not lead to a change in heart failure outcomes, according to a study published online May 27 in the Journal of the American College of Cardiology.",
+      "link": "https://medicalxpress.com/news/2026-05-device-driven-nurse-intervention-safe.html",
+      "published_utc": "2026-05-29T17:20:04+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/device-driven-nurse-le.jpg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "From dish to brain: Researchers chart human glial cell maturation",
+      "summary": "A new study published in Nature Communications shows that human glial progenitor cells are a promising and safe cell product for transplantation. The research also defines the transcriptional and epigenetic signatures of these cells as they mature into astrocytes and oligodendrocytes, two essential support cell types in the brain.",
+      "link": "https://medicalxpress.com/news/2026-05-dish-brain-human-glial-cell.html",
+      "published_utc": "2026-05-29T16:40:06+00:00",
+      "score": 4,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/neuron.jpg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "Team develops open-source framework to accelerate health AI research",
+      "summary": "A research team led by Columbia University has developed an open-source framework designed to streamline and accelerate artificial intelligence research using health data, addressing longstanding challenges in data standardization, reproducibility, and collaboration across institutions.",
+      "link": "https://medicalxpress.com/news/2026-05-team-source-framework-health-ai.html",
+      "published_utc": "2026-05-29T16:40:01+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/digital-health.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Rare male red pipefish carrying eggs on its trunk spotted in Sydney",
+      "summary": "The red pipefish (Notiocampus ruber) is a rare relative of seahorses and seadragons found only in Australia.",
+      "link": "https://phys.org/news/2026-05-rare-male-red-pipefish-eggs.html",
+      "published_utc": "2026-05-29T16:20:02+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rare-male-red-pipefish.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "How Alaska Native communities navigate a potential $170 billion gold mine",
+      "summary": "Sitting at the northwestern edge of North America, Alaska stretches across a vast Arctic land of wilderness, culture, and wealth beneath the surface. Among its resources is the Donlin Gold deposit, located in southwestern Alaska's Kuskokwim River basin. As one of the world's largest undeveloped gold mines, it holds an estimated 39 million ounces worth more than $170 billion at today's prices.",
+      "link": "https://phys.org/news/2026-05-alaska-native-communities-potential-billion.html",
+      "published_utc": "2026-05-29T16:00:06+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-alaska-native-comm.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Chromosome model links one steady motor to shape shift needed for cell division",
+      "summary": "It's tricky to make an exact copy of yourself. Or at least it is for cells undergoing mitosis, where cells replicate everything inside of them, including their neatly packaged DNA, then split in half. Rice University professor Peter Wolynes is interested in how the packaged DNA, called a chromosome, changes its structure during replication, going from a ball shape to a cylinder shape that can be transported easily to the daughter cell.",
+      "link": "https://phys.org/news/2026-05-chromosome-links-steady-motor-shift.html",
+      "published_utc": "2026-05-29T16:00:03+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2021/chromosome.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Three astronauts from China return to Earth after nearly 7 months in space, a record for a Chinese crew",
+      "summary": "Three Chinese astronauts returned to Earth on Friday after spending nearly seven months in space, setting a record for the longest on-orbit stay by a Chinese crew.",
+      "link": "https://phys.org/news/2026-05-astronauts-china-earth-months-space.html",
+      "published_utc": "2026-05-29T15:58:03+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/3-astronauts-from-chin.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Mars's manganese 'bathtub ring' reveals ancient ocean timeline and its potential for life",
+      "summary": "Past research has indicated Mars's largest northern basin, Utopia Planitia, was once the location of a large body of water, but details surrounding when this body of water may have existed have not been resolved. Researchers have now identified a ring of minerals in the region that have helped them string together a timeline of what happened there. The new study, published in Nature Communications, provides details about the ocean's timeline and what it says about life on Mars.",
+      "link": "https://phys.org/news/2026-05-mars-manganese-bathtub-reveals-ancient.html",
+      "published_utc": "2026-05-29T15:50:26+00:00",
+      "score": 2,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/manganese-bathtub-ring.jpg"
     },
     {
       "section": "science",
@@ -1404,18 +1380,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/6-blackhole.jpg"
     },
     {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Researchers uncover a substantial genetic component to postpartum psychosis",
-      "summary": "Researchers at the Icahn School of Medicine at Mount Sinai have uncovered a substantial genetic component to postpartum psychosis, a rare but severe psychiatric illness that occurs in the days to weeks after childbirth. The findings, published in Molecular Psychiatry, provide new evidence that the condition has a substantial biological and genetic basis and may help guide future research into prediction, prevention, and treatment.",
-      "link": "https://medicalxpress.com/news/2026-05-uncover-substantial-genetic-component-postpartum.html",
-      "published_utc": "2026-05-29T15:40:11+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/postpartum-depression-1.jpg"
-    },
-    {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
@@ -1428,30 +1392,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/orangutans-breastfeed.jpg"
     },
     {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Simulation-guided search uncovers two promising tuberculosis drug candidates targeting CYP",
-      "summary": "A research team led by Associate Professor Noriyuki Kurita from the Department of Computer Science and Engineering at Toyohashi University of Technology and by Associate Professor Pornpan Pungpo from Ubon Ratchathani University in Thailand has proposed a novel therapeutic agent for tuberculosis, using high-precision molecular simulation techniques.",
-      "link": "https://medicalxpress.com/news/2026-05-simulation-uncovers-tuberculosis-drug-candidates.html",
-      "published_utc": "2026-05-29T15:20:05+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/proposing-a-novel-ther.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Analysis reveals consumer wearables emerge as the new health care gatekeepers",
-      "summary": "A News and Perspectives expert analysis on consumer wearable platforms' forays into the clinical health care space. Authored by MedTech expert Blythe Karow, MBA, \"Meet the New Health Care Gatekeeper: Your Wearable\" lays out the implications of wearable tech companies owning the first conversation about a patient's health, as well as the potential impacts on patient trust, policy, and regulation. The analysis appears in the Journal of Medical Internet Research.",
-      "link": "https://medicalxpress.com/news/2026-05-analysis-reveals-consumer-wearables-emerge.html",
-      "published_utc": "2026-05-29T15:20:03+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2021/wearable-sensor.jpg"
-    },
-    {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
@@ -1462,30 +1402,6 @@
       "score": 1,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/irrigation.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Brain waste maps reveal 'nearest exit' routes and hidden Alzheimer's breakdown",
-      "summary": "Think of the brain as if it were a house. Insulated from its environment, a house relies on complex networks—pipes, drains, and disposal systems—that interface with the outside world to keep the home functional on the inside. But when this infrastructure breaks down, trash accumulates and the resulting damage can be difficult to reverse.",
-      "link": "https://medicalxpress.com/news/2026-05-brain-reveal-nearest-exit-routes.html",
-      "published_utc": "2026-05-29T15:00:03+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mapping-how-the-brain.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Free contraception policy sharply reduces patient costs in B.C., especially for young adults",
-      "summary": "Researchers at UBC found that B.C.'s decision to provide universal, no-cost prescription contraception sharply reduced what patients pay, with the largest financial gains for people in their 20s. Unaffordable contraception is linked to higher rates of unintended pregnancy, which carries significant consequences for health, education and economic equality.",
-      "link": "https://medicalxpress.com/news/2026-05-free-contraception-policy-sharply-patient.html",
-      "published_utc": "2026-05-29T15:00:02+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2020/contraception.jpg"
     },
     {
       "section": "science",
@@ -1512,42 +1428,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-tiny-tardigrades-s.jpg"
     },
     {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Analysis of 14 million Reddit posts reveals a striking shift in how we talk about mental health",
-      "summary": "More people are relying on social media—such as TikTok, Instagram, YouTube and Reddit—to learn about mental health conditions and to interact with people who have shared experiences.",
-      "link": "https://medicalxpress.com/news/2026-05-analysis-million-reddit-reveals-shift.html",
-      "published_utc": "2026-05-29T14:40:03+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/reddit-1.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "What separates dreaming from deep sleep? Brain rhythm offers new clue to consciousness",
-      "summary": "Neuropsychology researchers at LMU have discovered a rhythm in the midbrain that could serve as a biophysiological signature for specific states of consciousness.",
-      "link": "https://medicalxpress.com/news/2026-05-deep-brain-rhythm-clue-consciousness.html",
-      "published_utc": "2026-05-29T14:40:02+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/signals-from-the-deep.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Why your wearable health tracker can make you feel anxious",
-      "summary": "Millions of people use a wearable health and fitness tracker. These devices can be useful for monitoring activity levels, sleep quality, and heart rate. But for some, wearables can have unintended consequences on well-being.",
-      "link": "https://medicalxpress.com/news/2026-05-wearable-health-tracker-anxious.html",
-      "published_utc": "2026-05-29T14:20:03+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/wearable-health-tracke.jpg"
-    },
-    {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
@@ -1572,18 +1452,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-challenging-new-worl.jpg"
     },
     {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "Protein traffic jams may explain aging, memory loss, and Alzheimer’s",
-      "summary": "Scientists at Stanford may have uncovered a hidden reason our brains decline with age. Studying the ultra-short-lived turquoise killifish, researchers discovered that the cellular machinery responsible for building proteins begins to jam and malfunction over time. Tiny structures called ribosomes start colliding and stalling while reading genetic instructions, triggering a chain reaction that leads to faulty proteins and harmful clumps linked to diseases like Alzheimer’s.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260528082505.htm",
-      "published_utc": "2026-05-29T14:17:40+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-ab68c0fe41e58013/480/320"
-    },
-    {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
@@ -1594,18 +1462,6 @@
       "score": 0,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-create-bio.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Limited evidence to suggest food labels reduce sugar intake among low-income groups",
-      "summary": "Researchers are calling for stronger measures to reduce sugar consumption after a new paper finds limited evidence that front-of-pack food labels help lower intake among disadvantaged groups.",
-      "link": "https://medicalxpress.com/news/2026-05-limited-evidence-food-sugar-intake.html",
-      "published_utc": "2026-05-29T14:00:02+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/packaged-food.jpg"
     },
     {
       "section": "science",
@@ -1630,18 +1486,6 @@
       "score": 0,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/megafire-kills-joshua.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Maternal health knowledge strong, but gaps remain, survey finds",
-      "summary": "Most Americans know that how well a mother takes care of herself before and during pregnancy affects the health of a baby, but many people remain unclear about some specific maternal health recommendations, including when to start avoiding alcohol, according to a new nationally representative survey from the Annenberg Public Policy Center (APPC) of the University of Pennsylvania.",
-      "link": "https://medicalxpress.com/news/2026-05-maternal-health-knowledge-strong-gaps.html",
-      "published_utc": "2026-05-29T13:40:02+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/baby-sleeping.jpg"
     },
     {
       "section": "science",
@@ -1680,18 +1524,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/toddler-1.jpg"
     },
     {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Targeted drug outperforms chemotherapy for patients with hard-to-treat lung cancer",
-      "summary": "The targeted therapy sunvozertinib was more effective than standard platinum-based chemotherapy as a first-line treatment for patients with advanced non-small cell lung cancer (NSCLC) driven by EGFR exon 20 insertion mutations (EGFR exon20ins), according to new research from The University of Texas MD Anderson Cancer Center.",
-      "link": "https://medicalxpress.com/news/2026-05-drug-outperforms-chemotherapy-patients-hard.html",
-      "published_utc": "2026-05-29T13:00:05+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/lung.jpg"
-    },
-    {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
@@ -1702,18 +1534,6 @@
       "score": 2,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/optimal-ambition.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Study identifies protein that helps eye cancer spread to the liver",
-      "summary": "A study led by researchers at Moffitt Cancer Center helps explain why uveal melanoma, the most common form of eye cancer, often spreads to the liver. The uvea is the middle layer of the eye, including the iris.",
-      "link": "https://medicalxpress.com/news/2026-05-protein-eye-cancer-liver.html",
-      "published_utc": "2026-05-29T12:40:01+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/iris.jpg"
     },
     {
       "section": "science",
@@ -1767,49 +1587,13 @@
       "section": "medical",
       "kind": "global",
       "source": "ScienceDaily Health",
-      "title": "Vitamin B12 and folate deficiencies linked to chronic fatigue",
-      "summary": "Feeling constantly drained might not just be about poor sleep or working too hard. Researchers in Japan found that low levels of key vitamins — especially vitamin B12 and folate — may quietly contribute to fatigue and lack of motivation, even in otherwise healthy people.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260528082501.htm",
-      "published_utc": "2026-05-29T03:23:48+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-e3719c96f2856259/480/320"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "Surprising research reveals why you shouldn't add bananas to your smoothies",
-      "summary": "Researchers found that adding bananas to berry smoothies can dramatically reduce the body’s ability to absorb healthy flavanols. The surprising discovery shows that even simple food combinations can change how much nutrition your body actually gets.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260524020950.htm",
-      "published_utc": "2026-05-24T12:48:32+00:00",
-      "score": 5,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-cbd9dc31bcf4c1d3/480/320"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "Scientists say house cats could help unlock new cancer treatments for humans",
-      "summary": "Scientists have cracked open the “black box” of feline cancer in a landmark study that genetically analyzed nearly 500 cat tumors from around the world. The research uncovered striking similarities between cancers in cats, dogs, and humans — including shared cancer-driving genes tied to aggressive breast cancers.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260523103943.htm",
-      "published_utc": "2026-05-24T12:35:15+00:00",
+      "title": "Scientists boosted one protein and aging mice became stronger and healthier",
+      "summary": "Scientists have identified a protein that appears to put the brakes on the chronic inflammation linked to aging. Older mice with boosted levels of the protein were stronger, more energetic, and had healthier bones than untreated mice. Researchers say the findings could eventually lead to therapies that help people stay healthier and more independent later in life.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260518041436.htm",
+      "published_utc": "2026-05-19T13:11:02+00:00",
       "score": 1,
       "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-9608ee566165f281/480/320"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "Scientists “recharge” damaged nerves to ease chronic pain",
-      "summary": "For millions battling chronic nerve pain, even the softest touch can feel agonizing — but scientists may have uncovered a radically new way to stop it at the source. Researchers at Duke University found that damaged nerves can be revived by supplying them with healthy mitochondria, the tiny energy producers inside cells.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260523103950.htm",
-      "published_utc": "2026-05-24T11:51:53+00:00",
-      "score": 1,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-40b0e20c1a037b01/480/320"
+      "image": "https://picsum.photos/seed/vb-a5bc465e8c0b8492/480/320"
     },
     {
       "section": "environment",
@@ -1910,7 +1694,7 @@
   ],
   "joke_ro": {
     "date_utc": "2026-05-29",
-    "text": "Am zis \"doar un episod\". Serialul a zis \"sigur\".",
+    "text": "Azi m-am rasfatat cu o pauza. Apoi i-am atasat toata ziua.",
     "source": "data/jokes_ro.txt"
   },
   "satire_ro": {
@@ -2000,6 +1784,7 @@
       "https://live.staticflickr.com/65535/55283618196_27ef411087_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/55287070733_1cb962d86b_b.jpg",
       "https://live.staticflickr.com/65535/55278808763_df85156436_b.jpg",
       "https://live.staticflickr.com/65535/55293975121_fdae85ed77_b.jpg",
       "https://live.staticflickr.com/65535/55289331963_b386cddff8_b.jpg",
@@ -2016,14 +1801,13 @@
       "https://live.staticflickr.com/65535/55296493827_16046c6ecc_b.jpg",
       "https://live.staticflickr.com/65535/55283230452_6d721fa0f0_b.jpg",
       "https://live.staticflickr.com/65535/55279795299_e79c2a270e_b.jpg",
-      "https://live.staticflickr.com/65535/55295702202_a261ba4906_b.jpg",
-      "https://live.staticflickr.com/65535/17913833661_3b81a20bcd_b.jpg"
+      "https://live.staticflickr.com/65535/55295702202_a261ba4906_b.jpg"
     ],
     "cities": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/3f/NYC_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg",
       "https://live.staticflickr.com/65535/55301328396_aee6f5fe69_b.jpg",
       "https://live.staticflickr.com/65535/55301062033_b4fff08807_b.jpg",
       "https://live.staticflickr.com/65535/55299588847_449cd61617_b.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/3/3f/NYC_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg",
       "https://live.staticflickr.com/65535/55299947881_0a9f71173a_b.jpg",
       "https://live.staticflickr.com/65535/55299970914_e165504a2d_b.jpg",
       "https://live.staticflickr.com/65535/55299481033_59f9d62d76_b.jpg",
@@ -2040,8 +1824,8 @@
       "https://live.staticflickr.com/65535/55295799988_88ce4ba52c_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
+      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
