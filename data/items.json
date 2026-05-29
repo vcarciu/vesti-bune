@@ -1,7 +1,31 @@
 {
-  "generated_utc": "2026-05-29T19:28:11+00:00",
+  "generated_utc": "2026-05-29T21:43:39+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Finala „Românii au talent”: Trupa Re-Born a câștigat cu un moment de dans contemporan și gimnastică",
+        "summary": "10 concurenți s-au întrecut vineri seară în marea finală a talent show-ului de la Pro Tv „Românii au talent” sezonul 16. Marea câștigătoare a fost desemnată trupa Re-Born, care a plecat acasă cu premiul de 120.000 de euro. Cei 10 finaliști ai sezonului 16 al emisiunii „Românii au talent” au fost Iosif Mândru, Lucas Moroșan, &#8230;",
+        "link": "https://hotnews.ro/romanii-au-talent-castigatorul-sezonului-16-2259448",
+        "published_utc": "2026-05-29T21:24:55+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-67a03ccc839f9658/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Start-Up Romania",
+        "title": "Startup-ul MaintainX, fondat de românul Chris Țurlică, vândut cu 3,6 miliarde de dolari",
+        "summary": "Autodesk a anunțat că va achiziționa compania MaintainX, fondată de românul Chris Țurlică, specializată în soluții pentru mentenanță și operațiuni industriale, într-o tranzacție integral în numerar...",
+        "link": "https://start-up.ro/startup-ul-maintainx-fondat-de-romanul-chris-turlica-vandut-cu-3-6-miliarde-de-dolari",
+        "published_utc": "2026-05-29T19:44:59+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://start-up.ro/img/articles/3/8/4/38456/cover-38456-src.jpg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -854,26 +878,26 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Învățăminte",
-      "summary": "The post Învățăminte appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/ovi/invataminte",
-      "published_utc": "2026-05-29T07:59:45+00:00",
+      "source": "HotNews",
+      "title": "Finala „Românii au talent”: Trupa Re-Born a câștigat cu un moment de dans contemporan și gimnastică",
+      "summary": "10 concurenți s-au întrecut vineri seară în marea finală a talent show-ului de la Pro Tv „Românii au talent” sezonul 16. Marea câștigătoare a fost desemnată trupa Re-Born, care a plecat acasă cu premiul de 120.000 de euro. Cei 10 finaliști ai sezonului 16 al emisiunii „Românii au talent” au fost Iosif Mândru, Lucas Moroșan, &#8230;",
+      "link": "https://hotnews.ro/romanii-au-talent-castigatorul-sezonului-16-2259448",
+      "published_utc": "2026-05-29T21:24:55+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/Invataminte.jpg"
+      "image": "https://picsum.photos/seed/vb-67a03ccc839f9658/480/320"
     },
     {
       "section": "romania",
       "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "De Ziua Copilului, peste 17.000 de copii cântă la Ora Copiilor by Cantus Mundi în România și Republica Moldova",
-      "summary": "Ziua Internațională a Copilului 2026 va fi marcată de Programul Național Cantus Mundi și Corul Madrigal printr-o serie amplă de evenimente, ce vor aduce împreună zeci de mii de copii&#8230; Articolul De Ziua Copilului, peste 17.000 de copii cântă la Ora Copiilor by Cantus Mundi în România și Republica Moldova apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/cultura/de-ziua-copilului-peste-17-000-de-copii-canta-la-ora-copiilor-by-cantus-mundi-in-romania-si-republica-moldova",
-      "published_utc": "2026-05-29T15:12:09+00:00",
+      "source": "Start-Up Romania",
+      "title": "Startup-ul MaintainX, fondat de românul Chris Țurlică, vândut cu 3,6 miliarde de dolari",
+      "summary": "Autodesk a anunțat că va achiziționa compania MaintainX, fondată de românul Chris Țurlică, specializată în soluții pentru mentenanță și operațiuni industriale, într-o tranzacție integral în numerar...",
+      "link": "https://start-up.ro/startup-ul-maintainx-fondat-de-romanul-chris-turlica-vandut-cu-3-6-miliarde-de-dolari",
+      "published_utc": "2026-05-29T19:44:59+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-5925a8e2139add95/480/320"
+      "image": "https://start-up.ro/img/articles/3/8/4/38456/cover-38456-src.jpg"
     },
     {
       "section": "romania",
@@ -886,6 +910,18 @@
       "score": 3,
       "freshness_boost": 3,
       "image": "https://www.timesnewroman.ro/wp-content/uploads/2020/07/armata_rusa_jurnalisti.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "RomaniaPozitiva",
+      "title": "De Ziua Copilului, peste 17.000 de copii cântă la Ora Copiilor by Cantus Mundi în România și Republica Moldova",
+      "summary": "Ziua Internațională a Copilului 2026 va fi marcată de Programul Național Cantus Mundi și Corul Madrigal printr-o serie amplă de evenimente, ce vor aduce împreună zeci de mii de copii&#8230; Articolul De Ziua Copilului, peste 17.000 de copii cântă la Ora Copiilor by Cantus Mundi în România și Republica Moldova apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/cultura/de-ziua-copilului-peste-17-000-de-copii-canta-la-ora-copiilor-by-cantus-mundi-in-romania-si-republica-moldova",
+      "published_utc": "2026-05-29T15:12:09+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-5925a8e2139add95/480/320"
     },
     {
       "section": "romania",
@@ -946,6 +982,18 @@
       "score": 3,
       "freshness_boost": 1,
       "image": "https://picsum.photos/seed/vb-6e5956eb57d9107d/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Învățăminte",
+      "summary": "The post Învățăminte appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/ovi/invataminte",
+      "published_utc": "2026-05-29T07:59:45+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/Invataminte.jpg"
     },
     {
       "section": "romania",
@@ -1020,6 +1068,18 @@
       "image": "https://picsum.photos/seed/vb-a8ae7323c01f3478/480/320"
     },
     {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "Brain scans reveal two distinct autism subtypes with different underlying biology",
+      "summary": "An international research team led by Istituto Italiano di Tecnologia (IIT-Italian Institute of Technology) in Rovereto (Trento, Italy) and the Child Mind Institute in New York (U.S.), and in collaboration with researchers from the University of Trento, has shown that it is possible to identify at least two distinct subtypes of autism, defined by their patterns of brain connectivity. In the \"hyperconnectivity\" subtype, brain areas communicate more than usual; in the \"hypoconnectivity\" subtype, communication between brain areas is reduced.",
+      "link": "https://medicalxpress.com/news/2026-05-brain-scans-reveal-distinct-autism.html",
+      "published_utc": "2026-05-29T19:20:03+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/brain-scans-reveal-two.jpg"
+    },
+    {
       "section": "romania",
       "kind": "ro",
       "source": "Fundatia Inocenti",
@@ -1047,13 +1107,13 @@
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
-      "title": "Brain scans reveal two distinct autism subtypes with different underlying biology",
-      "summary": "An international research team led by Istituto Italiano di Tecnologia (IIT-Italian Institute of Technology) in Rovereto (Trento, Italy) and the Child Mind Institute in New York (U.S.), and in collaboration with researchers from the University of Trento, has shown that it is possible to identify at least two distinct subtypes of autism, defined by their patterns of brain connectivity. In the \"hyperconnectivity\" subtype, brain areas communicate more than usual; in the \"hypoconnectivity\" subtype, communication between brain areas is reduced.",
-      "link": "https://medicalxpress.com/news/2026-05-brain-scans-reveal-distinct-autism.html",
-      "published_utc": "2026-05-29T19:20:03+00:00",
-      "score": 1,
+      "title": "RNA therapy for genetic heart failure moves closer to patients after lab gains",
+      "summary": "Using patient-derived cardiac tissue and stem cell-based models, the team of translational researchers demonstrated that targeting the genetic cause of disease improved cellular abnormalities and identified the biological pathways involved. The results of this study were published in Signal Transduction and Targeted Therapy.",
+      "link": "https://medicalxpress.com/news/2026-05-rna-therapy-genetic-heart-failure.html",
+      "published_utc": "2026-05-29T19:00:02+00:00",
+      "score": 3,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/brain-scans-reveal-two.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rna-therapy-as-a-novel.jpg"
     },
     {
       "section": "romania",
@@ -1083,13 +1143,13 @@
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
-      "title": "RNA therapy for genetic heart failure moves closer to patients after lab gains",
-      "summary": "Using patient-derived cardiac tissue and stem cell-based models, the team of translational researchers demonstrated that targeting the genetic cause of disease improved cellular abnormalities and identified the biological pathways involved. The results of this study were published in Signal Transduction and Targeted Therapy.",
-      "link": "https://medicalxpress.com/news/2026-05-rna-therapy-genetic-heart-failure.html",
-      "published_utc": "2026-05-29T19:00:02+00:00",
-      "score": 3,
+      "title": "Obesity tied to longer operative time for pediatric adenotonsillectomy",
+      "summary": "Pediatric patients with obesity undergoing adenotonsillectomy (AT) face longer operating times, according to a study published online May 21 in the Ear, Nose & Throat Journal.",
+      "link": "https://medicalxpress.com/news/2026-05-obesity-longer-pediatric-adenotonsillectomy.html",
+      "published_utc": "2026-05-29T18:20:03+00:00",
+      "score": 1,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rna-therapy-as-a-novel.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/obesity-tied-to-longer.jpg"
     },
     {
       "section": "romania",
@@ -1119,13 +1179,13 @@
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
-      "title": "Obesity tied to longer operative time for pediatric adenotonsillectomy",
-      "summary": "Pediatric patients with obesity undergoing adenotonsillectomy (AT) face longer operating times, according to a study published online May 21 in the Ear, Nose & Throat Journal.",
-      "link": "https://medicalxpress.com/news/2026-05-obesity-longer-pediatric-adenotonsillectomy.html",
-      "published_utc": "2026-05-29T18:20:03+00:00",
-      "score": 1,
+      "title": "Naloxone use during cardiac arrest linked to improved survival",
+      "summary": "A new study by emergency medicine researchers at UC Davis Health set out to assess the effects of naloxone administration by first responders treating patients with out-of-hospital cardiac arrest (OA-OHCA). The study, published in JAMA Network Open, found naloxone administration during resuscitation by emergency medical service (EMS) personnel was associated with improved outcomes in patients with suspected OA-OHCA.",
+      "link": "https://medicalxpress.com/news/2026-05-naloxone-cardiac-linked-survival.html",
+      "published_utc": "2026-05-29T18:20:01+00:00",
+      "score": 4,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/obesity-tied-to-longer.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2021/naloxone.jpg"
     },
     {
       "section": "romania",
@@ -1155,13 +1215,13 @@
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
-      "title": "Naloxone use during cardiac arrest linked to improved survival",
-      "summary": "A new study by emergency medicine researchers at UC Davis Health set out to assess the effects of naloxone administration by first responders treating patients with out-of-hospital cardiac arrest (OA-OHCA). The study, published in JAMA Network Open, found naloxone administration during resuscitation by emergency medical service (EMS) personnel was associated with improved outcomes in patients with suspected OA-OHCA.",
-      "link": "https://medicalxpress.com/news/2026-05-naloxone-cardiac-linked-survival.html",
-      "published_utc": "2026-05-29T18:20:01+00:00",
-      "score": 4,
+      "title": "Health coaching app helpful for inflammatory bowel disease management",
+      "summary": "Integrating a mobile app with online health coaching into usual care boosts outcomes for inflammatory bowel disease (IBD), according to a study published online April 26 in Crohn's & Colitis 360.",
+      "link": "https://medicalxpress.com/news/2026-05-health-app-inflammatory-bowel-disease.html",
+      "published_utc": "2026-05-29T18:00:04+00:00",
+      "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2021/naloxone.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/health-coaching-app-he.jpg"
     },
     {
       "section": "romania",
@@ -1191,13 +1251,13 @@
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
-      "title": "Health coaching app helpful for inflammatory bowel disease management",
-      "summary": "Integrating a mobile app with online health coaching into usual care boosts outcomes for inflammatory bowel disease (IBD), according to a study published online April 26 in Crohn's & Colitis 360.",
-      "link": "https://medicalxpress.com/news/2026-05-health-app-inflammatory-bowel-disease.html",
-      "published_utc": "2026-05-29T18:00:04+00:00",
-      "score": 0,
+      "title": "Traffic and industrial pollutants tied to chronic rhinosinusitis risk",
+      "summary": "Long-term residential exposure to traffic-related and industry-related pollutants is associated with increased chronic rhinosinusitis (CRS) risk, according to a study published online May 28 in JAMA Otolaryngology-Head & Neck Surgery.",
+      "link": "https://medicalxpress.com/news/2026-05-traffic-industrial-pollutants-chronic-rhinosinusitis.html",
+      "published_utc": "2026-05-29T17:51:45+00:00",
+      "score": 1,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/health-coaching-app-he.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/traffic-and-industrial.jpg"
     },
     {
       "section": "romania",
@@ -1227,13 +1287,13 @@
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
-      "title": "Traffic and industrial pollutants tied to chronic rhinosinusitis risk",
-      "summary": "Long-term residential exposure to traffic-related and industry-related pollutants is associated with increased chronic rhinosinusitis (CRS) risk, according to a study published online May 28 in JAMA Otolaryngology-Head & Neck Surgery.",
-      "link": "https://medicalxpress.com/news/2026-05-traffic-industrial-pollutants-chronic-rhinosinusitis.html",
-      "published_utc": "2026-05-29T17:51:45+00:00",
-      "score": 1,
+      "title": "Kenyan court blocks Trump's plan to quarantine Ebola patients",
+      "summary": "A Kenyan court has reportedly shut down a plan set in motion by the Trump administration to quarantine Ebola-exposed Americans in Kenya.",
+      "link": "https://medicalxpress.com/news/2026-05-kenyan-court-blocks-trump-quarantine.html",
+      "published_utc": "2026-05-29T17:40:03+00:00",
+      "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/traffic-and-industrial.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/kenyan-court-blocks-tr.jpg"
     },
     {
       "section": "romania",
@@ -1258,18 +1318,6 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-62290e058a5ec56d/480/320"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Kenyan court blocks Trump's plan to quarantine Ebola patients",
-      "summary": "A Kenyan court has reportedly shut down a plan set in motion by the Trump administration to quarantine Ebola-exposed Americans in Kenya.",
-      "link": "https://medicalxpress.com/news/2026-05-kenyan-court-blocks-trump-quarantine.html",
-      "published_utc": "2026-05-29T17:40:03+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/kenyan-court-blocks-tr.jpg"
     },
     {
       "section": "medical",
@@ -1784,6 +1832,7 @@
       "https://live.staticflickr.com/65535/55283618196_27ef411087_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/17292779633_6dbeac61d1_b.jpg",
       "https://live.staticflickr.com/65535/55287070733_1cb962d86b_b.jpg",
       "https://live.staticflickr.com/65535/55278808763_df85156436_b.jpg",
       "https://live.staticflickr.com/65535/55293975121_fdae85ed77_b.jpg",
@@ -1800,8 +1849,7 @@
       "https://live.staticflickr.com/65535/34293674765_6d9cd3ae2c_b.jpg",
       "https://live.staticflickr.com/65535/55296493827_16046c6ecc_b.jpg",
       "https://live.staticflickr.com/65535/55283230452_6d721fa0f0_b.jpg",
-      "https://live.staticflickr.com/65535/55279795299_e79c2a270e_b.jpg",
-      "https://live.staticflickr.com/65535/55295702202_a261ba4906_b.jpg"
+      "https://live.staticflickr.com/65535/55279795299_e79c2a270e_b.jpg"
     ],
     "cities": [
       "https://upload.wikimedia.org/wikipedia/commons/3/3f/NYC_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg",
@@ -1824,8 +1872,8 @@
       "https://live.staticflickr.com/65535/55295799988_88ce4ba52c_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
+      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
