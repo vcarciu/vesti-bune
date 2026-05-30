@@ -1,18 +1,18 @@
 {
-  "generated_utc": "2026-05-30T14:23:22+00:00",
+  "generated_utc": "2026-05-30T15:58:52+00:00",
   "sections": {
     "romania": [
       {
         "section": "romania",
         "kind": "ro",
-        "source": "Digi24",
-        "title": "Alimentul pe care mulți în consumă în exces și care duce la afectarea memoriei",
-        "summary": "Îmbunătăţirea calităţii alimentaţiei poate stimula memoria, conform unui studiu australian citat marţi de agenţia Xinhua. Totodată anumite alimente sunt „catastrofe” pentru calitatea memoriei.",
-        "link": "https://www.digi24.ro/magazin/stil-de-viata/viata-sanatoasa/alimentul-pe-care-multi-in-consuma-in-exces-si-care-duce-la-afectarea-memoriei-3776315",
-        "published_utc": "2026-05-30T12:41:33+00:00",
+        "source": "RomaniaPozitiva",
+        "title": "4ELEMENTS: (re)Shaping Music: un turneu național la granița dintre tradiție, jazz și inovație tehnologică",
+        "summary": "În perioada 15 iunie – 5 octombrie 2026, turneul național 4ELEMENTS: (re)Shaping Music ajunge în 10 orașe din România, propunând o experiență muzicală care explorează relația dintre tradiție și tehnologie,&#8230; Articolul 4ELEMENTS: (re)Shaping Music: un turneu național la granița dintre tradiție, jazz și inovație tehnologică apare prima dată în Romania Pozitiva .",
+        "link": "https://www.romaniapozitiva.ro/cultura/4elements-reshaping-music-un-turneu-national-la-granita-dintre-traditie-jazz-si-inovatie-tehnologica",
+        "published_utc": "2026-05-30T14:23:28+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNSUyRjE5JTJGMjczNzk0MF8yNzM3/OTQwX3Byb2ZpbWVkaWEtMTAwNTYzMzk1/Ni5qcGcmaGFzaD0wOGVlYjAzOTk0YTg4OWQ2ZjZiYjcwODNjNzU3NjIxYg==.jpg"
+        "image": "https://picsum.photos/seed/vb-636d7fcd579db69a/480/320"
       },
       {
         "section": "romania",
@@ -47,8 +47,20 @@
         "link": "https://www.romaniapozitiva.ro/cultura/de-ziua-copilului-peste-17-000-de-copii-canta-la-ora-copiilor-by-cantus-mundi-in-romania-si-republica-moldova",
         "published_utc": "2026-05-29T15:12:09+00:00",
         "score": 3,
-        "freshness_boost": 3,
+        "freshness_boost": 1,
         "image": "https://picsum.photos/seed/vb-5925a8e2139add95/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 SURSE: Nicușor Dan ia în calcul să-l numească premier pe Stegarul Dac",
+        "summary": "Abia ieșit din ședințele importante privitoare la siguranța țării, președintele Nicușor Dan s-a aplecat asupra problemelor curente ale patriei noastre. Surse din apropierea administrației prezidențiale spun că președintele este în continuare frământat de problema numirii noului premier și se gândește foarte serios să-l numească pe Stegarul Dac în această funcție. Mișcarea ar avea multiple avantaje [&#8230;] The post SURSE: Nicușor Dan ia în calcul să-l numească premier pe Stegarul Dac appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/politic/nicusor-dan-ia-in-calcul-sa-l-numeasca-premier-pe-stegarul-dac",
+        "published_utc": "2026-05-29T14:09:39+00:00",
+        "score": 3,
+        "freshness_boost": 1,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/nicusor-stegarul-dac.jpg"
       },
       {
         "section": "romania",
@@ -61,18 +73,6 @@
         "score": 3,
         "freshness_boost": 1,
         "image": "https://picsum.photos/seed/vb-93a6a411c57ac6e6/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 Un milion de unguri trebuie să-și dea demisia de onoare, că au înjurat în gând românii",
-        "summary": "Cine credea că scandalul cu ministrul culturii care a folosit cuvântul cu p… când s-a referit la interesul național s-a terminat se înșeală amarnic. O anchetă făcută de mai multe organizații de patrioți români a scos la iveală că acesta nu este singurul care se crede ungur și nu-i pasă foarte mult de România. &#8222;Din [&#8230;] The post Un milion de unguri trebuie să-și dea demisia de onoare, că au înjurat în gând românii appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/life-death/un-milion-de-unguri-trebuie-sa-si-dea-demisia-de-onoare-ca-au-injurat-in-gand-romanii",
-        "published_utc": "2026-05-29T08:50:25+00:00",
-        "score": 3,
-        "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2020/07/unguri-fericiti2.jpg"
       },
       {
         "section": "romania",
@@ -332,133 +332,97 @@
         "section": "medical",
         "kind": "global",
         "source": "Medical Xpress",
-        "title": "Brain scans reveal two distinct autism subtypes with different underlying biology",
-        "summary": "An international research team led by Istituto Italiano di Tecnologia (IIT-Italian Institute of Technology) in Rovereto (Trento, Italy) and the Child Mind Institute in New York (U.S.), and in collaboration with researchers from the University of Trento, has shown that it is possible to identify at least two distinct subtypes of autism, defined by their patterns of brain connectivity. In the \"hyperconnectivity\" subtype, brain areas communicate more than usual; in the \"hypoconnectivity\" subtype, communication between brain areas is reduced.",
-        "link": "https://medicalxpress.com/news/2026-05-brain-scans-reveal-distinct-autism.html",
-        "published_utc": "2026-05-29T19:20:03+00:00",
-        "score": 1,
+        "title": "Calling Doctor GPT: AI responses to health care queries are nearly 76% accurate",
+        "summary": "Artificial intelligence (AI)-powered chatbots respond to everyday health-related questions from general users with nearly 76% accuracy, which raises concerns about their trustworthiness in real-world client-facing applications, according to a new study led by Penn State researchers.",
+        "link": "https://medicalxpress.com/news/2026-05-doctor-gpt-ai-responses-health.html",
+        "published_utc": "2026-05-30T15:00:04+00:00",
+        "score": 2,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/brain-scans-reveal-two.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/calling-doctor-gpt-ai.jpg"
       },
       {
         "section": "medical",
         "kind": "global",
         "source": "Medical Xpress",
-        "title": "RNA therapy for genetic heart failure moves closer to patients after lab gains",
-        "summary": "Using patient-derived cardiac tissue and stem cell-based models, the team of translational researchers demonstrated that targeting the genetic cause of disease improved cellular abnormalities and identified the biological pathways involved. The results of this study were published in Signal Transduction and Targeted Therapy.",
-        "link": "https://medicalxpress.com/news/2026-05-rna-therapy-genetic-heart-failure.html",
-        "published_utc": "2026-05-29T19:00:02+00:00",
-        "score": 3,
+        "title": "Research confirms Rx Kids improved outcomes for Flint babies, families",
+        "summary": "A study published in The Lancet Public Health found that Rx Kids, the nation's first community-wide prenatal and infant cash prescription program, led to significant improvements in birth outcomes for infants born in Flint, Michigan. The program reduced low birthweight and preterm birth rates and prevented admissions to the neonatal intensive care unit, or NICU.",
+        "link": "https://medicalxpress.com/news/2026-05-rx-kids-outcomes-flint-babies.html",
+        "published_utc": "2026-05-30T15:00:03+00:00",
+        "score": 5,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rna-therapy-as-a-novel.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Obesity tied to longer operative time for pediatric adenotonsillectomy",
-        "summary": "Pediatric patients with obesity undergoing adenotonsillectomy (AT) face longer operating times, according to a study published online May 21 in the Ear, Nose & Throat Journal.",
-        "link": "https://medicalxpress.com/news/2026-05-obesity-longer-pediatric-adenotonsillectomy.html",
-        "published_utc": "2026-05-29T18:20:03+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/obesity-tied-to-longer.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Naloxone use during cardiac arrest linked to improved survival",
-        "summary": "A new study by emergency medicine researchers at UC Davis Health set out to assess the effects of naloxone administration by first responders treating patients with out-of-hospital cardiac arrest (OA-OHCA). The study, published in JAMA Network Open, found naloxone administration during resuscitation by emergency medical service (EMS) personnel was associated with improved outcomes in patients with suspected OA-OHCA.",
-        "link": "https://medicalxpress.com/news/2026-05-naloxone-cardiac-linked-survival.html",
-        "published_utc": "2026-05-29T18:20:01+00:00",
-        "score": 4,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2021/naloxone.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Health coaching app helpful for inflammatory bowel disease management",
-        "summary": "Integrating a mobile app with online health coaching into usual care boosts outcomes for inflammatory bowel disease (IBD), according to a study published online April 26 in Crohn's & Colitis 360.",
-        "link": "https://medicalxpress.com/news/2026-05-health-app-inflammatory-bowel-disease.html",
-        "published_utc": "2026-05-29T18:00:04+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/health-coaching-app-he.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Traffic and industrial pollutants tied to chronic rhinosinusitis risk",
-        "summary": "Long-term residential exposure to traffic-related and industry-related pollutants is associated with increased chronic rhinosinusitis (CRS) risk, according to a study published online May 28 in JAMA Otolaryngology-Head & Neck Surgery.",
-        "link": "https://medicalxpress.com/news/2026-05-traffic-industrial-pollutants-chronic-rhinosinusitis.html",
-        "published_utc": "2026-05-29T17:51:45+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/traffic-and-industrial.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Kenyan court blocks Trump's plan to quarantine Ebola patients",
-        "summary": "A Kenyan court has reportedly shut down a plan set in motion by the Trump administration to quarantine Ebola-exposed Americans in Kenya.",
-        "link": "https://medicalxpress.com/news/2026-05-kenyan-court-blocks-trump-quarantine.html",
-        "published_utc": "2026-05-29T17:40:03+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/kenyan-court-blocks-tr.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Device-driven, nurse-led intervention safe but neutral for heart failure outcomes",
-        "summary": "For patients with heart failure, insertable cardiac monitor (ICM)-based high-risk detection combined with centrally managed, nurse-facilitated, individually protocolized diuretic interventions are safe but did not lead to a change in heart failure outcomes, according to a study published online May 27 in the Journal of the American College of Cardiology.",
-        "link": "https://medicalxpress.com/news/2026-05-device-driven-nurse-intervention-safe.html",
-        "published_utc": "2026-05-29T17:20:04+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/device-driven-nurse-le.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "From dish to brain: Researchers chart human glial cell maturation",
-        "summary": "A new study published in Nature Communications shows that human glial progenitor cells are a promising and safe cell product for transplantation. The research also defines the transcriptional and epigenetic signatures of these cells as they mature into astrocytes and oligodendrocytes, two essential support cell types in the brain.",
-        "link": "https://medicalxpress.com/news/2026-05-dish-brain-human-glial-cell.html",
-        "published_utc": "2026-05-29T16:40:06+00:00",
-        "score": 4,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/neuron.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Team develops open-source framework to accelerate health AI research",
-        "summary": "A research team led by Columbia University has developed an open-source framework designed to streamline and accelerate artificial intelligence research using health data, addressing longstanding challenges in data standardization, reproducibility, and collaboration across institutions.",
-        "link": "https://medicalxpress.com/news/2026-05-team-source-framework-health-ai.html",
-        "published_utc": "2026-05-29T16:40:01+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/digital-health.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/infant-2.jpg"
       },
       {
         "section": "medical",
         "kind": "global",
         "source": "ScienceDaily Health",
-        "title": "Scientists boosted one protein and aging mice became stronger and healthier",
-        "summary": "Scientists have identified a protein that appears to put the brakes on the chronic inflammation linked to aging. Older mice with boosted levels of the protein were stronger, more energetic, and had healthier bones than untreated mice. Researchers say the findings could eventually lead to therapies that help people stay healthier and more independent later in life.",
-        "link": "https://www.sciencedaily.com/releases/2026/05/260518041436.htm",
-        "published_utc": "2026-05-19T13:11:02+00:00",
+        "title": "Scientists discover why Ozempic and Wegovy weight loss eventually plateaus",
+        "summary": "New NIH research reveals that semaglutide sparks different responses inside appetite-controlling brain cells, offering fresh insight into why GLP-1 weight-loss drugs don’t work the same for everyone. Scientists also found a possible way to extend the drugs’ effects, potentially helping patients push past weight-loss plateaus.",
+        "link": "https://www.sciencedaily.com/releases/2026/05/260525000453.htm",
+        "published_utc": "2026-05-25T13:39:26+00:00",
+        "score": 2,
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-102bdc32ddf65ace/480/320"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "Scientists discover why some DNA-doubled cells refuse to die",
+        "summary": "Scientists have uncovered a surprising twist in how cells behave when division goes wrong. Sometimes a cell successfully copies its DNA but fails to split into two, leaving it with double the genetic material — a mistake linked to aging, cancer, and other major diseases. Researchers discovered that not all of these failures are equal.",
+        "link": "https://www.sciencedaily.com/releases/2026/05/260523103908.htm",
+        "published_utc": "2026-05-25T10:03:35+00:00",
+        "score": 4,
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-8f706f7b03975b17/480/320"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "Scientists discover why Alzheimer’s risk hits women so much harder",
+        "summary": "Women may be especially sensitive to the effects of common dementia risk factors, according to a new UC San Diego study of over 17,000 adults. Researchers say tailoring prevention strategies specifically for women could be key to reducing Alzheimer’s risk.",
+        "link": "https://www.sciencedaily.com/releases/2026/05/260519224312.htm",
+        "published_utc": "2026-05-20T13:04:32+00:00",
+        "score": 3,
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-cf646c37b92c7ab0/480/320"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "Scientists found a hidden Alzheimer’s trigger and shut it down",
+        "summary": "A newly identified enzyme called IDOL could become a major new target in the fight against Alzheimer’s disease. Researchers found that removing it from neurons sharply reduced amyloid plaques and improved key brain processes linked to resilience and communication between cells. The discovery may lead to future treatments that go beyond slowing Alzheimer’s — potentially helping protect the brain from further decline.",
+        "link": "https://www.sciencedaily.com/releases/2026/05/260519224334.htm",
+        "published_utc": "2026-05-20T12:54:32+00:00",
+        "score": 5,
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-56e809f166855ee4/480/320"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "Scientists use light to create tiny molecules that could transform medicine",
+        "summary": "Researchers have developed a light-driven method for creating tiny, high-energy “housane” molecules that are valuable for drug development and materials science. These compact ring-shaped structures are difficult to produce because of the intense internal strain they contain. By using photocatalysis and carefully tuning the starting molecules, the team managed to guide the reaction into a clean and efficient pathway.",
+        "link": "https://www.sciencedaily.com/releases/2026/05/260519224332.htm",
+        "published_utc": "2026-05-20T10:00:45+00:00",
         "score": 1,
         "freshness_boost": 0,
-        "image": "https://picsum.photos/seed/vb-a5bc465e8c0b8492/480/320"
+        "image": "https://picsum.photos/seed/vb-db6ba276fa2c7464/480/320"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "Positive News",
+        "title": "A new approach to fostering is taking shape in England",
+        "summary": "It takes a village to raise a child, or so the proverb goes. A new approach to fostering is embracing that idea The post A new approach to fostering is taking shape in England appeared first on Positive News .",
+        "link": "https://www.positive.news/lifestyle/a-new-way-into-fostering",
+        "published_utc": "2026-05-19T10:46:08+00:00",
+        "score": 2,
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-b2a2299dfd488b3b/480/320"
       }
     ],
     "science": [
@@ -842,26 +806,14 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Digi24",
-      "title": "Alimentul pe care mulți în consumă în exces și care duce la afectarea memoriei",
-      "summary": "Îmbunătăţirea calităţii alimentaţiei poate stimula memoria, conform unui studiu australian citat marţi de agenţia Xinhua. Totodată anumite alimente sunt „catastrofe” pentru calitatea memoriei.",
-      "link": "https://www.digi24.ro/magazin/stil-de-viata/viata-sanatoasa/alimentul-pe-care-multi-in-consuma-in-exces-si-care-duce-la-afectarea-memoriei-3776315",
-      "published_utc": "2026-05-30T12:41:33+00:00",
+      "source": "RomaniaPozitiva",
+      "title": "4ELEMENTS: (re)Shaping Music: un turneu național la granița dintre tradiție, jazz și inovație tehnologică",
+      "summary": "În perioada 15 iunie – 5 octombrie 2026, turneul național 4ELEMENTS: (re)Shaping Music ajunge în 10 orașe din România, propunând o experiență muzicală care explorează relația dintre tradiție și tehnologie,&#8230; Articolul 4ELEMENTS: (re)Shaping Music: un turneu național la granița dintre tradiție, jazz și inovație tehnologică apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/cultura/4elements-reshaping-music-un-turneu-national-la-granita-dintre-traditie-jazz-si-inovatie-tehnologica",
+      "published_utc": "2026-05-30T14:23:28+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNSUyRjE5JTJGMjczNzk0MF8yNzM3/OTQwX3Byb2ZpbWVkaWEtMTAwNTYzMzk1/Ni5qcGcmaGFzaD0wOGVlYjAzOTk0YTg4OWQ2ZjZiYjcwODNjNzU3NjIxYg==.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Tot mai mulți tineri români vor să învețe șah, ca idolul lor, Andrew Tate",
-      "summary": "Imaginea tinerilor români imbecilizați pentru că stau cu nasul în telefon, nu învață la școală sau au părinți care ascultă EuropaFM, deci e o problemă genetică, ar putea fi una falsă. Datele arată că în societatea românească se naște o nouă generație, pasionată de înbunătățirea continuă, de transformarea în cea mai bună versiune a lor. [&#8230;] The post Tot mai mulți tineri români vor să învețe șah, ca idolul lor, Andrew Tate appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/monden/tot-mai-multi-tineri-romani-vor-sa-invete-sah-ca-idolul-lor-andrew-tate",
-      "published_utc": "2026-05-30T11:17:44+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/andrew-tate-sah.jpg"
+      "image": "https://picsum.photos/seed/vb-636d7fcd579db69a/480/320"
     },
     {
       "section": "romania",
@@ -884,7 +836,7 @@
       "link": "https://www.romaniapozitiva.ro/cultura/de-ziua-copilului-peste-17-000-de-copii-canta-la-ora-copiilor-by-cantus-mundi-in-romania-si-republica-moldova",
       "published_utc": "2026-05-29T15:12:09+00:00",
       "score": 3,
-      "freshness_boost": 3,
+      "freshness_boost": 1,
       "image": "https://picsum.photos/seed/vb-5925a8e2139add95/480/320"
     },
     {
@@ -914,6 +866,18 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 SURSE: Nicușor Dan ia în calcul să-l numească premier pe Stegarul Dac",
+      "summary": "Abia ieșit din ședințele importante privitoare la siguranța țării, președintele Nicușor Dan s-a aplecat asupra problemelor curente ale patriei noastre. Surse din apropierea administrației prezidențiale spun că președintele este în continuare frământat de problema numirii noului premier și se gândește foarte serios să-l numească pe Stegarul Dac în această funcție. Mișcarea ar avea multiple avantaje [&#8230;] The post SURSE: Nicușor Dan ia în calcul să-l numească premier pe Stegarul Dac appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/politic/nicusor-dan-ia-in-calcul-sa-l-numeasca-premier-pe-stegarul-dac",
+      "published_utc": "2026-05-29T14:09:39+00:00",
+      "score": 3,
+      "freshness_boost": 1,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/nicusor-stegarul-dac.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "SOS Satele Copiilor Romania",
       "title": "Asistent Social",
       "summary": "SOS Serviciul de Asistență Comunitară Constanţa Locație: MEDGIDIA, jud. Constanţa Număr de poziții: 2 Contract: full time Grija și încrederea unei familii, emoție pozitivă, zâmbete, suport și încurajare, nevoi de bază îndeplinite și vise transformate... The post Asistent Social appeared first on SOS Satele Copiilor România .",
@@ -939,13 +903,13 @@
       "section": "romania",
       "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 Un milion de unguri trebuie să-și dea demisia de onoare, că au înjurat în gând românii",
-      "summary": "Cine credea că scandalul cu ministrul culturii care a folosit cuvântul cu p… când s-a referit la interesul național s-a terminat se înșeală amarnic. O anchetă făcută de mai multe organizații de patrioți români a scos la iveală că acesta nu este singurul care se crede ungur și nu-i pasă foarte mult de România. &#8222;Din [&#8230;] The post Un milion de unguri trebuie să-și dea demisia de onoare, că au înjurat în gând românii appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/un-milion-de-unguri-trebuie-sa-si-dea-demisia-de-onoare-ca-au-injurat-in-gand-romanii",
-      "published_utc": "2026-05-29T08:50:25+00:00",
+      "title": "😂 Tot mai mulți tineri români vor să învețe șah, ca idolul lor, Andrew Tate",
+      "summary": "Imaginea tinerilor români imbecilizați pentru că stau cu nasul în telefon, nu învață la școală sau au părinți care ascultă EuropaFM, deci e o problemă genetică, ar putea fi una falsă. Datele arată că în societatea românească se naște o nouă generație, pasionată de înbunătățirea continuă, de transformarea în cea mai bună versiune a lor. [&#8230;] The post Tot mai mulți tineri români vor să învețe șah, ca idolul lor, Andrew Tate appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/monden/tot-mai-multi-tineri-romani-vor-sa-invete-sah-ca-idolul-lor-andrew-tate",
+      "published_utc": "2026-05-30T11:17:44+00:00",
       "score": 3,
-      "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2020/07/unguri-fericiti2.jpg"
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/andrew-tate-sah.jpg"
     },
     {
       "section": "romania",
@@ -1035,13 +999,13 @@
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
-      "title": "Brain scans reveal two distinct autism subtypes with different underlying biology",
-      "summary": "An international research team led by Istituto Italiano di Tecnologia (IIT-Italian Institute of Technology) in Rovereto (Trento, Italy) and the Child Mind Institute in New York (U.S.), and in collaboration with researchers from the University of Trento, has shown that it is possible to identify at least two distinct subtypes of autism, defined by their patterns of brain connectivity. In the \"hyperconnectivity\" subtype, brain areas communicate more than usual; in the \"hypoconnectivity\" subtype, communication between brain areas is reduced.",
-      "link": "https://medicalxpress.com/news/2026-05-brain-scans-reveal-distinct-autism.html",
-      "published_utc": "2026-05-29T19:20:03+00:00",
-      "score": 1,
+      "title": "Calling Doctor GPT: AI responses to health care queries are nearly 76% accurate",
+      "summary": "Artificial intelligence (AI)-powered chatbots respond to everyday health-related questions from general users with nearly 76% accuracy, which raises concerns about their trustworthiness in real-world client-facing applications, according to a new study led by Penn State researchers.",
+      "link": "https://medicalxpress.com/news/2026-05-doctor-gpt-ai-responses-health.html",
+      "published_utc": "2026-05-30T15:00:04+00:00",
+      "score": 2,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/brain-scans-reveal-two.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/calling-doctor-gpt-ai.jpg"
     },
     {
       "section": "romania",
@@ -1071,13 +1035,13 @@
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
-      "title": "RNA therapy for genetic heart failure moves closer to patients after lab gains",
-      "summary": "Using patient-derived cardiac tissue and stem cell-based models, the team of translational researchers demonstrated that targeting the genetic cause of disease improved cellular abnormalities and identified the biological pathways involved. The results of this study were published in Signal Transduction and Targeted Therapy.",
-      "link": "https://medicalxpress.com/news/2026-05-rna-therapy-genetic-heart-failure.html",
-      "published_utc": "2026-05-29T19:00:02+00:00",
-      "score": 3,
+      "title": "Research confirms Rx Kids improved outcomes for Flint babies, families",
+      "summary": "A study published in The Lancet Public Health found that Rx Kids, the nation's first community-wide prenatal and infant cash prescription program, led to significant improvements in birth outcomes for infants born in Flint, Michigan. The program reduced low birthweight and preterm birth rates and prevented admissions to the neonatal intensive care unit, or NICU.",
+      "link": "https://medicalxpress.com/news/2026-05-rx-kids-outcomes-flint-babies.html",
+      "published_utc": "2026-05-30T15:00:03+00:00",
+      "score": 5,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rna-therapy-as-a-novel.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/infant-2.jpg"
     },
     {
       "section": "romania",
@@ -1104,16 +1068,16 @@
       "image": "https://picsum.photos/seed/vb-33e3d5688a184f91/480/320"
     },
     {
-      "section": "medical",
+      "section": "science",
       "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Obesity tied to longer operative time for pediatric adenotonsillectomy",
-      "summary": "Pediatric patients with obesity undergoing adenotonsillectomy (AT) face longer operating times, according to a study published online May 21 in the Ear, Nose & Throat Journal.",
-      "link": "https://medicalxpress.com/news/2026-05-obesity-longer-pediatric-adenotonsillectomy.html",
-      "published_utc": "2026-05-29T18:20:03+00:00",
-      "score": 1,
+      "source": "Phys.org",
+      "title": "Rare male red pipefish carrying eggs on its trunk spotted in Sydney",
+      "summary": "The red pipefish (Notiocampus ruber) is a rare relative of seahorses and seadragons found only in Australia.",
+      "link": "https://phys.org/news/2026-05-rare-male-red-pipefish-eggs.html",
+      "published_utc": "2026-05-29T16:20:02+00:00",
+      "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/obesity-tied-to-longer.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rare-male-red-pipefish.jpg"
     },
     {
       "section": "romania",
@@ -1140,16 +1104,16 @@
       "image": "https://picsum.photos/seed/vb-c01ff56684c84200/480/320"
     },
     {
-      "section": "medical",
+      "section": "science",
       "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Naloxone use during cardiac arrest linked to improved survival",
-      "summary": "A new study by emergency medicine researchers at UC Davis Health set out to assess the effects of naloxone administration by first responders treating patients with out-of-hospital cardiac arrest (OA-OHCA). The study, published in JAMA Network Open, found naloxone administration during resuscitation by emergency medical service (EMS) personnel was associated with improved outcomes in patients with suspected OA-OHCA.",
-      "link": "https://medicalxpress.com/news/2026-05-naloxone-cardiac-linked-survival.html",
-      "published_utc": "2026-05-29T18:20:01+00:00",
-      "score": 4,
+      "source": "Phys.org",
+      "title": "How Alaska Native communities navigate a potential $170 billion gold mine",
+      "summary": "Sitting at the northwestern edge of North America, Alaska stretches across a vast Arctic land of wilderness, culture, and wealth beneath the surface. Among its resources is the Donlin Gold deposit, located in southwestern Alaska's Kuskokwim River basin. As one of the world's largest undeveloped gold mines, it holds an estimated 39 million ounces worth more than $170 billion at today's prices.",
+      "link": "https://phys.org/news/2026-05-alaska-native-communities-potential-billion.html",
+      "published_utc": "2026-05-29T16:00:06+00:00",
+      "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2021/naloxone.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-alaska-native-comm.jpg"
     },
     {
       "section": "romania",
@@ -1176,16 +1140,16 @@
       "image": "https://picsum.photos/seed/vb-aee1cf7180726a8a/480/320"
     },
     {
-      "section": "medical",
+      "section": "science",
       "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Health coaching app helpful for inflammatory bowel disease management",
-      "summary": "Integrating a mobile app with online health coaching into usual care boosts outcomes for inflammatory bowel disease (IBD), according to a study published online April 26 in Crohn's & Colitis 360.",
-      "link": "https://medicalxpress.com/news/2026-05-health-app-inflammatory-bowel-disease.html",
-      "published_utc": "2026-05-29T18:00:04+00:00",
+      "source": "Phys.org",
+      "title": "Chromosome model links one steady motor to shape shift needed for cell division",
+      "summary": "It's tricky to make an exact copy of yourself. Or at least it is for cells undergoing mitosis, where cells replicate everything inside of them, including their neatly packaged DNA, then split in half. Rice University professor Peter Wolynes is interested in how the packaged DNA, called a chromosome, changes its structure during replication, going from a ball shape to a cylinder shape that can be transported easily to the daughter cell.",
+      "link": "https://phys.org/news/2026-05-chromosome-links-steady-motor-shift.html",
+      "published_utc": "2026-05-29T16:00:03+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/health-coaching-app-he.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2021/chromosome.jpg"
     },
     {
       "section": "romania",
@@ -1212,16 +1176,16 @@
       "image": "https://picsum.photos/seed/vb-320b221910a8bb40/480/320"
     },
     {
-      "section": "medical",
+      "section": "science",
       "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Traffic and industrial pollutants tied to chronic rhinosinusitis risk",
-      "summary": "Long-term residential exposure to traffic-related and industry-related pollutants is associated with increased chronic rhinosinusitis (CRS) risk, according to a study published online May 28 in JAMA Otolaryngology-Head & Neck Surgery.",
-      "link": "https://medicalxpress.com/news/2026-05-traffic-industrial-pollutants-chronic-rhinosinusitis.html",
-      "published_utc": "2026-05-29T17:51:45+00:00",
-      "score": 1,
+      "source": "Phys.org",
+      "title": "Three astronauts from China return to Earth after nearly 7 months in space, a record for a Chinese crew",
+      "summary": "Three Chinese astronauts returned to Earth on Friday after spending nearly seven months in space, setting a record for the longest on-orbit stay by a Chinese crew.",
+      "link": "https://phys.org/news/2026-05-astronauts-china-earth-months-space.html",
+      "published_utc": "2026-05-29T15:58:03+00:00",
+      "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/traffic-and-industrial.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/3-astronauts-from-chin.jpg"
     },
     {
       "section": "romania",
@@ -1234,102 +1198,6 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-62290e058a5ec56d/480/320"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Kenyan court blocks Trump's plan to quarantine Ebola patients",
-      "summary": "A Kenyan court has reportedly shut down a plan set in motion by the Trump administration to quarantine Ebola-exposed Americans in Kenya.",
-      "link": "https://medicalxpress.com/news/2026-05-kenyan-court-blocks-trump-quarantine.html",
-      "published_utc": "2026-05-29T17:40:03+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/kenyan-court-blocks-tr.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Device-driven, nurse-led intervention safe but neutral for heart failure outcomes",
-      "summary": "For patients with heart failure, insertable cardiac monitor (ICM)-based high-risk detection combined with centrally managed, nurse-facilitated, individually protocolized diuretic interventions are safe but did not lead to a change in heart failure outcomes, according to a study published online May 27 in the Journal of the American College of Cardiology.",
-      "link": "https://medicalxpress.com/news/2026-05-device-driven-nurse-intervention-safe.html",
-      "published_utc": "2026-05-29T17:20:04+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/device-driven-nurse-le.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "From dish to brain: Researchers chart human glial cell maturation",
-      "summary": "A new study published in Nature Communications shows that human glial progenitor cells are a promising and safe cell product for transplantation. The research also defines the transcriptional and epigenetic signatures of these cells as they mature into astrocytes and oligodendrocytes, two essential support cell types in the brain.",
-      "link": "https://medicalxpress.com/news/2026-05-dish-brain-human-glial-cell.html",
-      "published_utc": "2026-05-29T16:40:06+00:00",
-      "score": 4,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/neuron.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Team develops open-source framework to accelerate health AI research",
-      "summary": "A research team led by Columbia University has developed an open-source framework designed to streamline and accelerate artificial intelligence research using health data, addressing longstanding challenges in data standardization, reproducibility, and collaboration across institutions.",
-      "link": "https://medicalxpress.com/news/2026-05-team-source-framework-health-ai.html",
-      "published_utc": "2026-05-29T16:40:01+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/digital-health.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Rare male red pipefish carrying eggs on its trunk spotted in Sydney",
-      "summary": "The red pipefish (Notiocampus ruber) is a rare relative of seahorses and seadragons found only in Australia.",
-      "link": "https://phys.org/news/2026-05-rare-male-red-pipefish-eggs.html",
-      "published_utc": "2026-05-29T16:20:02+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rare-male-red-pipefish.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "How Alaska Native communities navigate a potential $170 billion gold mine",
-      "summary": "Sitting at the northwestern edge of North America, Alaska stretches across a vast Arctic land of wilderness, culture, and wealth beneath the surface. Among its resources is the Donlin Gold deposit, located in southwestern Alaska's Kuskokwim River basin. As one of the world's largest undeveloped gold mines, it holds an estimated 39 million ounces worth more than $170 billion at today's prices.",
-      "link": "https://phys.org/news/2026-05-alaska-native-communities-potential-billion.html",
-      "published_utc": "2026-05-29T16:00:06+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-alaska-native-comm.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Chromosome model links one steady motor to shape shift needed for cell division",
-      "summary": "It's tricky to make an exact copy of yourself. Or at least it is for cells undergoing mitosis, where cells replicate everything inside of them, including their neatly packaged DNA, then split in half. Rice University professor Peter Wolynes is interested in how the packaged DNA, called a chromosome, changes its structure during replication, going from a ball shape to a cylinder shape that can be transported easily to the daughter cell.",
-      "link": "https://phys.org/news/2026-05-chromosome-links-steady-motor-shift.html",
-      "published_utc": "2026-05-29T16:00:03+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2021/chromosome.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Three astronauts from China return to Earth after nearly 7 months in space, a record for a Chinese crew",
-      "summary": "Three Chinese astronauts returned to Earth on Friday after spending nearly seven months in space, setting a record for the longest on-orbit stay by a Chinese crew.",
-      "link": "https://phys.org/news/2026-05-astronauts-china-earth-months-space.html",
-      "published_utc": "2026-05-29T15:58:03+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/3-astronauts-from-chin.jpg"
     },
     {
       "section": "science",
@@ -1563,13 +1431,73 @@
       "section": "medical",
       "kind": "global",
       "source": "ScienceDaily Health",
-      "title": "Scientists boosted one protein and aging mice became stronger and healthier",
-      "summary": "Scientists have identified a protein that appears to put the brakes on the chronic inflammation linked to aging. Older mice with boosted levels of the protein were stronger, more energetic, and had healthier bones than untreated mice. Researchers say the findings could eventually lead to therapies that help people stay healthier and more independent later in life.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260518041436.htm",
-      "published_utc": "2026-05-19T13:11:02+00:00",
+      "title": "Scientists discover why Ozempic and Wegovy weight loss eventually plateaus",
+      "summary": "New NIH research reveals that semaglutide sparks different responses inside appetite-controlling brain cells, offering fresh insight into why GLP-1 weight-loss drugs don’t work the same for everyone. Scientists also found a possible way to extend the drugs’ effects, potentially helping patients push past weight-loss plateaus.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260525000453.htm",
+      "published_utc": "2026-05-25T13:39:26+00:00",
+      "score": 2,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-102bdc32ddf65ace/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "Scientists discover why some DNA-doubled cells refuse to die",
+      "summary": "Scientists have uncovered a surprising twist in how cells behave when division goes wrong. Sometimes a cell successfully copies its DNA but fails to split into two, leaving it with double the genetic material — a mistake linked to aging, cancer, and other major diseases. Researchers discovered that not all of these failures are equal.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260523103908.htm",
+      "published_utc": "2026-05-25T10:03:35+00:00",
+      "score": 4,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-8f706f7b03975b17/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "Scientists discover why Alzheimer’s risk hits women so much harder",
+      "summary": "Women may be especially sensitive to the effects of common dementia risk factors, according to a new UC San Diego study of over 17,000 adults. Researchers say tailoring prevention strategies specifically for women could be key to reducing Alzheimer’s risk.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260519224312.htm",
+      "published_utc": "2026-05-20T13:04:32+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-cf646c37b92c7ab0/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "Scientists found a hidden Alzheimer’s trigger and shut it down",
+      "summary": "A newly identified enzyme called IDOL could become a major new target in the fight against Alzheimer’s disease. Researchers found that removing it from neurons sharply reduced amyloid plaques and improved key brain processes linked to resilience and communication between cells. The discovery may lead to future treatments that go beyond slowing Alzheimer’s — potentially helping protect the brain from further decline.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260519224334.htm",
+      "published_utc": "2026-05-20T12:54:32+00:00",
+      "score": 5,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-56e809f166855ee4/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "Scientists use light to create tiny molecules that could transform medicine",
+      "summary": "Researchers have developed a light-driven method for creating tiny, high-energy “housane” molecules that are valuable for drug development and materials science. These compact ring-shaped structures are difficult to produce because of the intense internal strain they contain. By using photocatalysis and carefully tuning the starting molecules, the team managed to guide the reaction into a clean and efficient pathway.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260519224332.htm",
+      "published_utc": "2026-05-20T10:00:45+00:00",
       "score": 1,
       "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-a5bc465e8c0b8492/480/320"
+      "image": "https://picsum.photos/seed/vb-db6ba276fa2c7464/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Positive News",
+      "title": "A new approach to fostering is taking shape in England",
+      "summary": "It takes a village to raise a child, or so the proverb goes. A new approach to fostering is embracing that idea The post A new approach to fostering is taking shape in England appeared first on Positive News .",
+      "link": "https://www.positive.news/lifestyle/a-new-way-into-fostering",
+      "published_utc": "2026-05-19T10:46:08+00:00",
+      "score": 2,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-b2a2299dfd488b3b/480/320"
     },
     {
       "section": "environment",
@@ -1760,6 +1688,7 @@
       "https://live.staticflickr.com/65535/55284660836_bfe8c8e6ef_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/13852828625_760ab7182a_b.jpg",
       "https://live.staticflickr.com/65535/51254501320_552f4f15b9_b.jpg",
       "https://live.staticflickr.com/8659/27976514723_9fb32737ff_b.jpg",
       "https://live.staticflickr.com/65535/17913833661_3b81a20bcd_b.jpg",
@@ -1776,10 +1705,10 @@
       "https://live.staticflickr.com/65535/17886876976_784911c3f4_b.jpg",
       "https://live.staticflickr.com/7259/13449269204_eacae6ae59_b.jpg",
       "https://live.staticflickr.com/65535/55299489673_679331e6e4_b.jpg",
-      "https://live.staticflickr.com/65535/55290162184_fc63be9a5d_b.jpg",
-      "https://live.staticflickr.com/65535/55280160908_8bc28eaee2_b.jpg"
+      "https://live.staticflickr.com/65535/55290162184_fc63be9a5d_b.jpg"
     ],
     "cities": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/3f/NYC_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg",
       "https://live.staticflickr.com/65535/55302041222_e47cb2f5c9_b.jpg",
       "https://live.staticflickr.com/65535/55302952843_c770943b77_z.jpg",
       "https://live.staticflickr.com/65535/55302997264_899ddef2f9_b.jpg",
@@ -1787,7 +1716,6 @@
       "https://live.staticflickr.com/65535/55302441016_163544c7e8_b.jpg",
       "https://live.staticflickr.com/65535/55302354518_49e53a9889_b.jpg",
       "https://live.staticflickr.com/65535/55302387175_314c66f805_b.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/3/3f/NYC_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg",
       "https://live.staticflickr.com/65535/55301328396_aee6f5fe69_b.jpg",
       "https://live.staticflickr.com/65535/55301062033_b4fff08807_b.jpg",
       "https://live.staticflickr.com/65535/55299588847_449cd61617_b.jpg",
@@ -1800,8 +1728,8 @@
       "https://live.staticflickr.com/65535/55297985358_04e5193242_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
+      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
