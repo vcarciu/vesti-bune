@@ -1,90 +1,150 @@
 {
-  "generated_utc": "2026-06-02T05:21:53+00:00",
+  "generated_utc": "2026-06-02T10:01:10+00:00",
   "sections": {
     "romania": [
       {
         "section": "romania",
         "kind": "ro",
-        "source": "Digi24",
-        "title": "De ce valurile caniculare timpurii sunt mai periculoase decât cele din timpul verii. Avertismentul unui climatolog",
-        "summary": "Valurile timpurii de căldură, care au tendinţa de a deveni mai frecvente, riscă să genereze „un impact mai mare” decât caniculele estivale, a avertizat climatologul francez Cristophe Cassou într-un interviu pentru AFP, în contextul în care temperaturile din Europa de Vest au stabilit noi recorduri pentru luna mai.",
-        "link": "https://www.digi24.ro/stiri/externe/mapamond/de-ce-valurile-caniculare-timpurii-sunt-mai-periculoase-decat-cele-din-timpul-verii-avertismentul-unui-climatolog-3795521",
-        "published_utc": "2026-06-02T04:29:36+00:00",
+        "source": "HotNews",
+        "title": "Compania care a creat AI-ul „prea periculos pentru public” vrea banii publicului",
+        "summary": "De Ziua Copilului, Anthropic a venit cu un cadou pentru fani și proprii investitori: a depus documentația pentru listarea pe bursă. În paralel, este așteptat un pas similar și din partea OpenAI, care ar putea veni cu listarea la bursă mai devreme decât se preconiza inițial. Aceste evenimente mari din industria AI declanșează o adevărată &#8230;",
+        "link": "https://hotnews.ro/compania-care-a-creat-ai-ul-prea-periculos-pentru-public-vrea-banii-publicului-2261678",
+        "published_utc": "2026-06-02T09:49:24+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjQl/MkYwNSUyRjIwJTJGMTk4MDE0MF8xOTgw/MTQwX3NodXR0ZXJzdG9ja18yMDE4NjI3/NTA3LmpwZyZoYXNoPTUxM2MxMGY2NjQ0NzEyNjZkMmFmNjA0Y2Y1YWYzMzZi.jpg"
+        "image": "https://picsum.photos/seed/vb-d1465cb9b657d799/480/320"
       },
       {
         "section": "romania",
         "kind": "ro",
-        "source": "RomaniaPozitiva",
-        "title": "Ziua Copilului celebrată la Casa Kraus din Criț.",
-        "summary": "Casa Kraus din Criț a găzduit un eveniment special dedicat Zilei Copilului, organizat de Fundația Michael Schmidt, la care au participat peste o sută de copii din mai multe sate&#8230; Articolul Ziua Copilului celebrată la Casa Kraus din Criț. apare prima dată în Romania Pozitiva .",
-        "link": "https://www.romaniapozitiva.ro/cultura/ziua-copilului-celebrata-la-casa-kraus-din-crit",
-        "published_utc": "2026-06-01T14:53:21+00:00",
+        "source": "Start-Up Romania",
+        "title": "Marius Istrate, unul dintre cei mai activi investitori angel din România, devine partener la 3VC",
+        "summary": "Fondul european de venture capital 3VC își extinde echipa de conducere și îl numește pe Marius Istrate în poziția de Partner, începând cu 2 iunie 2026. După șase ani în care a colaborat cu fondul...",
+        "link": "https://start-up.ro/marius-istrate-unul-dintre-cei-mai-activi-investitori-angel-din-romania-devine-partener-la-3vc",
+        "published_utc": "2026-06-02T09:48:53+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-f31b104109071429/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "RomaniaPozitiva",
-        "title": "Sondaj World Vision România de Ziua Copilului: aproape un sfert dintre copii și adolescenți consultați spun că adulții îi ascultă rar sau aproape niciodată. Anxietatea și presiunea școlii, principalele probleme ale generației lor",
-        "summary": "București, 1 iunie 2026. Aproape un sfert dintre adolescenții consultați de World Vision România spun că adulții îi ascultă rar sau aproape niciodată, iar 30,8% consideră că problemele emoționale și&#8230; Articolul Sondaj World Vision România de Ziua Copilului: aproape un sfert dintre copii și adolescenți consultați spun că adulții îi ascultă rar sau aproape niciodată. Anxietatea și presiunea școlii, principalele probleme ale generației lor apare prima dată în Romania Pozitiva .",
-        "link": "https://www.romaniapozitiva.ro/oameni-si-comunitati/sondaj-world-vision-romania-de-ziua-copilului-aproape-un-sfert-dintre-copii-si-adolescenti-consultati-spun-ca-adultii-ii-asculta-rar-sau-aproape-niciodata-anxietatea-si-presiunea-scolii-principalel",
-        "published_utc": "2026-06-01T13:24:37+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-0d22d26dcc6405a2/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "RomaniaPozitiva",
-        "title": "Copiii României: radiografie",
-        "summary": "Starea copilului în România: Trei din zece copii români trăiesc în sărăcie, tot mai mulți sunt expuși riscurilor date de lipsa vaccinării, rata mortalității la copiii sub un an crește&#8230; Articolul Copiii României: radiografie apare prima dată în Romania Pozitiva .",
-        "link": "https://www.romaniapozitiva.ro/oameni-si-comunitati/copiii-romaniei-radiografie",
-        "published_utc": "2026-06-01T13:22:57+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-5782fba55427c34e/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "RomaniaPozitiva",
-        "title": "Pe 9 iunie, trupa germană GROZA revine la București pentru un concert pe scena Quantic, alături de Genune și Mauna Sol. Evenimentul aduce împreună trei proiecte din zona black / post-black metal, fiecare cu o direcție proprie.",
-        "summary": "GROZA, trupă germană de black metal din Bavaria, revine la București cu cel mai recent album, „Nadir” (2024), după peste 120 de concerte susținute în peste 20 de țări. În&#8230; Articolul Pe 9 iunie, trupa germană GROZA revine la București pentru un concert pe scena Quantic, alături de Genune și Mauna Sol. Evenimentul aduce împreună trei proiecte din zona black / post-black metal, fiecare cu o direcție proprie. apare prima dată în Romania Pozitiva .",
-        "link": "https://www.romaniapozitiva.ro/bucuresti/pe-9-iunie-trupa-germana-groza-revine-la-bucuresti-pentru-un-concert-pe-scena-quantic-alaturi-de-genune-si-mauna-sol-evenimentul-aduce-impreuna-trei-proiecte-din-zona-black-post-black-metal-fiec",
-        "published_utc": "2026-06-01T13:17:07+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-8a42b991ee3c61ac/480/320"
+        "image": "https://start-up.ro/img/articles/3/8/4/38466/cover-38466-src.jpg"
       },
       {
         "section": "romania",
         "kind": "ro",
         "source": "Times New Roman (Satira)",
-        "title": "😂 Credeai că Loredana pare tânără? Lui Nea Costel încă îi cer buletinul când îşi ia bere la birt!",
-        "summary": "Vuiesc tabloidele de frumuseţea fără bătrâneţe a Loredanei Groza, bomba sexi despre care toţi oamenii dotaţi cu ochi spun că &#8222;arată mai bine decât în 1935, când avea 20 de ani&#8221;! Dar artista nu e singura al cărei look proaspăt nu lasă să se citească vreo vârstă! Nea Costel, îndrăgitul drojdier al Pieţei Crângaşi, spune [&#8230;] The post Credeai că Loredana pare tânără? Lui Nea Costel încă îi cer buletinul când îşi ia bere la birt! appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/monden/credeai-ca-loredana-pare-tanara-lui-nea-costel-inca-ii-cer-buletinul-cand-isi-ia-bere-la-birt",
-        "published_utc": "2026-06-01T10:11:00+00:00",
+        "title": "😂 A început golirea lacului de pe amplasamentul viitorului Herăstrău Residence",
+        "summary": "Veşti bune pentru bucureştenii sătui să miroasă flori împuţite, să asculte pleoscăitul enervant al peştilor în apă şi să calce pe iarbă aspră şi tăioasă! Primăria Capitalei anunţă că în această seară începe, în sfârşit, golirea lacului de pe amplasamentul viitorului megacomplex Herăstrău Residence. &#8222;Lucrările presupun golirea lacului, alungarea raţelor, otrăvirea sălciilor, greblarea peştilor, săparea [&#8230;] The post A început golirea lacului de pe amplasamentul viitorului Herăstrău Residence appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/life-death/a-inceput-golirea-lacului-de-pe-amplasamentul-viitorului-herastrau-residence",
+        "published_utc": "2026-06-02T09:40:46+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/neacostelloredana.jpg"
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/06/herastrauresidence.jpg"
       },
       {
         "section": "romania",
         "kind": "ro",
         "source": "RomaniaPozitiva",
-        "title": "Ce vezi la cinema de 1 iunie: aventuri, animații și povești pentru întreaga familie",
-        "summary": "De Ziua Copilului, marele ecran devine locul unde aventurile încep, eroii prind viață, iar timpul petrecut împreună chiar contează. Pe 1 iunie, la Happy Cinema, copilăria vine cu aventuri cosmice,&#8230; Articolul Ce vezi la cinema de 1 iunie: aventuri, animații și povești pentru întreaga familie apare prima dată în Romania Pozitiva .",
-        "link": "https://www.romaniapozitiva.ro/cultura/ce-vezi-la-cinema-de-1-iunie-aventuri-animatii-si-povesti-pentru-intreaga-familie",
-        "published_utc": "2026-06-01T06:44:32+00:00",
+        "title": "PENNY e B.F.F.-ul tău de alergare la Sinaia Mountain Run  by Constantina Diță",
+        "summary": "PENNY România va fi Partenerul Principal al competiției Sinaia Mountain Run by Constantina Diță. Evenimentul, care va avea loc sâmbătă, 27 iunie 2026, este organizat în decorul natural al stațiunii&#8230; Articolul PENNY e B.F.F.-ul tău de alergare la Sinaia Mountain Run by Constantina Diță apare prima dată în Romania Pozitiva .",
+        "link": "https://www.romaniapozitiva.ro/sport/penny-e-b-f-f-ul-tau-de-alergare-la-sinaia-mountain-run-by-constantina-dita",
+        "published_utc": "2026-06-02T09:21:19+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-2eece353285c9f61/480/320"
+        "image": "https://picsum.photos/seed/vb-e1bb820341b1b593/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "RomaniaPozitiva",
+        "title": "Anansi. World Fiction la Bookfest 2026: număr record de traduceri",
+        "summary": "Peste 20 de titluri noi și autori importanți precum Gheorghi Gospodinov și Elena Alexieva, prezenți la lansări și la evenimentele ediției. La Bookfest 2026, imprintul Anansi. World Fiction aduce în&#8230; Articolul Anansi. World Fiction la Bookfest 2026: număr record de traduceri apare prima dată în Romania Pozitiva .",
+        "link": "https://www.romaniapozitiva.ro/carte-despre-romania/anansi-world-fiction-la-bookfest-2026-numar-record-de-traduceri",
+        "published_utc": "2026-06-02T09:16:04+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-1a8ba345b3e1532e/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Sindicaliștii din casele de pensii cer modificarea legii salarizării: Nu se poate construi un sistem modern dacă păstrăm dezechilibrele",
+        "summary": "Federaţia Naţională Solidaritatea Socială a Muncii (FNSSM), afiliată Blocului Naţional Sindical, solicită modificarea proiectului noii Legi a salarizării personalului plătit din fonduri publice şi avertizează că forma actuală a proiectului generează diminuări salariale pentru salariaţii din casele teritoriale de pensii, riscă să menţină inechităţile salariale existente şi să afecteze puterea de cumpărare a salariaţilor. Sindicaliştii solicită mecanisme clare care să conducă la uniformizarea salarizării pentru funcţii identice sau similare şi la eliminarea diferenţelor salariale generate de interpretări şi aplicări neunitare ale legislaţiei anterioare.",
+        "link": "https://www.digi24.ro/stiri/actualitate/social/sindicalistii-din-casele-de-pensii-cer-modificarea-legii-salarizarii-nu-se-poate-construi-un-sistem-modern-daca-pastram-dezechilibrele-3796111",
+        "published_utc": "2026-06-02T08:51:42+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNSUyRjAyJTJGMjcwNTQwMF8yNzA1/NDAwX2JhbmNub3RlLTEwMC1kZS1sZWkt/YmFuaV9zaHV0dGVyc3RvY2tfNDMxNjg3/OTM1LmpwZyZoYXNoPTNmMzM4ZjA3MWJhZTZjMTVjMjNmMDc3YjQ1ZDBmN2Y2.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "RomaniaPozitiva",
+        "title": "Caiac SMile a continuat tradiția participării la Zilele Clujului cu lecții gratuite de caiac pe lacul Chios și demonstrații de echipamente sportive dedicate persoanelor cu dizabilități",
+        "summary": "Luna iunie vine cu noi oportunități de a face sport pentru persoanele cu dizabilități: competiția NO LIMITS, în cadrul .msg Maraton Apuseni, dedicată persoanelor cu dizabilități locomotorii plus o nouă&#8230; Articolul Caiac SMile a continuat tradiția participării la Zilele Clujului cu lecții gratuite de caiac pe lacul Chios și demonstrații de echipamente sportive dedicate persoanelor cu dizabilități apare prima dată în Romania Pozitiva .",
+        "link": "https://www.romaniapozitiva.ro/sport/caiac-smile-a-continuat-traditia-participarii-la-zilele-clujului-cu-lectii-gratuite-de-caiac-pe-lacul-chios-si-demonstratii-de-echipamente-sportive-dedicate-persoanelor-cu-dizabilitati",
+        "published_utc": "2026-06-02T08:37:44+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-e50749106d3cb56b/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "RomaniaPozitiva",
+        "title": "Filarmonica Brașov începe luna iunie cu muzică pentru copii și continuă cu evenimente de excepție",
+        "summary": "Luna iunie debutează la Filarmonica Brașov cu o serie de evenimente dedicate copiilor și tinerilor muzicieni, urmate de câteva dintre cele mai așteptate concerte ale finalului de stagiune. Luni dimineață,&#8230; Articolul Filarmonica Brașov începe luna iunie cu muzică pentru copii și continuă cu evenimente de excepție apare prima dată în Romania Pozitiva .",
+        "link": "https://www.romaniapozitiva.ro/cultura/filarmonica-brasov-incepe-luna-iunie-cu-muzica-pentru-copii-si-continua-cu-evenimente-de-exceptie",
+        "published_utc": "2026-06-02T08:34:33+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-66eeb178ab73633e/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "RomaniaPozitiva",
+        "title": "Elevii care transformă inteligența artificială în soluții pentru comunitate au fost premiați la 3DUTECH 2026",
+        "summary": "Conferința Națională 3DUTECH 2026 a desemnat vineri, 29 mai, la București, câștigătorii celei mai mari competiții școlare de inteligență artificială din țară. Din zece echipe finaliste venite din nouă orașe,&#8230; Articolul Elevii care transformă inteligența artificială în soluții pentru comunitate au fost premiați la 3DUTECH 2026 apare prima dată în Romania Pozitiva .",
+        "link": "https://www.romaniapozitiva.ro/bucuresti/elevii-care-transforma-inteligenta-artificiala-in-solutii-pentru-comunitate-au-fost-premiati-la-3dutech-2026",
+        "published_utc": "2026-06-02T08:32:18+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-3545a6ce10790880/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "RomaniaPozitiva",
+        "title": "Cărturești aduce la Bookfest un format nou de eveniment: dialoguri unu la unu cu scriitori și 20 de experiențe literare",
+        "summary": "Cu 62 de librării în România și în Republica Moldova, Cărturești participă la Bookfest, cel mai mare târg de carte din țară, cu un program de peste 20 de evenimente&#8230; Articolul Cărturești aduce la Bookfest un format nou de eveniment: dialoguri unu la unu cu scriitori și 20 de experiențe literare apare prima dată în Romania Pozitiva .",
+        "link": "https://www.romaniapozitiva.ro/bucuresti/carturesti-aduce-la-bookfest-un-format-nou-de-eveniment-dialoguri-unu-la-unu-cu-scriitori-si-20-de-experiente-literare",
+        "published_utc": "2026-06-02T07:37:03+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-8a968e0c71c6b745/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "România bate pasul pe loc: niciun kilometru nou de autostradă inaugurat în 2026. Speranțe pentru 250 km până la finalul anului",
+        "summary": "România n-a inaugurat nici măcar un kilometru de autostradă anul acesta, deși reprezentanții ministerului Transporturilor s-au lăudat cu faptul că 2026 ar putea fi un an istoric din acest punct de vedere. În primele 5 luni nu a fost tăiată nici o panglică. Țara noastră are doar 1.400 km de drumuri de mare viteză.",
+        "link": "https://www.digi24.ro/stiri/economie/transporturi/romania-bate-pasul-pe-loc-niciun-kilometru-nou-de-autostrada-inaugurat-in-2026-sperante-pentru-250-km-pana-la-finalul-anului-3795797",
+        "published_utc": "2026-06-02T06:27:39+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMyUyRjA5JTJGMjYzMDYyMl8yNjMw/NjIyX2F1dG9zdHJhZGEtYTAuanBnJmhh/c2g9MzM4NzU2MjEzNGJiNzFmNTRkYzg4MTZiZTI3OGFhZjU=.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Silvicultorii cer ca veniturile lor să fie protejate: „Noua lege a salarizării va conduce la reducerea lor cu 25%”",
+        "summary": "Federația Silva solicită eliminarea din noua lege a salarizării unitare prevederea care anulează compensarea fostului spor de risc prevăzută de Codul silvic, de 25% din salariul de bază.",
+        "link": "https://www.digi24.ro/stiri/actualitate/social/silvicultorii-cer-ca-veniturile-lor-sa-fie-protejate-noua-lege-a-salarizarii-va-conduce-la-reducerea-lor-cu-25-3795793",
+        "published_utc": "2026-06-02T06:19:43+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMiUyRjEyJTJGMjU4OTg1Nl8yNTg5/ODU2X3JvbXNpbHZhLWVjdXNvbi1pbnF1/YW0tZ2VvcmdlLWNhbGluLmpwZyZoYXNo/PTk1MDBhOWIzNGRjNTYzYTJlNjc3ZmY3YTQ2YjZkNDU2.jpg"
       },
       {
         "section": "romania",
@@ -95,20 +155,20 @@
         "link": "https://www.timesnewroman.ro/politic/azi-au-ajuns-la-mapn-dosarele-cu-sina-pentru-aprobarea-doborarii-dronei-de-vineri-din-galati",
         "published_utc": "2026-06-01T06:39:55+00:00",
         "score": 3,
-        "freshness_boost": 3,
+        "freshness_boost": 1,
         "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/06/dosare_multe.jpg"
       },
       {
         "section": "romania",
         "kind": "ro",
         "source": "Times New Roman (Satira)",
-        "title": "😂 Pe fondul sărăciei, BOR acceptă să fii îngropat cu șlapi și pantaloni scurți",
-        "summary": "Sărăcia accentuată a populației, mai ales a celei care era deja săracă, se simte și în cazul ritualilor religioase. Cum tot mai mulți români mor săraci lipiți, sinodul BOR a luat decizia, și a transmis-o tuturor parohiilor, de a permite îngroparea mortului chiar dacă acesta nu e îmbrăcat la costum. Astfel, românii vor putea fi [&#8230;] The post Pe fondul sărăciei, BOR acceptă să fii îngropat cu șlapi și pantaloni scurți appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/life-death/pe-fondul-saraciei-bor-accepta-sa-fii-ingropat-cu-slapi-si-pantaloni-scurti",
-        "published_utc": "2026-05-31T07:26:02+00:00",
+        "title": "😂 Cuplu de români reveniți din concediu: el a adus hantavirus, ea ebola",
+        "summary": "Vremea când românii plecau în străinătate și veneau înapoi acasă cu magneți de frigider a apus de mult. Acum turiștii se reîntorc cu cadouri de neuitat, care nu se vor umple de praf undeva într-un sertar sau într-un beci neaerisit. Iuliu și Maria Pavel sunt un cuplu de români care au venit dintr-o excurisie cu [&#8230;] The post Cuplu de români reveniți din concediu: el a adus hantavirus, ea ebola appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/monden/cuplu-de-romani-reveniti-din-concediu-el-a-adus-hantavirus-ea-ebola",
+        "published_utc": "2026-05-31T10:47:18+00:00",
         "score": 3,
         "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/sicriu-slapi.jpg"
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/romani-africa.jpg"
       },
       {
         "section": "romania",
@@ -121,6 +181,18 @@
         "score": 3,
         "freshness_boost": 0,
         "image": "https://picsum.photos/seed/vb-6e5956eb57d9107d/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Green Start-Up Romania",
+        "title": "MAN prezintă noul eTGM, destinat transportului regional de marfă",
+        "summary": "MAN Truck &amp; Bus a prezentat un nou camion electric de 16 tone destinat distribuției urbane și transportului regional. Modelul eTGM 16 este echipat cu baterii litiu-ion și oferă o autonomie de până...",
+        "link": "https://green.start-up.ro/ro/man-prezinta-noul-etgm-destinat-transportului-regional-de-marfa",
+        "published_utc": "2026-05-28T05:00:01+00:00",
+        "score": 3,
+        "freshness_boost": 0,
+        "image": "https://green.start-up.ro/img/articles/3/5/9/35921/cover-35921-src.jpg"
       },
       {
         "section": "romania",
@@ -794,98 +866,170 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Credeai că Loredana pare tânără? Lui Nea Costel încă îi cer buletinul când îşi ia bere la birt!",
-      "summary": "Vuiesc tabloidele de frumuseţea fără bătrâneţe a Loredanei Groza, bomba sexi despre care toţi oamenii dotaţi cu ochi spun că &#8222;arată mai bine decât în 1935, când avea 20 de ani&#8221;! Dar artista nu e singura al cărei look proaspăt nu lasă să se citească vreo vârstă! Nea Costel, îndrăgitul drojdier al Pieţei Crângaşi, spune [&#8230;] The post Credeai că Loredana pare tânără? Lui Nea Costel încă îi cer buletinul când îşi ia bere la birt! appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/monden/credeai-ca-loredana-pare-tanara-lui-nea-costel-inca-ii-cer-buletinul-cand-isi-ia-bere-la-birt",
-      "published_utc": "2026-06-01T10:11:00+00:00",
+      "source": "HotNews",
+      "title": "Compania care a creat AI-ul „prea periculos pentru public” vrea banii publicului",
+      "summary": "De Ziua Copilului, Anthropic a venit cu un cadou pentru fani și proprii investitori: a depus documentația pentru listarea pe bursă. În paralel, este așteptat un pas similar și din partea OpenAI, care ar putea veni cu listarea la bursă mai devreme decât se preconiza inițial. Aceste evenimente mari din industria AI declanșează o adevărată &#8230;",
+      "link": "https://hotnews.ro/compania-care-a-creat-ai-ul-prea-periculos-pentru-public-vrea-banii-publicului-2261678",
+      "published_utc": "2026-06-02T09:49:24+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/neacostelloredana.jpg"
+      "image": "https://picsum.photos/seed/vb-d1465cb9b657d799/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Start-Up Romania",
+      "title": "Marius Istrate, unul dintre cei mai activi investitori angel din România, devine partener la 3VC",
+      "summary": "Fondul european de venture capital 3VC își extinde echipa de conducere și îl numește pe Marius Istrate în poziția de Partner, începând cu 2 iunie 2026. După șase ani în care a colaborat cu fondul...",
+      "link": "https://start-up.ro/marius-istrate-unul-dintre-cei-mai-activi-investitori-angel-din-romania-devine-partener-la-3vc",
+      "published_utc": "2026-06-02T09:48:53+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://start-up.ro/img/articles/3/8/4/38466/cover-38466-src.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "RomaniaPozitiva",
+      "title": "PENNY e B.F.F.-ul tău de alergare la Sinaia Mountain Run  by Constantina Diță",
+      "summary": "PENNY România va fi Partenerul Principal al competiției Sinaia Mountain Run by Constantina Diță. Evenimentul, care va avea loc sâmbătă, 27 iunie 2026, este organizat în decorul natural al stațiunii&#8230; Articolul PENNY e B.F.F.-ul tău de alergare la Sinaia Mountain Run by Constantina Diță apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/sport/penny-e-b-f-f-ul-tau-de-alergare-la-sinaia-mountain-run-by-constantina-dita",
+      "published_utc": "2026-06-02T09:21:19+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-e1bb820341b1b593/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "RomaniaPozitiva",
+      "title": "Anansi. World Fiction la Bookfest 2026: număr record de traduceri",
+      "summary": "Peste 20 de titluri noi și autori importanți precum Gheorghi Gospodinov și Elena Alexieva, prezenți la lansări și la evenimentele ediției. La Bookfest 2026, imprintul Anansi. World Fiction aduce în&#8230; Articolul Anansi. World Fiction la Bookfest 2026: număr record de traduceri apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/carte-despre-romania/anansi-world-fiction-la-bookfest-2026-numar-record-de-traduceri",
+      "published_utc": "2026-06-02T09:16:04+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-1a8ba345b3e1532e/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 A început golirea lacului de pe amplasamentul viitorului Herăstrău Residence",
+      "summary": "Veşti bune pentru bucureştenii sătui să miroasă flori împuţite, să asculte pleoscăitul enervant al peştilor în apă şi să calce pe iarbă aspră şi tăioasă! Primăria Capitalei anunţă că în această seară începe, în sfârşit, golirea lacului de pe amplasamentul viitorului megacomplex Herăstrău Residence. &#8222;Lucrările presupun golirea lacului, alungarea raţelor, otrăvirea sălciilor, greblarea peştilor, săparea [&#8230;] The post A început golirea lacului de pe amplasamentul viitorului Herăstrău Residence appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/life-death/a-inceput-golirea-lacului-de-pe-amplasamentul-viitorului-herastrau-residence",
+      "published_utc": "2026-06-02T09:40:46+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/06/herastrauresidence.jpg"
     },
     {
       "section": "romania",
       "kind": "ro",
       "source": "Digi24",
-      "title": "De ce valurile caniculare timpurii sunt mai periculoase decât cele din timpul verii. Avertismentul unui climatolog",
-      "summary": "Valurile timpurii de căldură, care au tendinţa de a deveni mai frecvente, riscă să genereze „un impact mai mare” decât caniculele estivale, a avertizat climatologul francez Cristophe Cassou într-un interviu pentru AFP, în contextul în care temperaturile din Europa de Vest au stabilit noi recorduri pentru luna mai.",
-      "link": "https://www.digi24.ro/stiri/externe/mapamond/de-ce-valurile-caniculare-timpurii-sunt-mai-periculoase-decat-cele-din-timpul-verii-avertismentul-unui-climatolog-3795521",
-      "published_utc": "2026-06-02T04:29:36+00:00",
+      "title": "Sindicaliștii din casele de pensii cer modificarea legii salarizării: Nu se poate construi un sistem modern dacă păstrăm dezechilibrele",
+      "summary": "Federaţia Naţională Solidaritatea Socială a Muncii (FNSSM), afiliată Blocului Naţional Sindical, solicită modificarea proiectului noii Legi a salarizării personalului plătit din fonduri publice şi avertizează că forma actuală a proiectului generează diminuări salariale pentru salariaţii din casele teritoriale de pensii, riscă să menţină inechităţile salariale existente şi să afecteze puterea de cumpărare a salariaţilor. Sindicaliştii solicită mecanisme clare care să conducă la uniformizarea salarizării pentru funcţii identice sau similare şi la eliminarea diferenţelor salariale generate de interpretări şi aplicări neunitare ale legislaţiei anterioare.",
+      "link": "https://www.digi24.ro/stiri/actualitate/social/sindicalistii-din-casele-de-pensii-cer-modificarea-legii-salarizarii-nu-se-poate-construi-un-sistem-modern-daca-pastram-dezechilibrele-3796111",
+      "published_utc": "2026-06-02T08:51:42+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjQl/MkYwNSUyRjIwJTJGMTk4MDE0MF8xOTgw/MTQwX3NodXR0ZXJzdG9ja18yMDE4NjI3/NTA3LmpwZyZoYXNoPTUxM2MxMGY2NjQ0NzEyNjZkMmFmNjA0Y2Y1YWYzMzZi.jpg"
+      "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNSUyRjAyJTJGMjcwNTQwMF8yNzA1/NDAwX2JhbmNub3RlLTEwMC1kZS1sZWkt/YmFuaV9zaHV0dGVyc3RvY2tfNDMxNjg3/OTM1LmpwZyZoYXNoPTNmMzM4ZjA3MWJhZTZjMTVjMjNmMDc3YjQ1ZDBmN2Y2.jpg"
     },
     {
       "section": "romania",
       "kind": "ro",
       "source": "RomaniaPozitiva",
-      "title": "Ziua Copilului celebrată la Casa Kraus din Criț.",
-      "summary": "Casa Kraus din Criț a găzduit un eveniment special dedicat Zilei Copilului, organizat de Fundația Michael Schmidt, la care au participat peste o sută de copii din mai multe sate&#8230; Articolul Ziua Copilului celebrată la Casa Kraus din Criț. apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/cultura/ziua-copilului-celebrata-la-casa-kraus-din-crit",
-      "published_utc": "2026-06-01T14:53:21+00:00",
+      "title": "Caiac SMile a continuat tradiția participării la Zilele Clujului cu lecții gratuite de caiac pe lacul Chios și demonstrații de echipamente sportive dedicate persoanelor cu dizabilități",
+      "summary": "Luna iunie vine cu noi oportunități de a face sport pentru persoanele cu dizabilități: competiția NO LIMITS, în cadrul .msg Maraton Apuseni, dedicată persoanelor cu dizabilități locomotorii plus o nouă&#8230; Articolul Caiac SMile a continuat tradiția participării la Zilele Clujului cu lecții gratuite de caiac pe lacul Chios și demonstrații de echipamente sportive dedicate persoanelor cu dizabilități apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/sport/caiac-smile-a-continuat-traditia-participarii-la-zilele-clujului-cu-lectii-gratuite-de-caiac-pe-lacul-chios-si-demonstratii-de-echipamente-sportive-dedicate-persoanelor-cu-dizabilitati",
+      "published_utc": "2026-06-02T08:37:44+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-f31b104109071429/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "Sondaj World Vision România de Ziua Copilului: aproape un sfert dintre copii și adolescenți consultați spun că adulții îi ascultă rar sau aproape niciodată. Anxietatea și presiunea școlii, principalele probleme ale generației lor",
-      "summary": "București, 1 iunie 2026. Aproape un sfert dintre adolescenții consultați de World Vision România spun că adulții îi ascultă rar sau aproape niciodată, iar 30,8% consideră că problemele emoționale și&#8230; Articolul Sondaj World Vision România de Ziua Copilului: aproape un sfert dintre copii și adolescenți consultați spun că adulții îi ascultă rar sau aproape niciodată. Anxietatea și presiunea școlii, principalele probleme ale generației lor apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/oameni-si-comunitati/sondaj-world-vision-romania-de-ziua-copilului-aproape-un-sfert-dintre-copii-si-adolescenti-consultati-spun-ca-adultii-ii-asculta-rar-sau-aproape-niciodata-anxietatea-si-presiunea-scolii-principalel",
-      "published_utc": "2026-06-01T13:24:37+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-0d22d26dcc6405a2/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "Copiii României: radiografie",
-      "summary": "Starea copilului în România: Trei din zece copii români trăiesc în sărăcie, tot mai mulți sunt expuși riscurilor date de lipsa vaccinării, rata mortalității la copiii sub un an crește&#8230; Articolul Copiii României: radiografie apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/oameni-si-comunitati/copiii-romaniei-radiografie",
-      "published_utc": "2026-06-01T13:22:57+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-5782fba55427c34e/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "Pe 9 iunie, trupa germană GROZA revine la București pentru un concert pe scena Quantic, alături de Genune și Mauna Sol. Evenimentul aduce împreună trei proiecte din zona black / post-black metal, fiecare cu o direcție proprie.",
-      "summary": "GROZA, trupă germană de black metal din Bavaria, revine la București cu cel mai recent album, „Nadir” (2024), după peste 120 de concerte susținute în peste 20 de țări. În&#8230; Articolul Pe 9 iunie, trupa germană GROZA revine la București pentru un concert pe scena Quantic, alături de Genune și Mauna Sol. Evenimentul aduce împreună trei proiecte din zona black / post-black metal, fiecare cu o direcție proprie. apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/bucuresti/pe-9-iunie-trupa-germana-groza-revine-la-bucuresti-pentru-un-concert-pe-scena-quantic-alaturi-de-genune-si-mauna-sol-evenimentul-aduce-impreuna-trei-proiecte-din-zona-black-post-black-metal-fiec",
-      "published_utc": "2026-06-01T13:17:07+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-8a42b991ee3c61ac/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "Ce vezi la cinema de 1 iunie: aventuri, animații și povești pentru întreaga familie",
-      "summary": "De Ziua Copilului, marele ecran devine locul unde aventurile încep, eroii prind viață, iar timpul petrecut împreună chiar contează. Pe 1 iunie, la Happy Cinema, copilăria vine cu aventuri cosmice,&#8230; Articolul Ce vezi la cinema de 1 iunie: aventuri, animații și povești pentru întreaga familie apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/cultura/ce-vezi-la-cinema-de-1-iunie-aventuri-animatii-si-povesti-pentru-intreaga-familie",
-      "published_utc": "2026-06-01T06:44:32+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-2eece353285c9f61/480/320"
+      "image": "https://picsum.photos/seed/vb-e50749106d3cb56b/480/320"
     },
     {
       "section": "romania",
       "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 Pe fondul sărăciei, BOR acceptă să fii îngropat cu șlapi și pantaloni scurți",
-      "summary": "Sărăcia accentuată a populației, mai ales a celei care era deja săracă, se simte și în cazul ritualilor religioase. Cum tot mai mulți români mor săraci lipiți, sinodul BOR a luat decizia, și a transmis-o tuturor parohiilor, de a permite îngroparea mortului chiar dacă acesta nu e îmbrăcat la costum. Astfel, românii vor putea fi [&#8230;] The post Pe fondul sărăciei, BOR acceptă să fii îngropat cu șlapi și pantaloni scurți appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/pe-fondul-saraciei-bor-accepta-sa-fii-ingropat-cu-slapi-si-pantaloni-scurti",
-      "published_utc": "2026-05-31T07:26:02+00:00",
+      "title": "😂 Azi au ajuns la MApN dosarele cu șină pentru aprobarea doborârii dronei de vineri din Galați",
+      "summary": "Autoritățile s-au pus serios pe treabă și au reușit într-un timp record să completeze dosarele cu șină care sunt obligatorii pentru orice doborâre de dronă. Nu mai durează mult și se va da acordul pentru doborârea dronei rușești care a intrat vineri la primele ore pe teritoriul țării noastre și a căzut pe un bloc [&#8230;] The post Azi au ajuns la MApN dosarele cu șină pentru aprobarea doborârii dronei de vineri din Galați appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/politic/azi-au-ajuns-la-mapn-dosarele-cu-sina-pentru-aprobarea-doborarii-dronei-de-vineri-din-galati",
+      "published_utc": "2026-06-01T06:39:55+00:00",
       "score": 3,
       "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/sicriu-slapi.jpg"
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/06/dosare_multe.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "RomaniaPozitiva",
+      "title": "Filarmonica Brașov începe luna iunie cu muzică pentru copii și continuă cu evenimente de excepție",
+      "summary": "Luna iunie debutează la Filarmonica Brașov cu o serie de evenimente dedicate copiilor și tinerilor muzicieni, urmate de câteva dintre cele mai așteptate concerte ale finalului de stagiune. Luni dimineață,&#8230; Articolul Filarmonica Brașov începe luna iunie cu muzică pentru copii și continuă cu evenimente de excepție apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/cultura/filarmonica-brasov-incepe-luna-iunie-cu-muzica-pentru-copii-si-continua-cu-evenimente-de-exceptie",
+      "published_utc": "2026-06-02T08:34:33+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-66eeb178ab73633e/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "RomaniaPozitiva",
+      "title": "Elevii care transformă inteligența artificială în soluții pentru comunitate au fost premiați la 3DUTECH 2026",
+      "summary": "Conferința Națională 3DUTECH 2026 a desemnat vineri, 29 mai, la București, câștigătorii celei mai mari competiții școlare de inteligență artificială din țară. Din zece echipe finaliste venite din nouă orașe,&#8230; Articolul Elevii care transformă inteligența artificială în soluții pentru comunitate au fost premiați la 3DUTECH 2026 apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/bucuresti/elevii-care-transforma-inteligenta-artificiala-in-solutii-pentru-comunitate-au-fost-premiati-la-3dutech-2026",
+      "published_utc": "2026-06-02T08:32:18+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-3545a6ce10790880/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "RomaniaPozitiva",
+      "title": "Cărturești aduce la Bookfest un format nou de eveniment: dialoguri unu la unu cu scriitori și 20 de experiențe literare",
+      "summary": "Cu 62 de librării în România și în Republica Moldova, Cărturești participă la Bookfest, cel mai mare târg de carte din țară, cu un program de peste 20 de evenimente&#8230; Articolul Cărturești aduce la Bookfest un format nou de eveniment: dialoguri unu la unu cu scriitori și 20 de experiențe literare apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/bucuresti/carturesti-aduce-la-bookfest-un-format-nou-de-eveniment-dialoguri-unu-la-unu-cu-scriitori-si-20-de-experiente-literare",
+      "published_utc": "2026-06-02T07:37:03+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-8a968e0c71c6b745/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "România bate pasul pe loc: niciun kilometru nou de autostradă inaugurat în 2026. Speranțe pentru 250 km până la finalul anului",
+      "summary": "România n-a inaugurat nici măcar un kilometru de autostradă anul acesta, deși reprezentanții ministerului Transporturilor s-au lăudat cu faptul că 2026 ar putea fi un an istoric din acest punct de vedere. În primele 5 luni nu a fost tăiată nici o panglică. Țara noastră are doar 1.400 km de drumuri de mare viteză.",
+      "link": "https://www.digi24.ro/stiri/economie/transporturi/romania-bate-pasul-pe-loc-niciun-kilometru-nou-de-autostrada-inaugurat-in-2026-sperante-pentru-250-km-pana-la-finalul-anului-3795797",
+      "published_utc": "2026-06-02T06:27:39+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMyUyRjA5JTJGMjYzMDYyMl8yNjMw/NjIyX2F1dG9zdHJhZGEtYTAuanBnJmhh/c2g9MzM4NzU2MjEzNGJiNzFmNTRkYzg4MTZiZTI3OGFhZjU=.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Silvicultorii cer ca veniturile lor să fie protejate: „Noua lege a salarizării va conduce la reducerea lor cu 25%”",
+      "summary": "Federația Silva solicită eliminarea din noua lege a salarizării unitare prevederea care anulează compensarea fostului spor de risc prevăzută de Codul silvic, de 25% din salariul de bază.",
+      "link": "https://www.digi24.ro/stiri/actualitate/social/silvicultorii-cer-ca-veniturile-lor-sa-fie-protejate-noua-lege-a-salarizarii-va-conduce-la-reducerea-lor-cu-25-3795793",
+      "published_utc": "2026-06-02T06:19:43+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMiUyRjEyJTJGMjU4OTg1Nl8yNTg5/ODU2X3JvbXNpbHZhLWVjdXNvbi1pbnF1/YW0tZ2VvcmdlLWNhbGluLmpwZyZoYXNo/PTk1MDBhOWIzNGRjNTYzYTJlNjc3ZmY3YTQ2YjZkNDU2.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Cuplu de români reveniți din concediu: el a adus hantavirus, ea ebola",
+      "summary": "Vremea când românii plecau în străinătate și veneau înapoi acasă cu magneți de frigider a apus de mult. Acum turiștii se reîntorc cu cadouri de neuitat, care nu se vor umple de praf undeva într-un sertar sau într-un beci neaerisit. Iuliu și Maria Pavel sunt un cuplu de români care au venit dintr-o excurisie cu [&#8230;] The post Cuplu de români reveniți din concediu: el a adus hantavirus, ea ebola appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/monden/cuplu-de-romani-reveniti-din-concediu-el-a-adus-hantavirus-ea-ebola",
+      "published_utc": "2026-05-31T10:47:18+00:00",
+      "score": 3,
+      "freshness_boost": 1,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/romani-africa.jpg"
     },
     {
       "section": "romania",
@@ -902,14 +1046,26 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Azi au ajuns la MApN dosarele cu șină pentru aprobarea doborârii dronei de vineri din Galați",
-      "summary": "Autoritățile s-au pus serios pe treabă și au reușit într-un timp record să completeze dosarele cu șină care sunt obligatorii pentru orice doborâre de dronă. Nu mai durează mult și se va da acordul pentru doborârea dronei rușești care a intrat vineri la primele ore pe teritoriul țării noastre și a căzut pe un bloc [&#8230;] The post Azi au ajuns la MApN dosarele cu șină pentru aprobarea doborârii dronei de vineri din Galați appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/politic/azi-au-ajuns-la-mapn-dosarele-cu-sina-pentru-aprobarea-doborarii-dronei-de-vineri-din-galati",
-      "published_utc": "2026-06-01T06:39:55+00:00",
+      "source": "Green Start-Up Romania",
+      "title": "MAN prezintă noul eTGM, destinat transportului regional de marfă",
+      "summary": "MAN Truck &amp; Bus a prezentat un nou camion electric de 16 tone destinat distribuției urbane și transportului regional. Modelul eTGM 16 este echipat cu baterii litiu-ion și oferă o autonomie de până...",
+      "link": "https://green.start-up.ro/ro/man-prezinta-noul-etgm-destinat-transportului-regional-de-marfa",
+      "published_utc": "2026-05-28T05:00:01+00:00",
       "score": 3,
+      "freshness_boost": 0,
+      "image": "https://green.start-up.ro/img/articles/3/5/9/35921/cover-35921-src.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Future jet stream changes could ease drying across Asian drylands",
+      "summary": "Mid-latitude Asian drylands, stretching from Central Asia to northern China, are among the largest dryland systems in the world. Home to extensive agricultural activities and fragile ecosystems, the region is highly vulnerable to climate change and water scarcity.",
+      "link": "https://phys.org/news/2026-06-future-jet-stream-ease-drying.html",
+      "published_utc": "2026-06-01T22:20:08+00:00",
+      "score": 0,
       "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/06/dosare_multe.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/future-jet-stream-chan.jpg"
     },
     {
       "section": "romania",
@@ -936,6 +1092,18 @@
       "image": "https://picsum.photos/seed/vb-19fff50d916bef9e/480/320"
     },
     {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Bridged or not? Scientists uncover a key step in hydrogenase assembly",
+      "summary": "How does nature build one of the most sophisticated catalytic metal centers found in biology? An international team of researchers has now resolved a long-standing debate surrounding the assembly of the active site of [FeFe]-hydrogenases—enzymes that rank among nature's most efficient catalysts for hydrogen production and consumption.",
+      "link": "https://phys.org/news/2026-06-bridged-scientists-uncover-key-hydrogenase.html",
+      "published_utc": "2026-06-01T22:20:03+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bridged-or-not-scienti.jpg"
+    },
+    {
       "section": "romania",
       "kind": "ro",
       "source": "World Vision Romania",
@@ -958,6 +1126,18 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-14e533e3423790d8/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "Why stress can outlast the event: Dopamine tied to lingering sexual suppression in fruit fly study",
+      "summary": "Scientists from Tokyo Metropolitan University have revealed key parts of the biochemical pathways connecting stress to sexual dysfunction. By studying Drosophila fruit flies, they showed that the neurotransmitter dopamine was responsible for determining how long male flies showed persistent courtship suppression after being confined in a small space, but not whether mating was suppressed in the first place.",
+      "link": "https://medicalxpress.com/news/2026-06-stress-outlast-event-dopamine-lingering.html",
+      "published_utc": "2026-06-01T22:10:01+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/exploring-the-biochemi.jpg"
     },
     {
       "section": "romania",
@@ -987,13 +1167,13 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Future jet stream changes could ease drying across Asian drylands",
-      "summary": "Mid-latitude Asian drylands, stretching from Central Asia to northern China, are among the largest dryland systems in the world. Home to extensive agricultural activities and fragile ecosystems, the region is highly vulnerable to climate change and water scarcity.",
-      "link": "https://phys.org/news/2026-06-future-jet-stream-ease-drying.html",
-      "published_utc": "2026-06-01T22:20:08+00:00",
+      "title": "How sargassum affects air quality, beach environments and exposure risks for families",
+      "summary": "As another heavy sargassum season unfolds, many beachgoers are asking the same question: Is it safe to be near it? A recent University of Miami study offers an evidence-based answer, particularly for children. Overall risks are low, but not zero. The research, published in Exposure and Health, found that noncancer risks from arsenic exposure during beach play are minimal. But it also identified small increased cancer risks in certain scenarios, particularly from skin contact and accidental ingestion, underscoring the need to better understand how children interact with sargassum on the beach.",
+      "link": "https://phys.org/news/2026-06-sargassum-affects-air-quality-beach.html",
+      "published_utc": "2026-06-01T22:00:02+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/future-jet-stream-chan.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-sargassum-affects.jpg"
     },
     {
       "section": "romania",
@@ -1023,13 +1203,13 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Bridged or not? Scientists uncover a key step in hydrogenase assembly",
-      "summary": "How does nature build one of the most sophisticated catalytic metal centers found in biology? An international team of researchers has now resolved a long-standing debate surrounding the assembly of the active site of [FeFe]-hydrogenases—enzymes that rank among nature's most efficient catalysts for hydrogen production and consumption.",
-      "link": "https://phys.org/news/2026-06-bridged-scientists-uncover-key-hydrogenase.html",
-      "published_utc": "2026-06-01T22:20:03+00:00",
-      "score": 1,
+      "title": "Living brain gene activity revealed noninvasively through programmable blood test",
+      "summary": "Cell function is determined by how DNA is expressed into proteins. That process includes two main steps—transcription, when messenger RNA (mRNA) makes copies of active genes; and translation, when mRNA guides protein assembly.",
+      "link": "https://phys.org/news/2026-06-brain-gene-revealed-noninvasively-programmable.html",
+      "published_utc": "2026-06-01T21:50:03+00:00",
+      "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bridged-or-not-scienti.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-is-first-demonst-1.jpg"
     },
     {
       "section": "romania",
@@ -1059,13 +1239,13 @@
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
-      "title": "Why stress can outlast the event: Dopamine tied to lingering sexual suppression in fruit fly study",
-      "summary": "Scientists from Tokyo Metropolitan University have revealed key parts of the biochemical pathways connecting stress to sexual dysfunction. By studying Drosophila fruit flies, they showed that the neurotransmitter dopamine was responsible for determining how long male flies showed persistent courtship suppression after being confined in a small space, but not whether mating was suppressed in the first place.",
-      "link": "https://medicalxpress.com/news/2026-06-stress-outlast-event-dopamine-lingering.html",
-      "published_utc": "2026-06-01T22:10:01+00:00",
-      "score": 1,
+      "title": "Brain predicts next words in milliseconds, mirroring AI language models",
+      "summary": "Even while listening, the brain attempts to anticipate the next words. This is the conclusion reached by a current study conducted by an interdisciplinary team of researchers led by PD Dr. Patrick Krauss, Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), and PD Dr. Achim Schilling, Heidelberg University. The researchers combined three methods: a natural listening situation, high resolution measurements of brain activity, and an AI language model as reference.",
+      "link": "https://medicalxpress.com/news/2026-06-brain-words-milliseconds-mirroring-ai.html",
+      "published_utc": "2026-06-01T21:50:02+00:00",
+      "score": 2,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/exploring-the-biochemi.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/human-brain-ai-share-p.jpg"
     },
     {
       "section": "romania",
@@ -1095,13 +1275,13 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "How sargassum affects air quality, beach environments and exposure risks for families",
-      "summary": "As another heavy sargassum season unfolds, many beachgoers are asking the same question: Is it safe to be near it? A recent University of Miami study offers an evidence-based answer, particularly for children. Overall risks are low, but not zero. The research, published in Exposure and Health, found that noncancer risks from arsenic exposure during beach play are minimal. But it also identified small increased cancer risks in certain scenarios, particularly from skin contact and accidental ingestion, underscoring the need to better understand how children interact with sargassum on the beach.",
-      "link": "https://phys.org/news/2026-06-sargassum-affects-air-quality-beach.html",
-      "published_utc": "2026-06-01T22:00:02+00:00",
+      "title": "Scientists unveil ten-year roadmap for building synthetic cells",
+      "summary": "Scientists from six Asian countries have launched an ambitious 10-year effort to build synthetic cells from non-living molecules, marking the region's first coordinated push to create an artificial single-celled biological system. The roadmap, published on May 26 in Nature Biotechnology and led by the Shenzhen Institute of Advanced Technology of the Chinese Academy of Sciences, was developed through the SynCell Asia Initiative, which comprises more than 100 scientists from China, Japan, South Korea, Singapore, Thailand, and Malaysia.",
+      "link": "https://phys.org/news/2026-06-scientists-unveil-ten-year-roadmap.html",
+      "published_utc": "2026-06-01T21:40:06+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-sargassum-affects.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/synthetic-cells.jpg"
     },
     {
       "section": "romania",
@@ -1131,13 +1311,13 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Living brain gene activity revealed noninvasively through programmable blood test",
-      "summary": "Cell function is determined by how DNA is expressed into proteins. That process includes two main steps—transcription, when messenger RNA (mRNA) makes copies of active genes; and translation, when mRNA guides protein assembly.",
-      "link": "https://phys.org/news/2026-06-brain-gene-revealed-noninvasively-programmable.html",
-      "published_utc": "2026-06-01T21:50:03+00:00",
+      "title": "Fast-moving droplets synthesize key drug compounds at room temperature, no catalysts needed",
+      "summary": "Chemical reactions are the backbone to nearly all biological processes, including those used to make new medicines. However, these reactions can often take considerable time and require harsh conditions or materials—potentially inhibiting the timely development of life-changing drugs.",
+      "link": "https://phys.org/news/2026-06-fast-droplets-key-drug-compounds.html",
+      "published_utc": "2026-06-01T21:40:05+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-is-first-demonst-1.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/faster-chemical-reacti.jpg"
     },
     {
       "section": "romania",
@@ -1162,42 +1342,6 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-aee1cf7180726a8a/480/320"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Brain predicts next words in milliseconds, mirroring AI language models",
-      "summary": "Even while listening, the brain attempts to anticipate the next words. This is the conclusion reached by a current study conducted by an interdisciplinary team of researchers led by PD Dr. Patrick Krauss, Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), and PD Dr. Achim Schilling, Heidelberg University. The researchers combined three methods: a natural listening situation, high resolution measurements of brain activity, and an AI language model as reference.",
-      "link": "https://medicalxpress.com/news/2026-06-brain-words-milliseconds-mirroring-ai.html",
-      "published_utc": "2026-06-01T21:50:02+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/human-brain-ai-share-p.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Scientists unveil ten-year roadmap for building synthetic cells",
-      "summary": "Scientists from six Asian countries have launched an ambitious 10-year effort to build synthetic cells from non-living molecules, marking the region's first coordinated push to create an artificial single-celled biological system. The roadmap, published on May 26 in Nature Biotechnology and led by the Shenzhen Institute of Advanced Technology of the Chinese Academy of Sciences, was developed through the SynCell Asia Initiative, which comprises more than 100 scientists from China, Japan, South Korea, Singapore, Thailand, and Malaysia.",
-      "link": "https://phys.org/news/2026-06-scientists-unveil-ten-year-roadmap.html",
-      "published_utc": "2026-06-01T21:40:06+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/synthetic-cells.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Fast-moving droplets synthesize key drug compounds at room temperature, no catalysts needed",
-      "summary": "Chemical reactions are the backbone to nearly all biological processes, including those used to make new medicines. However, these reactions can often take considerable time and require harsh conditions or materials—potentially inhibiting the timely development of life-changing drugs.",
-      "link": "https://phys.org/news/2026-06-fast-droplets-key-drug-compounds.html",
-      "published_utc": "2026-06-01T21:40:05+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/faster-chemical-reacti.jpg"
     },
     {
       "section": "medical",
@@ -1574,12 +1718,12 @@
   ],
   "joke_ro": {
     "date_utc": "2026-06-02",
-    "text": "Mi-am setat alarma la 6:00. Ea a venit, eu am dat delegare.",
+    "text": "Mi-am facut buget pe luna asta. Primele doua zile au fost impecabile.",
     "source": "data/jokes_ro.txt"
   },
   "satire_ro": {
-    "title": "Localnici din Sintești detașați la Galați au prins o dronă rusească din zbor și au topit-o pentru metale",
-    "link": "https://www.timesnewroman.ro/life-death/localnici-din-sintesti-detasati-la-galati-au-prins-o-drona-ruseasca-din-zbor-si-au-topit-o-pentru-metale/",
+    "title": "A început golirea lacului de pe amplasamentul viitorului Herăstrău Residence",
+    "link": "https://www.timesnewroman.ro/life-death/a-inceput-golirea-lacului-de-pe-amplasamentul-viitorului-herastrau-residence/",
     "source": "timesnewroman.ro"
   },
   "top_images": [
@@ -1664,6 +1808,7 @@
       "https://live.staticflickr.com/65535/55290314964_6c946c5ddf_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/13648138283_303a85da9b_b.jpg",
       "https://live.staticflickr.com/65535/17290684814_7958d58af4_b.jpg",
       "https://live.staticflickr.com/65535/13735344993_89243dbd8d_b.jpg",
       "https://live.staticflickr.com/65535/55297563972_ccf7424ab6_b.jpg",
@@ -1680,17 +1825,16 @@
       "https://live.staticflickr.com/65535/17292779633_6dbeac61d1_b.jpg",
       "https://live.staticflickr.com/7259/13449269204_eacae6ae59_b.jpg",
       "https://live.staticflickr.com/65535/55287070733_1cb962d86b_b.jpg",
-      "https://live.staticflickr.com/65535/55299489673_679331e6e4_b.jpg",
-      "https://live.staticflickr.com/65535/55291985041_32efd3f7ac_b.jpg"
+      "https://live.staticflickr.com/65535/55299489673_679331e6e4_b.jpg"
     ],
     "cities": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/3f/NYC_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg",
       "https://live.staticflickr.com/65535/55308789471_de60f4ec53_b.jpg",
       "https://live.staticflickr.com/65535/55308876864_57b95d93b3_b.jpg",
       "https://live.staticflickr.com/65535/55308535019_8bd4c30864_b.jpg",
       "https://live.staticflickr.com/65535/55308417325_82d406477c_b.jpg",
       "https://live.staticflickr.com/65535/55307658814_cea155fe34_b.jpg",
       "https://live.staticflickr.com/65535/55305827642_2e93dfee28_b.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/3/3f/NYC_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg",
       "https://live.staticflickr.com/65535/55305840716_85ba383063_b.jpg",
       "https://live.staticflickr.com/65535/55305764785_350e36ffac_b.jpg",
       "https://live.staticflickr.com/65535/55304356882_a9f2695826_b.jpg",
@@ -1704,8 +1848,8 @@
       "https://live.staticflickr.com/65535/55303520193_84470520b1_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
+      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
