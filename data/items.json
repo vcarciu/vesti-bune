@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-06-08T21:44:04+00:00",
+  "generated_utc": "2026-06-08T23:07:36+00:00",
   "sections": {
     "romania": [
       {
@@ -37,18 +37,6 @@
         "score": 3,
         "freshness_boost": 3,
         "image": "https://picsum.photos/seed/vb-bbfa7c77f5bf976d/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 S-a înscris şi Ciolacu la BAC? Avionul Nordis, văzut în curtea unui liceu din Buzău",
-        "summary": "O imagine virală cu un avion Nordis în curtea unui liceu din Buzău a aprins imaginația internauților. Foarte mulți suspectează că avionul Nordis e un indiciu puternic că Marcel Ciolacu s-a înscris la Bacalaureatul din acest an. Fostul premier nu are o diplomă de Bac, deci teoria internauților nu este neapărat hazardată. Pe de altă [&#8230;] The post S-a înscris şi Ciolacu la BAC? Avionul Nordis, văzut în curtea unui liceu din Buzău appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/politic/s-a-inscris-si-ciolacu-la-bac-avionul-nordis-vazut-in-curtea-unui-liceu-din-buzau",
-        "published_utc": "2026-06-08T14:07:50+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/06/avion_nordis_liceu_buzau.jpeg"
       },
       {
         "section": "romania",
@@ -109,6 +97,18 @@
         "score": 3,
         "freshness_boost": 3,
         "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/nea_costel_bere_terasa.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 Record de vizitatori la Bookfest. 80.000 de analfabeți funcțional cu figuri în cap",
+        "summary": "Puhoi de analfabeți la Romexpo, la ultima ediție Bookfest. Atrași ca musculița la oțet, ca să folosim diminutive, semidocții și analfabeții funcțional au dat năvală ca să se uite și ei pe la standuri și să se pozeze cu cărțile, cele mai multe fiind scrise de alți semi-analfabeți care știu să folosească ChatGPT la un [&#8230;] The post Record de vizitatori la Bookfest. 80.000 de analfabeți funcțional cu figuri în cap appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/it-stiinta/record-de-vizitatori-la-bookfest-80-000-de-analfabeti-functional-cu-figuri-in-cap",
+        "published_utc": "2026-06-07T08:55:00+00:00",
+        "score": 3,
+        "freshness_boost": 1,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/06/analfabeti_bookfest.jpg"
       },
       {
         "section": "romania",
@@ -490,253 +490,97 @@
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "'From STEM to earn': High school programs aimed at diversifying the field drive gains in college, salaries",
-        "summary": "High school students participating in pipeline programs aimed at increasing diversity in STEM fields are more likely to enroll in—and graduate from—elite colleges with a related degree. In addition, such improvements raised their predicted earnings by anywhere from 3% to 15%, according to a study co-authored by a University of Michigan researcher published in the Journal of Human Resources.",
-        "link": "https://phys.org/news/2026-06-stem-high-school-aimed-diversifying.html",
-        "published_utc": "2026-06-08T21:40:09+00:00",
+        "title": "Great mysteries of archaeology: An ancient Amazonian world revealed from the sky",
+        "summary": "From the air, you see it only through the constant jolt, tilt, and shudder of the low-flying Cessna aircraft. The landscape of the Llanos de Moxos, northern Bolivia, appears as a disconnected patchwork of open grassland savannahs, forest islands, and lakes.",
+        "link": "https://phys.org/news/2026-06-great-mysteries-archaeology-ancient-amazonian.html",
+        "published_utc": "2026-06-08T23:00:04+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/great-mysteries-of-arc.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Cloud-tested quantum noise model predicts superconducting qubit errors with sevenfold better accuracy",
+        "summary": "Researchers from the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland, and Johns Hopkins University in Baltimore have developed a practical, comprehensive noise-modeling framework for a popular class of superconducting quantum processors. Their work, published in the journal PRX Quantum, offers a sevenfold improvement in predictive accuracy over existing approaches.",
+        "link": "https://phys.org/news/2026-06-cloud-quantum-noise-superconducting-qubit.html",
+        "published_utc": "2026-06-08T23:00:02+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/science-class.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/team-models-quantum-no.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Why this $10 spectrometer chip could bring real-time chemical sensing to wearables",
-        "summary": "Researchers from the University of Cambridge and GlitterinTech, a startup founded by the same research group, have unveiled a fundamentally new type of optical spectrometer that delivers laboratory-grade precision in a device small enough to be embedded in portable and wearable technologies. By rethinking how spectra are measured and processed, the team has demonstrated a spectrometer costing only around $10, operating at a centimeter scale, and capable of applications ranging from industrial quality control to real-time health care monitoring.",
-        "link": "https://phys.org/news/2026-06-spectrometer-chip-real-chemical-wearables.html",
-        "published_utc": "2026-06-08T21:40:04+00:00",
+        "title": "Upcoming telescopes could shed light on dark matter",
+        "summary": "NASA's plans to return astronauts to the moon through the Artemis program and ultimately send humans to Mars highlight just how far space exploration has come. Yet while the moon and Mars remain compelling destinations filled with scientific mysteries, looking beyond our solar system raises even deeper questions about the universe itself.",
+        "link": "https://phys.org/news/2026-06-upcoming-telescopes-dark.html",
+        "published_utc": "2026-06-08T22:40:04+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/upcoming-telescopes-co.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Chemists unlock first total synthesis of rare plant alkaloid tied to anticancer activity",
+        "summary": "Plants are undeniably one of nature's most promising sources of new medicines, with monoterpenoid indole alkaloids (MIAs) being a great example. Some intricate compounds are built from multiple-linked chemical units that form highly complex three-dimensional structures. Because of their size and shape, scientists believe such oligomeric MIAs may be able to interfere with specific protein–protein interactions inside cells—a biological target that conventional small-molecule drugs often struggle to reach.",
+        "link": "https://phys.org/news/2026-06-chemists-total-synthesis-rare-alkaloid.html",
+        "published_utc": "2026-06-08T22:30:03+00:00",
         "score": 2,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mass-manufacturable-sp-1.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-achieve-the.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Magnon momentum microscopy: A new window into nanoscale spin-wave physics",
-        "summary": "An international team led by the Max Born Institute has developed a new type of momentum microscopy to image magnons—the quanta of collectively excited spins—directly in two-dimensional reciprocal space using soft X-rays. Owing to its remarkable sensitivity, simplicity, and access to nanometer-scale wavelengths, this novel technique establishes a powerful and versatile platform for exploring nonlinear magnon interactions, which are promising for future computing schemes.",
-        "link": "https://phys.org/news/2026-06-magnon-momentum-microscopy-window-nanoscale.html",
-        "published_utc": "2026-06-08T21:30:01+00:00",
-        "score": 2,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/magnon-momentum-micros.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "What happens to a star that captures a primordial black hole?",
-        "summary": "We don't know whether theorized primordial black holes (PBH) are real. If they are, they formed in the very early universe, when physics was much different. They had no stellar progenitors and were created by the direct collapse of densely packed subatomic matter. Theorists have wondered whether PBH could be dark matter, or a component of dark matter.",
-        "link": "https://phys.org/news/2026-06-star-captures-primordial-black-hole.html",
-        "published_utc": "2026-06-08T21:20:03+00:00",
+        "title": "Rocket launches and reentries harm Earth's ozone layer",
+        "summary": "The space industry is surging. In coming years, nearly 10,000 spacecraft are slated to launch into low-Earth orbit for a variety of purposes, such as global surveillance, space tourism, and satellite \"megaconstellations\" providing internet service.",
+        "link": "https://phys.org/news/2026-06-rocket-reentries-earth-ozone-layer.html",
+        "published_utc": "2026-06-08T22:20:01+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/what-happens-to-a-star.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rocket-launches-and-re.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "How wax moth larvae can help reduce animal testing in research",
-        "summary": "Researchers at the Helmholtz Institute for One Health (HIOH) have demonstrated that larvae of the greater wax moth, Galleria mellonella, are suitable as an alternative infection model for investigating the pathogenicity of bacteria on a larger scale. This could significantly reduce testing on mammals in the future. The results of the study were published in The Lancet Microbe.",
-        "link": "https://phys.org/news/2026-06-wax-moth-larvae-animal.html",
-        "published_utc": "2026-06-08T21:00:08+00:00",
-        "score": 2,
+        "title": "Magnesium transporter discovery could improve rice nutrition and taste",
+        "summary": "Rice is a staple food for nearly half the global population and an important dietary source of magnesium, a mineral essential for human health, plant growth and energy metabolism. Although magnesium is known to influence grain quality and taste, the biological mechanism controlling how the mineral reaches rice grains has remained largely unknown.",
+        "link": "https://phys.org/news/2026-06-magnesium-discovery-rice-nutrition.html",
+        "published_utc": "2026-06-08T22:10:01+00:00",
+        "score": 4,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-wax-moth-larvae-ca.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-magnesium-transpor.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Q&A: Expert discusses 250 years of sports in the United States",
-        "summary": "Sports in the United States look very different than they did when the nation was founded 250 years ago, according to Mark Dyreson, professor of kinesiology and history at Penn State. But one thing has remained constant—sport has played a vital role in shaping and reflecting the country's culture and values, he said.",
-        "link": "https://phys.org/news/2026-06-qa-expert-discusses-years-sports.html",
-        "published_utc": "2026-06-08T21:00:01+00:00",
+        "title": "Mining companies may soon bypass UN rules and mine the deep sea",
+        "summary": "A Canadian deep-sea mining company may become the first to commercially mine the international seabed under a controversial U.S. executive order that bypasses United Nations regulations. A recent legal analysis suggests that this could place Canada in violation of international law.",
+        "link": "https://phys.org/news/2026-06-companies-bypass-deep-sea.html",
+        "published_utc": "2026-06-08T22:00:05+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/qa-250-years-of-sports.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/deep-sea-mining.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Medicinal plants yield carbon nanoparticles that glow red and flag toxic metals",
-        "summary": "What do iron, lead and nickel have in common? These heavy metals are an indispensable part of many industries. However, they also share a dark reality: They are serious environmental and public health threats. Every day, they find their way into the atmosphere and water bodies through industrial activities, mining and urban waste. Heavy metals are highly toxic, do not break down naturally and tend to build up in the tissues of living organisms over time.",
-        "link": "https://phys.org/news/2026-06-medicinal-yield-carbon-nanoparticles-red.html",
-        "published_utc": "2026-06-08T20:50:01+00:00",
+        "title": "Hidden geometry explains why kernel methods separate complex data so well",
+        "summary": "Are two sets of data genuinely different, or is it because of randomness? This question, known as the two-sample testing problem, becomes notoriously difficult in modern datasets, because they are often high-dimensional, complex, and differences between them can take countless subtle forms.",
+        "link": "https://phys.org/news/2026-06-hidden-geometry-kernel-methods-complex.html",
+        "published_utc": "2026-06-08T21:50:03+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/when-plants-go-nano-a.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "'Labubu economics': Game-theoretic model explains why blind box strategies benefit suppliers, retailers, and consumers",
-        "summary": "The billion-dollar Labubu phenomenon broke a cardinal rule of retail: Consumers need to know what they're buying before they open their wallet. Most new Labubu sales took the form of \"blind boxes,\" where purchasers found out which type of doll they'd purchased only after the fact.",
-        "link": "https://phys.org/news/2026-06-labubu-economics-game-theoretic-strategies.html",
-        "published_utc": "2026-06-08T20:40:04+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/labubu.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Ancient hominins selected basalt sources for specific tools nearly 800,000 years ago, study reveals",
-        "summary": "A new study finds that ancient hominins nearly 800,000 years ago deliberately selected specific basalt sources for different stages of tool production rather than simply using whatever stone was available nearby. By tracing the geochemical \"fingerprints\" of stone tools to both exposed and now-buried basalt flows, the researchers demonstrated that these hominins possessed detailed environmental knowledge, advanced planning abilities, and long-term technological traditions that were maintained and repeated across generations.",
-        "link": "https://phys.org/news/2026-06-ancient-hominins-basalt-sources-specific.html",
-        "published_utc": "2026-06-08T20:40:03+00:00",
-        "score": 2,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ancient-hominins-demon.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "New Relative Niño index introduces more robust way to measure El Niño strength",
-        "summary": "A new El Niño index that provides a more climate-robust measure of the strength of El Niño signals has been released by the European Centre for Medium-Range Weather Forecasts (ECMWF). With the World Meteorological Organization's recent update indicating an 80% likelihood of an El Niño event during June–August 2026 and a 90% probability of this continuing until at least November, it is more important than ever to have accurate, reliable data.",
-        "link": "https://phys.org/news/2026-06-nio-index-robust-el-strength.html",
-        "published_utc": "2026-06-08T20:30:01+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/weather-forecast.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Plants could be used to grow medicines in space, study shows",
-        "summary": "Astronauts on long space missions may one day use plants to produce fresh stocks of medicines on demand, thanks to new research by engineers at the University of California San Diego. The team developed a simple method to grow and repeatedly harvest pharmaceuticals from plants under space-like conditions, without destroying the plants or generating large amounts of waste.",
-        "link": "https://phys.org/news/2026-06-medicines-space.html",
-        "published_utc": "2026-06-08T20:20:01+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/plants-could-be-used-t.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "DNA design unlocks nanometer-scale catalyst control for cleaner hydrogen production",
-        "summary": "The fixed idea that DNA is only a molecule that stores genetic information is being challenged. KAIST researchers have developed a technology that controls the chemical environment around catalysts at the nanometer scale by designing DNA sequences—the arrangement of A, T, G and C that make up genetic information. The team has presented a new catalyst platform that can improve hydrogen production efficiency and increase the yield of desired chemical products by designing DNA much like writing a computer program.",
-        "link": "https://phys.org/news/2026-06-dna-nanometer-scale-catalyst-cleaner.html",
-        "published_utc": "2026-06-08T20:10:06+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-turn-dna-f-1.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Sesame dynamically rewires lignan metabolism during germination",
-        "summary": "Sesame seeds are rich in lipid-soluble lignans such as sesamin, which are widely known as health-promoting phytochemicals. While these compounds rapidly decrease during germination and are converted into water-soluble glucosides, the molecular mechanism underlying this large-scale metabolic transition had remained unclear.",
-        "link": "https://phys.org/news/2026-06-sesame-dynamically-rewires-lignan-metabolism.html",
-        "published_utc": "2026-06-08T20:10:01+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/sesame-dynamically-rew.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Corals have a hormonal clock and it looks surprisingly like ours",
-        "summary": "A three-year study has cracked open the hidden biology behind coral reproduction, revealing hormone cycles that echo those of humans and other animals, and a new way to detect reef distress before it's too late.",
-        "link": "https://phys.org/news/2026-06-corals-hormonal-clock.html",
-        "published_utc": "2026-06-08T20:00:05+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/corals-have-a-hormonal.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "How migration became a key to World Cup success",
-        "summary": "Few would have predicted Morocco's success at the 2022 Fifa World Cup. Heading into the tournament, they were ranked 22nd in the world and had never progressed beyond the round of 16.",
-        "link": "https://phys.org/news/2026-06-migration-key-world-cup-success.html",
-        "published_utc": "2026-06-08T20:00:01+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/morocco-soccer-team.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Twisted stacking lets 2D conductor keep single-layer performance in bulk form",
-        "summary": "Two-dimensional (2D) materials, which are significantly thinner than a single sheet of paper, have long drawn attention for their exceptional performance. However, they have faced a critical limitation: Their performance degrades significantly when multiple layers are stacked.",
-        "link": "https://phys.org/news/2026-06-stacking-2d-conductor-layer-bulk.html",
-        "published_utc": "2026-06-08T19:50:02+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-develop-st-2.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Green growth claims are overstated—our study shows three reasons why",
-        "summary": "A holy grail of environmental policy is an economy that delivers prosperity without requiring the ever-increasing consumption of raw materials.",
-        "link": "https://phys.org/news/2026-06-green-growth-overstated.html",
-        "published_utc": "2026-06-08T19:40:09+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/green-growth-claims-ar.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "NASA Breaking News",
-        "title": "How NASA Science and Artemis Are Shaping the 2026 FIFA World Cup",
-        "summary": "As&#160;the FIFA World Cup&#160;approaches, NASA is bringing&#160;space science and&#160;engineering&#160;to soccer fans&#160;worldwide.&#160;From&#160;June 11&#160;to July 19,&#160;2026,&#160;NASA will&#160;host an&#160;exhibit&#160;at FIFA Fan Festival™&#160;Houston where visitors can learn how research aboard the International Space Station benefits life on Earth&#160;and&#160;experience missions in low Earth orbit, the Moon,&#160;and&#160;beyond&#160;through the Artemis program.&#160; On June 11, as the FIFA World Cup begins, NASA’s exhibit [&#8230;]",
-        "link": "https://www.nasa.gov/centers-and-facilities/johnson/how-nasa-science-and-artemis-are-shaping-the-2026-fifa-world-cup",
-        "published_utc": "2026-06-08T19:36:08+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://www.youtube.com/embed/g8zVn14wg38"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Ribosome tunnel interactions reveal how bacteria can pause protein production",
-        "summary": "How do bacteria regulate the production of their proteins? Researchers at the University of Hamburg, in collaboration with international partners, have now demonstrated how small protein building blocks, known as peptides, specifically influence bacterial protein production. The findings have been published in two articles in the journal Nature Communications.",
-        "link": "https://phys.org/news/2026-06-ribosome-tunnel-interactions-reveal-bacteria.html",
-        "published_utc": "2026-06-08T19:20:06+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-discover-n-10.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Need for early, institution-wide AI literacy education highlighted in study",
-        "summary": "Along with researchers from James Madison University, three collaborators in the Office of the Provost recently published in Research & Practice in Assessment. Jaime Miller, Stuart Miller and Rachel Whitman Rotch began gathering data in the summer of 2025, investigating students' artificial intelligence (AI) literacy levels using the Generative AI Literacy Assessment Test (GLAT).",
-        "link": "https://phys.org/news/2026-06-early-wide-ai-literacy-highlighted.html",
-        "published_utc": "2026-06-08T19:20:05+00:00",
-        "score": 2,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/student-using-ai.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Van der Waals forces can play unexpected role in thin film properties",
-        "summary": "Researchers have demonstrated the ability to use van der Waals forces to tune the physical and electronic properties of ferroelectric thin films. The work opens the door to new techniques for engineering materials for use in smaller, more energy efficient electronic devices.",
-        "link": "https://phys.org/news/2026-06-van-der-waals-play-unexpected.html",
-        "published_utc": "2026-06-08T19:20:04+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/van-der-waals-forces-c.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-hidden-geometry-th.jpg"
       }
     ],
     "environment": [
@@ -854,18 +698,6 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Gabi Tamaş nu ştie în ce să investească cei 100.000 de euro de la Survivor: vin, bere sau tărie?",
-      "summary": "Gabi Tamas se află probabil în fața celei mai dificile decizii din viața lui. A luat marele premiu la Survivor, 100.000 de euro, iar acum trebuie să stabilească în ce va investi banii: în vin, în bere sau în tărie? „Banii trebuie să circule, așa că mă grăbesc să îi investesc cât mai rapid”, a [&#8230;] The post Gabi Tamaş nu ştie în ce să investească cei 100.000 de euro de la Survivor: vin, bere sau tărie? appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/sport/gabi-tamas-nu-stie-in-ce-sa-investeasca-cei-100-000-de-euro-de-la-survivor-vin-bere-sau-tarie",
-      "published_utc": "2026-06-08T15:16:18+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/06/gabi_tamas_suvivor.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "„Harta lui Elian”, primul spectacol din România dedicat copiilor cu dislexie și dificultăți de învățare, va avea trei reprezentații speciale la Teatrul EXCELSIOR",
       "summary": "Primul spectacol din România dedicat copiilor cu dislexie și dificultăți de învățare, „Harta lui Elian”, ajunge la București pentru trei reprezentații speciale, găzduite de Teatrul EXCELSIOR, la Sala „Ion Lucian” din Str.&#8230; Articolul „Harta lui Elian”, primul spectacol din România dedicat copiilor cu dislexie și dificultăți de învățare, va avea trei reprezentații speciale la Teatrul EXCELSIOR apare prima dată în Romania Pozitiva .",
@@ -886,18 +718,6 @@
       "score": 3,
       "freshness_boost": 3,
       "image": "https://picsum.photos/seed/vb-98dcf98af7b1f721/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 S-a înscris şi Ciolacu la BAC? Avionul Nordis, văzut în curtea unui liceu din Buzău",
-      "summary": "O imagine virală cu un avion Nordis în curtea unui liceu din Buzău a aprins imaginația internauților. Foarte mulți suspectează că avionul Nordis e un indiciu puternic că Marcel Ciolacu s-a înscris la Bacalaureatul din acest an. Fostul premier nu are o diplomă de Bac, deci teoria internauților nu este neapărat hazardată. Pe de altă [&#8230;] The post S-a înscris şi Ciolacu la BAC? Avionul Nordis, văzut în curtea unui liceu din Buzău appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/politic/s-a-inscris-si-ciolacu-la-bac-avionul-nordis-vazut-in-curtea-unui-liceu-din-buzau",
-      "published_utc": "2026-06-08T14:07:50+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/06/avion_nordis_liceu_buzau.jpeg"
     },
     {
       "section": "romania",
@@ -946,6 +766,30 @@
       "score": 3,
       "freshness_boost": 3,
       "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/nea_costel_bere_terasa.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Gabi Tamaş nu ştie în ce să investească cei 100.000 de euro de la Survivor: vin, bere sau tărie?",
+      "summary": "Gabi Tamas se află probabil în fața celei mai dificile decizii din viața lui. A luat marele premiu la Survivor, 100.000 de euro, iar acum trebuie să stabilească în ce va investi banii: în vin, în bere sau în tărie? „Banii trebuie să circule, așa că mă grăbesc să îi investesc cât mai rapid”, a [&#8230;] The post Gabi Tamaş nu ştie în ce să investească cei 100.000 de euro de la Survivor: vin, bere sau tărie? appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/sport/gabi-tamas-nu-stie-in-ce-sa-investeasca-cei-100-000-de-euro-de-la-survivor-vin-bere-sau-tarie",
+      "published_utc": "2026-06-08T15:16:18+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/06/gabi_tamas_suvivor.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Record de vizitatori la Bookfest. 80.000 de analfabeți funcțional cu figuri în cap",
+      "summary": "Puhoi de analfabeți la Romexpo, la ultima ediție Bookfest. Atrași ca musculița la oțet, ca să folosim diminutive, semidocții și analfabeții funcțional au dat năvală ca să se uite și ei pe la standuri și să se pozeze cu cărțile, cele mai multe fiind scrise de alți semi-analfabeți care știu să folosească ChatGPT la un [&#8230;] The post Record de vizitatori la Bookfest. 80.000 de analfabeți funcțional cu figuri în cap appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/it-stiinta/record-de-vizitatori-la-bookfest-80-000-de-analfabeti-functional-cu-figuri-in-cap",
+      "published_utc": "2026-06-07T08:55:00+00:00",
+      "score": 3,
+      "freshness_boost": 1,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/06/analfabeti_bookfest.jpg"
     },
     {
       "section": "romania",
@@ -1035,13 +879,13 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "'From STEM to earn': High school programs aimed at diversifying the field drive gains in college, salaries",
-      "summary": "High school students participating in pipeline programs aimed at increasing diversity in STEM fields are more likely to enroll in—and graduate from—elite colleges with a related degree. In addition, such improvements raised their predicted earnings by anywhere from 3% to 15%, according to a study co-authored by a University of Michigan researcher published in the Journal of Human Resources.",
-      "link": "https://phys.org/news/2026-06-stem-high-school-aimed-diversifying.html",
-      "published_utc": "2026-06-08T21:40:09+00:00",
-      "score": 3,
+      "title": "Great mysteries of archaeology: An ancient Amazonian world revealed from the sky",
+      "summary": "From the air, you see it only through the constant jolt, tilt, and shudder of the low-flying Cessna aircraft. The landscape of the Llanos de Moxos, northern Bolivia, appears as a disconnected patchwork of open grassland savannahs, forest islands, and lakes.",
+      "link": "https://phys.org/news/2026-06-great-mysteries-archaeology-ancient-amazonian.html",
+      "published_utc": "2026-06-08T23:00:04+00:00",
+      "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/science-class.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/great-mysteries-of-arc.jpg"
     },
     {
       "section": "romania",
@@ -1071,13 +915,13 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Why this $10 spectrometer chip could bring real-time chemical sensing to wearables",
-      "summary": "Researchers from the University of Cambridge and GlitterinTech, a startup founded by the same research group, have unveiled a fundamentally new type of optical spectrometer that delivers laboratory-grade precision in a device small enough to be embedded in portable and wearable technologies. By rethinking how spectra are measured and processed, the team has demonstrated a spectrometer costing only around $10, operating at a centimeter scale, and capable of applications ranging from industrial quality control to real-time health care monitoring.",
-      "link": "https://phys.org/news/2026-06-spectrometer-chip-real-chemical-wearables.html",
-      "published_utc": "2026-06-08T21:40:04+00:00",
-      "score": 2,
+      "title": "Cloud-tested quantum noise model predicts superconducting qubit errors with sevenfold better accuracy",
+      "summary": "Researchers from the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland, and Johns Hopkins University in Baltimore have developed a practical, comprehensive noise-modeling framework for a popular class of superconducting quantum processors. Their work, published in the journal PRX Quantum, offers a sevenfold improvement in predictive accuracy over existing approaches.",
+      "link": "https://phys.org/news/2026-06-cloud-quantum-noise-superconducting-qubit.html",
+      "published_utc": "2026-06-08T23:00:02+00:00",
+      "score": 3,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mass-manufacturable-sp-1.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/team-models-quantum-no.jpg"
     },
     {
       "section": "romania",
@@ -1104,16 +948,16 @@
       "image": "https://picsum.photos/seed/vb-9934b0d47c9a6244/480/320"
     },
     {
-      "section": "medical",
+      "section": "science",
       "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Blood test may predict immunotherapy response in head and neck cancer",
-      "summary": "A new Northwestern Medicine study suggests that a simple blood test could help identify which patients with head and neck cancer will be most likely to benefit from immunotherapy, according to a study published in the Journal of Clinical Investigation.",
-      "link": "https://medicalxpress.com/news/2026-06-blood-immunotherapy-response-neck-cancer.html",
-      "published_utc": "2026-06-08T21:40:02+00:00",
-      "score": 2,
+      "source": "Phys.org",
+      "title": "Upcoming telescopes could shed light on dark matter",
+      "summary": "NASA's plans to return astronauts to the moon through the Artemis program and ultimately send humans to Mars highlight just how far space exploration has come. Yet while the moon and Mars remain compelling destinations filled with scientific mysteries, looking beyond our solar system raises even deeper questions about the universe itself.",
+      "link": "https://phys.org/news/2026-06-upcoming-telescopes-dark.html",
+      "published_utc": "2026-06-08T22:40:04+00:00",
+      "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/blood-test-1.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/upcoming-telescopes-co.jpg"
     },
     {
       "section": "romania",
@@ -1140,16 +984,16 @@
       "image": "https://picsum.photos/seed/vb-981f1e8cf23a6b08/480/320"
     },
     {
-      "section": "medical",
+      "section": "science",
       "kind": "global",
-      "source": "Medical Xpress",
-      "title": "3D genome architecture pre-wires early developmental decisions",
-      "summary": "New research tracks how cells prepare gene regulatory decisions that will define their fate during the earliest stages of human development. The study reconstructs a timeline of chromosome folding that brings remote DNA regulatory regions into physical contact with genes they control. This work, from a team at the MRC Laboratory of Medical Sciences (LMS) and Imperial College London, with collaborators from the Babraham Institute in Cambridge, shows that some of these contacts form long before genes are activated, persist through later development and may help preselect the future gene targets of these regions. These findings highlight how the genome's 3D structure helps shape cell identity and could offer clues to how developmental disorders arise.",
-      "link": "https://medicalxpress.com/news/2026-06-3d-genome-architecture-pre-wires.html",
-      "published_utc": "2026-06-08T21:40:01+00:00",
-      "score": 1,
+      "source": "Phys.org",
+      "title": "Chemists unlock first total synthesis of rare plant alkaloid tied to anticancer activity",
+      "summary": "Plants are undeniably one of nature's most promising sources of new medicines, with monoterpenoid indole alkaloids (MIAs) being a great example. Some intricate compounds are built from multiple-linked chemical units that form highly complex three-dimensional structures. Because of their size and shape, scientists believe such oligomeric MIAs may be able to interfere with specific protein–protein interactions inside cells—a biological target that conventional small-molecule drugs often struggle to reach.",
+      "link": "https://phys.org/news/2026-06-chemists-total-synthesis-rare-alkaloid.html",
+      "published_utc": "2026-06-08T22:30:03+00:00",
+      "score": 2,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/3d-genome-architecture.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-achieve-the.jpg"
     },
     {
       "section": "romania",
@@ -1179,13 +1023,13 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Magnon momentum microscopy: A new window into nanoscale spin-wave physics",
-      "summary": "An international team led by the Max Born Institute has developed a new type of momentum microscopy to image magnons—the quanta of collectively excited spins—directly in two-dimensional reciprocal space using soft X-rays. Owing to its remarkable sensitivity, simplicity, and access to nanometer-scale wavelengths, this novel technique establishes a powerful and versatile platform for exploring nonlinear magnon interactions, which are promising for future computing schemes.",
-      "link": "https://phys.org/news/2026-06-magnon-momentum-microscopy-window-nanoscale.html",
-      "published_utc": "2026-06-08T21:30:01+00:00",
-      "score": 2,
+      "title": "Rocket launches and reentries harm Earth's ozone layer",
+      "summary": "The space industry is surging. In coming years, nearly 10,000 spacecraft are slated to launch into low-Earth orbit for a variety of purposes, such as global surveillance, space tourism, and satellite \"megaconstellations\" providing internet service.",
+      "link": "https://phys.org/news/2026-06-rocket-reentries-earth-ozone-layer.html",
+      "published_utc": "2026-06-08T22:20:01+00:00",
+      "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/magnon-momentum-micros.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rocket-launches-and-re.jpg"
     },
     {
       "section": "romania",
@@ -1212,6 +1056,66 @@
       "image": "https://picsum.photos/seed/vb-b232011f502b8f73/480/320"
     },
     {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Magnesium transporter discovery could improve rice nutrition and taste",
+      "summary": "Rice is a staple food for nearly half the global population and an important dietary source of magnesium, a mineral essential for human health, plant growth and energy metabolism. Although magnesium is known to influence grain quality and taste, the biological mechanism controlling how the mineral reaches rice grains has remained largely unknown.",
+      "link": "https://phys.org/news/2026-06-magnesium-discovery-rice-nutrition.html",
+      "published_utc": "2026-06-08T22:10:01+00:00",
+      "score": 4,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-magnesium-transpor.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Mining companies may soon bypass UN rules and mine the deep sea",
+      "summary": "A Canadian deep-sea mining company may become the first to commercially mine the international seabed under a controversial U.S. executive order that bypasses United Nations regulations. A recent legal analysis suggests that this could place Canada in violation of international law.",
+      "link": "https://phys.org/news/2026-06-companies-bypass-deep-sea.html",
+      "published_utc": "2026-06-08T22:00:05+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/deep-sea-mining.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Hidden geometry explains why kernel methods separate complex data so well",
+      "summary": "Are two sets of data genuinely different, or is it because of randomness? This question, known as the two-sample testing problem, becomes notoriously difficult in modern datasets, because they are often high-dimensional, complex, and differences between them can take countless subtle forms.",
+      "link": "https://phys.org/news/2026-06-hidden-geometry-kernel-methods-complex.html",
+      "published_utc": "2026-06-08T21:50:03+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-hidden-geometry-th.jpg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "Blood test may predict immunotherapy response in head and neck cancer",
+      "summary": "A new Northwestern Medicine study suggests that a simple blood test could help identify which patients with head and neck cancer will be most likely to benefit from immunotherapy, according to a study published in the Journal of Clinical Investigation.",
+      "link": "https://medicalxpress.com/news/2026-06-blood-immunotherapy-response-neck-cancer.html",
+      "published_utc": "2026-06-08T21:40:02+00:00",
+      "score": 2,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/blood-test-1.jpg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "3D genome architecture pre-wires early developmental decisions",
+      "summary": "New research tracks how cells prepare gene regulatory decisions that will define their fate during the earliest stages of human development. The study reconstructs a timeline of chromosome folding that brings remote DNA regulatory regions into physical contact with genes they control. This work, from a team at the MRC Laboratory of Medical Sciences (LMS) and Imperial College London, with collaborators from the Babraham Institute in Cambridge, shows that some of these contacts form long before genes are activated, persist through later development and may help preselect the future gene targets of these regions. These findings highlight how the genome's 3D structure helps shape cell identity and could offer clues to how developmental disorders arise.",
+      "link": "https://medicalxpress.com/news/2026-06-3d-genome-architecture-pre-wires.html",
+      "published_utc": "2026-06-08T21:40:01+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/3d-genome-architecture.jpg"
+    },
+    {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
@@ -1222,18 +1126,6 @@
       "score": 0,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-to-stay-safe-while.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "What happens to a star that captures a primordial black hole?",
-      "summary": "We don't know whether theorized primordial black holes (PBH) are real. If they are, they formed in the very early universe, when physics was much different. They had no stellar progenitors and were created by the direct collapse of densely packed subatomic matter. Theorists have wondered whether PBH could be dark matter, or a component of dark matter.",
-      "link": "https://phys.org/news/2026-06-star-captures-primordial-black-hole.html",
-      "published_utc": "2026-06-08T21:20:03+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/what-happens-to-a-star.jpg"
     },
     {
       "section": "medical",
@@ -1260,18 +1152,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/semaglutide-2.jpg"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "How wax moth larvae can help reduce animal testing in research",
-      "summary": "Researchers at the Helmholtz Institute for One Health (HIOH) have demonstrated that larvae of the greater wax moth, Galleria mellonella, are suitable as an alternative infection model for investigating the pathogenicity of bacteria on a larger scale. This could significantly reduce testing on mammals in the future. The results of the study were published in The Lancet Microbe.",
-      "link": "https://phys.org/news/2026-06-wax-moth-larvae-animal.html",
-      "published_utc": "2026-06-08T21:00:08+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-wax-moth-larvae-ca.jpg"
-    },
-    {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
@@ -1284,54 +1164,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-uncover-ec.jpg"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Q&A: Expert discusses 250 years of sports in the United States",
-      "summary": "Sports in the United States look very different than they did when the nation was founded 250 years ago, according to Mark Dyreson, professor of kinesiology and history at Penn State. But one thing has remained constant—sport has played a vital role in shaping and reflecting the country's culture and values, he said.",
-      "link": "https://phys.org/news/2026-06-qa-expert-discusses-years-sports.html",
-      "published_utc": "2026-06-08T21:00:01+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/qa-250-years-of-sports.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Medicinal plants yield carbon nanoparticles that glow red and flag toxic metals",
-      "summary": "What do iron, lead and nickel have in common? These heavy metals are an indispensable part of many industries. However, they also share a dark reality: They are serious environmental and public health threats. Every day, they find their way into the atmosphere and water bodies through industrial activities, mining and urban waste. Heavy metals are highly toxic, do not break down naturally and tend to build up in the tissues of living organisms over time.",
-      "link": "https://phys.org/news/2026-06-medicinal-yield-carbon-nanoparticles-red.html",
-      "published_utc": "2026-06-08T20:50:01+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/when-plants-go-nano-a.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "'Labubu economics': Game-theoretic model explains why blind box strategies benefit suppliers, retailers, and consumers",
-      "summary": "The billion-dollar Labubu phenomenon broke a cardinal rule of retail: Consumers need to know what they're buying before they open their wallet. Most new Labubu sales took the form of \"blind boxes,\" where purchasers found out which type of doll they'd purchased only after the fact.",
-      "link": "https://phys.org/news/2026-06-labubu-economics-game-theoretic-strategies.html",
-      "published_utc": "2026-06-08T20:40:04+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/labubu.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Ancient hominins selected basalt sources for specific tools nearly 800,000 years ago, study reveals",
-      "summary": "A new study finds that ancient hominins nearly 800,000 years ago deliberately selected specific basalt sources for different stages of tool production rather than simply using whatever stone was available nearby. By tracing the geochemical \"fingerprints\" of stone tools to both exposed and now-buried basalt flows, the researchers demonstrated that these hominins possessed detailed environmental knowledge, advanced planning abilities, and long-term technological traditions that were maintained and repeated across generations.",
-      "link": "https://phys.org/news/2026-06-ancient-hominins-basalt-sources-specific.html",
-      "published_utc": "2026-06-08T20:40:03+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ancient-hominins-demon.jpg"
-    },
-    {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
@@ -1342,18 +1174,6 @@
       "score": 3,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-reveals-structur.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "New Relative Niño index introduces more robust way to measure El Niño strength",
-      "summary": "A new El Niño index that provides a more climate-robust measure of the strength of El Niño signals has been released by the European Centre for Medium-Range Weather Forecasts (ECMWF). With the World Meteorological Organization's recent update indicating an 80% likelihood of an El Niño event during June–August 2026 and a 90% probability of this continuing until at least November, it is more important than ever to have accurate, reliable data.",
-      "link": "https://phys.org/news/2026-06-nio-index-robust-el-strength.html",
-      "published_utc": "2026-06-08T20:30:01+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/weather-forecast.jpg"
     },
     {
       "section": "medical",
@@ -1380,42 +1200,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/resistance-training-ap.jpg"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Plants could be used to grow medicines in space, study shows",
-      "summary": "Astronauts on long space missions may one day use plants to produce fresh stocks of medicines on demand, thanks to new research by engineers at the University of California San Diego. The team developed a simple method to grow and repeatedly harvest pharmaceuticals from plants under space-like conditions, without destroying the plants or generating large amounts of waste.",
-      "link": "https://phys.org/news/2026-06-medicines-space.html",
-      "published_utc": "2026-06-08T20:20:01+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/plants-could-be-used-t.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "DNA design unlocks nanometer-scale catalyst control for cleaner hydrogen production",
-      "summary": "The fixed idea that DNA is only a molecule that stores genetic information is being challenged. KAIST researchers have developed a technology that controls the chemical environment around catalysts at the nanometer scale by designing DNA sequences—the arrangement of A, T, G and C that make up genetic information. The team has presented a new catalyst platform that can improve hydrogen production efficiency and increase the yield of desired chemical products by designing DNA much like writing a computer program.",
-      "link": "https://phys.org/news/2026-06-dna-nanometer-scale-catalyst-cleaner.html",
-      "published_utc": "2026-06-08T20:10:06+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-turn-dna-f-1.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Sesame dynamically rewires lignan metabolism during germination",
-      "summary": "Sesame seeds are rich in lipid-soluble lignans such as sesamin, which are widely known as health-promoting phytochemicals. While these compounds rapidly decrease during germination and are converted into water-soluble glucosides, the molecular mechanism underlying this large-scale metabolic transition had remained unclear.",
-      "link": "https://phys.org/news/2026-06-sesame-dynamically-rewires-lignan-metabolism.html",
-      "published_utc": "2026-06-08T20:10:01+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/sesame-dynamically-rew.jpg"
-    },
-    {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
@@ -1426,18 +1210,6 @@
       "score": 1,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/woman-and-supplement.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Corals have a hormonal clock and it looks surprisingly like ours",
-      "summary": "A three-year study has cracked open the hidden biology behind coral reproduction, revealing hormone cycles that echo those of humans and other animals, and a new way to detect reef distress before it's too late.",
-      "link": "https://phys.org/news/2026-06-corals-hormonal-clock.html",
-      "published_utc": "2026-06-08T20:00:05+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/corals-have-a-hormonal.jpg"
     },
     {
       "section": "medical",
@@ -1452,42 +1224,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-drug-could-slow-th.jpg"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "How migration became a key to World Cup success",
-      "summary": "Few would have predicted Morocco's success at the 2022 Fifa World Cup. Heading into the tournament, they were ranked 22nd in the world and had never progressed beyond the round of 16.",
-      "link": "https://phys.org/news/2026-06-migration-key-world-cup-success.html",
-      "published_utc": "2026-06-08T20:00:01+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/morocco-soccer-team.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Twisted stacking lets 2D conductor keep single-layer performance in bulk form",
-      "summary": "Two-dimensional (2D) materials, which are significantly thinner than a single sheet of paper, have long drawn attention for their exceptional performance. However, they have faced a critical limitation: Their performance degrades significantly when multiple layers are stacked.",
-      "link": "https://phys.org/news/2026-06-stacking-2d-conductor-layer-bulk.html",
-      "published_utc": "2026-06-08T19:50:02+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-develop-st-2.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Green growth claims are overstated—our study shows three reasons why",
-      "summary": "A holy grail of environmental policy is an economy that delivers prosperity without requiring the ever-increasing consumption of raw materials.",
-      "link": "https://phys.org/news/2026-06-green-growth-overstated.html",
-      "published_utc": "2026-06-08T19:40:09+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/green-growth-claims-ar.jpg"
-    },
-    {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
@@ -1500,18 +1236,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-reveals-kidney-c.jpg"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "NASA Breaking News",
-      "title": "How NASA Science and Artemis Are Shaping the 2026 FIFA World Cup",
-      "summary": "As&#160;the FIFA World Cup&#160;approaches, NASA is bringing&#160;space science and&#160;engineering&#160;to soccer fans&#160;worldwide.&#160;From&#160;June 11&#160;to July 19,&#160;2026,&#160;NASA will&#160;host an&#160;exhibit&#160;at FIFA Fan Festival™&#160;Houston where visitors can learn how research aboard the International Space Station benefits life on Earth&#160;and&#160;experience missions in low Earth orbit, the Moon,&#160;and&#160;beyond&#160;through the Artemis program.&#160; On June 11, as the FIFA World Cup begins, NASA’s exhibit [&#8230;]",
-      "link": "https://www.nasa.gov/centers-and-facilities/johnson/how-nasa-science-and-artemis-are-shaping-the-2026-fifa-world-cup",
-      "published_utc": "2026-06-08T19:36:08+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://www.youtube.com/embed/g8zVn14wg38"
-    },
-    {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
@@ -1522,42 +1246,6 @@
       "score": 1,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/eggs.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Ribosome tunnel interactions reveal how bacteria can pause protein production",
-      "summary": "How do bacteria regulate the production of their proteins? Researchers at the University of Hamburg, in collaboration with international partners, have now demonstrated how small protein building blocks, known as peptides, specifically influence bacterial protein production. The findings have been published in two articles in the journal Nature Communications.",
-      "link": "https://phys.org/news/2026-06-ribosome-tunnel-interactions-reveal-bacteria.html",
-      "published_utc": "2026-06-08T19:20:06+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-discover-n-10.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Need for early, institution-wide AI literacy education highlighted in study",
-      "summary": "Along with researchers from James Madison University, three collaborators in the Office of the Provost recently published in Research & Practice in Assessment. Jaime Miller, Stuart Miller and Rachel Whitman Rotch began gathering data in the summer of 2025, investigating students' artificial intelligence (AI) literacy levels using the Generative AI Literacy Assessment Test (GLAT).",
-      "link": "https://phys.org/news/2026-06-early-wide-ai-literacy-highlighted.html",
-      "published_utc": "2026-06-08T19:20:05+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/student-using-ai.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Van der Waals forces can play unexpected role in thin film properties",
-      "summary": "Researchers have demonstrated the ability to use van der Waals forces to tune the physical and electronic properties of ferroelectric thin films. The work opens the door to new techniques for engineering materials for use in smaller, more energy efficient electronic devices.",
-      "link": "https://phys.org/news/2026-06-van-der-waals-play-unexpected.html",
-      "published_utc": "2026-06-08T19:20:04+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/van-der-waals-forces-c.jpg"
     },
     {
       "section": "medical",
@@ -1760,6 +1448,7 @@
       "https://live.staticflickr.com/65535/55304400555_5158597eda_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/37648762535_ac409c3f42_b.jpg",
       "https://live.staticflickr.com/65535/55304898769_9cb87fa076_b.jpg",
       "https://live.staticflickr.com/65535/55302878011_2ea670da63_b.jpg",
       "https://live.staticflickr.com/65535/55306106122_a97393b705_b.jpg",
@@ -1776,10 +1465,10 @@
       "https://live.staticflickr.com/65535/16509864510_830e23d4f8_b.jpg",
       "https://live.staticflickr.com/65535/16673673042_522c220ee6_b.jpg",
       "https://live.staticflickr.com/65535/16489982257_015ab439de_b.jpg",
-      "https://live.staticflickr.com/1511/25189791186_f1a071f5c0_b.jpg",
-      "https://live.staticflickr.com/65535/55309134780_0e76827d98_b.jpg"
+      "https://live.staticflickr.com/1511/25189791186_f1a071f5c0_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55323416413_b042de0d61_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/3/3f/NYC_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg",
       "https://live.staticflickr.com/65535/55322111959_f972938840_b.jpg",
       "https://live.staticflickr.com/65535/55320740132_ae5dda5aaa_b.jpg",
@@ -1796,12 +1485,11 @@
       "https://live.staticflickr.com/65535/55318667559_4b8ab2ac9c_b.jpg",
       "https://live.staticflickr.com/65535/55318532753_6b78b14333_b.jpg",
       "https://live.staticflickr.com/65535/55317079172_4b9c410340_b.jpg",
-      "https://live.staticflickr.com/65535/55318043338_08031922f5_b.jpg",
-      "https://live.staticflickr.com/65535/55316607872_f84d73fb57_b.jpg"
+      "https://live.staticflickr.com/65535/55318043338_08031922f5_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
+      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
