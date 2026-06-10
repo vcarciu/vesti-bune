@@ -1,42 +1,78 @@
 {
-  "generated_utc": "2026-06-10T10:52:06+00:00",
+  "generated_utc": "2026-06-10T14:16:38+00:00",
   "sections": {
     "romania": [
       {
         "section": "romania",
         "kind": "ro",
+        "source": "RomaniaPozitiva",
+        "title": "Cele mai apreciate titluri Alice Books la Bookfest 2026",
+        "summary": "De la poezie și ficțiune literară până la romane premiate și bestsellere internaționale, titlurile Alice Books au atras constant interesul cititorilor pe parcursul Bookfest 2026. Pe primul loc în preferințele&#8230; Articolul Cele mai apreciate titluri Alice Books la Bookfest 2026 apare prima dată în Romania Pozitiva .",
+        "link": "https://www.romaniapozitiva.ro/cultura/cele-mai-apreciate-titluri-alice-books-la-bookfest-2026",
+        "published_utc": "2026-06-10T13:09:34+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-78712dd885350f73/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "CM 2026. Dănuţ Lupu: „La Mondialul din '90 am plecat din cantonament, m-a întors Lucescu”",
+        "summary": "Fostul internaţional Dănuţ Lupu a afirmat, miercuri, la Muzeul Fotbalului, unde a vizitat o expoziţie cu mingi de la turneele finale ale Cupei Mondiale, că prima amintire legată de ediţia Italia '90 este momentul când a părăsit cantonamentul echipei naţionale, fiind nemulţumit de faptul că nu a fost folosit titular în prima partidă.",
+        "link": "https://www.digi24.ro/campionatul-mondal-de-fotbal-2026/cm-2026-danut-lupu-la-mondialul-din-90-am-plecat-din-cantonament-m-a-intors-lucescu-3809185",
+        "published_utc": "2026-06-10T13:09:27+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjMl/MkYxMCUyRjAyJTJGMTgwOTgwMF8xODA5/ODAwX2RhbnV0LWx1cHUuanBnJmhhc2g9/MjY0M2RiNzRlMTg3OWJlNzgyNDdjOTZiMzA1MjVkMzQ=.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "TollRo, amânat pentru a doua oară. Când va intra în vigoare noul sistem de taxare a drumurilor",
+        "summary": "Aplicarea noului sistem electronic de taxare a drumurilor naționale din România, TollRo, a fost amânată pentru a doua oară. Camera Deputaților a adoptat miercuri proiectul de lege pentru aprobarea OUG nr. 74/2025, care prevede prorogarea termenului de aplicare a sistemului până la 1 octombrie 2026. Proiectul a fost adoptat cu 244 de voturi „pentru”.",
+        "link": "https://www.digi24.ro/stiri/economie/transporturi/tollro-amanat-pentru-a-doua-oara-cand-va-intra-in-vigoare-noul-sistem-de-taxare-a-drumurilor-3809047",
+        "published_utc": "2026-06-10T12:06:34+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjEl/MkYwMiUyRjE4JTJGMTI4OTk3N18xMjg5/OTc3X2F1dG9zdHJhZGEtbWFzaW5pLXRp/cnVyaS1HZXR0eUltYWdlcy00OTk1MzQ3/NDEuanBnJmhhc2g9ZjVmZWY2ZmFiNjkyZDBhOTMyMTkxMDY5ZGQyNDBkNWU=.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
         "source": "HotNews",
-        "title": "NASA a anunțat astronauții pentru misiunea Artemis III: Un pilot de teste, un recordmen, un debutant și un european",
-        "summary": "NASA a desemnat trei astronauți americani și unul italian pentru a forma echipajul următoarei misiuni Artemis, o demonstrație de andocare a navelor spațiale pe orbita Pământului care va avea loc anul viitor și în cadrul căreia vor fi testate pentru prima dată în spațiu modulele de aterizare lunare ale companiilor SpaceX (a lui Elon Musk) &#8230;",
-        "link": "https://hotnews.ro/nasa-a-anuntat-astronautii-pentru-misiunea-artemis-iii-un-pilot-de-teste-un-recordmen-un-debutant-si-un-european-2269737",
-        "published_utc": "2026-06-10T10:44:56+00:00",
+        "title": "Sistem de supraveghere cu peste 600 de camere de luat vederi, în sectorul 4. Investiție de 20 de milioane de lei",
+        "summary": "Camerele au fost montate pe străzile principale din Sectorul 4, în intersecții, în jurul blocurilor reabilitate, la locurile de joacă, în parcuri și în proximitatea unităților de învățământ, a anunțat primarul Sectorului 4, Daniel Băluță. Sistemul de supraveghere cu 600 de camere de luat vederi vor transmite imagini în timp real, 24 de ore din &#8230;",
+        "link": "https://hotnews.ro/sistem-de-supraveghere-cu-peste-600-de-camere-de-luat-vederi-in-sectorul-4-investitie-de-20-de-milioane-de-lei-2269834",
+        "published_utc": "2026-06-10T12:04:21+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-71f2fdb81154fd2e/480/320"
+        "image": "https://picsum.photos/seed/vb-9cdf4286839e63f7/480/320"
       },
       {
         "section": "romania",
         "kind": "ro",
-        "source": "Digi24",
-        "title": "Plafonarea adaosului comercial la alimentele de bază a fost prelungită până la sfârșitul anului. Ce produse sunt vizate",
-        "summary": "Plafonarea adaosului comercial la alimentele de bază a fost prelungită până la finalul anului 2026. Camera Deputaților a adoptat miercuri proiectul de lege, în calitate de for decizional, cu 292 de voturi „pentru”, unul „împotrivă” și o abținere. Măsura vizează 17 categorii de produse alimentare considerate de bază și urma să expire la finalul lunii iunie.",
-        "link": "https://www.digi24.ro/stiri/economie/plafonarea-adaosului-comercial-la-alimentele-de-baza-a-fost-prelungita-pana-la-sfarsitul-anului-ce-produse-sunt-vizate-3808907",
-        "published_utc": "2026-06-10T10:03:57+00:00",
+        "source": "HotNews",
+        "title": "Când boala nu așteaptă: cum scurtează PNEUMO TEAM de la MONZA ARES drumul dintre suspiciune și tratament în cancerul pulmonar",
+        "summary": "Pentru un pacient care aude pentru prima dată că are un nodul pulmonar sau o suspiciune oncologică, timpul începe să capete altă greutate. Nu mai este doar o succesiune de zile, ci începutul unei perioade marcate de întrebări, investigații, frică și, de multe ori, o confuzie greu de gestionat. Din acel moment, pentru mulți pacienți &#8230;",
+        "link": "https://hotnews.ro/cand-boala-nu-asteapta-cum-scurteaza-pneumo-team-de-la-monza-ares-drumul-dintre-suspiciune-si-tratament-in-cancerul-pulmonar-2269432",
+        "published_utc": "2026-06-10T11:46:40+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjEl/MkYwNSUyRjA2JTJGMTMyMjM2Ml8xMzIy/MzYyX3Byb2ZpbWVkaWEtY29zLWN1LWFs/aW1lbnRlLmpwZyZoYXNoPWMyM2U0OWM2YTFhNGEyMGExOTQ1ZjkxYmI2NmM1N2Fk.jpg"
+        "image": "https://picsum.photos/seed/vb-7825a1ec7d8431e0/480/320"
       },
       {
         "section": "romania",
         "kind": "ro",
-        "source": "Digi24",
-        "title": "Producătorii avertizează că plafonarea adaosului la alimente îi împinge în pierdere: „Este o catastrofă pentru industria laptelui”",
-        "summary": "Prelungirea plafonării adaosului comercial la alimentele de bază pune o presiune tot mai mare pe fermieri, care ajung să vândă laptele sub costurile de producție, avertizează Ionuț Lupu, reprezentant al unei asociații de fermieri. Acesta a declarat la Digi24 că intervențiile statului în piață creează „distorsiuni grave” și că fermierii sunt cei care suportă efectele măsurilor adoptate de autorități. Declarațiile vin în contextul în care deputații discută prelungirea plafonării adaosului comercial pentru 17 categorii de produse alimentare până la finalul anului 2026.",
-        "link": "https://www.digi24.ro/stiri/economie/producatorii-avertizeaza-ca-plafonarea-adaosului-la-alimente-ii-impinge-in-pierdere-este-o-catastrofa-pentru-industria-laptelui-3808851",
-        "published_utc": "2026-06-10T09:21:01+00:00",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 Din neatenție, Alfred Simonis s-a încălțat azi cu banii din cutia de pantofi, nu cu pantofii",
+        "summary": "Pentru că se consideră un politician respectabil, Alfred Simonis are acasă zeci de cutii de pantofi, dar iată că acest lucru uneori poate să îl și încurce. Azi, de exemplu, Simonis se grăbea să ajungă la ceva tăiere de panglică și, din neatenție, s-a încălțat cu teancurile de euro dintr-o cutie de pantofi, nu cu [&#8230;] The post Din neatenție, Alfred Simonis s-a încălțat azi cu banii din cutia de pantofi, nu cu pantofii appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/politic/din-neatentie-alfred-simonis-s-a-incaltat-azi-cu-banii-din-cutia-de-pantofi-nu-cu-pantofii",
+        "published_utc": "2026-06-10T09:30:19+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwMyUyRjA0JTJGMjIwNDEwMV8yMjA0/MTAxX0dldHR5SW1hZ2VzLTEyOTcwMDUy/MTcuanBnJmhhc2g9MDU0NjBiZjU4MWVkMWUxOTZhOGJlMDQ5NzcxMDg5ZjY=.jpg"
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/06/simonis_teancuri_euro_picioare.jpg"
       },
       {
         "section": "romania",
@@ -77,30 +113,6 @@
       {
         "section": "romania",
         "kind": "ro",
-        "source": "HotNews",
-        "title": "În cel mai dificil an economic din ultimul deceniu, un brand de lux face afaceri record în centrul Bucureștiului",
-        "summary": "Afacerile mărcii Louis Vuitton&#160;din România nu cunosc criza, scrie site-ul Economica. În 2025, singurul magazin Louis Vuitton din România, cel care se află la parterul hotelului&#160;Athenee Palace Intercontinental din centrul Bucureștiului,&#160;a realizat afaceri de aproape 139 de milioane de lei, circa&#160;27,5 milioane de euro. Suma reprezină o creștere de 16% față de anul anterior, potrivit &#8230;",
-        "link": "https://hotnews.ro/in-cel-mai-dificil-an-economic-din-ultimul-deceniu-un-brand-de-lux-face-afaceri-record-in-centrul-bucurestiului-2269663",
-        "published_utc": "2026-06-10T08:57:16+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-c89279f04b81a158/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "Reff & Asociații | Deloitte Legal a asistat MAS Real Estate, unul dintre cei mai mari proprietari de centre comerciale din România, în procesul de vânzare a șase proprietăți de acest tip către AFI Europe. Valoarea tranzacției depășește 280 de milioane de euro",
-        "summary": "Echipa Reff &#38; Asociații &#124; Deloitte Legal a asistat MAS Property Holding, parte a grupului sud-african deținut de MAS P.L.C. (listat la bursa din Johannesburg) în procesul de vânzare a șase centre comerciale în aer liber, în valoare de peste 280 de milioane de euro, către dezvoltatorul imobiliar AFI Europe N.V.. Tranzacția este supusă aprobării &#8230;",
-        "link": "https://hotnews.ro/reff-asociatii-deloitte-legal-a-asistat-mas-real-estate-unul-dintre-cei-mai-mari-proprietari-de-centre-comerciale-din-romania-in-procesul-de-vanzare-a-sase-proprietati-de-acest-tip-catre-afi-2269667",
-        "published_utc": "2026-06-10T08:50:50+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-4a63c43a4cea5a3a/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
         "source": "RomaniaPozitiva",
         "title": "Editura DPH la Bookfest 2026: Top cele mai vândute cărți și jocuri educative",
         "summary": "Seriile de ficțiune cu personaje puternice și universuri captivante, titlurile care îmbină creativitatea cu descoperirea, cărțile de non-ficțiune ancorate în pasiunile reale ale copiilor – fotbal, robotică, Minecraft, benzi desenate&#8230; Articolul Editura DPH la Bookfest 2026: Top cele mai vândute cărți și jocuri educative apare prima dată în Romania Pozitiva .",
@@ -113,14 +125,13 @@
       {
         "section": "romania",
         "kind": "ro",
-        "source": "HotNews",
-        "title": "FOTO. Câștigător Chefi la cuțite, varianta mini. Învingătorul, anunțat la Antena 1",
-        "summary": "În această seară, de la ora 20.30, emisiunea Chefi la cuțite- Viitorul are gust își va desemna câștigătorul. Marți seara, patru concurenți s-au calificat în finală: Chef Richard Abou Zaki este reprezentat în finală de Irina Iancu, Chef Ștefan Popescu îl susține pe concurentul său, Nicolas Manolache, Chef Orlando Zaharia a intrat în finală cu &#8230;",
-        "link": "https://hotnews.ro/foto-castigator-chefi-la-cutite-varianta-mini-invingatorul-anuntat-la-antena-1-2269616",
-        "published_utc": "2026-06-10T08:17:47+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-3e5dee59ba7efd36/480/320"
+        "source": "Digi24",
+        "title": "Un copil de 7 ani a fost luat pe sus de tată dintr-o școală din Sălaj, după o neînțelegere cu fosta soție",
+        "summary": "Au fost momente tensionate într-o școală din Sălaj: un bărbat de 59 de ani, cetățean italian, a intrat într-o sală de clasă pentru a-și vedea fiul în vârstă de 7 ani. Potrivit martorilor, acesta l-ar fi luat în brațe pe copil și ar fi ieșit în grabă din clasă, provocând panică în rândul profesorilor.",
+        "link": "https://www.digi24.ro/stiri/actualitate/evenimente/un-copil-de-7-ani-a-fost-luat-pe-sus-de-tata-dintr-o-scoala-din-salaj-dupa-o-neintelegere-cu-fosta-sotie-3808657",
+        "published_utc": "2026-06-10T07:57:12+00:00",
+        "score": 2,
+        "image": "https://picsum.photos/seed/vb-99dd699b87d3d71a/480/320"
       },
       {
         "section": "romania",
@@ -133,18 +144,6 @@
         "score": 3,
         "freshness_boost": 3,
         "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/06/Veste-buna-de-la-banca.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Start-Up Romania",
-        "title": "Startup-ul de infrastructură de ecommerce Naratix primește 1 milion de euro de la Early Game Ventures",
-        "summary": "Early Game Ventures anunță finalizarea unei runde seed în valoare de 1 milion de euro la Naratix, startup 100% românesc care construiește infrastructură critică pentru companiile globale de...",
-        "link": "https://start-up.ro/startup-ul-de-infrastructura-de-ecommerce-naratix-primeste-1-milion-de-euro-de-la-early-game-ventures",
-        "published_utc": "2026-06-10T07:32:09+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://start-up.ro/img/articles/3/8/5/38502/cover-38502-src.jpg"
       },
       {
         "section": "romania",
@@ -173,38 +172,14 @@
       {
         "section": "romania",
         "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 Metrorex, licitaţie mamut pentru agenți de pază. Zeci de azile și-au înscris bătrânii",
-        "summary": "Freamătă azilele de bătrâni din toată țara! Metrorex a anunțat o licitație mamut pentru agenți de pază: peste 50 de milioane de euro pentru un contract întins pe doar 3 ani. La o astfel de sumă nu e nicio surpriză că s-au înscris la licitație aproape toate azilele de bătrâni din țară. Evident, sunt avantajate [&#8230;] The post Metrorex, licitaţie mamut pentru agenți de pază. Zeci de azile și-au înscris bătrânii appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/life-death/metrorex-licitatie-mamut-pentru-agenti-de-paza-zeci-de-azile-si-au-inscris-batranii",
-        "published_utc": "2026-06-09T14:07:26+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/06/bodyguard_metrou_bucuresti.jpeg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
         "source": "RomaniaPozitiva",
         "title": "Gala BookLand premiază excelența în mediul rural, pentru al treilea an consecutiv, cu burse educaționale în valoare de 105.000 euro",
         "summary": "Cea de-a treia ediție a Galei BookLand a avut loc la finalul lunii mai, la Muzeul Național al Satului „Dimitrie Gusti” din București, reunind elevi, dascăli, parteneri ai Asociației BookLand&#8230; Articolul Gala BookLand premiază excelența în mediul rural, pentru al treilea an consecutiv, cu burse educaționale în valoare de 105.000 euro apare prima dată în Romania Pozitiva .",
         "link": "https://www.romaniapozitiva.ro/bucuresti/gala-bookland-premiaza-excelenta-in-mediul-rural-pentru-al-treilea-an-consecutiv-cu-burse-educationale-in-valoare-de-105-000-euro",
         "published_utc": "2026-06-09T13:50:22+00:00",
         "score": 3,
-        "freshness_boost": 3,
+        "freshness_boost": 1,
         "image": "https://picsum.photos/seed/vb-7e6f23fcb8bb4085/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "RomaniaPozitiva",
-        "title": "Eveniment la SIBIU ”Ce mișcă un oraș. Ce mișcă un business.”",
-        "summary": "Cine construiește, de fapt, viitorul unui oraș? Într-un context în care Sibiul se transformă rapid, credem că este important să aducem în dialog oameni care nu doar observă schimbările, ci&#8230; Articolul Eveniment la SIBIU ”Ce mișcă un oraș. Ce mișcă un business.” apare prima dată în Romania Pozitiva .",
-        "link": "https://www.romaniapozitiva.ro/economie/evenimentul-la-sibiu-ce-misca-un-oras-ce-misca-un-business",
-        "published_utc": "2026-06-09T11:33:44+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-725b011705867411/480/320"
       },
       {
         "section": "romania",
@@ -404,255 +379,231 @@
         "section": "medical",
         "kind": "global",
         "source": "Medical Xpress",
-        "title": "Common infection does not increase risk of recurrent preterm birth, study finds",
-        "summary": "A new study from UTHealth Houston has found that the common sexually transmitted infection Mycoplasma genitalium, also known as MGen, does not appear to increase the risk of recurrent preterm birth. The findings are published in The American Journal of Obstetrics and Gynecology.",
-        "link": "https://medicalxpress.com/news/2026-06-common-infection-recurrent-preterm-birth.html",
-        "published_utc": "2026-06-10T02:00:03+00:00",
+        "title": "The science of sweat: A researcher is helping Brazil prepare for the heat of the World Cup",
+        "summary": "As the world's best soccer players prepare for the 2026 FIFA World Cup across North America this summer, teams are gearing up not only for opponents but also for the heat. In stadiums from Miami to Mexico City, soaring temperatures and humidity could affect matches, recovery times and ultimately championship outcomes. And behind one of the most storied teams in soccer history is a University of Florida scientist using the science of sweat to help athletes perform, recover and stay healthy in extreme heat.",
+        "link": "https://medicalxpress.com/news/2026-06-science-brazil-world-cup.html",
+        "published_utc": "2026-06-10T14:00:06+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/birth.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-science-of-sweat-a.jpg"
       },
       {
         "section": "medical",
         "kind": "global",
         "source": "Medical Xpress",
-        "title": "Key protein behind chemotherapy resistance in colorectal cancer identified",
-        "summary": "One of the most widely used chemotherapeutic agents for colorectal cancer is 5-fluorouracil (5-FU), a cornerstone treatment that has improved outcomes for countless patients. However, repeated treatment often leads to drug resistance, allowing cancer cells to adapt and gradually evade the effects of therapy.",
-        "link": "https://medicalxpress.com/news/2026-06-key-protein-chemotherapy-resistance-colorectal.html",
-        "published_utc": "2026-06-10T01:40:01+00:00",
-        "score": 2,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/key-protein-behind-che.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Hidden inflammatory patterns in primary ciliary dyskinesia could improve treatment of other chronic lung conditions",
-        "summary": "Researchers at UTHealth Houston have identified different types of hidden systemic inflammation in patients with primary ciliary dyskinesia, even when they are not experiencing acute illness. The findings are published in the Annals of the American Thoracic Society.",
-        "link": "https://medicalxpress.com/news/2026-06-hidden-inflammatory-patterns-primary-ciliary.html",
-        "published_utc": "2026-06-10T01:20:01+00:00",
+        "title": "1 in 3 middle-aged adults struggle with basic 'everyday' health tasks, study finds",
+        "summary": "A new Northwestern University study has found one in three middle-aged American adults ages 35 to 64 cannot consistently read prescription instructions correctly, understand medical forms or recall details from doctor visits involving chronic condition diagnoses. These skills—often referred to as health literacy—are critical for managing common conditions such as high blood pressure, high cholesterol and diabetes, which commonly emerge in midlife.",
+        "link": "https://medicalxpress.com/news/2026-06-middle-aged-adults-struggle-basic.html",
+        "published_utc": "2026-06-10T14:00:01+00:00",
         "score": 1,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/child-ear-infection.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "ScienceDaily Health",
-        "title": "Cancer patients found a simple way to stay mentally sharp during chemotherapy",
-        "summary": "“Chemo brain” affects up to 80% of people receiving chemotherapy, making everyday tasks harder. In a new trial, cancer patients who followed a home-based exercise program showed better attention and fewer noticeable cognitive problems than those who received a placebo. Low-dose ibuprofen also improved some cognitive measures, though its effects were less consistent.",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260608040019.htm",
-        "published_utc": "2026-06-10T01:16:16+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-0ddbbb9f16465345/480/320"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/one-in-three-middle-ag.jpg"
       },
       {
         "section": "medical",
         "kind": "global",
         "source": "Medical Xpress",
-        "title": "Study looks at barriers to initiation of rotavirus vaccine",
-        "summary": "Risk factors for not initiating a rotavirus vaccine (RVV)—for which the first dose is recommended by a maximum age of 14 weeks, six days—include extremely preterm birth and having no health insurance, according to a study published in Pediatrics.",
-        "link": "https://medicalxpress.com/news/2026-06-barriers-rotavirus-vaccine.html",
-        "published_utc": "2026-06-10T00:40:03+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-looks-at-barrier.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Four out of five cigarettes smoked in Australia are illegal. What's in them?",
-        "summary": "An estimated 80% of the cigarettes smoked in Australia last year were illegal, according to new wastewater data from the Bureau of Statistics. We asked respiratory experts what could be in them.",
-        "link": "https://medicalxpress.com/news/2026-06-cigarettes-australia-illegal.html",
-        "published_utc": "2026-06-10T00:00:02+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/four-out-of-five-cigar.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Washing machines could support skin health for First Nations people—if we get the wash settings right",
-        "summary": "Doing a load of laundry involves lots of decisions—from which cycle to choose to what detergent to use.",
-        "link": "https://medicalxpress.com/news/2026-06-machines-skin-health-nations-people.html",
-        "published_utc": "2026-06-09T23:20:06+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/washing-machines.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Human traits beyond inherited genes can still leave a measurable imprint on your life, study shows",
-        "summary": "Our parents' genes, even the ones we didn't inherit, leave a measurable lasting imprint on our lives. An international team led by researchers at the Institute of Science and Technology Austria (ISTA) and the Norwegian Institute of Public Health developed a new approach to analyze genetic data from tens of thousands of families. The study, published this Tuesday in Cell Genomics, found that for height, body weight, and school test performance, the environment shaped by our parents' genes can be nearly as important as the genes we actually inherited from them.",
-        "link": "https://medicalxpress.com/news/2026-06-human-traits-inherited-genes-imprint.html",
-        "published_utc": "2026-06-09T23:20:01+00:00",
-        "score": 4,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/human-traits-beyond-in.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "ScienceDaily Health",
-        "title": "Ultra-processed foods may be stealing your focus even if you eat healthy",
-        "summary": "A study of more than 2,100 adults found that eating more ultra-processed foods was linked to poorer attention and slower mental processing, even among people with otherwise healthy diets. Researchers also found higher consumption was associated with increased dementia risk factors, raising concerns about the hidden cognitive costs of heavily processed foods.",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260608040017.htm",
-        "published_utc": "2026-06-09T12:36:26+00:00",
+        "title": "Japan's quality of life kept sliding after COVID restrictions ended, study reveals",
+        "summary": "A nationwide study tracking Japanese adults before, during and after the COVID-19 pandemic found that health-related quality of life steadily declined over seven years and did not rebound after the public health emergency ended. Researchers say the decline may reflect the cumulative impact of pandemic-related changes in physical activity, mental well-being and social interaction among working-age adults across Japan.",
+        "link": "https://medicalxpress.com/news/2026-06-japan-quality-life-covid-restrictions.html",
+        "published_utc": "2026-06-10T13:45:42+00:00",
         "score": 1,
         "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-529d6b2194d2f7f1/480/320"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/health-related-quality.jpg"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "Medical Xpress",
+        "title": "Inexpensive drug should be used in most major surgeries to prevent blood transfusion, clinical trial finds",
+        "summary": "A landmark clinical trial published in the New England Journal of Medicine found that tranexamic acid reduced transfusions across major surgeries without increasing the risk of dangerous blood clots. The trial was coordinated by the University of Manitoba (UM) and co-led by researchers at UM and The Ottawa Hospital.",
+        "link": "https://medicalxpress.com/news/2026-06-inexpensive-drug-major-surgeries-blood.html",
+        "published_utc": "2026-06-10T12:30:01+00:00",
+        "score": 1,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/blood-transfusion.jpg"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "Medical Xpress",
+        "title": "New study flips mental health paradigm: Proactive brain training builds community resilience before crisis hits",
+        "summary": "A new study published in Frontiers in Psychology challenges the traditional, reactive model of mental health care by demonstrating that proactive brain training can strengthen the human mind before mental health challenges take root. Additionally, it can support the wellness of those with a history of mental illness.",
+        "link": "https://medicalxpress.com/news/2026-06-flips-mental-health-paradigm-proactive.html",
+        "published_utc": "2026-06-10T12:20:01+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-frontiers-in-psych.jpg"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "Medical Xpress",
+        "title": "Canada faces surge in social anxiety, new research shows",
+        "summary": "A new Canadian study has found that social anxiety disorder (SAD) now affects nearly one in seven adults—a 71% increase since 2002—making it one of the most common mental health challenges in the country. The study is published in the journal Psychiatry Research.",
+        "link": "https://medicalxpress.com/news/2026-06-canada-surge-social-anxiety.html",
+        "published_utc": "2026-06-10T11:00:01+00:00",
+        "score": 1,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/teen-looking-out-windo.jpg"
       },
       {
         "section": "medical",
         "kind": "global",
         "source": "ScienceDaily Health",
-        "title": "Sleep apnea’s hidden heart disease trigger found in the gut",
-        "summary": "A surprising gut-heart connection may help explain why sleep apnea increases the risk of cardiovascular disease. In mice, disabling a bile acid receptor called FXR sharply reduced plaque buildup, opening the door to potential new treatments based on gut microbes and their chemical signals.",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260608040002.htm",
-        "published_utc": "2026-06-09T12:30:04+00:00",
+        "title": "A classic brain test exposed AI's biggest weakness",
+        "summary": "Researchers gave top AI models a classic attention test used in psychology and found a major flaw. While the models could correctly name colors in short lists, their performance deteriorated sharply as the task became longer and more complex. Some leading systems fell from over 90% accuracy to nearly complete failure.",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260610003049.htm",
+        "published_utc": "2026-06-10T10:52:17+00:00",
+        "score": 1,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-c246d9d7487b0fcc/480/320"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "Scientists mapped every neural connection in a fruit fly and found a surprise",
+        "summary": "A groundbreaking new connectome maps every neural connection in an adult fruit fly’s central nervous system, creating an unprecedented view of how the brain and body work together. The findings suggest that complex behaviors emerge from distributed local circuits rather than a single central controller, offering new clues about intelligence, movement, and brain function.",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260610003047.htm",
+        "published_utc": "2026-06-10T10:10:54+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-7e55c2bbd712536c/480/320"
+        "image": "https://picsum.photos/seed/vb-07cb3b2c6b321b0c/480/320"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "Intermittent fasting triggers surprising changes in the brain",
+        "summary": "Losing weight may involve rewiring the gut and the brain at the same time. In a study of obese adults, an intermittent fasting-style diet led to significant weight loss, healthier metabolic markers, and notable shifts in gut bacteria. Brain scans also revealed changes in regions tied to appetite, cravings, and self-control. The results suggest the gut microbiome and brain may work together to influence weight-loss success.",
+        "link": "https://www.sciencedaily.com/releases/2026/05/260530004622.htm",
+        "published_utc": "2026-05-31T09:01:44+00:00",
+        "score": 1,
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-584d4cad5c4e5d21/480/320"
       }
     ],
     "science": [
       {
         "section": "science",
         "kind": "global",
-        "source": "Phys.org",
-        "title": "How health care systems shape native preferences for immigrants",
-        "summary": "In recent years, anti-immigration sentiment has become increasingly common around the world. A common concern surrounding immigration is its potential impact on the host country's welfare system, including health care. Such concerns can reduce public support for accepting immigrants and for redistributive welfare policies.",
-        "link": "https://phys.org/news/2026-06-health-native-immigrants.html",
-        "published_utc": "2026-06-10T02:00:02+00:00",
-        "score": 0,
+        "source": "NASA Breaking News",
+        "title": "NASA Webb Finds Strongest Evidence Yet for ‘Black Hole Stars’",
+        "summary": "The complex puzzle known as little red dots has become more complete since their initial discovery by NASA’s James Webb Space Telescope in 2022. Now a particular little red dot’s spectrum is helping connect many of the pieces. A team of astronomers led by Vasily Kokorev at the University of Texas at Austin identified the […]",
+        "link": "https://science.nasa.gov/missions/webb/nasa-webb-finds-strongest-evidence-yet-for-black-hole-stars",
+        "published_utc": "2026-06-10T14:00:00+00:00",
+        "score": 4,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-healthcare-systems.jpg"
+        "image": "https://picsum.photos/seed/vb-b14fdde716a0c55f/480/320"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Strong leadership will be key as AI reshapes the workforce, argues research",
-        "summary": "As artificial intelligence changes how work gets done, experts say strong leadership will play a critical role in helping employees adapt to shifting responsibilities, evolving technologies and changing workplace demands. The findings are published in the journal Human Resource Development Review.",
-        "link": "https://phys.org/news/2026-06-strong-leadership-key-ai-reshapes.html",
-        "published_utc": "2026-06-10T01:40:04+00:00",
+        "title": "Chimpanzees react negatively to unfairness, especially when close partners are nearby",
+        "summary": "Primates, including humans, are among the social animals living on Earth. Their survival relies heavily on cooperation with others, alliances, the sharing of resources and other social interactions.",
+        "link": "https://phys.org/news/2026-06-chimpanzees-react-negatively-unfairness-partners.html",
+        "published_utc": "2026-06-10T13:50:28+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/leadership.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/chimpanzees-react-nega.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Physicists harness potential of quantum phase transitions",
-        "summary": "Researchers at University College Dublin and international collaborators have just published a detailed and accessible guide that aims to translate theoretical ideas into practical devices for quantum enhanced sensing technologies.",
-        "link": "https://phys.org/news/2026-06-physicists-harness-potential-quantum-phase.html",
-        "published_utc": "2026-06-10T01:20:03+00:00",
+        "title": "Economist finds financial inequity distorted centuries-old Spanish water inequality",
+        "summary": "For generations, economists have viewed markets as the gold standard of efficiency, assuming resources naturally flow to the people who value them most. But new research from the University of Miami Patti and Allan Herbert Business School suggests that assumption can break down when participants cannot afford to compete on equal footing.",
+        "link": "https://phys.org/news/2026-06-economist-financial-inequity-distorted-centuries.html",
+        "published_utc": "2026-06-10T13:40:03+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/water-agriculture.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Astronomers find a four-carbon sugar in deep space",
+        "summary": "The space between stars may seem like a barren desert, but over the past few decades scientists have been finding all sorts of interesting chemicals in it. From the precursors to proteins to the building blocks of cell membranes, there has been discovery after discovery of new molecules in the giant gas clouds between the stars. Now, a new paper available on the arXiv preprint server details the discovery of the first-ever four-carbon sugar in the interstellar medium (ISM), and it is another brick on the path to understanding how life on Earth first developed.",
+        "link": "https://phys.org/news/2026-06-astronomers-carbon-sugar-deep-space.html",
+        "published_utc": "2026-06-10T13:20:01+00:00",
+        "score": 4,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/astronomers-find-a-fou.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Parents helping kids enjoy math may boost achievement as much as content support",
+        "summary": "How do children learn math? It's shaped by what they know as well as their motivation and engagement. Historically, research on children's math learning has been focused on parents' cognitive practices (such as math talk—informal conversations that involve math), however emerging evidence shows how parents' motivational practices (encouraging independence and helping children enjoy math) may also play a critical role in their math abilities.",
+        "link": "https://phys.org/news/2026-06-parents-kids-enjoy-math-boost.html",
+        "published_utc": "2026-06-10T13:00:01+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/child-parent-homework.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "NASA Breaking News",
+        "title": "GLOBE Mission Earth Educators Participate in Land Cover Community of Practice",
+        "summary": "During the 2025-2026 school year, educators from the NASA Science Activation Program’s GLOBE (Global Learning and Observation to Benefit the Environment) Mission Earth project participated in a specialized Community of Practice led by NASA Langley Research Center to refine how students interact with NASA’s land cover data (MODIS, Landsat, and Sentinel-2).",
+        "link": "https://science.nasa.gov/learning-resources/science-activation/globe-mission-earth-educators-participate-in-land-cover-community-of-practice",
+        "published_utc": "2026-06-10T12:43:01+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-ce2a6708fefccef2/480/320"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "NASA Breaking News",
+        "title": "NASA’s CloudCube Pioneers Miniaturized Radar to Study Clouds, Precipitation",
+        "summary": "A compact, multifrequency radar built by a team at NASA’s Jet Propulsion Laboratory will make it easier to collect information about dynamic cloud systems. Called CloudCube, this new instrument simultaneously probes the atmosphere with three radar signals, spanning 36 to 240 GHz, for optimized sensitivity to a wide range of water droplet and ice particle sizes.",
+        "link": "https://science.nasa.gov/science-research/science-enabling-technology/nasas-cloudcube-pioneers-miniaturizedradar-to-study-clouds-precipitation",
+        "published_utc": "2026-06-10T12:00:00+00:00",
         "score": 1,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/physicists-harness-pot.jpg"
+        "image": "https://picsum.photos/seed/vb-a250dc893dd04fdf/480/320"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Satellite data reveal hidden labor trafficking in Brazil",
-        "summary": "A Stanford team used geospatial data and detection algorithms to achieve a tenfold increase in rescues from modern slavery in the Brazilian Amazon. Now, they are planning to expand their approach.",
-        "link": "https://phys.org/news/2026-06-satellite-reveal-hidden-labor-trafficking.html",
-        "published_utc": "2026-06-10T01:00:03+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/satellite-data-reveal.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "How 'undone science' shaped Chile's glacier protection battle",
-        "summary": "What is \"undone science,\" and how does it affect environmental policy and regulation around the world? In a recent study published in Tapuya: Latin American Science, Technology and Society, Javiera Barandiarán, an associate professor in global studies at the University of California, Santa Barbara, and colleagues trace how undone science has shaped conflicts between mining and glacier conservation over the past two decades in Chile. The authors show how missing areas of scientific knowledge, whether absent or contested, allowed significant impacts of mining projects to escape attention.",
-        "link": "https://phys.org/news/2026-06-undone-science-chile-glacier.html",
-        "published_utc": "2026-06-10T00:20:03+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-undone-science-sha.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Neutron-rich nuclei yield beta-decay clues that could refine heavy-element origin models",
-        "summary": "How are heavy elements formed in the universe? Extremely neutron-rich atomic nuclei and their beta-decay rates play an important role in this process. Until now, it has been very difficult to determine these rates experimentally. Researchers at TU Darmstadt have developed theoretical predictions for such processes and successfully compared them with experimental data, where they exist. The results were published in Physical Review Letters.",
-        "link": "https://phys.org/news/2026-06-neutron-rich-nuclei-yield-beta.html",
-        "published_utc": "2026-06-10T00:00:03+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-improve-un.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "NASA unveils Artemis III astronauts to test technology for a future moon landing",
-        "summary": "NASA on Tuesday revealed the crew for its Artemis III mission, the next step in the space agency's plan to eventually land astronauts on the moon.",
-        "link": "https://phys.org/news/2026-06-nasa-unveils-artemis-iii-astronauts.html",
-        "published_utc": "2026-06-09T23:40:02+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/nasa-unveils-artemis-i.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Physicists observe synchronized quantum dance of excitons and phonons",
-        "summary": "An international team of researchers has reported a major advance in understanding quantum dynamics in semiconductor materials. They directly observed how excitons and phonons evolve together in perovskite nanocrystals, revealing a fully coherent quantum dance between light-induced electronic excitations and crystal lattice vibrations. They published their findings in Nature Communications.",
-        "link": "https://phys.org/news/2026-06-physicists-synchronized-quantum-excitons-phonons.html",
-        "published_utc": "2026-06-09T23:40:01+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/physicists-observe-syn.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Quality of relationship between patient and therapist is key to preventing child sex offenders from doing it again",
-        "summary": "Since the 1980s, there has been extensive research on the effectiveness of treatment for perpetrators of sexual crimes against children. Studies have examined rehabilitation programs, the role of clinicians and the factors associated with recidivism. However, what remains unclear is how these factors interact to influence recidivism once treatment is over.",
-        "link": "https://phys.org/news/2026-06-quality-relationship-patient-therapist-key.html",
-        "published_utc": "2026-06-09T23:20:05+00:00",
+        "title": "Majorana modes withstand disorder in atomic chains, boosting fault-tolerant quantum computing",
+        "summary": "Quantum computers—systems that process information and perform computations by leveraging the principles of quantum mechanics—could solve some tasks faster and more effectively than classical computers. While some studies have demonstrated the advantages of these computers for specific tasks, ensuring their reliable operation in real-world settings has proved challenging.",
+        "link": "https://phys.org/news/2026-06-majorana-modes-disorder-atomic-chains.html",
+        "published_utc": "2026-06-10T11:00:03+00:00",
         "score": 2,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/therapy-2.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-proves-the-robus.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Freshwater boundary breach deepens as climate and land use amplify extremes",
-        "summary": "Human activities have significantly altered the freshwater cycle, threatening its ability to support vital climatic and ecological Earth system processes. A new study led by researchers at the University of Eastern Finland shows that the freshwater cycle has increasingly moved away from a stable state due to climate change and large-scale water and land use. The newly published study updates the status of the freshwater change planetary boundary, which is one of the core components in the annual Planetary Health Check reports.",
-        "link": "https://phys.org/news/2026-06-freshwater-boundary-breach-deepens-climate.html",
-        "published_utc": "2026-06-09T23:20:03+00:00",
-        "score": 1,
+        "title": "How cultural backgrounds shape financial forecasts",
+        "summary": "There's a funny thing about facts. Two people can look at the same ones but interpret them very differently, depending on their styles of thinking. On Wall Street, analysts with short-term or long-term orientations may issue different financial forecasts for the same company, says Yong Yu, professor of accounting at the McCombs School of Business at The University of Texas at Austin.",
+        "link": "https://phys.org/news/2026-06-cultural-backgrounds-financial.html",
+        "published_utc": "2026-06-10T11:00:02+00:00",
+        "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-study-unpacks-the.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/wall-street.jpg"
       },
       {
         "section": "science",
         "kind": "global",
-        "source": "ScienceDaily Science",
-        "title": "Stonehenge's most mysterious stone traveled 700 kilometers across Britain",
-        "summary": "Scientists have uncovered new evidence that Stonehenge’s six-ton Altar Stone was deliberately transported hundreds of kilometers from Scotland by ancient people. The feat would have required extraordinary planning, teamwork, and determination, revealing a surprisingly sophisticated level of organization thousands of years ago.",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260608040003.htm",
-        "published_utc": "2026-06-09T08:42:29+00:00",
+        "source": "Phys.org",
+        "title": "Italian astronaut expects home flavors on Artemis III menu",
+        "summary": "Italian astronaut Luca Parmitano is hoping to bring a taste of his homeland to the Artemis III mission he will pilot near Earth in 2027 to test two lunar modules.",
+        "link": "https://phys.org/news/2026-06-italian-astronaut-artemis-iii-mission.html",
+        "published_utc": "2026-06-10T08:10:02+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-c5495830809433fa/480/320"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/italian-astronaut-luca.jpg"
       }
     ],
     "environment": [
@@ -758,38 +709,74 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "RomaniaPozitiva",
+      "title": "Cele mai apreciate titluri Alice Books la Bookfest 2026",
+      "summary": "De la poezie și ficțiune literară până la romane premiate și bestsellere internaționale, titlurile Alice Books au atras constant interesul cititorilor pe parcursul Bookfest 2026. Pe primul loc în preferințele&#8230; Articolul Cele mai apreciate titluri Alice Books la Bookfest 2026 apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/cultura/cele-mai-apreciate-titluri-alice-books-la-bookfest-2026",
+      "published_utc": "2026-06-10T13:09:34+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-78712dd885350f73/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "CM 2026. Dănuţ Lupu: „La Mondialul din '90 am plecat din cantonament, m-a întors Lucescu”",
+      "summary": "Fostul internaţional Dănuţ Lupu a afirmat, miercuri, la Muzeul Fotbalului, unde a vizitat o expoziţie cu mingi de la turneele finale ale Cupei Mondiale, că prima amintire legată de ediţia Italia '90 este momentul când a părăsit cantonamentul echipei naţionale, fiind nemulţumit de faptul că nu a fost folosit titular în prima partidă.",
+      "link": "https://www.digi24.ro/campionatul-mondal-de-fotbal-2026/cm-2026-danut-lupu-la-mondialul-din-90-am-plecat-din-cantonament-m-a-intors-lucescu-3809185",
+      "published_utc": "2026-06-10T13:09:27+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjMl/MkYxMCUyRjAyJTJGMTgwOTgwMF8xODA5/ODAwX2RhbnV0LWx1cHUuanBnJmhhc2g9/MjY0M2RiNzRlMTg3OWJlNzgyNDdjOTZiMzA1MjVkMzQ=.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Din neatenție, Alfred Simonis s-a încălțat azi cu banii din cutia de pantofi, nu cu pantofii",
+      "summary": "Pentru că se consideră un politician respectabil, Alfred Simonis are acasă zeci de cutii de pantofi, dar iată că acest lucru uneori poate să îl și încurce. Azi, de exemplu, Simonis se grăbea să ajungă la ceva tăiere de panglică și, din neatenție, s-a încălțat cu teancurile de euro dintr-o cutie de pantofi, nu cu [&#8230;] The post Din neatenție, Alfred Simonis s-a încălțat azi cu banii din cutia de pantofi, nu cu pantofii appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/politic/din-neatentie-alfred-simonis-s-a-incaltat-azi-cu-banii-din-cutia-de-pantofi-nu-cu-pantofii",
+      "published_utc": "2026-06-10T09:30:19+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/06/simonis_teancuri_euro_picioare.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "TollRo, amânat pentru a doua oară. Când va intra în vigoare noul sistem de taxare a drumurilor",
+      "summary": "Aplicarea noului sistem electronic de taxare a drumurilor naționale din România, TollRo, a fost amânată pentru a doua oară. Camera Deputaților a adoptat miercuri proiectul de lege pentru aprobarea OUG nr. 74/2025, care prevede prorogarea termenului de aplicare a sistemului până la 1 octombrie 2026. Proiectul a fost adoptat cu 244 de voturi „pentru”.",
+      "link": "https://www.digi24.ro/stiri/economie/transporturi/tollro-amanat-pentru-a-doua-oara-cand-va-intra-in-vigoare-noul-sistem-de-taxare-a-drumurilor-3809047",
+      "published_utc": "2026-06-10T12:06:34+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjEl/MkYwMiUyRjE4JTJGMTI4OTk3N18xMjg5/OTc3X2F1dG9zdHJhZGEtbWFzaW5pLXRp/cnVyaS1HZXR0eUltYWdlcy00OTk1MzQ3/NDEuanBnJmhhc2g9ZjVmZWY2ZmFiNjkyZDBhOTMyMTkxMDY5ZGQyNDBkNWU=.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "HotNews",
-      "title": "NASA a anunțat astronauții pentru misiunea Artemis III: Un pilot de teste, un recordmen, un debutant și un european",
-      "summary": "NASA a desemnat trei astronauți americani și unul italian pentru a forma echipajul următoarei misiuni Artemis, o demonstrație de andocare a navelor spațiale pe orbita Pământului care va avea loc anul viitor și în cadrul căreia vor fi testate pentru prima dată în spațiu modulele de aterizare lunare ale companiilor SpaceX (a lui Elon Musk) &#8230;",
-      "link": "https://hotnews.ro/nasa-a-anuntat-astronautii-pentru-misiunea-artemis-iii-un-pilot-de-teste-un-recordmen-un-debutant-si-un-european-2269737",
-      "published_utc": "2026-06-10T10:44:56+00:00",
+      "title": "Sistem de supraveghere cu peste 600 de camere de luat vederi, în sectorul 4. Investiție de 20 de milioane de lei",
+      "summary": "Camerele au fost montate pe străzile principale din Sectorul 4, în intersecții, în jurul blocurilor reabilitate, la locurile de joacă, în parcuri și în proximitatea unităților de învățământ, a anunțat primarul Sectorului 4, Daniel Băluță. Sistemul de supraveghere cu 600 de camere de luat vederi vor transmite imagini în timp real, 24 de ore din &#8230;",
+      "link": "https://hotnews.ro/sistem-de-supraveghere-cu-peste-600-de-camere-de-luat-vederi-in-sectorul-4-investitie-de-20-de-milioane-de-lei-2269834",
+      "published_utc": "2026-06-10T12:04:21+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-71f2fdb81154fd2e/480/320"
+      "image": "https://picsum.photos/seed/vb-9cdf4286839e63f7/480/320"
     },
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Digi24",
-      "title": "Plafonarea adaosului comercial la alimentele de bază a fost prelungită până la sfârșitul anului. Ce produse sunt vizate",
-      "summary": "Plafonarea adaosului comercial la alimentele de bază a fost prelungită până la finalul anului 2026. Camera Deputaților a adoptat miercuri proiectul de lege, în calitate de for decizional, cu 292 de voturi „pentru”, unul „împotrivă” și o abținere. Măsura vizează 17 categorii de produse alimentare considerate de bază și urma să expire la finalul lunii iunie.",
-      "link": "https://www.digi24.ro/stiri/economie/plafonarea-adaosului-comercial-la-alimentele-de-baza-a-fost-prelungita-pana-la-sfarsitul-anului-ce-produse-sunt-vizate-3808907",
-      "published_utc": "2026-06-10T10:03:57+00:00",
+      "source": "HotNews",
+      "title": "Când boala nu așteaptă: cum scurtează PNEUMO TEAM de la MONZA ARES drumul dintre suspiciune și tratament în cancerul pulmonar",
+      "summary": "Pentru un pacient care aude pentru prima dată că are un nodul pulmonar sau o suspiciune oncologică, timpul începe să capete altă greutate. Nu mai este doar o succesiune de zile, ci începutul unei perioade marcate de întrebări, investigații, frică și, de multe ori, o confuzie greu de gestionat. Din acel moment, pentru mulți pacienți &#8230;",
+      "link": "https://hotnews.ro/cand-boala-nu-asteapta-cum-scurteaza-pneumo-team-de-la-monza-ares-drumul-dintre-suspiciune-si-tratament-in-cancerul-pulmonar-2269432",
+      "published_utc": "2026-06-10T11:46:40+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjEl/MkYwNSUyRjA2JTJGMTMyMjM2Ml8xMzIy/MzYyX3Byb2ZpbWVkaWEtY29zLWN1LWFs/aW1lbnRlLmpwZyZoYXNoPWMyM2U0OWM2YTFhNGEyMGExOTQ1ZjkxYmI2NmM1N2Fk.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Producătorii avertizează că plafonarea adaosului la alimente îi împinge în pierdere: „Este o catastrofă pentru industria laptelui”",
-      "summary": "Prelungirea plafonării adaosului comercial la alimentele de bază pune o presiune tot mai mare pe fermieri, care ajung să vândă laptele sub costurile de producție, avertizează Ionuț Lupu, reprezentant al unei asociații de fermieri. Acesta a declarat la Digi24 că intervențiile statului în piață creează „distorsiuni grave” și că fermierii sunt cei care suportă efectele măsurilor adoptate de autorități. Declarațiile vin în contextul în care deputații discută prelungirea plafonării adaosului comercial pentru 17 categorii de produse alimentare până la finalul anului 2026.",
-      "link": "https://www.digi24.ro/stiri/economie/producatorii-avertizeaza-ca-plafonarea-adaosului-la-alimente-ii-impinge-in-pierdere-este-o-catastrofa-pentru-industria-laptelui-3808851",
-      "published_utc": "2026-06-10T09:21:01+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwMyUyRjA0JTJGMjIwNDEwMV8yMjA0/MTAxX0dldHR5SW1hZ2VzLTEyOTcwMDUy/MTcuanBnJmhhc2g9MDU0NjBiZjU4MWVkMWUxOTZhOGJlMDQ5NzcxMDg5ZjY=.jpg"
+      "image": "https://picsum.photos/seed/vb-7825a1ec7d8431e0/480/320"
     },
     {
       "section": "romania",
@@ -807,13 +794,13 @@
       "section": "romania",
       "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 Procurorii cer pentru Pomohaci ani grei de muncă în folosul comunităţii la o şcoală",
-      "summary": "Dacă de primul dosar în care a fost acuzat de pedofilie a scăpat prin prescriere, de data asta pare că justiția nu va mai închide ochii la faptele penale ale lui Cristian Pomohaci. Procurorii au afișat o maximă duritate și au anunțat că vor cere ani grei de muncă în folosul comunităţii la o şcoală [&#8230;] The post Procurorii cer pentru Pomohaci ani grei de muncă în folosul comunităţii la o şcoală appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/procurorii-cer-pentru-pomohaci-ani-grei-de-munca-in-folosul-comunitatii-la-o-scoala",
-      "published_utc": "2026-06-10T04:32:00+00:00",
+      "title": "😂 Veste bună de la bancă",
+      "summary": "The post Veste bună de la bancă appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/ovi/veste-buna-de-la-banca",
+      "published_utc": "2026-06-10T07:55:03+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/06/pomohaci_elevi_scoala.jpg"
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/06/Veste-buna-de-la-banca.jpg"
     },
     {
       "section": "romania",
@@ -842,42 +829,6 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "HotNews",
-      "title": "În cel mai dificil an economic din ultimul deceniu, un brand de lux face afaceri record în centrul Bucureștiului",
-      "summary": "Afacerile mărcii Louis Vuitton&#160;din România nu cunosc criza, scrie site-ul Economica. În 2025, singurul magazin Louis Vuitton din România, cel care se află la parterul hotelului&#160;Athenee Palace Intercontinental din centrul Bucureștiului,&#160;a realizat afaceri de aproape 139 de milioane de lei, circa&#160;27,5 milioane de euro. Suma reprezină o creștere de 16% față de anul anterior, potrivit &#8230;",
-      "link": "https://hotnews.ro/in-cel-mai-dificil-an-economic-din-ultimul-deceniu-un-brand-de-lux-face-afaceri-record-in-centrul-bucurestiului-2269663",
-      "published_utc": "2026-06-10T08:57:16+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-c89279f04b81a158/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Veste bună de la bancă",
-      "summary": "The post Veste bună de la bancă appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/ovi/veste-buna-de-la-banca",
-      "published_utc": "2026-06-10T07:55:03+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/06/Veste-buna-de-la-banca.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "HotNews",
-      "title": "Reff & Asociații | Deloitte Legal a asistat MAS Real Estate, unul dintre cei mai mari proprietari de centre comerciale din România, în procesul de vânzare a șase proprietăți de acest tip către AFI Europe. Valoarea tranzacției depășește 280 de milioane de euro",
-      "summary": "Echipa Reff &#38; Asociații &#124; Deloitte Legal a asistat MAS Property Holding, parte a grupului sud-african deținut de MAS P.L.C. (listat la bursa din Johannesburg) în procesul de vânzare a șase centre comerciale în aer liber, în valoare de peste 280 de milioane de euro, către dezvoltatorul imobiliar AFI Europe N.V.. Tranzacția este supusă aprobării &#8230;",
-      "link": "https://hotnews.ro/reff-asociatii-deloitte-legal-a-asistat-mas-real-estate-unul-dintre-cei-mai-mari-proprietari-de-centre-comerciale-din-romania-in-procesul-de-vanzare-a-sase-proprietati-de-acest-tip-catre-afi-2269667",
-      "published_utc": "2026-06-10T08:50:50+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-4a63c43a4cea5a3a/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "Editura DPH la Bookfest 2026: Top cele mai vândute cărți și jocuri educative",
       "summary": "Seriile de ficțiune cu personaje puternice și universuri captivante, titlurile care îmbină creativitatea cu descoperirea, cărțile de non-ficțiune ancorate în pasiunile reale ale copiilor – fotbal, robotică, Minecraft, benzi desenate&#8230; Articolul Editura DPH la Bookfest 2026: Top cele mai vândute cărți și jocuri educative apare prima dată în Romania Pozitiva .",
@@ -890,26 +841,14 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "HotNews",
-      "title": "FOTO. Câștigător Chefi la cuțite, varianta mini. Învingătorul, anunțat la Antena 1",
-      "summary": "În această seară, de la ora 20.30, emisiunea Chefi la cuțite- Viitorul are gust își va desemna câștigătorul. Marți seara, patru concurenți s-au calificat în finală: Chef Richard Abou Zaki este reprezentat în finală de Irina Iancu, Chef Ștefan Popescu îl susține pe concurentul său, Nicolas Manolache, Chef Orlando Zaharia a intrat în finală cu &#8230;",
-      "link": "https://hotnews.ro/foto-castigator-chefi-la-cutite-varianta-mini-invingatorul-anuntat-la-antena-1-2269616",
-      "published_utc": "2026-06-10T08:17:47+00:00",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Procurorii cer pentru Pomohaci ani grei de muncă în folosul comunităţii la o şcoală",
+      "summary": "Dacă de primul dosar în care a fost acuzat de pedofilie a scăpat prin prescriere, de data asta pare că justiția nu va mai închide ochii la faptele penale ale lui Cristian Pomohaci. Procurorii au afișat o maximă duritate și au anunțat că vor cere ani grei de muncă în folosul comunităţii la o şcoală [&#8230;] The post Procurorii cer pentru Pomohaci ani grei de muncă în folosul comunităţii la o şcoală appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/life-death/procurorii-cer-pentru-pomohaci-ani-grei-de-munca-in-folosul-comunitatii-la-o-scoala",
+      "published_utc": "2026-06-10T04:32:00+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-3e5dee59ba7efd36/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Start-Up Romania",
-      "title": "Startup-ul de infrastructură de ecommerce Naratix primește 1 milion de euro de la Early Game Ventures",
-      "summary": "Early Game Ventures anunță finalizarea unei runde seed în valoare de 1 milion de euro la Naratix, startup 100% românesc care construiește infrastructură critică pentru companiile globale de...",
-      "link": "https://start-up.ro/startup-ul-de-infrastructura-de-ecommerce-naratix-primeste-1-milion-de-euro-de-la-early-game-ventures",
-      "published_utc": "2026-06-10T07:32:09+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://start-up.ro/img/articles/3/8/5/38502/cover-38502-src.jpg"
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/06/pomohaci_elevi_scoala.jpg"
     },
     {
       "section": "romania",
@@ -926,50 +865,25 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Metrorex, licitaţie mamut pentru agenți de pază. Zeci de azile și-au înscris bătrânii",
-      "summary": "Freamătă azilele de bătrâni din toată țara! Metrorex a anunțat o licitație mamut pentru agenți de pază: peste 50 de milioane de euro pentru un contract întins pe doar 3 ani. La o astfel de sumă nu e nicio surpriză că s-au înscris la licitație aproape toate azilele de bătrâni din țară. Evident, sunt avantajate [&#8230;] The post Metrorex, licitaţie mamut pentru agenți de pază. Zeci de azile și-au înscris bătrânii appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/metrorex-licitatie-mamut-pentru-agenti-de-paza-zeci-de-azile-si-au-inscris-batranii",
-      "published_utc": "2026-06-09T14:07:26+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/06/bodyguard_metrou_bucuresti.jpeg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "Gala BookLand premiază excelența în mediul rural, pentru al treilea an consecutiv, cu burse educaționale în valoare de 105.000 euro",
       "summary": "Cea de-a treia ediție a Galei BookLand a avut loc la finalul lunii mai, la Muzeul Național al Satului „Dimitrie Gusti” din București, reunind elevi, dascăli, parteneri ai Asociației BookLand&#8230; Articolul Gala BookLand premiază excelența în mediul rural, pentru al treilea an consecutiv, cu burse educaționale în valoare de 105.000 euro apare prima dată în Romania Pozitiva .",
       "link": "https://www.romaniapozitiva.ro/bucuresti/gala-bookland-premiaza-excelenta-in-mediul-rural-pentru-al-treilea-an-consecutiv-cu-burse-educationale-in-valoare-de-105-000-euro",
       "published_utc": "2026-06-09T13:50:22+00:00",
       "score": 3,
-      "freshness_boost": 3,
+      "freshness_boost": 1,
       "image": "https://picsum.photos/seed/vb-7e6f23fcb8bb4085/480/320"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Common infection does not increase risk of recurrent preterm birth, study finds",
-      "summary": "A new study from UTHealth Houston has found that the common sexually transmitted infection Mycoplasma genitalium, also known as MGen, does not appear to increase the risk of recurrent preterm birth. The findings are published in The American Journal of Obstetrics and Gynecology.",
-      "link": "https://medicalxpress.com/news/2026-06-common-infection-recurrent-preterm-birth.html",
-      "published_utc": "2026-06-10T02:00:03+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/birth.jpg"
     },
     {
       "section": "romania",
       "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "Eveniment la SIBIU ”Ce mișcă un oraș. Ce mișcă un business.”",
-      "summary": "Cine construiește, de fapt, viitorul unui oraș? Într-un context în care Sibiul se transformă rapid, credem că este important să aducem în dialog oameni care nu doar observă schimbările, ci&#8230; Articolul Eveniment la SIBIU ”Ce mișcă un oraș. Ce mișcă un business.” apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/economie/evenimentul-la-sibiu-ce-misca-un-oras-ce-misca-un-business",
-      "published_utc": "2026-06-09T11:33:44+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-725b011705867411/480/320"
+      "source": "Digi24",
+      "title": "Un copil de 7 ani a fost luat pe sus de tată dintr-o școală din Sălaj, după o neînțelegere cu fosta soție",
+      "summary": "Au fost momente tensionate într-o școală din Sălaj: un bărbat de 59 de ani, cetățean italian, a intrat într-o sală de clasă pentru a-și vedea fiul în vârstă de 7 ani. Potrivit martorilor, acesta l-ar fi luat în brațe pe copil și ar fi ieșit în grabă din clasă, provocând panică în rândul profesorilor.",
+      "link": "https://www.digi24.ro/stiri/actualitate/evenimente/un-copil-de-7-ani-a-fost-luat-pe-sus-de-tata-dintr-o-scoala-din-salaj-dupa-o-neintelegere-cu-fosta-sotie-3808657",
+      "published_utc": "2026-06-10T07:57:12+00:00",
+      "score": 2,
+      "image": "https://picsum.photos/seed/vb-99dd699b87d3d71a/480/320"
     },
     {
       "section": "romania",
@@ -984,16 +898,16 @@
       "image": "https://picsum.photos/seed/vb-09f9ef71aa2592ce/480/320"
     },
     {
-      "section": "science",
+      "section": "medical",
       "kind": "global",
-      "source": "Phys.org",
-      "title": "How health care systems shape native preferences for immigrants",
-      "summary": "In recent years, anti-immigration sentiment has become increasingly common around the world. A common concern surrounding immigration is its potential impact on the host country's welfare system, including health care. Such concerns can reduce public support for accepting immigrants and for redistributive welfare policies.",
-      "link": "https://phys.org/news/2026-06-health-native-immigrants.html",
-      "published_utc": "2026-06-10T02:00:02+00:00",
+      "source": "Medical Xpress",
+      "title": "The science of sweat: A researcher is helping Brazil prepare for the heat of the World Cup",
+      "summary": "As the world's best soccer players prepare for the 2026 FIFA World Cup across North America this summer, teams are gearing up not only for opponents but also for the heat. In stadiums from Miami to Mexico City, soaring temperatures and humidity could affect matches, recovery times and ultimately championship outcomes. And behind one of the most storied teams in soccer history is a University of Florida scientist using the science of sweat to help athletes perform, recover and stay healthy in extreme heat.",
+      "link": "https://medicalxpress.com/news/2026-06-science-brazil-world-cup.html",
+      "published_utc": "2026-06-10T14:00:06+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-healthcare-systems.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-science-of-sweat-a.jpg"
     },
     {
       "section": "romania",
@@ -1020,16 +934,16 @@
       "image": "https://picsum.photos/seed/vb-efe1995c052d1ac6/480/320"
     },
     {
-      "section": "science",
+      "section": "medical",
       "kind": "global",
-      "source": "Phys.org",
-      "title": "Strong leadership will be key as AI reshapes the workforce, argues research",
-      "summary": "As artificial intelligence changes how work gets done, experts say strong leadership will play a critical role in helping employees adapt to shifting responsibilities, evolving technologies and changing workplace demands. The findings are published in the journal Human Resource Development Review.",
-      "link": "https://phys.org/news/2026-06-strong-leadership-key-ai-reshapes.html",
-      "published_utc": "2026-06-10T01:40:04+00:00",
-      "score": 0,
+      "source": "Medical Xpress",
+      "title": "1 in 3 middle-aged adults struggle with basic 'everyday' health tasks, study finds",
+      "summary": "A new Northwestern University study has found one in three middle-aged American adults ages 35 to 64 cannot consistently read prescription instructions correctly, understand medical forms or recall details from doctor visits involving chronic condition diagnoses. These skills—often referred to as health literacy—are critical for managing common conditions such as high blood pressure, high cholesterol and diabetes, which commonly emerge in midlife.",
+      "link": "https://medicalxpress.com/news/2026-06-middle-aged-adults-struggle-basic.html",
+      "published_utc": "2026-06-10T14:00:01+00:00",
+      "score": 1,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/leadership.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/one-in-three-middle-ag.jpg"
     },
     {
       "section": "romania",
@@ -1056,16 +970,16 @@
       "image": "https://picsum.photos/seed/vb-07bd4c4752a9218a/480/320"
     },
     {
-      "section": "medical",
+      "section": "science",
       "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Key protein behind chemotherapy resistance in colorectal cancer identified",
-      "summary": "One of the most widely used chemotherapeutic agents for colorectal cancer is 5-fluorouracil (5-FU), a cornerstone treatment that has improved outcomes for countless patients. However, repeated treatment often leads to drug resistance, allowing cancer cells to adapt and gradually evade the effects of therapy.",
-      "link": "https://medicalxpress.com/news/2026-06-key-protein-chemotherapy-resistance-colorectal.html",
-      "published_utc": "2026-06-10T01:40:01+00:00",
-      "score": 2,
+      "source": "NASA Breaking News",
+      "title": "NASA Webb Finds Strongest Evidence Yet for ‘Black Hole Stars’",
+      "summary": "The complex puzzle known as little red dots has become more complete since their initial discovery by NASA’s James Webb Space Telescope in 2022. Now a particular little red dot’s spectrum is helping connect many of the pieces. A team of astronomers led by Vasily Kokorev at the University of Texas at Austin identified the […]",
+      "link": "https://science.nasa.gov/missions/webb/nasa-webb-finds-strongest-evidence-yet-for-black-hole-stars",
+      "published_utc": "2026-06-10T14:00:00+00:00",
+      "score": 4,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/key-protein-behind-che.jpg"
+      "image": "https://picsum.photos/seed/vb-b14fdde716a0c55f/480/320"
     },
     {
       "section": "romania",
@@ -1095,13 +1009,13 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Physicists harness potential of quantum phase transitions",
-      "summary": "Researchers at University College Dublin and international collaborators have just published a detailed and accessible guide that aims to translate theoretical ideas into practical devices for quantum enhanced sensing technologies.",
-      "link": "https://phys.org/news/2026-06-physicists-harness-potential-quantum-phase.html",
-      "published_utc": "2026-06-10T01:20:03+00:00",
-      "score": 1,
+      "title": "Chimpanzees react negatively to unfairness, especially when close partners are nearby",
+      "summary": "Primates, including humans, are among the social animals living on Earth. Their survival relies heavily on cooperation with others, alliances, the sharing of resources and other social interactions.",
+      "link": "https://phys.org/news/2026-06-chimpanzees-react-negatively-unfairness-partners.html",
+      "published_utc": "2026-06-10T13:50:28+00:00",
+      "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/physicists-harness-pot.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/chimpanzees-react-nega.jpg"
     },
     {
       "section": "romania",
@@ -1131,13 +1045,13 @@
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
-      "title": "Hidden inflammatory patterns in primary ciliary dyskinesia could improve treatment of other chronic lung conditions",
-      "summary": "Researchers at UTHealth Houston have identified different types of hidden systemic inflammation in patients with primary ciliary dyskinesia, even when they are not experiencing acute illness. The findings are published in the Annals of the American Thoracic Society.",
-      "link": "https://medicalxpress.com/news/2026-06-hidden-inflammatory-patterns-primary-ciliary.html",
-      "published_utc": "2026-06-10T01:20:01+00:00",
+      "title": "Japan's quality of life kept sliding after COVID restrictions ended, study reveals",
+      "summary": "A nationwide study tracking Japanese adults before, during and after the COVID-19 pandemic found that health-related quality of life steadily declined over seven years and did not rebound after the public health emergency ended. Researchers say the decline may reflect the cumulative impact of pandemic-related changes in physical activity, mental well-being and social interaction among working-age adults across Japan.",
+      "link": "https://medicalxpress.com/news/2026-06-japan-quality-life-covid-restrictions.html",
+      "published_utc": "2026-06-10T13:45:42+00:00",
       "score": 1,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/child-ear-infection.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/health-related-quality.jpg"
     },
     {
       "section": "romania",
@@ -1164,16 +1078,16 @@
       "image": "https://picsum.photos/seed/vb-9934b0d47c9a6244/480/320"
     },
     {
-      "section": "medical",
+      "section": "science",
       "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "Cancer patients found a simple way to stay mentally sharp during chemotherapy",
-      "summary": "“Chemo brain” affects up to 80% of people receiving chemotherapy, making everyday tasks harder. In a new trial, cancer patients who followed a home-based exercise program showed better attention and fewer noticeable cognitive problems than those who received a placebo. Low-dose ibuprofen also improved some cognitive measures, though its effects were less consistent.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260608040019.htm",
-      "published_utc": "2026-06-10T01:16:16+00:00",
-      "score": 3,
+      "source": "Phys.org",
+      "title": "Economist finds financial inequity distorted centuries-old Spanish water inequality",
+      "summary": "For generations, economists have viewed markets as the gold standard of efficiency, assuming resources naturally flow to the people who value them most. But new research from the University of Miami Patti and Allan Herbert Business School suggests that assumption can break down when participants cannot afford to compete on equal footing.",
+      "link": "https://phys.org/news/2026-06-economist-financial-inequity-distorted-centuries.html",
+      "published_utc": "2026-06-10T13:40:03+00:00",
+      "score": 0,
       "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-0ddbbb9f16465345/480/320"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/water-agriculture.jpg"
     },
     {
       "section": "romania",
@@ -1203,13 +1117,13 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Satellite data reveal hidden labor trafficking in Brazil",
-      "summary": "A Stanford team used geospatial data and detection algorithms to achieve a tenfold increase in rescues from modern slavery in the Brazilian Amazon. Now, they are planning to expand their approach.",
-      "link": "https://phys.org/news/2026-06-satellite-reveal-hidden-labor-trafficking.html",
-      "published_utc": "2026-06-10T01:00:03+00:00",
-      "score": 0,
+      "title": "Astronomers find a four-carbon sugar in deep space",
+      "summary": "The space between stars may seem like a barren desert, but over the past few decades scientists have been finding all sorts of interesting chemicals in it. From the precursors to proteins to the building blocks of cell membranes, there has been discovery after discovery of new molecules in the giant gas clouds between the stars. Now, a new paper available on the arXiv preprint server details the discovery of the first-ever four-carbon sugar in the interstellar medium (ISM), and it is another brick on the path to understanding how life on Earth first developed.",
+      "link": "https://phys.org/news/2026-06-astronomers-carbon-sugar-deep-space.html",
+      "published_utc": "2026-06-10T13:20:01+00:00",
+      "score": 4,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/satellite-data-reveal.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/astronomers-find-a-fou.jpg"
     },
     {
       "section": "romania",
@@ -1236,16 +1150,16 @@
       "image": "https://picsum.photos/seed/vb-f4198d9ecf3c2ce7/480/320"
     },
     {
-      "section": "medical",
+      "section": "science",
       "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Study looks at barriers to initiation of rotavirus vaccine",
-      "summary": "Risk factors for not initiating a rotavirus vaccine (RVV)—for which the first dose is recommended by a maximum age of 14 weeks, six days—include extremely preterm birth and having no health insurance, according to a study published in Pediatrics.",
-      "link": "https://medicalxpress.com/news/2026-06-barriers-rotavirus-vaccine.html",
-      "published_utc": "2026-06-10T00:40:03+00:00",
+      "source": "Phys.org",
+      "title": "Parents helping kids enjoy math may boost achievement as much as content support",
+      "summary": "How do children learn math? It's shaped by what they know as well as their motivation and engagement. Historically, research on children's math learning has been focused on parents' cognitive practices (such as math talk—informal conversations that involve math), however emerging evidence shows how parents' motivational practices (encouraging independence and helping children enjoy math) may also play a critical role in their math abilities.",
+      "link": "https://phys.org/news/2026-06-parents-kids-enjoy-math-boost.html",
+      "published_utc": "2026-06-10T13:00:01+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-looks-at-barrier.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/child-parent-homework.jpg"
     },
     {
       "section": "romania",
@@ -1262,110 +1176,122 @@
     {
       "section": "science",
       "kind": "global",
-      "source": "Phys.org",
-      "title": "How 'undone science' shaped Chile's glacier protection battle",
-      "summary": "What is \"undone science,\" and how does it affect environmental policy and regulation around the world? In a recent study published in Tapuya: Latin American Science, Technology and Society, Javiera Barandiarán, an associate professor in global studies at the University of California, Santa Barbara, and colleagues trace how undone science has shaped conflicts between mining and glacier conservation over the past two decades in Chile. The authors show how missing areas of scientific knowledge, whether absent or contested, allowed significant impacts of mining projects to escape attention.",
-      "link": "https://phys.org/news/2026-06-undone-science-chile-glacier.html",
-      "published_utc": "2026-06-10T00:20:03+00:00",
-      "score": 3,
+      "source": "NASA Breaking News",
+      "title": "GLOBE Mission Earth Educators Participate in Land Cover Community of Practice",
+      "summary": "During the 2025-2026 school year, educators from the NASA Science Activation Program’s GLOBE (Global Learning and Observation to Benefit the Environment) Mission Earth project participated in a specialized Community of Practice led by NASA Langley Research Center to refine how students interact with NASA’s land cover data (MODIS, Landsat, and Sentinel-2).",
+      "link": "https://science.nasa.gov/learning-resources/science-activation/globe-mission-earth-educators-participate-in-land-cover-community-of-practice",
+      "published_utc": "2026-06-10T12:43:01+00:00",
+      "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-undone-science-sha.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Neutron-rich nuclei yield beta-decay clues that could refine heavy-element origin models",
-      "summary": "How are heavy elements formed in the universe? Extremely neutron-rich atomic nuclei and their beta-decay rates play an important role in this process. Until now, it has been very difficult to determine these rates experimentally. Researchers at TU Darmstadt have developed theoretical predictions for such processes and successfully compared them with experimental data, where they exist. The results were published in Physical Review Letters.",
-      "link": "https://phys.org/news/2026-06-neutron-rich-nuclei-yield-beta.html",
-      "published_utc": "2026-06-10T00:00:03+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-improve-un.jpg"
+      "image": "https://picsum.photos/seed/vb-ce2a6708fefccef2/480/320"
     },
     {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
-      "title": "Four out of five cigarettes smoked in Australia are illegal. What's in them?",
-      "summary": "An estimated 80% of the cigarettes smoked in Australia last year were illegal, according to new wastewater data from the Bureau of Statistics. We asked respiratory experts what could be in them.",
-      "link": "https://medicalxpress.com/news/2026-06-cigarettes-australia-illegal.html",
-      "published_utc": "2026-06-10T00:00:02+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/four-out-of-five-cigar.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "NASA unveils Artemis III astronauts to test technology for a future moon landing",
-      "summary": "NASA on Tuesday revealed the crew for its Artemis III mission, the next step in the space agency's plan to eventually land astronauts on the moon.",
-      "link": "https://phys.org/news/2026-06-nasa-unveils-artemis-iii-astronauts.html",
-      "published_utc": "2026-06-09T23:40:02+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/nasa-unveils-artemis-i.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Physicists observe synchronized quantum dance of excitons and phonons",
-      "summary": "An international team of researchers has reported a major advance in understanding quantum dynamics in semiconductor materials. They directly observed how excitons and phonons evolve together in perovskite nanocrystals, revealing a fully coherent quantum dance between light-induced electronic excitations and crystal lattice vibrations. They published their findings in Nature Communications.",
-      "link": "https://phys.org/news/2026-06-physicists-synchronized-quantum-excitons-phonons.html",
-      "published_utc": "2026-06-09T23:40:01+00:00",
+      "title": "Inexpensive drug should be used in most major surgeries to prevent blood transfusion, clinical trial finds",
+      "summary": "A landmark clinical trial published in the New England Journal of Medicine found that tranexamic acid reduced transfusions across major surgeries without increasing the risk of dangerous blood clots. The trial was coordinated by the University of Manitoba (UM) and co-led by researchers at UM and The Ottawa Hospital.",
+      "link": "https://medicalxpress.com/news/2026-06-inexpensive-drug-major-surgeries-blood.html",
+      "published_utc": "2026-06-10T12:30:01+00:00",
       "score": 1,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/physicists-observe-syn.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/blood-transfusion.jpg"
     },
     {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
-      "title": "Washing machines could support skin health for First Nations people—if we get the wash settings right",
-      "summary": "Doing a load of laundry involves lots of decisions—from which cycle to choose to what detergent to use.",
-      "link": "https://medicalxpress.com/news/2026-06-machines-skin-health-nations-people.html",
-      "published_utc": "2026-06-09T23:20:06+00:00",
+      "title": "New study flips mental health paradigm: Proactive brain training builds community resilience before crisis hits",
+      "summary": "A new study published in Frontiers in Psychology challenges the traditional, reactive model of mental health care by demonstrating that proactive brain training can strengthen the human mind before mental health challenges take root. Additionally, it can support the wellness of those with a history of mental illness.",
+      "link": "https://medicalxpress.com/news/2026-06-flips-mental-health-paradigm-proactive.html",
+      "published_utc": "2026-06-10T12:20:01+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/washing-machines.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-frontiers-in-psych.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "NASA Breaking News",
+      "title": "NASA’s CloudCube Pioneers Miniaturized Radar to Study Clouds, Precipitation",
+      "summary": "A compact, multifrequency radar built by a team at NASA’s Jet Propulsion Laboratory will make it easier to collect information about dynamic cloud systems. Called CloudCube, this new instrument simultaneously probes the atmosphere with three radar signals, spanning 36 to 240 GHz, for optimized sensitivity to a wide range of water droplet and ice particle sizes.",
+      "link": "https://science.nasa.gov/science-research/science-enabling-technology/nasas-cloudcube-pioneers-miniaturizedradar-to-study-clouds-precipitation",
+      "published_utc": "2026-06-10T12:00:00+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-a250dc893dd04fdf/480/320"
     },
     {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Quality of relationship between patient and therapist is key to preventing child sex offenders from doing it again",
-      "summary": "Since the 1980s, there has been extensive research on the effectiveness of treatment for perpetrators of sexual crimes against children. Studies have examined rehabilitation programs, the role of clinicians and the factors associated with recidivism. However, what remains unclear is how these factors interact to influence recidivism once treatment is over.",
-      "link": "https://phys.org/news/2026-06-quality-relationship-patient-therapist-key.html",
-      "published_utc": "2026-06-09T23:20:05+00:00",
+      "title": "Majorana modes withstand disorder in atomic chains, boosting fault-tolerant quantum computing",
+      "summary": "Quantum computers—systems that process information and perform computations by leveraging the principles of quantum mechanics—could solve some tasks faster and more effectively than classical computers. While some studies have demonstrated the advantages of these computers for specific tasks, ensuring their reliable operation in real-world settings has proved challenging.",
+      "link": "https://phys.org/news/2026-06-majorana-modes-disorder-atomic-chains.html",
+      "published_utc": "2026-06-10T11:00:03+00:00",
       "score": 2,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/therapy-2.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-proves-the-robus.jpg"
     },
     {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Freshwater boundary breach deepens as climate and land use amplify extremes",
-      "summary": "Human activities have significantly altered the freshwater cycle, threatening its ability to support vital climatic and ecological Earth system processes. A new study led by researchers at the University of Eastern Finland shows that the freshwater cycle has increasingly moved away from a stable state due to climate change and large-scale water and land use. The newly published study updates the status of the freshwater change planetary boundary, which is one of the core components in the annual Planetary Health Check reports.",
-      "link": "https://phys.org/news/2026-06-freshwater-boundary-breach-deepens-climate.html",
-      "published_utc": "2026-06-09T23:20:03+00:00",
-      "score": 1,
+      "title": "How cultural backgrounds shape financial forecasts",
+      "summary": "There's a funny thing about facts. Two people can look at the same ones but interpret them very differently, depending on their styles of thinking. On Wall Street, analysts with short-term or long-term orientations may issue different financial forecasts for the same company, says Yong Yu, professor of accounting at the McCombs School of Business at The University of Texas at Austin.",
+      "link": "https://phys.org/news/2026-06-cultural-backgrounds-financial.html",
+      "published_utc": "2026-06-10T11:00:02+00:00",
+      "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-study-unpacks-the.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/wall-street.jpg"
     },
     {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
-      "title": "Human traits beyond inherited genes can still leave a measurable imprint on your life, study shows",
-      "summary": "Our parents' genes, even the ones we didn't inherit, leave a measurable lasting imprint on our lives. An international team led by researchers at the Institute of Science and Technology Austria (ISTA) and the Norwegian Institute of Public Health developed a new approach to analyze genetic data from tens of thousands of families. The study, published this Tuesday in Cell Genomics, found that for height, body weight, and school test performance, the environment shaped by our parents' genes can be nearly as important as the genes we actually inherited from them.",
-      "link": "https://medicalxpress.com/news/2026-06-human-traits-inherited-genes-imprint.html",
-      "published_utc": "2026-06-09T23:20:01+00:00",
-      "score": 4,
+      "title": "Canada faces surge in social anxiety, new research shows",
+      "summary": "A new Canadian study has found that social anxiety disorder (SAD) now affects nearly one in seven adults—a 71% increase since 2002—making it one of the most common mental health challenges in the country. The study is published in the journal Psychiatry Research.",
+      "link": "https://medicalxpress.com/news/2026-06-canada-surge-social-anxiety.html",
+      "published_utc": "2026-06-10T11:00:01+00:00",
+      "score": 1,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/human-traits-beyond-in.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/teen-looking-out-windo.jpg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "A classic brain test exposed AI's biggest weakness",
+      "summary": "Researchers gave top AI models a classic attention test used in psychology and found a major flaw. While the models could correctly name colors in short lists, their performance deteriorated sharply as the task became longer and more complex. Some leading systems fell from over 90% accuracy to nearly complete failure.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260610003049.htm",
+      "published_utc": "2026-06-10T10:52:17+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-c246d9d7487b0fcc/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "Scientists mapped every neural connection in a fruit fly and found a surprise",
+      "summary": "A groundbreaking new connectome maps every neural connection in an adult fruit fly’s central nervous system, creating an unprecedented view of how the brain and body work together. The findings suggest that complex behaviors emerge from distributed local circuits rather than a single central controller, offering new clues about intelligence, movement, and brain function.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260610003047.htm",
+      "published_utc": "2026-06-10T10:10:54+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-07cb3b2c6b321b0c/480/320"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Italian astronaut expects home flavors on Artemis III menu",
+      "summary": "Italian astronaut Luca Parmitano is hoping to bring a taste of his homeland to the Artemis III mission he will pilot near Earth in 2027 to test two lunar modules.",
+      "link": "https://phys.org/news/2026-06-italian-astronaut-artemis-iii-mission.html",
+      "published_utc": "2026-06-10T08:10:02+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/italian-astronaut-luca.jpg"
     },
     {
       "section": "environment",
@@ -1416,42 +1342,6 @@
       "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/06/09153032/1Sulphur-crested_cockatoo_Bondi-1-e1781019603488-768x512.jpg"
     },
     {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "Ultra-processed foods may be stealing your focus even if you eat healthy",
-      "summary": "A study of more than 2,100 adults found that eating more ultra-processed foods was linked to poorer attention and slower mental processing, even among people with otherwise healthy diets. Researchers also found higher consumption was associated with increased dementia risk factors, raising concerns about the hidden cognitive costs of heavily processed foods.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260608040017.htm",
-      "published_utc": "2026-06-09T12:36:26+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-529d6b2194d2f7f1/480/320"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "Sleep apnea’s hidden heart disease trigger found in the gut",
-      "summary": "A surprising gut-heart connection may help explain why sleep apnea increases the risk of cardiovascular disease. In mice, disabling a bile acid receptor called FXR sharply reduced plaque buildup, opening the door to potential new treatments based on gut microbes and their chemical signals.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260608040002.htm",
-      "published_utc": "2026-06-09T12:30:04+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-7e55c2bbd712536c/480/320"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "ScienceDaily Science",
-      "title": "Stonehenge's most mysterious stone traveled 700 kilometers across Britain",
-      "summary": "Scientists have uncovered new evidence that Stonehenge’s six-ton Altar Stone was deliberately transported hundreds of kilometers from Scotland by ancient people. The feat would have required extraordinary planning, teamwork, and determination, revealing a surprisingly sophisticated level of organization thousands of years ago.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260608040003.htm",
-      "published_utc": "2026-06-09T08:42:29+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-c5495830809433fa/480/320"
-    },
-    {
       "section": "environment",
       "kind": "global",
       "source": "ScienceDaily Environment",
@@ -1462,6 +1352,18 @@
       "score": 2,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-6591a881199d9e6b/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "Intermittent fasting triggers surprising changes in the brain",
+      "summary": "Losing weight may involve rewiring the gut and the brain at the same time. In a study of obese adults, an intermittent fasting-style diet led to significant weight loss, healthier metabolic markers, and notable shifts in gut bacteria. Brain scans also revealed changes in regions tied to appetite, cravings, and self-control. The results suggest the gut microbiome and brain may work together to influence weight-loss success.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260530004622.htm",
+      "published_utc": "2026-05-31T09:01:44+00:00",
+      "score": 1,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-584d4cad5c4e5d21/480/320"
     },
     {
       "section": "environment",
@@ -1502,12 +1404,12 @@
   ],
   "joke_ro": {
     "date_utc": "2026-06-10",
-    "text": "Ce hobby ai? - Sa fac liste pe care nu le respect artistic.",
+    "text": "Ce ai rezolvat? - Un sendvis si cateva emotii.",
     "source": "data/jokes_ro.txt"
   },
   "satire_ro": {
-    "title": "Din neatenție, Alfred Simonis s-a încălțat azi cu banii din cutia de pantofi, nu cu pantofii",
-    "link": "https://www.timesnewroman.ro/politic/din-neatentie-alfred-simonis-s-a-incaltat-azi-cu-banii-din-cutia-de-pantofi-nu-cu-pantofii/",
+    "title": "Răzbunarea băncilor! Au plătit amenda de 700.000.000 de euro cu fise de 1 ban",
+    "link": "https://www.timesnewroman.ro/life-death/razbunarea-bancilor-au-platit-amenda-de-700-000-000-de-euro-cu-fise-de-1-ban/",
     "source": "timesnewroman.ro"
   },
   "top_images": [
@@ -1515,23 +1417,24 @@
       "tag": "space",
       "title": "Space",
       "link": "https://commons.wikimedia.org/wiki/Category:Astronomy",
-      "image": "https://live.staticflickr.com/65535/55325499330_079fae6fe3_b.jpg"
+      "image": "https://live.staticflickr.com/65535/55324701068_190167e87c_b.jpg"
     },
     {
       "tag": "animals",
       "title": "Animals",
       "link": "https://commons.wikimedia.org/wiki/Category:Animals",
-      "image": "https://live.staticflickr.com/65535/55324360427_88c4b709d6_b.jpg"
+      "image": "https://live.staticflickr.com/65535/55326551179_a2f8286dbf_b.jpg"
     },
     {
       "tag": "landscape",
       "title": "Landscape",
       "link": "https://commons.wikimedia.org/wiki/Category:Landscapes",
-      "image": "https://live.staticflickr.com/65535/55325700634_3854f462d1_b.jpg"
+      "image": "https://live.staticflickr.com/65535/55326360626_73d69a0628_b.jpg"
     }
   ],
   "top_image_history": {
     "space": [
+      "https://live.staticflickr.com/65535/55324701068_190167e87c_b.jpg",
       "https://live.staticflickr.com/65535/55325499330_079fae6fe3_b.jpg",
       "https://live.staticflickr.com/65535/55324435535_d87a0e1e4e_b.jpg",
       "https://live.staticflickr.com/65535/55321707592_6d795f762b_b.jpg",
@@ -1548,10 +1451,10 @@
       "https://live.staticflickr.com/65535/55311968260_8e38fcb415_b.jpg",
       "https://live.staticflickr.com/65535/55310508731_875d1f172e_b.jpg",
       "https://live.staticflickr.com/65535/55308461633_23d1d1be1a_b.jpg",
-      "https://live.staticflickr.com/65535/55308320453_9f79ff6814_b.jpg",
-      "https://live.staticflickr.com/65535/55307165123_de425a7661_b.jpg"
+      "https://live.staticflickr.com/65535/55308320453_9f79ff6814_b.jpg"
     ],
     "animals": [
+      "https://live.staticflickr.com/65535/55326551179_a2f8286dbf_b.jpg",
       "https://live.staticflickr.com/65535/55324360427_88c4b709d6_b.jpg",
       "https://live.staticflickr.com/65535/55324180481_c699825040_b.jpg",
       "https://live.staticflickr.com/65535/55323606378_8d92f19474_b.jpg",
@@ -1568,10 +1471,10 @@
       "https://live.staticflickr.com/65535/55311926720_5896406fef_b.jpg",
       "https://live.staticflickr.com/65535/55310909016_f366f72307_b.jpg",
       "https://live.staticflickr.com/65535/55309847918_3364b1ca4d_b.jpg",
-      "https://live.staticflickr.com/65535/55308990515_4e847b8869_b.jpg",
-      "https://live.staticflickr.com/65535/55306548602_eb0a9d2e01_b.jpg"
+      "https://live.staticflickr.com/65535/55308990515_4e847b8869_b.jpg"
     ],
     "landscape": [
+      "https://live.staticflickr.com/65535/55326360626_73d69a0628_b.jpg",
       "https://live.staticflickr.com/65535/55325700634_3854f462d1_b.jpg",
       "https://live.staticflickr.com/65535/55323074232_1cd534f0ca_b.jpg",
       "https://live.staticflickr.com/65535/55323437671_e92c18479c_b.jpg",
@@ -1588,10 +1491,10 @@
       "https://live.staticflickr.com/65535/55311865424_799828539f_b.jpg",
       "https://live.staticflickr.com/65535/55311272140_83bc6cfbf2_b.jpg",
       "https://live.staticflickr.com/65535/55309738978_d7e3f1dd73_b.jpg",
-      "https://live.staticflickr.com/65535/55308779483_491b3d6355_b.jpg",
-      "https://live.staticflickr.com/65535/55306496057_9fac8bb236_b.jpg"
+      "https://live.staticflickr.com/65535/55308779483_491b3d6355_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/16673673042_522c220ee6_b.jpg",
       "https://live.staticflickr.com/65535/16509679038_cdf1533c65_b.jpg",
       "https://live.staticflickr.com/65535/55309134780_0e76827d98_b.jpg",
       "https://live.staticflickr.com/65535/40237798055_cd496628cd_b.jpg",
@@ -1608,10 +1511,10 @@
       "https://live.staticflickr.com/65535/55302878011_2ea670da63_b.jpg",
       "https://live.staticflickr.com/65535/55306106122_a97393b705_b.jpg",
       "https://live.staticflickr.com/65535/55307187515_e9acab5816_b.jpg",
-      "https://live.staticflickr.com/65535/15207327300_bf5c22d00e_b.jpg",
-      "https://live.staticflickr.com/65535/55299489673_679331e6e4_b.jpg"
+      "https://live.staticflickr.com/65535/15207327300_bf5c22d00e_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55326406678_fbcf52b354_b.jpg",
       "https://live.staticflickr.com/65535/55326262944_cacba7e8f2_b.jpg",
       "https://live.staticflickr.com/65535/55326030338_506bed89da_b.jpg",
       "https://live.staticflickr.com/65535/55324400657_c8499d369c_b.jpg",
@@ -1628,12 +1531,11 @@
       "https://live.staticflickr.com/65535/55322111959_f972938840_b.jpg",
       "https://live.staticflickr.com/65535/55320740132_ae5dda5aaa_b.jpg",
       "https://live.staticflickr.com/65535/55320791069_29352e56c9_b.jpg",
-      "https://live.staticflickr.com/65535/55320983385_94bcf956f2_b.jpg",
-      "https://live.staticflickr.com/65535/55320792099_dd6989b5ed_b.jpg"
+      "https://live.staticflickr.com/65535/55320983385_94bcf956f2_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
+      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
