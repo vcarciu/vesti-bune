@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-06-11T22:47:38+00:00",
+  "generated_utc": "2026-06-12T00:14:47+00:00",
   "sections": {
     "romania": [
       {
@@ -113,18 +113,6 @@
         "section": "romania",
         "kind": "ro",
         "source": "Times New Roman (Satira)",
-        "title": "😂 Bucătăria de la Cotroceni",
-        "summary": "The post Bucătăria de la Cotroceni appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/ovi/bucataria-de-la-cotroceni",
-        "published_utc": "2026-06-11T07:50:15+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/06/Bucataria-de-la-Cotroceni.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Times New Roman (Satira)",
         "title": "😂 Pesediștii l-au învățat pe Tomac să fure mai eficient, ca să-și permită să se îmbrace și el mai elegant",
         "summary": "Sorin Grindeanu și Alfred Simonis l-au pregătit intens în ultimele zile pe Eugen Tomac, cu un scop cât se poate de clar: să-l facă unul de-al lor nu doar după fapte, ci și după port. Așa că l-au învățat cum se fură banii publici, ca să-și permită și el haine și ceasuri de lux, ca [&#8230;] The post Pesediștii l-au învățat pe Tomac să fure mai eficient, ca să-și permită să se îmbrace și el mai elegant appeared first on Times New Roman .",
         "link": "https://www.timesnewroman.ro/politic/pesedistii-l-au-invatat-pe-tomac-sa-fure-ca-sa-si-permita-sa-se-imbrace-si-el-mai-elegant",
@@ -132,6 +120,18 @@
         "score": 3,
         "freshness_boost": 3,
         "image": "https://www.timesnewroman.ro/wp-content/uploads/2025/05/grindeanu_pesedisti.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 Nu doar urşii sunt periculoşi! Turist ardelean, atacat fulgerător de o ţestoasă în Munţii Dobrogei",
+        "summary": "Deşi sunt singurii fără urşi din întreaga ţară, munţii Dobrogei ascund şi ei pericole adesea subestimate! Un turist originar din Transilvania se plânge că era s-o păţească în urmă cu câteva zile, când s-a întâlnit pe traseu cu o ţestoasă extrem de agresivă. Clujeanul pe nume Ştefan spune că reptila l-a atacat fulgerător, a încercat [&#8230;] The post Nu doar urşii sunt periculoşi! Turist ardelean, atacat fulgerător de o ţestoasă în Munţii Dobrogei appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/monden/nu-doar-ursii-sunt-periculosi-turist-ardelean-atacat-fulgerator-de-o-testoasa-in-muntii-dobrogei",
+        "published_utc": "2026-06-10T15:39:08+00:00",
+        "score": 3,
+        "freshness_boost": 1,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/06/testoasadobrog.jpg"
       },
       {
         "section": "romania",
@@ -477,169 +477,97 @@
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "AI study reveals stark inequalities in global climate plans",
-        "summary": "An international team including researchers from the University of Alicante (UA) and the Universitat Politècnica de València (UPV) has used artificial intelligence to analyze the climate commitments submitted to the United Nations by 158 countries. Their conclusion is stark: Profound inequalities persist within global climate planning.",
-        "link": "https://phys.org/news/2026-06-ai-reveals-stark-inequalities-global.html",
-        "published_utc": "2026-06-11T22:40:03+00:00",
-        "score": 2,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-study-reveals-stark-1.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Why cells started sticking together could help explain how animals first evolved",
-        "summary": "A recent study by Ruibao Li and Jennah Dharamshi published in Nature may help us understand the beginnings of animal evolution billions of years ago. These findings are the result of a collaboration among researchers at Indiana University Bloomington, the Institute of Evolutionary Biology in Spain and Uppsala University in Sweden, and were led by J. P. Gerdt and Iñaki Ruiz-Trillo.",
-        "link": "https://phys.org/news/2026-06-cells-animals-evolved.html",
-        "published_utc": "2026-06-11T22:40:01+00:00",
-        "score": 2,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/-animal-evolution.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "A new kind of entanglement helps quantum sensors tune out noise",
-        "summary": "In a quest to build the most accurate quantum sensors in the world, scientists are constantly improving their performance, making them more precise, more stable and more reliable. But eventually, physical constraints will prevent further improvements.",
-        "link": "https://phys.org/news/2026-06-kind-entanglement-quantum-sensors-tune.html",
-        "published_utc": "2026-06-11T22:30:04+00:00",
-        "score": 2,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-kind-of-entangle.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Integrating sustainable practices into undergraduate science education",
-        "summary": "Faculty and students at Georgia State University are working to integrate sustainable practices into undergraduate science education, and a new study highlights ways to advance laboratory practices and teaching strategies.",
-        "link": "https://phys.org/news/2026-06-sustainable-undergraduate-science.html",
-        "published_utc": "2026-06-11T22:20:06+00:00",
+        "title": "Why restoring rivers isn't enough: New research shows fish are evolving in response to human-made rivers",
+        "summary": "This new international study is calling for a major rethink of how rivers are managed, arguing that fish are not just passive victims of environmental change but active participants in a feedback loop that can reshape entire river systems.",
+        "link": "https://phys.org/news/2026-06-rivers-isnt-fish-evolving-response.html",
+        "published_utc": "2026-06-12T00:00:07+00:00",
         "score": 1,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/georgia-state-preparin.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-restoring-rivers-i-2.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Light echoes reveal possible dark matter buildup around supermassive black holes",
-        "summary": "We may not know what dark matter is, but we keep getting whiffs of it. \"We are reaching a point where the observational evidence for dark matter is simply undeniable,\" said Mayank Sharma, a Virginia Tech graduate student in physics.",
-        "link": "https://phys.org/news/2026-06-echoes-reveal-dark-buildup-supermassive.html",
-        "published_utc": "2026-06-11T22:10:01+00:00",
+        "title": "A look at the SpaceX IPO by the numbers",
+        "summary": "Elon Musk is all about big numbers—millions, billions, even trillions—and there are plenty of them associated with SpaceX and Musk's plans to take the rocket maker public.",
+        "link": "https://phys.org/news/2026-06-spacex-ipo.html",
+        "published_utc": "2026-06-11T23:40:04+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/5-blackhole.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-look-at-the-spacex-i.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Heat claimed more than 200,000 lives in Europe since 2022: WHO",
-        "summary": "More than 200,000 lives have been lost to the \"silent killer\" of heat in Europe since 2022, the World Health Organization said Thursday, after a heat wave saw some countries record their highest-ever May temperatures.",
-        "link": "https://phys.org/news/2026-06-europe.html",
-        "published_utc": "2026-06-11T22:00:01+00:00",
-        "score": 0,
+        "title": "Cosmic dawn fuel discovery unlocks early galaxy growth secrets",
+        "summary": "Astronomers have discovered a huge reservoir of cold molecular gas, the direct fuel for star formation, in REBELS-25, a massive, star-forming galaxy. The team, led from Leiden University, focused on REBELS-25, seen when the universe was only about 700 million years old, around 5% of its current age. The research is published in the journal Monthly Notices of the Royal Astronomical Society.",
+        "link": "https://phys.org/news/2026-06-cosmic-dawn-fuel-discovery-early.html",
+        "published_utc": "2026-06-11T23:40:01+00:00",
+        "score": 4,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/climate-change.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cosmic-dawn-fuel-disco-2.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "When seeds mislead, weeds succeed: Researchers uncover surprising ways weeds spread",
-        "summary": "Biologists have long thought that seed traits, such as the presence of wings, are the key to predicting in what way, and how far, weeds can disperse. Now, a trio of researchers has revealed that unexpected modes of seed dispersal are more important than mechanisms predicted by seed traits.",
-        "link": "https://phys.org/news/2026-06-seeds-weeds-succeed-uncover-ways.html",
-        "published_utc": "2026-06-11T21:40:02+00:00",
+        "title": "CO₂ injection reveals hidden cement chemistry behind 13% stronger early strength",
+        "summary": "One September day, it started to snow inside MIT's Pierce Laboratory. Researchers depressurized a tank of liquid carbon dioxide (CO2), instantly freezing it and releasing solid flakes. These were blended into cement paste and pressed into disks roughly the size of a dime, each sealed with a thin layer of vegetable oil to keep water in and air out. The team trained lasers on each one, observing for the first time the transient chemical reaction that might explain why CO2-injected cement paste gains strength faster.",
+        "link": "https://phys.org/news/2026-06-reveals-hidden-cement-chemistry-stronger.html",
+        "published_utc": "2026-06-11T23:20:05+00:00",
         "score": 1,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/when-seeds-mislead-wee.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/shot-of-carbon-dioxide.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Newly synthesized fullerene material remains metallic even under low temperatures",
-        "summary": "An international team whose research was coordinated by Osaka Metropolitan University (OMU) has reported the survival of metallic behavior in the strongly correlated molecular material ytterbium cesium fulleride (Yb₂CsC₆₀). The electrons in the newly synthesized material remained mobile and continued to conduct electricity even at the lowest temperatures studied, despite strong electron interactions that would normally be expected to drive the material into an insulating state.",
-        "link": "https://phys.org/news/2026-06-newly-fullerene-material-metallic-temperatures.html",
-        "published_utc": "2026-06-11T21:40:01+00:00",
-        "score": 0,
+        "title": "New cavity control strategy improves performance of blue vertical-cavity surface-emitting lasers",
+        "summary": "GaN-based vertical-cavity surface-emitting lasers (VCSELs) are promising for displays, sensing and optical communication, but improving efficiency remains challenging. Researchers have now shown that \"cavity tuning,\" which controls resonance wavelength, strongly affects laser performance. By analyzing variations across a VCSEL wafer, the team identified optimal mirror loss conditions and extracted device parameters. Their approach achieved 26.4% wall plug efficiency, offering guidance for next-generation high-efficiency visible-light semiconductor lasers.",
+        "link": "https://phys.org/news/2026-06-cavity-strategy-blue-vertical-surface.html",
+        "published_utc": "2026-06-11T23:20:03+00:00",
+        "score": 5,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/newly-synthesized-full.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-cavity-control-str.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Even weak ocean models can provide valuable information for environmental forecasts, study shows",
-        "summary": "Oxygen depletion in the western Baltic Sea is not uncommon. Oxygen-poor conditions regularly occur in deeper waters, placing stress on marine ecosystems and, in extreme cases, causing fish kills. As ocean temperatures continue to rise due to climate change, the challenges may become more severe in the future. To better predict such developments, researchers rely on numerical ocean models.",
-        "link": "https://phys.org/news/2026-06-weak-ocean-valuable-environmental.html",
-        "published_utc": "2026-06-11T21:20:02+00:00",
-        "score": 2,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-hidden-value-of-lo.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "NASA Breaking News",
-        "title": "NASA’s Chandra Discovers Possible Supernova Remnant in Galactic Center",
-        "summary": "Using data from NASA’s Chandra X-ray Observatory, astronomers may have found a supernova remnant in an intriguing neighborhood in the middle of our galaxy. A paper describing these new findings published in The Astrophysical Journal. Supernova remnants are the expanding remains of exploded stars and provide elements – like iron, oxygen, and silicon – that […]",
-        "link": "https://science.nasa.gov/missions/chandra/nasas-chandra-discovers-possible-supernova-remnant-in-galactic-center",
-        "published_utc": "2026-06-11T20:41:44+00:00",
-        "score": 2,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-6e79605fd2395e19/480/320"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Genomes from Oceania offer new clues to human evolution",
-        "summary": "A new Yale-led study provides one of the most detailed and comprehensive analyses to date of genetic variation in human populations in Oceania, filling a major gap in representation in genomics research. Despite harboring remarkable diversity, populations in this vast region in the South Pacific historically have been overlooked in global human genetic studies, which have often focused largely on people of European descent, researchers say. The study is published in the journal Science.",
-        "link": "https://phys.org/news/2026-06-genomes-oceania-clues-human-evolution.html",
-        "published_utc": "2026-06-11T20:40:05+00:00",
-        "score": 2,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/genomes-from-oceania-o.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Diffusion model links foam physics to voting shifts and market behavior",
-        "summary": "A drop of dye added to a glass of water undergoes ordinary diffusion. However, when placed on the surface of a foam, the dye spreads differently—diffusion becomes anomalous. An example of this is the pattern on the froth of a cup of cappuccino. Interestingly, recent research suggests that diffusion equations in a heterogeneous environment can also describe social phenomena, such as election results or the behavior of stock market traders. The study is published in the Chaos: An Interdisciplinary Journal of Nonlinear Science.",
-        "link": "https://phys.org/news/2026-06-diffusion-links-foam-physics-voting.html",
-        "published_utc": "2026-06-11T20:30:50+00:00",
+        "title": "Third-grade impulses linked to lower academic achievement and education into adulthood",
+        "summary": "Can your behavior in third grade predict outcomes in high school and beyond? A new study, published in Developmental Psychology, says yes.",
+        "link": "https://phys.org/news/2026-06-grade-impulses-linked-academic-adulthood.html",
+        "published_utc": "2026-06-11T23:00:03+00:00",
         "score": 1,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/diffusion-in-a-heterog.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/third-grade.jpg"
       },
       {
         "section": "science",
         "kind": "global",
-        "source": "NASA Breaking News",
-        "title": "I Am Artemis: Elkin Norena",
-        "summary": "Listen to this audio excerpt from Elkin Norena, resident management officer, NASA&#8217;s Space Launch System Program: NASA’s Elkin Norena has helped the agency launch more than a dozen space shuttle missions – that’s more than a dozen crews to low Earth orbit and more than a dozen historic missions. They were missions that helped build [&#8230;]",
-        "link": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-elkin-norena",
-        "published_utc": "2026-06-11T20:07:33+00:00",
+        "source": "Phys.org",
+        "title": "Ancient DNA from Tuscan wells reveals origins of modern wine",
+        "summary": "Scientists analyzing 2,000-year-old grape seeds from ancient wells in Tuscany have mapped the most extensive genetic history of ancient grapevines recovered from a single site.",
+        "link": "https://phys.org/news/2026-06-ancient-dna-tuscan-wells-reveals.html",
+        "published_utc": "2026-06-11T23:00:01+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-b787d12b7648b3dd/480/320"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2018/wine.jpg"
       },
       {
         "section": "science",
         "kind": "global",
-        "source": "NASA Breaking News",
-        "title": "NASA Robotic Tech Demo Will Advance Prototype Gamma-Ray Detectors",
-        "summary": "A new type of gamma-ray sensor developed by NASA will take part in a robotic arm demonstration on the agency’s upcoming Fly Foundational Robots mission.",
-        "link": "https://science.nasa.gov/missions/tech-demonstration/nasa-robotic-tech-demo-will-advance-prototype-gamma-ray-detectors",
-        "published_utc": "2026-06-11T18:59:37+00:00",
+        "source": "Phys.org",
+        "title": "Quantum friction causes light to slow down nanoworld movements",
+        "summary": "A research team in Bochum, Germany has unexpectedly found that light can slow down movements in the nanoworld. This is due to quantum friction, a phenomenon that has been poorly understood until now. The findings are published in the journal Nature.",
+        "link": "https://phys.org/news/2026-06-quantum-friction-nanoworld-movements.html",
+        "published_utc": "2026-06-11T22:50:01+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-44b7d1d12259ba1d/480/320"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/light-as-a-brake.jpg"
       }
     ],
     "environment": [
@@ -745,6 +673,18 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 O femeie merge zilnic 4 ore la sală ca să poată sta nemișcată 8 ore pe șezlong în vacanță",
+      "summary": "După nouă luni de antrenamente intense, dietă strictă și nenumărate momente în care a refuzat o felie de pizza spunând „nu merită”, o femeie din București se declară pregătită pentru obiectivul suprem al verii: să arate senzațional în timp ce nu face absolut nimic. „Unii se pregătesc pentru maraton. Eu mă pregătesc pentru șezlong”, explică [&#8230;] The post O femeie merge zilnic 4 ore la sală ca să poată sta nemișcată 8 ore pe șezlong în vacanță appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/monden/o-femeie-merge-zilnic-4-ore-la-sala-ca-sa-poata-sta-nemiscata-8-ore-pe-sezlong-in-vacanta",
+      "published_utc": "2026-06-11T09:36:39+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2025/06/bicicleta_fitness-1.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "Atelierul Deschis de Debate JCI București, 15 iunie 2026",
       "summary": "La Atelierul Deschis de Debate JCI București, de luni, 15 iunie, de la ora 19:00, vom pune sub lupă o temă mai actuală ca niciodată: „Organizațiile ar trebui să prioritizeze&#8230; Articolul Atelierul Deschis de Debate JCI București, 15 iunie 2026 apare prima dată în Romania Pozitiva .",
@@ -765,30 +705,6 @@
       "score": 3,
       "freshness_boost": 3,
       "image": "https://picsum.photos/seed/vb-313992ee8ae9f395/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 O femeie merge zilnic 4 ore la sală ca să poată sta nemișcată 8 ore pe șezlong în vacanță",
-      "summary": "După nouă luni de antrenamente intense, dietă strictă și nenumărate momente în care a refuzat o felie de pizza spunând „nu merită”, o femeie din București se declară pregătită pentru obiectivul suprem al verii: să arate senzațional în timp ce nu face absolut nimic. „Unii se pregătesc pentru maraton. Eu mă pregătesc pentru șezlong”, explică [&#8230;] The post O femeie merge zilnic 4 ore la sală ca să poată sta nemișcată 8 ore pe șezlong în vacanță appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/monden/o-femeie-merge-zilnic-4-ore-la-sala-ca-sa-poata-sta-nemiscata-8-ore-pe-sezlong-in-vacanta",
-      "published_utc": "2026-06-11T09:36:39+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2025/06/bicicleta_fitness-1.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Bucătăria de la Cotroceni",
-      "summary": "The post Bucătăria de la Cotroceni appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/ovi/bucataria-de-la-cotroceni",
-      "published_utc": "2026-06-11T07:50:15+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/06/Bucataria-de-la-Cotroceni.jpg"
     },
     {
       "section": "romania",
@@ -829,6 +745,18 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Pesediștii l-au învățat pe Tomac să fure mai eficient, ca să-și permită să se îmbrace și el mai elegant",
+      "summary": "Sorin Grindeanu și Alfred Simonis l-au pregătit intens în ultimele zile pe Eugen Tomac, cu un scop cât se poate de clar: să-l facă unul de-al lor nu doar după fapte, ci și după port. Așa că l-au învățat cum se fură banii publici, ca să-și permită și el haine și ceasuri de lux, ca [&#8230;] The post Pesediștii l-au învățat pe Tomac să fure mai eficient, ca să-și permită să se îmbrace și el mai elegant appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/politic/pesedistii-l-au-invatat-pe-tomac-sa-fure-ca-sa-si-permita-sa-se-imbrace-si-el-mai-elegant",
+      "published_utc": "2026-06-11T06:25:04+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2025/05/grindeanu_pesedisti.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "Revelații sonore în centrul Centrului Istoric: La Grande Bellezza",
       "summary": "Vineri, 12 iunie, Salonul Francez al Muzeului Micul Paris din centrul Centrului Istoric al Bucureștiului găzduiește recitalul „La Grande Bellezza. Seară de revelații sonore”, un eveniment muzical aparte, în care&#8230; Articolul Revelații sonore în centrul Centrului Istoric: La Grande Bellezza apare prima dată în Romania Pozitiva .",
@@ -854,13 +782,13 @@
       "section": "romania",
       "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 Pesediștii l-au învățat pe Tomac să fure mai eficient, ca să-și permită să se îmbrace și el mai elegant",
-      "summary": "Sorin Grindeanu și Alfred Simonis l-au pregătit intens în ultimele zile pe Eugen Tomac, cu un scop cât se poate de clar: să-l facă unul de-al lor nu doar după fapte, ci și după port. Așa că l-au învățat cum se fură banii publici, ca să-și permită și el haine și ceasuri de lux, ca [&#8230;] The post Pesediștii l-au învățat pe Tomac să fure mai eficient, ca să-și permită să se îmbrace și el mai elegant appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/politic/pesedistii-l-au-invatat-pe-tomac-sa-fure-ca-sa-si-permita-sa-se-imbrace-si-el-mai-elegant",
-      "published_utc": "2026-06-11T06:25:04+00:00",
+      "title": "😂 Nu doar urşii sunt periculoşi! Turist ardelean, atacat fulgerător de o ţestoasă în Munţii Dobrogei",
+      "summary": "Deşi sunt singurii fără urşi din întreaga ţară, munţii Dobrogei ascund şi ei pericole adesea subestimate! Un turist originar din Transilvania se plânge că era s-o păţească în urmă cu câteva zile, când s-a întâlnit pe traseu cu o ţestoasă extrem de agresivă. Clujeanul pe nume Ştefan spune că reptila l-a atacat fulgerător, a încercat [&#8230;] The post Nu doar urşii sunt periculoşi! Turist ardelean, atacat fulgerător de o ţestoasă în Munţii Dobrogei appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/monden/nu-doar-ursii-sunt-periculosi-turist-ardelean-atacat-fulgerator-de-o-testoasa-in-muntii-dobrogei",
+      "published_utc": "2026-06-10T15:39:08+00:00",
       "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2025/05/grindeanu_pesedisti.jpg"
+      "freshness_boost": 1,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/06/testoasadobrog.jpg"
     },
     {
       "section": "romania",
@@ -937,13 +865,13 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "AI study reveals stark inequalities in global climate plans",
-      "summary": "An international team including researchers from the University of Alicante (UA) and the Universitat Politècnica de València (UPV) has used artificial intelligence to analyze the climate commitments submitted to the United Nations by 158 countries. Their conclusion is stark: Profound inequalities persist within global climate planning.",
-      "link": "https://phys.org/news/2026-06-ai-reveals-stark-inequalities-global.html",
-      "published_utc": "2026-06-11T22:40:03+00:00",
-      "score": 2,
+      "title": "Why restoring rivers isn't enough: New research shows fish are evolving in response to human-made rivers",
+      "summary": "This new international study is calling for a major rethink of how rivers are managed, arguing that fish are not just passive victims of environmental change but active participants in a feedback loop that can reshape entire river systems.",
+      "link": "https://phys.org/news/2026-06-rivers-isnt-fish-evolving-response.html",
+      "published_utc": "2026-06-12T00:00:07+00:00",
+      "score": 1,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-study-reveals-stark-1.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-restoring-rivers-i-2.jpg"
     },
     {
       "section": "romania",
@@ -973,13 +901,13 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Why cells started sticking together could help explain how animals first evolved",
-      "summary": "A recent study by Ruibao Li and Jennah Dharamshi published in Nature may help us understand the beginnings of animal evolution billions of years ago. These findings are the result of a collaboration among researchers at Indiana University Bloomington, the Institute of Evolutionary Biology in Spain and Uppsala University in Sweden, and were led by J. P. Gerdt and Iñaki Ruiz-Trillo.",
-      "link": "https://phys.org/news/2026-06-cells-animals-evolved.html",
-      "published_utc": "2026-06-11T22:40:01+00:00",
-      "score": 2,
+      "title": "A look at the SpaceX IPO by the numbers",
+      "summary": "Elon Musk is all about big numbers—millions, billions, even trillions—and there are plenty of them associated with SpaceX and Musk's plans to take the rocket maker public.",
+      "link": "https://phys.org/news/2026-06-spacex-ipo.html",
+      "published_utc": "2026-06-11T23:40:04+00:00",
+      "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/-animal-evolution.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-look-at-the-spacex-i.jpg"
     },
     {
       "section": "romania",
@@ -1009,13 +937,13 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "A new kind of entanglement helps quantum sensors tune out noise",
-      "summary": "In a quest to build the most accurate quantum sensors in the world, scientists are constantly improving their performance, making them more precise, more stable and more reliable. But eventually, physical constraints will prevent further improvements.",
-      "link": "https://phys.org/news/2026-06-kind-entanglement-quantum-sensors-tune.html",
-      "published_utc": "2026-06-11T22:30:04+00:00",
-      "score": 2,
+      "title": "Cosmic dawn fuel discovery unlocks early galaxy growth secrets",
+      "summary": "Astronomers have discovered a huge reservoir of cold molecular gas, the direct fuel for star formation, in REBELS-25, a massive, star-forming galaxy. The team, led from Leiden University, focused on REBELS-25, seen when the universe was only about 700 million years old, around 5% of its current age. The research is published in the journal Monthly Notices of the Royal Astronomical Society.",
+      "link": "https://phys.org/news/2026-06-cosmic-dawn-fuel-discovery-early.html",
+      "published_utc": "2026-06-11T23:40:01+00:00",
+      "score": 4,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-kind-of-entangle.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cosmic-dawn-fuel-disco-2.jpg"
     },
     {
       "section": "romania",
@@ -1045,13 +973,13 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Integrating sustainable practices into undergraduate science education",
-      "summary": "Faculty and students at Georgia State University are working to integrate sustainable practices into undergraduate science education, and a new study highlights ways to advance laboratory practices and teaching strategies.",
-      "link": "https://phys.org/news/2026-06-sustainable-undergraduate-science.html",
-      "published_utc": "2026-06-11T22:20:06+00:00",
+      "title": "CO₂ injection reveals hidden cement chemistry behind 13% stronger early strength",
+      "summary": "One September day, it started to snow inside MIT's Pierce Laboratory. Researchers depressurized a tank of liquid carbon dioxide (CO2), instantly freezing it and releasing solid flakes. These were blended into cement paste and pressed into disks roughly the size of a dime, each sealed with a thin layer of vegetable oil to keep water in and air out. The team trained lasers on each one, observing for the first time the transient chemical reaction that might explain why CO2-injected cement paste gains strength faster.",
+      "link": "https://phys.org/news/2026-06-reveals-hidden-cement-chemistry-stronger.html",
+      "published_utc": "2026-06-11T23:20:05+00:00",
       "score": 1,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/georgia-state-preparin.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/shot-of-carbon-dioxide.jpg"
     },
     {
       "section": "romania",
@@ -1081,13 +1009,13 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Light echoes reveal possible dark matter buildup around supermassive black holes",
-      "summary": "We may not know what dark matter is, but we keep getting whiffs of it. \"We are reaching a point where the observational evidence for dark matter is simply undeniable,\" said Mayank Sharma, a Virginia Tech graduate student in physics.",
-      "link": "https://phys.org/news/2026-06-echoes-reveal-dark-buildup-supermassive.html",
-      "published_utc": "2026-06-11T22:10:01+00:00",
-      "score": 0,
+      "title": "New cavity control strategy improves performance of blue vertical-cavity surface-emitting lasers",
+      "summary": "GaN-based vertical-cavity surface-emitting lasers (VCSELs) are promising for displays, sensing and optical communication, but improving efficiency remains challenging. Researchers have now shown that \"cavity tuning,\" which controls resonance wavelength, strongly affects laser performance. By analyzing variations across a VCSEL wafer, the team identified optimal mirror loss conditions and extracted device parameters. Their approach achieved 26.4% wall plug efficiency, offering guidance for next-generation high-efficiency visible-light semiconductor lasers.",
+      "link": "https://phys.org/news/2026-06-cavity-strategy-blue-vertical-surface.html",
+      "published_utc": "2026-06-11T23:20:03+00:00",
+      "score": 5,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/5-blackhole.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-cavity-control-str.jpg"
     },
     {
       "section": "romania",
@@ -1117,13 +1045,13 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Heat claimed more than 200,000 lives in Europe since 2022: WHO",
-      "summary": "More than 200,000 lives have been lost to the \"silent killer\" of heat in Europe since 2022, the World Health Organization said Thursday, after a heat wave saw some countries record their highest-ever May temperatures.",
-      "link": "https://phys.org/news/2026-06-europe.html",
-      "published_utc": "2026-06-11T22:00:01+00:00",
-      "score": 0,
+      "title": "Third-grade impulses linked to lower academic achievement and education into adulthood",
+      "summary": "Can your behavior in third grade predict outcomes in high school and beyond? A new study, published in Developmental Psychology, says yes.",
+      "link": "https://phys.org/news/2026-06-grade-impulses-linked-academic-adulthood.html",
+      "published_utc": "2026-06-11T23:00:03+00:00",
+      "score": 1,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/climate-change.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/third-grade.jpg"
     },
     {
       "section": "romania",
@@ -1141,73 +1069,25 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "When seeds mislead, weeds succeed: Researchers uncover surprising ways weeds spread",
-      "summary": "Biologists have long thought that seed traits, such as the presence of wings, are the key to predicting in what way, and how far, weeds can disperse. Now, a trio of researchers has revealed that unexpected modes of seed dispersal are more important than mechanisms predicted by seed traits.",
-      "link": "https://phys.org/news/2026-06-seeds-weeds-succeed-uncover-ways.html",
-      "published_utc": "2026-06-11T21:40:02+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/when-seeds-mislead-wee.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Newly synthesized fullerene material remains metallic even under low temperatures",
-      "summary": "An international team whose research was coordinated by Osaka Metropolitan University (OMU) has reported the survival of metallic behavior in the strongly correlated molecular material ytterbium cesium fulleride (Yb₂CsC₆₀). The electrons in the newly synthesized material remained mobile and continued to conduct electricity even at the lowest temperatures studied, despite strong electron interactions that would normally be expected to drive the material into an insulating state.",
-      "link": "https://phys.org/news/2026-06-newly-fullerene-material-metallic-temperatures.html",
-      "published_utc": "2026-06-11T21:40:01+00:00",
+      "title": "Ancient DNA from Tuscan wells reveals origins of modern wine",
+      "summary": "Scientists analyzing 2,000-year-old grape seeds from ancient wells in Tuscany have mapped the most extensive genetic history of ancient grapevines recovered from a single site.",
+      "link": "https://phys.org/news/2026-06-ancient-dna-tuscan-wells-reveals.html",
+      "published_utc": "2026-06-11T23:00:01+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/newly-synthesized-full.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2018/wine.jpg"
     },
     {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Even weak ocean models can provide valuable information for environmental forecasts, study shows",
-      "summary": "Oxygen depletion in the western Baltic Sea is not uncommon. Oxygen-poor conditions regularly occur in deeper waters, placing stress on marine ecosystems and, in extreme cases, causing fish kills. As ocean temperatures continue to rise due to climate change, the challenges may become more severe in the future. To better predict such developments, researchers rely on numerical ocean models.",
-      "link": "https://phys.org/news/2026-06-weak-ocean-valuable-environmental.html",
-      "published_utc": "2026-06-11T21:20:02+00:00",
-      "score": 2,
+      "title": "Quantum friction causes light to slow down nanoworld movements",
+      "summary": "A research team in Bochum, Germany has unexpectedly found that light can slow down movements in the nanoworld. This is due to quantum friction, a phenomenon that has been poorly understood until now. The findings are published in the journal Nature.",
+      "link": "https://phys.org/news/2026-06-quantum-friction-nanoworld-movements.html",
+      "published_utc": "2026-06-11T22:50:01+00:00",
+      "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-hidden-value-of-lo.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "NASA Breaking News",
-      "title": "NASA’s Chandra Discovers Possible Supernova Remnant in Galactic Center",
-      "summary": "Using data from NASA’s Chandra X-ray Observatory, astronomers may have found a supernova remnant in an intriguing neighborhood in the middle of our galaxy. A paper describing these new findings published in The Astrophysical Journal. Supernova remnants are the expanding remains of exploded stars and provide elements – like iron, oxygen, and silicon – that […]",
-      "link": "https://science.nasa.gov/missions/chandra/nasas-chandra-discovers-possible-supernova-remnant-in-galactic-center",
-      "published_utc": "2026-06-11T20:41:44+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-6e79605fd2395e19/480/320"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Genomes from Oceania offer new clues to human evolution",
-      "summary": "A new Yale-led study provides one of the most detailed and comprehensive analyses to date of genetic variation in human populations in Oceania, filling a major gap in representation in genomics research. Despite harboring remarkable diversity, populations in this vast region in the South Pacific historically have been overlooked in global human genetic studies, which have often focused largely on people of European descent, researchers say. The study is published in the journal Science.",
-      "link": "https://phys.org/news/2026-06-genomes-oceania-clues-human-evolution.html",
-      "published_utc": "2026-06-11T20:40:05+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/genomes-from-oceania-o.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Diffusion model links foam physics to voting shifts and market behavior",
-      "summary": "A drop of dye added to a glass of water undergoes ordinary diffusion. However, when placed on the surface of a foam, the dye spreads differently—diffusion becomes anomalous. An example of this is the pattern on the froth of a cup of cappuccino. Interestingly, recent research suggests that diffusion equations in a heterogeneous environment can also describe social phenomena, such as election results or the behavior of stock market traders. The study is published in the Chaos: An Interdisciplinary Journal of Nonlinear Science.",
-      "link": "https://phys.org/news/2026-06-diffusion-links-foam-physics-voting.html",
-      "published_utc": "2026-06-11T20:30:50+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/diffusion-in-a-heterog.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/light-as-a-brake.jpg"
     },
     {
       "section": "medical",
@@ -1232,18 +1112,6 @@
       "score": 0,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/using-phone-app.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "NASA Breaking News",
-      "title": "I Am Artemis: Elkin Norena",
-      "summary": "Listen to this audio excerpt from Elkin Norena, resident management officer, NASA&#8217;s Space Launch System Program: NASA’s Elkin Norena has helped the agency launch more than a dozen space shuttle missions – that’s more than a dozen crews to low Earth orbit and more than a dozen historic missions. They were missions that helped build [&#8230;]",
-      "link": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-elkin-norena",
-      "published_utc": "2026-06-11T20:07:33+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-b787d12b7648b3dd/480/320"
     },
     {
       "section": "medical",
@@ -1316,18 +1184,6 @@
       "score": 1,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/12-brain.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "NASA Breaking News",
-      "title": "NASA Robotic Tech Demo Will Advance Prototype Gamma-Ray Detectors",
-      "summary": "A new type of gamma-ray sensor developed by NASA will take part in a robotic arm demonstration on the agency’s upcoming Fly Foundational Robots mission.",
-      "link": "https://science.nasa.gov/missions/tech-demonstration/nasa-robotic-tech-demo-will-advance-prototype-gamma-ray-detectors",
-      "published_utc": "2026-06-11T18:59:37+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-44b7d1d12259ba1d/480/320"
     },
     {
       "section": "medical",
@@ -1475,8 +1331,8 @@
     }
   ],
   "joke_ro": {
-    "date_utc": "2026-06-11",
-    "text": "Daca as primi bani pentru fiecare data cand ma razgandesc, as investi prudent.",
+    "date_utc": "2026-06-12",
+    "text": "Sunt intr-o relatie serioasa cu butonul de snooze.",
     "source": "data/jokes_ro.txt"
   },
   "satire_ro": {
@@ -1489,23 +1345,24 @@
       "tag": "space",
       "title": "Space",
       "link": "https://commons.wikimedia.org/wiki/Category:Astronomy",
-      "image": "https://live.staticflickr.com/65535/55325213301_c37387ef31_b.jpg"
+      "image": "https://live.staticflickr.com/65535/55329017873_369971658b_b.jpg"
     },
     {
       "tag": "animals",
       "title": "Animals",
       "link": "https://commons.wikimedia.org/wiki/Category:Animals",
-      "image": "https://live.staticflickr.com/65535/55328635674_45666d604e_b.jpg"
+      "image": "https://live.staticflickr.com/65535/55328526387_426a53a225_b.jpg"
     },
     {
       "tag": "landscape",
       "title": "Landscape",
       "link": "https://commons.wikimedia.org/wiki/Category:Landscapes",
-      "image": "https://live.staticflickr.com/65535/55328884515_bd2c829eaf_b.jpg"
+      "image": "https://live.staticflickr.com/65535/55329239086_368980c720_b.jpg"
     }
   ],
   "top_image_history": {
     "space": [
+      "https://live.staticflickr.com/65535/55329017873_369971658b_b.jpg",
       "https://live.staticflickr.com/65535/55325213301_c37387ef31_b.jpg",
       "https://live.staticflickr.com/65535/55324179292_c89229a0df_b.jpg",
       "https://live.staticflickr.com/65535/55324701068_190167e87c_b.jpg",
@@ -1522,10 +1379,10 @@
       "https://live.staticflickr.com/65535/55315028745_6c161315ea_b.jpg",
       "https://live.staticflickr.com/65535/55312044386_9f985b5a24_b.jpg",
       "https://live.staticflickr.com/65535/55313027379_5878b4387d_b.jpg",
-      "https://live.staticflickr.com/65535/55311968260_8e38fcb415_b.jpg",
-      "https://live.staticflickr.com/65535/55310508731_875d1f172e_b.jpg"
+      "https://live.staticflickr.com/65535/55311968260_8e38fcb415_b.jpg"
     ],
     "animals": [
+      "https://live.staticflickr.com/65535/55328526387_426a53a225_b.jpg",
       "https://live.staticflickr.com/65535/55328635674_45666d604e_b.jpg",
       "https://live.staticflickr.com/65535/55327403653_81ecc25345_b.jpg",
       "https://live.staticflickr.com/65535/55326551179_a2f8286dbf_b.jpg",
@@ -1542,10 +1399,10 @@
       "https://loremflickr.com/1600/900/animals,wildlife,bird,mammal?lock=622274",
       "https://live.staticflickr.com/65535/55312718602_a621df53b2_b.jpg",
       "https://live.staticflickr.com/65535/55312958714_6ab32d7ba5_b.jpg",
-      "https://live.staticflickr.com/65535/55311926720_5896406fef_b.jpg",
-      "https://live.staticflickr.com/65535/55310909016_f366f72307_b.jpg"
+      "https://live.staticflickr.com/65535/55311926720_5896406fef_b.jpg"
     ],
     "landscape": [
+      "https://live.staticflickr.com/65535/55329239086_368980c720_b.jpg",
       "https://live.staticflickr.com/65535/55328884515_bd2c829eaf_b.jpg",
       "https://live.staticflickr.com/65535/55325616077_5317fcb1dd_b.jpg",
       "https://live.staticflickr.com/65535/55326360626_73d69a0628_b.jpg",
@@ -1562,10 +1419,10 @@
       "https://live.staticflickr.com/65535/55313735592_e3f7b21988_b.jpg",
       "https://live.staticflickr.com/65535/55313621186_d5f1b2f368_b.jpg",
       "https://live.staticflickr.com/65535/55313102725_0972fa6b28_b.jpg",
-      "https://live.staticflickr.com/65535/55311865424_799828539f_b.jpg",
-      "https://live.staticflickr.com/65535/55311272140_83bc6cfbf2_b.jpg"
+      "https://live.staticflickr.com/65535/55311865424_799828539f_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/55315590640_09eef0358d_b.jpg",
       "https://live.staticflickr.com/65535/55328601620_85aa8ffc8a_b.jpg",
       "https://live.staticflickr.com/1511/25189791186_f1a071f5c0_b.jpg",
       "https://live.staticflickr.com/65535/55318407532_216762da62_b.jpg",
@@ -1582,10 +1439,10 @@
       "https://live.staticflickr.com/65535/40237798055_cd496628cd_b.jpg",
       "https://live.staticflickr.com/65535/55310281871_b3951aece1_b.jpg",
       "https://live.staticflickr.com/65535/16489982257_015ab439de_b.jpg",
-      "https://live.staticflickr.com/65535/16509864510_830e23d4f8_b.jpg",
-      "https://live.staticflickr.com/65535/55322088652_a96ddd3219_b.jpg"
+      "https://live.staticflickr.com/65535/16509864510_830e23d4f8_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55329661449_89165206b2_b.jpg",
       "https://live.staticflickr.com/65535/55329406848_8d2ac04f07_b.jpg",
       "https://live.staticflickr.com/65535/55329246709_f9c294f41a_b.jpg",
       "https://live.staticflickr.com/65535/55327827332_d08af18b5f_b.jpg",
@@ -1602,12 +1459,11 @@
       "https://live.staticflickr.com/65535/55324400657_c8499d369c_b.jpg",
       "https://live.staticflickr.com/65535/55304775382_79f82b0a9f_b.jpg",
       "https://live.staticflickr.com/65535/55325145183_9ebf40b8d6_b.jpg",
-      "https://live.staticflickr.com/65535/55325335090_187a89c94c_b.jpg",
-      "https://live.staticflickr.com/65535/55324967115_bd8796afe0_b.jpg"
+      "https://live.staticflickr.com/65535/55325335090_187a89c94c_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
+      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
