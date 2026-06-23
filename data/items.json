@@ -1,7 +1,67 @@
 {
-  "generated_utc": "2026-06-23T04:54:04+00:00",
+  "generated_utc": "2026-06-23T08:23:34+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Start-Up Romania",
+        "title": "re:Marc 2026: românii premiați pe scena antreprenoriatului de impact",
+        "summary": "Din 2024, programul Marc Impact ajută organizațiile să transforme soluțiile la probleme sociale în afaceri sustenabile și scalabile. La a doua ediția a competiției re:Marc, două afaceri din România...",
+        "link": "https://start-up.ro/re-marc-2026-romanii-premiati-pe-scena-antreprenoriatului-de-impact",
+        "published_utc": "2026-06-23T07:46:45+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://start-up.ro/img/articles/3/8/5/38553/cover-38553-src.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Inteligența artificială „a măturat” zeci de mii de locuri de muncă la Oracle, Amazon și Meta",
+        "summary": "Oracle a eliminat aproximativ 21.000 de posturi la nivel global în ultimul an, pe măsură ce gigantul american din domeniul tehnologiei își reorganizează activitatea în jurul inteligenței artificiale (AI), arată cel mai recent raport anual al companiei. Amazon și Meta, compania care deține Facebook, au eliminat la rândul lor mii de locuri de muncă în ultimele luni, scrie BBC.",
+        "link": "https://www.digi24.ro/stiri/externe/inteligenta-artificiala-a-maturat-zeci-de-mii-de-locuri-de-munca-la-oracle-amazon-si-meta-3828063",
+        "published_utc": "2026-06-23T07:08:26+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTcl/MkYwOSUyRjEzJTJGODIwMzA5XzgyMDMw/OV9vcmFjbGUucG5nJmhhc2g9OWI0YjM5/NTNmZjE4ZjNmMmEzNjJmOWNkYmJhM2IxOWY=.png"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Start-Up Romania",
+        "title": "Startup-urile europene dual-use pot aplica la un accelerator unde vor lucra alături de soldați ucraineni",
+        "summary": "Acceleratorul finlandez de tehnologie pentru apărare 17Tech va deschide un centru de cercetare și dezvoltare la Kyiv, unde startup-uri din Finlanda și din alte țări europene își vor putea testa și...",
+        "link": "https://start-up.ro/startup-urile-europene-dual-use-pot-aplica-la-un-accelerator-unde-vor-lucra-alaturi-de-soldati-ucraineni",
+        "published_utc": "2026-06-23T06:18:52+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://start-up.ro/img/articles/3/8/5/38557/cover-38557-src.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "„Mai bine cumperi titluri de stat”: avertismentul românului care ridică una dintre cele mai mari fabrici de pet-food din Europa",
+        "summary": "Ioan Popa , patronul Transavia, companie care va deschide în curând una din cele mai mari fabrici din Europa pe zona de pet-food, spune că e greu să rămâi optimist în contextul geopolitic și economic actual, și descrie în detaliu calvarul obținerii autorizațiilor pentru o investiție. „Dacă astăzi vrei să faci o investiție serioasă, prima &#8230;",
+        "link": "https://hotnews.ro/mai-bine-cumperi-titluri-de-stat-avertismentul-romanului-care-ridica-una-dintre-cele-mai-mari-fabrici-de-pet-food-din-europa-2281735",
+        "published_utc": "2026-06-23T06:18:05+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-1b644ecb77deb8fc/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "RomaniaPozitiva",
+        "title": "A cincea zi include „Lungul drum al zilei către noapte”, „Urmașii zeilor”, „Sufletul Japoniei”",
+        "summary": "Cea de-a 33-a ediţie a Festivalului Internaţional de Teatru de la Sibiu cuprinde 848 de evenimente pe parcursul a zece zile pline de teatru, dans, muzică, circ, expoziţii şi multe&#8230; Articolul A cincea zi include „Lungul drum al zilei către noapte”, „Urmașii zeilor”, „Sufletul Japoniei” apare prima dată în Romania Pozitiva .",
+        "link": "https://www.romaniapozitiva.ro/cultura/a-cincea-zi-include-lungul-drum-al-zilei-catre-noapte-urmasii-zeilor-sufletul-japoniei",
+        "published_utc": "2026-06-23T05:39:51+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-6f7168a480fdb59a/480/320"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -41,26 +101,26 @@
       {
         "section": "romania",
         "kind": "ro",
-        "source": "RomaniaPozitiva",
-        "title": "Comunitatea aleargă pentru autonomie: 10 copii cu nevoi speciale din Brașov vor beneficia gratuit de terapie 3C",
-        "summary": "Proiectul „Terapie 3C Brașov – Calea spre autonomie”, derulat de Asociația Mihai și Prietenii, se desfășoară în două etape complementare: o campanie de strângere de fonduri și etapa de implementare&#8230; Articolul Comunitatea aleargă pentru autonomie: 10 copii cu nevoi speciale din Brașov vor beneficia gratuit de terapie 3C apare prima dată în Romania Pozitiva .",
-        "link": "https://www.romaniapozitiva.ro/sport/comunitatea-alearga-pentru-autonomie-10-copii-cu-nevoi-speciale-din-brasov-vor-beneficia-gratuit-de-terapie-3c",
-        "published_utc": "2026-06-22T12:55:57+00:00",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 Martorii lui Iehova, congres pe Arena Naţională. O parte au rămas la Socului şi îşi spun acum Martorii lui Şaorma",
+        "summary": "Consideraţi una dintre cele mai unite mişcări religioase, Martorii lui Iehova au pierdut mii de aderenţi după congresul desfăşurat în acest weekend la Bucureşti! Potrivit unor surse, în drum spre Arena Naţională, aceştia au oprit la Socului, unde s-au convertit la o nouă credinţă, iar acum îşi spun Martorii lui Şaorma. &#8222;Din 35.000, câţi am [&#8230;] The post Martorii lui Iehova, congres pe Arena Naţională. O parte au rămas la Socului şi îşi spun acum Martorii lui Şaorma appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/life-death/martorii-lui-iehova-congres-pe-arena-nationala-o-parte-au-ramas-la-socului-si-isi-spun-acum-martorii-lui-saorma",
+        "published_utc": "2026-06-22T13:41:57+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-2a82c7ff7e857f6c/480/320"
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/06/martoriiluisaorma.jpg"
       },
       {
         "section": "romania",
         "kind": "ro",
         "source": "Times New Roman (Satira)",
-        "title": "😂 Miniştrii Cabinetului Veştea vor fi audiaţi de o babă: „Al cui din PSD eşti, maică?”",
-        "summary": "Azi au loc audierile celor 18 miniștri din cabinetul Veștea, iar pentru eficientizarea procedurii s-a apelat la serviciile unei babe. Aceasta îi va evalua pe miniștrii propuși în cel mai riguros mod posibil, respectiv le va pune întrebarea „Al cui din PSD eşti, maică?&#8221;. Este absolut evident că toți cei 18 miniștri sunt legați de [&#8230;] The post Miniştrii Cabinetului Veştea vor fi audiaţi de o babă: „Al cui din PSD eşti, maică?&#8221; appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/politic/ministrii-cabinetului-vestea-vor-fi-audiati-de-o-baba-al-cui-din-psd-esti-maica",
-        "published_utc": "2026-06-22T10:41:15+00:00",
+        "title": "😂 Firmele de IT, nevoite să angajeze oamenii la loc! AI-ul e ocupat să îi genereze femei lui Trăistariu",
+        "summary": "Marea înlocuire a angajaţilor umani cu inteligenţa artificială s-a dovedit a fi un mare fâs! Mii de companii din sectorul tehnologiei sunt nevoite să îşi cheme oamenii înapoi la serviciu după ce AI-ul le-a explicat că nu poate face azi nicio operaţiune, fiind prea ocupat să îi genereze gagici cântăreţului Mihai Trăistariu. &#8222;ChatGPT, Claude, Gemini, [&#8230;] The post Firmele de IT, nevoite să angajeze oamenii la loc! AI-ul e ocupat să îi genereze femei lui Trăistariu appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/monden/firmele-de-it-nevoite-sa-angajeze-oamenii-la-loc-ai-ul-e-ocupat-sa-ii-genereze-femei-lui-traistariu",
+        "published_utc": "2026-06-22T10:09:27+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/06/baba_audiere_ministri.jpeg"
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/06/gagicitraistariu.jpg"
       },
       {
         "section": "romania",
@@ -71,20 +131,20 @@
         "link": "https://www.timesnewroman.ro/politic/nicusor-a-dormit-pe-pres-dupa-ce-s-a-intalnit-la-bruxelles-cu-o-pitipoanca-rares-bogdan",
         "published_utc": "2026-06-22T05:55:44+00:00",
         "score": 3,
-        "freshness_boost": 3,
+        "freshness_boost": 1,
         "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/06/nicusor_rares_bogdan_restaurant.jpg"
       },
       {
         "section": "romania",
         "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 Un bărbat s-a dus de bunăvoie la 2 Mai fără să fie șantajat de vreo femeie",
-        "summary": "Caz bizar în România, unde Marian Coltea, un bărbat care locuiește în zona Lujerului, a decis din proprie inițiativă să plece în vacanță o săptămână la 2 Mai, pe litoralul românesc. Asta fără să fie șantajat de soție sau de copii cu această destinație și mai ales fără să fie amenințat că dacă nu vine [&#8230;] The post Un bărbat s-a dus de bunăvoie la 2 Mai fără să fie șantajat de vreo femeie appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/life-death/un-barbat-s-a-dus-de-bunavoie-la-2-mai-fara-sa-fie-santajat-de-vreo-femeie",
-        "published_utc": "2026-06-21T07:13:29+00:00",
+        "source": "Start-Up Romania",
+        "title": "Alpha by Zendra, Orange Fab | Startup-ul care-ți testează constant compania pentru vulnerabilități cibernetice",
+        "summary": "Alpha by Zendra vrea să ajute companiile mici și mijlocii să identifice vulnerabilitățile de securitate cibernetică în mod automat. Pornit ca un spinoff, Alpha a ajuns deja la primii clienți....",
+        "link": "https://start-up.ro/alpha-by-zendra-orange-fab-startup-ul-care-ti-testeaza-constant-compania-pentru-vulnerabilitati-cibernetice",
+        "published_utc": "2026-06-18T20:28:39+00:00",
         "score": 3,
-        "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/06/marian_coltea_2mai.jpg"
+        "freshness_boost": 0,
+        "image": "https://start-up.ro/img/articles/3/8/5/38523/cover-38523-src.jpg"
       },
       {
         "section": "romania",
@@ -614,6 +674,78 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "Start-Up Romania",
+      "title": "re:Marc 2026: românii premiați pe scena antreprenoriatului de impact",
+      "summary": "Din 2024, programul Marc Impact ajută organizațiile să transforme soluțiile la probleme sociale în afaceri sustenabile și scalabile. La a doua ediția a competiției re:Marc, două afaceri din România...",
+      "link": "https://start-up.ro/re-marc-2026-romanii-premiati-pe-scena-antreprenoriatului-de-impact",
+      "published_utc": "2026-06-23T07:46:45+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://start-up.ro/img/articles/3/8/5/38553/cover-38553-src.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Inteligența artificială „a măturat” zeci de mii de locuri de muncă la Oracle, Amazon și Meta",
+      "summary": "Oracle a eliminat aproximativ 21.000 de posturi la nivel global în ultimul an, pe măsură ce gigantul american din domeniul tehnologiei își reorganizează activitatea în jurul inteligenței artificiale (AI), arată cel mai recent raport anual al companiei. Amazon și Meta, compania care deține Facebook, au eliminat la rândul lor mii de locuri de muncă în ultimele luni, scrie BBC.",
+      "link": "https://www.digi24.ro/stiri/externe/inteligenta-artificiala-a-maturat-zeci-de-mii-de-locuri-de-munca-la-oracle-amazon-si-meta-3828063",
+      "published_utc": "2026-06-23T07:08:26+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTcl/MkYwOSUyRjEzJTJGODIwMzA5XzgyMDMw/OV9vcmFjbGUucG5nJmhhc2g9OWI0YjM5/NTNmZjE4ZjNmMmEzNjJmOWNkYmJhM2IxOWY=.png"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Start-Up Romania",
+      "title": "Startup-urile europene dual-use pot aplica la un accelerator unde vor lucra alături de soldați ucraineni",
+      "summary": "Acceleratorul finlandez de tehnologie pentru apărare 17Tech va deschide un centru de cercetare și dezvoltare la Kyiv, unde startup-uri din Finlanda și din alte țări europene își vor putea testa și...",
+      "link": "https://start-up.ro/startup-urile-europene-dual-use-pot-aplica-la-un-accelerator-unde-vor-lucra-alaturi-de-soldati-ucraineni",
+      "published_utc": "2026-06-23T06:18:52+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://start-up.ro/img/articles/3/8/5/38557/cover-38557-src.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "„Mai bine cumperi titluri de stat”: avertismentul românului care ridică una dintre cele mai mari fabrici de pet-food din Europa",
+      "summary": "Ioan Popa , patronul Transavia, companie care va deschide în curând una din cele mai mari fabrici din Europa pe zona de pet-food, spune că e greu să rămâi optimist în contextul geopolitic și economic actual, și descrie în detaliu calvarul obținerii autorizațiilor pentru o investiție. „Dacă astăzi vrei să faci o investiție serioasă, prima &#8230;",
+      "link": "https://hotnews.ro/mai-bine-cumperi-titluri-de-stat-avertismentul-romanului-care-ridica-una-dintre-cele-mai-mari-fabrici-de-pet-food-din-europa-2281735",
+      "published_utc": "2026-06-23T06:18:05+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-1b644ecb77deb8fc/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Martorii lui Iehova, congres pe Arena Naţională. O parte au rămas la Socului şi îşi spun acum Martorii lui Şaorma",
+      "summary": "Consideraţi una dintre cele mai unite mişcări religioase, Martorii lui Iehova au pierdut mii de aderenţi după congresul desfăşurat în acest weekend la Bucureşti! Potrivit unor surse, în drum spre Arena Naţională, aceştia au oprit la Socului, unde s-au convertit la o nouă credinţă, iar acum îşi spun Martorii lui Şaorma. &#8222;Din 35.000, câţi am [&#8230;] The post Martorii lui Iehova, congres pe Arena Naţională. O parte au rămas la Socului şi îşi spun acum Martorii lui Şaorma appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/life-death/martorii-lui-iehova-congres-pe-arena-nationala-o-parte-au-ramas-la-socului-si-isi-spun-acum-martorii-lui-saorma",
+      "published_utc": "2026-06-22T13:41:57+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/06/martoriiluisaorma.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "RomaniaPozitiva",
+      "title": "A cincea zi include „Lungul drum al zilei către noapte”, „Urmașii zeilor”, „Sufletul Japoniei”",
+      "summary": "Cea de-a 33-a ediţie a Festivalului Internaţional de Teatru de la Sibiu cuprinde 848 de evenimente pe parcursul a zece zile pline de teatru, dans, muzică, circ, expoziţii şi multe&#8230; Articolul A cincea zi include „Lungul drum al zilei către noapte”, „Urmașii zeilor”, „Sufletul Japoniei” apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/cultura/a-cincea-zi-include-lungul-drum-al-zilei-catre-noapte-urmasii-zeilor-sufletul-japoniei",
+      "published_utc": "2026-06-23T05:39:51+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-6f7168a480fdb59a/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "Madrigal la Răsărit: 4.000 de locuri epuizate în timp record",
       "summary": "Corul Madrigal, dirijat de Anna Ungureanu, readuce la malul Mării Negre cel mai spectaculos răsărit al anului, MADRIGAL LA RĂSĂRIT. Anunțul făcut de ansamblu a animat publicul într-o acțiune de&#8230; Articolul Madrigal la Răsărit: 4.000 de locuri epuizate în timp record apare prima dată în Romania Pozitiva .",
@@ -638,38 +770,14 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "Comunitatea aleargă pentru autonomie: 10 copii cu nevoi speciale din Brașov vor beneficia gratuit de terapie 3C",
-      "summary": "Proiectul „Terapie 3C Brașov – Calea spre autonomie”, derulat de Asociația Mihai și Prietenii, se desfășoară în două etape complementare: o campanie de strângere de fonduri și etapa de implementare&#8230; Articolul Comunitatea aleargă pentru autonomie: 10 copii cu nevoi speciale din Brașov vor beneficia gratuit de terapie 3C apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/sport/comunitatea-alearga-pentru-autonomie-10-copii-cu-nevoi-speciale-din-brasov-vor-beneficia-gratuit-de-terapie-3c",
-      "published_utc": "2026-06-22T12:55:57+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-2a82c7ff7e857f6c/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 Nicușor a dormit pe preș după ce s-a întâlnit la Bruxelles cu o pițipoancă, Rareș Bogdan",
-      "summary": "Mirabela Grădinaru a fost vădit deranjată de faptul că partenerul ei s-a întâlnit la Bruxelles cu Rareș Bogdan, o pițipoancă cu standarde morale extrem de scăzute &#8211; ca să nu-i spunem altfel. Alții i-ar spune curvă politică, dar nu e cazul nostru. Imediat ce s-a întors de la Bruxelles, Nicușor Dan a fost anunțat de [&#8230;] The post Nicușor a dormit pe preș după ce s-a întâlnit la Bruxelles cu o pițipoancă, Rareș Bogdan appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/politic/nicusor-a-dormit-pe-pres-dupa-ce-s-a-intalnit-la-bruxelles-cu-o-pitipoanca-rares-bogdan",
-      "published_utc": "2026-06-22T05:55:44+00:00",
+      "title": "😂 Firmele de IT, nevoite să angajeze oamenii la loc! AI-ul e ocupat să îi genereze femei lui Trăistariu",
+      "summary": "Marea înlocuire a angajaţilor umani cu inteligenţa artificială s-a dovedit a fi un mare fâs! Mii de companii din sectorul tehnologiei sunt nevoite să îşi cheme oamenii înapoi la serviciu după ce AI-ul le-a explicat că nu poate face azi nicio operaţiune, fiind prea ocupat să îi genereze gagici cântăreţului Mihai Trăistariu. &#8222;ChatGPT, Claude, Gemini, [&#8230;] The post Firmele de IT, nevoite să angajeze oamenii la loc! AI-ul e ocupat să îi genereze femei lui Trăistariu appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/monden/firmele-de-it-nevoite-sa-angajeze-oamenii-la-loc-ai-ul-e-ocupat-sa-ii-genereze-femei-lui-traistariu",
+      "published_utc": "2026-06-22T10:09:27+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/06/nicusor_rares_bogdan_restaurant.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Miniştrii Cabinetului Veştea vor fi audiaţi de o babă: „Al cui din PSD eşti, maică?”",
-      "summary": "Azi au loc audierile celor 18 miniștri din cabinetul Veștea, iar pentru eficientizarea procedurii s-a apelat la serviciile unei babe. Aceasta îi va evalua pe miniștrii propuși în cel mai riguros mod posibil, respectiv le va pune întrebarea „Al cui din PSD eşti, maică?&#8221;. Este absolut evident că toți cei 18 miniștri sunt legați de [&#8230;] The post Miniştrii Cabinetului Veştea vor fi audiaţi de o babă: „Al cui din PSD eşti, maică?&#8221; appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/politic/ministrii-cabinetului-vestea-vor-fi-audiati-de-o-baba-al-cui-din-psd-esti-maica",
-      "published_utc": "2026-06-22T10:41:15+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/06/baba_audiere_ministri.jpeg"
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/06/gagicitraistariu.jpg"
     },
     {
       "section": "romania",
@@ -687,13 +795,25 @@
       "section": "romania",
       "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 Un bărbat s-a dus de bunăvoie la 2 Mai fără să fie șantajat de vreo femeie",
-      "summary": "Caz bizar în România, unde Marian Coltea, un bărbat care locuiește în zona Lujerului, a decis din proprie inițiativă să plece în vacanță o săptămână la 2 Mai, pe litoralul românesc. Asta fără să fie șantajat de soție sau de copii cu această destinație și mai ales fără să fie amenințat că dacă nu vine [&#8230;] The post Un bărbat s-a dus de bunăvoie la 2 Mai fără să fie șantajat de vreo femeie appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/un-barbat-s-a-dus-de-bunavoie-la-2-mai-fara-sa-fie-santajat-de-vreo-femeie",
-      "published_utc": "2026-06-21T07:13:29+00:00",
+      "title": "😂 Nicușor a dormit pe preș după ce s-a întâlnit la Bruxelles cu o pițipoancă, Rareș Bogdan",
+      "summary": "Mirabela Grădinaru a fost vădit deranjată de faptul că partenerul ei s-a întâlnit la Bruxelles cu Rareș Bogdan, o pițipoancă cu standarde morale extrem de scăzute &#8211; ca să nu-i spunem altfel. Alții i-ar spune curvă politică, dar nu e cazul nostru. Imediat ce s-a întors de la Bruxelles, Nicușor Dan a fost anunțat de [&#8230;] The post Nicușor a dormit pe preș după ce s-a întâlnit la Bruxelles cu o pițipoancă, Rareș Bogdan appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/politic/nicusor-a-dormit-pe-pres-dupa-ce-s-a-intalnit-la-bruxelles-cu-o-pitipoanca-rares-bogdan",
+      "published_utc": "2026-06-22T05:55:44+00:00",
       "score": 3,
       "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/06/marian_coltea_2mai.jpg"
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/06/nicusor_rares_bogdan_restaurant.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Start-Up Romania",
+      "title": "Alpha by Zendra, Orange Fab | Startup-ul care-ți testează constant compania pentru vulnerabilități cibernetice",
+      "summary": "Alpha by Zendra vrea să ajute companiile mici și mijlocii să identifice vulnerabilitățile de securitate cibernetică în mod automat. Pornit ca un spinoff, Alpha a ajuns deja la primii clienți....",
+      "link": "https://start-up.ro/alpha-by-zendra-orange-fab-startup-ul-care-ti-testeaza-constant-compania-pentru-vulnerabilitati-cibernetice",
+      "published_utc": "2026-06-18T20:28:39+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://start-up.ro/img/articles/3/8/5/38523/cover-38523-src.jpg"
     },
     {
       "section": "romania",
@@ -744,6 +864,18 @@
       "image": "https://picsum.photos/seed/vb-6e5956eb57d9107d/480/320"
     },
     {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Mosquito-borne viruses avoid killing hosts by limiting protein output, study reveals",
+      "summary": "The increase in mosquito-borne virus infections is a growing public health concern. Diseases traditionally confined to tropical or subtropical regions, like dengue or West Nile virus, are expanding their geographic scope. Europe is no longer an exception, and autochthonous infections have already been recorded in Spain.",
+      "link": "https://phys.org/news/2026-06-mosquito-borne-viruses-hosts-limiting.html",
+      "published_utc": "2026-06-22T23:50:01+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mosquito.jpg"
+    },
+    {
       "section": "romania",
       "kind": "ro",
       "source": "Fundatia Motivation Romania",
@@ -766,6 +898,18 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-19fff50d916bef9e/480/320"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Leaf-based fluorescence test speeds search for plant gene-editing targets",
+      "summary": "Gene editing of plant DNA has the potential to produce crops with increased performance and resilience, but it can take a long time to achieve these gains. To shorten this process, scientists often use screening tools to determine where and how edits to the plant genome can be most effective.",
+      "link": "https://phys.org/news/2026-06-leaf-based-fluorescence-gene.html",
+      "published_utc": "2026-06-22T23:40:03+00:00",
+      "score": 2,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-fluorescence-based.jpg"
     },
     {
       "section": "romania",
@@ -792,90 +936,6 @@
       "image": "https://picsum.photos/seed/vb-14e533e3423790d8/480/320"
     },
     {
-      "section": "romania",
-      "kind": "ro",
-      "source": "World Vision Romania",
-      "title": "Doar 1 din 2 copii ar anunța poliția în cazul unui abuz. World Vision România: Copiii care raportează trebuie sprijiniți și încurajați, nu umiliți public.",
-      "summary": "În România, mulți copii încă se tem să vorbească despre abuzurile prin care trec. Conform unui studiu al Fundației World... Articolul Doar 1 din 2 copii ar anunța poliția în cazul unui abuz. World Vision România: Copiii care raportează trebuie sprijiniți și încurajați, nu umiliți public. apare prima dată în World Vision România .",
-      "link": "https://worldvision.ro/2026/05/20/doar-1-din-2-copii-ar-anunta-politia-in-cazul-unui-abuz",
-      "published_utc": "2026-05-20T08:39:05+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-a8ae7323c01f3478/480/320"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Mosquito-borne viruses avoid killing hosts by limiting protein output, study reveals",
-      "summary": "The increase in mosquito-borne virus infections is a growing public health concern. Diseases traditionally confined to tropical or subtropical regions, like dengue or West Nile virus, are expanding their geographic scope. Europe is no longer an exception, and autochthonous infections have already been recorded in Spain.",
-      "link": "https://phys.org/news/2026-06-mosquito-borne-viruses-hosts-limiting.html",
-      "published_utc": "2026-06-22T23:50:01+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mosquito.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Fundatia Inocenti",
-      "title": "Povestea Alexandrei – Un pas spre încredere, un pas spre viitor",
-      "summary": "Alexandra, adolescentă sprijinită de Fundația Inocenți, și-a recăpătat încrederea în sine și motivația pentru învățare prin suport educațional și emoțional. The post Povestea Alexandrei &#8211; Un pas spre încredere, un pas spre viitor appeared first on Fundația Inocenți .",
-      "link": "https://inocenti.ro/povestea-alexandrei-un-pas-spre-incredere-un-pas-spre-viitor",
-      "published_utc": "2026-05-20T08:26:47+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-6cbfda5262bdc42a/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "SOS Satele Copiilor Romania",
-      "title": "Contabil",
-      "summary": "Locație: București (Satul SOS) Nivel carieră: Mid-level (3-5 ani experiență) Departament: Financiar / Contabilitate Tip job: Full-time Cine suntem noi? La SOS Satele Copiilor România, oferim o familie copiilor ajunși... The post Contabil appeared first on SOS Satele Copiilor România .",
-      "link": "https://www.sos-satelecopiilor.ro/contabil-2",
-      "published_utc": "2026-05-20T08:26:30+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-147a41b3f87f9b8a/480/320"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Leaf-based fluorescence test speeds search for plant gene-editing targets",
-      "summary": "Gene editing of plant DNA has the potential to produce crops with increased performance and resilience, but it can take a long time to achieve these gains. To shorten this process, scientists often use screening tools to determine where and how edits to the plant genome can be most effective.",
-      "link": "https://phys.org/news/2026-06-leaf-based-fluorescence-gene.html",
-      "published_utc": "2026-06-22T23:40:03+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-fluorescence-based.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "World Vision Romania",
-      "title": "World Vision România: Propunerea legislativă privind finanțarea ONG-urilor aduce măsuri disproportionate care riscă să afecteze copiii vulnerabili din România",
-      "summary": "Fundația World Vision România solicită Camerei Deputaților respingerea proiectul de lege privind finanțarea ONG-urilor, adoptat de Senat (L233/2026). Inițiativa legislativă... Articolul World Vision România: Propunerea legislativă privind finanțarea ONG-urilor aduce măsuri disproportionate care riscă să afecteze copiii vulnerabili din România apare prima dată în World Vision România .",
-      "link": "https://worldvision.ro/2026/05/20/propunerea-legislativa-privind-finantarea-ong-urilor-aduce-masuri-disproportionate",
-      "published_utc": "2026-05-20T07:14:44+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-aa07ae2b6f441a0c/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "World Vision Romania",
-      "title": "Gândirea civică – concertul unei generații: povestea lui Ionuț, un tânăr în fața provocărilor cu care se confruntă tinerii de astăzi",
-      "summary": "Ionuț, elev în clasa a XI-a la un liceu din Municipiul Calafat, pasionat de muzică, cu un glas folcloric aparte,... Articolul Gândirea civică – concertul unei generații: povestea lui Ionuț, un tânăr în fața provocărilor cu care se confruntă tinerii de astăzi apare prima dată în World Vision România .",
-      "link": "https://worldvision.ro/2026/05/19/gandirea-civica-concertul-unei-generatii",
-      "published_utc": "2026-05-19T10:11:57+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-9934b0d47c9a6244/480/320"
-    },
-    {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
@@ -891,25 +951,25 @@
       "section": "romania",
       "kind": "ro",
       "source": "World Vision Romania",
-      "title": "Când dorința de a face bine este mai puternică decât emoțiile: Tiana și dragostea ei pentru voluntariat",
-      "summary": "Tiana are 21 de ani și face voluntariat de aproximativ 3 ani în programele și activitățile World Vision România. A crescut... Articolul Când dorința de a face bine este mai puternică decât emoțiile: Tiana și dragostea ei pentru voluntariat apare prima dată în World Vision România .",
-      "link": "https://worldvision.ro/2026/05/12/cand-dorinta-de-a-face-bine-este-mai-puternica-decat-emotiile-tiana-si-dragostea-ei-pentru-voluntariat",
-      "published_utc": "2026-05-12T13:51:28+00:00",
+      "title": "Doar 1 din 2 copii ar anunța poliția în cazul unui abuz. World Vision România: Copiii care raportează trebuie sprijiniți și încurajați, nu umiliți public.",
+      "summary": "În România, mulți copii încă se tem să vorbească despre abuzurile prin care trec. Conform unui studiu al Fundației World... Articolul Doar 1 din 2 copii ar anunța poliția în cazul unui abuz. World Vision România: Copiii care raportează trebuie sprijiniți și încurajați, nu umiliți public. apare prima dată în World Vision România .",
+      "link": "https://worldvision.ro/2026/05/20/doar-1-din-2-copii-ar-anunta-politia-in-cazul-unui-abuz",
+      "published_utc": "2026-05-20T08:39:05+00:00",
       "score": 3,
       "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-451d72078f5c9ca1/480/320"
+      "image": "https://picsum.photos/seed/vb-a8ae7323c01f3478/480/320"
     },
     {
       "section": "romania",
       "kind": "ro",
-      "source": "World Vision Romania",
-      "title": "Schimbările mari încep cu pași mici: povestea lui Robert și drumul lui către advocacy la nivel internațional",
-      "summary": "Robert are 18 ani și este reprezentant al copiilor în Consiliul Consultativ al Copiilor și Tinerilor din cadrul World Vision România. Prin... Articolul Schimbările mari încep cu pași mici: povestea lui Robert și drumul lui către advocacy la nivel internațional apare prima dată în World Vision România .",
-      "link": "https://worldvision.ro/2026/05/11/schimbarile-mari-incep-cu-pasi-mici-povestea-lui-robert-si-drumul-lui-catre-advocacy-la-nivel-international",
-      "published_utc": "2026-05-11T13:09:59+00:00",
+      "source": "Fundatia Inocenti",
+      "title": "Povestea Alexandrei – Un pas spre încredere, un pas spre viitor",
+      "summary": "Alexandra, adolescentă sprijinită de Fundația Inocenți, și-a recăpătat încrederea în sine și motivația pentru învățare prin suport educațional și emoțional. The post Povestea Alexandrei &#8211; Un pas spre încredere, un pas spre viitor appeared first on Fundația Inocenți .",
+      "link": "https://inocenti.ro/povestea-alexandrei-un-pas-spre-incredere-un-pas-spre-viitor",
+      "published_utc": "2026-05-20T08:26:47+00:00",
       "score": 3,
       "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-33e3d5688a184f91/480/320"
+      "image": "https://picsum.photos/seed/vb-6cbfda5262bdc42a/480/320"
     },
     {
       "section": "science",
@@ -926,14 +986,26 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "World Vision Romania",
-      "title": "Visul lui Alexandru începe cu o minge",
-      "summary": "Alexandru are 10 ani, locuiește într-un sat din județul Giurgiu și este elev în clasa a III‑a. Este un copil cu... Articolul Visul lui Alexandru începe cu o minge apare prima dată în World Vision România .",
-      "link": "https://worldvision.ro/2026/05/08/visul-lui-alexandru-incepe-cu-o-minge",
-      "published_utc": "2026-05-08T09:43:40+00:00",
+      "source": "SOS Satele Copiilor Romania",
+      "title": "Contabil",
+      "summary": "Locație: București (Satul SOS) Nivel carieră: Mid-level (3-5 ani experiență) Departament: Financiar / Contabilitate Tip job: Full-time Cine suntem noi? La SOS Satele Copiilor România, oferim o familie copiilor ajunși... The post Contabil appeared first on SOS Satele Copiilor România .",
+      "link": "https://www.sos-satelecopiilor.ro/contabil-2",
+      "published_utc": "2026-05-20T08:26:30+00:00",
       "score": 3,
       "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-c01ff56684c84200/480/320"
+      "image": "https://picsum.photos/seed/vb-147a41b3f87f9b8a/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "World Vision Romania",
+      "title": "World Vision România: Propunerea legislativă privind finanțarea ONG-urilor aduce măsuri disproportionate care riscă să afecteze copiii vulnerabili din România",
+      "summary": "Fundația World Vision România solicită Camerei Deputaților respingerea proiectul de lege privind finanțarea ONG-urilor, adoptat de Senat (L233/2026). Inițiativa legislativă... Articolul World Vision România: Propunerea legislativă privind finanțarea ONG-urilor aduce măsuri disproportionate care riscă să afecteze copiii vulnerabili din România apare prima dată în World Vision România .",
+      "link": "https://worldvision.ro/2026/05/20/propunerea-legislativa-privind-finantarea-ong-urilor-aduce-masuri-disproportionate",
+      "published_utc": "2026-05-20T07:14:44+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-aa07ae2b6f441a0c/480/320"
     },
     {
       "section": "science",
@@ -948,6 +1020,30 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/nanotube-based-thermoe.jpg"
     },
     {
+      "section": "romania",
+      "kind": "ro",
+      "source": "World Vision Romania",
+      "title": "Gândirea civică – concertul unei generații: povestea lui Ionuț, un tânăr în fața provocărilor cu care se confruntă tinerii de astăzi",
+      "summary": "Ionuț, elev în clasa a XI-a la un liceu din Municipiul Calafat, pasionat de muzică, cu un glas folcloric aparte,... Articolul Gândirea civică – concertul unei generații: povestea lui Ionuț, un tânăr în fața provocărilor cu care se confruntă tinerii de astăzi apare prima dată în World Vision România .",
+      "link": "https://worldvision.ro/2026/05/19/gandirea-civica-concertul-unei-generatii",
+      "published_utc": "2026-05-19T10:11:57+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-9934b0d47c9a6244/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "World Vision Romania",
+      "title": "Când dorința de a face bine este mai puternică decât emoțiile: Tiana și dragostea ei pentru voluntariat",
+      "summary": "Tiana are 21 de ani și face voluntariat de aproximativ 3 ani în programele și activitățile World Vision România. A crescut... Articolul Când dorința de a face bine este mai puternică decât emoțiile: Tiana și dragostea ei pentru voluntariat apare prima dată în World Vision România .",
+      "link": "https://worldvision.ro/2026/05/12/cand-dorinta-de-a-face-bine-este-mai-puternica-decat-emotiile-tiana-si-dragostea-ei-pentru-voluntariat",
+      "published_utc": "2026-05-12T13:51:28+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-451d72078f5c9ca1/480/320"
+    },
+    {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
@@ -958,6 +1054,30 @@
       "score": 2,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-find-evide-2.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "World Vision Romania",
+      "title": "Schimbările mari încep cu pași mici: povestea lui Robert și drumul lui către advocacy la nivel internațional",
+      "summary": "Robert are 18 ani și este reprezentant al copiilor în Consiliul Consultativ al Copiilor și Tinerilor din cadrul World Vision România. Prin... Articolul Schimbările mari încep cu pași mici: povestea lui Robert și drumul lui către advocacy la nivel internațional apare prima dată în World Vision România .",
+      "link": "https://worldvision.ro/2026/05/11/schimbarile-mari-incep-cu-pasi-mici-povestea-lui-robert-si-drumul-lui-catre-advocacy-la-nivel-international",
+      "published_utc": "2026-05-11T13:09:59+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-33e3d5688a184f91/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "World Vision Romania",
+      "title": "Visul lui Alexandru începe cu o minge",
+      "summary": "Alexandru are 10 ani, locuiește într-un sat din județul Giurgiu și este elev în clasa a III‑a. Este un copil cu... Articolul Visul lui Alexandru începe cu o minge apare prima dată în World Vision România .",
+      "link": "https://worldvision.ro/2026/05/08/visul-lui-alexandru-incepe-cu-o-minge",
+      "published_utc": "2026-05-08T09:43:40+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-c01ff56684c84200/480/320"
     },
     {
       "section": "science",
@@ -1214,12 +1334,12 @@
   ],
   "joke_ro": {
     "date_utc": "2026-06-23",
-    "text": "Am facut un plan perfect. A lipsit doar cheful.",
+    "text": "Cum merge dieta? - Excelent. O admir de la distanta.",
     "source": "data/jokes_ro.txt"
   },
   "satire_ro": {
-    "title": "Oferta irezistibilă pentru Simion ca să voteze guvernul Veștea: mașină cu două volane și doi șoferi",
-    "link": "https://www.timesnewroman.ro/politic/oferta-irezistibila-pentru-simion-ca-sa-voteze-guvernul-vestea-masina-cu-doua-volane-si-doi-soferi/",
+    "title": "Fabulă",
+    "link": "https://www.timesnewroman.ro/ovi/fabula-2/",
     "source": "timesnewroman.ro"
   },
   "top_images": [
@@ -1304,6 +1424,7 @@
       "https://live.staticflickr.com/65535/55334121053_0c7c892b0c_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/4212/35411939385_80ef982335_b.jpg",
       "https://live.staticflickr.com/65535/55346202934_1d9a1be299_b.jpg",
       "https://live.staticflickr.com/65535/55345985856_5129777547_b.jpg",
       "https://live.staticflickr.com/65535/55345057827_b39406a57e_b.jpg",
@@ -1320,10 +1441,10 @@
       "https://live.staticflickr.com/65535/15927552817_2be4b710e4_b.jpg",
       "https://live.staticflickr.com/65535/55346408765_49b072a180_b.jpg",
       "https://live.staticflickr.com/65535/55345985786_6f167c0e72_b.jpg",
-      "https://live.staticflickr.com/65535/55346408725_d7426eab36_b.jpg",
-      "https://live.staticflickr.com/65535/55346139843_05917c5d94_b.jpg"
+      "https://live.staticflickr.com/65535/55346408725_d7426eab36_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55352351964_ff377124d6_b.jpg",
       "https://live.staticflickr.com/65535/55352157954_497fb54fa9_b.jpg",
       "https://live.staticflickr.com/65535/55351348526_b3dc024ea1_b.jpg",
       "https://live.staticflickr.com/65535/55351690794_4e72e2d101_b.jpg",
@@ -1340,12 +1461,11 @@
       "https://live.staticflickr.com/65535/54343353638_d594cebde6_b.jpg",
       "https://live.staticflickr.com/65535/55346542122_e3f20c03c5_b.jpg",
       "https://live.staticflickr.com/65535/55347474964_72ffbe41bb_b.jpg",
-      "https://live.staticflickr.com/65535/55346943965_33715c04c2_b.jpg",
-      "https://live.staticflickr.com/65535/55346866975_7bd392b00d_b.jpg"
+      "https://live.staticflickr.com/65535/55346943965_33715c04c2_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
+      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
