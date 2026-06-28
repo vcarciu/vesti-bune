@@ -1,7 +1,19 @@
 {
-  "generated_utc": "2026-06-28T11:40:33+00:00",
+  "generated_utc": "2026-06-28T13:12:15+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Cum încearcă Roma să-și protejeze vârstnicii în timpul caniculei: „Dacă mi se face rău, cineva vine să mă ajute”",
+        "summary": "Rămasă singură după moartea soțului, în 2023, și a pisicii sale, un an mai târziu, italianca Dina Gazzella, în vârstă de 85 de ani, nu mai are pe nimeni acasă. Totuși, datorită tehnologiei, nu este complet singură. O echipă de asistenți sociali îi monitorizează de la distanță starea de sănătate prin intermediul unei brățări electronice &#8230;",
+        "link": "https://hotnews.ro/cum-incearca-roma-sa-si-protejeze-varstnicii-in-timpul-caniculei-daca-mi-se-face-rau-cineva-vine-sa-ma-ajute-2286628",
+        "published_utc": "2026-06-28T12:15:32+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-c09640668de652c6/480/320"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -13,18 +25,6 @@
         "score": 3,
         "freshness_boost": 3,
         "image": "https://picsum.photos/seed/vb-676668d10be7d832/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 Lego lansează primul set cu piese de aur, ca să-ți construiești propria Catedrală a Neamului",
-        "summary": "Compania daneză Lego a anunțat lansarea primului său set special cu piese de aur, conceput special pentru construirea unei replici a Catedralei Neamului. Noul produs, denumit „Catedrala Neamului – Ediție Aurită”, include peste 5.000 de piese placate cu aur, replici detaliate ale turlelor, mozaicurilor și elementelor arhitecturale emblematice ale catedralei naționale românești. Potrivit reprezentanților Lego, [&#8230;] The post Lego lansează primul set cu piese de aur, ca să-ți construiești propria Catedrală a Neamului appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/life-death/lego-lanseaza-primul-set-cu-piese-de-aur-ca-sa-ti-construiesti-propria-catedrala-a-neamului",
-        "published_utc": "2026-06-28T06:58:44+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/06/catedrala-lego.jpg"
       },
       {
         "section": "romania",
@@ -90,13 +90,25 @@
         "section": "romania",
         "kind": "ro",
         "source": "Times New Roman (Satira)",
-        "title": "😂 Aşa da! Un ţăran grec şi-a înscris uleiul la Politehnică, să fie sigur că iese extravirgin",
-        "summary": "Într-o lume plină de falsuri, există şi producători care vor să dovedească cu orice preţ că marfa lor e &#8222;ce trebuie&#8221;! Nikos, un ţăran grec din cătunul Mikropoutsos, peninsula Smolodiki, se află chiar acum în Bucureşti ca să-şi înscrie uleiul de măsline la Politehnică. Astfel, Nikos speră să pună capăt tuturor zvonurilor calomnioase că uleiul [&#8230;] The post Aşa da! Un ţăran grec şi-a înscris uleiul la Politehnică, să fie sigur că iese extravirgin appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/monden/asa-da-un-taran-grec-si-a-inscris-uleiul-la-politehnica-sa-fie-sigur-ca-iese-extravirgin",
-        "published_utc": "2026-06-25T11:33:00+00:00",
+        "title": "😂 Senzaţii extreme! Luca lansează cobridogul, care în loc de cârnat are o cobră",
+        "summary": "Te-ai plictisit de banalul covridog haiducesc? Ăla picant nu ţi se mai pare suficient de pişcător? Simţi nevoia de senzaţii mai tari în cele 10 minute de pauză de prânz de la corporaţie? Luca are veşti bune pentru tine! Celebrul lanţ de covrigării lansează astăzi cobridogul, primul produs din cocă de covrig care conţine în [&#8230;] The post Senzaţii extreme! Luca lansează cobridogul, care în loc de cârnat are o cobră appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/life-death/senzatii-extreme-luca-lanseaza-cobridogul-care-in-loc-de-carnat-are-o-cobra",
+        "published_utc": "2026-06-25T10:00:00+00:00",
         "score": 3,
         "freshness_boost": 0,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/06/uleilapoli.jpg"
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/06/cobridog.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 Caniculă în Pipera! Un corporatist a ieșit 5 minute la țigară și s-a întors în birou medium rare",
+        "summary": "Canicula a revenit în București, iar epicentrul absolut al suferinței climatice se află, ca de obicei, în Pipera, acolo unde clădirile de sticlă și asfaltul fierbinte supun corporatiștii la veritabile experimente. Recent, un corporatist neinspirat a decis să iasă la țigară chiar în jurul prânzului, când soarele e mai intens, fără să bănuiască la ce [&#8230;] The post Caniculă în Pipera! Un corporatist a ieșit 5 minute la țigară și s-a întors în birou medium rare appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/monden/canicula-in-pipera-un-corporatist-a-iesit-5-minute-la-tigara-si-s-a-intors-in-birou-medium-rare",
+        "published_utc": "2026-06-25T09:32:59+00:00",
+        "score": 3,
+        "freshness_boost": 0,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/06/corporatist_prajit_tigara.jpg"
       },
       {
         "section": "romania",
@@ -614,6 +626,30 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Obiceiuri ancestrale. Femeile adoră să-și îngroape bărbatul în nisip pe plajă",
+      "summary": "Un studiu recent realizat de specialişti în antropologie culturală şi ştiinţe comportamentale scoate în evidenţă persistenţa unui obicei ancestral pe litoralul românesc al Mării Negre. Femeile din România manifestă o predilecţie marcată pentru îngroparea partenerilor lor în nisipul plajei, un gest interpretat ca o expresie a legăturilor profunde şi a ritualurilor de reconectare cu natura. [&#8230;] The post Obiceiuri ancestrale. Femeile adoră să-și îngroape bărbatul în nisip pe plajă appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/life-death/obiceiuri-ancestrale-femeile-adora-sa-si-ingroape-barbatul-in-nisip-pe-plaja",
+      "published_utc": "2026-06-27T06:41:21+00:00",
+      "score": 3,
+      "freshness_boost": 1,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/06/ingropat-in-nisip.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "Cum încearcă Roma să-și protejeze vârstnicii în timpul caniculei: „Dacă mi se face rău, cineva vine să mă ajute”",
+      "summary": "Rămasă singură după moartea soțului, în 2023, și a pisicii sale, un an mai târziu, italianca Dina Gazzella, în vârstă de 85 de ani, nu mai are pe nimeni acasă. Totuși, datorită tehnologiei, nu este complet singură. O echipă de asistenți sociali îi monitorizează de la distanță starea de sănătate prin intermediul unei brățări electronice &#8230;",
+      "link": "https://hotnews.ro/cum-incearca-roma-sa-si-protejeze-varstnicii-in-timpul-caniculei-daca-mi-se-face-rau-cineva-vine-sa-ma-ajute-2286628",
+      "published_utc": "2026-06-28T12:15:32+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-c09640668de652c6/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "CODRU, festivalul care protejează natura prin muzică, educație și acțiuni de mediu, vine la Ziua Timișoarei cu activități pentru copii și experiențe în aer liber.",
       "summary": "CODRU se alătură programului Ziua Timișoarei &#124; Timișoara City Celebration 2026 cu trei zile de activități dedicate copiilor și familiilor, ateliere interactive și momente muzicale care reflectă valorile comunității construite&#8230; Articolul CODRU, festivalul care protejează natura prin muzică, educație și acțiuni de mediu, vine la Ziua Timișoarei cu activități pentru copii și experiențe în aer liber. apare prima dată în Romania Pozitiva .",
@@ -650,6 +686,18 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Senzaţii extreme! Luca lansează cobridogul, care în loc de cârnat are o cobră",
+      "summary": "Te-ai plictisit de banalul covridog haiducesc? Ăla picant nu ţi se mai pare suficient de pişcător? Simţi nevoia de senzaţii mai tari în cele 10 minute de pauză de prânz de la corporaţie? Luca are veşti bune pentru tine! Celebrul lanţ de covrigării lansează astăzi cobridogul, primul produs din cocă de covrig care conţine în [&#8230;] The post Senzaţii extreme! Luca lansează cobridogul, care în loc de cârnat are o cobră appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/life-death/senzatii-extreme-luca-lanseaza-cobridogul-care-in-loc-de-carnat-are-o-cobra",
+      "published_utc": "2026-06-25T10:00:00+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/06/cobridog.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "Muzicon Hub aduce la Ziua Timișoarei un showcase al scenei alternative contemporane",
       "summary": "Muzicon Hub se alătură programului Ziua Timișoarei &#124; Timișoara City Celebration 2026 cu trei zile de concerte care reunesc artiști și proiecte muzicale din zone stilistice diverse, de la muzică&#8230; Articolul Muzicon Hub aduce la Ziua Timișoarei un showcase al scenei alternative contemporane apare prima dată în Romania Pozitiva .",
@@ -675,25 +723,13 @@
       "section": "romania",
       "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 Obiceiuri ancestrale. Femeile adoră să-și îngroape bărbatul în nisip pe plajă",
-      "summary": "Un studiu recent realizat de specialişti în antropologie culturală şi ştiinţe comportamentale scoate în evidenţă persistenţa unui obicei ancestral pe litoralul românesc al Mării Negre. Femeile din România manifestă o predilecţie marcată pentru îngroparea partenerilor lor în nisipul plajei, un gest interpretat ca o expresie a legăturilor profunde şi a ritualurilor de reconectare cu natura. [&#8230;] The post Obiceiuri ancestrale. Femeile adoră să-și îngroape bărbatul în nisip pe plajă appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/obiceiuri-ancestrale-femeile-adora-sa-si-ingroape-barbatul-in-nisip-pe-plaja",
-      "published_utc": "2026-06-27T06:41:21+00:00",
-      "score": 3,
-      "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/06/ingropat-in-nisip.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Aşa da! Un ţăran grec şi-a înscris uleiul la Politehnică, să fie sigur că iese extravirgin",
-      "summary": "Într-o lume plină de falsuri, există şi producători care vor să dovedească cu orice preţ că marfa lor e &#8222;ce trebuie&#8221;! Nikos, un ţăran grec din cătunul Mikropoutsos, peninsula Smolodiki, se află chiar acum în Bucureşti ca să-şi înscrie uleiul de măsline la Politehnică. Astfel, Nikos speră să pună capăt tuturor zvonurilor calomnioase că uleiul [&#8230;] The post Aşa da! Un ţăran grec şi-a înscris uleiul la Politehnică, să fie sigur că iese extravirgin appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/monden/asa-da-un-taran-grec-si-a-inscris-uleiul-la-politehnica-sa-fie-sigur-ca-iese-extravirgin",
-      "published_utc": "2026-06-25T11:33:00+00:00",
+      "title": "😂 Caniculă în Pipera! Un corporatist a ieșit 5 minute la țigară și s-a întors în birou medium rare",
+      "summary": "Canicula a revenit în București, iar epicentrul absolut al suferinței climatice se află, ca de obicei, în Pipera, acolo unde clădirile de sticlă și asfaltul fierbinte supun corporatiștii la veritabile experimente. Recent, un corporatist neinspirat a decis să iasă la țigară chiar în jurul prânzului, când soarele e mai intens, fără să bănuiască la ce [&#8230;] The post Caniculă în Pipera! Un corporatist a ieșit 5 minute la țigară și s-a întors în birou medium rare appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/monden/canicula-in-pipera-un-corporatist-a-iesit-5-minute-la-tigara-si-s-a-intors-in-birou-medium-rare",
+      "published_utc": "2026-06-25T09:32:59+00:00",
       "score": 3,
       "freshness_boost": 0,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/06/uleilapoli.jpg"
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/06/corporatist_prajit_tigara.jpg"
     },
     {
       "section": "romania",
@@ -706,18 +742,6 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-5c5602f10ee5770c/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Lego lansează primul set cu piese de aur, ca să-ți construiești propria Catedrală a Neamului",
-      "summary": "Compania daneză Lego a anunțat lansarea primului său set special cu piese de aur, conceput special pentru construirea unei replici a Catedralei Neamului. Noul produs, denumit „Catedrala Neamului – Ediție Aurită”, include peste 5.000 de piese placate cu aur, replici detaliate ale turlelor, mozaicurilor și elementelor arhitecturale emblematice ale catedralei naționale românești. Potrivit reprezentanților Lego, [&#8230;] The post Lego lansează primul set cu piese de aur, ca să-ți construiești propria Catedrală a Neamului appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/lego-lanseaza-primul-set-cu-piese-de-aur-ca-sa-ti-construiesti-propria-catedrala-a-neamului",
-      "published_utc": "2026-06-28T06:58:44+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/06/catedrala-lego.jpg"
     },
     {
       "section": "romania",
@@ -792,18 +816,6 @@
       "image": "https://picsum.photos/seed/vb-07bd4c4752a9218a/480/320"
     },
     {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Fundatia Inocenti",
-      "title": "Ateliere în comunitate, sprijin pentru dezvoltarea copiilor",
-      "summary": "Atelierele în comunitate organizate de Fundația Inocenți îi ajută pe copii să își dezvolte încrederea în sine, abilitățile emoționale și relațiile sociale. The post Ateliere în comunitate, sprijin pentru dezvoltarea copiilor appeared first on Fundația Inocenți .",
-      "link": "https://inocenti.ro/ateliere-in-comunitate-sprijin-pentru-dezvoltarea-copiilor",
-      "published_utc": "2026-05-20T16:02:12+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-14e533e3423790d8/480/320"
-    },
-    {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
@@ -818,6 +830,18 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "Fundatia Inocenti",
+      "title": "Ateliere în comunitate, sprijin pentru dezvoltarea copiilor",
+      "summary": "Atelierele în comunitate organizate de Fundația Inocenți îi ajută pe copii să își dezvolte încrederea în sine, abilitățile emoționale și relațiile sociale. The post Ateliere în comunitate, sprijin pentru dezvoltarea copiilor appeared first on Fundația Inocenți .",
+      "link": "https://inocenti.ro/ateliere-in-comunitate-sprijin-pentru-dezvoltarea-copiilor",
+      "published_utc": "2026-05-20T16:02:12+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-14e533e3423790d8/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "World Vision Romania",
       "title": "Doar 1 din 2 copii ar anunța poliția în cazul unui abuz. World Vision România: Copiii care raportează trebuie sprijiniți și încurajați, nu umiliți public.",
       "summary": "În România, mulți copii încă se tem să vorbească despre abuzurile prin care trec. Conform unui studiu al Fundației World... Articolul Doar 1 din 2 copii ar anunța poliția în cazul unui abuz. World Vision România: Copiii care raportează trebuie sprijiniți și încurajați, nu umiliți public. apare prima dată în World Vision România .",
@@ -826,18 +850,6 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-a8ae7323c01f3478/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Fundatia Inocenti",
-      "title": "Povestea Alexandrei – Un pas spre încredere, un pas spre viitor",
-      "summary": "Alexandra, adolescentă sprijinită de Fundația Inocenți, și-a recăpătat încrederea în sine și motivația pentru învățare prin suport educațional și emoțional. The post Povestea Alexandrei &#8211; Un pas spre încredere, un pas spre viitor appeared first on Fundația Inocenți .",
-      "link": "https://inocenti.ro/povestea-alexandrei-un-pas-spre-incredere-un-pas-spre-viitor",
-      "published_utc": "2026-05-20T08:26:47+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-6cbfda5262bdc42a/480/320"
     },
     {
       "section": "science",
@@ -854,6 +866,18 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "Fundatia Inocenti",
+      "title": "Povestea Alexandrei – Un pas spre încredere, un pas spre viitor",
+      "summary": "Alexandra, adolescentă sprijinită de Fundația Inocenți, și-a recăpătat încrederea în sine și motivația pentru învățare prin suport educațional și emoțional. The post Povestea Alexandrei &#8211; Un pas spre încredere, un pas spre viitor appeared first on Fundația Inocenți .",
+      "link": "https://inocenti.ro/povestea-alexandrei-un-pas-spre-incredere-un-pas-spre-viitor",
+      "published_utc": "2026-05-20T08:26:47+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-6cbfda5262bdc42a/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "SOS Satele Copiilor Romania",
       "title": "Contabil",
       "summary": "Locație: București (Satul SOS) Nivel carieră: Mid-level (3-5 ani experiență) Departament: Financiar / Contabilitate Tip job: Full-time Cine suntem noi? La SOS Satele Copiilor România, oferim o familie copiilor ajunși... The post Contabil appeared first on SOS Satele Copiilor România .",
@@ -862,18 +886,6 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-147a41b3f87f9b8a/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "World Vision Romania",
-      "title": "World Vision România: Propunerea legislativă privind finanțarea ONG-urilor aduce măsuri disproportionate care riscă să afecteze copiii vulnerabili din România",
-      "summary": "Fundația World Vision România solicită Camerei Deputaților respingerea proiectul de lege privind finanțarea ONG-urilor, adoptat de Senat (L233/2026). Inițiativa legislativă... Articolul World Vision România: Propunerea legislativă privind finanțarea ONG-urilor aduce măsuri disproportionate care riscă să afecteze copiii vulnerabili din România apare prima dată în World Vision România .",
-      "link": "https://worldvision.ro/2026/05/20/propunerea-legislativa-privind-finantarea-ong-urilor-aduce-masuri-disproportionate",
-      "published_utc": "2026-05-20T07:14:44+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-aa07ae2b6f441a0c/480/320"
     },
     {
       "section": "science",
@@ -886,6 +898,18 @@
       "score": 0,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/plasma-and-graphene-ar.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "World Vision Romania",
+      "title": "World Vision România: Propunerea legislativă privind finanțarea ONG-urilor aduce măsuri disproportionate care riscă să afecteze copiii vulnerabili din România",
+      "summary": "Fundația World Vision România solicită Camerei Deputaților respingerea proiectul de lege privind finanțarea ONG-urilor, adoptat de Senat (L233/2026). Inițiativa legislativă... Articolul World Vision România: Propunerea legislativă privind finanțarea ONG-urilor aduce măsuri disproportionate care riscă să afecteze copiii vulnerabili din România apare prima dată în World Vision România .",
+      "link": "https://worldvision.ro/2026/05/20/propunerea-legislativa-privind-finantarea-ong-urilor-aduce-masuri-disproportionate",
+      "published_utc": "2026-05-20T07:14:44+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-aa07ae2b6f441a0c/480/320"
     },
     {
       "section": "romania",
@@ -1214,7 +1238,7 @@
   ],
   "joke_ro": {
     "date_utc": "2026-06-28",
-    "text": "M-am culcat devreme. In sensul ca am stat devreme pe telefon.",
+    "text": "M-am dus dupa o lingura. M-am intors cu desert si explicatii slabe.",
     "source": "data/jokes_ro.txt"
   },
   "satire_ro": {
@@ -1227,23 +1251,24 @@
       "tag": "space",
       "title": "Space",
       "link": "https://commons.wikimedia.org/wiki/Category:Astronomy",
-      "image": "https://live.staticflickr.com/65535/55360631625_fe2d736882_b.jpg"
+      "image": "https://live.staticflickr.com/65535/55361852503_d3eb827375_b.jpg"
     },
     {
       "tag": "animals",
       "title": "Animals",
       "link": "https://commons.wikimedia.org/wiki/Category:Animals",
-      "image": "https://live.staticflickr.com/65535/55361313678_f51fdb6dd7_b.jpg"
+      "image": "https://live.staticflickr.com/65535/55362116249_16d16a8764_b.jpg"
     },
     {
       "tag": "landscape",
       "title": "Landscape",
       "link": "https://commons.wikimedia.org/wiki/Category:Landscapes",
-      "image": "https://live.staticflickr.com/65535/55360690981_434ed16985_b.jpg"
+      "image": "https://live.staticflickr.com/65535/55362134089_e2bdf60a12_b.jpg"
     }
   ],
   "top_image_history": {
     "space": [
+      "https://live.staticflickr.com/65535/55361852503_d3eb827375_b.jpg",
       "https://live.staticflickr.com/65535/55360631625_fe2d736882_b.jpg",
       "https://live.staticflickr.com/65535/55360180264_cd2c0f21b6_b.jpg",
       "https://live.staticflickr.com/65535/55359185619_252fc72ea7_b.jpg",
@@ -1260,10 +1285,10 @@
       "https://live.staticflickr.com/65535/55345788147_420ae43e19_b.jpg",
       "https://live.staticflickr.com/65535/55347319068_2ca224866d_b.jpg",
       "https://live.staticflickr.com/65535/55346271388_d903f43488_b.jpg",
-      "https://live.staticflickr.com/65535/55345747650_1de3737afa_b.jpg",
-      "https://live.staticflickr.com/65535/55344490515_a547067817_b.jpg"
+      "https://live.staticflickr.com/65535/55345747650_1de3737afa_b.jpg"
     ],
     "animals": [
+      "https://live.staticflickr.com/65535/55362116249_16d16a8764_b.jpg",
       "https://live.staticflickr.com/65535/55361313678_f51fdb6dd7_b.jpg",
       "https://live.staticflickr.com/65535/55359114607_ca2e1172a0_b.jpg",
       "https://live.staticflickr.com/65535/55358371877_cdf238b4ef_b.jpg",
@@ -1280,10 +1305,10 @@
       "https://live.staticflickr.com/65535/55348248154_07d8fc41cd_b.jpg",
       "https://live.staticflickr.com/65535/55347588485_26259d4ffc_b.jpg",
       "https://live.staticflickr.com/65535/55345306717_a2268ca986_b.jpg",
-      "https://live.staticflickr.com/65535/55345705901_3b03a5edc3_b.jpg",
-      "https://live.staticflickr.com/65535/55344818454_94c1df537d_b.jpg"
+      "https://live.staticflickr.com/65535/55345705901_3b03a5edc3_b.jpg"
     ],
     "landscape": [
+      "https://live.staticflickr.com/65535/55362134089_e2bdf60a12_b.jpg",
       "https://live.staticflickr.com/65535/55360690981_434ed16985_b.jpg",
       "https://live.staticflickr.com/65535/55360059051_b5626bf164_b.jpg",
       "https://live.staticflickr.com/65535/55358393987_dd7f6b483d_b.jpg",
@@ -1300,10 +1325,10 @@
       "https://live.staticflickr.com/65535/55348478235_67b2b0f726_b.jpg",
       "https://live.staticflickr.com/65535/55347292076_f25a9cc3bb_b.jpg",
       "https://live.staticflickr.com/65535/55346645065_8b5a06a594_b.jpg",
-      "https://live.staticflickr.com/65535/55346177730_1b20b1db17_b.jpg",
-      "https://live.staticflickr.com/65535/55345097220_95a5c7e102_b.jpg"
+      "https://live.staticflickr.com/65535/55346177730_1b20b1db17_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/55361079194_9875c14a13_b.jpg",
       "https://live.staticflickr.com/65535/55356896365_c3413ef015_b.jpg",
       "https://live.staticflickr.com/292/32273825351_73a365e76b_b.jpg",
       "https://live.staticflickr.com/1596/25818103995_9cdd9b0348_b.jpg",
@@ -1320,10 +1345,10 @@
       "https://live.staticflickr.com/65535/55348045003_5270810a38_b.jpg",
       "https://live.staticflickr.com/4212/35411939385_80ef982335_b.jpg",
       "https://live.staticflickr.com/65535/55351289972_6f7eeb48a6_b.jpg",
-      "https://live.staticflickr.com/65535/8635912091_30874800e1_b.jpg",
-      "https://live.staticflickr.com/65535/55346139883_ff1ec71ccc_b.jpg"
+      "https://live.staticflickr.com/65535/8635912091_30874800e1_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55362006893_6d6f75647f_b.jpg",
       "https://live.staticflickr.com/65535/55362100235_44df2a16c9_b.jpg",
       "https://live.staticflickr.com/65535/55361879154_1c3fc79c48_b.jpg",
       "https://live.staticflickr.com/65535/55361668168_3e9cc223fa_b.jpg",
@@ -1340,12 +1365,11 @@
       "https://live.staticflickr.com/65535/55359687266_e8d7ab45bb_b.jpg",
       "https://live.staticflickr.com/65535/55359668479_412c84eee6_b.jpg",
       "https://live.staticflickr.com/65535/55359520445_d89a4b125a_b.jpg",
-      "https://live.staticflickr.com/65535/55359098451_64c01d7d83_b.jpg",
-      "https://live.staticflickr.com/65535/55359329810_9c6f77875f_b.jpg"
+      "https://live.staticflickr.com/65535/55359098451_64c01d7d83_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
+      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
