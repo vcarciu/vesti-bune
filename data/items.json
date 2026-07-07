@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-07-06T23:58:18+00:00",
+  "generated_utc": "2026-07-07T02:35:36+00:00",
   "sections": {
     "romania": [
       {
@@ -53,18 +53,6 @@
       {
         "section": "romania",
         "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 Nicușor Dan se duce la Summitul NATO pentru a se întâlni cu ceilalți șefi de stat cu popularitate sub 15%",
-        "summary": "Primarul Capitalei, Nicușor Dan, va participa la Summitul NATO, urmând să se întâlnească cu alți șefi de stat și de guvern din Alianță care înregistrează rate de popularitate sub pragul de 15%. Printre aceștia se numără președintele Franței Emmanuel Macron, cancelarul Germaniei Olaf Scholz și prim-ministrul demisionari Regatului Unit Keir Starmer, lideri care și ei [&#8230;] The post Nicușor Dan se duce la Summitul NATO pentru a se întâlni cu ceilalți șefi de stat cu popularitate sub 15% appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/politic/nicusor-dan-se-duce-la-summitul-nato-pentru-a-se-intalni-cu-ceilalti-sefi-de-stat-cu-popularitate-sub-15",
-        "published_utc": "2026-07-05T11:59:00+00:00",
-        "score": 3,
-        "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/07/lideri-nato-nepopulari.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
         "source": "RomaniaPozitiva",
         "title": "Delia, Eduard Novak și Towns Up Forum completează programul Zilele Nordului 2026",
         "summary": "Asociația Nord anunță al doilea val de noutăți și evenimente pentru cea de-a XIII-a ediție a festivalului Zilele Nordului, care va transforma orașul Darabani în epicentrul cultural al regiunii celor&#8230; Articolul Delia, Eduard Novak și Towns Up Forum completează programul Zilele Nordului 2026 apare prima dată în Romania Pozitiva .",
@@ -97,6 +85,18 @@
         "score": 3,
         "freshness_boost": 1,
         "image": "https://picsum.photos/seed/vb-542ac81da7da624b/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 Studiu: dacă renunți la accentul de ardelean îți crește IQ-ul cu 40 de puncte",
+        "summary": "Un studiu publicat de Institutul Național de Cercetări Cognitive din Cluj relevă o corelație puternică între abandonarea accentului ardelenesc și creșterea semnificativă a coeficientului de inteligență. Potrivit cercetătorilor, renunțarea la particularitățile fonetice specifice zonei Transilvaniei poate determina o creștere medie de 40 de puncte a IQ-ului, efect observat în special la subiecții cu expunere prelungită [&#8230;] The post Studiu: dacă renunți la accentul de ardelean îți crește IQ-ul cu 40 de puncte appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/life-death/studiu-daca-renunti-la-accentul-de-ardelean-iti-creste-iq-ul-cu-40-de-puncte",
+        "published_utc": "2026-07-04T06:55:13+00:00",
+        "score": 3,
+        "freshness_boost": 1,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2020/07/cercetator_ardelean.jpg"
       },
       {
         "section": "romania",
@@ -286,133 +286,97 @@
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "A new net-membrane could clean up some tricky space debris",
-        "summary": "We've reported on all kinds of wacky ideas for capturing and deorbiting space debris safely. From electric tethers to lasers, engineers and scientists have been trying everything they can think of to deal with the ever-increasing orbital debris problem. But one simple design keeps popping up over and over again—a net. A new paper from researchers at the Chinese Academy of Sciences and the University of Electronic Science and Technology of China details one of the most advanced net concepts yet—but whether we can actually build one remains to be seen.",
-        "link": "https://phys.org/news/2026-07-net-membrane-tricky-space-debris.html",
-        "published_utc": "2026-07-06T21:00:11+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-net-membrane-cou.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Atomic 'domino effect' found to drive phase changes in a two-dimensional crystal",
-        "summary": "Phase transformations—in which a material changes from one crystal structure to another, thereby acquiring dramatically different properties—are ubiquitous in nature. Understanding the microscopic mechanisms of these transformations is essential for controlling material properties and designing functional devices.",
-        "link": "https://phys.org/news/2026-07-atomic-domino-effect-phase-dimensional.html",
-        "published_utc": "2026-07-06T21:00:08+00:00",
+        "title": "How an interstellar comet sheds light on universe's 'cosmic noon'",
+        "summary": "Last year, an interstellar traveler entered our solar system. Some speculated that it was an alien spacecraft, but it turned out to be a comet, 3I/Atlas, and it provoked interest from astronomers and astrophysicists eager for insights into galaxies far, far away. Detailed observations from the National Aeronautics and Space Administration (NASA) shot down the alien spacecraft idea, but recent NASA analysis holds clues about the comet's ancient and, literally, alien origins.",
+        "link": "https://phys.org/news/2026-07-interstellar-comet-universe-cosmic-noon.html",
+        "published_utc": "2026-07-07T02:20:01+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-discover-no-2.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/halleys-comet.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Engineers discover 'unexpected motion' in drug-delivery robots",
-        "summary": "One day, tiny swimming robots may travel through the human body to deliver drugs. The medication would target only areas of need—chemotherapy drugs for a tumor, for example—avoiding healthy tissue and minimizing side effects. A research team led by Ebru Demir, an assistant professor of mechanical engineering and mechanics in Lehigh University's P.C. Rossin College of Engineering and Applied Science, with collaborators On Shun Pak (Santa Clara University) and Roberto Zenit (Brown University), is studying how tiny robots move through bodily fluids. They recently published a paper in the journal Applied Physics Letters detailing new foundational insights.",
-        "link": "https://phys.org/news/2026-07-unexpected-motion-drug-delivery-robots.html",
-        "published_utc": "2026-07-06T20:40:05+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/engineers-discover-une.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "What's the best way to support perfectionistic students? Teachers don't always agree",
-        "summary": "Imagine a student spending hours meticulously erasing and rewriting a paragraph that is already excellent.",
-        "link": "https://phys.org/news/2026-07-perfectionistic-students-teachers-dont.html",
-        "published_utc": "2026-07-06T20:40:01+00:00",
+        "title": "Efficient method for preparing pseudopregnant mice promotes laboratory animal welfare",
+        "summary": "In biomedical research using mouse models, preparing pseudopregnant recipient females is a standard step in embryo transfer protocols. Conventionally, this process requires technicians to select female mice showing clear signs of estrus. Because only a limited percentage of mice naturally enter this stage daily, facilities often maintain a relatively large stock of female mice. Furthermore, group housing can induce the \"Lee-Boot effect,\" a biological phenomenon in which caged females suppress one another's estrous cycles, decreasing selection efficiency and requiring careful management to ensure animal well-being.",
+        "link": "https://phys.org/news/2026-07-efficient-method-pseudopregnant-mice-laboratory.html",
+        "published_utc": "2026-07-07T02:00:01+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/teacher-2.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/lab-mice.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "South Australian algal bloom species the world's most toxic harmful microalga yet recorded",
-        "summary": "The marine microalgae responsible for the most devastating effects of the South Australian harmful algal bloom (HAB) has now been shown to be the most toxic species of its kind ever studied.",
-        "link": "https://phys.org/news/2026-07-south-australian-algal-bloom-species.html",
-        "published_utc": "2026-07-06T20:20:05+00:00",
+        "title": "What everyone gets wrong about the modern job search—and what actually works",
+        "summary": "Job searching has never been more accessible—or more confusing. Platforms like LinkedIn, Indeed and employer career pages let candidates submit applications with just a few clicks. What happens after they click \"submit,\" however, has become fertile ground for misinformation.",
+        "link": "https://phys.org/news/2026-07-wrong-modern-job.html",
+        "published_utc": "2026-07-07T01:40:04+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/south-australian-algal.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/job-search.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "The square kilometer array will revolutionize the hunt for alien life",
-        "summary": "With new technologies come new opportunities. And that is especially true in astronomy—with every new advanced telescope, we have the potential to see (or in some cases, listen) farther and more clearly than ever before. That is certainly the case for the new Square Kilometer Array (SKA), which is currently undergoing a multiyear rollout phase. Despite that drawn-out process, astronomers are already excited about its potential, and a new book chapter from Dr. Chenoa Tremblay and her co-authors details how this new technology could be used to answer one of the most fundamental questions: Are we alone?",
-        "link": "https://phys.org/news/2026-07-square-kilometer-array-revolutionize-alien.html",
-        "published_utc": "2026-07-06T20:20:02+00:00",
+        "title": "Newly identified marine bacterial enzyme opens new route to building bioactive compound libraries",
+        "summary": "Many important medicines and agricultural compounds have origins in natural products made by microorganisms. One such compound is prodigiosin, a vivid red pigment produced by certain bacteria. Beyond its color, prodigiosin and related compounds known as prodiginines have attracted scientific interest because they have shown antibacterial, anticancer, immunosuppressive, antifungal and plant-protection activities.",
+        "link": "https://phys.org/news/2026-07-newly-marine-bacterial-enzyme-route.html",
+        "published_utc": "2026-07-07T01:20:02+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-square-kilometre-a.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/newly-identified-marin.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Electrical imbalances at grain boundaries help explain solid-state battery failure",
-        "summary": "Next-generation batteries that use new electrolyte materials could achieve far higher energy density than today's lithium-ion batteries, without many of the safety concerns. But advanced batteries, such as those that use solid or almost-solid electrolytes, have been plagued by the formation of tiny spikes of lithium metal called dendrites that cause the batteries to lose efficiency and fail.",
-        "link": "https://phys.org/news/2026-07-electrical-imbalances-grain-boundaries-solid.html",
-        "published_utc": "2026-07-06T20:00:37+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/discovery-helps-explai-1.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Preparing birds for life in the wild: New technique boosts survival after release",
-        "summary": "Every year, thousands of parrots confiscated from the illegal wildlife trade arrive at rehabilitation centers across Latin America. For many of these birds, rescue centers can provide safety but not necessarily a path back to the wild.",
-        "link": "https://phys.org/news/2026-07-birds-life-wild-technique-boosts.html",
-        "published_utc": "2026-07-06T20:00:33+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/preparing-birds-for-li-1.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Canadian Artemis II crew member to retire from space agency",
-        "summary": "The Canadian astronaut who was part of the historic Artemis II crew that successfully voyaged around the moon earlier this year is retiring from the nation's space agency, officials said Monday.",
-        "link": "https://phys.org/news/2026-07-canadian-artemis-ii-crew-member.html",
-        "published_utc": "2026-07-06T20:00:02+00:00",
+        "title": "Soil thickness controls landslide occurrence, study finds",
+        "summary": "Researchers at University of Tsukuba analyzed high-resolution topographic data from airborne LiDAR to examine the relationships among landslide area, depth, and slope gradient.",
+        "link": "https://phys.org/news/2026-07-soil-thickness-landslide-occurrence.html",
+        "published_utc": "2026-07-07T01:00:03+00:00",
         "score": 2,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/canadian-astronaut-jer.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/soil-thickness-control.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Study examines resilience training for children who stutter",
-        "summary": "A new University of Mississippi-led study suggests that a telepractice resilience program may help children who stutter develop coping and self-advocacy skills.",
-        "link": "https://phys.org/news/2026-07-resilience-children-stutter.html",
-        "published_utc": "2026-07-06T19:40:05+00:00",
+        "title": "Wasted pumpkin peel can keep your food fresh",
+        "summary": "Researchers at Kyushu University have developed a new food preservation solution. Using pumpkin peel as a raw material, they synthesized a nanomaterial for food packaging that slows the deterioration of fruit and other produce while reducing transport damage. The findings were published April 30, 2026, in Food Research International.",
+        "link": "https://phys.org/news/2026-07-pumpkin-food-fresh.html",
+        "published_utc": "2026-07-07T00:40:01+00:00",
         "score": 1,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/raising-your-hand-in-c.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/wasted-pumpkin-peel-ca.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Detecting neutron sources by borrowing inference tools from cosmology",
-        "summary": "Neutron sources can be directly identified from measured spectra rather than proxies using inference tools adapted from cosmology, according to a University of Michigan Engineering study published in Physical Review Applied. The method can improve nuclear security by helping intercept materials at ports or borders or guide first responders during emergency response.",
-        "link": "https://phys.org/news/2026-07-neutron-sources-inference-tools-cosmology.html",
-        "published_utc": "2026-07-06T19:40:04+00:00",
-        "score": 1,
+        "title": "Quantum computing: Laser-optical system offers full control over 2,000 trapped Rydberg atoms",
+        "summary": "Fraunhofer ILT in Aachen has developed a highly complex laser-optical system for a quantum computer currently under construction at the 5th Institute of Physics at the University of Stuttgart. This system enables 2,000 Rydberg atoms to be positioned with submicrometer precision in the computer's highly compact vacuum chamber. To do this, the system projects an array of 2,000 individually controllable laser beams into the chamber. These beams act as optical tweezers and hold the trapped Rydberg atoms precisely at the distance required for them to interact with each other. The computer's quantum logic processes are based on these interactions.",
+        "link": "https://phys.org/news/2026-07-quantum-laser-optical-full-rydberg.html",
+        "published_utc": "2026-07-07T00:20:02+00:00",
+        "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/detecting-neutron-sour.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/full-control-over-2000.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Cultural power distance limits classroom voices across three communication pathways, review finds",
+        "summary": "A systematic review of research on intercultural communication in higher education finds that cultural \"power distance,\" which is the extent to which people accept unequal authority, continues to shape who speaks, who is heard and how knowledge is shared in multicultural classrooms.",
+        "link": "https://phys.org/news/2026-07-cultural-power-distance-limits-classroom.html",
+        "published_utc": "2026-07-07T00:00:02+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/diverse-college-classr.jpg"
       }
     ],
     "environment": [
@@ -542,18 +506,6 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Nicușor Dan se duce la Summitul NATO pentru a se întâlni cu ceilalți șefi de stat cu popularitate sub 15%",
-      "summary": "Primarul Capitalei, Nicușor Dan, va participa la Summitul NATO, urmând să se întâlnească cu alți șefi de stat și de guvern din Alianță care înregistrează rate de popularitate sub pragul de 15%. Printre aceștia se numără președintele Franței Emmanuel Macron, cancelarul Germaniei Olaf Scholz și prim-ministrul demisionari Regatului Unit Keir Starmer, lideri care și ei [&#8230;] The post Nicușor Dan se duce la Summitul NATO pentru a se întâlni cu ceilalți șefi de stat cu popularitate sub 15% appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/politic/nicusor-dan-se-duce-la-summitul-nato-pentru-a-se-intalni-cu-ceilalti-sefi-de-stat-cu-popularitate-sub-15",
-      "published_utc": "2026-07-05T11:59:00+00:00",
-      "score": 3,
-      "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/07/lideri-nato-nepopulari.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "Jazz in the Park Competition anunță noua generație de jazz european: 12 trupe din 7 țări europene urcă în septembrie pe scena competiției",
       "summary": "Jazz in the Park Competition 2026 anunță cele 12 proiecte finaliste care vor urca pe scena competiției între 18 și 20 septembrie, în Parcul Central din Cluj-Napoca. Din 306 formații&#8230; Articolul Jazz in the Park Competition anunță noua generație de jazz european: 12 trupe din 7 țări europene urcă în septembrie pe scena competiției apare prima dată în Romania Pozitiva .",
@@ -562,18 +514,6 @@
       "score": 3,
       "freshness_boost": 1,
       "image": "https://picsum.photos/seed/vb-df6acedfa20a7aff/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "Delia, Eduard Novak și Towns Up Forum completează programul Zilele Nordului 2026",
-      "summary": "Asociația Nord anunță al doilea val de noutăți și evenimente pentru cea de-a XIII-a ediție a festivalului Zilele Nordului, care va transforma orașul Darabani în epicentrul cultural al regiunii celor&#8230; Articolul Delia, Eduard Novak și Towns Up Forum completează programul Zilele Nordului 2026 apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/cultura/delia-eduard-novak-si-towns-up-forum-completeaza-programul-zilele-nordului-2026",
-      "published_utc": "2026-07-05T06:00:48+00:00",
-      "score": 3,
-      "freshness_boost": 1,
-      "image": "https://picsum.photos/seed/vb-85f4c6d42de88d62/480/320"
     },
     {
       "section": "romania",
@@ -603,6 +543,18 @@
       "section": "romania",
       "kind": "ro",
       "source": "RomaniaPozitiva",
+      "title": "Delia, Eduard Novak și Towns Up Forum completează programul Zilele Nordului 2026",
+      "summary": "Asociația Nord anunță al doilea val de noutăți și evenimente pentru cea de-a XIII-a ediție a festivalului Zilele Nordului, care va transforma orașul Darabani în epicentrul cultural al regiunii celor&#8230; Articolul Delia, Eduard Novak și Towns Up Forum completează programul Zilele Nordului 2026 apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/cultura/delia-eduard-novak-si-towns-up-forum-completeaza-programul-zilele-nordului-2026",
+      "published_utc": "2026-07-05T06:00:48+00:00",
+      "score": 3,
+      "freshness_boost": 1,
+      "image": "https://picsum.photos/seed/vb-85f4c6d42de88d62/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "RomaniaPozitiva",
       "title": "Scena Digitală propune în luna iulie două întâlniri cu emoția: Broadway și o poveste despre iubire, familie și acceptare",
       "summary": "Mai plutește deasupra Sibiului norul de aplauze de la Festival. Felicităm spectatorii de pe Scena Digitală pentru că s-a triplat numărul lor la FITS 2026! De aceea, propunem întâlniri cu&#8230; Articolul Scena Digitală propune în luna iulie două întâlniri cu emoția: Broadway și o poveste despre iubire, familie și acceptare apare prima dată în Romania Pozitiva .",
       "link": "https://www.romaniapozitiva.ro/cultura/scena-digitala-propune-in-luna-iulie-doua-intalniri-cu-emotia-broadway-si-o-poveste-despre-iubire-familie-si-acceptare",
@@ -610,6 +562,18 @@
       "score": 3,
       "freshness_boost": 1,
       "image": "https://picsum.photos/seed/vb-542ac81da7da624b/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Studiu: dacă renunți la accentul de ardelean îți crește IQ-ul cu 40 de puncte",
+      "summary": "Un studiu publicat de Institutul Național de Cercetări Cognitive din Cluj relevă o corelație puternică între abandonarea accentului ardelenesc și creșterea semnificativă a coeficientului de inteligență. Potrivit cercetătorilor, renunțarea la particularitățile fonetice specifice zonei Transilvaniei poate determina o creștere medie de 40 de puncte a IQ-ului, efect observat în special la subiecții cu expunere prelungită [&#8230;] The post Studiu: dacă renunți la accentul de ardelean îți crește IQ-ul cu 40 de puncte appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/life-death/studiu-daca-renunti-la-accentul-de-ardelean-iti-creste-iq-ul-cu-40-de-puncte",
+      "published_utc": "2026-07-04T06:55:13+00:00",
+      "score": 3,
+      "freshness_boost": 1,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2020/07/cercetator_ardelean.jpg"
     },
     {
       "section": "romania",
@@ -696,6 +660,102 @@
       "image": "https://picsum.photos/seed/vb-19fff50d916bef9e/480/320"
     },
     {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "How an interstellar comet sheds light on universe's 'cosmic noon'",
+      "summary": "Last year, an interstellar traveler entered our solar system. Some speculated that it was an alien spacecraft, but it turned out to be a comet, 3I/Atlas, and it provoked interest from astronomers and astrophysicists eager for insights into galaxies far, far away. Detailed observations from the National Aeronautics and Space Administration (NASA) shot down the alien spacecraft idea, but recent NASA analysis holds clues about the comet's ancient and, literally, alien origins.",
+      "link": "https://phys.org/news/2026-07-interstellar-comet-universe-cosmic-noon.html",
+      "published_utc": "2026-07-07T02:20:01+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/halleys-comet.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Efficient method for preparing pseudopregnant mice promotes laboratory animal welfare",
+      "summary": "In biomedical research using mouse models, preparing pseudopregnant recipient females is a standard step in embryo transfer protocols. Conventionally, this process requires technicians to select female mice showing clear signs of estrus. Because only a limited percentage of mice naturally enter this stage daily, facilities often maintain a relatively large stock of female mice. Furthermore, group housing can induce the \"Lee-Boot effect,\" a biological phenomenon in which caged females suppress one another's estrous cycles, decreasing selection efficiency and requiring careful management to ensure animal well-being.",
+      "link": "https://phys.org/news/2026-07-efficient-method-pseudopregnant-mice-laboratory.html",
+      "published_utc": "2026-07-07T02:00:01+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/lab-mice.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "What everyone gets wrong about the modern job search—and what actually works",
+      "summary": "Job searching has never been more accessible—or more confusing. Platforms like LinkedIn, Indeed and employer career pages let candidates submit applications with just a few clicks. What happens after they click \"submit,\" however, has become fertile ground for misinformation.",
+      "link": "https://phys.org/news/2026-07-wrong-modern-job.html",
+      "published_utc": "2026-07-07T01:40:04+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/job-search.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Newly identified marine bacterial enzyme opens new route to building bioactive compound libraries",
+      "summary": "Many important medicines and agricultural compounds have origins in natural products made by microorganisms. One such compound is prodigiosin, a vivid red pigment produced by certain bacteria. Beyond its color, prodigiosin and related compounds known as prodiginines have attracted scientific interest because they have shown antibacterial, anticancer, immunosuppressive, antifungal and plant-protection activities.",
+      "link": "https://phys.org/news/2026-07-newly-marine-bacterial-enzyme-route.html",
+      "published_utc": "2026-07-07T01:20:02+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/newly-identified-marin.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Soil thickness controls landslide occurrence, study finds",
+      "summary": "Researchers at University of Tsukuba analyzed high-resolution topographic data from airborne LiDAR to examine the relationships among landslide area, depth, and slope gradient.",
+      "link": "https://phys.org/news/2026-07-soil-thickness-landslide-occurrence.html",
+      "published_utc": "2026-07-07T01:00:03+00:00",
+      "score": 2,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/soil-thickness-control.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Wasted pumpkin peel can keep your food fresh",
+      "summary": "Researchers at Kyushu University have developed a new food preservation solution. Using pumpkin peel as a raw material, they synthesized a nanomaterial for food packaging that slows the deterioration of fruit and other produce while reducing transport damage. The findings were published April 30, 2026, in Food Research International.",
+      "link": "https://phys.org/news/2026-07-pumpkin-food-fresh.html",
+      "published_utc": "2026-07-07T00:40:01+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/wasted-pumpkin-peel-ca.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Quantum computing: Laser-optical system offers full control over 2,000 trapped Rydberg atoms",
+      "summary": "Fraunhofer ILT in Aachen has developed a highly complex laser-optical system for a quantum computer currently under construction at the 5th Institute of Physics at the University of Stuttgart. This system enables 2,000 Rydberg atoms to be positioned with submicrometer precision in the computer's highly compact vacuum chamber. To do this, the system projects an array of 2,000 individually controllable laser beams into the chamber. These beams act as optical tweezers and hold the trapped Rydberg atoms precisely at the distance required for them to interact with each other. The computer's quantum logic processes are based on these interactions.",
+      "link": "https://phys.org/news/2026-07-quantum-laser-optical-full-rydberg.html",
+      "published_utc": "2026-07-07T00:20:02+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/full-control-over-2000.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Cultural power distance limits classroom voices across three communication pathways, review finds",
+      "summary": "A systematic review of research on intercultural communication in higher education finds that cultural \"power distance,\" which is the extent to which people accept unequal authority, continues to shape who speaks, who is heard and how knowledge is shared in multicultural classrooms.",
+      "link": "https://phys.org/news/2026-07-cultural-power-distance-limits-classroom.html",
+      "published_utc": "2026-07-07T00:00:02+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/diverse-college-classr.jpg"
+    },
+    {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
@@ -778,138 +838,6 @@
       "score": 1,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/men.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "A new net-membrane could clean up some tricky space debris",
-      "summary": "We've reported on all kinds of wacky ideas for capturing and deorbiting space debris safely. From electric tethers to lasers, engineers and scientists have been trying everything they can think of to deal with the ever-increasing orbital debris problem. But one simple design keeps popping up over and over again—a net. A new paper from researchers at the Chinese Academy of Sciences and the University of Electronic Science and Technology of China details one of the most advanced net concepts yet—but whether we can actually build one remains to be seen.",
-      "link": "https://phys.org/news/2026-07-net-membrane-tricky-space-debris.html",
-      "published_utc": "2026-07-06T21:00:11+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-net-membrane-cou.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Atomic 'domino effect' found to drive phase changes in a two-dimensional crystal",
-      "summary": "Phase transformations—in which a material changes from one crystal structure to another, thereby acquiring dramatically different properties—are ubiquitous in nature. Understanding the microscopic mechanisms of these transformations is essential for controlling material properties and designing functional devices.",
-      "link": "https://phys.org/news/2026-07-atomic-domino-effect-phase-dimensional.html",
-      "published_utc": "2026-07-06T21:00:08+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-discover-no-2.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Engineers discover 'unexpected motion' in drug-delivery robots",
-      "summary": "One day, tiny swimming robots may travel through the human body to deliver drugs. The medication would target only areas of need—chemotherapy drugs for a tumor, for example—avoiding healthy tissue and minimizing side effects. A research team led by Ebru Demir, an assistant professor of mechanical engineering and mechanics in Lehigh University's P.C. Rossin College of Engineering and Applied Science, with collaborators On Shun Pak (Santa Clara University) and Roberto Zenit (Brown University), is studying how tiny robots move through bodily fluids. They recently published a paper in the journal Applied Physics Letters detailing new foundational insights.",
-      "link": "https://phys.org/news/2026-07-unexpected-motion-drug-delivery-robots.html",
-      "published_utc": "2026-07-06T20:40:05+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/engineers-discover-une.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "What's the best way to support perfectionistic students? Teachers don't always agree",
-      "summary": "Imagine a student spending hours meticulously erasing and rewriting a paragraph that is already excellent.",
-      "link": "https://phys.org/news/2026-07-perfectionistic-students-teachers-dont.html",
-      "published_utc": "2026-07-06T20:40:01+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/teacher-2.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "South Australian algal bloom species the world's most toxic harmful microalga yet recorded",
-      "summary": "The marine microalgae responsible for the most devastating effects of the South Australian harmful algal bloom (HAB) has now been shown to be the most toxic species of its kind ever studied.",
-      "link": "https://phys.org/news/2026-07-south-australian-algal-bloom-species.html",
-      "published_utc": "2026-07-06T20:20:05+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/south-australian-algal.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "The square kilometer array will revolutionize the hunt for alien life",
-      "summary": "With new technologies come new opportunities. And that is especially true in astronomy—with every new advanced telescope, we have the potential to see (or in some cases, listen) farther and more clearly than ever before. That is certainly the case for the new Square Kilometer Array (SKA), which is currently undergoing a multiyear rollout phase. Despite that drawn-out process, astronomers are already excited about its potential, and a new book chapter from Dr. Chenoa Tremblay and her co-authors details how this new technology could be used to answer one of the most fundamental questions: Are we alone?",
-      "link": "https://phys.org/news/2026-07-square-kilometer-array-revolutionize-alien.html",
-      "published_utc": "2026-07-06T20:20:02+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-square-kilometre-a.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Electrical imbalances at grain boundaries help explain solid-state battery failure",
-      "summary": "Next-generation batteries that use new electrolyte materials could achieve far higher energy density than today's lithium-ion batteries, without many of the safety concerns. But advanced batteries, such as those that use solid or almost-solid electrolytes, have been plagued by the formation of tiny spikes of lithium metal called dendrites that cause the batteries to lose efficiency and fail.",
-      "link": "https://phys.org/news/2026-07-electrical-imbalances-grain-boundaries-solid.html",
-      "published_utc": "2026-07-06T20:00:37+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/discovery-helps-explai-1.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Preparing birds for life in the wild: New technique boosts survival after release",
-      "summary": "Every year, thousands of parrots confiscated from the illegal wildlife trade arrive at rehabilitation centers across Latin America. For many of these birds, rescue centers can provide safety but not necessarily a path back to the wild.",
-      "link": "https://phys.org/news/2026-07-birds-life-wild-technique-boosts.html",
-      "published_utc": "2026-07-06T20:00:33+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/preparing-birds-for-li-1.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Canadian Artemis II crew member to retire from space agency",
-      "summary": "The Canadian astronaut who was part of the historic Artemis II crew that successfully voyaged around the moon earlier this year is retiring from the nation's space agency, officials said Monday.",
-      "link": "https://phys.org/news/2026-07-canadian-artemis-ii-crew-member.html",
-      "published_utc": "2026-07-06T20:00:02+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/canadian-astronaut-jer.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Study examines resilience training for children who stutter",
-      "summary": "A new University of Mississippi-led study suggests that a telepractice resilience program may help children who stutter develop coping and self-advocacy skills.",
-      "link": "https://phys.org/news/2026-07-resilience-children-stutter.html",
-      "published_utc": "2026-07-06T19:40:05+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/raising-your-hand-in-c.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Detecting neutron sources by borrowing inference tools from cosmology",
-      "summary": "Neutron sources can be directly identified from measured spectra rather than proxies using inference tools adapted from cosmology, according to a University of Michigan Engineering study published in Physical Review Applied. The method can improve nuclear security by helping intercept materials at ports or borders or guide first responders during emergency response.",
-      "link": "https://phys.org/news/2026-07-neutron-sources-inference-tools-cosmology.html",
-      "published_utc": "2026-07-06T19:40:04+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/detecting-neutron-sour.jpg"
     },
     {
       "section": "environment",
@@ -1021,8 +949,8 @@
     }
   ],
   "joke_ro": {
-    "date_utc": "2026-07-06",
-    "text": "Sunt intr-o relatie serioasa cu butonul de snooze.",
+    "date_utc": "2026-07-07",
+    "text": "Am zis \"doar un episod\". Serialul a zis \"sigur\".",
     "source": "data/jokes_ro.txt"
   },
   "satire_ro": {
@@ -1035,23 +963,24 @@
       "tag": "space",
       "title": "Space",
       "link": "https://commons.wikimedia.org/wiki/Category:Astronomy",
-      "image": "https://live.staticflickr.com/65535/55377584199_fe010bddd5_b.jpg"
+      "image": "https://live.staticflickr.com/65535/55377053302_17900cb13f_b.jpg"
     },
     {
       "tag": "animals",
       "title": "Animals",
       "link": "https://commons.wikimedia.org/wiki/Category:Animals",
-      "image": "https://live.staticflickr.com/65535/55377960500_02e1187355_b.jpg"
+      "image": "https://live.staticflickr.com/65535/55378909363_69e76133f1_b.jpg"
     },
     {
       "tag": "landscape",
       "title": "Landscape",
       "link": "https://commons.wikimedia.org/wiki/Category:Landscapes",
-      "image": "https://live.staticflickr.com/65535/55377869415_ec8bec54f0_b.jpg"
+      "image": "https://live.staticflickr.com/65535/55378934413_f39d271d60_b.jpg"
     }
   ],
   "top_image_history": {
     "space": [
+      "https://live.staticflickr.com/65535/55377053302_17900cb13f_b.jpg",
       "https://live.staticflickr.com/65535/55377584199_fe010bddd5_b.jpg",
       "https://live.staticflickr.com/65535/55374626716_ac13ac2e05_b.jpg",
       "https://live.staticflickr.com/65535/55375085399_635b1e0df4_b.jpg",
@@ -1068,10 +997,10 @@
       "https://live.staticflickr.com/65535/55362977458_44da7c58f8_b.jpg",
       "https://live.staticflickr.com/65535/55362782858_8aee4b2ef7_b.jpg",
       "https://live.staticflickr.com/65535/55362357925_a42d4b7642_b.jpg",
-      "https://live.staticflickr.com/65535/55361852503_d3eb827375_b.jpg",
-      "https://live.staticflickr.com/65535/55360631625_fe2d736882_b.jpg"
+      "https://live.staticflickr.com/65535/55361852503_d3eb827375_b.jpg"
     ],
     "animals": [
+      "https://live.staticflickr.com/65535/55378909363_69e76133f1_b.jpg",
       "https://live.staticflickr.com/65535/55377960500_02e1187355_b.jpg",
       "https://live.staticflickr.com/65535/55375688782_b7423a2bb1_b.jpg",
       "https://live.staticflickr.com/65535/55375502199_f47a5a0351_b.jpg",
@@ -1088,10 +1017,10 @@
       "https://live.staticflickr.com/65535/55365543353_c085d67b91_b.jpg",
       "https://live.staticflickr.com/65535/55364418195_a65ecfdd72_b.jpg",
       "https://live.staticflickr.com/65535/55363386783_8bd1942e06_b.jpg",
-      "https://live.staticflickr.com/65535/55362116249_16d16a8764_b.jpg",
-      "https://live.staticflickr.com/65535/55361313678_f51fdb6dd7_b.jpg"
+      "https://live.staticflickr.com/65535/55362116249_16d16a8764_b.jpg"
     ],
     "landscape": [
+      "https://live.staticflickr.com/65535/55378934413_f39d271d60_b.jpg",
       "https://live.staticflickr.com/65535/55377869415_ec8bec54f0_b.jpg",
       "https://live.staticflickr.com/65535/55376749204_9f8e1c69f8_b.jpg",
       "https://live.staticflickr.com/65535/55375449744_20069332e4_b.jpg",
@@ -1108,10 +1037,10 @@
       "https://live.staticflickr.com/65535/55365568280_0778c57c5f_b.jpg",
       "https://live.staticflickr.com/65535/55364168833_f0f8feb497_b.jpg",
       "https://live.staticflickr.com/65535/55362374582_41e3738cde_b.jpg",
-      "https://live.staticflickr.com/65535/55362134089_e2bdf60a12_b.jpg",
-      "https://live.staticflickr.com/65535/55360690981_434ed16985_b.jpg"
+      "https://live.staticflickr.com/65535/55362134089_e2bdf60a12_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/55361785024_c0ee08443f_b.jpg",
       "https://live.staticflickr.com/65535/55377874454_6ca0a782ef_b.jpg",
       "https://live.staticflickr.com/5730/30054430653_f52d5064a4_b.jpg",
       "https://live.staticflickr.com/4509/37855541146_c04e362eeb_b.jpg",
@@ -1128,10 +1057,10 @@
       "https://live.staticflickr.com/65535/55368345630_c157eac13e_b.jpg",
       "https://live.staticflickr.com/65535/55359806098_b91a463de8_b.jpg",
       "https://live.staticflickr.com/65535/55370430081_3d09a6688c_b.jpg",
-      "https://live.staticflickr.com/65535/55364016978_1f17f76c36_b.jpg",
-      "https://live.staticflickr.com/4259/35256268652_c621633241_b.jpg"
+      "https://live.staticflickr.com/65535/55364016978_1f17f76c36_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55378740321_fa58008efc_b.jpg",
       "https://live.staticflickr.com/65535/55377732197_f53b72c3d7_b.jpg",
       "https://live.staticflickr.com/65535/55378585143_1fa34d8eca_b.jpg",
       "https://live.staticflickr.com/65535/55378594434_fc5921d371_b.jpg",
@@ -1148,12 +1077,11 @@
       "https://live.staticflickr.com/65535/55376412355_610f699f4e_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/3/3f/NYC_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg",
       "https://live.staticflickr.com/65535/55375839494_fc168815f4_b.jpg",
-      "https://live.staticflickr.com/65535/55375656808_1d1be3209a_b.jpg",
-      "https://live.staticflickr.com/65535/55375191411_62b351ff9a_b.jpg"
+      "https://live.staticflickr.com/65535/55375656808_1d1be3209a_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
+      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
