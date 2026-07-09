@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-07-09T00:09:25+00:00",
+  "generated_utc": "2026-07-09T04:47:09+00:00",
   "sections": {
     "romania": [
       {
@@ -66,6 +66,18 @@
         "section": "romania",
         "kind": "ro",
         "source": "Times New Roman (Satira)",
+        "title": "😂 Trump la Ankara",
+        "summary": "The post Trump la Ankara appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/ovi/trump-la-istanbul",
+        "published_utc": "2026-07-08T07:45:00+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/07/Trump-la-Istanbul.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Times New Roman (Satira)",
         "title": "😂 Ca să nu mai fie supărat că a pierdut Cupa Mondială, Trump va primi Premiul FIFA pentru Fotbal",
         "summary": "Ca un bun soldat în slujba măreţului Donald Trump, Gelato Infantino de la FIFA a găsit o soluţie ingenioasă să îl perie pe liderul de la Washington şi după înfrângerea umilitoare a SUA de către Belgia. Potrivit unor surse din interior, mâine dimineaţă, în cadrul unei scurte, dar extrem de fastuoase ceremonii, Donald Trump va [&#8230;] The post Ca să nu mai fie supărat că a pierdut Cupa Mondială, Trump va primi Premiul FIFA pentru Fotbal appeared first on Times New Roman .",
         "link": "https://www.timesnewroman.ro/sport/ca-sa-nu-mai-fie-suparat-ca-a-pierdut-cupa-mondiala-trump-va-primi-premiul-fifa-pentru-fotbal",
@@ -73,18 +85,6 @@
         "score": 3,
         "freshness_boost": 1,
         "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/07/177premiulfifa.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 Urşii, tot mai aproape de Bucureşti. Unul deja a luat ţeapă de la un taximetrist la Otopeni",
-        "summary": "O veste proastă, dar și una extrem de bună pentru bucureștenii care se tem de urși. Aceștia sunt din ce în ce mai aproape de București, unul dintre ei ajungând recent până în Pădurea Snagov, la doar câțiva kilometri de Capitală. Asta este vestea proastă, însă vestea bună este mult mai importantă. Știți cu a [&#8230;] The post Urşii, tot mai aproape de Bucureşti. Unul deja a luat ţeapă de la un taximetrist la Otopeni appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/monden/ursii-tot-mai-aproape-de-bucuresti-unul-deja-a-luat-teapa-de-la-un-taximetrist-la-otopeni",
-        "published_utc": "2026-07-07T12:08:50+00:00",
-        "score": 3,
-        "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/07/urs_taximetrist_otopeni.jpeg"
       },
       {
         "section": "romania",
@@ -163,122 +163,110 @@
       {
         "section": "medical",
         "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Team discovers metabolic pathway in cell nucleus that helps cancer progress",
-        "summary": "A team at Roswell Park Comprehensive Cancer Center has identified a novel metabolic pathway that plays a key role in enabling cancer to progress through gene activation. In a new study published in the journal Nature Communications, the researchers show that shutting down the pathway can seriously impair the ability of tumor cells to multiply and spread.",
-        "link": "https://medicalxpress.com/news/2026-07-team-metabolic-pathway-cell-nucleus.html",
-        "published_utc": "2026-07-08T20:40:04+00:00",
-        "score": 4,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/team-discovers-metabol.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Fluoxetine, cognitive behavioral therapy, and combination beneficial for youths with anxiety disorders",
-        "summary": "For youths with anxiety disorders, similar symptom reduction is seen with fluoxetine, cognitive behavioral therapy (CBT) and their combination, according to a study published online June 24 in The American Journal of Psychiatry.",
-        "link": "https://medicalxpress.com/news/2026-07-fluoxetine-cognitive-behavioral-therapy-combination.html",
-        "published_utc": "2026-07-08T20:40:01+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fluoxetine-cbt-and-com.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Neuron silence may predict epileptic seizures milliseconds before onset, could lead to seizure reduction device",
-        "summary": "After the storm comes the calm. But contrary to the famous proverb, the brain's neurons enter a period of calm before the neuronal storm that is an epileptic seizure. An international team of researchers has now demonstrated that this silencing of neurons can serve as a marker capable of predicting and preventing seizures even before they occur. The research is published in the journal Scientific Reports.",
-        "link": "https://medicalxpress.com/news/2026-07-neuron-silence-epileptic-seizures-milliseconds.html",
-        "published_utc": "2026-07-08T20:20:05+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/neurons-2.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Decline in work productivity found 15 years before early-onset dementia diagnosis",
-        "summary": "People diagnosed with early-onset dementia had reduced work productivity up to 15 years before diagnosis, according to a study published in Neurology. Researchers also found the number of years of lower productivity varied depending on the type of dementia.",
-        "link": "https://medicalxpress.com/news/2026-07-decline-productivity-years-early-onset.html",
-        "published_utc": "2026-07-08T20:00:05+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/hardwork.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Ivermectin isn't a cancer miracle drug, but influencers claim otherwise",
-        "summary": "Though researchers have been studying the animal deworming drug ivermectin for decades, there is no evidence that it's a safe or effective way to treat cancer in people.",
-        "link": "https://medicalxpress.com/news/2026-07-ivermectin-isnt-cancer-miracle-drug.html",
-        "published_utc": "2026-07-08T20:00:04+00:00",
-        "score": 4,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ivermectin.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "From maternal health to influenza rates, gaps in CDC's public health data are creating dangerous blind spots",
-        "summary": "Public health relies on data—whether it is tracking the effectiveness of a given year's flu vaccine, monitoring blood lead levels around the country or estimating the prevalence of diabetes. These data form the basis for decisions such as whether a community should expand screening for diabetes and which communities are at greatest risk of severe flu-related illnesses.",
-        "link": "https://medicalxpress.com/news/2026-07-maternal-health-influenza-gaps-cdc.html",
-        "published_utc": "2026-07-08T19:40:08+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/cdc-2.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Young women diagnosed with breast cancer within three years of childbirth may face more aggressive disease",
-        "summary": "Breast cancers diagnosed during the first three years after childbirth, particularly within the first year, may be biologically more aggressive than similar cancers in women who have never given birth, according to a new study led by investigators at the UCLA Health Jonsson Comprehensive Cancer Center.",
-        "link": "https://medicalxpress.com/news/2026-07-young-women-breast-cancer-years.html",
-        "published_utc": "2026-07-08T19:40:04+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/cancer.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Lung transplant dramatically improves survival for patients with terminal lung cancer, study finds",
-        "summary": "A landmark Northwestern Medicine study published in JAMA suggests lung transplantation can significantly extend survival in select patients with advanced lung cancer.",
-        "link": "https://medicalxpress.com/news/2026-07-lung-transplant-survival-patients-terminal.html",
-        "published_utc": "2026-07-08T19:20:03+00:00",
+        "source": "ScienceDaily Health",
+        "title": "The Ozempic and Wegovy mistake sending thousands to poison control",
+        "summary": "Poison control calls involving semaglutide (Ozempic and Wegovy) soared after the drug was approved for weight management, with researchers linking the increase to accidental dosing mistakes rather than intentional misuse. Simple education about proper weekly dosing and gradual dose increases could help prevent many of these avoidable incidents.",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260708022204.htm",
+        "published_utc": "2026-07-09T04:02:10+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/lung-transplant-dramat.jpg"
+        "image": "https://picsum.photos/seed/vb-d6a6b863423722bd/480/320"
       },
       {
         "section": "medical",
         "kind": "global",
         "source": "Medical Xpress",
-        "title": "How can you be tired yet wired? Blame your stone‑age brain",
-        "summary": "The clock reads 2:13 a.m. You are exhausted. Your eyes ache, your body feels heavy, and the alarm is already beginning to loom over the night, yet your brain refuses to let go. Instead, thoughts arrive in waves. Did you send that email? What if you forgot something important? Perhaps now is also the perfect time for your mind to replay a conversation from 2017 with forensic precision.",
-        "link": "https://medicalxpress.com/news/2026-07-wired-blame-stoneage-brain.html",
-        "published_utc": "2026-07-08T19:20:01+00:00",
-        "score": 0,
+        "title": "The smell of dark chocolate could make a leg workout easier, even on an empty stomach",
+        "summary": "Could the smell of chocolate wafting through the gym make strength training easier, or at least more pleasant? A new Frontiers in Physiology study found that sniffing dark chocolate with a high cocoa content decreased feelings of hunger, desire and intention to eat, and left trainees feeling fuller.",
+        "link": "https://medicalxpress.com/news/2026-07-dark-chocolate-leg-workout-easier.html",
+        "published_utc": "2026-07-09T04:00:01+00:00",
+        "score": 1,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/12-brain.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/leg-machine-gym.jpg"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "Medical Xpress",
+        "title": "New guideline for treating Allan-Herndon-Dudley syndrome",
+        "summary": "Allan-Herndon-Dudley syndrome is a rare congenital disease of thyroid metabolism. It occurs in approximately 1 out of every 70,000 male newborns, and its effects are devastating. Since early 2025, a medication has been approved in Europe that can alleviate symptoms and extend patients' life expectancy. However, the dosage is complicated.",
+        "link": "https://medicalxpress.com/news/2026-07-guideline-allan-herndon-dudley-syndrome.html",
+        "published_utc": "2026-07-09T03:20:04+00:00",
+        "score": 1,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-guideline-on-allan.jpg"
       },
       {
         "section": "medical",
         "kind": "global",
         "source": "ScienceDaily Health",
-        "title": "Only one workout helped older adults lose fat without losing muscle",
-        "summary": "A six-month study of more than 120 adults in their 70s found that high-intensity interval training (HIIT) may offer a key advantage over other forms of exercise: it helped reduce body fat while preserving valuable muscle mass. While moderate and low-intensity workouts also led to some fat loss, only HIIT maintained lean muscle, which becomes increasingly important with age.",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260622014305.htm",
-        "published_utc": "2026-06-28T18:35:07+00:00",
+        "title": "Harvard scientists turn a silicon chip into a DNA writing machine",
+        "summary": "Scientists have created a silicon chip that can write dozens of DNA sequences simultaneously using electricity and water-based enzymes, offering a cleaner alternative to conventional DNA manufacturing. The breakthrough could eventually support portable DNA-writing devices and even massive DNA data storage, although new chemistry will be needed to scale the technology further.",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260708022202.htm",
+        "published_utc": "2026-07-09T02:48:06+00:00",
+        "score": 2,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-8932dc10ab907a74/480/320"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "Medical Xpress",
+        "title": "New approach to gene correction for iron storage disease",
+        "summary": "Hereditary primary hemochromatosis is caused by a single faulty building block in a gene. This leads to iron overload, which can have serious consequences for organs and joints. In preclinical studies, researchers have already successfully treated this genetic defect using a targeted correction technique known as base editing. They have now further refined their method in the laboratory.",
+        "link": "https://medicalxpress.com/news/2026-07-approach-gene-iron-storage-disease.html",
+        "published_utc": "2026-07-09T02:40:01+00:00",
+        "score": 5,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-approach-to-gene-c.jpg"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "Tiny silica particles wiped out aggressive prostate cancer in mice",
+        "summary": "Tiny silica nanoparticles engineered to seek out prostate cancer caused tumor cells to self-destruct and supercharged the immune system in preclinical mouse studies. Combined with immunotherapy, the treatment produced complete remissions in multiple mice, raising hopes for a powerful new approach to prostate cancer.",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260708022158.htm",
+        "published_utc": "2026-07-09T02:18:49+00:00",
+        "score": 2,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-4b189280e969ad5f/480/320"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "Medical Xpress",
+        "title": "Liver-directed gene therapy shows preclinical efficacy for severe inherited metabolic disorder",
+        "summary": "Genespire, in collaboration with researchers at the San Raffaele Telethon Institute for Gene Therapy (SR-TIGET), announced the publication of preclinical data supporting the potential of its liver-directed immune-shielded lentiviral gene therapy approach to treat methylmalonic acidemia (MMA), a severe inherited metabolic disorder.",
+        "link": "https://medicalxpress.com/news/2026-07-liver-gene-therapy-preclinical-efficacy.html",
+        "published_utc": "2026-07-09T01:40:01+00:00",
+        "score": 2,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/liver-directed-gene-th.jpg"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "Medical Xpress",
+        "title": "Families report positive outcomes from fully virtual, BCBA-delivered, focused autism support program",
+        "summary": "A new study, conducted by AnswersNow in partnership with the Clemson Center for Behavior Analysis (Clemson University) and published in JMIR Pediatrics and Parenting, finds that fully virtual applied behavior analysis (ABA) services delivered by a Board Certified Behavior Analyst (BCBA) are a feasible, well-received alternative to traditional in-person therapy for families affected by autism spectrum disorder. Among the 504 participants, 76% demonstrated measurable progress in adaptive functioning.",
+        "link": "https://medicalxpress.com/news/2026-07-families-positive-outcomes-fully-virtual.html",
+        "published_utc": "2026-07-09T00:20:01+00:00",
         "score": 1,
-        "freshness_boost": 0,
-        "image": "https://picsum.photos/seed/vb-c7003d0452ca5b1a/480/320"
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/virtual-health.jpg"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "Scientists finally crack nature's secret for building better cancer drugs",
+        "summary": "Researchers have cracked the code behind bacteria's ability to naturally manufacture multiple versions of powerful anti-cancer drugs. The discovery could make it much easier to engineer new cancer treatments inspired by nature, including improved versions of existing medicines.",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260701205001.htm",
+        "published_utc": "2026-07-08T21:28:31+00:00",
+        "score": 7,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-c3820950626636c2/480/320"
       }
     ],
     "science": [
@@ -495,18 +483,6 @@
       "section": "romania",
       "kind": "ro",
       "source": "RomaniaPozitiva",
-      "title": "Mai mult decât o masă caldă: Cum se transformă hrana salvată în demnitate, educație și sănătate pentru 325.000 de români",
-      "summary": "BUCUREȘTI, 08.07 – Într-o societate în care ritmul zilnic ne face adesea să privim hrana ca pe un simplu bun de consum, realitatea din comunitățile vulnerabile ne reamintește o lecție&#8230; Articolul Mai mult decât o masă caldă: Cum se transformă hrana salvată în demnitate, educație și sănătate pentru 325.000 de români apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/educatie/mai-mult-decat-o-masa-calda-cum-se-transforma-hrana-salvata-in-demnitate-educatie-si-sanatate-pentru-325-000-de-romani",
-      "published_utc": "2026-07-08T14:55:32+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-03fdf1a695e656f8/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "RomaniaPozitiva",
       "title": "Expoziția artiștilor Lia și Dan Perjovschi „DRAFT pentru o retrospectivă comună”, de la ARCUB – Hanul Gabroveni, se prelungește până la 30 august 2026",
       "summary": "În urma interesului constant manifestat de publicul din România și al numărului mare de turiști străini care vizitează centrul istoric al Capitalei, expoziția „DRAFT pentru o retrospectivă comună”, semnată de&#8230; Articolul Expoziția artiștilor Lia și Dan Perjovschi „DRAFT pentru o retrospectivă comună”, de la ARCUB &#8211; Hanul Gabroveni, se prelungește până la 30 august 2026 apare prima dată în Romania Pozitiva .",
       "link": "https://www.romaniapozitiva.ro/bucuresti/expozitia-artistilor-lia-si-dan-perjovschi-draft-pentru-o-retrospectiva-comuna-de-la-arcub-hanul-gabroveni-se-prelungeste-pana-la-30-august-2026",
@@ -514,18 +490,6 @@
       "score": 3,
       "freshness_boost": 3,
       "image": "https://picsum.photos/seed/vb-b28128d07644d8e3/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "Argumentul și selecția spectacolelor din cadrul Festivalului Național de Teatru, a 36-a ediție",
-      "summary": "Ediția a 36-a a Festivalului Național de Teatru, program permanent al UNITER – unul dintre cele mai importante evenimente teatrale din România, spațiu al expunerii diversității și complexității fenomenului teatral&#8230; Articolul Argumentul și selecția spectacolelor din cadrul Festivalului Național de Teatru, a 36-a ediție apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/cultura/argumentul-si-selectia-spectacolelor-din-cadrul-festivalului-national-de-teatru-a-36-a-editie",
-      "published_utc": "2026-07-08T14:53:09+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-0ef55adfd8b6c478/480/320"
     },
     {
       "section": "romania",
@@ -543,6 +507,18 @@
       "section": "romania",
       "kind": "ro",
       "source": "RomaniaPozitiva",
+      "title": "Argumentul și selecția spectacolelor din cadrul Festivalului Național de Teatru, a 36-a ediție",
+      "summary": "Ediția a 36-a a Festivalului Național de Teatru, program permanent al UNITER – unul dintre cele mai importante evenimente teatrale din România, spațiu al expunerii diversității și complexității fenomenului teatral&#8230; Articolul Argumentul și selecția spectacolelor din cadrul Festivalului Național de Teatru, a 36-a ediție apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/cultura/argumentul-si-selectia-spectacolelor-din-cadrul-festivalului-national-de-teatru-a-36-a-editie",
+      "published_utc": "2026-07-08T14:53:09+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-0ef55adfd8b6c478/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "RomaniaPozitiva",
       "title": "ING lansează o nouă ediție a programului Donations Hub în Home’Bank. ONG-urile sunt invitate să aplice pentru unul dintre cele 20 de locuri disponibile în platforma de donații din Home’Bank",
       "summary": "ONG-urile sunt invitate să aplice pentru unul dintre cele 20 de locuri disponibile în platforma de donații din Home&#8217;Bank. Din 2023 până în prezent, prin Donations Hub au fost mobilizate&#8230; Articolul ING lansează o nouă ediție a programului Donations Hub în Home&#8217;Bank. ONG-urile sunt invitate să aplice pentru unul dintre cele 20 de locuri disponibile în platforma de donații din Home&#8217;Bank apare prima dată în Romania Pozitiva .",
       "link": "https://www.romaniapozitiva.ro/csr/ing-lanseaza-o-noua-editie-a-programului-donations-hub-in-homebank-ong-urile-sunt-invitate-sa-aplice-pentru-unul-dintre-cele-20-de-locuri-disponibile-in-platforma-de-donatii-din-homebank",
@@ -550,6 +526,30 @@
       "score": 3,
       "freshness_boost": 3,
       "image": "https://picsum.photos/seed/vb-1906366b685b8944/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "RomaniaPozitiva",
+      "title": "Mai mult decât o masă caldă: Cum se transformă hrana salvată în demnitate, educație și sănătate pentru 325.000 de români",
+      "summary": "BUCUREȘTI, 08.07 – Într-o societate în care ritmul zilnic ne face adesea să privim hrana ca pe un simplu bun de consum, realitatea din comunitățile vulnerabile ne reamintește o lecție&#8230; Articolul Mai mult decât o masă caldă: Cum se transformă hrana salvată în demnitate, educație și sănătate pentru 325.000 de români apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/educatie/mai-mult-decat-o-masa-calda-cum-se-transforma-hrana-salvata-in-demnitate-educatie-si-sanatate-pentru-325-000-de-romani",
+      "published_utc": "2026-07-08T14:55:32+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-03fdf1a695e656f8/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Trump la Ankara",
+      "summary": "The post Trump la Ankara appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/ovi/trump-la-istanbul",
+      "published_utc": "2026-07-08T07:45:00+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/07/Trump-la-Istanbul.jpg"
     },
     {
       "section": "romania",
@@ -562,18 +562,6 @@
       "score": 3,
       "freshness_boost": 1,
       "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/07/177premiulfifa.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Urşii, tot mai aproape de Bucureşti. Unul deja a luat ţeapă de la un taximetrist la Otopeni",
-      "summary": "O veste proastă, dar și una extrem de bună pentru bucureștenii care se tem de urși. Aceștia sunt din ce în ce mai aproape de București, unul dintre ei ajungând recent până în Pădurea Snagov, la doar câțiva kilometri de Capitală. Asta este vestea proastă, însă vestea bună este mult mai importantă. Știți cu a [&#8230;] The post Urşii, tot mai aproape de Bucureşti. Unul deja a luat ţeapă de la un taximetrist la Otopeni appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/monden/ursii-tot-mai-aproape-de-bucuresti-unul-deja-a-luat-teapa-de-la-un-taximetrist-la-otopeni",
-      "published_utc": "2026-07-07T12:08:50+00:00",
-      "score": 3,
-      "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/07/urs_taximetrist_otopeni.jpeg"
     },
     {
       "section": "romania",
@@ -650,14 +638,110 @@
     {
       "section": "medical",
       "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Team discovers metabolic pathway in cell nucleus that helps cancer progress",
-      "summary": "A team at Roswell Park Comprehensive Cancer Center has identified a novel metabolic pathway that plays a key role in enabling cancer to progress through gene activation. In a new study published in the journal Nature Communications, the researchers show that shutting down the pathway can seriously impair the ability of tumor cells to multiply and spread.",
-      "link": "https://medicalxpress.com/news/2026-07-team-metabolic-pathway-cell-nucleus.html",
-      "published_utc": "2026-07-08T20:40:04+00:00",
-      "score": 4,
+      "source": "ScienceDaily Health",
+      "title": "The Ozempic and Wegovy mistake sending thousands to poison control",
+      "summary": "Poison control calls involving semaglutide (Ozempic and Wegovy) soared after the drug was approved for weight management, with researchers linking the increase to accidental dosing mistakes rather than intentional misuse. Simple education about proper weekly dosing and gradual dose increases could help prevent many of these avoidable incidents.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260708022204.htm",
+      "published_utc": "2026-07-09T04:02:10+00:00",
+      "score": 3,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/team-discovers-metabol.jpg"
+      "image": "https://picsum.photos/seed/vb-d6a6b863423722bd/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "The smell of dark chocolate could make a leg workout easier, even on an empty stomach",
+      "summary": "Could the smell of chocolate wafting through the gym make strength training easier, or at least more pleasant? A new Frontiers in Physiology study found that sniffing dark chocolate with a high cocoa content decreased feelings of hunger, desire and intention to eat, and left trainees feeling fuller.",
+      "link": "https://medicalxpress.com/news/2026-07-dark-chocolate-leg-workout-easier.html",
+      "published_utc": "2026-07-09T04:00:01+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/leg-machine-gym.jpg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "New guideline for treating Allan-Herndon-Dudley syndrome",
+      "summary": "Allan-Herndon-Dudley syndrome is a rare congenital disease of thyroid metabolism. It occurs in approximately 1 out of every 70,000 male newborns, and its effects are devastating. Since early 2025, a medication has been approved in Europe that can alleviate symptoms and extend patients' life expectancy. However, the dosage is complicated.",
+      "link": "https://medicalxpress.com/news/2026-07-guideline-allan-herndon-dudley-syndrome.html",
+      "published_utc": "2026-07-09T03:20:04+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-guideline-on-allan.jpg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "Harvard scientists turn a silicon chip into a DNA writing machine",
+      "summary": "Scientists have created a silicon chip that can write dozens of DNA sequences simultaneously using electricity and water-based enzymes, offering a cleaner alternative to conventional DNA manufacturing. The breakthrough could eventually support portable DNA-writing devices and even massive DNA data storage, although new chemistry will be needed to scale the technology further.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260708022202.htm",
+      "published_utc": "2026-07-09T02:48:06+00:00",
+      "score": 2,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-8932dc10ab907a74/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "New approach to gene correction for iron storage disease",
+      "summary": "Hereditary primary hemochromatosis is caused by a single faulty building block in a gene. This leads to iron overload, which can have serious consequences for organs and joints. In preclinical studies, researchers have already successfully treated this genetic defect using a targeted correction technique known as base editing. They have now further refined their method in the laboratory.",
+      "link": "https://medicalxpress.com/news/2026-07-approach-gene-iron-storage-disease.html",
+      "published_utc": "2026-07-09T02:40:01+00:00",
+      "score": 5,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-approach-to-gene-c.jpg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "Tiny silica particles wiped out aggressive prostate cancer in mice",
+      "summary": "Tiny silica nanoparticles engineered to seek out prostate cancer caused tumor cells to self-destruct and supercharged the immune system in preclinical mouse studies. Combined with immunotherapy, the treatment produced complete remissions in multiple mice, raising hopes for a powerful new approach to prostate cancer.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260708022158.htm",
+      "published_utc": "2026-07-09T02:18:49+00:00",
+      "score": 2,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-4b189280e969ad5f/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "Liver-directed gene therapy shows preclinical efficacy for severe inherited metabolic disorder",
+      "summary": "Genespire, in collaboration with researchers at the San Raffaele Telethon Institute for Gene Therapy (SR-TIGET), announced the publication of preclinical data supporting the potential of its liver-directed immune-shielded lentiviral gene therapy approach to treat methylmalonic acidemia (MMA), a severe inherited metabolic disorder.",
+      "link": "https://medicalxpress.com/news/2026-07-liver-gene-therapy-preclinical-efficacy.html",
+      "published_utc": "2026-07-09T01:40:01+00:00",
+      "score": 2,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/liver-directed-gene-th.jpg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "Families report positive outcomes from fully virtual, BCBA-delivered, focused autism support program",
+      "summary": "A new study, conducted by AnswersNow in partnership with the Clemson Center for Behavior Analysis (Clemson University) and published in JMIR Pediatrics and Parenting, finds that fully virtual applied behavior analysis (ABA) services delivered by a Board Certified Behavior Analyst (BCBA) are a feasible, well-received alternative to traditional in-person therapy for families affected by autism spectrum disorder. Among the 504 participants, 76% demonstrated measurable progress in adaptive functioning.",
+      "link": "https://medicalxpress.com/news/2026-07-families-positive-outcomes-fully-virtual.html",
+      "published_utc": "2026-07-09T00:20:01+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/virtual-health.jpg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "Scientists finally crack nature's secret for building better cancer drugs",
+      "summary": "Researchers have cracked the code behind bacteria's ability to naturally manufacture multiple versions of powerful anti-cancer drugs. The discovery could make it much easier to engineer new cancer treatments inspired by nature, including improved versions of existing medicines.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260701205001.htm",
+      "published_utc": "2026-07-08T21:28:31+00:00",
+      "score": 7,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-c3820950626636c2/480/320"
     },
     {
       "section": "science",
@@ -672,18 +756,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-discover-ra.jpg"
     },
     {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Fluoxetine, cognitive behavioral therapy, and combination beneficial for youths with anxiety disorders",
-      "summary": "For youths with anxiety disorders, similar symptom reduction is seen with fluoxetine, cognitive behavioral therapy (CBT) and their combination, according to a study published online June 24 in The American Journal of Psychiatry.",
-      "link": "https://medicalxpress.com/news/2026-07-fluoxetine-cognitive-behavioral-therapy-combination.html",
-      "published_utc": "2026-07-08T20:40:01+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fluoxetine-cbt-and-com.jpg"
-    },
-    {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
@@ -696,18 +768,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-cleaner-strategy-for.jpg"
     },
     {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Neuron silence may predict epileptic seizures milliseconds before onset, could lead to seizure reduction device",
-      "summary": "After the storm comes the calm. But contrary to the famous proverb, the brain's neurons enter a period of calm before the neuronal storm that is an epileptic seizure. An international team of researchers has now demonstrated that this silencing of neurons can serve as a marker capable of predicting and preventing seizures even before they occur. The research is published in the journal Scientific Reports.",
-      "link": "https://medicalxpress.com/news/2026-07-neuron-silence-epileptic-seizures-milliseconds.html",
-      "published_utc": "2026-07-08T20:20:05+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/neurons-2.jpg"
-    },
-    {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
@@ -718,30 +778,6 @@
       "score": 0,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-language-of-play-h.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Decline in work productivity found 15 years before early-onset dementia diagnosis",
-      "summary": "People diagnosed with early-onset dementia had reduced work productivity up to 15 years before diagnosis, according to a study published in Neurology. Researchers also found the number of years of lower productivity varied depending on the type of dementia.",
-      "link": "https://medicalxpress.com/news/2026-07-decline-productivity-years-early-onset.html",
-      "published_utc": "2026-07-08T20:00:05+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/hardwork.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Ivermectin isn't a cancer miracle drug, but influencers claim otherwise",
-      "summary": "Though researchers have been studying the animal deworming drug ivermectin for decades, there is no evidence that it's a safe or effective way to treat cancer in people.",
-      "link": "https://medicalxpress.com/news/2026-07-ivermectin-isnt-cancer-miracle-drug.html",
-      "published_utc": "2026-07-08T20:00:04+00:00",
-      "score": 4,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ivermectin.jpg"
     },
     {
       "section": "science",
@@ -766,30 +802,6 @@
       "score": 1,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/crispr.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "From maternal health to influenza rates, gaps in CDC's public health data are creating dangerous blind spots",
-      "summary": "Public health relies on data—whether it is tracking the effectiveness of a given year's flu vaccine, monitoring blood lead levels around the country or estimating the prevalence of diabetes. These data form the basis for decisions such as whether a community should expand screening for diabetes and which communities are at greatest risk of severe flu-related illnesses.",
-      "link": "https://medicalxpress.com/news/2026-07-maternal-health-influenza-gaps-cdc.html",
-      "published_utc": "2026-07-08T19:40:08+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/cdc-2.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Young women diagnosed with breast cancer within three years of childbirth may face more aggressive disease",
-      "summary": "Breast cancers diagnosed during the first three years after childbirth, particularly within the first year, may be biologically more aggressive than similar cancers in women who have never given birth, according to a new study led by investigators at the UCLA Health Jonsson Comprehensive Cancer Center.",
-      "link": "https://medicalxpress.com/news/2026-07-young-women-breast-cancer-years.html",
-      "published_utc": "2026-07-08T19:40:04+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/cancer.jpg"
     },
     {
       "section": "science",
@@ -826,30 +838,6 @@
       "score": 0,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fertilizer.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Lung transplant dramatically improves survival for patients with terminal lung cancer, study finds",
-      "summary": "A landmark Northwestern Medicine study published in JAMA suggests lung transplantation can significantly extend survival in select patients with advanced lung cancer.",
-      "link": "https://medicalxpress.com/news/2026-07-lung-transplant-survival-patients-terminal.html",
-      "published_utc": "2026-07-08T19:20:03+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/lung-transplant-dramat.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "How can you be tired yet wired? Blame your stone‑age brain",
-      "summary": "The clock reads 2:13 a.m. You are exhausted. Your eyes ache, your body feels heavy, and the alarm is already beginning to loom over the night, yet your brain refuses to let go. Instead, thoughts arrive in waves. Did you send that email? What if you forgot something important? Perhaps now is also the perfect time for your mind to replay a conversation from 2017 with forensic precision.",
-      "link": "https://medicalxpress.com/news/2026-07-wired-blame-stoneage-brain.html",
-      "published_utc": "2026-07-08T19:20:01+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/12-brain.jpg"
     },
     {
       "section": "science",
@@ -898,18 +886,6 @@
       "score": 0,
       "freshness_boost": 3,
       "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/06/12163942/DJI_20250913010858_0043_D_Banner-768x512.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "Only one workout helped older adults lose fat without losing muscle",
-      "summary": "A six-month study of more than 120 adults in their 70s found that high-intensity interval training (HIIT) may offer a key advantage over other forms of exercise: it helped reduce body fat while preserving valuable muscle mass. While moderate and low-intensity workouts also led to some fat loss, only HIIT maintained lean muscle, which becomes increasingly important with age.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260622014305.htm",
-      "published_utc": "2026-06-28T18:35:07+00:00",
-      "score": 1,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-c7003d0452ca5b1a/480/320"
     },
     {
       "section": "environment",
@@ -1064,6 +1040,7 @@
       "https://live.staticflickr.com/65535/55365981281_71e70c4a8a_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/55373096665_4af0005007_b.jpg",
       "https://live.staticflickr.com/4509/37855541146_c04e362eeb_b.jpg",
       "https://live.staticflickr.com/65535/55362665139_ac0a8fceab_b.jpg",
       "https://live.staticflickr.com/65535/55361079194_9875c14a13_b.jpg",
@@ -1080,12 +1057,11 @@
       "https://live.staticflickr.com/65535/55368345630_c157eac13e_b.jpg",
       "https://live.staticflickr.com/65535/55368950502_3a6c756a9e_b.jpg",
       "https://live.staticflickr.com/65535/55364016978_1f17f76c36_b.jpg",
-      "https://live.staticflickr.com/65535/55370430081_3d09a6688c_b.jpg",
-      "https://live.staticflickr.com/4259/35256268652_c621633241_b.jpg"
+      "https://live.staticflickr.com/65535/55370430081_3d09a6688c_b.jpg"
     ],
     "cities": [
-      "https://live.staticflickr.com/65535/55382593235_6c75311415_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/3/3f/NYC_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg",
+      "https://live.staticflickr.com/65535/55382593235_6c75311415_b.jpg",
       "https://live.staticflickr.com/65535/55382066354_d583f28065_b.jpg",
       "https://live.staticflickr.com/65535/55381846928_6f8b870890_b.jpg",
       "https://live.staticflickr.com/65535/55380501872_f23295f8d5_b.jpg",
@@ -1104,8 +1080,8 @@
       "https://live.staticflickr.com/65535/55378740321_fa58008efc_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
+      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
