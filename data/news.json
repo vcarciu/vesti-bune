@@ -1,18 +1,42 @@
 {
-  "generated_utc": "2026-07-13T08:45:21+00:00",
+  "generated_utc": "2026-07-13T11:50:43+00:00",
   "sections": {
     "romania": [
       {
         "section": "romania",
         "kind": "ro",
-        "source": "HotNews",
-        "title": "Toyota nu mai este cea mai valoroasă companie din Japonia. Cine a depășit-o luni",
-        "summary": "Banca Mitsubishi UFJ a devenit luni cea mai valoroasă companie cotată la Bursa de Valori de la Tokyo, depăşind producătorul auto Toyota, după ce Banca Centrală a Japoniei a majorat dobânda de referinţă la cel mai înalt nivel din ultimele trei decenii, transmit EFE și Agerpres. Luni la prânz, la închiderea primei şedinţe de tranzacţionare &#8230;",
-        "link": "https://hotnews.ro/toyota-nu-mai-este-cea-mai-valoroasa-companie-din-japonia-cine-a-depasit-o-luni-2299124",
-        "published_utc": "2026-07-13T08:34:05+00:00",
+        "source": "Start-Up Romania",
+        "title": "AWS oferă dezvoltatorilor din România acces gratuit timp de trei luni la cursuri de AI și machine learning",
+        "summary": "Amazon Web Services (AWS) lansează un program gratuit de pregătire în inteligență artificială dedicat dezvoltatorilor din Europa Centrală și de Est, inclusiv celor din România. Participanții vor...",
+        "link": "https://start-up.ro/aws-ofera-dezvoltatorilor-din-romania-acces-gratuit-timp-de-trei-luni-la-cursuri-de-ai-si-machine-learning",
+        "published_utc": "2026-07-13T11:31:21+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-1265d6c658d214b8/480/320"
+        "image": "https://start-up.ro/img/articles/3/8/6/38657/cover-38657-src.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "RomaniaPozitiva",
+        "title": "„VALENTIN M-A TREZIT! – CORPUS”. O expoziție de Noni-Emil Iordache",
+        "summary": "Pe 16 iulie 2026, de la ora 19:00, la Hotel Caro din București, are loc vernisajul expoziției personale de pictură „Valentin m-a trezit! – CORPUS”, semnată de Noni-Emil Iordache. Uneori,&#8230; Articolul „VALENTIN M-A TREZIT! – CORPUS”. O expoziție de Noni-Emil Iordache apare prima dată în Romania Pozitiva .",
+        "link": "https://www.romaniapozitiva.ro/bucuresti/valentin-m-a-trezit-corpus-o-expozitie-de-noni-emil-iordache",
+        "published_utc": "2026-07-13T11:09:53+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-2d13bbdae7b57797/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "RomaniaPozitiva",
+        "title": "Sit+Read POP—UP Fair aduce la Timișoara două zile dedicate creației independente și artiștilor locali",
+        "summary": "În perioada 1–2 august 2026, între orele 12:00 și 19:00, Indecis Artist-Run (Bastion 3, str. Hector nr. 1) găzduiește Sit+Read POP—UP Fair, un eveniment care reunește artiști, designeri și creatori&#8230; Articolul Sit+Read POP—UP Fair aduce la Timișoara două zile dedicate creației independente și artiștilor locali apare prima dată în Romania Pozitiva .",
+        "link": "https://www.romaniapozitiva.ro/banat-crisana/sitread-pop-up-fair-aduce-la-timisoara-doua-zile-dedicate-creatiei-independente-si-artistilor-locali",
+        "published_utc": "2026-07-13T10:10:21+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-910eba5e6c9698ab/480/320"
       },
       {
         "section": "romania",
@@ -29,18 +53,6 @@
       {
         "section": "romania",
         "kind": "ro",
-        "source": "Green Start-Up Romania",
-        "title": "910.000 lei pentru 14 inițiative care fac Bucureștiul mai verde și mai locuibil: terase de bloc, parcări de biciclete și grădini comunitare",
-        "summary": "14 inițiative civice din București primesc finanțare totală de peste 910.000 de lei prin cea de-a treia ediție a programului „În ZONA TA”, desfășurat de Fundația Comunitară București și ING Bank...",
-        "link": "https://green.start-up.ro/ro/910-000-lei-pentru-14-initiative-care-fac-bucurestiul-mai-verde-si-mai-locuibil-terase-de-bloc-parcari-de-biciclete-si-gradini-comunitare",
-        "published_utc": "2026-07-13T08:22:52+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://green.start-up.ro/img/articles/3/5/9/35995/cover-35995-src.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
         "source": "RomaniaPozitiva",
         "title": "Programul organizat de WIPO și Rubik Hub, WIPO IP Management Clinic, a ajuns la final",
         "summary": "Organizația Mondială a Proprietății Intelectuale (WIPO), împreună cu Rubik Hub, Digital Innovation Zone (DIZ), IMAGO-MOL Cluster și Innovate EU, a lansat în martie 2026 programul WIPO x Rubik Hub IP&#8230; Articolul Programul organizat de WIPO și Rubik Hub, WIPO IP Management Clinic, a ajuns la final apare prima dată în Romania Pozitiva .",
@@ -53,38 +65,26 @@
       {
         "section": "romania",
         "kind": "ro",
-        "source": "Green Start-Up Romania",
-        "title": "TUIASI intră în rândul universităților europene și devine prima universitate din România certificată pentru reducerea amprentei de carbon",
-        "summary": "Universitatea Tehnică „Gheorghe Asachi&quot; din Iași (TUIASI) este prima universitate din România certificată de SRAC pentru reducerea amprentei de carbon, în conformitate cu standardul SR EN ISO...",
-        "link": "https://green.start-up.ro/ro/tuiasi-intra-in-randul-universitatilor-europene-si-devine-prima-universitate-din-romania-certificata-pentru-reducerea-amprentei-de-carbon",
-        "published_utc": "2026-07-13T07:58:34+00:00",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 Sătul să fie acuzat că plagiază replici din desene animate, Georgescu a plagiat azi dintr-un film porno",
+        "summary": "&#8222;Bună ziua, România, eu sunt instalatorul, am venit să îţi livrez o pizza! N-ai bani de pizza? Hai că rezolvăm altcumva!&#8221; Astfel şi-a salutat Cătălin Georgescu fanii în această dimineaţă, la târgul de bălegar din comuna giurgiuveană Bleoaşca din Deal. Cel mai probabil, spun specialiştii, frontmanul suveraniştilor s-a săturat să fie acuzat constant că plagiază [&#8230;] The post Sătul să fie acuzat că plagiază replici din desene animate, Georgescu a plagiat azi dintr-un film porno appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/politic/satul-sa-fie-acuzat-ca-plagiaza-replici-din-desene-animate-georgescu-a-plagiat-azi-dintr-un-film-porno",
+        "published_utc": "2026-07-13T04:36:36+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://green.start-up.ro/img/articles/3/5/9/35996/cover-35996-src.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Start-Up Romania",
-        "title": "Diana Mocanu | Printco-Gama: ”dependența e cel mai mare risc al antreprenorilor”",
-        "summary": "Diana Mocanu a crescut în antreprenoriat și l-a văzut din prima linie încă din copilărie. Din 1994 a știut că vrea să aducă noi materiale educative pentru copiii din România, așa că a fondat...",
-        "link": "https://start-up.ro/diana-mocanu-printco-gama",
-        "published_utc": "2026-07-13T06:05:13+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://start-up.ro/img/articles/3/8/6/38651/cover-38651-src.jpg"
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/07/georgescuplagiat.jpg"
       },
       {
         "section": "romania",
         "kind": "ro",
         "source": "Times New Roman (Satira)",
-        "title": "😂 Razie în Vama Veche. A fost prins un bătrân cu 300 de pastile de Antinevralgic la el",
-        "summary": "Razie DIICOT în iadul boșorogilor din Vama Veche. Polițiștii însoțiți de procurori au capturat mai mulți traficanți de stupefiante, inclusiv un bărbat de 51 de ani, care avea la el 300 de pastile de antinevralgic. Bărbatul a declarat că pastilele sunt pentru consum propriu, pentru că stă într-o cameră cu pereți de rigips și în [&#8230;] The post Razie în Vama Veche. A fost prins un bătrân cu 300 de pastile de Antinevralgic la el appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/life-death/razie-in-vama-veche-a-fost-prins-un-batran-cu-300-de-pastile-de-antinevralgic-la-el",
-        "published_utc": "2026-07-12T04:33:50+00:00",
+        "title": "😂 Elevii care au picat BAC-ul cer să poată intra la doctorat și fără BAC",
+        "summary": "Protest la Minsterul Educației. Mii de elevi de clasa a XII-a, care au picat BAC-ul, solicită o lege care să le dea dreptul să se înscrie la doctorat fără diploma de Bacalaurea. Ei spun că vor să facă cercetare și statul nu le permite, pentru că are legi învechite, care nu stimulează performanța academică. Mulți [&#8230;] The post Elevii care au picat BAC-ul cer să poată intra la doctorat și fără BAC appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/it-stiinta/elevii-care-au-picat-bac-ul-cer-sa-poata-intra-la-doctorat-si-fara-bac",
+        "published_utc": "2026-07-12T04:46:53+00:00",
         "score": 3,
         "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2024/08/vamaiotcuiqos.jpg"
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2023/05/fituica_BAC_greva.jpeg"
       },
       {
         "section": "romania",
@@ -101,38 +101,14 @@
       {
         "section": "romania",
         "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 Un țăran a combinat 300 de bărbați să-i scoată cartofii sub pretextul că e tabără de masculinitate",
-        "summary": "Un țăran deștept a observat trendul taberelor de masculinitate și a decis să profite. Sub pretextul unei astfel de tabere el a convins 300 de bărbați să vină la el la fermă și să scoată cartofi ca să-și descopere masculul alfa interior. Bărbații au fost ținuți 10 zile într-un grajd, ca să-și întărească personalitatea și [&#8230;] The post Un țăran a combinat 300 de bărbați să-i scoată cartofii sub pretextul că e tabără de masculinitate appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/life-death/un-taran-a-combinat-300-de-barbati-sa-i-scoata-cartofii-sub-pretextul-ca-e-tabara-de-masculinitate",
-        "published_utc": "2026-07-10T14:00:00+00:00",
-        "score": 3,
-        "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/07/scos_cartofi_masculinitate.jpeg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
         "source": "Fundatia Inocenti",
         "title": "Inocenți, locul în care curajul crește pas cu pas",
         "summary": "Descoperă povestea Alinei și cum sprijinul oferit de Fundația Inocenți a ajutat-o să își dezvolte încrederea în sine, abilitățile școlare și curajul de a reuși. The post Inocenți, locul în care curajul crește pas cu pas appeared first on Fundația Inocenți .",
         "link": "https://inocenti.ro/inocenti-locul-in-care-curajul-creste-pas-cu-pas",
         "published_utc": "2026-07-10T10:30:22+00:00",
         "score": 3,
-        "freshness_boost": 1,
-        "image": "https://picsum.photos/seed/vb-9017d5ebea453c95/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Start-Up Romania",
-        "title": "Secretele meseriilor din România: cum arată sistemul educațional privat?",
-        "summary": "Învățământul privat este adesea perceput ca un spațiu exclusivist, despre care se vorbește mai mult decât se știe. În acest episod din Rediscover Work, vizităm o școală privată din București și...",
-        "link": "https://start-up.ro/secretele-meseriilor-din-romania-cum-arata-sistemul-educational-privat",
-        "published_utc": "2026-07-08T05:05:01+00:00",
-        "score": 3,
         "freshness_boost": 0,
-        "image": "https://start-up.ro/img/articles/3/8/6/38625/cover-38625-src.jpg"
+        "image": "https://picsum.photos/seed/vb-9017d5ebea453c95/480/320"
       },
       {
         "section": "romania",
@@ -181,18 +157,6 @@
         "score": 3,
         "freshness_boost": 0,
         "image": "https://picsum.photos/seed/vb-09f9ef71aa2592ce/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "SOS Satele Copiilor Romania",
-        "title": "Asistent Social",
-        "summary": "SOS Serviciul de Asistență Comunitară Constanţa Locație: MEDGIDIA, jud. Constanţa Număr de poziții: 2 Contract: full time Grija și încrederea unei familii, emoție pozitivă, zâmbete, suport și încurajare, nevoi de bază îndeplinite și vise transformate... The post Asistent Social appeared first on SOS Satele Copiilor România .",
-        "link": "https://www.sos-satelecopiilor.ro/asistent-social-5",
-        "published_utc": "2026-05-28T10:35:10+00:00",
-        "score": 3,
-        "freshness_boost": 0,
-        "image": "https://picsum.photos/seed/vb-6e5956eb57d9107d/480/320"
       }
     ],
     "medical": [
@@ -200,133 +164,121 @@
         "section": "medical",
         "kind": "global",
         "source": "Medical Xpress",
-        "title": "Lower dementia risk seen with sodium-glucose cotransporter 2 in seniors 65+ with mood, psychotic disorders",
-        "summary": "Sodium-glucose cotransporter 2 (SGLT2) inhibitor use is associated with a lower risk for dementia in older adults with mood and psychotic disorders, according to a study published online June 30 in JAMA Network Open.",
-        "link": "https://medicalxpress.com/news/2026-07-dementia-sodium-glucose-cotransporter-seniors.html",
-        "published_utc": "2026-07-09T23:00:02+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/lower-dementia-risk-se.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Bimekizumab well tolerated, efficacious over three years in axial spondyloarthritis",
-        "summary": "For patients with axial spondyloarthritis (axSpA), bimekizumab, a dual interleukin (IL)-17A and IL-17F inhibitor, is well tolerated over three years, according to a study published in the June issue of the Journal of Rheumatology.",
-        "link": "https://medicalxpress.com/news/2026-07-bimekizumab-tolerated-efficacious-years-axial.html",
-        "published_utc": "2026-07-09T22:40:07+00:00",
+        "title": "Hepatitis E viruses mutate early during infection",
+        "summary": "Knowing how viruses change in the initial weeks of an infection can provide important information about their adaptability. Researchers from the Departments of Molecular & Medical Virology and Translational & Computational Infection Research at Ruhr University Bochum, Germany, have taken a closer look at the early phase of hepatitis E infections.",
+        "link": "https://medicalxpress.com/news/2026-07-hepatitis-viruses-mutate-early-infection.html",
+        "published_utc": "2026-07-13T11:40:03+00:00",
         "score": 1,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bimekizumab-well-toler.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hepatitis-e-viruses-mu.jpg"
       },
       {
         "section": "medical",
         "kind": "global",
         "source": "Medical Xpress",
-        "title": "New genetic switch could improve gene therapy for drug-resistant epilepsy",
-        "summary": "Epilepsy affects more than 50 million people worldwide, making it one of the most common neurological disorders. Although medication helps many patients achieve seizure control, approximately one-third continue to experience seizures despite treatment. Seizures often arise when the brain's excitation-inhibition (E/I) balance breaks down. In healthy conditions, specialized inhibitory neurons act as a natural braking system, releasing a neurotransmitter called gamma-aminobutyric acid (GABA) that helps prevent excessive electrical activity. When this inhibitory control is weakened, abnormal bursts of activity can spread through the brain and trigger seizures.",
-        "link": "https://medicalxpress.com/news/2026-07-genetic-gene-therapy-drug-resistant.html",
-        "published_utc": "2026-07-09T22:40:02+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-novel-gene-promoter.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Current substance misuse prevention misses scale, argues paper; schools and digital tools could help",
-        "summary": "A new analysis published in the journal Prevention Science calls for a major shift in how the United States approaches substance misuse prevention strategies and programs. The findings argue that the current strategy for providing prevention services may not be reaching enough people or providing a worthwhile return on investment. Implementation efforts should instead focus on direct integration into schools, health care systems and digital technologies Americans already use every day.",
-        "link": "https://medicalxpress.com/news/2026-07-current-substance-misuse-scale-paper.html",
-        "published_utc": "2026-07-09T22:20:03+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/drug-abuse.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "A call for greater focus on social factors that shape health",
-        "summary": "The American College of Sports Medicine (ACSM) has published a new call to action statement urging the sports medicine community to intentionally incorporate social determinants of health (SDoH) into research, clinical care, and administrative and organizational decision-making to improve health outcomes and reduce disparities.",
-        "link": "https://medicalxpress.com/news/2026-07-greater-focus-social-factors-health.html",
-        "published_utc": "2026-07-09T22:20:01+00:00",
+        "title": "Mouse study uncovers how transcription factors HIF1α and HIF2α regulate different aspects muscle physiology",
+        "summary": "Skeletal muscles—responsible for movement, joint stabilization and postural support—are highly metabolically active and heavily reliant on oxygen during physical activity. However, conditions such as high-intensity exercise or sustained exertion frequently expose skeletal muscles to reduced oxygen availability, which can compromise muscle homeostasis.",
+        "link": "https://medicalxpress.com/news/2026-07-mouse-uncovers-transcription-factors-hif1.html",
+        "published_utc": "2026-07-13T11:20:04+00:00",
         "score": 1,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/health.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/chonnam-national-unive-2.jpg"
       },
       {
         "section": "medical",
         "kind": "global",
         "source": "Medical Xpress",
-        "title": "Damaged myelin generates abnormal rhythms in the sleeping brain",
-        "summary": "Scientists have discovered how damage to the myelin sheath—the insulating layer around nerve fibers—affects brain activity during sleep.",
-        "link": "https://medicalxpress.com/news/2026-07-myelin-generates-abnormal-rhythms-brain.html",
-        "published_utc": "2026-07-09T22:00:10+00:00",
-        "score": 2,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/damaged-myelin-generat.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Young people from less-advantaged backgrounds are more likely to have an undiagnosed eating disorder",
-        "summary": "Eating disorders are often associated with teenage girls from socioeconomically advantaged families. However, a new study from the University of Copenhagen challenges this perception, suggesting that eating disorders are just as likely to affect young people from less advantaged backgrounds. The researchers analyzed data on eating disorder diagnoses from more than 500,000 people born in Denmark between 1996 and 2003. For a subgroup of 44,000 young people, they also had information on self-reported symptoms of eating disorders.",
-        "link": "https://medicalxpress.com/news/2026-07-young-people-advantaged-backgrounds-undiagnosed.html",
-        "published_utc": "2026-07-09T22:00:09+00:00",
-        "score": 2,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/young-people-from-less.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Acupuncture to the ear may help to relieve migraines",
-        "summary": "Acupuncture to the ear may help lessen pain from migraines and their impact on daily life, according to new research presented today (Friday) at the Federation of European Neuroscience Societies (FENS) Forum 2026.",
-        "link": "https://medicalxpress.com/news/2026-07-acupuncture-ear-relieve-migraines.html",
-        "published_utc": "2026-07-09T22:00:04+00:00",
+        "title": "Seven-year study finds non-surgical valve replacement holds up as well as open-heart surgery",
+        "summary": "The incidence of cardiovascular disease is rising across the globe, with more than 28 million people worldwide living with heart valve disease. Each year in the United States alone, surgeons perform approximately 106,000 heart valve replacement procedures.",
+        "link": "https://medicalxpress.com/news/2026-07-year-surgical-valve-heart-surgery.html",
+        "published_utc": "2026-07-13T11:10:01+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/could-acupuncture-to-t.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/seven-year-study-finds.jpg"
       },
       {
         "section": "medical",
         "kind": "global",
         "source": "Medical Xpress",
-        "title": "Eye movements reveal personal 'fingerprints' as people explore unfamiliar scenes",
-        "summary": "Walk into a crowded coffee shop, and what catches your eye as you take in the scene could say as much about you as the spirals on your fingertips or the mutations in your DNA. Eye movements are so unique, in fact, that they could be used to identify you through objects that have personal meaning, according to a new study by Dartmouth researchers in the Proceedings of the National Academy of Sciences.",
-        "link": "https://medicalxpress.com/news/2026-07-eye-movements-reveal-personal-fingerprints.html",
-        "published_utc": "2026-07-09T21:20:06+00:00",
-        "score": 2,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/in-new-places-what-we.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "GLP-1 use hits record high as Medicare opens access to weight-loss drugs",
-        "summary": "The share of U.S. adults taking GLP-1 medications to lose weight has reached a record 11%.",
-        "link": "https://medicalxpress.com/news/2026-07-glp-high-medicare-access-weight.html",
-        "published_utc": "2026-07-09T21:20:03+00:00",
+        "title": "New global report outlines strategies to improve hematologic care for women",
+        "summary": "A new report in The Lancet Haematology, led by Cleveland Clinic hematologist Bethany Samuelson Bannow, M.D., outlines practical strategies to improve diagnosis, care and outcomes globally for women and girls with hematological conditions, such as bleeding disorders, heavy menstrual bleeding, postpartum hemorrhage, thrombosis and maternal hematologic complications.",
+        "link": "https://medicalxpress.com/news/2026-07-global-outlines-strategies-hematologic-women.html",
+        "published_utc": "2026-07-13T11:00:03+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/glp-1-use-hits-record.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/woman-at-the-doctor.jpg"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "Medical Xpress",
+        "title": "Dementia rising across Latino populations, multidecade study finds",
+        "summary": "A new study led by researchers at Washington University School of Medicine in St. Louis and Newcastle University in the U.K. finds that the share of adults living with dementia rose substantially across several Latin American and Caribbean sites over the past two decades. The research provides the first direct evidence that some parts of Latin America are moving in the opposite direction of dropping dementia rates in the U.S. and other wealthy nations.",
+        "link": "https://medicalxpress.com/news/2026-07-dementia-latino-populations-multidecade.html",
+        "published_utc": "2026-07-13T10:00:02+00:00",
+        "score": 2,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/latino-abuelo.jpg"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "Medical Xpress",
+        "title": "New clues raise hopes for better treatment of RSV in babies",
+        "summary": "Future therapies for respiratory syncytial virus (RSV) must target both the virus and the immune response to ensure babies get the best possible outcomes, a new study by researchers at UCL and Great Ormond Street Hospital for Children (GOSH) finds.",
+        "link": "https://medicalxpress.com/news/2026-07-clues-treatment-rsv-babies.html",
+        "published_utc": "2026-07-13T09:00:03+00:00",
+        "score": 2,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2017/baby.jpg"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "Positive News",
+        "title": "Reclaiming the game. What to expect in the new issue of Positive News magazine",
+        "summary": "Editor Tom Pattinson introduces the new issue of Positive News magazine, which is out now The post Reclaiming the game. What to expect in the new issue of Positive News magazine appeared first on Positive News .",
+        "link": "https://www.positive.news/society/media/what-to-expect-in-the-new-positive-news-magazine",
+        "published_utc": "2026-07-08T10:03:04+00:00",
+        "score": 0,
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-7430edba68718108/480/320"
       },
       {
         "section": "medical",
         "kind": "global",
         "source": "ScienceDaily Health",
-        "title": "Scientists discover an unexpected way to make pancreatic cancer cells self-destruct",
-        "summary": "Researchers tested experimental PCAI compounds against pancreatic cancer cells and found they had powerful anticancer effects. One leading compound blocked more than 90% of cancer cell migration, suggesting it could help prevent the spread of tumors. Rather than suppressing cancer signaling, the treatment hyperactivated key pathways until the cells essentially self-destructed.",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260622091512.htm",
-        "published_utc": "2026-06-29T18:08:33+00:00",
-        "score": 3,
+        "title": "Creatine doesn't just build muscle. It may also help fight cancer",
+        "summary": "Scientists have discovered that creatine may strengthen one of the immune system's most important cancer-fighting pathways by energizing dendritic cells that activate killer T cells. The promising results could eventually help make immunotherapy more effective, but they have not yet been tested in human patients.",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260701015237.htm",
+        "published_utc": "2026-07-08T09:32:21+00:00",
+        "score": 6,
         "freshness_boost": 0,
-        "image": "https://picsum.photos/seed/vb-b33e1246a3d81c51/480/320"
+        "image": "https://picsum.photos/seed/vb-655405d9af664f7a/480/320"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "Can't stick to a diet? Intermittent fasting may be easier than counting calories for weight loss",
+        "summary": "Intermittent fasting helped people lose as much weight as calorie restriction, but without the same feeling of constantly controlling their food intake. Researchers say that difference could make fasting a more sustainable option for people who struggle with traditional diets.",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260701015247.htm",
+        "published_utc": "2026-07-08T08:46:47+00:00",
+        "score": 1,
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-82cc0a550fcf19b0/480/320"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "New weight loss pill beats oral Ozempic in major trial",
+        "summary": "A new once-daily weight-loss pill called orforglipron delivered better weight loss and blood sugar improvements for people with type 2 diabetes than the leading oral semaglutide in a major clinical trial. The tablet could offer a more convenient alternative to injectable drugs like Ozempic and Wegovy because it doesn't require refrigeration or special timing with meals. It's also cheaper to manufacture, which could expand access globally.",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260707054111.htm",
+        "published_utc": "2026-07-07T09:41:11+00:00",
+        "score": 4,
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-86d19c6ee4e37f43/480/320"
       }
     ],
     "science": [
@@ -626,14 +578,50 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "HotNews",
-      "title": "Toyota nu mai este cea mai valoroasă companie din Japonia. Cine a depășit-o luni",
-      "summary": "Banca Mitsubishi UFJ a devenit luni cea mai valoroasă companie cotată la Bursa de Valori de la Tokyo, depăşind producătorul auto Toyota, după ce Banca Centrală a Japoniei a majorat dobânda de referinţă la cel mai înalt nivel din ultimele trei decenii, transmit EFE și Agerpres. Luni la prânz, la închiderea primei şedinţe de tranzacţionare &#8230;",
-      "link": "https://hotnews.ro/toyota-nu-mai-este-cea-mai-valoroasa-companie-din-japonia-cine-a-depasit-o-luni-2299124",
-      "published_utc": "2026-07-13T08:34:05+00:00",
+      "source": "Start-Up Romania",
+      "title": "AWS oferă dezvoltatorilor din România acces gratuit timp de trei luni la cursuri de AI și machine learning",
+      "summary": "Amazon Web Services (AWS) lansează un program gratuit de pregătire în inteligență artificială dedicat dezvoltatorilor din Europa Centrală și de Est, inclusiv celor din România. Participanții vor...",
+      "link": "https://start-up.ro/aws-ofera-dezvoltatorilor-din-romania-acces-gratuit-timp-de-trei-luni-la-cursuri-de-ai-si-machine-learning",
+      "published_utc": "2026-07-13T11:31:21+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-1265d6c658d214b8/480/320"
+      "image": "https://start-up.ro/img/articles/3/8/6/38657/cover-38657-src.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Sătul să fie acuzat că plagiază replici din desene animate, Georgescu a plagiat azi dintr-un film porno",
+      "summary": "&#8222;Bună ziua, România, eu sunt instalatorul, am venit să îţi livrez o pizza! N-ai bani de pizza? Hai că rezolvăm altcumva!&#8221; Astfel şi-a salutat Cătălin Georgescu fanii în această dimineaţă, la târgul de bălegar din comuna giurgiuveană Bleoaşca din Deal. Cel mai probabil, spun specialiştii, frontmanul suveraniştilor s-a săturat să fie acuzat constant că plagiază [&#8230;] The post Sătul să fie acuzat că plagiază replici din desene animate, Georgescu a plagiat azi dintr-un film porno appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/politic/satul-sa-fie-acuzat-ca-plagiaza-replici-din-desene-animate-georgescu-a-plagiat-azi-dintr-un-film-porno",
+      "published_utc": "2026-07-13T04:36:36+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/07/georgescuplagiat.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "RomaniaPozitiva",
+      "title": "„VALENTIN M-A TREZIT! – CORPUS”. O expoziție de Noni-Emil Iordache",
+      "summary": "Pe 16 iulie 2026, de la ora 19:00, la Hotel Caro din București, are loc vernisajul expoziției personale de pictură „Valentin m-a trezit! – CORPUS”, semnată de Noni-Emil Iordache. Uneori,&#8230; Articolul „VALENTIN M-A TREZIT! – CORPUS”. O expoziție de Noni-Emil Iordache apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/bucuresti/valentin-m-a-trezit-corpus-o-expozitie-de-noni-emil-iordache",
+      "published_utc": "2026-07-13T11:09:53+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-2d13bbdae7b57797/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "RomaniaPozitiva",
+      "title": "Sit+Read POP—UP Fair aduce la Timișoara două zile dedicate creației independente și artiștilor locali",
+      "summary": "În perioada 1–2 august 2026, între orele 12:00 și 19:00, Indecis Artist-Run (Bastion 3, str. Hector nr. 1) găzduiește Sit+Read POP—UP Fair, un eveniment care reunește artiști, designeri și creatori&#8230; Articolul Sit+Read POP—UP Fair aduce la Timișoara două zile dedicate creației independente și artiștilor locali apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/banat-crisana/sitread-pop-up-fair-aduce-la-timisoara-doua-zile-dedicate-creatiei-independente-si-artistilor-locali",
+      "published_utc": "2026-07-13T10:10:21+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-910eba5e6c9698ab/480/320"
     },
     {
       "section": "romania",
@@ -646,18 +634,6 @@
       "score": 3,
       "freshness_boost": 3,
       "image": "https://picsum.photos/seed/vb-96b015f93d4bfd9f/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Green Start-Up Romania",
-      "title": "910.000 lei pentru 14 inițiative care fac Bucureștiul mai verde și mai locuibil: terase de bloc, parcări de biciclete și grădini comunitare",
-      "summary": "14 inițiative civice din București primesc finanțare totală de peste 910.000 de lei prin cea de-a treia ediție a programului „În ZONA TA”, desfășurat de Fundația Comunitară București și ING Bank...",
-      "link": "https://green.start-up.ro/ro/910-000-lei-pentru-14-initiative-care-fac-bucurestiul-mai-verde-si-mai-locuibil-terase-de-bloc-parcari-de-biciclete-si-gradini-comunitare",
-      "published_utc": "2026-07-13T08:22:52+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://green.start-up.ro/img/articles/3/5/9/35995/cover-35995-src.jpg"
     },
     {
       "section": "romania",
@@ -675,42 +651,6 @@
       "section": "romania",
       "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 Razie în Vama Veche. A fost prins un bătrân cu 300 de pastile de Antinevralgic la el",
-      "summary": "Razie DIICOT în iadul boșorogilor din Vama Veche. Polițiștii însoțiți de procurori au capturat mai mulți traficanți de stupefiante, inclusiv un bărbat de 51 de ani, care avea la el 300 de pastile de antinevralgic. Bărbatul a declarat că pastilele sunt pentru consum propriu, pentru că stă într-o cameră cu pereți de rigips și în [&#8230;] The post Razie în Vama Veche. A fost prins un bătrân cu 300 de pastile de Antinevralgic la el appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/razie-in-vama-veche-a-fost-prins-un-batran-cu-300-de-pastile-de-antinevralgic-la-el",
-      "published_utc": "2026-07-12T04:33:50+00:00",
-      "score": 3,
-      "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2024/08/vamaiotcuiqos.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Green Start-Up Romania",
-      "title": "TUIASI intră în rândul universităților europene și devine prima universitate din România certificată pentru reducerea amprentei de carbon",
-      "summary": "Universitatea Tehnică „Gheorghe Asachi&quot; din Iași (TUIASI) este prima universitate din România certificată de SRAC pentru reducerea amprentei de carbon, în conformitate cu standardul SR EN ISO...",
-      "link": "https://green.start-up.ro/ro/tuiasi-intra-in-randul-universitatilor-europene-si-devine-prima-universitate-din-romania-certificata-pentru-reducerea-amprentei-de-carbon",
-      "published_utc": "2026-07-13T07:58:34+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://green.start-up.ro/img/articles/3/5/9/35996/cover-35996-src.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Start-Up Romania",
-      "title": "Diana Mocanu | Printco-Gama: ”dependența e cel mai mare risc al antreprenorilor”",
-      "summary": "Diana Mocanu a crescut în antreprenoriat și l-a văzut din prima linie încă din copilărie. Din 1994 a știut că vrea să aducă noi materiale educative pentru copiii din România, așa că a fondat...",
-      "link": "https://start-up.ro/diana-mocanu-printco-gama",
-      "published_utc": "2026-07-13T06:05:13+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://start-up.ro/img/articles/3/8/6/38651/cover-38651-src.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
       "title": "😂 Frații Tate au făcut petiție ca județul Ilfov să fie redenumit Milfov",
       "summary": "Andrew și Tristan Tate, cei doi americani care au ales să se stabilească în România pentru frumusețea pitorească a comunei Voluntari și pentru calitatea administrației din țara noastră, au depus o petiție la Consiliul Județean Ilfov, prin care cer ca județul să fie redenumit Milfov. Frații Tate susțin că noua denumire va impulsiona masiv turismul, [&#8230;] The post Frații Tate au făcut petiție ca județul Ilfov să fie redenumit Milfov appeared first on Times New Roman .",
       "link": "https://www.timesnewroman.ro/monden/fratii-tate-au-facut-petitie-ca-judetul-ilfov-sa-fie-redenumit-milfov",
@@ -723,13 +663,13 @@
       "section": "romania",
       "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 Un țăran a combinat 300 de bărbați să-i scoată cartofii sub pretextul că e tabără de masculinitate",
-      "summary": "Un țăran deștept a observat trendul taberelor de masculinitate și a decis să profite. Sub pretextul unei astfel de tabere el a convins 300 de bărbați să vină la el la fermă și să scoată cartofi ca să-și descopere masculul alfa interior. Bărbații au fost ținuți 10 zile într-un grajd, ca să-și întărească personalitatea și [&#8230;] The post Un țăran a combinat 300 de bărbați să-i scoată cartofii sub pretextul că e tabără de masculinitate appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/un-taran-a-combinat-300-de-barbati-sa-i-scoata-cartofii-sub-pretextul-ca-e-tabara-de-masculinitate",
-      "published_utc": "2026-07-10T14:00:00+00:00",
+      "title": "😂 Elevii care au picat BAC-ul cer să poată intra la doctorat și fără BAC",
+      "summary": "Protest la Minsterul Educației. Mii de elevi de clasa a XII-a, care au picat BAC-ul, solicită o lege care să le dea dreptul să se înscrie la doctorat fără diploma de Bacalaurea. Ei spun că vor să facă cercetare și statul nu le permite, pentru că are legi învechite, care nu stimulează performanța academică. Mulți [&#8230;] The post Elevii care au picat BAC-ul cer să poată intra la doctorat și fără BAC appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/it-stiinta/elevii-care-au-picat-bac-ul-cer-sa-poata-intra-la-doctorat-si-fara-bac",
+      "published_utc": "2026-07-12T04:46:53+00:00",
       "score": 3,
       "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/07/scos_cartofi_masculinitate.jpeg"
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2023/05/fituica_BAC_greva.jpeg"
     },
     {
       "section": "romania",
@@ -740,20 +680,8 @@
       "link": "https://inocenti.ro/inocenti-locul-in-care-curajul-creste-pas-cu-pas",
       "published_utc": "2026-07-10T10:30:22+00:00",
       "score": 3,
-      "freshness_boost": 1,
-      "image": "https://picsum.photos/seed/vb-9017d5ebea453c95/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Start-Up Romania",
-      "title": "Secretele meseriilor din România: cum arată sistemul educațional privat?",
-      "summary": "Învățământul privat este adesea perceput ca un spațiu exclusivist, despre care se vorbește mai mult decât se știe. În acest episod din Rediscover Work, vizităm o școală privată din București și...",
-      "link": "https://start-up.ro/secretele-meseriilor-din-romania-cum-arata-sistemul-educational-privat",
-      "published_utc": "2026-07-08T05:05:01+00:00",
-      "score": 3,
       "freshness_boost": 0,
-      "image": "https://start-up.ro/img/articles/3/8/6/38625/cover-38625-src.jpg"
+      "image": "https://picsum.photos/seed/vb-9017d5ebea453c95/480/320"
     },
     {
       "section": "romania",
@@ -804,16 +732,76 @@
       "image": "https://picsum.photos/seed/vb-09f9ef71aa2592ce/480/320"
     },
     {
-      "section": "romania",
-      "kind": "ro",
-      "source": "SOS Satele Copiilor Romania",
-      "title": "Asistent Social",
-      "summary": "SOS Serviciul de Asistență Comunitară Constanţa Locație: MEDGIDIA, jud. Constanţa Număr de poziții: 2 Contract: full time Grija și încrederea unei familii, emoție pozitivă, zâmbete, suport și încurajare, nevoi de bază îndeplinite și vise transformate... The post Asistent Social appeared first on SOS Satele Copiilor România .",
-      "link": "https://www.sos-satelecopiilor.ro/asistent-social-5",
-      "published_utc": "2026-05-28T10:35:10+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-6e5956eb57d9107d/480/320"
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "Hepatitis E viruses mutate early during infection",
+      "summary": "Knowing how viruses change in the initial weeks of an infection can provide important information about their adaptability. Researchers from the Departments of Molecular & Medical Virology and Translational & Computational Infection Research at Ruhr University Bochum, Germany, have taken a closer look at the early phase of hepatitis E infections.",
+      "link": "https://medicalxpress.com/news/2026-07-hepatitis-viruses-mutate-early-infection.html",
+      "published_utc": "2026-07-13T11:40:03+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hepatitis-e-viruses-mu.jpg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "Mouse study uncovers how transcription factors HIF1α and HIF2α regulate different aspects muscle physiology",
+      "summary": "Skeletal muscles—responsible for movement, joint stabilization and postural support—are highly metabolically active and heavily reliant on oxygen during physical activity. However, conditions such as high-intensity exercise or sustained exertion frequently expose skeletal muscles to reduced oxygen availability, which can compromise muscle homeostasis.",
+      "link": "https://medicalxpress.com/news/2026-07-mouse-uncovers-transcription-factors-hif1.html",
+      "published_utc": "2026-07-13T11:20:04+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/chonnam-national-unive-2.jpg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "Seven-year study finds non-surgical valve replacement holds up as well as open-heart surgery",
+      "summary": "The incidence of cardiovascular disease is rising across the globe, with more than 28 million people worldwide living with heart valve disease. Each year in the United States alone, surgeons perform approximately 106,000 heart valve replacement procedures.",
+      "link": "https://medicalxpress.com/news/2026-07-year-surgical-valve-heart-surgery.html",
+      "published_utc": "2026-07-13T11:10:01+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/seven-year-study-finds.jpg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "New global report outlines strategies to improve hematologic care for women",
+      "summary": "A new report in The Lancet Haematology, led by Cleveland Clinic hematologist Bethany Samuelson Bannow, M.D., outlines practical strategies to improve diagnosis, care and outcomes globally for women and girls with hematological conditions, such as bleeding disorders, heavy menstrual bleeding, postpartum hemorrhage, thrombosis and maternal hematologic complications.",
+      "link": "https://medicalxpress.com/news/2026-07-global-outlines-strategies-hematologic-women.html",
+      "published_utc": "2026-07-13T11:00:03+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/woman-at-the-doctor.jpg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "Dementia rising across Latino populations, multidecade study finds",
+      "summary": "A new study led by researchers at Washington University School of Medicine in St. Louis and Newcastle University in the U.K. finds that the share of adults living with dementia rose substantially across several Latin American and Caribbean sites over the past two decades. The research provides the first direct evidence that some parts of Latin America are moving in the opposite direction of dropping dementia rates in the U.S. and other wealthy nations.",
+      "link": "https://medicalxpress.com/news/2026-07-dementia-latino-populations-multidecade.html",
+      "published_utc": "2026-07-13T10:00:02+00:00",
+      "score": 2,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/latino-abuelo.jpg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "New clues raise hopes for better treatment of RSV in babies",
+      "summary": "Future therapies for respiratory syncytial virus (RSV) must target both the virus and the immune response to ensure babies get the best possible outcomes, a new study by researchers at UCL and Great Ormond Street Hospital for Children (GOSH) finds.",
+      "link": "https://medicalxpress.com/news/2026-07-clues-treatment-rsv-babies.html",
+      "published_utc": "2026-07-13T09:00:03+00:00",
+      "score": 2,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2017/baby.jpg"
     },
     {
       "section": "science",
@@ -996,126 +984,6 @@
       "image": "https://picsum.photos/seed/vb-c70f2fcc7ff9fca1/480/320"
     },
     {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Lower dementia risk seen with sodium-glucose cotransporter 2 in seniors 65+ with mood, psychotic disorders",
-      "summary": "Sodium-glucose cotransporter 2 (SGLT2) inhibitor use is associated with a lower risk for dementia in older adults with mood and psychotic disorders, according to a study published online June 30 in JAMA Network Open.",
-      "link": "https://medicalxpress.com/news/2026-07-dementia-sodium-glucose-cotransporter-seniors.html",
-      "published_utc": "2026-07-09T23:00:02+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/lower-dementia-risk-se.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Bimekizumab well tolerated, efficacious over three years in axial spondyloarthritis",
-      "summary": "For patients with axial spondyloarthritis (axSpA), bimekizumab, a dual interleukin (IL)-17A and IL-17F inhibitor, is well tolerated over three years, according to a study published in the June issue of the Journal of Rheumatology.",
-      "link": "https://medicalxpress.com/news/2026-07-bimekizumab-tolerated-efficacious-years-axial.html",
-      "published_utc": "2026-07-09T22:40:07+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bimekizumab-well-toler.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "New genetic switch could improve gene therapy for drug-resistant epilepsy",
-      "summary": "Epilepsy affects more than 50 million people worldwide, making it one of the most common neurological disorders. Although medication helps many patients achieve seizure control, approximately one-third continue to experience seizures despite treatment. Seizures often arise when the brain's excitation-inhibition (E/I) balance breaks down. In healthy conditions, specialized inhibitory neurons act as a natural braking system, releasing a neurotransmitter called gamma-aminobutyric acid (GABA) that helps prevent excessive electrical activity. When this inhibitory control is weakened, abnormal bursts of activity can spread through the brain and trigger seizures.",
-      "link": "https://medicalxpress.com/news/2026-07-genetic-gene-therapy-drug-resistant.html",
-      "published_utc": "2026-07-09T22:40:02+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-novel-gene-promoter.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Current substance misuse prevention misses scale, argues paper; schools and digital tools could help",
-      "summary": "A new analysis published in the journal Prevention Science calls for a major shift in how the United States approaches substance misuse prevention strategies and programs. The findings argue that the current strategy for providing prevention services may not be reaching enough people or providing a worthwhile return on investment. Implementation efforts should instead focus on direct integration into schools, health care systems and digital technologies Americans already use every day.",
-      "link": "https://medicalxpress.com/news/2026-07-current-substance-misuse-scale-paper.html",
-      "published_utc": "2026-07-09T22:20:03+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/drug-abuse.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "A call for greater focus on social factors that shape health",
-      "summary": "The American College of Sports Medicine (ACSM) has published a new call to action statement urging the sports medicine community to intentionally incorporate social determinants of health (SDoH) into research, clinical care, and administrative and organizational decision-making to improve health outcomes and reduce disparities.",
-      "link": "https://medicalxpress.com/news/2026-07-greater-focus-social-factors-health.html",
-      "published_utc": "2026-07-09T22:20:01+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/health.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Damaged myelin generates abnormal rhythms in the sleeping brain",
-      "summary": "Scientists have discovered how damage to the myelin sheath—the insulating layer around nerve fibers—affects brain activity during sleep.",
-      "link": "https://medicalxpress.com/news/2026-07-myelin-generates-abnormal-rhythms-brain.html",
-      "published_utc": "2026-07-09T22:00:10+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/damaged-myelin-generat.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Young people from less-advantaged backgrounds are more likely to have an undiagnosed eating disorder",
-      "summary": "Eating disorders are often associated with teenage girls from socioeconomically advantaged families. However, a new study from the University of Copenhagen challenges this perception, suggesting that eating disorders are just as likely to affect young people from less advantaged backgrounds. The researchers analyzed data on eating disorder diagnoses from more than 500,000 people born in Denmark between 1996 and 2003. For a subgroup of 44,000 young people, they also had information on self-reported symptoms of eating disorders.",
-      "link": "https://medicalxpress.com/news/2026-07-young-people-advantaged-backgrounds-undiagnosed.html",
-      "published_utc": "2026-07-09T22:00:09+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/young-people-from-less.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Acupuncture to the ear may help to relieve migraines",
-      "summary": "Acupuncture to the ear may help lessen pain from migraines and their impact on daily life, according to new research presented today (Friday) at the Federation of European Neuroscience Societies (FENS) Forum 2026.",
-      "link": "https://medicalxpress.com/news/2026-07-acupuncture-ear-relieve-migraines.html",
-      "published_utc": "2026-07-09T22:00:04+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/could-acupuncture-to-t.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Eye movements reveal personal 'fingerprints' as people explore unfamiliar scenes",
-      "summary": "Walk into a crowded coffee shop, and what catches your eye as you take in the scene could say as much about you as the spirals on your fingertips or the mutations in your DNA. Eye movements are so unique, in fact, that they could be used to identify you through objects that have personal meaning, according to a new study by Dartmouth researchers in the Proceedings of the National Academy of Sciences.",
-      "link": "https://medicalxpress.com/news/2026-07-eye-movements-reveal-personal-fingerprints.html",
-      "published_utc": "2026-07-09T21:20:06+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/in-new-places-what-we.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "GLP-1 use hits record high as Medicare opens access to weight-loss drugs",
-      "summary": "The share of U.S. adults taking GLP-1 medications to lose weight has reached a record 11%.",
-      "link": "https://medicalxpress.com/news/2026-07-glp-high-medicare-access-weight.html",
-      "published_utc": "2026-07-09T21:20:03+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/glp-1-use-hits-record.jpg"
-    },
-    {
       "section": "environment",
       "kind": "global",
       "source": "Mongabay Conservation",
@@ -1154,14 +1022,50 @@
     {
       "section": "medical",
       "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "Scientists discover an unexpected way to make pancreatic cancer cells self-destruct",
-      "summary": "Researchers tested experimental PCAI compounds against pancreatic cancer cells and found they had powerful anticancer effects. One leading compound blocked more than 90% of cancer cell migration, suggesting it could help prevent the spread of tumors. Rather than suppressing cancer signaling, the treatment hyperactivated key pathways until the cells essentially self-destructed.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260622091512.htm",
-      "published_utc": "2026-06-29T18:08:33+00:00",
-      "score": 3,
+      "source": "Positive News",
+      "title": "Reclaiming the game. What to expect in the new issue of Positive News magazine",
+      "summary": "Editor Tom Pattinson introduces the new issue of Positive News magazine, which is out now The post Reclaiming the game. What to expect in the new issue of Positive News magazine appeared first on Positive News .",
+      "link": "https://www.positive.news/society/media/what-to-expect-in-the-new-positive-news-magazine",
+      "published_utc": "2026-07-08T10:03:04+00:00",
+      "score": 0,
       "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-b33e1246a3d81c51/480/320"
+      "image": "https://picsum.photos/seed/vb-7430edba68718108/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "Creatine doesn't just build muscle. It may also help fight cancer",
+      "summary": "Scientists have discovered that creatine may strengthen one of the immune system's most important cancer-fighting pathways by energizing dendritic cells that activate killer T cells. The promising results could eventually help make immunotherapy more effective, but they have not yet been tested in human patients.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260701015237.htm",
+      "published_utc": "2026-07-08T09:32:21+00:00",
+      "score": 6,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-655405d9af664f7a/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "Can't stick to a diet? Intermittent fasting may be easier than counting calories for weight loss",
+      "summary": "Intermittent fasting helped people lose as much weight as calorie restriction, but without the same feeling of constantly controlling their food intake. Researchers say that difference could make fasting a more sustainable option for people who struggle with traditional diets.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260701015247.htm",
+      "published_utc": "2026-07-08T08:46:47+00:00",
+      "score": 1,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-82cc0a550fcf19b0/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "New weight loss pill beats oral Ozempic in major trial",
+      "summary": "A new once-daily weight-loss pill called orforglipron delivered better weight loss and blood sugar improvements for people with type 2 diabetes than the leading oral semaglutide in a major clinical trial. The tablet could offer a more convenient alternative to injectable drugs like Ozempic and Wegovy because it doesn't require refrigeration or special timing with meals. It's also cheaper to manufacture, which could expand access globally.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260707054111.htm",
+      "published_utc": "2026-07-07T09:41:11+00:00",
+      "score": 4,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-86d19c6ee4e37f43/480/320"
     },
     {
       "section": "science",
@@ -1242,8 +1146,8 @@
     "source": "data/jokes_ro.txt"
   },
   "satire_ro": {
-    "title": "Planul lui Putin",
-    "link": "https://www.timesnewroman.ro/ovi/planul-lui-putin/",
+    "title": "Ciolacu, emoţionat la întâlnirea de 20 de ani: Nu-mi vine să cred că în 20 de ani termin liceul!",
+    "link": "https://www.timesnewroman.ro/politic/ciolacu-emotionat-la-intalnirea-de-20-de-ani-nu-mi-vine-sa-cred-ca-in-20-de-ani-termin-liceul/",
     "source": "timesnewroman.ro"
   },
   "top_images": [
@@ -1328,6 +1232,7 @@
       "https://live.staticflickr.com/65535/55373528751_c6b4956d9a_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/8314/29716380801_acc927b587_b.jpg",
       "https://live.staticflickr.com/65535/55384559148_0c802a3d57_b.jpg",
       "https://live.staticflickr.com/65535/55368345630_c157eac13e_b.jpg",
       "https://live.staticflickr.com/65535/55373096665_4af0005007_b.jpg",
@@ -1344,10 +1249,10 @@
       "https://live.staticflickr.com/884/41168749431_248ecd55df_b.jpg",
       "https://live.staticflickr.com/65535/55380286297_ea169dc102_b.jpg",
       "https://live.staticflickr.com/65535/55377289136_e5efb149fa_b.jpg",
-      "https://live.staticflickr.com/65535/55370015298_bc40b22a1a_b.jpg",
-      "https://live.staticflickr.com/65535/55386478257_4cc5477794_b.jpg"
+      "https://live.staticflickr.com/65535/55370015298_bc40b22a1a_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55390343411_db7eb80eef_b.jpg",
       "https://live.staticflickr.com/65535/55390332368_9f3532a49f_b.jpg",
       "https://live.staticflickr.com/65535/55388760882_f7c7d4e3b9_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/3/3f/NYC_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg",
@@ -1364,12 +1269,11 @@
       "https://live.staticflickr.com/65535/55388168151_4408d5f1f0_b.jpg",
       "https://live.staticflickr.com/65535/55387236977_a6336f7c5e_b.jpg",
       "https://live.staticflickr.com/65535/55387030252_45711694fe_b.jpg",
-      "https://live.staticflickr.com/65535/55387640771_51bed010fb_b.jpg",
-      "https://live.staticflickr.com/65535/55387575423_4b5e397d47_b.jpg"
+      "https://live.staticflickr.com/65535/55387640771_51bed010fb_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
+      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
