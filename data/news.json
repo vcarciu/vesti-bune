@@ -1,7 +1,19 @@
 {
-  "generated_utc": "2026-07-21T18:08:58+00:00",
+  "generated_utc": "2026-07-21T20:13:25+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Realitatea Plus, amendată cu suma maximă de CNA pentru promovarea excesivă a lui Călin Georgescu: „O campanie absolut deșănțată”",
+        "summary": "Consiliul Național al Audiovizualului (CNA) a amendat marți televiziunea Realitatea Plus cu 200.000 de lei, sancțiunea maximă prevăzută de lege, pentru promovarea excesivă a lui Călin Georgescu în mai multe emisiuni difuzate în luna martie, scrie Pagina de Media. Decizia a fost luată după ce, într-o ședință anterioară, niciuna dintre propunerile de sancționare nu întrunise &#8230;",
+        "link": "https://hotnews.ro/realitatea-plus-amendata-cu-suma-maxima-de-cna-pentru-promovarea-excesiva-a-lui-calin-georgescu-i-se-face-o-campanie-absolut-desantata-2306292",
+        "published_utc": "2026-07-21T18:17:13+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-c6809aaa39bd585b/480/320"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -90,25 +102,25 @@
         "section": "romania",
         "kind": "ro",
         "source": "Times New Roman (Satira)",
-        "title": "😂 Persistent as Ever: Trump Somehow Manages to Photobomb 2007 Picture of Messi Bathing Yamal",
-        "summary": "While in-depth assessment of the lunacy, senility and incontinence of US President Donald Trump is still ongoing, one thing appears beyond dispute: he knows exactly what he wants. And what he wants, according to reports, is to insert himself into photographs, regardless of whether he has any business being in them, or whether they were [&#8230;] The post Persistent as Ever: Trump Somehow Manages to Photobomb 2007 Picture of Messi Bathing Yamal appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/sport/persistent-as-ever-trump-somehow-manages-to-photobomb-2007-picture-of-messi-bathing-yamal",
-        "published_utc": "2026-07-20T06:14:38+00:00",
+        "title": "😂 Simplu şi ingenios. Negoiţă îmbracă toţi copacii în beton ca să nu-i mai dărâme vântul",
+        "summary": "Pe măsură ce fenomenele meteo extreme se înmulţesc, primarii de sector se grăbesc să găsească soluţii la problema copacilor răsturnaţi de vânt! Edilul Sectorului 3, Ronald Negoiţă, a ieşit astăzi într-o conferinţă de presă pentru a anunţa decizia radicală pe care a luat-o aseară, în timp ce se uita la meci cu prietenii. Pe scurt, [&#8230;] The post Simplu şi ingenios. Negoiţă îmbracă toţi copacii în beton ca să nu-i mai dărâme vântul appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/politic/simplu-si-ingenios-negoita-imbraca-toti-copacii-in-beton-ca-sa-nu-i-mai-darame-vantul",
+        "published_utc": "2026-07-20T06:46:02+00:00",
         "score": 3,
         "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/07/trumpyamalfoto.jpg"
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/07/negoitacopacibeton.jpg"
       },
       {
         "section": "romania",
         "kind": "ro",
         "source": "Times New Roman (Satira)",
-        "title": "😂 Ca să reducă factura la curent, un român și-a trecut mașina de spălat pe GPL",
-        "summary": "Marian Coltea, un cetățean din județul Argeș a găsit o soluție inedită pentru reducerea facturii la curent electric, convertindu-și mașina de spălat rufe pentru a funcționa pe GPL. Bărbatul a instalat un sistem de alimentare cu gaz petrolier lichefiat, susținând că a reușit astfel să scadă semnificativ costurile lunare cu energia electrică. Potrivit declarațiilor sale, [&#8230;] The post Ca să reducă factura la curent, un român și-a trecut mașina de spălat pe GPL appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/life-death/ca-sa-reduca-factura-la-curent-un-roman-si-a-trecut-masina-de-spalat-pe-gpl",
-        "published_utc": "2026-07-19T15:56:39+00:00",
+        "title": "😂 Guvernul interzice jocul de X și O, pentru că tabelul este un simbol legionar",
+        "summary": "Guvernul României a decis interzicerea jocului de X și O pe întreg teritoriul național, în spații publice sau private, motivând că tabelul cu nouă căsuțe reprezintă un simbol legionar. Decizia a fost luată în cadrul unei ședințe extraordinare, după ce experții din cadrul Ministerului Culturii au identificat similitudini între grila clasică a jocului și anumite [&#8230;] The post Guvernul interzice jocul de X și O, pentru că tabelul este un simbol legionar appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/politic/guvernul-interzice-jocul-de-x-si-o-pentru-ca-tabelul-este-un-simbol-legionar",
+        "published_utc": "2026-07-19T09:27:43+00:00",
         "score": 3,
         "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/07/masina-de-spalat-pe-gpl.jpg"
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/07/x-si-zero-legionari.jpg"
       },
       {
         "section": "romania",
@@ -310,133 +322,229 @@
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Frozen fiber couples light and sound 1,000 times more strongly than standard glass fibers",
-        "summary": "Researchers have developed a new type of optical fiber by freezing a glass capillary filled with liquid. It guides light and sound waves simultaneously and enables highly efficient coupling between them. The high coupling strength lowers the energy consumption of photonic neuromorphic computing schemes and quantum signal processing applications by several orders of magnitude.",
-        "link": "https://phys.org/news/2026-07-frozen-fiber-couples-strongly-standard.html",
-        "published_utc": "2026-07-21T18:00:03+00:00",
+        "title": "Satellite imagery captures the impact of large U.S. dams on river temperatures over the last decade",
+        "summary": "A team of Virginia Tech geoscientists has found a new way to examine the widespread effects of dams on river temperatures: using Landsat thermal infrared imagery to gather data on rivers across the United States. By using satellite imagery instead of site-specific, on-the-ground measurements, researchers can draw from a much larger pool of data.",
+        "link": "https://phys.org/news/2026-07-satellite-imagery-captures-impact-large.html",
+        "published_utc": "2026-07-21T20:10:02+00:00",
         "score": 1,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/extremely-cold-and-hig.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-unlock-new-1.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Study shows nutrient loss in vineyards can be attributed to factors beyond fruit harvest",
-        "summary": "New research from Washington State University could help grape growers improve nutrient use efficiency and develop a more accurate fertilizer budget, helping ensure high fruit quality, vineyard productivity and long-term economic and environmental sustainability.",
-        "link": "https://phys.org/news/2026-07-nutrient-loss-vineyards-attributed-factors.html",
-        "published_utc": "2026-07-21T17:50:01+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-shows-nutrient-l.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "New exhibition reveals 10,000 years of prehistoric life in the Trent Valley",
-        "summary": "A new exhibition at the University of Nottingham Museum is bringing the prehistoric story of the Trent Valley to life, showcasing archaeological discoveries that are transforming understanding of one of Britain's most significant river landscapes.",
-        "link": "https://phys.org/news/2026-07-reveals-years-prehistoric-life-trent.html",
-        "published_utc": "2026-07-21T17:40:07+00:00",
-        "score": 2,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-exhibition-reveals.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Zoo elephant survival has improved substantially over 6 decades, international study finds",
-        "summary": "Elephants living in modern zoos are living significantly longer than they did half a century ago, according to a study published in the journal Scientific Reports. The research—led by ZSL (the Zoological Society of London) in collaboration with Species360, the University of Southern Denmark and the Max Planck Institute for Evolutionary Anthropology—finds that the life expectancy of zoo elephants has improved steadily since the 1960s.",
-        "link": "https://phys.org/news/2026-07-zoo-elephant-survival-substantially-decades.html",
-        "published_utc": "2026-07-21T17:40:04+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/elephant-zoo.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Antarctic 12-m Terahertz Telescope project to uncover hidden galaxy formation",
-        "summary": "A new simulation study suggests that the Antarctic 12-m Terahertz Telescope (ATT12), a next-generation facility led by University of Tsukuba, could uncover between 1 and 10 million dusty star-forming galaxies throughout cosmic history.",
-        "link": "https://phys.org/news/2026-07-antarctic-terahertz-telescope-uncover-hidden.html",
-        "published_utc": "2026-07-21T17:20:02+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/galaxy.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Reinventing food packaging with safe and sustainable oxygen-scavenging biodegradable plastic",
-        "summary": "From ensuring that food remains fresh longer to extending its shelf life for future consumption, food packaging plays an indispensable role in modern society. Conventional food packaging plastics are sturdy and highly effective at keeping out oxygen, one of the main drivers of food spoilage.",
-        "link": "https://phys.org/news/2026-07-reinventing-food-packaging-safe-sustainable.html",
-        "published_utc": "2026-07-21T16:54:24+00:00",
-        "score": 2,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/food-packaging.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "When a SpaceX rocket crashes into the moon, scientists will be watching",
-        "summary": "On Aug. 5, 2026, an abandoned piece of space junk is predicted to crash into the moon near a spot called Einstein Crater. Astronomers will be watching because the collision and aftermath may be visible from Earth.",
-        "link": "https://phys.org/news/2026-07-spacex-rocket-moon-scientists.html",
-        "published_utc": "2026-07-21T16:50:01+00:00",
+        "title": "Novel antibiotic candidates starve resistant bacteria by blocking vitamin supply",
+        "summary": "Bacteria have spent decades evolving resistance to virtually every antibiotic we have thrown at them. To stay ahead, new drugs must hit targets that existing antibiotics have never touched. A research team at the Helmholtz Institute for Pharmaceutical Research Saarland (HIPS) has now developed a series of synthetic drug candidates that do exactly that: By blocking an essential molecular supply system, these molecules cut off the bacteria's supply of essential vitamins and starve them to death. The team published its findings in two studies in the Journal of Medicinal Chemistry.",
+        "link": "https://phys.org/news/2026-07-antibiotic-candidates-starve-resistant-bacteria.html",
+        "published_utc": "2026-07-21T20:00:05+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/when-a-spacex-rocket-c.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/starving-bacteria-to-d.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "How sea anemone cells reform into an organism",
-        "summary": "Researchers at the University of Vienna have discovered a key mechanism that enables sea anemones to regenerate into fully developed organisms from disorganized clusters of cells. The study, published in Nature Communications, shows that the so-called Notch signaling pathway controls tissue organization and the formation of the body axis.",
-        "link": "https://phys.org/news/2026-07-sea-anemone-cells-reform.html",
-        "published_utc": "2026-07-21T16:40:07+00:00",
+        "title": "Researcher shows how AI can personalize learning for homeschooling families",
+        "summary": "More than 3.4 million American children, or about 6% of the school-age population, now learn at home, and that group has grown at nearly three times the pre-pandemic rate. Homeschooling is also increasingly popular in countries including Canada and the United Kingdom, as more parents look to customize educational options for their children.",
+        "link": "https://phys.org/news/2026-07-ai-personalize-homeschooling-families.html",
+        "published_utc": "2026-07-21T20:00:01+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researcher-shows-how-a-1.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Atomic channels can separate rare earth elements from each other without using toxic chemicals",
+        "summary": "Rare earth elements like lanthanum, neodymium and dysprosium are used to build the electric motor in your car, the LED lights in your house and the MRI machine at your doctor's office. But first, they have to be mined and separated from each other. Historically, that purification has been a difficult, costly process, relying on huge amounts of toxic chemicals.",
+        "link": "https://phys.org/news/2026-07-atomic-channels-rare-earth-elements.html",
+        "published_utc": "2026-07-21T19:50:03+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-cleaner-route-to-pur.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Researchers develop automated system to accelerate outbreak detection and disease surveillance",
+        "summary": "Biomedical engineers at Brown University have developed a fully automated workflow that simplifies and accelerates the preparation of bacterial samples for genetic sequencing. The method, dubbed Pathogen2Read, streamlines a critical bottleneck in the genetic sequencing process and could enable small labs without high-throughput automation to more effectively participate in outbreak-monitoring networks operated by the U.S. Food and Drug Administration (FDA) and the Centers for Disease Control. That could make for faster responses to foodborne illnesses and other outbreaks.",
+        "link": "https://phys.org/news/2026-07-automated-outbreak-disease-surveillance.html",
+        "published_utc": "2026-07-21T19:50:01+00:00",
+        "score": 1,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-develop-au.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Animals in prehistoric paintings reveal hidden pattern across nine Basque caves",
+        "summary": "Iñaki Intxaurbe, a researcher at the EHU-University of the Basque Country, analyzed the distribution of images in nine caves in the Basque Country using network-based analysis and statistical techniques.",
+        "link": "https://phys.org/news/2026-07-animals-prehistoric-reveal-hidden-pattern.html",
+        "published_utc": "2026-07-21T19:40:06+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/animals-in-prehistoric.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Family courts must do more to hear children's voices, study says",
+        "summary": "Children involved in private family law proceedings in England can experience serious harm to their mental and physical health because their voices are too often ignored or dismissed, according to new research led by the University of Manchester in partnership with SHERA Research Group members and The Survivor Family Network.",
+        "link": "https://phys.org/news/2026-07-family-courts-children-voices.html",
+        "published_utc": "2026-07-21T19:40:04+00:00",
+        "score": 1,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/family-court.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Human eyes needed, not AI, to study the Arctic sky",
+        "summary": "Scientists studying space weather are turning to human volunteers rather than artificial intelligence to help sort through hundreds of thousands of images of the Arctic sky. The Clear Skies—Kiruna project is asking members of the public to look at pictures of the sky above Kiruna, Sweden, and say whether it is clear or cloudy. Volunteers need no experience to get involved.",
+        "link": "https://phys.org/news/2026-07-human-eyes-ai-arctic-sky.html",
+        "published_utc": "2026-07-21T19:30:01+00:00",
+        "score": 1,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/human-eyes-needed-not.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Sleeping sickness parasite reveals enzyme weak spot that could guide safer drugs",
+        "summary": "African sleeping sickness and related diseases can be treated only with toxic and sometimes ineffective drugs. Now, University of Connecticut researchers show in Nucleic Acids Research that a crucial enzyme could be the key to safer, more effective medicines.",
+        "link": "https://phys.org/news/2026-07-sickness-parasite-reveals-enzyme-weak.html",
+        "published_utc": "2026-07-21T19:20:13+00:00",
+        "score": 2,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/sleeping-sickness-para.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "As Supreme Court decisions grow sharper, new study examines justices' calculated concessions",
+        "summary": "Recent U.S. Supreme Court terms have seen justices openly accuse one another of rewriting statutes, ignoring precedent and substituting policy preferences for law. Whether in disputes over presidential immunity, administrative power, nationwide injunctions or transgender rights, justices have demonstrated that they aren't afraid to challenge one another's reasoning.",
+        "link": "https://phys.org/news/2026-07-supreme-court-decisions-sharper-justices.html",
+        "published_utc": "2026-07-21T19:20:11+00:00",
+        "score": 1,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/us-supreme-court.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Understudied dogs may reshape what science knows about canine behavior",
+        "summary": "Dogs are humans' best friends in many places across the globe. But does a dog in New York City respond in the same way as a dog in Kyoto or Buenos Aires?",
+        "link": "https://phys.org/news/2026-07-understudied-dogs-reshape-science-canine.html",
+        "published_utc": "2026-07-21T19:10:03+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/dog.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Extreme precipitation in Central Asia connected to drought in mainland Southeast Asia",
+        "summary": "In much of Asia, the effects of climate change are felt through an increased frequency of extreme weather events, especially water-related ones. Droughts are becoming more common in mainland Southeast Asia, while periods with unusually large amounts of rainfall are increasing in Central Asia. Rice University's Na Wang and Sylvia Dee were interested in understanding whether these two extremes were related, despite being geographically distant. The researchers' findings were recently published in Nature Geoscience.",
+        "link": "https://phys.org/news/2026-07-extreme-precipitation-central-asia-drought.html",
+        "published_utc": "2026-07-21T19:10:01+00:00",
+        "score": 1,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/central-asia-rain.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Fragmented system hampering UK response to economic crime, researchers find",
+        "summary": "A new study from The University of Manchester has offered the most comprehensive look to date at how the U.K. coordinates its response to economic crime, identifying the structural challenges that make this difficult to do well. The study examines the tensions that make these challenges resistant to easy resolution and the enabling conditions needed for multi-agency collaboration to work more effectively.",
+        "link": "https://phys.org/news/2026-07-fragmented-hampering-uk-response-economic.html",
+        "published_utc": "2026-07-21T19:00:08+00:00",
         "score": 4,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-sea-anemone-cells.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/police-tape-uk.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Google wants to release 16 million sterile mosquitoes: Australian tests offer a valuable lesson",
-        "summary": "In the United States, Google's, now Alphabet's, Debug initiative has asked the federal government for permission to release up to 32 million sterilized male mosquitoes in California and Florida.",
-        "link": "https://phys.org/news/2026-07-google-million-sterile-mosquitoes-australian.html",
-        "published_utc": "2026-07-21T16:40:01+00:00",
+        "title": "Vapor-controlled supramolecules can switch color, glow and phase",
+        "summary": "Controlling interactions between molecules and their functions from the molecular level to the macroscopic scale is challenging in supramolecular and materials chemistry. To this end, a research team led by associate professor Yosuke Tani from WPI-ITbM at Nagoya University and Keisuke Wada from Kyoto University designed a vapor-controlled, reversible host–guest chemistry system that controls the optical and physical properties of a functional molecular liquid (FML)—nonvolatile fluids that can feature optical, electronic and catalytic properties.",
+        "link": "https://phys.org/news/2026-07-vapor-supramolecules-phase.html",
+        "published_utc": "2026-07-21T19:00:03+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/google-wants-to-releas.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/chemists-control-supra.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Over 10,000 traps reveal only 1 pookila in southeast Queensland survey",
-        "summary": "It's 5 a.m. when we crawl out of our tents. The catbirds are calling and the night sky is fading to dawn as we prepare to head into the wilderness. We're surrounded by the towering eucalypts of southeast Queensland in search of a small, native mouse called the pookila.",
-        "link": "https://phys.org/news/2026-07-reveal-pookila-southeast-queensland-survey.html",
-        "published_utc": "2026-07-21T16:20:05+00:00",
-        "score": 0,
+        "title": "Study finds river sand mining is outstripping nature's supply",
+        "summary": "The sand used to build cities, roads and other infrastructure is being removed from many rivers faster than nature can replace it, according to a global review led by researchers from Nanyang Technological University, Singapore (NTU Singapore).",
+        "link": "https://phys.org/news/2026-07-river-sand-outstripping-nature.html",
+        "published_utc": "2026-07-21T18:40:08+00:00",
+        "score": 2,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/we-set-10000-traps-in.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ntu-singapore-study-fi.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Jurassic sea monster was smaller than once thought, but no less formidable",
-        "summary": "For more than 25 years, Liopleurodon has been one of the world's most recognizable prehistoric marine predators. Immortalized in the BBC's landmark Walking with Dinosaurs series as a colossal 25-meter (82-foot) marine hunter, it captured the imagination of millions and became synonymous with the giant reptiles that ruled Jurassic seas.",
-        "link": "https://phys.org/news/2026-07-jurassic-sea-monster-smaller-thought.html",
-        "published_utc": "2026-07-21T16:20:01+00:00",
+        "title": "New radio-burst method helps locate universe's missing ordinary matter",
+        "summary": "Stars and galaxies make up much of the universe's ordinary, observable matter. But for decades, scientists have wrestled with a cosmic conflict: There should be much more.",
+        "link": "https://phys.org/news/2026-07-radio-method-universe-ordinary.html",
+        "published_utc": "2026-07-21T18:40:03+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/jurassic-sea-monster-w.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/diffuse-puffs-of-missi.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Researchers call for a shift in crop development to tackle hunger, malnutrition, and climate change",
+        "summary": "Feeding a growing global population is no longer enough. Scientists say the next generation of crops must also deliver better nutrition while withstanding the increasing impacts of climate change.",
+        "link": "https://phys.org/news/2026-07-shift-crop-tackle-hunger-malnutrition.html",
+        "published_utc": "2026-07-21T18:20:06+00:00",
+        "score": 1,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-call-for-a-1.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Hawaiian stilt reclassified from endangered to threatened after 50 years of conservation efforts",
+        "summary": "The U.S. Fish and Wildlife Service announced the reclassification of the Aʻeo, or Hawaiian stilt (Himantopus mexicanus knudseni), from endangered to threatened under the Endangered Species Act, a rare and hopeful milestone for a native Hawaiian species. The change, published in the Federal Register alongside a species-specific 4(d) rule, reflects more than 50 years of conservation work that has brought the long-legged waterbird back from the brink. The recovery is documented in a new study led by researchers from the University of Hawaiʻi at Mānoa's College of Tropical Agriculture and Human Resilience (CTAHR) and their partners, published in Ornithological Applications.",
+        "link": "https://phys.org/news/2026-07-hawaiian-stilt-reclassified-endangered-threatened.html",
+        "published_utc": "2026-07-21T18:20:03+00:00",
+        "score": 2,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mnoa-aeo-hawaiian-stil.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "New insights into how DNA, the body's instruction manual for life, is regulated",
+        "summary": "Scientists at the Peter MacCallum Cancer Center have uncovered new insights into how cells regulate DNA methylation, a fundamental process that helps keep potentially harmful viral elements in our genome under control.",
+        "link": "https://phys.org/news/2026-07-insights-dna-body-manual-life.html",
+        "published_utc": "2026-07-21T18:10:02+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dna.jpg"
       }
     ],
     "environment": [
@@ -542,6 +650,18 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "HotNews",
+      "title": "Realitatea Plus, amendată cu suma maximă de CNA pentru promovarea excesivă a lui Călin Georgescu: „O campanie absolut deșănțată”",
+      "summary": "Consiliul Național al Audiovizualului (CNA) a amendat marți televiziunea Realitatea Plus cu 200.000 de lei, sancțiunea maximă prevăzută de lege, pentru promovarea excesivă a lui Călin Georgescu în mai multe emisiuni difuzate în luna martie, scrie Pagina de Media. Decizia a fost luată după ce, într-o ședință anterioară, niciuna dintre propunerile de sancționare nu întrunise &#8230;",
+      "link": "https://hotnews.ro/realitatea-plus-amendata-cu-suma-maxima-de-cna-pentru-promovarea-excesiva-a-lui-calin-georgescu-i-se-face-o-campanie-absolut-desantata-2306292",
+      "published_utc": "2026-07-21T18:17:13+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-c6809aaa39bd585b/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "Comana: Trei parale, Cântări alese la 15aniVERSare Moara de hârtie",
       "summary": "Sâmbătă, 25 iulie 2026, de la orele 19.00, Moara de hârtie sărbătorește 15 ani de la inaugurare cu un alt concert mult-așteptat! În atmosfera albastră a serii, formația de muzică&#8230; Articolul Comana: Trei parale, Cântări alese la 15aniVERSare Moara de hârtie apare prima dată în Romania Pozitiva .",
@@ -555,13 +675,13 @@
       "section": "romania",
       "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 Persistent as Ever: Trump Somehow Manages to Photobomb 2007 Picture of Messi Bathing Yamal",
-      "summary": "While in-depth assessment of the lunacy, senility and incontinence of US President Donald Trump is still ongoing, one thing appears beyond dispute: he knows exactly what he wants. And what he wants, according to reports, is to insert himself into photographs, regardless of whether he has any business being in them, or whether they were [&#8230;] The post Persistent as Ever: Trump Somehow Manages to Photobomb 2007 Picture of Messi Bathing Yamal appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/sport/persistent-as-ever-trump-somehow-manages-to-photobomb-2007-picture-of-messi-bathing-yamal",
-      "published_utc": "2026-07-20T06:14:38+00:00",
+      "title": "😂 S-a aranjat pe viaţă! Hackerul care a spart Cadastrul şi-a trecut în proprietate o garsonieră la Cluj",
+      "summary": "Se pare că i-a ieşit combinaţia! Surse din zona de securitate cibernetică spun că temutul hacker care a atacat infrastructura IT a Agenţiei Naţionale de Cadastru a reuşit să îşi treacă în proprietate o locuinţă de peste 11 metri pătraţi într-o zonă destul de umană a municipiului Cluj. &#8222;Având acces la baza de date a [&#8230;] The post S-a aranjat pe viaţă! Hackerul care a spart Cadastrul şi-a trecut în proprietate o garsonieră la Cluj appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/it-stiinta/s-a-aranjat-pe-viata-hackerul-care-a-spart-cadastrul-si-a-trecut-in-proprietate-o-garsoniera-la-cluj",
+      "published_utc": "2026-07-20T07:07:46+00:00",
       "score": 3,
       "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/07/trumpyamalfoto.jpg"
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/07/62021949d4e8a_garsoniera-11-metri-inchiriat-la-cluj.jpg"
     },
     {
       "section": "romania",
@@ -574,18 +694,6 @@
       "score": 3,
       "freshness_boost": 3,
       "image": "https://picsum.photos/seed/vb-5e0e2b640a6bfb02/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 S-a aranjat pe viaţă! Hackerul care a spart Cadastrul şi-a trecut în proprietate o garsonieră la Cluj",
-      "summary": "Se pare că i-a ieşit combinaţia! Surse din zona de securitate cibernetică spun că temutul hacker care a atacat infrastructura IT a Agenţiei Naţionale de Cadastru a reuşit să îşi treacă în proprietate o locuinţă de peste 11 metri pătraţi într-o zonă destul de umană a municipiului Cluj. &#8222;Având acces la baza de date a [&#8230;] The post S-a aranjat pe viaţă! Hackerul care a spart Cadastrul şi-a trecut în proprietate o garsonieră la Cluj appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/it-stiinta/s-a-aranjat-pe-viata-hackerul-care-a-spart-cadastrul-si-a-trecut-in-proprietate-o-garsoniera-la-cluj",
-      "published_utc": "2026-07-20T07:07:46+00:00",
-      "score": 3,
-      "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/07/62021949d4e8a_garsoniera-11-metri-inchiriat-la-cluj.jpg"
     },
     {
       "section": "romania",
@@ -639,13 +747,25 @@
       "section": "romania",
       "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 Ca să reducă factura la curent, un român și-a trecut mașina de spălat pe GPL",
-      "summary": "Marian Coltea, un cetățean din județul Argeș a găsit o soluție inedită pentru reducerea facturii la curent electric, convertindu-și mașina de spălat rufe pentru a funcționa pe GPL. Bărbatul a instalat un sistem de alimentare cu gaz petrolier lichefiat, susținând că a reușit astfel să scadă semnificativ costurile lunare cu energia electrică. Potrivit declarațiilor sale, [&#8230;] The post Ca să reducă factura la curent, un român și-a trecut mașina de spălat pe GPL appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/ca-sa-reduca-factura-la-curent-un-roman-si-a-trecut-masina-de-spalat-pe-gpl",
-      "published_utc": "2026-07-19T15:56:39+00:00",
+      "title": "😂 Simplu şi ingenios. Negoiţă îmbracă toţi copacii în beton ca să nu-i mai dărâme vântul",
+      "summary": "Pe măsură ce fenomenele meteo extreme se înmulţesc, primarii de sector se grăbesc să găsească soluţii la problema copacilor răsturnaţi de vânt! Edilul Sectorului 3, Ronald Negoiţă, a ieşit astăzi într-o conferinţă de presă pentru a anunţa decizia radicală pe care a luat-o aseară, în timp ce se uita la meci cu prietenii. Pe scurt, [&#8230;] The post Simplu şi ingenios. Negoiţă îmbracă toţi copacii în beton ca să nu-i mai dărâme vântul appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/politic/simplu-si-ingenios-negoita-imbraca-toti-copacii-in-beton-ca-sa-nu-i-mai-darame-vantul",
+      "published_utc": "2026-07-20T06:46:02+00:00",
       "score": 3,
       "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/07/masina-de-spalat-pe-gpl.jpg"
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/07/negoitacopacibeton.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Guvernul interzice jocul de X și O, pentru că tabelul este un simbol legionar",
+      "summary": "Guvernul României a decis interzicerea jocului de X și O pe întreg teritoriul național, în spații publice sau private, motivând că tabelul cu nouă căsuțe reprezintă un simbol legionar. Decizia a fost luată în cadrul unei ședințe extraordinare, după ce experții din cadrul Ministerului Culturii au identificat similitudini între grila clasică a jocului și anumite [&#8230;] The post Guvernul interzice jocul de X și O, pentru că tabelul este un simbol legionar appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/politic/guvernul-interzice-jocul-de-x-si-o-pentru-ca-tabelul-este-un-simbol-legionar",
+      "published_utc": "2026-07-19T09:27:43+00:00",
+      "score": 3,
+      "freshness_boost": 1,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/07/x-si-zero-legionari.jpg"
     },
     {
       "section": "romania",
@@ -720,6 +840,234 @@
       "image": "https://picsum.photos/seed/vb-62290e058a5ec56d/480/320"
     },
     {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Satellite imagery captures the impact of large U.S. dams on river temperatures over the last decade",
+      "summary": "A team of Virginia Tech geoscientists has found a new way to examine the widespread effects of dams on river temperatures: using Landsat thermal infrared imagery to gather data on rivers across the United States. By using satellite imagery instead of site-specific, on-the-ground measurements, researchers can draw from a much larger pool of data.",
+      "link": "https://phys.org/news/2026-07-satellite-imagery-captures-impact-large.html",
+      "published_utc": "2026-07-21T20:10:02+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-unlock-new-1.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Novel antibiotic candidates starve resistant bacteria by blocking vitamin supply",
+      "summary": "Bacteria have spent decades evolving resistance to virtually every antibiotic we have thrown at them. To stay ahead, new drugs must hit targets that existing antibiotics have never touched. A research team at the Helmholtz Institute for Pharmaceutical Research Saarland (HIPS) has now developed a series of synthetic drug candidates that do exactly that: By blocking an essential molecular supply system, these molecules cut off the bacteria's supply of essential vitamins and starve them to death. The team published its findings in two studies in the Journal of Medicinal Chemistry.",
+      "link": "https://phys.org/news/2026-07-antibiotic-candidates-starve-resistant-bacteria.html",
+      "published_utc": "2026-07-21T20:00:05+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/starving-bacteria-to-d.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Researcher shows how AI can personalize learning for homeschooling families",
+      "summary": "More than 3.4 million American children, or about 6% of the school-age population, now learn at home, and that group has grown at nearly three times the pre-pandemic rate. Homeschooling is also increasingly popular in countries including Canada and the United Kingdom, as more parents look to customize educational options for their children.",
+      "link": "https://phys.org/news/2026-07-ai-personalize-homeschooling-families.html",
+      "published_utc": "2026-07-21T20:00:01+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researcher-shows-how-a-1.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Atomic channels can separate rare earth elements from each other without using toxic chemicals",
+      "summary": "Rare earth elements like lanthanum, neodymium and dysprosium are used to build the electric motor in your car, the LED lights in your house and the MRI machine at your doctor's office. But first, they have to be mined and separated from each other. Historically, that purification has been a difficult, costly process, relying on huge amounts of toxic chemicals.",
+      "link": "https://phys.org/news/2026-07-atomic-channels-rare-earth-elements.html",
+      "published_utc": "2026-07-21T19:50:03+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-cleaner-route-to-pur.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Researchers develop automated system to accelerate outbreak detection and disease surveillance",
+      "summary": "Biomedical engineers at Brown University have developed a fully automated workflow that simplifies and accelerates the preparation of bacterial samples for genetic sequencing. The method, dubbed Pathogen2Read, streamlines a critical bottleneck in the genetic sequencing process and could enable small labs without high-throughput automation to more effectively participate in outbreak-monitoring networks operated by the U.S. Food and Drug Administration (FDA) and the Centers for Disease Control. That could make for faster responses to foodborne illnesses and other outbreaks.",
+      "link": "https://phys.org/news/2026-07-automated-outbreak-disease-surveillance.html",
+      "published_utc": "2026-07-21T19:50:01+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-develop-au.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Animals in prehistoric paintings reveal hidden pattern across nine Basque caves",
+      "summary": "Iñaki Intxaurbe, a researcher at the EHU-University of the Basque Country, analyzed the distribution of images in nine caves in the Basque Country using network-based analysis and statistical techniques.",
+      "link": "https://phys.org/news/2026-07-animals-prehistoric-reveal-hidden-pattern.html",
+      "published_utc": "2026-07-21T19:40:06+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/animals-in-prehistoric.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Family courts must do more to hear children's voices, study says",
+      "summary": "Children involved in private family law proceedings in England can experience serious harm to their mental and physical health because their voices are too often ignored or dismissed, according to new research led by the University of Manchester in partnership with SHERA Research Group members and The Survivor Family Network.",
+      "link": "https://phys.org/news/2026-07-family-courts-children-voices.html",
+      "published_utc": "2026-07-21T19:40:04+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/family-court.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Human eyes needed, not AI, to study the Arctic sky",
+      "summary": "Scientists studying space weather are turning to human volunteers rather than artificial intelligence to help sort through hundreds of thousands of images of the Arctic sky. The Clear Skies—Kiruna project is asking members of the public to look at pictures of the sky above Kiruna, Sweden, and say whether it is clear or cloudy. Volunteers need no experience to get involved.",
+      "link": "https://phys.org/news/2026-07-human-eyes-ai-arctic-sky.html",
+      "published_utc": "2026-07-21T19:30:01+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/human-eyes-needed-not.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Sleeping sickness parasite reveals enzyme weak spot that could guide safer drugs",
+      "summary": "African sleeping sickness and related diseases can be treated only with toxic and sometimes ineffective drugs. Now, University of Connecticut researchers show in Nucleic Acids Research that a crucial enzyme could be the key to safer, more effective medicines.",
+      "link": "https://phys.org/news/2026-07-sickness-parasite-reveals-enzyme-weak.html",
+      "published_utc": "2026-07-21T19:20:13+00:00",
+      "score": 2,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/sleeping-sickness-para.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "As Supreme Court decisions grow sharper, new study examines justices' calculated concessions",
+      "summary": "Recent U.S. Supreme Court terms have seen justices openly accuse one another of rewriting statutes, ignoring precedent and substituting policy preferences for law. Whether in disputes over presidential immunity, administrative power, nationwide injunctions or transgender rights, justices have demonstrated that they aren't afraid to challenge one another's reasoning.",
+      "link": "https://phys.org/news/2026-07-supreme-court-decisions-sharper-justices.html",
+      "published_utc": "2026-07-21T19:20:11+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/us-supreme-court.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Understudied dogs may reshape what science knows about canine behavior",
+      "summary": "Dogs are humans' best friends in many places across the globe. But does a dog in New York City respond in the same way as a dog in Kyoto or Buenos Aires?",
+      "link": "https://phys.org/news/2026-07-understudied-dogs-reshape-science-canine.html",
+      "published_utc": "2026-07-21T19:10:03+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/dog.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Extreme precipitation in Central Asia connected to drought in mainland Southeast Asia",
+      "summary": "In much of Asia, the effects of climate change are felt through an increased frequency of extreme weather events, especially water-related ones. Droughts are becoming more common in mainland Southeast Asia, while periods with unusually large amounts of rainfall are increasing in Central Asia. Rice University's Na Wang and Sylvia Dee were interested in understanding whether these two extremes were related, despite being geographically distant. The researchers' findings were recently published in Nature Geoscience.",
+      "link": "https://phys.org/news/2026-07-extreme-precipitation-central-asia-drought.html",
+      "published_utc": "2026-07-21T19:10:01+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/central-asia-rain.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Fragmented system hampering UK response to economic crime, researchers find",
+      "summary": "A new study from The University of Manchester has offered the most comprehensive look to date at how the U.K. coordinates its response to economic crime, identifying the structural challenges that make this difficult to do well. The study examines the tensions that make these challenges resistant to easy resolution and the enabling conditions needed for multi-agency collaboration to work more effectively.",
+      "link": "https://phys.org/news/2026-07-fragmented-hampering-uk-response-economic.html",
+      "published_utc": "2026-07-21T19:00:08+00:00",
+      "score": 4,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/police-tape-uk.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Vapor-controlled supramolecules can switch color, glow and phase",
+      "summary": "Controlling interactions between molecules and their functions from the molecular level to the macroscopic scale is challenging in supramolecular and materials chemistry. To this end, a research team led by associate professor Yosuke Tani from WPI-ITbM at Nagoya University and Keisuke Wada from Kyoto University designed a vapor-controlled, reversible host–guest chemistry system that controls the optical and physical properties of a functional molecular liquid (FML)—nonvolatile fluids that can feature optical, electronic and catalytic properties.",
+      "link": "https://phys.org/news/2026-07-vapor-supramolecules-phase.html",
+      "published_utc": "2026-07-21T19:00:03+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/chemists-control-supra.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Study finds river sand mining is outstripping nature's supply",
+      "summary": "The sand used to build cities, roads and other infrastructure is being removed from many rivers faster than nature can replace it, according to a global review led by researchers from Nanyang Technological University, Singapore (NTU Singapore).",
+      "link": "https://phys.org/news/2026-07-river-sand-outstripping-nature.html",
+      "published_utc": "2026-07-21T18:40:08+00:00",
+      "score": 2,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ntu-singapore-study-fi.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "New radio-burst method helps locate universe's missing ordinary matter",
+      "summary": "Stars and galaxies make up much of the universe's ordinary, observable matter. But for decades, scientists have wrestled with a cosmic conflict: There should be much more.",
+      "link": "https://phys.org/news/2026-07-radio-method-universe-ordinary.html",
+      "published_utc": "2026-07-21T18:40:03+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/diffuse-puffs-of-missi.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Researchers call for a shift in crop development to tackle hunger, malnutrition, and climate change",
+      "summary": "Feeding a growing global population is no longer enough. Scientists say the next generation of crops must also deliver better nutrition while withstanding the increasing impacts of climate change.",
+      "link": "https://phys.org/news/2026-07-shift-crop-tackle-hunger-malnutrition.html",
+      "published_utc": "2026-07-21T18:20:06+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-call-for-a-1.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Hawaiian stilt reclassified from endangered to threatened after 50 years of conservation efforts",
+      "summary": "The U.S. Fish and Wildlife Service announced the reclassification of the Aʻeo, or Hawaiian stilt (Himantopus mexicanus knudseni), from endangered to threatened under the Endangered Species Act, a rare and hopeful milestone for a native Hawaiian species. The change, published in the Federal Register alongside a species-specific 4(d) rule, reflects more than 50 years of conservation work that has brought the long-legged waterbird back from the brink. The recovery is documented in a new study led by researchers from the University of Hawaiʻi at Mānoa's College of Tropical Agriculture and Human Resilience (CTAHR) and their partners, published in Ornithological Applications.",
+      "link": "https://phys.org/news/2026-07-hawaiian-stilt-reclassified-endangered-threatened.html",
+      "published_utc": "2026-07-21T18:20:03+00:00",
+      "score": 2,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mnoa-aeo-hawaiian-stil.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "New insights into how DNA, the body's instruction manual for life, is regulated",
+      "summary": "Scientists at the Peter MacCallum Cancer Center have uncovered new insights into how cells regulate DNA methylation, a fundamental process that helps keep potentially harmful viral elements in our genome under control.",
+      "link": "https://phys.org/news/2026-07-insights-dna-body-manual-life.html",
+      "published_utc": "2026-07-21T18:10:02+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dna.jpg"
+    },
+    {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
@@ -730,18 +1078,6 @@
       "score": 1,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2021/social-media.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Frozen fiber couples light and sound 1,000 times more strongly than standard glass fibers",
-      "summary": "Researchers have developed a new type of optical fiber by freezing a glass capillary filled with liquid. It guides light and sound waves simultaneously and enables highly efficient coupling between them. The high coupling strength lowers the energy consumption of photonic neuromorphic computing schemes and quantum signal processing applications by several orders of magnitude.",
-      "link": "https://phys.org/news/2026-07-frozen-fiber-couples-strongly-standard.html",
-      "published_utc": "2026-07-21T18:00:03+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/extremely-cold-and-hig.jpg"
     },
     {
       "section": "medical",
@@ -756,18 +1092,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/imaging-shows-increase.jpg"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Study shows nutrient loss in vineyards can be attributed to factors beyond fruit harvest",
-      "summary": "New research from Washington State University could help grape growers improve nutrient use efficiency and develop a more accurate fertilizer budget, helping ensure high fruit quality, vineyard productivity and long-term economic and environmental sustainability.",
-      "link": "https://phys.org/news/2026-07-nutrient-loss-vineyards-attributed-factors.html",
-      "published_utc": "2026-07-21T17:50:01+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-shows-nutrient-l.jpg"
-    },
-    {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
@@ -778,30 +1102,6 @@
       "score": 2,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-best-surgery-for-p.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "New exhibition reveals 10,000 years of prehistoric life in the Trent Valley",
-      "summary": "A new exhibition at the University of Nottingham Museum is bringing the prehistoric story of the Trent Valley to life, showcasing archaeological discoveries that are transforming understanding of one of Britain's most significant river landscapes.",
-      "link": "https://phys.org/news/2026-07-reveals-years-prehistoric-life-trent.html",
-      "published_utc": "2026-07-21T17:40:07+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-exhibition-reveals.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Zoo elephant survival has improved substantially over 6 decades, international study finds",
-      "summary": "Elephants living in modern zoos are living significantly longer than they did half a century ago, according to a study published in the journal Scientific Reports. The research—led by ZSL (the Zoological Society of London) in collaboration with Species360, the University of Southern Denmark and the Max Planck Institute for Evolutionary Anthropology—finds that the life expectancy of zoo elephants has improved steadily since the 1960s.",
-      "link": "https://phys.org/news/2026-07-zoo-elephant-survival-substantially-decades.html",
-      "published_utc": "2026-07-21T17:40:04+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/elephant-zoo.jpg"
     },
     {
       "section": "medical",
@@ -828,18 +1128,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/gene-therapy-1.jpg"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Antarctic 12-m Terahertz Telescope project to uncover hidden galaxy formation",
-      "summary": "A new simulation study suggests that the Antarctic 12-m Terahertz Telescope (ATT12), a next-generation facility led by University of Tsukuba, could uncover between 1 and 10 million dusty star-forming galaxies throughout cosmic history.",
-      "link": "https://phys.org/news/2026-07-antarctic-terahertz-telescope-uncover-hidden.html",
-      "published_utc": "2026-07-21T17:20:02+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/galaxy.jpg"
-    },
-    {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
@@ -864,30 +1152,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/its-not-just-fat-yo-yo.jpg"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Reinventing food packaging with safe and sustainable oxygen-scavenging biodegradable plastic",
-      "summary": "From ensuring that food remains fresh longer to extending its shelf life for future consumption, food packaging plays an indispensable role in modern society. Conventional food packaging plastics are sturdy and highly effective at keeping out oxygen, one of the main drivers of food spoilage.",
-      "link": "https://phys.org/news/2026-07-reinventing-food-packaging-safe-sustainable.html",
-      "published_utc": "2026-07-21T16:54:24+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/food-packaging.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "When a SpaceX rocket crashes into the moon, scientists will be watching",
-      "summary": "On Aug. 5, 2026, an abandoned piece of space junk is predicted to crash into the moon near a spot called Einstein Crater. Astronomers will be watching because the collision and aftermath may be visible from Earth.",
-      "link": "https://phys.org/news/2026-07-spacex-rocket-moon-scientists.html",
-      "published_utc": "2026-07-21T16:50:01+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/when-a-spacex-rocket-c.jpg"
-    },
-    {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
@@ -898,18 +1162,6 @@
       "score": 1,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/mediterranean-diet-1.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "How sea anemone cells reform into an organism",
-      "summary": "Researchers at the University of Vienna have discovered a key mechanism that enables sea anemones to regenerate into fully developed organisms from disorganized clusters of cells. The study, published in Nature Communications, shows that the so-called Notch signaling pathway controls tissue organization and the formation of the body axis.",
-      "link": "https://phys.org/news/2026-07-sea-anemone-cells-reform.html",
-      "published_utc": "2026-07-21T16:40:07+00:00",
-      "score": 4,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-sea-anemone-cells.jpg"
     },
     {
       "section": "medical",
@@ -924,30 +1176,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/paediatric-emergency.jpg"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Google wants to release 16 million sterile mosquitoes: Australian tests offer a valuable lesson",
-      "summary": "In the United States, Google's, now Alphabet's, Debug initiative has asked the federal government for permission to release up to 32 million sterilized male mosquitoes in California and Florida.",
-      "link": "https://phys.org/news/2026-07-google-million-sterile-mosquitoes-australian.html",
-      "published_utc": "2026-07-21T16:40:01+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/google-wants-to-releas.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Over 10,000 traps reveal only 1 pookila in southeast Queensland survey",
-      "summary": "It's 5 a.m. when we crawl out of our tents. The catbirds are calling and the night sky is fading to dawn as we prepare to head into the wilderness. We're surrounded by the towering eucalypts of southeast Queensland in search of a small, native mouse called the pookila.",
-      "link": "https://phys.org/news/2026-07-reveal-pookila-southeast-queensland-survey.html",
-      "published_utc": "2026-07-21T16:20:05+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/we-set-10000-traps-in.jpg"
-    },
-    {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
@@ -958,18 +1186,6 @@
       "score": 0,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/doctor-smart-phone.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Jurassic sea monster was smaller than once thought, but no less formidable",
-      "summary": "For more than 25 years, Liopleurodon has been one of the world's most recognizable prehistoric marine predators. Immortalized in the BBC's landmark Walking with Dinosaurs series as a colossal 25-meter (82-foot) marine hunter, it captured the imagination of millions and became synonymous with the giant reptiles that ruled Jurassic seas.",
-      "link": "https://phys.org/news/2026-07-jurassic-sea-monster-smaller-thought.html",
-      "published_utc": "2026-07-21T16:20:01+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/jurassic-sea-monster-w.jpg"
     },
     {
       "section": "environment",
@@ -1160,6 +1376,7 @@
       "https://live.staticflickr.com/65535/55389827013_e2d5bae13a_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/55409470295_5786b390bd_b.jpg",
       "https://live.staticflickr.com/65535/55390498484_e8263bb2ca_b.jpg",
       "https://live.staticflickr.com/65535/55404758275_a1e43789b3_b.jpg",
       "https://live.staticflickr.com/65535/55395056008_31999199a3_b.jpg",
@@ -1176,14 +1393,13 @@
       "https://live.staticflickr.com/65535/55388455189_6657cd1ee3_b.jpg",
       "https://live.staticflickr.com/65535/55386583901_bf8f77188d_b.jpg",
       "https://live.staticflickr.com/65535/55397191343_313e323ecf_b.jpg",
-      "https://live.staticflickr.com/65535/55393400037_5a5af1d948_b.jpg",
-      "https://live.staticflickr.com/65535/55403471432_44e13201da_b.jpg"
+      "https://live.staticflickr.com/65535/55393400037_5a5af1d948_b.jpg"
     ],
     "cities": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/3f/NYC_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg",
       "https://live.staticflickr.com/65535/55408453527_eff21e2322_b.jpg",
       "https://live.staticflickr.com/65535/55409630885_1c0a74acd0_b.jpg",
       "https://live.staticflickr.com/65535/55409137001_50620c45ea_b.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/3/3f/NYC_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg",
       "https://live.staticflickr.com/65535/55409010855_21b0afc777_b.jpg",
       "https://live.staticflickr.com/65535/55408505646_38fa4ed1a1_b.jpg",
       "https://live.staticflickr.com/65535/55408272741_f972c1fd95_b.jpg",
@@ -1200,8 +1416,8 @@
       "https://live.staticflickr.com/65535/55404766798_103cb55e0b_z.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
+      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
