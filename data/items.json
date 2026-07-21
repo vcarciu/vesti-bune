@@ -1,114 +1,42 @@
 {
-  "generated_utc": "2026-07-21T10:13:34+00:00",
+  "generated_utc": "2026-07-21T12:18:34+00:00",
   "sections": {
     "romania": [
       {
         "section": "romania",
         "kind": "ro",
-        "source": "Start-Up Romania",
-        "title": "Business angels în Moldova: cum ajută un program la investițiile de tip angel din zonă",
-        "summary": "TechAngels România, Business Angels Europe, META Group și Moldovan Technology Transfer Network (MTTN) au lansat în coaborare ESIL Moldova, un program de doi ani, conceput pentru a dezvolta...",
-        "link": "https://start-up.ro/business-angels-in-moldova-cum-ajuta-un-program-la-investitiile-de-tip-angel-din-zona",
-        "published_utc": "2026-07-21T09:11:06+00:00",
+        "source": "Digi24",
+        "title": "Titularizare 2026: Ministerul Educației a publicat subiectele și baremele de la proba scrisă. Când se afișează rezultatele",
+        "summary": "Examenul începe la ora 9:00 și se desfășoară simultan în 117 centre de concurs din întreaga țară. Primele rezultate vor fi afișate pe 28 iulie, iar rezultatele finale vor fi publicate pe 4 august.",
+        "link": "https://www.digi24.ro/stiri/actualitate/educatie/titularizare-2026-peste-37-000-de-candidati-sustin-astazi-proba-scrisa-cand-se-afiseaza-rezultatele-3870063",
+        "published_utc": "2026-07-21T12:15:22+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://start-up.ro/img/articles/3/8/6/38691/cover-38691-src.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "Prudența devine noul consum: românii amână creditele și planurile mari",
-        "summary": "Românii sunt mai atenți la modul în care își gestionează banii și aleg să prioritizeze cheltuielile esențiale. Aproape o treime (31%) dintre românii care nu vor să ia un credit în viitorul apropiat spun că preferă să fie mai precauți și să amâne orice fel de investiții care nu sunt urgente, precum renovarea locuinței, achiziția &#8230;",
-        "link": "https://hotnews.ro/prudenta-devine-noul-consum-romanii-amana-creditele-si-planurile-mari-2305731",
-        "published_utc": "2026-07-21T08:43:42+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-dd9c3920e656847e/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "Cinci setări prin care îți protejezi telefonul, în newsletter-ul Good Tech de pe 22 iulie",
-        "summary": "Înainte, dacă îți pierdeai telefonul, cea mai mare grijă era să nu pierzi lista de contacte și câteva fotografii. Astăzi, smartphone-ul a devenit cheia către aproape toată viața noastră digitală: aplicații bancare, parole salvate, documente, fotografii etc. În ediția de mâine, 22 iulie, a newsletter ului Good Tech, vei afla cinci pași simpli prin care &#8230;",
-        "link": "https://hotnews.ro/cinci-setari-prin-care-iti-protejezi-telefonul-in-newsletter-ul-good-tech-de-pe-22-iulie-2305669",
-        "published_utc": "2026-07-21T08:04:04+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-d5c064d43591772b/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "Cel mai puternic bancher de pe Wall Street afirmă că nu ar cumpăra acțiuni sau obligațiuni americane",
-        "summary": "Jamie Dimon, directorul general al băncii de investiții JPMorgan Chase, afirmă că investitorii subestimează riscurile cu care se confruntă economia globală și că, la prețurile actuale, el nu ar cumpăra nici acțiuni, nici obligațiuni cu scadență pe termen lung emise de Trezoreria Statelor Unite, relatează CNBC. Dimon a spus într-un amplu interviu acordat jurnalistului Wilfred &#8230;",
-        "link": "https://hotnews.ro/cel-mai-puternic-bancher-de-pe-wall-street-afirma-ca-nu-ar-cumpara-actiuni-sau-obligatiuni-americane-2305631",
-        "published_utc": "2026-07-21T07:44:52+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-389ae2e7daf4db29/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "RomaniaPozitiva",
-        "title": "„Artă pentru toate simțurile” – ateliere creative gratuite pentru comunitatea sibiană, organizate de Asociația Diakoniewerk Internațional",
-        "summary": "Asociația Diakoniewerk Internațional Sibiu invită comunitatea sibiană și publicul larg să participe la o serie de ateliere creative interdisciplinare, organizate în cadrul proiectului „Artă pentru toate simțurile”, acțiune cofinanțată de&#8230; Articolul „Artă pentru toate simțurile” – ateliere creative gratuite pentru comunitatea sibiană, organizate de Asociația Diakoniewerk Internațional apare prima dată în Romania Pozitiva .",
-        "link": "https://www.romaniapozitiva.ro/cultura/arta-pentru-toate-simturile-ateliere-creative-gratuite-pentru-comunitatea-sibiana-organizate-de-asociatia-diakoniewerk-international",
-        "published_utc": "2026-07-21T07:37:03+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-fa0ef8b2b7548d56/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "RomaniaPozitiva",
-        "title": "Aukera semneaza contractul de finantare pentru a doua faza a proiectului Gura Ialomitei BESS din Romania, cu o finantare IFC de 48,5 milioane EUR",
-        "summary": "Aukera, platforma paneuropeana de stocare a energiei in baterii si energie din surse regenerabile, sustinuta de AtlasInvest, Reggeborgh si SFPIM (fondul suveran de investitii al Belgiei), anunta astazi semnarea contractului&#8230; Articolul Aukera semneaza contractul de finantare pentru a doua faza a proiectului Gura Ialomitei BESS din Romania, cu o finantare IFC de 48,5 milioane EUR apare prima dată în Romania Pozitiva .",
-        "link": "https://www.romaniapozitiva.ro/coltul-verde/aukera-semneaza-contractul-de-finantare-pentru-a-doua-faza-a-proiectului-gura-ialomitei-bess-din-romania-cu-o-finantare-ifc-de-485-milioane-eur",
-        "published_utc": "2026-07-21T07:01:16+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-fc683330ab8072b0/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "RomaniaPozitiva",
-        "title": "La aceeași masă pentru viitorul hranei. Festivalul LA PAS revine cu o nouă ediție la Timișoara",
-        "summary": "Cum arată viitorul hranei într-o lume marcată de schimbări climatice și de transformarea sistemelor alimentare? Cum răspundem provocărilor generate de accelerarea ritmului de producție, consum și viață cotidiană? Pornind de&#8230; Articolul La aceeași masă pentru viitorul hranei. Festivalul LA PAS revine cu o nouă ediție la Timișoara apare prima dată în Romania Pozitiva .",
-        "link": "https://www.romaniapozitiva.ro/banat-crisana/la-aceeasi-masa-pentru-viitorul-hranei-festivalul-la-pas-revine-cu-o-noua-editie-la-timisoara",
-        "published_utc": "2026-07-20T14:08:43+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-3a1dc78ac305a17f/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "RomaniaPozitiva",
-        "title": "BRAȘOV: Între 23 și 26 iulie 2026, publicul este invitat în Piața Sfântul Ioan și la Bastionul Țesătorilor pentru concerte de fado și percuție.",
-        "summary": "După o săptămână încheiată în ritmuri de tango, Filarmonica Brașov continuă seria evenimentelor estivale cu patru seri muzicale în aer liber. Între 23 și 26 iulie, publicul este invitat în&#8230; Articolul BRAȘOV: Între 23 și 26 iulie 2026, publicul este invitat în Piața Sfântul Ioan și la Bastionul Țesătorilor pentru concerte de fado și percuție. apare prima dată în Romania Pozitiva .",
-        "link": "https://www.romaniapozitiva.ro/cultura/brasov-intre-23-si-26-iulie-publicul-este-invitat-in-piata-sfantul-ioan-si-la-bastionul-tesatorilor-pentru-concerte-de-fado-si-percutie-filarmonica-brasov-propune-patru-concerte-in-aer-liber-saptam",
-        "published_utc": "2026-07-20T13:06:56+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-1621645e6a468542/480/320"
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNyUyRjIwJTJGMjg1OTI3NF8yODU5/Mjc0X0V4YW1lbi10aXR1bGFyaXphcmUt/MjAyNl8tRm90by1HZXR0eS1JbWFnZXMu/anBnJmhhc2g9YjhlOWU5YWQ1YzI5NDY5Nzk1ZGVjYzk0NDdjYjdmMDc=.jpg"
       },
       {
         "section": "romania",
         "kind": "ro",
         "source": "Times New Roman (Satira)",
-        "title": "😂 Simplu şi ingenios. Negoiţă îmbracă toţi copacii în beton ca să nu-i mai dărâme vântul",
-        "summary": "Pe măsură ce fenomenele meteo extreme se înmulţesc, primarii de sector se grăbesc să găsească soluţii la problema copacilor răsturnaţi de vânt! Edilul Sectorului 3, Ronald Negoiţă, a ieşit astăzi într-o conferinţă de presă pentru a anunţa decizia radicală pe care a luat-o aseară, în timp ce se uita la meci cu prietenii. Pe scurt, [&#8230;] The post Simplu şi ingenios. Negoiţă îmbracă toţi copacii în beton ca să nu-i mai dărâme vântul appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/politic/simplu-si-ingenios-negoita-imbraca-toti-copacii-in-beton-ca-sa-nu-i-mai-darame-vantul",
-        "published_utc": "2026-07-20T06:46:02+00:00",
+        "title": "😂 Sportul renaşte! Naţionala de cocalari a României s-a calificat la Insula Mondială a Iubirii din 2028",
+        "summary": "Chiar dacă steaua fotbalistică a ţării noastre a apus, sunt alte domenii în care strălucim! Echipa naţională de cocalari şi başoalde a României tocmai s-a calificat matematic la Insula Mondială a Iubirii 2028, după ce s-a impus în faţa gherţoilor şi matracucilor din Macedonia de Nord cu scorul categoric de 69 la 43. &#8222;Hăhă, 69. [&#8230;] The post Sportul renaşte! Naţionala de cocalari a României s-a calificat la Insula Mondială a Iubirii din 2028 appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/monden/sportul-renaste-nationala-de-cocalari-a-romaniei-s-a-calificat-la-insula-mondiala-a-iubirii-din-2028",
+        "published_utc": "2026-07-21T07:39:44+00:00",
         "score": 3,
-        "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/07/negoitacopacibeton.jpg"
+        "freshness_boost": 3,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/07/insulaiubirii2028.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 Elev cu 10 pe linie, admirat de colegii de generaţie: „A tras 10 linii şi încă e în picioare? Wow!”",
+        "summary": "Deşi nimeni nu prea l-a băgat în seamă în cei patru ani de liceu, tânărul Aureliu Poplică din Brăila s-a trezit brusc vedeta generaţiei sale! Vestea că acesta a terminat liceul cu 10 pe linie &#8211; şi a mai luat şi 10 pe linie la BAC &#8211; s-a răspândit ca focul, iar mulţi foşti colegi [&#8230;] The post Elev cu 10 pe linie, admirat de colegii de generaţie: &#8222;A tras 10 linii şi încă e în picioare? Wow!&#8221; appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/life-death/elev-cu-10-pe-linie-admirat-de-colegii-de-generatie-a-tras-10-linii-si-inca-e-in-picioare-wow",
+        "published_utc": "2026-07-21T06:52:33+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/07/tocilaruclasei.jpg"
       },
       {
         "section": "romania",
@@ -121,102 +49,6 @@
         "score": 3,
         "freshness_boost": 1,
         "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/07/masina-de-spalat-pe-gpl.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 Spectacolul revine la TV. Microbiștii vor vedea cum FCSB face 0-0 cu Cshikalakacshikicha M. Ciuc pe o tarla",
-        "summary": "Mai sunt câteva ore și plicticosul campionat mondial de fotbal din America se încheie, lăsând loc adevăratului spectacol fotbalistic, Superliga românească la fotbal. Acum microbiștii vor putea vedea adevăratul fotbal dus pe viață și pe moarte, între echipe cu tradiție pe bătrânul continent, cum ar fi FCSB, Voluntari sau Csikalakacsikicha Miercurea Ciuc. Adio stadioanelor sterile [&#8230;] The post Spectacolul revine la TV. Microbiștii vor vedea cum FCSB face 0-0 cu Cshikalakacshikicha M. Ciuc pe o tarla appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/sport/spectacolul-revine-la-tv-microbistii-vor-vedea-cum-fcsb-face-0-0-cu-cshikalakacshikicha-m-ciuc-pe-o-tarla",
-        "published_utc": "2026-07-19T07:09:57+00:00",
-        "score": 3,
-        "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/07/steaua-miercurea-ciuc.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Teach for Romania",
-        "title": "Schimbarea educației din România de jos în sus, prin pregătirea generației a 13-a de profesori-soluție pentru școli din mediul rural.",
-        "summary": "București, 17 iulie 2026 – Teach for Romania a dat startul Academiei de Leadership și Formare în Educație, programul intensiv prin care pregătește cea de-a 13-a generație de viitori lideri în educație – directori, profesori, învățători și educatori, care să predea, începând cu anul școlar 2026-2027, și să transforme educația de la firul ierbii, în [&#8230;]",
-        "link": "https://teachforromania.org/schimbarea-educatiei-din-romania-de-jos-in-sus",
-        "published_utc": "2026-07-17T07:48:59+00:00",
-        "score": 3,
-        "freshness_boost": 0,
-        "image": "https://picsum.photos/seed/vb-e1bbe11509aecd85/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "World Vision Romania",
-        "title": "Aproape 100.000 de copii învață în clase simultane. World Vision România propune o soluție națională pentru profesorii care predau mai multor clase în aceeași oră.",
-        "summary": "București, 16 iulie. Aproape 100.000 de elevi din România învață în clase organizate în regim simultan, majoritatea în mediul rural,... Articolul Aproape 100.000 de copii învață în clase simultane. World Vision România propune o soluție națională pentru profesorii care predau mai multor clase în aceeași oră. apare prima dată în World Vision România .",
-        "link": "https://worldvision.ro/2026/07/16/aproape-100-000-de-copii-invata-in-clase-simultane",
-        "published_utc": "2026-07-16T12:07:19+00:00",
-        "score": 3,
-        "freshness_boost": 0,
-        "image": "https://picsum.photos/seed/vb-1f843baf2f3a4c1b/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Start-Up Romania",
-        "title": "ANIS lansează un asistent AI care explică pe înțelesul tuturor cum poate inovația să adauge până la 16 miliarde de euro anual economiei României",
-        "summary": "ANIS a lansat ANIS.Innovation.AI, un asistent conversațional bazat pe inteligență artificială care transformă în răspunsuri ușor de înțeles concluziile celor mai recente studii despre inovația din...",
-        "link": "https://start-up.ro/anis-lanseaza-un-asistent-ai-care-explica-pe-intelesul-tuturor-cum-poate-inovatia-sa-adauge-pana-la-16-miliarde-de-euro-anual-economiei-romaniei",
-        "published_utc": "2026-07-16T09:25:04+00:00",
-        "score": 3,
-        "freshness_boost": 0,
-        "image": "https://start-up.ro/img/articles/3/8/6/38676/cover-38676-src.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Fundatia Inocenti",
-        "title": "Inocenți, locul în care curajul crește pas cu pas",
-        "summary": "Descoperă povestea Alinei și cum sprijinul oferit de Fundația Inocenți a ajutat-o să își dezvolte încrederea în sine, abilitățile școlare și curajul de a reuși. The post Inocenți, locul în care curajul crește pas cu pas appeared first on Fundația Inocenți .",
-        "link": "https://inocenti.ro/inocenti-locul-in-care-curajul-creste-pas-cu-pas",
-        "published_utc": "2026-07-10T10:30:22+00:00",
-        "score": 3,
-        "freshness_boost": 0,
-        "image": "https://picsum.photos/seed/vb-9017d5ebea453c95/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "World Vision Romania",
-        "title": "Evaluarea Națională 2026: Tranziția către liceu, punctul critic al abandonului școlar. World Vision România propune un plan de intervenție",
-        "summary": "București, 1 iulie. Rezultatele Evaluării Naționale 2026 reconfirmă decalajele profunde dintre copiii din mediul rural și cei din mediul urban... Articolul Evaluarea Națională 2026: Tranziția către liceu, punctul critic al abandonului școlar. World Vision România propune un plan de intervenție apare prima dată în World Vision România .",
-        "link": "https://worldvision.ro/2026/07/02/evaluarea-nationala-2026-tranzitia-catre-liceu-punctul-critic-al-abandonului-scolar-world-vision-romania-propune-un-plan-de-interventie",
-        "published_utc": "2026-07-02T10:13:59+00:00",
-        "score": 3,
-        "freshness_boost": 0,
-        "image": "https://picsum.photos/seed/vb-b7a460ba8d5828f2/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "SOS Satele Copiilor Romania",
-        "title": "Părinte Social",
-        "summary": "Părinte Social (Mamă SOS) – București și Cisnădie, Sibiu Transformă un loc de muncă într-o misiune de viață La SOS Satele Copiilor România, credem că fiecare copil are dreptul să... The post Părinte Social appeared first on SOS Satele Copiilor România .",
-        "link": "https://www.sos-satelecopiilor.ro/parinte-social",
-        "published_utc": "2026-06-15T12:56:50+00:00",
-        "score": 3,
-        "freshness_boost": 0,
-        "image": "https://picsum.photos/seed/vb-5c5602f10ee5770c/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "SOS Satele Copiilor Romania",
-        "title": "Psiholog",
-        "summary": "Locație: Bacău &#124; Nivel carieră: Experiență de minimum 1 an Candidatul Ideal: Ești tu vocea de care au nevoie? Un copil are nevoie de iubire, siguranță și încredere pentru a... The post Psiholog appeared first on SOS Satele Copiilor România .",
-        "link": "https://www.sos-satelecopiilor.ro/psiholog-3",
-        "published_utc": "2026-06-15T09:49:19+00:00",
-        "score": 3,
-        "freshness_boost": 0,
-        "image": "https://picsum.photos/seed/vb-62290e058a5ec56d/480/320"
       }
     ],
     "medical": [
@@ -530,110 +362,14 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Start-Up Romania",
-      "title": "Business angels în Moldova: cum ajută un program la investițiile de tip angel din zonă",
-      "summary": "TechAngels România, Business Angels Europe, META Group și Moldovan Technology Transfer Network (MTTN) au lansat în coaborare ESIL Moldova, un program de doi ani, conceput pentru a dezvolta...",
-      "link": "https://start-up.ro/business-angels-in-moldova-cum-ajuta-un-program-la-investitiile-de-tip-angel-din-zona",
-      "published_utc": "2026-07-21T09:11:06+00:00",
+      "source": "Digi24",
+      "title": "Titularizare 2026: Ministerul Educației a publicat subiectele și baremele de la proba scrisă. Când se afișează rezultatele",
+      "summary": "Examenul începe la ora 9:00 și se desfășoară simultan în 117 centre de concurs din întreaga țară. Primele rezultate vor fi afișate pe 28 iulie, iar rezultatele finale vor fi publicate pe 4 august.",
+      "link": "https://www.digi24.ro/stiri/actualitate/educatie/titularizare-2026-peste-37-000-de-candidati-sustin-astazi-proba-scrisa-cand-se-afiseaza-rezultatele-3870063",
+      "published_utc": "2026-07-21T12:15:22+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://start-up.ro/img/articles/3/8/6/38691/cover-38691-src.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Simplu şi ingenios. Negoiţă îmbracă toţi copacii în beton ca să nu-i mai dărâme vântul",
-      "summary": "Pe măsură ce fenomenele meteo extreme se înmulţesc, primarii de sector se grăbesc să găsească soluţii la problema copacilor răsturnaţi de vânt! Edilul Sectorului 3, Ronald Negoiţă, a ieşit astăzi într-o conferinţă de presă pentru a anunţa decizia radicală pe care a luat-o aseară, în timp ce se uita la meci cu prietenii. Pe scurt, [&#8230;] The post Simplu şi ingenios. Negoiţă îmbracă toţi copacii în beton ca să nu-i mai dărâme vântul appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/politic/simplu-si-ingenios-negoita-imbraca-toti-copacii-in-beton-ca-sa-nu-i-mai-darame-vantul",
-      "published_utc": "2026-07-20T06:46:02+00:00",
-      "score": 3,
-      "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/07/negoitacopacibeton.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "HotNews",
-      "title": "Prudența devine noul consum: românii amână creditele și planurile mari",
-      "summary": "Românii sunt mai atenți la modul în care își gestionează banii și aleg să prioritizeze cheltuielile esențiale. Aproape o treime (31%) dintre românii care nu vor să ia un credit în viitorul apropiat spun că preferă să fie mai precauți și să amâne orice fel de investiții care nu sunt urgente, precum renovarea locuinței, achiziția &#8230;",
-      "link": "https://hotnews.ro/prudenta-devine-noul-consum-romanii-amana-creditele-si-planurile-mari-2305731",
-      "published_utc": "2026-07-21T08:43:42+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-dd9c3920e656847e/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "HotNews",
-      "title": "Cel mai puternic bancher de pe Wall Street afirmă că nu ar cumpăra acțiuni sau obligațiuni americane",
-      "summary": "Jamie Dimon, directorul general al băncii de investiții JPMorgan Chase, afirmă că investitorii subestimează riscurile cu care se confruntă economia globală și că, la prețurile actuale, el nu ar cumpăra nici acțiuni, nici obligațiuni cu scadență pe termen lung emise de Trezoreria Statelor Unite, relatează CNBC. Dimon a spus într-un amplu interviu acordat jurnalistului Wilfred &#8230;",
-      "link": "https://hotnews.ro/cel-mai-puternic-bancher-de-pe-wall-street-afirma-ca-nu-ar-cumpara-actiuni-sau-obligatiuni-americane-2305631",
-      "published_utc": "2026-07-21T07:44:52+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-389ae2e7daf4db29/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "HotNews",
-      "title": "Cinci setări prin care îți protejezi telefonul, în newsletter-ul Good Tech de pe 22 iulie",
-      "summary": "Înainte, dacă îți pierdeai telefonul, cea mai mare grijă era să nu pierzi lista de contacte și câteva fotografii. Astăzi, smartphone-ul a devenit cheia către aproape toată viața noastră digitală: aplicații bancare, parole salvate, documente, fotografii etc. În ediția de mâine, 22 iulie, a newsletter ului Good Tech, vei afla cinci pași simpli prin care &#8230;",
-      "link": "https://hotnews.ro/cinci-setari-prin-care-iti-protejezi-telefonul-in-newsletter-ul-good-tech-de-pe-22-iulie-2305669",
-      "published_utc": "2026-07-21T08:04:04+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-d5c064d43591772b/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "„Artă pentru toate simțurile” – ateliere creative gratuite pentru comunitatea sibiană, organizate de Asociația Diakoniewerk Internațional",
-      "summary": "Asociația Diakoniewerk Internațional Sibiu invită comunitatea sibiană și publicul larg să participe la o serie de ateliere creative interdisciplinare, organizate în cadrul proiectului „Artă pentru toate simțurile”, acțiune cofinanțată de&#8230; Articolul „Artă pentru toate simțurile” – ateliere creative gratuite pentru comunitatea sibiană, organizate de Asociația Diakoniewerk Internațional apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/cultura/arta-pentru-toate-simturile-ateliere-creative-gratuite-pentru-comunitatea-sibiana-organizate-de-asociatia-diakoniewerk-international",
-      "published_utc": "2026-07-21T07:37:03+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-fa0ef8b2b7548d56/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "Aukera semneaza contractul de finantare pentru a doua faza a proiectului Gura Ialomitei BESS din Romania, cu o finantare IFC de 48,5 milioane EUR",
-      "summary": "Aukera, platforma paneuropeana de stocare a energiei in baterii si energie din surse regenerabile, sustinuta de AtlasInvest, Reggeborgh si SFPIM (fondul suveran de investitii al Belgiei), anunta astazi semnarea contractului&#8230; Articolul Aukera semneaza contractul de finantare pentru a doua faza a proiectului Gura Ialomitei BESS din Romania, cu o finantare IFC de 48,5 milioane EUR apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/coltul-verde/aukera-semneaza-contractul-de-finantare-pentru-a-doua-faza-a-proiectului-gura-ialomitei-bess-din-romania-cu-o-finantare-ifc-de-485-milioane-eur",
-      "published_utc": "2026-07-21T07:01:16+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-fc683330ab8072b0/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "La aceeași masă pentru viitorul hranei. Festivalul LA PAS revine cu o nouă ediție la Timișoara",
-      "summary": "Cum arată viitorul hranei într-o lume marcată de schimbări climatice și de transformarea sistemelor alimentare? Cum răspundem provocărilor generate de accelerarea ritmului de producție, consum și viață cotidiană? Pornind de&#8230; Articolul La aceeași masă pentru viitorul hranei. Festivalul LA PAS revine cu o nouă ediție la Timișoara apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/banat-crisana/la-aceeasi-masa-pentru-viitorul-hranei-festivalul-la-pas-revine-cu-o-noua-editie-la-timisoara",
-      "published_utc": "2026-07-20T14:08:43+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-3a1dc78ac305a17f/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "BRAȘOV: Între 23 și 26 iulie 2026, publicul este invitat în Piața Sfântul Ioan și la Bastionul Țesătorilor pentru concerte de fado și percuție.",
-      "summary": "După o săptămână încheiată în ritmuri de tango, Filarmonica Brașov continuă seria evenimentelor estivale cu patru seri muzicale în aer liber. Între 23 și 26 iulie, publicul este invitat în&#8230; Articolul BRAȘOV: Între 23 și 26 iulie 2026, publicul este invitat în Piața Sfântul Ioan și la Bastionul Țesătorilor pentru concerte de fado și percuție. apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/cultura/brasov-intre-23-si-26-iulie-publicul-este-invitat-in-piata-sfantul-ioan-si-la-bastionul-tesatorilor-pentru-concerte-de-fado-si-percutie-filarmonica-brasov-propune-patru-concerte-in-aer-liber-saptam",
-      "published_utc": "2026-07-20T13:06:56+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-1621645e6a468542/480/320"
+      "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNyUyRjIwJTJGMjg1OTI3NF8yODU5/Mjc0X0V4YW1lbi10aXR1bGFyaXphcmUt/MjAyNl8tRm90by1HZXR0eS1JbWFnZXMu/anBnJmhhc2g9YjhlOWU5YWQ1YzI5NDY5Nzk1ZGVjYzk0NDdjYjdmMDc=.jpg"
     },
     {
       "section": "romania",
@@ -651,73 +387,13 @@
       "section": "romania",
       "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 Spectacolul revine la TV. Microbiștii vor vedea cum FCSB face 0-0 cu Cshikalakacshikicha M. Ciuc pe o tarla",
-      "summary": "Mai sunt câteva ore și plicticosul campionat mondial de fotbal din America se încheie, lăsând loc adevăratului spectacol fotbalistic, Superliga românească la fotbal. Acum microbiștii vor putea vedea adevăratul fotbal dus pe viață și pe moarte, între echipe cu tradiție pe bătrânul continent, cum ar fi FCSB, Voluntari sau Csikalakacsikicha Miercurea Ciuc. Adio stadioanelor sterile [&#8230;] The post Spectacolul revine la TV. Microbiștii vor vedea cum FCSB face 0-0 cu Cshikalakacshikicha M. Ciuc pe o tarla appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/sport/spectacolul-revine-la-tv-microbistii-vor-vedea-cum-fcsb-face-0-0-cu-cshikalakacshikicha-m-ciuc-pe-o-tarla",
-      "published_utc": "2026-07-19T07:09:57+00:00",
+      "title": "😂 Sportul renaşte! Naţionala de cocalari a României s-a calificat la Insula Mondială a Iubirii din 2028",
+      "summary": "Chiar dacă steaua fotbalistică a ţării noastre a apus, sunt alte domenii în care strălucim! Echipa naţională de cocalari şi başoalde a României tocmai s-a calificat matematic la Insula Mondială a Iubirii 2028, după ce s-a impus în faţa gherţoilor şi matracucilor din Macedonia de Nord cu scorul categoric de 69 la 43. &#8222;Hăhă, 69. [&#8230;] The post Sportul renaşte! Naţionala de cocalari a României s-a calificat la Insula Mondială a Iubirii din 2028 appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/monden/sportul-renaste-nationala-de-cocalari-a-romaniei-s-a-calificat-la-insula-mondiala-a-iubirii-din-2028",
+      "published_utc": "2026-07-21T07:39:44+00:00",
       "score": 3,
-      "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/07/steaua-miercurea-ciuc.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Teach for Romania",
-      "title": "Schimbarea educației din România de jos în sus, prin pregătirea generației a 13-a de profesori-soluție pentru școli din mediul rural.",
-      "summary": "București, 17 iulie 2026 – Teach for Romania a dat startul Academiei de Leadership și Formare în Educație, programul intensiv prin care pregătește cea de-a 13-a generație de viitori lideri în educație – directori, profesori, învățători și educatori, care să predea, începând cu anul școlar 2026-2027, și să transforme educația de la firul ierbii, în [&#8230;]",
-      "link": "https://teachforromania.org/schimbarea-educatiei-din-romania-de-jos-in-sus",
-      "published_utc": "2026-07-17T07:48:59+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-e1bbe11509aecd85/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "World Vision Romania",
-      "title": "Aproape 100.000 de copii învață în clase simultane. World Vision România propune o soluție națională pentru profesorii care predau mai multor clase în aceeași oră.",
-      "summary": "București, 16 iulie. Aproape 100.000 de elevi din România învață în clase organizate în regim simultan, majoritatea în mediul rural,... Articolul Aproape 100.000 de copii învață în clase simultane. World Vision România propune o soluție națională pentru profesorii care predau mai multor clase în aceeași oră. apare prima dată în World Vision România .",
-      "link": "https://worldvision.ro/2026/07/16/aproape-100-000-de-copii-invata-in-clase-simultane",
-      "published_utc": "2026-07-16T12:07:19+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-1f843baf2f3a4c1b/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Start-Up Romania",
-      "title": "ANIS lansează un asistent AI care explică pe înțelesul tuturor cum poate inovația să adauge până la 16 miliarde de euro anual economiei României",
-      "summary": "ANIS a lansat ANIS.Innovation.AI, un asistent conversațional bazat pe inteligență artificială care transformă în răspunsuri ușor de înțeles concluziile celor mai recente studii despre inovația din...",
-      "link": "https://start-up.ro/anis-lanseaza-un-asistent-ai-care-explica-pe-intelesul-tuturor-cum-poate-inovatia-sa-adauge-pana-la-16-miliarde-de-euro-anual-economiei-romaniei",
-      "published_utc": "2026-07-16T09:25:04+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://start-up.ro/img/articles/3/8/6/38676/cover-38676-src.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Fundatia Inocenti",
-      "title": "Inocenți, locul în care curajul crește pas cu pas",
-      "summary": "Descoperă povestea Alinei și cum sprijinul oferit de Fundația Inocenți a ajutat-o să își dezvolte încrederea în sine, abilitățile școlare și curajul de a reuși. The post Inocenți, locul în care curajul crește pas cu pas appeared first on Fundația Inocenți .",
-      "link": "https://inocenti.ro/inocenti-locul-in-care-curajul-creste-pas-cu-pas",
-      "published_utc": "2026-07-10T10:30:22+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-9017d5ebea453c95/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "World Vision Romania",
-      "title": "Evaluarea Națională 2026: Tranziția către liceu, punctul critic al abandonului școlar. World Vision România propune un plan de intervenție",
-      "summary": "București, 1 iulie. Rezultatele Evaluării Naționale 2026 reconfirmă decalajele profunde dintre copiii din mediul rural și cei din mediul urban... Articolul Evaluarea Națională 2026: Tranziția către liceu, punctul critic al abandonului școlar. World Vision România propune un plan de intervenție apare prima dată în World Vision România .",
-      "link": "https://worldvision.ro/2026/07/02/evaluarea-nationala-2026-tranzitia-catre-liceu-punctul-critic-al-abandonului-scolar-world-vision-romania-propune-un-plan-de-interventie",
-      "published_utc": "2026-07-02T10:13:59+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-b7a460ba8d5828f2/480/320"
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/07/insulaiubirii2028.jpg"
     },
     {
       "section": "science",
@@ -730,30 +406,6 @@
       "score": 0,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/two-wives.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "SOS Satele Copiilor Romania",
-      "title": "Părinte Social",
-      "summary": "Părinte Social (Mamă SOS) – București și Cisnădie, Sibiu Transformă un loc de muncă într-o misiune de viață La SOS Satele Copiilor România, credem că fiecare copil are dreptul să... The post Părinte Social appeared first on SOS Satele Copiilor România .",
-      "link": "https://www.sos-satelecopiilor.ro/parinte-social",
-      "published_utc": "2026-06-15T12:56:50+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-5c5602f10ee5770c/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "SOS Satele Copiilor Romania",
-      "title": "Psiholog",
-      "summary": "Locație: Bacău &#124; Nivel carieră: Experiență de minimum 1 an Candidatul Ideal: Ești tu vocea de care au nevoie? Un copil are nevoie de iubire, siguranță și încredere pentru a... The post Psiholog appeared first on SOS Satele Copiilor România .",
-      "link": "https://www.sos-satelecopiilor.ro/psiholog-3",
-      "published_utc": "2026-06-15T09:49:19+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-62290e058a5ec56d/480/320"
     },
     {
       "section": "science",
@@ -778,6 +430,18 @@
       "score": 2,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/carbon-fiber.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Elev cu 10 pe linie, admirat de colegii de generaţie: „A tras 10 linii şi încă e în picioare? Wow!”",
+      "summary": "Deşi nimeni nu prea l-a băgat în seamă în cei patru ani de liceu, tânărul Aureliu Poplică din Brăila s-a trezit brusc vedeta generaţiei sale! Vestea că acesta a terminat liceul cu 10 pe linie &#8211; şi a mai luat şi 10 pe linie la BAC &#8211; s-a răspândit ca focul, iar mulţi foşti colegi [&#8230;] The post Elev cu 10 pe linie, admirat de colegii de generaţie: &#8222;A tras 10 linii şi încă e în picioare? Wow!&#8221; appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/life-death/elev-cu-10-pe-linie-admirat-de-colegii-de-generatie-a-tras-10-linii-si-inca-e-in-picioare-wow",
+      "published_utc": "2026-07-21T06:52:33+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/07/tocilaruclasei.jpg"
     },
     {
       "section": "science",
@@ -1046,7 +710,7 @@
   ],
   "joke_ro": {
     "date_utc": "2026-07-21",
-    "text": "Mi-am verificat contul si el mi-a verificat caracterul.",
+    "text": "Ce faci diseara? - Ma odihnesc de la cat n-am facut azi.",
     "source": "data/jokes_ro.txt"
   },
   "satire_ro": {
@@ -1059,23 +723,24 @@
       "tag": "space",
       "title": "Space",
       "link": "https://commons.wikimedia.org/wiki/Category:Astronomy",
-      "image": "https://live.staticflickr.com/65535/55407763051_ceacfbf86b_b.jpg"
+      "image": "https://live.staticflickr.com/65535/55408970843_30d5839a5b_b.jpg"
     },
     {
       "tag": "animals",
       "title": "Animals",
       "link": "https://commons.wikimedia.org/wiki/Category:Animals",
-      "image": "https://live.staticflickr.com/65535/55408044984_c114209e13_b.jpg"
+      "image": "https://live.staticflickr.com/65535/55408816436_f080deddf6_b.jpg"
     },
     {
       "tag": "landscape",
       "title": "Landscape",
       "link": "https://commons.wikimedia.org/wiki/Category:Landscapes",
-      "image": "https://live.staticflickr.com/65535/55407980891_700c923bc3_b.jpg"
+      "image": "https://live.staticflickr.com/65535/55409219935_a76ae0533e_b.jpg"
     }
   ],
   "top_image_history": {
     "space": [
+      "https://live.staticflickr.com/65535/55408970843_30d5839a5b_b.jpg",
       "https://live.staticflickr.com/65535/55407763051_ceacfbf86b_b.jpg",
       "https://live.staticflickr.com/65535/55401475872_495481ec33_b.jpg",
       "https://live.staticflickr.com/65535/55405423994_7c1a9b8015_b.jpg",
@@ -1092,10 +757,10 @@
       "https://live.staticflickr.com/65535/55392097581_2cb888c4db_b.jpg",
       "https://live.staticflickr.com/65535/55391221115_c86162fb0e_b.jpg",
       "https://live.staticflickr.com/65535/55388909722_e9ea6b2438_b.jpg",
-      "https://live.staticflickr.com/65535/55388746744_4c2fa4de37_b.jpg",
-      "https://live.staticflickr.com/65535/55387986920_5260690842_b.jpg"
+      "https://live.staticflickr.com/65535/55388746744_4c2fa4de37_b.jpg"
     ],
     "animals": [
+      "https://live.staticflickr.com/65535/55408816436_f080deddf6_b.jpg",
       "https://live.staticflickr.com/65535/55408044984_c114209e13_b.jpg",
       "https://live.staticflickr.com/65535/55406585871_83cf30df3e_b.jpg",
       "https://live.staticflickr.com/65535/55406072300_2f95e47c12_b.jpg",
@@ -1112,10 +777,10 @@
       "https://live.staticflickr.com/65535/55392903754_dd80a4c166_b.jpg",
       "https://live.staticflickr.com/65535/55391830741_27f54086de_b.jpg",
       "https://live.staticflickr.com/65535/55390775424_a82d4c2299_b.jpg",
-      "https://live.staticflickr.com/65535/55389603706_2e027201da_b.jpg",
-      "https://live.staticflickr.com/65535/55388460036_5d99b7dc9b_b.jpg"
+      "https://live.staticflickr.com/65535/55389603706_2e027201da_b.jpg"
     ],
     "landscape": [
+      "https://live.staticflickr.com/65535/55409219935_a76ae0533e_b.jpg",
       "https://live.staticflickr.com/65535/55407980891_700c923bc3_b.jpg",
       "https://live.staticflickr.com/65535/55406659168_2c2f7f49e3_b.jpg",
       "https://live.staticflickr.com/65535/55405737388_0a7125a736_b.jpg",
@@ -1132,10 +797,10 @@
       "https://live.staticflickr.com/65535/55391866882_442b16abfd_b.jpg",
       "https://live.staticflickr.com/65535/55390994512_8c4c564797_b.jpg",
       "https://live.staticflickr.com/65535/55390981180_47a7310077_b.jpg",
-      "https://live.staticflickr.com/65535/55389827013_e2d5bae13a_b.jpg",
-      "https://live.staticflickr.com/65535/55388649449_f53c51f537_b.jpg"
+      "https://live.staticflickr.com/65535/55389827013_e2d5bae13a_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/36160557701_fe187c8a62_b.jpg",
       "https://live.staticflickr.com/65535/55398340022_e121f49580_b.jpg",
       "https://live.staticflickr.com/65535/55396913525_3785d08fbc_b.jpg",
       "https://live.staticflickr.com/65535/55402936477_f823750c97_b.jpg",
@@ -1152,14 +817,13 @@
       "https://live.staticflickr.com/65535/55403471432_44e13201da_b.jpg",
       "https://live.staticflickr.com/1473/25770151566_19fd3f5a62_b.jpg",
       "https://live.staticflickr.com/65535/55387202757_f899bec5c7_b.jpg",
-      "https://live.staticflickr.com/65535/55388051886_297380b193_b.jpg",
-      "https://live.staticflickr.com/65535/55404758275_a1e43789b3_b.jpg"
+      "https://live.staticflickr.com/65535/55388051886_297380b193_b.jpg"
     ],
     "cities": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/3f/NYC_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg",
       "https://live.staticflickr.com/65535/55409010855_21b0afc777_b.jpg",
       "https://live.staticflickr.com/65535/55408505646_38fa4ed1a1_b.jpg",
       "https://live.staticflickr.com/65535/55408272741_f972c1fd95_b.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/3/3f/NYC_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg",
       "https://live.staticflickr.com/65535/55407647971_f7e8e88e24_b.jpg",
       "https://live.staticflickr.com/65535/55407870724_c591cb2f5d_b.jpg",
       "https://live.staticflickr.com/65535/55407931395_5f0af101b3_b.jpg",
@@ -1176,8 +840,8 @@
       "https://live.staticflickr.com/65535/55404105983_2e3913f6c5_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
+      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
