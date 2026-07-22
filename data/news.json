@@ -1,19 +1,7 @@
 {
-  "generated_utc": "2026-07-22T19:24:30+00:00",
+  "generated_utc": "2026-07-22T20:54:29+00:00",
   "sections": {
     "romania": [
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Cum se folosește Roma de cinema pentru a ajuta locuitorii să suporte mai ușor canicula",
-        "summary": "Roma va oferi proiecţii gratuite în 11 cinematografe dotate cu aer condiţionat ca parte din programul de combatere a caniculei prezentat miercuri de primarul Roberto Gualtieri, pe fundalul unui val de temperaturi ridicate care s-a abătut asupra Europei, informează Reuters.",
-        "link": "https://www.digi24.ro/stiri/externe/ue/cum-se-foloseste-roma-de-cinema-pentru-a-ajuta-locuitorii-sa-suporte-mai-usor-canicula-3874511",
-        "published_utc": "2026-07-22T18:24:43+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNyUyRjIyJTJGMjg2NDUwM18yODY0/NTAzX3Byb2ZpbWVkaWEtMTAxNTA2MDc2/NS5qcGcmaGFzaD1mMWJjYzQ1ZDkwMTk1MmViZmU0ZjBmY2NhZDRhMTk4OA==.jpg"
-      },
       {
         "section": "romania",
         "kind": "ro",
@@ -125,13 +113,13 @@
         "section": "romania",
         "kind": "ro",
         "source": "Times New Roman (Satira)",
-        "title": "😂 S-a aranjat pe viaţă! Hackerul care a spart Cadastrul şi-a trecut în proprietate o garsonieră la Cluj",
-        "summary": "Se pare că i-a ieşit combinaţia! Surse din zona de securitate cibernetică spun că temutul hacker care a atacat infrastructura IT a Agenţiei Naţionale de Cadastru a reuşit să îşi treacă în proprietate o locuinţă de peste 11 metri pătraţi într-o zonă destul de umană a municipiului Cluj. &#8222;Având acces la baza de date a [&#8230;] The post S-a aranjat pe viaţă! Hackerul care a spart Cadastrul şi-a trecut în proprietate o garsonieră la Cluj appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/it-stiinta/s-a-aranjat-pe-viata-hackerul-care-a-spart-cadastrul-si-a-trecut-in-proprietate-o-garsoniera-la-cluj",
-        "published_utc": "2026-07-20T07:07:46+00:00",
+        "title": "😂 Simplu şi ingenios. Negoiţă îmbracă toţi copacii în beton ca să nu-i mai dărâme vântul",
+        "summary": "Pe măsură ce fenomenele meteo extreme se înmulţesc, primarii de sector se grăbesc să găsească soluţii la problema copacilor răsturnaţi de vânt! Edilul Sectorului 3, Ronald Negoiţă, a ieşit astăzi într-o conferinţă de presă pentru a anunţa decizia radicală pe care a luat-o aseară, în timp ce se uita la meci cu prietenii. Pe scurt, [&#8230;] The post Simplu şi ingenios. Negoiţă îmbracă toţi copacii în beton ca să nu-i mai dărâme vântul appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/politic/simplu-si-ingenios-negoita-imbraca-toti-copacii-in-beton-ca-sa-nu-i-mai-darame-vantul",
+        "published_utc": "2026-07-20T06:46:02+00:00",
         "score": 3,
         "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/07/62021949d4e8a_garsoniera-11-metri-inchiriat-la-cluj.jpg"
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/07/negoitacopacibeton.jpg"
       },
       {
         "section": "romania",
@@ -357,97 +345,97 @@
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Are penalties in the US airline industry a deterrent or a 'price?'",
-        "summary": "Many people drive more carefully for a while after receiving a traffic fine. But do large corporations, such as airlines, also change their behavior when they face financial penalties? We examine this question by studying penalties imposed in the United States for lengthy tarmac delays.",
-        "link": "https://phys.org/news/2026-07-penalties-airline-industry-deterrent-price.html",
-        "published_utc": "2026-07-22T19:20:03+00:00",
+        "title": "Neural networks unlock larger quantum simulations with lower computational costs",
+        "summary": "In recent years, research using artificial intelligence to predict material properties has advanced rapidly. Neural network quantum Monte Carlo methods have attracted attention as highly accurate simulation techniques. However, their extremely high computational cost has limited their application to small molecular systems. This study introduces a new computational method that overcomes this limitation.",
+        "link": "https://phys.org/news/2026-07-neural-networks-larger-quantum-simulations.html",
+        "published_utc": "2026-07-22T20:40:07+00:00",
         "score": 1,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/airport-1.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2021/neural-network-1.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "New optical method follows single proteins as they shift shape",
-        "summary": "Researchers at the University of Twente have developed an optical method that follows the shape changes of a single protein in liquid without attaching anything to it. It reads the protein's structure from its own molecular vibrations, free from the labels or tags that other techniques rely on. The method could help researchers study how proteins respond to drugs, toxins and other biomolecules. The paper is published in the journal ACS Nano.",
-        "link": "https://phys.org/news/2026-07-optical-method-proteins-shift.html",
-        "published_utc": "2026-07-22T19:20:01+00:00",
-        "score": 2,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-optical-method-fol.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Physics-based AI could boost biomedical imaging and autonomous vehicle sensors",
-        "summary": "A research team led by UCLA and the University of Rochester has demonstrated a promising evolution of an imaging system designed to capture details within \"complex media,\" which scatter light, from depicting structures inside body tissue to seeing obstacles through heavy fog. The system uses physics-based machine learning to improve an existing imaging technique.",
-        "link": "https://phys.org/news/2026-07-physics-based-ai-boost-biomedical.html",
-        "published_utc": "2026-07-22T19:00:08+00:00",
-        "score": 2,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/biomedical-imaging-aut.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Molecular model for semiconductor surfaces developed",
-        "summary": "Semiconductor surfaces can generally be studied only with considerable experimental effort, for example, in an ultrahigh vacuum. To more easily gain new insights into their properties and the possibilities for targeted modification, scientists at Heidelberg University have developed a molecular model for the so-called \"buckled dimer\" using synthetic and computational chemistry methods.",
-        "link": "https://phys.org/news/2026-07-molecular-semiconductor-surfaces.html",
-        "published_utc": "2026-07-22T19:00:06+00:00",
+        "title": "Detecting the body's magnetic fields with a low-power Ramsey-based magnetometer",
+        "summary": "Our bodies generate extremely weak magnetic fields as electric currents flow through the heart, brain and other tissues. These signals are used in magnetocardiography and magnetoencephalography to assess heart function and brain activity, respectively. These fields can be detected at room temperature using diamond sensors containing nitrogen-vacancy (NV) centers, in which a carbon atom is replaced by a nitrogen atom adjacent to an empty lattice site.",
+        "link": "https://phys.org/news/2026-07-body-magnetic-fields-power-ramsey.html",
+        "published_utc": "2026-07-22T20:40:06+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/molecular-model-for-se.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/detecting-the-bodys-ma-1.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "More connections can deepen polarization when social ties remain weak",
-        "summary": "Social networks, intended to bring people together, can actually increase polarization, new research finds, because while the links in the network may be plentiful, they're probably weak. A research team including Cornell sociologist Michael Macy has found that while the growing number of international contacts enabled by modern communications technologies may indeed contribute to greater polarization, as shown in previous studies, the underlying mechanism does not necessarily depend on an increase in close friendships. Instead, weaker social ties appear to play a more significant role, as they are more likely to foster hierarchical structures shaped by social status.",
-        "link": "https://phys.org/news/2026-07-deepen-polarization-social-weak.html",
-        "published_utc": "2026-07-22T18:54:28+00:00",
+        "title": "Crowd reactions influence whether people receive controversial political messages positively or negatively",
+        "summary": "Positive crowd reactions like applause and laughter can make controversial political messages more acceptable to viewers, according to new research by psychologist Dr. Carl Senior at Aston University. The research suggests that how broadcasters and content creators use applause, laughter and booing can subtly shape public perceptions of populist figures and divisive issues like immigration.",
+        "link": "https://phys.org/news/2026-07-crowd-reactions-people-controversial-political.html",
+        "published_utc": "2026-07-22T20:20:05+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/social-communication-n.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/giving-a-speech.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Chemists develop a molecular platform for the selective control of oxygen reaction pathways",
-        "summary": "Controlling how oxygen reacts is important for improving technologies such as batteries, fuel cells and environmentally sustainable chemical processes. A research team led by professor Seung Jun Hwang from KAIST's Department of Chemistry has developed a molecular system capable of directing oxygen activation along a selected electron-transfer pathway.",
-        "link": "https://phys.org/news/2026-07-chemists-molecular-platform-oxygen-reaction.html",
-        "published_utc": "2026-07-22T18:40:07+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/kaist-develops-a-molec.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Dating apps like Tinder affect relationships and the economics of desire",
-        "summary": "In recent years, it has become commonplace to see people selecting potential partners with the same gestures (and enthusiasm) they use to scroll through videos on TikTok or browse products in an online store. Swipe right for interest; swipe left to move on. What once involved the drama of meeting someone—glances, hesitation, approaching, rejection, discovery—has been compressed into almost \"gamified\" interfaces. Dating apps have expanded the possibilities for meeting people, but research in social psychology indicates that more options do not always mean greater satisfaction, more stable relationships or better outcomes for all users.",
-        "link": "https://phys.org/news/2026-07-dating-apps-tinder-affect-relationships.html",
-        "published_utc": "2026-07-22T18:20:09+00:00",
+        "title": "AI and quantum chemistry combine to identify efficient blue OLED materials",
+        "summary": "Organic light-emitting diodes (OLEDs) have become a standard in modern devices with incredible contrast and sleek designs. While initially an expensive luxury, OLEDs are gradually becoming more financially accessible as the technology improves. Now, researchers at the Institute of Transformative Bio-Molecules (WPI-ITbM) at Nagoya University and the Institute for Advanced Study at Kyushu University have combined quantum chemistry with machine learning to identify new materials for blue OLEDs for incorporation in next-generation ultra-high-definition displays. Their research was published in Angewandte Chemie on July 21, 2026.",
+        "link": "https://phys.org/news/2026-07-ai-quantum-chemistry-combine-efficient.html",
+        "published_utc": "2026-07-22T20:20:01+00:00",
         "score": 4,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/dating-app.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-combine-ai.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Spread of invasive malaria mosquito from Asia to Africa traced in new genomic study",
-        "summary": "A genomic surveillance study has shed new light on how an invasive urban malaria mosquito species spread from Asia to Africa, potentially threatening public health across a rapidly urbanizing continent where malaria is mainly concentrated in rural areas.",
-        "link": "https://phys.org/news/2026-07-invasive-malaria-mosquito-asia-africa.html",
-        "published_utc": "2026-07-22T18:20:06+00:00",
+        "title": "Why river management is so crucial to protecting one of world's most important wetlands",
+        "summary": "A major new study led by Swansea University has shown that upstream river management, rather than local rainfall, is the primary driver of one of the world's most important wetlands. According to the research published in Scientific Reports, which analyzed more than two decades of satellite observations, the future of Iraq's Mesopotamian Marshes depends far more on the water flowing from the Tigris and Euphrates rivers than on rainfall.",
+        "link": "https://phys.org/news/2026-07-river-crucial-world-important-wetlands.html",
+        "published_utc": "2026-07-22T20:00:03+00:00",
+        "score": 1,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-reveal-why.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Creating the largest-ever database on floating ocean plastic using smart cameras",
+        "summary": "The first five years (2019–2024) of operations of The Ocean Cleanup's Automated Debris Imaging System (ADIS) have been reviewed, and the findings have been published in Environmental Research Communications. In addition to reviewing the technology's performance, the study covers the initial 14,500 km2 of global ocean surface scanned for plastic debris and the more than 20,000 large floating objects it helped identify.",
+        "link": "https://phys.org/news/2026-07-largest-database-ocean-plastic-smart.html",
+        "published_utc": "2026-07-22T20:00:01+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/creation-of-the-larges.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "CRISPR-Cas coordinates a layered bacterial defense network in innate immunity",
+        "summary": "All cellular life—from humans to bacteria—possesses two layers of immunity: innate and adaptive. Scientists have long understood how these two types of immunity work together in higher organisms but not in the microbial world.",
+        "link": "https://phys.org/news/2026-07-crispr-cas-layered-bacterial-defense.html",
+        "published_utc": "2026-07-22T19:40:06+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/anopheles-stephensi.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/crispr-cas-coordinates.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Q&A: Listening with light—an innovative new technology for studying the seafloor",
+        "summary": "The seafloor plays an important ecological and societal role. Understanding the processes that shape this environment will help guide conservation policy and decision-making about underwater infrastructure and geohazards.",
+        "link": "https://phys.org/news/2026-07-qa-technology-seafloor.html",
+        "published_utc": "2026-07-22T19:40:01+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/listening-with-light-r.jpg"
       }
     ],
     "environment": [
@@ -553,18 +541,6 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Digi24",
-      "title": "Cum se folosește Roma de cinema pentru a ajuta locuitorii să suporte mai ușor canicula",
-      "summary": "Roma va oferi proiecţii gratuite în 11 cinematografe dotate cu aer condiţionat ca parte din programul de combatere a caniculei prezentat miercuri de primarul Roberto Gualtieri, pe fundalul unui val de temperaturi ridicate care s-a abătut asupra Europei, informează Reuters.",
-      "link": "https://www.digi24.ro/stiri/externe/ue/cum-se-foloseste-roma-de-cinema-pentru-a-ajuta-locuitorii-sa-suporte-mai-usor-canicula-3874511",
-      "published_utc": "2026-07-22T18:24:43+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNyUyRjIyJTJGMjg2NDUwM18yODY0/NTAzX3Byb2ZpbWVkaWEtMTAxNTA2MDc2/NS5qcGcmaGFzaD1mMWJjYzQ1ZDkwMTk1MmViZmU0ZjBmY2NhZDRhMTk4OA==.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "Școala de Vară Paulina revine la Sâncel în 2026!",
       "summary": "Ne face o deosebită plăcere să vă anunțăm că visul frumos continuă și în acest an. Școala de Vară Paulina își deschide din nou porțile în satul Sâncel, județul Alba,&#8230; Articolul Școala de Vară Paulina revine la Sâncel în 2026! apare prima dată în Romania Pozitiva .",
@@ -573,18 +549,6 @@
       "score": 3,
       "freshness_boost": 3,
       "image": "https://picsum.photos/seed/vb-3e7f912f460f3ea0/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Nolan: Filmul „Odiseea”, bazat pe povestea reală a unui om care locuieşte în Rahova şi lucrează în Pipera",
-      "summary": "Regizorul şi scenaristul Christopher Nolan a confirmat aseară toate bănuielile românilor în ceea ce priveşte ultimul său blockbuster, &#8222;Odiseea&#8221;! Acesta a recunoscut că filmul e bazat pe povestea reală a lui Codruţ, un prieten al lui Nolan care locuia în Rahova şi mergea la muncă tocmai în Pipera. &#8222;Am încercat să transpunem în imagini o [&#8230;] The post Nolan: Filmul &#8222;Odiseea&#8221;, bazat pe povestea reală a unui om care locuieşte în Rahova şi lucrează în Pipera appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/nolan-filmul-odiseea-bazat-pe-povestea-reala-a-unui-om-care-locuieste-in-rahova-si-lucreaza-in-pipera",
-      "published_utc": "2026-07-22T05:20:59+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/07/odiseeanolan.jpg"
     },
     {
       "section": "romania",
@@ -626,18 +590,6 @@
       "section": "romania",
       "kind": "ro",
       "source": "RomaniaPozitiva",
-      "title": "Făgăraș Fest 2026: Valea Moașei, locul în care natura devine festival",
-      "summary": "Este pentru al treilea an, când Valea Moașei își schimbă ritmul, pentru trei zile. Râul devine loc de joacă, potecile se animă, iar poiana de la Sebeșu de Sus prinde&#8230; Articolul Făgăraș Fest 2026: Valea Moașei, locul în care natura devine festival apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/coltul-verde/fagaras-fest-2026-valea-moasei-locul-in-care-natura-devine-festival",
-      "published_utc": "2026-07-22T10:40:03+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-5b7b4a09e2ed8171/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "RomaniaPozitiva",
       "title": "MOL România a donat Serviciului Județean de Ambulanță Brașov o ambulanță complet echipată, cu incubator neonatal",
       "summary": "MOL România a donat Serviciului Județean de Ambulanță Brașov o ambulanță complet echipată, dotată inclusiv cu incubator neonatal, în valoare de 110.000 de euro, pentru a sprijini intervențiile medicale de&#8230; Articolul MOL România a donat Serviciului Județean de Ambulanță Brașov o ambulanță complet echipată, cu incubator neonatal apare prima dată în Romania Pozitiva .",
       "link": "https://www.romaniapozitiva.ro/csr/mol-romania-a-donat-serviciului-judetean-de-ambulanta-brasov-o-ambulanta-complet-echipata-cu-incubator-neonatal",
@@ -645,6 +597,18 @@
       "score": 3,
       "freshness_boost": 3,
       "image": "https://picsum.photos/seed/vb-9cf602cf2150184b/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "RomaniaPozitiva",
+      "title": "Făgăraș Fest 2026: Valea Moașei, locul în care natura devine festival",
+      "summary": "Este pentru al treilea an, când Valea Moașei își schimbă ritmul, pentru trei zile. Râul devine loc de joacă, potecile se animă, iar poiana de la Sebeșu de Sus prinde&#8230; Articolul Făgăraș Fest 2026: Valea Moașei, locul în care natura devine festival apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/coltul-verde/fagaras-fest-2026-valea-moasei-locul-in-care-natura-devine-festival",
+      "published_utc": "2026-07-22T10:40:03+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-5b7b4a09e2ed8171/480/320"
     },
     {
       "section": "romania",
@@ -662,13 +626,25 @@
       "section": "romania",
       "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 S-a aranjat pe viaţă! Hackerul care a spart Cadastrul şi-a trecut în proprietate o garsonieră la Cluj",
-      "summary": "Se pare că i-a ieşit combinaţia! Surse din zona de securitate cibernetică spun că temutul hacker care a atacat infrastructura IT a Agenţiei Naţionale de Cadastru a reuşit să îşi treacă în proprietate o locuinţă de peste 11 metri pătraţi într-o zonă destul de umană a municipiului Cluj. &#8222;Având acces la baza de date a [&#8230;] The post S-a aranjat pe viaţă! Hackerul care a spart Cadastrul şi-a trecut în proprietate o garsonieră la Cluj appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/it-stiinta/s-a-aranjat-pe-viata-hackerul-care-a-spart-cadastrul-si-a-trecut-in-proprietate-o-garsoniera-la-cluj",
-      "published_utc": "2026-07-20T07:07:46+00:00",
+      "title": "😂 Nolan: Filmul „Odiseea”, bazat pe povestea reală a unui om care locuieşte în Rahova şi lucrează în Pipera",
+      "summary": "Regizorul şi scenaristul Christopher Nolan a confirmat aseară toate bănuielile românilor în ceea ce priveşte ultimul său blockbuster, &#8222;Odiseea&#8221;! Acesta a recunoscut că filmul e bazat pe povestea reală a lui Codruţ, un prieten al lui Nolan care locuia în Rahova şi mergea la muncă tocmai în Pipera. &#8222;Am încercat să transpunem în imagini o [&#8230;] The post Nolan: Filmul &#8222;Odiseea&#8221;, bazat pe povestea reală a unui om care locuieşte în Rahova şi lucrează în Pipera appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/life-death/nolan-filmul-odiseea-bazat-pe-povestea-reala-a-unui-om-care-locuieste-in-rahova-si-lucreaza-in-pipera",
+      "published_utc": "2026-07-22T05:20:59+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/07/odiseeanolan.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Simplu şi ingenios. Negoiţă îmbracă toţi copacii în beton ca să nu-i mai dărâme vântul",
+      "summary": "Pe măsură ce fenomenele meteo extreme se înmulţesc, primarii de sector se grăbesc să găsească soluţii la problema copacilor răsturnaţi de vânt! Edilul Sectorului 3, Ronald Negoiţă, a ieşit astăzi într-o conferinţă de presă pentru a anunţa decizia radicală pe care a luat-o aseară, în timp ce se uita la meci cu prietenii. Pe scurt, [&#8230;] The post Simplu şi ingenios. Negoiţă îmbracă toţi copacii în beton ca să nu-i mai dărâme vântul appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/politic/simplu-si-ingenios-negoita-imbraca-toti-copacii-in-beton-ca-sa-nu-i-mai-darame-vantul",
+      "published_utc": "2026-07-20T06:46:02+00:00",
       "score": 3,
       "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/07/62021949d4e8a_garsoniera-11-metri-inchiriat-la-cluj.jpg"
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/07/negoitacopacibeton.jpg"
     },
     {
       "section": "romania",
@@ -742,18 +718,6 @@
       "image": "https://picsum.photos/seed/vb-b7a460ba8d5828f2/480/320"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Are penalties in the US airline industry a deterrent or a 'price?'",
-      "summary": "Many people drive more carefully for a while after receiving a traffic fine. But do large corporations, such as airlines, also change their behavior when they face financial penalties? We examine this question by studying penalties imposed in the United States for lengthy tarmac delays.",
-      "link": "https://phys.org/news/2026-07-penalties-airline-industry-deterrent-price.html",
-      "published_utc": "2026-07-22T19:20:03+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/airport-1.jpg"
-    },
-    {
       "section": "romania",
       "kind": "ro",
       "source": "World Vision Romania",
@@ -766,6 +730,18 @@
       "image": "https://picsum.photos/seed/vb-376e38d972a4a4c6/480/320"
     },
     {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Neural networks unlock larger quantum simulations with lower computational costs",
+      "summary": "In recent years, research using artificial intelligence to predict material properties has advanced rapidly. Neural network quantum Monte Carlo methods have attracted attention as highly accurate simulation techniques. However, their extremely high computational cost has limited their application to small molecular systems. This study introduces a new computational method that overcomes this limitation.",
+      "link": "https://phys.org/news/2026-07-neural-networks-larger-quantum-simulations.html",
+      "published_utc": "2026-07-22T20:40:07+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2021/neural-network-1.jpg"
+    },
+    {
       "section": "romania",
       "kind": "ro",
       "source": "SOS Satele Copiilor Romania",
@@ -776,18 +752,6 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-5c5602f10ee5770c/480/320"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "New optical method follows single proteins as they shift shape",
-      "summary": "Researchers at the University of Twente have developed an optical method that follows the shape changes of a single protein in liquid without attaching anything to it. It reads the protein's structure from its own molecular vibrations, free from the labels or tags that other techniques rely on. The method could help researchers study how proteins respond to drugs, toxins and other biomolecules. The paper is published in the journal ACS Nano.",
-      "link": "https://phys.org/news/2026-07-optical-method-proteins-shift.html",
-      "published_utc": "2026-07-22T19:20:01+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-optical-method-fol.jpg"
     },
     {
       "section": "romania",
@@ -805,73 +769,85 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Physics-based AI could boost biomedical imaging and autonomous vehicle sensors",
-      "summary": "A research team led by UCLA and the University of Rochester has demonstrated a promising evolution of an imaging system designed to capture details within \"complex media,\" which scatter light, from depicting structures inside body tissue to seeing obstacles through heavy fog. The system uses physics-based machine learning to improve an existing imaging technique.",
-      "link": "https://phys.org/news/2026-07-physics-based-ai-boost-biomedical.html",
-      "published_utc": "2026-07-22T19:00:08+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/biomedical-imaging-aut.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Molecular model for semiconductor surfaces developed",
-      "summary": "Semiconductor surfaces can generally be studied only with considerable experimental effort, for example, in an ultrahigh vacuum. To more easily gain new insights into their properties and the possibilities for targeted modification, scientists at Heidelberg University have developed a molecular model for the so-called \"buckled dimer\" using synthetic and computational chemistry methods.",
-      "link": "https://phys.org/news/2026-07-molecular-semiconductor-surfaces.html",
-      "published_utc": "2026-07-22T19:00:06+00:00",
+      "title": "Detecting the body's magnetic fields with a low-power Ramsey-based magnetometer",
+      "summary": "Our bodies generate extremely weak magnetic fields as electric currents flow through the heart, brain and other tissues. These signals are used in magnetocardiography and magnetoencephalography to assess heart function and brain activity, respectively. These fields can be detected at room temperature using diamond sensors containing nitrogen-vacancy (NV) centers, in which a carbon atom is replaced by a nitrogen atom adjacent to an empty lattice site.",
+      "link": "https://phys.org/news/2026-07-body-magnetic-fields-power-ramsey.html",
+      "published_utc": "2026-07-22T20:40:06+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/molecular-model-for-se.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/detecting-the-bodys-ma-1.jpg"
     },
     {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "More connections can deepen polarization when social ties remain weak",
-      "summary": "Social networks, intended to bring people together, can actually increase polarization, new research finds, because while the links in the network may be plentiful, they're probably weak. A research team including Cornell sociologist Michael Macy has found that while the growing number of international contacts enabled by modern communications technologies may indeed contribute to greater polarization, as shown in previous studies, the underlying mechanism does not necessarily depend on an increase in close friendships. Instead, weaker social ties appear to play a more significant role, as they are more likely to foster hierarchical structures shaped by social status.",
-      "link": "https://phys.org/news/2026-07-deepen-polarization-social-weak.html",
-      "published_utc": "2026-07-22T18:54:28+00:00",
+      "title": "Crowd reactions influence whether people receive controversial political messages positively or negatively",
+      "summary": "Positive crowd reactions like applause and laughter can make controversial political messages more acceptable to viewers, according to new research by psychologist Dr. Carl Senior at Aston University. The research suggests that how broadcasters and content creators use applause, laughter and booing can subtly shape public perceptions of populist figures and divisive issues like immigration.",
+      "link": "https://phys.org/news/2026-07-crowd-reactions-people-controversial-political.html",
+      "published_utc": "2026-07-22T20:20:05+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/social-communication-n.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/giving-a-speech.jpg"
     },
     {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Chemists develop a molecular platform for the selective control of oxygen reaction pathways",
-      "summary": "Controlling how oxygen reacts is important for improving technologies such as batteries, fuel cells and environmentally sustainable chemical processes. A research team led by professor Seung Jun Hwang from KAIST's Department of Chemistry has developed a molecular system capable of directing oxygen activation along a selected electron-transfer pathway.",
-      "link": "https://phys.org/news/2026-07-chemists-molecular-platform-oxygen-reaction.html",
-      "published_utc": "2026-07-22T18:40:07+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/kaist-develops-a-molec.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Dating apps like Tinder affect relationships and the economics of desire",
-      "summary": "In recent years, it has become commonplace to see people selecting potential partners with the same gestures (and enthusiasm) they use to scroll through videos on TikTok or browse products in an online store. Swipe right for interest; swipe left to move on. What once involved the drama of meeting someone—glances, hesitation, approaching, rejection, discovery—has been compressed into almost \"gamified\" interfaces. Dating apps have expanded the possibilities for meeting people, but research in social psychology indicates that more options do not always mean greater satisfaction, more stable relationships or better outcomes for all users.",
-      "link": "https://phys.org/news/2026-07-dating-apps-tinder-affect-relationships.html",
-      "published_utc": "2026-07-22T18:20:09+00:00",
+      "title": "AI and quantum chemistry combine to identify efficient blue OLED materials",
+      "summary": "Organic light-emitting diodes (OLEDs) have become a standard in modern devices with incredible contrast and sleek designs. While initially an expensive luxury, OLEDs are gradually becoming more financially accessible as the technology improves. Now, researchers at the Institute of Transformative Bio-Molecules (WPI-ITbM) at Nagoya University and the Institute for Advanced Study at Kyushu University have combined quantum chemistry with machine learning to identify new materials for blue OLEDs for incorporation in next-generation ultra-high-definition displays. Their research was published in Angewandte Chemie on July 21, 2026.",
+      "link": "https://phys.org/news/2026-07-ai-quantum-chemistry-combine-efficient.html",
+      "published_utc": "2026-07-22T20:20:01+00:00",
       "score": 4,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/dating-app.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-combine-ai.jpg"
     },
     {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Spread of invasive malaria mosquito from Asia to Africa traced in new genomic study",
-      "summary": "A genomic surveillance study has shed new light on how an invasive urban malaria mosquito species spread from Asia to Africa, potentially threatening public health across a rapidly urbanizing continent where malaria is mainly concentrated in rural areas.",
-      "link": "https://phys.org/news/2026-07-invasive-malaria-mosquito-asia-africa.html",
-      "published_utc": "2026-07-22T18:20:06+00:00",
+      "title": "Why river management is so crucial to protecting one of world's most important wetlands",
+      "summary": "A major new study led by Swansea University has shown that upstream river management, rather than local rainfall, is the primary driver of one of the world's most important wetlands. According to the research published in Scientific Reports, which analyzed more than two decades of satellite observations, the future of Iraq's Mesopotamian Marshes depends far more on the water flowing from the Tigris and Euphrates rivers than on rainfall.",
+      "link": "https://phys.org/news/2026-07-river-crucial-world-important-wetlands.html",
+      "published_utc": "2026-07-22T20:00:03+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-reveal-why.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Creating the largest-ever database on floating ocean plastic using smart cameras",
+      "summary": "The first five years (2019–2024) of operations of The Ocean Cleanup's Automated Debris Imaging System (ADIS) have been reviewed, and the findings have been published in Environmental Research Communications. In addition to reviewing the technology's performance, the study covers the initial 14,500 km2 of global ocean surface scanned for plastic debris and the more than 20,000 large floating objects it helped identify.",
+      "link": "https://phys.org/news/2026-07-largest-database-ocean-plastic-smart.html",
+      "published_utc": "2026-07-22T20:00:01+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/creation-of-the-larges.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "CRISPR-Cas coordinates a layered bacterial defense network in innate immunity",
+      "summary": "All cellular life—from humans to bacteria—possesses two layers of immunity: innate and adaptive. Scientists have long understood how these two types of immunity work together in higher organisms but not in the microbial world.",
+      "link": "https://phys.org/news/2026-07-crispr-cas-layered-bacterial-defense.html",
+      "published_utc": "2026-07-22T19:40:06+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/anopheles-stephensi.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/crispr-cas-coordinates.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Q&A: Listening with light—an innovative new technology for studying the seafloor",
+      "summary": "The seafloor plays an important ecological and societal role. Understanding the processes that shape this environment will help guide conservation policy and decision-making about underwater infrastructure and geohazards.",
+      "link": "https://phys.org/news/2026-07-qa-technology-seafloor.html",
+      "published_utc": "2026-07-22T19:40:01+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/listening-with-light-r.jpg"
     },
     {
       "section": "medical",
@@ -1182,6 +1158,7 @@
       "https://live.staticflickr.com/65535/55390994512_8c4c564797_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/55393280526_544e6feb7f_b.jpg",
       "https://live.staticflickr.com/65535/55394895763_8a90f401de_b.jpg",
       "https://live.staticflickr.com/7529/27310280350_77544573db_b.jpg",
       "https://live.staticflickr.com/65535/55388051886_297380b193_b.jpg",
@@ -1198,10 +1175,10 @@
       "https://live.staticflickr.com/65535/55390498484_e8263bb2ca_b.jpg",
       "https://live.staticflickr.com/65535/55404758275_a1e43789b3_b.jpg",
       "https://live.staticflickr.com/65535/55395056008_31999199a3_b.jpg",
-      "https://live.staticflickr.com/65535/36160557701_fe187c8a62_b.jpg",
-      "https://live.staticflickr.com/65535/55398340022_e121f49580_b.jpg"
+      "https://live.staticflickr.com/65535/36160557701_fe187c8a62_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55411793041_6ffe8ed087_b.jpg",
       "https://live.staticflickr.com/65535/55412179035_c89bb6a977_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/3/3f/NYC_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg",
       "https://live.staticflickr.com/65535/55410488097_30797b6205_b.jpg",
@@ -1218,12 +1195,11 @@
       "https://live.staticflickr.com/65535/55409010855_21b0afc777_b.jpg",
       "https://live.staticflickr.com/65535/55408505646_38fa4ed1a1_b.jpg",
       "https://live.staticflickr.com/65535/55408272741_f972c1fd95_b.jpg",
-      "https://live.staticflickr.com/65535/55407647971_f7e8e88e24_b.jpg",
-      "https://live.staticflickr.com/65535/55407870724_c591cb2f5d_b.jpg"
+      "https://live.staticflickr.com/65535/55407647971_f7e8e88e24_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
+      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
