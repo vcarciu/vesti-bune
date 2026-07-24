@@ -1,66 +1,30 @@
 {
-  "generated_utc": "2026-07-24T10:05:59+00:00",
+  "generated_utc": "2026-07-24T12:11:40+00:00",
   "sections": {
     "romania": [
       {
         "section": "romania",
         "kind": "ro",
-        "source": "HotNews",
-        "title": "Fondatorul Uber, finanțat din nou chiar de compania din care a fost forțat să plece. Noua sa afacere a atras 1,7 miliarde de dolari",
-        "summary": "Travis Kalanick, cofondatorul Uber și fostul director general al companiei, a atras o investiție de capital de 1,7 miliarde de dolari pentru ATOMS, noua structură prin care vrea să automatizeze industrii precum producția alimentară, mineritul și transportul greu, scrie Techcrunch.com. Citiți mai mult și comentați pe StartupCafe.ro.",
-        "link": "https://hotnews.ro/fondatorul-uber-finantat-din-nou-chiar-de-compania-din-care-a-fost-fortat-sa-plece-noua-sa-afacere-a-atras-17-miliarde-de-dolari-2308503",
-        "published_utc": "2026-07-24T09:27:59+00:00",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 Republica Moldova are un nou Guvern. Cine sunt miniștrii care vor veni să cerșească bani la București",
+        "summary": "Republica Moldova are un nou Guvern, condus de Vasile Tofan, iar România poate să înceapă să pună bani deoparte. Noul cabinet de la Chișinău a fost învestit cu promisiuni de integrare europeană, dezvoltare economică și reforme, însă adevărata prioritate ar fi fost deja stabilită: identificarea celor mai rapide rute până la București, la cerșeală de [&#8230;] The post Republica Moldova are un nou Guvern. Cine sunt miniștrii care vor veni să cerșească bani la București appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/politic/republica-moldova-are-un-nou-guvern-cine-sunt-ministrii-care-vor-veni-sa-cerseasca-bani-la-bucuresti",
+        "published_utc": "2026-07-24T12:00:00+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-b8b5752bc304f852/480/320"
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/07/cerseala_guvern_chisinau.jpg"
       },
       {
         "section": "romania",
         "kind": "ro",
-        "source": "HotNews",
-        "title": "„Să jucăm în Liga Campionilor”. Platforma românească iaBilet, vândută din nou, la opt luni după ce a fost cumpărată de un investitor polonez",
-        "summary": "Grupul baltic PLG, unul dintre cei mai mari operatori de ticketing din Europa Centrală și de Est, a semnat un acord pentru achiziționarea platformei românești de vânzare de bilete iaBilet de la fondul polonez de investiții Resource Partners, potrivit StartupCafe.ro. Tranzacția vine la aproximativ opt luni după ce Resource Partners a preluat pachetul majoritar de &#8230;",
-        "link": "https://hotnews.ro/sa-jucam-in-liga-campionilor-platforma-romaneasca-iabilet-vanduta-din-nou-la-opt-luni-dupa-ce-a-fost-cumparata-de-un-investitor-polonez-2308479",
-        "published_utc": "2026-07-24T09:16:05+00:00",
+        "source": "RomaniaPozitiva",
+        "title": "Peste 320 de elevi din comunitățile rurale care învață în clase simultane au beneficiat de o metodă inovatoare de predare",
+        "summary": "Proiectul este parte dintr-o mișcare națională menită să crească accesul la educație, muncă și cultură, susținută de Fundația Dacia pentru România: România se mișcă. În satele din Galați, Suceava, Vaslui&#8230; Articolul Peste 320 de elevi din comunitățile rurale care învață în clase simultane au beneficiat de o metodă inovatoare de predare apare prima dată în Romania Pozitiva .",
+        "link": "https://www.romaniapozitiva.ro/csr/peste-320-de-elevi-din-comunitatile-rurale-care-invata-in-clase-simultane-au-beneficiat-de-o-metoda-inovatoare-de-predare",
+        "published_utc": "2026-07-24T10:56:10+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-415f25b30337f5dd/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Start-Up Romania",
-        "title": "PLG semnează acordul pentru achiziția iaBilet | exit pentru investitorul anunțat acum opt luni și o mișcare strategică în care fondatorii rămân în grup",
-        "summary": "Grupul PLG, unul dintre jucătorii din industria de ticketing din regiunea Baltică și Europa Centrală, a semnat un acord pentru achiziția iaBilet, una dintre platformele de ticketing din România....",
-        "link": "https://start-up.ro/plg-semneaza-acordul-pentru-achizitia-iabilet-exit-pentru-investitorul-anuntat-acum-opt-luni-si-o-miscare-strategica-in-care-fondatorii-raman-in-grup",
-        "published_utc": "2026-07-24T08:45:44+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://start-up.ro/img/articles/3/8/7/38707/cover-38707-src.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Orașul din România unde un bilet de autobuz și tramvai va costa 1 leu şi va fi valabil 24 de ore. Vinerea, transportul e gratuit",
-        "summary": "Compania de Transport Public (CTP) Arad a finalizat pregătirile tehnice pentru introducerea celui mai ieftin transport cu tramvaie şi autobuze din ţară, de la 1 august, de când un bilet de călătorie va costa 1 leu şi va fi valabil 24 de ore, faţă de 4,5 lei şi valabil 90 de minute în prezent.",
-        "link": "https://www.digi24.ro/stiri/actualitate/social/orasul-din-romania-unde-un-bilet-de-autobuz-si-tramvai-va-costa-1-leu-si-va-fi-valabil-24-de-ore-vinerea-transportul-e-gratuit-3876741",
-        "published_utc": "2026-07-24T08:14:08+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMSUyRjE5JTJGMjU0ODk0NF8yNTQ4/OTQ0X2F1dG9idXplLWFyYWQuanBnJmhh/c2g9ZjM2ZjljMzY3YjQwNTE2ZGU1ZjIxOWFiOWQ5ZWUyMjE=.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "Orașul din România unde o călătorie cu tramvaiul și autobuzul va fi un leu. O zi pe săptămână transportul e gratuit",
-        "summary": "Începând cu prima zi a lunii viitoare, cea mai ieftină călătorie cu transportul în comun va fi în Arad. Compania de Transport Public (CTP) Arad a finalizat pregătirile tehnice pentru introducerea celui mai ieftin transport cu tramvaie și autobuze din țară, de la 1 august, de când un bilet de călătorie va costa considerabil mai &#8230;",
-        "link": "https://hotnews.ro/orasul-din-romania-unde-o-calatorie-cu-tramvaiul-si-autobuzul-va-fi-un-leu-o-zi-pe-saptamana-transportul-e-gratuit-2308325",
-        "published_utc": "2026-07-24T07:55:15+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-ebfc37034703e46e/480/320"
+        "image": "https://picsum.photos/seed/vb-80383357213d95ea/480/320"
       },
       {
         "section": "romania",
@@ -161,62 +125,38 @@
       {
         "section": "romania",
         "kind": "ro",
-        "source": "RomaniaPozitiva",
-        "title": "Timișoara: Investiții la Spitalul Clinic de Urgenta pentru Copii “Louis Turcanu” pentru creșterea capacității și dotarea infrastructurii spitalicești dedicate îngrijirii pacientului critic neonatal",
-        "summary": "Spitalul Clinic de Urgenta pentru Copii “Louis Turcanu” Timișoara anunță finalizarea proiectului cu titlul: “Șansa la viață prin creșterea capacității și dotarea infrastructurii spitalicești dedicate îngrijirii pacientului critic neonatal la&#8230; Articolul Timișoara: Investiții la Spitalul Clinic de Urgenta pentru Copii “Louis Turcanu” pentru creșterea capacității și dotarea infrastructurii spitalicești dedicate îngrijirii pacientului critic neonatal apare prima dată în Romania Pozitiva .",
-        "link": "https://www.romaniapozitiva.ro/administratie/timisoara-investitii-la-spitalul-clinic-de-urgenta-pentru-copii-louis-turcanu-pentru-cresterea-capacitatii-si-dotarea-infrastructurii-spitalicesti-dedicate-ingrijirii-pacientului-cr",
-        "published_utc": "2026-07-23T13:45:54+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-b14190b495057937/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 S-a molipsit? De când s-a pupat cu un urmărit internaţional, Ciolacu dă şi el semne de urmărire internaţională",
-        "summary": "Doamne fereşte să nu ne trezim pe cap cu încă o pandemie! Prietenii sunt îngrijoraţi pentru fostul şef PSD, Marcel Ciolacu, după ce acesta s-a întâlnit în Italia cu colegul său Ionel Arsene, deşi acesta din urmă era urmărit internaţional. Câteva zile mai târziu, Ciolacu a început să dea şi el semne de urmărire internaţională, [&#8230;] The post S-a molipsit? De când s-a pupat cu un urmărit internaţional, Ciolacu dă şi el semne de urmărire internaţională appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/politic/s-a-molipsit-de-cand-s-a-pupat-cu-un-urmarit-international-ciolacu-da-si-el-semne-de-urmarire-internationala",
-        "published_utc": "2026-07-23T11:46:26+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/07/ciolacuurmarire.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
         "source": "World Vision Romania",
         "title": "Mediu școlar mai sigur pentru copii",
-        "summary": "Școli mai sigure pentru fiecare copil, prin educație și responsabilitate comună. Articolul Mediu școlar mai sigur pentru copii apare prima dată în World Vision România .",
+        "summary": "Asociația pentru Dezvoltare Comunitară Vaslui - Școli mai sigure pentru fiecare copil, prin educație și responsabilitate comună. Articolul Mediu școlar mai sigur pentru copii apare prima dată în World Vision România .",
         "link": "https://worldvision.ro/2026/07/23/mediu-scolar-mai-sigur-pentru-copii",
         "published_utc": "2026-07-23T11:02:54+00:00",
         "score": 3,
-        "freshness_boost": 3,
+        "freshness_boost": 1,
         "image": "https://picsum.photos/seed/vb-b4bb5fa1bacf55b9/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 Un bărbat prins în pat cu soţia vecinului dă vina pe blocajul de la Cadastru: Credeam că e casa mea!",
-        "summary": "Haosul de la Agenţia Naţională de Cadastru continuă, şi o sumedenie de români au probleme în viaţa personală din cauza asta! Printre aceştia se numără Eugeniu, un bărbat de 39 de ani din Urziceni, prins recent în patul unui vecin, unde întreţinea relaţii intime cu soţia acestuia. După ce şi-a dat seama de gafă şi [&#8230;] The post Un bărbat prins în pat cu soţia vecinului dă vina pe blocajul de la Cadastru: Credeam că e casa mea! appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/monden/un-barbat-prins-in-pat-cu-sotia-vecinului-da-vina-pe-blocajul-de-la-cadastru-credeam-ca-e-casa-mea",
-        "published_utc": "2026-07-23T10:29:46+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/07/prinsinpat.jpg"
       },
       {
         "section": "romania",
         "kind": "ro",
         "source": "World Vision Romania",
         "title": "„WEBTECTIVII”",
-        "summary": "Educație pentru siguranța copiilor în mediul online Articolul „WEBTECTIVII” apare prima dată în World Vision România .",
+        "summary": "Asociația The Da Vinci System (Cluj) - Educație pentru siguranța copiilor în mediul online. Articolul „WEBTECTIVII” apare prima dată în World Vision România .",
         "link": "https://worldvision.ro/2026/07/22/webtectivii",
         "published_utc": "2026-07-22T14:59:20+00:00",
         "score": 3,
         "freshness_boost": 1,
         "image": "https://picsum.photos/seed/vb-774cd68fcf2b67fb/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 Scandal la Turul Franţei: 174 de ciclişti, dărâmaţi de un cretin pe o trotinetă electrică",
+        "summary": "Celebrul Tur al Franţei a fost întrerupt şi ar putea fi anulat complet pentru că toată lumea spune că îşi bagă picioarele după incidentul de azi! Spre sfârşitul uneia dintre cele mai dificile etape, în comitatul Choucroute din Alpii francezi, pe o pantă de 7% şi într-o curbă cu vizibilitate redusă, 174 de ciclişti s-au [&#8230;] The post Scandal la Turul Franţei: 174 de ciclişti, dărâmaţi de un cretin pe o trotinetă electrică appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/sport/scandal-la-turul-frantei-174-ciclisti-daramati-de-un-cretin-pe-o-trotineta-electrica",
+        "published_utc": "2026-07-22T05:47:32+00:00",
+        "score": 3,
+        "freshness_boost": 1,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/07/trotinetatourdefrance.jpg"
       },
       {
         "section": "romania",
@@ -253,6 +193,30 @@
         "score": 3,
         "freshness_boost": 0,
         "image": "https://picsum.photos/seed/vb-1f843baf2f3a4c1b/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Green Start-Up Romania",
+        "title": "Caravana .lumen s-a încheiat: peste 900 de persoane au testat tehnologia românească pentru mobilitate independentă",
+        "summary": "Peste 900 de persoane nevăzătoare din România au testat, în ultimele aproape două luni, ochelarii inteligenți dezvoltați de startup-ul românesc .lumen, în cadrul celei mai ample caravane dedicate...",
+        "link": "https://green.start-up.ro/ro/caravana-lumen-s-a-incheiat-peste-900-de-persoane-au-testat-tehnologia-romaneasca-pentru-mobilitate-independenta",
+        "published_utc": "2026-07-14T08:27:59+00:00",
+        "score": 3,
+        "freshness_boost": 0,
+        "image": "https://green.start-up.ro/img/articles/3/5/9/35999/cover-35999-src.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Green Start-Up Romania",
+        "title": "AmpliFY ONG organizează cea mai mare ediție NGOs Night Out: networking pentru ONG-uri în 12 orașe din țară",
+        "summary": "Peste 1.000 de oameni din sectorul nonprofit, mediul de afaceri și comunitățile locale sunt așteptați să participe, pe 21 iulie, la cea mai mare ediție de până acum a NGOs Night Out, eveniment...",
+        "link": "https://green.start-up.ro/ro/amplify-ong-organizeaza-cea-mai-mare-editie-ngos-night-out-networking-pentru-ong-uri-in-12-orase-din-tara",
+        "published_utc": "2026-07-14T08:20:40+00:00",
+        "score": 3,
+        "freshness_boost": 0,
+        "image": "https://green.start-up.ro/img/articles/3/5/9/35998/cover-35998-src.jpg"
       },
       {
         "section": "romania",
@@ -663,85 +627,13 @@
       "section": "romania",
       "kind": "ro",
       "source": "RomaniaPozitiva",
-      "title": "GapMinder conduce runda de finanțare seed pentru startup-ul croat din domeniul tehnologiei medicale Lasken AI, alături de Fil Rouge Capital",
-      "summary": "Finanțarea va sprijini extinderea platformei de analiză a datelor medicale a Lasken AI Investiția încheie runda de finanțare seed a startup-ului croat din domeniul tehnologiei medicale Lasken AI, alături de&#8230; Articolul GapMinder conduce runda de finanțare seed pentru startup-ul croat din domeniul tehnologiei medicale Lasken AI, alături de Fil Rouge Capital apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/economie/gapminder-conduce-runda-de-finantare-seed-pentru-startup-ul-croat-din-domeniul-tehnologiei-medicale-lasken-ai-alaturi-de-fil-rouge-capital",
-      "published_utc": "2026-07-24T05:58:53+00:00",
+      "title": "Peste 320 de elevi din comunitățile rurale care învață în clase simultane au beneficiat de o metodă inovatoare de predare",
+      "summary": "Proiectul este parte dintr-o mișcare națională menită să crească accesul la educație, muncă și cultură, susținută de Fundația Dacia pentru România: România se mișcă. În satele din Galați, Suceava, Vaslui&#8230; Articolul Peste 320 de elevi din comunitățile rurale care învață în clase simultane au beneficiat de o metodă inovatoare de predare apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/csr/peste-320-de-elevi-din-comunitatile-rurale-care-invata-in-clase-simultane-au-beneficiat-de-o-metoda-inovatoare-de-predare",
+      "published_utc": "2026-07-24T10:56:10+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-b1147d9af7ef8aa8/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "HotNews",
-      "title": "Fondatorul Uber, finanțat din nou chiar de compania din care a fost forțat să plece. Noua sa afacere a atras 1,7 miliarde de dolari",
-      "summary": "Travis Kalanick, cofondatorul Uber și fostul director general al companiei, a atras o investiție de capital de 1,7 miliarde de dolari pentru ATOMS, noua structură prin care vrea să automatizeze industrii precum producția alimentară, mineritul și transportul greu, scrie Techcrunch.com. Citiți mai mult și comentați pe StartupCafe.ro.",
-      "link": "https://hotnews.ro/fondatorul-uber-finantat-din-nou-chiar-de-compania-din-care-a-fost-fortat-sa-plece-noua-sa-afacere-a-atras-17-miliarde-de-dolari-2308503",
-      "published_utc": "2026-07-24T09:27:59+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-b8b5752bc304f852/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "HotNews",
-      "title": "„Să jucăm în Liga Campionilor”. Platforma românească iaBilet, vândută din nou, la opt luni după ce a fost cumpărată de un investitor polonez",
-      "summary": "Grupul baltic PLG, unul dintre cei mai mari operatori de ticketing din Europa Centrală și de Est, a semnat un acord pentru achiziționarea platformei românești de vânzare de bilete iaBilet de la fondul polonez de investiții Resource Partners, potrivit StartupCafe.ro. Tranzacția vine la aproximativ opt luni după ce Resource Partners a preluat pachetul majoritar de &#8230;",
-      "link": "https://hotnews.ro/sa-jucam-in-liga-campionilor-platforma-romaneasca-iabilet-vanduta-din-nou-la-opt-luni-dupa-ce-a-fost-cumparata-de-un-investitor-polonez-2308479",
-      "published_utc": "2026-07-24T09:16:05+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-415f25b30337f5dd/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Start-Up Romania",
-      "title": "PLG semnează acordul pentru achiziția iaBilet | exit pentru investitorul anunțat acum opt luni și o mișcare strategică în care fondatorii rămân în grup",
-      "summary": "Grupul PLG, unul dintre jucătorii din industria de ticketing din regiunea Baltică și Europa Centrală, a semnat un acord pentru achiziția iaBilet, una dintre platformele de ticketing din România....",
-      "link": "https://start-up.ro/plg-semneaza-acordul-pentru-achizitia-iabilet-exit-pentru-investitorul-anuntat-acum-opt-luni-si-o-miscare-strategica-in-care-fondatorii-raman-in-grup",
-      "published_utc": "2026-07-24T08:45:44+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://start-up.ro/img/articles/3/8/7/38707/cover-38707-src.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Orașul din România unde un bilet de autobuz și tramvai va costa 1 leu şi va fi valabil 24 de ore. Vinerea, transportul e gratuit",
-      "summary": "Compania de Transport Public (CTP) Arad a finalizat pregătirile tehnice pentru introducerea celui mai ieftin transport cu tramvaie şi autobuze din ţară, de la 1 august, de când un bilet de călătorie va costa 1 leu şi va fi valabil 24 de ore, faţă de 4,5 lei şi valabil 90 de minute în prezent.",
-      "link": "https://www.digi24.ro/stiri/actualitate/social/orasul-din-romania-unde-un-bilet-de-autobuz-si-tramvai-va-costa-1-leu-si-va-fi-valabil-24-de-ore-vinerea-transportul-e-gratuit-3876741",
-      "published_utc": "2026-07-24T08:14:08+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMSUyRjE5JTJGMjU0ODk0NF8yNTQ4/OTQ0X2F1dG9idXplLWFyYWQuanBnJmhh/c2g9ZjM2ZjljMzY3YjQwNTE2ZGU1ZjIxOWFiOWQ5ZWUyMjE=.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 S-a molipsit? De când s-a pupat cu un urmărit internaţional, Ciolacu dă şi el semne de urmărire internaţională",
-      "summary": "Doamne fereşte să nu ne trezim pe cap cu încă o pandemie! Prietenii sunt îngrijoraţi pentru fostul şef PSD, Marcel Ciolacu, după ce acesta s-a întâlnit în Italia cu colegul său Ionel Arsene, deşi acesta din urmă era urmărit internaţional. Câteva zile mai târziu, Ciolacu a început să dea şi el semne de urmărire internaţională, [&#8230;] The post S-a molipsit? De când s-a pupat cu un urmărit internaţional, Ciolacu dă şi el semne de urmărire internaţională appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/politic/s-a-molipsit-de-cand-s-a-pupat-cu-un-urmarit-international-ciolacu-da-si-el-semne-de-urmarire-internationala",
-      "published_utc": "2026-07-23T11:46:26+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/07/ciolacuurmarire.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "HotNews",
-      "title": "Orașul din România unde o călătorie cu tramvaiul și autobuzul va fi un leu. O zi pe săptămână transportul e gratuit",
-      "summary": "Începând cu prima zi a lunii viitoare, cea mai ieftină călătorie cu transportul în comun va fi în Arad. Compania de Transport Public (CTP) Arad a finalizat pregătirile tehnice pentru introducerea celui mai ieftin transport cu tramvaie și autobuze din țară, de la 1 august, de când un bilet de călătorie va costa considerabil mai &#8230;",
-      "link": "https://hotnews.ro/orasul-din-romania-unde-o-calatorie-cu-tramvaiul-si-autobuzul-va-fi-un-leu-o-zi-pe-saptamana-transportul-e-gratuit-2308325",
-      "published_utc": "2026-07-24T07:55:15+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-ebfc37034703e46e/480/320"
+      "image": "https://picsum.photos/seed/vb-80383357213d95ea/480/320"
     },
     {
       "section": "romania",
@@ -766,6 +658,18 @@
       "score": 3,
       "freshness_boost": 3,
       "image": "https://picsum.photos/seed/vb-ce7c0eb320d6190f/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Republica Moldova are un nou Guvern. Cine sunt miniștrii care vor veni să cerșească bani la București",
+      "summary": "Republica Moldova are un nou Guvern, condus de Vasile Tofan, iar România poate să înceapă să pună bani deoparte. Noul cabinet de la Chișinău a fost învestit cu promisiuni de integrare europeană, dezvoltare economică și reforme, însă adevărata prioritate ar fi fost deja stabilită: identificarea celor mai rapide rute până la București, la cerșeală de [&#8230;] The post Republica Moldova are un nou Guvern. Cine sunt miniștrii care vor veni să cerșească bani la București appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/politic/republica-moldova-are-un-nou-guvern-cine-sunt-ministrii-care-vor-veni-sa-cerseasca-bani-la-bucuresti",
+      "published_utc": "2026-07-24T12:00:00+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/07/cerseala_guvern_chisinau.jpg"
     },
     {
       "section": "romania",
@@ -831,56 +735,32 @@
       "section": "romania",
       "kind": "ro",
       "source": "RomaniaPozitiva",
-      "title": "Timișoara: Investiții la Spitalul Clinic de Urgenta pentru Copii “Louis Turcanu” pentru creșterea capacității și dotarea infrastructurii spitalicești dedicate îngrijirii pacientului critic neonatal",
-      "summary": "Spitalul Clinic de Urgenta pentru Copii “Louis Turcanu” Timișoara anunță finalizarea proiectului cu titlul: “Șansa la viață prin creșterea capacității și dotarea infrastructurii spitalicești dedicate îngrijirii pacientului critic neonatal la&#8230; Articolul Timișoara: Investiții la Spitalul Clinic de Urgenta pentru Copii “Louis Turcanu” pentru creșterea capacității și dotarea infrastructurii spitalicești dedicate îngrijirii pacientului critic neonatal apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/administratie/timisoara-investitii-la-spitalul-clinic-de-urgenta-pentru-copii-louis-turcanu-pentru-cresterea-capacitatii-si-dotarea-infrastructurii-spitalicesti-dedicate-ingrijirii-pacientului-cr",
-      "published_utc": "2026-07-23T13:45:54+00:00",
+      "title": "GapMinder conduce runda de finanțare seed pentru startup-ul croat din domeniul tehnologiei medicale Lasken AI, alături de Fil Rouge Capital",
+      "summary": "Finanțarea va sprijini extinderea platformei de analiză a datelor medicale a Lasken AI Investiția încheie runda de finanțare seed a startup-ului croat din domeniul tehnologiei medicale Lasken AI, alături de&#8230; Articolul GapMinder conduce runda de finanțare seed pentru startup-ul croat din domeniul tehnologiei medicale Lasken AI, alături de Fil Rouge Capital apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/economie/gapminder-conduce-runda-de-finantare-seed-pentru-startup-ul-croat-din-domeniul-tehnologiei-medicale-lasken-ai-alaturi-de-fil-rouge-capital",
+      "published_utc": "2026-07-24T05:58:53+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-b14190b495057937/480/320"
+      "image": "https://picsum.photos/seed/vb-b1147d9af7ef8aa8/480/320"
     },
     {
       "section": "romania",
       "kind": "ro",
       "source": "World Vision Romania",
       "title": "Mediu școlar mai sigur pentru copii",
-      "summary": "Școli mai sigure pentru fiecare copil, prin educație și responsabilitate comună. Articolul Mediu școlar mai sigur pentru copii apare prima dată în World Vision România .",
+      "summary": "Asociația pentru Dezvoltare Comunitară Vaslui - Școli mai sigure pentru fiecare copil, prin educație și responsabilitate comună. Articolul Mediu școlar mai sigur pentru copii apare prima dată în World Vision România .",
       "link": "https://worldvision.ro/2026/07/23/mediu-scolar-mai-sigur-pentru-copii",
       "published_utc": "2026-07-23T11:02:54+00:00",
       "score": 3,
-      "freshness_boost": 3,
+      "freshness_boost": 1,
       "image": "https://picsum.photos/seed/vb-b4bb5fa1bacf55b9/480/320"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Chocolate syrup-like fluid stores multiple interacting memories",
-      "summary": "Animals and electronic devices aren't the only things with memory. Materials can retain memories of past deformations in their microscopic structure. A common example is a crease in a sheet of paper that has been folded then unfolded. Understanding this type of memory could benefit the design of materials that respond to changes in their environment in predictable ways.",
-      "link": "https://phys.org/news/2026-07-chocolate-syrup-fluid-multiple-interacting.html",
-      "published_utc": "2026-07-23T21:50:02+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/chocolate-syrup-like-f.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Un bărbat prins în pat cu soţia vecinului dă vina pe blocajul de la Cadastru: Credeam că e casa mea!",
-      "summary": "Haosul de la Agenţia Naţională de Cadastru continuă, şi o sumedenie de români au probleme în viaţa personală din cauza asta! Printre aceştia se numără Eugeniu, un bărbat de 39 de ani din Urziceni, prins recent în patul unui vecin, unde întreţinea relaţii intime cu soţia acestuia. După ce şi-a dat seama de gafă şi [&#8230;] The post Un bărbat prins în pat cu soţia vecinului dă vina pe blocajul de la Cadastru: Credeam că e casa mea! appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/monden/un-barbat-prins-in-pat-cu-sotia-vecinului-da-vina-pe-blocajul-de-la-cadastru-credeam-ca-e-casa-mea",
-      "published_utc": "2026-07-23T10:29:46+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/07/prinsinpat.jpg"
     },
     {
       "section": "romania",
       "kind": "ro",
       "source": "World Vision Romania",
       "title": "„WEBTECTIVII”",
-      "summary": "Educație pentru siguranța copiilor în mediul online Articolul „WEBTECTIVII” apare prima dată în World Vision România .",
+      "summary": "Asociația The Da Vinci System (Cluj) - Educație pentru siguranța copiilor în mediul online. Articolul „WEBTECTIVII” apare prima dată în World Vision România .",
       "link": "https://worldvision.ro/2026/07/22/webtectivii",
       "published_utc": "2026-07-22T14:59:20+00:00",
       "score": 3,
@@ -888,16 +768,16 @@
       "image": "https://picsum.photos/seed/vb-774cd68fcf2b67fb/480/320"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "There's a business case for companies to embrace sustainability, if it's pitched the right way",
-      "summary": "Sustainable business practices are often seen as a luxury that only rich countries can afford. And these days, some of the biggest economies, including the U.S., are backtracking on those commitments.",
-      "link": "https://phys.org/news/2026-07-business-case-companies-embrace-sustainability.html",
-      "published_utc": "2026-07-23T21:40:06+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2021/2-business.jpg"
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Scandal la Turul Franţei: 174 de ciclişti, dărâmaţi de un cretin pe o trotinetă electrică",
+      "summary": "Celebrul Tur al Franţei a fost întrerupt şi ar putea fi anulat complet pentru că toată lumea spune că îşi bagă picioarele după incidentul de azi! Spre sfârşitul uneia dintre cele mai dificile etape, în comitatul Choucroute din Alpii francezi, pe o pantă de 7% şi într-o curbă cu vizibilitate redusă, 174 de ciclişti s-au [&#8230;] The post Scandal la Turul Franţei: 174 de ciclişti, dărâmaţi de un cretin pe o trotinetă electrică appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/sport/scandal-la-turul-frantei-174-ciclisti-daramati-de-un-cretin-pe-o-trotineta-electrica",
+      "published_utc": "2026-07-22T05:47:32+00:00",
+      "score": 3,
+      "freshness_boost": 1,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/07/trotinetatourdefrance.jpg"
     },
     {
       "section": "romania",
@@ -924,18 +804,6 @@
       "image": "https://picsum.photos/seed/vb-e1bbe11509aecd85/480/320"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Global map reveals mining's uneven toll on forests and biodiversity",
-      "summary": "A new study led by Japanese researchers from Tohoku University and the National Institute for Environmental Studies (NIES) reveals that some of the minerals most essential for green technologies may have a significant negative impact on biodiversity. Using remote sensing and machine learning, the scientists produced an unprecedented global map of mined commodities.",
-      "link": "https://phys.org/news/2026-07-global-reveals-uneven-toll-forests.html",
-      "published_utc": "2026-07-23T21:40:04+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/mine.jpg"
-    },
-    {
       "section": "romania",
       "kind": "ro",
       "source": "World Vision Romania",
@@ -946,6 +814,54 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-1f843baf2f3a4c1b/480/320"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Chocolate syrup-like fluid stores multiple interacting memories",
+      "summary": "Animals and electronic devices aren't the only things with memory. Materials can retain memories of past deformations in their microscopic structure. A common example is a crease in a sheet of paper that has been folded then unfolded. Understanding this type of memory could benefit the design of materials that respond to changes in their environment in predictable ways.",
+      "link": "https://phys.org/news/2026-07-chocolate-syrup-fluid-multiple-interacting.html",
+      "published_utc": "2026-07-23T21:50:02+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/chocolate-syrup-like-f.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Green Start-Up Romania",
+      "title": "Caravana .lumen s-a încheiat: peste 900 de persoane au testat tehnologia românească pentru mobilitate independentă",
+      "summary": "Peste 900 de persoane nevăzătoare din România au testat, în ultimele aproape două luni, ochelarii inteligenți dezvoltați de startup-ul românesc .lumen, în cadrul celei mai ample caravane dedicate...",
+      "link": "https://green.start-up.ro/ro/caravana-lumen-s-a-incheiat-peste-900-de-persoane-au-testat-tehnologia-romaneasca-pentru-mobilitate-independenta",
+      "published_utc": "2026-07-14T08:27:59+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://green.start-up.ro/img/articles/3/5/9/35999/cover-35999-src.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Green Start-Up Romania",
+      "title": "AmpliFY ONG organizează cea mai mare ediție NGOs Night Out: networking pentru ONG-uri în 12 orașe din țară",
+      "summary": "Peste 1.000 de oameni din sectorul nonprofit, mediul de afaceri și comunitățile locale sunt așteptați să participe, pe 21 iulie, la cea mai mare ediție de până acum a NGOs Night Out, eveniment...",
+      "link": "https://green.start-up.ro/ro/amplify-ong-organizeaza-cea-mai-mare-editie-ngos-night-out-networking-pentru-ong-uri-in-12-orase-din-tara",
+      "published_utc": "2026-07-14T08:20:40+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://green.start-up.ro/img/articles/3/5/9/35998/cover-35998-src.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "There's a business case for companies to embrace sustainability, if it's pitched the right way",
+      "summary": "Sustainable business practices are often seen as a luxury that only rich countries can afford. And these days, some of the biggest economies, including the U.S., are backtracking on those commitments.",
+      "link": "https://phys.org/news/2026-07-business-case-companies-embrace-sustainability.html",
+      "published_utc": "2026-07-23T21:40:06+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2021/2-business.jpg"
     },
     {
       "section": "romania",
@@ -960,18 +876,6 @@
       "image": "https://picsum.photos/seed/vb-9017d5ebea453c95/480/320"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Engineers observe quantum heat waves at room temperature",
-      "summary": "Efficient heat management in solids is key to advancing the next generation of electronics. However, wave-like heat movement—known as phonon focusing—had been observed only at extremely low, or cryogenic, temperatures, limiting its study and practical use.",
-      "link": "https://phys.org/news/2026-07-quantum-room-temperature.html",
-      "published_utc": "2026-07-23T21:30:01+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ucla-engineers-observe.jpg"
-    },
-    {
       "section": "romania",
       "kind": "ro",
       "source": "SOS Satele Copiilor Romania",
@@ -984,6 +888,18 @@
       "image": "https://picsum.photos/seed/vb-5c5602f10ee5770c/480/320"
     },
     {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Global map reveals mining's uneven toll on forests and biodiversity",
+      "summary": "A new study led by Japanese researchers from Tohoku University and the National Institute for Environmental Studies (NIES) reveals that some of the minerals most essential for green technologies may have a significant negative impact on biodiversity. Using remote sensing and machine learning, the scientists produced an unprecedented global map of mined commodities.",
+      "link": "https://phys.org/news/2026-07-global-reveals-uneven-toll-forests.html",
+      "published_utc": "2026-07-23T21:40:04+00:00",
+      "score": 2,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/mine.jpg"
+    },
+    {
       "section": "romania",
       "kind": "ro",
       "source": "SOS Satele Copiilor Romania",
@@ -994,6 +910,18 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-62290e058a5ec56d/480/320"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Engineers observe quantum heat waves at room temperature",
+      "summary": "Efficient heat management in solids is key to advancing the next generation of electronics. However, wave-like heat movement—known as phonon focusing—had been observed only at extremely low, or cryogenic, temperatures, limiting its study and practical use.",
+      "link": "https://phys.org/news/2026-07-quantum-room-temperature.html",
+      "published_utc": "2026-07-23T21:30:01+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ucla-engineers-observe.jpg"
     },
     {
       "section": "science",
@@ -1310,12 +1238,12 @@
   ],
   "joke_ro": {
     "date_utc": "2026-07-24",
-    "text": "Mi-am organizat biroul pe categorii: urgente, importante si maine.",
+    "text": "Mi-am facut buget pe luna asta. Primele doua zile au fost impecabile.",
     "source": "data/jokes_ro.txt"
   },
   "satire_ro": {
-    "title": "Prăpăd în Prahova. Viitura a băgat un intravilan de două hectare în proprietarea primarului",
-    "link": "https://www.timesnewroman.ro/politic/prapad-in-prahova-viitura-a-bagat-un-intravilan-de-doua-hectare-in-proprietarea-primarului/",
+    "title": "Republica Moldova are un nou Guvern. Cine sunt miniștrii care vor veni să cerșească bani la București",
+    "link": "https://www.timesnewroman.ro/politic/republica-moldova-are-un-nou-guvern-cine-sunt-ministrii-care-vor-veni-sa-cerseasca-bani-la-bucuresti/",
     "source": "timesnewroman.ro"
   },
   "top_images": [
@@ -1323,23 +1251,24 @@
       "tag": "space",
       "title": "Space",
       "link": "https://commons.wikimedia.org/wiki/Category:Astronomy",
-      "image": "https://live.staticflickr.com/65535/55414040835_9b65cd000b_b.jpg"
+      "image": "https://live.staticflickr.com/65535/55412682522_d59cbf0d06_b.jpg"
     },
     {
       "tag": "animals",
       "title": "Animals",
       "link": "https://commons.wikimedia.org/wiki/Category:Animals",
-      "image": "https://live.staticflickr.com/65535/55414691258_b12a281a32_b.jpg"
+      "image": "https://live.staticflickr.com/65535/55414371232_3803bbc16b_b.jpg"
     },
     {
       "tag": "landscape",
       "title": "Landscape",
       "link": "https://commons.wikimedia.org/wiki/Category:Landscapes",
-      "image": "https://live.staticflickr.com/65535/55414487438_4633602056_b.jpg"
+      "image": "https://live.staticflickr.com/65535/55415372041_1de6a6fce4_b.jpg"
     }
   ],
   "top_image_history": {
     "space": [
+      "https://live.staticflickr.com/65535/55412682522_d59cbf0d06_b.jpg",
       "https://live.staticflickr.com/65535/55414040835_9b65cd000b_b.jpg",
       "https://live.staticflickr.com/65535/55411834443_f001e69c78_b.jpg",
       "https://live.staticflickr.com/65535/55411842599_9ace501a0f_b.jpg",
@@ -1356,10 +1285,10 @@
       "https://live.staticflickr.com/65535/55399100553_c7c40aec6f_b.jpg",
       "https://live.staticflickr.com/65535/55398537588_56493d7f9f_b.jpg",
       "https://live.staticflickr.com/65535/55397183710_740c16b58a_b.jpg",
-      "https://live.staticflickr.com/65535/55396435203_869bbb4a59_b.jpg",
-      "https://live.staticflickr.com/65535/55394920906_4f17a20cd3_b.jpg"
+      "https://live.staticflickr.com/65535/55396435203_869bbb4a59_b.jpg"
     ],
     "animals": [
+      "https://live.staticflickr.com/65535/55414371232_3803bbc16b_b.jpg",
       "https://live.staticflickr.com/65535/55414691258_b12a281a32_b.jpg",
       "https://live.staticflickr.com/65535/55412238907_13a6a26dba_b.jpg",
       "https://live.staticflickr.com/65535/55411383692_369998a6c6_b.jpg",
@@ -1376,10 +1305,10 @@
       "https://live.staticflickr.com/65535/55399857960_016dfc9d54_b.jpg",
       "https://live.staticflickr.com/65535/55397564592_25038cde9c_b.jpg",
       "https://live.staticflickr.com/65535/55397226301_892b1b5573_b.jpg",
-      "https://live.staticflickr.com/65535/55396474134_113e5ba591_b.jpg",
-      "https://live.staticflickr.com/65535/55395130473_77b71b7d90_b.jpg"
+      "https://live.staticflickr.com/65535/55396474134_113e5ba591_b.jpg"
     ],
     "landscape": [
+      "https://live.staticflickr.com/65535/55415372041_1de6a6fce4_b.jpg",
       "https://live.staticflickr.com/65535/55414487438_4633602056_b.jpg",
       "https://live.staticflickr.com/65535/55413380994_55a23a5212_b.jpg",
       "https://live.staticflickr.com/65535/55412412156_8abec19701_b.jpg",
@@ -1396,10 +1325,10 @@
       "https://live.staticflickr.com/65535/55399849785_69ebdd0142_b.jpg",
       "https://live.staticflickr.com/65535/55398478041_fcbb051801_b.jpg",
       "https://live.staticflickr.com/65535/55397180301_9c2e0df9a3_b.jpg",
-      "https://live.staticflickr.com/65535/55396630120_a0737ba975_b.jpg",
-      "https://live.staticflickr.com/65535/55395186568_40a1bd7b52_b.jpg"
+      "https://live.staticflickr.com/65535/55396630120_a0737ba975_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/55388433358_07945abbf1_b.jpg",
       "https://live.staticflickr.com/65535/55393280526_544e6feb7f_b.jpg",
       "https://live.staticflickr.com/65535/55394895763_8a90f401de_b.jpg",
       "https://live.staticflickr.com/1473/25770151566_19fd3f5a62_b.jpg",
@@ -1416,15 +1345,14 @@
       "https://live.staticflickr.com/65535/55404758275_a1e43789b3_b.jpg",
       "https://live.staticflickr.com/65535/55390498484_e8263bb2ca_b.jpg",
       "https://live.staticflickr.com/65535/55389148916_e1bcca65d7_b.jpg",
-      "https://live.staticflickr.com/65535/36160557701_fe187c8a62_b.jpg",
-      "https://live.staticflickr.com/65535/55398340022_e121f49580_b.jpg"
+      "https://live.staticflickr.com/65535/36160557701_fe187c8a62_b.jpg"
     ],
     "cities": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/3f/NYC_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg",
       "https://live.staticflickr.com/65535/55415248023_7444783000_b.jpg",
       "https://live.staticflickr.com/65535/55414073757_0b97721e85_b.jpg",
       "https://live.staticflickr.com/65535/55415231945_2f8e92712a_b.jpg",
       "https://live.staticflickr.com/65535/55414495916_386445e44c_b.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/3/3f/NYC_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg",
       "https://live.staticflickr.com/65535/55414246778_e49f965d63_b.jpg",
       "https://live.staticflickr.com/65535/55413831356_1c781ddda5_b.jpg",
       "https://live.staticflickr.com/3912/14374433506_fda82c47f4_b.jpg",
@@ -1440,8 +1368,8 @@
       "https://live.staticflickr.com/65535/55410488097_30797b6205_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
+      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
