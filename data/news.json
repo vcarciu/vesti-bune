@@ -1,7 +1,19 @@
 {
-  "generated_utc": "2026-07-26T08:05:31+00:00",
+  "generated_utc": "2026-07-26T10:28:18+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Operațiune de 10 ore pentru salvarea a doi ucraineni epuizați. Bilanțul Salvamont Maramureș: cinci misiuni în 24 de ore",
+        "summary": "Trei cetățeni ucraineni salvați, un cioban preluat de ambulanță și un turist rănit la Cascada Cailor. Acesta este bilanțul ultimelor 24 de ore pentru Salvamont Maramureș, care a intervenit în cinci misiuni de salvare.",
+        "link": "https://www.digi24.ro/stiri/actualitate/social/operatiune-de-10-ore-pentru-salvarea-a-doi-ucraineni-epuizati-bilantul-salvamont-maramures-cinci-misiuni-in-24-de-ore-3878855",
+        "published_utc": "2026-07-26T10:05:11+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNyUyRjI2JTJGMjg2Nzk1M18yODY3/OTUzX3VjcmFpbmVuaS1zYWx2YW1vbnQt/bWFyYW11cmVzLmpwZyZoYXNoPTEzYWM1/YzY5MzhjOWJlN2VjZWFiNWRhMTNhMjI1ZjUw.jpg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -53,18 +65,6 @@
       {
         "section": "romania",
         "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 Coada la feribotul de Thassos a ajuns până la podul de la Giurgiu",
-        "summary": "Situație fără precedent în ce privește românii care merg în vacanțe în Județul Thassos. Coada de la feribot a ajuns până la podul de la Giurgiu, cu o bifurcație la Plevna, unde se răsfiră către feribotul de Turnu-Măgurele-Nicopole. Șoferii sugerează ca taxa de feribot să poată fi plătită și la ghișeele de la Podul Prieteniei, [&#8230;] The post Coada la feribotul de Thassos a ajuns până la podul de la Giurgiu appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/life-death/coada-la-feribotul-de-thassos-a-ajuns-pana-la-podul-de-la-giurgiu",
-        "published_utc": "2026-07-25T06:44:12+00:00",
-        "score": 3,
-        "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2020/07/vama_giurgiu_aglomeratie.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
         "source": "RomaniaPozitiva",
         "title": "Orașul Timișoara se pregătește de sărbătoare",
         "summary": "Vinerea viitoare, pe vremea aceasta, în Timișoara vor începe sute de povești. Unele pe o scenă, altele într-un parc, într-un cartier, într-un cinematograf sau într-un muzeu. Vor fi concerte, spectacole,&#8230; Articolul Orașul Timișoara se pregătește de sărbătoare apare prima dată în Romania Pozitiva .",
@@ -85,6 +85,18 @@
         "score": 3,
         "freshness_boost": 1,
         "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/07/cerseala_guvern_chisinau.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 Repartizarea pe licee, finalizată. Vezi lista cu fraierii care au picat în clasa cu grase",
+        "summary": "S-a terminat repartizarea pe licee a elevilor care au trecut examenul de Capacitate. Din păcate, mulți elevi nu au bifat foarte bine formularele, așa că există și niște fraieri care au nimerit pe la licee cu profil teoretic, la clasele de filologie, limbi străine, limba franceză sau literatură comparată, clase dominate de grase. Deși Ministerul [&#8230;] The post Repartizarea pe licee, finalizată. Vezi lista cu fraierii care au picat în clasa cu grase appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/it-stiinta/repartizarea-pe-licee-finalizata-vezi-lista-cu-fraierii-care-au-picat-in-clasa-cu-grase",
+        "published_utc": "2026-07-24T05:42:27+00:00",
+        "score": 3,
+        "freshness_boost": 1,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2020/07/rezultat_simulare_bac.jpg"
       },
       {
         "section": "romania",
@@ -133,6 +145,18 @@
         "score": 3,
         "freshness_boost": 0,
         "image": "https://picsum.photos/seed/vb-774cd68fcf2b67fb/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Start-Up Romania",
+        "title": "Business angels în Moldova: cum ajută un program la investițiile de tip angel din zonă",
+        "summary": "TechAngels România, Business Angels Europe, META Group și Moldovan Technology Transfer Network (MTTN) au lansat în coaborare ESIL Moldova, un program de doi ani, conceput pentru a dezvolta...",
+        "link": "https://start-up.ro/business-angels-in-moldova-cum-ajuta-un-program-la-investitiile-de-tip-angel-din-zona",
+        "published_utc": "2026-07-21T09:11:06+00:00",
+        "score": 3,
+        "freshness_boost": 0,
+        "image": "https://start-up.ro/img/articles/3/8/6/38691/cover-38691-src.jpg"
       },
       {
         "section": "romania",
@@ -722,26 +746,14 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Românii vor primi vouchere de frizerie și salon, ca să nu fie și săraci și urâți",
-      "summary": "Guvernul pregătește un nou program social prin care românii cu venituri mici vor primi vouchere pentru frizerie, coafor și saloane de înfrumusețare. Autoritățile spun că, în condițiile în care oamenii oricum sunt săraci, ar fi nedrept să-i lase și urâți. „Nu putem să le cerem românilor să suporte și scumpirile, și inflația, și facturile, și [&#8230;] The post Românii vor primi vouchere de frizerie și salon, ca să nu fie și săraci și urâți appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/romanii-vor-primi-vouchere-de-frizerie-si-salon-ca-sa-nu-fie-si-saraci-si-urati",
-      "published_utc": "2026-07-25T06:52:43+00:00",
+      "source": "Digi24",
+      "title": "Operațiune de 10 ore pentru salvarea a doi ucraineni epuizați. Bilanțul Salvamont Maramureș: cinci misiuni în 24 de ore",
+      "summary": "Trei cetățeni ucraineni salvați, un cioban preluat de ambulanță și un turist rănit la Cascada Cailor. Acesta este bilanțul ultimelor 24 de ore pentru Salvamont Maramureș, care a intervenit în cinci misiuni de salvare.",
+      "link": "https://www.digi24.ro/stiri/actualitate/social/operatiune-de-10-ore-pentru-salvarea-a-doi-ucraineni-epuizati-bilantul-salvamont-maramures-cinci-misiuni-in-24-de-ore-3878855",
+      "published_utc": "2026-07-26T10:05:11+00:00",
       "score": 3,
-      "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2025/06/frizerie_oarecare.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Coada la feribotul de Thassos a ajuns până la podul de la Giurgiu",
-      "summary": "Situație fără precedent în ce privește românii care merg în vacanțe în Județul Thassos. Coada de la feribot a ajuns până la podul de la Giurgiu, cu o bifurcație la Plevna, unde se răsfiră către feribotul de Turnu-Măgurele-Nicopole. Șoferii sugerează ca taxa de feribot să poată fi plătită și la ghișeele de la Podul Prieteniei, [&#8230;] The post Coada la feribotul de Thassos a ajuns până la podul de la Giurgiu appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/coada-la-feribotul-de-thassos-a-ajuns-pana-la-podul-de-la-giurgiu",
-      "published_utc": "2026-07-25T06:44:12+00:00",
-      "score": 3,
-      "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2020/07/vama_giurgiu_aglomeratie.jpg"
+      "freshness_boost": 3,
+      "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNyUyRjI2JTJGMjg2Nzk1M18yODY3/OTUzX3VjcmFpbmVuaS1zYWx2YW1vbnQt/bWFyYW11cmVzLmpwZyZoYXNoPTEzYWM1/YzY5MzhjOWJlN2VjZWFiNWRhMTNhMjI1ZjUw.jpg"
     },
     {
       "section": "romania",
@@ -795,6 +807,18 @@
       "section": "romania",
       "kind": "ro",
       "source": "Times New Roman (Satira)",
+      "title": "😂 Românii vor primi vouchere de frizerie și salon, ca să nu fie și săraci și urâți",
+      "summary": "Guvernul pregătește un nou program social prin care românii cu venituri mici vor primi vouchere pentru frizerie, coafor și saloane de înfrumusețare. Autoritățile spun că, în condițiile în care oamenii oricum sunt săraci, ar fi nedrept să-i lase și urâți. „Nu putem să le cerem românilor să suporte și scumpirile, și inflația, și facturile, și [&#8230;] The post Românii vor primi vouchere de frizerie și salon, ca să nu fie și săraci și urâți appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/life-death/romanii-vor-primi-vouchere-de-frizerie-si-salon-ca-sa-nu-fie-si-saraci-si-urati",
+      "published_utc": "2026-07-25T06:52:43+00:00",
+      "score": 3,
+      "freshness_boost": 1,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2025/06/frizerie_oarecare.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
       "title": "😂 Republica Moldova are un nou Guvern. Cine sunt miniștrii care vor veni să cerșească bani la București",
       "summary": "Republica Moldova are un nou Guvern, condus de Vasile Tofan, iar România poate să înceapă să pună bani deoparte. Noul cabinet de la Chișinău a fost învestit cu promisiuni de integrare europeană, dezvoltare economică și reforme, însă adevărata prioritate ar fi fost deja stabilită: identificarea celor mai rapide rute până la București, la cerșeală de [&#8230;] The post Republica Moldova are un nou Guvern. Cine sunt miniștrii care vor veni să cerșească bani la București appeared first on Times New Roman .",
       "link": "https://www.timesnewroman.ro/politic/republica-moldova-are-un-nou-guvern-cine-sunt-ministrii-care-vor-veni-sa-cerseasca-bani-la-bucuresti",
@@ -802,6 +826,18 @@
       "score": 3,
       "freshness_boost": 1,
       "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/07/cerseala_guvern_chisinau.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Repartizarea pe licee, finalizată. Vezi lista cu fraierii care au picat în clasa cu grase",
+      "summary": "S-a terminat repartizarea pe licee a elevilor care au trecut examenul de Capacitate. Din păcate, mulți elevi nu au bifat foarte bine formularele, așa că există și niște fraieri care au nimerit pe la licee cu profil teoretic, la clasele de filologie, limbi străine, limba franceză sau literatură comparată, clase dominate de grase. Deși Ministerul [&#8230;] The post Repartizarea pe licee, finalizată. Vezi lista cu fraierii care au picat în clasa cu grase appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/it-stiinta/repartizarea-pe-licee-finalizata-vezi-lista-cu-fraierii-care-au-picat-in-clasa-cu-grase",
+      "published_utc": "2026-07-24T05:42:27+00:00",
+      "score": 3,
+      "freshness_boost": 1,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2020/07/rezultat_simulare_bac.jpg"
     },
     {
       "section": "romania",
@@ -854,6 +890,18 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "Start-Up Romania",
+      "title": "Business angels în Moldova: cum ajută un program la investițiile de tip angel din zonă",
+      "summary": "TechAngels România, Business Angels Europe, META Group și Moldovan Technology Transfer Network (MTTN) au lansat în coaborare ESIL Moldova, un program de doi ani, conceput pentru a dezvolta...",
+      "link": "https://start-up.ro/business-angels-in-moldova-cum-ajuta-un-program-la-investitiile-de-tip-angel-din-zona",
+      "published_utc": "2026-07-21T09:11:06+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://start-up.ro/img/articles/3/8/6/38691/cover-38691-src.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "Teach for Romania",
       "title": "Schimbarea educației din România de jos în sus, prin pregătirea generației a 13-a de profesori-soluție pentru școli din mediul rural.",
       "summary": "București, 17 iulie 2026 – Teach for Romania a dat startul Academiei de Leadership și Formare în Educație, programul intensiv prin care pregătește cea de-a 13-a generație de viitori lideri în educație – directori, profesori, învățători și educatori, care să predea, începând cu anul școlar 2026-2027, și să transforme educația de la firul ierbii, în [&#8230;]",
@@ -888,18 +936,6 @@
       "image": "https://picsum.photos/seed/vb-5c5602f10ee5770c/480/320"
     },
     {
-      "section": "romania",
-      "kind": "ro",
-      "source": "SOS Satele Copiilor Romania",
-      "title": "Psiholog",
-      "summary": "Locație: Bacău &#124; Nivel carieră: Experiență de minimum 1 an Candidatul Ideal: Ești tu vocea de care au nevoie? Un copil are nevoie de iubire, siguranță și încredere pentru a... The post Psiholog appeared first on SOS Satele Copiilor România .",
-      "link": "https://www.sos-satelecopiilor.ro/psiholog-3",
-      "published_utc": "2026-06-15T09:49:19+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-62290e058a5ec56d/480/320"
-    },
-    {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
@@ -910,6 +946,18 @@
       "score": 3,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/pregnant-blood-pressur.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "SOS Satele Copiilor Romania",
+      "title": "Psiholog",
+      "summary": "Locație: Bacău &#124; Nivel carieră: Experiență de minimum 1 an Candidatul Ideal: Ești tu vocea de care au nevoie? Un copil are nevoie de iubire, siguranță și încredere pentru a... The post Psiholog appeared first on SOS Satele Copiilor România .",
+      "link": "https://www.sos-satelecopiilor.ro/psiholog-3",
+      "published_utc": "2026-06-15T09:49:19+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-62290e058a5ec56d/480/320"
     },
     {
       "section": "science",
@@ -1434,8 +1482,8 @@
     "source": "data/jokes_ro.txt"
   },
   "satire_ro": {
-    "title": "Aflat pe litoral, Victor Ciorbea a doborât o dronă doar uitându-se lung la ea",
-    "link": "https://www.timesnewroman.ro/life-death/aflat-pe-litoral-victor-ciorbea-a-doborat-o-drona-doar-uitandu-se-lung-la-ea/",
+    "title": "Deși se plâng că sunt săraci, mii de români și-au cumpărat crocși și anul ăsta",
+    "link": "https://www.timesnewroman.ro/monden/desi-se-plang-ca-sunt-saraci-mii-de-romani-si-au-cumparat-crocsi-si-anul-asta/",
     "source": "timesnewroman.ro"
   },
   "top_images": [
@@ -1520,6 +1568,7 @@
       "https://live.staticflickr.com/65535/55399849785_69ebdd0142_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/55403471432_44e13201da_b.jpg",
       "https://live.staticflickr.com/680/31847427634_176810444f_b.jpg",
       "https://live.staticflickr.com/65535/55418854869_442219496f_b.jpg",
       "https://live.staticflickr.com/65535/55393280526_544e6feb7f_b.jpg",
@@ -1536,10 +1585,10 @@
       "https://live.staticflickr.com/65535/55402936477_f823750c97_b.jpg",
       "https://live.staticflickr.com/65535/55416132812_20484706ba_b.jpg",
       "https://live.staticflickr.com/65535/55397970416_74ab1ee701_b.jpg",
-      "https://live.staticflickr.com/65535/55392059986_6db4931d8b_b.jpg",
-      "https://live.staticflickr.com/65535/55401435514_a8cb3769fc_b.jpg"
+      "https://live.staticflickr.com/65535/55392059986_6db4931d8b_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55420107553_aecd9579e8_b.jpg",
       "https://live.staticflickr.com/65535/55419870728_e324ff2a5d_b.jpg",
       "https://live.staticflickr.com/65535/55419680340_c6a9347b6b_b.jpg",
       "https://live.staticflickr.com/65535/55419468015_2e293a7826_b.jpg",
@@ -1556,12 +1605,11 @@
       "https://live.staticflickr.com/65535/55417719975_ff05c5271d_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/3/3f/NYC_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg",
       "https://live.staticflickr.com/65535/55417180740_07fa3b79cc_b.jpg",
-      "https://live.staticflickr.com/5312/14209644789_4665115789_b.jpg",
-      "https://live.staticflickr.com/65535/55416439731_965d137b6d_b.jpg"
+      "https://live.staticflickr.com/5312/14209644789_4665115789_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
+      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
