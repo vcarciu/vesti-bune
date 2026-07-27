@@ -1,19 +1,7 @@
 {
-  "generated_utc": "2026-07-27T22:10:48+00:00",
+  "generated_utc": "2026-07-27T23:54:26+00:00",
   "sections": {
     "romania": [
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "Rockstadt Extreme Fest 2026. Când urcă pe scenă Marilyn Manson",
-        "summary": "Artistul american Marilyn Manson cântă luni seară, 27 iulie, în România, la Rockstadt Extreme Fest 2026, festival care se desfășoară la Ghimbav. Cântărețul este unul dintre cele mai așteptate nume ale primei zile de festival. Cel mai mare festival de rock și metal din Europa de Est își deschide, în perioada 27-31 iulie, porțile într-o &#8230;",
-        "link": "https://hotnews.ro/rockstadt-extreme-fest-2026-marilyn-manson-urca-pe-scena-diseara-2310681",
-        "published_utc": "2026-07-27T17:50:12+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-5407df2137627a75/480/320"
-      },
       {
         "section": "romania",
         "kind": "ro",
@@ -78,13 +66,13 @@
         "section": "romania",
         "kind": "ro",
         "source": "Times New Roman (Satira)",
-        "title": "😂 Coada la feribotul de Thassos a ajuns până la podul de la Giurgiu",
-        "summary": "Situație fără precedent în ce privește românii care merg în vacanțe în Județul Thassos. Coada de la feribot a ajuns până la podul de la Giurgiu, cu o bifurcație la Plevna, unde se răsfiră către feribotul de Turnu-Măgurele-Nicopole. Șoferii sugerează ca taxa de feribot să poată fi plătită și la ghișeele de la Podul Prieteniei, [&#8230;] The post Coada la feribotul de Thassos a ajuns până la podul de la Giurgiu appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/life-death/coada-la-feribotul-de-thassos-a-ajuns-pana-la-podul-de-la-giurgiu",
-        "published_utc": "2026-07-25T06:44:12+00:00",
+        "title": "😂 Armata Română elimină gradul de căpitan, pentru că e un termen legionar",
+        "summary": "România a început aplicarea pachetului de legi contra extremei drepte, mai precis împotriva simbolurilor legionare. După ce săptămâna trecută a interzis jocul de X și 0 pentru că tabelul seamănă cu sigla Gărzii de Fier, săptămâna aceasta e rândul MApN să aplice noile reguli. În consecință, Armata Română a eliminat gradul de căpitan, considerat că [&#8230;] The post Armata Română elimină gradul de căpitan, pentru că e un termen legionar appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/life-death/armata-romana-elimina-gradul-de-capitan-pentru-ca-e-un-termen-legionar",
+        "published_utc": "2026-07-25T06:12:12+00:00",
         "score": 3,
         "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2020/07/vama_giurgiu_aglomeratie.jpg"
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2020/07/armata_romana_unitate.jpg"
       },
       {
         "section": "romania",
@@ -322,121 +310,133 @@
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Membrane nanostructures reshape in water, revealing route to better ion transport",
-        "summary": "Next-generation energy devices like fuel cells and water electrolyzers depend on ion-exchange membranes that allow only water and certain ions to pass through.",
-        "link": "https://phys.org/news/2026-07-membrane-nanostructures-reshape-revealing-route.html",
-        "published_utc": "2026-07-27T21:50:01+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/to-design-better-energ-1.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Harmful bugs can thrive in your kitchen sponge for weeks, and you won't be able to tell",
-        "summary": "That kitchen sponge sitting by your sink is not as innocent as it looks. It could be harboring Salmonella enteritidis, E. coli or Staphylococcus aureus—and there's no way to tell just by looking at it or smelling it.",
-        "link": "https://phys.org/news/2026-07-bugs-kitchen-sponge-weeks-wont.html",
-        "published_utc": "2026-07-27T21:40:07+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/kitchen-sponge.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Purple corn offers a stable natural alternative to artificial food dyes",
-        "summary": "University of Missouri researchers are turning a unique variety of corn into an effective natural alternative to artificial food dyes.",
-        "link": "https://phys.org/news/2026-07-purple-corn-stable-natural-alternative.html",
-        "published_utc": "2026-07-27T21:40:01+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-discover-n-13.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Low-cost spray can help tomatoes grow in salty soils",
-        "summary": "A simple, low-dose leaf spray could give farmers a practical new tool to keep growing tomatoes on land that salt has rendered increasingly unproductive, according to a study led by a researcher at The University of Texas at El Paso.",
-        "link": "https://phys.org/news/2026-07-spray-tomatoes-salty-soils.html",
-        "published_utc": "2026-07-27T21:30:01+00:00",
+        "title": "How international aid fragmentation affects corruption in developing countries",
+        "summary": "An SKKU research team led by Professor Travers B. Child of the SKK Graduate School of Business (SKK GSB) has become the first in the world to use micro-level data to demonstrate that aid fragmentation—the phenomenon in which numerous international aid agencies operate simultaneously in a single region—can deepen administrative corruption in developing countries. The study was conducted jointly with Professor Austin L. Wright of the University of Chicago and Professor Yun Xiao of the University of Gothenburg.",
+        "link": "https://phys.org/news/2026-07-international-aid-fragmentation-affects-corruption.html",
+        "published_utc": "2026-07-27T23:40:03+00:00",
         "score": 1,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/utep-researcher-helps.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/developing-country.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Hubble shows star formation in Andromeda galaxy is winding down",
-        "summary": "A new study using data from NASA's Hubble Space Telescope finds that star formation in the nearby Andromeda galaxy has undergone a 500-million-year decline, with an even steeper drop in the last 40 million years. Andromeda, a spiral galaxy comparable in size to our Milky Way, is close enough to be seen with the unaided eye from areas with dark skies. Located about 2.5 million light-years from Earth—practically our cosmic backyard—Andromeda offers an opportunity for astronomers to examine its stellar populations in detail, leading to a better understanding of the past of galaxies like our own.",
-        "link": "https://phys.org/news/2026-07-hubble-star-formation-andromeda-galaxy.html",
-        "published_utc": "2026-07-27T21:20:09+00:00",
-        "score": 0,
+        "title": "When polymers meet primitive membranes: How molecular cooperation may have helped life begin",
+        "summary": "A new study suggests that simple molecules on early Earth may have worked together to create more stable, cell-like structures, offering fresh clues about one of science's biggest questions: how life began. Led by Dr. Moran Frenkel-Pinter of Hebrew University and her postdoctoral researcher, Dr. Rotem Edri, the research shows that two types of simple molecules, fatty acids and hydroxy acids, can combine to create structures that are stronger and more stable than either molecule can form alone.",
+        "link": "https://phys.org/news/2026-07-polymers-primitive-membranes-molecular-cooperation.html",
+        "published_utc": "2026-07-27T23:40:01+00:00",
+        "score": 1,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hubble-shows-star-form.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/when-polymers-meet-pri.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Cracking the code: Can AI help us decipher ancient languages?",
-        "summary": "Every ancient language that has ever been deciphered needed an anchor. Usually that's a bilingual text, like the Rosetta Stone, or a known relative to compare it to. Linear A, the writing system of the Bronze Age Minoan civilization on the Greek island of Crete, has neither.",
-        "link": "https://phys.org/news/2026-07-code-ai-decipher-ancient-languages.html",
-        "published_utc": "2026-07-27T21:20:05+00:00",
+        "title": "How changing environments can preserve an ancient microbial survival strategy",
+        "summary": "A research group led by Tetsuhiro Hatakeyama from the Earth-Life Science Institute (ELSI) at the Institute of Science Tokyo has revealed how a seemingly self-destructive survival strategy could persist in yeast for hundreds of millions of years. By combining population dynamics theory with comparative experimental observations, the team found that alternating periods of nutrient-rich conditions and starvation can stabilize this unusual behavior over evolutionary timescales. The findings were published in the Journal of the Royal Society Interface.",
+        "link": "https://phys.org/news/2026-07-environments-ancient-microbial-survival-strategy.html",
+        "published_utc": "2026-07-27T23:20:02+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ancientlanguages.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-changing-environme.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "How invasive rats rewire coral reef food webs to create winners and losers",
-        "summary": "Invasive rats on tropical islands are creating winners and losers among the tiny underwater animals near the bottom of the food chain that inhabit surrounding coral reefs. Scientists say the changes to these marine ecosystems can rewire food chains on the reefs.",
-        "link": "https://phys.org/news/2026-07-invasive-rats-rewire-coral-reef.html",
-        "published_utc": "2026-07-27T21:00:36+00:00",
-        "score": 0,
+        "title": "Seabirds trade their own survival to raise more chicks after energy-intensive breeding seasons",
+        "summary": "Wild seabirds that face high energy demands during the breeding season go on to migrate farther and raise more chicks the next year, but at a cost to their own survival. An international team led by researchers from Nagoya University raised the energy cost of flight for some birds and tracked them through the next year of their annual cycle.",
+        "link": "https://phys.org/news/2026-07-seabirds-survival-chicks-energy-intensive.html",
+        "published_utc": "2026-07-27T23:00:11+00:00",
+        "score": 1,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-invasive-rats-rewi-1.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/seabirds-trade-their-s.jpg"
       },
       {
         "section": "science",
         "kind": "global",
-        "source": "NASA Breaking News",
-        "title": "NASA Astronaut Chris Williams to Discuss Space Station Mission",
-        "summary": "NASA astronaut Chris Williams will recap his recent eight-month mission aboard the International Space Station during a news conference at 2:45 p.m. EDT Tuesday, Aug. 4, from the agency’s Johnson Space Center in Houston. NASA will stream this event live through a variety of platforms. Learn where to watch online: https://www.nasa.gov/live United States-based media interested [&#8230;]",
-        "link": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-space-station-mission",
-        "published_utc": "2026-07-27T18:49:20+00:00",
-        "score": 0,
+        "source": "Phys.org",
+        "title": "Researchers develop model that predicts which Red Sea fish are most likely to invade the Mediterranean",
+        "summary": "More than 120 fish species have migrated from the Red Sea to the Mediterranean since the Suez Canal opened more than 150 years ago. Now, researchers at Tel Aviv University have developed a statistical model that can predict which species are likely to make the journey next.",
+        "link": "https://phys.org/news/2026-07-red-sea-fish-invade-mediterranean.html",
+        "published_utc": "2026-07-27T23:00:02+00:00",
+        "score": 1,
         "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-c6b67ac58a80de16/480/320"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-develop-mo-1.jpg"
       },
       {
         "section": "science",
         "kind": "global",
-        "source": "NASA Breaking News",
-        "title": "NASA Science Soars During August Total Solar Eclipse",
-        "summary": "Each time the Moon covers the Sun during a total solar eclipse — darkening daytime skies and briefly revealing the Sun’s ethereal outer atmosphere, the corona — it presents new opportunities to better understand our star and its influence on Earth. On Wednesday, Aug. 12, as the next total solar eclipse sweeps over Greenland, Iceland, […]",
-        "link": "https://science.nasa.gov/science-research/heliophysics/nasa-science-soars-during-august-total-solar-eclipse",
-        "published_utc": "2026-07-27T18:01:14+00:00",
-        "score": 0,
+        "source": "Phys.org",
+        "title": "Kids who own cellphones have poorer reading comprehension scores than those who don't, researchers find",
+        "summary": "School cellphone bans might seem like a good way to improve learning for elementary school children, but new research published in Behavioral Sciences shows that simply owning a cellphone correlates with worse reading comprehension. Whether a child brings the phone to school made no difference in reading comprehension, the team of UCLA psychologists and researchers found.",
+        "link": "https://phys.org/news/2026-07-kids-cellphones-poorer-comprehension-scores.html",
+        "published_utc": "2026-07-27T22:50:01+00:00",
+        "score": 1,
         "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-0fd7f42d91de332d/480/320"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/kids-who-own-cellphone.jpg"
       },
       {
         "section": "science",
         "kind": "global",
-        "source": "NASA Breaking News",
-        "title": "NASA’s Swift Sees ‘Wandering’ Mega Black Hole Shredding Star",
-        "summary": "NASA’s Neil Gehrels Swift Observatory captured an “orphan” black hole lighting up as it devoured a star on the outskirts of a faraway galaxy. These phenomena are rare to begin with, and none had ever before been seen so far outside of a galaxy’s core. “We were looking for these star-shredding events as a way […]",
-        "link": "https://science.nasa.gov/missions/swift/nasas-swift-sees-wandering-mega-black-hole-shredding-star",
-        "published_utc": "2026-07-27T16:06:37+00:00",
+        "source": "Phys.org",
+        "title": "Listening to living soil may help people reconnect with nature",
+        "summary": "Strengthening the bond between people and nature—that is the aim of a German–Dutch EU project involving Oldenburg. The reasoning behind this is that people who feel they are part of the environment are more likely to campaign for its preservation.",
+        "link": "https://phys.org/news/2026-07-soil-people-reconnect-nature.html",
+        "published_utc": "2026-07-27T22:40:02+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-5f4dda02ff9136ae/480/320"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/putting-down-new-roots.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Molecular switch that activates cell growth signaling may offer more precise route for anticancer therapy",
+        "summary": "Cells carry their own growth switches. When enough nutrients—amino acids in particular—are available, cells flip this switch on and begin to grow. Researchers at KAIST and Yonsei University have uncovered the molecular mechanism by which amino acid signals activate this cellular growth switch. The findings are expected to open a new avenue for anticancer therapies that target abnormal growth signaling in tumor cells.",
+        "link": "https://phys.org/news/2026-07-molecular-cell-growth-precise-route.html",
+        "published_utc": "2026-07-27T22:40:01+00:00",
+        "score": 1,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/kaist-identifies-a-mol-1.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Prolonged stretching reorganizes tissue scaffolds and uncages cell nuclei",
+        "summary": "How do tissues cope with being stretched for hours or even days? A study led by researchers at the Institute for Bioengineering of Catalonia (IBEC) has uncovered an unexpected answer: Cells radically reorganize their internal scaffolding and, in the process, release their nuclei from a protective keratin network.",
+        "link": "https://phys.org/news/2026-07-prolonged-tissue-scaffolds-uncages-cell.html",
+        "published_utc": "2026-07-27T22:30:03+00:00",
+        "score": 2,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/under-pressure-when-te.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "New thermodynamic framework explains pressure and edge currents in spinning active particles",
+        "summary": "Physicists from Heinrich Heine University Düsseldorf (HHU), the Technical University of Darmstadt, Sapienza University in Rome and the University of Camerino (both in Italy) have calculated the fundamental laws of thermodynamics for a gas composed of spinning particles. In the scientific journal Proceedings of the National Academy of Sciences (PNAS), they demonstrate that the pressure of this gas is similar to that of a normal gas but at an elevated temperature. In addition, localized surface currents arise that can be used for targeted particle transport.",
+        "link": "https://phys.org/news/2026-07-thermodynamic-framework-pressure-edge-currents.html",
+        "published_utc": "2026-07-27T22:20:04+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/thermodynamics-of-spin.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "How NASA plans to build the Habitable Worlds Observatory",
+        "summary": "We've been covering the journey of the Habitable Worlds Observatory for some time now. Over the past few years, it's gone from a proposal to a relatively fleshed-out plan for how and what the next Great Observatory should do—in this case, look at and characterize potentially habitable exoplanets.",
+        "link": "https://phys.org/news/2026-07-nasa-habitable-worlds-observatory.html",
+        "published_utc": "2026-07-27T22:20:01+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-nasa-plans-to-buil.jpg"
       }
     ],
     "environment": [
@@ -542,14 +542,14 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "HotNews",
-      "title": "Rockstadt Extreme Fest 2026. Când urcă pe scenă Marilyn Manson",
-      "summary": "Artistul american Marilyn Manson cântă luni seară, 27 iulie, în România, la Rockstadt Extreme Fest 2026, festival care se desfășoară la Ghimbav. Cântărețul este unul dintre cele mai așteptate nume ale primei zile de festival. Cel mai mare festival de rock și metal din Europa de Est își deschide, în perioada 27-31 iulie, porțile într-o &#8230;",
-      "link": "https://hotnews.ro/rockstadt-extreme-fest-2026-marilyn-manson-urca-pe-scena-diseara-2310681",
-      "published_utc": "2026-07-27T17:50:12+00:00",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Armata Română elimină gradul de căpitan, pentru că e un termen legionar",
+      "summary": "România a început aplicarea pachetului de legi contra extremei drepte, mai precis împotriva simbolurilor legionare. După ce săptămâna trecută a interzis jocul de X și 0 pentru că tabelul seamănă cu sigla Gărzii de Fier, săptămâna aceasta e rândul MApN să aplice noile reguli. În consecință, Armata Română a eliminat gradul de căpitan, considerat că [&#8230;] The post Armata Română elimină gradul de căpitan, pentru că e un termen legionar appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/life-death/armata-romana-elimina-gradul-de-capitan-pentru-ca-e-un-termen-legionar",
+      "published_utc": "2026-07-25T06:12:12+00:00",
       "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-5407df2137627a75/480/320"
+      "freshness_boost": 1,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2020/07/armata_romana_unitate.jpg"
     },
     {
       "section": "romania",
@@ -578,18 +578,6 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Coada la feribotul de Thassos a ajuns până la podul de la Giurgiu",
-      "summary": "Situație fără precedent în ce privește românii care merg în vacanțe în Județul Thassos. Coada de la feribot a ajuns până la podul de la Giurgiu, cu o bifurcație la Plevna, unde se răsfiră către feribotul de Turnu-Măgurele-Nicopole. Șoferii sugerează ca taxa de feribot să poată fi plătită și la ghișeele de la Podul Prieteniei, [&#8230;] The post Coada la feribotul de Thassos a ajuns până la podul de la Giurgiu appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/coada-la-feribotul-de-thassos-a-ajuns-pana-la-podul-de-la-giurgiu",
-      "published_utc": "2026-07-25T06:44:12+00:00",
-      "score": 3,
-      "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2020/07/vama_giurgiu_aglomeratie.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "România, campioană mondială la fotbal virtual! Răzvan Puiu cucerește titlul la Paris",
       "summary": "Titlul a fost câștigat la Esports World Cup 2026, turneul care a reunit la Paris, între 22 și 26 iulie, cei mai buni 36 de jucători din lume și un&#8230; Articolul România, campioană mondială la fotbal virtual! Răzvan Puiu cucerește titlul la Paris apare prima dată în Romania Pozitiva .",
@@ -610,6 +598,18 @@
       "score": 3,
       "freshness_boost": 3,
       "image": "https://picsum.photos/seed/vb-5c69f30a43ac5b4a/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 România a cerut extrădarea fraților Tate, ca să le dea drumul din nou pe străzi",
+      "summary": "România a trimis Statelor Unite o notă diplomatică prin care solicită extrădarea în România a lui Andrew și Tristan Tate, pe considerente de interes național. Ambasadorul român la Washington a subliniat că pentru țara noastră este vital ca doi interlopi să circule cu Lamborghini prin Capitală, altfel industria de videochat riscă să intre în faliment. [&#8230;] The post România a cerut extrădarea fraților Tate, ca să le dea drumul din nou pe străzi appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/monden/romania-a-cerut-extradarea-fratilor-tate-ca-sa-le-dea-drumul-din-nou-pe-strazi",
+      "published_utc": "2026-07-24T16:24:48+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/andrew-tate-sah.jpg"
     },
     {
       "section": "romania",
@@ -646,18 +646,6 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-e1bbe11509aecd85/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 România a cerut extrădarea fraților Tate, ca să le dea drumul din nou pe străzi",
-      "summary": "România a trimis Statelor Unite o notă diplomatică prin care solicită extrădarea în România a lui Andrew și Tristan Tate, pe considerente de interes național. Ambasadorul român la Washington a subliniat că pentru țara noastră este vital ca doi interlopi să circule cu Lamborghini prin Capitală, altfel industria de videochat riscă să intre în faliment. [&#8230;] The post România a cerut extrădarea fraților Tate, ca să le dea drumul din nou pe străzi appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/monden/romania-a-cerut-extradarea-fratilor-tate-ca-sa-le-dea-drumul-din-nou-pe-strazi",
-      "published_utc": "2026-07-24T16:24:48+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/andrew-tate-sah.jpg"
     },
     {
       "section": "romania",
@@ -732,18 +720,6 @@
       "image": "https://picsum.photos/seed/vb-9017d5ebea453c95/480/320"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Membrane nanostructures reshape in water, revealing route to better ion transport",
-      "summary": "Next-generation energy devices like fuel cells and water electrolyzers depend on ion-exchange membranes that allow only water and certain ions to pass through.",
-      "link": "https://phys.org/news/2026-07-membrane-nanostructures-reshape-revealing-route.html",
-      "published_utc": "2026-07-27T21:50:01+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/to-design-better-energ-1.jpg"
-    },
-    {
       "section": "romania",
       "kind": "ro",
       "source": "SOS Satele Copiilor Romania",
@@ -754,6 +730,18 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-5c5602f10ee5770c/480/320"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "How international aid fragmentation affects corruption in developing countries",
+      "summary": "An SKKU research team led by Professor Travers B. Child of the SKK Graduate School of Business (SKK GSB) has become the first in the world to use micro-level data to demonstrate that aid fragmentation—the phenomenon in which numerous international aid agencies operate simultaneously in a single region—can deepen administrative corruption in developing countries. The study was conducted jointly with Professor Austin L. Wright of the University of Chicago and Professor Yun Xiao of the University of Gothenburg.",
+      "link": "https://phys.org/news/2026-07-international-aid-fragmentation-affects-corruption.html",
+      "published_utc": "2026-07-27T23:40:03+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/developing-country.jpg"
     },
     {
       "section": "romania",
@@ -771,73 +759,121 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Harmful bugs can thrive in your kitchen sponge for weeks, and you won't be able to tell",
-      "summary": "That kitchen sponge sitting by your sink is not as innocent as it looks. It could be harboring Salmonella enteritidis, E. coli or Staphylococcus aureus—and there's no way to tell just by looking at it or smelling it.",
-      "link": "https://phys.org/news/2026-07-bugs-kitchen-sponge-weeks-wont.html",
-      "published_utc": "2026-07-27T21:40:07+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/kitchen-sponge.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Purple corn offers a stable natural alternative to artificial food dyes",
-      "summary": "University of Missouri researchers are turning a unique variety of corn into an effective natural alternative to artificial food dyes.",
-      "link": "https://phys.org/news/2026-07-purple-corn-stable-natural-alternative.html",
-      "published_utc": "2026-07-27T21:40:01+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-discover-n-13.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Low-cost spray can help tomatoes grow in salty soils",
-      "summary": "A simple, low-dose leaf spray could give farmers a practical new tool to keep growing tomatoes on land that salt has rendered increasingly unproductive, according to a study led by a researcher at The University of Texas at El Paso.",
-      "link": "https://phys.org/news/2026-07-spray-tomatoes-salty-soils.html",
-      "published_utc": "2026-07-27T21:30:01+00:00",
+      "title": "When polymers meet primitive membranes: How molecular cooperation may have helped life begin",
+      "summary": "A new study suggests that simple molecules on early Earth may have worked together to create more stable, cell-like structures, offering fresh clues about one of science's biggest questions: how life began. Led by Dr. Moran Frenkel-Pinter of Hebrew University and her postdoctoral researcher, Dr. Rotem Edri, the research shows that two types of simple molecules, fatty acids and hydroxy acids, can combine to create structures that are stronger and more stable than either molecule can form alone.",
+      "link": "https://phys.org/news/2026-07-polymers-primitive-membranes-molecular-cooperation.html",
+      "published_utc": "2026-07-27T23:40:01+00:00",
       "score": 1,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/utep-researcher-helps.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/when-polymers-meet-pri.jpg"
     },
     {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Hubble shows star formation in Andromeda galaxy is winding down",
-      "summary": "A new study using data from NASA's Hubble Space Telescope finds that star formation in the nearby Andromeda galaxy has undergone a 500-million-year decline, with an even steeper drop in the last 40 million years. Andromeda, a spiral galaxy comparable in size to our Milky Way, is close enough to be seen with the unaided eye from areas with dark skies. Located about 2.5 million light-years from Earth—practically our cosmic backyard—Andromeda offers an opportunity for astronomers to examine its stellar populations in detail, leading to a better understanding of the past of galaxies like our own.",
-      "link": "https://phys.org/news/2026-07-hubble-star-formation-andromeda-galaxy.html",
-      "published_utc": "2026-07-27T21:20:09+00:00",
+      "title": "How changing environments can preserve an ancient microbial survival strategy",
+      "summary": "A research group led by Tetsuhiro Hatakeyama from the Earth-Life Science Institute (ELSI) at the Institute of Science Tokyo has revealed how a seemingly self-destructive survival strategy could persist in yeast for hundreds of millions of years. By combining population dynamics theory with comparative experimental observations, the team found that alternating periods of nutrient-rich conditions and starvation can stabilize this unusual behavior over evolutionary timescales. The findings were published in the Journal of the Royal Society Interface.",
+      "link": "https://phys.org/news/2026-07-environments-ancient-microbial-survival-strategy.html",
+      "published_utc": "2026-07-27T23:20:02+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hubble-shows-star-form.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-changing-environme.jpg"
     },
     {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Cracking the code: Can AI help us decipher ancient languages?",
-      "summary": "Every ancient language that has ever been deciphered needed an anchor. Usually that's a bilingual text, like the Rosetta Stone, or a known relative to compare it to. Linear A, the writing system of the Bronze Age Minoan civilization on the Greek island of Crete, has neither.",
-      "link": "https://phys.org/news/2026-07-code-ai-decipher-ancient-languages.html",
-      "published_utc": "2026-07-27T21:20:05+00:00",
-      "score": 0,
+      "title": "Seabirds trade their own survival to raise more chicks after energy-intensive breeding seasons",
+      "summary": "Wild seabirds that face high energy demands during the breeding season go on to migrate farther and raise more chicks the next year, but at a cost to their own survival. An international team led by researchers from Nagoya University raised the energy cost of flight for some birds and tracked them through the next year of their annual cycle.",
+      "link": "https://phys.org/news/2026-07-seabirds-survival-chicks-energy-intensive.html",
+      "published_utc": "2026-07-27T23:00:11+00:00",
+      "score": 1,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ancientlanguages.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/seabirds-trade-their-s.jpg"
     },
     {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "How invasive rats rewire coral reef food webs to create winners and losers",
-      "summary": "Invasive rats on tropical islands are creating winners and losers among the tiny underwater animals near the bottom of the food chain that inhabit surrounding coral reefs. Scientists say the changes to these marine ecosystems can rewire food chains on the reefs.",
-      "link": "https://phys.org/news/2026-07-invasive-rats-rewire-coral-reef.html",
-      "published_utc": "2026-07-27T21:00:36+00:00",
+      "title": "Researchers develop model that predicts which Red Sea fish are most likely to invade the Mediterranean",
+      "summary": "More than 120 fish species have migrated from the Red Sea to the Mediterranean since the Suez Canal opened more than 150 years ago. Now, researchers at Tel Aviv University have developed a statistical model that can predict which species are likely to make the journey next.",
+      "link": "https://phys.org/news/2026-07-red-sea-fish-invade-mediterranean.html",
+      "published_utc": "2026-07-27T23:00:02+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-develop-mo-1.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Kids who own cellphones have poorer reading comprehension scores than those who don't, researchers find",
+      "summary": "School cellphone bans might seem like a good way to improve learning for elementary school children, but new research published in Behavioral Sciences shows that simply owning a cellphone correlates with worse reading comprehension. Whether a child brings the phone to school made no difference in reading comprehension, the team of UCLA psychologists and researchers found.",
+      "link": "https://phys.org/news/2026-07-kids-cellphones-poorer-comprehension-scores.html",
+      "published_utc": "2026-07-27T22:50:01+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/kids-who-own-cellphone.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Listening to living soil may help people reconnect with nature",
+      "summary": "Strengthening the bond between people and nature—that is the aim of a German–Dutch EU project involving Oldenburg. The reasoning behind this is that people who feel they are part of the environment are more likely to campaign for its preservation.",
+      "link": "https://phys.org/news/2026-07-soil-people-reconnect-nature.html",
+      "published_utc": "2026-07-27T22:40:02+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-invasive-rats-rewi-1.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/putting-down-new-roots.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Molecular switch that activates cell growth signaling may offer more precise route for anticancer therapy",
+      "summary": "Cells carry their own growth switches. When enough nutrients—amino acids in particular—are available, cells flip this switch on and begin to grow. Researchers at KAIST and Yonsei University have uncovered the molecular mechanism by which amino acid signals activate this cellular growth switch. The findings are expected to open a new avenue for anticancer therapies that target abnormal growth signaling in tumor cells.",
+      "link": "https://phys.org/news/2026-07-molecular-cell-growth-precise-route.html",
+      "published_utc": "2026-07-27T22:40:01+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/kaist-identifies-a-mol-1.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Prolonged stretching reorganizes tissue scaffolds and uncages cell nuclei",
+      "summary": "How do tissues cope with being stretched for hours or even days? A study led by researchers at the Institute for Bioengineering of Catalonia (IBEC) has uncovered an unexpected answer: Cells radically reorganize their internal scaffolding and, in the process, release their nuclei from a protective keratin network.",
+      "link": "https://phys.org/news/2026-07-prolonged-tissue-scaffolds-uncages-cell.html",
+      "published_utc": "2026-07-27T22:30:03+00:00",
+      "score": 2,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/under-pressure-when-te.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "New thermodynamic framework explains pressure and edge currents in spinning active particles",
+      "summary": "Physicists from Heinrich Heine University Düsseldorf (HHU), the Technical University of Darmstadt, Sapienza University in Rome and the University of Camerino (both in Italy) have calculated the fundamental laws of thermodynamics for a gas composed of spinning particles. In the scientific journal Proceedings of the National Academy of Sciences (PNAS), they demonstrate that the pressure of this gas is similar to that of a normal gas but at an elevated temperature. In addition, localized surface currents arise that can be used for targeted particle transport.",
+      "link": "https://phys.org/news/2026-07-thermodynamic-framework-pressure-edge-currents.html",
+      "published_utc": "2026-07-27T22:20:04+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/thermodynamics-of-spin.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "How NASA plans to build the Habitable Worlds Observatory",
+      "summary": "We've been covering the journey of the Habitable Worlds Observatory for some time now. Over the past few years, it's gone from a proposal to a relatively fleshed-out plan for how and what the next Great Observatory should do—in this case, look at and characterize potentially habitable exoplanets.",
+      "link": "https://phys.org/news/2026-07-nasa-habitable-worlds-observatory.html",
+      "published_utc": "2026-07-27T22:20:01+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-nasa-plans-to-buil.jpg"
     },
     {
       "section": "medical",
@@ -934,42 +970,6 @@
       "score": 1,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/will-dietary-fiber-hel.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "NASA Breaking News",
-      "title": "NASA Astronaut Chris Williams to Discuss Space Station Mission",
-      "summary": "NASA astronaut Chris Williams will recap his recent eight-month mission aboard the International Space Station during a news conference at 2:45 p.m. EDT Tuesday, Aug. 4, from the agency’s Johnson Space Center in Houston. NASA will stream this event live through a variety of platforms. Learn where to watch online: https://www.nasa.gov/live United States-based media interested [&#8230;]",
-      "link": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-space-station-mission",
-      "published_utc": "2026-07-27T18:49:20+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-c6b67ac58a80de16/480/320"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "NASA Breaking News",
-      "title": "NASA Science Soars During August Total Solar Eclipse",
-      "summary": "Each time the Moon covers the Sun during a total solar eclipse — darkening daytime skies and briefly revealing the Sun’s ethereal outer atmosphere, the corona — it presents new opportunities to better understand our star and its influence on Earth. On Wednesday, Aug. 12, as the next total solar eclipse sweeps over Greenland, Iceland, […]",
-      "link": "https://science.nasa.gov/science-research/heliophysics/nasa-science-soars-during-august-total-solar-eclipse",
-      "published_utc": "2026-07-27T18:01:14+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-0fd7f42d91de332d/480/320"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "NASA Breaking News",
-      "title": "NASA’s Swift Sees ‘Wandering’ Mega Black Hole Shredding Star",
-      "summary": "NASA’s Neil Gehrels Swift Observatory captured an “orphan” black hole lighting up as it devoured a star on the outskirts of a faraway galaxy. These phenomena are rare to begin with, and none had ever before been seen so far outside of a galaxy’s core. “We were looking for these star-shredding events as a way […]",
-      "link": "https://science.nasa.gov/missions/swift/nasas-swift-sees-wandering-mega-black-hole-shredding-star",
-      "published_utc": "2026-07-27T16:06:37+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-5f4dda02ff9136ae/480/320"
     },
     {
       "section": "environment",
@@ -1160,6 +1160,7 @@
       "https://live.staticflickr.com/65535/55403277569_35d7f026cd_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/55403471432_44e13201da_b.jpg",
       "https://live.staticflickr.com/65535/55404758275_a1e43789b3_b.jpg",
       "https://live.staticflickr.com/65535/36160557701_fe187c8a62_b.jpg",
       "https://live.staticflickr.com/1473/25770151566_19fd3f5a62_b.jpg",
@@ -1176,10 +1177,10 @@
       "https://live.staticflickr.com/65535/55396913525_3785d08fbc_b.jpg",
       "https://live.staticflickr.com/65535/55401435514_a8cb3769fc_b.jpg",
       "https://live.staticflickr.com/65535/55419086715_639a943810_b.jpg",
-      "https://live.staticflickr.com/4520/38632303662_fba50381fa_b.jpg",
-      "https://live.staticflickr.com/65535/55418920989_87285c9321_b.jpg"
+      "https://live.staticflickr.com/4520/38632303662_fba50381fa_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55424788130_5680a887dd_b.jpg",
       "https://live.staticflickr.com/65535/55424311498_acff3f5fcc_b.jpg",
       "https://live.staticflickr.com/65535/55424049436_056861181f_b.jpg",
       "https://live.staticflickr.com/65535/55423805791_aa7ed90094_b.jpg",
@@ -1196,12 +1197,11 @@
       "https://live.staticflickr.com/65535/55419536347_6d25d9e369_b.jpg",
       "https://live.staticflickr.com/65535/55420753350_3726475c67_b.jpg",
       "https://live.staticflickr.com/65535/55420152771_9f9f70d63b_b.jpg",
-      "https://live.staticflickr.com/65535/55420142981_e1b91c582a_b.jpg",
-      "https://live.staticflickr.com/65535/55420107553_aecd9579e8_b.jpg"
+      "https://live.staticflickr.com/65535/55420142981_e1b91c582a_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
+      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
