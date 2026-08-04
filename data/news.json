@@ -1,42 +1,90 @@
 {
-  "generated_utc": "2026-08-04T08:16:22+00:00",
+  "generated_utc": "2026-08-04T11:14:56+00:00",
   "sections": {
     "romania": [
       {
         "section": "romania",
         "kind": "ro",
+        "source": "RomaniaPozitiva",
+        "title": "Peste 100.000 de participanți au celebrat orașul la Ziua Timișoarei | Timișoara City Celebration 2026. Ediția de anul viitor va avea loc între 30 iulie și 3 august 2027",
+        "summary": "Ziua Timișoarei &#124; Timișoara City Celebration 2026 s-a încheiat după patru zile în care Timișoara a devenit scena uneia dintre cele mai ample sărbători urbane din România. Între 31 iulie&#8230; Articolul Peste 100.000 de participanți au celebrat orașul la Ziua Timișoarei | Timișoara City Celebration 2026. Ediția de anul viitor va avea loc între 30 iulie și 3 august 2027 apare prima dată în Romania Pozitiva .",
+        "link": "https://www.romaniapozitiva.ro/administratie/peste-100-000-de-participanti-au-celebrat-orasul-la-ziua-timisoarei-timisoara-city-celebration-2026-editia-de-anul-viitor-va-avea-loc-intre-30-iulie-si-3-august-2027",
+        "published_utc": "2026-08-04T11:10:44+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-4c29a86758f5ed3a/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
         "source": "HotNews",
-        "title": "Rezultatele finale la Titularizare 2026 au fost afișate",
-        "summary": "Alți peste 1.000 de candidați la Titularizare 2026 au obținut note peste 7 după soluționarea contestațiilor, a anunțat marți Ministerul Educației. 17.205 de candidați care se pot titulariza, în timp ce numărul posturilor vacante este de 6.166. Rezultate finale Titularizare 2026. Note crescute după contestații pentru 62,52% din lucrări Rezultatele finale ale examenului de Titularizare &#8230;",
+        "title": "Statisticile care dor mai tare decât o carie. Schimbă viitorul împreună cu Philips Sonicare și Rețeaua Zâmbetelor!",
+        "summary": "În perioada 2026-2027, fiecare periuță electrică Philips Sonicare achiziționată de pe philips.ro ajută la îmbunătățirea sănătății orale a țării. Pentru fiecare comandă, Philips direcționează 2 EUR către „Rețeaua Zâmbetelor”, prima platformă națională colaborativă inițiată de Colegiul Medicilor Stomatologi din România (CMSR). Cifrele din spatele unei probleme naționale Sănătatea orală din România este, în prezent, o &#8230;",
+        "link": "https://hotnews.ro/statisticile-care-dor-mai-tare-decat-o-carie-schimba-viitorul-impreuna-cu-philips-sonicare-si-reteaua-zambetelor-2316771",
+        "published_utc": "2026-08-04T10:33:18+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-2f8fb8f42e0db773/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Start-Up Romania",
+        "title": "MOOV Leasing obține o facilitate de credit sindicalizat de 187 milioane de euro pentru accelerarea dezvoltării și extinderea leasingului operațional în România",
+        "summary": "MOOV Leasing anunță semnarea unei noi facilități de credit sindicalizat în valoare de 187 milioane de euro, una dintre cele mai importante finanțări sindicalizate acordate unei companii...",
+        "link": "https://start-up.ro/moov-leasing-obtine-o-facilitate-de-credit-sindicalizat-de-187-milioane-de-euro-pentru-accelerarea-dezvoltarii-si-extinderea-leasingului-operational-in-romania",
+        "published_utc": "2026-08-04T09:57:54+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://start-up.ro/img/articles/3/8/7/38768/cover-38768-src.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "[P] Ce bănci au cele mai bune credite de nevoi personale în 2026 și cum compari ratele corect",
+        "summary": "În 2026, banca cu cea mai mică rată la un credit de nevoi personale diferă în funcție de suma împrumutată, perioada de rambursare, profilul financiar, încasarea venitului și costurile suplimentare. Dobânzile fixe afișate pornesc de la 5,95% la Raiffeisen, 5,99% la ING, 6,29% la BCR în anumite condiții, 6,49% la Banca Transilvania și 6,99% la &#8230;",
+        "link": "https://hotnews.ro/p-ce-banci-au-cele-mai-bune-credite-de-nevoi-personale-in-2026-si-cum-compari-ratele-corect-2316706",
+        "published_utc": "2026-08-04T08:54:37+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-f83bb253c0a717ab/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Sameday a preluat Cargus. Ce se schimbă",
+        "summary": "Firma de curierat Cargus este deținută 100% de către Sameday începând cu 3 august, după ce tranzacția a fost avizată de Consiliul Concurenței, scrie StartupCafe.ro. De acum, cele două companii trec la integrarea operațională: rețelele de livrare, echipele și sistemele interne urmează să fie aliniate treptat, cu scopul de a oferi clienților un serviciu unitar, &#8230;",
+        "link": "https://hotnews.ro/sameday-a-preluat-cargus-ce-se-schimba-2316679",
+        "published_utc": "2026-08-04T08:30:57+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-d919b50fff05dfcf/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "RomaniaPozitiva",
+        "title": "Studiu Accenture: 81% dintre liderii europeni vor crește investițiile în AI în următoarele 12 luni",
+        "summary": "Companiile europene își mențin încrederea în potențialul inteligenței artificiale și continuă să investească în această tehnologie, în ciuda incertitudinilor economice și geopolitice. Potrivit celui mai recent studiu Accenture Pulse of&#8230; Articolul Studiu Accenture: 81% dintre liderii europeni vor crește investițiile în AI în următoarele 12 luni apare prima dată în Romania Pozitiva .",
+        "link": "https://www.romaniapozitiva.ro/economie/studiu-accenture-81-dintre-liderii-europeni-vor-creste-investitiile-in-ai-in-urmatoarele-12-luni",
+        "published_utc": "2026-08-04T08:19:01+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-e6332c2ad8d5fdea/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Rezultatele finale la Titularizare 2026 au fost afișate – 1.000 de profesori în plus",
+        "summary": "Alți peste 1.000 de candidați la examenul de Titularizare 2026 în învățământ au obținut note peste 7 după soluționarea contestațiilor, a anunțat marți Ministerul Educației. 17.205 de candidați care se pot titulariza, în timp ce numărul posturilor vacante este de 6.166. Rezultate finale Titularizare 2026. Note crescute după contestații pentru 62,52% din lucrări Rezultatele finale &#8230;",
         "link": "https://hotnews.ro/rezultatele-finale-la-titularizare-2026-au-fost-afisate-2316665",
         "published_utc": "2026-08-04T08:05:55+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-8999e1772a06bb58/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "„Spider-Man: Brand New Day” a doborât recordul din 2019 și a devenit filmul cu cele mai mari încasări din istorie la box office-ul nord american",
-        "summary": "Filmul „Spider-Man: Brand New Day” a înregistrat un debut fulminant de 360 de milioane de dolari pe piața internă a Hollywood, stabilind un nou record și devenind oficial lungmetrajul cu cel mai mare debut din istoria box office-ului nord-american, relatează revista Variety. După cum speculau analiștii din industria cinematografică încă de luni dimineața, „Brand New &#8230;",
-        "link": "https://hotnews.ro/spider-man-brand-new-day-filmul-record-istoric-incasari-box-office-2316639",
-        "published_utc": "2026-08-04T08:00:26+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-a144c3afb5f075aa/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Rezultate finale Titularizare 2026: Ministerul Educației a publicat notele după contestații. Situația pe județe",
-        "summary": "Ministerul Educației și Cercetării a publicat marți, 4 august, rezultatele finale ale concursului național de Titularizare 2026, după soluționarea contestațiilor depuse în urma probei scrise susținute pe 21 iulie. Digi24.ro prezintă situația notelor din fiecare județ.",
-        "link": "https://www.digi24.ro/stiri/actualitate/educatie/rezultate-finale-titularizare-2026-ministerul-educatiei-a-publicat-notele-dupa-contestatii-situatia-pe-judete-3891775",
-        "published_utc": "2026-08-04T07:55:47+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOCUyRjA0JTJGMjg5MDUyOF8yODkw/NTI4X1JlenVsdGF0ZS1maW5hbGUtVGl0/dWxhcml6YXJlLTIwMjZfLUZvdG8tR2V0/dHktSW1hZ2VzLmpwZyZoYXNoPWQ0YjRj/MDYyODQ5ZDZkNGE0YzBiMDdlMmM0ZDRmNGU4.jpg"
+        "image": "https://picsum.photos/seed/vb-9aa1734f98fb04d0/480/320"
       },
       {
         "section": "romania",
@@ -65,97 +113,26 @@
       {
         "section": "romania",
         "kind": "ro",
-        "source": "HotNews",
-        "title": "VIDEO. Virgil Ianțu l-a ironizat pe Dan Negru, după ce a primit titlul de cetățean de onoare al Timișoarei",
-        "summary": "Prezentatorul TV Virgil Ianțu a avut o replică ironică la adresa colegului său de breaslă, Dan Negru, în cadrul galei festive dedicate Zilei Timișoarei. Evenimentul a avut loc luni, când Consiliul Local al municipiului i-a decernat lui Ianțu titlul de cetățean de onoare, conform publicației locale Buletin de Timișoara. Ambele vedete de televiziune sunt originare &#8230;",
-        "link": "https://hotnews.ro/virgil-iantu-dan-negru-cetatean-de-onoare-al-timisoarei-2316520",
-        "published_utc": "2026-08-04T05:03:44+00:00",
-        "score": 2,
-        "image": "https://picsum.photos/seed/vb-3f8304d9e7ee24ab/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "RomaniaPozitiva",
-        "title": "Wild Experience Fest, ediția a III-a 2026: prima platformă socială offline din România revine cu două scene, artiști internaționali și una dintre cele mai spectaculoase experiențe în natură din țară",
-        "summary": "Între 20 și 23 august 2026, localitatea Corbu, județul Harghita, găzduiește cea de-a III-a ediție Wild Experience Fest, festivalul care îmbină muzica rock, natura, aventura și comunitățile într-o experiență unică&#8230; Articolul Wild Experience Fest, ediția a III-a 2026: prima platformă socială offline din România revine cu două scene, artiști internaționali și una dintre cele mai spectaculoase experiențe în natură din țară apare prima dată în Romania Pozitiva .",
-        "link": "https://www.romaniapozitiva.ro/cultura/wild-experience-fest-editia-a-iii-a-2026-prima-platforma-sociala-offline-din-romania-revine-cu-doua-scene-artisti-internationali-si-una-dintre-cele-mai-spectaculoase-experiente-in-natura-din-tara",
-        "published_utc": "2026-08-03T13:48:28+00:00",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 Vrei credit? Băncile acceptă la venituri și peturile pe care le găsești zilnic prin tomberoane",
+        "summary": "Băncile comerciale din România au anunțat că vor accepta, începând de luna viitoare, veniturile obținute din colectarea de ambalaje PET găsite în tomberoane ca sursă de venit eligibilă pentru acordarea de credite de nevoi personale. Potrivit noilor proceduri interne, clienții pot declara zilnic cantitatea de sticle de plastic recuperate din deșeuri, iar instituțiile financiare vor [&#8230;] The post Vrei credit? Băncile acceptă la venituri și peturile pe care le găsești zilnic prin tomberoane appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/life-death/vrei-credit-bancile-accepta-la-venituri-si-peturile-pe-care-le-gasesti-zilnic-prin-tomberoane",
+        "published_utc": "2026-08-02T07:09:50+00:00",
         "score": 3,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-0c7ebe5a255651dc/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "RomaniaPozitiva",
-        "title": "Festivalul de Film și Istorii începe în primul weekend cu Alina Manole, Radu Almășan și Romanian Youth Jazz Orchestra",
-        "summary": "Festivalul de Film și Istorii Râșnov (FFIR) debutează vineri, 7 august, și propune, timp de 17 zile, peste 100 de evenimente în Râșnov, Brașov, Feldioara și Codlea. Primul weekend aduce&#8230; Articolul Festivalul de Film și Istorii începe în primul weekend cu Alina Manole, Radu Almășan și Romanian Youth Jazz Orchestra apare prima dată în Romania Pozitiva .",
-        "link": "https://www.romaniapozitiva.ro/cultura/festivalul-de-film-si-istorii-incepe-in-primul-weekend-cu-alina-manole-radu-almasan-si-romanian-youth-jazz-orchestra",
-        "published_utc": "2026-08-03T13:36:25+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-a9ca75f63992d41d/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "RomaniaPozitiva",
-        "title": "Asociația SAMAS celebrează Săptămâna Mondială a Alăptării cu o nouă lucrare de artă urbană",
-        "summary": "Ploiești, 3 august 2026 − Asociația SAMAS celebrează Săptămâna Mondială a Alăptării (1-7 august) prin dezvelirea unei picturi murale care promovează alăptarea, la Spitalul Județean de Urgență „Dr. Constantin Andreoiu”&#8230; Articolul Asociația SAMAS celebrează Săptămâna Mondială a Alăptării cu o nouă lucrare de artă urbană apare prima dată în Romania Pozitiva .",
-        "link": "https://www.romaniapozitiva.ro/romania-pozitiva/asociatia-samas-celebreaza-saptamana-mondiala-a-alaptarii-cu-o-noua-lucrare-de-arta-urbana",
-        "published_utc": "2026-08-03T12:43:23+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-12eee416ed925d6b/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "RomaniaPozitiva",
-        "title": "Săptămâna Haferland revine pe 6 august: patru zile de cultură, tradiții și întâlniri memorabile în satele săsești din Transilvania în ediția 2026",
-        "summary": "Cea de-a XIV-a ediție a festivalului Săptămâna Haferland se va desfășura în perioada 6-9 august, tema din acest an fiind „Dor de Transilvania” Festivalul este organizat de Fundația Michael Schmidt&#8230; Articolul Săptămâna Haferland revine pe 6 august: patru zile de cultură, tradiții și întâlniri memorabile în satele săsești din Transilvania în ediția 2026 apare prima dată în Romania Pozitiva .",
-        "link": "https://www.romaniapozitiva.ro/branding-romania/saptamana-haferland-revine-pe-6-august-patru-zile-de-cultura-traditii-si-intalniri-memorabile-in-satele-sasesti-din-transilvania-in-editia-2026",
-        "published_utc": "2026-08-03T12:37:36+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-d443421e445d755f/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "RomaniaPozitiva",
-        "title": "O Noapte la Muzeu  – Cinema în Grădină. Proiecție de film: Parthenope",
-        "summary": "Muzeului Hărților: strada Londra nr. 39, București. Acces: vineri, 6 august de la ora 19:00 Bilete pachet premium: 90 lei (scaun și loc premium + popcorn + 1 drink) Bilete&#8230; Articolul O Noapte la Muzeu &#8211; Cinema în Grădină. Proiecție de film: Parthenope apare prima dată în Romania Pozitiva .",
-        "link": "https://www.romaniapozitiva.ro/bucuresti/o-noapte-la-muzeu-cinema-in-gradina-proiectie-de-film-parthenope",
-        "published_utc": "2026-08-03T11:58:23+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-8cab9bb87d559dc2/480/320"
+        "freshness_boost": 1,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/08/credit-si-cu-pet.jpg"
       },
       {
         "section": "romania",
         "kind": "ro",
         "source": "Times New Roman (Satira)",
-        "title": "😂 Alte efecte",
-        "summary": "The post Alte efecte appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/ovi/alte-efecte",
-        "published_utc": "2026-08-03T08:10:18+00:00",
+        "title": "😂 Guvernul dezvoltă un AI care îți va cere o copie de buletin orice îl întrebi",
+        "summary": "România se alătură efortului european de a construi un sistem AI care să concureze cu cele americane și chineze și să reducă astfel dependența continentului de tehnologia străină. AI-ul românesc a fost conceput de Ministerul Digitalizării și funcționează la fel ca celelalte produse din această gamă. Astfel, dacă utilizatorul va dori să-l întrebe ceva pe [&#8230;] The post Guvernul dezvoltă un AI care îți va cere o copie de buletin orice îl întrebi appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/it-stiinta/guvernul-dezvolta-un-ai-care-iti-va-cere-o-copie-de-buletin-orice-il-intrebi",
+        "published_utc": "2026-08-01T16:22:40+00:00",
         "score": 3,
         "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/08/Alte-efecte.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 Care o fi secretul lui? Deşi a băut 16 beri, Nea Costel are vârsta biologică de doar 12 beri",
-        "summary": "Specialiștii încă încearcă să desluşească fenomenul ciudat dintr-un birt din Gara de Nord! Deşi a consumat 16 beri până la ora asta, îndrăgitul drojdier nea Costel continuă să aibă o vârstă biologică estimată la doar 12 beri. &#8222;După berea cu numărul 16, nea Costel a cerut nota, şi-a pus şapca în cap şi a plecat [&#8230;] The post Care o fi secretul lui? Deşi a băut 16 beri, Nea Costel are vârsta biologică de doar 12 beri appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/monden/care-o-fi-secretul-lui-desi-a-baut-16-beri-nea-costel-are-varsta-biologica-de-doar-12-beri",
-        "published_utc": "2026-08-03T04:37:00+00:00",
-        "score": 3,
-        "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/nea_costel_bere_terasa.jpg"
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/08/ai-doar-cu-buletinul.jpg"
       },
       {
         "section": "romania",
@@ -180,18 +157,6 @@
         "score": 3,
         "freshness_boost": 0,
         "image": "https://picsum.photos/seed/vb-0cc54a513713695c/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Green Start-Up Romania",
-        "title": "O mașină electrică din China s-a încărcat aproape la fel de rapid ca și cum i-ai fi făcut un plin de benzină",
-        "summary": "O companie chineză a reușit performanța să încarce o baterie pentru mașini electrice până la 70% în doar 3 minute și 41 de secunde. În doar 8 minute, automobilul a fost încărcat până la 97% și se...",
-        "link": "https://green.start-up.ro/ro/o-masina-electrica-din-china-s-a-incarcat-aproape-la-fel-de-rapid-ca-si-cum-i-ai-fi-facut-un-plin-de-benzina",
-        "published_utc": "2026-07-30T06:35:03+00:00",
-        "score": 3,
-        "freshness_boost": 0,
-        "image": "https://green.start-up.ro/img/articles/3/6/0/36025/cover-36025-src.jpg"
       },
       {
         "section": "romania",
@@ -589,74 +554,26 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "HotNews",
-      "title": "Rezultatele finale la Titularizare 2026 au fost afișate",
-      "summary": "Alți peste 1.000 de candidați la Titularizare 2026 au obținut note peste 7 după soluționarea contestațiilor, a anunțat marți Ministerul Educației. 17.205 de candidați care se pot titulariza, în timp ce numărul posturilor vacante este de 6.166. Rezultate finale Titularizare 2026. Note crescute după contestații pentru 62,52% din lucrări Rezultatele finale ale examenului de Titularizare &#8230;",
-      "link": "https://hotnews.ro/rezultatele-finale-la-titularizare-2026-au-fost-afisate-2316665",
-      "published_utc": "2026-08-04T08:05:55+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-8999e1772a06bb58/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Alte efecte",
-      "summary": "The post Alte efecte appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/ovi/alte-efecte",
-      "published_utc": "2026-08-03T08:10:18+00:00",
-      "score": 3,
-      "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/08/Alte-efecte.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "HotNews",
-      "title": "„Spider-Man: Brand New Day” a doborât recordul din 2019 și a devenit filmul cu cele mai mari încasări din istorie la box office-ul nord american",
-      "summary": "Filmul „Spider-Man: Brand New Day” a înregistrat un debut fulminant de 360 de milioane de dolari pe piața internă a Hollywood, stabilind un nou record și devenind oficial lungmetrajul cu cel mai mare debut din istoria box office-ului nord-american, relatează revista Variety. După cum speculau analiștii din industria cinematografică încă de luni dimineața, „Brand New &#8230;",
-      "link": "https://hotnews.ro/spider-man-brand-new-day-filmul-record-istoric-incasari-box-office-2316639",
-      "published_utc": "2026-08-04T08:00:26+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-a144c3afb5f075aa/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Rezultate finale Titularizare 2026: Ministerul Educației a publicat notele după contestații. Situația pe județe",
-      "summary": "Ministerul Educației și Cercetării a publicat marți, 4 august, rezultatele finale ale concursului național de Titularizare 2026, după soluționarea contestațiilor depuse în urma probei scrise susținute pe 21 iulie. Digi24.ro prezintă situația notelor din fiecare județ.",
-      "link": "https://www.digi24.ro/stiri/actualitate/educatie/rezultate-finale-titularizare-2026-ministerul-educatiei-a-publicat-notele-dupa-contestatii-situatia-pe-judete-3891775",
-      "published_utc": "2026-08-04T07:55:47+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOCUyRjA0JTJGMjg5MDUyOF8yODkw/NTI4X1JlenVsdGF0ZS1maW5hbGUtVGl0/dWxhcml6YXJlLTIwMjZfLUZvdG8tR2V0/dHktSW1hZ2VzLmpwZyZoYXNoPWQ0YjRj/MDYyODQ5ZDZkNGE0YzBiMDdlMmM0ZDRmNGU4.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "RomaniaPozitiva",
-      "title": "Ce nu știu Directorii de HR despre performanța echipelor în criză",
-      "summary": "Autor: Elena Badea, Managing Director, Valoria Business Solutions În ultimii șase ani, companiile au traversat o succesiune de crize care nu mai seamănă cu nimic din ceea ce literatura de&#8230; Articolul Ce nu știu Directorii de HR despre performanța echipelor în criză apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/romania-pozitiva/ce-nu-stiu-directorii-de-hr-despre-performanta-echipelor-in-criza",
-      "published_utc": "2026-08-04T07:34:14+00:00",
+      "title": "Peste 100.000 de participanți au celebrat orașul la Ziua Timișoarei | Timișoara City Celebration 2026. Ediția de anul viitor va avea loc între 30 iulie și 3 august 2027",
+      "summary": "Ziua Timișoarei &#124; Timișoara City Celebration 2026 s-a încheiat după patru zile în care Timișoara a devenit scena uneia dintre cele mai ample sărbători urbane din România. Între 31 iulie&#8230; Articolul Peste 100.000 de participanți au celebrat orașul la Ziua Timișoarei | Timișoara City Celebration 2026. Ediția de anul viitor va avea loc între 30 iulie și 3 august 2027 apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/administratie/peste-100-000-de-participanti-au-celebrat-orasul-la-ziua-timisoarei-timisoara-city-celebration-2026-editia-de-anul-viitor-va-avea-loc-intre-30-iulie-si-3-august-2027",
+      "published_utc": "2026-08-04T11:10:44+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-8dad8b13b10d756c/480/320"
+      "image": "https://picsum.photos/seed/vb-4c29a86758f5ed3a/480/320"
     },
     {
       "section": "romania",
       "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "Wild Experience Fest, ediția a III-a 2026: prima platformă socială offline din România revine cu două scene, artiști internaționali și una dintre cele mai spectaculoase experiențe în natură din țară",
-      "summary": "Între 20 și 23 august 2026, localitatea Corbu, județul Harghita, găzduiește cea de-a III-a ediție Wild Experience Fest, festivalul care îmbină muzica rock, natura, aventura și comunitățile într-o experiență unică&#8230; Articolul Wild Experience Fest, ediția a III-a 2026: prima platformă socială offline din România revine cu două scene, artiști internaționali și una dintre cele mai spectaculoase experiențe în natură din țară apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/cultura/wild-experience-fest-editia-a-iii-a-2026-prima-platforma-sociala-offline-din-romania-revine-cu-doua-scene-artisti-internationali-si-una-dintre-cele-mai-spectaculoase-experiente-in-natura-din-tara",
-      "published_utc": "2026-08-03T13:48:28+00:00",
+      "source": "Start-Up Romania",
+      "title": "MOOV Leasing obține o facilitate de credit sindicalizat de 187 milioane de euro pentru accelerarea dezvoltării și extinderea leasingului operațional în România",
+      "summary": "MOOV Leasing anunță semnarea unei noi facilități de credit sindicalizat în valoare de 187 milioane de euro, una dintre cele mai importante finanțări sindicalizate acordate unei companii...",
+      "link": "https://start-up.ro/moov-leasing-obtine-o-facilitate-de-credit-sindicalizat-de-187-milioane-de-euro-pentru-accelerarea-dezvoltarii-si-extinderea-leasingului-operational-in-romania",
+      "published_utc": "2026-08-04T09:57:54+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-0c7ebe5a255651dc/480/320"
+      "image": "https://start-up.ro/img/articles/3/8/7/38768/cover-38768-src.jpg"
     },
     {
       "section": "romania",
@@ -673,73 +590,98 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "Festivalul de Film și Istorii începe în primul weekend cu Alina Manole, Radu Almășan și Romanian Youth Jazz Orchestra",
-      "summary": "Festivalul de Film și Istorii Râșnov (FFIR) debutează vineri, 7 august, și propune, timp de 17 zile, peste 100 de evenimente în Râșnov, Brașov, Feldioara și Codlea. Primul weekend aduce&#8230; Articolul Festivalul de Film și Istorii începe în primul weekend cu Alina Manole, Radu Almășan și Romanian Youth Jazz Orchestra apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/cultura/festivalul-de-film-si-istorii-incepe-in-primul-weekend-cu-alina-manole-radu-almasan-si-romanian-youth-jazz-orchestra",
-      "published_utc": "2026-08-03T13:36:25+00:00",
+      "source": "HotNews",
+      "title": "[P] Ce bănci au cele mai bune credite de nevoi personale în 2026 și cum compari ratele corect",
+      "summary": "În 2026, banca cu cea mai mică rată la un credit de nevoi personale diferă în funcție de suma împrumutată, perioada de rambursare, profilul financiar, încasarea venitului și costurile suplimentare. Dobânzile fixe afișate pornesc de la 5,95% la Raiffeisen, 5,99% la ING, 6,29% la BCR în anumite condiții, 6,49% la Banca Transilvania și 6,99% la &#8230;",
+      "link": "https://hotnews.ro/p-ce-banci-au-cele-mai-bune-credite-de-nevoi-personale-in-2026-si-cum-compari-ratele-corect-2316706",
+      "published_utc": "2026-08-04T08:54:37+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-a9ca75f63992d41d/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "Asociația SAMAS celebrează Săptămâna Mondială a Alăptării cu o nouă lucrare de artă urbană",
-      "summary": "Ploiești, 3 august 2026 − Asociația SAMAS celebrează Săptămâna Mondială a Alăptării (1-7 august) prin dezvelirea unei picturi murale care promovează alăptarea, la Spitalul Județean de Urgență „Dr. Constantin Andreoiu”&#8230; Articolul Asociația SAMAS celebrează Săptămâna Mondială a Alăptării cu o nouă lucrare de artă urbană apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/romania-pozitiva/asociatia-samas-celebreaza-saptamana-mondiala-a-alaptarii-cu-o-noua-lucrare-de-arta-urbana",
-      "published_utc": "2026-08-03T12:43:23+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-12eee416ed925d6b/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "Săptămâna Haferland revine pe 6 august: patru zile de cultură, tradiții și întâlniri memorabile în satele săsești din Transilvania în ediția 2026",
-      "summary": "Cea de-a XIV-a ediție a festivalului Săptămâna Haferland se va desfășura în perioada 6-9 august, tema din acest an fiind „Dor de Transilvania” Festivalul este organizat de Fundația Michael Schmidt&#8230; Articolul Săptămâna Haferland revine pe 6 august: patru zile de cultură, tradiții și întâlniri memorabile în satele săsești din Transilvania în ediția 2026 apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/branding-romania/saptamana-haferland-revine-pe-6-august-patru-zile-de-cultura-traditii-si-intalniri-memorabile-in-satele-sasesti-din-transilvania-in-editia-2026",
-      "published_utc": "2026-08-03T12:37:36+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-d443421e445d755f/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "O Noapte la Muzeu  – Cinema în Grădină. Proiecție de film: Parthenope",
-      "summary": "Muzeului Hărților: strada Londra nr. 39, București. Acces: vineri, 6 august de la ora 19:00 Bilete pachet premium: 90 lei (scaun și loc premium + popcorn + 1 drink) Bilete&#8230; Articolul O Noapte la Muzeu &#8211; Cinema în Grădină. Proiecție de film: Parthenope apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/bucuresti/o-noapte-la-muzeu-cinema-in-gradina-proiectie-de-film-parthenope",
-      "published_utc": "2026-08-03T11:58:23+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-8cab9bb87d559dc2/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Care o fi secretul lui? Deşi a băut 16 beri, Nea Costel are vârsta biologică de doar 12 beri",
-      "summary": "Specialiștii încă încearcă să desluşească fenomenul ciudat dintr-un birt din Gara de Nord! Deşi a consumat 16 beri până la ora asta, îndrăgitul drojdier nea Costel continuă să aibă o vârstă biologică estimată la doar 12 beri. &#8222;După berea cu numărul 16, nea Costel a cerut nota, şi-a pus şapca în cap şi a plecat [&#8230;] The post Care o fi secretul lui? Deşi a băut 16 beri, Nea Costel are vârsta biologică de doar 12 beri appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/monden/care-o-fi-secretul-lui-desi-a-baut-16-beri-nea-costel-are-varsta-biologica-de-doar-12-beri",
-      "published_utc": "2026-08-03T04:37:00+00:00",
-      "score": 3,
-      "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/nea_costel_bere_terasa.jpg"
+      "image": "https://picsum.photos/seed/vb-f83bb253c0a717ab/480/320"
     },
     {
       "section": "romania",
       "kind": "ro",
       "source": "HotNews",
-      "title": "VIDEO. Virgil Ianțu l-a ironizat pe Dan Negru, după ce a primit titlul de cetățean de onoare al Timișoarei",
-      "summary": "Prezentatorul TV Virgil Ianțu a avut o replică ironică la adresa colegului său de breaslă, Dan Negru, în cadrul galei festive dedicate Zilei Timișoarei. Evenimentul a avut loc luni, când Consiliul Local al municipiului i-a decernat lui Ianțu titlul de cetățean de onoare, conform publicației locale Buletin de Timișoara. Ambele vedete de televiziune sunt originare &#8230;",
-      "link": "https://hotnews.ro/virgil-iantu-dan-negru-cetatean-de-onoare-al-timisoarei-2316520",
-      "published_utc": "2026-08-04T05:03:44+00:00",
-      "score": 2,
-      "image": "https://picsum.photos/seed/vb-3f8304d9e7ee24ab/480/320"
+      "title": "Sameday a preluat Cargus. Ce se schimbă",
+      "summary": "Firma de curierat Cargus este deținută 100% de către Sameday începând cu 3 august, după ce tranzacția a fost avizată de Consiliul Concurenței, scrie StartupCafe.ro. De acum, cele două companii trec la integrarea operațională: rețelele de livrare, echipele și sistemele interne urmează să fie aliniate treptat, cu scopul de a oferi clienților un serviciu unitar, &#8230;",
+      "link": "https://hotnews.ro/sameday-a-preluat-cargus-ce-se-schimba-2316679",
+      "published_utc": "2026-08-04T08:30:57+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-d919b50fff05dfcf/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "Statisticile care dor mai tare decât o carie. Schimbă viitorul împreună cu Philips Sonicare și Rețeaua Zâmbetelor!",
+      "summary": "În perioada 2026-2027, fiecare periuță electrică Philips Sonicare achiziționată de pe philips.ro ajută la îmbunătățirea sănătății orale a țării. Pentru fiecare comandă, Philips direcționează 2 EUR către „Rețeaua Zâmbetelor”, prima platformă națională colaborativă inițiată de Colegiul Medicilor Stomatologi din România (CMSR). Cifrele din spatele unei probleme naționale Sănătatea orală din România este, în prezent, o &#8230;",
+      "link": "https://hotnews.ro/statisticile-care-dor-mai-tare-decat-o-carie-schimba-viitorul-impreuna-cu-philips-sonicare-si-reteaua-zambetelor-2316771",
+      "published_utc": "2026-08-04T10:33:18+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-2f8fb8f42e0db773/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "RomaniaPozitiva",
+      "title": "Studiu Accenture: 81% dintre liderii europeni vor crește investițiile în AI în următoarele 12 luni",
+      "summary": "Companiile europene își mențin încrederea în potențialul inteligenței artificiale și continuă să investească în această tehnologie, în ciuda incertitudinilor economice și geopolitice. Potrivit celui mai recent studiu Accenture Pulse of&#8230; Articolul Studiu Accenture: 81% dintre liderii europeni vor crește investițiile în AI în următoarele 12 luni apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/economie/studiu-accenture-81-dintre-liderii-europeni-vor-creste-investitiile-in-ai-in-urmatoarele-12-luni",
+      "published_utc": "2026-08-04T08:19:01+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-e6332c2ad8d5fdea/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "Rezultatele finale la Titularizare 2026 au fost afișate – 1.000 de profesori în plus",
+      "summary": "Alți peste 1.000 de candidați la examenul de Titularizare 2026 în învățământ au obținut note peste 7 după soluționarea contestațiilor, a anunțat marți Ministerul Educației. 17.205 de candidați care se pot titulariza, în timp ce numărul posturilor vacante este de 6.166. Rezultate finale Titularizare 2026. Note crescute după contestații pentru 62,52% din lucrări Rezultatele finale &#8230;",
+      "link": "https://hotnews.ro/rezultatele-finale-la-titularizare-2026-au-fost-afisate-2316665",
+      "published_utc": "2026-08-04T08:05:55+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-9aa1734f98fb04d0/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "RomaniaPozitiva",
+      "title": "Ce nu știu Directorii de HR despre performanța echipelor în criză",
+      "summary": "Autor: Elena Badea, Managing Director, Valoria Business Solutions În ultimii șase ani, companiile au traversat o succesiune de crize care nu mai seamănă cu nimic din ceea ce literatura de&#8230; Articolul Ce nu știu Directorii de HR despre performanța echipelor în criză apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/romania-pozitiva/ce-nu-stiu-directorii-de-hr-despre-performanta-echipelor-in-criza",
+      "published_utc": "2026-08-04T07:34:14+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-8dad8b13b10d756c/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Vrei credit? Băncile acceptă la venituri și peturile pe care le găsești zilnic prin tomberoane",
+      "summary": "Băncile comerciale din România au anunțat că vor accepta, începând de luna viitoare, veniturile obținute din colectarea de ambalaje PET găsite în tomberoane ca sursă de venit eligibilă pentru acordarea de credite de nevoi personale. Potrivit noilor proceduri interne, clienții pot declara zilnic cantitatea de sticle de plastic recuperate din deșeuri, iar instituțiile financiare vor [&#8230;] The post Vrei credit? Băncile acceptă la venituri și peturile pe care le găsești zilnic prin tomberoane appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/life-death/vrei-credit-bancile-accepta-la-venituri-si-peturile-pe-care-le-gasesti-zilnic-prin-tomberoane",
+      "published_utc": "2026-08-02T07:09:50+00:00",
+      "score": 3,
+      "freshness_boost": 1,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/08/credit-si-cu-pet.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Guvernul dezvoltă un AI care îți va cere o copie de buletin orice îl întrebi",
+      "summary": "România se alătură efortului european de a construi un sistem AI care să concureze cu cele americane și chineze și să reducă astfel dependența continentului de tehnologia străină. AI-ul românesc a fost conceput de Ministerul Digitalizării și funcționează la fel ca celelalte produse din această gamă. Astfel, dacă utilizatorul va dori să-l întrebe ceva pe [&#8230;] The post Guvernul dezvoltă un AI care îți va cere o copie de buletin orice îl întrebi appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/it-stiinta/guvernul-dezvolta-un-ai-care-iti-va-cere-o-copie-de-buletin-orice-il-intrebi",
+      "published_utc": "2026-08-01T16:22:40+00:00",
+      "score": 3,
+      "freshness_boost": 1,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/08/ai-doar-cu-buletinul.jpg"
     },
     {
       "section": "romania",
@@ -768,30 +710,6 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Green Start-Up Romania",
-      "title": "O mașină electrică din China s-a încărcat aproape la fel de rapid ca și cum i-ai fi făcut un plin de benzină",
-      "summary": "O companie chineză a reușit performanța să încarce o baterie pentru mașini electrice până la 70% în doar 3 minute și 41 de secunde. În doar 8 minute, automobilul a fost încărcat până la 97% și se...",
-      "link": "https://green.start-up.ro/ro/o-masina-electrica-din-china-s-a-incarcat-aproape-la-fel-de-rapid-ca-si-cum-i-ai-fi-facut-un-plin-de-benzina",
-      "published_utc": "2026-07-30T06:35:03+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://green.start-up.ro/img/articles/3/6/0/36025/cover-36025-src.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Underground fungal networks come into 3D view without disturbing plant roots",
-      "summary": "Symbioses between plants and fungi are essential for most plants. Fungal structures known as mycorrhizae extend the area from which plants can draw water and nutrients from the soil. In return, plants supply the fungi with carbohydrates produced through photosynthesis. Although the importance of this symbiosis has been known for decades, researchers have not previously been able to study the underground network in its natural structure.",
-      "link": "https://phys.org/news/2026-08-underground-fungal-networks-3d-view.html",
-      "published_utc": "2026-08-03T21:40:06+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/underground-fungal-net.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "Fundatia Vodafone Romania",
       "title": "Peste 17.600 de elevi și peste 900 de profesori au fost „Exploratori în lumea inteligenței artificiale”",
       "summary": "București, 27 iulie 2026 &#8211; Fundația Vodafone România, Ministerul Educației și Cercetării și Asociația Clubul Informaticii Economice &#8211; CyberKnowledge Club au adus educația despre inteligența artificială mai aproape de elevii de gimnaziu și profesorii lor prin proiectul „Conținut AI &#8211; Școala din viitor pentru Gimnaziu &#8211; Exploratori în lumea inteligenței artificiale”. Peste 17.600 de elevi [&#8230;] The post Peste 17.600 de elevi și peste 900 de profesori au fost „Exploratori în lumea inteligenței artificiale” appeared first on Fundația Vodafone România - e normal sa facem bine .",
@@ -814,6 +732,54 @@
       "image": "https://picsum.photos/seed/vb-e1bbe11509aecd85/480/320"
     },
     {
+      "section": "romania",
+      "kind": "ro",
+      "source": "World Vision Romania",
+      "title": "WEBTECTIVII",
+      "summary": "Asociația The Da Vinci System (Cluj) - Educație pentru siguranța copiilor în mediul online. Articolul WEBTECTIVII apare prima dată în World Vision România .",
+      "link": "https://worldvision.ro/2026/07/16/webtectivii",
+      "published_utc": "2026-07-16T14:59:20+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-2c8c13d08b21f659/480/320"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Underground fungal networks come into 3D view without disturbing plant roots",
+      "summary": "Symbioses between plants and fungi are essential for most plants. Fungal structures known as mycorrhizae extend the area from which plants can draw water and nutrients from the soil. In return, plants supply the fungi with carbohydrates produced through photosynthesis. Although the importance of this symbiosis has been known for decades, researchers have not previously been able to study the underground network in its natural structure.",
+      "link": "https://phys.org/news/2026-08-underground-fungal-networks-3d-view.html",
+      "published_utc": "2026-08-03T21:40:06+00:00",
+      "score": 2,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/underground-fungal-net.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "World Vision Romania",
+      "title": "Aproape 100.000 de copii învață în clase simultane. World Vision România propune o soluție națională pentru profesorii care predau mai multor clase în aceeași oră.",
+      "summary": "București, 16 iulie. Aproape 100.000 de elevi din România învață în clase organizate în regim simultan, majoritatea în mediul rural,... Articolul Aproape 100.000 de copii învață în clase simultane. World Vision România propune o soluție națională pentru profesorii care predau mai multor clase în aceeași oră. apare prima dată în World Vision România .",
+      "link": "https://worldvision.ro/2026/07/16/aproape-100-000-de-copii-invata-in-clase-simultane",
+      "published_utc": "2026-07-16T12:07:19+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-1f843baf2f3a4c1b/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "World Vision Romania",
+      "title": "Harmony – Viitorul începe cu respect",
+      "summary": "Asociația Împreună pentru Viitor (Constanța) - Educație, colaborare și empatie pentru un mediu școlar mai sigur. Articolul Harmony &#8211; Viitorul începe cu respect apare prima dată în World Vision România .",
+      "link": "https://worldvision.ro/2026/07/14/harmony-viitorul-incepe-cu-respect",
+      "published_utc": "2026-07-14T13:59:14+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-954bfe38ec8a17dd/480/320"
+    },
+    {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
@@ -829,25 +795,25 @@
       "section": "romania",
       "kind": "ro",
       "source": "World Vision Romania",
-      "title": "WEBTECTIVII",
-      "summary": "Asociația The Da Vinci System (Cluj) - Educație pentru siguranța copiilor în mediul online. Articolul WEBTECTIVII apare prima dată în World Vision România .",
-      "link": "https://worldvision.ro/2026/07/16/webtectivii",
-      "published_utc": "2026-07-16T14:59:20+00:00",
+      "title": "Mediu școlar mai sigur pentru copii",
+      "summary": "Asociația pentru Dezvoltare Comunitară Vaslui - Școli mai sigure pentru fiecare copil, prin educație și responsabilitate comună. Articolul Mediu școlar mai sigur pentru copii apare prima dată în World Vision România .",
+      "link": "https://worldvision.ro/2026/07/11/mediu-scolar-mai-sigur-pentru-copii",
+      "published_utc": "2026-07-11T11:02:54+00:00",
       "score": 3,
       "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-2c8c13d08b21f659/480/320"
+      "image": "https://picsum.photos/seed/vb-ad67b514ee531c9b/480/320"
     },
     {
       "section": "romania",
       "kind": "ro",
       "source": "World Vision Romania",
-      "title": "Aproape 100.000 de copii învață în clase simultane. World Vision România propune o soluție națională pentru profesorii care predau mai multor clase în aceeași oră.",
-      "summary": "București, 16 iulie. Aproape 100.000 de elevi din România învață în clase organizate în regim simultan, majoritatea în mediul rural,... Articolul Aproape 100.000 de copii învață în clase simultane. World Vision România propune o soluție națională pentru profesorii care predau mai multor clase în aceeași oră. apare prima dată în World Vision România .",
-      "link": "https://worldvision.ro/2026/07/16/aproape-100-000-de-copii-invata-in-clase-simultane",
-      "published_utc": "2026-07-16T12:07:19+00:00",
+      "title": "FII SMART! Bullying-ul nu este COOL",
+      "summary": "Asociația Aici pentru Tine (Brașov) - Elevii, părinții și profesorii au colaborat pentru a preveni bullyingul și a construi un mediu școlar mai sigur. Articolul FII SMART! Bullying-ul nu este COOL apare prima dată în World Vision România .",
+      "link": "https://worldvision.ro/2026/07/10/fii-smart-bullying-ul-nu-este-cool",
+      "published_utc": "2026-07-10T18:31:23+00:00",
       "score": 3,
       "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-1f843baf2f3a4c1b/480/320"
+      "image": "https://picsum.photos/seed/vb-d5fed42c9a0bbcbc/480/320"
     },
     {
       "section": "science",
@@ -864,26 +830,14 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "World Vision Romania",
-      "title": "Harmony – Viitorul începe cu respect",
-      "summary": "Asociația Împreună pentru Viitor (Constanța) - Educație, colaborare și empatie pentru un mediu școlar mai sigur. Articolul Harmony &#8211; Viitorul începe cu respect apare prima dată în World Vision România .",
-      "link": "https://worldvision.ro/2026/07/14/harmony-viitorul-incepe-cu-respect",
-      "published_utc": "2026-07-14T13:59:14+00:00",
+      "source": "Fundatia Inocenti",
+      "title": "Inocenți, locul în care curajul crește pas cu pas",
+      "summary": "Descoperă povestea Alinei și cum sprijinul oferit de Fundația Inocenți a ajutat-o să își dezvolte încrederea în sine, abilitățile școlare și curajul de a reuși. The post Inocenți, locul în care curajul crește pas cu pas appeared first on Fundația Inocenți .",
+      "link": "https://inocenti.ro/inocenti-locul-in-care-curajul-creste-pas-cu-pas",
+      "published_utc": "2026-07-10T10:30:22+00:00",
       "score": 3,
       "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-954bfe38ec8a17dd/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "World Vision Romania",
-      "title": "Mediu școlar mai sigur pentru copii",
-      "summary": "Asociația pentru Dezvoltare Comunitară Vaslui - Școli mai sigure pentru fiecare copil, prin educație și responsabilitate comună. Articolul Mediu școlar mai sigur pentru copii apare prima dată în World Vision România .",
-      "link": "https://worldvision.ro/2026/07/11/mediu-scolar-mai-sigur-pentru-copii",
-      "published_utc": "2026-07-11T11:02:54+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-ad67b514ee531c9b/480/320"
+      "image": "https://picsum.photos/seed/vb-9017d5ebea453c95/480/320"
     },
     {
       "section": "science",
@@ -896,30 +850,6 @@
       "score": 0,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-encryption.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "World Vision Romania",
-      "title": "FII SMART! Bullying-ul nu este COOL",
-      "summary": "Asociația Aici pentru Tine (Brașov) - Elevii, părinții și profesorii au colaborat pentru a preveni bullyingul și a construi un mediu școlar mai sigur. Articolul FII SMART! Bullying-ul nu este COOL apare prima dată în World Vision România .",
-      "link": "https://worldvision.ro/2026/07/10/fii-smart-bullying-ul-nu-este-cool",
-      "published_utc": "2026-07-10T18:31:23+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-d5fed42c9a0bbcbc/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Fundatia Inocenti",
-      "title": "Inocenți, locul în care curajul crește pas cu pas",
-      "summary": "Descoperă povestea Alinei și cum sprijinul oferit de Fundația Inocenți a ajutat-o să își dezvolte încrederea în sine, abilitățile școlare și curajul de a reuși. The post Inocenți, locul în care curajul crește pas cu pas appeared first on Fundația Inocenți .",
-      "link": "https://inocenti.ro/inocenti-locul-in-care-curajul-creste-pas-cu-pas",
-      "published_utc": "2026-07-10T10:30:22+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-9017d5ebea453c95/480/320"
     },
     {
       "section": "science",
@@ -1168,8 +1098,8 @@
     "source": "data/jokes_ro.txt"
   },
   "satire_ro": {
-    "title": "Situație la Cernavodă",
-    "link": "https://www.timesnewroman.ro/ovi/situatie-la-cernavoda/",
+    "title": "Lucian Mîndruţă a tăiat panglica noului sediu al Casei de Pensii din Nibiru",
+    "link": "https://www.timesnewroman.ro/monden/lucian-mindruta-a-taiat-panglica-noului-sediu-al-casei-de-pensii-din-nibiru/",
     "source": "timesnewroman.ro"
   },
   "top_images": [
@@ -1254,6 +1184,7 @@
       "https://live.staticflickr.com/65535/55419103922_b2cb7a5658_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/8333015849_a0bd99c86f_b.jpg",
       "https://live.staticflickr.com/65535/8334107912_03abd177b1_b.jpg",
       "https://live.staticflickr.com/4522/38854995102_da2f24250f_b.jpg",
       "https://live.staticflickr.com/65535/23851656508_477c27721e_b.jpg",
@@ -1270,10 +1201,10 @@
       "https://live.staticflickr.com/65535/8333216287_ec02c9e190_b.jpg",
       "https://live.staticflickr.com/65535/55418920989_87285c9321_b.jpg",
       "https://live.staticflickr.com/65535/8334093800_10f6a96ea6_b.jpg",
-      "https://live.staticflickr.com/4237/35470925266_87834f46cd_b.jpg",
-      "https://live.staticflickr.com/65535/55425546609_cf352d1d0f_b.jpg"
+      "https://live.staticflickr.com/4237/35470925266_87834f46cd_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55440810262_d4389a9d22_b.jpg",
       "https://live.staticflickr.com/65535/55440590912_328ceb874b_b.jpg",
       "https://live.staticflickr.com/65535/55441538369_dc60d73c25_b.jpg",
       "https://live.staticflickr.com/65535/55441236399_51bd6a753d_b.jpg",
@@ -1290,12 +1221,11 @@
       "https://live.staticflickr.com/65535/55438971710_1d4d4b74cf_b.jpg",
       "https://live.staticflickr.com/65535/55438697313_4cefe90cfa_b.jpg",
       "https://live.staticflickr.com/65535/55437293052_3728e2db9d_b.jpg",
-      "https://live.staticflickr.com/65535/55437347437_a6a983503c_b.jpg",
-      "https://live.staticflickr.com/65535/55438238463_7d03d6ec9a_b.jpg"
+      "https://live.staticflickr.com/65535/55437347437_a6a983503c_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
+      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
