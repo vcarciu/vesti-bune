@@ -1,19 +1,7 @@
 {
-  "generated_utc": "2026-08-08T18:20:58+00:00",
+  "generated_utc": "2026-08-08T19:20:37+00:00",
   "sections": {
     "romania": [
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Operațiunea de scufundare a ultimelor două barje la Cernavodă s-a încheiat. Când se vor vedea primele efecte",
-        "summary": "Operațiunea pentru menținerea în funcțiune a reactorului 2 de la Cernavodă a intrat în linie dreaptă. Toate cele patru barje au fost scufundate controlat pe brațul Bala al Dunării, pentru a redirecționa o parte mai mare din debit către zona centralei nucleare. Intervenția a fost extrem de dificilă din cauza curenților puternici, iar scufundarea ultimelor două barje a fost finalizată după aproximativ șapte ore. Autoritățile așteaptă acum primele efecte ale intervenției, respectiv creșterea nivelului apei pe traseul către Cernavodă. Măsura ar trebui să ofere un răgaz pentru funcționarea reactorului 2, în condițiile în care nivelul Dunării continuă să fie foarte scăzut.",
-        "link": "https://www.digi24.ro/stiri/economie/energie/criza-de-la-cernavoda-doua-barje-din-patru-au-fost-scufundate-operatiunea-continua-3898119",
-        "published_utc": "2026-08-08T17:48:55+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOCUyRjA4JTJGMjg5NzQyOF8yODk3/NDI4X0lEMjg3MjY5LUlOUVVBTS1QSE9U/T1MtT1ZJRElVLU1JQ1NJSy5qcGcmaGFz/aD1hYTBiYmY3ODYyYmY5ZGQ5ZWE0NjVmZTNlMDRjMWFhZg==.jpg"
-      },
       {
         "section": "romania",
         "kind": "ro",
@@ -25,6 +13,18 @@
         "score": 3,
         "freshness_boost": 3,
         "image": "https://picsum.photos/seed/vb-29e3841063387ea0/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 Studiu. Dacă închidem păcănelele, cum am promis, am reduce la un sfert consumul de energie al țării",
+        "summary": "Un studiu recent făcut pe sectorul energetic arată că România ar putea reduce cu 75% consumul de energie dacă închide toate păcănelele din țară. Cercetătorii susțin că păcănelele consumă enorm de mult curent, pentru că au lumini, ecrane și tot felul de chestii care se învârt fără să fie nevoie. Mai mult, gestul de a [&#8230;] The post Studiu. Dacă închidem păcănelele, cum am promis, am reduce la un sfert consumul de energie al țării appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/it-stiinta/studiu-daca-inchidem-pacanelele-cum-am-promis-am-reduce-la-un-sfert-consumul-de-energie-al-tarii",
+        "published_utc": "2026-08-08T09:18:02+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/pacanelebrail.jpg"
       },
       {
         "section": "romania",
@@ -59,7 +59,7 @@
         "link": "https://www.romaniapozitiva.ro/carte-despre-romania/iubirea-este-de-fapt-singurul-lucru-pe-care-il-detinem-il-putem-pastra-si-lua-cu-noi-afirma-elisabeth-kubler-ross-si-david-kessler-autorii-cartii-lectii-de-viata",
         "published_utc": "2026-08-07T18:53:06+00:00",
         "score": 3,
-        "freshness_boost": 3,
+        "freshness_boost": 1,
         "image": "https://picsum.photos/seed/vb-fde8b7d6ec27b9aa/480/320"
       },
       {
@@ -71,32 +71,20 @@
         "link": "https://www.romaniapozitiva.ro/educatie/peste-3-000-de-elevi-profesori-si-parinti-au-explorat-profesiile-care-vor-transforma-sistemul-de-sanatate-prin-proiectul-doza-de-educatie",
         "published_utc": "2026-08-07T18:46:46+00:00",
         "score": 3,
-        "freshness_boost": 3,
+        "freshness_boost": 1,
         "image": "https://picsum.photos/seed/vb-2acc3394820df599/480/320"
       },
       {
         "section": "romania",
         "kind": "ro",
         "source": "Times New Roman (Satira)",
-        "title": "😂 Românii, inapți de armată. Nu pot să cânte nici „Hai, liberare!”, nici „Treceți batalioane române Carpații”",
-        "summary": "Situație dezastruoasă în ce privește noii recruți pentru Armata Română. 99% din tinerii care se prezintă la recrutare nu cunosc niciun vers al trupei Fata Morgana, nu dețin niciun CD cu muzică militară și mai ales nu sunt în stare să cânte cu aplomb patriotic „Treceți batalioane române Carpații”. În consecință, cei mai mulți recruți [&#8230;] The post Românii, inapți de armată. Nu pot să cânte nici „Hai, liberare!”, nici „Treceți batalioane române Carpații” appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/life-death/romanii-inapti-de-armata-nu-pot-sa-cante-nici-hai-liberare-nici-treceti-batalioane-romane-carpatii",
-        "published_utc": "2026-08-07T14:00:00+00:00",
+        "title": "😂 Metrorex face economie de curent. Metroul va fi tras de cai",
+        "summary": "&#160;Metrorex a decis să respecte directivele de economisire a curentului lansate de Guvernul Bolojan, mai ales că are printre cele mai mari facturi la curent dintre toate companiile de stat. Metrorex a anunțat că renunță complet la trenurile electrice și va folosi trenuri pe tracțiune animală. Primele garnituri vor fi trase de cai, ceea ce [&#8230;] The post Metrorex face economie de curent. Metroul va fi tras de cai appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/it-stiinta/metrorex-face-economie-de-curent-metroul-va-fi-tras-de-cai",
+        "published_utc": "2026-08-07T16:00:00+00:00",
         "score": 3,
         "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2025/11/selly-si-smiley-armata-aviatie.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 Călin Georgescu propune să scufundăm în Dunăre patru barje pline cu corupți",
-        "summary": "Un nou proiect hidrotehnic major, gândit de Călin Georgescu, autorul strategiei Apă, Hrană, Energie. În timp ce Armata încearcă să soluționeze problema debitului Dunării scufundând barje încărcate cu pietre, Călin Georgescu propune ca barjele să fie încărcate cu corupți, de care țara nu duce lipsă. Președintele neoficial al României, Călin Georgescu, susține că Armata ar [&#8230;] The post Călin Georgescu propune să scufundăm în Dunăre patru barje pline cu corupți appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/politic/calin-georgescu-propune-sa-scufundam-in-dunare-patru-barje-pline-cu-corupti",
-        "published_utc": "2026-08-07T12:00:00+00:00",
-        "score": 3,
-        "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/07/georgescuplagiat.jpg"
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/08/metrou_tras_de-cai.jpg"
       },
       {
         "section": "romania",
@@ -579,42 +567,6 @@
       "section": "romania",
       "kind": "ro",
       "source": "RomaniaPozitiva",
-      "title": "Peste 3.000 de elevi, profesori și părinți au explorat profesiile care vor transforma sistemul de sănătate prin proiectul „Doza de Educație”",
-      "summary": "Cum va arăta o carieră în domeniul sănătății peste 10 sau 20 de ani? Ce competențe vor avea nevoie profesioniștii care vor lucra într-un sistem medical tot mai digitalizat și&#8230; Articolul Peste 3.000 de elevi, profesori și părinți au explorat profesiile care vor transforma sistemul de sănătate prin proiectul „Doza de Educație” apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/educatie/peste-3-000-de-elevi-profesori-si-parinti-au-explorat-profesiile-care-vor-transforma-sistemul-de-sanatate-prin-proiectul-doza-de-educatie",
-      "published_utc": "2026-08-07T18:46:46+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-2acc3394820df599/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Românii, inapți de armată. Nu pot să cânte nici „Hai, liberare!”, nici „Treceți batalioane române Carpații”",
-      "summary": "Situație dezastruoasă în ce privește noii recruți pentru Armata Română. 99% din tinerii care se prezintă la recrutare nu cunosc niciun vers al trupei Fata Morgana, nu dețin niciun CD cu muzică militară și mai ales nu sunt în stare să cânte cu aplomb patriotic „Treceți batalioane române Carpații”. În consecință, cei mai mulți recruți [&#8230;] The post Românii, inapți de armată. Nu pot să cânte nici „Hai, liberare!”, nici „Treceți batalioane române Carpații” appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/romanii-inapti-de-armata-nu-pot-sa-cante-nici-hai-liberare-nici-treceti-batalioane-romane-carpatii",
-      "published_utc": "2026-08-07T14:00:00+00:00",
-      "score": 3,
-      "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2025/11/selly-si-smiley-armata-aviatie.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Digi24",
-      "title": "Operațiunea de scufundare a ultimelor două barje la Cernavodă s-a încheiat. Când se vor vedea primele efecte",
-      "summary": "Operațiunea pentru menținerea în funcțiune a reactorului 2 de la Cernavodă a intrat în linie dreaptă. Toate cele patru barje au fost scufundate controlat pe brațul Bala al Dunării, pentru a redirecționa o parte mai mare din debit către zona centralei nucleare. Intervenția a fost extrem de dificilă din cauza curenților puternici, iar scufundarea ultimelor două barje a fost finalizată după aproximativ șapte ore. Autoritățile așteaptă acum primele efecte ale intervenției, respectiv creșterea nivelului apei pe traseul către Cernavodă. Măsura ar trebui să ofere un răgaz pentru funcționarea reactorului 2, în condițiile în care nivelul Dunării continuă să fie foarte scăzut.",
-      "link": "https://www.digi24.ro/stiri/economie/energie/criza-de-la-cernavoda-doua-barje-din-patru-au-fost-scufundate-operatiunea-continua-3898119",
-      "published_utc": "2026-08-08T17:48:55+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOCUyRjA4JTJGMjg5NzQyOF8yODk3/NDI4X0lEMjg3MjY5LUlOUVVBTS1QSE9U/T1MtT1ZJRElVLU1JQ1NJSy5qcGcmaGFz/aD1hYTBiYmY3ODYyYmY5ZGQ5ZWE0NjVmZTNlMDRjMWFhZg==.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "RomaniaPozitiva",
       "title": "Între 14 și 16 august 2026, Biertanul redevine teritoriul fantasticului. Lună Plină – Festivalul de Film Horror și Fantastic",
       "summary": "Între 14 și 16 august 2026, Biertanul redevine teritoriul fantasticului. Lună Plină – Festivalul de Film Horror și Fantastic, prezentat de Festivalul Internațional de Film Transilvania (TIFF), revine cu cea&#8230; Articolul Între 14 și 16 august 2026, Biertanul redevine teritoriul fantasticului. Lună Plină – Festivalul de Film Horror și Fantastic apare prima dată în Romania Pozitiva .",
       "link": "https://www.romaniapozitiva.ro/cultura/intre-14-si-16-august-2026-biertanul-redevine-teritoriul-fantasticului-luna-plina-festivalul-de-film-horror-si-fantastic",
@@ -656,20 +608,20 @@
       "link": "https://www.romaniapozitiva.ro/carte-despre-romania/iubirea-este-de-fapt-singurul-lucru-pe-care-il-detinem-il-putem-pastra-si-lua-cu-noi-afirma-elisabeth-kubler-ross-si-david-kessler-autorii-cartii-lectii-de-viata",
       "published_utc": "2026-08-07T18:53:06+00:00",
       "score": 3,
-      "freshness_boost": 3,
+      "freshness_boost": 1,
       "image": "https://picsum.photos/seed/vb-fde8b7d6ec27b9aa/480/320"
     },
     {
       "section": "romania",
       "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 Călin Georgescu propune să scufundăm în Dunăre patru barje pline cu corupți",
-      "summary": "Un nou proiect hidrotehnic major, gândit de Călin Georgescu, autorul strategiei Apă, Hrană, Energie. În timp ce Armata încearcă să soluționeze problema debitului Dunării scufundând barje încărcate cu pietre, Călin Georgescu propune ca barjele să fie încărcate cu corupți, de care țara nu duce lipsă. Președintele neoficial al României, Călin Georgescu, susține că Armata ar [&#8230;] The post Călin Georgescu propune să scufundăm în Dunăre patru barje pline cu corupți appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/politic/calin-georgescu-propune-sa-scufundam-in-dunare-patru-barje-pline-cu-corupti",
-      "published_utc": "2026-08-07T12:00:00+00:00",
+      "title": "😂 Metrorex face economie de curent. Metroul va fi tras de cai",
+      "summary": "&#160;Metrorex a decis să respecte directivele de economisire a curentului lansate de Guvernul Bolojan, mai ales că are printre cele mai mari facturi la curent dintre toate companiile de stat. Metrorex a anunțat că renunță complet la trenurile electrice și va folosi trenuri pe tracțiune animală. Primele garnituri vor fi trase de cai, ceea ce [&#8230;] The post Metrorex face economie de curent. Metroul va fi tras de cai appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/it-stiinta/metrorex-face-economie-de-curent-metroul-va-fi-tras-de-cai",
+      "published_utc": "2026-08-07T16:00:00+00:00",
       "score": 3,
       "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/07/georgescuplagiat.jpg"
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/08/metrou_tras_de-cai.jpg"
     },
     {
       "section": "romania",
@@ -694,6 +646,30 @@
       "score": 3,
       "freshness_boost": 1,
       "image": "https://picsum.photos/seed/vb-8dbf1fa14fbad960/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "RomaniaPozitiva",
+      "title": "Peste 3.000 de elevi, profesori și părinți au explorat profesiile care vor transforma sistemul de sănătate prin proiectul „Doza de Educație”",
+      "summary": "Cum va arăta o carieră în domeniul sănătății peste 10 sau 20 de ani? Ce competențe vor avea nevoie profesioniștii care vor lucra într-un sistem medical tot mai digitalizat și&#8230; Articolul Peste 3.000 de elevi, profesori și părinți au explorat profesiile care vor transforma sistemul de sănătate prin proiectul „Doza de Educație” apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/educatie/peste-3-000-de-elevi-profesori-si-parinti-au-explorat-profesiile-care-vor-transforma-sistemul-de-sanatate-prin-proiectul-doza-de-educatie",
+      "published_utc": "2026-08-07T18:46:46+00:00",
+      "score": 3,
+      "freshness_boost": 1,
+      "image": "https://picsum.photos/seed/vb-2acc3394820df599/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Studiu. Dacă închidem păcănelele, cum am promis, am reduce la un sfert consumul de energie al țării",
+      "summary": "Un studiu recent făcut pe sectorul energetic arată că România ar putea reduce cu 75% consumul de energie dacă închide toate păcănelele din țară. Cercetătorii susțin că păcănelele consumă enorm de mult curent, pentru că au lumini, ecrane și tot felul de chestii care se învârt fără să fie nevoie. Mai mult, gestul de a [&#8230;] The post Studiu. Dacă închidem păcănelele, cum am promis, am reduce la un sfert consumul de energie al țării appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/it-stiinta/studiu-daca-inchidem-pacanelele-cum-am-promis-am-reduce-la-un-sfert-consumul-de-energie-al-tarii",
+      "published_utc": "2026-08-08T09:18:02+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/04/pacanelebrail.jpg"
     },
     {
       "section": "romania",
@@ -768,6 +744,18 @@
       "image": "https://picsum.photos/seed/vb-2c8c13d08b21f659/480/320"
     },
     {
+      "section": "romania",
+      "kind": "ro",
+      "source": "World Vision Romania",
+      "title": "Aproape 100.000 de copii învață în clase simultane. World Vision România propune o soluție națională pentru profesorii care predau mai multor clase în aceeași oră.",
+      "summary": "București, 16 iulie. Aproape 100.000 de elevi din România învață în clase organizate în regim simultan, majoritatea în mediul rural,... Articolul Aproape 100.000 de copii învață în clase simultane. World Vision România propune o soluție națională pentru profesorii care predau mai multor clase în aceeași oră. apare prima dată în World Vision România .",
+      "link": "https://worldvision.ro/2026/07/16/aproape-100-000-de-copii-invata-in-clase-simultane",
+      "published_utc": "2026-07-16T12:07:19+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-1f843baf2f3a4c1b/480/320"
+    },
+    {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
@@ -783,18 +771,6 @@
       "section": "romania",
       "kind": "ro",
       "source": "World Vision Romania",
-      "title": "Aproape 100.000 de copii învață în clase simultane. World Vision România propune o soluție națională pentru profesorii care predau mai multor clase în aceeași oră.",
-      "summary": "București, 16 iulie. Aproape 100.000 de elevi din România învață în clase organizate în regim simultan, majoritatea în mediul rural,... Articolul Aproape 100.000 de copii învață în clase simultane. World Vision România propune o soluție națională pentru profesorii care predau mai multor clase în aceeași oră. apare prima dată în World Vision România .",
-      "link": "https://worldvision.ro/2026/07/16/aproape-100-000-de-copii-invata-in-clase-simultane",
-      "published_utc": "2026-07-16T12:07:19+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-1f843baf2f3a4c1b/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "World Vision Romania",
       "title": "Harmony – Viitorul începe cu respect",
       "summary": "Asociația Împreună pentru Viitor (Constanța) - Educație, colaborare și empatie pentru un mediu școlar mai sigur. Articolul Harmony &#8211; Viitorul începe cu respect apare prima dată în World Vision România .",
       "link": "https://worldvision.ro/2026/07/14/harmony-viitorul-incepe-cu-respect",
@@ -802,6 +778,18 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-954bfe38ec8a17dd/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "World Vision Romania",
+      "title": "Mediu școlar mai sigur pentru copii",
+      "summary": "Asociația pentru Dezvoltare Comunitară Vaslui - Școli mai sigure pentru fiecare copil, prin educație și responsabilitate comună. Articolul Mediu școlar mai sigur pentru copii apare prima dată în World Vision România .",
+      "link": "https://worldvision.ro/2026/07/11/mediu-scolar-mai-sigur-pentru-copii",
+      "published_utc": "2026-07-11T11:02:54+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-ad67b514ee531c9b/480/320"
     },
     {
       "section": "science",
@@ -819,18 +807,6 @@
       "section": "romania",
       "kind": "ro",
       "source": "World Vision Romania",
-      "title": "Mediu școlar mai sigur pentru copii",
-      "summary": "Asociația pentru Dezvoltare Comunitară Vaslui - Școli mai sigure pentru fiecare copil, prin educație și responsabilitate comună. Articolul Mediu școlar mai sigur pentru copii apare prima dată în World Vision România .",
-      "link": "https://worldvision.ro/2026/07/11/mediu-scolar-mai-sigur-pentru-copii",
-      "published_utc": "2026-07-11T11:02:54+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-ad67b514ee531c9b/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "World Vision Romania",
       "title": "FII SMART! Bullying-ul nu este COOL",
       "summary": "Asociația Aici pentru Tine (Brașov) - Elevii, părinții și profesorii au colaborat pentru a preveni bullyingul și a construi un mediu școlar mai sigur. Articolul FII SMART! Bullying-ul nu este COOL apare prima dată în World Vision România .",
       "link": "https://worldvision.ro/2026/07/10/fii-smart-bullying-ul-nu-este-cool",
@@ -838,18 +814,6 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-d5fed42c9a0bbcbc/480/320"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "'Plasma gun' technology could transform space laundry and sanitation for future missions",
-      "summary": "Researchers at The University of Alabama in Huntsville (UAH), part of The University of Alabama System, are developing plasma-based technology to help astronauts stay healthier during missions to the moon and Mars by sanitizing clothing, bedding and other fabrics without water or traditional cleaning chemicals.",
-      "link": "https://phys.org/news/2026-08-plasma-gun-technology-space-laundry.html",
-      "published_utc": "2026-08-07T15:20:03+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/uah-research-advances.jpg"
     },
     {
       "section": "romania",
@@ -862,6 +826,18 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-9017d5ebea453c95/480/320"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "'Plasma gun' technology could transform space laundry and sanitation for future missions",
+      "summary": "Researchers at The University of Alabama in Huntsville (UAH), part of The University of Alabama System, are developing plasma-based technology to help astronauts stay healthier during missions to the moon and Mars by sanitizing clothing, bedding and other fabrics without water or traditional cleaning chemicals.",
+      "link": "https://phys.org/news/2026-08-plasma-gun-technology-space-laundry.html",
+      "published_utc": "2026-08-07T15:20:03+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/uah-research-advances.jpg"
     },
     {
       "section": "science",
@@ -1232,6 +1208,7 @@
       "https://live.staticflickr.com/65535/55431812648_9a2728a619_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/55439850685_7044f59fe7_b.jpg",
       "https://live.staticflickr.com/65535/8334396366_86fdbd56ec_b.jpg",
       "https://live.staticflickr.com/65535/55439861920_bf4bfab7e6_b.jpg",
       "https://live.staticflickr.com/65535/55448108908_8b4e0708d6_b.jpg",
@@ -1248,10 +1225,10 @@
       "https://live.staticflickr.com/65535/8333020619_77d676cc13_b.jpg",
       "https://live.staticflickr.com/65535/27931576945_118b2fc111_b.jpg",
       "https://live.staticflickr.com/65535/55436135867_015cacdd60_b.jpg",
-      "https://live.staticflickr.com/65535/55432769068_0e35030515_b.jpg",
-      "https://live.staticflickr.com/1648/26107913224_286673cfdd_b.jpg"
+      "https://live.staticflickr.com/65535/55432769068_0e35030515_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55449338907_11962bc283_b.jpg",
       "https://live.staticflickr.com/65535/55451091285_51dda690e5_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/3/3f/NYC_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg",
       "https://live.staticflickr.com/65535/55450900125_2b24405e4c_b.jpg",
@@ -1268,12 +1245,11 @@
       "https://live.staticflickr.com/65535/55448637522_c7e8d825c8_b.jpg",
       "https://live.staticflickr.com/65535/55449605586_f3b7e658c1_b.jpg",
       "https://live.staticflickr.com/65535/55449501186_1b2c0170fb_b.jpg",
-      "https://live.staticflickr.com/65535/55449195929_e890f497b7_b.jpg",
-      "https://live.staticflickr.com/65535/55448690611_fd79c0889f_b.jpg"
+      "https://live.staticflickr.com/65535/55449195929_e890f497b7_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
+      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
