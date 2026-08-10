@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-08-10T16:42:00+00:00",
+  "generated_utc": "2026-08-10T17:42:44+00:00",
   "sections": {
     "romania": [
       {
@@ -90,13 +90,13 @@
         "section": "romania",
         "kind": "ro",
         "source": "Times New Roman (Satira)",
-        "title": "😂 Legea e lege! Diana Buzoianu a amendat Armata că braconează cu dinamită în Dunăre",
-        "summary": "Detonarea stâncii Pârjoaia de lângă canalul Bala, pe care Armata a aruncat-o în aer cu dinamită, nu a trecut neobservată de către Diana Buzoianu, strașnica ministră a Mediului. Ea a decis să amendeze Armata Română cu o amendă record de 1 milion de euro pentru braconaj piscicol cu explozibil pe Dunăre. „Eu înțeleg interesul național, [&#8230;] The post Legea e lege! Diana Buzoianu a amendat Armata că braconează cu dinamită în Dunăre appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/politic/legea-e-lege-diana-buzoianu-a-amendat-armata-ca-braconeaza-cu-dinamita-in-dunare",
-        "published_utc": "2026-08-09T05:00:00+00:00",
+        "title": "😂 Oltenii jubilează. Dunărea a fost retrogradată și acum ea se varsă în fluviul Olt!",
+        "summary": "Din cauza debitului extrem de scăzut al Dunării, savanții olteni din Islaz au decis să retrogradeze Dunărea la nivel de râu minor care se varsă în Olt la Islaz. De azi înainte, Oltul devine fluviul României, iar Dunărea un banal pârâu european care se varsă în mărețul fluviu al Olteniei. Islazul devine oficial confluența unde [&#8230;] The post Oltenii jubilează. Dunărea a fost retrogradată și acum ea se varsă în fluviul Olt! appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/it-stiinta/oltenii-jubileaza-dunarea-a-fost-retrogradata-si-acum-ea-se-varsa-in-fluviul-olt",
+        "published_utc": "2026-08-09T13:05:00+00:00",
         "score": 3,
         "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/08/diana_buzoianu_amenda_armata.jpg"
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/08/olt_confluenta.jpg"
       },
       {
         "section": "romania",
@@ -248,97 +248,109 @@
         "section": "medical",
         "kind": "global",
         "source": "Medical Xpress",
-        "title": "AI framework decodes how brain regions talk to one another",
-        "summary": "For decades, neuroscientists have been able to record which parts of the brain show increased electrical activity during a behavior, such as when we form a memory or make a decision. But scientists haven't been able to determine how those regions are communicating with and influencing one another, nor identify which regions serve as the main orchestrators.",
-        "link": "https://medicalxpress.com/news/2026-08-ai-framework-decodes-brain-regions.html",
-        "published_utc": "2026-08-10T15:40:03+00:00",
-        "score": 0,
+        "title": "Liver cancer experts co-author new treatment framework for hepatocellular carcinoma",
+        "summary": "Liver cancer experts at the Johns Hopkins Kimmel Cancer Center and 16 other cancer centers have compiled new guidance on the best treatments for hepatocellular carcinoma (HCC) in North America. The resource, called BEACON-HCC, was published in the journal Hepatology.",
+        "link": "https://medicalxpress.com/news/2026-08-liver-cancer-experts-author-treatment.html",
+        "published_utc": "2026-08-10T17:40:12+00:00",
+        "score": 2,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-framework-decodes-h.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/liver-cancer-experts-c.jpg"
       },
       {
         "section": "medical",
         "kind": "global",
         "source": "Medical Xpress",
-        "title": "How a Veterans Affairs study can help guide prostate cancer treatment",
-        "summary": "A nationwide Veterans Affairs (VA) study comparing two leading treatments for metastatic prostate cancer may help doctors choose the right drug for each patient, said a Rutgers Cancer Institute physician-scientist whose invited editorial accompanies the research.",
-        "link": "https://medicalxpress.com/news/2026-08-veterans-affairs-prostate-cancer-treatment.html",
-        "published_utc": "2026-08-10T15:40:01+00:00",
+        "title": "Patient-derived organoids reveal which breast tumors may resist standard therapies",
+        "summary": "Researchers at UC San Francisco have developed a new method to predict how different types of breast cancer will respond to treatment, using patient data from the I-SPY2 breast cancer trial and rapid testing on lab-grown mini tumors.",
+        "link": "https://medicalxpress.com/news/2026-08-patient-derived-organoids-reveal-breast.html",
+        "published_utc": "2026-08-10T17:40:03+00:00",
+        "score": 4,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/can-mini-organs-help-p.jpg"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "Medical Xpress",
+        "title": "Study links student gambling problems to mental health",
+        "summary": "As gambling becomes more accessible to college students, a statewide study of Mississippi's public universities found gambling problems frequently occur alongside depression, anxiety and substance use.",
+        "link": "https://medicalxpress.com/news/2026-08-links-student-gambling-problems-mental.html",
+        "published_utc": "2026-08-10T17:20:12+00:00",
         "score": 1,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-a-veterans-affairs.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/gamble.jpg"
       },
       {
         "section": "medical",
         "kind": "global",
         "source": "Medical Xpress",
-        "title": "Kidney dialysis: Here's what you need to know",
-        "summary": "Dialysis is a lifesaving medical treatment for people whose kidneys can no longer efficiently filter waste, toxins and excess fluids from the blood.",
-        "link": "https://medicalxpress.com/news/2026-08-kidney-dialysis.html",
-        "published_utc": "2026-08-10T15:20:04+00:00",
-        "score": 0,
+        "title": "Study reveals growing signs of malaria drug resistance in Ethiopia",
+        "summary": "Researchers have identified genetic changes in malaria parasites that may reduce the effectiveness of key antimalarial medicines, highlighting the need for continued surveillance.",
+        "link": "https://medicalxpress.com/news/2026-08-reveals-malaria-drug-resistance-ethiopia.html",
+        "published_utc": "2026-08-10T17:20:09+00:00",
+        "score": 4,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/kidney-dialysis-heres.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-reveals-growing.jpg"
       },
       {
         "section": "medical",
         "kind": "global",
         "source": "Medical Xpress",
-        "title": "Where women live may influence ovarian cancer survival, especially among Black women",
-        "summary": "A new study led by researchers at the University of Pittsburgh found that women living in socially vulnerable communities face a 20% higher risk of death after an ovarian cancer diagnosis compared with women living in less vulnerable communities. The study, published today in JAMA Network Open, also found that Black women face a 45% higher risk of death than white women. Together, the findings suggest that neighborhood conditions may help explain persistent racial disparities in ovarian cancer survival.",
-        "link": "https://medicalxpress.com/news/2026-08-women-ovarian-cancer-survival-black.html",
-        "published_utc": "2026-08-10T15:00:05+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/where-women-live-may-i.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "ScienceDaily Health",
-        "title": "New GLP-1 pill delivers up to 12% weight loss in 36 weeks",
-        "summary": "An experimental GLP-1 pill helped people with obesity or overweight lose as much as 12.1% of their body weight in just 36 weeks. Unlike injectable drugs such as Wegovy and Ozempic, aleniglipron is a small molecule that can be taken once daily with or without food and could potentially be produced more easily at scale.",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260810015717.htm",
-        "published_utc": "2026-08-10T14:50:43+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-17c676512f3fefaf/480/320"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Solving a mysterious inflammatory fever opens the book on a much bigger story",
-        "summary": "Three research teams working independently around the world have landed on the same discovery: A single molecular \"handshake\" inside our cells controls a family of inflammatory diseases, including one of the most common inherited fevers on Earth. The finding solved a decades-old puzzle for one family and led to a treatment that worked almost immediately.",
-        "link": "https://medicalxpress.com/news/2026-08-mysterious-inflammatory-fever-bigger-story.html",
-        "published_utc": "2026-08-10T14:20:08+00:00",
+        "title": "Biomarkers aid cost-benefit analysis of head and neck cancer immunotherapy",
+        "summary": "The cost-effectiveness of the immunotherapy drug pembrolizumab for patients with locally advanced head and neck squamous cell carcinoma may depend on biomarker results, according to a new study.",
+        "link": "https://medicalxpress.com/news/2026-08-biomarkers-aid-benefit-analysis-neck.html",
+        "published_utc": "2026-08-10T17:00:04+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/solving-a-mysterious-i.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/injection-vial-1.jpg"
       },
       {
         "section": "medical",
         "kind": "global",
-        "source": "ScienceDaily Health",
-        "title": "1 in 5 people may carry this hidden genetic heart risk",
-        "summary": "Very high levels of the inherited cholesterol-related particle Lp(a) were linked to a greater risk of major cardiovascular events, particularly stroke and cardiovascular death, in a study of more than 20,000 people. Since elevated Lp(a) often flies completely under the radar, a simple blood test could uncover hidden heart risk that standard cholesterol testing may miss.",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260808235011.htm",
-        "published_utc": "2026-08-10T13:03:54+00:00",
+        "source": "Medical Xpress",
+        "title": "Prediabetes remission could become a central goal of diabetes prevention",
+        "summary": "Type 2 diabetes usually develops over many years, yet preventive measures often begin only once blood glucose levels are already elevated. An international panel of experts led by University Hospital Tübingen and the German Center for Diabetes Research (DZD) is therefore calling for a fundamental shift in thinking: Diabetes prevention should take the entire life course into account—from the period before pregnancy through older adulthood.",
+        "link": "https://medicalxpress.com/news/2026-08-prediabetes-remission-central-goal-diabetes.html",
+        "published_utc": "2026-08-10T17:00:01+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-637285aa2b68389b/480/320"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rethinking-diabetes-pr.jpg"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Medicine",
+        "title": "Your AI calorie-tracking app may be off by 345 calories",
+        "summary": "Popular AI-powered food apps may make calorie counting easier, but they may also leave out a surprisingly large part of the meal. Four apps underestimated calories and fat by about one-third when tested against carefully prepared meals. High-fat ketogenic dishes appeared to cause the most trouble, while carbohydrates were measured more consistently.",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260726015237.htm",
+        "published_utc": "2026-07-26T13:06:15+00:00",
+        "score": 0,
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-c343243a6f247024/480/320"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Medicine",
+        "title": "CRISPR makes prostate cancer vulnerable to immunotherapy",
+        "summary": "Scientists used CRISPR to make prostate cancer cells easier for the immune system to detect and destroy. The experimental treatment dramatically improved the effects of immunotherapy in mice and may offer hope for other hard-to-treat tumors.",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260726015250.htm",
+        "published_utc": "2026-07-26T12:36:23+00:00",
+        "score": 2,
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-465b7d04c0a7a9e0/480/320"
       },
       {
         "section": "medical",
         "kind": "global",
         "source": "ScienceDaily Health",
-        "title": "A daily glass of fruit juice was linked to lower depression scores",
-        "summary": "A daily glass of 100% fruit juice or a smoothie may help improve more than just fruit intake. In a small four-week trial, participants who added one to a healthier diet showed significantly lower depression scores, hinting that a simple dietary change could also support mental well-being.",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260808235003.htm",
-        "published_utc": "2026-08-10T02:09:47+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-56325ec8308ccd61/480/320"
+        "title": "Why losing the wrong fat can trigger diabetes",
+        "summary": "Scientists discovered that damaged fat cells can become inflamed, lose their ability to store lipids, and eventually vanish, disrupting the body’s metabolism. The findings show that diabetes can result not only from excess fat, but also from losing the healthy fat tissue the body needs.",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260726015259.htm",
+        "published_utc": "2026-07-26T11:43:14+00:00",
+        "score": 2,
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-ad2d8cd8071928af/480/320"
       }
     ],
     "science": [
@@ -723,13 +735,13 @@
       "section": "romania",
       "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 Legea e lege! Diana Buzoianu a amendat Armata că braconează cu dinamită în Dunăre",
-      "summary": "Detonarea stâncii Pârjoaia de lângă canalul Bala, pe care Armata a aruncat-o în aer cu dinamită, nu a trecut neobservată de către Diana Buzoianu, strașnica ministră a Mediului. Ea a decis să amendeze Armata Română cu o amendă record de 1 milion de euro pentru braconaj piscicol cu explozibil pe Dunăre. „Eu înțeleg interesul național, [&#8230;] The post Legea e lege! Diana Buzoianu a amendat Armata că braconează cu dinamită în Dunăre appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/politic/legea-e-lege-diana-buzoianu-a-amendat-armata-ca-braconeaza-cu-dinamita-in-dunare",
-      "published_utc": "2026-08-09T05:00:00+00:00",
+      "title": "😂 Oltenii jubilează. Dunărea a fost retrogradată și acum ea se varsă în fluviul Olt!",
+      "summary": "Din cauza debitului extrem de scăzut al Dunării, savanții olteni din Islaz au decis să retrogradeze Dunărea la nivel de râu minor care se varsă în Olt la Islaz. De azi înainte, Oltul devine fluviul României, iar Dunărea un banal pârâu european care se varsă în mărețul fluviu al Olteniei. Islazul devine oficial confluența unde [&#8230;] The post Oltenii jubilează. Dunărea a fost retrogradată și acum ea se varsă în fluviul Olt! appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/it-stiinta/oltenii-jubileaza-dunarea-a-fost-retrogradata-si-acum-ea-se-varsa-in-fluviul-olt",
+      "published_utc": "2026-08-09T13:05:00+00:00",
       "score": 3,
       "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/08/diana_buzoianu_amenda_armata.jpg"
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/08/olt_confluenta.jpg"
     },
     {
       "section": "romania",
@@ -828,16 +840,16 @@
       "image": "https://picsum.photos/seed/vb-1f843baf2f3a4c1b/480/320"
     },
     {
-      "section": "science",
+      "section": "medical",
       "kind": "global",
-      "source": "Phys.org",
-      "title": "Veterinarians provide tips in case a pet dog or cat is choking",
-      "summary": "A favorite toy or treat can become dangerous in an instant if it gets lodged in your pet's airway. Because choking is a terrifying emergency for pets and their owners, Dr. Christine Rutter, a clinical associate professor at the Texas A&amp;M College of Veterinary Medicine and Biomedical Sciences, shares what every pet owner and pet sitter should know about recognizing choking and responding safely.",
-      "link": "https://phys.org/news/2026-08-veterinarians-case-pet-dog-cat.html",
-      "published_utc": "2026-08-10T15:40:06+00:00",
-      "score": 0,
+      "source": "Medical Xpress",
+      "title": "Liver cancer experts co-author new treatment framework for hepatocellular carcinoma",
+      "summary": "Liver cancer experts at the Johns Hopkins Kimmel Cancer Center and 16 other cancer centers have compiled new guidance on the best treatments for hepatocellular carcinoma (HCC) in North America. The resource, called BEACON-HCC, was published in the journal Hepatology.",
+      "link": "https://medicalxpress.com/news/2026-08-liver-cancer-experts-author-treatment.html",
+      "published_utc": "2026-08-10T17:40:12+00:00",
+      "score": 2,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dog-eating.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/liver-cancer-experts-c.jpg"
     },
     {
       "section": "romania",
@@ -864,16 +876,16 @@
       "image": "https://picsum.photos/seed/vb-ad67b514ee531c9b/480/320"
     },
     {
-      "section": "science",
+      "section": "medical",
       "kind": "global",
-      "source": "Phys.org",
-      "title": "Using salt to drive drug-carrying particles deeper into difficult-to-treat biofilms",
-      "summary": "Biofilms—bacterial communities encased in a sticky, polymer-rich matrix—can be difficult to treat because that matrix slows antibiotics and drug-carrying particles. With help from salt, though, Yale researchers have found a way to steer these particles into some biofilms and even deform the biofilm itself in certain cases. The study is published in Soft Matter.",
-      "link": "https://phys.org/news/2026-08-salt-drug-particles-deeper-difficult.html",
-      "published_utc": "2026-08-10T15:40:05+00:00",
-      "score": 2,
+      "source": "Medical Xpress",
+      "title": "Patient-derived organoids reveal which breast tumors may resist standard therapies",
+      "summary": "Researchers at UC San Francisco have developed a new method to predict how different types of breast cancer will respond to treatment, using patient data from the I-SPY2 breast cancer trial and rapid testing on lab-grown mini tumors.",
+      "link": "https://medicalxpress.com/news/2026-08-patient-derived-organoids-reveal-breast.html",
+      "published_utc": "2026-08-10T17:40:03+00:00",
+      "score": 4,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/using-salt-to-fight-di.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/can-mini-organs-help-p.jpg"
     },
     {
       "section": "romania",
@@ -903,37 +915,73 @@
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
-      "title": "AI framework decodes how brain regions talk to one another",
-      "summary": "For decades, neuroscientists have been able to record which parts of the brain show increased electrical activity during a behavior, such as when we form a memory or make a decision. But scientists haven't been able to determine how those regions are communicating with and influencing one another, nor identify which regions serve as the main orchestrators.",
-      "link": "https://medicalxpress.com/news/2026-08-ai-framework-decodes-brain-regions.html",
-      "published_utc": "2026-08-10T15:40:03+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-framework-decodes-h.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "How a Veterans Affairs study can help guide prostate cancer treatment",
-      "summary": "A nationwide Veterans Affairs (VA) study comparing two leading treatments for metastatic prostate cancer may help doctors choose the right drug for each patient, said a Rutgers Cancer Institute physician-scientist whose invited editorial accompanies the research.",
-      "link": "https://medicalxpress.com/news/2026-08-veterans-affairs-prostate-cancer-treatment.html",
-      "published_utc": "2026-08-10T15:40:01+00:00",
+      "title": "Study links student gambling problems to mental health",
+      "summary": "As gambling becomes more accessible to college students, a statewide study of Mississippi's public universities found gambling problems frequently occur alongside depression, anxiety and substance use.",
+      "link": "https://medicalxpress.com/news/2026-08-links-student-gambling-problems-mental.html",
+      "published_utc": "2026-08-10T17:20:12+00:00",
       "score": 1,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-a-veterans-affairs.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/gamble.jpg"
     },
     {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
-      "title": "Kidney dialysis: Here's what you need to know",
-      "summary": "Dialysis is a lifesaving medical treatment for people whose kidneys can no longer efficiently filter waste, toxins and excess fluids from the blood.",
-      "link": "https://medicalxpress.com/news/2026-08-kidney-dialysis.html",
-      "published_utc": "2026-08-10T15:20:04+00:00",
+      "title": "Study reveals growing signs of malaria drug resistance in Ethiopia",
+      "summary": "Researchers have identified genetic changes in malaria parasites that may reduce the effectiveness of key antimalarial medicines, highlighting the need for continued surveillance.",
+      "link": "https://medicalxpress.com/news/2026-08-reveals-malaria-drug-resistance-ethiopia.html",
+      "published_utc": "2026-08-10T17:20:09+00:00",
+      "score": 4,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-reveals-growing.jpg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "Biomarkers aid cost-benefit analysis of head and neck cancer immunotherapy",
+      "summary": "The cost-effectiveness of the immunotherapy drug pembrolizumab for patients with locally advanced head and neck squamous cell carcinoma may depend on biomarker results, according to a new study.",
+      "link": "https://medicalxpress.com/news/2026-08-biomarkers-aid-benefit-analysis-neck.html",
+      "published_utc": "2026-08-10T17:00:04+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/injection-vial-1.jpg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "Prediabetes remission could become a central goal of diabetes prevention",
+      "summary": "Type 2 diabetes usually develops over many years, yet preventive measures often begin only once blood glucose levels are already elevated. An international panel of experts led by University Hospital Tübingen and the German Center for Diabetes Research (DZD) is therefore calling for a fundamental shift in thinking: Diabetes prevention should take the entire life course into account—from the period before pregnancy through older adulthood.",
+      "link": "https://medicalxpress.com/news/2026-08-prediabetes-remission-central-goal-diabetes.html",
+      "published_utc": "2026-08-10T17:00:01+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/kidney-dialysis-heres.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rethinking-diabetes-pr.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Veterinarians provide tips in case a pet dog or cat is choking",
+      "summary": "A favorite toy or treat can become dangerous in an instant if it gets lodged in your pet's airway. Because choking is a terrifying emergency for pets and their owners, Dr. Christine Rutter, a clinical associate professor at the Texas A&amp;M College of Veterinary Medicine and Biomedical Sciences, shares what every pet owner and pet sitter should know about recognizing choking and responding safely.",
+      "link": "https://phys.org/news/2026-08-veterinarians-case-pet-dog-cat.html",
+      "published_utc": "2026-08-10T15:40:06+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dog-eating.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Using salt to drive drug-carrying particles deeper into difficult-to-treat biofilms",
+      "summary": "Biofilms—bacterial communities encased in a sticky, polymer-rich matrix—can be difficult to treat because that matrix slows antibiotics and drug-carrying particles. With help from salt, though, Yale researchers have found a way to steer these particles into some biofilms and even deform the biofilm itself in certain cases. The study is published in Soft Matter.",
+      "link": "https://phys.org/news/2026-08-salt-drug-particles-deeper-difficult.html",
+      "published_utc": "2026-08-10T15:40:05+00:00",
+      "score": 2,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/using-salt-to-fight-di.jpg"
     },
     {
       "section": "science",
@@ -960,18 +1008,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dogs-can-distinguish-b-1.jpg"
     },
     {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Where women live may influence ovarian cancer survival, especially among Black women",
-      "summary": "A new study led by researchers at the University of Pittsburgh found that women living in socially vulnerable communities face a 20% higher risk of death after an ovarian cancer diagnosis compared with women living in less vulnerable communities. The study, published today in JAMA Network Open, also found that Black women face a 45% higher risk of death than white women. Together, the findings suggest that neighborhood conditions may help explain persistent racial disparities in ovarian cancer survival.",
-      "link": "https://medicalxpress.com/news/2026-08-women-ovarian-cancer-survival-black.html",
-      "published_utc": "2026-08-10T15:00:05+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/where-women-live-may-i.jpg"
-    },
-    {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
@@ -984,18 +1020,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/student-on-laptop.jpg"
     },
     {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "New GLP-1 pill delivers up to 12% weight loss in 36 weeks",
-      "summary": "An experimental GLP-1 pill helped people with obesity or overweight lose as much as 12.1% of their body weight in just 36 weeks. Unlike injectable drugs such as Wegovy and Ozempic, aleniglipron is a small molecule that can be taken once daily with or without food and could potentially be produced more easily at scale.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260810015717.htm",
-      "published_utc": "2026-08-10T14:50:43+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-17c676512f3fefaf/480/320"
-    },
-    {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
@@ -1006,18 +1030,6 @@
       "score": 0,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-mountain-dragon-li-1.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Solving a mysterious inflammatory fever opens the book on a much bigger story",
-      "summary": "Three research teams working independently around the world have landed on the same discovery: A single molecular \"handshake\" inside our cells controls a family of inflammatory diseases, including one of the most common inherited fevers on Earth. The finding solved a decades-old puzzle for one family and led to a treatment that worked almost immediately.",
-      "link": "https://medicalxpress.com/news/2026-08-mysterious-inflammatory-fever-bigger-story.html",
-      "published_utc": "2026-08-10T14:20:08+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/solving-a-mysterious-i.jpg"
     },
     {
       "section": "science",
@@ -1066,18 +1078,6 @@
       "score": 0,
       "freshness_boost": 3,
       "image": "https://picsum.photos/seed/vb-fc597352cf7abd4f/480/320"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "1 in 5 people may carry this hidden genetic heart risk",
-      "summary": "Very high levels of the inherited cholesterol-related particle Lp(a) were linked to a greater risk of major cardiovascular events, particularly stroke and cardiovascular death, in a study of more than 20,000 people. Since elevated Lp(a) often flies completely under the radar, a simple blood test could uncover hidden heart risk that standard cholesterol testing may miss.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260808235011.htm",
-      "published_utc": "2026-08-10T13:03:54+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-637285aa2b68389b/480/320"
     },
     {
       "section": "science",
@@ -1140,18 +1140,6 @@
       "image": "https://picsum.photos/seed/vb-6f04fbcd091e8227/480/320"
     },
     {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "A daily glass of fruit juice was linked to lower depression scores",
-      "summary": "A daily glass of 100% fruit juice or a smoothie may help improve more than just fruit intake. In a small four-week trial, participants who added one to a healthier diet showed significantly lower depression scores, hinting that a simple dietary change could also support mental well-being.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260808235003.htm",
-      "published_utc": "2026-08-10T02:09:47+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-56325ec8308ccd61/480/320"
-    },
-    {
       "section": "environment",
       "kind": "global",
       "source": "Mongabay Conservation",
@@ -1198,6 +1186,42 @@
       "score": 2,
       "freshness_boost": 1,
       "image": "https://picsum.photos/seed/vb-280b6a1001c36c54/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Medicine",
+      "title": "Your AI calorie-tracking app may be off by 345 calories",
+      "summary": "Popular AI-powered food apps may make calorie counting easier, but they may also leave out a surprisingly large part of the meal. Four apps underestimated calories and fat by about one-third when tested against carefully prepared meals. High-fat ketogenic dishes appeared to cause the most trouble, while carbohydrates were measured more consistently.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260726015237.htm",
+      "published_utc": "2026-07-26T13:06:15+00:00",
+      "score": 0,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-c343243a6f247024/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Medicine",
+      "title": "CRISPR makes prostate cancer vulnerable to immunotherapy",
+      "summary": "Scientists used CRISPR to make prostate cancer cells easier for the immune system to detect and destroy. The experimental treatment dramatically improved the effects of immunotherapy in mice and may offer hope for other hard-to-treat tumors.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260726015250.htm",
+      "published_utc": "2026-07-26T12:36:23+00:00",
+      "score": 2,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-465b7d04c0a7a9e0/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "Why losing the wrong fat can trigger diabetes",
+      "summary": "Scientists discovered that damaged fat cells can become inflamed, lose their ability to store lipids, and eventually vanish, disrupting the body’s metabolism. The findings show that diabetes can result not only from excess fat, but also from losing the healthy fat tissue the body needs.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260726015259.htm",
+      "published_utc": "2026-07-26T11:43:14+00:00",
+      "score": 2,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-ad2d8cd8071928af/480/320"
     },
     {
       "section": "environment",
@@ -1352,6 +1376,7 @@
       "https://live.staticflickr.com/65535/55436594064_e3883bb645_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/8334351200_e105e722de_b.jpg",
       "https://live.staticflickr.com/7588/28312757214_5848968c07_b.jpg",
       "https://live.staticflickr.com/65535/8333227857_9f8106acdb_b.jpg",
       "https://live.staticflickr.com/65535/55451649535_dbd9f1d75b_b.jpg",
@@ -1368,10 +1393,10 @@
       "https://live.staticflickr.com/65535/55440961822_4d5e5aba33_b.jpg",
       "https://live.staticflickr.com/65535/55436135867_015cacdd60_b.jpg",
       "https://live.staticflickr.com/65535/55439861920_bf4bfab7e6_b.jpg",
-      "https://live.staticflickr.com/65535/8334396366_86fdbd56ec_b.jpg",
-      "https://live.staticflickr.com/65535/55432769068_0e35030515_b.jpg"
+      "https://live.staticflickr.com/65535/8334396366_86fdbd56ec_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55455675500_2f526bc614_b.jpg",
       "https://live.staticflickr.com/65535/55455114256_ef6b5e7245_b.jpg",
       "https://live.staticflickr.com/65535/55455087164_91187a495a_b.jpg",
       "https://live.staticflickr.com/65535/55454821268_a94e44ba3f_z.jpg",
@@ -1388,12 +1413,11 @@
       "https://live.staticflickr.com/65535/55452756891_41a40321e6_b.jpg",
       "https://live.staticflickr.com/65535/55452747449_81fb895e33_b.jpg",
       "https://live.staticflickr.com/65535/55452647969_0951fb8916_b.jpg",
-      "https://live.staticflickr.com/65535/55452379273_9b65b707b9_b.jpg",
-      "https://live.staticflickr.com/65535/55451465577_0531241051_b.jpg"
+      "https://live.staticflickr.com/65535/55452379273_9b65b707b9_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
+      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
