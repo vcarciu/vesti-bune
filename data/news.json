@@ -1,30 +1,65 @@
 {
-  "generated_utc": "2026-08-17T08:30:18+00:00",
+  "generated_utc": "2026-08-17T09:29:05+00:00",
   "sections": {
     "romania": [
       {
         "section": "romania",
         "kind": "ro",
-        "source": "Start-Up Romania",
-        "title": "FlairMakers, startup cofondat de Raluca Epureanu în Marea Britanie, atrage 500.000 de lire pentru a schimba recrutarea din HoReCa",
-        "summary": "FlairMakers, startup cofondat de românca Raluca Epureanu, a atras o finanțare pre-seed de 500.000 de lire sterline. Runda a fost condusă de SFC Capital, unul dintre cei mai activi investitori seed...",
-        "link": "https://start-up.ro/flairmakers-startup-cofondat-de-raluca-epureanu-in-marea-britanie-atrage-500-000-de-lire-pentru-a-schimba-recrutarea-din-horeca",
-        "published_utc": "2026-08-17T08:27:06+00:00",
+        "source": "RomaniaPozitiva",
+        "title": "Woodrocks Trail Run – Alergare la poalele Munților Zărandului, 12 septembrie, la Petriș în județul Arad",
+        "summary": "Ecostuff Romania te invită la Woodrocks Trail Run, Sâmbătă, 12 septembrie, la Petriș în județul Arad, pentru o zi plină de energie, alergare, mulți prieteni și-o atmosferă ca de festival. &#8230; Articolul Woodrocks Trail Run – Alergare la poalele Munților Zărandului, 12 septembrie, la Petriș în județul Arad apare prima dată în Romania Pozitiva .",
+        "link": "https://www.romaniapozitiva.ro/banat-crisana/woodrocks-trail-run-alergare-la-poalele-muntilor-zarandului-12-septembrie-la-petris-in-judetul-arad",
+        "published_utc": "2026-08-17T09:26:14+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://start-up.ro/img/articles/3/8/8/38826/cover-38826-src.jpg"
+        "image": "https://picsum.photos/seed/vb-d8e705a564fcd23e/480/320"
       },
       {
         "section": "romania",
         "kind": "ro",
-        "source": "Green Start-Up Romania",
-        "title": "Un nou studiu demonstrează beneficiile unui parc auto complet electrificat",
-        "summary": "Înlocuirea unei mașini cu motor cu ardere internă cu una electrică poate reduce emisiile de CO₂ chiar dacă vehiculul pe benzină are doar un an. Un studiu realizat în SUA arată că trecerea cât mai...",
-        "link": "https://green.start-up.ro/ro/un-nou-studiu-demonstreaza-beneficiile-unui-parc-auto-complet-electrificat",
-        "published_utc": "2026-08-17T08:25:15+00:00",
+        "source": "HotNews",
+        "title": "„Polul corporatiștilor” din București se extinde cu câteva mii de apartamente noi. Ce salarii trebuie să câștige o familie pentru pentru a-și cumpăra un apartament cu 2 sau 3 camere aici",
+        "summary": "Aproximativ 4.000 de apartamente sunt în construcţie în zona Aviaţiei, supranumită &#8216;polul corporatiştilor&#8217;, o familie având nevoie de un venit minim de aproximativ 15.000 de lei pentru a cumpăra prin credit ipotecar un apartament nou cu două camere în zonă, iar pentru unul cu trei camere circa 22.300 de lei, relevă o analiză de specialitate, &#8230;",
+        "link": "https://hotnews.ro/polul-corporatistilor-din-bucuresti-se-extinde-cu-cateva-mii-de-apartamente-noi-ce-salarii-trebuie-sa-castige-o-familie-pentru-pentru-a-si-cumpara-un-apartament-cu-2-sau-3-camere-ai-2326430",
+        "published_utc": "2026-08-17T09:20:37+00:00",
+        "score": 2,
+        "image": "https://picsum.photos/seed/vb-23ae6da1d313eb3f/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "RomaniaPozitiva",
+        "title": "Coșteiu, județul Timiș: Peste 90 de copii din mediul rural au încheiat un program intensiv de literație, matematică și dezvoltare personală",
+        "summary": "Peste 90 de copii din comunele Coșteiu și Balinț județul Timiș, au încheiat un program intensiv de literație și sprijin educațional, desfășurat pe parcursul a șapte luni, prin care și-au&#8230; Articolul Coșteiu, județul Timiș: Peste 90 de copii din mediul rural au încheiat un program intensiv de literație, matematică și dezvoltare personală apare prima dată în Romania Pozitiva .",
+        "link": "https://www.romaniapozitiva.ro/banat-crisana/costeiu-judetul-timis-peste-90-de-copii-din-mediul-rural-au-incheiat-un-program-intensiv-de-literatie-matematica-si-dezvoltare-personala",
+        "published_utc": "2026-08-17T08:46:42+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://green.start-up.ro/img/articles/3/6/0/36052/cover-36052-src.jpg"
+        "image": "https://picsum.photos/seed/vb-20df90e2d8c7bffc/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "RomaniaPozitiva",
+        "title": "Urbanities. Artiști la fața locului",
+        "summary": "Urbanities. Artiști la fața locului Între 10 și 16 august, artistul sonor Mathias Guilbaud și artista vizuală Marina Oprea au lucrat la Timișoara în cadrul Urbanities, o rezidență artistică rezultată&#8230; Articolul Urbanities. Artiști la fața locului apare prima dată în Romania Pozitiva .",
+        "link": "https://www.romaniapozitiva.ro/banat-crisana/urbanities-artisti-la-fata-locului",
+        "published_utc": "2026-08-17T08:43:37+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-057ff97c4c9a1d17/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "RomaniaPozitiva",
+        "title": "Numărătoare inversă pentru INKORA 2026: Muzică live, artiști tatuatori internaționali și concerte live electrizante se întâlnesc la Berăria H între 28 și 30 august",
+        "summary": "Mai sunt doar câteva săptămâni până când Berăria H va deveni cel mai important punct de întâlnire al culturii urbane din Europa de Sud-Est. A XIV-a ediție a INKORA (International&#8230; Articolul Numărătoare inversă pentru INKORA 2026: Muzică live, artiști tatuatori internaționali și concerte live electrizante se întâlnesc la Berăria H între 28 și 30 august apare prima dată în Romania Pozitiva .",
+        "link": "https://www.romaniapozitiva.ro/bucuresti/numaratoare-inversa-pentru-inkora-2026-muzica-live-artisti-tatuatori-internationali-si-concerte-live-electrizante-se-intalnesc-la-beraria-h-intre-28-si-30-august",
+        "published_utc": "2026-08-17T08:43:04+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-17b2202849d0cf32/480/320"
       },
       {
         "section": "romania",
@@ -37,18 +72,6 @@
         "score": 3,
         "freshness_boost": 3,
         "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/08/Dreptate-in-sanatate.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "Cum ajunge apa în fiecare cartier din București prin stațiile de pompare",
-        "summary": "După ce este tratată la stațiile Arcuda, Roșu sau Crivina, apa nu pleacă direct spre robinet. În fiecare zi, mii de aparate de cafea, dușuri și mașini de spălat pornesc aproape simultan. Seara, scena se repetă. Între aceste două momente, consumul scade, apoi urcă din nou. Infrastructura trebuie să răspundă acestor variații fără ca locuitorii &#8230;",
-        "link": "https://hotnews.ro/cum-ajunge-apa-in-fiecare-cartier-din-bucuresti-prin-statiile-de-pompare-2326245",
-        "published_utc": "2026-08-17T07:57:22+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-2ca17e278cee4af8/480/320"
       },
       {
         "section": "romania",
@@ -66,73 +89,25 @@
         "section": "romania",
         "kind": "ro",
         "source": "Times New Roman (Satira)",
-        "title": "😂 Ultima frontieră. Trump a epuizat escrocheriile posibile și vrea să încerce și alba-neagra",
-        "summary": "Cel mai redutabil escroc pe care l-au dat Statele Unite se apropie de finalul unei cariere glorioase, în care a încercat, și a înfăptuit, aproape orice tip de escrocherie posibilă. A făcut escrocherii imobiliare, cu cazinouri, cu cărți sau cu grătare, cu asigurări, cu alegeri, cu războaie cu absolut orice iar acum, la bătrânețe, nu [&#8230;] The post Ultima frontieră. Trump a epuizat escrocheriile posibile și vrea să încerce și alba-neagra appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/politic/ultima-frontiera-trump-a-epuizat-escrocheriile-posibile-si-vrea-sa-incerce-si-alba-neagra",
-        "published_utc": "2026-08-16T15:04:55+00:00",
+        "title": "😂 Nesăbuit! Un bărbat a aruncat din greșeală punga cu pungi din casă",
+        "summary": "Incident șocant în București! Un bărbat a aruncat la gunoi punga cu pungi a familiei, păstrată în bucătărie de peste 14 ani. Gestul său iresponsabil a provocat reacții imediate și ferme ale femeilor din familie: bărbatul a fost bătut, în ordine, de nevastă, menajeră, soacră și, în cele din urmă, de propria mamă, venită întâmplător [&#8230;] The post Nesăbuit! Un bărbat a aruncat din greșeală punga cu pungi din casă appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/life-death/nesabuit-un-barbat-a-aruncat-din-greseala-punga-cu-pungi-din-casa",
+        "published_utc": "2026-08-17T05:07:00+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/08/donald-trump-alba-neagra.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "RomaniaPozitiva",
-        "title": "Din culisele romanului Fiicele mării. Iris: patru surori, patru identități literare și o poveste de familie care traversează continente",
-        "summary": "Fiicele mării. Iris, primul volum din seria Fiicele mării, semnat de scriitoarea britanică Eleanor Buchanan, spune povestea a patru surori și a unui blestem rostit de un tată îndurerat de&#8230; Articolul Din culisele romanului Fiicele mării. Iris: patru surori, patru identități literare și o poveste de familie care traversează continente apare prima dată în Romania Pozitiva .",
-        "link": "https://www.romaniapozitiva.ro/carte-despre-romania/din-culisele-romanului-fiicele-marii-iris-patru-surori-patru-identitati-literare-si-o-poveste-de-familie-care-traverseaza-continente",
-        "published_utc": "2026-08-16T07:45:02+00:00",
-        "score": 3,
-        "freshness_boost": 1,
-        "image": "https://picsum.photos/seed/vb-2a17dc1cca396b40/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "RomaniaPozitiva",
-        "title": "Explorator în Africa| Ghepardul, vitezomanul savanei",
-        "summary": "Muzeul Național de Istorie Naturală „Grigore Antipa” îi invită pe micii aventurieri, cu vârste între 6 și 12 ani, într-o călătorie captivantă prin continentul african, în cadrul programului de ateliere „Explorator în&#8230; Articolul Explorator în Africa| Ghepardul, vitezomanul savanei apare prima dată în Romania Pozitiva .",
-        "link": "https://www.romaniapozitiva.ro/bucuresti/explorator-in-africa-ghepardul-vitezomanul-savanei",
-        "published_utc": "2026-08-16T07:28:18+00:00",
-        "score": 3,
-        "freshness_boost": 1,
-        "image": "https://picsum.photos/seed/vb-f770b3cc8720a5a5/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "RomaniaPozitiva",
-        "title": "„Kurak”, de Emil Atageldijev și Erke Dzhumakmatova, a câștigat Trofeul Anonimul 2026",
-        "summary": "Lungmetrajul „Kurak”, semnat de Emil Atageldijev și Erke Dzhumakmatova din Kârgâzstan, a fost recompensat sâmbătă seara cu Trofeul Anonimul 2026. Publicul Festivalului Internațional de Film Independent ANONIMUL a votat câștigătorii&#8230; Articolul „Kurak”, de Emil Atageldijev și Erke Dzhumakmatova, a câștigat Trofeul Anonimul 2026 apare prima dată în Romania Pozitiva .",
-        "link": "https://www.romaniapozitiva.ro/cultura/kurak-de-emil-atageldijev-si-erke-dzhumakmatova-a-castigat-trofeul-anonimul-2026",
-        "published_utc": "2026-08-16T07:27:27+00:00",
-        "score": 3,
-        "freshness_boost": 1,
-        "image": "https://picsum.photos/seed/vb-8b9ed83077349357/480/320"
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/08/barbat_Aruncand_punga_cu_pungi.jpg"
       },
       {
         "section": "romania",
         "kind": "ro",
         "source": "Times New Roman (Satira)",
-        "title": "😂 Dupa 1000 de ani de dezlegare la pește, BOR dă prima dezlegare la curve",
-        "summary": "Biserica Ortodoxă Română a anunțat, după o mie de ani de dezlegare la pește în perioadele de post, prima dezlegare oficială la curve, măsură motivată de necesitatea adaptării la realitățile sociale actuale. Decizia a fost luată în cadrul unei ședințe extraordinare a Sfântului Sinod, care a analizat cererile venite din partea unor comunități de credincioși [&#8230;] The post Dupa 1000 de ani de dezlegare la pește, BOR dă prima dezlegare la curve appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/life-death/dupa-1000-de-ani-de-dezlegare-la-peste-bor-da-prima-dezlegare-la-curve",
-        "published_utc": "2026-08-16T07:04:35+00:00",
+        "title": "😂 Apa minerală la 5 litri s-a făcut 50 de lei, din cauza debitului scăzut al Dunării",
+        "summary": "Prețul apei minerale la ambalaj de 5 litri a ajuns la 50 de lei în principalele rețele de supermarketuri, pe fondul debitului critic scăzut al Dunării. Producătorii de apă îmbuteliată invocă dificultăți majore de aprovizionare, precizând că o parte substanțială a resurselor folosite pentru îmbuteliere provine direct din fluviu, în condițiile în care izvoarele montane [&#8230;] The post Apa minerală la 5 litri s-a făcut 50 de lei, din cauza debitului scăzut al Dunării appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/life-death/apa-minerala-la-5-litri-s-a-facut-50-de-lei-din-cauza-debitului-scazut-al-dunarii",
+        "published_utc": "2026-08-14T05:56:33+00:00",
         "score": 3,
-        "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/08/patriarhul-daniel-gagici.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "RomaniaPozitiva",
-        "title": "Un-hidden București îți propune să experimentezi arta din spațiul public bucureștean",
-        "summary": "Un-hidden București invită bucureștenii să privească orașul cu alți ochi. La întâlnirea dintre arta urbană, patrimoniul cultural și explorarea orașului, proiectul propune o serie de experiențe care scot la lumină&#8230; Articolul Un-hidden București îți propune să experimentezi arta din spațiul public bucureștean apare prima dată în Romania Pozitiva .",
-        "link": "https://www.romaniapozitiva.ro/bucuresti/un-hidden-bucuresti-iti-propune-sa-experimentezi-arta-din-spatiul-public-bucurestean",
-        "published_utc": "2026-08-15T16:24:09+00:00",
-        "score": 3,
-        "freshness_boost": 1,
-        "image": "https://picsum.photos/seed/vb-2c6fd96d177d6742/480/320"
+        "freshness_boost": 0,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/08/apa-minerala-dunare.jpg"
       },
       {
         "section": "romania",
@@ -782,38 +757,74 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Start-Up Romania",
-      "title": "FlairMakers, startup cofondat de Raluca Epureanu în Marea Britanie, atrage 500.000 de lire pentru a schimba recrutarea din HoReCa",
-      "summary": "FlairMakers, startup cofondat de românca Raluca Epureanu, a atras o finanțare pre-seed de 500.000 de lire sterline. Runda a fost condusă de SFC Capital, unul dintre cei mai activi investitori seed...",
-      "link": "https://start-up.ro/flairmakers-startup-cofondat-de-raluca-epureanu-in-marea-britanie-atrage-500-000-de-lire-pentru-a-schimba-recrutarea-din-horeca",
-      "published_utc": "2026-08-17T08:27:06+00:00",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Dreptate în sănătate",
+      "summary": "The post Dreptate în sănătate appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/ovi/dreptate-in-sanatate",
+      "published_utc": "2026-08-17T08:07:49+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://start-up.ro/img/articles/3/8/8/38826/cover-38826-src.jpg"
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/08/Dreptate-in-sanatate.jpg"
     },
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Green Start-Up Romania",
-      "title": "Un nou studiu demonstrează beneficiile unui parc auto complet electrificat",
-      "summary": "Înlocuirea unei mașini cu motor cu ardere internă cu una electrică poate reduce emisiile de CO₂ chiar dacă vehiculul pe benzină are doar un an. Un studiu realizat în SUA arată că trecerea cât mai...",
-      "link": "https://green.start-up.ro/ro/un-nou-studiu-demonstreaza-beneficiile-unui-parc-auto-complet-electrificat",
-      "published_utc": "2026-08-17T08:25:15+00:00",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Nesăbuit! Un bărbat a aruncat din greșeală punga cu pungi din casă",
+      "summary": "Incident șocant în București! Un bărbat a aruncat la gunoi punga cu pungi a familiei, păstrată în bucătărie de peste 14 ani. Gestul său iresponsabil a provocat reacții imediate și ferme ale femeilor din familie: bărbatul a fost bătut, în ordine, de nevastă, menajeră, soacră și, în cele din urmă, de propria mamă, venită întâmplător [&#8230;] The post Nesăbuit! Un bărbat a aruncat din greșeală punga cu pungi din casă appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/life-death/nesabuit-un-barbat-a-aruncat-din-greseala-punga-cu-pungi-din-casa",
+      "published_utc": "2026-08-17T05:07:00+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://green.start-up.ro/img/articles/3/6/0/36052/cover-36052-src.jpg"
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/08/barbat_Aruncand_punga_cu_pungi.jpg"
     },
     {
       "section": "romania",
       "kind": "ro",
-      "source": "HotNews",
-      "title": "Cum ajunge apa în fiecare cartier din București prin stațiile de pompare",
-      "summary": "După ce este tratată la stațiile Arcuda, Roșu sau Crivina, apa nu pleacă direct spre robinet. În fiecare zi, mii de aparate de cafea, dușuri și mașini de spălat pornesc aproape simultan. Seara, scena se repetă. Între aceste două momente, consumul scade, apoi urcă din nou. Infrastructura trebuie să răspundă acestor variații fără ca locuitorii &#8230;",
-      "link": "https://hotnews.ro/cum-ajunge-apa-in-fiecare-cartier-din-bucuresti-prin-statiile-de-pompare-2326245",
-      "published_utc": "2026-08-17T07:57:22+00:00",
+      "source": "RomaniaPozitiva",
+      "title": "Woodrocks Trail Run – Alergare la poalele Munților Zărandului, 12 septembrie, la Petriș în județul Arad",
+      "summary": "Ecostuff Romania te invită la Woodrocks Trail Run, Sâmbătă, 12 septembrie, la Petriș în județul Arad, pentru o zi plină de energie, alergare, mulți prieteni și-o atmosferă ca de festival. &#8230; Articolul Woodrocks Trail Run – Alergare la poalele Munților Zărandului, 12 septembrie, la Petriș în județul Arad apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/banat-crisana/woodrocks-trail-run-alergare-la-poalele-muntilor-zarandului-12-septembrie-la-petris-in-judetul-arad",
+      "published_utc": "2026-08-17T09:26:14+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-2ca17e278cee4af8/480/320"
+      "image": "https://picsum.photos/seed/vb-d8e705a564fcd23e/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "RomaniaPozitiva",
+      "title": "Coșteiu, județul Timiș: Peste 90 de copii din mediul rural au încheiat un program intensiv de literație, matematică și dezvoltare personală",
+      "summary": "Peste 90 de copii din comunele Coșteiu și Balinț județul Timiș, au încheiat un program intensiv de literație și sprijin educațional, desfășurat pe parcursul a șapte luni, prin care și-au&#8230; Articolul Coșteiu, județul Timiș: Peste 90 de copii din mediul rural au încheiat un program intensiv de literație, matematică și dezvoltare personală apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/banat-crisana/costeiu-judetul-timis-peste-90-de-copii-din-mediul-rural-au-incheiat-un-program-intensiv-de-literatie-matematica-si-dezvoltare-personala",
+      "published_utc": "2026-08-17T08:46:42+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-20df90e2d8c7bffc/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "RomaniaPozitiva",
+      "title": "Urbanities. Artiști la fața locului",
+      "summary": "Urbanities. Artiști la fața locului Între 10 și 16 august, artistul sonor Mathias Guilbaud și artista vizuală Marina Oprea au lucrat la Timișoara în cadrul Urbanities, o rezidență artistică rezultată&#8230; Articolul Urbanities. Artiști la fața locului apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/banat-crisana/urbanities-artisti-la-fata-locului",
+      "published_utc": "2026-08-17T08:43:37+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-057ff97c4c9a1d17/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "RomaniaPozitiva",
+      "title": "Numărătoare inversă pentru INKORA 2026: Muzică live, artiști tatuatori internaționali și concerte live electrizante se întâlnesc la Berăria H între 28 și 30 august",
+      "summary": "Mai sunt doar câteva săptămâni până când Berăria H va deveni cel mai important punct de întâlnire al culturii urbane din Europa de Sud-Est. A XIV-a ediție a INKORA (International&#8230; Articolul Numărătoare inversă pentru INKORA 2026: Muzică live, artiști tatuatori internaționali și concerte live electrizante se întâlnesc la Berăria H între 28 și 30 august apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/bucuresti/numaratoare-inversa-pentru-inkora-2026-muzica-live-artisti-tatuatori-internationali-si-concerte-live-electrizante-se-intalnesc-la-beraria-h-intre-28-si-30-august",
+      "published_utc": "2026-08-17T08:43:04+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-17b2202849d0cf32/480/320"
     },
     {
       "section": "romania",
@@ -830,86 +841,25 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "Din culisele romanului Fiicele mării. Iris: patru surori, patru identități literare și o poveste de familie care traversează continente",
-      "summary": "Fiicele mării. Iris, primul volum din seria Fiicele mării, semnat de scriitoarea britanică Eleanor Buchanan, spune povestea a patru surori și a unui blestem rostit de un tată îndurerat de&#8230; Articolul Din culisele romanului Fiicele mării. Iris: patru surori, patru identități literare și o poveste de familie care traversează continente apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/carte-despre-romania/din-culisele-romanului-fiicele-marii-iris-patru-surori-patru-identitati-literare-si-o-poveste-de-familie-care-traverseaza-continente",
-      "published_utc": "2026-08-16T07:45:02+00:00",
-      "score": 3,
-      "freshness_boost": 1,
-      "image": "https://picsum.photos/seed/vb-2a17dc1cca396b40/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "Explorator în Africa| Ghepardul, vitezomanul savanei",
-      "summary": "Muzeul Național de Istorie Naturală „Grigore Antipa” îi invită pe micii aventurieri, cu vârste între 6 și 12 ani, într-o călătorie captivantă prin continentul african, în cadrul programului de ateliere „Explorator în&#8230; Articolul Explorator în Africa| Ghepardul, vitezomanul savanei apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/bucuresti/explorator-in-africa-ghepardul-vitezomanul-savanei",
-      "published_utc": "2026-08-16T07:28:18+00:00",
-      "score": 3,
-      "freshness_boost": 1,
-      "image": "https://picsum.photos/seed/vb-f770b3cc8720a5a5/480/320"
+      "source": "HotNews",
+      "title": "„Polul corporatiștilor” din București se extinde cu câteva mii de apartamente noi. Ce salarii trebuie să câștige o familie pentru pentru a-și cumpăra un apartament cu 2 sau 3 camere aici",
+      "summary": "Aproximativ 4.000 de apartamente sunt în construcţie în zona Aviaţiei, supranumită &#8216;polul corporatiştilor&#8217;, o familie având nevoie de un venit minim de aproximativ 15.000 de lei pentru a cumpăra prin credit ipotecar un apartament nou cu două camere în zonă, iar pentru unul cu trei camere circa 22.300 de lei, relevă o analiză de specialitate, &#8230;",
+      "link": "https://hotnews.ro/polul-corporatistilor-din-bucuresti-se-extinde-cu-cateva-mii-de-apartamente-noi-ce-salarii-trebuie-sa-castige-o-familie-pentru-pentru-a-si-cumpara-un-apartament-cu-2-sau-3-camere-ai-2326430",
+      "published_utc": "2026-08-17T09:20:37+00:00",
+      "score": 2,
+      "image": "https://picsum.photos/seed/vb-23ae6da1d313eb3f/480/320"
     },
     {
       "section": "romania",
       "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 Ultima frontieră. Trump a epuizat escrocheriile posibile și vrea să încerce și alba-neagra",
-      "summary": "Cel mai redutabil escroc pe care l-au dat Statele Unite se apropie de finalul unei cariere glorioase, în care a încercat, și a înfăptuit, aproape orice tip de escrocherie posibilă. A făcut escrocherii imobiliare, cu cazinouri, cu cărți sau cu grătare, cu asigurări, cu alegeri, cu războaie cu absolut orice iar acum, la bătrânețe, nu [&#8230;] The post Ultima frontieră. Trump a epuizat escrocheriile posibile și vrea să încerce și alba-neagra appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/politic/ultima-frontiera-trump-a-epuizat-escrocheriile-posibile-si-vrea-sa-incerce-si-alba-neagra",
-      "published_utc": "2026-08-16T15:04:55+00:00",
+      "title": "😂 Apa minerală la 5 litri s-a făcut 50 de lei, din cauza debitului scăzut al Dunării",
+      "summary": "Prețul apei minerale la ambalaj de 5 litri a ajuns la 50 de lei în principalele rețele de supermarketuri, pe fondul debitului critic scăzut al Dunării. Producătorii de apă îmbuteliată invocă dificultăți majore de aprovizionare, precizând că o parte substanțială a resurselor folosite pentru îmbuteliere provine direct din fluviu, în condițiile în care izvoarele montane [&#8230;] The post Apa minerală la 5 litri s-a făcut 50 de lei, din cauza debitului scăzut al Dunării appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/life-death/apa-minerala-la-5-litri-s-a-facut-50-de-lei-din-cauza-debitului-scazut-al-dunarii",
+      "published_utc": "2026-08-14T05:56:33+00:00",
       "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/08/donald-trump-alba-neagra.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Dreptate în sănătate",
-      "summary": "The post Dreptate în sănătate appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/ovi/dreptate-in-sanatate",
-      "published_utc": "2026-08-17T08:07:49+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/08/Dreptate-in-sanatate.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "„Kurak”, de Emil Atageldijev și Erke Dzhumakmatova, a câștigat Trofeul Anonimul 2026",
-      "summary": "Lungmetrajul „Kurak”, semnat de Emil Atageldijev și Erke Dzhumakmatova din Kârgâzstan, a fost recompensat sâmbătă seara cu Trofeul Anonimul 2026. Publicul Festivalului Internațional de Film Independent ANONIMUL a votat câștigătorii&#8230; Articolul „Kurak”, de Emil Atageldijev și Erke Dzhumakmatova, a câștigat Trofeul Anonimul 2026 apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/cultura/kurak-de-emil-atageldijev-si-erke-dzhumakmatova-a-castigat-trofeul-anonimul-2026",
-      "published_utc": "2026-08-16T07:27:27+00:00",
-      "score": 3,
-      "freshness_boost": 1,
-      "image": "https://picsum.photos/seed/vb-8b9ed83077349357/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Dupa 1000 de ani de dezlegare la pește, BOR dă prima dezlegare la curve",
-      "summary": "Biserica Ortodoxă Română a anunțat, după o mie de ani de dezlegare la pește în perioadele de post, prima dezlegare oficială la curve, măsură motivată de necesitatea adaptării la realitățile sociale actuale. Decizia a fost luată în cadrul unei ședințe extraordinare a Sfântului Sinod, care a analizat cererile venite din partea unor comunități de credincioși [&#8230;] The post Dupa 1000 de ani de dezlegare la pește, BOR dă prima dezlegare la curve appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/dupa-1000-de-ani-de-dezlegare-la-peste-bor-da-prima-dezlegare-la-curve",
-      "published_utc": "2026-08-16T07:04:35+00:00",
-      "score": 3,
-      "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/08/patriarhul-daniel-gagici.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "Un-hidden București îți propune să experimentezi arta din spațiul public bucureștean",
-      "summary": "Un-hidden București invită bucureștenii să privească orașul cu alți ochi. La întâlnirea dintre arta urbană, patrimoniul cultural și explorarea orașului, proiectul propune o serie de experiențe care scot la lumină&#8230; Articolul Un-hidden București îți propune să experimentezi arta din spațiul public bucureștean apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/bucuresti/un-hidden-bucuresti-iti-propune-sa-experimentezi-arta-din-spatiul-public-bucurestean",
-      "published_utc": "2026-08-15T16:24:09+00:00",
-      "score": 3,
-      "freshness_boost": 1,
-      "image": "https://picsum.photos/seed/vb-2c6fd96d177d6742/480/320"
+      "freshness_boost": 0,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/08/apa-minerala-dunare.jpg"
     },
     {
       "section": "romania",
@@ -972,18 +922,6 @@
       "image": "https://picsum.photos/seed/vb-66ff4de0f241b638/480/320"
     },
     {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "AI is already reaching people in distress, but mental health safeguards lag behind",
-      "summary": "As AI use gains traction in mental health care, Deakin University researchers have raised the alarm that there are currently no agreed-upon frameworks in place to regulate or guide its application.",
-      "link": "https://medicalxpress.com/news/2026-08-ai-people-distress-mental-health.html",
-      "published_utc": "2026-08-14T14:07:20+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/scrolling-in-bed.jpg"
-    },
-    {
       "section": "romania",
       "kind": "ro",
       "source": "Teach for Romania",
@@ -1008,16 +946,16 @@
       "image": "https://picsum.photos/seed/vb-2c8c13d08b21f659/480/320"
     },
     {
-      "section": "science",
+      "section": "medical",
       "kind": "global",
-      "source": "Phys.org",
-      "title": "Human blood may have helped preserve ancient Chinese rock art for 2,000 years",
-      "summary": "The Huashan rock art landscape in southern China, close to the border with Vietnam, is a remarkable UNESCO World Heritage site. Thousands of images are painted on river cliffs across more than 80 locations stretching 260 kilometers (162 miles). They depict people, musical instruments, boats, animals, weapons and many other figures, and date back at least 2,000 years.",
-      "link": "https://phys.org/news/2026-08-human-blood-ancient-chinese-art.html",
-      "published_utc": "2026-08-14T14:00:01+00:00",
-      "score": 0,
+      "source": "Medical Xpress",
+      "title": "AI is already reaching people in distress, but mental health safeguards lag behind",
+      "summary": "As AI use gains traction in mental health care, Deakin University researchers have raised the alarm that there are currently no agreed-upon frameworks in place to regulate or guide its application.",
+      "link": "https://medicalxpress.com/news/2026-08-ai-people-distress-mental-health.html",
+      "published_utc": "2026-08-14T14:07:20+00:00",
+      "score": 1,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ancient-chinese-rock-a-1.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/scrolling-in-bed.jpg"
     },
     {
       "section": "romania",
@@ -1044,16 +982,16 @@
       "image": "https://picsum.photos/seed/vb-954bfe38ec8a17dd/480/320"
     },
     {
-      "section": "medical",
+      "section": "science",
       "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Sepsis survivors show widely varied vaccine responses in clinical trial",
-      "summary": "People who have survived sepsis don't respond to vaccines in the same way as those who haven't had sepsis, according to new clinical trial results. The findings suggest more work is needed to understand why the vaccine-related immune response is altered in sepsis survivors so that vaccination programs can be tailored to reduce sepsis survivors' risk of infections and improve long-term health outcomes.",
-      "link": "https://medicalxpress.com/news/2026-08-sepsis-survivors-widely-varied-vaccine.html",
-      "published_utc": "2026-08-14T13:40:03+00:00",
-      "score": 1,
+      "source": "Phys.org",
+      "title": "Human blood may have helped preserve ancient Chinese rock art for 2,000 years",
+      "summary": "The Huashan rock art landscape in southern China, close to the border with Vietnam, is a remarkable UNESCO World Heritage site. Thousands of images are painted on river cliffs across more than 80 locations stretching 260 kilometers (162 miles). They depict people, musical instruments, boats, animals, weapons and many other figures, and date back at least 2,000 years.",
+      "link": "https://phys.org/news/2026-08-human-blood-ancient-chinese-art.html",
+      "published_utc": "2026-08-14T14:00:01+00:00",
+      "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/icu-patient.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ancient-chinese-rock-a-1.jpg"
     },
     {
       "section": "romania",
@@ -1080,16 +1018,16 @@
       "image": "https://picsum.photos/seed/vb-d5fed42c9a0bbcbc/480/320"
     },
     {
-      "section": "science",
+      "section": "medical",
       "kind": "global",
-      "source": "Phys.org",
-      "title": "Arctic balloon samples trace marine sugars from the ocean to cloud-forming heights",
-      "summary": "Salt and sugar from the sea can rise as far as the free troposphere, thereby influencing both cloud formation and the Arctic climate. This is the finding of balloon measurements carried out by a team of researchers on Spitsbergen in autumn 2021 and spring 2022.",
-      "link": "https://phys.org/news/2026-08-arctic-balloon-samples-marine-sugars.html",
-      "published_utc": "2026-08-14T13:40:01+00:00",
+      "source": "Medical Xpress",
+      "title": "Sepsis survivors show widely varied vaccine responses in clinical trial",
+      "summary": "People who have survived sepsis don't respond to vaccines in the same way as those who haven't had sepsis, according to new clinical trial results. The findings suggest more work is needed to understand why the vaccine-related immune response is altered in sepsis survivors so that vaccination programs can be tailored to reduce sepsis survivors' risk of infections and improve long-term health outcomes.",
+      "link": "https://medicalxpress.com/news/2026-08-sepsis-survivors-widely-varied-vaccine.html",
+      "published_utc": "2026-08-14T13:40:03+00:00",
       "score": 1,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/sugar-from-the-salty-o.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/icu-patient.jpg"
     },
     {
       "section": "romania",
@@ -1102,6 +1040,18 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-9017d5ebea453c95/480/320"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Arctic balloon samples trace marine sugars from the ocean to cloud-forming heights",
+      "summary": "Salt and sugar from the sea can rise as far as the free troposphere, thereby influencing both cloud formation and the Arctic climate. This is the finding of balloon measurements carried out by a team of researchers on Spitsbergen in autumn 2021 and spring 2022.",
+      "link": "https://phys.org/news/2026-08-arctic-balloon-samples-marine-sugars.html",
+      "published_utc": "2026-08-14T13:40:01+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/sugar-from-the-salty-o.jpg"
     },
     {
       "section": "science",
@@ -1640,6 +1590,7 @@
       "https://live.staticflickr.com/65535/55449204677_9d26759235_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/55451649535_dbd9f1d75b_b.jpg",
       "https://live.staticflickr.com/65535/15467425010_e89bfcd9dc_b.jpg",
       "https://live.staticflickr.com/65535/27131784558_2c47e6ea04_b.jpg",
       "https://live.staticflickr.com/65535/55465866746_b02ab50863_b.jpg",
@@ -1656,10 +1607,10 @@
       "https://live.staticflickr.com/65535/8334354528_c03cb5d449_b.jpg",
       "https://live.staticflickr.com/65535/42106062021_af00a0d713_b.jpg",
       "https://live.staticflickr.com/65535/55454605338_49501711f0_b.jpg",
-      "https://live.staticflickr.com/65535/55452230893_2202a04877_b.jpg",
-      "https://live.staticflickr.com/65535/55457669427_e0f66031df_b.jpg"
+      "https://live.staticflickr.com/65535/55452230893_2202a04877_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55468367617_537ebb2010_b.jpg",
       "https://live.staticflickr.com/65535/55468351732_62c9a226c6_b.jpg",
       "https://live.staticflickr.com/65535/55469388759_6dff77b2a7_b.jpg",
       "https://live.staticflickr.com/65535/55469266239_7ec79b9bdf_b.jpg",
@@ -1676,12 +1627,11 @@
       "https://live.staticflickr.com/65535/55261399646_e68b47f5aa_b.jpg",
       "https://live.staticflickr.com/65535/55466430857_ace01b592d_b.jpg",
       "https://live.staticflickr.com/65535/55466476112_6755085bb6_b.jpg",
-      "https://live.staticflickr.com/65535/55467378173_3106dbdbba_b.jpg",
-      "https://live.staticflickr.com/65535/55467639630_4055d1bd4e_b.jpg"
+      "https://live.staticflickr.com/65535/55467378173_3106dbdbba_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
+      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
