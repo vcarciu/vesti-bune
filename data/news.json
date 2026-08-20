@@ -1,7 +1,19 @@
 {
-  "generated_utc": "2026-08-20T15:23:40+00:00",
+  "generated_utc": "2026-08-20T16:21:46+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 Un turist muşcat de o ploşniţă radioactivă într-un hotel din Jupiter a devenit Omul-Ploşniţă",
+        "summary": "Cazul celebrului Spiderman nu mai e unic! Dorin, un bărbat în vârstă de 33 de ani din Feteşti, a fost muşcat în această dimineaţă de o ploşniţă radioactivă într-un hotel de două stele din staţiunea Jupiter. În urma incidentului, spun apropiaţii, Dorin a dobândit puteri supraomeneşti, şi-a confecţionat un costum maro din perdelele hotelului şi [&#8230;] The post Un turist muşcat de o ploşniţă radioactivă într-un hotel din Jupiter a devenit Omul-Ploşniţă appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/monden/un-turist-muscat-de-o-plosnita-radioactiva-intr-un-hotel-din-jupiter-a-devenit-omul-plosnita",
+        "published_utc": "2026-08-20T12:07:00+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/08/omulplosnita.jpg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -60,18 +72,6 @@
         "score": 3,
         "freshness_boost": 1,
         "image": "https://picsum.photos/seed/vb-66ae0710cdcfadaf/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 IKEA România, la un pas de faliment de când toată lumea îşi ia hotdogii de la Froo",
-        "summary": "Invazia de magazine mici cu hotdogi riscă să bage în faliment divizia românească a IKEA! Potrivit unor informaţii din interior, suedezii iau în calcul chiar să închidă cele două mari restaurante de hotdogi pe care le deţin în Bucureşti, Băneasa şi Pallady. Barujan Cilindrian, expert în hotdogi, a explicat pentru TNR schimbările recente în comportamentul [&#8230;] The post IKEA România, la un pas de faliment de când toată lumea îşi ia hotdogii de la Froo appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/life-death/ikea-romania-la-un-pas-de-faliment-de-cand-toata-lumea-isi-ia-hotdogi-de-la-froo",
-        "published_utc": "2026-08-19T12:42:00+00:00",
-        "score": 3,
-        "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/08/magazin_nou_ikea-1.jpg"
       },
       {
         "section": "romania",
@@ -247,97 +247,121 @@
         "section": "medical",
         "kind": "global",
         "source": "Medical Xpress",
-        "title": "Dehydration can cause more than thirst: Expert explains how it can affect the heart",
-        "summary": "Dehydration can affect much more than your thirst. It also can place extra stress on your heart and cardiovascular system, explains Dr. Brodie Marthaler, a cardiologist at Mayo Clinic Health System in Eau Claire.",
-        "link": "https://medicalxpress.com/news/2026-08-dehydration-thirst-expert-affect-heart.html",
-        "published_utc": "2026-08-20T15:20:06+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/gatorade.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Cognition and consciousness arise from analog computations, says new theory",
-        "summary": "A new theory, published in The Journal of Neuroscience by three scientists at the Picower Institute for Learning and Memory at MIT, offers an explanation of how the brain produces cognition and consciousness: It uses traveling waves of rhythmic neural activity to coordinate nimble neural networks with analog computations.",
-        "link": "https://medicalxpress.com/news/2026-08-cognition-consciousness-analog-theory.html",
-        "published_utc": "2026-08-20T15:20:05+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cognition-and-consciou.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Prostate cancer hijacks amino acid metabolism to signal hormone therapy resistance",
-        "summary": "Prostate tumors can rewire amino acid metabolism to override the normal brakes on cholesterol production, a process that may fuel hormone therapy resistance, according to a study by Weill Cornell Medicine investigators.",
-        "link": "https://medicalxpress.com/news/2026-08-prostate-cancer-hijacks-amino-acid.html",
-        "published_utc": "2026-08-20T15:00:12+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/prostate-cancer-hijack.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Why immune responses to vaccines vary from person to person",
-        "summary": "Vaccines protect most people from serious illness, but the strength of that protection can vary considerably from one person to another. A new study led by Arizona State University helps us understand why.",
-        "link": "https://medicalxpress.com/news/2026-08-immune-responses-vaccines-vary-person.html",
-        "published_utc": "2026-08-20T15:00:10+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-immune-responses-t.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Simple mouth rinse may help detect stomach and colorectal cancer signals",
-        "summary": "It's widely understood that the microbiome—especially microbes found in the mouth and the gut—can have a profound effect on health. In a study published in the journal Cell Host & Microbe on Aug. 20, researchers report that by analyzing the makeup of oral microbes, they may be able to detect signals associated with gastric (stomach) and colorectal cancer. These findings could lead to the development of new, less invasive screening tests for gastrointestinal cancers.",
-        "link": "https://medicalxpress.com/news/2026-08-simple-mouth-stomach-colorectal-cancer.html",
-        "published_utc": "2026-08-20T15:00:08+00:00",
+        "title": "AI-guided screening identifies nine drugs that may slow childhood dementia",
+        "summary": "An Australian research collaboration has identified several existing TGA-approved medicines that could help slow brain damage in children with a rare form of dementia—offering hope for faster treatment options.",
+        "link": "https://medicalxpress.com/news/2026-08-ai-screening-drugs-childhood-dementia.html",
+        "published_utc": "2026-08-20T16:20:09+00:00",
         "score": 2,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/oral-swab.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/faster-path-to-treatme.jpg"
       },
       {
         "section": "medical",
         "kind": "global",
         "source": "Medical Xpress",
-        "title": "Safety intervention reduces incidence of postoperative endophthalmitis",
-        "summary": "A multifaceted surgical safety intervention is effective and sustainable in reducing the incidence of postoperative endophthalmitis (POE) following ophthalmic surgery, according to a study published in Eye Discovery.",
-        "link": "https://medicalxpress.com/news/2026-08-safety-intervention-incidence-postoperative-endophthalmitis.html",
-        "published_utc": "2026-08-20T15:00:04+00:00",
-        "score": 7,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/safety-intervention-re.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Efficacy of a structured rehabilitation program for terminally ill cancer patients",
-        "summary": "Maintaining activities of daily living (ADLs) is important for terminally ill cancer patients, and dependency is associated with psychological distress. However, evidence for rehabilitation remains scarce in this setting.",
-        "link": "https://medicalxpress.com/news/2026-08-efficacy-terminally-ill-cancer-patients.html",
-        "published_utc": "2026-08-20T14:40:11+00:00",
+        "title": "What cannabis use really tells us about university students' eating habits",
+        "summary": "Cannabis has a reputation for making people hungry. Popular culture has long joked about the \"munchies,\" and many people assume that students who use cannabis naturally have poorer diets than those who don't.",
+        "link": "https://medicalxpress.com/news/2026-08-cannabis-university-students-habits.html",
+        "published_utc": "2026-08-20T16:20:07+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/efficacy-of-a-structur.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/cannabis-doctor.jpg"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "Medical Xpress",
+        "title": "'Molecular glue' redirects a cancer-driving protein to activate cell death",
+        "summary": "A two-headed molecule designed by Stanford Medicine researchers hijacks one of the most common protein drivers of B-cell lymphoma, flipping it from its role as a promoter of cell growth into an arbiter of cell death. In mice, a short course of twice-daily treatment eliminated aggressive lymphoma tumors within 11 days.",
+        "link": "https://medicalxpress.com/news/2026-08-molecular-redirects-cancer-protein-cell.html",
+        "published_utc": "2026-08-20T16:00:07+00:00",
+        "score": 1,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/molecular-glue-turns-a.jpg"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "Medical Xpress",
+        "title": "Dietary compound boosts immunosuppressant's effect for lupus treatment",
+        "summary": "University of Alabama researchers have found that a combination of an existing immunosuppressant drug and a compound derived from dietary sources showed greater benefit than either treatment alone in a preclinical model of lupus.",
+        "link": "https://medicalxpress.com/news/2026-08-dietary-compound-boosts-immunosuppressant-effect.html",
+        "published_utc": "2026-08-20T16:00:05+00:00",
+        "score": 2,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2020/4-doctor.jpg"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "Medical Xpress",
+        "title": "Attaining a healthy weight range linked to lower risk of type 1 diabetes progression",
+        "summary": "A Baylor College of Medicine-led team found that moving into a normal weight range was associated with about half the risk of progressing to clinical type 1 diabetes (T1D), particularly in youth. This observational study, published in Diabetes Care, was conducted in individuals with early signs of type 1 diabetes.",
+        "link": "https://medicalxpress.com/news/2026-08-healthy-weight-range-linked-diabetes.html",
+        "published_utc": "2026-08-20T16:00:02+00:00",
+        "score": 1,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/attaining-a-healthy-we.jpg"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "Medical Xpress",
+        "title": "A single application of anti-mosquito coating reduces the long-term risk of dengue",
+        "summary": "A single application to water containers can significantly reduce yellow fever mosquito (Aedes aegypti) populations—and thus the spread of dengue fever—for many months. Researchers from the Faculty of Medicine at the University of Freiburg demonstrated this in a study published in The Lancet Infectious Diseases.",
+        "link": "https://medicalxpress.com/news/2026-08-application-anti-mosquito-coating-term.html",
+        "published_utc": "2026-08-20T15:40:05+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-single-application-o.jpg"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "Medical Xpress",
+        "title": "Miniature kidneys could accelerate new treatments for acute kidney injury",
+        "summary": "Researchers from Monash University have developed miniature human kidneys from stem cells that could accelerate the search for treatments for acute kidney injury (AKI), a sudden loss of kidney function that can cause severe illness and long-term kidney damage.",
+        "link": "https://medicalxpress.com/news/2026-08-miniature-kidneys-treatments-acute-kidney.html",
+        "published_utc": "2026-08-20T15:40:03+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/miniature-kidneys-coul.jpg"
       },
       {
         "section": "medical",
         "kind": "global",
         "source": "ScienceDaily Health",
-        "title": "When gut microbes run low on fiber, they may start eating you",
-        "summary": "Gut microbes need something to eat, and when fiber is limited, they may begin consuming proteins from the mucus lining that protects the gut. Researchers found that fiber can suppress this process, while indigestible plant proteins help microbes produce more beneficial compounds.",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260814235842.htm",
-        "published_utc": "2026-08-15T14:30:28+00:00",
+        "title": "New GLP-1 pill delivers up to 12% weight loss in 36 weeks",
+        "summary": "An experimental GLP-1 pill helped people with obesity or overweight lose as much as 12.1% of their body weight in just 36 weeks. Unlike injectable drugs such as Wegovy and Ozempic, aleniglipron is a small molecule that can be taken once daily with or without food and could potentially be produced more easily at scale.",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260810015717.htm",
+        "published_utc": "2026-08-10T14:50:43+00:00",
+        "score": 0,
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-17c676512f3fefaf/480/320"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "1 in 5 people may carry this hidden genetic heart risk",
+        "summary": "Very high levels of the inherited cholesterol-related particle Lp(a) were linked to a greater risk of major cardiovascular events, particularly stroke and cardiovascular death, in a study of more than 20,000 people. Since elevated Lp(a) often flies completely under the radar, a simple blood test could uncover hidden heart risk that standard cholesterol testing may miss.",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260808235011.htm",
+        "published_utc": "2026-08-10T13:03:54+00:00",
+        "score": 0,
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-637285aa2b68389b/480/320"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "A daily glass of fruit juice was linked to lower depression scores",
+        "summary": "A daily glass of 100% fruit juice or a smoothie may help improve more than just fruit intake. In a small four-week trial, participants who added one to a healthier diet showed significantly lower depression scores, hinting that a simple dietary change could also support mental well-being.",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260808235003.htm",
+        "published_utc": "2026-08-10T02:09:47+00:00",
         "score": 1,
         "freshness_boost": 0,
-        "image": "https://picsum.photos/seed/vb-af7b10a5c113dc95/480/320"
+        "image": "https://picsum.photos/seed/vb-56325ec8308ccd61/480/320"
       }
     ],
     "science": [
@@ -541,6 +565,30 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Un nou curent în AI",
+      "summary": "The post Un nou curent în AI appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/ovi/un-nou-curent-in-ai",
+      "published_utc": "2026-08-20T07:40:40+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/08/Un-nou-curent-in-AI.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Secolul vitezei! La o lună de la deschidere, nibiriştii vechi spun deja că Nibiru nu mai e ce-a fost",
+      "summary": "Vechiul Nibiru, tărâmul boem al chitarelor, al focurilor de tabără şi al hipioţilor rebeli, s-a transformat astăzi într-o staţiune fără personalitate, cu cluburi zgomotoase şi preţuri exagerate! O spun mai mulţi reprezentanţi ai &#8222;gărzii vechi&#8221;, nibiriştii bătrâni care au ajuns la Nibiru în iulie, pe când acesta era doar un mic sat de influenceri între [&#8230;] The post Secolul vitezei! La o lună de la deschidere, nibiriştii vechi spun deja că Nibiru nu mai e ce-a fost appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/monden/secolul-vitezei-la-o-luna-de-la-deschidere-nibiristii-vechi-spun-deja-ca-nibiru-nu-mai-e-ce-a-fost",
+      "published_utc": "2026-08-20T11:21:00+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/08/nibirunumaieceafost.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "Paula Iancic, Ruxandra Donose, Ramón Vargas şi Leontina Vǎduva vor fi în prim planul Galei Salbek Opera Festival din 23 august, de la Arad, alǎturi de tinerii lor invitați",
       "summary": "Paula Iancic, Ruxandra Donose, Ramón Vargas şi Leontina Vǎduva vor fi în prim planul Galei Salbek Opera Festival din 23 august, de la Arad, alǎturi de tinerii lor invitați Celebrii&#8230; Articolul Paula Iancic, Ruxandra Donose, Ramón Vargas şi Leontina Vǎduva vor fi în prim planul Galei Salbek Opera Festival din 23 august, de la Arad, alǎturi de tinerii lor invitați apare prima dată în Romania Pozitiva .",
@@ -561,18 +609,6 @@
       "score": 3,
       "freshness_boost": 1,
       "image": "https://picsum.photos/seed/vb-66ae0710cdcfadaf/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 IKEA România, la un pas de faliment de când toată lumea îşi ia hotdogii de la Froo",
-      "summary": "Invazia de magazine mici cu hotdogi riscă să bage în faliment divizia românească a IKEA! Potrivit unor informaţii din interior, suedezii iau în calcul chiar să închidă cele două mari restaurante de hotdogi pe care le deţin în Bucureşti, Băneasa şi Pallady. Barujan Cilindrian, expert în hotdogi, a explicat pentru TNR schimbările recente în comportamentul [&#8230;] The post IKEA România, la un pas de faliment de când toată lumea îşi ia hotdogii de la Froo appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/ikea-romania-la-un-pas-de-faliment-de-cand-toata-lumea-isi-ia-hotdogi-de-la-froo",
-      "published_utc": "2026-08-19T12:42:00+00:00",
-      "score": 3,
-      "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/08/magazin_nou_ikea-1.jpg"
     },
     {
       "section": "romania",
@@ -614,13 +650,13 @@
       "section": "romania",
       "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 Secolul vitezei! La o lună de la deschidere, nibiriştii vechi spun deja că Nibiru nu mai e ce-a fost",
-      "summary": "Vechiul Nibiru, tărâmul boem al chitarelor, al focurilor de tabără şi al hipioţilor rebeli, s-a transformat astăzi într-o staţiune fără personalitate, cu cluburi zgomotoase şi preţuri exagerate! O spun mai mulţi reprezentanţi ai &#8222;gărzii vechi&#8221;, nibiriştii bătrâni care au ajuns la Nibiru în iulie, pe când acesta era doar un mic sat de influenceri între [&#8230;] The post Secolul vitezei! La o lună de la deschidere, nibiriştii vechi spun deja că Nibiru nu mai e ce-a fost appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/monden/secolul-vitezei-la-o-luna-de-la-deschidere-nibiristii-vechi-spun-deja-ca-nibiru-nu-mai-e-ce-a-fost",
-      "published_utc": "2026-08-20T11:21:00+00:00",
+      "title": "😂 Un turist muşcat de o ploşniţă radioactivă într-un hotel din Jupiter a devenit Omul-Ploşniţă",
+      "summary": "Cazul celebrului Spiderman nu mai e unic! Dorin, un bărbat în vârstă de 33 de ani din Feteşti, a fost muşcat în această dimineaţă de o ploşniţă radioactivă într-un hotel de două stele din staţiunea Jupiter. În urma incidentului, spun apropiaţii, Dorin a dobândit puteri supraomeneşti, şi-a confecţionat un costum maro din perdelele hotelului şi [&#8230;] The post Un turist muşcat de o ploşniţă radioactivă într-un hotel din Jupiter a devenit Omul-Ploşniţă appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/monden/un-turist-muscat-de-o-plosnita-radioactiva-intr-un-hotel-din-jupiter-a-devenit-omul-plosnita",
+      "published_utc": "2026-08-20T12:07:00+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/08/nibirunumaieceafost.jpg"
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/08/omulplosnita.jpg"
     },
     {
       "section": "romania",
@@ -632,18 +668,6 @@
       "published_utc": "2026-08-20T10:46:15+00:00",
       "score": 2,
       "image": "https://picsum.photos/seed/vb-f413de7862964717/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Un nou curent în AI",
-      "summary": "The post Un nou curent în AI appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/ovi/un-nou-curent-in-ai",
-      "published_utc": "2026-08-20T07:40:40+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/08/Un-nou-curent-in-AI.jpg"
     },
     {
       "section": "romania",
@@ -733,13 +757,13 @@
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
-      "title": "Dehydration can cause more than thirst: Expert explains how it can affect the heart",
-      "summary": "Dehydration can affect much more than your thirst. It also can place extra stress on your heart and cardiovascular system, explains Dr. Brodie Marthaler, a cardiologist at Mayo Clinic Health System in Eau Claire.",
-      "link": "https://medicalxpress.com/news/2026-08-dehydration-thirst-expert-affect-heart.html",
-      "published_utc": "2026-08-20T15:20:06+00:00",
-      "score": 0,
+      "title": "AI-guided screening identifies nine drugs that may slow childhood dementia",
+      "summary": "An Australian research collaboration has identified several existing TGA-approved medicines that could help slow brain damage in children with a rare form of dementia—offering hope for faster treatment options.",
+      "link": "https://medicalxpress.com/news/2026-08-ai-screening-drugs-childhood-dementia.html",
+      "published_utc": "2026-08-20T16:20:09+00:00",
+      "score": 2,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/gatorade.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/faster-path-to-treatme.jpg"
     },
     {
       "section": "romania",
@@ -769,13 +793,13 @@
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
-      "title": "Cognition and consciousness arise from analog computations, says new theory",
-      "summary": "A new theory, published in The Journal of Neuroscience by three scientists at the Picower Institute for Learning and Memory at MIT, offers an explanation of how the brain produces cognition and consciousness: It uses traveling waves of rhythmic neural activity to coordinate nimble neural networks with analog computations.",
-      "link": "https://medicalxpress.com/news/2026-08-cognition-consciousness-analog-theory.html",
-      "published_utc": "2026-08-20T15:20:05+00:00",
+      "title": "What cannabis use really tells us about university students' eating habits",
+      "summary": "Cannabis has a reputation for making people hungry. Popular culture has long joked about the \"munchies,\" and many people assume that students who use cannabis naturally have poorer diets than those who don't.",
+      "link": "https://medicalxpress.com/news/2026-08-cannabis-university-students-habits.html",
+      "published_utc": "2026-08-20T16:20:07+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cognition-and-consciou.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/cannabis-doctor.jpg"
     },
     {
       "section": "romania",
@@ -805,61 +829,61 @@
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
-      "title": "Prostate cancer hijacks amino acid metabolism to signal hormone therapy resistance",
-      "summary": "Prostate tumors can rewire amino acid metabolism to override the normal brakes on cholesterol production, a process that may fuel hormone therapy resistance, according to a study by Weill Cornell Medicine investigators.",
-      "link": "https://medicalxpress.com/news/2026-08-prostate-cancer-hijacks-amino-acid.html",
-      "published_utc": "2026-08-20T15:00:12+00:00",
+      "title": "'Molecular glue' redirects a cancer-driving protein to activate cell death",
+      "summary": "A two-headed molecule designed by Stanford Medicine researchers hijacks one of the most common protein drivers of B-cell lymphoma, flipping it from its role as a promoter of cell growth into an arbiter of cell death. In mice, a short course of twice-daily treatment eliminated aggressive lymphoma tumors within 11 days.",
+      "link": "https://medicalxpress.com/news/2026-08-molecular-redirects-cancer-protein-cell.html",
+      "published_utc": "2026-08-20T16:00:07+00:00",
       "score": 1,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/prostate-cancer-hijack.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/molecular-glue-turns-a.jpg"
     },
     {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
-      "title": "Why immune responses to vaccines vary from person to person",
-      "summary": "Vaccines protect most people from serious illness, but the strength of that protection can vary considerably from one person to another. A new study led by Arizona State University helps us understand why.",
-      "link": "https://medicalxpress.com/news/2026-08-immune-responses-vaccines-vary-person.html",
-      "published_utc": "2026-08-20T15:00:10+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-immune-responses-t.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Simple mouth rinse may help detect stomach and colorectal cancer signals",
-      "summary": "It's widely understood that the microbiome—especially microbes found in the mouth and the gut—can have a profound effect on health. In a study published in the journal Cell Host & Microbe on Aug. 20, researchers report that by analyzing the makeup of oral microbes, they may be able to detect signals associated with gastric (stomach) and colorectal cancer. These findings could lead to the development of new, less invasive screening tests for gastrointestinal cancers.",
-      "link": "https://medicalxpress.com/news/2026-08-simple-mouth-stomach-colorectal-cancer.html",
-      "published_utc": "2026-08-20T15:00:08+00:00",
+      "title": "Dietary compound boosts immunosuppressant's effect for lupus treatment",
+      "summary": "University of Alabama researchers have found that a combination of an existing immunosuppressant drug and a compound derived from dietary sources showed greater benefit than either treatment alone in a preclinical model of lupus.",
+      "link": "https://medicalxpress.com/news/2026-08-dietary-compound-boosts-immunosuppressant-effect.html",
+      "published_utc": "2026-08-20T16:00:05+00:00",
       "score": 2,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/oral-swab.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2020/4-doctor.jpg"
     },
     {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
-      "title": "Safety intervention reduces incidence of postoperative endophthalmitis",
-      "summary": "A multifaceted surgical safety intervention is effective and sustainable in reducing the incidence of postoperative endophthalmitis (POE) following ophthalmic surgery, according to a study published in Eye Discovery.",
-      "link": "https://medicalxpress.com/news/2026-08-safety-intervention-incidence-postoperative-endophthalmitis.html",
-      "published_utc": "2026-08-20T15:00:04+00:00",
-      "score": 7,
+      "title": "Attaining a healthy weight range linked to lower risk of type 1 diabetes progression",
+      "summary": "A Baylor College of Medicine-led team found that moving into a normal weight range was associated with about half the risk of progressing to clinical type 1 diabetes (T1D), particularly in youth. This observational study, published in Diabetes Care, was conducted in individuals with early signs of type 1 diabetes.",
+      "link": "https://medicalxpress.com/news/2026-08-healthy-weight-range-linked-diabetes.html",
+      "published_utc": "2026-08-20T16:00:02+00:00",
+      "score": 1,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/safety-intervention-re.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/attaining-a-healthy-we.jpg"
     },
     {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
-      "title": "Efficacy of a structured rehabilitation program for terminally ill cancer patients",
-      "summary": "Maintaining activities of daily living (ADLs) is important for terminally ill cancer patients, and dependency is associated with psychological distress. However, evidence for rehabilitation remains scarce in this setting.",
-      "link": "https://medicalxpress.com/news/2026-08-efficacy-terminally-ill-cancer-patients.html",
-      "published_utc": "2026-08-20T14:40:11+00:00",
+      "title": "A single application of anti-mosquito coating reduces the long-term risk of dengue",
+      "summary": "A single application to water containers can significantly reduce yellow fever mosquito (Aedes aegypti) populations—and thus the spread of dengue fever—for many months. Researchers from the Faculty of Medicine at the University of Freiburg demonstrated this in a study published in The Lancet Infectious Diseases.",
+      "link": "https://medicalxpress.com/news/2026-08-application-anti-mosquito-coating-term.html",
+      "published_utc": "2026-08-20T15:40:05+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/efficacy-of-a-structur.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-single-application-o.jpg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "Miniature kidneys could accelerate new treatments for acute kidney injury",
+      "summary": "Researchers from Monash University have developed miniature human kidneys from stem cells that could accelerate the search for treatments for acute kidney injury (AKI), a sudden loss of kidney function that can cause severe illness and long-term kidney damage.",
+      "link": "https://medicalxpress.com/news/2026-08-miniature-kidneys-treatments-acute-kidney.html",
+      "published_utc": "2026-08-20T15:40:03+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/miniature-kidneys-coul.jpg"
     },
     {
       "section": "science",
@@ -997,13 +1021,37 @@
       "section": "medical",
       "kind": "global",
       "source": "ScienceDaily Health",
-      "title": "When gut microbes run low on fiber, they may start eating you",
-      "summary": "Gut microbes need something to eat, and when fiber is limited, they may begin consuming proteins from the mucus lining that protects the gut. Researchers found that fiber can suppress this process, while indigestible plant proteins help microbes produce more beneficial compounds.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260814235842.htm",
-      "published_utc": "2026-08-15T14:30:28+00:00",
+      "title": "New GLP-1 pill delivers up to 12% weight loss in 36 weeks",
+      "summary": "An experimental GLP-1 pill helped people with obesity or overweight lose as much as 12.1% of their body weight in just 36 weeks. Unlike injectable drugs such as Wegovy and Ozempic, aleniglipron is a small molecule that can be taken once daily with or without food and could potentially be produced more easily at scale.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260810015717.htm",
+      "published_utc": "2026-08-10T14:50:43+00:00",
+      "score": 0,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-17c676512f3fefaf/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "1 in 5 people may carry this hidden genetic heart risk",
+      "summary": "Very high levels of the inherited cholesterol-related particle Lp(a) were linked to a greater risk of major cardiovascular events, particularly stroke and cardiovascular death, in a study of more than 20,000 people. Since elevated Lp(a) often flies completely under the radar, a simple blood test could uncover hidden heart risk that standard cholesterol testing may miss.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260808235011.htm",
+      "published_utc": "2026-08-10T13:03:54+00:00",
+      "score": 0,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-637285aa2b68389b/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "A daily glass of fruit juice was linked to lower depression scores",
+      "summary": "A daily glass of 100% fruit juice or a smoothie may help improve more than just fruit intake. In a small four-week trial, participants who added one to a healthier diet showed significantly lower depression scores, hinting that a simple dietary change could also support mental well-being.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260808235003.htm",
+      "published_utc": "2026-08-10T02:09:47+00:00",
       "score": 1,
       "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-af7b10a5c113dc95/480/320"
+      "image": "https://picsum.photos/seed/vb-56325ec8308ccd61/480/320"
     },
     {
       "section": "environment",
@@ -1158,6 +1206,7 @@
       "https://live.staticflickr.com/65535/55458194051_6d2f6fd5ac_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/55471712472_feb9e07eb3_b.jpg",
       "https://live.staticflickr.com/65535/55470102511_87e51e157d_b.jpg",
       "https://live.staticflickr.com/65535/55470219003_20670dc9a9_b.jpg",
       "https://live.staticflickr.com/65535/55469122692_811640bcef_b.jpg",
@@ -1174,8 +1223,7 @@
       "https://live.staticflickr.com/65535/55469122537_e09bbe9dac_b.jpg",
       "https://live.staticflickr.com/65535/55470218808_d727a0fb69_b.jpg",
       "https://live.staticflickr.com/65535/55470273449_4ba6c6c7e4_b.jpg",
-      "https://live.staticflickr.com/65535/55470495890_db9bfaa047_b.jpg",
-      "https://live.staticflickr.com/65535/55469122922_074ced8a73_b.jpg"
+      "https://live.staticflickr.com/65535/55470495890_db9bfaa047_b.jpg"
     ],
     "cities": [
       "https://upload.wikimedia.org/wikipedia/commons/3/3f/NYC_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg",
@@ -1198,8 +1246,8 @@
       "https://live.staticflickr.com/65535/55473961946_127e7243da_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
+      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
