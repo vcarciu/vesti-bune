@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-08-20T04:25:03+00:00",
+  "generated_utc": "2026-08-20T05:21:12+00:00",
   "sections": {
     "romania": [
       {
@@ -13,18 +13,6 @@
         "score": 3,
         "freshness_boost": 3,
         "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/06/grindeanu_sobolanind.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Digi24",
-        "title": "Românii, ultimii la accesul la medicamente inovatoare: întârzieri duble față de Europa și pacienți în pericol",
-        "summary": "Pacienții din România așteaptă aproape de două ori mai mult decât media europeană pentru a avea acces la medicamente inovatoare - în jur de 1.100 de zile, față de 597 în Europa, iar în unele cazuri tratamentele au fost deja aprobate, dar nu ajung la bolnav pentru că nu există bani pentru compensarea lor.",
-        "link": "https://www.digi24.ro/stiri/actualitate/sanatate/romanii-ultimii-la-accesul-la-medicamente-inovatoare-intarzieri-duble-fata-de-europa-si-pacienti-in-pericol-3913449",
-        "published_utc": "2026-08-20T04:00:08+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOCUyRjIwJTJGMjkxNzQ2N18yOTE3/NDY3X3Byb2ZpbWVkaWEtMDEyMDgxNTE2/Ni5qcGcmaGFzaD1kNjIzMWRhNDdjNDkyODU1M2FiYmUzNGJmOTg0NTIzMw==.jpg"
       },
       {
         "section": "romania",
@@ -95,7 +83,7 @@
         "link": "https://www.timesnewroman.ro/politic/rezultatele-la-bac-s-au-afisat-degeaba-ccr-a-decis-ca-pana-nu-trece-ciolacu-nu-mai-trece-nimeni",
         "published_utc": "2026-08-19T04:59:00+00:00",
         "score": 3,
-        "freshness_boost": 3,
+        "freshness_boost": 1,
         "image": "https://www.timesnewroman.ro/wp-content/uploads/2024/04/ciolacu_creion_abecedar.jpg"
       },
       {
@@ -133,6 +121,18 @@
         "score": 3,
         "freshness_boost": 0,
         "image": "https://picsum.photos/seed/vb-5fcb6453c2c12bfa/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Fundatia Inocenti",
+        "title": "Rareș, băiatul care a învățat să creadă în propriile puteri",
+        "summary": "Rareș a învățat să creadă în propriile puteri datorită sprijinului educațional și emoțional oferit de Fundația Inocenți. Descoperă povestea lui. The post Rareș, băiatul care a învățat să creadă în propriile puteri appeared first on Fundația Inocenți .",
+        "link": "https://inocenti.ro/rares-baiatul-care-a-invatat-sa-creada-in-propriile-puteri",
+        "published_utc": "2026-07-31T11:11:04+00:00",
+        "score": 3,
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-9e910caffe28ea93/480/320"
       },
       {
         "section": "romania",
@@ -205,6 +205,18 @@
         "score": 3,
         "freshness_boost": 0,
         "image": "https://picsum.photos/seed/vb-954bfe38ec8a17dd/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Fundatia Inocenti",
+        "title": "Inocenți, locul în care curajul crește pas cu pas",
+        "summary": "Descoperă povestea Alinei și cum sprijinul oferit de Fundația Inocenți a ajutat-o să își dezvolte încrederea în sine, abilitățile școlare și curajul de a reuși. The post Inocenți, locul în care curajul crește pas cu pas appeared first on Fundația Inocenți .",
+        "link": "https://inocenti.ro/inocenti-locul-in-care-curajul-creste-pas-cu-pas",
+        "published_utc": "2026-07-10T10:30:22+00:00",
+        "score": 3,
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-9017d5ebea453c95/480/320"
       }
     ],
     "medical": [
@@ -543,13 +555,13 @@
       "section": "romania",
       "kind": "ro",
       "source": "RomaniaPozitiva",
-      "title": "Nu tăiați bursele sociale în vacanță! Nevoia de sprijin și protecție a elevilor vulnerabili nu intră în vacanță – Declarație și Punct de vedere Salvați Copiii România",
-      "summary": "Organizația Salvați Copiii România solicită Ministerului Educației și Cercetării să renunțe la prevederea prin care bursele sociale ar urma să fie acordate numai în perioada cursurilor școlare. Bursa socială trebuie&#8230; Articolul Nu tăiați bursele sociale în vacanță! Nevoia de sprijin și protecție a elevilor vulnerabili nu intră în vacanță &#8211; Declarație și Punct de vedere Salvați Copiii România apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/administratie/nu-taiati-bursele-sociale-in-vacanta-nevoia-de-sprijin-si-protectie-a-elevilor-vulnerabili-nu-intra-in-vacanta-declaratie-si-punct-de-vedere-salvati-copiii-romania",
-      "published_utc": "2026-08-19T12:39:10+00:00",
+      "title": "World Vision România: Bursele sociale trebuie acordate și în vacanțe. Vulnerabilitatea economică a copiilor nu urmează calendarul școlar",
+      "summary": "World Vision România solicită menținerea burselor sociale pentru elevi și în perioadele de vacanță. Bursa socială se adresează elevilor aflați în situații de vulnerabilitate socioeconomică și reprezintă, pentru familiile cu&#8230; Articolul World Vision România: Bursele sociale trebuie acordate și în vacanțe. Vulnerabilitatea economică a copiilor nu urmează calendarul școlar apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/administratie/world-vision-romania-bursele-sociale-trebuie-acordate-si-in-vacante-vulnerabilitatea-economica-a-copiilor-nu-urmeaza-calendarul-scolar",
+      "published_utc": "2026-08-19T12:38:15+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-e52dba39bdf59848/480/320"
+      "image": "https://picsum.photos/seed/vb-4e64fcf22b919bb5/480/320"
     },
     {
       "section": "romania",
@@ -562,18 +574,6 @@
       "score": 3,
       "freshness_boost": 3,
       "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/06/grindeanu_sobolanind.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "World Vision România: Bursele sociale trebuie acordate și în vacanțe. Vulnerabilitatea economică a copiilor nu urmează calendarul școlar",
-      "summary": "World Vision România solicită menținerea burselor sociale pentru elevi și în perioadele de vacanță. Bursa socială se adresează elevilor aflați în situații de vulnerabilitate socioeconomică și reprezintă, pentru familiile cu&#8230; Articolul World Vision România: Bursele sociale trebuie acordate și în vacanțe. Vulnerabilitatea economică a copiilor nu urmează calendarul școlar apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/administratie/world-vision-romania-bursele-sociale-trebuie-acordate-si-in-vacante-vulnerabilitatea-economica-a-copiilor-nu-urmeaza-calendarul-scolar",
-      "published_utc": "2026-08-19T12:38:15+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-4e64fcf22b919bb5/480/320"
     },
     {
       "section": "romania",
@@ -602,26 +602,26 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Digi24",
-      "title": "Românii, ultimii la accesul la medicamente inovatoare: întârzieri duble față de Europa și pacienți în pericol",
-      "summary": "Pacienții din România așteaptă aproape de două ori mai mult decât media europeană pentru a avea acces la medicamente inovatoare - în jur de 1.100 de zile, față de 597 în Europa, iar în unele cazuri tratamentele au fost deja aprobate, dar nu ajung la bolnav pentru că nu există bani pentru compensarea lor.",
-      "link": "https://www.digi24.ro/stiri/actualitate/sanatate/romanii-ultimii-la-accesul-la-medicamente-inovatoare-intarzieri-duble-fata-de-europa-si-pacienti-in-pericol-3913449",
-      "published_utc": "2026-08-20T04:00:08+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOCUyRjIwJTJGMjkxNzQ2N18yOTE3/NDY3X3Byb2ZpbWVkaWEtMDEyMDgxNTE2/Ni5qcGcmaGFzaD1kNjIzMWRhNDdjNDkyODU1M2FiYmUzNGJmOTg0NTIzMw==.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "Times New Roman (Satira)",
       "title": "😂 Rezultatele la Bac s-au afişat degeaba! CCR a decis că până nu trece Ciolacu, nu mai trece nimeni",
       "summary": "Vești proaste pentru cei care au dat Bacul de toamnă și l-au luat! O decizie CCR de azi stabilește că, până nu trece Marcel Ciolacu, nu mai trece absolut nimeni. Și cum Ciolacu nu a luat nici de această dată Bacul, asta însemană că nimeni nu a luat Bacul. Chiar dacă au fost inclusiv elevi [&#8230;] The post Rezultatele la Bac s-au afişat degeaba! CCR a decis că până nu trece Ciolacu, nu mai trece nimeni appeared first on Times New Roman .",
       "link": "https://www.timesnewroman.ro/politic/rezultatele-la-bac-s-au-afisat-degeaba-ccr-a-decis-ca-pana-nu-trece-ciolacu-nu-mai-trece-nimeni",
       "published_utc": "2026-08-19T04:59:00+00:00",
       "score": 3,
-      "freshness_boost": 3,
+      "freshness_boost": 1,
       "image": "https://www.timesnewroman.ro/wp-content/uploads/2024/04/ciolacu_creion_abecedar.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "RomaniaPozitiva",
+      "title": "Nu tăiați bursele sociale în vacanță! Nevoia de sprijin și protecție a elevilor vulnerabili nu intră în vacanță – Declarație și Punct de vedere Salvați Copiii România",
+      "summary": "Organizația Salvați Copiii România solicită Ministerului Educației și Cercetării să renunțe la prevederea prin care bursele sociale ar urma să fie acordate numai în perioada cursurilor școlare. Bursa socială trebuie&#8230; Articolul Nu tăiați bursele sociale în vacanță! Nevoia de sprijin și protecție a elevilor vulnerabili nu intră în vacanță &#8211; Declarație și Punct de vedere Salvați Copiii România apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/administratie/nu-taiati-bursele-sociale-in-vacanta-nevoia-de-sprijin-si-protectie-a-elevilor-vulnerabili-nu-intra-in-vacanta-declaratie-si-punct-de-vedere-salvati-copiii-romania",
+      "published_utc": "2026-08-19T12:39:10+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-e52dba39bdf59848/480/320"
     },
     {
       "section": "romania",
@@ -658,6 +658,18 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-5fcb6453c2c12bfa/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Fundatia Inocenti",
+      "title": "Rareș, băiatul care a învățat să creadă în propriile puteri",
+      "summary": "Rareș a învățat să creadă în propriile puteri datorită sprijinului educațional și emoțional oferit de Fundația Inocenți. Descoperă povestea lui. The post Rareș, băiatul care a învățat să creadă în propriile puteri appeared first on Fundația Inocenți .",
+      "link": "https://inocenti.ro/rares-baiatul-care-a-invatat-sa-creada-in-propriile-puteri",
+      "published_utc": "2026-07-31T11:11:04+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-9e910caffe28ea93/480/320"
     },
     {
       "section": "romania",
@@ -742,6 +754,18 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-954bfe38ec8a17dd/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Fundatia Inocenti",
+      "title": "Inocenți, locul în care curajul crește pas cu pas",
+      "summary": "Descoperă povestea Alinei și cum sprijinul oferit de Fundația Inocenți a ajutat-o să își dezvolte încrederea în sine, abilitățile școlare și curajul de a reuși. The post Inocenți, locul în care curajul crește pas cu pas appeared first on Fundația Inocenți .",
+      "link": "https://inocenti.ro/inocenti-locul-in-care-curajul-creste-pas-cu-pas",
+      "published_utc": "2026-07-10T10:30:22+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-9017d5ebea453c95/480/320"
     },
     {
       "section": "science",
@@ -1136,6 +1160,7 @@
       "https://live.staticflickr.com/65535/55456967188_0d26803a1b_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/55469122752_19818d00a6_b.jpg",
       "https://live.staticflickr.com/65535/55470273329_8e08b0b8a6_b.jpg",
       "https://live.staticflickr.com/4413/36350375532_9aa8fb9718_b.jpg",
       "https://live.staticflickr.com/65535/55469122537_e09bbe9dac_b.jpg",
@@ -1152,8 +1177,7 @@
       "https://live.staticflickr.com/65535/55470219003_20670dc9a9_b.jpg",
       "https://live.staticflickr.com/65535/55470273239_ccf5fef1ca_b.jpg",
       "https://live.staticflickr.com/65535/55469122872_4aeb9e7d9d_b.jpg",
-      "https://live.staticflickr.com/65535/55469122717_68bf5502d2_b.jpg",
-      "https://live.staticflickr.com/65535/55470273534_411dd5eb6c_b.jpg"
+      "https://live.staticflickr.com/65535/55469122717_68bf5502d2_b.jpg"
     ],
     "cities": [
       "https://upload.wikimedia.org/wikipedia/commons/3/3f/NYC_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg",
@@ -1176,8 +1200,8 @@
       "https://live.staticflickr.com/65535/55473745521_6deed7e2c1_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
+      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
