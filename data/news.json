@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-08-23T18:13:04+00:00",
+  "generated_utc": "2026-08-23T19:14:23+00:00",
   "sections": {
     "romania": [
       {
@@ -23,7 +23,7 @@
         "link": "https://www.romaniapozitiva.ro/bucuresti/incepe-concursul-international-george-enescu-2026-ce-aduce-nou-editia-aniversara",
         "published_utc": "2026-08-22T19:04:07+00:00",
         "score": 3,
-        "freshness_boost": 3,
+        "freshness_boost": 1,
         "image": "https://picsum.photos/seed/vb-484a80174df5cca6/480/320"
       },
       {
@@ -35,7 +35,7 @@
         "link": "https://www.romaniapozitiva.ro/branding-romania/adrian-vancica-a-castigat-premiul-pentru-cel-mai-bun-actor-la-festivalul-international-de-film-de-la-sarajevo",
         "published_utc": "2026-08-22T18:59:43+00:00",
         "score": 3,
-        "freshness_boost": 3,
+        "freshness_boost": 1,
         "image": "https://picsum.photos/seed/vb-9a91e9ab0a7a916d/480/320"
       },
       {
@@ -47,7 +47,7 @@
         "link": "https://www.romaniapozitiva.ro/dobrogea/spectacol-cu-vele-pe-marea-neagra-sase-zile-de-curse-la-campionatul-national-de-dinghy-2026",
         "published_utc": "2026-08-22T18:58:41+00:00",
         "score": 3,
-        "freshness_boost": 3,
+        "freshness_boost": 1,
         "image": "https://picsum.photos/seed/vb-04e647e9cc6f56f8/480/320"
       },
       {
@@ -77,18 +77,6 @@
       {
         "section": "romania",
         "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 Din cauza secetei, înotătorul Avram Iancu se va încumeta să traverseze Dunărea pe jos",
-        "summary": "Din cauza secetei severe care a afectat fluviul în această vară, celebrul înotător Avram Iancu a anunțat că este pregătit pentru cea mai stranie provocare din cariera sa: traversarea Dunării pe jos. Decizia vine după ce sportivul a constatat că în anumite zone apa fluviului îi ajunge doar până la glezne, iar pe alocuri nici [&#8230;] The post Din cauza secetei, înotătorul Avram Iancu se va încumeta să traverseze Dunărea pe jos appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/sport/din-cauza-secetei-inotatorul-avram-iancu-se-va-incumeta-sa-traverseze-dunarea-pe-jos",
-        "published_utc": "2026-08-22T04:04:44+00:00",
-        "score": 3,
-        "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/08/avram_iancu_dunarea_pe_jos.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
         "source": "World Vision Romania",
         "title": "Claudia, tânăra absolventă care a învățat să aibă încredere în propriul drum",
         "summary": "În urmă cu trei ani, Claudia pășea în viața de studentă cu emoții și cu multe întrebări despre ceea ce... Articolul Claudia, tânăra absolventă care a învățat să aibă încredere în propriul drum apare prima dată în World Vision România .",
@@ -102,13 +90,25 @@
         "section": "romania",
         "kind": "ro",
         "source": "Times New Roman (Satira)",
-        "title": "😂 Apa, o nouă momeală",
-        "summary": "The post Apa, o nouă momeală appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/ovi/apa-o-noua-momeala",
-        "published_utc": "2026-08-21T08:10:41+00:00",
+        "title": "😂 Delegația română la Campionatul Mondial de V-ați Ascunselea, de negăsit la revenirea pe Otopeni",
+        "summary": "Situație inedită pe Otopeni, unde jurnaliștii și oficialitățile prezente la întâmpinarea lotului național de V-ați Ascunselea i-au așteptat în zadar pe cei opt năstrușnici care au luat aurul la Campionatul Mondial. Aceștia au fost absolut de negăsit, cu toate că au fost scotocite toate ungherele aeroportului. Membrii lotului național de V-ați Ascunselea probabil s-au pitulat [&#8230;] The post Delegația română la Campionatul Mondial de V-ați Ascunselea, de negăsit la revenirea pe Otopeni appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/life-death/delegatia-romana-la-campionatul-mondial-de-v-ati-ascunselea-de-negasit-la-revenirea-pe-otopeni",
+        "published_utc": "2026-08-21T05:59:36+00:00",
         "score": 3,
         "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/08/Apa-o-noua-momeala.jpg"
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2024/12/aeroportul_otopeni_panouri.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 Bolojan a amendat un român care mergea cu liftul în orele de economisire a energiei",
+        "summary": "Preierul Ilie Bolojan ia foarte în serios restricțiile de consum al electricității. El însuși în persoană s-a deplasat într-un imobil tip bloc de pe strada Iuliu Maniu, unde l-a amendat pe un cetățean care mergea cu liftul după orele 23:00, când folosirea lifturilor este limitată la cazuri de urgență. Bolojan i-a aplicat individului o amendă [&#8230;] The post Bolojan a amendat un român care mergea cu liftul în orele de economisire a energiei appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/politic/bolojan-a-amendat-un-roman-care-mergea-cu-liftul-in-orele-de-economisire-a-energiei",
+        "published_utc": "2026-08-21T05:50:26+00:00",
+        "score": 3,
+        "freshness_boost": 1,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2025/12/bolojan.jpg"
       },
       {
         "section": "romania",
@@ -590,26 +590,26 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Din cauza secetei, înotătorul Avram Iancu se va încumeta să traverseze Dunărea pe jos",
-      "summary": "Din cauza secetei severe care a afectat fluviul în această vară, celebrul înotător Avram Iancu a anunțat că este pregătit pentru cea mai stranie provocare din cariera sa: traversarea Dunării pe jos. Decizia vine după ce sportivul a constatat că în anumite zone apa fluviului îi ajunge doar până la glezne, iar pe alocuri nici [&#8230;] The post Din cauza secetei, înotătorul Avram Iancu se va încumeta să traverseze Dunărea pe jos appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/sport/din-cauza-secetei-inotatorul-avram-iancu-se-va-incumeta-sa-traverseze-dunarea-pe-jos",
-      "published_utc": "2026-08-22T04:04:44+00:00",
-      "score": 3,
-      "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/08/avram_iancu_dunarea_pe_jos.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "Începe Concursul Internațional George Enescu 2026. Ce aduce nou ediția aniversară",
       "summary": "Concursul Internațional George Enescu începe duminică, 23 august, la București, și aduce, la a XX-a ediție, una dintre cele mai ample transformări din istoria sa recentă. Până pe 19 septembrie,&#8230; Articolul Începe Concursul Internațional George Enescu 2026. Ce aduce nou ediția aniversară apare prima dată în Romania Pozitiva .",
       "link": "https://www.romaniapozitiva.ro/bucuresti/incepe-concursul-international-george-enescu-2026-ce-aduce-nou-editia-aniversara",
       "published_utc": "2026-08-22T19:04:07+00:00",
       "score": 3,
-      "freshness_boost": 3,
+      "freshness_boost": 1,
       "image": "https://picsum.photos/seed/vb-484a80174df5cca6/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Râmnicu-Vâlcea e un oraș atât de frumos că a fost numit cel mai sudic oraș al Transilvaniei",
+      "summary": "Potrivit unui nou studiu, cel mai sudic oraș transilvănean este Râmnicu-Vâlcea, pe care mulți ignoranți îl plasează greșit în Oltenia, regiune cu care nu are nicio legătură culturală sau urbanistică. De ceva timp mulți sibieni au început să vină în weekend la Vâlcea să bea și ei o cafea într-un oraș frumos, nu în kitsch-ul [&#8230;] The post Râmnicu-Vâlcea e un oraș atât de frumos că a fost numit cel mai sudic oraș al Transilvaniei appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/life-death/ramnicu-valcea-e-un-oras-atat-de-frumos-ca-a-fost-numit-cel-mai-sudic-oras-al-transilvaniei",
+      "published_utc": "2026-08-22T04:25:27+00:00",
+      "score": 3,
+      "freshness_boost": 1,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/08/primarie-ramnic-e1651554695663.jpg"
     },
     {
       "section": "romania",
@@ -620,7 +620,7 @@
       "link": "https://www.romaniapozitiva.ro/branding-romania/adrian-vancica-a-castigat-premiul-pentru-cel-mai-bun-actor-la-festivalul-international-de-film-de-la-sarajevo",
       "published_utc": "2026-08-22T18:59:43+00:00",
       "score": 3,
-      "freshness_boost": 3,
+      "freshness_boost": 1,
       "image": "https://picsum.photos/seed/vb-9a91e9ab0a7a916d/480/320"
     },
     {
@@ -632,7 +632,7 @@
       "link": "https://www.romaniapozitiva.ro/dobrogea/spectacol-cu-vele-pe-marea-neagra-sase-zile-de-curse-la-campionatul-national-de-dinghy-2026",
       "published_utc": "2026-08-22T18:58:41+00:00",
       "score": 3,
-      "freshness_boost": 3,
+      "freshness_boost": 1,
       "image": "https://picsum.photos/seed/vb-04e647e9cc6f56f8/480/320"
     },
     {
@@ -651,13 +651,13 @@
       "section": "romania",
       "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 Râmnicu-Vâlcea e un oraș atât de frumos că a fost numit cel mai sudic oraș al Transilvaniei",
-      "summary": "Potrivit unui nou studiu, cel mai sudic oraș transilvănean este Râmnicu-Vâlcea, pe care mulți ignoranți îl plasează greșit în Oltenia, regiune cu care nu are nicio legătură culturală sau urbanistică. De ceva timp mulți sibieni au început să vină în weekend la Vâlcea să bea și ei o cafea într-un oraș frumos, nu în kitsch-ul [&#8230;] The post Râmnicu-Vâlcea e un oraș atât de frumos că a fost numit cel mai sudic oraș al Transilvaniei appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/ramnicu-valcea-e-un-oras-atat-de-frumos-ca-a-fost-numit-cel-mai-sudic-oras-al-transilvaniei",
-      "published_utc": "2026-08-22T04:25:27+00:00",
+      "title": "😂 Delegația română la Campionatul Mondial de V-ați Ascunselea, de negăsit la revenirea pe Otopeni",
+      "summary": "Situație inedită pe Otopeni, unde jurnaliștii și oficialitățile prezente la întâmpinarea lotului național de V-ați Ascunselea i-au așteptat în zadar pe cei opt năstrușnici care au luat aurul la Campionatul Mondial. Aceștia au fost absolut de negăsit, cu toate că au fost scotocite toate ungherele aeroportului. Membrii lotului național de V-ați Ascunselea probabil s-au pitulat [&#8230;] The post Delegația română la Campionatul Mondial de V-ați Ascunselea, de negăsit la revenirea pe Otopeni appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/life-death/delegatia-romana-la-campionatul-mondial-de-v-ati-ascunselea-de-negasit-la-revenirea-pe-otopeni",
+      "published_utc": "2026-08-21T05:59:36+00:00",
       "score": 3,
       "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/08/primarie-ramnic-e1651554695663.jpg"
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2024/12/aeroportul_otopeni_panouri.jpg"
     },
     {
       "section": "romania",
@@ -675,13 +675,13 @@
       "section": "romania",
       "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 Apa, o nouă momeală",
-      "summary": "The post Apa, o nouă momeală appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/ovi/apa-o-noua-momeala",
-      "published_utc": "2026-08-21T08:10:41+00:00",
+      "title": "😂 Bolojan a amendat un român care mergea cu liftul în orele de economisire a energiei",
+      "summary": "Preierul Ilie Bolojan ia foarte în serios restricțiile de consum al electricității. El însuși în persoană s-a deplasat într-un imobil tip bloc de pe strada Iuliu Maniu, unde l-a amendat pe un cetățean care mergea cu liftul după orele 23:00, când folosirea lifturilor este limitată la cazuri de urgență. Bolojan i-a aplicat individului o amendă [&#8230;] The post Bolojan a amendat un român care mergea cu liftul în orele de economisire a energiei appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/politic/bolojan-a-amendat-un-roman-care-mergea-cu-liftul-in-orele-de-economisire-a-energiei",
+      "published_utc": "2026-08-21T05:50:26+00:00",
       "score": 3,
       "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/08/Apa-o-noua-momeala.jpg"
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2025/12/bolojan.jpg"
     },
     {
       "section": "romania",
@@ -1232,6 +1232,7 @@
       "https://live.staticflickr.com/65535/55464423513_47ae4b5085_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/5773/23224954022_9ea2a45c16_b.jpg",
       "https://live.staticflickr.com/65535/16509855210_4a0a8c1218_b.jpg",
       "https://live.staticflickr.com/65535/55471712472_feb9e07eb3_b.jpg",
       "https://live.staticflickr.com/65535/55470102796_4bfbae0ed6_b.jpg",
@@ -1248,10 +1249,10 @@
       "https://live.staticflickr.com/65535/55470273249_a898a1a770_b.jpg",
       "https://live.staticflickr.com/65535/55470218808_d727a0fb69_b.jpg",
       "https://live.staticflickr.com/65535/55470102446_d386b59cfd_b.jpg",
-      "https://live.staticflickr.com/65535/55469122872_4aeb9e7d9d_b.jpg",
-      "https://live.staticflickr.com/65535/55476275316_2a95a86f4c_b.jpg"
+      "https://live.staticflickr.com/65535/55469122872_4aeb9e7d9d_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55482159622_02473cb29c_b.jpg",
       "https://live.staticflickr.com/65535/55483197544_bb3d081d5c_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/3/3f/NYC_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg",
       "https://live.staticflickr.com/65535/55482776173_4deac4a620_b.jpg",
@@ -1268,12 +1269,11 @@
       "https://live.staticflickr.com/65535/55481325810_dff7acdf48_b.jpg",
       "https://live.staticflickr.com/65535/55480888326_37d9270a47_b.jpg",
       "https://live.staticflickr.com/65535/55479811847_af147c7c1a_b.jpg",
-      "https://live.staticflickr.com/65535/55480646821_fd2d1748a0_b.jpg",
-      "https://live.staticflickr.com/65535/55480596303_001665b524_b.jpg"
+      "https://live.staticflickr.com/65535/55480646821_fd2d1748a0_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
+      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
