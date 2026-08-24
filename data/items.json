@@ -1,7 +1,19 @@
 {
-  "generated_utc": "2026-08-24T13:42:23+00:00",
+  "generated_utc": "2026-08-24T14:31:39+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Life.ro (Lifestyle)",
+        "title": "De ce m-am întors la Haga",
+        "summary": "Am ales Haga ca să fug pentru câteva zile de căldura din București și am descoperit una dintre cele mai relaxante destinații de vară. Mare, artă, dune, orașe superbe la o plimbare cu tramvaiul și, mai ales, fără agitația vacanțelor de sezon. Probabil că atunci când îți faci planuri pentru vacanța de vară, Haga nu [&#8230;] Articolul De ce m-am întors la Haga apare prima dată în Life.ro .",
+        "link": "https://life.ro/ce-sa-vizitezi-in-haga",
+        "published_utc": "2026-08-24T14:00:53+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-bd925b1ff0818fc0/480/320"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -65,6 +77,18 @@
       {
         "section": "romania",
         "kind": "ro",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 Nicușor Dan confirmă că Edmond Niculușcă a fost consilierul său personal: „De la el am învățat să fiu prost”",
+        "summary": "Președintele Nicușor Dan a luat act de situația petrecută recent pe internet, în care Edmond Niculușcă i-a catalogat drept specie inferioară pe românii care preferă merdeneaua cu margarină și cu spărtură de brânză, într-o postare elitistă, de un fascism prost disimulat. Nicușor Dan a confirmat că îl cunoaște pe Niculușcă și că i-a fost consilier [&#8230;] The post Nicușor Dan confirmă că Edmond Niculușcă a fost consilierul său personal: „De la el am învățat să fiu prost” appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/politic/nicusor-dan-confirma-ca-edmond-niculusca-a-fost-consilierul-sau-personal-de-la-el-am-invatat-sa-fiu-prost",
+        "published_utc": "2026-08-22T05:11:08+00:00",
+        "score": 3,
+        "freshness_boost": 1,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/08/incisor_niculusca.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
         "source": "World Vision Romania",
         "title": "Claudia, tânăra absolventă care a învățat să aibă încredere în propriul drum",
         "summary": "În urmă cu trei ani, Claudia pășea în viața de studentă cu emoții și cu multe întrebări despre ceea ce... Articolul Claudia, tânăra absolventă care a învățat să aibă încredere în propriul drum apare prima dată în World Vision România .",
@@ -73,18 +97,6 @@
         "score": 3,
         "freshness_boost": 0,
         "image": "https://picsum.photos/seed/vb-88899579023a4de9/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 Posibilă dronă rusească reperată pe teritoriul României: președintele Nicușor Dan",
-        "summary": "O dronă deosebit de periculoasă, având ca origine probabil Federația Rusă, a fost reperată de Armată și mai ales de populație pe teritoriul României: Nicușor Dan. Este a nu se știe câta oară când rușii realizează atacuri hibride, încercând să dezbine românii și să destabilizeze țara. Drona are capabilități uriașe, este Comandantul Suprem al Forțelor [&#8230;] The post Posibilă dronă rusească reperată pe teritoriul României: președintele Nicușor Dan appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/politic/posibila-drona-ruseasca-reperata-pe-teritoriul-romaniei-presedintele-nicusor-dan",
-        "published_utc": "2026-08-21T07:55:45+00:00",
-        "score": 3,
-        "freshness_boost": 0,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/07/Tovarasul_Nicusor_Dan.jpg"
       },
       {
         "section": "romania",
@@ -236,121 +248,97 @@
         "section": "medical",
         "kind": "global",
         "source": "Medical Xpress",
-        "title": "Robot-assisted surgery shows clinical advantages over laparoscopic surgery for gastric cancer",
-        "summary": "Surgery remains the primary curative treatment for gastric cancer, with laparoscopic gastrectomy (LG) established as a standard minimally invasive approach. While LG offers faster recovery than open surgery, it remains technically demanding because surgeons must operate within a confined space using rigid instruments that can amplify hand tremors.",
-        "link": "https://medicalxpress.com/news/2026-08-robot-surgery-clinical-advantages-laparoscopic.html",
-        "published_utc": "2026-08-24T13:20:02+00:00",
+        "title": "NHS patients more likely to die when ambulance crews off sick, study shows",
+        "summary": "Unexpected staff shortages in ambulance services are costing lives, with patients significantly more likely to die within 24 hours when ambulance workers are off sick, according to new research. The study, by researchers at the Universities of York and Surrey, suggests that older people, those with the most serious conditions and patients needing care during busy winter periods are the most affected by ambulance staff shortages.",
+        "link": "https://medicalxpress.com/news/2026-08-nhs-patients-die-ambulance-crews.html",
+        "published_utc": "2026-08-24T14:20:07+00:00",
         "score": 1,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/robot-assisted-surgery.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/nhs-patients-more-like.jpg"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "Medical Xpress",
+        "title": "Metalheads can endure pain longer thanks to the festival experience",
+        "summary": "True to the motto \"Faster, harder, louder,\" some 80,000 metal fans celebrate their music and bands at Wacken Open Air every year. Lydia Schneider and Tom Fritz from the Max Planck Institute for Human Cognitive and Brain Sciences in Leipzig conducted a field study on-site to investigate whether and how the festival experience and listening to heavy metal live affect the audience's pain tolerance.",
+        "link": "https://medicalxpress.com/news/2026-08-metalheads-pain-longer-festival.html",
+        "published_utc": "2026-08-24T14:00:06+00:00",
+        "score": 1,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rock-fans.jpg"
       },
       {
         "section": "medical",
         "kind": "global",
         "source": "ScienceDaily Health",
-        "title": "Common medications may change your gut for years",
-        "summary": "Common medications may reshape the gut microbiome long after the last dose is taken. In a study of more than 2,500 people, researchers found lasting microbial changes linked not only to antibiotics, but also to antidepressants, beta-blockers, acid-reducing drugs, and benzodiazepines. Some effects were still detectable years later, suggesting past medication use may strongly influence the gut bacteria people carry today.",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260824065605.htm",
-        "published_utc": "2026-08-24T13:14:50+00:00",
+        "title": "A stress hormone may help the brain repair itself",
+        "summary": "A surprising stress-related signal may help the brain repair itself after injury. Researchers found that myelin-producing precursor cells rapidly release the stress hormone CRH near damaged brain tissue, helping control how those cells mature and rebuild protective nerve insulation. The same system also influences brain development and the thickness of myelin later in life. The findings could offer new clues about how early-life stress contributes to psychiatric disorders.",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260814011044.htm",
+        "published_utc": "2026-08-14T11:35:11+00:00",
+        "score": 1,
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-448c294c74e17560/480/320"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "Women taking estrogen had fewer signs of Alzheimer’s in their brains",
+        "summary": "Women who used estrogen-only hormone therapy later in life were less likely to develop dementia and showed fewer signs of Alzheimer’s disease in their brains, according to a large study of more than 21,000 participants. Hormone therapy use was linked to 39% lower odds of a dementia diagnosis and 35% lower odds of Alzheimer’s-related brain changes at autopsy, including amyloid plaques and tau tangles. Biomarker tests also suggested less amyloid buildup among hormone therapy users.",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260814011028.htm",
+        "published_utc": "2026-08-14T11:19:42+00:00",
+        "score": 0,
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-b1808c1a6dcc6824/480/320"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Medicine",
+        "title": "One faulty gene copy can make the heart’s DNA fold the wrong way",
+        "summary": "Researchers have discovered that a gene linked to congenital heart disease acts like an architect for the heart cell’s DNA. Losing just one copy of TBX5 can cause the genome’s carefully folded 3D structure to unravel, disrupting the genes needed to build a healthy heart. The effects can vary from cell to cell, which may help explain why people with the same mutation develop different heart defects. The same hidden mechanism could also play a role in other birth defects.",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260812015214.htm",
+        "published_utc": "2026-08-13T13:46:14+00:00",
         "score": 2,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-c658c523ac283bc6/480/320"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Can you slow the aging process? Study reveals which interventions might help",
-        "summary": "When Raghav Sehgal arrived at Yale as a graduate student several years ago, he wanted to explore the use of powerful computer science tools in cancer research. With an engineering background and a computational biology startup already under his belt, he was well prepared.",
-        "link": "https://medicalxpress.com/news/2026-08-aging-reveals-interventions.html",
-        "published_utc": "2026-08-24T13:05:22+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/can-you-slow-the-aging.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Influencers claim 'knees over toes' exercises can help bullet proof your knees. Two experts explain",
-        "summary": "For decades, people exercising have been told one simple rule: Never let your knees go over your toes. During lunges, squats and many other exercises, well-meaning coaches, trainers and physical therapists repeated this advice so often that it became fitness folklore.",
-        "link": "https://medicalxpress.com/news/2026-08-knees-toes-bullet-proof-experts.html",
-        "published_utc": "2026-08-24T13:00:05+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/lunges.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Weight loss drugs may offer a new avenue for bipolar disorder research",
-        "summary": "Glucagon-like peptide 1 receptor agonists (GLP-1RA), commonly used to treat diabetes and weight loss, may have additional mental health benefits, especially for people with bipolar disorder, new Griffith University research has found.",
-        "link": "https://medicalxpress.com/news/2026-08-weight-loss-drugs-avenue-bipolar.html",
-        "published_utc": "2026-08-24T12:40:05+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/glp-1.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "How shoulder replacement changes bone mineral density",
-        "summary": "Driven by the potential advantages of preserving bone stock and easier implant removal during revision surgery, the use of cementless short-stem implants in shoulder arthroplasty has increased in recent years. Despite this, joint replacement procedures outside the shoulder have reported postoperative bone loss in studies using dual-energy x-ray absorptiometry (DEXA) to measure bone density.",
-        "link": "https://medicalxpress.com/news/2026-08-shoulder-bone-mineral-density.html",
-        "published_utc": "2026-08-24T12:40:03+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/shouldering-the-change.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "ScienceDaily Health",
-        "title": "Too much or too little sleep may make your body age faster",
-        "summary": "Both too little and too much sleep may be linked to faster aging throughout the body. Researchers analyzing 23 biological aging clocks found the lowest aging levels among people sleeping about 6.4 to 7.8 hours per day. Short or long sleep was also associated with numerous conditions affecting the brain, heart, lungs, metabolism, and digestive system.",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260823094156.htm",
-        "published_utc": "2026-08-24T11:31:44+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-615039580824f232/480/320"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "ScienceDaily Health",
-        "title": "Gut bacteria may unlock a hidden benefit of vegetables",
-        "summary": "Gut bacteria can transform nitrate and plant-based iron from vegetables and other foods into protective molecules that may benefit the heart and metabolism. In experimental models, higher levels of these compounds were linked to lower blood pressure, better blood sugar control, healthier blood vessels, and less liver fat.",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260822015145.htm",
-        "published_utc": "2026-08-24T02:48:52+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-8aa43ff9abc1fc34/480/320"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "ScienceDaily Health",
-        "title": "Coffee drinkers have less fat, more muscle, and surprising hormone differences",
-        "summary": "Coffee drinkers may be getting more than an energy boost. A Finnish study found that people who drank more coffee tended to have less total and abdominal fat, more muscle, and healthier metabolic markers despite having similar BMIs. Higher coffee intake was also linked to lower levels of certain amino acids associated with insulin resistance and type 2 diabetes risk.",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260819041228.htm",
-        "published_utc": "2026-08-19T12:30:05+00:00",
-        "score": 0,
         "freshness_boost": 0,
-        "image": "https://picsum.photos/seed/vb-3798009bf0da10af/480/320"
+        "image": "https://picsum.photos/seed/vb-6698a1c5a04d3cb9/480/320"
       },
       {
         "section": "medical",
         "kind": "global",
         "source": "ScienceDaily Health",
-        "title": "Scientists turn probiotic bacteria into tiny drug factories for pancreatic cancer",
-        "summary": "Engineered probiotic bacteria were able to infiltrate pancreatic tumors, stimulate cancer-fighting immune cells, and slow tumor growth in animal studies. Even more strikingly, the treatment worked better when combined with chemotherapy, radiation, or immunotherapy.",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260816044830.htm",
-        "published_utc": "2026-08-19T12:10:13+00:00",
-        "score": 0,
+        "title": "Drinking orange juice every day may change thousands of genes",
+        "summary": "Orange juice may have a much bigger effect on the body than scientists once realized. Drinking it regularly appears to influence genes tied to inflammation, blood pressure, metabolism, and blood sugar control, while studies have also found improvements in cholesterol and blood vessel health. Researchers suspect natural citrus compounds such as hesperidin may be partly responsible. Even the gut microbiome may benefit.",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260813045548.htm",
+        "published_utc": "2026-08-13T12:15:50+00:00",
+        "score": 3,
         "freshness_boost": 0,
-        "image": "https://picsum.photos/seed/vb-cc5f44be92a042a6/480/320"
+        "image": "https://picsum.photos/seed/vb-95446688590214ba/480/320"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "A surprising brain discovery could help explain why we overeat fatty foods",
+        "summary": "A protein inside appetite-controlling brain cells may play an important role in preventing overeating and obesity, particularly when high-fat foods are readily available. Unexpected differences between males and females could also help explain why obesity risk—and responses to weight-loss drugs—can vary.",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260813045531.htm",
+        "published_utc": "2026-08-13T09:42:51+00:00",
+        "score": 3,
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-ceae709402b0f9a5/480/320"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Medicine",
+        "title": "A surprising triple treatment completely clears hiv in newborn primates",
+        "summary": "Researchers have found a striking new way to potentially eliminate HIV soon after infection using a one-time combination of three therapies. In newborn nonhuman primates treated within three days of exposure, the regimen—standard antiretroviral drugs, broadly neutralizing antibodies, and the experimental antibody leronlimab—completely cleared the virus, even though none of the treatments could do so alone.",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260812015200.htm",
+        "published_utc": "2026-08-13T08:18:26+00:00",
+        "score": 1,
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-5be412cd6c1693e3/480/320"
       }
     ],
     "science": [
@@ -614,6 +602,42 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "Life.ro (Lifestyle)",
+      "title": "De ce m-am întors la Haga",
+      "summary": "Am ales Haga ca să fug pentru câteva zile de căldura din București și am descoperit una dintre cele mai relaxante destinații de vară. Mare, artă, dune, orașe superbe la o plimbare cu tramvaiul și, mai ales, fără agitația vacanțelor de sezon. Probabil că atunci când îți faci planuri pentru vacanța de vară, Haga nu [&#8230;] Articolul De ce m-am întors la Haga apare prima dată în Life.ro .",
+      "link": "https://life.ro/ce-sa-vizitezi-in-haga",
+      "published_utc": "2026-08-24T14:00:53+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-bd925b1ff0818fc0/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Rareș Bogdan intervine în dezbaterea „unt vs.margarină”: „Tot mai bună e vaselina”",
+      "summary": "Din dezbaterea națională „unt vs.margarină” nu putea lipsi vocea lui Rareș Bogdan, europarlamentarul liberal poate cel mai în măsură să se pronunțe pe un astfel de subiect. După atâția ani la Bruxelles, Rareș Bogdan a dobândit o expertiză cât se poate de relevantă. „Eu le-am încercat pe toate, deci știu ce vorbesc, nu sunt vreun [&#8230;] The post Rareș Bogdan intervine în dezbaterea „unt vs.margarină”: „Tot mai bună e vaselina” appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/life-death/rares-bogdan-intervine-in-dezbaterea-unt-vs-margarina-tot-mai-buna-e-vaselina",
+      "published_utc": "2026-08-24T04:25:00+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/08/rares_bogdan_sceptru_deget.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Revoltă la un all inclusive bulgăresc! Turiștii români au distrus restaurantul pentru că nu avea merdenele",
+      "summary": "O revoltă spontană a izbucnit în restaurantul unui hotel din Bulgaria, după ce turiștii români care plătiseră servicii all inclusive n-au găsit merdenele în meniul de prânz. Și nu doar că nu existau merdenele, la fel de grav este și faptul că existau croissante cu unt &#8211; sfidare care a pus capac pentru turiștii români. [&#8230;] The post Revoltă la un all inclusive bulgăresc! Turiștii români au distrus restaurantul pentru că nu avea merdenele appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/monden/revolta-la-un-all-inclusive-bulgaresc-turistii-romani-au-distrus-restaurantul-pentru-ca-nu-avea-merdenele",
+      "published_utc": "2026-08-24T12:21:16+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/08/all_inclusive_devastat.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "Natura preia controlul pe marele ecran: Animest.21 explorează legătura dintre om și mediu între 2 și 11 octombrie",
       "summary": "După o ediție aniversară care a reconfirmat forța comunității sale, Festivalul Internațional de Film de Animație Animest revine pe marile ecrane din București cu cea de-a 21-a ediție, între 2&#8230; Articolul Natura preia controlul pe marele ecran: Animest.21 explorează legătura dintre om și mediu între 2 și 11 octombrie apare prima dată în Romania Pozitiva .",
@@ -638,18 +662,6 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Revoltă la un all inclusive bulgăresc! Turiștii români au distrus restaurantul pentru că nu avea merdenele",
-      "summary": "O revoltă spontană a izbucnit în restaurantul unui hotel din Bulgaria, după ce turiștii români care plătiseră servicii all inclusive n-au găsit merdenele în meniul de prânz. Și nu doar că nu existau merdenele, la fel de grav este și faptul că existau croissante cu unt &#8211; sfidare care a pus capac pentru turiștii români. [&#8230;] The post Revoltă la un all inclusive bulgăresc! Turiștii români au distrus restaurantul pentru că nu avea merdenele appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/monden/revolta-la-un-all-inclusive-bulgaresc-turistii-romani-au-distrus-restaurantul-pentru-ca-nu-avea-merdenele",
-      "published_utc": "2026-08-24T12:21:16+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/08/all_inclusive_devastat.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "„Se întâmpla ca unii copii să fie trași de perciuni sau de urechi, iar profesorii să fie mult mai severi” – Un interviu cu Romeo Mut-Rostaș, viitor profesor",
       "summary": "În România, profesia didactică este una preponderent reprezentată de femei, iar dezechilibrul este și mai vizibil în învățământul primar. În anul școlar 2023–2024, sistemul educațional număra 245.000 de cadre didactice&#8230; Articolul „Se întâmpla ca unii copii să fie trași de perciuni sau de urechi, iar profesorii să fie mult mai severi” &#8211; Un interviu cu Romeo Mut-Rostaș, viitor profesor apare prima dată în Romania Pozitiva .",
@@ -658,6 +670,18 @@
       "score": 3,
       "freshness_boost": 1,
       "image": "https://picsum.photos/seed/vb-7e8f7b75387ba28a/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Nicușor Dan confirmă că Edmond Niculușcă a fost consilierul său personal: „De la el am învățat să fiu prost”",
+      "summary": "Președintele Nicușor Dan a luat act de situația petrecută recent pe internet, în care Edmond Niculușcă i-a catalogat drept specie inferioară pe românii care preferă merdeneaua cu margarină și cu spărtură de brânză, într-o postare elitistă, de un fascism prost disimulat. Nicușor Dan a confirmat că îl cunoaște pe Niculușcă și că i-a fost consilier [&#8230;] The post Nicușor Dan confirmă că Edmond Niculușcă a fost consilierul său personal: „De la el am învățat să fiu prost” appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/politic/nicusor-dan-confirma-ca-edmond-niculusca-a-fost-consilierul-sau-personal-de-la-el-am-invatat-sa-fiu-prost",
+      "published_utc": "2026-08-22T05:11:08+00:00",
+      "score": 3,
+      "freshness_boost": 1,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/08/incisor_niculusca.jpg"
     },
     {
       "section": "romania",
@@ -674,18 +698,6 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Posibilă dronă rusească reperată pe teritoriul României: președintele Nicușor Dan",
-      "summary": "O dronă deosebit de periculoasă, având ca origine probabil Federația Rusă, a fost reperată de Armată și mai ales de populație pe teritoriul României: Nicușor Dan. Este a nu se știe câta oară când rușii realizează atacuri hibride, încercând să dezbine românii și să destabilizeze țara. Drona are capabilități uriașe, este Comandantul Suprem al Forțelor [&#8230;] The post Posibilă dronă rusească reperată pe teritoriul României: președintele Nicușor Dan appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/politic/posibila-drona-ruseasca-reperata-pe-teritoriul-romaniei-presedintele-nicusor-dan",
-      "published_utc": "2026-08-21T07:55:45+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/07/Tovarasul_Nicusor_Dan.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "World Vision Romania",
       "title": "Bursele sociale trebuie acordate și în vacanțe. Vulnerabilitatea economică a copiilor nu urmează calendarul școlar.",
       "summary": "București, 19 august 2026. World Vision România solicită menținerea burselor sociale pentru elevi și în perioadele de vacanță. Bursa socială... Articolul Bursele sociale trebuie acordate și în vacanțe. Vulnerabilitatea economică a copiilor nu urmează calendarul școlar. apare prima dată în World Vision România .",
@@ -694,18 +706,6 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-66ae0710cdcfadaf/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Rareș Bogdan intervine în dezbaterea „unt vs.margarină”: „Tot mai bună e vaselina”",
-      "summary": "Din dezbaterea națională „unt vs.margarină” nu putea lipsi vocea lui Rareș Bogdan, europarlamentarul liberal poate cel mai în măsură să se pronunțe pe un astfel de subiect. După atâția ani la Bruxelles, Rareș Bogdan a dobândit o expertiză cât se poate de relevantă. „Eu le-am încercat pe toate, deci știu ce vorbesc, nu sunt vreun [&#8230;] The post Rareș Bogdan intervine în dezbaterea „unt vs.margarină”: „Tot mai bună e vaselina” appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/rares-bogdan-intervine-in-dezbaterea-unt-vs-margarina-tot-mai-buna-e-vaselina",
-      "published_utc": "2026-08-24T04:25:00+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/08/rares_bogdan_sceptru_deget.jpg"
     },
     {
       "section": "romania",
@@ -792,6 +792,18 @@
       "image": "https://picsum.photos/seed/vb-e1bbe11509aecd85/480/320"
     },
     {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "NHS patients more likely to die when ambulance crews off sick, study shows",
+      "summary": "Unexpected staff shortages in ambulance services are costing lives, with patients significantly more likely to die within 24 hours when ambulance workers are off sick, according to new research. The study, by researchers at the Universities of York and Surrey, suggests that older people, those with the most serious conditions and patients needing care during busy winter periods are the most affected by ambulance staff shortages.",
+      "link": "https://medicalxpress.com/news/2026-08-nhs-patients-die-ambulance-crews.html",
+      "published_utc": "2026-08-24T14:20:07+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/nhs-patients-more-like.jpg"
+    },
+    {
       "section": "romania",
       "kind": "ro",
       "source": "World Vision Romania",
@@ -802,18 +814,6 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-2c8c13d08b21f659/480/320"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Long-term study reveals hidden threat of schistosomiasis in endangered chimpanzees",
-      "summary": "A 12-year study of rescued chimpanzees at the Ngamba Island Chimpanzee Sanctuary (NICS) in Uganda has revealed persistent intestinal schistosomiasis infections, highlighting the need for long-term disease surveillance to protect endangered wildlife.",
-      "link": "https://phys.org/news/2026-08-term-reveals-hidden-threat-schistosomiasis.html",
-      "published_utc": "2026-08-24T13:40:03+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/long-term-study-reveal-2.jpg"
     },
     {
       "section": "romania",
@@ -828,6 +828,18 @@
       "image": "https://picsum.photos/seed/vb-1f843baf2f3a4c1b/480/320"
     },
     {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "Metalheads can endure pain longer thanks to the festival experience",
+      "summary": "True to the motto \"Faster, harder, louder,\" some 80,000 metal fans celebrate their music and bands at Wacken Open Air every year. Lydia Schneider and Tom Fritz from the Max Planck Institute for Human Cognitive and Brain Sciences in Leipzig conducted a field study on-site to investigate whether and how the festival experience and listening to heavy metal live affect the audience's pain tolerance.",
+      "link": "https://medicalxpress.com/news/2026-08-metalheads-pain-longer-festival.html",
+      "published_utc": "2026-08-24T14:00:06+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rock-fans.jpg"
+    },
+    {
       "section": "romania",
       "kind": "ro",
       "source": "World Vision Romania",
@@ -838,18 +850,6 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-954bfe38ec8a17dd/480/320"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Dry landscapes and newly fallowed fields may raise California Valley fever risk",
-      "summary": "Researchers at UC San Diego and UC Berkeley have found that certain landscapes surrounding California communities are associated with differing rates of Valley fever, a fungal respiratory infection caused by inhaling spores carried in windblown dust.",
-      "link": "https://phys.org/news/2026-08-dry-landscapes-newly-fallowed-fields.html",
-      "published_utc": "2026-08-24T13:40:02+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-finds-changes-to.jpg"
     },
     {
       "section": "romania",
@@ -867,6 +867,30 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
+      "title": "Long-term study reveals hidden threat of schistosomiasis in endangered chimpanzees",
+      "summary": "A 12-year study of rescued chimpanzees at the Ngamba Island Chimpanzee Sanctuary (NICS) in Uganda has revealed persistent intestinal schistosomiasis infections, highlighting the need for long-term disease surveillance to protect endangered wildlife.",
+      "link": "https://phys.org/news/2026-08-term-reveals-hidden-threat-schistosomiasis.html",
+      "published_utc": "2026-08-24T13:40:03+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/long-term-study-reveal-2.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Dry landscapes and newly fallowed fields may raise California Valley fever risk",
+      "summary": "Researchers at UC San Diego and UC Berkeley have found that certain landscapes surrounding California communities are associated with differing rates of Valley fever, a fungal respiratory infection caused by inhaling spores carried in windblown dust.",
+      "link": "https://phys.org/news/2026-08-dry-landscapes-newly-fallowed-fields.html",
+      "published_utc": "2026-08-24T13:40:02+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-finds-changes-to.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
       "title": "Immigration can bring small overall gains but uneven wage effects",
       "summary": "Immigration can produce a small economic gain for the native-born population overall while causing larger shifts in wages between different groups of workers, according to new research co-authored by King's Business School.",
       "link": "https://phys.org/news/2026-08-immigration-small-gains-uneven-wage.html",
@@ -874,30 +898,6 @@
       "score": 0,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/people-walking-on-busy.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Robot-assisted surgery shows clinical advantages over laparoscopic surgery for gastric cancer",
-      "summary": "Surgery remains the primary curative treatment for gastric cancer, with laparoscopic gastrectomy (LG) established as a standard minimally invasive approach. While LG offers faster recovery than open surgery, it remains technically demanding because surgeons must operate within a confined space using rigid instruments that can amplify hand tremors.",
-      "link": "https://medicalxpress.com/news/2026-08-robot-surgery-clinical-advantages-laparoscopic.html",
-      "published_utc": "2026-08-24T13:20:02+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/robot-assisted-surgery.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "Common medications may change your gut for years",
-      "summary": "Common medications may reshape the gut microbiome long after the last dose is taken. In a study of more than 2,500 people, researchers found lasting microbial changes linked not only to antibiotics, but also to antidepressants, beta-blockers, acid-reducing drugs, and benzodiazepines. Some effects were still detectable years later, suggesting past medication use may strongly influence the gut bacteria people carry today.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260824065605.htm",
-      "published_utc": "2026-08-24T13:14:50+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-c658c523ac283bc6/480/320"
     },
     {
       "section": "science",
@@ -912,30 +912,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-four-star-system-cau.jpg"
     },
     {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Can you slow the aging process? Study reveals which interventions might help",
-      "summary": "When Raghav Sehgal arrived at Yale as a graduate student several years ago, he wanted to explore the use of powerful computer science tools in cancer research. With an engineering background and a computational biology startup already under his belt, he was well prepared.",
-      "link": "https://medicalxpress.com/news/2026-08-aging-reveals-interventions.html",
-      "published_utc": "2026-08-24T13:05:22+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/can-you-slow-the-aging.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Influencers claim 'knees over toes' exercises can help bullet proof your knees. Two experts explain",
-      "summary": "For decades, people exercising have been told one simple rule: Never let your knees go over your toes. During lunges, squats and many other exercises, well-meaning coaches, trainers and physical therapists repeated this advice so often that it became fitness folklore.",
-      "link": "https://medicalxpress.com/news/2026-08-knees-toes-bullet-proof-experts.html",
-      "published_utc": "2026-08-24T13:00:05+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/lunges.jpg"
-    },
-    {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
@@ -946,30 +922,6 @@
       "score": 0,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-to-ct-scan-a-400-p-2.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Weight loss drugs may offer a new avenue for bipolar disorder research",
-      "summary": "Glucagon-like peptide 1 receptor agonists (GLP-1RA), commonly used to treat diabetes and weight loss, may have additional mental health benefits, especially for people with bipolar disorder, new Griffith University research has found.",
-      "link": "https://medicalxpress.com/news/2026-08-weight-loss-drugs-avenue-bipolar.html",
-      "published_utc": "2026-08-24T12:40:05+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/glp-1.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "How shoulder replacement changes bone mineral density",
-      "summary": "Driven by the potential advantages of preserving bone stock and easier implant removal during revision surgery, the use of cementless short-stem implants in shoulder arthroplasty has increased in recent years. Despite this, joint replacement procedures outside the shoulder have reported postoperative bone loss in studies using dual-energy x-ray absorptiometry (DEXA) to measure bone density.",
-      "link": "https://medicalxpress.com/news/2026-08-shoulder-bone-mineral-density.html",
-      "published_utc": "2026-08-24T12:40:03+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/shouldering-the-change.jpg"
     },
     {
       "section": "science",
@@ -994,18 +946,6 @@
       "score": 5,
       "freshness_boost": 3,
       "image": "https://picsum.photos/seed/vb-afd189125586f938/480/320"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "Too much or too little sleep may make your body age faster",
-      "summary": "Both too little and too much sleep may be linked to faster aging throughout the body. Researchers analyzing 23 biological aging clocks found the lowest aging levels among people sleeping about 6.4 to 7.8 hours per day. Short or long sleep was also associated with numerous conditions affecting the brain, heart, lungs, metabolism, and digestive system.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260823094156.htm",
-      "published_utc": "2026-08-24T11:31:44+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-615039580824f232/480/320"
     },
     {
       "section": "science",
@@ -1056,18 +996,6 @@
       "image": "https://picsum.photos/seed/vb-6f4ca09ac7546b25/480/320"
     },
     {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "Gut bacteria may unlock a hidden benefit of vegetables",
-      "summary": "Gut bacteria can transform nitrate and plant-based iron from vegetables and other foods into protective molecules that may benefit the heart and metabolism. In experimental models, higher levels of these compounds were linked to lower blood pressure, better blood sugar control, healthier blood vessels, and less liver fat.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260822015145.htm",
-      "published_utc": "2026-08-24T02:48:52+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-8aa43ff9abc1fc34/480/320"
-    },
-    {
       "section": "environment",
       "kind": "global",
       "source": "Mongabay Conservation",
@@ -1104,30 +1032,6 @@
       "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/06/12163942/DJI_20250913010858_0043_D_Banner-768x512.jpg"
     },
     {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "Coffee drinkers have less fat, more muscle, and surprising hormone differences",
-      "summary": "Coffee drinkers may be getting more than an energy boost. A Finnish study found that people who drank more coffee tended to have less total and abdominal fat, more muscle, and healthier metabolic markers despite having similar BMIs. Higher coffee intake was also linked to lower levels of certain amino acids associated with insulin resistance and type 2 diabetes risk.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260819041228.htm",
-      "published_utc": "2026-08-19T12:30:05+00:00",
-      "score": 0,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-3798009bf0da10af/480/320"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "Scientists turn probiotic bacteria into tiny drug factories for pancreatic cancer",
-      "summary": "Engineered probiotic bacteria were able to infiltrate pancreatic tumors, stimulate cancer-fighting immune cells, and slow tumor growth in animal studies. Even more strikingly, the treatment worked better when combined with chemotherapy, radiation, or immunotherapy.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260816044830.htm",
-      "published_utc": "2026-08-19T12:10:13+00:00",
-      "score": 0,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-cc5f44be92a042a6/480/320"
-    },
-    {
       "section": "science",
       "kind": "global",
       "source": "ScienceDaily Science",
@@ -1150,6 +1054,78 @@
       "score": 0,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-de613310d9f611b2/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "A stress hormone may help the brain repair itself",
+      "summary": "A surprising stress-related signal may help the brain repair itself after injury. Researchers found that myelin-producing precursor cells rapidly release the stress hormone CRH near damaged brain tissue, helping control how those cells mature and rebuild protective nerve insulation. The same system also influences brain development and the thickness of myelin later in life. The findings could offer new clues about how early-life stress contributes to psychiatric disorders.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260814011044.htm",
+      "published_utc": "2026-08-14T11:35:11+00:00",
+      "score": 1,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-448c294c74e17560/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "Women taking estrogen had fewer signs of Alzheimer’s in their brains",
+      "summary": "Women who used estrogen-only hormone therapy later in life were less likely to develop dementia and showed fewer signs of Alzheimer’s disease in their brains, according to a large study of more than 21,000 participants. Hormone therapy use was linked to 39% lower odds of a dementia diagnosis and 35% lower odds of Alzheimer’s-related brain changes at autopsy, including amyloid plaques and tau tangles. Biomarker tests also suggested less amyloid buildup among hormone therapy users.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260814011028.htm",
+      "published_utc": "2026-08-14T11:19:42+00:00",
+      "score": 0,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-b1808c1a6dcc6824/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Medicine",
+      "title": "One faulty gene copy can make the heart’s DNA fold the wrong way",
+      "summary": "Researchers have discovered that a gene linked to congenital heart disease acts like an architect for the heart cell’s DNA. Losing just one copy of TBX5 can cause the genome’s carefully folded 3D structure to unravel, disrupting the genes needed to build a healthy heart. The effects can vary from cell to cell, which may help explain why people with the same mutation develop different heart defects. The same hidden mechanism could also play a role in other birth defects.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260812015214.htm",
+      "published_utc": "2026-08-13T13:46:14+00:00",
+      "score": 2,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-6698a1c5a04d3cb9/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "Drinking orange juice every day may change thousands of genes",
+      "summary": "Orange juice may have a much bigger effect on the body than scientists once realized. Drinking it regularly appears to influence genes tied to inflammation, blood pressure, metabolism, and blood sugar control, while studies have also found improvements in cholesterol and blood vessel health. Researchers suspect natural citrus compounds such as hesperidin may be partly responsible. Even the gut microbiome may benefit.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260813045548.htm",
+      "published_utc": "2026-08-13T12:15:50+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-95446688590214ba/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "A surprising brain discovery could help explain why we overeat fatty foods",
+      "summary": "A protein inside appetite-controlling brain cells may play an important role in preventing overeating and obesity, particularly when high-fat foods are readily available. Unexpected differences between males and females could also help explain why obesity risk—and responses to weight-loss drugs—can vary.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260813045531.htm",
+      "published_utc": "2026-08-13T09:42:51+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-ceae709402b0f9a5/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Medicine",
+      "title": "A surprising triple treatment completely clears hiv in newborn primates",
+      "summary": "Researchers have found a striking new way to potentially eliminate HIV soon after infection using a one-time combination of three therapies. In newborn nonhuman primates treated within three days of exposure, the regimen—standard antiretroviral drugs, broadly neutralizing antibodies, and the experimental antibody leronlimab—completely cleared the virus, even though none of the treatments could do so alone.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260812015200.htm",
+      "published_utc": "2026-08-13T08:18:26+00:00",
+      "score": 1,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-5be412cd6c1693e3/480/320"
     },
     {
       "section": "environment",
@@ -1304,6 +1280,7 @@
       "https://live.staticflickr.com/65535/55464998437_359a452284_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/55474088354_7f11f6531c_b.jpg",
       "https://live.staticflickr.com/65535/55471712472_feb9e07eb3_b.jpg",
       "https://live.staticflickr.com/65535/31797581711_8095603b65_b.jpg",
       "https://live.staticflickr.com/65535/55469122717_68bf5502d2_b.jpg",
@@ -1320,10 +1297,10 @@
       "https://live.staticflickr.com/65535/55469122872_4aeb9e7d9d_b.jpg",
       "https://live.staticflickr.com/65535/55477137174_d648866697_b.jpg",
       "https://live.staticflickr.com/65535/55469122752_19818d00a6_b.jpg",
-      "https://live.staticflickr.com/65535/55476275316_2a95a86f4c_b.jpg",
-      "https://live.staticflickr.com/5773/23224954022_9ea2a45c16_b.jpg"
+      "https://live.staticflickr.com/65535/55476275316_2a95a86f4c_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55484954406_4cfb0b797a_b.jpg",
       "https://live.staticflickr.com/65535/55484943686_86c32a6779_b.jpg",
       "https://live.staticflickr.com/65535/55484893844_f895fcb571_b.jpg",
       "https://live.staticflickr.com/65535/55483651922_4f114ce1d2_b.jpg",
@@ -1340,8 +1317,7 @@
       "https://live.staticflickr.com/65535/55483347728_76307f804c_b.jpg",
       "https://live.staticflickr.com/65535/55482159622_02473cb29c_b.jpg",
       "https://live.staticflickr.com/65535/55483197544_bb3d081d5c_b.jpg",
-      "https://live.staticflickr.com/65535/55482776173_4deac4a620_b.jpg",
-      "https://live.staticflickr.com/65535/55482506328_88286ebe8e_b.jpg"
+      "https://live.staticflickr.com/65535/55482776173_4deac4a620_b.jpg"
     ],
     "microcosmos": [
       "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
