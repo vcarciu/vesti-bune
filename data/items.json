@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-08-26T12:27:30+00:00",
+  "generated_utc": "2026-08-26T13:44:42+00:00",
   "sections": {
     "romania": [
       {
@@ -16,18 +16,6 @@
       {
         "section": "romania",
         "kind": "ro",
-        "source": "Start-Up Romania",
-        "title": "Cum se apără o companie românească de tehnologie împotriva deepfake-urilor din onboarding",
-        "summary": "Timp de aproape un deceniu, problema centrală a verificării identității la distanță a fost documentul. Dacă reușeai să stabilești că actul prezentat în fața camerei este autentic și că datele de pe...",
-        "link": "https://start-up.ro/cum-se-apara-o-companie-romaneasca-de-tehnologie-impotriva-deepfake-urilor-din-onboarding",
-        "published_utc": "2026-08-26T11:22:38+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://start-up.ro/img/articles/3/8/8/38877/cover-38877-src.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
         "source": "RomaniaPozitiva",
         "title": "Campania „Sănătate pentru sate” a revenit în localitatea Parepa din județul Prahova",
         "summary": "Campania „Sănătate pentru sate”, desfășurată de voluntarii de la Paraclisul Catedralei Naționale, a ajuns sâmbătă, 22 august în localitatea prahoveană Parepa. Localnicii au fost consultați gratuit de medici specialiști în&#8230; Articolul Campania „Sănătate pentru sate” a revenit în localitatea Parepa din județul Prahova apare prima dată în Romania Pozitiva .",
@@ -36,18 +24,6 @@
         "score": 3,
         "freshness_boost": 3,
         "image": "https://picsum.photos/seed/vb-f9d28d4640a0752b/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 Dronă cu încărcătură explozibilă",
-        "summary": "The post Dronă cu încărcătură explozibilă appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/uncategorized/drona-cu-incarcatura-exploziva",
-        "published_utc": "2026-08-26T07:31:47+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/08/Drona-cu-incarcatura-exploziva-1.jpg"
       },
       {
         "section": "romania",
@@ -106,20 +82,32 @@
         "link": "https://www.timesnewroman.ro/it-stiinta/mutatie-rara-savantii-uimiti-de-nea-costel-care-in-loc-de-celule-stem-are-celule-stamsibem",
         "published_utc": "2026-08-25T13:18:00+00:00",
         "score": 3,
-        "freshness_boost": 3,
+        "freshness_boost": 1,
         "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/nea_costel_bere_terasa.jpg"
       },
       {
         "section": "romania",
         "kind": "ro",
         "source": "Times New Roman (Satira)",
-        "title": "😂 Agenţia de Rating a Pepenilor retrogradează Dăbuleniul de la FFFFF dulce la FFF- dulce",
-        "summary": "Vești deloc îmbucurătoare din partea Agenției Internaționale de Rating a Pepenilor. Într-o evaluare așteaptă cu sufletul la gură de toți consumatorii de pepeni, Dăbuleniul a fost retrogradat de la FFFFF dulce la FFF- dulce. Instant, prețul pepenilor de Dăbuleni s-a prăbușit la sub 1 leu pe kilogram Dar chiar și așa, cu prețul mult scăzut, [&#8230;] The post Agenţia de Rating a Pepenilor retrogradează Dăbuleniul de la FFFFF dulce la FFF- dulce appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/monden/agentia-de-rating-a-pepenilor-retrogradeaza-dabuleniul-de-la-fffff-dulce-la-fff-dulce",
-        "published_utc": "2026-08-25T08:50:00+00:00",
+        "title": "😂 Albă ca untul",
+        "summary": "The post Albă ca untul appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/ovi/alba-ca-untul",
+        "published_utc": "2026-08-25T08:09:57+00:00",
         "score": 3,
         "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/08/pepeni_retrogradati.jpg"
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/08/Alba-ca-untul.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 Nu mai aruncați cârpele! Într-o zi ar putea ajunge judecători CCR",
+        "summary": "Reputatul sociolog Decebal Popescu trage un semnal de alarmă și avertizează că prea mulți români comit, fără să-și dea seama, un atentat la ordinea constituțională. „Orice cârpă are în sine posibilitatea de a deveni judecător CCR. Deci dacă o arunci, nu arunci doar o simplă cârpă, ci un potențial judecător CCR”, a explicat sociologul. Iar [&#8230;] The post Nu mai aruncați cârpele! Într-o zi ar putea ajunge judecători CCR appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/politic/nu-mai-aruncati-carpele-intr-o-zi-ar-putea-ajunge-judecatori-ccr",
+        "published_utc": "2026-08-24T09:43:24+00:00",
+        "score": 3,
+        "freshness_boost": 1,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/08/ccr_curte_goala.jpg"
       },
       {
         "section": "romania",
@@ -271,133 +259,121 @@
         "section": "medical",
         "kind": "global",
         "source": "Medical Xpress",
-        "title": "GLP-1 meds prompt rethink of obesity and eating disorder care",
-        "summary": "Obesity and eating disorders have traditionally been treated as separate areas of health care—but the rapid rise of GLP-1 medicines is increasingly bringing the two together. Adelaide University researchers say the growing use of medicines such as Ozempic and Mounjaro is highlighting an underrecognized overlap between the conditions—and raising important questions about who could benefit and who may be at risk.",
-        "link": "https://medicalxpress.com/news/2026-08-glp-meds-prompt-rethink-obesity.html",
-        "published_utc": "2026-08-26T12:20:03+00:00",
+        "title": "FDA support advances biomarker for earlier, more precise Parkinson's clinical trials",
+        "summary": "The Critical Path Institute (C-Path) has published \"Regulatory endorsement for the application of alpha-synuclein seed amplification assay (αSyn-SAA) as a susceptibility and risk biomarker for clinical trials targeting synucleinopathies\" in the Journal of Parkinson's Disease, marking a significant milestone for its Critical Path for Parkinson's consortium. The findings detail scientific, regulatory and collaborative efforts culminating in a U.S. Food and Drug Administration (FDA) biomarker Letter of Support for this work.",
+        "link": "https://medicalxpress.com/news/2026-08-fda-advances-biomarker-earlier-precise.html",
+        "published_utc": "2026-08-26T13:40:11+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/glp-1-medications.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/parkinsons-disease.jpg"
       },
       {
         "section": "medical",
         "kind": "global",
         "source": "Medical Xpress",
-        "title": "Research shows AI can fast track mental health care",
-        "summary": "Researchers have analyzed 1 million health-related Reddit threads to build an AI platform that can quickly identify mental health concerns in hopes that the findings will help fast-track and better personalize care.",
-        "link": "https://medicalxpress.com/news/2026-08-ai-fast-track-mental-health.html",
-        "published_utc": "2026-08-26T12:00:04+00:00",
+        "title": "AI matches human pathologists in predicting breast cancer outcomes from immune cells",
+        "summary": "Two major international Peter Mac-led studies have found AI models were just as good as human pathologists at a task that predicts outcomes for patients with breast cancer.",
+        "link": "https://medicalxpress.com/news/2026-08-ai-human-pathologists-breast-cancer.html",
+        "published_utc": "2026-08-26T13:40:08+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/breast-cancer.jpg"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "Medical Xpress",
+        "title": "Neural implant in Korea remotely controlled from the United States",
+        "summary": "A researcher in Chicago remotely controls a miniaturized brain implant in Daejeon, Korea—over the internet. Korean researchers have developed a wireless device that can deliver drugs and light to precisely modulate targeted neurons from anywhere in the world. The technology is expected to overcome the constraints of distance and location, supporting long-term studies of brain disorders and the future development of therapeutic devices.",
+        "link": "https://medicalxpress.com/news/2026-08-neural-implant-korea-remotely-states.html",
+        "published_utc": "2026-08-26T13:20:04+00:00",
         "score": 1,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/therapy.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/neural-implant-in-kore.jpg"
       },
       {
         "section": "medical",
         "kind": "global",
         "source": "Medical Xpress",
-        "title": "Sugar tax could improve oral health",
-        "summary": "Millions of cases of tooth decay could be prevented if Australia introduced a 20% tax on sugar, new Griffith University research has found.",
-        "link": "https://medicalxpress.com/news/2026-08-sugar-tax-oral-health.html",
-        "published_utc": "2026-08-26T11:40:03+00:00",
+        "title": "Common diabetes medication can reduce preterm birth rates in high-risk pregnancies",
+        "summary": "A common diabetes medication can reduce the risk of early and preterm births for mothers at high metabolic risk, according to new research led by Monash University. Published in NEJM Evidence, the study investigated whether metformin, a low-cost oral prescription medication used to manage blood sugar, could help prevent gestational diabetes and other adverse pregnancy outcomes, including early birth.",
+        "link": "https://medicalxpress.com/news/2026-08-common-diabetes-medication-preterm-birth.html",
+        "published_utc": "2026-08-26T13:07:55+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/oral-health-1.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2016/metformin.jpg"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "Scientists may have found a shortcut to calorie restriction’s anti-aging benefits",
+        "summary": "Moderate calorie restriction lowered an immune protein called C3 that appears to help drive chronic inflammation as the body ages. Blocking the same protein reduced age related inflammation in mice, raising the possibility that future treatments could mimic some benefits of calorie restriction without severe dieting.",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260826055508.htm",
+        "published_utc": "2026-08-26T13:00:53+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-f0969854e1999d81/480/320"
       },
       {
         "section": "medical",
         "kind": "global",
         "source": "Medical Xpress",
-        "title": "How DNA folding controls immune gene activity in T cells",
-        "summary": "A new study by researchers at the Perelman School of Medicine at the University of Pennsylvania reveals that the three-dimensional folding of DNA at a key genetic locus helps determine when two related immune genes, Ets1 and Fli1, are switched on in T cells.",
-        "link": "https://medicalxpress.com/news/2026-08-dna-immune-gene-cells.html",
-        "published_utc": "2026-08-26T11:20:03+00:00",
+        "title": "Grandparents, teachers and even bus drivers can build resilient kids",
+        "summary": "Grandparents bring \"The Gruffalo\" to life by doing different voices. They take you to visit lemurs at the zoo. They show you how to grow green onions on the windowsill. And they let you bite into every cookie in the tin when you can't decide which one you want.",
+        "link": "https://medicalxpress.com/news/2026-08-grandparents-teachers-bus-drivers-resilient.html",
+        "published_utc": "2026-08-26T12:40:03+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/grandparents.jpg"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "Turmeric compound may protect blood vessels from diabetes damage",
+        "summary": "A compound found in turmeric may help protect blood vessels from some of the damage caused by Type 1 diabetes. In rats, curcumin reduced inflammation, improved cellular signaling, and restored vascular health to levels resembling those of nondiabetic animals. The results hint at a possible new way to reduce the long-term cardiovascular risks of diabetes, but human trials are still needed.",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260824065543.htm",
+        "published_utc": "2026-08-26T10:49:14+00:00",
         "score": 2,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-dna-folding-contro.jpg"
+        "image": "https://picsum.photos/seed/vb-afbf65409bfe13f9/480/320"
       },
       {
         "section": "medical",
         "kind": "global",
         "source": "ScienceDaily Health",
-        "title": "This weight-loss hormone may protect the liver even without weight loss",
-        "summary": "A hormone already known for curbing appetite and supporting weight loss may have a surprising second job: protecting the liver from inflammation and scarring. Researchers at McMaster University found that GDF15 activates a previously unknown brain-to-liver pathway that triggers the release of glucocorticoids, helping calm immune activity in the liver.",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260820202854.htm",
-        "published_utc": "2026-08-21T11:38:41+00:00",
+        "title": "A missing color in indoor light may help prevent myopia",
+        "summary": "A wavelength of light largely missing from indoor LEDs may play an important role in protecting developing eyes from nearsightedness. Researchers found that indigo light completely prevented myopia in tree shrews, whose eyes share important similarities with human eyes. The discovery raises the possibility that future indoor lighting could be redesigned to more closely mimic sunlight and potentially reduce childhood myopia.",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260824065510.htm",
+        "published_utc": "2026-08-26T08:15:18+00:00",
+        "score": 5,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-6b654750a95de117/480/320"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "Childhood trauma may leave a lasting “scar” inside brain cells",
+        "summary": "Early-life stress may physically alter how DNA is packaged in the brain, leaving stress-related genes primed to activate more easily years later. In mice, researchers were able to block this effect, preventing the heightened anxiety and stress sensitivity that otherwise appeared in adulthood.",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260823094151.htm",
+        "published_utc": "2026-08-26T07:28:27+00:00",
         "score": 1,
-        "freshness_boost": 0,
-        "image": "https://picsum.photos/seed/vb-a8222fe0b2631a74/480/320"
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-1535ea753bacdf7e/480/320"
       },
       {
         "section": "medical",
         "kind": "global",
         "source": "ScienceDaily Health",
-        "title": "AI may know how you’ll respond to a vaccine before you get it",
-        "summary": "AI may be able to predict how strongly someone will respond to a vaccine before they receive it. By analyzing antibody patterns in more than 4,000 people, researchers found signs of “immune readiness” that helped distinguish strong responders from weak ones. Surprisingly, even some healthy people responded poorly, while some immunosuppressed people mounted strong responses.",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260820202842.htm",
-        "published_utc": "2026-08-21T10:59:05+00:00",
-        "score": 1,
-        "freshness_boost": 0,
-        "image": "https://picsum.photos/seed/vb-8cc2ec238b03ab2d/480/320"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "ScienceDaily Health",
-        "title": "Scientists discover how gut bacteria “train” the intestine to fight inflammation",
-        "summary": "A compound made when gut bacteria break down dietary fiber may do more than briefly calm inflammation—it could leave a lasting protective “memory” in the gut. Northwestern Medicine researchers found that butyrate can reprogram intestinal lining cells so they continue encouraging anti-inflammatory immune responses even after the compound is gone. In mice, this effect boosted production of the immune-calming molecule IL-10 and reduced the severity of colitis-like disease.",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260820002439.htm",
-        "published_utc": "2026-08-21T00:10:15+00:00",
-        "score": 2,
-        "freshness_boost": 0,
-        "image": "https://picsum.photos/seed/vb-e02c6cb89d633bc9/480/320"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "ScienceDaily Health",
-        "title": "Ozempic does something unexpected to the brain’s hunger neurons",
-        "summary": "Ozempic may work in the brain in almost the opposite way scientists expected, activating hunger-linked neurons that appear essential for sustaining fat loss. The surprising discovery in mice could reveal new targets for developing even more effective obesity drugs.",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260820002436.htm",
-        "published_utc": "2026-08-20T22:59:05+00:00",
-        "score": 6,
-        "freshness_boost": 0,
-        "image": "https://picsum.photos/seed/vb-2ffcab73401b854b/480/320"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "ScienceDaily Health",
-        "title": "The common mistake that could make aging joints hurt more",
-        "summary": "Aging gradually wears down the cartilage and fluid that protect our joints, but avoiding movement may actually make matters worse. Exercise helps nourish cartilage, strengthens the muscles that protect joints, and can reduce osteoarthritis pain. Low-impact activities such as swimming, cycling, tai chi, yoga, and walking on varied terrain may also improve balance and mobility. Even a few minutes of the right kind of movement can make a difference.",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260814235852.htm",
-        "published_utc": "2026-08-16T11:23:47+00:00",
+        "title": "This 10-cent heart drug cuts hospitalizations by 25%",
+        "summary": "A centuries-old heart drug costing less than ten cents a day could help keep heart-failure patients out of the hospital. New research suggests low-dose digoxin can reduce heart-failure hospitalizations by about 25%, potentially paving the way for its return as a major treatment.",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260814235858.htm",
+        "published_utc": "2026-08-16T12:22:32+00:00",
         "score": 0,
         "freshness_boost": 0,
-        "image": "https://picsum.photos/seed/vb-686254f65d2309d0/480/320"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "ScienceDaily Health",
-        "title": "COVID-19 awakens dormant viruses — and one is linked to long COVID",
-        "summary": "COVID-19 can reactivate dormant viruses hiding in the body, including Epstein-Barr, cytomegalovirus, and several herpes viruses. One poorly understood viral family was strongly associated with long COVID and lasting disability, offering a potentially important clue to why some patients struggle to recover.",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260814011034.htm",
-        "published_utc": "2026-08-16T03:03:05+00:00",
-        "score": 0,
-        "freshness_boost": 0,
-        "image": "https://picsum.photos/seed/vb-bf2f0d769fc3410e/480/320"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "ScienceDaily Health",
-        "title": "Scientists detect a surprising shift in human blood as atmospheric CO2 rises",
-        "summary": "Rising carbon dioxide in the atmosphere may be leaving a measurable imprint inside the human body. Researchers analyzing more than two decades of U.S. health data found that blood bicarbonate levels have climbed about 7% since 1999, while calcium and phosphorus have declined—changes that closely track increasing atmospheric CO2.",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260814235845.htm",
-        "published_utc": "2026-08-15T14:40:16+00:00",
-        "score": 0,
-        "freshness_boost": 0,
-        "image": "https://picsum.photos/seed/vb-1412581ea754f058/480/320"
+        "image": "https://picsum.photos/seed/vb-bdd88af0549e3465/480/320"
       }
     ],
     "science": [
@@ -613,30 +589,6 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Start-Up Romania",
-      "title": "Cum se apără o companie românească de tehnologie împotriva deepfake-urilor din onboarding",
-      "summary": "Timp de aproape un deceniu, problema centrală a verificării identității la distanță a fost documentul. Dacă reușeai să stabilești că actul prezentat în fața camerei este autentic și că datele de pe...",
-      "link": "https://start-up.ro/cum-se-apara-o-companie-romaneasca-de-tehnologie-impotriva-deepfake-urilor-din-onboarding",
-      "published_utc": "2026-08-26T11:22:38+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://start-up.ro/img/articles/3/8/8/38877/cover-38877-src.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Dronă cu încărcătură explozibilă",
-      "summary": "The post Dronă cu încărcătură explozibilă appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/uncategorized/drona-cu-incarcatura-exploziva",
-      "published_utc": "2026-08-26T07:31:47+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/08/Drona-cu-incarcatura-exploziva-1.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "Timișorenii sunt invitați la teatru! Teatrul Basca prezintă basmul urban contemporan ”Lilu glugă verde”   în patru cartiere din Timișoara.",
       "summary": "Între 29 august și 3 septembrie, Teatrul Basca aduce spectacolul de teatru ”Lilu glugă verde” în patru cartiere din Timișoara. Spectacolul este un basm urban contemporan, și o are în&#8230; Articolul Timișorenii sunt invitați la teatru! Teatrul Basca prezintă basmul urban contemporan ”Lilu glugă verde” în patru cartiere din Timișoara. apare prima dată în Romania Pozitiva .",
@@ -685,18 +637,6 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Mutaţie rară! Savanţii, uimiţi de nea Costel, care în loc de celule stem are celule stămşibem",
-      "summary": "Nea Costel continuă să uimească lumea științifică. Reputatul drojdier român a fost recent subiectul unor studii genetice amănunțite, iar ceea ce au descoperit savanții efectiv i-a lăsat cu gura căscată. „Nea Costel nu are celule stem, ca orice alt om, ci un tip unic de celule de tip stămșibem. E genul de mutație care îl [&#8230;] The post Mutaţie rară! Savanţii, uimiţi de nea Costel, care în loc de celule stem are celule stămşibem appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/it-stiinta/mutatie-rara-savantii-uimiti-de-nea-costel-care-in-loc-de-celule-stem-are-celule-stamsibem",
-      "published_utc": "2026-08-25T13:18:00+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/nea_costel_bere_terasa.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "Campania „Sănătate pentru sate” a revenit în localitatea Parepa din județul Prahova",
       "summary": "Campania „Sănătate pentru sate”, desfășurată de voluntarii de la Paraclisul Catedralei Naționale, a ajuns sâmbătă, 22 august în localitatea prahoveană Parepa. Localnicii au fost consultați gratuit de medici specialiști în&#8230; Articolul Campania „Sănătate pentru sate” a revenit în localitatea Parepa din județul Prahova apare prima dată în Romania Pozitiva .",
@@ -710,13 +650,37 @@
       "section": "romania",
       "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 Agenţia de Rating a Pepenilor retrogradează Dăbuleniul de la FFFFF dulce la FFF- dulce",
-      "summary": "Vești deloc îmbucurătoare din partea Agenției Internaționale de Rating a Pepenilor. Într-o evaluare așteaptă cu sufletul la gură de toți consumatorii de pepeni, Dăbuleniul a fost retrogradat de la FFFFF dulce la FFF- dulce. Instant, prețul pepenilor de Dăbuleni s-a prăbușit la sub 1 leu pe kilogram Dar chiar și așa, cu prețul mult scăzut, [&#8230;] The post Agenţia de Rating a Pepenilor retrogradează Dăbuleniul de la FFFFF dulce la FFF- dulce appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/monden/agentia-de-rating-a-pepenilor-retrogradeaza-dabuleniul-de-la-fffff-dulce-la-fff-dulce",
-      "published_utc": "2026-08-25T08:50:00+00:00",
+      "title": "😂 Albă ca untul",
+      "summary": "The post Albă ca untul appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/ovi/alba-ca-untul",
+      "published_utc": "2026-08-25T08:09:57+00:00",
       "score": 3,
       "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/08/pepeni_retrogradati.jpg"
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/08/Alba-ca-untul.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Nu mai aruncați cârpele! Într-o zi ar putea ajunge judecători CCR",
+      "summary": "Reputatul sociolog Decebal Popescu trage un semnal de alarmă și avertizează că prea mulți români comit, fără să-și dea seama, un atentat la ordinea constituțională. „Orice cârpă are în sine posibilitatea de a deveni judecător CCR. Deci dacă o arunci, nu arunci doar o simplă cârpă, ci un potențial judecător CCR”, a explicat sociologul. Iar [&#8230;] The post Nu mai aruncați cârpele! Într-o zi ar putea ajunge judecători CCR appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/politic/nu-mai-aruncati-carpele-intr-o-zi-ar-putea-ajunge-judecatori-ccr",
+      "published_utc": "2026-08-24T09:43:24+00:00",
+      "score": 3,
+      "freshness_boost": 1,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/08/ccr_curte_goala.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Mutaţie rară! Savanţii, uimiţi de nea Costel, care în loc de celule stem are celule stămşibem",
+      "summary": "Nea Costel continuă să uimească lumea științifică. Reputatul drojdier român a fost recent subiectul unor studii genetice amănunțite, iar ceea ce au descoperit savanții efectiv i-a lăsat cu gura căscată. „Nea Costel nu are celule stem, ca orice alt om, ci un tip unic de celule de tip stămșibem. E genul de mutație care îl [&#8230;] The post Mutaţie rară! Savanţii, uimiţi de nea Costel, care în loc de celule stem are celule stămşibem appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/it-stiinta/mutatie-rara-savantii-uimiti-de-nea-costel-care-in-loc-de-celule-stem-are-celule-stamsibem",
+      "published_utc": "2026-08-25T13:18:00+00:00",
+      "score": 3,
+      "freshness_boost": 1,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/03/nea_costel_bere_terasa.jpg"
     },
     {
       "section": "romania",
@@ -802,18 +766,6 @@
       "image": "https://picsum.photos/seed/vb-9e910caffe28ea93/480/320"
     },
     {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "GLP-1 meds prompt rethink of obesity and eating disorder care",
-      "summary": "Obesity and eating disorders have traditionally been treated as separate areas of health care—but the rapid rise of GLP-1 medicines is increasingly bringing the two together. Adelaide University researchers say the growing use of medicines such as Ozempic and Mounjaro is highlighting an underrecognized overlap between the conditions—and raising important questions about who could benefit and who may be at risk.",
-      "link": "https://medicalxpress.com/news/2026-08-glp-meds-prompt-rethink-obesity.html",
-      "published_utc": "2026-08-26T12:20:03+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/glp-1-medications.jpg"
-    },
-    {
       "section": "romania",
       "kind": "ro",
       "source": "World Vision Romania",
@@ -824,6 +776,18 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-0cc54a513713695c/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "FDA support advances biomarker for earlier, more precise Parkinson's clinical trials",
+      "summary": "The Critical Path Institute (C-Path) has published \"Regulatory endorsement for the application of alpha-synuclein seed amplification assay (αSyn-SAA) as a susceptibility and risk biomarker for clinical trials targeting synucleinopathies\" in the Journal of Parkinson's Disease, marking a significant milestone for its Critical Path for Parkinson's consortium. The findings detail scientific, regulatory and collaborative efforts culminating in a U.S. Food and Drug Administration (FDA) biomarker Letter of Support for this work.",
+      "link": "https://medicalxpress.com/news/2026-08-fda-advances-biomarker-earlier-precise.html",
+      "published_utc": "2026-08-26T13:40:11+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/parkinsons-disease.jpg"
     },
     {
       "section": "romania",
@@ -838,18 +802,6 @@
       "image": "https://picsum.photos/seed/vb-66ff4de0f241b638/480/320"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Do customer loyalty programs actually work? The benefits are in the eye of the cardholder",
-      "summary": "Whether you love a loyalty discount at the supermarket or frequently forget your loyalty card, loyalty programs (LPs) can be an essential support for families and households amid growing cost-of-living pressures.",
-      "link": "https://phys.org/news/2026-08-customer-loyalty-benefits-eye-cardholder.html",
-      "published_utc": "2026-08-26T12:20:01+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/customer-loyalty-progr.jpg"
-    },
-    {
       "section": "romania",
       "kind": "ro",
       "source": "Teach for Romania",
@@ -860,6 +812,18 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-e1bbe11509aecd85/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "AI matches human pathologists in predicting breast cancer outcomes from immune cells",
+      "summary": "Two major international Peter Mac-led studies have found AI models were just as good as human pathologists at a task that predicts outcomes for patients with breast cancer.",
+      "link": "https://medicalxpress.com/news/2026-08-ai-human-pathologists-breast-cancer.html",
+      "published_utc": "2026-08-26T13:40:08+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/breast-cancer.jpg"
     },
     {
       "section": "romania",
@@ -874,18 +838,6 @@
       "image": "https://picsum.photos/seed/vb-2c8c13d08b21f659/480/320"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Hyperdoped silicon photodiode advances short-wave infrared detection at room temperature",
-      "summary": "Detecting short-wave infrared (SWIR) light, a region of the electromagnetic spectrum just beyond the light visible to the human eye, could be advantageous for many real-world applications. For instance, it could enable more advanced systems for capturing images at night, as well as sophisticated medical imaging, environmental monitoring and industrial inspection technologies.",
-      "link": "https://phys.org/news/2026-08-hyperdoped-silicon-photodiode-advances-short.html",
-      "published_utc": "2026-08-26T12:00:06+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hyperdoped-silicon-pho.jpg"
-    },
-    {
       "section": "romania",
       "kind": "ro",
       "source": "World Vision Romania",
@@ -896,6 +848,18 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-1f843baf2f3a4c1b/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "Neural implant in Korea remotely controlled from the United States",
+      "summary": "A researcher in Chicago remotely controls a miniaturized brain implant in Daejeon, Korea—over the internet. Korean researchers have developed a wireless device that can deliver drugs and light to precisely modulate targeted neurons from anywhere in the world. The technology is expected to overcome the constraints of distance and location, supporting long-term studies of brain disorders and the future development of therapeutic devices.",
+      "link": "https://medicalxpress.com/news/2026-08-neural-implant-korea-remotely-states.html",
+      "published_utc": "2026-08-26T13:20:04+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/neural-implant-in-kore.jpg"
     },
     {
       "section": "romania",
@@ -913,13 +877,61 @@
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
-      "title": "Research shows AI can fast track mental health care",
-      "summary": "Researchers have analyzed 1 million health-related Reddit threads to build an AI platform that can quickly identify mental health concerns in hopes that the findings will help fast-track and better personalize care.",
-      "link": "https://medicalxpress.com/news/2026-08-ai-fast-track-mental-health.html",
-      "published_utc": "2026-08-26T12:00:04+00:00",
+      "title": "Common diabetes medication can reduce preterm birth rates in high-risk pregnancies",
+      "summary": "A common diabetes medication can reduce the risk of early and preterm births for mothers at high metabolic risk, according to new research led by Monash University. Published in NEJM Evidence, the study investigated whether metformin, a low-cost oral prescription medication used to manage blood sugar, could help prevent gestational diabetes and other adverse pregnancy outcomes, including early birth.",
+      "link": "https://medicalxpress.com/news/2026-08-common-diabetes-medication-preterm-birth.html",
+      "published_utc": "2026-08-26T13:07:55+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2016/metformin.jpg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "Scientists may have found a shortcut to calorie restriction’s anti-aging benefits",
+      "summary": "Moderate calorie restriction lowered an immune protein called C3 that appears to help drive chronic inflammation as the body ages. Blocking the same protein reduced age related inflammation in mice, raising the possibility that future treatments could mimic some benefits of calorie restriction without severe dieting.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260826055508.htm",
+      "published_utc": "2026-08-26T13:00:53+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-f0969854e1999d81/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "Grandparents, teachers and even bus drivers can build resilient kids",
+      "summary": "Grandparents bring \"The Gruffalo\" to life by doing different voices. They take you to visit lemurs at the zoo. They show you how to grow green onions on the windowsill. And they let you bite into every cookie in the tin when you can't decide which one you want.",
+      "link": "https://medicalxpress.com/news/2026-08-grandparents-teachers-bus-drivers-resilient.html",
+      "published_utc": "2026-08-26T12:40:03+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/grandparents.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Do customer loyalty programs actually work? The benefits are in the eye of the cardholder",
+      "summary": "Whether you love a loyalty discount at the supermarket or frequently forget your loyalty card, loyalty programs (LPs) can be an essential support for families and households amid growing cost-of-living pressures.",
+      "link": "https://phys.org/news/2026-08-customer-loyalty-benefits-eye-cardholder.html",
+      "published_utc": "2026-08-26T12:20:01+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/customer-loyalty-progr.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Hyperdoped silicon photodiode advances short-wave infrared detection at room temperature",
+      "summary": "Detecting short-wave infrared (SWIR) light, a region of the electromagnetic spectrum just beyond the light visible to the human eye, could be advantageous for many real-world applications. For instance, it could enable more advanced systems for capturing images at night, as well as sophisticated medical imaging, environmental monitoring and industrial inspection technologies.",
+      "link": "https://phys.org/news/2026-08-hyperdoped-silicon-photodiode-advances-short.html",
+      "published_utc": "2026-08-26T12:00:06+00:00",
       "score": 1,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/therapy.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hyperdoped-silicon-pho.jpg"
     },
     {
       "section": "science",
@@ -934,30 +946,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2021/black-parent.jpg"
     },
     {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Sugar tax could improve oral health",
-      "summary": "Millions of cases of tooth decay could be prevented if Australia introduced a 20% tax on sugar, new Griffith University research has found.",
-      "link": "https://medicalxpress.com/news/2026-08-sugar-tax-oral-health.html",
-      "published_utc": "2026-08-26T11:40:03+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/oral-health-1.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "How DNA folding controls immune gene activity in T cells",
-      "summary": "A new study by researchers at the Perelman School of Medicine at the University of Pennsylvania reveals that the three-dimensional folding of DNA at a key genetic locus helps determine when two related immune genes, Ets1 and Fli1, are switched on in T cells.",
-      "link": "https://medicalxpress.com/news/2026-08-dna-immune-gene-cells.html",
-      "published_utc": "2026-08-26T11:20:03+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-dna-folding-contro.jpg"
-    },
-    {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
@@ -968,6 +956,42 @@
       "score": 1,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-map-tick-h.jpg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "Turmeric compound may protect blood vessels from diabetes damage",
+      "summary": "A compound found in turmeric may help protect blood vessels from some of the damage caused by Type 1 diabetes. In rats, curcumin reduced inflammation, improved cellular signaling, and restored vascular health to levels resembling those of nondiabetic animals. The results hint at a possible new way to reduce the long-term cardiovascular risks of diabetes, but human trials are still needed.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260824065543.htm",
+      "published_utc": "2026-08-26T10:49:14+00:00",
+      "score": 2,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-afbf65409bfe13f9/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "A missing color in indoor light may help prevent myopia",
+      "summary": "A wavelength of light largely missing from indoor LEDs may play an important role in protecting developing eyes from nearsightedness. Researchers found that indigo light completely prevented myopia in tree shrews, whose eyes share important similarities with human eyes. The discovery raises the possibility that future indoor lighting could be redesigned to more closely mimic sunlight and potentially reduce childhood myopia.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260824065510.htm",
+      "published_utc": "2026-08-26T08:15:18+00:00",
+      "score": 5,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-6b654750a95de117/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "Childhood trauma may leave a lasting “scar” inside brain cells",
+      "summary": "Early-life stress may physically alter how DNA is packaged in the brain, leaving stress-related genes primed to activate more easily years later. In mice, researchers were able to block this effect, preventing the heightened anxiety and stress sensitivity that otherwise appeared in adulthood.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260823094151.htm",
+      "published_utc": "2026-08-26T07:28:27+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-1535ea753bacdf7e/480/320"
     },
     {
       "section": "environment",
@@ -1004,30 +1028,6 @@
       "score": 0,
       "freshness_boost": 3,
       "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/06/12163942/DJI_20250913010858_0043_D_Banner-768x512.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "This weight-loss hormone may protect the liver even without weight loss",
-      "summary": "A hormone already known for curbing appetite and supporting weight loss may have a surprising second job: protecting the liver from inflammation and scarring. Researchers at McMaster University found that GDF15 activates a previously unknown brain-to-liver pathway that triggers the release of glucocorticoids, helping calm immune activity in the liver.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260820202854.htm",
-      "published_utc": "2026-08-21T11:38:41+00:00",
-      "score": 1,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-a8222fe0b2631a74/480/320"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "AI may know how you’ll respond to a vaccine before you get it",
-      "summary": "AI may be able to predict how strongly someone will respond to a vaccine before they receive it. By analyzing antibody patterns in more than 4,000 people, researchers found signs of “immune readiness” that helped distinguish strong responders from weak ones. Surprisingly, even some healthy people responded poorly, while some immunosuppressed people mounted strong responses.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260820202842.htm",
-      "published_utc": "2026-08-21T10:59:05+00:00",
-      "score": 1,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-8cc2ec238b03ab2d/480/320"
     },
     {
       "section": "science",
@@ -1093,61 +1093,13 @@
       "section": "medical",
       "kind": "global",
       "source": "ScienceDaily Health",
-      "title": "Scientists discover how gut bacteria “train” the intestine to fight inflammation",
-      "summary": "A compound made when gut bacteria break down dietary fiber may do more than briefly calm inflammation—it could leave a lasting protective “memory” in the gut. Northwestern Medicine researchers found that butyrate can reprogram intestinal lining cells so they continue encouraging anti-inflammatory immune responses even after the compound is gone. In mice, this effect boosted production of the immune-calming molecule IL-10 and reduced the severity of colitis-like disease.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260820002439.htm",
-      "published_utc": "2026-08-21T00:10:15+00:00",
-      "score": 2,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-e02c6cb89d633bc9/480/320"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "Ozempic does something unexpected to the brain’s hunger neurons",
-      "summary": "Ozempic may work in the brain in almost the opposite way scientists expected, activating hunger-linked neurons that appear essential for sustaining fat loss. The surprising discovery in mice could reveal new targets for developing even more effective obesity drugs.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260820002436.htm",
-      "published_utc": "2026-08-20T22:59:05+00:00",
-      "score": 6,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-2ffcab73401b854b/480/320"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "The common mistake that could make aging joints hurt more",
-      "summary": "Aging gradually wears down the cartilage and fluid that protect our joints, but avoiding movement may actually make matters worse. Exercise helps nourish cartilage, strengthens the muscles that protect joints, and can reduce osteoarthritis pain. Low-impact activities such as swimming, cycling, tai chi, yoga, and walking on varied terrain may also improve balance and mobility. Even a few minutes of the right kind of movement can make a difference.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260814235852.htm",
-      "published_utc": "2026-08-16T11:23:47+00:00",
+      "title": "This 10-cent heart drug cuts hospitalizations by 25%",
+      "summary": "A centuries-old heart drug costing less than ten cents a day could help keep heart-failure patients out of the hospital. New research suggests low-dose digoxin can reduce heart-failure hospitalizations by about 25%, potentially paving the way for its return as a major treatment.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260814235858.htm",
+      "published_utc": "2026-08-16T12:22:32+00:00",
       "score": 0,
       "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-686254f65d2309d0/480/320"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "COVID-19 awakens dormant viruses — and one is linked to long COVID",
-      "summary": "COVID-19 can reactivate dormant viruses hiding in the body, including Epstein-Barr, cytomegalovirus, and several herpes viruses. One poorly understood viral family was strongly associated with long COVID and lasting disability, offering a potentially important clue to why some patients struggle to recover.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260814011034.htm",
-      "published_utc": "2026-08-16T03:03:05+00:00",
-      "score": 0,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-bf2f0d769fc3410e/480/320"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "Scientists detect a surprising shift in human blood as atmospheric CO2 rises",
-      "summary": "Rising carbon dioxide in the atmosphere may be leaving a measurable imprint inside the human body. Researchers analyzing more than two decades of U.S. health data found that blood bicarbonate levels have climbed about 7% since 1999, while calcium and phosphorus have declined—changes that closely track increasing atmospheric CO2.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260814235845.htm",
-      "published_utc": "2026-08-15T14:40:16+00:00",
-      "score": 0,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-1412581ea754f058/480/320"
+      "image": "https://picsum.photos/seed/vb-bdd88af0549e3465/480/320"
     },
     {
       "section": "environment",
@@ -1216,8 +1168,8 @@
     "source": "data/jokes_ro.txt"
   },
   "satire_ro": {
-    "title": "Barosan adevărat! Aflat la mare, Nuţu Cămătaru intră în apă călare, ca să nu se ude",
-    "link": "https://www.timesnewroman.ro/monden/barosan-adevarat-aflat-la-mare-nutu-camataru-intra-in-apa-calare-ca-sa-nu-se-ude/",
+    "title": "Turist dezamăgit de garsoniera lui Trăistariu din Mamaia: „Condiţii OK, dar sub pat era Trăistariu”",
+    "link": "https://www.timesnewroman.ro/monden/turist-dezamagit-de-garsoniera-lui-traistariu-din-mamaia-conditii-ok-dar-sub-pat-era-traistariu/",
     "source": "timesnewroman.ro"
   },
   "top_images": [
@@ -1302,6 +1254,7 @@
       "https://live.staticflickr.com/65535/55471108268_2574a91040_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/16528937570_e24d679610_b.jpg",
       "https://live.staticflickr.com/65535/55479752086_cc95069014_b.jpg",
       "https://live.staticflickr.com/65535/55476275316_2a95a86f4c_b.jpg",
       "https://live.staticflickr.com/65535/55476059373_8c0b101a05_b.jpg",
@@ -1318,10 +1271,10 @@
       "https://live.staticflickr.com/65535/31909353225_532e00ac8e_b.jpg",
       "https://live.staticflickr.com/5773/23224954022_9ea2a45c16_b.jpg",
       "https://live.staticflickr.com/65535/55471887878_cfa16bf1c0_b.jpg",
-      "https://live.staticflickr.com/65535/55471712472_feb9e07eb3_b.jpg",
-      "https://live.staticflickr.com/65535/16509855210_4a0a8c1218_b.jpg"
+      "https://live.staticflickr.com/65535/55471712472_feb9e07eb3_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55489667045_0b76cc9588_b.jpg",
       "https://live.staticflickr.com/65535/55489193188_523212f741_b.jpg",
       "https://live.staticflickr.com/65535/55487970087_9a784003ea_b.jpg",
       "https://live.staticflickr.com/65535/55487854042_b7302949d0_b.jpg",
@@ -1338,12 +1291,11 @@
       "https://live.staticflickr.com/65535/55488193459_3cb4aaa5dd_b.jpg",
       "https://live.staticflickr.com/65535/55488053489_8834d68458_b.jpg",
       "https://live.staticflickr.com/65535/55486780417_67acebeb5f_b.jpg",
-      "https://live.staticflickr.com/65535/55486545497_6ec3a02bd1_b.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/3/3f/NYC_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg"
+      "https://live.staticflickr.com/65535/55486545497_6ec3a02bd1_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
+      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
