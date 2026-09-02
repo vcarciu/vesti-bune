@@ -1,54 +1,90 @@
 {
-  "generated_utc": "2026-09-02T06:34:54+00:00",
+  "generated_utc": "2026-09-02T11:50:27+00:00",
   "sections": {
     "romania": [
       {
         "section": "romania",
         "kind": "ro",
         "source": "HotNews",
-        "title": "Comenzile inexplicabile de cărți trezesc suspiciuni în încă o țară importantă: „Părea că nu exista nicio logică sau vreun motiv clar”",
-        "summary": "Vânzătorii de cărți second-hand din Canada încearcă să găsească o modalitate de a gestiona comenzile în cantități mari, pe măsură ce cresc suspiciunile că anumite companii de tehnologie cumpără cărțile lor vechi pentru a le scana în vederea antrenării modelelor de inteligență artificială, distrugându-le în timpul procesului. Îngrijorarea librarilor din Canada vine dintr-un proces intentat &#8230;",
-        "link": "https://hotnews.ro/comenzile-inexplicabile-de-carti-trezesc-suspiciuni-in-inca-o-tara-importanta-parea-ca-nu-exista-nicio-logica-sau-vreun-motiv-clar-2338443",
-        "published_utc": "2026-09-02T05:06:55+00:00",
+        "title": "Rețeaua REMAX, cu sute de agenți imobiliari în România, cumpărată de o platformă tech de brokeraj. Prețul de achiziție",
+        "summary": "Rețeaua internațională de agenții imobiliare REMAX, care lucrează cu sute de agenți în România, a fost cumpărată de o platformă americană de brokeraj tehnologizat, la o valoare de 880 de milioane de dolari, potrivit unui comunicat transmis, miercuri, comunității antreprenoriale StartupCafe.&#160; Citește mai departe pe StartupCafe… Foto: : © Santiaga &#124; Dreamstime.com",
+        "link": "https://hotnews.ro/reteaua-remax-cu-sute-de-agenti-imobiliari-in-romania-cumparata-de-o-platforma-tech-de-brokeraj-pretul-de-achizitie-2339345",
+        "published_utc": "2026-09-02T11:46:01+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-0972c79c688de314/480/320"
+        "image": "https://picsum.photos/seed/vb-5f51d2d17a4a4069/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Aproape 3.300 de imobile vor fi expropriate pentru Drumul Expres Focşani-Brăila. Despăgubiri de 35,9 milioane de lei",
+        "summary": "Compania Naţională de Investiţii Rutiere a emis decizia de expropriere pentru imobilele proprietate privată situate pe traseul Drumului Expres Focşani-Brăila, judeţele Vrancea şi Brăila. Este cel mai lung tronson de drum de mare viteză care va fi construit în cadrul unui singur contract.",
+        "link": "https://www.digi24.ro/stiri/actualitate/aproape-3-300-de-imobile-vor-fi-expropriate-pentru-drumul-expres-focsani-braila-despagubiri-de-359-milioane-de-lei-3932111",
+        "published_utc": "2026-09-02T11:27:07+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjQl/MkYxMSUyRjEzJTJGMjEyNjg1MV8yMTI2/ODUxX0lEMTk0NDM2X0lOUVVBTV9QaG90/b3NfQm9nZGFuX0RhbmVzY3UuanBnJmhh/c2g9ZmVmMzdhYzczYTY1M2Q1MDIyMWNhOGNlYjg4ZDIyMzM=.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Examenul suplimentar de admitere la liceu, eliminat de Comisia de învățământ din Senat. Profesor: „Era singura decizie decentă”",
+        "summary": "Comisia pentru învăţământ a Senatului a decis, miercuri, eliminarea prevederii privind examenul suplimentar de admitere la liceu, proiectul adoptat în acest sens urmând să intre în dezbaterea plenului, care este for decizional.",
+        "link": "https://www.digi24.ro/stiri/actualitate/educatie/examenul-suplimentar-de-admitere-la-liceu-eliminat-de-comisia-de-invatamant-a-senatului-proiectul-merge-la-vot-in-plen-3931913",
+        "published_utc": "2026-09-02T10:12:05+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjEl/MkYwNyUyRjI0JTJGMTM1OTc1MF8xMzU5/NzUwX3JlenVsdGF0ZS1hZG1pdGVyZS1s/aWNldS0yMDIxLmpwZyZoYXNoPTBiZDcy/M2IxZWZlOTQ2NjVmYWY0ZDVhNDE2MTJkNmU3.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Proiectul care limitează mandatele șefilor serviciilor secrete ar putea ajunge în plenul Senatului după 15 septembrie",
+        "summary": "Biroul permanent al Senatului a stabilit miercuri termenul de 15 septembrie pentru acordarea avizelor și întocmirea raportului asupra proiectului USR care limitează mandatele șefilor serviciilor secrete. Inițiativa ar urma să ajungă în plen imediat după această dată și, dacă va fi adoptată, se va aplica inclusiv actualului șef al SPP, Lucian Pahonțu.",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/proiectul-care-limiteaza-mandatele-sefilor-serviciilor-secrete-ar-putea-ajunge-in-plenul-senatului-dupa-15-septembrie-3931933",
+        "published_utc": "2026-09-02T09:52:34+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMiUyRjA5JTJGMjU4NDA0MV8yNTg0/MDQxX0lEMzMyMzIyX0lOUVVBTV9QaG90/b3NfR2VvcmdlX0NhbGluLmpwZyZoYXNo/PWI5MTYzMjg5ZjM0ZTJiNmMxNzQzMGNmNGMwMWE3YzZl.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Începe Festivalul Internațional de Film de la Veneția. Filmul românesc prezent la unul dintre marile evenimente cinematografice ale anului",
+        "summary": "Cea de-a 83-a ediție a Festivalului de Film de la Veneția va debuta miercuri cu acordarea unui premiu pentru întreaga carieră actorului George Clooney și cu o listă de participanți ce include unele dintre cele mai mari nume din lumea cinematografiei, relatează agenția de presă DPA, citată de Agerpres. România va fi reprezentată cu un &#8230;",
+        "link": "https://hotnews.ro/incepe-festivalul-international-de-film-de-la-venetia-filmul-romanesc-prezent-la-unul-dintre-marile-evenimente-cinematografice-ale-anului-2339163",
+        "published_utc": "2026-09-02T09:43:57+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-5ca60cf94578859f/480/320"
       },
       {
         "section": "romania",
         "kind": "ro",
         "source": "Start-Up Romania",
-        "title": "Rayscape, 2 mil. de euro cofinanțare europeană pentru AI de analiză a tomografiilor oncologice",
-        "summary": "Edgefront Technologies, companie parte din același grup cu Rayscape, a semnat contractul de finanțare cu Ministerul Investițiilor și Proiectelor Europene, în calitate de Autoritate de Management...",
-        "link": "https://start-up.ro/rayscape-2-mil-de-euro-cofinantare-europeana-pentru-ai-de-analiza-a-tomografiilor-oncologice",
-        "published_utc": "2026-09-02T05:05:02+00:00",
+        "title": "Heinner by NOD marchează 15 ani pe piață: afaceri de 85 milioane euro în 2025",
+        "summary": "Heinner, brandul românesc de electrocasnice dezvoltat de Network One Distribution, aniversează 15 ani pe piață și anunță extinderea în mai multe țări din Europa de Vest printr-un hub logistic...",
+        "link": "https://start-up.ro/heinner-by-nod-marcheaza-15-ani-pe-piata-afaceri-de-85-milioane-euro-in-2025",
+        "published_utc": "2026-09-02T07:37:43+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://start-up.ro/img/articles/3/8/9/38916/cover-38916-src.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Start-Up Romania",
-        "title": "Proo.ro vrea să reducă programările ratate din clinicile medicale. Startup-ul caută o finanțare de 200.000 de euro",
-        "summary": "Proo.ro, o platformă românească prin care clinicile își pot automatiza programările și o parte din relația cu pacienții, a fost dezvoltată de Iustin Costea, un antreprenor de 20 de ani, și Adrian,...",
-        "link": "https://start-up.ro/proo-ro-vrea-sa-reduca-programarile-ratate-din-clinicile-medicale-startup-ul-cauta-o-finantare-de-200-000-de-euro",
-        "published_utc": "2026-09-02T05:00:02+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://start-up.ro/img/articles/3/8/9/38917/cover-38917-src.jpg"
+        "image": "https://start-up.ro/img/articles/3/8/9/38920/cover-38920-src.jpg"
       },
       {
         "section": "romania",
         "kind": "ro",
         "source": "Times New Roman (Satira)",
-        "title": "😂 Program amplu împotriva dronelor la Vaslui: în seara asta se fac toţi rachetă",
-        "summary": "Drona căzută în Vaslui a mobilizat exemplar absolut toți locuitorii județului. Bărbat sau femeie, bătrân sau copil, nimeni nu se dă în lături de la apărarea Vasluiului de pericolul tot mai mare al dronelor rusești. Și cum poți contracara mai bine dronele dacă nu cu rachetele? Așa că toți vasluienii și-au propus ca în seara [&#8230;] The post Program amplu împotriva dronelor la Vaslui: în seara asta se fac toţi rachetă appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/life-death/program-amplu-impotriva-dronelor-la-vaslui-in-seara-asta-se-fac-toti-racheta",
-        "published_utc": "2026-09-01T15:11:45+00:00",
+        "title": "😂 Fanul nr.1 al lui Trump! Nicuşor schimbă numele vârfului Moldoveanu în vârful Americanu",
+        "summary": "De când Google a schimbat numele Lacului Ontario în Lacul America, Nicușor Dan nu a mai avut somn. Noapte de noapte, președintele României și-a bătut capul cu o întrebare de maximă importanță pentru el: „Cum îi arăt eu domnului Trump cât de mult îl respect și apreciez?”. I-a luat multe zile lui Nicușor până să [&#8230;] The post Fanul nr.1 al lui Trump! Nicuşor schimbă numele vârfului Moldoveanu în vârful Americanu appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/politic/fanul-nr-1-al-lui-trump-nicusor-schimba-numele-varfului-moldoveanu-in-varful-americanu",
+        "published_utc": "2026-09-02T04:28:00+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2025/12/betivi_paharel_exterior.jpg"
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/09/nicusor_varfu_americanu.jpg"
       },
       {
         "section": "romania",
@@ -89,38 +125,26 @@
       {
         "section": "romania",
         "kind": "ro",
-        "source": "RomaniaPozitiva",
-        "title": "Sibiu Jazz Festival 2026 aduce cinci zile de jazz la Sibiu, între 2 și 6 septembrie",
-        "summary": "Sibiu Jazz Festival revine între 2 și 6 septembrie cu cea de-a 54-a ediție, continuând o tradiție care aduce împreună generații de iubitori ai jazzului. Ediția din acest an propune&#8230; Articolul Sibiu Jazz Festival 2026 aduce cinci zile de jazz la Sibiu, între 2 și 6 septembrie apare prima dată în Romania Pozitiva .",
-        "link": "https://www.romaniapozitiva.ro/cultura/sibiu-jazz-festival-2026-aduce-cinci-zile-de-jazz-la-sibiu-intre-2-si-6-septembrie",
-        "published_utc": "2026-09-01T14:07:11+00:00",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 O gelaterie de pe Victoriei a recunoscut că scoate îngheţata din vafe de un leu de la Mega şi o vinde cu 15 lei",
+        "summary": "E scandal pe Calea Victoriei! Geani Ştefănache, patronul unei gelaterii de fiţe din cea mai trendy zonă de promenadă a oraşului, tocmai a recunoscut că şi-a înşelat clienţii ani de zile, vânzând cu 15 lei cupa o îngheţată absolut banală pe care o scotea din vafe de un leu de la Mega. Acesta a încercat [&#8230;] The post O gelaterie de pe Victoriei a recunoscut că scoate îngheţata din vafe de un leu de la Mega şi o vinde cu 15 lei appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/monden/o-gelaterie-de-pe-victoriei-a-recunoscut-ca-scoate-inghetata-din-vafe-de-un-leu-de-la-mega-si-o-vinde-cu-15-lei",
+        "published_utc": "2026-09-01T12:32:44+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-fc2ee0b59fe92d20/480/320"
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/09/gelaterie.jpg"
       },
       {
         "section": "romania",
         "kind": "ro",
         "source": "Times New Roman (Satira)",
-        "title": "😂 NASA transmite cele mai clare imagini de pe Marte după ce un român i-a spălat parbrizul lui Curiosity",
-        "summary": "E un moment istoric în explorarea lumilor extraterestre: NASA a transmis astăzi cele mai clare imagini cu planeta Marte de până acum! Potrivit agenţiei spaţiale americane, imaginile de o limpezime fără precedent nu ar fi fost posibile fără Vlăduţ, un băiat de 33 de ani originar din Brăila, care s-a oferit să spele parbrizul roverului [&#8230;] The post NASA transmite cele mai clare imagini de pe Marte după ce un român i-a spălat parbrizul lui Curiosity appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/life-death/nasa-transmite-cele-mai-clare-imagini-de-pe-marte-dupa-ce-un-roman-i-a-spalat-parbrizul-lui-curiosity",
-        "published_utc": "2026-09-01T13:13:53+00:00",
+        "title": "😂 Starea vremurilor",
+        "summary": "The post Starea vremurilor appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/ovi/starea-vremurilor",
+        "published_utc": "2026-09-01T07:59:06+00:00",
         "score": 3,
-        "freshness_boost": 3,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/09/marteparbriz.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 Chiar iubim covrigii! În ultimii ani, zeci de mii de români şi-au botezat copilul Luca",
-        "summary": "Dintre toate popoarele est-europene, românii au cea mai mare pasiune pentru modestul covrig! O dovedesc statisticile: în perioada 2019-2026, peste 90.000 de conaţionali şi-au botezat copilul Luca. Mai mult, spun cei de la Evidenţa Populaţiei, şi alte nume de covrig vin rapid din urmă, de exemplu Petru, Matei sau Paul. &#8222;Acum şapte ani am decis [&#8230;] The post Chiar iubim covrigii! În ultimii ani, zeci de mii de români şi-au botezat copilul Luca appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/monden/chiar-iubim-covrigii-in-ultimii-ani-zeci-de-mii-de-romani-si-au-botezat-copilul-luca",
-        "published_utc": "2026-09-01T10:25:25+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/09/covrigluca.jpg"
+        "freshness_boost": 1,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/09/Starea-vremurilor-1.jpg"
       },
       {
         "section": "romania",
@@ -639,25 +663,85 @@
       "section": "romania",
       "kind": "ro",
       "source": "HotNews",
-      "title": "Comenzile inexplicabile de cărți trezesc suspiciuni în încă o țară importantă: „Părea că nu exista nicio logică sau vreun motiv clar”",
-      "summary": "Vânzătorii de cărți second-hand din Canada încearcă să găsească o modalitate de a gestiona comenzile în cantități mari, pe măsură ce cresc suspiciunile că anumite companii de tehnologie cumpără cărțile lor vechi pentru a le scana în vederea antrenării modelelor de inteligență artificială, distrugându-le în timpul procesului. Îngrijorarea librarilor din Canada vine dintr-un proces intentat &#8230;",
-      "link": "https://hotnews.ro/comenzile-inexplicabile-de-carti-trezesc-suspiciuni-in-inca-o-tara-importanta-parea-ca-nu-exista-nicio-logica-sau-vreun-motiv-clar-2338443",
-      "published_utc": "2026-09-02T05:06:55+00:00",
+      "title": "Rețeaua REMAX, cu sute de agenți imobiliari în România, cumpărată de o platformă tech de brokeraj. Prețul de achiziție",
+      "summary": "Rețeaua internațională de agenții imobiliare REMAX, care lucrează cu sute de agenți în România, a fost cumpărată de o platformă americană de brokeraj tehnologizat, la o valoare de 880 de milioane de dolari, potrivit unui comunicat transmis, miercuri, comunității antreprenoriale StartupCafe.&#160; Citește mai departe pe StartupCafe… Foto: : © Santiaga &#124; Dreamstime.com",
+      "link": "https://hotnews.ro/reteaua-remax-cu-sute-de-agenti-imobiliari-in-romania-cumparata-de-o-platforma-tech-de-brokeraj-pretul-de-achizitie-2339345",
+      "published_utc": "2026-09-02T11:46:01+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-0972c79c688de314/480/320"
+      "image": "https://picsum.photos/seed/vb-5f51d2d17a4a4069/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Aproape 3.300 de imobile vor fi expropriate pentru Drumul Expres Focşani-Brăila. Despăgubiri de 35,9 milioane de lei",
+      "summary": "Compania Naţională de Investiţii Rutiere a emis decizia de expropriere pentru imobilele proprietate privată situate pe traseul Drumului Expres Focşani-Brăila, judeţele Vrancea şi Brăila. Este cel mai lung tronson de drum de mare viteză care va fi construit în cadrul unui singur contract.",
+      "link": "https://www.digi24.ro/stiri/actualitate/aproape-3-300-de-imobile-vor-fi-expropriate-pentru-drumul-expres-focsani-braila-despagubiri-de-359-milioane-de-lei-3932111",
+      "published_utc": "2026-09-02T11:27:07+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjQl/MkYxMSUyRjEzJTJGMjEyNjg1MV8yMTI2/ODUxX0lEMTk0NDM2X0lOUVVBTV9QaG90/b3NfQm9nZGFuX0RhbmVzY3UuanBnJmhh/c2g9ZmVmMzdhYzczYTY1M2Q1MDIyMWNhOGNlYjg4ZDIyMzM=.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Examenul suplimentar de admitere la liceu, eliminat de Comisia de învățământ din Senat. Profesor: „Era singura decizie decentă”",
+      "summary": "Comisia pentru învăţământ a Senatului a decis, miercuri, eliminarea prevederii privind examenul suplimentar de admitere la liceu, proiectul adoptat în acest sens urmând să intre în dezbaterea plenului, care este for decizional.",
+      "link": "https://www.digi24.ro/stiri/actualitate/educatie/examenul-suplimentar-de-admitere-la-liceu-eliminat-de-comisia-de-invatamant-a-senatului-proiectul-merge-la-vot-in-plen-3931913",
+      "published_utc": "2026-09-02T10:12:05+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjEl/MkYwNyUyRjI0JTJGMTM1OTc1MF8xMzU5/NzUwX3JlenVsdGF0ZS1hZG1pdGVyZS1s/aWNldS0yMDIxLmpwZyZoYXNoPTBiZDcy/M2IxZWZlOTQ2NjVmYWY0ZDVhNDE2MTJkNmU3.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Proiectul care limitează mandatele șefilor serviciilor secrete ar putea ajunge în plenul Senatului după 15 septembrie",
+      "summary": "Biroul permanent al Senatului a stabilit miercuri termenul de 15 septembrie pentru acordarea avizelor și întocmirea raportului asupra proiectului USR care limitează mandatele șefilor serviciilor secrete. Inițiativa ar urma să ajungă în plen imediat după această dată și, dacă va fi adoptată, se va aplica inclusiv actualului șef al SPP, Lucian Pahonțu.",
+      "link": "https://www.digi24.ro/stiri/actualitate/politica/proiectul-care-limiteaza-mandatele-sefilor-serviciilor-secrete-ar-putea-ajunge-in-plenul-senatului-dupa-15-septembrie-3931933",
+      "published_utc": "2026-09-02T09:52:34+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMiUyRjA5JTJGMjU4NDA0MV8yNTg0/MDQxX0lEMzMyMzIyX0lOUVVBTV9QaG90/b3NfR2VvcmdlX0NhbGluLmpwZyZoYXNo/PWI5MTYzMjg5ZjM0ZTJiNmMxNzQzMGNmNGMwMWE3YzZl.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "Începe Festivalul Internațional de Film de la Veneția. Filmul românesc prezent la unul dintre marile evenimente cinematografice ale anului",
+      "summary": "Cea de-a 83-a ediție a Festivalului de Film de la Veneția va debuta miercuri cu acordarea unui premiu pentru întreaga carieră actorului George Clooney și cu o listă de participanți ce include unele dintre cele mai mari nume din lumea cinematografiei, relatează agenția de presă DPA, citată de Agerpres. România va fi reprezentată cu un &#8230;",
+      "link": "https://hotnews.ro/incepe-festivalul-international-de-film-de-la-venetia-filmul-romanesc-prezent-la-unul-dintre-marile-evenimente-cinematografice-ale-anului-2339163",
+      "published_utc": "2026-09-02T09:43:57+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-5ca60cf94578859f/480/320"
     },
     {
       "section": "romania",
       "kind": "ro",
       "source": "Start-Up Romania",
-      "title": "Rayscape, 2 mil. de euro cofinanțare europeană pentru AI de analiză a tomografiilor oncologice",
-      "summary": "Edgefront Technologies, companie parte din același grup cu Rayscape, a semnat contractul de finanțare cu Ministerul Investițiilor și Proiectelor Europene, în calitate de Autoritate de Management...",
-      "link": "https://start-up.ro/rayscape-2-mil-de-euro-cofinantare-europeana-pentru-ai-de-analiza-a-tomografiilor-oncologice",
-      "published_utc": "2026-09-02T05:05:02+00:00",
+      "title": "Heinner by NOD marchează 15 ani pe piață: afaceri de 85 milioane euro în 2025",
+      "summary": "Heinner, brandul românesc de electrocasnice dezvoltat de Network One Distribution, aniversează 15 ani pe piață și anunță extinderea în mai multe țări din Europa de Vest printr-un hub logistic...",
+      "link": "https://start-up.ro/heinner-by-nod-marcheaza-15-ani-pe-piata-afaceri-de-85-milioane-euro-in-2025",
+      "published_utc": "2026-09-02T07:37:43+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://start-up.ro/img/articles/3/8/9/38916/cover-38916-src.jpg"
+      "image": "https://start-up.ro/img/articles/3/8/9/38920/cover-38920-src.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Fanul nr.1 al lui Trump! Nicuşor schimbă numele vârfului Moldoveanu în vârful Americanu",
+      "summary": "De când Google a schimbat numele Lacului Ontario în Lacul America, Nicușor Dan nu a mai avut somn. Noapte de noapte, președintele României și-a bătut capul cu o întrebare de maximă importanță pentru el: „Cum îi arăt eu domnului Trump cât de mult îl respect și apreciez?”. I-a luat multe zile lui Nicușor până să [&#8230;] The post Fanul nr.1 al lui Trump! Nicuşor schimbă numele vârfului Moldoveanu în vârful Americanu appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/politic/fanul-nr-1-al-lui-trump-nicusor-schimba-numele-varfului-moldoveanu-in-varful-americanu",
+      "published_utc": "2026-09-02T04:28:00+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/09/nicusor_varfu_americanu.jpg"
     },
     {
       "section": "romania",
@@ -686,6 +770,18 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 O gelaterie de pe Victoriei a recunoscut că scoate îngheţata din vafe de un leu de la Mega şi o vinde cu 15 lei",
+      "summary": "E scandal pe Calea Victoriei! Geani Ştefănache, patronul unei gelaterii de fiţe din cea mai trendy zonă de promenadă a oraşului, tocmai a recunoscut că şi-a înşelat clienţii ani de zile, vânzând cu 15 lei cupa o îngheţată absolut banală pe care o scotea din vafe de un leu de la Mega. Acesta a încercat [&#8230;] The post O gelaterie de pe Victoriei a recunoscut că scoate îngheţata din vafe de un leu de la Mega şi o vinde cu 15 lei appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/monden/o-gelaterie-de-pe-victoriei-a-recunoscut-ca-scoate-inghetata-din-vafe-de-un-leu-de-la-mega-si-o-vinde-cu-15-lei",
+      "published_utc": "2026-09-01T12:32:44+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/09/gelaterie.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "Lilly și Fundația Dr. Max lansează împreună o nouă ediție a Caravanei pentru Grijă și oferă sesiuni gratuite de evaluare și consiliere în managementul obezității",
       "summary": "*În perioada 1 septembrie – 9 octombrie, Caravana va ajunge în 10 orașe din toată țara și sunt așteptați peste șapte mii de vizitatori București – 1 septembrie 2026: Eli&#8230; Articolul Lilly și Fundația Dr. Max lansează împreună o nouă ediție a Caravanei pentru Grijă și oferă sesiuni gratuite de evaluare și consiliere în managementul obezității apare prima dată în Romania Pozitiva .",
@@ -698,62 +794,14 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "Sibiu Jazz Festival 2026 aduce cinci zile de jazz la Sibiu, între 2 și 6 septembrie",
-      "summary": "Sibiu Jazz Festival revine între 2 și 6 septembrie cu cea de-a 54-a ediție, continuând o tradiție care aduce împreună generații de iubitori ai jazzului. Ediția din acest an propune&#8230; Articolul Sibiu Jazz Festival 2026 aduce cinci zile de jazz la Sibiu, între 2 și 6 septembrie apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/cultura/sibiu-jazz-festival-2026-aduce-cinci-zile-de-jazz-la-sibiu-intre-2-si-6-septembrie",
-      "published_utc": "2026-09-01T14:07:11+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-fc2ee0b59fe92d20/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 NASA transmite cele mai clare imagini de pe Marte după ce un român i-a spălat parbrizul lui Curiosity",
-      "summary": "E un moment istoric în explorarea lumilor extraterestre: NASA a transmis astăzi cele mai clare imagini cu planeta Marte de până acum! Potrivit agenţiei spaţiale americane, imaginile de o limpezime fără precedent nu ar fi fost posibile fără Vlăduţ, un băiat de 33 de ani originar din Brăila, care s-a oferit să spele parbrizul roverului [&#8230;] The post NASA transmite cele mai clare imagini de pe Marte după ce un român i-a spălat parbrizul lui Curiosity appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/nasa-transmite-cele-mai-clare-imagini-de-pe-marte-dupa-ce-un-roman-i-a-spalat-parbrizul-lui-curiosity",
-      "published_utc": "2026-09-01T13:13:53+00:00",
+      "title": "😂 Starea vremurilor",
+      "summary": "The post Starea vremurilor appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/ovi/starea-vremurilor",
+      "published_utc": "2026-09-01T07:59:06+00:00",
       "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/09/marteparbriz.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Chiar iubim covrigii! În ultimii ani, zeci de mii de români şi-au botezat copilul Luca",
-      "summary": "Dintre toate popoarele est-europene, românii au cea mai mare pasiune pentru modestul covrig! O dovedesc statisticile: în perioada 2019-2026, peste 90.000 de conaţionali şi-au botezat copilul Luca. Mai mult, spun cei de la Evidenţa Populaţiei, şi alte nume de covrig vin rapid din urmă, de exemplu Petru, Matei sau Paul. &#8222;Acum şapte ani am decis [&#8230;] The post Chiar iubim covrigii! În ultimii ani, zeci de mii de români şi-au botezat copilul Luca appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/monden/chiar-iubim-covrigii-in-ultimii-ani-zeci-de-mii-de-romani-si-au-botezat-copilul-luca",
-      "published_utc": "2026-09-01T10:25:25+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/09/covrigluca.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Program amplu împotriva dronelor la Vaslui: în seara asta se fac toţi rachetă",
-      "summary": "Drona căzută în Vaslui a mobilizat exemplar absolut toți locuitorii județului. Bărbat sau femeie, bătrân sau copil, nimeni nu se dă în lături de la apărarea Vasluiului de pericolul tot mai mare al dronelor rusești. Și cum poți contracara mai bine dronele dacă nu cu rachetele? Așa că toți vasluienii și-au propus ca în seara [&#8230;] The post Program amplu împotriva dronelor la Vaslui: în seara asta se fac toţi rachetă appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/program-amplu-impotriva-dronelor-la-vaslui-in-seara-asta-se-fac-toti-racheta",
-      "published_utc": "2026-09-01T15:11:45+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2025/12/betivi_paharel_exterior.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Start-Up Romania",
-      "title": "Proo.ro vrea să reducă programările ratate din clinicile medicale. Startup-ul caută o finanțare de 200.000 de euro",
-      "summary": "Proo.ro, o platformă românească prin care clinicile își pot automatiza programările și o parte din relația cu pacienții, a fost dezvoltată de Iustin Costea, un antreprenor de 20 de ani, și Adrian,...",
-      "link": "https://start-up.ro/proo-ro-vrea-sa-reduca-programarile-ratate-din-clinicile-medicale-startup-ul-cauta-o-finantare-de-200-000-de-euro",
-      "published_utc": "2026-09-02T05:00:02+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://start-up.ro/img/articles/3/8/9/38917/cover-38917-src.jpg"
+      "freshness_boost": 1,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/09/Starea-vremurilor-1.jpg"
     },
     {
       "section": "romania",
@@ -804,6 +852,18 @@
       "image": "https://picsum.photos/seed/vb-8dbf1fa14fbad960/480/320"
     },
     {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "Radiology pipeline expanding slower than medicine as a whole",
+      "summary": "Demand for medical imaging in the U.S. keeps rising, but the number of radiologists available to read those images has barely budged relative to the population, according to a study published in the Journal of the American College of Radiology.",
+      "link": "https://medicalxpress.com/news/2026-09-radiology-pipeline-slower-medicine.html",
+      "published_utc": "2026-09-01T23:20:05+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/radiology-1.jpg"
+    },
+    {
       "section": "romania",
       "kind": "ro",
       "source": "World Vision Romania",
@@ -828,16 +888,16 @@
       "image": "https://picsum.photos/seed/vb-9e910caffe28ea93/480/320"
     },
     {
-      "section": "medical",
+      "section": "science",
       "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Radiology pipeline expanding slower than medicine as a whole",
-      "summary": "Demand for medical imaging in the U.S. keeps rising, but the number of radiologists available to read those images has barely budged relative to the population, according to a study published in the Journal of the American College of Radiology.",
-      "link": "https://medicalxpress.com/news/2026-09-radiology-pipeline-slower-medicine.html",
-      "published_utc": "2026-09-01T23:20:05+00:00",
-      "score": 1,
+      "source": "Phys.org",
+      "title": "Single amino acid swap expands nanoparticle vaccine approach to influenza viruses",
+      "summary": "Influenza viruses constantly shapeshift to evade recognition by the immune system. This shapeshifting occurs in critical proteins like hemagglutinin (HA), which controls how the virus attaches to human cells before entering them. Influenza viruses can evade immunity in two major ways: through the gradual accumulation of mutations that make HA harder for the immune system to recognize or through reassortment events that can introduce substantially different viral proteins and potentially lead to flu pandemics. To address this challenge, seasonal flu vaccines remain the primary approach because they can be developed to target the flu viruses circulating most predominantly in a given season.",
+      "link": "https://phys.org/news/2026-09-amino-acid-swap-nanoparticle-vaccine.html",
+      "published_utc": "2026-09-01T23:20:04+00:00",
+      "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/radiology-1.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-design-strategy-ex.jpg"
     },
     {
       "section": "romania",
@@ -862,18 +922,6 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-66ff4de0f241b638/480/320"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Single amino acid swap expands nanoparticle vaccine approach to influenza viruses",
-      "summary": "Influenza viruses constantly shapeshift to evade recognition by the immune system. This shapeshifting occurs in critical proteins like hemagglutinin (HA), which controls how the virus attaches to human cells before entering them. Influenza viruses can evade immunity in two major ways: through the gradual accumulation of mutations that make HA harder for the immune system to recognize or through reassortment events that can introduce substantially different viral proteins and potentially lead to flu pandemics. To address this challenge, seasonal flu vaccines remain the primary approach because they can be developed to target the flu viruses circulating most predominantly in a given season.",
-      "link": "https://phys.org/news/2026-09-amino-acid-swap-nanoparticle-vaccine.html",
-      "published_utc": "2026-09-01T23:20:04+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-design-strategy-ex.jpg"
     },
     {
       "section": "science",
@@ -1266,8 +1314,8 @@
     "source": "data/jokes_ro.txt"
   },
   "satire_ro": {
-    "title": "Fanul nr.1 al lui Trump! Nicuşor schimbă numele vârfului Moldoveanu în vârful Americanu",
-    "link": "https://www.timesnewroman.ro/politic/fanul-nr-1-al-lui-trump-nicusor-schimba-numele-varfului-moldoveanu-in-varful-americanu/",
+    "title": "Angela Merkel, reîntâlnire emoţionantă în România cu maşina pe care a vândut-o acum 15 ani",
+    "link": "https://www.timesnewroman.ro/life-death/angela-merkel-reintalnire-emotionanta-in-romania-cu-masina-pe-care-a-vandut-o-acum-15-ani/",
     "source": "timesnewroman.ro"
   },
   "top_images": [
@@ -1352,6 +1400,7 @@
       "https://live.staticflickr.com/65535/55485202390_a012a4dca0_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/55486116267_a4e3880737_b.jpg",
       "https://live.staticflickr.com/65535/55495126336_cdf3bb4e2b_b.jpg",
       "https://live.staticflickr.com/65535/55492999258_8019aa4151_b.jpg",
       "https://live.staticflickr.com/65535/23847800148_b17b2c78dc_b.jpg",
@@ -1368,10 +1417,10 @@
       "https://live.staticflickr.com/65535/55493958356_ae504b2469_b.jpg",
       "https://live.staticflickr.com/65535/55477137174_d648866697_b.jpg",
       "https://live.staticflickr.com/65535/8333039739_32b75b0505_b.jpg",
-      "https://live.staticflickr.com/65535/55484572023_9fb1956898_b.jpg",
-      "https://live.staticflickr.com/65535/16509083707_cb072c417b_b.jpg"
+      "https://live.staticflickr.com/65535/55484572023_9fb1956898_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55504197970_5b7e445f88_b.jpg",
       "https://live.staticflickr.com/65535/55503879110_0728780ac6_b.jpg",
       "https://live.staticflickr.com/65535/55502095262_c2491d8685_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/3/3f/NYC_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg",
@@ -1388,12 +1437,11 @@
       "https://live.staticflickr.com/65535/55498466080_569d02a584_b.jpg",
       "https://live.staticflickr.com/65535/55497611463_34bc1d14d3_b.jpg",
       "https://live.staticflickr.com/65535/55497443995_afb49831f6_b.jpg",
-      "https://live.staticflickr.com/65535/55496769939_f32dba1a81_b.jpg",
-      "https://live.staticflickr.com/65535/55496055915_8db19484d7_b.jpg"
+      "https://live.staticflickr.com/65535/55496769939_f32dba1a81_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
+      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
