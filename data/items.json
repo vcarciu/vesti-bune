@@ -1,7 +1,31 @@
 {
-  "generated_utc": "2026-09-05T13:44:35+00:00",
+  "generated_utc": "2026-09-05T16:23:19+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "RomaniaPozitiva",
+        "title": "Horațiu Mălăele, Maia Morgenstern, Marius Manole și Medeea Marinescu, pe scenele din București, Craiova și Brașov, în septembrie",
+        "summary": "Patru spectacole cu nume mari ale teatrului românesc ajung, în septembrie, pe scenele din București, Craiova și Brașov, sub semnătura ProTicket. În program se regăsesc comedia „Ziua mea norocoasă”, nominalizată&#8230; Articolul Horațiu Mălăele, Maia Morgenstern, Marius Manole și Medeea Marinescu, pe scenele din București, Craiova și Brașov, în septembrie apare prima dată în Romania Pozitiva .",
+        "link": "https://www.romaniapozitiva.ro/cultura/horatiu-malaele-maia-morgenstern-marius-manole-si-medeea-marinescu-pe-scenele-din-bucuresti-craiova-si-brasov-in-septembrie",
+        "published_utc": "2026-09-05T15:34:54+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-0546200af0fc80a5/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "RomaniaPozitiva",
+        "title": "Cutia Bebelușului ajunge la 10.000 de mame și nou-născuții lor, în ediția a IV-a a programului",
+        "summary": "10.000 de mame și nou-născuții lor vor primi Cutia Bebelușului. Investiție de 5 milioane de euro în cea de-a patra ediție. Fundația OMV Petrom alocă 5 milioane de euro pentru&#8230; Articolul Cutia Bebelușului ajunge la 10.000 de mame și nou-născuții lor, în ediția a IV-a a programului apare prima dată în Romania Pozitiva .",
+        "link": "https://www.romaniapozitiva.ro/csr/cutia-bebelusului-ajunge-la-10-000-de-mame-si-nou-nascutii-lor-in-editia-a-iv-a-a-programului",
+        "published_utc": "2026-09-05T14:02:01+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-507161290b9b1523/480/320"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -100,14 +124,14 @@
       {
         "section": "romania",
         "kind": "ro",
-        "source": "RomaniaPozitiva",
-        "title": "Urban Playfield aduce jocul și mișcarea în București, în primul weekend din septembrie!",
-        "summary": "Antrenamente și demonstrații sportive, dans și un moment special cu Gașca Zurli, în parcul IOR Urban Playfield, festivalul sporturilor luate în joacă, ajunge în capitală în weekendul 5–6 septembrie. Timp&#8230; Articolul Urban Playfield aduce jocul și mișcarea în București, în primul weekend din septembrie! apare prima dată în Romania Pozitiva .",
-        "link": "https://www.romaniapozitiva.ro/bucuresti/urban-playfield-aduce-jocul-si-miscarea-in-bucuresti-in-primul-weekend-din-septembrie-2",
-        "published_utc": "2026-09-05T06:19:38+00:00",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 Trump a schimbat numele Coca Cola în American Cola și acum trebuie să dea 500 de miliarde de dolari fraților Micula",
+        "summary": "În campania sa continuă de schimbare a denumirilor simbolurilor americane Donald Trump a anunțat redenumirea Coca-Cola în American Cola, după care a descoperit că marca aparține deja fraților Micula, proprietarii European Drinks. Casa Albă a fost informată că schimbarea de nume constituie folosire neautorizată și atrage o despăgubire de 500 de miliarde de dolari. Potrivit [&#8230;] The post Trump a schimbat numele Coca Cola în American Cola și acum trebuie să dea 500 de miliarde de dolari fraților Micula appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/politic/trump-a-schimbat-numele-coca-cola-in-american-cola-si-acum-trebuie-sa-dea-500-de-miliarde-de-dolari-fratilor-micula",
+        "published_utc": "2026-09-04T14:30:00+00:00",
         "score": 3,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-e900da44886ca63a/480/320"
+        "freshness_boost": 1,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/09/trump-dator-la-fratii-micula.jpg"
       },
       {
         "section": "romania",
@@ -120,18 +144,6 @@
         "score": 3,
         "freshness_boost": 1,
         "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/09/foodingura.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 Tot ciobanul",
-        "summary": "The post Tot ciobanul appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/ovi/tot-ciobanul",
-        "published_utc": "2026-09-03T08:00:00+00:00",
-        "score": 3,
-        "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/09/Tot-ciobanul.jpg"
       },
       {
         "section": "romania",
@@ -247,157 +259,121 @@
         "section": "medical",
         "kind": "global",
         "source": "Medical Xpress",
-        "title": "Early mitochondrial stress reveals potential mechanism for lasting heart protection",
-        "summary": "Mitochondria are popularly known as the \"powerhouse of the cell,\" but these cellular structures do much more—including acting as signaling hubs. Some signals that mitochondria send can reprogram the activity of the entire cell by switching \"on\" or \"off\" different genes through epigenetic changes. Mitochondria's signals can be so effective that, in yeast, fruit flies and worms, mild stress in mitochondria early in life can make the entire organism more resilient and live longer through a process called mitohormesis.",
-        "link": "https://medicalxpress.com/news/2026-09-early-mitochondrial-stress-reveals-potential.html",
-        "published_utc": "2026-09-04T18:00:06+00:00",
-        "score": 2,
+        "title": "Study identifies key driver of inflammation, opening door to potential new treatments",
+        "summary": "Researchers at Johns Hopkins Medicine have uncovered a critical biological mechanism that helps explain how inflammation is triggered and sustained in a wide range of diseases—highlighting a promising avenue for future therapeutic development.",
+        "link": "https://medicalxpress.com/news/2026-09-key-driver-inflammation-door-potential.html",
+        "published_utc": "2026-09-05T15:40:01+00:00",
+        "score": 5,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-can-stressed-mitoc.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/lung-inflammation.jpg"
       },
       {
         "section": "medical",
         "kind": "global",
         "source": "Medical Xpress",
-        "title": "Energy-hungry tissues expand cleanup crews to clear worn-out mitochondria",
-        "summary": "The body's heart muscle (for pumping blood), skeletal muscle (for movement and posture) and brown fat (for heat production) each require a lot of energy and make a lot of waste. That waste needs to be managed.",
-        "link": "https://medicalxpress.com/news/2026-09-energy-hungry-tissues-cleanup-crews.html",
-        "published_utc": "2026-09-04T18:00:05+00:00",
-        "score": 2,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/body-tissue.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Rethinking radiotherapy may boost immunotherapy for pancreatic cancer",
-        "summary": "Pancreatic cancer remains one of the most aggressive malignancies, with a particularly poor prognosis even when diagnosed at a localized stage. In a paper published in Nature Reviews Gastroenterology & Hepatology, researchers from GIGA and Liège University Hospital, together with colleagues from Gustave Roussy (Paris, France) and Fox Chase Cancer Center (Philadelphia, U.S.), propose a new therapeutic perspective: viewing radiotherapy not merely as a treatment that destroys cancer cells but as a tool capable of stimulating the immune system and enhancing the efficacy of immunotherapy.",
-        "link": "https://medicalxpress.com/news/2026-09-rethinking-radiotherapy-boost-immunotherapy-pancreatic.html",
-        "published_utc": "2026-09-04T17:40:01+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rethinking-radiotherap.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "CRISPR gene-editing therapy safely and continuously lowers cholesterol and triglycerides, first-in-human trial shows",
-        "summary": "A Cleveland Clinic first-in-human clinical trial has shown that a one-time infusion of a gene-editing therapy using CRISPR-Cas9 was effective and safe in reducing LDL (\"bad\") cholesterol and triglycerides in people with medication-resistant lipid disorders through one year of follow-up across all doses.",
-        "link": "https://medicalxpress.com/news/2026-09-crispr-gene-therapy-safely-lowers.html",
-        "published_utc": "2026-09-04T17:20:02+00:00",
-        "score": 4,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cleveland-clinic-first.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "New blood biomarkers reveal how common muscular dystrophy treatment may impair overall growth",
-        "summary": "In a study published in Scientific Reports, an international, multidisciplinary research team that included Binghamton University researchers identified a set of blood proteins that may explain why the corticosteroid prednisone, although beneficial in treating Duchenne muscular dystrophy (DMD), can interfere with childhood growth and bone health.",
-        "link": "https://medicalxpress.com/news/2026-09-blood-biomarkers-reveal-common-muscular.html",
-        "published_utc": "2026-09-04T17:00:03+00:00",
-        "score": 2,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-blood-biomarkers-r.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Gut-derived bacterial molecule may drive severe liver disease",
-        "summary": "Researchers at the University of Oslo and Oslo University Hospital, together with international collaborators, have discovered that a small molecule made exclusively by gut bacteria can actively drive disease in the bile ducts and worsen primary sclerosing cholangitis (PSC), a serious liver and bile duct disease.",
-        "link": "https://medicalxpress.com/news/2026-09-gut-derived-bacterial-molecule-severe.html",
-        "published_utc": "2026-09-04T16:40:03+00:00",
-        "score": 2,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/intestinal-flora.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Study finds liposuction reduces lipedema pain more than conservative treatment",
-        "summary": "A study titled \"Liposuction versus conservative therapy for patients with lipoedema: A randomized controlled multi-center clinical trial\" published in The Lancet, provides the first large-scale, multicenter evidence base for the surgical treatment of lipedema.",
-        "link": "https://medicalxpress.com/news/2026-09-liposuction-lipedema-pain-treatment.html",
-        "published_utc": "2026-09-04T16:00:03+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/surgeon.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "AI may help identify breast cancers missed by mammograms, but clinical benefit remains uncertain",
-        "summary": "Artificial intelligence may help radiologists identify subtle signs of breast cancers that are missed during routine mammograms, and some AI systems may even identify patterns associated with an increased risk of cancer before it becomes visible on a mammogram, but there are still many significant limitations, according to a review led by investigators at the UCLA Health Jonsson Comprehensive Cancer Center.",
-        "link": "https://medicalxpress.com/news/2026-09-ai-breast-cancers-mammograms-clinical.html",
-        "published_utc": "2026-09-04T15:40:08+00:00",
+        "title": "Evidence points to yogurt as a nutrient-dense part of healthy diets",
+        "summary": "People have been making health claims about yogurt for hundreds of years.",
+        "link": "https://medicalxpress.com/news/2026-09-evidence-yogurt-nutrient-dense-healthy.html",
+        "published_utc": "2026-09-05T15:00:02+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-may-help-identify-b-1.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/greek-yogurt.jpg"
       },
       {
         "section": "medical",
         "kind": "global",
         "source": "ScienceDaily Health",
-        "title": "Common supplements rival antibiotics for severe gum disease",
-        "summary": "Omega-3 and low-dose aspirin matched the effectiveness of antibiotics in a year-long study of patients with severe gum disease, with both approaches helping about 58% reach the treatment goal. The unexpected result could point to a new way to treat some patients while reducing reliance on antibiotics and the growing problem of antibiotic resistance.",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260829035216.htm",
-        "published_utc": "2026-08-30T14:35:22+00:00",
+        "title": "Popular sweeteners may leave effects that last for generations",
+        "summary": "Two widely used zero-calorie sweeteners, sucralose and stevia, may have effects that linger far longer than the sweet taste itself. In mice, researchers found that both sweeteners altered the gut microbiome, reduced beneficial compounds produced by gut bacteria, and changed the activity of genes involved in metabolism and inflammation. Some of those changes were also detected in later generations that had never consumed the sweeteners themselves.",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260830000019.htm",
+        "published_utc": "2026-08-31T14:04:01+00:00",
+        "score": 1,
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-fc445f49201e5cad/480/320"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "Scientists challenge a 70-year-old “lizard brain” myth",
+        "summary": "A long-standing picture of brain evolution as newer, rational layers stacked on top of an ancient “lizard brain” may be deeply misleading. Researchers found that evolution instead appears to balance two competing styles of brain wiring, expanding one while shrinking the other depending on what an animal needs to survive.",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260829235958.htm",
+        "published_utc": "2026-08-31T12:53:45+00:00",
+        "score": 1,
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-1de6285b49b3d922/480/320"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "Scientists find why the liver may not heal even after you stop drinking",
+        "summary": "Alcohol-related liver disease may trap damaged liver cells in a regenerative limbo, preventing the organ from rebuilding itself even after drinking stops. Researchers linked the problem to inflammation-driven RNA errors and identified a pathway that could potentially be targeted to restore liver repair.",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260831015205.htm",
+        "published_utc": "2026-08-31T10:43:38+00:00",
+        "score": 0,
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-161f36e0db64a796/480/320"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "Positive News",
+        "title": "The unlikely rise of the sea shanty band",
+        "summary": "TikTok turned sea shanties into an online craze, but these old working songs are doing more than just filling social feeds The post The unlikely rise of the sea shanty band appeared first on Positive News .",
+        "link": "https://www.positive.news/lifestyle/the-unlikely-rise-of-the-sea-shanty-band",
+        "published_utc": "2026-08-31T09:47:10+00:00",
+        "score": 0,
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-1263fb246371fe49/480/320"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "Scientists may have found a shortcut to calorie restriction’s anti-aging benefits",
+        "summary": "Moderate calorie restriction lowered an immune protein called C3 that appears to help drive chronic inflammation as the body ages. Blocking the same protein reduced age related inflammation in mice, raising the possibility that future treatments could mimic some benefits of calorie restriction without severe dieting.",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260826055508.htm",
+        "published_utc": "2026-08-26T13:00:53+00:00",
+        "score": 0,
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-f0969854e1999d81/480/320"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "Turmeric compound may protect blood vessels from diabetes damage",
+        "summary": "A compound found in turmeric may help protect blood vessels from some of the damage caused by Type 1 diabetes. In rats, curcumin reduced inflammation, improved cellular signaling, and restored vascular health to levels resembling those of nondiabetic animals. The results hint at a possible new way to reduce the long-term cardiovascular risks of diabetes, but human trials are still needed.",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260824065543.htm",
+        "published_utc": "2026-08-26T10:49:14+00:00",
         "score": 2,
         "freshness_boost": 0,
-        "image": "https://picsum.photos/seed/vb-b32dcab9f7e44c4b/480/320"
+        "image": "https://picsum.photos/seed/vb-afbf65409bfe13f9/480/320"
       },
       {
         "section": "medical",
         "kind": "global",
         "source": "ScienceDaily Health",
-        "title": "Researchers unveil sustainable spirulina solution to vitamin B12 deficiency",
-        "summary": "Researchers have produced a form of Spirulina containing biologically active vitamin B12 at levels comparable to beef. By carefully controlling the light used to grow the algae, they overcame a major problem with conventional Spirulina, which mainly contains a form of B12 the human body cannot use. The carbon-neutral system could provide a more sustainable source of the essential vitamin.",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260829035227.htm",
-        "published_utc": "2026-08-30T05:17:05+00:00",
+        "title": "A missing color in indoor light may help prevent myopia",
+        "summary": "A wavelength of light largely missing from indoor LEDs may play an important role in protecting developing eyes from nearsightedness. Researchers found that indigo light completely prevented myopia in tree shrews, whose eyes share important similarities with human eyes. The discovery raises the possibility that future indoor lighting could be redesigned to more closely mimic sunlight and potentially reduce childhood myopia.",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260824065510.htm",
+        "published_utc": "2026-08-26T08:15:18+00:00",
+        "score": 5,
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-6b654750a95de117/480/320"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "Childhood trauma may leave a lasting “scar” inside brain cells",
+        "summary": "Early-life stress may physically alter how DNA is packaged in the brain, leaving stress-related genes primed to activate more easily years later. In mice, researchers were able to block this effect, preventing the heightened anxiety and stress sensitivity that otherwise appeared in adulthood.",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260823094151.htm",
+        "published_utc": "2026-08-26T07:28:27+00:00",
         "score": 1,
         "freshness_boost": 0,
-        "image": "https://picsum.photos/seed/vb-7d4c75b5cbc644f7/480/320"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "ScienceDaily Health",
-        "title": "A cancer therapy put severe rheumatoid arthritis into remission",
-        "summary": "CAR T-cell therapy dramatically reduced disease activity in six people with severe rheumatoid arthritis that had resisted other treatments, with three achieving medication-free remission. The treatment may work by clearing out harmful immune cells and effectively rebooting part of the immune system, although much larger studies are still needed.",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260828082330.htm",
-        "published_utc": "2026-08-30T01:28:13+00:00",
-        "score": 1,
-        "freshness_boost": 0,
-        "image": "https://picsum.photos/seed/vb-cd40e9b9c397226a/480/320"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "ScienceDaily Health",
-        "title": "Shingles vaccine linked to 24% lower dementia risk",
-        "summary": "Older adults who received the Shingrix shingles vaccine were 24% less likely to be diagnosed with dementia over four years in a study of more than 500,000 people. Researchers estimate the difference could amount to roughly one dementia case prevented for every 17 people vaccinated.",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260823015013.htm",
-        "published_utc": "2026-08-25T13:09:21+00:00",
-        "score": 1,
-        "freshness_boost": 0,
-        "image": "https://picsum.photos/seed/vb-bafe1fb9ae4ec4e2/480/320"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "ScienceDaily Health",
-        "title": "Depression may shut down the brain’s ability to make new neurons",
-        "summary": "A major study found that adults with depression show disrupted production of new neurons in the hippocampus, potentially weakening the brain’s ability to separate new experiences from painful memories. The researchers also identified broad molecular changes that could open the door to new treatments tailored to different biological forms of depression.",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260823094135.htm",
-        "published_utc": "2026-08-25T05:06:08+00:00",
-        "score": 4,
-        "freshness_boost": 0,
-        "image": "https://picsum.photos/seed/vb-0d3549abe6029aff/480/320"
+        "image": "https://picsum.photos/seed/vb-1535ea753bacdf7e/480/320"
       }
     ],
     "science": [
@@ -405,157 +381,97 @@
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "New AI tool maps the hidden universe of small molecules",
-        "summary": "The human body and its gut microbiome produce thousands of small molecules that shape how the body functions—influencing immunity, metabolism and more. Identifying what those molecules actually are has been one of the biomedical sciences' most persistent bottlenecks. More than 80% of compounds detected in a typical biological sample cannot be matched to any known structure using current methods.",
-        "link": "https://phys.org/news/2026-09-ai-tool-hidden-universe-small.html",
-        "published_utc": "2026-09-04T21:00:01+00:00",
+        "title": "Tree species diversity protects forests from climate extremes, study finds",
+        "summary": "New research has found that tree species diversity can play a crucial role in protecting forests from the growing threat of extreme climate events. The study analyzed data from 88,116 separate forest plots across the United States to investigate the impact of \"compound climate extremes,\" when events such as drought and extreme heat occur at the same time.",
+        "link": "https://phys.org/news/2026-09-tree-species-diversity-forests-climate.html",
+        "published_utc": "2026-09-05T16:00:01+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-ai-tool-maps-the-h.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/forest-2.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Shoreline scavenger shows biological effects after eating plastic foam",
-        "summary": "In a paper published in the journal Marine Pollution Bulletin, researchers at Kyushu University report on what happens when wharf roaches, a common shoreline scavenger, eat expanded polystyrene (EPS). Roaches that fed on EPS showed no significant reduction in lifespan, but their guts displayed altered expression of genes involved in chemical defense, DNA repair and digestion. Analysis of the wharf roach gut microbiome showed little change, but several rare microbes were found only in the EPS-fed specimens.",
-        "link": "https://phys.org/news/2026-09-shoreline-scavenger-biological-effects-plastic.html",
-        "published_utc": "2026-09-04T20:50:02+00:00",
+        "title": "Scientists discover how narwhals grow nature's only straight tusk",
+        "summary": "Narwhals have nature's only straight tusk, a single tooth up to three meters (10 feet) long, so strange they were sold as magical unicorn horns during the Middle Ages.",
+        "link": "https://phys.org/news/2026-08-scientists-narwhals-nature-straight-tusk.html",
+        "published_utc": "2026-09-05T15:00:07+00:00",
+        "score": 2,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/narwhals-have-natures.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Some disagreement makes groups more trustworthy, mathematical framework finds",
+        "summary": "When humans are making decisions, they are known not to rely solely on their own considerations and the evidence available to them. Past behavioral science and psychology studies have shown that people are often also influenced by the choices and opinions of others.",
+        "link": "https://phys.org/news/2026-09-disagreement-groups-trustworthy-mathematical-framework.html",
+        "published_utc": "2026-09-05T14:00:04+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/what-happens-when-a-sh.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Do games make children more attentive or more distractible?",
-        "summary": "A study of preschool children found that brief digital or traditional gameplay improved performance on tasks requiring quick responses but reduced performance on tasks demanding greater concentration and self-control.",
-        "link": "https://phys.org/news/2026-09-games-children-attentive-distractible.html",
-        "published_utc": "2026-09-04T20:40:05+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/children-preschool.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "AI helps reveal the immersive sensory experiences of ancient Etruscan tombs",
-        "summary": "The Etruscan painted tombs in Tarquinia, Italy, date to the first millennium BCE and are known for their vivid scenes of music, feasting, processions and the afterlife. While these tombs have been extensively studied, archaeologists have typically looked at the paintings as images to decode rather than as parts of an experience that people moved through.",
-        "link": "https://phys.org/news/2026-09-ai-reveal-immersive-sensory-ancient.html",
-        "published_utc": "2026-09-04T20:20:06+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-helps-reveal-the-im-3.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Before mixing starts, initial catalyst structure governs fuel-cell ink dispersion",
-        "summary": "Researchers from Kanazawa University, the University of Tokyo and HORIBA, Ltd. have shown that the initial state of platinum-on-carbon (Pt/C) catalyst particles before they are mixed with an ionomer strongly influences how a polymer electrolyte fuel cell (PEFC) catalyst ink subsequently develops. The paper is published in the Chemical Engineering Journal.",
-        "link": "https://phys.org/news/2026-09-catalyst-fuel-cell-ink-dispersion.html",
-        "published_utc": "2026-09-04T20:20:04+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/before-mixing-starts-i.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Evidence-based approach shows de-escalation is a learnable police skill",
-        "summary": "A three-year research collaboration between Florida State University's College of Criminology and Criminal Justice and the Leon County Sheriff's Office (LCSO) has produced one of the most comprehensive real-world studies on police de-escalation to date.",
-        "link": "https://phys.org/news/2026-09-evidence-based-approach-de-escalation.html",
-        "published_utc": "2026-09-04T20:00:05+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-close-up-of-the-side.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "How Mercury formed its graphite crust and core",
-        "summary": "As the BepiColombo mission prepares to enter the final phase of its journey to Mercury, a series of studies conducted by researchers at the University of Liège and KU Leuven sheds new light on the early stages of the evolution of the planet closest to the sun. Using experimental petrology, the researchers are reconstructing in the laboratory the formation of Mercury's core, the crystallization of its magma ocean and the formation of its mantle. The studies are published in Earth and Planetary Science Letters, Nature Communications and Advances in Geochemistry and Cosmochemistry.",
-        "link": "https://phys.org/news/2026-09-mercury-graphite-crust-core.html",
-        "published_utc": "2026-09-04T20:00:01+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-mercury-formed-its.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/some-disagreement-make.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "NASA Breaking News",
-        "title": "NASA Ames Fire Department Aircraft Firefighting Training",
-        "summary": "The fire department at NASA’s Ames Research Center in California’s Silicon Valley will perform training on the Moffett Federal Airfield beginning Tuesday, Sept. 8 through Friday, Sept. 11. The training will involve the use of a propane-fueled aircraft fire simulator and be conducted from 8 a.m. to 8 p.m. PDT. Because the aircraft simulator is [&#8230;]",
-        "link": "https://www.nasa.gov/news-release/nasa-ames-fire-department-aircraft-firefighting-training",
-        "published_utc": "2026-09-04T19:51:56+00:00",
+        "title": "APOD: 2026 September 5 – Chasing the Moon’s Shadow",
+        "summary": "APOD Science APOD APOD: 2026 September 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Chasing the Moon&#8217;s [&#8230;]",
+        "link": "https://science.nasa.gov/image-article/apod-2026-september-5-chasing-the-moons-shadow",
+        "published_utc": "2026-09-05T04:05:00+00:00",
+        "score": 2,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-885de6d198a5e28f/480/320"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "ScienceDaily Science",
+        "title": "Fossil feet may be misleading scientists about human evolution",
+        "summary": "Wild monkeys in West Africa can climb vertical tree trunks using foot flexibility scientists did not realize they possessed. The discovery challenges a key assumption about what the last common ancestor of humans and chimpanzees looked like and how it moved.",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260829235942.htm",
+        "published_utc": "2026-08-31T12:38:26+00:00",
+        "score": 4,
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-af38248eebf58259/480/320"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "ScienceDaily Science",
+        "title": "NASA’s Roman Space Telescope launches to reveal the Universe’s darkest secrets",
+        "summary": "NASA’s Roman Space Telescope has launched on a million mile journey to L2, where it will scan huge portions of the cosmos for clues about dark matter, dark energy, and distant worlds. With survey speeds roughly 1,000 times faster than Hubble and a torrent of 1.4 terabytes of data per day, Roman could uncover cosmic surprises astronomers have never seen before.",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260831035213.htm",
+        "published_utc": "2026-08-31T09:23:21+00:00",
         "score": 0,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-4f1e4a38d5a82901/480/320"
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-580c0cf1545438c8/480/320"
       },
       {
         "section": "science",
         "kind": "global",
-        "source": "Phys.org",
-        "title": "Embedded platinum channels bring nanoscale spin-based thermoelectric conversion to bulk materials",
-        "summary": "A joint research team from NIMS and the University of Tokyo has developed a new composite in which three-dimensional nano-interfaces are distributed throughout the material by coating the surfaces of magnetic-insulator powders with a metal and sintering them. Using this structure, the team succeeded in observing thermoelectric conversion driven by spins in an insulator, a phenomenon previously observed only at nanoscale thin-film interfaces, in a macroscale material.",
-        "link": "https://phys.org/news/2026-09-embedded-platinum-channels-nanoscale-based.html",
-        "published_utc": "2026-09-04T19:40:02+00:00",
+        "source": "ScienceDaily Science",
+        "title": "Rocky planets may have formed just 100 million years after the Big Bang",
+        "summary": "Rocky planets may have been able to start forming just 100 million years after the Big Bang, thanks to enormous early supernovae that scattered planet-building elements across space. Simulations found enough solid material and water around a young star to suggest that Earth-like worlds could have appeared far earlier than previously believed.",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260828082345.htm",
+        "published_utc": "2026-08-31T05:00:01+00:00",
         "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/magnetic-material-with.jpg"
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-64a21155e0f8233d/480/320"
       },
       {
         "section": "science",
         "kind": "global",
-        "source": "Phys.org",
-        "title": "Students with lower grades earn degrees more often when they belong to an academic major's majority group",
-        "summary": "Despite efforts to encourage broader participation, women earn about 25% of undergraduate engineering degrees and 18% of undergraduate computer science degrees—and men remain a small minority among people earning nursing and education degrees.",
-        "link": "https://phys.org/news/2026-09-students-grades-degrees-academic-major.html",
-        "published_utc": "2026-09-04T19:20:01+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/students.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Same-sex marriages surged before Bolsonaro took office, Brazil data reveal",
-        "summary": "A new study has shown that the election of Jair Bolsonaro, known for his homophobic views, as president of Brazil in 2018 caused a temporary surge in the number of same-sex marriages. The increase was particularly high in Brazilian municipalities where a large number of voters had previously voted for Bolsonaro.",
-        "link": "https://phys.org/news/2026-09-sex-marriages-surged-bolsonaro-office.html",
-        "published_utc": "2026-09-04T19:00:04+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/same-sex-marriage.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Virus-like particles enable gene activity tracking over time in the same cells",
-        "summary": "In recent years, scientists have developed methods to measure a cell's transcriptome, or all the RNA produced by a cell, to study the cell's identity and genetic activity. However, these methods rely on killing the cell to access the bits of RNA within and offer only a one-time snapshot.",
-        "link": "https://phys.org/news/2026-09-virus-particles-enable-gene-tracking.html",
-        "published_utc": "2026-09-04T19:00:02+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-method-allows-scie.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "NASA Breaking News",
-        "title": "NASA Hosts Virtual Artemis Webinar for Blind, Low-Vision Community",
-        "summary": "NASA will host a virtual webinar at 2 p.m. EDT on Friday, Oct. 2, titled “The&#160;RS-25&#160;Engine and the Future of Artemis Missions: An Accessible Webinar for the Blind and Low-Vision Community.” This webinar is open to the public, however it is tailored specifically for a blind and low-vision audience. The&#160;webinar&#160;will last about two hours and [&#8230;]",
-        "link": "https://www.nasa.gov/general/nasa-hosts-virtual-artemis-webinar-for-blind-low-vision-community",
-        "published_utc": "2026-09-04T16:48:59+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-f7cc3bb6adf61867/480/320"
+        "source": "ScienceDaily Science",
+        "title": "Scientists discover diamonds can generate electricity",
+        "summary": "Diamond was thought to be incapable of producing electricity through mechanical deformation, but ultrathin flexible diamond membranes have now shown a strong and repeatable piezoelectric effect. The unexpected discovery could open the door to diamond-powered sensors, tiny energy systems, and self-powered medical implants.",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260829035223.htm",
+        "published_utc": "2026-08-31T04:13:53+00:00",
+        "score": 4,
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-34f2e4ce7cb8ca62/480/320"
       }
     ],
     "environment": [
@@ -673,26 +589,38 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Bucureştiul va găzdui prima ediţie a festivalului de street food Să Te Food În Gură",
-      "summary": "Veşti bune pentru toţi cei care adoră să bage food în gură! Bucureştiul va găzdui luna aceasta prima ediţie a festivalului de street food &#8222;Să Te Food În Gură&#8221;. Acesta se alătură altor manifestări gastronomice de calibru, printre care târgul de mâncare tradiţională &#8222;O Food Pe Mă-ta&#8221; şi piaţa volantă de noapte &#8222;Foodem Şi Noi [&#8230;] The post Bucureştiul va găzdui prima ediţie a festivalului de street food Să Te Food În Gură appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/monden/bucurestiul-va-gazdui-prima-editie-a-festivalului-de-street-food-sa-te-food-in-gura",
-      "published_utc": "2026-09-03T11:26:35+00:00",
+      "source": "RomaniaPozitiva",
+      "title": "Horațiu Mălăele, Maia Morgenstern, Marius Manole și Medeea Marinescu, pe scenele din București, Craiova și Brașov, în septembrie",
+      "summary": "Patru spectacole cu nume mari ale teatrului românesc ajung, în septembrie, pe scenele din București, Craiova și Brașov, sub semnătura ProTicket. În program se regăsesc comedia „Ziua mea norocoasă”, nominalizată&#8230; Articolul Horațiu Mălăele, Maia Morgenstern, Marius Manole și Medeea Marinescu, pe scenele din București, Craiova și Brașov, în septembrie apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/cultura/horatiu-malaele-maia-morgenstern-marius-manole-si-medeea-marinescu-pe-scenele-din-bucuresti-craiova-si-brasov-in-septembrie",
+      "published_utc": "2026-09-05T15:34:54+00:00",
       "score": 3,
-      "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/09/foodingura.jpg"
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-0546200af0fc80a5/480/320"
     },
     {
       "section": "romania",
       "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 Dezvăluiri. Ceaușescu a fost împușcat pentru că voia să facă un Nibiru gratuit",
-      "summary": "Documente recent desecretizate ale CNSAS arată că dictatorul Nicolae Ceaușescu a intenționat să construiască un Nibiru gratuit, pentru oamenii muncii, la care să aibă acces atât membrii de sindicat cât și tinerii din organizațiile UTC. Documentele arată că Ceaușescu ceruse expres „Nibiru fără casă de bilete”, o formulă considerată de consilieri mai periculoasă decât orice [&#8230;] The post Dezvăluiri. Ceaușescu a fost împușcat pentru că voia să facă un Nibiru gratuit appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/monden/dezvaluiri-ceausescu-a-fost-impuscat-pentru-ca-voia-sa-faca-un-nibiru-gratuit",
-      "published_utc": "2026-09-05T07:12:59+00:00",
+      "title": "😂 Trump a schimbat numele Coca Cola în American Cola și acum trebuie să dea 500 de miliarde de dolari fraților Micula",
+      "summary": "În campania sa continuă de schimbare a denumirilor simbolurilor americane Donald Trump a anunțat redenumirea Coca-Cola în American Cola, după care a descoperit că marca aparține deja fraților Micula, proprietarii European Drinks. Casa Albă a fost informată că schimbarea de nume constituie folosire neautorizată și atrage o despăgubire de 500 de miliarde de dolari. Potrivit [&#8230;] The post Trump a schimbat numele Coca Cola în American Cola și acum trebuie să dea 500 de miliarde de dolari fraților Micula appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/politic/trump-a-schimbat-numele-coca-cola-in-american-cola-si-acum-trebuie-sa-dea-500-de-miliarde-de-dolari-fratilor-micula",
+      "published_utc": "2026-09-04T14:30:00+00:00",
+      "score": 3,
+      "freshness_boost": 1,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/09/trump-dator-la-fratii-micula.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "RomaniaPozitiva",
+      "title": "Cutia Bebelușului ajunge la 10.000 de mame și nou-născuții lor, în ediția a IV-a a programului",
+      "summary": "10.000 de mame și nou-născuții lor vor primi Cutia Bebelușului. Investiție de 5 milioane de euro în cea de-a patra ediție. Fundația OMV Petrom alocă 5 milioane de euro pentru&#8230; Articolul Cutia Bebelușului ajunge la 10.000 de mame și nou-născuții lor, în ediția a IV-a a programului apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/csr/cutia-bebelusului-ajunge-la-10-000-de-mame-si-nou-nascutii-lor-in-editia-a-iv-a-a-programului",
+      "published_utc": "2026-09-05T14:02:01+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/09/ceausescu-nibiru-gratuit.jpg"
+      "image": "https://picsum.photos/seed/vb-507161290b9b1523/480/320"
     },
     {
       "section": "romania",
@@ -733,6 +661,18 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Dezvăluiri. Ceaușescu a fost împușcat pentru că voia să facă un Nibiru gratuit",
+      "summary": "Documente recent desecretizate ale CNSAS arată că dictatorul Nicolae Ceaușescu a intenționat să construiască un Nibiru gratuit, pentru oamenii muncii, la care să aibă acces atât membrii de sindicat cât și tinerii din organizațiile UTC. Documentele arată că Ceaușescu ceruse expres „Nibiru fără casă de bilete”, o formulă considerată de consilieri mai periculoasă decât orice [&#8230;] The post Dezvăluiri. Ceaușescu a fost împușcat pentru că voia să facă un Nibiru gratuit appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/monden/dezvaluiri-ceausescu-a-fost-impuscat-pentru-ca-voia-sa-faca-un-nibiru-gratuit",
+      "published_utc": "2026-09-05T07:12:59+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/09/ceausescu-nibiru-gratuit.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "M.Y. – Murals of Youth #4 și-a desemnat câștigătorii: o elevă din Slatina (jud.Olt) a obținut premiul I la concursul de artă murală care a avut loc la sfârșitul lunii august la Cluj-Napoca",
       "summary": "Podiumul a fost completat de elevi din Chișinău (Republica Moldova) și din Buzău (jud. Buzău). Între 27 și 31 august, centrul Clujului a devenit scenă în aer liber pentru elevii&#8230; Articolul M.Y. &#8211; Murals of Youth #4 și-a desemnat câștigătorii: o elevă din Slatina (jud.Olt) a obținut premiul I la concursul de artă murală care a avut loc la sfârșitul lunii august la Cluj-Napoca apare prima dată în Romania Pozitiva .",
@@ -769,26 +709,14 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "Urban Playfield aduce jocul și mișcarea în București, în primul weekend din septembrie!",
-      "summary": "Antrenamente și demonstrații sportive, dans și un moment special cu Gașca Zurli, în parcul IOR Urban Playfield, festivalul sporturilor luate în joacă, ajunge în capitală în weekendul 5–6 septembrie. Timp&#8230; Articolul Urban Playfield aduce jocul și mișcarea în București, în primul weekend din septembrie! apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/bucuresti/urban-playfield-aduce-jocul-si-miscarea-in-bucuresti-in-primul-weekend-din-septembrie-2",
-      "published_utc": "2026-09-05T06:19:38+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-e900da44886ca63a/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 Tot ciobanul",
-      "summary": "The post Tot ciobanul appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/ovi/tot-ciobanul",
-      "published_utc": "2026-09-03T08:00:00+00:00",
+      "title": "😂 Bucureştiul va găzdui prima ediţie a festivalului de street food Să Te Food În Gură",
+      "summary": "Veşti bune pentru toţi cei care adoră să bage food în gură! Bucureştiul va găzdui luna aceasta prima ediţie a festivalului de street food &#8222;Să Te Food În Gură&#8221;. Acesta se alătură altor manifestări gastronomice de calibru, printre care târgul de mâncare tradiţională &#8222;O Food Pe Mă-ta&#8221; şi piaţa volantă de noapte &#8222;Foodem Şi Noi [&#8230;] The post Bucureştiul va găzdui prima ediţie a festivalului de street food Să Te Food În Gură appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/monden/bucurestiul-va-gazdui-prima-editie-a-festivalului-de-street-food-sa-te-food-in-gura",
+      "published_utc": "2026-09-03T11:26:35+00:00",
       "score": 3,
       "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/09/Tot-ciobanul.jpg"
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/09/foodingura.jpg"
     },
     {
       "section": "romania",
@@ -850,6 +778,18 @@
       "image": "https://picsum.photos/seed/vb-271b5e5796d0b9c9/480/320"
     },
     {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Tree species diversity protects forests from climate extremes, study finds",
+      "summary": "New research has found that tree species diversity can play a crucial role in protecting forests from the growing threat of extreme climate events. The study analyzed data from 88,116 separate forest plots across the United States to investigate the impact of \"compound climate extremes,\" when events such as drought and extreme heat occur at the same time.",
+      "link": "https://phys.org/news/2026-09-tree-species-diversity-forests-climate.html",
+      "published_utc": "2026-09-05T16:00:01+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/forest-2.jpg"
+    },
+    {
       "section": "romania",
       "kind": "ro",
       "source": "Fundatia Motivation Romania",
@@ -860,18 +800,6 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-8dbf1fa14fbad960/480/320"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "New AI tool maps the hidden universe of small molecules",
-      "summary": "The human body and its gut microbiome produce thousands of small molecules that shape how the body functions—influencing immunity, metabolism and more. Identifying what those molecules actually are has been one of the biomedical sciences' most persistent bottlenecks. More than 80% of compounds detected in a typical biological sample cannot be matched to any known structure using current methods.",
-      "link": "https://phys.org/news/2026-09-ai-tool-hidden-universe-small.html",
-      "published_utc": "2026-09-04T21:00:01+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-ai-tool-maps-the-h.jpg"
     },
     {
       "section": "romania",
@@ -886,6 +814,18 @@
       "image": "https://picsum.photos/seed/vb-5fcb6453c2c12bfa/480/320"
     },
     {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "Study identifies key driver of inflammation, opening door to potential new treatments",
+      "summary": "Researchers at Johns Hopkins Medicine have uncovered a critical biological mechanism that helps explain how inflammation is triggered and sustained in a wide range of diseases—highlighting a promising avenue for future therapeutic development.",
+      "link": "https://medicalxpress.com/news/2026-09-key-driver-inflammation-door-potential.html",
+      "published_utc": "2026-09-05T15:40:01+00:00",
+      "score": 5,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/lung-inflammation.jpg"
+    },
+    {
       "section": "romania",
       "kind": "ro",
       "source": "Fundatia Inocenti",
@@ -896,18 +836,6 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-9e910caffe28ea93/480/320"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Shoreline scavenger shows biological effects after eating plastic foam",
-      "summary": "In a paper published in the journal Marine Pollution Bulletin, researchers at Kyushu University report on what happens when wharf roaches, a common shoreline scavenger, eat expanded polystyrene (EPS). Roaches that fed on EPS showed no significant reduction in lifespan, but their guts displayed altered expression of genes involved in chemical defense, DNA repair and digestion. Analysis of the wharf roach gut microbiome showed little change, but several rare microbes were found only in the EPS-fed specimens.",
-      "link": "https://phys.org/news/2026-09-shoreline-scavenger-biological-effects-plastic.html",
-      "published_utc": "2026-09-04T20:50:02+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/what-happens-when-a-sh.jpg"
     },
     {
       "section": "romania",
@@ -922,6 +850,18 @@
       "image": "https://picsum.photos/seed/vb-0cc54a513713695c/480/320"
     },
     {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Scientists discover how narwhals grow nature's only straight tusk",
+      "summary": "Narwhals have nature's only straight tusk, a single tooth up to three meters (10 feet) long, so strange they were sold as magical unicorn horns during the Middle Ages.",
+      "link": "https://phys.org/news/2026-08-scientists-narwhals-nature-straight-tusk.html",
+      "published_utc": "2026-09-05T15:00:07+00:00",
+      "score": 2,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/narwhals-have-natures.jpg"
+    },
+    {
       "section": "romania",
       "kind": "ro",
       "source": "Fundatia Vodafone Romania",
@@ -934,196 +874,40 @@
       "image": "https://picsum.photos/seed/vb-66ff4de0f241b638/480/320"
     },
     {
-      "section": "science",
+      "section": "medical",
       "kind": "global",
-      "source": "Phys.org",
-      "title": "Do games make children more attentive or more distractible?",
-      "summary": "A study of preschool children found that brief digital or traditional gameplay improved performance on tasks requiring quick responses but reduced performance on tasks demanding greater concentration and self-control.",
-      "link": "https://phys.org/news/2026-09-games-children-attentive-distractible.html",
-      "published_utc": "2026-09-04T20:40:05+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/children-preschool.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "AI helps reveal the immersive sensory experiences of ancient Etruscan tombs",
-      "summary": "The Etruscan painted tombs in Tarquinia, Italy, date to the first millennium BCE and are known for their vivid scenes of music, feasting, processions and the afterlife. While these tombs have been extensively studied, archaeologists have typically looked at the paintings as images to decode rather than as parts of an experience that people moved through.",
-      "link": "https://phys.org/news/2026-09-ai-reveal-immersive-sensory-ancient.html",
-      "published_utc": "2026-09-04T20:20:06+00:00",
+      "source": "Medical Xpress",
+      "title": "Evidence points to yogurt as a nutrient-dense part of healthy diets",
+      "summary": "People have been making health claims about yogurt for hundreds of years.",
+      "link": "https://medicalxpress.com/news/2026-09-evidence-yogurt-nutrient-dense-healthy.html",
+      "published_utc": "2026-09-05T15:00:02+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-helps-reveal-the-im-3.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/greek-yogurt.jpg"
     },
     {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Before mixing starts, initial catalyst structure governs fuel-cell ink dispersion",
-      "summary": "Researchers from Kanazawa University, the University of Tokyo and HORIBA, Ltd. have shown that the initial state of platinum-on-carbon (Pt/C) catalyst particles before they are mixed with an ionomer strongly influences how a polymer electrolyte fuel cell (PEFC) catalyst ink subsequently develops. The paper is published in the Chemical Engineering Journal.",
-      "link": "https://phys.org/news/2026-09-catalyst-fuel-cell-ink-dispersion.html",
-      "published_utc": "2026-09-04T20:20:04+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/before-mixing-starts-i.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Evidence-based approach shows de-escalation is a learnable police skill",
-      "summary": "A three-year research collaboration between Florida State University's College of Criminology and Criminal Justice and the Leon County Sheriff's Office (LCSO) has produced one of the most comprehensive real-world studies on police de-escalation to date.",
-      "link": "https://phys.org/news/2026-09-evidence-based-approach-de-escalation.html",
-      "published_utc": "2026-09-04T20:00:05+00:00",
+      "title": "Some disagreement makes groups more trustworthy, mathematical framework finds",
+      "summary": "When humans are making decisions, they are known not to rely solely on their own considerations and the evidence available to them. Past behavioral science and psychology studies have shown that people are often also influenced by the choices and opinions of others.",
+      "link": "https://phys.org/news/2026-09-disagreement-groups-trustworthy-mathematical-framework.html",
+      "published_utc": "2026-09-05T14:00:04+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-close-up-of-the-side.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "How Mercury formed its graphite crust and core",
-      "summary": "As the BepiColombo mission prepares to enter the final phase of its journey to Mercury, a series of studies conducted by researchers at the University of Liège and KU Leuven sheds new light on the early stages of the evolution of the planet closest to the sun. Using experimental petrology, the researchers are reconstructing in the laboratory the formation of Mercury's core, the crystallization of its magma ocean and the formation of its mantle. The studies are published in Earth and Planetary Science Letters, Nature Communications and Advances in Geochemistry and Cosmochemistry.",
-      "link": "https://phys.org/news/2026-09-mercury-graphite-crust-core.html",
-      "published_utc": "2026-09-04T20:00:01+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-mercury-formed-its.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/some-disagreement-make.jpg"
     },
     {
       "section": "science",
       "kind": "global",
       "source": "NASA Breaking News",
-      "title": "NASA Ames Fire Department Aircraft Firefighting Training",
-      "summary": "The fire department at NASA’s Ames Research Center in California’s Silicon Valley will perform training on the Moffett Federal Airfield beginning Tuesday, Sept. 8 through Friday, Sept. 11. The training will involve the use of a propane-fueled aircraft fire simulator and be conducted from 8 a.m. to 8 p.m. PDT. Because the aircraft simulator is [&#8230;]",
-      "link": "https://www.nasa.gov/news-release/nasa-ames-fire-department-aircraft-firefighting-training",
-      "published_utc": "2026-09-04T19:51:56+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-4f1e4a38d5a82901/480/320"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Embedded platinum channels bring nanoscale spin-based thermoelectric conversion to bulk materials",
-      "summary": "A joint research team from NIMS and the University of Tokyo has developed a new composite in which three-dimensional nano-interfaces are distributed throughout the material by coating the surfaces of magnetic-insulator powders with a metal and sintering them. Using this structure, the team succeeded in observing thermoelectric conversion driven by spins in an insulator, a phenomenon previously observed only at nanoscale thin-film interfaces, in a macroscale material.",
-      "link": "https://phys.org/news/2026-09-embedded-platinum-channels-nanoscale-based.html",
-      "published_utc": "2026-09-04T19:40:02+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/magnetic-material-with.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Students with lower grades earn degrees more often when they belong to an academic major's majority group",
-      "summary": "Despite efforts to encourage broader participation, women earn about 25% of undergraduate engineering degrees and 18% of undergraduate computer science degrees—and men remain a small minority among people earning nursing and education degrees.",
-      "link": "https://phys.org/news/2026-09-students-grades-degrees-academic-major.html",
-      "published_utc": "2026-09-04T19:20:01+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/students.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Same-sex marriages surged before Bolsonaro took office, Brazil data reveal",
-      "summary": "A new study has shown that the election of Jair Bolsonaro, known for his homophobic views, as president of Brazil in 2018 caused a temporary surge in the number of same-sex marriages. The increase was particularly high in Brazilian municipalities where a large number of voters had previously voted for Bolsonaro.",
-      "link": "https://phys.org/news/2026-09-sex-marriages-surged-bolsonaro-office.html",
-      "published_utc": "2026-09-04T19:00:04+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/same-sex-marriage.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Virus-like particles enable gene activity tracking over time in the same cells",
-      "summary": "In recent years, scientists have developed methods to measure a cell's transcriptome, or all the RNA produced by a cell, to study the cell's identity and genetic activity. However, these methods rely on killing the cell to access the bits of RNA within and offer only a one-time snapshot.",
-      "link": "https://phys.org/news/2026-09-virus-particles-enable-gene-tracking.html",
-      "published_utc": "2026-09-04T19:00:02+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-method-allows-scie.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Early mitochondrial stress reveals potential mechanism for lasting heart protection",
-      "summary": "Mitochondria are popularly known as the \"powerhouse of the cell,\" but these cellular structures do much more—including acting as signaling hubs. Some signals that mitochondria send can reprogram the activity of the entire cell by switching \"on\" or \"off\" different genes through epigenetic changes. Mitochondria's signals can be so effective that, in yeast, fruit flies and worms, mild stress in mitochondria early in life can make the entire organism more resilient and live longer through a process called mitohormesis.",
-      "link": "https://medicalxpress.com/news/2026-09-early-mitochondrial-stress-reveals-potential.html",
-      "published_utc": "2026-09-04T18:00:06+00:00",
+      "title": "APOD: 2026 September 5 – Chasing the Moon’s Shadow",
+      "summary": "APOD Science APOD APOD: 2026 September 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Chasing the Moon&#8217;s [&#8230;]",
+      "link": "https://science.nasa.gov/image-article/apod-2026-september-5-chasing-the-moons-shadow",
+      "published_utc": "2026-09-05T04:05:00+00:00",
       "score": 2,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-can-stressed-mitoc.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Energy-hungry tissues expand cleanup crews to clear worn-out mitochondria",
-      "summary": "The body's heart muscle (for pumping blood), skeletal muscle (for movement and posture) and brown fat (for heat production) each require a lot of energy and make a lot of waste. That waste needs to be managed.",
-      "link": "https://medicalxpress.com/news/2026-09-energy-hungry-tissues-cleanup-crews.html",
-      "published_utc": "2026-09-04T18:00:05+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/body-tissue.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Rethinking radiotherapy may boost immunotherapy for pancreatic cancer",
-      "summary": "Pancreatic cancer remains one of the most aggressive malignancies, with a particularly poor prognosis even when diagnosed at a localized stage. In a paper published in Nature Reviews Gastroenterology & Hepatology, researchers from GIGA and Liège University Hospital, together with colleagues from Gustave Roussy (Paris, France) and Fox Chase Cancer Center (Philadelphia, U.S.), propose a new therapeutic perspective: viewing radiotherapy not merely as a treatment that destroys cancer cells but as a tool capable of stimulating the immune system and enhancing the efficacy of immunotherapy.",
-      "link": "https://medicalxpress.com/news/2026-09-rethinking-radiotherapy-boost-immunotherapy-pancreatic.html",
-      "published_utc": "2026-09-04T17:40:01+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rethinking-radiotherap.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "CRISPR gene-editing therapy safely and continuously lowers cholesterol and triglycerides, first-in-human trial shows",
-      "summary": "A Cleveland Clinic first-in-human clinical trial has shown that a one-time infusion of a gene-editing therapy using CRISPR-Cas9 was effective and safe in reducing LDL (\"bad\") cholesterol and triglycerides in people with medication-resistant lipid disorders through one year of follow-up across all doses.",
-      "link": "https://medicalxpress.com/news/2026-09-crispr-gene-therapy-safely-lowers.html",
-      "published_utc": "2026-09-04T17:20:02+00:00",
-      "score": 4,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cleveland-clinic-first.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "New blood biomarkers reveal how common muscular dystrophy treatment may impair overall growth",
-      "summary": "In a study published in Scientific Reports, an international, multidisciplinary research team that included Binghamton University researchers identified a set of blood proteins that may explain why the corticosteroid prednisone, although beneficial in treating Duchenne muscular dystrophy (DMD), can interfere with childhood growth and bone health.",
-      "link": "https://medicalxpress.com/news/2026-09-blood-biomarkers-reveal-common-muscular.html",
-      "published_utc": "2026-09-04T17:00:03+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-blood-biomarkers-r.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "NASA Breaking News",
-      "title": "NASA Hosts Virtual Artemis Webinar for Blind, Low-Vision Community",
-      "summary": "NASA will host a virtual webinar at 2 p.m. EDT on Friday, Oct. 2, titled “The&#160;RS-25&#160;Engine and the Future of Artemis Missions: An Accessible Webinar for the Blind and Low-Vision Community.” This webinar is open to the public, however it is tailored specifically for a blind and low-vision audience. The&#160;webinar&#160;will last about two hours and [&#8230;]",
-      "link": "https://www.nasa.gov/general/nasa-hosts-virtual-artemis-webinar-for-blind-low-vision-community",
-      "published_utc": "2026-09-04T16:48:59+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-f7cc3bb6adf61867/480/320"
+      "image": "https://picsum.photos/seed/vb-885de6d198a5e28f/480/320"
     },
     {
       "section": "environment",
@@ -1140,38 +924,98 @@
     {
       "section": "medical",
       "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Gut-derived bacterial molecule may drive severe liver disease",
-      "summary": "Researchers at the University of Oslo and Oslo University Hospital, together with international collaborators, have discovered that a small molecule made exclusively by gut bacteria can actively drive disease in the bile ducts and worsen primary sclerosing cholangitis (PSC), a serious liver and bile duct disease.",
-      "link": "https://medicalxpress.com/news/2026-09-gut-derived-bacterial-molecule-severe.html",
-      "published_utc": "2026-09-04T16:40:03+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/intestinal-flora.jpg"
+      "source": "ScienceDaily Health",
+      "title": "Popular sweeteners may leave effects that last for generations",
+      "summary": "Two widely used zero-calorie sweeteners, sucralose and stevia, may have effects that linger far longer than the sweet taste itself. In mice, researchers found that both sweeteners altered the gut microbiome, reduced beneficial compounds produced by gut bacteria, and changed the activity of genes involved in metabolism and inflammation. Some of those changes were also detected in later generations that had never consumed the sweeteners themselves.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260830000019.htm",
+      "published_utc": "2026-08-31T14:04:01+00:00",
+      "score": 1,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-fc445f49201e5cad/480/320"
     },
     {
       "section": "medical",
       "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Study finds liposuction reduces lipedema pain more than conservative treatment",
-      "summary": "A study titled \"Liposuction versus conservative therapy for patients with lipoedema: A randomized controlled multi-center clinical trial\" published in The Lancet, provides the first large-scale, multicenter evidence base for the surgical treatment of lipedema.",
-      "link": "https://medicalxpress.com/news/2026-09-liposuction-lipedema-pain-treatment.html",
-      "published_utc": "2026-09-04T16:00:03+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/surgeon.jpg"
+      "source": "ScienceDaily Health",
+      "title": "Scientists challenge a 70-year-old “lizard brain” myth",
+      "summary": "A long-standing picture of brain evolution as newer, rational layers stacked on top of an ancient “lizard brain” may be deeply misleading. Researchers found that evolution instead appears to balance two competing styles of brain wiring, expanding one while shrinking the other depending on what an animal needs to survive.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260829235958.htm",
+      "published_utc": "2026-08-31T12:53:45+00:00",
+      "score": 1,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-1de6285b49b3d922/480/320"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "ScienceDaily Science",
+      "title": "Fossil feet may be misleading scientists about human evolution",
+      "summary": "Wild monkeys in West Africa can climb vertical tree trunks using foot flexibility scientists did not realize they possessed. The discovery challenges a key assumption about what the last common ancestor of humans and chimpanzees looked like and how it moved.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260829235942.htm",
+      "published_utc": "2026-08-31T12:38:26+00:00",
+      "score": 4,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-af38248eebf58259/480/320"
     },
     {
       "section": "medical",
       "kind": "global",
-      "source": "Medical Xpress",
-      "title": "AI may help identify breast cancers missed by mammograms, but clinical benefit remains uncertain",
-      "summary": "Artificial intelligence may help radiologists identify subtle signs of breast cancers that are missed during routine mammograms, and some AI systems may even identify patterns associated with an increased risk of cancer before it becomes visible on a mammogram, but there are still many significant limitations, according to a review led by investigators at the UCLA Health Jonsson Comprehensive Cancer Center.",
-      "link": "https://medicalxpress.com/news/2026-09-ai-breast-cancers-mammograms-clinical.html",
-      "published_utc": "2026-09-04T15:40:08+00:00",
+      "source": "ScienceDaily Health",
+      "title": "Scientists find why the liver may not heal even after you stop drinking",
+      "summary": "Alcohol-related liver disease may trap damaged liver cells in a regenerative limbo, preventing the organ from rebuilding itself even after drinking stops. Researchers linked the problem to inflammation-driven RNA errors and identified a pathway that could potentially be targeted to restore liver repair.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260831015205.htm",
+      "published_utc": "2026-08-31T10:43:38+00:00",
       "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-may-help-identify-b-1.jpg"
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-161f36e0db64a796/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Positive News",
+      "title": "The unlikely rise of the sea shanty band",
+      "summary": "TikTok turned sea shanties into an online craze, but these old working songs are doing more than just filling social feeds The post The unlikely rise of the sea shanty band appeared first on Positive News .",
+      "link": "https://www.positive.news/lifestyle/the-unlikely-rise-of-the-sea-shanty-band",
+      "published_utc": "2026-08-31T09:47:10+00:00",
+      "score": 0,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-1263fb246371fe49/480/320"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "ScienceDaily Science",
+      "title": "NASA’s Roman Space Telescope launches to reveal the Universe’s darkest secrets",
+      "summary": "NASA’s Roman Space Telescope has launched on a million mile journey to L2, where it will scan huge portions of the cosmos for clues about dark matter, dark energy, and distant worlds. With survey speeds roughly 1,000 times faster than Hubble and a torrent of 1.4 terabytes of data per day, Roman could uncover cosmic surprises astronomers have never seen before.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260831035213.htm",
+      "published_utc": "2026-08-31T09:23:21+00:00",
+      "score": 0,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-580c0cf1545438c8/480/320"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "ScienceDaily Science",
+      "title": "Rocky planets may have formed just 100 million years after the Big Bang",
+      "summary": "Rocky planets may have been able to start forming just 100 million years after the Big Bang, thanks to enormous early supernovae that scattered planet-building elements across space. Simulations found enough solid material and water around a young star to suggest that Earth-like worlds could have appeared far earlier than previously believed.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260828082345.htm",
+      "published_utc": "2026-08-31T05:00:01+00:00",
+      "score": 0,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-64a21155e0f8233d/480/320"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "ScienceDaily Science",
+      "title": "Scientists discover diamonds can generate electricity",
+      "summary": "Diamond was thought to be incapable of producing electricity through mechanical deformation, but ultrathin flexible diamond membranes have now shown a strong and repeatable piezoelectric effect. The unexpected discovery could open the door to diamond-powered sensors, tiny energy systems, and self-powered medical implants.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260829035223.htm",
+      "published_utc": "2026-08-31T04:13:53+00:00",
+      "score": 4,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-34f2e4ce7cb8ca62/480/320"
     },
     {
       "section": "environment",
@@ -1213,37 +1057,49 @@
       "section": "medical",
       "kind": "global",
       "source": "ScienceDaily Health",
-      "title": "Common supplements rival antibiotics for severe gum disease",
-      "summary": "Omega-3 and low-dose aspirin matched the effectiveness of antibiotics in a year-long study of patients with severe gum disease, with both approaches helping about 58% reach the treatment goal. The unexpected result could point to a new way to treat some patients while reducing reliance on antibiotics and the growing problem of antibiotic resistance.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260829035216.htm",
-      "published_utc": "2026-08-30T14:35:22+00:00",
+      "title": "Scientists may have found a shortcut to calorie restriction’s anti-aging benefits",
+      "summary": "Moderate calorie restriction lowered an immune protein called C3 that appears to help drive chronic inflammation as the body ages. Blocking the same protein reduced age related inflammation in mice, raising the possibility that future treatments could mimic some benefits of calorie restriction without severe dieting.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260826055508.htm",
+      "published_utc": "2026-08-26T13:00:53+00:00",
+      "score": 0,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-f0969854e1999d81/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "Turmeric compound may protect blood vessels from diabetes damage",
+      "summary": "A compound found in turmeric may help protect blood vessels from some of the damage caused by Type 1 diabetes. In rats, curcumin reduced inflammation, improved cellular signaling, and restored vascular health to levels resembling those of nondiabetic animals. The results hint at a possible new way to reduce the long-term cardiovascular risks of diabetes, but human trials are still needed.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260824065543.htm",
+      "published_utc": "2026-08-26T10:49:14+00:00",
       "score": 2,
       "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-b32dcab9f7e44c4b/480/320"
+      "image": "https://picsum.photos/seed/vb-afbf65409bfe13f9/480/320"
     },
     {
       "section": "medical",
       "kind": "global",
       "source": "ScienceDaily Health",
-      "title": "Researchers unveil sustainable spirulina solution to vitamin B12 deficiency",
-      "summary": "Researchers have produced a form of Spirulina containing biologically active vitamin B12 at levels comparable to beef. By carefully controlling the light used to grow the algae, they overcame a major problem with conventional Spirulina, which mainly contains a form of B12 the human body cannot use. The carbon-neutral system could provide a more sustainable source of the essential vitamin.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260829035227.htm",
-      "published_utc": "2026-08-30T05:17:05+00:00",
-      "score": 1,
+      "title": "A missing color in indoor light may help prevent myopia",
+      "summary": "A wavelength of light largely missing from indoor LEDs may play an important role in protecting developing eyes from nearsightedness. Researchers found that indigo light completely prevented myopia in tree shrews, whose eyes share important similarities with human eyes. The discovery raises the possibility that future indoor lighting could be redesigned to more closely mimic sunlight and potentially reduce childhood myopia.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260824065510.htm",
+      "published_utc": "2026-08-26T08:15:18+00:00",
+      "score": 5,
       "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-7d4c75b5cbc644f7/480/320"
+      "image": "https://picsum.photos/seed/vb-6b654750a95de117/480/320"
     },
     {
       "section": "medical",
       "kind": "global",
       "source": "ScienceDaily Health",
-      "title": "A cancer therapy put severe rheumatoid arthritis into remission",
-      "summary": "CAR T-cell therapy dramatically reduced disease activity in six people with severe rheumatoid arthritis that had resisted other treatments, with three achieving medication-free remission. The treatment may work by clearing out harmful immune cells and effectively rebooting part of the immune system, although much larger studies are still needed.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260828082330.htm",
-      "published_utc": "2026-08-30T01:28:13+00:00",
+      "title": "Childhood trauma may leave a lasting “scar” inside brain cells",
+      "summary": "Early-life stress may physically alter how DNA is packaged in the brain, leaving stress-related genes primed to activate more easily years later. In mice, researchers were able to block this effect, preventing the heightened anxiety and stress sensitivity that otherwise appeared in adulthood.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260823094151.htm",
+      "published_utc": "2026-08-26T07:28:27+00:00",
       "score": 1,
       "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-cd40e9b9c397226a/480/320"
+      "image": "https://picsum.photos/seed/vb-1535ea753bacdf7e/480/320"
     },
     {
       "section": "environment",
@@ -1256,18 +1112,6 @@
       "score": 0,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-a585b2a90d8937a3/480/320"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "Shingles vaccine linked to 24% lower dementia risk",
-      "summary": "Older adults who received the Shingrix shingles vaccine were 24% less likely to be diagnosed with dementia over four years in a study of more than 500,000 people. Researchers estimate the difference could amount to roughly one dementia case prevented for every 17 people vaccinated.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260823015013.htm",
-      "published_utc": "2026-08-25T13:09:21+00:00",
-      "score": 1,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-bafe1fb9ae4ec4e2/480/320"
     },
     {
       "section": "environment",
@@ -1316,18 +1160,6 @@
       "score": 0,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-39ae934ab4b5d3a4/480/320"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "Depression may shut down the brain’s ability to make new neurons",
-      "summary": "A major study found that adults with depression show disrupted production of new neurons in the hippocampus, potentially weakening the brain’s ability to separate new experiences from painful memories. The researchers also identified broad molecular changes that could open the door to new treatments tailored to different biological forms of depression.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260823094135.htm",
-      "published_utc": "2026-08-25T05:06:08+00:00",
-      "score": 4,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-0d3549abe6029aff/480/320"
     }
   ],
   "joke_ro": {
@@ -1336,8 +1168,8 @@
     "source": "data/jokes_ro.txt"
   },
   "satire_ro": {
-    "title": "Dezvăluiri. Ceaușescu a fost împușcat pentru că voia să facă un Nibiru gratuit",
-    "link": "https://www.timesnewroman.ro/monden/dezvaluiri-ceausescu-a-fost-impuscat-pentru-ca-voia-sa-faca-un-nibiru-gratuit/",
+    "title": "Doi copii nu-și mai vorbesc de trei luni pentru că se joacă de-a mama și de-a tata",
+    "link": "https://www.timesnewroman.ro/life-death/doi-copii-nu-si-mai-vorbesc-de-trei-luni-pentru-ca-se-joaca-de-a-mama-si-de-a-tata/",
     "source": "timesnewroman.ro"
   },
   "top_images": [
@@ -1422,6 +1254,7 @@
       "https://live.staticflickr.com/65535/55492784843_ae47cbb388_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/55506734967_e20790ea70_b.jpg",
       "https://live.staticflickr.com/65535/36745007193_b2c1238b23_b.jpg",
       "https://live.staticflickr.com/65535/55492999258_8019aa4151_b.jpg",
       "https://live.staticflickr.com/65535/38070895645_fd3564cb4c_b.jpg",
@@ -1438,10 +1271,10 @@
       "https://live.staticflickr.com/65535/55493958356_ae504b2469_b.jpg",
       "https://live.staticflickr.com/8842/28730830655_2d0a51394d_b.jpg",
       "https://live.staticflickr.com/4705/26145202158_135e3c42b2_b.jpg",
-      "https://live.staticflickr.com/65535/8333039739_32b75b0505_b.jpg",
-      "https://live.staticflickr.com/65535/55503326302_e68c79977e_b.jpg"
+      "https://live.staticflickr.com/65535/8333039739_32b75b0505_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55509702869_6fa924f026_b.jpg",
       "https://live.staticflickr.com/65535/55509610039_b048c38e41_b.jpg",
       "https://live.staticflickr.com/65535/55509444804_2a4d0de4c7_b.jpg",
       "https://live.staticflickr.com/65535/55507991952_5a1d5cfba4_b.jpg",
@@ -1458,12 +1291,11 @@
       "https://live.staticflickr.com/65535/55504886106_4fb5e8827b_b.jpg",
       "https://live.staticflickr.com/65535/55504375673_b1854797e2_b.jpg",
       "https://live.staticflickr.com/65535/55504204693_4e00c14d14_b.jpg",
-      "https://live.staticflickr.com/65535/55504197970_5b7e445f88_b.jpg",
-      "https://live.staticflickr.com/65535/55503879110_0728780ac6_b.jpg"
+      "https://live.staticflickr.com/65535/55504197970_5b7e445f88_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
+      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
