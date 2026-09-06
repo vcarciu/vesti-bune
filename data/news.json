@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-09-06T20:56:10+00:00",
+  "generated_utc": "2026-09-06T22:33:19+00:00",
   "sections": {
     "romania": [
       {
@@ -48,6 +48,18 @@
         "score": 3,
         "freshness_boost": 3,
         "image": "https://picsum.photos/seed/vb-248ca33df50b19b7/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 Îl mai ții minte pe robotul Ion? El a plecat, dar mai are încă 3 rude angajate la stat",
+        "summary": "Lansat cu multă fanfară și regie în urmă cu aproape 3 ani, Robotul Ion trebuia să fie răspunsul României la cursa de înarmare în AI. Pentru o scurtă perioadă de timp acesta a fost asistentul virtual al fostului premier Marian Ciucă dar, odată cu rocada guvernamentală, robotul a ieșit din lumina reflectoarelor. O anchetă realizată [&#8230;] The post Îl mai ții minte pe robotul Ion? El a plecat, dar mai are încă 3 rude angajate la stat appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/it-stiinta/il-mai-tii-minte-pe-robotul-ion-el-a-plecat-dar-mai-are-inca-3-rude-angajate-la-stat",
+        "published_utc": "2026-09-06T10:38:52+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/09/rudele-robotului-ion.jpg"
       },
       {
         "section": "romania",
@@ -131,18 +143,6 @@
         "score": 3,
         "freshness_boost": 0,
         "image": "https://www.timesnewroman.ro/wp-content/uploads/2021/05/femeielatelefon.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 Bucureştiul va găzdui prima ediţie a festivalului de street food Să Te Food În Gură",
-        "summary": "Veşti bune pentru toţi cei care adoră să bage food în gură! Bucureştiul va găzdui luna aceasta prima ediţie a festivalului de street food &#8222;Să Te Food În Gură&#8221;. Acesta se alătură altor manifestări gastronomice de calibru, printre care târgul de mâncare tradiţională &#8222;O Food Pe Mă-ta&#8221; şi piaţa volantă de noapte &#8222;Foodem Şi Noi [&#8230;] The post Bucureştiul va găzdui prima ediţie a festivalului de street food Să Te Food În Gură appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/monden/bucurestiul-va-gazdui-prima-editie-a-festivalului-de-street-food-sa-te-food-in-gura",
-        "published_utc": "2026-09-03T11:26:35+00:00",
-        "score": 3,
-        "freshness_boost": 0,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/09/foodingura.jpg"
       },
       {
         "section": "romania",
@@ -258,97 +258,97 @@
         "section": "medical",
         "kind": "global",
         "source": "Medical Xpress",
-        "title": "Older athletes show aging need not bring major losses in fitness or independence",
-        "summary": "The poet Dylan Thomas famously wrote, \"old age should burn and rave at close of day\"—and a high-profile cohort of professional athletes seems to be taking him literally.",
-        "link": "https://medicalxpress.com/news/2026-08-older-athletes-aging-major-losses.html",
-        "published_utc": "2026-09-06T14:30:02+00:00",
-        "score": 0,
+        "title": "Laughter therapy can help people with COPD breathe more easily",
+        "summary": "A clinical trial for patients with chronic obstructive pulmonary disease (COPD) shows that laughter therapy can reduce breathing difficulties and is as effective as more traditional breathing exercises. The research was presented at the European Respiratory Society (ERS) Congress in Barcelona, Spain.",
+        "link": "https://medicalxpress.com/news/2026-09-laughter-therapy-people-copd-easily.html",
+        "published_utc": "2026-09-06T22:10:01+00:00",
+        "score": 3,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/sports.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/laughter-therapy-can-h.jpg"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "Medical Xpress",
+        "title": "Smoking's social myth challenged as 50,000-person study links it to loneliness",
+        "summary": "Smoking is not social and leads to increased loneliness, according to a large Europe-wide study presented at the European Respiratory Society (ERS) Congress in Barcelona, Spain.",
+        "link": "https://medicalxpress.com/news/2026-09-social-myth-person-links-loneliness.html",
+        "published_utc": "2026-09-06T22:00:02+00:00",
+        "score": 1,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/smoking-1.jpg"
       },
       {
         "section": "medical",
         "kind": "global",
         "source": "ScienceDaily Health",
-        "title": "Mindfulness may lower blood pressure in just 8 weeks",
-        "summary": "Mindfulness, gratitude, and optimism training may improve blood pressure, inflammation, and other heart-health measures within just eight to 12 weeks. The strongest programs paired daily practice with regular reinforcement, suggesting that improving psychological well-being could become another tool for protecting cardiovascular health.",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260901010721.htm",
-        "published_utc": "2026-09-01T12:58:41+00:00",
-        "score": 0,
-        "freshness_boost": 0,
-        "image": "https://picsum.photos/seed/vb-234c02bc36e61ce8/480/320"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "ScienceDaily Health",
-        "title": "Reaching 90 without dementia doesn’t mean you’re in the clear",
-        "summary": "A study of people over 90 found that dementia risk remains strongly shaped by sex, race and genetics, with women and black participants facing notably higher risks. Intriguingly, some people stayed cognitively healthy despite carrying major risk factors, potentially offering clues to how the brain can resist dementia deep into old age.",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260829235953.htm",
-        "published_utc": "2026-09-01T12:09:42+00:00",
-        "score": 0,
-        "freshness_boost": 0,
-        "image": "https://picsum.photos/seed/vb-a7abda600b5e1c24/480/320"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "ScienceDaily Health",
-        "title": "Goodbye CPAP? New sleep apnea pill cuts breathing events by 44%",
-        "summary": "A once-nightly pill cut breathing interruptions by about 44% in a major phase 3 sleep apnea trial, while improving oxygen levels and disease severity. By strengthening the muscles that keep the airway open during sleep, AD109 could offer a new option for people unable to tolerate CPAP.",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260831015203.htm",
-        "published_utc": "2026-09-01T04:49:31+00:00",
-        "score": 0,
-        "freshness_boost": 0,
-        "image": "https://picsum.photos/seed/vb-db664d85d41e9529/480/320"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "ScienceDaily Health",
-        "title": "Scientists find a human-only gene that may help explain our brainpower",
-        "summary": "Scientists discovered that human microglia, immune cells that help shape developing brain circuits, can take four to eight years to mature instead of just weeks as they do in mice. The unusually slow process may help explain how the human brain develops its remarkable complexity and cognitive abilities.",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260831015141.htm",
-        "published_utc": "2026-09-01T03:54:40+00:00",
+        "title": "Popular brain supplement linked to shorter lifespan in men",
+        "summary": "A large study involving more than 270,000 people has linked higher blood levels of the amino acid tyrosine to a shorter lifespan in men. Using both observational data and genetic analysis, researchers found that elevated tyrosine could potentially reduce male life expectancy by nearly a year, while no significant effect appeared in women. Tyrosine is found naturally in protein-rich foods and is also sold as a supplement for boosting focus and mental performance, making the finding especially intriguing.",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260904000330.htm",
+        "published_utc": "2026-09-06T21:21:25+00:00",
         "score": 2,
-        "freshness_boost": 0,
-        "image": "https://picsum.photos/seed/vb-2609b3fde6606a61/480/320"
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-a26a59dd14c5ca1f/480/320"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "Medical Xpress",
+        "title": "Brain signaling mechanism may explain clozapine weight gain",
+        "summary": "Researchers at UT Southwestern Medical Center have identified a key brain signaling pathway that appears to drive the substantial weight gain often associated with clozapine, a widely used antipsychotic medication. The preclinical findings, published in Nature Communications, point to a potential way to reduce the metabolic side effects of this medication, commonly prescribed for patients with treatment-resistant schizophrenia.",
+        "link": "https://medicalxpress.com/news/2026-09-brain-mechanism-clozapine-weight-gain.html",
+        "published_utc": "2026-09-06T21:00:08+00:00",
+        "score": 2,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/brain-signaling-mechan.jpg"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "Medical Xpress",
+        "title": "End of free school meal program led to increased stress and hunger, poorer diets and reduced focus, say teachers",
+        "summary": "How did students' diets and behavior change after the expiration of a pandemic-era universal free school meal program in 2022? Researchers asked teachers for their observations of the impact on students and found that teachers perceived more student hunger and stress, increased consumption of junk food and reduced focus in the classroom among the negative outcomes.",
+        "link": "https://medicalxpress.com/news/2026-09-free-school-meal-stress-hunger.html",
+        "published_utc": "2026-09-06T21:00:06+00:00",
+        "score": 1,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/school-lunch.jpg"
       },
       {
         "section": "medical",
         "kind": "global",
         "source": "ScienceDaily Health",
-        "title": "High blood sugar may help cancer cells hide from the immune system",
-        "summary": "Researchers discovered a possible way cancer cells hide from the immune system: they build a thick, sugar-rich coating around themselves. High blood sugar can strengthen this protective shield under conditions that resemble the environment inside tumors, with the protein HSF1 playing a key role. Blocking this process could make cancer cells easier for the immune system to recognize and destroy.",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260829235950.htm",
-        "published_utc": "2026-09-01T02:39:55+00:00",
+        "title": "Scientists find breast cancer cells hiding behind protective “shields”",
+        "summary": "Researchers have mapped breast tumors in striking detail and uncovered hidden pockets of dormant cancer cells that may help explain why cancer can return after treatment. Unlike rapidly dividing cells, these quiet cells can essentially hibernate, allowing them to evade chemotherapy and reactivate later. The team found that they are often surrounded by immune cells and connective tissue cells that may act like a protective shield.",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260904000326.htm",
+        "published_utc": "2026-09-06T20:43:10+00:00",
+        "score": 1,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-9d9da370e1848e6a/480/320"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "This lifestyle program improved cognition 55% more than basic health advice",
+        "summary": "Older adults at risk of dementia improved their memory and thinking after following lifestyle programs combining exercise, healthy eating, cognitive training, and social engagement. Those who received regular coaching and structured support improved substantially more than participants given general health advice.",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260903064246.htm",
+        "published_utc": "2026-09-06T17:07:44+00:00",
+        "score": 1,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-38cc608bda1e23bd/480/320"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "Scientists discover a hidden problem with this popular sugar substitute",
+        "summary": "Sorbitol, a sugar alcohol commonly used in sugar-free candy, gum, and other low-calorie foods, may not be as harmless as it seems. Researchers at Washington University in St. Louis found that the body can convert sorbitol into a form of fructose in the liver, potentially triggering some of the same harmful metabolic effects linked to fructose.",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260903064251.htm",
+        "published_utc": "2026-09-06T15:44:48+00:00",
         "score": 3,
-        "freshness_boost": 0,
-        "image": "https://picsum.photos/seed/vb-9fa9322d213bb158/480/320"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "ScienceDaily Health",
-        "title": "Eating more ultra-processed foods may raise prostate cancer risk by 30%",
-        "summary": "Ultra-processed foods make up a huge share of the American diet, and new research suggests they may carry another serious health risk for men. In a nationally representative study of more than 17,000 U.S. men, those who ate more ultra-processed foods, including soft drinks, packaged snacks, cereals, and processed meats, had roughly 24% to 31% higher risks of prostate cancer after accounting for factors such as age, smoking, race and ethnicity, and poverty status.",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260826055457.htm",
-        "published_utc": "2026-08-27T11:52:35+00:00",
-        "score": 0,
-        "freshness_boost": 0,
-        "image": "https://picsum.photos/seed/vb-347517e3d691aed3/480/320"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "ScienceDaily Health",
-        "title": "Scientists discover a brain “brake” that can shut down chronic pain",
-        "summary": "Researchers discovered a brain-based “brake” that can shut down chronic nerve pain in mice by calming an overactive pain circuit. Targeting this system more precisely could one day lead to powerful pain relief without affecting opioid receptors throughout the entire body.",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260826055442.htm",
-        "published_utc": "2026-08-27T04:46:20+00:00",
-        "score": 3,
-        "freshness_boost": 0,
-        "image": "https://picsum.photos/seed/vb-66286d90b9f21694/480/320"
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-1d88830c0e821764/480/320"
       }
     ],
     "science": [
@@ -588,6 +588,18 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Îl mai ții minte pe robotul Ion? El a plecat, dar mai are încă 3 rude angajate la stat",
+      "summary": "Lansat cu multă fanfară și regie în urmă cu aproape 3 ani, Robotul Ion trebuia să fie răspunsul României la cursa de înarmare în AI. Pentru o scurtă perioadă de timp acesta a fost asistentul virtual al fostului premier Marian Ciucă dar, odată cu rocada guvernamentală, robotul a ieșit din lumina reflectoarelor. O anchetă realizată [&#8230;] The post Îl mai ții minte pe robotul Ion? El a plecat, dar mai are încă 3 rude angajate la stat appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/it-stiinta/il-mai-tii-minte-pe-robotul-ion-el-a-plecat-dar-mai-are-inca-3-rude-angajate-la-stat",
+      "published_utc": "2026-09-06T10:38:52+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/09/rudele-robotului-ion.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "RECITALUL ÎN REZONANȚĂ CU DUO SERAFIM LA MUZEUL COLECȚIILOR DE ARTĂ",
       "summary": "Marți, 8 septembrie 2026, ora 18:00, la Muzeul Colecțiilor de Artă (Calea Victoriei nr. 111, București), Asociația pentru Muzică, Artă și Cultură și Muzeul Național de Artă al României, cu&#8230; Articolul RECITALUL ÎN REZONANȚĂ CU DUO SERAFIM LA MUZEUL COLECȚIILOR DE ARTĂ apare prima dată în Romania Pozitiva .",
@@ -636,17 +648,6 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Digi24",
-      "title": "În ce intersecții din București vor sta polițiștii în prima zi de şcoală. Plan de fluidizare a traficului rutier",
-      "summary": "Primăria Capitalei a stabilit, împreună cu Brigada Rutieră, un plan de fluidizare a traficului în Bucureşti, pentru prima zi de şcoală, luni, 6 septembrie. La acțiune vor participa și agenții de la Poliţia Locală a Municipiului Bucureşti şi Poliţiile Locale de la Sectoarele 1, 2, 3, 5 şi 6.",
-      "link": "https://www.digi24.ro/stiri/actualitate/social/in-ce-intersectii-din-bucuresti-vor-sta-politistii-in-prima-zi-de-scoala-plan-de-fluidizare-a-traficului-rutier-3937025",
-      "published_utc": "2026-09-06T15:59:21+00:00",
-      "score": 2,
-      "image": "https://picsum.photos/seed/vb-fdc7047b2d104e32/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "Festivalul Internațional Propatria – ediția a XVI-a",
       "summary": "Excelență românească, dialog cultural și o nouă călătorie între Europa și România Între 8 septembrie și 8 noiembrie 2026, Festivalul Internațional Propatria revine cu cea de-a XVI-a ediție, continuând un parcurs&#8230; Articolul Festivalul Internațional Propatria – ediția a XVI-a apare prima dată în Romania Pozitiva .",
@@ -672,6 +673,17 @@
       "section": "romania",
       "kind": "ro",
       "source": "Digi24",
+      "title": "În ce intersecții din București vor sta polițiștii în prima zi de şcoală. Plan de fluidizare a traficului rutier",
+      "summary": "Primăria Capitalei a stabilit, împreună cu Brigada Rutieră, un plan de fluidizare a traficului în Bucureşti, pentru prima zi de şcoală, luni, 6 septembrie. La acțiune vor participa și agenții de la Poliţia Locală a Municipiului Bucureşti şi Poliţiile Locale de la Sectoarele 1, 2, 3, 5 şi 6.",
+      "link": "https://www.digi24.ro/stiri/actualitate/social/in-ce-intersectii-din-bucuresti-vor-sta-politistii-in-prima-zi-de-scoala-plan-de-fluidizare-a-traficului-rutier-3937025",
+      "published_utc": "2026-09-06T15:59:21+00:00",
+      "score": 2,
+      "image": "https://picsum.photos/seed/vb-fdc7047b2d104e32/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
       "title": "STUDIU: Lipsa rechizitelor poate afecta încrederea în sine și parcursul școlar al copiilor",
       "summary": "Un studiu realizat de World Vision România arată că lipsa rechizitelor poate avea efecte asupra felului în care copiii se raportează la colegii lor și la școală. Părinții și profesorii din mediul rural spun că elevii care merg la școală fără ghiozdan și rechizite se pot simți inferiori, excluși sau diferiți, iar în unele cazuri situația poate duce la rezultate școlare mai slabe, izolare, absenteism sau chiar abandon școlar.",
       "link": "https://www.digi24.ro/stiri/actualitate/social/studiu-lipsa-rechizitelor-poate-afecta-increderea-in-sine-si-parcursul-scolar-al-copiilor-3936767",
@@ -690,18 +702,6 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://www.timesnewroman.ro/wp-content/uploads/2021/05/femeielatelefon.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Bucureştiul va găzdui prima ediţie a festivalului de street food Să Te Food În Gură",
-      "summary": "Veşti bune pentru toţi cei care adoră să bage food în gură! Bucureştiul va găzdui luna aceasta prima ediţie a festivalului de street food &#8222;Să Te Food În Gură&#8221;. Acesta se alătură altor manifestări gastronomice de calibru, printre care târgul de mâncare tradiţională &#8222;O Food Pe Mă-ta&#8221; şi piaţa volantă de noapte &#8222;Foodem Şi Noi [&#8230;] The post Bucureştiul va găzdui prima ediţie a festivalului de street food Să Te Food În Gură appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/monden/bucurestiul-va-gazdui-prima-editie-a-festivalului-de-street-food-sa-te-food-in-gura",
-      "published_utc": "2026-09-03T11:26:35+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/09/foodingura.jpg"
     },
     {
       "section": "romania",
@@ -755,13 +755,13 @@
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
-      "title": "Older athletes show aging need not bring major losses in fitness or independence",
-      "summary": "The poet Dylan Thomas famously wrote, \"old age should burn and rave at close of day\"—and a high-profile cohort of professional athletes seems to be taking him literally.",
-      "link": "https://medicalxpress.com/news/2026-08-older-athletes-aging-major-losses.html",
-      "published_utc": "2026-09-06T14:30:02+00:00",
-      "score": 0,
+      "title": "Laughter therapy can help people with COPD breathe more easily",
+      "summary": "A clinical trial for patients with chronic obstructive pulmonary disease (COPD) shows that laughter therapy can reduce breathing difficulties and is as effective as more traditional breathing exercises. The research was presented at the European Respiratory Society (ERS) Congress in Barcelona, Spain.",
+      "link": "https://medicalxpress.com/news/2026-09-laughter-therapy-people-copd-easily.html",
+      "published_utc": "2026-09-06T22:10:01+00:00",
+      "score": 3,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/sports.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/laughter-therapy-can-h.jpg"
     },
     {
       "section": "romania",
@@ -788,16 +788,16 @@
       "image": "https://picsum.photos/seed/vb-5fcb6453c2c12bfa/480/320"
     },
     {
-      "section": "science",
+      "section": "medical",
       "kind": "global",
-      "source": "Phys.org",
-      "title": "Tree species diversity protects forests from climate extremes, study finds",
-      "summary": "New research has found that tree species diversity can play a crucial role in protecting forests from the growing threat of extreme climate events. The study analyzed data from 88,116 separate forest plots across the United States to investigate the impact of \"compound climate extremes,\" when events such as drought and extreme heat occur at the same time.",
-      "link": "https://phys.org/news/2026-09-tree-species-diversity-forests-climate.html",
-      "published_utc": "2026-09-05T16:00:01+00:00",
-      "score": 0,
+      "source": "Medical Xpress",
+      "title": "Smoking's social myth challenged as 50,000-person study links it to loneliness",
+      "summary": "Smoking is not social and leads to increased loneliness, according to a large Europe-wide study presented at the European Respiratory Society (ERS) Congress in Barcelona, Spain.",
+      "link": "https://medicalxpress.com/news/2026-09-social-myth-person-links-loneliness.html",
+      "published_utc": "2026-09-06T22:00:02+00:00",
+      "score": 1,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/forest-2.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/smoking-1.jpg"
     },
     {
       "section": "romania",
@@ -824,16 +824,16 @@
       "image": "https://picsum.photos/seed/vb-0cc54a513713695c/480/320"
     },
     {
-      "section": "science",
+      "section": "medical",
       "kind": "global",
-      "source": "Phys.org",
-      "title": "Scientists discover how narwhals grow nature's only straight tusk",
-      "summary": "Narwhals have nature's only straight tusk, a single tooth up to three meters (10 feet) long, so strange they were sold as magical unicorn horns during the Middle Ages.",
-      "link": "https://phys.org/news/2026-08-scientists-narwhals-nature-straight-tusk.html",
-      "published_utc": "2026-09-05T15:00:07+00:00",
+      "source": "ScienceDaily Health",
+      "title": "Popular brain supplement linked to shorter lifespan in men",
+      "summary": "A large study involving more than 270,000 people has linked higher blood levels of the amino acid tyrosine to a shorter lifespan in men. Using both observational data and genetic analysis, researchers found that elevated tyrosine could potentially reduce male life expectancy by nearly a year, while no significant effect appeared in women. Tyrosine is found naturally in protein-rich foods and is also sold as a supplement for boosting focus and mental performance, making the finding especially intriguing.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260904000330.htm",
+      "published_utc": "2026-09-06T21:21:25+00:00",
       "score": 2,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/narwhals-have-natures.jpg"
+      "image": "https://picsum.photos/seed/vb-a26a59dd14c5ca1f/480/320"
     },
     {
       "section": "romania",
@@ -846,6 +846,90 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-66ff4de0f241b638/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "Brain signaling mechanism may explain clozapine weight gain",
+      "summary": "Researchers at UT Southwestern Medical Center have identified a key brain signaling pathway that appears to drive the substantial weight gain often associated with clozapine, a widely used antipsychotic medication. The preclinical findings, published in Nature Communications, point to a potential way to reduce the metabolic side effects of this medication, commonly prescribed for patients with treatment-resistant schizophrenia.",
+      "link": "https://medicalxpress.com/news/2026-09-brain-mechanism-clozapine-weight-gain.html",
+      "published_utc": "2026-09-06T21:00:08+00:00",
+      "score": 2,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/brain-signaling-mechan.jpg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "End of free school meal program led to increased stress and hunger, poorer diets and reduced focus, say teachers",
+      "summary": "How did students' diets and behavior change after the expiration of a pandemic-era universal free school meal program in 2022? Researchers asked teachers for their observations of the impact on students and found that teachers perceived more student hunger and stress, increased consumption of junk food and reduced focus in the classroom among the negative outcomes.",
+      "link": "https://medicalxpress.com/news/2026-09-free-school-meal-stress-hunger.html",
+      "published_utc": "2026-09-06T21:00:06+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/school-lunch.jpg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "Scientists find breast cancer cells hiding behind protective “shields”",
+      "summary": "Researchers have mapped breast tumors in striking detail and uncovered hidden pockets of dormant cancer cells that may help explain why cancer can return after treatment. Unlike rapidly dividing cells, these quiet cells can essentially hibernate, allowing them to evade chemotherapy and reactivate later. The team found that they are often surrounded by immune cells and connective tissue cells that may act like a protective shield.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260904000326.htm",
+      "published_utc": "2026-09-06T20:43:10+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-9d9da370e1848e6a/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "This lifestyle program improved cognition 55% more than basic health advice",
+      "summary": "Older adults at risk of dementia improved their memory and thinking after following lifestyle programs combining exercise, healthy eating, cognitive training, and social engagement. Those who received regular coaching and structured support improved substantially more than participants given general health advice.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260903064246.htm",
+      "published_utc": "2026-09-06T17:07:44+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-38cc608bda1e23bd/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "Scientists discover a hidden problem with this popular sugar substitute",
+      "summary": "Sorbitol, a sugar alcohol commonly used in sugar-free candy, gum, and other low-calorie foods, may not be as harmless as it seems. Researchers at Washington University in St. Louis found that the body can convert sorbitol into a form of fructose in the liver, potentially triggering some of the same harmful metabolic effects linked to fructose.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260903064251.htm",
+      "published_utc": "2026-09-06T15:44:48+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-1d88830c0e821764/480/320"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Tree species diversity protects forests from climate extremes, study finds",
+      "summary": "New research has found that tree species diversity can play a crucial role in protecting forests from the growing threat of extreme climate events. The study analyzed data from 88,116 separate forest plots across the United States to investigate the impact of \"compound climate extremes,\" when events such as drought and extreme heat occur at the same time.",
+      "link": "https://phys.org/news/2026-09-tree-species-diversity-forests-climate.html",
+      "published_utc": "2026-09-05T16:00:01+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/forest-2.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Scientists discover how narwhals grow nature's only straight tusk",
+      "summary": "Narwhals have nature's only straight tusk, a single tooth up to three meters (10 feet) long, so strange they were sold as magical unicorn horns during the Middle Ages.",
+      "link": "https://phys.org/news/2026-08-scientists-narwhals-nature-straight-tusk.html",
+      "published_utc": "2026-09-05T15:00:07+00:00",
+      "score": 2,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/narwhals-have-natures.jpg"
     },
     {
       "section": "science",
@@ -882,66 +966,6 @@
       "score": 3,
       "freshness_boost": 3,
       "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/04163930/2.-Aktivitas-tambang-batu-gamping-berbatasan-langsung-dengan-KKD-Teluk-Moramo-2400x890-1-768x512.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "Mindfulness may lower blood pressure in just 8 weeks",
-      "summary": "Mindfulness, gratitude, and optimism training may improve blood pressure, inflammation, and other heart-health measures within just eight to 12 weeks. The strongest programs paired daily practice with regular reinforcement, suggesting that improving psychological well-being could become another tool for protecting cardiovascular health.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260901010721.htm",
-      "published_utc": "2026-09-01T12:58:41+00:00",
-      "score": 0,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-234c02bc36e61ce8/480/320"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "Reaching 90 without dementia doesn’t mean you’re in the clear",
-      "summary": "A study of people over 90 found that dementia risk remains strongly shaped by sex, race and genetics, with women and black participants facing notably higher risks. Intriguingly, some people stayed cognitively healthy despite carrying major risk factors, potentially offering clues to how the brain can resist dementia deep into old age.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260829235953.htm",
-      "published_utc": "2026-09-01T12:09:42+00:00",
-      "score": 0,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-a7abda600b5e1c24/480/320"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "Goodbye CPAP? New sleep apnea pill cuts breathing events by 44%",
-      "summary": "A once-nightly pill cut breathing interruptions by about 44% in a major phase 3 sleep apnea trial, while improving oxygen levels and disease severity. By strengthening the muscles that keep the airway open during sleep, AD109 could offer a new option for people unable to tolerate CPAP.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260831015203.htm",
-      "published_utc": "2026-09-01T04:49:31+00:00",
-      "score": 0,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-db664d85d41e9529/480/320"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "Scientists find a human-only gene that may help explain our brainpower",
-      "summary": "Scientists discovered that human microglia, immune cells that help shape developing brain circuits, can take four to eight years to mature instead of just weeks as they do in mice. The unusually slow process may help explain how the human brain develops its remarkable complexity and cognitive abilities.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260831015141.htm",
-      "published_utc": "2026-09-01T03:54:40+00:00",
-      "score": 2,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-2609b3fde6606a61/480/320"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "High blood sugar may help cancer cells hide from the immune system",
-      "summary": "Researchers discovered a possible way cancer cells hide from the immune system: they build a thick, sugar-rich coating around themselves. High blood sugar can strengthen this protective shield under conditions that resemble the environment inside tumors, with the protein HSF1 playing a key role. Blocking this process could make cancer cells easier for the immune system to recognize and destroy.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260829235950.htm",
-      "published_utc": "2026-09-01T02:39:55+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-9fa9322d213bb158/480/320"
     },
     {
       "section": "science",
@@ -1026,30 +1050,6 @@
       "score": 0,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-32dbe5df15c15f26/480/320"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "Eating more ultra-processed foods may raise prostate cancer risk by 30%",
-      "summary": "Ultra-processed foods make up a huge share of the American diet, and new research suggests they may carry another serious health risk for men. In a nationally representative study of more than 17,000 U.S. men, those who ate more ultra-processed foods, including soft drinks, packaged snacks, cereals, and processed meats, had roughly 24% to 31% higher risks of prostate cancer after accounting for factors such as age, smoking, race and ethnicity, and poverty status.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260826055457.htm",
-      "published_utc": "2026-08-27T11:52:35+00:00",
-      "score": 0,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-347517e3d691aed3/480/320"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "Scientists discover a brain “brake” that can shut down chronic pain",
-      "summary": "Researchers discovered a brain-based “brake” that can shut down chronic nerve pain in mice by calming an overactive pain circuit. Targeting this system more precisely could one day lead to powerful pain relief without affecting opioid receptors throughout the entire body.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260826055442.htm",
-      "published_utc": "2026-08-27T04:46:20+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-66286d90b9f21694/480/320"
     },
     {
       "section": "environment",
@@ -1204,6 +1204,7 @@
       "https://live.staticflickr.com/65535/55494449058_1234ee0888_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/16766653542_d4ca85f3ac_b.jpg",
       "https://live.staticflickr.com/65535/26985388369_05f4ee0360_b.jpg",
       "https://live.staticflickr.com/65535/37918366722_e68cbc80bd_b.jpg",
       "https://live.staticflickr.com/65535/55507651298_190ab1569e_b.jpg",
@@ -1220,10 +1221,10 @@
       "https://live.staticflickr.com/65535/38070895645_fd3564cb4c_b.jpg",
       "https://live.staticflickr.com/65535/16509081847_e509209704_b.jpg",
       "https://live.staticflickr.com/8612/16094040024_4dfe22a747_b.jpg",
-      "https://live.staticflickr.com/65535/16715291732_547cb65d58_b.jpg",
-      "https://live.staticflickr.com/65535/55507741166_53cec3f014_b.jpg"
+      "https://live.staticflickr.com/65535/16715291732_547cb65d58_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/7836734288_d019f1b4f4_b.jpg",
       "https://live.staticflickr.com/65535/55512404285_2204cb873c_b.jpg",
       "https://live.staticflickr.com/65535/55512003773_08fd93f04b_b.jpg",
       "https://live.staticflickr.com/65535/55511721749_71a91558dd_b.jpg",
@@ -1240,12 +1241,11 @@
       "https://live.staticflickr.com/65535/55507804708_d1f6a9dc81_b.jpg",
       "https://live.staticflickr.com/65535/55507444941_cb92f92821_b.jpg",
       "https://live.staticflickr.com/65535/55505664912_b5590c4f80_b.jpg",
-      "https://live.staticflickr.com/65535/55506947570_01b321eeaa_b.jpg",
-      "https://live.staticflickr.com/65535/55506575989_f2f386fe52_b.jpg"
+      "https://live.staticflickr.com/65535/55506947570_01b321eeaa_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
+      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
