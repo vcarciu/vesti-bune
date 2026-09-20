@@ -1,42 +1,90 @@
 {
-  "generated_utc": "2026-09-20T08:00:43+00:00",
+  "generated_utc": "2026-09-20T12:55:32+00:00",
   "sections": {
     "romania": [
       {
         "section": "romania",
         "kind": "ro",
-        "source": "HotNews",
-        "title": "INTERVIU. Mărturie curajoasă a unei celebre compozitoare de la Festivalul Enescu despre lupta cu depresia: „Pentru nimic din ceea ce te frământă”",
-        "summary": "„Nu am înțeles niciodată mitul artistului chinuit, pentru că, în cazul meu, atunci când depresia își face simțită prezența, încetez să mai scriu”, spune Sarah Kirkland Snider, una dintre cele mai apreciate compozitoare contemporane, într-un interviu pentru publicul HotNews. În vârstă de 52 de ani, artista de origine americană scrie o muzică descrisă de The &#8230;",
-        "link": "https://hotnews.ro/marturie-curajoasa-a-unei-celebre-compozitoare-despre-lupta-cu-depresia-este-foarte-important-sa-nu-simti-rusine-pentru-nimic-din-ceea-ce-te-framanta-2352606",
-        "published_utc": "2026-09-20T05:33:06+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-bd58ae10a368995d/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "VIDEO Ideea de afacere a unor liceeni români: un buton de „pauză” pentru agenți AI",
-        "summary": "Patru liceeni din Brașov și Timișoara s-au cunoscut într-o echipă de dezvoltare de servicii IT și au decis să-și dezvolte propriul produs pentru controlarea agenților cu inteligență artificială, cu care au participat până acum la un concurs național și pe care vor să-l extindă la nivel internațional. StartupCafe a vorbit cu trei dintre ei, Raul, &#8230;",
-        "link": "https://hotnews.ro/video-ideea-de-afacere-a-unor-liceeni-romani-un-buton-de-pauza-pentru-agenti-ai-2353386",
-        "published_utc": "2026-09-20T05:23:00+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-cd83dec6bd3fd4d7/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
         "source": "Digi24",
-        "title": "Capcana rețelelor Wi-Fi gratuite: cum îți pot fi furate parolele și banii când te conectezi la internet în aeroport, hotel sau cafenele",
-        "summary": "Internetul gratuit din aeroporturi, hoteluri sau cafenele este comod, dar nu este întotdeauna sigur. Specialiștii avertizează că rețelele publice sunt folosite de hackeri ca să obțină date confidențiale din telefoane și laptopuri, iar utilizatorii își expun astfel parolele, datele personale sau chiar informațiile bancare. Experții în securitate cibernetică recomandă să folosim datele mobile pentru operațiunile importante.",
-        "link": "https://www.digi24.ro/stiri/actualitate/social/capcana-retelelor-wi-fi-gratuite-cum-iti-pot-fi-furate-parolele-si-banii-cand-te-conectezi-la-internet-in-aeroport-hotel-sau-cafenele-3954865",
-        "published_utc": "2026-09-20T04:00:37+00:00",
+        "title": "Haos în școlile aflate încă în șantier. Mii de elevi învață online, hibrid sau în alte clădiri din orașe. „O super zăpăceală”",
+        "summary": "Mii de elevi încă nu au călcat în școlile lor, deși cursurile au început de două săptămâni. Ca întotdeauna, șantierele supraviețuiesc vacanței de vară. În Sfântu Gheorghe, județul Harghita, renovarea liceului costă aproape 7 milioane de lei și are termen de finalizare în vacanța de iarnă. Până atunci, elevii învață cum pot: online, hibrid sau în alte clădiri din oraș. „O super zăpăceală”, spun deopotrivă elevii și părinții.",
+        "link": "https://www.digi24.ro/stiri/haos-in-scolile-aflate-inca-in-santier-mii-de-elevi-invata-online-hibrid-sau-in-alte-cladiri-din-orase-o-super-zapaceala-3955551",
+        "published_utc": "2026-09-20T12:35:42+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOSUyRjE5JTJGMjk2Njc1MF8yOTY2/NzUwX0dldHR5SW1hZ2VzLTE0MDE0MDMz/OTUuanBnJmhhc2g9YjI3ODZjMzRiMzFiMDExOTQ0ODYzZDc5ZjIzNWQ2NmI=.jpg"
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOSUyRjE5JTJGMjk2NzQyOV8yOTY3/NDI5X3Njb2xpLXNhbnRpZXIuanBnJmhh/c2g9ZDFmZDc1ZjhjNWFlNDIzMDM2ZDYxYjNlYTczNzBmMTE=.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "RomaniaPozitiva",
+        "title": "Fotografiile care rămân după un festival. Cum au documentat două tinere povestea BIAF",
+        "summary": "Andreea Iordache și Elena Sâmpetru au fotografiat, ediție după ediție, artiștii, publicul și oamenii care fac Buzău International Arts Festival să existe. La un festival, publicul vede scena, artiștii, luminile&#8230; Articolul Fotografiile care rămân după un festival. Cum au documentat două tinere povestea BIAF apare prima dată în Romania Pozitiva .",
+        "link": "https://www.romaniapozitiva.ro/cultura/fotografiile-care-raman-dupa-un-festival-cum-au-documentat-doua-tinere-povestea-biaf",
+        "published_utc": "2026-09-20T09:39:40+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-a91de4bb0cdf72e1/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "RomaniaPozitiva",
+        "title": "Bilanțul unei veri în mișcare: Sute de pași pe poteci, imunitate și energie prin proiectul „Sibiul Aleargă pe Poteci”",
+        "summary": "Clubul Sportiv Comunitar Sibiu a avut bucuria să poată organiza și desfășura proiecte si evenimente sportive, și în anul 2026, destinate sibienilor și nu numai. Peste două luni de mișcare&#8230; Articolul Bilanțul unei veri în mișcare: Sute de pași pe poteci, imunitate și energie prin proiectul „Sibiul Aleargă pe Poteci” apare prima dată în Romania Pozitiva .",
+        "link": "https://www.romaniapozitiva.ro/oameni-si-comunitati/bilantul-unei-veri-in-miscare-sute-de-pasi-pe-poteci-imunitate-si-energie-prin-proiectul-sibiul-alearga-pe-poteci",
+        "published_utc": "2026-09-20T09:33:07+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-24a7dfac880610cc/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "RomaniaPozitiva",
+        "title": "Artown NOW este un proiect despre oraș. Cu privire la reacțiile generate de intervenția artistică asupra statuii „Domnul Goe” din Gara de Sud, Ploiești.",
+        "summary": "Timp de cinci ediții, Artown NOW a făcut pentru Ploiești un lucru simplu și ușor de verificat: a lăsat ceva în urmă. Fațade cenușii, ziduri industriale și colțuri ignorate ale&#8230; Articolul Artown NOW este un proiect despre oraș. Cu privire la reacțiile generate de intervenția artistică asupra statuii „Domnul Goe&#8221; din Gara de Sud, Ploiești. apare prima dată în Romania Pozitiva .",
+        "link": "https://www.romaniapozitiva.ro/cultura/artown-now-este-un-proiect-despre-oras-cu-privire-la-reactiile-generate-de-interventia-artistica-asupra-statuii-domnul-goe-din-gara-de-sud-ploiesti",
+        "published_utc": "2026-09-20T09:28:42+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-352f13e761ca7168/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "RomaniaPozitiva",
+        "title": "Ritm de festival în Parcul Central: Jazz in the Park Competition își alege astăzi câștigătorii",
+        "summary": "După o sâmbătă cu mii de oameni în parc și cinci trupe care au ridicat ștacheta competiției, ediția se încheie cu concertul JEMMA, câștigătorii din 2025 Cluj-Napoca, 20 septembrie 2026&#8230; Articolul Ritm de festival în Parcul Central: Jazz in the Park Competition își alege astăzi câștigătorii apare prima dată în Romania Pozitiva .",
+        "link": "https://www.romaniapozitiva.ro/cultura/ritm-de-festival-in-parcul-central-jazz-in-the-park-competition-isi-alege-astazi-castigatorii",
+        "published_utc": "2026-09-20T09:26:33+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-1fb508d3dbf883db/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "RomaniaPozitiva",
+        "title": "Dirijorul Tiberiu Dragoș Oprea, speaker la Arena Elevilor, în acest weekend, la Circul Metropolitan",
+        "summary": "În weekendul 19-20 septembrie, la Circul Metropolitan București are loc cel mai mare festival de orientare în carieră pentru tinerii din Europa, Arena Elevilor. Evenimentul este fondat și organizat de&#8230; Articolul Dirijorul Tiberiu Dragoș Oprea, speaker la Arena Elevilor, în acest weekend, la Circul Metropolitan apare prima dată în Romania Pozitiva .",
+        "link": "https://www.romaniapozitiva.ro/bucuresti/dirijorul-tiberiu-dragos-oprea-speaker-la-arena-elevilor-in-acest-weekend-la-circul-metropolitan",
+        "published_utc": "2026-09-20T06:35:24+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-73fa3782b1f74a3c/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 O babă a făcut harta genetică a României după ce întrebat opt milioane de români ai cui sunt",
+        "summary": "Tanti Sofia din comuna Dezgropați (jud. Vâlcea) a reușit după 10 ani de anchetă să stabilească harta genetică a românilor. Rezultatul a fost confirmat și de Institutul Național de Genetică și Institutul Național de Statistică, care au coroborat datele pentru a verifica exactitatea lor. Metoda științifică folosită de tanti Sofia a fost interviul în persoană [&#8230;] The post O babă a făcut harta genetică a României după ce întrebat opt milioane de români ai cui sunt appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/life-death/o-baba-a-facut-harta-genetica-a-romaniei-dupa-ce-intrebat-opt-milioane-de-romani-ai-cui-sunt",
+        "published_utc": "2026-09-19T14:28:21+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2020/07/gauraneagra_babacosmica.jpg"
       },
       {
         "section": "romania",
@@ -53,38 +101,14 @@
       {
         "section": "romania",
         "kind": "ro",
-        "source": "RomaniaPozitiva",
-        "title": "Copiii din Maramureș au scris poveștile comunităților lor",
-        "summary": "În perioada 24–28 august 2026, copiii de 5–7 ani din șase unități și structuri școlare pilot din județul Maramureș au participat la școlile de vară „Poveștile care nu s-au scris&#8230; Articolul Copiii din Maramureș au scris poveștile comunităților lor apare prima dată în Romania Pozitiva .",
-        "link": "https://www.romaniapozitiva.ro/oameni-si-comunitati/copiii-din-maramures-au-scris-povestile-comunitatilor-lor",
-        "published_utc": "2026-09-19T13:54:35+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-ad15589d37e99103/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "RomaniaPozitiva",
-        "title": "Calea Victoriei, scena festivă a Zilelor Bucureștiului, în cadrul proiectului „Străzi Deschise – București, Promenadă urbană”",
-        "summary": "Pe 19 și 20 septembrie 2026, Bucureștiul celebrează 567 de ani de la prima atestare documentară, în cadrul celui mai amplu proiect outdoor al Capitalei, „Străzi Deschise – București, Promenadă&#8230; Articolul Calea Victoriei, scena festivă a Zilelor Bucureștiului, în cadrul proiectului „Străzi Deschise – București, Promenadă urbană” apare prima dată în Romania Pozitiva .",
-        "link": "https://www.romaniapozitiva.ro/cultura/calea-victoriei-scena-festiva-a-zilelor-bucurestiului-in-cadrul-proiectului-strazi-deschise-bucuresti-promenada-urbana",
-        "published_utc": "2026-09-19T06:28:33+00:00",
-        "score": 3,
-        "freshness_boost": 1,
-        "image": "https://picsum.photos/seed/vb-abde565422a79dbf/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
         "source": "Times New Roman (Satira)",
-        "title": "😂 Surse. Dacă torni apă peste Iancu Guda, el încolțește și începe să rodească",
-        "summary": "Foarte mulți români s-au întrebat cine este Iancu Guda, dar mai ales la ce folosește, având în vedere că este tot mai prezent în spațiul public. Surse din zona de afaceri au explicat exact care este scopul analistului care a fost și consilier onorific al premierului interimar Ilie Bolojan. Conform acestora, deși Iancu Guda pare [&#8230;] The post Surse. Dacă torni apă peste Iancu Guda, el încolțește și începe să rodească appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/monden/surse-daca-torni-apa-peste-iancu-guda-el-incolteste-si-incepe-sa-rodeasca",
-        "published_utc": "2026-09-18T15:30:00+00:00",
+        "title": "😂 O femeie și-a luat haine de lână merinos, să nu mai transpire când ajută copilul la teme",
+        "summary": "Pentru că începea să transpire la problemele de matematică ale fiicei sale de clasa a cincea, o româncă a decis să apeleze la o soluție oferită de un brand 100% românesc: hainele de lână merinos, care reglează perfect temperatura corpului și nu permit instalarea mirosurilor neplăcute. Femeia a intrat pe Merinito, de unde și-a comandat [&#8230;] The post O femeie și-a luat haine de lână merinos, să nu mai transpire când ajută copilul la teme appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/life-death/o-femeie-si-a-luat-haine-de-lana-merinos-sa-nu-mai-transpire-cand-ajuta-copilul-la-teme",
+        "published_utc": "2026-09-19T06:33:30+00:00",
         "score": 3,
         "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/09/iancu-guda-incoltit.jpg"
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/09/transpirat_teme.jpg"
       },
       {
         "section": "romania",
@@ -97,18 +121,6 @@
         "score": 3,
         "freshness_boost": 1,
         "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/09/joe-rogan-ilie-bolojan.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 Record la Victoriei. A fost cea mai mare bătaie între ciobani, unii în civil, ceilalți în uniforma Jandarmeriei",
-        "summary": "Piața Victoriei a înregistrat, Guiness World Records, cel mai mare conflict între ciobani din istoria recentă a Capitalei, cu partipanți împărțiți clar pe două turme: unii în civil, ceilalți în uniforma Jandarmeriei. Bilanțul oficial vorbește despre rețineri, amenzi și răniți de ambele părți, fără ca cineva să precizeze care cioban a păzit întâi oile și [&#8230;] The post Record la Victoriei. A fost cea mai mare bătaie între ciobani, unii în civil, ceilalți în uniforma Jandarmeriei appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/life-death/record-la-victoriei-a-fost-cea-mai-mare-bataie-intre-ciobani-unii-in-civil-ceilalti-in-uniforma-jandarmeriei",
-        "published_utc": "2026-09-18T08:30:00+00:00",
-        "score": 3,
-        "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/09/cea-mai-mare-bataie-intre-ciobani.jpg"
       },
       {
         "section": "romania",
@@ -133,6 +145,18 @@
         "score": 3,
         "freshness_boost": 0,
         "image": "https://picsum.photos/seed/vb-bcade832219dfc28/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Green Start-Up Romania",
+        "title": "Renault Trafic E-Tech este „Utilitara Anului 2027”. Ce tehnologii inovatoare integrează",
+        "summary": "Renault Trafic Van E-Tech electric a câștigat titlul „Utilitara Anului 2027”, acordat de juriul International Van Of The Year (IVOTY). Furgoneta 100% electrică are o autonomie de până la 470 km, în...",
+        "link": "https://green.start-up.ro/ro/renault-trafic-e-tech-este-utilitara-anului-2027-ce-tehnologii-inovatoare-integreaza",
+        "published_utc": "2026-09-15T07:51:39+00:00",
+        "score": 3,
+        "freshness_boost": 0,
+        "image": "https://green.start-up.ro/img/articles/3/6/0/36078/cover-36078-src.jpg"
       },
       {
         "section": "romania",
@@ -650,50 +674,98 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "HotNews",
-      "title": "INTERVIU. Mărturie curajoasă a unei celebre compozitoare de la Festivalul Enescu despre lupta cu depresia: „Pentru nimic din ceea ce te frământă”",
-      "summary": "„Nu am înțeles niciodată mitul artistului chinuit, pentru că, în cazul meu, atunci când depresia își face simțită prezența, încetez să mai scriu”, spune Sarah Kirkland Snider, una dintre cele mai apreciate compozitoare contemporane, într-un interviu pentru publicul HotNews. În vârstă de 52 de ani, artista de origine americană scrie o muzică descrisă de The &#8230;",
-      "link": "https://hotnews.ro/marturie-curajoasa-a-unei-celebre-compozitoare-despre-lupta-cu-depresia-este-foarte-important-sa-nu-simti-rusine-pentru-nimic-din-ceea-ce-te-framanta-2352606",
-      "published_utc": "2026-09-20T05:33:06+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-bd58ae10a368995d/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 Surse. Dacă torni apă peste Iancu Guda, el încolțește și începe să rodească",
-      "summary": "Foarte mulți români s-au întrebat cine este Iancu Guda, dar mai ales la ce folosește, având în vedere că este tot mai prezent în spațiul public. Surse din zona de afaceri au explicat exact care este scopul analistului care a fost și consilier onorific al premierului interimar Ilie Bolojan. Conform acestora, deși Iancu Guda pare [&#8230;] The post Surse. Dacă torni apă peste Iancu Guda, el încolțește și începe să rodească appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/monden/surse-daca-torni-apa-peste-iancu-guda-el-incolteste-si-incepe-sa-rodeasca",
-      "published_utc": "2026-09-18T15:30:00+00:00",
-      "score": 3,
-      "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/09/iancu-guda-incoltit.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "HotNews",
-      "title": "VIDEO Ideea de afacere a unor liceeni români: un buton de „pauză” pentru agenți AI",
-      "summary": "Patru liceeni din Brașov și Timișoara s-au cunoscut într-o echipă de dezvoltare de servicii IT și au decis să-și dezvolte propriul produs pentru controlarea agenților cu inteligență artificială, cu care au participat până acum la un concurs național și pe care vor să-l extindă la nivel internațional. StartupCafe a vorbit cu trei dintre ei, Raul, &#8230;",
-      "link": "https://hotnews.ro/video-ideea-de-afacere-a-unor-liceeni-romani-un-buton-de-pauza-pentru-agenti-ai-2353386",
-      "published_utc": "2026-09-20T05:23:00+00:00",
+      "title": "😂 O babă a făcut harta genetică a României după ce întrebat opt milioane de români ai cui sunt",
+      "summary": "Tanti Sofia din comuna Dezgropați (jud. Vâlcea) a reușit după 10 ani de anchetă să stabilească harta genetică a românilor. Rezultatul a fost confirmat și de Institutul Național de Genetică și Institutul Național de Statistică, care au coroborat datele pentru a verifica exactitatea lor. Metoda științifică folosită de tanti Sofia a fost interviul în persoană [&#8230;] The post O babă a făcut harta genetică a României după ce întrebat opt milioane de români ai cui sunt appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/life-death/o-baba-a-facut-harta-genetica-a-romaniei-dupa-ce-intrebat-opt-milioane-de-romani-ai-cui-sunt",
+      "published_utc": "2026-09-19T14:28:21+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-cd83dec6bd3fd4d7/480/320"
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2020/07/gauraneagra_babacosmica.jpg"
     },
     {
       "section": "romania",
       "kind": "ro",
       "source": "Digi24",
-      "title": "Capcana rețelelor Wi-Fi gratuite: cum îți pot fi furate parolele și banii când te conectezi la internet în aeroport, hotel sau cafenele",
-      "summary": "Internetul gratuit din aeroporturi, hoteluri sau cafenele este comod, dar nu este întotdeauna sigur. Specialiștii avertizează că rețelele publice sunt folosite de hackeri ca să obțină date confidențiale din telefoane și laptopuri, iar utilizatorii își expun astfel parolele, datele personale sau chiar informațiile bancare. Experții în securitate cibernetică recomandă să folosim datele mobile pentru operațiunile importante.",
-      "link": "https://www.digi24.ro/stiri/actualitate/social/capcana-retelelor-wi-fi-gratuite-cum-iti-pot-fi-furate-parolele-si-banii-cand-te-conectezi-la-internet-in-aeroport-hotel-sau-cafenele-3954865",
-      "published_utc": "2026-09-20T04:00:37+00:00",
+      "title": "Haos în școlile aflate încă în șantier. Mii de elevi învață online, hibrid sau în alte clădiri din orașe. „O super zăpăceală”",
+      "summary": "Mii de elevi încă nu au călcat în școlile lor, deși cursurile au început de două săptămâni. Ca întotdeauna, șantierele supraviețuiesc vacanței de vară. În Sfântu Gheorghe, județul Harghita, renovarea liceului costă aproape 7 milioane de lei și are termen de finalizare în vacanța de iarnă. Până atunci, elevii învață cum pot: online, hibrid sau în alte clădiri din oraș. „O super zăpăceală”, spun deopotrivă elevii și părinții.",
+      "link": "https://www.digi24.ro/stiri/haos-in-scolile-aflate-inca-in-santier-mii-de-elevi-invata-online-hibrid-sau-in-alte-cladiri-din-orase-o-super-zapaceala-3955551",
+      "published_utc": "2026-09-20T12:35:42+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOSUyRjE5JTJGMjk2Njc1MF8yOTY2/NzUwX0dldHR5SW1hZ2VzLTE0MDE0MDMz/OTUuanBnJmhhc2g9YjI3ODZjMzRiMzFiMDExOTQ0ODYzZDc5ZjIzNWQ2NmI=.jpg"
+      "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOSUyRjE5JTJGMjk2NzQyOV8yOTY3/NDI5X3Njb2xpLXNhbnRpZXIuanBnJmhh/c2g9ZDFmZDc1ZjhjNWFlNDIzMDM2ZDYxYjNlYTczNzBmMTE=.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "RomaniaPozitiva",
+      "title": "Fotografiile care rămân după un festival. Cum au documentat două tinere povestea BIAF",
+      "summary": "Andreea Iordache și Elena Sâmpetru au fotografiat, ediție după ediție, artiștii, publicul și oamenii care fac Buzău International Arts Festival să existe. La un festival, publicul vede scena, artiștii, luminile&#8230; Articolul Fotografiile care rămân după un festival. Cum au documentat două tinere povestea BIAF apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/cultura/fotografiile-care-raman-dupa-un-festival-cum-au-documentat-doua-tinere-povestea-biaf",
+      "published_utc": "2026-09-20T09:39:40+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-a91de4bb0cdf72e1/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "RomaniaPozitiva",
+      "title": "Bilanțul unei veri în mișcare: Sute de pași pe poteci, imunitate și energie prin proiectul „Sibiul Aleargă pe Poteci”",
+      "summary": "Clubul Sportiv Comunitar Sibiu a avut bucuria să poată organiza și desfășura proiecte si evenimente sportive, și în anul 2026, destinate sibienilor și nu numai. Peste două luni de mișcare&#8230; Articolul Bilanțul unei veri în mișcare: Sute de pași pe poteci, imunitate și energie prin proiectul „Sibiul Aleargă pe Poteci” apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/oameni-si-comunitati/bilantul-unei-veri-in-miscare-sute-de-pasi-pe-poteci-imunitate-si-energie-prin-proiectul-sibiul-alearga-pe-poteci",
+      "published_utc": "2026-09-20T09:33:07+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-24a7dfac880610cc/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "RomaniaPozitiva",
+      "title": "Artown NOW este un proiect despre oraș. Cu privire la reacțiile generate de intervenția artistică asupra statuii „Domnul Goe” din Gara de Sud, Ploiești.",
+      "summary": "Timp de cinci ediții, Artown NOW a făcut pentru Ploiești un lucru simplu și ușor de verificat: a lăsat ceva în urmă. Fațade cenușii, ziduri industriale și colțuri ignorate ale&#8230; Articolul Artown NOW este un proiect despre oraș. Cu privire la reacțiile generate de intervenția artistică asupra statuii „Domnul Goe&#8221; din Gara de Sud, Ploiești. apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/cultura/artown-now-este-un-proiect-despre-oras-cu-privire-la-reactiile-generate-de-interventia-artistica-asupra-statuii-domnul-goe-din-gara-de-sud-ploiesti",
+      "published_utc": "2026-09-20T09:28:42+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-352f13e761ca7168/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "RomaniaPozitiva",
+      "title": "Ritm de festival în Parcul Central: Jazz in the Park Competition își alege astăzi câștigătorii",
+      "summary": "După o sâmbătă cu mii de oameni în parc și cinci trupe care au ridicat ștacheta competiției, ediția se încheie cu concertul JEMMA, câștigătorii din 2025 Cluj-Napoca, 20 septembrie 2026&#8230; Articolul Ritm de festival în Parcul Central: Jazz in the Park Competition își alege astăzi câștigătorii apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/cultura/ritm-de-festival-in-parcul-central-jazz-in-the-park-competition-isi-alege-astazi-castigatorii",
+      "published_utc": "2026-09-20T09:26:33+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-1fb508d3dbf883db/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 O femeie și-a luat haine de lână merinos, să nu mai transpire când ajută copilul la teme",
+      "summary": "Pentru că începea să transpire la problemele de matematică ale fiicei sale de clasa a cincea, o româncă a decis să apeleze la o soluție oferită de un brand 100% românesc: hainele de lână merinos, care reglează perfect temperatura corpului și nu permit instalarea mirosurilor neplăcute. Femeia a intrat pe Merinito, de unde și-a comandat [&#8230;] The post O femeie și-a luat haine de lână merinos, să nu mai transpire când ajută copilul la teme appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/life-death/o-femeie-si-a-luat-haine-de-lana-merinos-sa-nu-mai-transpire-cand-ajuta-copilul-la-teme",
+      "published_utc": "2026-09-19T06:33:30+00:00",
+      "score": 3,
+      "freshness_boost": 1,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/09/transpirat_teme.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "RomaniaPozitiva",
+      "title": "Dirijorul Tiberiu Dragoș Oprea, speaker la Arena Elevilor, în acest weekend, la Circul Metropolitan",
+      "summary": "În weekendul 19-20 septembrie, la Circul Metropolitan București are loc cel mai mare festival de orientare în carieră pentru tinerii din Europa, Arena Elevilor. Evenimentul este fondat și organizat de&#8230; Articolul Dirijorul Tiberiu Dragoș Oprea, speaker la Arena Elevilor, în acest weekend, la Circul Metropolitan apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/bucuresti/dirijorul-tiberiu-dragos-oprea-speaker-la-arena-elevilor-in-acest-weekend-la-circul-metropolitan",
+      "published_utc": "2026-09-20T06:35:24+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-73fa3782b1f74a3c/480/320"
     },
     {
       "section": "romania",
@@ -710,30 +782,6 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "Copiii din Maramureș au scris poveștile comunităților lor",
-      "summary": "În perioada 24–28 august 2026, copiii de 5–7 ani din șase unități și structuri școlare pilot din județul Maramureș au participat la școlile de vară „Poveștile care nu s-au scris&#8230; Articolul Copiii din Maramureș au scris poveștile comunităților lor apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/oameni-si-comunitati/copiii-din-maramures-au-scris-povestile-comunitatilor-lor",
-      "published_utc": "2026-09-19T13:54:35+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-ad15589d37e99103/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "Calea Victoriei, scena festivă a Zilelor Bucureștiului, în cadrul proiectului „Străzi Deschise – București, Promenadă urbană”",
-      "summary": "Pe 19 și 20 septembrie 2026, Bucureștiul celebrează 567 de ani de la prima atestare documentară, în cadrul celui mai amplu proiect outdoor al Capitalei, „Străzi Deschise – București, Promenadă&#8230; Articolul Calea Victoriei, scena festivă a Zilelor Bucureștiului, în cadrul proiectului „Străzi Deschise – București, Promenadă urbană” apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/cultura/calea-victoriei-scena-festiva-a-zilelor-bucurestiului-in-cadrul-proiectului-strazi-deschise-bucuresti-promenada-urbana",
-      "published_utc": "2026-09-19T06:28:33+00:00",
-      "score": 3,
-      "freshness_boost": 1,
-      "image": "https://picsum.photos/seed/vb-abde565422a79dbf/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "Times New Roman (Satira)",
       "title": "😂 Joe Rogan agresat pe stradă: “Morții mă-tii Ilie Sărăcie, ai tăiat bursele copiilor”",
       "summary": "Un incident neplăcut a avut loc în această dimineață în localitatea Austin din statul american Texas. Cunoscutul comentator UFC și podcaster Joe Rogan, aflat la cumpărături cu familia la piața de produse agricole tradiționale &#8222;Saint Antonio&#8221; a fost agresat de un grup de români care l-au confundat cu premierul interimar Ilie Bolojan. Conform martorilor oculari, [&#8230;] The post Joe Rogan agresat pe stradă: “Morții mă-tii Ilie Sărăcie, ai tăiat bursele copiilor” appeared first on Times New Roman .",
@@ -742,18 +790,6 @@
       "score": 3,
       "freshness_boost": 1,
       "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/09/joe-rogan-ilie-bolojan.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Record la Victoriei. A fost cea mai mare bătaie între ciobani, unii în civil, ceilalți în uniforma Jandarmeriei",
-      "summary": "Piața Victoriei a înregistrat, Guiness World Records, cel mai mare conflict între ciobani din istoria recentă a Capitalei, cu partipanți împărțiți clar pe două turme: unii în civil, ceilalți în uniforma Jandarmeriei. Bilanțul oficial vorbește despre rețineri, amenzi și răniți de ambele părți, fără ca cineva să precizeze care cioban a păzit întâi oile și [&#8230;] The post Record la Victoriei. A fost cea mai mare bătaie între ciobani, unii în civil, ceilalți în uniforma Jandarmeriei appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/record-la-victoriei-a-fost-cea-mai-mare-bataie-intre-ciobani-unii-in-civil-ceilalti-in-uniforma-jandarmeriei",
-      "published_utc": "2026-09-18T08:30:00+00:00",
-      "score": 3,
-      "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/09/cea-mai-mare-bataie-intre-ciobani.jpg"
     },
     {
       "section": "romania",
@@ -778,6 +814,18 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-bcade832219dfc28/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Green Start-Up Romania",
+      "title": "Renault Trafic E-Tech este „Utilitara Anului 2027”. Ce tehnologii inovatoare integrează",
+      "summary": "Renault Trafic Van E-Tech electric a câștigat titlul „Utilitara Anului 2027”, acordat de juriul International Van Of The Year (IVOTY). Furgoneta 100% electrică are o autonomie de până la 470 km, în...",
+      "link": "https://green.start-up.ro/ro/renault-trafic-e-tech-este-utilitara-anului-2027-ce-tehnologii-inovatoare-integreaza",
+      "published_utc": "2026-09-15T07:51:39+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://green.start-up.ro/img/articles/3/6/0/36078/cover-36078-src.jpg"
     },
     {
       "section": "romania",
@@ -816,6 +864,18 @@
       "image": "https://picsum.photos/seed/vb-34046a23d0756f92/480/320"
     },
     {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Power breeds suspicion: In cases of wrongdoing, people point to leaders more quickly",
+      "summary": "People with power are more quickly singled out as the culprit when something goes wrong but it is unclear who made the mistake. That is shown by a series of studies by researchers at the University of Amsterdam. In one, they analyzed almost 100,000 everyday conflicts on the Reddit page \"Am I the Asshole?\" According to the researchers, people with power are more readily blamed because others think they can \"get away with anything.\" The findings are published in the Journal of Personality and Social Psychology.",
+      "link": "https://phys.org/news/2026-09-power-suspicion-cases-wrongdoing-people.html",
+      "published_utc": "2026-09-18T19:00:01+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/leader.jpg"
+    },
+    {
       "section": "romania",
       "kind": "ro",
       "source": "World Vision Romania",
@@ -840,16 +900,16 @@
       "image": "https://picsum.photos/seed/vb-66ae0710cdcfadaf/480/320"
     },
     {
-      "section": "science",
+      "section": "medical",
       "kind": "global",
-      "source": "Phys.org",
-      "title": "Power breeds suspicion: In cases of wrongdoing, people point to leaders more quickly",
-      "summary": "People with power are more quickly singled out as the culprit when something goes wrong but it is unclear who made the mistake. That is shown by a series of studies by researchers at the University of Amsterdam. In one, they analyzed almost 100,000 everyday conflicts on the Reddit page \"Am I the Asshole?\" According to the researchers, people with power are more readily blamed because others think they can \"get away with anything.\" The findings are published in the Journal of Personality and Social Psychology.",
-      "link": "https://phys.org/news/2026-09-power-suspicion-cases-wrongdoing-people.html",
-      "published_utc": "2026-09-18T19:00:01+00:00",
+      "source": "Medical Xpress",
+      "title": "A single protein may help aggressive breast cancer spread to the brain and evade immune defenses",
+      "summary": "Researchers at Wake Forest University School of Medicine have identified a protein that may help an aggressive form of breast cancer spread to the brain and escape the body's immune defenses.",
+      "link": "https://medicalxpress.com/news/2026-09-protein-aggressive-breast-cancer-brain.html",
+      "published_utc": "2026-09-18T18:40:11+00:00",
       "score": 1,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/leader.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/breast-cancer-7.jpg"
     },
     {
       "section": "romania",
@@ -876,16 +936,16 @@
       "image": "https://picsum.photos/seed/vb-8dbf1fa14fbad960/480/320"
     },
     {
-      "section": "medical",
+      "section": "science",
       "kind": "global",
-      "source": "Medical Xpress",
-      "title": "A single protein may help aggressive breast cancer spread to the brain and evade immune defenses",
-      "summary": "Researchers at Wake Forest University School of Medicine have identified a protein that may help an aggressive form of breast cancer spread to the brain and escape the body's immune defenses.",
-      "link": "https://medicalxpress.com/news/2026-09-protein-aggressive-breast-cancer-brain.html",
-      "published_utc": "2026-09-18T18:40:11+00:00",
+      "source": "Phys.org",
+      "title": "Europe can lower emissions without deindustrializing, say researchers",
+      "summary": "The European Union has committed to achieving climate neutrality by 2050, a process that will require rapid and substantial reductions in greenhouse gas emissions across all economic sectors.",
+      "link": "https://phys.org/news/2026-09-europe-emissions-deindustrializing.html",
+      "published_utc": "2026-09-18T18:40:07+00:00",
       "score": 1,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/breast-cancer-7.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/europe-can-lower-emiss.jpg"
     },
     {
       "section": "romania",
@@ -898,18 +958,6 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-5fcb6453c2c12bfa/480/320"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Europe can lower emissions without deindustrializing, say researchers",
-      "summary": "The European Union has committed to achieving climate neutrality by 2050, a process that will require rapid and substantial reductions in greenhouse gas emissions across all economic sectors.",
-      "link": "https://phys.org/news/2026-09-europe-emissions-deindustrializing.html",
-      "published_utc": "2026-09-18T18:40:07+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/europe-can-lower-emiss.jpg"
     },
     {
       "section": "medical",
@@ -1286,12 +1334,12 @@
   ],
   "joke_ro": {
     "date_utc": "2026-09-20",
-    "text": "Ce faci diseara? - Ma odihnesc de la cat n-am facut azi.",
+    "text": "Mi-am luat sticla de apa ca sa fiu adult responsabil. Am umplut-o cu suc.",
     "source": "data/jokes_ro.txt"
   },
   "satire_ro": {
-    "title": "Și la alții e nasol: ungurii au obținut rezultate dezastruoase la testele PIȘTA",
-    "link": "https://www.timesnewroman.ro/life-death/si-la-altii-e-nasol-ungurii-au-obtinut-rezultate-dezastruoase-la-testele-pista/",
+    "title": "Cine e românul care se uită la volei masculin, deși n-are nici o rudă în echipă",
+    "link": "https://www.timesnewroman.ro/sport/cine-e-romanul-care-se-uita-la-volei-masculin-desi-n-are-nicio-ruda-in-echipa/",
     "source": "timesnewroman.ro"
   },
   "top_images": [
@@ -1299,23 +1347,24 @@
       "tag": "space",
       "title": "Space",
       "link": "https://commons.wikimedia.org/wiki/Category:Astronomy",
-      "image": "https://live.staticflickr.com/65535/55538514524_6fbac3bffd_b.jpg"
+      "image": "https://live.staticflickr.com/65535/55539218281_35d12ce569_b.jpg"
     },
     {
       "tag": "animals",
       "title": "Animals",
       "link": "https://commons.wikimedia.org/wiki/Category:Animals",
-      "image": "https://live.staticflickr.com/65535/55538450261_407caf05e9_b.jpg"
+      "image": "https://live.staticflickr.com/65535/55539741785_f53c6545eb_b.jpg"
     },
     {
       "tag": "landscape",
       "title": "Landscape",
       "link": "https://commons.wikimedia.org/wiki/Category:Landscapes",
-      "image": "https://live.staticflickr.com/65535/55538439961_6893f7fd07_b.jpg"
+      "image": "https://live.staticflickr.com/65535/55539377794_71463dc276_b.jpg"
     }
   ],
   "top_image_history": {
     "space": [
+      "https://live.staticflickr.com/65535/55539218281_35d12ce569_b.jpg",
       "https://live.staticflickr.com/65535/55538514524_6fbac3bffd_b.jpg",
       "https://live.staticflickr.com/video/55536056197/889a61a586/360p.mp4?s=eyJpIjo1NTUzNjA1NjE5NywiZSI6MTc4OTgyNjU5MSwicyI6ImQxZTg5NjMyMWJjNDE3ZTA5OTllMTQzMjhmNTE4NGNlZDBlMmFmZWYiLCJ2IjoxfQ",
       "https://live.staticflickr.com/65535/55536326036_ee13a85270_b.jpg",
@@ -1332,10 +1381,10 @@
       "https://live.staticflickr.com/65535/55525342798_f9994d9ea0_b.jpg",
       "https://live.staticflickr.com/video/55523865916/2cc554dcde/360p.mp4?s=eyJpIjo1NTUyMzg2NTkxNiwiZSI6MTc4OTI2NjE2MiwicyI6IjA4ZjQ1ZmM4YTExNDg3MDUxOTNmNGJjOTc2ZTk1ODMzZWJiYzE2OTQiLCJ2IjoxfQ",
       "https://live.staticflickr.com/65535/55523494428_c60f2e816c_b.jpg",
-      "https://live.staticflickr.com/65535/55522412261_9aed7e142a_b.jpg",
-      "https://live.staticflickr.com/65535/55521906736_f16684920d_b.jpg"
+      "https://live.staticflickr.com/65535/55522412261_9aed7e142a_b.jpg"
     ],
     "animals": [
+      "https://live.staticflickr.com/65535/55539741785_f53c6545eb_b.jpg",
       "https://live.staticflickr.com/65535/55538450261_407caf05e9_b.jpg",
       "https://live.staticflickr.com/65535/55537443459_3c591277d2_b.jpg",
       "https://live.staticflickr.com/65535/55536606416_31b26ac61d_b.jpg",
@@ -1352,10 +1401,10 @@
       "https://live.staticflickr.com/65535/55525416866_ba32ea0129_b.jpg",
       "https://live.staticflickr.com/65535/55524992830_dfff79ef9d_z.jpg",
       "https://live.staticflickr.com/65535/55524029930_1d1d489921_b.jpg",
-      "https://live.staticflickr.com/65535/55523064480_b045f65698_b.jpg",
-      "https://live.staticflickr.com/65535/55521893883_90b8e76929_b.jpg"
+      "https://live.staticflickr.com/65535/55523064480_b045f65698_b.jpg"
     ],
     "landscape": [
+      "https://live.staticflickr.com/65535/55539377794_71463dc276_b.jpg",
       "https://live.staticflickr.com/65535/55538439961_6893f7fd07_b.jpg",
       "https://live.staticflickr.com/65535/55537511789_1c5804f1c9_b.jpg",
       "https://live.staticflickr.com/65535/55536331769_816c28f024_b.jpg",
@@ -1372,10 +1421,10 @@
       "https://live.staticflickr.com/65535/55524399912_a9700d98ca_b.jpg",
       "https://live.staticflickr.com/65535/55524426429_ae116365bc_b.jpg",
       "https://live.staticflickr.com/65535/55523478989_f738ccf2cd_b.jpg",
-      "https://live.staticflickr.com/65535/55522833986_a4ea2a8f76_b.jpg",
-      "https://live.staticflickr.com/65535/55522269765_58c8a013b6_b.jpg"
+      "https://live.staticflickr.com/65535/55522833986_a4ea2a8f76_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/55529864030_ff0489d621_b.jpg",
       "https://live.staticflickr.com/4349/35777161863_0141687bfa_b.jpg",
       "https://live.staticflickr.com/65535/55529407421_e46d2da406_b.jpg",
       "https://live.staticflickr.com/65535/55535898091_6068218f1c_b.jpg",
@@ -1392,10 +1441,10 @@
       "https://live.staticflickr.com/4158/34642907951_40fb137f75_b.jpg",
       "https://live.staticflickr.com/4435/37370319745_71f8de6c4a_b.jpg",
       "https://live.staticflickr.com/65535/37066949783_48dce537f2_b.jpg",
-      "https://live.staticflickr.com/65535/55534284553_3aeed80ac5_b.jpg",
-      "https://live.staticflickr.com/65535/34609287522_d85dfd01f3_b.jpg"
+      "https://live.staticflickr.com/65535/55534284553_3aeed80ac5_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55539266581_ac33beab37_b.jpg",
       "https://live.staticflickr.com/65535/55537909042_44b150a0db_b.jpg",
       "https://live.staticflickr.com/65535/55538528031_b134e6b8bb_b.jpg",
       "https://live.staticflickr.com/65535/55537162407_547572560d_b.jpg",
@@ -1412,12 +1461,11 @@
       "https://live.staticflickr.com/65535/55535510014_241f8100f1_b.jpg",
       "https://live.staticflickr.com/65535/55535006716_ccaf536875_b.jpg",
       "https://live.staticflickr.com/65535/55535113570_1ee50d628a_b.jpg",
-      "https://live.staticflickr.com/65535/55534935080_7ef49b84ee_b.jpg",
-      "https://live.staticflickr.com/65535/55534392368_66fb8112bd_b.jpg"
+      "https://live.staticflickr.com/65535/55534935080_7ef49b84ee_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
+      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
