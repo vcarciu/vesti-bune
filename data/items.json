@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-09-27T19:24:18+00:00",
+  "generated_utc": "2026-09-27T22:39:37+00:00",
   "sections": {
     "romania": [
       {
@@ -77,18 +77,6 @@
       {
         "section": "romania",
         "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 În Tulcea are loc azi parada mașinilor de epocă, cu Loganuri din 2004",
-        "summary": "Parada mașinilor de epocă s-a deschis, sâmbătă, pe faleza orașului, cu un pluton de Dacia Logan fabricate în 2004. Organizatorii le-au încadrat la „antebelic recent”. Criteriul de vechime a fost rugina de la prag și faptul că radioul încă are casetă. La start s-au prezentat patruzeci de exemplare, majoritatea gri. Un juriu de la clubul [&#8230;] The post În Tulcea are loc azi parada mașinilor de epocă, cu Loganuri din 2004 appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/life-death/in-tulcea-are-loc-azi-parada-masinilor-de-epoca-cu-loganuri-din-2004",
-        "published_utc": "2026-09-26T14:25:17+00:00",
-        "score": 3,
-        "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/09/parada-masini-ecpoca.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
         "source": "RomaniaPozitiva",
         "title": "„Atlasul Universului”, inclus pe lista nominalizărilor la Premiile Criticilor Arabi pentru Filme Europene!",
         "summary": "Filmul selectat la Cinekid Film Festival, cel mai mare festival internațional de film, televiziune și new media pentru copii și în competițiile festivalurilor internaționale de film de la Zurich și&#8230; Articolul „Atlasul Universului”, inclus pe lista nominalizărilor la Premiile Criticilor Arabi pentru Filme Europene! apare prima dată în Romania Pozitiva .",
@@ -121,6 +109,18 @@
         "score": 3,
         "freshness_boost": 1,
         "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/09/hoti-corupti-recorder.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 Ca să nu mai picăm tesele PISA vor fi aduși profesori capabili să le facă elevilor fițuici ca lumea",
+        "summary": "Ministerul Educației a anunțat, ieri, că a luat primele măsuri referitoare la rezultatele slabe la testele PISA, pentru a nu ne mai face de rușine la aceste competiții internaționale. Pe scurt, ME va aloca fonduri pentru profesori și specialiști capabili să facă niște fițuici ca lumea, de pe care se va putea copia în aproape [&#8230;] The post Ca să nu mai picăm tesele PISA vor fi aduși profesori capabili să le facă elevilor fițuici ca lumea appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/life-death/ca-sa-nu-mai-picam-tesele-pisa-vor-fi-adusi-profesori-capabili-sa-le-faca-elevilor-fituici-ca-lumea",
+        "published_utc": "2026-09-26T07:06:09+00:00",
+        "score": 3,
+        "freshness_boost": 1,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/09/fituici-pentru-pisa-profesori.jpg"
       },
       {
         "section": "romania",
@@ -235,194 +235,98 @@
       {
         "section": "medical",
         "kind": "global",
-        "source": "ScienceDaily Health",
-        "title": "Glucosamine, a popular joint supplement, linked to faster Alzheimer’s progression",
-        "summary": "A large health-record analysis found that glucosamine use was associated with a 25% higher likelihood of mild cognitive impairment progressing to dementia. Lab experiments suggest the popular joint supplement may intensify an abnormal sugar-tagging process in the Alzheimer’s brain, although researchers say clinical trials are needed to determine whether it actually causes harm.",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260927033754.htm",
-        "published_utc": "2026-09-27T13:53:39+00:00",
-        "score": 3,
+        "source": "Medical Xpress",
+        "title": "Insomnia linked to higher risk of stroke",
+        "summary": "Insomnia is associated with a 26% higher risk of stroke and 28% higher odds of hospital admission, according to new research in Sleep Medicine Reviews. The researchers say the findings support recognizing insomnia as an important marker of brain, mental and general health.",
+        "link": "https://medicalxpress.com/news/2026-09-insomnia-linked-higher.html",
+        "published_utc": "2026-09-27T22:10:05+00:00",
+        "score": 0,
         "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-f3d6cf7b11185fd2/480/320"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/awake-at-night-1.jpg"
       },
       {
         "section": "medical",
         "kind": "global",
-        "source": "ScienceDaily Health",
-        "title": "Atrial fibrillation patients saw 69% lower risk with common blood thinners",
-        "summary": "Direct oral anticoagulants cut the risk of serious clinical events by 69% in atrial fibrillation patients with an intermediate risk of stroke, according to the randomized SINGLE-AF trial. The benefit was driven mainly by fewer ischemic strokes, with no increase in major bleeding.",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260925005439.htm",
-        "published_utc": "2026-09-27T13:41:36+00:00",
+        "source": "Medical Xpress",
+        "title": "Millions more people with overweight could benefit from GLP-1 drugs to protect heart health, study suggests",
+        "summary": "New research being presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, Sept. 28–Oct. 2, makes a case for extending the indication for GLP-1 receptor agonists (GLP1-RAs) to millions more people to protect their heart health.",
+        "link": "https://medicalxpress.com/news/2026-09-millions-people-overweight-benefit-glp.html",
+        "published_utc": "2026-09-27T22:10:01+00:00",
         "score": 1,
         "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-08ca1a1830573436/480/320"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "ScienceDaily Health",
-        "title": "One CRISPR treatment cut “bad” cholesterol in half for a full year",
-        "summary": "A single dose of an experimental CRISPR therapy cut LDL cholesterol and triglycerides by about half in patients with difficult-to-treat lipid disorders. The reductions were still present one year later, with the highest dose lowering LDL by 52.5% and triglycerides by 47.8%.",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260925005434.htm",
-        "published_utc": "2026-09-27T13:15:21+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-b418686e62d6486b/480/320"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/glp-1-medications.jpg"
       },
       {
         "section": "medical",
         "kind": "global",
         "source": "Medical Xpress",
-        "title": "Uterus transplants help women achieve successful pregnancies, analysis shows",
-        "summary": "A decade of uterus transplantation in the United States has resulted in dozens of healthy births and steadily improving surgical outcomes, according to a new national review led by researchers from the Perelman School of Medicine at the University of Pennsylvania.",
-        "link": "https://medicalxpress.com/news/2026-09-uterus-transplants-women-successful-pregnancies.html",
-        "published_utc": "2026-09-27T13:00:01+00:00",
-        "score": 3,
+        "title": "Sugar molecule in red meat linked to higher risk of developing type 2 diabetes",
+        "summary": "Preliminary results of an observational study presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, Sept. 28–Oct. 2, show that high consumption of a sugar called dietary N-glycolylneuraminic acid (Neu5Gc), which is common in red meat, is associated with a 63% higher risk of developing type 2 diabetes (T2D). The association held after researchers accounted for other T2D risk factors, including physical activity, overall diet, smoking status and other health conditions.",
+        "link": "https://medicalxpress.com/news/2026-09-sugar-molecule-red-meat-linked.html",
+        "published_utc": "2026-09-27T22:00:06+00:00",
+        "score": 1,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2017/pregnant.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/red-meat.jpg"
       },
       {
         "section": "medical",
         "kind": "global",
         "source": "Medical Xpress",
-        "title": "Nasal spray brings pain relief for children treated in the emergency department",
-        "summary": "A pain treatment delivered by nasal spray offers an effective, needle-free option for children being seen in emergency departments for a range of injuries, according to research presented at the European Emergency Medicine Congress.",
-        "link": "https://medicalxpress.com/news/2026-09-nasal-spray-pain-relief-children.html",
-        "published_utc": "2026-09-27T12:00:01+00:00",
-        "score": 2,
+        "title": "Continuous glucose monitoring may lower mortality risk in diabetic patients on insulin",
+        "summary": "People with type 2 diabetes (T2D) who began using continuous glucose monitoring (CGM) while receiving basal insulin had a 44% lower risk of dying from any cause after one year than those who did not use CGM, according to an analysis of patient data being presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, Sept. 28–Oct. 2. After two years, their risk was 35% lower.",
+        "link": "https://medicalxpress.com/news/2026-09-glucose-mortality-diabetic-patients-insulin.html",
+        "published_utc": "2026-09-27T22:00:04+00:00",
+        "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/nasal-spray.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "ScienceDaily Health",
-        "title": "Why rheumatoid arthritis pain may persist even when inflammation is under control",
-        "summary": "Pain and fatigue in rheumatoid arthritis can persist even after inflammation improves, with depression, poor sleep, obesity, smoking, and chronic pain potentially helping sustain symptoms. Researchers say identifying these hidden drivers could prevent unnecessary medication changes and lead to more personalized treatment.",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260925093208.htm",
-        "published_utc": "2026-09-27T10:49:13+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-9bb8a7c5e9f54ab7/480/320"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2021/glucose-monitor.jpg"
       },
       {
         "section": "medical",
         "kind": "global",
         "source": "Medical Xpress",
-        "title": "One shot or two? What to know about HPV vaccination recommendations",
-        "summary": "Preteens may soon have something to celebrate: Medical experts are discussing the possibility that one dose of a life-saving cancer vaccine, instead of two, may be enough to protect them.",
-        "link": "https://medicalxpress.com/news/2026-09-shot-hpv-vaccination.html",
-        "published_utc": "2026-09-27T10:27:54+00:00",
+        "title": "Exam stress linked to raised blood sugar levels in non-diabetic medical students",
+        "summary": "Exam stress is associated with significant increases in blood sugar levels in medical students during exams and in the days leading up to them, according to new research being presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy (Sept. 28–Oct. 2). The findings highlight the measurable metabolic impact of acute psychological stress.",
+        "link": "https://medicalxpress.com/news/2026-09-exam-stress-linked-blood-sugar.html",
+        "published_utc": "2026-09-27T22:00:01+00:00",
+        "score": 1,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/exam-stress.jpg"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "Medical Xpress",
+        "title": "Real-world data indicate lower adherence rates for breast cancer endocrine therapy when radiation therapy is omitted",
+        "summary": "Many patients with early-stage breast cancer do not consistently maintain the long-term hormone therapy prescribed after lumpectomy, a large U.S. insurance claims analysis indicates. The findings provide real-world context for treatment approaches that consider omitting radiation therapy, which typically rely on the expectation that patients will continue taking medication for at least five years.",
+        "link": "https://medicalxpress.com/news/2026-09-real-world-adherence-breast-cancer.html",
+        "published_utc": "2026-09-27T21:20:01+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/one-shot-or-two-what-t.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2021/breast-cancer-1.jpg"
       },
       {
         "section": "medical",
         "kind": "global",
-        "source": "ScienceDaily Health",
-        "title": "Scientists say house cats could help unlock better cancer treatments for humans",
-        "summary": "Scientists have mapped the genetics of cat cancer on an unprecedented scale and found surprising similarities with tumors in humans. The findings could help bring precision cancer treatments to cats while also revealing new clues about how human cancers develop and respond to drugs.",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260924231826.htm",
-        "published_utc": "2026-09-27T02:01:42+00:00",
+        "source": "Medical Xpress",
+        "title": "Routine newborn screening could catch cytomegalovirus infections before problems appear",
+        "summary": "A newborn can look perfectly healthy, pass a hearing test and still carry an infection that may affect hearing or development later in childhood. That is the challenge posed by congenital cytomegalovirus, or cCMV, one of the most common infections passed from a mother to a baby during pregnancy. Most babies born with the virus show no obvious signs at birth, making it difficult to know which children may need closer monitoring.",
+        "link": "https://medicalxpress.com/news/2026-09-routine-newborn-screening-cytomegalovirus-infections.html",
+        "published_utc": "2026-09-27T21:00:06+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-c93857ec07f77d71/480/320"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/newborn-4.jpg"
       },
       {
         "section": "medical",
         "kind": "global",
-        "source": "ScienceDaily Health",
-        "title": "Coffee doesn’t have to keep you awake to disrupt your sleep",
-        "summary": "Caffeine may make sleep less restorative even when you fall asleep normally and stay in bed for eight hours, with EEG recordings revealing fewer of the slow brain waves associated with deep sleep. Individual sensitivity varies dramatically, meaning even caffeine consumed earlier in the day could affect nighttime recovery for some people.",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260922005719.htm",
-        "published_utc": "2026-09-22T13:42:49+00:00",
-        "score": 0,
-        "freshness_boost": 0,
-        "image": "https://picsum.photos/seed/vb-1f5ccfb1566c66d1/480/320"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "ScienceDaily Health",
-        "title": "Scientists find a natural gut compound that helps heal the intestine",
-        "summary": "A natural compound produced by gut bacteria after digesting foods such as pomegranates, walnuts, and berries may help repair and protect the intestinal lining. The discovery reveals a surprising beneficial side of an inflammatory pathway and could inspire more targeted treatments for Crohn’s disease and ulcerative colitis.",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260916232529.htm",
-        "published_utc": "2026-09-17T11:13:50+00:00",
-        "score": 3,
-        "freshness_boost": 0,
-        "image": "https://picsum.photos/seed/vb-234eafd00222d050/480/320"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "ScienceDaily Health",
-        "title": "Textbooks may have misdrawn this basic brain structure for 100 years",
-        "summary": "Scientists discovered that brain-cell axons may not be smooth tubes as textbooks have shown for more than a century, but instead naturally resemble strings of tiny pearls. Those pearl-like structures can change with neural activity and may help control how quickly electrical signals travel through the brain.",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260915232138.htm",
-        "published_utc": "2026-09-17T10:54:28+00:00",
-        "score": 2,
-        "freshness_boost": 0,
-        "image": "https://picsum.photos/seed/vb-469a9ab1acd4b396/480/320"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "ScienceDaily Health",
-        "title": "New mesothelioma drug turns cancer’s own defenses against it",
-        "summary": "Scientists are testing a counterintuitive way to fight mesothelioma, an aggressive asbestos-linked cancer with few effective treatments. A new experimental mesothelioma drug kills cancer cells by disabling PRX3, an antioxidant defense that tumors use to survive intense oxidative stress. In an early clinical trial, it controlled disease progression in 67% of patients and produced encouraging survival results, raising hopes that the strategy could eventually be used against other cancers.",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260915232136.htm",
-        "published_utc": "2026-09-17T05:11:51+00:00",
-        "score": 3,
-        "freshness_boost": 0,
-        "image": "https://picsum.photos/seed/vb-edf71ebb59dbd2a0/480/320"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Positive News",
-        "title": "51 ways to get the planet tipping the right way",
-        "summary": "Researchers have identified 51 environmental solutions to save the planet. Here are five of the most promising The post 51 ways to get the planet tipping the right way appeared first on Positive News .",
-        "link": "https://www.positive.news/society/51-ways-to-get-the-planet-tipping-the-right-way",
-        "published_utc": "2026-09-17T05:00:50+00:00",
-        "score": 3,
-        "freshness_boost": 0,
-        "image": "https://picsum.photos/seed/vb-1ef711a312ec4622/480/320"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "ScienceDaily Health",
-        "title": "Scientists find a hidden health advantage in black and green rice",
-        "summary": "Scientists found that black and green Japanese rice contain unusual, potentially beneficial fats and may be digested more slowly than ordinary white rice. The combination could make these colorful varieties promising ingredients for foods designed to support blood sugar and metabolic health.",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260916232523.htm",
-        "published_utc": "2026-09-17T03:52:12+00:00",
-        "score": 2,
-        "freshness_boost": 0,
-        "image": "https://picsum.photos/seed/vb-17b2673f0b772ceb/480/320"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "ScienceDaily Health",
-        "title": "Hidden “immune organ” in the skull may help fight brain cancer",
-        "summary": "Scientists discovered a hidden “immune organ” inside the skull that acts as a rapid first responder against brain cancer in mice. Strengthening this local immune defense improved tumor rejection and survival, raising the possibility of new treatments that target the skull directly.",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260915232134.htm",
-        "published_utc": "2026-09-17T02:43:01+00:00",
-        "score": 6,
-        "freshness_boost": 0,
-        "image": "https://picsum.photos/seed/vb-51aea7286a350339/480/320"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Positive News",
-        "title": "What went right this week: solutions to save the world, plus more",
-        "summary": "Solutions to save the planet, protecting childhood from algorithms, and the new world map, plus more The post What went right this week: solutions to save the world, plus more appeared first on Positive News .",
-        "link": "https://www.positive.news/society/good-news-stories-from-week-37-of-2026",
-        "published_utc": "2026-09-11T05:50:39+00:00",
-        "score": 0,
-        "freshness_boost": 0,
-        "image": "https://picsum.photos/seed/vb-c8638f9035842029/480/320"
+        "source": "Medical Xpress",
+        "title": "State HIV prevention policies may benefit racial and ethnic groups unequally",
+        "summary": "State policies that make health care easier to obtain and protect LGBTQ+ people from discrimination are associated with greater use of HIV prevention measures among white adults, but those benefits may not extend equally to Black and Latino populations, according to a new study. Black and Latino populations continue to have the highest HIV incidence rates and remain priority populations in the national initiative to eradicate HIV in the United States.",
+        "link": "https://medicalxpress.com/news/2026-09-state-hiv-policies-benefit-racial.html",
+        "published_utc": "2026-09-27T21:00:03+00:00",
+        "score": 1,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/state-hiv-prevention-p.jpg"
       }
     ],
     "science": [
@@ -722,18 +626,6 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 În Tulcea are loc azi parada mașinilor de epocă, cu Loganuri din 2004",
-      "summary": "Parada mașinilor de epocă s-a deschis, sâmbătă, pe faleza orașului, cu un pluton de Dacia Logan fabricate în 2004. Organizatorii le-au încadrat la „antebelic recent”. Criteriul de vechime a fost rugina de la prag și faptul că radioul încă are casetă. La start s-au prezentat patruzeci de exemplare, majoritatea gri. Un juriu de la clubul [&#8230;] The post În Tulcea are loc azi parada mașinilor de epocă, cu Loganuri din 2004 appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/in-tulcea-are-loc-azi-parada-masinilor-de-epoca-cu-loganuri-din-2004",
-      "published_utc": "2026-09-26T14:25:17+00:00",
-      "score": 3,
-      "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/09/parada-masini-ecpoca.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "Ultimele locuri: O seară plină de emoție cu muzică din Bucureștiul de altădată, la Hotel Capitol",
       "summary": "Se anunță o seară cu totul memorabilă, plină de emoție și de pasiune&#8230;, iar sala este aproape plină! Miercuri, 30 septembrie, de la ora 19:00, vă invităm să prindeți ultimele&#8230; Articolul Ultimele locuri: O seară plină de emoție cu muzică din Bucureștiul de altădată, la Hotel Capitol apare prima dată în Romania Pozitiva .",
@@ -758,18 +650,6 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "Peste 300 de ani de tradiție și inovație: „Produs în România” vine cu povestea berii pe 27 septembrie",
-      "summary": "„Produs în România” revine la Discovery pe 27 septembrie, la ora 19:30, cu un nou episod dedicat unuia dintre cele mai îndrăgite produse din România: berea. De această dată, ajungem&#8230; Articolul Peste 300 de ani de tradiție și inovație: „Produs în România” vine cu povestea berii pe 27 septembrie apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/economie/peste-300-de-ani-de-traditie-si-inovatie-produs-in-romania-vine-cu-povestea-berii-pe-27-septembrie",
-      "published_utc": "2026-09-27T06:40:08+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-61a4a69cfb87690d/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "Times New Roman (Satira)",
       "title": "😂 Uniforma devine obligatorie. Elevii de la liceul Mircea Vulcănescu au ales uniforme verzi cu centuri maro",
       "summary": "Având în vedere propunerile legislative din Parlament, conducerea Liceului „Mircea Vulcănescu” a decis deja introducerea uniformei obligatorii: cămăși verzi, pantaloni închiși și centuri maro, „pentru disciplină, egalitate și o identitate vizuală coerentă”. Directorul a explicat că verdele „trimite la natură, la speranță și la economia circulară”, iar centura maro „asigură ținuta corectă la ora de [&#8230;] The post Uniforma devine obligatorie. Elevii de la liceul Mircea Vulcănescu au ales uniforme verzi cu centuri maro appeared first on Times New Roman .",
@@ -778,6 +658,30 @@
       "score": 3,
       "freshness_boost": 3,
       "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/09/elevi-mircea-vulcanescu.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Românii așteaptă cu sufletul la gură următorul material Recorder din care află că politicienii sunt hoți și securiști",
+      "summary": "Alegătorii freamătă de nerăbdare, consumatorii de presă sunt tensionați la maxim în așteptarea următorului material de la Recorder care le va spune informații absolut șocante: politicienii sunt cam hoți și cam securiști. Această informație este esențială pentru aceștia, pentru că-i surprinde de fiecare dată când află așa aceva, mai ales având în vedere că România [&#8230;] The post Românii așteaptă cu sufletul la gură următorul material Recorder din care află că politicienii sunt hoți și securiști appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/politic/romanii-asteapta-cu-sufletul-la-gura-urmatorul-material-recorder-din-care-afla-ca-politicienii-sunt-hoti-si-securisti",
+      "published_utc": "2026-09-26T10:30:00+00:00",
+      "score": 3,
+      "freshness_boost": 1,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/09/hoti-corupti-recorder.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "RomaniaPozitiva",
+      "title": "Peste 300 de ani de tradiție și inovație: „Produs în România” vine cu povestea berii pe 27 septembrie",
+      "summary": "„Produs în România” revine la Discovery pe 27 septembrie, la ora 19:30, cu un nou episod dedicat unuia dintre cele mai îndrăgite produse din România: berea. De această dată, ajungem&#8230; Articolul Peste 300 de ani de tradiție și inovație: „Produs în România” vine cu povestea berii pe 27 septembrie apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/economie/peste-300-de-ani-de-traditie-si-inovatie-produs-in-romania-vine-cu-povestea-berii-pe-27-septembrie",
+      "published_utc": "2026-09-27T06:40:08+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-61a4a69cfb87690d/480/320"
     },
     {
       "section": "romania",
@@ -807,13 +711,13 @@
       "section": "romania",
       "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 Românii așteaptă cu sufletul la gură următorul material Recorder din care află că politicienii sunt hoți și securiști",
-      "summary": "Alegătorii freamătă de nerăbdare, consumatorii de presă sunt tensionați la maxim în așteptarea următorului material de la Recorder care le va spune informații absolut șocante: politicienii sunt cam hoți și cam securiști. Această informație este esențială pentru aceștia, pentru că-i surprinde de fiecare dată când află așa aceva, mai ales având în vedere că România [&#8230;] The post Românii așteaptă cu sufletul la gură următorul material Recorder din care află că politicienii sunt hoți și securiști appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/politic/romanii-asteapta-cu-sufletul-la-gura-urmatorul-material-recorder-din-care-afla-ca-politicienii-sunt-hoti-si-securisti",
-      "published_utc": "2026-09-26T10:30:00+00:00",
+      "title": "😂 Ca să nu mai picăm tesele PISA vor fi aduși profesori capabili să le facă elevilor fițuici ca lumea",
+      "summary": "Ministerul Educației a anunțat, ieri, că a luat primele măsuri referitoare la rezultatele slabe la testele PISA, pentru a nu ne mai face de rușine la aceste competiții internaționale. Pe scurt, ME va aloca fonduri pentru profesori și specialiști capabili să facă niște fițuici ca lumea, de pe care se va putea copia în aproape [&#8230;] The post Ca să nu mai picăm tesele PISA vor fi aduși profesori capabili să le facă elevilor fițuici ca lumea appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/life-death/ca-sa-nu-mai-picam-tesele-pisa-vor-fi-adusi-profesori-capabili-sa-le-faca-elevilor-fituici-ca-lumea",
+      "published_utc": "2026-09-26T07:06:09+00:00",
       "score": 3,
       "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/09/hoti-corupti-recorder.jpg"
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/09/fituici-pentru-pisa-profesori.jpg"
     },
     {
       "section": "romania",
@@ -888,16 +792,16 @@
       "image": "https://picsum.photos/seed/vb-39d69c339be897c0/480/320"
     },
     {
-      "section": "science",
+      "section": "medical",
       "kind": "global",
-      "source": "Phys.org",
-      "title": "Waste bulrush transformed into copper-enhanced material for dye removal from wastewater",
-      "summary": "Industrial activities such as textile manufacturing, paper production, leather processing and food processing can generate wastewater containing synthetic dyes. Because many synthetic dyes are chemically stable, difficult to biodegrade and environmentally persistent, their release into waterways can pose risks to aquatic ecosystems and human health.",
-      "link": "https://phys.org/news/2026-09-bulrush-copper-material-dye-wastewater.html",
-      "published_utc": "2026-09-27T14:30:05+00:00",
+      "source": "Medical Xpress",
+      "title": "Insomnia linked to higher risk of stroke",
+      "summary": "Insomnia is associated with a 26% higher risk of stroke and 28% higher odds of hospital admission, according to new research in Sleep Medicine Reviews. The researchers say the findings support recognizing insomnia as an important marker of brain, mental and general health.",
+      "link": "https://medicalxpress.com/news/2026-09-insomnia-linked-higher.html",
+      "published_utc": "2026-09-27T22:10:05+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/waste-bullrush-transfo.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/awake-at-night-1.jpg"
     },
     {
       "section": "romania",
@@ -924,16 +828,16 @@
       "image": "https://picsum.photos/seed/vb-66ae0710cdcfadaf/480/320"
     },
     {
-      "section": "science",
+      "section": "medical",
       "kind": "global",
-      "source": "Phys.org",
-      "title": "Astronomers discover a radio galaxy with evidence of four separate jet outbursts",
-      "summary": "Astronomers have identified what may be the first example of a new class of radio galaxy, one whose central black hole appears to have launched powerful jets on four separate occasions. High-resolution observations with the upgraded Giant Metrewave Radio Telescope (GMRT), combined with data from MeerKAT and the Very Large Array, reveal four pairs of radio structures arranged symmetrically around the central galaxy.",
-      "link": "https://phys.org/news/2026-09-astronomers-radio-galaxy-evidence-jet.html",
-      "published_utc": "2026-09-27T14:20:05+00:00",
-      "score": 2,
+      "source": "Medical Xpress",
+      "title": "Millions more people with overweight could benefit from GLP-1 drugs to protect heart health, study suggests",
+      "summary": "New research being presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, Sept. 28–Oct. 2, makes a case for extending the indication for GLP-1 receptor agonists (GLP1-RAs) to millions more people to protect their heart health.",
+      "link": "https://medicalxpress.com/news/2026-09-millions-people-overweight-benefit-glp.html",
+      "published_utc": "2026-09-27T22:10:01+00:00",
+      "score": 1,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/astronomers-discover-a-8.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/glp-1-medications.jpg"
     },
     {
       "section": "romania",
@@ -950,50 +854,98 @@
     {
       "section": "medical",
       "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "Glucosamine, a popular joint supplement, linked to faster Alzheimer’s progression",
-      "summary": "A large health-record analysis found that glucosamine use was associated with a 25% higher likelihood of mild cognitive impairment progressing to dementia. Lab experiments suggest the popular joint supplement may intensify an abnormal sugar-tagging process in the Alzheimer’s brain, although researchers say clinical trials are needed to determine whether it actually causes harm.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260927033754.htm",
-      "published_utc": "2026-09-27T13:53:39+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-f3d6cf7b11185fd2/480/320"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "Atrial fibrillation patients saw 69% lower risk with common blood thinners",
-      "summary": "Direct oral anticoagulants cut the risk of serious clinical events by 69% in atrial fibrillation patients with an intermediate risk of stroke, according to the randomized SINGLE-AF trial. The benefit was driven mainly by fewer ischemic strokes, with no increase in major bleeding.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260925005439.htm",
-      "published_utc": "2026-09-27T13:41:36+00:00",
+      "source": "Medical Xpress",
+      "title": "Sugar molecule in red meat linked to higher risk of developing type 2 diabetes",
+      "summary": "Preliminary results of an observational study presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, Sept. 28–Oct. 2, show that high consumption of a sugar called dietary N-glycolylneuraminic acid (Neu5Gc), which is common in red meat, is associated with a 63% higher risk of developing type 2 diabetes (T2D). The association held after researchers accounted for other T2D risk factors, including physical activity, overall diet, smoking status and other health conditions.",
+      "link": "https://medicalxpress.com/news/2026-09-sugar-molecule-red-meat-linked.html",
+      "published_utc": "2026-09-27T22:00:06+00:00",
       "score": 1,
       "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-08ca1a1830573436/480/320"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "One CRISPR treatment cut “bad” cholesterol in half for a full year",
-      "summary": "A single dose of an experimental CRISPR therapy cut LDL cholesterol and triglycerides by about half in patients with difficult-to-treat lipid disorders. The reductions were still present one year later, with the highest dose lowering LDL by 52.5% and triglycerides by 47.8%.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260925005434.htm",
-      "published_utc": "2026-09-27T13:15:21+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-b418686e62d6486b/480/320"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/red-meat.jpg"
     },
     {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
-      "title": "Uterus transplants help women achieve successful pregnancies, analysis shows",
-      "summary": "A decade of uterus transplantation in the United States has resulted in dozens of healthy births and steadily improving surgical outcomes, according to a new national review led by researchers from the Perelman School of Medicine at the University of Pennsylvania.",
-      "link": "https://medicalxpress.com/news/2026-09-uterus-transplants-women-successful-pregnancies.html",
-      "published_utc": "2026-09-27T13:00:01+00:00",
-      "score": 3,
+      "title": "Continuous glucose monitoring may lower mortality risk in diabetic patients on insulin",
+      "summary": "People with type 2 diabetes (T2D) who began using continuous glucose monitoring (CGM) while receiving basal insulin had a 44% lower risk of dying from any cause after one year than those who did not use CGM, according to an analysis of patient data being presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, Sept. 28–Oct. 2. After two years, their risk was 35% lower.",
+      "link": "https://medicalxpress.com/news/2026-09-glucose-mortality-diabetic-patients-insulin.html",
+      "published_utc": "2026-09-27T22:00:04+00:00",
+      "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2017/pregnant.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2021/glucose-monitor.jpg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "Exam stress linked to raised blood sugar levels in non-diabetic medical students",
+      "summary": "Exam stress is associated with significant increases in blood sugar levels in medical students during exams and in the days leading up to them, according to new research being presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy (Sept. 28–Oct. 2). The findings highlight the measurable metabolic impact of acute psychological stress.",
+      "link": "https://medicalxpress.com/news/2026-09-exam-stress-linked-blood-sugar.html",
+      "published_utc": "2026-09-27T22:00:01+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/exam-stress.jpg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "Real-world data indicate lower adherence rates for breast cancer endocrine therapy when radiation therapy is omitted",
+      "summary": "Many patients with early-stage breast cancer do not consistently maintain the long-term hormone therapy prescribed after lumpectomy, a large U.S. insurance claims analysis indicates. The findings provide real-world context for treatment approaches that consider omitting radiation therapy, which typically rely on the expectation that patients will continue taking medication for at least five years.",
+      "link": "https://medicalxpress.com/news/2026-09-real-world-adherence-breast-cancer.html",
+      "published_utc": "2026-09-27T21:20:01+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2021/breast-cancer-1.jpg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "Routine newborn screening could catch cytomegalovirus infections before problems appear",
+      "summary": "A newborn can look perfectly healthy, pass a hearing test and still carry an infection that may affect hearing or development later in childhood. That is the challenge posed by congenital cytomegalovirus, or cCMV, one of the most common infections passed from a mother to a baby during pregnancy. Most babies born with the virus show no obvious signs at birth, making it difficult to know which children may need closer monitoring.",
+      "link": "https://medicalxpress.com/news/2026-09-routine-newborn-screening-cytomegalovirus-infections.html",
+      "published_utc": "2026-09-27T21:00:06+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/newborn-4.jpg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "State HIV prevention policies may benefit racial and ethnic groups unequally",
+      "summary": "State policies that make health care easier to obtain and protect LGBTQ+ people from discrimination are associated with greater use of HIV prevention measures among white adults, but those benefits may not extend equally to Black and Latino populations, according to a new study. Black and Latino populations continue to have the highest HIV incidence rates and remain priority populations in the national initiative to eradicate HIV in the United States.",
+      "link": "https://medicalxpress.com/news/2026-09-state-hiv-policies-benefit-racial.html",
+      "published_utc": "2026-09-27T21:00:03+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/state-hiv-prevention-p.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Waste bulrush transformed into copper-enhanced material for dye removal from wastewater",
+      "summary": "Industrial activities such as textile manufacturing, paper production, leather processing and food processing can generate wastewater containing synthetic dyes. Because many synthetic dyes are chemically stable, difficult to biodegrade and environmentally persistent, their release into waterways can pose risks to aquatic ecosystems and human health.",
+      "link": "https://phys.org/news/2026-09-bulrush-copper-material-dye-wastewater.html",
+      "published_utc": "2026-09-27T14:30:05+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/waste-bullrush-transfo.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Astronomers discover a radio galaxy with evidence of four separate jet outbursts",
+      "summary": "Astronomers have identified what may be the first example of a new class of radio galaxy, one whose central black hole appears to have launched powerful jets on four separate occasions. High-resolution observations with the upgraded Giant Metrewave Radio Telescope (GMRT), combined with data from MeerKAT and the Very Large Array, reveal four pairs of radio structures arranged symmetrically around the central galaxy.",
+      "link": "https://phys.org/news/2026-09-astronomers-radio-galaxy-evidence-jet.html",
+      "published_utc": "2026-09-27T14:20:05+00:00",
+      "score": 2,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/astronomers-discover-a-8.jpg"
     },
     {
       "section": "science",
@@ -1020,18 +972,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/black-hamlet-hypoplect.jpg"
     },
     {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Nasal spray brings pain relief for children treated in the emergency department",
-      "summary": "A pain treatment delivered by nasal spray offers an effective, needle-free option for children being seen in emergency departments for a range of injuries, according to research presented at the European Emergency Medicine Congress.",
-      "link": "https://medicalxpress.com/news/2026-09-nasal-spray-pain-relief-children.html",
-      "published_utc": "2026-09-27T12:00:01+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/nasal-spray.jpg"
-    },
-    {
       "section": "science",
       "kind": "global",
       "source": "ScienceDaily Science",
@@ -1044,30 +984,6 @@
       "image": "https://picsum.photos/seed/vb-8d8e439bffb029b4/480/320"
     },
     {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "Why rheumatoid arthritis pain may persist even when inflammation is under control",
-      "summary": "Pain and fatigue in rheumatoid arthritis can persist even after inflammation improves, with depression, poor sleep, obesity, smoking, and chronic pain potentially helping sustain symptoms. Researchers say identifying these hidden drivers could prevent unnecessary medication changes and lead to more personalized treatment.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260925093208.htm",
-      "published_utc": "2026-09-27T10:49:13+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-9bb8a7c5e9f54ab7/480/320"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "One shot or two? What to know about HPV vaccination recommendations",
-      "summary": "Preteens may soon have something to celebrate: Medical experts are discussing the possibility that one dose of a life-saving cancer vaccine, instead of two, may be enough to protect them.",
-      "link": "https://medicalxpress.com/news/2026-09-shot-hpv-vaccination.html",
-      "published_utc": "2026-09-27T10:27:54+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/one-shot-or-two-what-t.jpg"
-    },
-    {
       "section": "science",
       "kind": "global",
       "source": "ScienceDaily Science",
@@ -1078,18 +994,6 @@
       "score": 0,
       "freshness_boost": 3,
       "image": "https://picsum.photos/seed/vb-df9867d629256151/480/320"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "Scientists say house cats could help unlock better cancer treatments for humans",
-      "summary": "Scientists have mapped the genetics of cat cancer on an unprecedented scale and found surprising similarities with tumors in humans. The findings could help bring precision cancer treatments to cats while also revealing new clues about how human cancers develop and respond to drugs.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260924231826.htm",
-      "published_utc": "2026-09-27T02:01:42+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-c93857ec07f77d71/480/320"
     },
     {
       "section": "environment",
@@ -1152,18 +1056,6 @@
       "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2021/10/12125135/8.-Habenaria-criniferaNasrilatha-768x512.jpg"
     },
     {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "Coffee doesn’t have to keep you awake to disrupt your sleep",
-      "summary": "Caffeine may make sleep less restorative even when you fall asleep normally and stay in bed for eight hours, with EEG recordings revealing fewer of the slow brain waves associated with deep sleep. Individual sensitivity varies dramatically, meaning even caffeine consumed earlier in the day could affect nighttime recovery for some people.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260922005719.htm",
-      "published_utc": "2026-09-22T13:42:49+00:00",
-      "score": 0,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-1f5ccfb1566c66d1/480/320"
-    },
-    {
       "section": "science",
       "kind": "global",
       "source": "ScienceDaily Science",
@@ -1200,78 +1092,6 @@
       "image": "https://picsum.photos/seed/vb-4b4529589a042474/480/320"
     },
     {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "Scientists find a natural gut compound that helps heal the intestine",
-      "summary": "A natural compound produced by gut bacteria after digesting foods such as pomegranates, walnuts, and berries may help repair and protect the intestinal lining. The discovery reveals a surprising beneficial side of an inflammatory pathway and could inspire more targeted treatments for Crohn’s disease and ulcerative colitis.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260916232529.htm",
-      "published_utc": "2026-09-17T11:13:50+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-234eafd00222d050/480/320"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "Textbooks may have misdrawn this basic brain structure for 100 years",
-      "summary": "Scientists discovered that brain-cell axons may not be smooth tubes as textbooks have shown for more than a century, but instead naturally resemble strings of tiny pearls. Those pearl-like structures can change with neural activity and may help control how quickly electrical signals travel through the brain.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260915232138.htm",
-      "published_utc": "2026-09-17T10:54:28+00:00",
-      "score": 2,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-469a9ab1acd4b396/480/320"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "New mesothelioma drug turns cancer’s own defenses against it",
-      "summary": "Scientists are testing a counterintuitive way to fight mesothelioma, an aggressive asbestos-linked cancer with few effective treatments. A new experimental mesothelioma drug kills cancer cells by disabling PRX3, an antioxidant defense that tumors use to survive intense oxidative stress. In an early clinical trial, it controlled disease progression in 67% of patients and produced encouraging survival results, raising hopes that the strategy could eventually be used against other cancers.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260915232136.htm",
-      "published_utc": "2026-09-17T05:11:51+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-edf71ebb59dbd2a0/480/320"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Positive News",
-      "title": "51 ways to get the planet tipping the right way",
-      "summary": "Researchers have identified 51 environmental solutions to save the planet. Here are five of the most promising The post 51 ways to get the planet tipping the right way appeared first on Positive News .",
-      "link": "https://www.positive.news/society/51-ways-to-get-the-planet-tipping-the-right-way",
-      "published_utc": "2026-09-17T05:00:50+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-1ef711a312ec4622/480/320"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "Scientists find a hidden health advantage in black and green rice",
-      "summary": "Scientists found that black and green Japanese rice contain unusual, potentially beneficial fats and may be digested more slowly than ordinary white rice. The combination could make these colorful varieties promising ingredients for foods designed to support blood sugar and metabolic health.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260916232523.htm",
-      "published_utc": "2026-09-17T03:52:12+00:00",
-      "score": 2,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-17b2673f0b772ceb/480/320"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "ScienceDaily Health",
-      "title": "Hidden “immune organ” in the skull may help fight brain cancer",
-      "summary": "Scientists discovered a hidden “immune organ” inside the skull that acts as a rapid first responder against brain cancer in mice. Strengthening this local immune defense improved tumor rejection and survival, raising the possibility of new treatments that target the skull directly.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260915232134.htm",
-      "published_utc": "2026-09-17T02:43:01+00:00",
-      "score": 6,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-51aea7286a350339/480/320"
-    },
-    {
       "section": "environment",
       "kind": "global",
       "source": "ScienceDaily Environment",
@@ -1294,18 +1114,6 @@
       "score": 0,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-ad2427c0dad0539d/480/320"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Positive News",
-      "title": "What went right this week: solutions to save the world, plus more",
-      "summary": "Solutions to save the planet, protecting childhood from algorithms, and the new world map, plus more The post What went right this week: solutions to save the world, plus more appeared first on Positive News .",
-      "link": "https://www.positive.news/society/good-news-stories-from-week-37-of-2026",
-      "published_utc": "2026-09-11T05:50:39+00:00",
-      "score": 0,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-c8638f9035842029/480/320"
     },
     {
       "section": "environment",
@@ -1472,6 +1280,7 @@
       "https://live.staticflickr.com/65535/55536331769_816c28f024_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/55549552681_970a1b5250_b.jpg",
       "https://live.staticflickr.com/5473/30893885862_2d5529fda4_b.jpg",
       "https://live.staticflickr.com/65535/55550398252_a25cebb6b4_b.jpg",
       "https://live.staticflickr.com/65535/34280675111_d44cbc0846_b.jpg",
@@ -1488,10 +1297,10 @@
       "https://live.staticflickr.com/65535/55548299071_e2ccb35359_b.jpg",
       "https://live.staticflickr.com/65535/34538454663_28c2ac1f00_b.jpg",
       "https://live.staticflickr.com/65535/55541381199_7945affa22_b.jpg",
-      "https://live.staticflickr.com/65535/34626984351_0bc7c217bc_b.jpg",
-      "https://live.staticflickr.com/65535/55539401145_c8ede5cf8f_b.jpg"
+      "https://live.staticflickr.com/65535/34626984351_0bc7c217bc_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55555361325_aef11e8938_b.jpg",
       "https://live.staticflickr.com/65535/55554693621_af85f7b89e_b.jpg",
       "https://live.staticflickr.com/65535/3225520214_96279c9376_b.jpg",
       "https://live.staticflickr.com/65535/55554076450_72a22443dc_b.jpg",
@@ -1508,13 +1317,12 @@
       "https://live.staticflickr.com/65535/55550245119_3a5ac17b80_b.jpg",
       "https://live.staticflickr.com/65535/55548554272_6efa1ceb90_b.jpg",
       "https://live.staticflickr.com/65535/55549114591_e50b139a54_b.jpg",
-      "https://live.staticflickr.com/65535/55549215015_5073af13b3_b.jpg",
-      "https://live.staticflickr.com/65535/55548827730_735f123e88_b.jpg"
+      "https://live.staticflickr.com/65535/55549215015_5073af13b3_b.jpg"
     ],
     "microcosmos": [
+      "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg",
       "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
-      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
+      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg"
     ]
   }
 }
