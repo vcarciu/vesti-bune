@@ -1,7 +1,19 @@
 {
-  "generated_utc": "2026-09-26T21:42:06+00:00",
+  "generated_utc": "2026-09-27T00:01:07+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 În Tulcea are loc azi parada mașinilor de epocă, cu Loganuri din 2004",
+        "summary": "Parada mașinilor de epocă s-a deschis, sâmbătă, pe faleza orașului, cu un pluton de Dacia Logan fabricate în 2004. Organizatorii le-au încadrat la „antebelic recent”. Criteriul de vechime a fost rugina de la prag și faptul că radioul încă are casetă. La start s-au prezentat patruzeci de exemplare, majoritatea gri. Un juriu de la clubul [&#8230;] The post În Tulcea are loc azi parada mașinilor de epocă, cu Loganuri din 2004 appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/life-death/in-tulcea-are-loc-azi-parada-masinilor-de-epoca-cu-loganuri-din-2004",
+        "published_utc": "2026-09-26T14:25:17+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/09/parada-masini-ecpoca.jpg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -96,18 +108,6 @@
         "score": 3,
         "freshness_boost": 1,
         "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/09/popi-rahova.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 Studiu: 45% dintre angajaţii români suferă de oboseală cronică iar ceilalţi 55% sunt la ţigară",
-        "summary": "Aproape jumătate dintre angajaţii români suferă de oboseală cronică provocată de muncă, spune un studiu realizat de Institutul pentru Oboseală Cronică &#8222;Manuel Cantacuzino&#8221; din Slobozia. Potrivit studiului, 45% dintre angajaţi au ajuns în burnout, starea lor fiind agravată de faptul că trebuie să facă şi treaba celorlalţi 55%, care sunt pe balcon la o bârfă, [&#8230;] The post Studiu: 45% dintre angajaţii români suferă de oboseală cronică iar ceilalţi 55% sunt la ţigară appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/life-death/studiu-45-dintre-angajatii-romani-sufera-de-oboseala-cronica-iar-ceilalti-55-sunt-la-tigara",
-        "published_utc": "2026-09-24T14:08:54+00:00",
-        "score": 3,
-        "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2022/02/om-la-birou-obosit.jpg"
       },
       {
         "section": "romania",
@@ -613,6 +613,30 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Ca să nu mai picăm tesele PISA vor fi aduși profesori capabili să le facă elevilor fițuici ca lumea",
+      "summary": "Ministerul Educației a anunțat, ieri, că a luat primele măsuri referitoare la rezultatele slabe la testele PISA, pentru a nu ne mai face de rușine la aceste competiții internaționale. Pe scurt, ME va aloca fonduri pentru profesori și specialiști capabili să facă niște fițuici ca lumea, de pe care se va putea copia în aproape [&#8230;] The post Ca să nu mai picăm tesele PISA vor fi aduși profesori capabili să le facă elevilor fițuici ca lumea appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/life-death/ca-sa-nu-mai-picam-tesele-pisa-vor-fi-adusi-profesori-capabili-sa-le-faca-elevilor-fituici-ca-lumea",
+      "published_utc": "2026-09-26T07:06:09+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/09/fituici-pentru-pisa-profesori.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 În Tulcea are loc azi parada mașinilor de epocă, cu Loganuri din 2004",
+      "summary": "Parada mașinilor de epocă s-a deschis, sâmbătă, pe faleza orașului, cu un pluton de Dacia Logan fabricate în 2004. Organizatorii le-au încadrat la „antebelic recent”. Criteriul de vechime a fost rugina de la prag și faptul că radioul încă are casetă. La start s-au prezentat patruzeci de exemplare, majoritatea gri. Un juriu de la clubul [&#8230;] The post În Tulcea are loc azi parada mașinilor de epocă, cu Loganuri din 2004 appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/life-death/in-tulcea-are-loc-azi-parada-masinilor-de-epoca-cu-loganuri-din-2004",
+      "published_utc": "2026-09-26T14:25:17+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/09/parada-masini-ecpoca.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "Uite de ce nu trebuie să dispară zona umedă Mahmudia-Carasuhat",
       "summary": "Zona umedă Mahmudia-Carasuhat este o poveste despre revenirea unui ecosistem, care a adus cu sine beneficii pentru oameni și natură. O poveste despre un rezultat care nu trebuie pierdut. Și&#8230; Articolul Uite de ce nu trebuie să dispară zona umedă Mahmudia-Carasuhat apare prima dată în Romania Pozitiva .",
@@ -633,18 +657,6 @@
       "score": 3,
       "freshness_boost": 3,
       "image": "https://picsum.photos/seed/vb-10de99551678ff3d/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Ca să nu mai picăm tesele PISA vor fi aduși profesori capabili să le facă elevilor fițuici ca lumea",
-      "summary": "Ministerul Educației a anunțat, ieri, că a luat primele măsuri referitoare la rezultatele slabe la testele PISA, pentru a nu ne mai face de rușine la aceste competiții internaționale. Pe scurt, ME va aloca fonduri pentru profesori și specialiști capabili să facă niște fițuici ca lumea, de pe care se va putea copia în aproape [&#8230;] The post Ca să nu mai picăm tesele PISA vor fi aduși profesori capabili să le facă elevilor fițuici ca lumea appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/ca-sa-nu-mai-picam-tesele-pisa-vor-fi-adusi-profesori-capabili-sa-le-faca-elevilor-fituici-ca-lumea",
-      "published_utc": "2026-09-26T07:06:09+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/09/fituici-pentru-pisa-profesori.jpg"
     },
     {
       "section": "romania",
@@ -681,18 +693,6 @@
       "score": 3,
       "freshness_boost": 1,
       "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/09/popi-rahova.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Studiu: 45% dintre angajaţii români suferă de oboseală cronică iar ceilalţi 55% sunt la ţigară",
-      "summary": "Aproape jumătate dintre angajaţii români suferă de oboseală cronică provocată de muncă, spune un studiu realizat de Institutul pentru Oboseală Cronică &#8222;Manuel Cantacuzino&#8221; din Slobozia. Potrivit studiului, 45% dintre angajaţi au ajuns în burnout, starea lor fiind agravată de faptul că trebuie să facă şi treaba celorlalţi 55%, care sunt pe balcon la o bârfă, [&#8230;] The post Studiu: 45% dintre angajaţii români suferă de oboseală cronică iar ceilalţi 55% sunt la ţigară appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/studiu-45-dintre-angajatii-romani-sufera-de-oboseala-cronica-iar-ceilalti-55-sunt-la-tigara",
-      "published_utc": "2026-09-24T14:08:54+00:00",
-      "score": 3,
-      "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2022/02/om-la-birou-obosit.jpg"
     },
     {
       "section": "romania",
@@ -1187,8 +1187,8 @@
     }
   ],
   "joke_ro": {
-    "date_utc": "2026-09-26",
-    "text": "Ce ai gatit? - Paste. - Cu ce? - Cu speranta si parmezan.",
+    "date_utc": "2026-09-27",
+    "text": "Nu sunt lenes. Sunt pe modul economie de energie.",
     "source": "data/jokes_ro.txt"
   },
   "satire_ro": {
@@ -1201,23 +1201,24 @@
       "tag": "space",
       "title": "Space",
       "link": "https://commons.wikimedia.org/wiki/Category:Astronomy",
-      "image": "https://live.staticflickr.com/65535/55550433567_2861293c8d_b.jpg"
+      "image": "https://live.staticflickr.com/65535/55552517818_cb98bafc09_b.jpg"
     },
     {
       "tag": "animals",
       "title": "Animals",
       "link": "https://commons.wikimedia.org/wiki/Category:Animals",
-      "image": "https://live.staticflickr.com/65535/55552056399_af479036c9_b.jpg"
+      "image": "https://live.staticflickr.com/65535/55551766572_2ef8f7bacf_b.jpg"
     },
     {
       "tag": "landscape",
       "title": "Landscape",
       "link": "https://commons.wikimedia.org/wiki/Category:Landscapes",
-      "image": "https://live.staticflickr.com/65535/55552303270_619faee170_b.jpg"
+      "image": "https://live.staticflickr.com/65535/55551471472_b32a511d29_b.jpg"
     }
   ],
   "top_image_history": {
     "space": [
+      "https://live.staticflickr.com/65535/55552517818_cb98bafc09_b.jpg",
       "https://live.staticflickr.com/65535/55550433567_2861293c8d_b.jpg",
       "https://live.staticflickr.com/65535/55551145205_65cff867d0_b.jpg",
       "https://live.staticflickr.com/65535/55547892927_c994830b9b_b.jpg",
@@ -1234,10 +1235,10 @@
       "https://live.staticflickr.com/65535/55538514524_6fbac3bffd_b.jpg",
       "https://live.staticflickr.com/video/55536056197/889a61a586/360p.mp4?s=eyJpIjo1NTUzNjA1NjE5NywiZSI6MTc4OTgyNjU5MSwicyI6ImQxZTg5NjMyMWJjNDE3ZTA5OTllMTQzMjhmNTE4NGNlZDBlMmFmZWYiLCJ2IjoxfQ",
       "https://live.staticflickr.com/65535/55536326036_ee13a85270_b.jpg",
-      "https://live.staticflickr.com/65535/55533493362_054ed74545_b.jpg",
-      "https://live.staticflickr.com/65535/55535165400_0a669928d1_b.jpg"
+      "https://live.staticflickr.com/65535/55533493362_054ed74545_b.jpg"
     ],
     "animals": [
+      "https://live.staticflickr.com/65535/55551766572_2ef8f7bacf_b.jpg",
       "https://live.staticflickr.com/65535/55552056399_af479036c9_b.jpg",
       "https://live.staticflickr.com/65535/55551215564_fd7ced0332_b.jpg",
       "https://live.staticflickr.com/65535/55550133658_6dc845e950_b.jpg",
@@ -1254,10 +1255,10 @@
       "https://live.staticflickr.com/65535/55538450261_407caf05e9_b.jpg",
       "https://live.staticflickr.com/65535/55537443459_3c591277d2_b.jpg",
       "https://live.staticflickr.com/65535/55536606416_31b26ac61d_b.jpg",
-      "https://live.staticflickr.com/65535/55534388267_5f6b6ccce5_b.jpg",
-      "https://live.staticflickr.com/65535/55534737986_1a00ff8757_b.jpg"
+      "https://live.staticflickr.com/65535/55534388267_5f6b6ccce5_b.jpg"
     ],
     "landscape": [
+      "https://live.staticflickr.com/65535/55551471472_b32a511d29_b.jpg",
       "https://live.staticflickr.com/65535/55552303270_619faee170_b.jpg",
       "https://live.staticflickr.com/65535/55551016551_782c22d49b_z.jpg",
       "https://live.staticflickr.com/65535/55548998087_340998dbef_b.jpg",
@@ -1274,10 +1275,10 @@
       "https://live.staticflickr.com/65535/55538439961_6893f7fd07_b.jpg",
       "https://live.staticflickr.com/65535/55537511789_1c5804f1c9_b.jpg",
       "https://live.staticflickr.com/65535/55536331769_816c28f024_b.jpg",
-      "https://live.staticflickr.com/65535/55535435376_bd9bfac23f_b.jpg",
-      "https://live.staticflickr.com/65535/55533741642_8455c8e891_b.jpg"
+      "https://live.staticflickr.com/65535/55535435376_bd9bfac23f_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/55547621953_cd9586b74f_b.jpg",
       "https://live.staticflickr.com/1969/31911904608_b3970edcc8_b.jpg",
       "https://live.staticflickr.com/65535/16580135498_3fa2bc1db5_b.jpg",
       "https://live.staticflickr.com/65535/37864698251_a2f8b971bf_b.jpg",
@@ -1294,10 +1295,10 @@
       "https://live.staticflickr.com/65535/37459927225_5f02bb4257_b.jpg",
       "https://live.staticflickr.com/436/33012605925_cf04432dcd_b.jpg",
       "https://live.staticflickr.com/589/33072846875_510abda14d_b.jpg",
-      "https://live.staticflickr.com/65535/14125137308_a758b7db80_b.jpg",
-      "https://live.staticflickr.com/5473/30893885862_2d5529fda4_b.jpg"
+      "https://live.staticflickr.com/65535/14125137308_a758b7db80_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55553172025_145490c248_b.jpg",
       "https://live.staticflickr.com/65535/55552702154_9997855369_b.jpg",
       "https://live.staticflickr.com/8127/8713745463_a60c9136df_b.jpg",
       "https://live.staticflickr.com/65535/55552135245_fe52b075e0_b.jpg",
@@ -1314,12 +1315,11 @@
       "https://live.staticflickr.com/65535/55548827730_735f123e88_b.jpg",
       "https://live.staticflickr.com/65535/55548207698_9c8a2fec8e_b.jpg",
       "https://live.staticflickr.com/65535/55547701275_fd3ca096fe_b.jpg",
-      "https://live.staticflickr.com/65535/55546059367_dbba1f82c3_b.jpg",
-      "https://live.staticflickr.com/65535/14539003174_5a6edaca84_b.jpg"
+      "https://live.staticflickr.com/65535/55546059367_dbba1f82c3_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
+      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
