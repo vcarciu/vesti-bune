@@ -1,7 +1,30 @@
 {
-  "generated_utc": "2026-10-02T18:49:04+00:00",
+  "generated_utc": "2026-10-02T22:40:41+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Dinamo, victorie în amicalul ascuns de club",
+        "summary": "Dinamo s-a impus astăzi într-o partidă amicală cu Metaloglobus, scor 4-0. Partida cu formația din Liga 2 s-a disputat în cantonamentul „câinilor” din Săftica și a fost închis pentru presă și fani. Elevii lui Nuno Campos s-au impus fără probleme, golurile fiind marcate de Karamoko (39), Hintsa (75), Diogo Pinto (81) și Mazilu (85). Pentru &#8230;",
+        "link": "https://hotnews.ro/dinamo-victorie-in-amicalul-ascuns-de-club-2365214",
+        "published_utc": "2026-10-02T16:50:31+00:00",
+        "score": 2,
+        "image": "https://picsum.photos/seed/vb-ca8207589c5f13f4/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Proiect pentru bucureștenii care vor să renunțe la sobele pe lemne / Câte astfel de locuințe sunt în oraș",
+        "summary": "Primăria Capitalei pregătește un program de finanțare prin care să ajute gospodăriile din oraș care se încălzesc la sobă, cu lemne și cărbune, să cumpere sisteme de încălzire nepoluante, a anunțat primarul general, Ciprian Ciucu. „Primăria Capitalei propune «AER 2030 ACASĂ» un program municipal multianual prin care gospodăriile care se încălzesc cu lemn, cărbune și &#8230;",
+        "link": "https://hotnews.ro/program-de-finantare-pentru-bucurestenii-care-vor-sa-renunte-la-sobele-pe-lemne-pentru-reducerea-poluarii-cate-astfel-de-locuinte-sunt-in-oras-2365194",
+        "published_utc": "2026-10-02T16:28:01+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-a0f2f124b672b393/480/320"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -114,13 +137,13 @@
         "section": "romania",
         "kind": "ro",
         "source": "Times New Roman (Satira)",
-        "title": "😂 CCR: Nicușor Dan poate propune 233 de premieri, după care trebuie să declanșeze anticipatele!",
-        "summary": "Decizie finală a Curții Constituționale în chestiunea alegerilor anticipate. Judecătorii CCR precizează numărul maxim de propuneri de premieri care pică la vot, după care președintele Nicușor Dan e obligat să declanșeze alegerile anticipate: 233. Nu întâmplător acesta e și numărul minim de voturi pe care trebuie să le adune un candidat care vrea să-i fie [&#8230;] The post CCR: Nicușor Dan poate propune 233 de premieri, după care trebuie să declanșeze anticipatele! appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/politic/ccr-nicusor-dan-poate-propune-233-de-premieri-dupa-care-trebuie-sa-declanseze-anticipatele",
-        "published_utc": "2026-10-02T05:45:52+00:00",
+        "title": "😂 Ursul prun",
+        "summary": "The post Ursul prun appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/ovi/ursul-prun-2",
+        "published_utc": "2026-10-02T08:22:31+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/09/nicusordanurgent.jpg"
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/10/Ursul-prun.jpg"
       },
       {
         "section": "romania",
@@ -169,30 +192,6 @@
         "score": 3,
         "freshness_boost": 0,
         "image": "https://picsum.photos/seed/vb-57b947fe69f6197f/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Green Start-Up Romania",
-        "title": "Vodafone lansează proiectul GEN10 pentru promovarea sportului la copii",
-        "summary": "Vodafone România lansează proiectul GEN10 prin care își propune să descopere și să susțină următoarea Generație de 10 a României, cu ajutorul campionilor Nadia Comăneci și Ciprian Marica.",
-        "link": "https://green.start-up.ro/ro/vodafone-lanseaza-proiectul-gen10-pentru-promovarea-sportului-la-copii",
-        "published_utc": "2026-09-22T11:28:02+00:00",
-        "score": 3,
-        "freshness_boost": 0,
-        "image": "https://green.start-up.ro/img/articles/3/6/0/36084/cover-36084-src.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Green Start-Up Romania",
-        "title": "Community Meetup organizat de AmpliFY ONG ajunge la Costanța pentru prima dată",
-        "summary": "AmpliFY ONG organizează pe 30 septembrie, la ZBOR Hub, prima ediție Community Meetup din Constanța, un eveniment dedicat organizațiilor și oamenilor implicați în dezvoltarea comunității locale....",
-        "link": "https://green.start-up.ro/ro/community-meetup-organizat-de-amplify-ong-ajunge-la-costanta-pentru-prima-data",
-        "published_utc": "2026-09-22T11:19:14+00:00",
-        "score": 3,
-        "freshness_boost": 0,
-        "image": "https://green.start-up.ro/img/articles/3/6/0/36083/cover-36083-src.jpg"
       },
       {
         "section": "romania",
@@ -586,301 +585,229 @@
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Mirror-image crystals reverse the direction of light-driven currents",
-        "summary": "The circular photogalvanic effect (CPGE), a phenomenon that generates helicity-dependent photocurrents in noncentrosymmetric materials, can originate purely from a crystal's internal structure without a contribution from the surface, a study from Science Tokyo reveals.",
-        "link": "https://phys.org/news/2026-10-mirror-image-crystals-reverse-driven.html",
-        "published_utc": "2026-10-02T18:40:12+00:00",
+        "title": "Changes to platinum surface chemistry boost solar hydrogen production in organic photocatalysts",
+        "summary": "Researchers from the LIMNO laboratory at EPFL have uncovered how different halides modify the surface chemistry of organic semiconductor nanoparticle photocatalysts. By controlling these phenomena, they have significantly improved the solar hydrogen production efficiency of these materials.",
+        "link": "https://phys.org/news/2026-10-platinum-surface-chemistry-boost-solar.html",
+        "published_utc": "2026-10-02T22:20:01+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-understanding-of.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Researchers turn America's scattered local laws into a free searchable database covering all 50 states",
+        "summary": "America is a nation of local laws—millions of them. From noise ordinances and construction codes to rules about fishing licenses and roadside mango peddling, every town, city and county has its own set of regulations and unique way of doing things.",
+        "link": "https://phys.org/news/2026-10-america-local-laws-free-searchable.html",
+        "published_utc": "2026-10-02T21:40:09+00:00",
         "score": 1,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/molecular-arrangement.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/diag-davenport-seated-1.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Forestry experts author national guidance on disaster preparedness",
-        "summary": "John Daigle, professor of forest recreation management at the University of Maine, co-authored the first paper in a series designed to help communities nationwide prepare for future natural disasters and other extreme weather events.",
-        "link": "https://phys.org/news/2026-10-forestry-experts-author-national-guidance.html",
-        "published_utc": "2026-10-02T18:40:07+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/forestry-experts-autho.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Q&A: How will quantum computers change society?",
-        "summary": "Once called a \"pipe dream,\" quantum computers are now approaching practical use. Companies and research institutes around the world are in fierce competition to develop this technology, which has the potential to rapidly perform some calculations that are extremely difficult even for conventional supercomputers.",
-        "link": "https://phys.org/news/2026-10-qa-quantum-society.html",
-        "published_utc": "2026-10-02T18:20:08+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-will-quantum-compu.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "New algorithm makes maps of gene activity easier to compare while preserving cell-level detail",
-        "summary": "Spatial transcriptomics can reveal where thousands of genes are active across a tissue, creating molecular maps at single-cell resolution. But comparing two such maps is difficult: thin slices of tissue may be rotated, stretched or otherwise distorted, so equivalent regions do not automatically line up.",
-        "link": "https://phys.org/news/2026-10-algorithm-gene-easier-cell.html",
-        "published_utc": "2026-10-02T18:20:03+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/making-maps-of-gene-ac.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Animals may have evolved vastly earlier than fossil evidence suggests",
-        "summary": "The earliest animals may have evolved hundreds of millions of years before their first unmistakable fossils appear in the fossil record, according to a new study led by the University of Oxford. The findings, published in Science Advances, suggest animals may have originated deep in the Neoproterozoic Era, even before some of the most extreme ice ages in Earth's history.",
-        "link": "https://phys.org/news/2026-10-animals-evolved-vastly-earlier-fossil.html",
-        "published_utc": "2026-10-02T18:00:13+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-study-suggests-ani.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Physicists who uncovered the first particle accelerator were honored with a Nobel Prize 75 years ago",
-        "summary": "While scientists are known for their dedication to their research, crawling on the floor to avoid electrocution for the sake of a measurement seems a little excessive. But this is what British physicist John Cockcroft and Irish physicist Ernest T.S. Walton had to do in the early 1930s while studying the structure of atomic nuclei. Luckily, their efforts led to their receiving the Nobel Prize in 1951.",
-        "link": "https://phys.org/news/2026-10-physicists-uncovered-particle-honored-nobel.html",
-        "published_utc": "2026-10-02T18:00:01+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-black-and-white-phot-1.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Smart silicone coatings can change their friction and stickiness as surroundings reshape nanoscale layers",
-        "summary": "Research led by a group from the University of Newcastle has found a new way to make silicone surfaces—and control how slippery they are. The work was published in the journal Chemistry of Materials.",
-        "link": "https://phys.org/news/2026-10-smart-silicone-coatings-friction-stickiness.html",
-        "published_utc": "2026-10-02T17:40:13+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/silicone-cooking-utens.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Want to use AI to improve your work? Have it disagree with you",
-        "summary": "Knowledge workers such as scientists, teachers, lawyers and business leaders are increasingly using generative artificial intelligence applications for tasks that demand imagination, creativity and problem-solving. Ironically, perhaps, recent research shows that people who interact with generative AI for work tasks can end up not thinking critically. They can surrender to AI's quick and confident answers, which can lead to speedy but low-quality solutions.",
-        "link": "https://phys.org/news/2026-10-ai.html",
-        "published_utc": "2026-10-02T17:40:01+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/using-ai-at-work.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Fluorescent test speeds screening of thousands of enzyme variants that modify plant compounds",
-        "summary": "Many natural plant compounds have promising health-related properties, but their poor water solubility can limit how effectively they are absorbed and used. In previous work, researchers discovered an enzyme from Bacillus subtilis, called phenolic phosphate synthetase (BsPPS), that can attach phosphate groups to a broad range of phenolic compounds. This modification can help make these compounds more water-soluble and support the development of improved nutraceuticals and related products.",
-        "link": "https://phys.org/news/2026-10-fluorescent-screening-thousands-enzyme-variants.html",
-        "published_utc": "2026-10-02T17:20:01+00:00",
-        "score": 9,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fluorescent-test-speed.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Mangrove restoration is becoming big business, but benefits don't always reach local people",
-        "summary": "On Pakistan's Indus delta coast, a 350,000-hectare (865,000-acre) mangrove project is turning a growing forest into something that can be sold to companies thousands of miles away: carbon credits.",
-        "link": "https://phys.org/news/2026-10-mangrove-big-business-benefits-dont.html",
-        "published_utc": "2026-10-02T17:00:10+00:00",
+        "title": "Marine biologists discover new plankton off Oregon coast",
+        "summary": "Nearly every morning when she was a doctoral student in the College of Arts and Sciences (CAS), Nicole Nakata, Ph.D. '23 (biology), would cross the street from the Oregon Institute of Marine Biology (OIMB) in Charleston, Ore., to the high-tide line of the Pacific Ocean. Her job was to catch microscopic brittle star plankton larvae from the incoming tidal current and bring them back to OIMB's labs to analyze under a microscope.",
+        "link": "https://phys.org/news/2026-10-marine-biologists-plankton-oregon-coast.html",
+        "published_utc": "2026-10-02T21:20:02+00:00",
         "score": 2,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mangrove-in-india.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-person-wearing-a-whi.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "White nationalism's appeal runs deeper than partisan politics",
-        "summary": "As Americans prepared to celebrate the nation's 250th birthday on the morning of July 4, sobering images flashed across their phones and TV screens. Hundreds of masked men marched through the streets of Washington carrying flags and chanting \"Reclaim America!\" It soon became clear from the logos on their identical baseball caps that the marchers were members of Patriot Front, a white nationalist group.",
-        "link": "https://phys.org/news/2026-10-white-nationalism-appeal-deeper-partisan.html",
-        "published_utc": "2026-10-02T16:40:11+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/white-man-online.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Enzymes become sturdy beads that could support more sustainable chemical production",
-        "summary": "Thanks to enzyme-based biocatalysis, an enormous range of pharmaceutical active ingredients and other complex molecules can be synthesized in an environmentally friendly manner. Researchers at the Karlsruhe Institute of Technology (KIT) have now developed a technology that allows to assemble enzymes into millimeter-sized, storable beads. In this process, the enzymes not only act as catalysts but also constitute the beads' material itself. In a further variant, the enzyme networks can be combined with living cells. A patent application has been filed for the technology. The results have been published in Advanced Materials.",
-        "link": "https://phys.org/news/2026-10-enzymes-sturdy-beads-sustainable-chemical.html",
-        "published_utc": "2026-10-02T16:40:07+00:00",
+        "title": "Mowing less, spraying smarter give pollinators a boost",
+        "summary": "Roadsides may not look like wildlife habitat, but a few simple changes to how they are maintained could turn them into much better places for pollinators. A new uOttawa-led study found that reducing mowing and herbicide use along rural roadsides led to a 45% jump in pollinator numbers and a 23% increase in the number of species found there.",
+        "link": "https://phys.org/news/2026-10-spraying-smarter-pollinators-boost.html",
+        "published_utc": "2026-10-02T21:00:04+00:00",
         "score": 1,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/enzyme-beads-for-more.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mowing-less-spraying-s-1.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Q&A: Why are red squirrels endangered—and can we save them?",
-        "summary": "The red squirrel was once a familiar sight across Britain. Today, it has disappeared from much of its former range. Dr. Kat Hamill, senior lecturer in zoology at Nottingham Trent University, explains what has happened to one of Britain's most recognizable native mammals—and whether science and conservation can help bring it back.",
-        "link": "https://phys.org/news/2026-10-qa-red-squirrels-endangered.html",
-        "published_utc": "2026-10-02T16:20:01+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-are-red-squirrels.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "What space travel teaches us about sleep and circadian rhythms",
-        "summary": "On Earth, most of us rarely have to think about the signals that keep our internal clocks aligned. The sun rises, daylight changes, darkness arrives and morning comes again.",
-        "link": "https://phys.org/news/2026-10-space-circadian-rhythms.html",
-        "published_utc": "2026-10-02T16:00:11+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/astronaut-2.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Iron Age skulls reveal some babies had flat head syndrome—long before the 'Back to Sleep' campaign",
-        "summary": "Nearly 3,000 years ago, in central Italy, dozens of Picene people were laid to rest curled up on their sides, as if asleep. When their eternal slumber was disturbed thousands of years later, researchers noted a curiously familiar pattern, one many modern parents and doctors fret over: As infants, many of them had developed a flat spot on their heads.",
-        "link": "https://phys.org/news/2026-10-iron-age-skulls-reveal-babies.html",
-        "published_utc": "2026-10-02T16:00:01+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/iron-age-skulls-reveal.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Multilingual readers report higher enjoyment and more daily reading, survey finds",
-        "summary": "The U.K.'s National Year of Reading is asking people across the country to \"go all in\" on reading. But this invitation raises questions for many families: reading what, in which language and in what form?",
-        "link": "https://phys.org/news/2026-10-multilingual-readers-higher-enjoyment-daily.html",
-        "published_utc": "2026-10-02T15:40:06+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/readers.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "New study reveals how national cyber positions can shape the future of international law",
-        "summary": "Nations should do more to reduce uncertainty about the legal value of their positions on cyber activities, a new study says.",
-        "link": "https://phys.org/news/2026-10-reveals-national-cyber-positions-future.html",
-        "published_utc": "2026-10-02T15:20:01+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/cyber-security.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "A 'reality check' for lab-grown human embryo models",
-        "summary": "University of Sydney researchers have developed a new way to test how closely lab-grown biological models resemble real human embryos, finding that while some models perform well, none yet fully capture the complexity of early human development.",
-        "link": "https://phys.org/news/2026-10-reality-lab-grown-human-embryo.html",
-        "published_utc": "2026-10-02T15:00:29+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/embryo.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Multitasking in magenta: Colored solar panels could help farms grow crops and generate electricity on shared land",
-        "summary": "Broccoli grown under magenta solar panels absorbed sunlight more efficiently than plants grown out in the open, according to a study to be published Oct. 2 in Cell Reports Physical Science.",
-        "link": "https://phys.org/news/2026-10-multitasking-magenta-solar-panels-farms.html",
-        "published_utc": "2026-10-02T15:00:05+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/broccoli-grows-well-un.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Natural-material bricks aim to give urban birds alternatives to nesting with trash",
-        "summary": "It's spring, and Australian birds are building their nests. But with what? Alongside grass and twigs, birds are collecting our trash. In 2023, a global study found litter in the nests of 176 different bird species, with common culprits including cigarette butts, plastic bags and fishing nets.",
-        "link": "https://phys.org/news/2026-10-natural-material-bricks-aim-urban.html",
-        "published_utc": "2026-10-02T14:40:20+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/birds-are-building-nes.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Uranium forms rare triple bond with carbon in newly isolated compound",
-        "summary": "In a study published in Nature Chemistry, an international team of researchers from Germany and the U.K., including chemists from The University of Manchester, has synthesized and characterized what they describe as the first isolable uranium Fischer-type carbyne, a compound in which carbon forms an unusual triple-bond interaction with uranium.",
-        "link": "https://phys.org/news/2026-10-uranium-rare-triple-bond-carbon.html",
-        "published_utc": "2026-10-02T14:40:01+00:00",
+        "title": "Scientists discover first type I superconductor that breaks time-reversal symmetry",
+        "summary": "Superconductors are materials that conduct electricity with no resistance and expel magnetic fields when cooled to ultralow temperatures. And depending on their quantum structure, they can also showcase strange properties like magnetic levitation. But now things are getting a little weirder.",
+        "link": "https://phys.org/news/2026-10-scientists-superconductor-reversal-symmetry.html",
+        "published_utc": "2026-10-02T21:00:01+00:00",
         "score": 2,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/first-uraniumcarbon-tr.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-discover-a-19.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Survey finds burnout is top challenge for independent local news publishers",
-        "summary": "More than 55% of publishers of independent local news organizations cite burnout as a concern, and about 52% view balancing journalism with business operations as one of their most pressing challenges, a new survey finds.",
-        "link": "https://phys.org/news/2026-10-survey-burnout-independent-local-news.html",
-        "published_utc": "2026-10-02T14:20:15+00:00",
-        "score": 0,
+        "title": "On complex political issues, most Americans take shortcuts to simplicity",
+        "summary": "A core assumption in any democracy is that citizens with access to information will make reasoned decisions on political candidates and policy issues. But a new study by UC Berkeley social scientists finds that Americans usually don't consider the full scope of difficult issues, instead basing their opinions on mental shortcuts that sidestep complexity.",
+        "link": "https://phys.org/news/2026-10-complex-political-issues-americans-shortcuts.html",
+        "published_utc": "2026-10-02T20:40:02+00:00",
+        "score": 1,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/local-news-publishers.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/on-complex-political-i-1.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Protons ride moving waves to reach record energy with long-pulse lasers",
-        "summary": "Imagine a proton catching a wave and surfing it to gain speed. While the imagery may seem wild, the premise of laser-driven ion acceleration has promise as an alternative to conventional accelerators. However, the ultrathin targets used to drive this increase in ion energy are vulnerable to the weak prepulse that precedes the main high-intensity laser pulse, meaning an adaptation in the process is necessary.",
-        "link": "https://phys.org/news/2026-10-protons-energy-pulse-lasers.html",
-        "published_utc": "2026-10-02T14:20:08+00:00",
-        "score": 0,
+        "title": "Plasma-activated water tests show concentration matters for effective bacterial disinfection",
+        "summary": "In a study published in npj Clean Water, researchers from EPFL investigated how Escherichia coli responds to different concentrations of plasma-activated water (PAW) under nutrient-rich conditions. The team combined conventional colony-forming unit (CFU) counting with nanomotion sensing, a technique that detects nanoscale oscillations produced by metabolically active bacteria.",
+        "link": "https://phys.org/news/2026-10-plasma-effective-bacterial-disinfection.html",
+        "published_utc": "2026-10-02T20:20:01+00:00",
+        "score": 4,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/protons-ride-moving-wa.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/when-plasma-activated.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Are Australia's native bees thriving or declining?",
-        "summary": "It's a sight to behold.",
-        "link": "https://phys.org/news/2026-10-australia-native-bees-declining.html",
-        "published_utc": "2026-10-02T14:00:13+00:00",
+        "title": "Ultrafast X-rays reveal how the light-responsive molecular switch azobenzene changes shape",
+        "summary": "Azobenzene is one of the best-known molecules that can be switched between two forms by light. However, the question of how the molecule moves in the first few picoseconds (trillionths of a second) after it absorbs light has remained unresolved for nearly 50 years.",
+        "link": "https://phys.org/news/2026-10-ultrafast-rays-reveal-responsive-molecular.html",
+        "published_utc": "2026-10-02T20:00:06+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/are-australias-native.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/kaist-reveals-how-the-3.jpg"
       },
       {
         "section": "science",
         "kind": "global",
-        "source": "ScienceDaily Science",
-        "title": "New soil test could reveal how soil microbes help feed plants",
-        "summary": "Scientists have streamlined a method for measuring DNA-bound phosphorus in soil, making it cheaper and easier while preserving its accuracy. The technique could reveal how soil microbes help recycle phosphorus and ultimately support more sustainable fertilizer and nutrient management.",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260925005441.htm",
-        "published_utc": "2026-09-27T12:10:17+00:00",
+        "source": "Phys.org",
+        "title": "Why a food poisoning bacterium can cause severe wound infections",
+        "summary": "The toxin NheABC, produced by Bacillus cereus, is particularly active in the pH conditions found in open wounds. Researchers at Umeå University found that the toxin damages both cell membranes and mitochondria and helps the bacterium establish infection in wounded tissue.",
+        "link": "https://phys.org/news/2026-10-food-poisoning-bacterium-severe-wound.html",
+        "published_utc": "2026-10-02T20:00:02+00:00",
+        "score": 1,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-a-food-poisoning-b.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "NASA Breaking News",
+        "title": "NASA Astronaut Christina Koch to Join NFL Fans in Philadelphia",
+        "summary": "As part of NASA’s ongoing Inspiration Tour, NASA astronaut Christina Koch will highlight America’s strengths in space exploration and aeronautics innovation at the Philadelphia Eagles vs. Los Angeles Rams game in Philadelphia on Sunday, Oct. 4. A self-proclaimed Philadelphia sports fan, Koch is an explorer and engineer who spent a total of 338 days in [&#8230;]",
+        "link": "https://www.nasa.gov/news-release/nasa-astronaut-christina-koch-to-join-nfl-fans-in-philadelphia",
+        "published_utc": "2026-10-02T19:54:54+00:00",
         "score": 0,
-        "freshness_boost": 0,
-        "image": "https://picsum.photos/seed/vb-10c31beef989c9cd/480/320"
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-7e461a92b070e482/480/320"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Motivation matters more than working memory for improving student math skills, study finds",
+        "summary": "Why do some students become ever better at mathematics, while others plateau? Many people may think that mathematics is primarily about cognitive skills. A new study from the Norwegian University of Science and Technology (NTNU) provides a more nuanced view. The paper is published in the journal Contemporary Educational Psychology.",
+        "link": "https://phys.org/news/2026-10-memory-student-math-skills.html",
+        "published_utc": "2026-10-02T19:40:08+00:00",
+        "score": 1,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/student-math.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Computer-designed protein targets immune receptor linked to inflammation at new 'undruggable' site",
+        "summary": "To sense their environment and respond accordingly, cells enlist membrane proteins as communication hubs, receiving molecular messages from outside and triggering responses inside. One of these proteins is Toll-like receptor 4 (TLR4), an immune receptor that plays an essential role in protecting against infections. But overactivity of TLR4 has been linked to inflammatory disorders like sepsis, arthritis and inflammatory bowel disease, making it an attractive target for therapies. Despite its appeal, TLR4 is difficult to manipulate precisely, and no FDA-approved drugs specifically block it.",
+        "link": "https://phys.org/news/2026-10-protein-immune-receptor-linked-inflammation.html",
+        "published_utc": "2026-10-02T19:40:01+00:00",
+        "score": 1,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/computer-designed-prot.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "NASA Breaking News",
+        "title": "Heading Home: NASA’s SpaceX Crew-12 Concludes Station Science Mission",
+        "summary": "NASA’s SpaceX Crew-12 mission is ending, with the crew scheduled to return in early October. NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev will head home from the International Space Station after supporting research that benefits life on Earth and prepares humans for missions [&#8230;]",
+        "link": "https://www.nasa.gov/missions/station/iss-research/heading-home-nasas-spacex-crew-12-concludes-station-science-mission",
+        "published_utc": "2026-10-02T19:30:00+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://www.youtube.com/embed/5GeAORj0Nw0"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Black holes may grow quietly alongside galaxies even without violent mergers",
+        "summary": "Astronomers analyzed 2,435 galaxies hosting actively feeding black holes using data from the Dark Energy Spectroscopic Instrument (DESI). Among them, they identified 546 \"bulgeless\" galaxies—systems with little or no central stellar bulge. Their paper, published in Monthly Notices of the Royal Astronomical Society, suggests that galaxies without a central bulge grow black holes just as effectively as galaxies that have one—a surprising sign that black holes don't need galaxy mergers to grow normally.",
+        "link": "https://phys.org/news/2026-10-black-holes-quietly-galaxies-violent.html",
+        "published_utc": "2026-10-02T19:20:02+00:00",
+        "score": 2,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/black-holes-may-grow-q-1.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "NASA Breaking News",
+        "title": "NASA’s DAVINCI Probe Can Stand the Heat",
+        "summary": "The engineering development unit for NASA’s DAVINCI (Deep Atmosphere Venus Investigation of Noble gases, Chemistry, and Imaging) probe is photographed prior to a major thermal evaluation. The DAVINCI team put the yoga ball-sized vessel into a ceramic-lined chamber with heat-scorched walls and ratcheted up the temperature to 869 F, or 465 C, over the course [&#8230;]",
+        "link": "https://www.nasa.gov/image-article/nasas-davinci-probe-can-stand-the-heat",
+        "published_utc": "2026-10-02T19:00:36+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-e4d94a3ce674e2e5/480/320"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "How does interdisciplinary collaboration work in practice? Three takeaways for teachers",
+        "summary": "When we speak with Luyao Huang, her Ph.D. project at Leiden University is in full swing. Two papers—a systematic literature review and a case study on an interdisciplinary course—are already behind her. Next year, she will carry out a study in which teachers react to various scenarios. Today, Huang tells us about her most recent study: a deep dive into student collaboration.",
+        "link": "https://phys.org/news/2026-10-interdisciplinary-collaboration-takeaways-teachers.html",
+        "published_utc": "2026-10-02T19:00:01+00:00",
+        "score": 1,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-does-interdiscipli.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "NASA Breaking News",
+        "title": "La NASA abre solicitudes para próxima promoción de directores de vuelo",
+        "summary": "Lee esta nota de prensa en inglés aquí. La NASA busca líderes para uno de los puestos más prestigiosos de la Tierra en el ámbito de los vuelos espaciales tripulados: director de vuelo en el control de misión del Centro Espacial Johnson de la agencia, en Houston. Esta función es fundamental para reforzar el liderazgo [&#8230;]",
+        "link": "https://www.nasa.gov/news-release/la-nasa-abre-solicitudes-para-proxima-promocion-de-directores-de-vuelo",
+        "published_utc": "2026-10-02T16:36:25+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-38253dd0a3bd9785/480/320"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "NASA Breaking News",
+        "title": "NASA Model Wing Lights Up During First Pressure Sensitive Paint Tests",
+        "summary": "Groundbreaking tests at NASA’s Langley Research Center in Hampton, Virginia, are paving the way for new wind tunnel capabilities for designing the aircraft technologies of the future.&#160; In a first-of-its-kind test in NASA Langley’s Transonic Dynamics Tunnel, researchers used unsteady Pressure Sensitive Paint to study how air flows around a standard wind tunnel model known [&#8230;]",
+        "link": "https://www.nasa.gov/centers-and-facilities/langley/nasa-model-wing-lights-up-during-first-pressure-sensitive-paint-tests",
+        "published_utc": "2026-10-02T16:10:55+00:00",
+        "score": 2,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-8f730a8f88a94add/480/320"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "NASA Breaking News",
+        "title": "NASA Opens Applications for Next Class of Flight Directors",
+        "summary": "NASA is seeking leaders for one of the most esteemed positions on Earth for human spaceflight: flight director in mission control at the agency’s Johnson Space Center in Houston. This role is critical to advancing American leadership in space exploration, as NASA paves the way for a sustained human presence on the Moon. Applications for [&#8230;]",
+        "link": "https://www.nasa.gov/news-release/nasa-opens-applications-for-next-class-of-flight-directors",
+        "published_utc": "2026-10-02T15:49:26+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-3eaf9fcfd678e286/480/320"
       }
     ],
     "environment": [
@@ -1046,6 +973,18 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "HotNews",
+      "title": "Proiect pentru bucureștenii care vor să renunțe la sobele pe lemne / Câte astfel de locuințe sunt în oraș",
+      "summary": "Primăria Capitalei pregătește un program de finanțare prin care să ajute gospodăriile din oraș care se încălzesc la sobă, cu lemne și cărbune, să cumpere sisteme de încălzire nepoluante, a anunțat primarul general, Ciprian Ciucu. „Primăria Capitalei propune «AER 2030 ACASĂ» un program municipal multianual prin care gospodăriile care se încălzesc cu lemn, cărbune și &#8230;",
+      "link": "https://hotnews.ro/program-de-finantare-pentru-bucurestenii-care-vor-sa-renunte-la-sobele-pe-lemne-pentru-reducerea-poluarii-cate-astfel-de-locuinte-sunt-in-oras-2365194",
+      "published_utc": "2026-10-02T16:28:01+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-a0f2f124b672b393/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "CLUJ: Finalul de an vine cu multă mișcare la Casa Tranzit! „DANCE in TRANZIT”: stagiune de dans contemporan, ateliere pentru public, internship și formare pentru tinerii profesioniști",
       "summary": "Casa Tranzit anunță lansarea proiectului „DANCE in TRANZIT”, o inițiativă ce aduce o stagiune de dans contemporan, dublată de un program de formare în management cultural și oportunități de implicare&#8230; Articolul CLUJ: Finalul de an vine cu multă mișcare la Casa Tranzit! „DANCE in TRANZIT”: stagiune de dans contemporan, ateliere pentru public, internship și formare pentru tinerii profesioniști apare prima dată în Romania Pozitiva .",
@@ -1094,18 +1033,6 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Paradox. Deși natalitatea e în scădere, avem tot mai mulți boschetari",
-      "summary": "România se confruntă cu o criză demografică dublată de o explozie a numărului de boschetari. Păcănelele, facturile tot ma mari, alcoolismul, bolile mintale (bolojenism, userism, suveranism, gerogism), împrumuturile la IFN-uri, dar și absența unor programe naționale de reducere a numărului boschetarilor, toți acești factori au dus la situația din prezent, când livratorii nepalezi efectiv nu [&#8230;] The post Paradox. Deși natalitatea e în scădere, avem tot mai mulți boschetari appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/it-stiinta/paradox-desi-natalitatea-e-in-scadere-avem-tot-mai-multi-boschetari",
-      "published_utc": "2026-10-02T08:48:47+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2025/06/boschetar_abatut.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "20 de ani în România, un nou proiect pentru comunitate: Auchan susține construirea a 10 locuințe alături de Habitat for Humanity",
       "summary": "Retailerul alocă 625.000 de euro pentru 10 locuințe, de care vor beneficia direct peste 35 de persoane. Peste 1.000 de seturi educaționale de construcție vor ajunge gratuit în școlile din&#8230; Articolul 20 de ani în România, un nou proiect pentru comunitate: Auchan susține construirea a 10 locuințe alături de Habitat for Humanity apare prima dată în Romania Pozitiva .",
@@ -1126,6 +1053,18 @@
       "score": 3,
       "freshness_boost": 3,
       "image": "https://picsum.photos/seed/vb-ca6c69afbe2e2863/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Paradox. Deși natalitatea e în scădere, avem tot mai mulți boschetari",
+      "summary": "România se confruntă cu o criză demografică dublată de o explozie a numărului de boschetari. Păcănelele, facturile tot ma mari, alcoolismul, bolile mintale (bolojenism, userism, suveranism, gerogism), împrumuturile la IFN-uri, dar și absența unor programe naționale de reducere a numărului boschetarilor, toți acești factori au dus la situația din prezent, când livratorii nepalezi efectiv nu [&#8230;] The post Paradox. Deși natalitatea e în scădere, avem tot mai mulți boschetari appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/it-stiinta/paradox-desi-natalitatea-e-in-scadere-avem-tot-mai-multi-boschetari",
+      "published_utc": "2026-10-02T08:48:47+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2025/06/boschetar_abatut.jpg"
     },
     {
       "section": "romania",
@@ -1155,13 +1094,13 @@
       "section": "romania",
       "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 CCR: Nicușor Dan poate propune 233 de premieri, după care trebuie să declanșeze anticipatele!",
-      "summary": "Decizie finală a Curții Constituționale în chestiunea alegerilor anticipate. Judecătorii CCR precizează numărul maxim de propuneri de premieri care pică la vot, după care președintele Nicușor Dan e obligat să declanșeze alegerile anticipate: 233. Nu întâmplător acesta e și numărul minim de voturi pe care trebuie să le adune un candidat care vrea să-i fie [&#8230;] The post CCR: Nicușor Dan poate propune 233 de premieri, după care trebuie să declanșeze anticipatele! appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/politic/ccr-nicusor-dan-poate-propune-233-de-premieri-dupa-care-trebuie-sa-declanseze-anticipatele",
-      "published_utc": "2026-10-02T05:45:52+00:00",
+      "title": "😂 Ursul prun",
+      "summary": "The post Ursul prun appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/ovi/ursul-prun-2",
+      "published_utc": "2026-10-02T08:22:31+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/09/nicusordanurgent.jpg"
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/10/Ursul-prun.jpg"
     },
     {
       "section": "romania",
@@ -1202,6 +1141,17 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "HotNews",
+      "title": "Dinamo, victorie în amicalul ascuns de club",
+      "summary": "Dinamo s-a impus astăzi într-o partidă amicală cu Metaloglobus, scor 4-0. Partida cu formația din Liga 2 s-a disputat în cantonamentul „câinilor” din Săftica și a fost închis pentru presă și fani. Elevii lui Nuno Campos s-au impus fără probleme, golurile fiind marcate de Karamoko (39), Hintsa (75), Diogo Pinto (81) și Mazilu (85). Pentru &#8230;",
+      "link": "https://hotnews.ro/dinamo-victorie-in-amicalul-ascuns-de-club-2365214",
+      "published_utc": "2026-10-02T16:50:31+00:00",
+      "score": 2,
+      "image": "https://picsum.photos/seed/vb-ca8207589c5f13f4/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "Fundatia Motivation Romania",
       "title": "Căutăm coleg/ă Responsabil Comunicare și Promovare",
       "summary": "Când a fost ultima dată când ai simțit că munca ta chiar schimbă ceva? Poate ai creat campanii care au generat mii de vizualizări. Poate ai crescut comunități online, ai scris articole, ai organizat evenimente sau ai construit branduri. Dar câte dintre ele au schimbat cu adevărat viața cuiva? La Fundația Motivation România și la... The post Căutăm coleg/ă Responsabil Comunicare și Promovare appeared first on Fundatia Motivation Romania .",
@@ -1212,40 +1162,16 @@
       "image": "https://picsum.photos/seed/vb-57b947fe69f6197f/480/320"
     },
     {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Green Start-Up Romania",
-      "title": "Vodafone lansează proiectul GEN10 pentru promovarea sportului la copii",
-      "summary": "Vodafone România lansează proiectul GEN10 prin care își propune să descopere și să susțină următoarea Generație de 10 a României, cu ajutorul campionilor Nadia Comăneci și Ciprian Marica.",
-      "link": "https://green.start-up.ro/ro/vodafone-lanseaza-proiectul-gen10-pentru-promovarea-sportului-la-copii",
-      "published_utc": "2026-09-22T11:28:02+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://green.start-up.ro/img/articles/3/6/0/36084/cover-36084-src.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Green Start-Up Romania",
-      "title": "Community Meetup organizat de AmpliFY ONG ajunge la Costanța pentru prima dată",
-      "summary": "AmpliFY ONG organizează pe 30 septembrie, la ZBOR Hub, prima ediție Community Meetup din Constanța, un eveniment dedicat organizațiilor și oamenilor implicați în dezvoltarea comunității locale....",
-      "link": "https://green.start-up.ro/ro/community-meetup-organizat-de-amplify-ong-ajunge-la-costanta-pentru-prima-data",
-      "published_utc": "2026-09-22T11:19:14+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://green.start-up.ro/img/articles/3/6/0/36083/cover-36083-src.jpg"
-    },
-    {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Mirror-image crystals reverse the direction of light-driven currents",
-      "summary": "The circular photogalvanic effect (CPGE), a phenomenon that generates helicity-dependent photocurrents in noncentrosymmetric materials, can originate purely from a crystal's internal structure without a contribution from the surface, a study from Science Tokyo reveals.",
-      "link": "https://phys.org/news/2026-10-mirror-image-crystals-reverse-driven.html",
-      "published_utc": "2026-10-02T18:40:12+00:00",
-      "score": 1,
+      "title": "Changes to platinum surface chemistry boost solar hydrogen production in organic photocatalysts",
+      "summary": "Researchers from the LIMNO laboratory at EPFL have uncovered how different halides modify the surface chemistry of organic semiconductor nanoparticle photocatalysts. By controlling these phenomena, they have significantly improved the solar hydrogen production efficiency of these materials.",
+      "link": "https://phys.org/news/2026-10-platinum-surface-chemistry-boost-solar.html",
+      "published_utc": "2026-10-02T22:20:01+00:00",
+      "score": 3,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/molecular-arrangement.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-understanding-of.jpg"
     },
     {
       "section": "romania",
@@ -1275,13 +1201,13 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Forestry experts author national guidance on disaster preparedness",
-      "summary": "John Daigle, professor of forest recreation management at the University of Maine, co-authored the first paper in a series designed to help communities nationwide prepare for future natural disasters and other extreme weather events.",
-      "link": "https://phys.org/news/2026-10-forestry-experts-author-national-guidance.html",
-      "published_utc": "2026-10-02T18:40:07+00:00",
-      "score": 0,
+      "title": "Researchers turn America's scattered local laws into a free searchable database covering all 50 states",
+      "summary": "America is a nation of local laws—millions of them. From noise ordinances and construction codes to rules about fishing licenses and roadside mango peddling, every town, city and county has its own set of regulations and unique way of doing things.",
+      "link": "https://phys.org/news/2026-10-america-local-laws-free-searchable.html",
+      "published_utc": "2026-10-02T21:40:09+00:00",
+      "score": 1,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/forestry-experts-autho.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/diag-davenport-seated-1.jpg"
     },
     {
       "section": "romania",
@@ -1308,16 +1234,16 @@
       "image": "https://picsum.photos/seed/vb-4ab9c9468a444c01/480/320"
     },
     {
-      "section": "medical",
+      "section": "science",
       "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Research finds sibling aggression to be common, though often dismissed as 'normal'",
-      "summary": "Sibling aggression takes many forms, like hitting, shoving, threatening or calling names. Although sibling aggression is widespread and can shape people for years, it hasn't been studied well by psychological researchers.",
-      "link": "https://medicalxpress.com/news/2026-10-sibling-aggression-common-dismissed.html",
-      "published_utc": "2026-10-02T18:40:01+00:00",
-      "score": 0,
+      "source": "Phys.org",
+      "title": "Marine biologists discover new plankton off Oregon coast",
+      "summary": "Nearly every morning when she was a doctoral student in the College of Arts and Sciences (CAS), Nicole Nakata, Ph.D. '23 (biology), would cross the street from the Oregon Institute of Marine Biology (OIMB) in Charleston, Ore., to the high-tide line of the Pacific Ocean. Her job was to catch microscopic brittle star plankton larvae from the incoming tidal current and bring them back to OIMB's labs to analyze under a microscope.",
+      "link": "https://phys.org/news/2026-10-marine-biologists-plankton-oregon-coast.html",
+      "published_utc": "2026-10-02T21:20:02+00:00",
+      "score": 2,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/sibling-1.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-person-wearing-a-whi.jpg"
     },
     {
       "section": "romania",
@@ -1347,13 +1273,13 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Q&A: How will quantum computers change society?",
-      "summary": "Once called a \"pipe dream,\" quantum computers are now approaching practical use. Companies and research institutes around the world are in fierce competition to develop this technology, which has the potential to rapidly perform some calculations that are extremely difficult even for conventional supercomputers.",
-      "link": "https://phys.org/news/2026-10-qa-quantum-society.html",
-      "published_utc": "2026-10-02T18:20:08+00:00",
-      "score": 0,
+      "title": "Mowing less, spraying smarter give pollinators a boost",
+      "summary": "Roadsides may not look like wildlife habitat, but a few simple changes to how they are maintained could turn them into much better places for pollinators. A new uOttawa-led study found that reducing mowing and herbicide use along rural roadsides led to a 45% jump in pollinator numbers and a 23% increase in the number of species found there.",
+      "link": "https://phys.org/news/2026-10-spraying-smarter-pollinators-boost.html",
+      "published_utc": "2026-10-02T21:00:04+00:00",
+      "score": 1,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-will-quantum-compu.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mowing-less-spraying-s-1.jpg"
     },
     {
       "section": "romania",
@@ -1371,13 +1297,157 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "New algorithm makes maps of gene activity easier to compare while preserving cell-level detail",
-      "summary": "Spatial transcriptomics can reveal where thousands of genes are active across a tissue, creating molecular maps at single-cell resolution. But comparing two such maps is difficult: thin slices of tissue may be rotated, stretched or otherwise distorted, so equivalent regions do not automatically line up.",
-      "link": "https://phys.org/news/2026-10-algorithm-gene-easier-cell.html",
-      "published_utc": "2026-10-02T18:20:03+00:00",
+      "title": "Scientists discover first type I superconductor that breaks time-reversal symmetry",
+      "summary": "Superconductors are materials that conduct electricity with no resistance and expel magnetic fields when cooled to ultralow temperatures. And depending on their quantum structure, they can also showcase strange properties like magnetic levitation. But now things are getting a little weirder.",
+      "link": "https://phys.org/news/2026-10-scientists-superconductor-reversal-symmetry.html",
+      "published_utc": "2026-10-02T21:00:01+00:00",
+      "score": 2,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-discover-a-19.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "On complex political issues, most Americans take shortcuts to simplicity",
+      "summary": "A core assumption in any democracy is that citizens with access to information will make reasoned decisions on political candidates and policy issues. But a new study by UC Berkeley social scientists finds that Americans usually don't consider the full scope of difficult issues, instead basing their opinions on mental shortcuts that sidestep complexity.",
+      "link": "https://phys.org/news/2026-10-complex-political-issues-americans-shortcuts.html",
+      "published_utc": "2026-10-02T20:40:02+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/on-complex-political-i-1.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Plasma-activated water tests show concentration matters for effective bacterial disinfection",
+      "summary": "In a study published in npj Clean Water, researchers from EPFL investigated how Escherichia coli responds to different concentrations of plasma-activated water (PAW) under nutrient-rich conditions. The team combined conventional colony-forming unit (CFU) counting with nanomotion sensing, a technique that detects nanoscale oscillations produced by metabolically active bacteria.",
+      "link": "https://phys.org/news/2026-10-plasma-effective-bacterial-disinfection.html",
+      "published_utc": "2026-10-02T20:20:01+00:00",
+      "score": 4,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/when-plasma-activated.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Ultrafast X-rays reveal how the light-responsive molecular switch azobenzene changes shape",
+      "summary": "Azobenzene is one of the best-known molecules that can be switched between two forms by light. However, the question of how the molecule moves in the first few picoseconds (trillionths of a second) after it absorbs light has remained unresolved for nearly 50 years.",
+      "link": "https://phys.org/news/2026-10-ultrafast-rays-reveal-responsive-molecular.html",
+      "published_utc": "2026-10-02T20:00:06+00:00",
       "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/making-maps-of-gene-ac.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/kaist-reveals-how-the-3.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Why a food poisoning bacterium can cause severe wound infections",
+      "summary": "The toxin NheABC, produced by Bacillus cereus, is particularly active in the pH conditions found in open wounds. Researchers at Umeå University found that the toxin damages both cell membranes and mitochondria and helps the bacterium establish infection in wounded tissue.",
+      "link": "https://phys.org/news/2026-10-food-poisoning-bacterium-severe-wound.html",
+      "published_utc": "2026-10-02T20:00:02+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-a-food-poisoning-b.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "NASA Breaking News",
+      "title": "NASA Astronaut Christina Koch to Join NFL Fans in Philadelphia",
+      "summary": "As part of NASA’s ongoing Inspiration Tour, NASA astronaut Christina Koch will highlight America’s strengths in space exploration and aeronautics innovation at the Philadelphia Eagles vs. Los Angeles Rams game in Philadelphia on Sunday, Oct. 4. A self-proclaimed Philadelphia sports fan, Koch is an explorer and engineer who spent a total of 338 days in [&#8230;]",
+      "link": "https://www.nasa.gov/news-release/nasa-astronaut-christina-koch-to-join-nfl-fans-in-philadelphia",
+      "published_utc": "2026-10-02T19:54:54+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-7e461a92b070e482/480/320"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Motivation matters more than working memory for improving student math skills, study finds",
+      "summary": "Why do some students become ever better at mathematics, while others plateau? Many people may think that mathematics is primarily about cognitive skills. A new study from the Norwegian University of Science and Technology (NTNU) provides a more nuanced view. The paper is published in the journal Contemporary Educational Psychology.",
+      "link": "https://phys.org/news/2026-10-memory-student-math-skills.html",
+      "published_utc": "2026-10-02T19:40:08+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/student-math.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Computer-designed protein targets immune receptor linked to inflammation at new 'undruggable' site",
+      "summary": "To sense their environment and respond accordingly, cells enlist membrane proteins as communication hubs, receiving molecular messages from outside and triggering responses inside. One of these proteins is Toll-like receptor 4 (TLR4), an immune receptor that plays an essential role in protecting against infections. But overactivity of TLR4 has been linked to inflammatory disorders like sepsis, arthritis and inflammatory bowel disease, making it an attractive target for therapies. Despite its appeal, TLR4 is difficult to manipulate precisely, and no FDA-approved drugs specifically block it.",
+      "link": "https://phys.org/news/2026-10-protein-immune-receptor-linked-inflammation.html",
+      "published_utc": "2026-10-02T19:40:01+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/computer-designed-prot.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "NASA Breaking News",
+      "title": "Heading Home: NASA’s SpaceX Crew-12 Concludes Station Science Mission",
+      "summary": "NASA’s SpaceX Crew-12 mission is ending, with the crew scheduled to return in early October. NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev will head home from the International Space Station after supporting research that benefits life on Earth and prepares humans for missions [&#8230;]",
+      "link": "https://www.nasa.gov/missions/station/iss-research/heading-home-nasas-spacex-crew-12-concludes-station-science-mission",
+      "published_utc": "2026-10-02T19:30:00+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://www.youtube.com/embed/5GeAORj0Nw0"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Black holes may grow quietly alongside galaxies even without violent mergers",
+      "summary": "Astronomers analyzed 2,435 galaxies hosting actively feeding black holes using data from the Dark Energy Spectroscopic Instrument (DESI). Among them, they identified 546 \"bulgeless\" galaxies—systems with little or no central stellar bulge. Their paper, published in Monthly Notices of the Royal Astronomical Society, suggests that galaxies without a central bulge grow black holes just as effectively as galaxies that have one—a surprising sign that black holes don't need galaxy mergers to grow normally.",
+      "link": "https://phys.org/news/2026-10-black-holes-quietly-galaxies-violent.html",
+      "published_utc": "2026-10-02T19:20:02+00:00",
+      "score": 2,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/black-holes-may-grow-q-1.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "NASA Breaking News",
+      "title": "NASA’s DAVINCI Probe Can Stand the Heat",
+      "summary": "The engineering development unit for NASA’s DAVINCI (Deep Atmosphere Venus Investigation of Noble gases, Chemistry, and Imaging) probe is photographed prior to a major thermal evaluation. The DAVINCI team put the yoga ball-sized vessel into a ceramic-lined chamber with heat-scorched walls and ratcheted up the temperature to 869 F, or 465 C, over the course [&#8230;]",
+      "link": "https://www.nasa.gov/image-article/nasas-davinci-probe-can-stand-the-heat",
+      "published_utc": "2026-10-02T19:00:36+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-e4d94a3ce674e2e5/480/320"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "How does interdisciplinary collaboration work in practice? Three takeaways for teachers",
+      "summary": "When we speak with Luyao Huang, her Ph.D. project at Leiden University is in full swing. Two papers—a systematic literature review and a case study on an interdisciplinary course—are already behind her. Next year, she will carry out a study in which teachers react to various scenarios. Today, Huang tells us about her most recent study: a deep dive into student collaboration.",
+      "link": "https://phys.org/news/2026-10-interdisciplinary-collaboration-takeaways-teachers.html",
+      "published_utc": "2026-10-02T19:00:01+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-does-interdiscipli.jpg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "Research finds sibling aggression to be common, though often dismissed as 'normal'",
+      "summary": "Sibling aggression takes many forms, like hitting, shoving, threatening or calling names. Although sibling aggression is widespread and can shape people for years, it hasn't been studied well by psychological researchers.",
+      "link": "https://medicalxpress.com/news/2026-10-sibling-aggression-common-dismissed.html",
+      "published_utc": "2026-10-02T18:40:01+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/sibling-1.jpg"
     },
     {
       "section": "medical",
@@ -1404,18 +1474,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/pregnant-woman-with-do.jpg"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Animals may have evolved vastly earlier than fossil evidence suggests",
-      "summary": "The earliest animals may have evolved hundreds of millions of years before their first unmistakable fossils appear in the fossil record, according to a new study led by the University of Oxford. The findings, published in Science Advances, suggest animals may have originated deep in the Neoproterozoic Era, even before some of the most extreme ice ages in Earth's history.",
-      "link": "https://phys.org/news/2026-10-animals-evolved-vastly-earlier-fossil.html",
-      "published_utc": "2026-10-02T18:00:13+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-study-suggests-ani.jpg"
-    },
-    {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
@@ -1426,30 +1484,6 @@
       "score": 1,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/young-child-vaccine.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Physicists who uncovered the first particle accelerator were honored with a Nobel Prize 75 years ago",
-      "summary": "While scientists are known for their dedication to their research, crawling on the floor to avoid electrocution for the sake of a measurement seems a little excessive. But this is what British physicist John Cockcroft and Irish physicist Ernest T.S. Walton had to do in the early 1930s while studying the structure of atomic nuclei. Luckily, their efforts led to their receiving the Nobel Prize in 1951.",
-      "link": "https://phys.org/news/2026-10-physicists-uncovered-particle-honored-nobel.html",
-      "published_utc": "2026-10-02T18:00:01+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-black-and-white-phot-1.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Smart silicone coatings can change their friction and stickiness as surroundings reshape nanoscale layers",
-      "summary": "Research led by a group from the University of Newcastle has found a new way to make silicone surfaces—and control how slippery they are. The work was published in the journal Chemistry of Materials.",
-      "link": "https://phys.org/news/2026-10-smart-silicone-coatings-friction-stickiness.html",
-      "published_utc": "2026-10-02T17:40:13+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/silicone-cooking-utens.jpg"
     },
     {
       "section": "medical",
@@ -1476,18 +1510,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/newborn-foot.jpg"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Want to use AI to improve your work? Have it disagree with you",
-      "summary": "Knowledge workers such as scientists, teachers, lawyers and business leaders are increasingly using generative artificial intelligence applications for tasks that demand imagination, creativity and problem-solving. Ironically, perhaps, recent research shows that people who interact with generative AI for work tasks can end up not thinking critically. They can surrender to AI's quick and confident answers, which can lead to speedy but low-quality solutions.",
-      "link": "https://phys.org/news/2026-10-ai.html",
-      "published_utc": "2026-10-02T17:40:01+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/using-ai-at-work.jpg"
-    },
-    {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
@@ -1512,30 +1534,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/adolescents-often-choo.jpg"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Fluorescent test speeds screening of thousands of enzyme variants that modify plant compounds",
-      "summary": "Many natural plant compounds have promising health-related properties, but their poor water solubility can limit how effectively they are absorbed and used. In previous work, researchers discovered an enzyme from Bacillus subtilis, called phenolic phosphate synthetase (BsPPS), that can attach phosphate groups to a broad range of phenolic compounds. This modification can help make these compounds more water-soluble and support the development of improved nutraceuticals and related products.",
-      "link": "https://phys.org/news/2026-10-fluorescent-screening-thousands-enzyme-variants.html",
-      "published_utc": "2026-10-02T17:20:01+00:00",
-      "score": 9,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fluorescent-test-speed.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Mangrove restoration is becoming big business, but benefits don't always reach local people",
-      "summary": "On Pakistan's Indus delta coast, a 350,000-hectare (865,000-acre) mangrove project is turning a growing forest into something that can be sold to companies thousands of miles away: carbon credits.",
-      "link": "https://phys.org/news/2026-10-mangrove-big-business-benefits-dont.html",
-      "published_utc": "2026-10-02T17:00:10+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mangrove-in-india.jpg"
-    },
-    {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
@@ -1548,30 +1546,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/same-day-chemotherapy.jpg"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "White nationalism's appeal runs deeper than partisan politics",
-      "summary": "As Americans prepared to celebrate the nation's 250th birthday on the morning of July 4, sobering images flashed across their phones and TV screens. Hundreds of masked men marched through the streets of Washington carrying flags and chanting \"Reclaim America!\" It soon became clear from the logos on their identical baseball caps that the marchers were members of Patriot Front, a white nationalist group.",
-      "link": "https://phys.org/news/2026-10-white-nationalism-appeal-deeper-partisan.html",
-      "published_utc": "2026-10-02T16:40:11+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/white-man-online.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Enzymes become sturdy beads that could support more sustainable chemical production",
-      "summary": "Thanks to enzyme-based biocatalysis, an enormous range of pharmaceutical active ingredients and other complex molecules can be synthesized in an environmentally friendly manner. Researchers at the Karlsruhe Institute of Technology (KIT) have now developed a technology that allows to assemble enzymes into millimeter-sized, storable beads. In this process, the enzymes not only act as catalysts but also constitute the beads' material itself. In a further variant, the enzyme networks can be combined with living cells. A patent application has been filed for the technology. The results have been published in Advanced Materials.",
-      "link": "https://phys.org/news/2026-10-enzymes-sturdy-beads-sustainable-chemical.html",
-      "published_utc": "2026-10-02T16:40:07+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/enzyme-beads-for-more.jpg"
-    },
-    {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
@@ -1582,6 +1556,18 @@
       "score": 0,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/seaweed-stranding.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "NASA Breaking News",
+      "title": "La NASA abre solicitudes para próxima promoción de directores de vuelo",
+      "summary": "Lee esta nota de prensa en inglés aquí. La NASA busca líderes para uno de los puestos más prestigiosos de la Tierra en el ámbito de los vuelos espaciales tripulados: director de vuelo en el control de misión del Centro Espacial Johnson de la agencia, en Houston. Esta función es fundamental para reforzar el liderazgo [&#8230;]",
+      "link": "https://www.nasa.gov/news-release/la-nasa-abre-solicitudes-para-proxima-promocion-de-directores-de-vuelo",
+      "published_utc": "2026-10-02T16:36:25+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-38253dd0a3bd9785/480/320"
     },
     {
       "section": "medical",
@@ -1598,14 +1584,14 @@
     {
       "section": "science",
       "kind": "global",
-      "source": "Phys.org",
-      "title": "Q&A: Why are red squirrels endangered—and can we save them?",
-      "summary": "The red squirrel was once a familiar sight across Britain. Today, it has disappeared from much of its former range. Dr. Kat Hamill, senior lecturer in zoology at Nottingham Trent University, explains what has happened to one of Britain's most recognizable native mammals—and whether science and conservation can help bring it back.",
-      "link": "https://phys.org/news/2026-10-qa-red-squirrels-endangered.html",
-      "published_utc": "2026-10-02T16:20:01+00:00",
-      "score": 1,
+      "source": "NASA Breaking News",
+      "title": "NASA Model Wing Lights Up During First Pressure Sensitive Paint Tests",
+      "summary": "Groundbreaking tests at NASA’s Langley Research Center in Hampton, Virginia, are paving the way for new wind tunnel capabilities for designing the aircraft technologies of the future.&#160; In a first-of-its-kind test in NASA Langley’s Transonic Dynamics Tunnel, researchers used unsteady Pressure Sensitive Paint to study how air flows around a standard wind tunnel model known [&#8230;]",
+      "link": "https://www.nasa.gov/centers-and-facilities/langley/nasa-model-wing-lights-up-during-first-pressure-sensitive-paint-tests",
+      "published_utc": "2026-10-02T16:10:55+00:00",
+      "score": 2,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-are-red-squirrels.jpg"
+      "image": "https://picsum.photos/seed/vb-8f730a8f88a94add/480/320"
     },
     {
       "section": "medical",
@@ -1618,18 +1604,6 @@
       "score": 0,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/kaist-identifies-a-hid.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "What space travel teaches us about sleep and circadian rhythms",
-      "summary": "On Earth, most of us rarely have to think about the signals that keep our internal clocks aligned. The sun rises, daylight changes, darkness arrives and morning comes again.",
-      "link": "https://phys.org/news/2026-10-space-circadian-rhythms.html",
-      "published_utc": "2026-10-02T16:00:11+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/astronaut-2.jpg"
     },
     {
       "section": "medical",
@@ -1646,14 +1620,14 @@
     {
       "section": "science",
       "kind": "global",
-      "source": "Phys.org",
-      "title": "Iron Age skulls reveal some babies had flat head syndrome—long before the 'Back to Sleep' campaign",
-      "summary": "Nearly 3,000 years ago, in central Italy, dozens of Picene people were laid to rest curled up on their sides, as if asleep. When their eternal slumber was disturbed thousands of years later, researchers noted a curiously familiar pattern, one many modern parents and doctors fret over: As infants, many of them had developed a flat spot on their heads.",
-      "link": "https://phys.org/news/2026-10-iron-age-skulls-reveal-babies.html",
-      "published_utc": "2026-10-02T16:00:01+00:00",
-      "score": 1,
+      "source": "NASA Breaking News",
+      "title": "NASA Opens Applications for Next Class of Flight Directors",
+      "summary": "NASA is seeking leaders for one of the most esteemed positions on Earth for human spaceflight: flight director in mission control at the agency’s Johnson Space Center in Houston. This role is critical to advancing American leadership in space exploration, as NASA paves the way for a sustained human presence on the Moon. Applications for [&#8230;]",
+      "link": "https://www.nasa.gov/news-release/nasa-opens-applications-for-next-class-of-flight-directors",
+      "published_utc": "2026-10-02T15:49:26+00:00",
+      "score": 0,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/iron-age-skulls-reveal.jpg"
+      "image": "https://picsum.photos/seed/vb-3eaf9fcfd678e286/480/320"
     },
     {
       "section": "medical",
@@ -1666,18 +1640,6 @@
       "score": 0,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/black-person-and-medic.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Multilingual readers report higher enjoyment and more daily reading, survey finds",
-      "summary": "The U.K.'s National Year of Reading is asking people across the country to \"go all in\" on reading. But this invitation raises questions for many families: reading what, in which language and in what form?",
-      "link": "https://phys.org/news/2026-10-multilingual-readers-higher-enjoyment-daily.html",
-      "published_utc": "2026-10-02T15:40:06+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/readers.jpg"
     },
     {
       "section": "medical",
@@ -1702,30 +1664,6 @@
       "score": 0,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/stem-cell-derived-brai.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "New study reveals how national cyber positions can shape the future of international law",
-      "summary": "Nations should do more to reduce uncertainty about the legal value of their positions on cyber activities, a new study says.",
-      "link": "https://phys.org/news/2026-10-reveals-national-cyber-positions-future.html",
-      "published_utc": "2026-10-02T15:20:01+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/cyber-security.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "A 'reality check' for lab-grown human embryo models",
-      "summary": "University of Sydney researchers have developed a new way to test how closely lab-grown biological models resemble real human embryos, finding that while some models perform well, none yet fully capture the complexity of early human development.",
-      "link": "https://phys.org/news/2026-10-reality-lab-grown-human-embryo.html",
-      "published_utc": "2026-10-02T15:00:29+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/embryo.jpg"
     },
     {
       "section": "medical",
@@ -1764,30 +1702,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/postpartum.jpg"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Multitasking in magenta: Colored solar panels could help farms grow crops and generate electricity on shared land",
-      "summary": "Broccoli grown under magenta solar panels absorbed sunlight more efficiently than plants grown out in the open, according to a study to be published Oct. 2 in Cell Reports Physical Science.",
-      "link": "https://phys.org/news/2026-10-multitasking-magenta-solar-panels-farms.html",
-      "published_utc": "2026-10-02T15:00:05+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/broccoli-grows-well-un.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Natural-material bricks aim to give urban birds alternatives to nesting with trash",
-      "summary": "It's spring, and Australian birds are building their nests. But with what? Alongside grass and twigs, birds are collecting our trash. In 2023, a global study found litter in the nests of 176 different bird species, with common culprits including cigarette butts, plastic bags and fishing nets.",
-      "link": "https://phys.org/news/2026-10-natural-material-bricks-aim-urban.html",
-      "published_utc": "2026-10-02T14:40:20+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/birds-are-building-nes.jpg"
-    },
-    {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
@@ -1800,42 +1714,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/little-capsule-bot-swe.jpg"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Uranium forms rare triple bond with carbon in newly isolated compound",
-      "summary": "In a study published in Nature Chemistry, an international team of researchers from Germany and the U.K., including chemists from The University of Manchester, has synthesized and characterized what they describe as the first isolable uranium Fischer-type carbyne, a compound in which carbon forms an unusual triple-bond interaction with uranium.",
-      "link": "https://phys.org/news/2026-10-uranium-rare-triple-bond-carbon.html",
-      "published_utc": "2026-10-02T14:40:01+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/first-uraniumcarbon-tr.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Survey finds burnout is top challenge for independent local news publishers",
-      "summary": "More than 55% of publishers of independent local news organizations cite burnout as a concern, and about 52% view balancing journalism with business operations as one of their most pressing challenges, a new survey finds.",
-      "link": "https://phys.org/news/2026-10-survey-burnout-independent-local-news.html",
-      "published_utc": "2026-10-02T14:20:15+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/local-news-publishers.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Protons ride moving waves to reach record energy with long-pulse lasers",
-      "summary": "Imagine a proton catching a wave and surfing it to gain speed. While the imagery may seem wild, the premise of laser-driven ion acceleration has promise as an alternative to conventional accelerators. However, the ultrathin targets used to drive this increase in ion energy are vulnerable to the weak prepulse that precedes the main high-intensity laser pulse, meaning an adaptation in the process is necessary.",
-      "link": "https://phys.org/news/2026-10-protons-energy-pulse-lasers.html",
-      "published_utc": "2026-10-02T14:20:08+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/protons-ride-moving-wa.jpg"
-    },
-    {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
@@ -1846,18 +1724,6 @@
       "score": 0,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mass-spectrometry-offe-2.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Are Australia's native bees thriving or declining?",
-      "summary": "It's a sight to behold.",
-      "link": "https://phys.org/news/2026-10-australia-native-bees-declining.html",
-      "published_utc": "2026-10-02T14:00:13+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/are-australias-native.jpg"
     },
     {
       "section": "medical",
@@ -1968,18 +1834,6 @@
       "image": "https://picsum.photos/seed/vb-f3d6cf7b11185fd2/480/320"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "ScienceDaily Science",
-      "title": "New soil test could reveal how soil microbes help feed plants",
-      "summary": "Scientists have streamlined a method for measuring DNA-bound phosphorus in soil, making it cheaper and easier while preserving its accuracy. The technique could reveal how soil microbes help recycle phosphorus and ultimately support more sustainable fertilizer and nutrient management.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260925005441.htm",
-      "published_utc": "2026-09-27T12:10:17+00:00",
-      "score": 0,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-10c31beef989c9cd/480/320"
-    },
-    {
       "section": "environment",
       "kind": "global",
       "source": "ScienceDaily Environment",
@@ -2082,8 +1936,8 @@
     "source": "data/jokes_ro.txt"
   },
   "satire_ro": {
-    "title": "Paradox. Deși natalitatea e în scădere, avem tot mai mulți boschetari",
-    "link": "https://www.timesnewroman.ro/it-stiinta/paradox-desi-natalitatea-e-in-scadere-avem-tot-mai-multi-boschetari/",
+    "title": "Reforma adiminstrativă. Județele Olt și Teleorman se unesc și devin județul Teleolt",
+    "link": "https://www.timesnewroman.ro/life-death/reforma-adiminstrativa-judetele-olt-si-teleorman-se-unesc-si-devin-judetul-teleolt/",
     "source": "timesnewroman.ro"
   },
   "top_images": [
@@ -2168,6 +2022,7 @@
       "https://live.staticflickr.com/65535/55547727620_2bbf50bf30_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/55564954744_70ef0e8b0b_b.jpg",
       "https://live.staticflickr.com/65535/55561267946_f3a0f96db4_b.jpg",
       "https://live.staticflickr.com/65535/55562371086_13aa63dc81_b.jpg",
       "https://live.staticflickr.com/65535/55562370961_d75659d2af_b.jpg",
@@ -2184,10 +2039,10 @@
       "https://live.staticflickr.com/65535/55544140965_3cb4fce065_b.jpg",
       "https://live.staticflickr.com/65535/32822608063_1bc451d96c_b.jpg",
       "https://live.staticflickr.com/65535/55548096673_d02891f452_b.jpg",
-      "https://live.staticflickr.com/65535/34626984351_0bc7c217bc_b.jpg",
-      "https://live.staticflickr.com/65535/34538454663_28c2ac1f00_b.jpg"
+      "https://live.staticflickr.com/65535/34626984351_0bc7c217bc_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55565568698_98bcb3aec8_b.jpg",
       "https://live.staticflickr.com/65535/55565079321_e1088a168a_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/3/3f/NYC_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg",
       "https://live.staticflickr.com/65535/55564221824_1b1c8bf721_b.jpg",
@@ -2204,12 +2059,11 @@
       "https://live.staticflickr.com/65535/55557917058_cd1a3f80cf_b.jpg",
       "https://live.staticflickr.com/65535/55557879055_022e2dbfd2_b.jpg",
       "https://live.staticflickr.com/65535/55556939804_ced8f32564_b.jpg",
-      "https://live.staticflickr.com/65535/55555859779_33a9016434_b.jpg",
-      "https://live.staticflickr.com/65535/55555228943_296a52c18b_b.jpg"
+      "https://live.staticflickr.com/65535/55555859779_33a9016434_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
+      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
