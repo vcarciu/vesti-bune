@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-05T23:01:09+00:00",
+  "generated_utc": "2026-10-06T02:41:18+00:00",
   "sections": {
     "romania": [
       {
@@ -54,18 +54,6 @@
         "section": "romania",
         "kind": "ro",
         "source": "Times New Roman (Satira)",
-        "title": "😂 Ieri îi făceau pomana şi azi a înviat! Mii de suveranişti îl venerează acum pe „Mesia” CTP",
-        "summary": "Scene demne de &#8222;Iisus din Nazaret&#8221; sau &#8222;Life of Brian&#8221; s-au petrecut zilele acestea pe trotuarul din faţa Arestului Central! Sute de suveranişti care i-au cântat prohodul lui CTP zilele trecute au rămas perplecşi când l-au văzut pe acesta viu şi nevătămat, iar acum îl venerează, convinşi că gazetarul e adevăratul Mesia. &#8222;Am fost amăgiţi [&#8230;] The post Ieri îi făceau pomana şi azi a înviat! Mii de suveranişti îl venerează acum pe &#8222;Mesia&#8221; CTP appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/politic/ieri-ii-faceau-pomana-si-azi-a-inviat-mii-de-suveranisti-il-venereaza-acum-pe-mesia-ctp",
-        "published_utc": "2026-10-05T12:34:09+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/10/ctpainviat.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Times New Roman (Satira)",
         "title": "😂 După incidentul de la Arene, Pampers lansează o gamă nouă de scutece pentru trapperi",
         "summary": "Incidentul de la Arenele Romane a pornit o adevărată revoluţie în fashion! Emoţionaţi de prestaţia cântăreţului Ian, creatorii casei de modă Pampers au conceput o gamă nouă de scutece &#8222;haute incontinence&#8221;, cu accente inspirate de stilul de viaţă trap. &#8222;Indiferent că eşti pe scenă, în club sau pur şi simplu la plimbare prin cartier în [&#8230;] The post După incidentul de la Arene, Pampers lansează o gamă nouă de scutece pentru trapperi appeared first on Times New Roman .",
         "link": "https://www.timesnewroman.ro/monden/dupa-incidentul-de-la-arene-pampers-lanseaza-o-gama-noua-de-scutece-pentru-trapperi",
@@ -78,13 +66,25 @@
         "section": "romania",
         "kind": "ro",
         "source": "Times New Roman (Satira)",
-        "title": "😂 Abia acum începe show-ul! Georgescu va fi scos din Arestul Central şi mutat pe Insula Iubirii",
-        "summary": "Fostul candidat la alegerile prezidenţiale, Cătălin Georgescu, a fost mutat din Arestul Central! Potrivit unor surse, acesta trebuia să ajungă la Penitenciarul Rahova, dar în ultimul moment s-a decis transferarea sa cu o aeronavă militară pe Insula Iubirii, unde va ateriza în următoarele ore. &#8222;Nu mai puteam să-l ţinem aici, se plângeau vecinii, era zgomot [&#8230;] The post Abia acum începe show-ul! Georgescu va fi scos din Arestul Central şi mutat pe Insula Iubirii appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/monden/abia-acum-incepe-show-ul-georgescu-va-fi-scos-din-arestul-central-si-mutat-pe-insula-iubirii",
-        "published_utc": "2026-10-05T10:14:20+00:00",
+        "title": "😂 România între concert și meci",
+        "summary": "The post România între concert și meci appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/ovi/romania-intre-concert-si-meci",
+        "published_utc": "2026-10-05T07:45:00+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/10/georgescuinsulaiubirii.jpg"
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/10/Romania-intre-concert-si-meci.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 Trump s-a lăudat că a băut o bere cu nea Costel, dar de fapt era doar un carton cu nea Costel",
+        "summary": "Obsesia de a fi în centrul atenției și, mai ales, alături de cele mai relevante personalități ale planetei îl împiedică de multe ori pe Donald Trump să mai mențină contactul cu realitatea. Așa se face că uneori comite niște gafe monumentale. Recent, președintele american a postat pe rețeaua ui socială o imagine în care părea [&#8230;] The post Trump s-a lăudat că a băut o bere cu nea Costel, dar de fapt era doar un carton cu nea Costel appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/politic/trump-s-a-laudat-ca-a-baut-o-bere-cu-nea-costel-dar-de-fapt-era-doar-un-carton-cu-nea-costel",
+        "published_utc": "2026-10-05T04:19:00+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/10/costel_carton_trump.jpg"
       },
       {
         "section": "romania",
@@ -526,301 +526,145 @@
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "What a locust can teach us about how neuromodulators alter odor processing",
-        "summary": "When you walk into a bakery and smell fresh cookies, the enticing smell draws you in. After you eat a handful of cookies, though, the same smell likely doesn't send you back for more. Researchers in the McKelvey School of Engineering at Washington University in St. Louis sought to determine the biological mechanisms in the brain that controllably alters odor-evoked behavior by using an unlikely model—a locust.",
-        "link": "https://phys.org/news/2026-10-locust-neuromodulators-odor.html",
-        "published_utc": "2026-10-05T22:40:10+00:00",
+        "title": "Carefree shoppers most likely to receive retail discounts, study finds",
+        "summary": "Research involving Durham University Business School reveals how retailers target customers most likely to spend more. Shoppers who take a more carefree approach to spending are more likely to receive personalized discount codes from retailers, according to the research.",
+        "link": "https://phys.org/news/2026-10-carefree-shoppers-retail-discounts.html",
+        "published_utc": "2026-10-06T02:40:01+00:00",
         "score": 1,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/histological-image-of.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/discounts.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Quantum interactions may have locked early universe's fields into existing energy states",
-        "summary": "The universe may be trapped in its own comfort zone, and a researcher in the College of Engineering and Computer Science has helped explain why it cannot seem to leave. A new study suggests the universe could be locked into its current state by the same kinds of quantum effects that scientists study when trying to preserve fragile information inside a quantum computer.",
-        "link": "https://phys.org/news/2026-10-quantum-interactions-early-universe-fields.html",
-        "published_utc": "2026-10-05T22:20:09+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/universe-1.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Does increased childcare funding help mothers into work?",
-        "summary": "Since Labor won the 2024 general election, policy focused on children in the early years—from birth to school age—and their parents has moved sharply up the political agenda.",
-        "link": "https://phys.org/news/2026-10-childcare-funding-mothers.html",
-        "published_utc": "2026-10-05T22:20:01+00:00",
+        "title": "Exploring systemic racism as the default explanation for disparities",
+        "summary": "Much of the field of sociology treats systemic racism as its default explanation for racial disparities rather than as an open question that requires further investigation and evidence, according to a recent position paper. The assumptions and moralization surrounding the origins of race-based disparities have undermined the discipline and made it difficult—and professionally costly—to challenge the concept, says author Ilana Redstone, a professor of sociology at the University of Illinois Urbana-Champaign.",
+        "link": "https://phys.org/news/2026-10-exploring-racism-default-explanation-disparities.html",
+        "published_utc": "2026-10-06T02:20:02+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/childcare.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/paper-explores-systemi.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Forests are dying along North Carolina's coast—and it's speeding up",
-        "summary": "A new study finds that coastal forest loss in North Carolina's Albemarle-Pamlico Peninsula began accelerating after 2010 and may still be speeding up. The study also found that North Carolina lost more than 20% of its coastal forest between 1985 and 2021.",
-        "link": "https://phys.org/news/2026-10-forests-dying-north-carolina-coast.html",
-        "published_utc": "2026-10-05T22:00:10+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/forests-are-dying-alon.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "An iced coffee won't predict job performance—but it might reveal hiring bias",
-        "summary": "Imagine two candidates with identical qualifications interviewing for the same job. One arrives carrying a bottle of water, while the other walks in with an iced coffee. Should that difference matter?",
-        "link": "https://phys.org/news/2026-10-iced-coffee-wont-job-reveal.html",
-        "published_utc": "2026-10-05T22:00:01+00:00",
+        "title": "Vitamin B1 gains in wild lake trout embryos challenge assumptions drawn from hatcheries",
+        "summary": "For decades, fisheries managers have struggled to restore recruitment in wild lake trout populations across the Great Lakes region, with limited success. Returning this species to its former abundance is hampered by overfishing, sea lamprey predation, invasive species and habitat alterations.",
+        "link": "https://phys.org/news/2026-10-vitamin-b1-gains-wild-lake.html",
+        "published_utc": "2026-10-06T02:00:01+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/two-people-shaking-han.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/uvm-study-reveals-how.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Global review reveals major blind spots in our understanding of climate change impacts on Mediterranean ecosystems",
+        "summary": "A new global review of observed climate change impacts on plant communities reveals major gaps in where and how we monitor some of the world's most climate-vulnerable ecosystems.",
+        "link": "https://phys.org/news/2026-10-global-reveals-major-climate-impacts.html",
+        "published_utc": "2026-10-06T01:40:01+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/global-review-reveals.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Neutrons, rotating black holes, and a galactic PeVatron at the center of the Milky Way",
+        "summary": "Galactic black holes are cosmic mitochondria, powerhouses of the universe. Most of the energy these supermassive black holes produce comes from the material surrounding them: superheated plasma in their accretion disks interacting with tremendous magnetic fields. But there is a more direct way to extract energy from a black hole. It's known as the Penrose process, and a new study asks whether we could discover a signature of this process.",
+        "link": "https://phys.org/news/2026-10-neutrons-rotating-black-holes-galactic.html",
+        "published_utc": "2026-10-06T01:20:01+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/in-this-artists-concep.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "NASA Breaking News",
-        "title": "NASA to Stream SpaceX Crew-12 Return, Splashdown Live",
-        "summary": "NASA and SpaceX are targeting no earlier than 8:05 a.m. EDT, Wednesday, Oct. 7, for the undocking of the agency’s SpaceX Crew-12 mission from the International Space Station, pending weather conditions. An Oct. 7 undock puts NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev [&#8230;]",
-        "link": "https://www.nasa.gov/news-release/nasa-to-stream-spacex-crew-12-return-splashdown-live",
-        "published_utc": "2026-10-05T21:44:40+00:00",
+        "title": "Curiosity Blog, Sols 5029-5035: Back in the Lab",
+        "summary": "Written by Michelle Minitti, MAHLI Deputy Principal Investigator Earth planning date: Friday, Oct. 1, 2026 The majority of Curiosity plans involve mosaics from Mastcam and ChemCam, chemistry analyses from ChemCam and APXS, images from MAHLI and MARDI, and systematic measurements from REMS, RAD, and DAN. It is only when we stop to drill that we […]",
+        "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5029-5035-back-in-the-lab",
+        "published_utc": "2026-10-06T01:04:01+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-e4cd4f96daae395e/480/320"
+        "image": "https://picsum.photos/seed/vb-efa7addfc2c53a98/480/320"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Rare insect discovery reveals a new species from the dinosaur age",
-        "summary": "Some 99 million years ago, during the age of the dinosaurs, a tiny insect belonging to a species previously unknown to science became trapped in tree resin. The resin hardened and turned into amber, and the fossil preserved within it has now enabled a team of researchers from the School of Zoology and The Steinhardt Museum of Natural History to identify and describe a new species: Cretodorus noonoo, or \"Noo-Noo.\"",
-        "link": "https://phys.org/news/2026-10-rare-insect-discovery-reveals-species.html",
-        "published_utc": "2026-10-05T21:40:14+00:00",
-        "score": 5,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rare-discovery-reveals.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "How psychopathic traits shape language",
-        "summary": "Popular culture often depicts people with psychopathy as cold, emotionless and hollow, but a recent University of Mississippi study found that the language associated with psychopathic traits is more complicated than often described.",
-        "link": "https://phys.org/news/2026-10-psychopathic-traits-language.html",
-        "published_utc": "2026-10-05T21:40:09+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-colorful-collage-con.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Ancient DNA evidence narrows down when people first reached the Americas",
-        "summary": "One of the unresolved mysteries about the history of the Americas is when the first people arrived. Despite extensive debate centering on genetic, archaeological and environmental evidence, there is still no consensus or conclusive proof. Did they enter before, during or after the coldest period of the last ice age, known as the Last Glacial Maximum? Evidence from recent analysis of ancient DNA is providing fresh clues.",
-        "link": "https://phys.org/news/2026-10-ancient-dna-evidence-narrows-people.html",
-        "published_utc": "2026-10-05T21:00:12+00:00",
+        "title": "Why some Indigenous communities don't resist oil extraction in their territories",
+        "summary": "More than half of the Ecuadorian Amazon has been marked for oil drilling, overlapping with Indigenous territories and areas of high biodiversity. The ecological and cultural impacts of oil extraction are well documented and have fueled some of Latin America's most prominent environmental movements. Yet at the local level, extraction is not always met with resistance.",
+        "link": "https://phys.org/news/2026-10-indigenous-communities-dont-resist-oil.html",
+        "published_utc": "2026-10-06T01:00:01+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ancient-dna-evidence-n.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/ecuador.jpg"
       },
       {
         "section": "science",
         "kind": "global",
-        "source": "Phys.org",
-        "title": "Standard 3D printers let labs build and adapt tools for bacterial research",
-        "summary": "Studying microorganisms requires instruments with extremely high precision. Such instruments are expensive and take a long time to manufacture using traditional methods, which has slowed progress in the field. It has also been difficult for the biologists who use these instruments to participate directly in their development.",
-        "link": "https://phys.org/news/2026-10-standard-3d-printers-labs-tools.html",
-        "published_utc": "2026-10-05T21:00:08+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/standard-3d-printers-l.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "How game publishers set international prices: A study reveals four pricing approaches on Steam",
-        "summary": "Although digital platforms make it possible to sell the same product globally, prices often vary across countries because of differences in purchasing power, currencies, taxation and other market conditions. At the same time, the transparency of online prices enables consumers to compare prices across regions easily. Companies therefore must balance local affordability with the need to avoid excessive international price differences.",
-        "link": "https://phys.org/news/2026-10-game-publishers-international-prices-reveals.html",
-        "published_utc": "2026-10-05T20:40:07+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/steam-community.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "A health app designed for teachers",
-        "summary": "A new app is designed to help teachers stay healthy in their day-to-day work. The digital tool is the result of a three-year collaborative project between the Technical University of Munich (TUM) and health insurance provider AOK Bayern.",
-        "link": "https://phys.org/news/2026-10-health-app-teachers.html",
-        "published_utc": "2026-10-05T20:20:21+00:00",
+        "source": "NASA Breaking News",
+        "title": "A Journey to the Depths of Ancient Mars?",
+        "summary": "Written by Alex Jones, Ph.D. candidate at Imperial College London Sept. 29, 2026 After spending the last six months exploring “Lac de Charmes,” a region of ancient rock beyond Jezero crater’s western rim, Perseverance has stumbled upon a vast field of light-toned rocks peppering the Martian surface. Light-colored rocks are a strange sight on Mars, […]",
+        "link": "https://science.nasa.gov/blog/a-journey-to-the-depths-of-ancient-mars",
+        "published_utc": "2026-10-06T00:48:54+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/teacher.jpg"
+        "image": "https://picsum.photos/seed/vb-0baa4640bb2a568d/480/320"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Atomic motion could help push solar cells beyond conventional limits",
-        "summary": "The bulk photovoltaic effect (BPVE), a photoelectric effect that generates photocurrent without a p–n junction, can persist even when a material's average crystal structure remains centrosymmetric, a study from Institute of Science Tokyo has found. Researchers demonstrated this in CuCrP2S6, a van der Waals material that transitions from a noncentrosymmetric to a centrosymmetric average structure. The finding challenges the conventional view of BPVE and suggests a new strategy for enhancing photoelectric conversion.",
-        "link": "https://phys.org/news/2026-10-atomic-motion-solar-cells-conventional.html",
-        "published_utc": "2026-10-05T20:20:16+00:00",
+        "title": "Political orientation and institutional trust emerge as key factors in local wind energy support",
+        "summary": "Why does the expansion of wind energy sometimes meet with local resistance, even though renewable energy generally enjoys broad support? RIFS researcher Jörg Radtke used a representative survey of 6,284 people in North Rhine-Westphalia to investigate which social characteristics are linked to the acceptance of wind energy.",
+        "link": "https://phys.org/news/2026-10-political-emerge-key-factors-local.html",
+        "published_utc": "2026-10-06T00:20:02+00:00",
         "score": 2,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/atomic-motion-could-he-1.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/windenergy.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Quantum systems never quite forget where they came from",
-        "summary": "Even the most chaotic quantum systems keep a permanent mark of their own past—a \"quantum birthmark\"—that never fades. Researchers from Tampere University, Harvard University and TU Dresden discovered the feature in their recent study. Their findings shed new light on the elusive relationship between classical and quantum mechanics. Looking ahead, these quantum birthmarks, along with related phenomena known as \"scars,\" could eventually be harnessed to power next-generation nanoelectronics.",
-        "link": "https://phys.org/news/2026-10-quantum.html",
-        "published_utc": "2026-10-05T20:00:13+00:00",
-        "score": 4,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-systems-never.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Unmowed strips attract insects, but many abandon partially mowed dikes",
-        "summary": "Municipalities are increasingly mowing dikes and verges in stages, so that insects can make longer use of the plants growing there. Mowing is essential to keep a dike strong, explains ecologist Constant Swinkels of Radboud University. \"If you don't mow, trees or sturdy shrubs such as blackberries may start to grow. You don't want that, because their roots are so thick that they can cause dikes to collapse.\"",
-        "link": "https://phys.org/news/2026-10-unmowed-insects-abandon-partially-dikes.html",
-        "published_utc": "2026-10-05T20:00:06+00:00",
+        "title": "'Digital ibuprofen' offers Chinese youth comfort through cute characters facing familiar struggles",
+        "summary": "In China, young people are encountering a myriad of challenges, from societal pressures around success to life in a highly surveilled society, that have led them to turn to the internet in search of a balm to soothe their pain. What has emerged is a host of content called \"digital ibuprofen\"—viewed as a way to numb the anxieties of modern living.",
+        "link": "https://phys.org/news/2026-10-digital-ibuprofen-chinese-youth-comfort.html",
+        "published_utc": "2026-10-05T23:40:01+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/partial-mowing-does-no.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/chinese-girl-smartphon.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "A novel path to fusion ignition: Heat first, then add fuel",
-        "summary": "For more than 70 years, fusion energy researchers have used a particular equation to judge whether a plasma would stay hot and dense enough—for long enough—to reach a point where it could sustain itself without any more external power added. While that equation marks the finish line, also known as ignition, it says nothing about the best way to reach it. New research from the U.S. Department of Energy's (DOE) Princeton Plasma Physics Laboratory (PPPL) maps a path to ignition conditions using far less energy than any other path.",
-        "link": "https://phys.org/news/2026-10-path-fusion-ignition-fuel.html",
-        "published_utc": "2026-10-05T19:40:13+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-novel-path-to-fusion.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Sniffer dogs, bloodstain patterns and ballistics evidence under the microscope in new studies",
-        "summary": "CSI may have spawned innumerable spinoffs, but it turns out you can't trust TV—or sniffer dogs. New research is questioning the scientific basis for the dogs' use by police, as well as aspects of bloodstain pattern analysis and ballistics evidence routinely used in courts.",
-        "link": "https://phys.org/news/2026-10-sniffer-dogs-bloodstain-patterns-ballistics.html",
-        "published_utc": "2026-10-05T19:40:07+00:00",
+        "title": "Attention can't be bought, so brands turn to memes",
+        "summary": "The funniest post you saw this week may not have come from a friend; it may have come from a brand. Whether it is Kohl's, Wendy's, or Netflix, brands are behaving more like internet users than traditional advertisers.",
+        "link": "https://phys.org/news/2026-10-attention-bought-brands-memes.html",
+        "published_utc": "2026-10-05T23:20:01+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ubc-law-professor-sara.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/people-smartphone.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Local tipping points in dune landscapes: How does a dune system organize itself?",
-        "summary": "Building with nature is an important concept in our coastal defense. After all, by harnessing natural processes, we are more resilient to sea level rise. A good understanding of these processes is therefore indispensable. Ecologist Paul Berghuis, affiliated with Utrecht University and the Royal Netherlands Institute for Sea Research (NIOZ), delved into the world of dune formation and discovered that within young dune landscapes, dunes and grasses do not arrange themselves randomly but follow a fixed pattern.",
-        "link": "https://phys.org/news/2026-10-local-dune-landscapes.html",
-        "published_utc": "2026-10-05T19:00:20+00:00",
-        "score": 2,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/local-tipping-points-i.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Detecting forever chemicals—with yeast and AI",
-        "summary": "If you're reading this, your body probably contains forever chemicals.",
-        "link": "https://phys.org/news/2026-10-chemicals-yeast-ai.html",
-        "published_utc": "2026-10-05T19:00:10+00:00",
+        "title": "Unusual senses: The secret superpowers of amphibians and reptiles",
+        "summary": "The Surinam toad is one of the strangest frogs on Earth. Flat-bodied, tiny-eyed and adapted to the murky waters of the Amazon basin, it hunts well despite having very poor vision. When a fish swims close, the frog suddenly opens its mouth and sucks the prey inside in a fraction of a second.",
+        "link": "https://phys.org/news/2026-10-unusual-secret-superpowers-amphibians-reptiles.html",
+        "published_utc": "2026-10-05T23:00:02+00:00",
         "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/pfas.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "New saber-toothed predator from Argentina suggests its lineage survived longer than believed",
-        "summary": "In 2014, members of a local museum found fragments of an ancient fossil dating to the end of the Pliocene or early Pleistocene epoch in a seaside cliff on the Argentine pampas. They belonged to a large predator, but the only group they fit, saber-toothed marsupial relatives, had supposedly gone extinct earlier, leaving the identity of the fossil a mystery. That was until Eric del Campo, a paleontologist at the Argentine Museum of Natural Sciences in Buenos Aires and lead author of the study, and his colleagues took a closer look.",
-        "link": "https://phys.org/news/2026-10-saber-toothed-predator-argentina-lineage.html",
-        "published_utc": "2026-10-05T18:40:10+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-saber-toothed-pred.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "How changing recipients of golden roses reflect centuries of evolving papal influence",
-        "summary": "Almost every ceremonial object or ornament of the medieval papal monarchy has disappeared or lost its original purpose. Yet one survives: the golden rose. On Sept. 26, 2026, during Pope Leo XIV's visit to France, he traveled to Lourdes, home to one of the world's most famous shrines to the Virgin Mary. After praying, Leo presented a golden rose to Our Lady of Lourdes—the fifth time he has dedicated a rose to a Marian shrine or image.",
-        "link": "https://phys.org/news/2026-10-recipients-golden-roses-centuries-evolving.html",
-        "published_utc": "2026-10-05T18:40:01+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-rose-made-of-gold-wi.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Tracking uncovers $80 million spent on AI political ads, most without disclosure",
-        "summary": "The 2026 U.S. midterm campaigns are the first in which AI-generated political ads are regularly appearing on people's televisions and social media feeds. We are researchers who have been studying political advertising through the Wesleyan Media Project since 2010. This election cycle—using data from media reports, student coders and AdImpact, a firm that tracks political ad spending—we've tracked about $80 million in spending on almost 170 unique ads that use AI.",
-        "link": "https://phys.org/news/2026-10-tracking-uncovers-million-spent-ai.html",
-        "published_utc": "2026-10-05T18:20:11+00:00",
-        "score": 2,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/reading-online.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Sharks' inner ears reveal surprising diversity that may reflect evolution more than environment",
-        "summary": "A new study of shark anatomy suggests the shape of their inner ears is far more variable than expected, and this variation could have more to do with their evolutionary history than where they live or what they eat.",
-        "link": "https://phys.org/news/2026-10-sharks-ears-reveal-diversity-evolution.html",
-        "published_utc": "2026-10-05T18:20:09+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-uncover-su.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Whether it's banning books or preventing artists from touring, silencing often backfires",
-        "summary": "If the goal was to silence rapper Macklemore by preventing him from touring with singer Ed Sheeran, it clearly backfired. Macklemore delivered a monolog in support of Palestinians in Gaza and the West Bank and performed his pro-Palestinian protest song \"Hind's Hall\" during a Sept. 4, 2026, concert at MetLife Stadium in East Rutherford, New Jersey, where he was an opening act for Sheeran.",
-        "link": "https://phys.org/news/2026-10-artists-silencing-backfires.html",
-        "published_utc": "2026-10-05T18:00:10+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/banned.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Why Great Plains rivers depend on wetlands as well as climate",
-        "summary": "When a prairie river carries more water in one year than another, the obvious place to look for an explanation is the sky. A year with more snow and rain should have more water in rivers. That was also how I initially thought about year-to-year changes in river flow. But while studying the Prairie Pothole Region, I learned that this is only part of the story. What happens after water reaches the ground can be just as important as how much falls from the sky.",
-        "link": "https://phys.org/news/2026-10-great-plains-rivers-wetlands-climate.html",
-        "published_utc": "2026-10-05T18:00:01+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-prairie-rivers-dep.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/surinam-toad.jpg"
       }
     ],
     "environment": [
@@ -986,6 +830,18 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 România între concert și meci",
+      "summary": "The post România între concert și meci appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/ovi/romania-intre-concert-si-meci",
+      "published_utc": "2026-10-05T07:45:00+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/10/Romania-intre-concert-si-meci.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "Societatea de Neurologie din România lansează provocarea Brain Health School Challenge, o invitație pentru elevi de a transforma „Școala Altfel” într-o experiență dedicată educației pentru sănătate.",
       "summary": "Brain Health School Challenge De Ziua Mondială a Educației, Societatea de Neurologie din România lansează provocarea Brain Health School Challenge, o invitație pentru elevi de a transforma „Școala Altfel” într-o&#8230; Articolul Societatea de Neurologie din România lansează provocarea Brain Health School Challenge, o invitație pentru elevi de a transforma „Școala Altfel” într-o experiență dedicată educației pentru sănătate. apare prima dată în Romania Pozitiva .",
@@ -994,18 +850,6 @@
       "score": 3,
       "freshness_boost": 3,
       "image": "https://picsum.photos/seed/vb-bb039f4b64609d02/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Ieri îi făceau pomana şi azi a înviat! Mii de suveranişti îl venerează acum pe „Mesia” CTP",
-      "summary": "Scene demne de &#8222;Iisus din Nazaret&#8221; sau &#8222;Life of Brian&#8221; s-au petrecut zilele acestea pe trotuarul din faţa Arestului Central! Sute de suveranişti care i-au cântat prohodul lui CTP zilele trecute au rămas perplecşi când l-au văzut pe acesta viu şi nevătămat, iar acum îl venerează, convinşi că gazetarul e adevăratul Mesia. &#8222;Am fost amăgiţi [&#8230;] The post Ieri îi făceau pomana şi azi a înviat! Mii de suveranişti îl venerează acum pe &#8222;Mesia&#8221; CTP appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/politic/ieri-ii-faceau-pomana-si-azi-a-inviat-mii-de-suveranisti-il-venereaza-acum-pe-mesia-ctp",
-      "published_utc": "2026-10-05T12:34:09+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/10/ctpainviat.jpg"
     },
     {
       "section": "romania",
@@ -1047,13 +891,25 @@
       "section": "romania",
       "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 Abia acum începe show-ul! Georgescu va fi scos din Arestul Central şi mutat pe Insula Iubirii",
-      "summary": "Fostul candidat la alegerile prezidenţiale, Cătălin Georgescu, a fost mutat din Arestul Central! Potrivit unor surse, acesta trebuia să ajungă la Penitenciarul Rahova, dar în ultimul moment s-a decis transferarea sa cu o aeronavă militară pe Insula Iubirii, unde va ateriza în următoarele ore. &#8222;Nu mai puteam să-l ţinem aici, se plângeau vecinii, era zgomot [&#8230;] The post Abia acum începe show-ul! Georgescu va fi scos din Arestul Central şi mutat pe Insula Iubirii appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/monden/abia-acum-incepe-show-ul-georgescu-va-fi-scos-din-arestul-central-si-mutat-pe-insula-iubirii",
-      "published_utc": "2026-10-05T10:14:20+00:00",
+      "title": "😂 Trump s-a lăudat că a băut o bere cu nea Costel, dar de fapt era doar un carton cu nea Costel",
+      "summary": "Obsesia de a fi în centrul atenției și, mai ales, alături de cele mai relevante personalități ale planetei îl împiedică de multe ori pe Donald Trump să mai mențină contactul cu realitatea. Așa se face că uneori comite niște gafe monumentale. Recent, președintele american a postat pe rețeaua ui socială o imagine în care părea [&#8230;] The post Trump s-a lăudat că a băut o bere cu nea Costel, dar de fapt era doar un carton cu nea Costel appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/politic/trump-s-a-laudat-ca-a-baut-o-bere-cu-nea-costel-dar-de-fapt-era-doar-un-carton-cu-nea-costel",
+      "published_utc": "2026-10-05T04:19:00+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/10/georgescuinsulaiubirii.jpg"
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/10/costel_carton_trump.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 După incidentul de la Arene, Pampers lansează o gamă nouă de scutece pentru trapperi",
+      "summary": "Incidentul de la Arenele Romane a pornit o adevărată revoluţie în fashion! Emoţionaţi de prestaţia cântăreţului Ian, creatorii casei de modă Pampers au conceput o gamă nouă de scutece &#8222;haute incontinence&#8221;, cu accente inspirate de stilul de viaţă trap. &#8222;Indiferent că eşti pe scenă, în club sau pur şi simplu la plimbare prin cartier în [&#8230;] The post După incidentul de la Arene, Pampers lansează o gamă nouă de scutece pentru trapperi appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/monden/dupa-incidentul-de-la-arene-pampers-lanseaza-o-gama-noua-de-scutece-pentru-trapperi",
+      "published_utc": "2026-10-05T12:04:10+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/10/pampers_pentru_trapperi.jpg"
     },
     {
       "section": "romania",
@@ -1078,18 +934,6 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-7aa8271c2858910c/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 După incidentul de la Arene, Pampers lansează o gamă nouă de scutece pentru trapperi",
-      "summary": "Incidentul de la Arenele Romane a pornit o adevărată revoluţie în fashion! Emoţionaţi de prestaţia cântăreţului Ian, creatorii casei de modă Pampers au conceput o gamă nouă de scutece &#8222;haute incontinence&#8221;, cu accente inspirate de stilul de viaţă trap. &#8222;Indiferent că eşti pe scenă, în club sau pur şi simplu la plimbare prin cartier în [&#8230;] The post După incidentul de la Arene, Pampers lansează o gamă nouă de scutece pentru trapperi appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/monden/dupa-incidentul-de-la-arene-pampers-lanseaza-o-gama-noua-de-scutece-pentru-trapperi",
-      "published_utc": "2026-10-05T12:04:10+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/10/pampers_pentru_trapperi.jpg"
     },
     {
       "section": "romania",
@@ -1179,13 +1023,13 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "What a locust can teach us about how neuromodulators alter odor processing",
-      "summary": "When you walk into a bakery and smell fresh cookies, the enticing smell draws you in. After you eat a handful of cookies, though, the same smell likely doesn't send you back for more. Researchers in the McKelvey School of Engineering at Washington University in St. Louis sought to determine the biological mechanisms in the brain that controllably alters odor-evoked behavior by using an unlikely model—a locust.",
-      "link": "https://phys.org/news/2026-10-locust-neuromodulators-odor.html",
-      "published_utc": "2026-10-05T22:40:10+00:00",
+      "title": "Carefree shoppers most likely to receive retail discounts, study finds",
+      "summary": "Research involving Durham University Business School reveals how retailers target customers most likely to spend more. Shoppers who take a more carefree approach to spending are more likely to receive personalized discount codes from retailers, according to the research.",
+      "link": "https://phys.org/news/2026-10-carefree-shoppers-retail-discounts.html",
+      "published_utc": "2026-10-06T02:40:01+00:00",
       "score": 1,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/histological-image-of.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/discounts.jpg"
     },
     {
       "section": "romania",
@@ -1212,6 +1056,138 @@
       "image": "https://picsum.photos/seed/vb-88899579023a4de9/480/320"
     },
     {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Exploring systemic racism as the default explanation for disparities",
+      "summary": "Much of the field of sociology treats systemic racism as its default explanation for racial disparities rather than as an open question that requires further investigation and evidence, according to a recent position paper. The assumptions and moralization surrounding the origins of race-based disparities have undermined the discipline and made it difficult—and professionally costly—to challenge the concept, says author Ilana Redstone, a professor of sociology at the University of Illinois Urbana-Champaign.",
+      "link": "https://phys.org/news/2026-10-exploring-racism-default-explanation-disparities.html",
+      "published_utc": "2026-10-06T02:20:02+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/paper-explores-systemi.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Vitamin B1 gains in wild lake trout embryos challenge assumptions drawn from hatcheries",
+      "summary": "For decades, fisheries managers have struggled to restore recruitment in wild lake trout populations across the Great Lakes region, with limited success. Returning this species to its former abundance is hampered by overfishing, sea lamprey predation, invasive species and habitat alterations.",
+      "link": "https://phys.org/news/2026-10-vitamin-b1-gains-wild-lake.html",
+      "published_utc": "2026-10-06T02:00:01+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/uvm-study-reveals-how.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Global review reveals major blind spots in our understanding of climate change impacts on Mediterranean ecosystems",
+      "summary": "A new global review of observed climate change impacts on plant communities reveals major gaps in where and how we monitor some of the world's most climate-vulnerable ecosystems.",
+      "link": "https://phys.org/news/2026-10-global-reveals-major-climate-impacts.html",
+      "published_utc": "2026-10-06T01:40:01+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/global-review-reveals.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Neutrons, rotating black holes, and a galactic PeVatron at the center of the Milky Way",
+      "summary": "Galactic black holes are cosmic mitochondria, powerhouses of the universe. Most of the energy these supermassive black holes produce comes from the material surrounding them: superheated plasma in their accretion disks interacting with tremendous magnetic fields. But there is a more direct way to extract energy from a black hole. It's known as the Penrose process, and a new study asks whether we could discover a signature of this process.",
+      "link": "https://phys.org/news/2026-10-neutrons-rotating-black-holes-galactic.html",
+      "published_utc": "2026-10-06T01:20:01+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/in-this-artists-concep.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "NASA Breaking News",
+      "title": "Curiosity Blog, Sols 5029-5035: Back in the Lab",
+      "summary": "Written by Michelle Minitti, MAHLI Deputy Principal Investigator Earth planning date: Friday, Oct. 1, 2026 The majority of Curiosity plans involve mosaics from Mastcam and ChemCam, chemistry analyses from ChemCam and APXS, images from MAHLI and MARDI, and systematic measurements from REMS, RAD, and DAN. It is only when we stop to drill that we […]",
+      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5029-5035-back-in-the-lab",
+      "published_utc": "2026-10-06T01:04:01+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-efa7addfc2c53a98/480/320"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Why some Indigenous communities don't resist oil extraction in their territories",
+      "summary": "More than half of the Ecuadorian Amazon has been marked for oil drilling, overlapping with Indigenous territories and areas of high biodiversity. The ecological and cultural impacts of oil extraction are well documented and have fueled some of Latin America's most prominent environmental movements. Yet at the local level, extraction is not always met with resistance.",
+      "link": "https://phys.org/news/2026-10-indigenous-communities-dont-resist-oil.html",
+      "published_utc": "2026-10-06T01:00:01+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/ecuador.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "NASA Breaking News",
+      "title": "A Journey to the Depths of Ancient Mars?",
+      "summary": "Written by Alex Jones, Ph.D. candidate at Imperial College London Sept. 29, 2026 After spending the last six months exploring “Lac de Charmes,” a region of ancient rock beyond Jezero crater’s western rim, Perseverance has stumbled upon a vast field of light-toned rocks peppering the Martian surface. Light-colored rocks are a strange sight on Mars, […]",
+      "link": "https://science.nasa.gov/blog/a-journey-to-the-depths-of-ancient-mars",
+      "published_utc": "2026-10-06T00:48:54+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-0baa4640bb2a568d/480/320"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Political orientation and institutional trust emerge as key factors in local wind energy support",
+      "summary": "Why does the expansion of wind energy sometimes meet with local resistance, even though renewable energy generally enjoys broad support? RIFS researcher Jörg Radtke used a representative survey of 6,284 people in North Rhine-Westphalia to investigate which social characteristics are linked to the acceptance of wind energy.",
+      "link": "https://phys.org/news/2026-10-political-emerge-key-factors-local.html",
+      "published_utc": "2026-10-06T00:20:02+00:00",
+      "score": 2,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/windenergy.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "'Digital ibuprofen' offers Chinese youth comfort through cute characters facing familiar struggles",
+      "summary": "In China, young people are encountering a myriad of challenges, from societal pressures around success to life in a highly surveilled society, that have led them to turn to the internet in search of a balm to soothe their pain. What has emerged is a host of content called \"digital ibuprofen\"—viewed as a way to numb the anxieties of modern living.",
+      "link": "https://phys.org/news/2026-10-digital-ibuprofen-chinese-youth-comfort.html",
+      "published_utc": "2026-10-05T23:40:01+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/chinese-girl-smartphon.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Attention can't be bought, so brands turn to memes",
+      "summary": "The funniest post you saw this week may not have come from a friend; it may have come from a brand. Whether it is Kohl's, Wendy's, or Netflix, brands are behaving more like internet users than traditional advertisers.",
+      "link": "https://phys.org/news/2026-10-attention-bought-brands-memes.html",
+      "published_utc": "2026-10-05T23:20:01+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/people-smartphone.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Unusual senses: The secret superpowers of amphibians and reptiles",
+      "summary": "The Surinam toad is one of the strangest frogs on Earth. Flat-bodied, tiny-eyed and adapted to the murky waters of the Amazon basin, it hunts well despite having very poor vision. When a fish swims close, the frog suddenly opens its mouth and sucks the prey inside in a fraction of a second.",
+      "link": "https://phys.org/news/2026-10-unusual-secret-superpowers-amphibians-reptiles.html",
+      "published_utc": "2026-10-05T23:00:02+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/surinam-toad.jpg"
+    },
+    {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
@@ -1222,90 +1198,6 @@
       "score": 1,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/nurse-2.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Quantum interactions may have locked early universe's fields into existing energy states",
-      "summary": "The universe may be trapped in its own comfort zone, and a researcher in the College of Engineering and Computer Science has helped explain why it cannot seem to leave. A new study suggests the universe could be locked into its current state by the same kinds of quantum effects that scientists study when trying to preserve fragile information inside a quantum computer.",
-      "link": "https://phys.org/news/2026-10-quantum-interactions-early-universe-fields.html",
-      "published_utc": "2026-10-05T22:20:09+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/universe-1.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Does increased childcare funding help mothers into work?",
-      "summary": "Since Labor won the 2024 general election, policy focused on children in the early years—from birth to school age—and their parents has moved sharply up the political agenda.",
-      "link": "https://phys.org/news/2026-10-childcare-funding-mothers.html",
-      "published_utc": "2026-10-05T22:20:01+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/childcare.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Forests are dying along North Carolina's coast—and it's speeding up",
-      "summary": "A new study finds that coastal forest loss in North Carolina's Albemarle-Pamlico Peninsula began accelerating after 2010 and may still be speeding up. The study also found that North Carolina lost more than 20% of its coastal forest between 1985 and 2021.",
-      "link": "https://phys.org/news/2026-10-forests-dying-north-carolina-coast.html",
-      "published_utc": "2026-10-05T22:00:10+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/forests-are-dying-alon.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "An iced coffee won't predict job performance—but it might reveal hiring bias",
-      "summary": "Imagine two candidates with identical qualifications interviewing for the same job. One arrives carrying a bottle of water, while the other walks in with an iced coffee. Should that difference matter?",
-      "link": "https://phys.org/news/2026-10-iced-coffee-wont-job-reveal.html",
-      "published_utc": "2026-10-05T22:00:01+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/two-people-shaking-han.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "NASA Breaking News",
-      "title": "NASA to Stream SpaceX Crew-12 Return, Splashdown Live",
-      "summary": "NASA and SpaceX are targeting no earlier than 8:05 a.m. EDT, Wednesday, Oct. 7, for the undocking of the agency’s SpaceX Crew-12 mission from the International Space Station, pending weather conditions. An Oct. 7 undock puts NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev [&#8230;]",
-      "link": "https://www.nasa.gov/news-release/nasa-to-stream-spacex-crew-12-return-splashdown-live",
-      "published_utc": "2026-10-05T21:44:40+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-e4cd4f96daae395e/480/320"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Rare insect discovery reveals a new species from the dinosaur age",
-      "summary": "Some 99 million years ago, during the age of the dinosaurs, a tiny insect belonging to a species previously unknown to science became trapped in tree resin. The resin hardened and turned into amber, and the fossil preserved within it has now enabled a team of researchers from the School of Zoology and The Steinhardt Museum of Natural History to identify and describe a new species: Cretodorus noonoo, or \"Noo-Noo.\"",
-      "link": "https://phys.org/news/2026-10-rare-insect-discovery-reveals-species.html",
-      "published_utc": "2026-10-05T21:40:14+00:00",
-      "score": 5,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rare-discovery-reveals.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "How psychopathic traits shape language",
-      "summary": "Popular culture often depicts people with psychopathy as cold, emotionless and hollow, but a recent University of Mississippi study found that the language associated with psychopathic traits is more complicated than often described.",
-      "link": "https://phys.org/news/2026-10-psychopathic-traits-language.html",
-      "published_utc": "2026-10-05T21:40:09+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-colorful-collage-con.jpg"
     },
     {
       "section": "medical",
@@ -1368,30 +1260,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/baby-teeth.jpg"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Ancient DNA evidence narrows down when people first reached the Americas",
-      "summary": "One of the unresolved mysteries about the history of the Americas is when the first people arrived. Despite extensive debate centering on genetic, archaeological and environmental evidence, there is still no consensus or conclusive proof. Did they enter before, during or after the coldest period of the last ice age, known as the Last Glacial Maximum? Evidence from recent analysis of ancient DNA is providing fresh clues.",
-      "link": "https://phys.org/news/2026-10-ancient-dna-evidence-narrows-people.html",
-      "published_utc": "2026-10-05T21:00:12+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ancient-dna-evidence-n.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Standard 3D printers let labs build and adapt tools for bacterial research",
-      "summary": "Studying microorganisms requires instruments with extremely high precision. Such instruments are expensive and take a long time to manufacture using traditional methods, which has slowed progress in the field. It has also been difficult for the biologists who use these instruments to participate directly in their development.",
-      "link": "https://phys.org/news/2026-10-standard-3d-printers-labs-tools.html",
-      "published_utc": "2026-10-05T21:00:08+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/standard-3d-printers-l.jpg"
-    },
-    {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
@@ -1416,18 +1284,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/chungnam-national-univ-2.jpg"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "How game publishers set international prices: A study reveals four pricing approaches on Steam",
-      "summary": "Although digital platforms make it possible to sell the same product globally, prices often vary across countries because of differences in purchasing power, currencies, taxation and other market conditions. At the same time, the transparency of online prices enables consumers to compare prices across regions easily. Companies therefore must balance local affordability with the need to avoid excessive international price differences.",
-      "link": "https://phys.org/news/2026-10-game-publishers-international-prices-reveals.html",
-      "published_utc": "2026-10-05T20:40:07+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/steam-community.jpg"
-    },
-    {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
@@ -1438,30 +1294,6 @@
       "score": 1,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/young-person-online.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "A health app designed for teachers",
-      "summary": "A new app is designed to help teachers stay healthy in their day-to-day work. The digital tool is the result of a three-year collaborative project between the Technical University of Munich (TUM) and health insurance provider AOK Bayern.",
-      "link": "https://phys.org/news/2026-10-health-app-teachers.html",
-      "published_utc": "2026-10-05T20:20:21+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/teacher.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Atomic motion could help push solar cells beyond conventional limits",
-      "summary": "The bulk photovoltaic effect (BPVE), a photoelectric effect that generates photocurrent without a p–n junction, can persist even when a material's average crystal structure remains centrosymmetric, a study from Institute of Science Tokyo has found. Researchers demonstrated this in CuCrP2S6, a van der Waals material that transitions from a noncentrosymmetric to a centrosymmetric average structure. The finding challenges the conventional view of BPVE and suggests a new strategy for enhancing photoelectric conversion.",
-      "link": "https://phys.org/news/2026-10-atomic-motion-solar-cells-conventional.html",
-      "published_utc": "2026-10-05T20:20:16+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/atomic-motion-could-he-1.jpg"
     },
     {
       "section": "medical",
@@ -1476,30 +1308,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/children-facing-multip.jpg"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Quantum systems never quite forget where they came from",
-      "summary": "Even the most chaotic quantum systems keep a permanent mark of their own past—a \"quantum birthmark\"—that never fades. Researchers from Tampere University, Harvard University and TU Dresden discovered the feature in their recent study. Their findings shed new light on the elusive relationship between classical and quantum mechanics. Looking ahead, these quantum birthmarks, along with related phenomena known as \"scars,\" could eventually be harnessed to power next-generation nanoelectronics.",
-      "link": "https://phys.org/news/2026-10-quantum.html",
-      "published_utc": "2026-10-05T20:00:13+00:00",
-      "score": 4,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-systems-never.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Unmowed strips attract insects, but many abandon partially mowed dikes",
-      "summary": "Municipalities are increasingly mowing dikes and verges in stages, so that insects can make longer use of the plants growing there. Mowing is essential to keep a dike strong, explains ecologist Constant Swinkels of Radboud University. \"If you don't mow, trees or sturdy shrubs such as blackberries may start to grow. You don't want that, because their roots are so thick that they can cause dikes to collapse.\"",
-      "link": "https://phys.org/news/2026-10-unmowed-insects-abandon-partially-dikes.html",
-      "published_utc": "2026-10-05T20:00:06+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/partial-mowing-does-no.jpg"
-    },
-    {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
@@ -1510,30 +1318,6 @@
       "score": 6,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/person-in-lab-coat-per.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "A novel path to fusion ignition: Heat first, then add fuel",
-      "summary": "For more than 70 years, fusion energy researchers have used a particular equation to judge whether a plasma would stay hot and dense enough—for long enough—to reach a point where it could sustain itself without any more external power added. While that equation marks the finish line, also known as ignition, it says nothing about the best way to reach it. New research from the U.S. Department of Energy's (DOE) Princeton Plasma Physics Laboratory (PPPL) maps a path to ignition conditions using far less energy than any other path.",
-      "link": "https://phys.org/news/2026-10-path-fusion-ignition-fuel.html",
-      "published_utc": "2026-10-05T19:40:13+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-novel-path-to-fusion.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Sniffer dogs, bloodstain patterns and ballistics evidence under the microscope in new studies",
-      "summary": "CSI may have spawned innumerable spinoffs, but it turns out you can't trust TV—or sniffer dogs. New research is questioning the scientific basis for the dogs' use by police, as well as aspects of bloodstain pattern analysis and ballistics evidence routinely used in courts.",
-      "link": "https://phys.org/news/2026-10-sniffer-dogs-bloodstain-patterns-ballistics.html",
-      "published_utc": "2026-10-05T19:40:07+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ubc-law-professor-sara.jpg"
     },
     {
       "section": "medical",
@@ -1572,30 +1356,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/endometriosis-3.jpg"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Local tipping points in dune landscapes: How does a dune system organize itself?",
-      "summary": "Building with nature is an important concept in our coastal defense. After all, by harnessing natural processes, we are more resilient to sea level rise. A good understanding of these processes is therefore indispensable. Ecologist Paul Berghuis, affiliated with Utrecht University and the Royal Netherlands Institute for Sea Research (NIOZ), delved into the world of dune formation and discovered that within young dune landscapes, dunes and grasses do not arrange themselves randomly but follow a fixed pattern.",
-      "link": "https://phys.org/news/2026-10-local-dune-landscapes.html",
-      "published_utc": "2026-10-05T19:00:20+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/local-tipping-points-i.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Detecting forever chemicals—with yeast and AI",
-      "summary": "If you're reading this, your body probably contains forever chemicals.",
-      "link": "https://phys.org/news/2026-10-chemicals-yeast-ai.html",
-      "published_utc": "2026-10-05T19:00:10+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/pfas.jpg"
-    },
-    {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
@@ -1620,18 +1380,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-of-lawyer-mental.jpg"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "New saber-toothed predator from Argentina suggests its lineage survived longer than believed",
-      "summary": "In 2014, members of a local museum found fragments of an ancient fossil dating to the end of the Pliocene or early Pleistocene epoch in a seaside cliff on the Argentine pampas. They belonged to a large predator, but the only group they fit, saber-toothed marsupial relatives, had supposedly gone extinct earlier, leaving the identity of the fossil a mystery. That was until Eric del Campo, a paleontologist at the Argentine Museum of Natural Sciences in Buenos Aires and lead author of the study, and his colleagues took a closer look.",
-      "link": "https://phys.org/news/2026-10-saber-toothed-predator-argentina-lineage.html",
-      "published_utc": "2026-10-05T18:40:10+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-saber-toothed-pred.jpg"
-    },
-    {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
@@ -1642,42 +1390,6 @@
       "score": 1,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/woman-pain.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "How changing recipients of golden roses reflect centuries of evolving papal influence",
-      "summary": "Almost every ceremonial object or ornament of the medieval papal monarchy has disappeared or lost its original purpose. Yet one survives: the golden rose. On Sept. 26, 2026, during Pope Leo XIV's visit to France, he traveled to Lourdes, home to one of the world's most famous shrines to the Virgin Mary. After praying, Leo presented a golden rose to Our Lady of Lourdes—the fifth time he has dedicated a rose to a Marian shrine or image.",
-      "link": "https://phys.org/news/2026-10-recipients-golden-roses-centuries-evolving.html",
-      "published_utc": "2026-10-05T18:40:01+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-rose-made-of-gold-wi.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Tracking uncovers $80 million spent on AI political ads, most without disclosure",
-      "summary": "The 2026 U.S. midterm campaigns are the first in which AI-generated political ads are regularly appearing on people's televisions and social media feeds. We are researchers who have been studying political advertising through the Wesleyan Media Project since 2010. This election cycle—using data from media reports, student coders and AdImpact, a firm that tracks political ad spending—we've tracked about $80 million in spending on almost 170 unique ads that use AI.",
-      "link": "https://phys.org/news/2026-10-tracking-uncovers-million-spent-ai.html",
-      "published_utc": "2026-10-05T18:20:11+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/reading-online.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Sharks' inner ears reveal surprising diversity that may reflect evolution more than environment",
-      "summary": "A new study of shark anatomy suggests the shape of their inner ears is far more variable than expected, and this variation could have more to do with their evolutionary history than where they live or what they eat.",
-      "link": "https://phys.org/news/2026-10-sharks-ears-reveal-diversity-evolution.html",
-      "published_utc": "2026-10-05T18:20:09+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-uncover-su.jpg"
     },
     {
       "section": "medical",
@@ -1704,18 +1416,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/hiv-3.jpg"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Whether it's banning books or preventing artists from touring, silencing often backfires",
-      "summary": "If the goal was to silence rapper Macklemore by preventing him from touring with singer Ed Sheeran, it clearly backfired. Macklemore delivered a monolog in support of Palestinians in Gaza and the West Bank and performed his pro-Palestinian protest song \"Hind's Hall\" during a Sept. 4, 2026, concert at MetLife Stadium in East Rutherford, New Jersey, where he was an opening act for Sheeran.",
-      "link": "https://phys.org/news/2026-10-artists-silencing-backfires.html",
-      "published_utc": "2026-10-05T18:00:10+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/banned.jpg"
-    },
-    {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
@@ -1726,18 +1426,6 @@
       "score": 2,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/person-drinking-cockta.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Why Great Plains rivers depend on wetlands as well as climate",
-      "summary": "When a prairie river carries more water in one year than another, the obvious place to look for an explanation is the sky. A year with more snow and rain should have more water in rivers. That was also how I initially thought about year-to-year changes in river flow. But while studying the Prairie Pothole Region, I learned that this is only part of the story. What happens after water reaches the ground can be just as important as how much falls from the sky.",
-      "link": "https://phys.org/news/2026-10-great-plains-rivers-wetlands-climate.html",
-      "published_utc": "2026-10-05T18:00:01+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-prairie-rivers-dep.jpg"
     },
     {
       "section": "medical",
@@ -1957,8 +1645,8 @@
     }
   ],
   "joke_ro": {
-    "date_utc": "2026-10-05",
-    "text": "Am intrat cinci minute pe telefon. Cand am iesit, era alta epoca.",
+    "date_utc": "2026-10-06",
+    "text": "Mi-am facut meal prep. Am pregatit mental ideea.",
     "source": "data/jokes_ro.txt"
   },
   "satire_ro": {
@@ -1971,23 +1659,24 @@
       "tag": "space",
       "title": "Space",
       "link": "https://commons.wikimedia.org/wiki/Category:Astronomy",
-      "image": "https://live.staticflickr.com/65535/55569518712_f8a0da895e_b.jpg"
+      "image": "https://live.staticflickr.com/65535/55571780158_b8541e6fd9_b.jpg"
     },
     {
       "tag": "animals",
       "title": "Animals",
       "link": "https://commons.wikimedia.org/wiki/Category:Animals",
-      "image": "https://live.staticflickr.com/65535/55571028261_442863dc7e_b.jpg"
+      "image": "https://live.staticflickr.com/65535/55572139599_64e4424dc3_b.jpg"
     },
     {
       "tag": "landscape",
       "title": "Landscape",
       "link": "https://commons.wikimedia.org/wiki/Category:Landscapes",
-      "image": "https://live.staticflickr.com/65535/55571084664_bc63bbf070_b.jpg"
+      "image": "https://live.staticflickr.com/65535/55570962247_4d80d6899d_b.jpg"
     }
   ],
   "top_image_history": {
     "space": [
+      "https://live.staticflickr.com/65535/55571780158_b8541e6fd9_b.jpg",
       "https://live.staticflickr.com/65535/55569518712_f8a0da895e_b.jpg",
       "https://live.staticflickr.com/65535/55569598884_f14f0cfb0a_b.jpg",
       "https://live.staticflickr.com/65535/55567396769_042f0449d2_b.jpg",
@@ -2004,10 +1693,10 @@
       "https://live.staticflickr.com/65535/55556937786_b840477afd_b.jpg",
       "https://live.staticflickr.com/65535/55556638001_1fd1ec8c7d_b.jpg",
       "https://live.staticflickr.com/65535/55555419059_0c8b12ec03_b.jpg",
-      "https://live.staticflickr.com/65535/55551707972_9d39af780c_b.jpg",
-      "https://live.staticflickr.com/65535/55552517818_cb98bafc09_b.jpg"
+      "https://live.staticflickr.com/65535/55551707972_9d39af780c_b.jpg"
     ],
     "animals": [
+      "https://live.staticflickr.com/65535/55572139599_64e4424dc3_b.jpg",
       "https://live.staticflickr.com/65535/55571028261_442863dc7e_b.jpg",
       "https://live.staticflickr.com/65535/55569808589_8bcbf2ae9b_b.jpg",
       "https://live.staticflickr.com/65535/55567457322_e68a498c8b_b.jpg",
@@ -2024,10 +1713,10 @@
       "https://live.staticflickr.com/65535/55558202640_441e10a1c2_b.jpg",
       "https://live.staticflickr.com/65535/55556784334_6d688b9d71_b.jpg",
       "https://live.staticflickr.com/65535/55555460279_7c950821ba_b.jpg",
-      "https://live.staticflickr.com/65535/55554090246_4e0379f56e_b.jpg",
-      "https://live.staticflickr.com/65535/55551766572_2ef8f7bacf_b.jpg"
+      "https://live.staticflickr.com/65535/55554090246_4e0379f56e_b.jpg"
     ],
     "landscape": [
+      "https://live.staticflickr.com/65535/55570962247_4d80d6899d_b.jpg",
       "https://live.staticflickr.com/65535/55571084664_bc63bbf070_b.jpg",
       "https://live.staticflickr.com/65535/55569855749_2d59a6db50_b.jpg",
       "https://live.staticflickr.com/65535/55568528693_cdb321090d_b.jpg",
@@ -2044,10 +1733,10 @@
       "https://live.staticflickr.com/65535/55558294790_868731955c_b.jpg",
       "https://live.staticflickr.com/65535/55557116420_f04d91edf6_b.jpg",
       "https://live.staticflickr.com/65535/55555437869_b30b4ee9f5_b.jpg",
-      "https://live.staticflickr.com/65535/55554280738_b1f3b3e513_b.jpg",
-      "https://live.staticflickr.com/65535/55551471472_b32a511d29_b.jpg"
+      "https://live.staticflickr.com/65535/55554280738_b1f3b3e513_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/55572133200_91f948ba81_b.jpg",
       "https://live.staticflickr.com/65535/55565296052_63d8688f5e_b.jpg",
       "https://live.staticflickr.com/65535/55562534744_2a8826595e_b.jpg",
       "https://live.staticflickr.com/65535/55564774491_48ef3befb0_b.jpg",
@@ -2064,10 +1753,10 @@
       "https://live.staticflickr.com/65535/34934667174_6699c22408_b.jpg",
       "https://live.staticflickr.com/65535/55563709862_b73349c424_b.jpg",
       "https://live.staticflickr.com/65535/55564954744_70ef0e8b0b_b.jpg",
-      "https://live.staticflickr.com/65535/55561267946_f3a0f96db4_b.jpg",
-      "https://live.staticflickr.com/65535/55562371086_13aa63dc81_b.jpg"
+      "https://live.staticflickr.com/65535/55561267946_f3a0f96db4_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55572401720_faa6d5e069_b.jpg",
       "https://live.staticflickr.com/65535/55571962909_6064f16ce7_b.jpg",
       "https://live.staticflickr.com/65535/14731955215_c39e179eb4_b.jpg",
       "https://live.staticflickr.com/65535/55570169131_80ed4aa953_b.jpg",
@@ -2084,12 +1773,11 @@
       "https://live.staticflickr.com/65535/55566181458_105fd36f73_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/3/3f/NYC_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg",
       "https://live.staticflickr.com/65535/55565568698_98bcb3aec8_b.jpg",
-      "https://live.staticflickr.com/65535/55565079321_e1088a168a_b.jpg",
-      "https://live.staticflickr.com/65535/55564221824_1b1c8bf721_b.jpg"
+      "https://live.staticflickr.com/65535/55565079321_e1088a168a_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
+      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
