@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-24T15:01:19+00:00",
+  "generated_utc": "2026-10-24T17:56:50+00:00",
   "sections": {
     "romania": [
       {
@@ -49,18 +49,6 @@
         "score": 3,
         "freshness_boost": 3,
         "image": "https://picsum.photos/seed/vb-355f01b382c3fab9/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 Mai rău decât moartea",
-        "summary": "The post Mai rău decât moartea appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/ovi/mai-rau-decat-moartea",
-        "published_utc": "2026-10-24T07:36:12+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/10/Mai-tare-ca-moartea.jpg"
       },
       {
         "section": "romania",
@@ -118,8 +106,20 @@
         "link": "https://www.timesnewroman.ro/life-death/plosnite-gasite-in-spitalul-colentina-in-urma-unei-sesizari-facute-de-gandaci",
         "published_utc": "2026-10-23T15:30:00+00:00",
         "score": 3,
-        "freshness_boost": 3,
+        "freshness_boost": 1,
         "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/10/gandaci-si-plosnite-la-spital.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 Rușinos! În noul Guvern sunt doar două femei și n-are cine să facă atâtea cafele!",
+        "summary": "Mai mulți comentatori politici au catalogat drept rușinos noul Guvern, după ce s-a constatat că în componența acestuia figurează doar&hellip; The post Rușinos! În noul Guvern sunt doar două femei și n-are cine să facă atâtea cafele! appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/politic/rusinos-in-noul-guvern-sunt-doar-doua-femei-si-n-are-cine-sa-faca-atatea-cafele",
+        "published_utc": "2026-10-23T11:30:00+00:00",
+        "score": 3,
+        "freshness_boost": 1,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/10/cafele-la-guvern.jpg"
       },
       {
         "section": "romania",
@@ -132,6 +132,30 @@
         "score": 3,
         "freshness_boost": 0,
         "image": "https://picsum.photos/seed/vb-6c88fcade20bd9be/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Green Start-Up Romania",
+        "title": "Stația de epurare ecologică de la Viscri a primit premiul special pentru reziliență în domeniul apei în cadrul Premiilor New European Bauhaus 2026",
+        "summary": "Stația de epurare ecologică de la Viscri, proiectată și construită de Fundația Mihai Eminescu Trust, a primit pe 15 octombrie, la Bruxelles, premiul special pentru reziliență în domeniul apei în...",
+        "link": "https://green.start-up.ro/ro/statia-de-epurare-ecologica-de-la-viscri-a-primit-premiul-special-pentru-rezilienta-in-domeniul-apei-in-cadrul-premiilor-new-european-bauhaus-2026",
+        "published_utc": "2026-10-19T08:24:50+00:00",
+        "score": 3,
+        "freshness_boost": 0,
+        "image": "https://green.start-up.ro/img/articles/3/6/1/36117/cover-36117-src.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Green Start-Up Romania",
+        "title": "Edenred premiază producătorii locali în proiectul „Țara lui Mai Bine”",
+        "summary": "Cu ocazia Zilei Mondiale a Alimentației, a cărei temă în acest an este „Inovează astăzi. Hrănește viitorul”, Edenred România, HORA și FIHR lansează, în cadrul proiectului național Țara lui Mai...",
+        "link": "https://green.start-up.ro/ro/edenred-premiaza-producatorii-locali-in-proiectul-tara-lui-mai-bine",
+        "published_utc": "2026-10-19T08:18:34+00:00",
+        "score": 3,
+        "freshness_boost": 0,
+        "image": "https://green.start-up.ro/img/articles/3/6/1/36116/cover-36116-src.jpg"
       },
       {
         "section": "romania",
@@ -271,229 +295,109 @@
         "section": "medical",
         "kind": "global",
         "source": "Medical Xpress",
-        "title": "Study identifies potential new treatment targets for the most common type of bowel cancer",
-        "summary": "Research published today identifies potential new ways to treat the most common type of colorectal cancer in Ireland. The study, conducted by an international research team led by RCSI University of Medicine and Health Sciences and The Institute of Cancer Research, London, provides a roadmap for repurposing existing drugs and developing new ones to create more effective, personalized treatments for thousands of patients who currently have limited options.",
-        "link": "https://medicalxpress.com/news/2026-10-potential-treatment-common-bowel-cancer.html",
-        "published_utc": "2026-10-23T19:20:08+00:00",
-        "score": 5,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-identifies-poten-7.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "A precision T-cell therapy stalls treatment-resistant cancers in clinical trial",
-        "summary": "Early results of the first clinical trial to evaluate the drug invikafusp alfa (invika) in humans indicate that the treatment may be capable of managing cancers that have rebuffed most other interventions, including standard immunotherapy.",
-        "link": "https://medicalxpress.com/news/2026-10-precision-cell-therapy-stalls-treatment.html",
-        "published_utc": "2026-10-23T19:00:11+00:00",
-        "score": 2,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-series-of-chest-ct-s.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "A third of young adults turn to AI for substance-use information",
-        "summary": "More than 32% of participants in a Rutgers study reported using ChatGPT and similar chatbots for substance-use information.",
-        "link": "https://medicalxpress.com/news/2026-10-young-adults-ai-substance.html",
-        "published_utc": "2026-10-23T18:40:18+00:00",
+        "title": "10 years after Ebola in West Africa: Laboratory partnership improves viral hemorrhagic fever diagnostics in Guinea",
+        "summary": "Drawing on nearly a decade of surveillance, the researchers document the burden of Lassa fever in the region and explain how sustainable diagnostic structures can support prevention and help reduce the risk of major viral outbreaks.",
+        "link": "https://medicalxpress.com/news/2026-10-years-ebola-west-africa-laboratory.html",
+        "published_utc": "2026-10-24T17:00:01+00:00",
         "score": 1,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/chatgpt-question.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/ebola.jpg"
       },
       {
         "section": "medical",
         "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Could fish consumption reduce the risk of hypertensive disorders of pregnancy?",
-        "summary": "A new prospective study from Japan explored whether fish consumption before and during pregnancy is linked to hypertensive disorders of pregnancy, including gestational hypertension and preeclampsia. Researchers analyzed data from women in Japan, examining fish consumption and n-3 and n-6 polyunsaturated fatty acid (PUFA) intake across different stages of pregnancy. The results reveal a pattern that may have implications for preconception and prenatal nutrition.",
-        "link": "https://medicalxpress.com/news/2026-10-fish-consumption-hypertensive-disorders-pregnancy.html",
-        "published_utc": "2026-10-23T18:40:12+00:00",
+        "source": "ScienceDaily Health",
+        "title": "Why some people escape Alzheimer’s despite carrying a high-risk gene",
+        "summary": "Scientists have discovered why some people with a high genetic risk of Alzheimer’s remain mentally sharp into their 80s, uncovering a rare mutation that protects the brain from harmful protein buildup. The findings reveal a potential new way to prevent early brain damage and could pave the way for treatments that mimic this natural defense.",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261018205044.htm",
+        "published_utc": "2026-10-19T12:57:02+00:00",
         "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/could-fish-consumption.jpg"
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-fc7bcda93ea94972/480/320"
       },
       {
         "section": "medical",
         "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Mental health disparities persist for LGBTQ+ college students nationwide, largest study of its kind finds",
-        "summary": "LGBTQ+ college students who experience discrimination are significantly more likely to experience depression, anxiety and suicidal thoughts and to avoid needed health care, according to a new national study by Columbia University Mailman School of Public Health, Boston University School of Public Health and Harvard Pilgrim Health Care Institute. The findings underscore the impact of discrimination on student mental health during a critical stage of life. The results are published in the journal Behavioral Medicine.",
-        "link": "https://medicalxpress.com/news/2026-10-mental-health-disparities-persist-lgbtq.html",
-        "published_utc": "2026-10-23T18:20:01+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/lgbtq-college-student.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "ESMO: New analysis reinforces survival benefits of targeted therapy for advanced pancreatic cancer",
-        "summary": "A new analysis of a phase 3 clinical trial found that the targeted drug daraxonrasib improved survival compared with standard chemotherapy across multiple groups of patients with advanced pancreatic cancer, including those with different RAS mutations and those without an identified RAS mutation.",
-        "link": "https://medicalxpress.com/news/2026-10-esmo-analysis-survival-benefits-therapy.html",
-        "published_utc": "2026-10-23T18:00:31+00:00",
-        "score": 4,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2021/reversingcan.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Six-gene scoring system could help predict leukemia survival",
-        "summary": "The activity of six different genes can help determine survival in patients with acute myeloid leukemia (AML), according to a study published in Science Advances. The findings by researchers at the Center for Genomic Regulation (CRG) in Barcelona lay the foundations for new ways of predicting how patients will fare with a type of blood cancer that has widely variable outcomes from one patient to the next.",
-        "link": "https://medicalxpress.com/news/2026-10-gene-scoring-leukemia-survival.html",
-        "published_utc": "2026-10-23T18:00:22+00:00",
-        "score": 2,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/six-gene-scoring-syste.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "How cancers evade chemotherapy by entering a 'zombie-like state'",
-        "summary": "Scientists at Trinity College Dublin have made a breakthrough in understanding how cancer cells can evade the cell-killing effects of chemotherapy and enter a \"zombie-like state,\" called premature senescence, that can attract the wound-healing properties of the immune system.",
-        "link": "https://medicalxpress.com/news/2026-10-cancers-evade-chemotherapy-zombie-state.html",
-        "published_utc": "2026-10-23T18:00:05+00:00",
-        "score": 2,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-discover-ho-24.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Cancer cells' own carbon monoxide fuels anticancer drug production in lab tests",
-        "summary": "What if we could use a cancer's own byproduct to make drugs that destroy tumor cells from the inside? That is what Katsunori Tanaka and his team have done at the RIKEN Pioneering Research Institute (PRI) in Japan.",
-        "link": "https://medicalxpress.com/news/2026-10-cancer-cells-carbon-monoxide-fuels.html",
-        "published_utc": "2026-10-23T17:40:08+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cancer-cells-killed-wi.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Procedure standard/procedure guideline for ventilation–perfusion pulmonary scintigraphy published",
-        "summary": "The Society of Nuclear Medicine and Molecular Imaging (SNMMI), European Association of Nuclear Medicine (EANM), American College of Nuclear Medicine (ACNM) and Australian and New Zealand Society of Nuclear Medicine (ANZSNM) have issued a new procedure standard/procedure guideline for performing and interpreting lung imaging studies. The standard/guideline, published in the September issue of The Journal of Nuclear Medicine Technology, provides a framework for clinical applications and standardization of ventilation–perfusion (V/Q) scintigraphy, ventilation-only scintigraphy and perfusion-only scintigraphy.",
-        "link": "https://medicalxpress.com/news/2026-10-procedure-standardprocedure-guideline-ventilationperfusion-pulmonary.html",
-        "published_utc": "2026-10-23T17:40:05+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/procedure-standardproc.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Real-world results confirm benefit of antigen therapy for prostate cancer",
-        "summary": "Prostate-specific membrane antigen (PSMA)-targeted radiopharmaceutical therapy is safe and effective for patients with metastatic castration-resistant prostate cancer (mCRPC) in routine clinical practice, consistent with outcomes from the VISION trial. An analysis of outcomes from a French early-access program, the largest real-world cohort of patients studied to date, confirms the benefit-risk profile of the therapy, while also shedding light on patient selection and use trends. This research was published in The Journal of Nuclear Medicine.",
-        "link": "https://medicalxpress.com/news/2026-10-real-world-results-benefit-antigen.html",
-        "published_utc": "2026-10-23T17:20:06+00:00",
+        "source": "ScienceDaily Health",
+        "title": "Scientists discover why some people still can’t taste food after COVID-19",
+        "summary": "Scientists have uncovered a possible explanation for why some people struggle to taste food more than a year after recovering from COVID-19. By examining taste buds from patients with lingering symptoms, researchers discovered molecular abnormalities that weaken the signals responsible for detecting sweet, bitter, and savory flavors.",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261018205033.htm",
+        "published_utc": "2026-10-19T12:03:02+00:00",
         "score": 3,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/real-world-results-con.jpg"
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-647984f124b23c00/480/320"
       },
       {
         "section": "medical",
         "kind": "global",
-        "source": "Medical Xpress",
-        "title": "FDA approves hepatitis B shot that may let some patients stop all treatment",
-        "summary": "Some adults with chronic hepatitis B may now have a path to something today's treatments rarely deliver—stopping all medication while the virus stays in check.",
-        "link": "https://medicalxpress.com/news/2026-10-fda-hepatitis-shot-patients-treatment.html",
-        "published_utc": "2026-10-23T17:00:07+00:00",
+        "source": "ScienceDaily Health",
+        "title": "Just 3,000 steps a day may help slow Alzheimer's, scientists find",
+        "summary": "Walking just 3,000 steps a day could help slow Alzheimer’s-related brain changes, according to new research. Scientists discovered that physical activity was linked to less buildup of harmful tau proteins and nearly half the cognitive and functional decline, even in people already showing early signs of the disease. The strongest benefits appeared at 5,000 to 7,500 daily steps, suggesting that the popular 10,000-step goal may not be necessary.",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261018205058.htm",
+        "published_utc": "2026-10-19T11:23:26+00:00",
         "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/-injection.jpg"
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-1ae15a85140c7931/480/320"
       },
       {
         "section": "medical",
         "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Brain activity could help measure virtual reality sickness as it happens",
-        "summary": "For years, developers of virtual reality (VR) and augmented reality (AR) technologies have worked to address an unwanted side effect many users experience: cybersickness, a type of motion sickness triggered by moving digital content.",
-        "link": "https://medicalxpress.com/news/2026-10-brain-virtual-reality-sickness.html",
-        "published_utc": "2026-10-23T17:00:01+00:00",
+        "source": "ScienceDaily Health",
+        "title": "Scientists win 2026 Nobel Prize for controlling brain cells with light",
+        "summary": "A discovery in tiny algae led to a Nobel Prize-winning breakthrough that allows scientists to switch brain cells on and off using light. The revolutionary technique has already helped researchers activate memories and is opening new possibilities for restoring vision and treating brain disorders.",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261018205037.htm",
+        "published_utc": "2026-10-19T10:02:32+00:00",
+        "score": 7,
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-00a017f9b6483da2/480/320"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "\"Mind-blowing\" Alzheimer’s breakthrough: Two hours of sleep restored without clearing brain plaques",
+        "summary": "Scientists have uncovered an unexpected culprit behind sleep loss in Alzheimer’s disease: overactive immune cells in the brain. By temporarily removing these cells, researchers restored more than two hours of sleep per day in mice, revealing a promising new target for treatment.",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
+        "published_utc": "2026-10-19T09:19:45+00:00",
+        "score": 4,
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-a72255e986a43f15/480/320"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "Fatty liver disease is actually five different conditions, scientists discover",
+        "summary": "A common liver disease affecting nearly 30% of adults worldwide may be far more complicated than scientists previously realized. Mayo Clinic researchers have discovered that fatty liver disease actually consists of five distinct biological subtypes, each carrying different risks for liver failure, cancer, heart disease, and other serious complications.",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261016070642.htm",
+        "published_utc": "2026-10-19T02:35:09+00:00",
+        "score": 1,
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-3d1e3952e6d31e60/480/320"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "Modern neuroscience is rediscovering a surprising idea freud had 130 years ago",
+        "summary": "Researchers have identified striking parallels between Sigmund Freud’s century-old theories and modern neuroscience, suggesting that the brain’s constant predictions shape how we experience reality. The findings could help explain why harmful thought patterns are so difficult to break and offer new insights into treating mental disorders.",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261018084028.htm",
+        "published_utc": "2026-10-19T00:32:07+00:00",
+        "score": 3,
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-064dd4f549f320b0/480/320"
+      },
+      {
+        "section": "medical",
+        "kind": "global",
+        "source": "ScienceDaily Health",
+        "title": "Scientists may have overlooked a hidden Alzheimer's culprit for decades",
+        "summary": "For decades, scientists have focused on amyloid beta as a major culprit behind Alzheimer’s disease, spending billions of dollars developing treatments that have often delivered disappointing results. Now, researchers at UC Santa Cruz are drawing attention to a largely overlooked peptide called P3 that could also play a role in the disease. Previously believed to be harmless, P3 can form harmful-looking protein clumps even faster than amyloid beta and may also damage brain cells.",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261013015838.htm",
+        "published_utc": "2026-10-14T11:06:19+00:00",
         "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/umd-researchers-identi.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "New resources now available to help prevent suicide and self-harm in young people",
-        "summary": "Ten evidence-based recommendations for schools, youth organizations and local authorities have been published to help prevent suicide and self-harm in young people.",
-        "link": "https://medicalxpress.com/news/2026-10-resources-suicide-young-people.html",
-        "published_utc": "2026-10-23T16:40:13+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-resources-now-avai.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "How psilocybin reshapes brain circuits",
-        "summary": "A new study led by researchers at the University of California, Santa Cruz, reveals how psilocybin, the psychoactive compound in \"magic mushrooms,\" reshapes neural connections in the brain.",
-        "link": "https://medicalxpress.com/news/2026-10-psilocybin-reshapes-brain-circuits.html",
-        "published_utc": "2026-10-23T16:40:06+00:00",
-        "score": 2,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-psilocybin-reshape.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Scientists propose national microbiome plan to prevent chronic disease",
-        "summary": "Rutgers researchers are part of an international call for a microbiome moonshot, a massive, coordinated effort to pinpoint how certain microorganisms inside us drive chronic disease and how others can be harnessed for repair.",
-        "link": "https://medicalxpress.com/news/2026-10-scientists-national-microbiome-chronic-disease.html",
-        "published_utc": "2026-10-23T16:00:08+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/research-lab-1.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Overlooked 'off switch' in lung tumors may explain why immunotherapy doesn't work for everyone",
-        "summary": "An overlooked mechanism in lung cancer tumors may help explain why most patients don't respond to immunotherapy, according to new research led by Olga Anczuków, professor at The Jackson Laboratory for Genomic Medicine in Farmington, Connecticut, and deputy director of the NCI-designated Jackson Laboratory Cancer Center.",
-        "link": "https://medicalxpress.com/news/2026-10-overlooked-lung-tumors-immunotherapy-doesnt.html",
-        "published_utc": "2026-10-23T16:00:04+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/overlooked-off-switch.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "What can people who remember everything teach us about the brain?",
-        "summary": "Without looking back at an appointment calendar or diary or searching Google, what can you recall about the day of Nov. 5, 2021? Unless that date happens to hold an anniversary or other special meaning, probably not too much.",
-        "link": "https://medicalxpress.com/news/2026-10-people-brain.html",
-        "published_utc": "2026-10-23T15:40:10+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/brain-memory.jpg"
-      },
-      {
-        "section": "medical",
-        "kind": "global",
-        "source": "Medical Xpress",
-        "title": "Diagnostic uncertainty: Why losing a diagnosis can be as difficult as receiving one",
-        "summary": "When actor Christina Applegate revealed that she had been misdiagnosed with multiple sclerosis (MS), she described the experience as \"very unnerving\" and \"really confusing.\"",
-        "link": "https://medicalxpress.com/news/2026-10-diagnostic-uncertainty-diagnosis-difficult.html",
-        "published_utc": "2026-10-23T15:40:08+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/empty-medicine.jpg"
+        "freshness_boost": 0,
+        "image": "https://picsum.photos/seed/vb-bfccaffd06f57679/480/320"
       }
     ],
     "science": [
@@ -745,6 +649,18 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Ploșnițe găsite în Spitalul Colentina, în urma unei sesizări făcute de gândaci",
+      "summary": "Autoritățile sanitare au confirmat prezența ploșnițelor în Spitalul Colentina, în urma unei sesizări oficiale depuse de o comunitate de gândaci care activează în incinta unității medicale. Potrivit documentului, ploșnițele ar fi ocupat spațiile comune și ar fi afectat condițiile de trai ale celorlalți locatari, inclusiv ale gândacilor semnalanți. Reprezentanții Direcției de Sănătate Publică au efectuat [&#8230;] The post Ploșnițe găsite în Spitalul Colentina, în urma unei sesizări făcute de gândaci appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/life-death/plosnite-gasite-in-spitalul-colentina-in-urma-unei-sesizari-facute-de-gandaci",
+      "published_utc": "2026-10-23T15:30:00+00:00",
+      "score": 3,
+      "freshness_boost": 1,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/10/gandaci-si-plosnite-la-spital.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "Wonder Destinations – 13-15 noiembrie, Wonderland Resort",
       "summary": "Wonder Destinations revine în perioada 13–15 noiembrie 2026, la Wonderland Resort, cu cea de-a doua ediție a târgului dedicat turismului și călătoriilor. Evenimentul va reuni agenții de turism, hoteluri și&#8230; Articolul Wonder Destinations &#8211; 13-15 noiembrie, Wonderland Resort apare prima dată în Romania Pozitiva .",
@@ -753,18 +669,6 @@
       "score": 3,
       "freshness_boost": 3,
       "image": "https://picsum.photos/seed/vb-75f771d0051e3ffd/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Stegarul Dac ține autoritățile în șah după ce s-a urcat pe o clădire și flutură steagul Israelului",
-      "summary": "Dacă de obicei era capturat rapid, băgat în dubă și fezandat ușor, de data aceasta Stegarul Dac a făcut o&hellip; The post Stegarul Dac ține autoritățile în șah după ce s-a urcat pe o clădire și flutură steagul Israelului appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/stegarul-dac-tine-autoritatile-in-sah-dupa-ce-s-a-urcat-pe-o-cladire-si-flutura-steagul-israelului",
-      "published_utc": "2026-10-24T10:00:00+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/10/stegarul-dac-israel.jpg"
     },
     {
       "section": "romania",
@@ -830,13 +734,25 @@
       "section": "romania",
       "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 Ploșnițe găsite în Spitalul Colentina, în urma unei sesizări făcute de gândaci",
-      "summary": "Autoritățile sanitare au confirmat prezența ploșnițelor în Spitalul Colentina, în urma unei sesizări oficiale depuse de o comunitate de gândaci care activează în incinta unității medicale. Potrivit documentului, ploșnițele ar fi ocupat spațiile comune și ar fi afectat condițiile de trai ale celorlalți locatari, inclusiv ale gândacilor semnalanți. Reprezentanții Direcției de Sănătate Publică au efectuat [&#8230;] The post Ploșnițe găsite în Spitalul Colentina, în urma unei sesizări făcute de gândaci appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/plosnite-gasite-in-spitalul-colentina-in-urma-unei-sesizari-facute-de-gandaci",
-      "published_utc": "2026-10-23T15:30:00+00:00",
+      "title": "😂 Stegarul Dac ține autoritățile în șah după ce s-a urcat pe o clădire și flutură steagul Israelului",
+      "summary": "Dacă de obicei era capturat rapid, băgat în dubă și fezandat ușor, de data aceasta Stegarul Dac a făcut o&hellip; The post Stegarul Dac ține autoritățile în șah după ce s-a urcat pe o clădire și flutură steagul Israelului appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/life-death/stegarul-dac-tine-autoritatile-in-sah-dupa-ce-s-a-urcat-pe-o-cladire-si-flutura-steagul-israelului",
+      "published_utc": "2026-10-24T10:00:00+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/10/gandaci-si-plosnite-la-spital.jpg"
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/10/stegarul-dac-israel.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Rușinos! În noul Guvern sunt doar două femei și n-are cine să facă atâtea cafele!",
+      "summary": "Mai mulți comentatori politici au catalogat drept rușinos noul Guvern, după ce s-a constatat că în componența acestuia figurează doar&hellip; The post Rușinos! În noul Guvern sunt doar două femei și n-are cine să facă atâtea cafele! appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/politic/rusinos-in-noul-guvern-sunt-doar-doua-femei-si-n-are-cine-sa-faca-atatea-cafele",
+      "published_utc": "2026-10-23T11:30:00+00:00",
+      "score": 3,
+      "freshness_boost": 1,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/10/cafele-la-guvern.jpg"
     },
     {
       "section": "romania",
@@ -852,18 +768,6 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Mai rău decât moartea",
-      "summary": "The post Mai rău decât moartea appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/ovi/mai-rau-decat-moartea",
-      "published_utc": "2026-10-24T07:36:12+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/10/Mai-tare-ca-moartea.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "Fundatia Inocenti",
       "title": "De la timiditate la încredere: povestea unui tânăr care îndrăznește să viseze",
       "summary": "Descoperă povestea lui Darius și cum sprijinul educațional oferit de Fundația Inocenți l-a ajutat să capete încredere în sine și să își urmeze visurile. The post De la timiditate la încredere: povestea unui tânăr care îndrăznește să viseze appeared first on Fundația Inocenți .",
@@ -872,6 +776,30 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-6c88fcade20bd9be/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Green Start-Up Romania",
+      "title": "Stația de epurare ecologică de la Viscri a primit premiul special pentru reziliență în domeniul apei în cadrul Premiilor New European Bauhaus 2026",
+      "summary": "Stația de epurare ecologică de la Viscri, proiectată și construită de Fundația Mihai Eminescu Trust, a primit pe 15 octombrie, la Bruxelles, premiul special pentru reziliență în domeniul apei în...",
+      "link": "https://green.start-up.ro/ro/statia-de-epurare-ecologica-de-la-viscri-a-primit-premiul-special-pentru-rezilienta-in-domeniul-apei-in-cadrul-premiilor-new-european-bauhaus-2026",
+      "published_utc": "2026-10-19T08:24:50+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://green.start-up.ro/img/articles/3/6/1/36117/cover-36117-src.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Green Start-Up Romania",
+      "title": "Edenred premiază producătorii locali în proiectul „Țara lui Mai Bine”",
+      "summary": "Cu ocazia Zilei Mondiale a Alimentației, a cărei temă în acest an este „Inovează astăzi. Hrănește viitorul”, Edenred România, HORA și FIHR lansează, în cadrul proiectului național Țara lui Mai...",
+      "link": "https://green.start-up.ro/ro/edenred-premiaza-producatorii-locali-in-proiectul-tara-lui-mai-bine",
+      "published_utc": "2026-10-19T08:18:34+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://green.start-up.ro/img/articles/3/6/1/36116/cover-36116-src.jpg"
     },
     {
       "section": "romania",
@@ -908,6 +836,18 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-7aa8271c2858910c/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "10 years after Ebola in West Africa: Laboratory partnership improves viral hemorrhagic fever diagnostics in Guinea",
+      "summary": "Drawing on nearly a decade of surveillance, the researchers document the burden of Lassa fever in the region and explain how sustainable diagnostic structures can support prevention and help reduce the risk of major viral outbreaks.",
+      "link": "https://medicalxpress.com/news/2026-10-years-ebola-west-africa-laboratory.html",
+      "published_utc": "2026-10-24T17:00:01+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/ebola.jpg"
     },
     {
       "section": "romania",
@@ -1126,234 +1066,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/can-we-stop-antibiotic.jpg"
     },
     {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Study identifies potential new treatment targets for the most common type of bowel cancer",
-      "summary": "Research published today identifies potential new ways to treat the most common type of colorectal cancer in Ireland. The study, conducted by an international research team led by RCSI University of Medicine and Health Sciences and The Institute of Cancer Research, London, provides a roadmap for repurposing existing drugs and developing new ones to create more effective, personalized treatments for thousands of patients who currently have limited options.",
-      "link": "https://medicalxpress.com/news/2026-10-potential-treatment-common-bowel-cancer.html",
-      "published_utc": "2026-10-23T19:20:08+00:00",
-      "score": 5,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-identifies-poten-7.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "A precision T-cell therapy stalls treatment-resistant cancers in clinical trial",
-      "summary": "Early results of the first clinical trial to evaluate the drug invikafusp alfa (invika) in humans indicate that the treatment may be capable of managing cancers that have rebuffed most other interventions, including standard immunotherapy.",
-      "link": "https://medicalxpress.com/news/2026-10-precision-cell-therapy-stalls-treatment.html",
-      "published_utc": "2026-10-23T19:00:11+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-series-of-chest-ct-s.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "A third of young adults turn to AI for substance-use information",
-      "summary": "More than 32% of participants in a Rutgers study reported using ChatGPT and similar chatbots for substance-use information.",
-      "link": "https://medicalxpress.com/news/2026-10-young-adults-ai-substance.html",
-      "published_utc": "2026-10-23T18:40:18+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/chatgpt-question.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Could fish consumption reduce the risk of hypertensive disorders of pregnancy?",
-      "summary": "A new prospective study from Japan explored whether fish consumption before and during pregnancy is linked to hypertensive disorders of pregnancy, including gestational hypertension and preeclampsia. Researchers analyzed data from women in Japan, examining fish consumption and n-3 and n-6 polyunsaturated fatty acid (PUFA) intake across different stages of pregnancy. The results reveal a pattern that may have implications for preconception and prenatal nutrition.",
-      "link": "https://medicalxpress.com/news/2026-10-fish-consumption-hypertensive-disorders-pregnancy.html",
-      "published_utc": "2026-10-23T18:40:12+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/could-fish-consumption.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Mental health disparities persist for LGBTQ+ college students nationwide, largest study of its kind finds",
-      "summary": "LGBTQ+ college students who experience discrimination are significantly more likely to experience depression, anxiety and suicidal thoughts and to avoid needed health care, according to a new national study by Columbia University Mailman School of Public Health, Boston University School of Public Health and Harvard Pilgrim Health Care Institute. The findings underscore the impact of discrimination on student mental health during a critical stage of life. The results are published in the journal Behavioral Medicine.",
-      "link": "https://medicalxpress.com/news/2026-10-mental-health-disparities-persist-lgbtq.html",
-      "published_utc": "2026-10-23T18:20:01+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/lgbtq-college-student.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "ESMO: New analysis reinforces survival benefits of targeted therapy for advanced pancreatic cancer",
-      "summary": "A new analysis of a phase 3 clinical trial found that the targeted drug daraxonrasib improved survival compared with standard chemotherapy across multiple groups of patients with advanced pancreatic cancer, including those with different RAS mutations and those without an identified RAS mutation.",
-      "link": "https://medicalxpress.com/news/2026-10-esmo-analysis-survival-benefits-therapy.html",
-      "published_utc": "2026-10-23T18:00:31+00:00",
-      "score": 4,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2021/reversingcan.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Six-gene scoring system could help predict leukemia survival",
-      "summary": "The activity of six different genes can help determine survival in patients with acute myeloid leukemia (AML), according to a study published in Science Advances. The findings by researchers at the Center for Genomic Regulation (CRG) in Barcelona lay the foundations for new ways of predicting how patients will fare with a type of blood cancer that has widely variable outcomes from one patient to the next.",
-      "link": "https://medicalxpress.com/news/2026-10-gene-scoring-leukemia-survival.html",
-      "published_utc": "2026-10-23T18:00:22+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/six-gene-scoring-syste.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "How cancers evade chemotherapy by entering a 'zombie-like state'",
-      "summary": "Scientists at Trinity College Dublin have made a breakthrough in understanding how cancer cells can evade the cell-killing effects of chemotherapy and enter a \"zombie-like state,\" called premature senescence, that can attract the wound-healing properties of the immune system.",
-      "link": "https://medicalxpress.com/news/2026-10-cancers-evade-chemotherapy-zombie-state.html",
-      "published_utc": "2026-10-23T18:00:05+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-discover-ho-24.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Cancer cells' own carbon monoxide fuels anticancer drug production in lab tests",
-      "summary": "What if we could use a cancer's own byproduct to make drugs that destroy tumor cells from the inside? That is what Katsunori Tanaka and his team have done at the RIKEN Pioneering Research Institute (PRI) in Japan.",
-      "link": "https://medicalxpress.com/news/2026-10-cancer-cells-carbon-monoxide-fuels.html",
-      "published_utc": "2026-10-23T17:40:08+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cancer-cells-killed-wi.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Procedure standard/procedure guideline for ventilation–perfusion pulmonary scintigraphy published",
-      "summary": "The Society of Nuclear Medicine and Molecular Imaging (SNMMI), European Association of Nuclear Medicine (EANM), American College of Nuclear Medicine (ACNM) and Australian and New Zealand Society of Nuclear Medicine (ANZSNM) have issued a new procedure standard/procedure guideline for performing and interpreting lung imaging studies. The standard/guideline, published in the September issue of The Journal of Nuclear Medicine Technology, provides a framework for clinical applications and standardization of ventilation–perfusion (V/Q) scintigraphy, ventilation-only scintigraphy and perfusion-only scintigraphy.",
-      "link": "https://medicalxpress.com/news/2026-10-procedure-standardprocedure-guideline-ventilationperfusion-pulmonary.html",
-      "published_utc": "2026-10-23T17:40:05+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/procedure-standardproc.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Real-world results confirm benefit of antigen therapy for prostate cancer",
-      "summary": "Prostate-specific membrane antigen (PSMA)-targeted radiopharmaceutical therapy is safe and effective for patients with metastatic castration-resistant prostate cancer (mCRPC) in routine clinical practice, consistent with outcomes from the VISION trial. An analysis of outcomes from a French early-access program, the largest real-world cohort of patients studied to date, confirms the benefit-risk profile of the therapy, while also shedding light on patient selection and use trends. This research was published in The Journal of Nuclear Medicine.",
-      "link": "https://medicalxpress.com/news/2026-10-real-world-results-benefit-antigen.html",
-      "published_utc": "2026-10-23T17:20:06+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/real-world-results-con.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "FDA approves hepatitis B shot that may let some patients stop all treatment",
-      "summary": "Some adults with chronic hepatitis B may now have a path to something today's treatments rarely deliver—stopping all medication while the virus stays in check.",
-      "link": "https://medicalxpress.com/news/2026-10-fda-hepatitis-shot-patients-treatment.html",
-      "published_utc": "2026-10-23T17:00:07+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/-injection.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Brain activity could help measure virtual reality sickness as it happens",
-      "summary": "For years, developers of virtual reality (VR) and augmented reality (AR) technologies have worked to address an unwanted side effect many users experience: cybersickness, a type of motion sickness triggered by moving digital content.",
-      "link": "https://medicalxpress.com/news/2026-10-brain-virtual-reality-sickness.html",
-      "published_utc": "2026-10-23T17:00:01+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/umd-researchers-identi.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "New resources now available to help prevent suicide and self-harm in young people",
-      "summary": "Ten evidence-based recommendations for schools, youth organizations and local authorities have been published to help prevent suicide and self-harm in young people.",
-      "link": "https://medicalxpress.com/news/2026-10-resources-suicide-young-people.html",
-      "published_utc": "2026-10-23T16:40:13+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-resources-now-avai.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "How psilocybin reshapes brain circuits",
-      "summary": "A new study led by researchers at the University of California, Santa Cruz, reveals how psilocybin, the psychoactive compound in \"magic mushrooms,\" reshapes neural connections in the brain.",
-      "link": "https://medicalxpress.com/news/2026-10-psilocybin-reshapes-brain-circuits.html",
-      "published_utc": "2026-10-23T16:40:06+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-psilocybin-reshape.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Scientists propose national microbiome plan to prevent chronic disease",
-      "summary": "Rutgers researchers are part of an international call for a microbiome moonshot, a massive, coordinated effort to pinpoint how certain microorganisms inside us drive chronic disease and how others can be harnessed for repair.",
-      "link": "https://medicalxpress.com/news/2026-10-scientists-national-microbiome-chronic-disease.html",
-      "published_utc": "2026-10-23T16:00:08+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/research-lab-1.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Overlooked 'off switch' in lung tumors may explain why immunotherapy doesn't work for everyone",
-      "summary": "An overlooked mechanism in lung cancer tumors may help explain why most patients don't respond to immunotherapy, according to new research led by Olga Anczuków, professor at The Jackson Laboratory for Genomic Medicine in Farmington, Connecticut, and deputy director of the NCI-designated Jackson Laboratory Cancer Center.",
-      "link": "https://medicalxpress.com/news/2026-10-overlooked-lung-tumors-immunotherapy-doesnt.html",
-      "published_utc": "2026-10-23T16:00:04+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/overlooked-off-switch.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "What can people who remember everything teach us about the brain?",
-      "summary": "Without looking back at an appointment calendar or diary or searching Google, what can you recall about the day of Nov. 5, 2021? Unless that date happens to hold an anniversary or other special meaning, probably not too much.",
-      "link": "https://medicalxpress.com/news/2026-10-people-brain.html",
-      "published_utc": "2026-10-23T15:40:10+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/brain-memory.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Diagnostic uncertainty: Why losing a diagnosis can be as difficult as receiving one",
-      "summary": "When actor Christina Applegate revealed that she had been misdiagnosed with multiple sclerosis (MS), she described the experience as \"very unnerving\" and \"really confusing.\"",
-      "link": "https://medicalxpress.com/news/2026-10-diagnostic-uncertainty-diagnosis-difficult.html",
-      "published_utc": "2026-10-23T15:40:08+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/empty-medicine.jpg"
-    },
-    {
       "section": "environment",
       "kind": "global",
       "source": "Mongabay Conservation",
@@ -1412,6 +1124,102 @@
       "score": 0,
       "freshness_boost": 3,
       "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/13150621/1.-Indian-cobra.-Photo-credit-Bhasuru-Prabashwara-768x512.jpg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "Why some people escape Alzheimer’s despite carrying a high-risk gene",
+      "summary": "Scientists have discovered why some people with a high genetic risk of Alzheimer’s remain mentally sharp into their 80s, uncovering a rare mutation that protects the brain from harmful protein buildup. The findings reveal a potential new way to prevent early brain damage and could pave the way for treatments that mimic this natural defense.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261018205044.htm",
+      "published_utc": "2026-10-19T12:57:02+00:00",
+      "score": 1,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-fc7bcda93ea94972/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "Scientists discover why some people still can’t taste food after COVID-19",
+      "summary": "Scientists have uncovered a possible explanation for why some people struggle to taste food more than a year after recovering from COVID-19. By examining taste buds from patients with lingering symptoms, researchers discovered molecular abnormalities that weaken the signals responsible for detecting sweet, bitter, and savory flavors.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261018205033.htm",
+      "published_utc": "2026-10-19T12:03:02+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-647984f124b23c00/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "Just 3,000 steps a day may help slow Alzheimer's, scientists find",
+      "summary": "Walking just 3,000 steps a day could help slow Alzheimer’s-related brain changes, according to new research. Scientists discovered that physical activity was linked to less buildup of harmful tau proteins and nearly half the cognitive and functional decline, even in people already showing early signs of the disease. The strongest benefits appeared at 5,000 to 7,500 daily steps, suggesting that the popular 10,000-step goal may not be necessary.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261018205058.htm",
+      "published_utc": "2026-10-19T11:23:26+00:00",
+      "score": 0,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-1ae15a85140c7931/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "Scientists win 2026 Nobel Prize for controlling brain cells with light",
+      "summary": "A discovery in tiny algae led to a Nobel Prize-winning breakthrough that allows scientists to switch brain cells on and off using light. The revolutionary technique has already helped researchers activate memories and is opening new possibilities for restoring vision and treating brain disorders.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261018205037.htm",
+      "published_utc": "2026-10-19T10:02:32+00:00",
+      "score": 7,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-00a017f9b6483da2/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "\"Mind-blowing\" Alzheimer’s breakthrough: Two hours of sleep restored without clearing brain plaques",
+      "summary": "Scientists have uncovered an unexpected culprit behind sleep loss in Alzheimer’s disease: overactive immune cells in the brain. By temporarily removing these cells, researchers restored more than two hours of sleep per day in mice, revealing a promising new target for treatment.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
+      "published_utc": "2026-10-19T09:19:45+00:00",
+      "score": 4,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-a72255e986a43f15/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "Fatty liver disease is actually five different conditions, scientists discover",
+      "summary": "A common liver disease affecting nearly 30% of adults worldwide may be far more complicated than scientists previously realized. Mayo Clinic researchers have discovered that fatty liver disease actually consists of five distinct biological subtypes, each carrying different risks for liver failure, cancer, heart disease, and other serious complications.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261016070642.htm",
+      "published_utc": "2026-10-19T02:35:09+00:00",
+      "score": 1,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-3d1e3952e6d31e60/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "Modern neuroscience is rediscovering a surprising idea freud had 130 years ago",
+      "summary": "Researchers have identified striking parallels between Sigmund Freud’s century-old theories and modern neuroscience, suggesting that the brain’s constant predictions shape how we experience reality. The findings could help explain why harmful thought patterns are so difficult to break and offer new insights into treating mental disorders.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261018084028.htm",
+      "published_utc": "2026-10-19T00:32:07+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-064dd4f549f320b0/480/320"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "ScienceDaily Health",
+      "title": "Scientists may have overlooked a hidden Alzheimer's culprit for decades",
+      "summary": "For decades, scientists have focused on amyloid beta as a major culprit behind Alzheimer’s disease, spending billions of dollars developing treatments that have often delivered disappointing results. Now, researchers at UC Santa Cruz are drawing attention to a largely overlooked peptide called P3 that could also play a role in the disease. Previously believed to be harmless, P3 can form harmful-looking protein clumps even faster than amyloid beta and may also damage brain cells.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261013015838.htm",
+      "published_utc": "2026-10-14T11:06:19+00:00",
+      "score": 0,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-bfccaffd06f57679/480/320"
     },
     {
       "section": "environment",
@@ -1566,6 +1374,7 @@
       "https://live.staticflickr.com/65535/55591997153_80475fa100_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/55597789672_5f66ff9dc9_b.jpg",
       "https://live.staticflickr.com/65535/55593360377_14aa36f972_b.jpg",
       "https://live.staticflickr.com/65535/55603053633_7ca83f341a_b.jpg",
       "https://live.staticflickr.com/65535/33727572840_b97ca8fc4b_b.jpg",
@@ -1582,10 +1391,10 @@
       "https://live.staticflickr.com/65535/55594389976_bbdee2bce4_b.jpg",
       "https://live.staticflickr.com/65535/16608523580_59bbb4365b_b.jpg",
       "https://live.staticflickr.com/65535/55601657953_76460c67e7_b.jpg",
-      "https://live.staticflickr.com/65535/55594377196_6c73742853_b.jpg",
-      "https://live.staticflickr.com/65535/55596367048_cdd897f03a_b.jpg"
+      "https://live.staticflickr.com/65535/55594377196_6c73742853_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55609514414_8378ea7ec3_b.jpg",
       "https://live.staticflickr.com/65535/55609239053_e7834ebeeb_b.jpg",
       "https://live.staticflickr.com/65535/55609105934_ddd1279c61_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/3/3f/NYC_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg",
@@ -1602,12 +1411,11 @@
       "https://live.staticflickr.com/65535/55603948194_5a7e637eb9_b.jpg",
       "https://live.staticflickr.com/65535/55602153762_0d5248bf22_b.jpg",
       "https://live.staticflickr.com/65535/55602968768_3fe22a0e36_b.jpg",
-      "https://live.staticflickr.com/65535/55601412642_25c95cab70_b.jpg",
-      "https://live.staticflickr.com/65535/55602672915_26786c50eb_b.jpg"
+      "https://live.staticflickr.com/65535/55601412642_25c95cab70_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
+      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
