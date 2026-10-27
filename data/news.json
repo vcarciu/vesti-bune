@@ -1,30 +1,7 @@
 {
-  "generated_utc": "2026-10-26T22:03:36+00:00",
+  "generated_utc": "2026-10-27T01:42:21+00:00",
   "sections": {
     "romania": [
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "Ioan Varga critică programarea meciurilor CFR-ului: „Bătaie de joc, au intenția să ne distrugă”",
-        "summary": "Ioan Varga, finanțatorul lui CFR Cluj, a criticat dur programarea echipei, care trebuie să dispute trei meciuri oficiale în doar șase zile. Nemulțumirile au apărut după remiza cu Dinamo București, scor 2-2, de pe 25 octombrie. În perioada următoare, CFR Cluj va întâlni Universitatea Cluj în Cupa României (28 octombrie, apoi va juca în SuperLiga &#8230;",
-        "link": "https://hotnews.ro/ioan-varga-critica-programarea-meciurilor-cfr-ului-bataie-de-joc-au-intentia-sa-ne-distruga-2387300",
-        "published_utc": "2026-10-26T20:52:31+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-883762415f2425f7/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "HotNews",
-        "title": "Achiziție spectaculoasă: Grupul care deține Prima TV cumpără al treilea post TV din România ca audiență",
-        "summary": "Orlando Nicoară, directorul Clever EAD și proprietarul site-ului „Cotidianul”, a anunțat luni o tranzacție majoră pe piața media din România. Astfel, Grupul Cleaver a semnat un acordul pentru preluarea integrală a Doğan Media International, compania care deține postul de televiziune Kanal D. De aproximativ un deceniu, Kanal D este al treilea post ca audiență din &#8230;",
-        "link": "https://hotnews.ro/mutare-majora-anuntata-de-orlando-nicoara-pe-piata-media-din-romania-grupul-care-detine-prima-tv-cumpara-kanal-d-2387176",
-        "published_utc": "2026-10-26T16:55:44+00:00",
-        "score": 2,
-        "image": "https://picsum.photos/seed/vb-69ade5c95ccf4122/480/320"
-      },
       {
         "section": "romania",
         "kind": "ro",
@@ -112,6 +89,18 @@
         "section": "romania",
         "kind": "ro",
         "source": "Times New Roman (Satira)",
+        "title": "😂 Reforma administrativă propusă de Grindeanu „Vom desființa toate localitățile cu primar PNL sau USR”",
+        "summary": "După anunțul că vrea o reformă administrativă, Sorin Grindeanu efectiv a fost asaltat de primari pesediști speriați de gândul că vor rămâne fără un loc de muncă. Liderul PSD i-a liniștit însă rapid, explicându-le că absolut toți vor avea de câștigat de pe urma reformei administrative. „Vor dispărea doar localitățile cu primar de la PNL [&#8230;] The post Reforma administrativă propusă de Grindeanu „Vom desființa toate localitățile cu primar PNL sau USR” appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/politic/reforma-administrativa-propusa-de-grindeanu-vom-desfiinta-toate-localitatile-cu-primar-pnl-sau-usr",
+        "published_utc": "2026-10-26T11:43:46+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/06/grindeanu_sobolanind.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Times New Roman (Satira)",
         "title": "😂 Summit istoric Brazilia-Kosovo-UE. Ce vor discuta Lula, Pula şi Ursula",
         "summary": "La nici câteva ore după realegere, preşedintele brazilian Lula da Silva e gata să reia întâlnirile diplomatice la cel mai&hellip; The post Summit istoric Brazilia-Kosovo-UE. Ce vor discuta Lula, Pula şi Ursula appeared first on Times New Roman .",
         "link": "https://www.timesnewroman.ro/politic/summit-istoric-brazilia-kosovo-ue-ce-vor-discuta-lula-pula-si-ursula",
@@ -131,18 +120,6 @@
         "score": 3,
         "freshness_boost": 3,
         "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/sebi_ghita_tuble_hotel.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 Guvernul scade prețul energiei pentru copulație",
-        "summary": "Una din primele măsuri anunțate de noul Guvern este reducerea prețului la energie electrică pentru activitățile de copulație, în cadrul&hellip; The post Guvernul scade prețul energiei pentru copulație appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/life-death/guvernul-scade-pretul-energiei-pentru-copulatie",
-        "published_utc": "2026-10-25T11:00:00+00:00",
-        "score": 3,
-        "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/10/energie-copulatie-oameni-in-pat.jpg"
       },
       {
         "section": "romania",
@@ -548,301 +525,181 @@
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Freshwater flows reshape Coorong algae communities, 16 years of data reveal",
-        "summary": "Ongoing research is providing a clearer picture of how climate change can affect different aspects of the Coorong in South Australia—and is helping develop strong environmental strategies that can be adapted as the climate changes.",
-        "link": "https://phys.org/news/2026-10-freshwater-reshape-coorong-algae-communities.html",
-        "published_utc": "2026-10-26T22:00:01+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/climate-change-and-the.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Could ecological roles offer clues to how life began?",
-        "summary": "Producers, consumers, and decomposers play different roles in today's ecosystems. Thinking about these familiar roles led me to a question: Could their differences partly reflect the different physical and chemical environments in which early life developed? I wondered whether the organization of ecosystems might offer a useful starting point for thinking about life's beginnings.",
-        "link": "https://phys.org/news/2026-10-ecological-roles-clues-life-began.html",
-        "published_utc": "2026-10-26T21:40:16+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/could-ecological-roles.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Expanding hemp could boost Kentucky water quality and ecological diversity",
-        "summary": "Hemp has long been pitched to Kentucky farmers as a way to diversify their income. Research now suggests it could diversify the landscape itself, with measurable benefits for the state's water and wildlife.",
-        "link": "https://phys.org/news/2026-10-hemp-boost-kentucky-quality-ecological.html",
-        "published_utc": "2026-10-26T21:40:01+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hemp.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Metalens microscope switches focus with voltage, not moving optics",
-        "summary": "Just as it is difficult for a camera to keep both a nearby flower and a distant mountain sharply focused at the same time, conventional optical microscopes face a similar challenge when imaging structures located at different depths inside the body. Tighter focusing of light improves spatial resolution, but at the same time reduces the depth range over which the image remains sharply focused.",
-        "link": "https://phys.org/news/2026-10-metalens-microscope-focus-voltage-optics.html",
-        "published_utc": "2026-10-26T21:20:10+00:00",
-        "score": 2,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-metalens-photoacoust.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Beyond trial and error: Integrating computation, processing, and AI to design high-entropy alloys",
-        "summary": "Designing structural high-entropy alloys (SHEAs) means solving a problem with an enormous number of moving parts: which combinations of composition and processing conditions will yield the phases, microstructures, and mechanical properties a given application demands? Because these alloys mix multiple principal elements in comparable proportions, that question spans length and time scales that no single experiment or model can cover on its own.",
-        "link": "https://phys.org/news/2026-10-trial-error-ai-high-entropy.html",
-        "published_utc": "2026-10-26T21:20:01+00:00",
+        "title": "Long-term analysis questions whether Japan's depopulation policy can stabilize shrinking communities",
+        "summary": "Small and medium-sized cities (SMCs) are essential for balanced national development, yet many are now facing prolonged population loss, aging and weakened labor markets. Japan has addressed this challenge for more than half a century through the Depopulated-Area-Designation (DAD) policy, a national framework that identifies municipalities facing population loss and supports them through infrastructure, fiscal, industrial and social measures. However, it has not been determined whether such a designation can stabilize shrinking communities over time.",
+        "link": "https://phys.org/news/2026-10-term-analysis-japan-depopulation-policy.html",
+        "published_utc": "2026-10-27T01:40:01+00:00",
         "score": 1,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/beyond-trial-and-error.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "NASA Breaking News",
-        "title": "Tinga’s Tale",
-        "summary": "Written by Margaret Deahn, Ph.D. candidate at Purdue University Oct. 19, 2026 Once upon a time, NASA’s Mars 2020 rover investigated the southern border of “Idubi,” an outcrop composed primarily of an igneous mineral geologists call olivine. The rover’s “eyes” captured a very exciting geologic feature during its traverse — a contact between distinct rock […]",
-        "link": "https://science.nasa.gov/blog/tingas-tale",
-        "published_utc": "2026-10-26T21:17:02+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-f5f97141cdf2299b/480/320"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "NASA Breaking News",
-        "title": "NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust",
-        "summary": "Over 1,645 Martian days, NASA’s Perseverance Mars rover measured the fine and ultrafine Martian dust particles found clinging to samples of spacesuit materials that are carried aboard the rover, including some that are small enough to penetrate the lungs and enter the bloodstream. The findings will be published Tuesday, Oct. 27, in the Proceedings of [&#8230;]",
-        "link": "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust",
-        "published_utc": "2026-10-26T21:07:28+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-838578d48ba4a621/480/320"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dear-dad-you-cant-desi.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Silent bacterial genes yield potential leads for future cancer drugs",
-        "summary": "Natural products produced by microorganisms are a promising source of new drugs. Researchers at the Helmholtz Center for Infection Research (HZI) and its Saarbrücken-based site, the Helmholtz Institute for Pharmaceutical Research Saarland (HIPS), have now discovered a new family of such compounds, elucidated their unusual biosynthesis and developed a way to produce them synthetically.",
-        "link": "https://phys.org/news/2026-10-silent-bacterial-genes-yield-potential.html",
-        "published_utc": "2026-10-26T21:00:12+00:00",
-        "score": 5,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/from-hidden-natural-pr.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "NASA Breaking News",
-        "title": "NEO Surveyor’s Sunshade Gets Inspected",
-        "summary": "Description The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor is mounted on an assembly ring during inspections in a clean room at BAE Systems Space &#038; Mission Systems in Boulder, Colorado, in July 2026. The sunshade structure stands 20 feet (6 meters) tall and measures 8 feet (2.4 meters) wide at its base. Its two flat […]",
-        "link": "https://science.nasa.gov/photojournal/neo-surveyors-sunshade-gets-inspected",
-        "published_utc": "2026-10-26T20:53:13+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-2887c083a554d6de/480/320"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "NASA Breaking News",
-        "title": "Solar Cells Inspected on NASA’s NEO Surveyor",
-        "summary": "Description The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission is inspected by a technician at BAE Systems Space &#038; Mission Systems in Boulder, Colorado, in late July. Built by Applied Aerospace in Stockton, California, the sunshade structure was outfitted with its solar cells by SolAero Technologies in Albuquerque, New Mexico, in January. Environmental […]",
-        "link": "https://science.nasa.gov/photojournal/solar-cells-inspected-on-nasas-neo-surveyor",
-        "published_utc": "2026-10-26T20:52:24+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-ede715736ecead88/480/320"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Can cats really thrive on vegan diets? Professor Andrew Knight responds to critics",
-        "summary": "In response to a recent article on vegan diets for cats, Phys.org received numerous messages from concerned readers. People raised a lot of concerns, mainly arguing that cats are obligate carnivores and that vegan diets could be very harmful to their health. Now, we have collected all these comments, questions and concerns and asked the researcher behind the original paper to address them. Andrew Knight, Veterinary Professor of Animal Welfare and Associate Professor at Murdoch University School of Veterinary Medicine, offers his response below.",
-        "link": "https://phys.org/news/2026-10-cats-vegan-diets-professor-andrew.html",
-        "published_utc": "2026-10-26T20:45:42+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cat-eating.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Tree‑hugging optional: What today's green tradespeople actually care about",
-        "summary": "Is masculinity a barrier to green jobs?",
-        "link": "https://phys.org/news/2026-10-treehugging-optional-today-green-tradespeople.html",
-        "published_utc": "2026-10-26T20:40:11+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-worker-uses-a-drill.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Single optical element combines soft X-ray imaging and spectroscopy",
-        "summary": "An international research team from Germany, Switzerland and Japan has demonstrated in a recent study that a single reflection zone plate (RZP) can perform both soft X-ray imaging and resonant inelastic X-ray scattering (RIXS) mapping. The approach could simplify future instruments that need to determine both where structures are located in a material and how their electronic properties vary.",
-        "link": "https://phys.org/news/2026-10-optical-element-combines-soft-ray.html",
-        "published_utc": "2026-10-26T20:20:11+00:00",
+        "title": "Global happiness researchers reveal keys to a good life",
+        "summary": "Many of the world's leading happiness researchers say they consciously spend more time with loved ones after seeing the evidence, according to a new paper. \"Happiness emerges from a symphony of factors, but if I had to pinpoint one secret to happiness, relationships with other people might be it,\" says Lara Aknin, a professor of social psychology at Simon Fraser University.",
+        "link": "https://phys.org/news/2026-10-global-happiness-reveal-keys-good.html",
+        "published_utc": "2026-10-27T01:30:01+00:00",
         "score": 1,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/single-optical-element-1.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/happy-group.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Simulations reveal design rules for high-performance DNA particle motors",
-        "summary": "DNA-nano/microparticle motors are among the fastest artificial molecular motors reported to date, moving at approximately 30 nm per second. However, they are still slower than natural motor proteins (approximately 100–1,000 nm per second), and further improvements in design and performance are required.",
-        "link": "https://phys.org/news/2026-10-simulations-reveal-high-dna-particle.html",
-        "published_utc": "2026-10-26T20:20:01+00:00",
-        "score": 2,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/simulations-reveal-des.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Shared aquifers, border hotspots: Cooperation should follow where groundwater is pumped, scientists say",
-        "summary": "Groundwater depletion and groundwater-dependent irrigation tend to concentrate close to international borders within aquifers shared by two or more countries, where pumping on one side is more likely to affect users on the other, according to a publication by the United Nations University Institute for Water, Environment and Health (UNU-INWEH).",
-        "link": "https://phys.org/news/2026-10-aquifers-border-hotspots-cooperation-groundwater.html",
-        "published_utc": "2026-10-26T20:10:06+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/shared-aquifers-border.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Keeping water molecules connected reduces carbon electrode corrosion",
-        "summary": "Carbon is inexpensive, conductive, and widely used in technologies such as fuel cells and water electrolyzers. But under strongly oxidizing conditions, carbon electrodes gradually corrode.",
-        "link": "https://phys.org/news/2026-10-molecules-carbon-electrode-corrosion.html",
-        "published_utc": "2026-10-26T20:10:01+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/keeping-water-connecte.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Hydrogen production from seawater: Low-cost catalyst could cut energy use and resist corrosion",
-        "summary": "Using a range of advanced characterization techniques, researchers say they have developed a novel method with the potential to produce hydrogen from seawater using a process that requires less energy, resists corrosion and could support more economical hydrogen production.",
-        "link": "https://phys.org/news/2026-10-hydrogen-production-seawater-catalyst-energy.html",
-        "published_utc": "2026-10-26T20:00:09+00:00",
+        "title": "False lingzhi unmasked: Scientists crack the 245-year mystery behind a medicinal mushroom mix-up",
+        "summary": "In a new study published today in Plants, People, Planet, scientists from the Royal Botanic Gardens, Kew, and their international collaborators clarify the distinction between Ganoderma lucidum, a European bracket fungus described in 1781, and Ganoderma lingzhi, the East Asian species widely associated with medicinal lingzhi or reishi.",
+        "link": "https://phys.org/news/2026-10-false-lingzhi-unmasked-scientists-year.html",
+        "published_utc": "2026-10-27T01:10:01+00:00",
         "score": 1,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-report-low.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/false-lingzhi-unmasked.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Botanists comb Gabon's rich rainforests with nature on the line",
-        "summary": "Each year, Gabon's lush rainforests yield the discovery of previously unknown plant species to botanists like Archange Boupoya—who believes that this exceptional yet largely mysterious natural wealth needs to be cataloged to be saved.",
-        "link": "https://phys.org/news/2026-10-botanists-gabon-rich-rainforests-nature.html",
-        "published_utc": "2026-10-26T19:40:06+00:00",
-        "score": 6,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/creeping-urbanisation.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "What is 'human composting'—and how does it work?",
-        "summary": "What should happen to your body after you die? It's hardly a topic you'd bring up over dinner, but it's a decision that will eventually need to be made, either by you or by those you leave behind.",
-        "link": "https://phys.org/news/2026-10-human-composting.html",
-        "published_utc": "2026-10-26T19:40:02+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/what-is-human-composti.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Scientists produce less disruptive research as they age, but their breakthroughs are more likely to last",
-        "summary": "Science often advances in small steps, with researchers gradually building on previous discoveries. But every now and then, a breakthrough comes along that challenges conventional thinking and changes the direction of a field.",
-        "link": "https://phys.org/news/2026-10-scientists-disruptive-age-breakthroughs.html",
-        "published_utc": "2026-10-26T19:30:06+00:00",
-        "score": 5,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-produce-les.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "NASA Breaking News",
-        "title": "NASA SEES Interns Tackle Real-World Challenges in Lunar Exploration",
-        "summary": "The NASA STEM (Science, Technology, Engineering, and Mathematics) Enhancement in Earth Science (SEES) Internship Program at the University of Texas Center for Space Research places high school students on small, mission-focused research teams mentored by NASA, academic, and industry experts. During summer 2026, the SEES Mission Architecture Tool for Research, Integration, and eXploration (MATRIX) team […]",
-        "link": "https://science.nasa.gov/learning-resources/science-activation/nasa-sees-interns-tackle-real-world-challenges-in-lunar-exploration",
-        "published_utc": "2026-10-26T19:28:08+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-581e3cb0f9f20cfd/480/320"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Hidden chromosome structures reveal greater complexity in how roundworms organize DNA",
-        "summary": "Almost every cell in our body contains around two meters (6.6 feet) of DNA, packed into a tiny nucleus. Yet for the cell to function, this enormous amount of genetic material must remain organized and accessible. Researchers at the University of Basel have now discovered three distinct types of large chromosomal domains that help organize DNA in nuclei.",
-        "link": "https://phys.org/news/2026-10-hidden-chromosome-reveal-greater-complexity.html",
-        "published_utc": "2026-10-26T19:20:07+00:00",
+        "title": "Zoologist's study of wild Panamanian bats highlights use of metrics to inform bat conservation",
+        "summary": "Bats are not only a marvel of myth and imagination but also of energy use, working at the height of their energetic ceiling to fly the night skies the world over.",
+        "link": "https://phys.org/news/2026-10-zoologist-wild-panamanian-highlights-metrics.html",
+        "published_utc": "2026-10-27T00:40:02+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/genome-organization-mo.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/greater-spear-nosed-ba.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "The power of poop: Why conservationists love animal scat",
-        "summary": "I never thought my shoelaces would get stolen.",
-        "link": "https://phys.org/news/2026-10-power-poop-conservationists-animal-scat.html",
-        "published_utc": "2026-10-26T19:20:04+00:00",
+        "title": "New online tool to help turn food waste into opportunity",
+        "summary": "Western Australian businesses can now make better-informed decisions about reducing food waste and turning discarded materials into valuable products, thanks to a new online toolkit.",
+        "link": "https://phys.org/news/2026-10-online-tool-food-opportunity.html",
+        "published_utc": "2026-10-27T00:20:01+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/old-bananas.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Fossils from brickworks reveal new dinosaur species that roamed England's wetlands 125 million years ago",
+        "summary": "More than 25 years after it was first discovered, a new species and genus of dinosaur have been named from the fossil collections cared for by the Natural History Museum. Paludohadros proudlovii was discovered at wienerberger's Ewhurst brick and roof tile works (Ewhurst Works) in Surrey in 2001 and subsequently donated to the Natural History Museum. It was a member of the iguanodontians—a group of dinosaurs known for their charismatic thumb spikes.",
+        "link": "https://phys.org/news/2026-10-fossils-brickworks-reveal-dinosaur-species.html",
+        "published_utc": "2026-10-27T00:10:02+00:00",
         "score": 2,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-power-of-poo-why-c.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-uk-dinosaur-discov.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "AI-powered robotic laboratory paves the way for discovering next-generation heat-resistant coatings",
-        "summary": "Researchers have developed a self-driving laboratory that combines artificial intelligence and robotics to automate laboratory tasks, from accurately measuring and mixing chemical ingredients to high-temperature furnace processing and sample retrieval.",
-        "link": "https://phys.org/news/2026-10-ai-powered-robotic-laboratory-paves.html",
-        "published_utc": "2026-10-26T19:09:12+00:00",
-        "score": 3,
+        "title": "27 exoplanet targets for the world's first private space telescope",
+        "summary": "The Lazuli Space Telescope will be the first private space telescope. It's the brainchild of Eric Schmidt, Google's former CEO. It will have a 3-meter mirror (9.8 feet), larger than Hubble's 2.4-meter mirror (7.9 feet), and will be launched by 2029.",
+        "link": "https://phys.org/news/2026-10-exoplanet-world-private-space-telescope.html",
+        "published_utc": "2026-10-27T00:00:06+00:00",
+        "score": 0,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-powered-robotic-lab.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/27-exoplanet-targets-f.jpg"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "Two distinct sleep stages emerge in jumping spider, including a REM-like state",
-        "summary": "Humans and other vertebrates go through various stages of sleep, including REM (rapid eye movement) sleep characterized by rapid eye movements and muscle twitches. Can a similar sleep state be observed in spiders? Researchers from the Institute of Organismic Biology at the University of Bonn investigated this in the Australian jumping spider Portia fimbriata. The work is published in the journal Proceedings of the National Academy of Sciences.",
-        "link": "https://phys.org/news/2026-10-distinct-stages-emerge-spider-rem.html",
-        "published_utc": "2026-10-26T19:00:17+00:00",
+        "title": "New binary gene expression system enables independent control of multiple cell types",
+        "summary": "Our bodies are composed of many different types of cells that work together to build and maintain normal physiological functions. In the central nervous system, for example, neurons transmit information, while glial cells such as astrocytes regulate the environment surrounding neurons and support their function. Understanding how these cell types influence one another is essential for uncovering how our bodies develop and function.",
+        "link": "https://phys.org/news/2026-10-binary-gene-enables-independent-multiple.html",
+        "published_utc": "2026-10-27T00:00:01+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-genetic-switch-ena.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Drought forces livestock farmers to make tough decisions: Our model shows the impact on inequality",
+        "summary": "Climate change is amplifying extreme weather conditions across southern Africa. Dry seasons are getting hotter and drier, while rains are becoming heavier and more concentrated. This means greater swings between production surplus and scarcity for rural communities that make their living from the land.",
+        "link": "https://phys.org/news/2026-10-drought-livestock-farmers-tough-decisions.html",
+        "published_utc": "2026-10-26T23:50:01+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cattle-africa.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "South Africa's lion-petting industry: We spent three years investigating and here's what we found",
+        "summary": "An estimated 8,000 lions are held in captivity in South Africa in about 350 places, ranging from zoos to tourism venues where people can interact up close with the big cats. Lions are also bred for live trade, trade in body parts and captive hunts.",
+        "link": "https://phys.org/news/2026-10-south-africa-lion-petting-industry.html",
+        "published_utc": "2026-10-26T23:30:01+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-lion-with-severe-man.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Inside the narcissistic brain: fMRI research sheds light on the narcissist's struggle with empathy",
+        "summary": "Many people have narcissistic traits to some degree, for example, confidence in one's own superiority, a sense of entitlement and a desire to be the center of attention. However, some people have notably higher levels of narcissistic traits than others, and the neural basis of so-called \"grandiose narcissism\" has rarely been studied in socially complex situations.",
+        "link": "https://phys.org/news/2026-10-narcissistic-brain-fmri-narcissist-struggle.html",
+        "published_utc": "2026-10-26T23:10:01+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/inside-the-narcissisti.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Water into fuel: The new nanomaterial that could upgrade green hydrogen",
+        "summary": "Generating hydrogen without releasing carbon dioxide sounds simple: pass electricity through water, split water molecules and generate green hydrogen. The hard part is the electrocatalyst. The best ones rely on platinum, ruthenium and iridium, which are scarce and expensive. We wanted to know whether a small amount of iron and nickel oxides, anchored on carbon nanofibers grown by chemical vapor deposition the right way on the right scaffold, could do the job instead. Our results are published in ACS Applied Nano Materials.",
+        "link": "https://phys.org/news/2026-10-fuel-nanomaterial-green-hydrogen.html",
+        "published_utc": "2026-10-26T23:00:03+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/water-into-fuel-the-ne.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Glowing ghoul or chemical tool? The toxic chemistry behind Victorian séances",
+        "summary": "In November 1857, during a séance in Jersey City, the medium Leah Brown claimed her body produced luminous particles. So intense was the luminosity emanating from her, she recalled in her memoir, that it almost burned her hands. She rinsed her hands under a tap and then pushed them into the damp earth outside.",
+        "link": "https://phys.org/news/2026-10-ghoul-chemical-tool-toxic-chemistry.html",
+        "published_utc": "2026-10-26T22:50:01+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-black-and-white-maga.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "NASA Breaking News",
+        "title": "NASA’s Perseverance Views Dust at Neretva Vallis",
+        "summary": "Description This 360-degree look at Neretva Vallis within Mars’ Jezero Crater was stitched together using 217 images acquired by the rover’s Mastcam-Z on May 20, 2024, the 1,155th Martian day, or sol, of the mission. While it is a wind-swept dusty vista today, billions of years ago it was home to a river channel that fed fresh water into […]",
+        "link": "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis",
+        "published_utc": "2026-10-26T22:48:12+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-f13afb5baf3b6553/480/320"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Spending in‑person time with friends is the biggest predictor of whether college students flourish",
+        "summary": "Exercise, avoiding alcohol or even getting enough sleep aren't the factors most connected to college students' well-being. Spending face-to-face time with friends and other people is the strongest predictor of their mental health, according to a 2026 study of nearly 80,000 students that I conducted with the help of my students.",
+        "link": "https://phys.org/news/2026-10-inperson-friends-biggest-predictor-college.html",
+        "published_utc": "2026-10-26T22:30:01+00:00",
         "score": 1,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-deeply-do-spiders-2.jpg"
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/college-students.jpg"
       }
     ],
     "environment": [
@@ -972,14 +829,14 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "HotNews",
-      "title": "Ioan Varga critică programarea meciurilor CFR-ului: „Bătaie de joc, au intenția să ne distrugă”",
-      "summary": "Ioan Varga, finanțatorul lui CFR Cluj, a criticat dur programarea echipei, care trebuie să dispute trei meciuri oficiale în doar șase zile. Nemulțumirile au apărut după remiza cu Dinamo București, scor 2-2, de pe 25 octombrie. În perioada următoare, CFR Cluj va întâlni Universitatea Cluj în Cupa României (28 octombrie, apoi va juca în SuperLiga &#8230;",
-      "link": "https://hotnews.ro/ioan-varga-critica-programarea-meciurilor-cfr-ului-bataie-de-joc-au-intentia-sa-ne-distruga-2387300",
-      "published_utc": "2026-10-26T20:52:31+00:00",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Summit istoric Brazilia-Kosovo-UE. Ce vor discuta Lula, Pula şi Ursula",
+      "summary": "La nici câteva ore după realegere, preşedintele brazilian Lula da Silva e gata să reia întâlnirile diplomatice la cel mai&hellip; The post Summit istoric Brazilia-Kosovo-UE. Ce vor discuta Lula, Pula şi Ursula appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/politic/summit-istoric-brazilia-kosovo-ue-ce-vor-discuta-lula-pula-si-ursula",
+      "published_utc": "2026-10-26T10:39:15+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-883762415f2425f7/480/320"
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/10/lulapulaursula.jpg"
     },
     {
       "section": "romania",
@@ -1032,6 +889,18 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Reforma administrativă propusă de Grindeanu „Vom desființa toate localitățile cu primar PNL sau USR”",
+      "summary": "După anunțul că vrea o reformă administrativă, Sorin Grindeanu efectiv a fost asaltat de primari pesediști speriați de gândul că vor rămâne fără un loc de muncă. Liderul PSD i-a liniștit însă rapid, explicându-le că absolut toți vor avea de câștigat de pe urma reformei administrative. „Vor dispărea doar localitățile cu primar de la PNL [&#8230;] The post Reforma administrativă propusă de Grindeanu „Vom desființa toate localitățile cu primar PNL sau USR” appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/politic/reforma-administrativa-propusa-de-grindeanu-vom-desfiinta-toate-localitatile-cu-primar-pnl-sau-usr",
+      "published_utc": "2026-10-26T11:43:46+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/06/grindeanu_sobolanind.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "Istorii Vii din București",
       "summary": "Povești despre apartenență, de la interviu la film și carte Asociația Secția de Coregrafie continuă în 2026 seria „Istorii Vii” cu sprijinul Primăriei Sectorului 2 București. Ediția din acest an,&#8230; Articolul Istorii Vii din București apare prima dată în Romania Pozitiva .",
@@ -1040,18 +909,6 @@
       "score": 3,
       "freshness_boost": 3,
       "image": "https://picsum.photos/seed/vb-95de3227c2347d68/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Summit istoric Brazilia-Kosovo-UE. Ce vor discuta Lula, Pula şi Ursula",
-      "summary": "La nici câteva ore după realegere, preşedintele brazilian Lula da Silva e gata să reia întâlnirile diplomatice la cel mai&hellip; The post Summit istoric Brazilia-Kosovo-UE. Ce vor discuta Lula, Pula şi Ursula appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/politic/summit-istoric-brazilia-kosovo-ue-ce-vor-discuta-lula-pula-si-ursula",
-      "published_utc": "2026-10-26T10:39:15+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/10/lulapulaursula.jpg"
     },
     {
       "section": "romania",
@@ -1076,29 +933,6 @@
       "score": 3,
       "freshness_boost": 3,
       "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/05/sebi_ghita_tuble_hotel.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Guvernul scade prețul energiei pentru copulație",
-      "summary": "Una din primele măsuri anunțate de noul Guvern este reducerea prețului la energie electrică pentru activitățile de copulație, în cadrul&hellip; The post Guvernul scade prețul energiei pentru copulație appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/guvernul-scade-pretul-energiei-pentru-copulatie",
-      "published_utc": "2026-10-25T11:00:00+00:00",
-      "score": 3,
-      "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/10/energie-copulatie-oameni-in-pat.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "HotNews",
-      "title": "Achiziție spectaculoasă: Grupul care deține Prima TV cumpără al treilea post TV din România ca audiență",
-      "summary": "Orlando Nicoară, directorul Clever EAD și proprietarul site-ului „Cotidianul”, a anunțat luni o tranzacție majoră pe piața media din România. Astfel, Grupul Cleaver a semnat un acordul pentru preluarea integrală a Doğan Media International, compania care deține postul de televiziune Kanal D. De aproximativ un deceniu, Kanal D este al treilea post ca audiență din &#8230;",
-      "link": "https://hotnews.ro/mutare-majora-anuntata-de-orlando-nicoara-pe-piata-media-din-romania-grupul-care-detine-prima-tv-cumpara-kanal-d-2387176",
-      "published_utc": "2026-10-26T16:55:44+00:00",
-      "score": 2,
-      "image": "https://picsum.photos/seed/vb-69ade5c95ccf4122/480/320"
     },
     {
       "section": "romania",
@@ -1160,18 +994,6 @@
       "image": "https://picsum.photos/seed/vb-7aa8271c2858910c/480/320"
     },
     {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Large meta-analysis sheds new light on how SGLT2 inhibitors affect blood and iron parameters",
-      "summary": "Research led by internist-nephrologist Dr. Michele Eisenga shows that SGLT2 inhibitors, a class of drugs widely used to treat type 2 diabetes, heart failure and chronic kidney disease, consistently increase hemoglobin and hematocrit levels.",
-      "link": "https://medicalxpress.com/news/2026-10-large-meta-analysis-sglt2-inhibitors.html",
-      "published_utc": "2026-10-26T22:00:10+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/blood-1.jpg"
-    },
-    {
       "section": "romania",
       "kind": "ro",
       "source": "World Vision Romania",
@@ -1199,13 +1021,13 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Freshwater flows reshape Coorong algae communities, 16 years of data reveal",
-      "summary": "Ongoing research is providing a clearer picture of how climate change can affect different aspects of the Coorong in South Australia—and is helping develop strong environmental strategies that can be adapted as the climate changes.",
-      "link": "https://phys.org/news/2026-10-freshwater-reshape-coorong-algae-communities.html",
-      "published_utc": "2026-10-26T22:00:01+00:00",
-      "score": 0,
+      "title": "Long-term analysis questions whether Japan's depopulation policy can stabilize shrinking communities",
+      "summary": "Small and medium-sized cities (SMCs) are essential for balanced national development, yet many are now facing prolonged population loss, aging and weakened labor markets. Japan has addressed this challenge for more than half a century through the Depopulated-Area-Designation (DAD) policy, a national framework that identifies municipalities facing population loss and supports them through infrastructure, fiscal, industrial and social measures. However, it has not been determined whether such a designation can stabilize shrinking communities over time.",
+      "link": "https://phys.org/news/2026-10-term-analysis-japan-depopulation-policy.html",
+      "published_utc": "2026-10-27T01:40:01+00:00",
+      "score": 1,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/climate-change-and-the.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dear-dad-you-cant-desi.jpg"
     },
     {
       "section": "romania",
@@ -1235,13 +1057,13 @@
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
-      "title": "Could ecological roles offer clues to how life began?",
-      "summary": "Producers, consumers, and decomposers play different roles in today's ecosystems. Thinking about these familiar roles led me to a question: Could their differences partly reflect the different physical and chemical environments in which early life developed? I wondered whether the organization of ecosystems might offer a useful starting point for thinking about life's beginnings.",
-      "link": "https://phys.org/news/2026-10-ecological-roles-clues-life-began.html",
-      "published_utc": "2026-10-26T21:40:16+00:00",
-      "score": 0,
+      "title": "Global happiness researchers reveal keys to a good life",
+      "summary": "Many of the world's leading happiness researchers say they consciously spend more time with loved ones after seeing the evidence, according to a new paper. \"Happiness emerges from a symphony of factors, but if I had to pinpoint one secret to happiness, relationships with other people might be it,\" says Lara Aknin, a professor of social psychology at Simon Fraser University.",
+      "link": "https://phys.org/news/2026-10-global-happiness-reveal-keys-good.html",
+      "published_utc": "2026-10-27T01:30:01+00:00",
+      "score": 1,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/could-ecological-roles.jpg"
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/happy-group.jpg"
     },
     {
       "section": "romania",
@@ -1268,6 +1090,174 @@
       "image": "https://picsum.photos/seed/vb-bcade832219dfc28/480/320"
     },
     {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "False lingzhi unmasked: Scientists crack the 245-year mystery behind a medicinal mushroom mix-up",
+      "summary": "In a new study published today in Plants, People, Planet, scientists from the Royal Botanic Gardens, Kew, and their international collaborators clarify the distinction between Ganoderma lucidum, a European bracket fungus described in 1781, and Ganoderma lingzhi, the East Asian species widely associated with medicinal lingzhi or reishi.",
+      "link": "https://phys.org/news/2026-10-false-lingzhi-unmasked-scientists-year.html",
+      "published_utc": "2026-10-27T01:10:01+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/false-lingzhi-unmasked.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Zoologist's study of wild Panamanian bats highlights use of metrics to inform bat conservation",
+      "summary": "Bats are not only a marvel of myth and imagination but also of energy use, working at the height of their energetic ceiling to fly the night skies the world over.",
+      "link": "https://phys.org/news/2026-10-zoologist-wild-panamanian-highlights-metrics.html",
+      "published_utc": "2026-10-27T00:40:02+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/greater-spear-nosed-ba.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "New online tool to help turn food waste into opportunity",
+      "summary": "Western Australian businesses can now make better-informed decisions about reducing food waste and turning discarded materials into valuable products, thanks to a new online toolkit.",
+      "link": "https://phys.org/news/2026-10-online-tool-food-opportunity.html",
+      "published_utc": "2026-10-27T00:20:01+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/old-bananas.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Fossils from brickworks reveal new dinosaur species that roamed England's wetlands 125 million years ago",
+      "summary": "More than 25 years after it was first discovered, a new species and genus of dinosaur have been named from the fossil collections cared for by the Natural History Museum. Paludohadros proudlovii was discovered at wienerberger's Ewhurst brick and roof tile works (Ewhurst Works) in Surrey in 2001 and subsequently donated to the Natural History Museum. It was a member of the iguanodontians—a group of dinosaurs known for their charismatic thumb spikes.",
+      "link": "https://phys.org/news/2026-10-fossils-brickworks-reveal-dinosaur-species.html",
+      "published_utc": "2026-10-27T00:10:02+00:00",
+      "score": 2,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-uk-dinosaur-discov.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "27 exoplanet targets for the world's first private space telescope",
+      "summary": "The Lazuli Space Telescope will be the first private space telescope. It's the brainchild of Eric Schmidt, Google's former CEO. It will have a 3-meter mirror (9.8 feet), larger than Hubble's 2.4-meter mirror (7.9 feet), and will be launched by 2029.",
+      "link": "https://phys.org/news/2026-10-exoplanet-world-private-space-telescope.html",
+      "published_utc": "2026-10-27T00:00:06+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/27-exoplanet-targets-f.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "New binary gene expression system enables independent control of multiple cell types",
+      "summary": "Our bodies are composed of many different types of cells that work together to build and maintain normal physiological functions. In the central nervous system, for example, neurons transmit information, while glial cells such as astrocytes regulate the environment surrounding neurons and support their function. Understanding how these cell types influence one another is essential for uncovering how our bodies develop and function.",
+      "link": "https://phys.org/news/2026-10-binary-gene-enables-independent-multiple.html",
+      "published_utc": "2026-10-27T00:00:01+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-genetic-switch-ena.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Drought forces livestock farmers to make tough decisions: Our model shows the impact on inequality",
+      "summary": "Climate change is amplifying extreme weather conditions across southern Africa. Dry seasons are getting hotter and drier, while rains are becoming heavier and more concentrated. This means greater swings between production surplus and scarcity for rural communities that make their living from the land.",
+      "link": "https://phys.org/news/2026-10-drought-livestock-farmers-tough-decisions.html",
+      "published_utc": "2026-10-26T23:50:01+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cattle-africa.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "South Africa's lion-petting industry: We spent three years investigating and here's what we found",
+      "summary": "An estimated 8,000 lions are held in captivity in South Africa in about 350 places, ranging from zoos to tourism venues where people can interact up close with the big cats. Lions are also bred for live trade, trade in body parts and captive hunts.",
+      "link": "https://phys.org/news/2026-10-south-africa-lion-petting-industry.html",
+      "published_utc": "2026-10-26T23:30:01+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-lion-with-severe-man.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Inside the narcissistic brain: fMRI research sheds light on the narcissist's struggle with empathy",
+      "summary": "Many people have narcissistic traits to some degree, for example, confidence in one's own superiority, a sense of entitlement and a desire to be the center of attention. However, some people have notably higher levels of narcissistic traits than others, and the neural basis of so-called \"grandiose narcissism\" has rarely been studied in socially complex situations.",
+      "link": "https://phys.org/news/2026-10-narcissistic-brain-fmri-narcissist-struggle.html",
+      "published_utc": "2026-10-26T23:10:01+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/inside-the-narcissisti.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Water into fuel: The new nanomaterial that could upgrade green hydrogen",
+      "summary": "Generating hydrogen without releasing carbon dioxide sounds simple: pass electricity through water, split water molecules and generate green hydrogen. The hard part is the electrocatalyst. The best ones rely on platinum, ruthenium and iridium, which are scarce and expensive. We wanted to know whether a small amount of iron and nickel oxides, anchored on carbon nanofibers grown by chemical vapor deposition the right way on the right scaffold, could do the job instead. Our results are published in ACS Applied Nano Materials.",
+      "link": "https://phys.org/news/2026-10-fuel-nanomaterial-green-hydrogen.html",
+      "published_utc": "2026-10-26T23:00:03+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/water-into-fuel-the-ne.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Glowing ghoul or chemical tool? The toxic chemistry behind Victorian séances",
+      "summary": "In November 1857, during a séance in Jersey City, the medium Leah Brown claimed her body produced luminous particles. So intense was the luminosity emanating from her, she recalled in her memoir, that it almost burned her hands. She rinsed her hands under a tap and then pushed them into the damp earth outside.",
+      "link": "https://phys.org/news/2026-10-ghoul-chemical-tool-toxic-chemistry.html",
+      "published_utc": "2026-10-26T22:50:01+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-black-and-white-maga.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "NASA Breaking News",
+      "title": "NASA’s Perseverance Views Dust at Neretva Vallis",
+      "summary": "Description This 360-degree look at Neretva Vallis within Mars’ Jezero Crater was stitched together using 217 images acquired by the rover’s Mastcam-Z on May 20, 2024, the 1,155th Martian day, or sol, of the mission. While it is a wind-swept dusty vista today, billions of years ago it was home to a river channel that fed fresh water into […]",
+      "link": "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis",
+      "published_utc": "2026-10-26T22:48:12+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-f13afb5baf3b6553/480/320"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Spending in‑person time with friends is the biggest predictor of whether college students flourish",
+      "summary": "Exercise, avoiding alcohol or even getting enough sleep aren't the factors most connected to college students' well-being. Spending face-to-face time with friends and other people is the strongest predictor of their mental health, according to a 2026 study of nearly 80,000 students that I conducted with the help of my students.",
+      "link": "https://phys.org/news/2026-10-inperson-friends-biggest-predictor-college.html",
+      "published_utc": "2026-10-26T22:30:01+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/college-students.jpg"
+    },
+    {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "Large meta-analysis sheds new light on how SGLT2 inhibitors affect blood and iron parameters",
+      "summary": "Research led by internist-nephrologist Dr. Michele Eisenga shows that SGLT2 inhibitors, a class of drugs widely used to treat type 2 diabetes, heart failure and chronic kidney disease, consistently increase hemoglobin and hematocrit levels.",
+      "link": "https://medicalxpress.com/news/2026-10-large-meta-analysis-sglt2-inhibitors.html",
+      "published_utc": "2026-10-26T22:00:10+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/blood-1.jpg"
+    },
+    {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
@@ -1292,18 +1282,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/women-and-girls.jpg"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Expanding hemp could boost Kentucky water quality and ecological diversity",
-      "summary": "Hemp has long been pitched to Kentucky farmers as a way to diversify their income. Research now suggests it could diversify the landscape itself, with measurable benefits for the state's water and wildlife.",
-      "link": "https://phys.org/news/2026-10-hemp-boost-kentucky-quality-ecological.html",
-      "published_utc": "2026-10-26T21:40:01+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hemp.jpg"
-    },
-    {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
@@ -1314,18 +1292,6 @@
       "score": 2,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/smiles.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Metalens microscope switches focus with voltage, not moving optics",
-      "summary": "Just as it is difficult for a camera to keep both a nearby flower and a distant mountain sharply focused at the same time, conventional optical microscopes face a similar challenge when imaging structures located at different depths inside the body. Tighter focusing of light improves spatial resolution, but at the same time reduces the depth range over which the image remains sharply focused.",
-      "link": "https://phys.org/news/2026-10-metalens-microscope-focus-voltage-optics.html",
-      "published_utc": "2026-10-26T21:20:10+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-metalens-photoacoust.jpg"
     },
     {
       "section": "medical",
@@ -1340,42 +1306,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cancer-vaccine-1.jpg"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Beyond trial and error: Integrating computation, processing, and AI to design high-entropy alloys",
-      "summary": "Designing structural high-entropy alloys (SHEAs) means solving a problem with an enormous number of moving parts: which combinations of composition and processing conditions will yield the phases, microstructures, and mechanical properties a given application demands? Because these alloys mix multiple principal elements in comparable proportions, that question spans length and time scales that no single experiment or model can cover on its own.",
-      "link": "https://phys.org/news/2026-10-trial-error-ai-high-entropy.html",
-      "published_utc": "2026-10-26T21:20:01+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/beyond-trial-and-error.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "NASA Breaking News",
-      "title": "Tinga’s Tale",
-      "summary": "Written by Margaret Deahn, Ph.D. candidate at Purdue University Oct. 19, 2026 Once upon a time, NASA’s Mars 2020 rover investigated the southern border of “Idubi,” an outcrop composed primarily of an igneous mineral geologists call olivine. The rover’s “eyes” captured a very exciting geologic feature during its traverse — a contact between distinct rock […]",
-      "link": "https://science.nasa.gov/blog/tingas-tale",
-      "published_utc": "2026-10-26T21:17:02+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-f5f97141cdf2299b/480/320"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "NASA Breaking News",
-      "title": "NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust",
-      "summary": "Over 1,645 Martian days, NASA’s Perseverance Mars rover measured the fine and ultrafine Martian dust particles found clinging to samples of spacesuit materials that are carried aboard the rover, including some that are small enough to penetrate the lungs and enter the bloodstream. The findings will be published Tuesday, Oct. 27, in the Proceedings of [&#8230;]",
-      "link": "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust",
-      "published_utc": "2026-10-26T21:07:28+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-838578d48ba4a621/480/320"
-    },
-    {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
@@ -1388,18 +1318,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-the-brain-holds-in.jpg"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Silent bacterial genes yield potential leads for future cancer drugs",
-      "summary": "Natural products produced by microorganisms are a promising source of new drugs. Researchers at the Helmholtz Center for Infection Research (HZI) and its Saarbrücken-based site, the Helmholtz Institute for Pharmaceutical Research Saarland (HIPS), have now discovered a new family of such compounds, elucidated their unusual biosynthesis and developed a way to produce them synthetically.",
-      "link": "https://phys.org/news/2026-10-silent-bacterial-genes-yield-potential.html",
-      "published_utc": "2026-10-26T21:00:12+00:00",
-      "score": 5,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/from-hidden-natural-pr.jpg"
-    },
-    {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
@@ -1410,54 +1328,6 @@
       "score": 4,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/perioperative-apalutam.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "NASA Breaking News",
-      "title": "NEO Surveyor’s Sunshade Gets Inspected",
-      "summary": "Description The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor is mounted on an assembly ring during inspections in a clean room at BAE Systems Space &#038; Mission Systems in Boulder, Colorado, in July 2026. The sunshade structure stands 20 feet (6 meters) tall and measures 8 feet (2.4 meters) wide at its base. Its two flat […]",
-      "link": "https://science.nasa.gov/photojournal/neo-surveyors-sunshade-gets-inspected",
-      "published_utc": "2026-10-26T20:53:13+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-2887c083a554d6de/480/320"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "NASA Breaking News",
-      "title": "Solar Cells Inspected on NASA’s NEO Surveyor",
-      "summary": "Description The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission is inspected by a technician at BAE Systems Space &#038; Mission Systems in Boulder, Colorado, in late July. Built by Applied Aerospace in Stockton, California, the sunshade structure was outfitted with its solar cells by SolAero Technologies in Albuquerque, New Mexico, in January. Environmental […]",
-      "link": "https://science.nasa.gov/photojournal/solar-cells-inspected-on-nasas-neo-surveyor",
-      "published_utc": "2026-10-26T20:52:24+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-ede715736ecead88/480/320"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Can cats really thrive on vegan diets? Professor Andrew Knight responds to critics",
-      "summary": "In response to a recent article on vegan diets for cats, Phys.org received numerous messages from concerned readers. People raised a lot of concerns, mainly arguing that cats are obligate carnivores and that vegan diets could be very harmful to their health. Now, we have collected all these comments, questions and concerns and asked the researcher behind the original paper to address them. Andrew Knight, Veterinary Professor of Animal Welfare and Associate Professor at Murdoch University School of Veterinary Medicine, offers his response below.",
-      "link": "https://phys.org/news/2026-10-cats-vegan-diets-professor-andrew.html",
-      "published_utc": "2026-10-26T20:45:42+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cat-eating.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Tree‑hugging optional: What today's green tradespeople actually care about",
-      "summary": "Is masculinity a barrier to green jobs?",
-      "link": "https://phys.org/news/2026-10-treehugging-optional-today-green-tradespeople.html",
-      "published_utc": "2026-10-26T20:40:11+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-worker-uses-a-drill.jpg"
     },
     {
       "section": "medical",
@@ -1484,18 +1354,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2021/lung-2.jpg"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Single optical element combines soft X-ray imaging and spectroscopy",
-      "summary": "An international research team from Germany, Switzerland and Japan has demonstrated in a recent study that a single reflection zone plate (RZP) can perform both soft X-ray imaging and resonant inelastic X-ray scattering (RIXS) mapping. The approach could simplify future instruments that need to determine both where structures are located in a material and how their electronic properties vary.",
-      "link": "https://phys.org/news/2026-10-optical-element-combines-soft-ray.html",
-      "published_utc": "2026-10-26T20:20:11+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/single-optical-element-1.jpg"
-    },
-    {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
@@ -1518,54 +1376,6 @@
       "score": 0,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-child-seen-putting-a.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Simulations reveal design rules for high-performance DNA particle motors",
-      "summary": "DNA-nano/microparticle motors are among the fastest artificial molecular motors reported to date, moving at approximately 30 nm per second. However, they are still slower than natural motor proteins (approximately 100–1,000 nm per second), and further improvements in design and performance are required.",
-      "link": "https://phys.org/news/2026-10-simulations-reveal-high-dna-particle.html",
-      "published_utc": "2026-10-26T20:20:01+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/simulations-reveal-des.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Shared aquifers, border hotspots: Cooperation should follow where groundwater is pumped, scientists say",
-      "summary": "Groundwater depletion and groundwater-dependent irrigation tend to concentrate close to international borders within aquifers shared by two or more countries, where pumping on one side is more likely to affect users on the other, according to a publication by the United Nations University Institute for Water, Environment and Health (UNU-INWEH).",
-      "link": "https://phys.org/news/2026-10-aquifers-border-hotspots-cooperation-groundwater.html",
-      "published_utc": "2026-10-26T20:10:06+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/shared-aquifers-border.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Keeping water molecules connected reduces carbon electrode corrosion",
-      "summary": "Carbon is inexpensive, conductive, and widely used in technologies such as fuel cells and water electrolyzers. But under strongly oxidizing conditions, carbon electrodes gradually corrode.",
-      "link": "https://phys.org/news/2026-10-molecules-carbon-electrode-corrosion.html",
-      "published_utc": "2026-10-26T20:10:01+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/keeping-water-connecte.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Hydrogen production from seawater: Low-cost catalyst could cut energy use and resist corrosion",
-      "summary": "Using a range of advanced characterization techniques, researchers say they have developed a novel method with the potential to produce hydrogen from seawater using a process that requires less energy, resists corrosion and could support more economical hydrogen production.",
-      "link": "https://phys.org/news/2026-10-hydrogen-production-seawater-catalyst-energy.html",
-      "published_utc": "2026-10-26T20:00:09+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-report-low.jpg"
     },
     {
       "section": "medical",
@@ -1604,42 +1414,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/muscle-1.jpg"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Botanists comb Gabon's rich rainforests with nature on the line",
-      "summary": "Each year, Gabon's lush rainforests yield the discovery of previously unknown plant species to botanists like Archange Boupoya—who believes that this exceptional yet largely mysterious natural wealth needs to be cataloged to be saved.",
-      "link": "https://phys.org/news/2026-10-botanists-gabon-rich-rainforests-nature.html",
-      "published_utc": "2026-10-26T19:40:06+00:00",
-      "score": 6,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/creeping-urbanisation.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "What is 'human composting'—and how does it work?",
-      "summary": "What should happen to your body after you die? It's hardly a topic you'd bring up over dinner, but it's a decision that will eventually need to be made, either by you or by those you leave behind.",
-      "link": "https://phys.org/news/2026-10-human-composting.html",
-      "published_utc": "2026-10-26T19:40:02+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/what-is-human-composti.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Scientists produce less disruptive research as they age, but their breakthroughs are more likely to last",
-      "summary": "Science often advances in small steps, with researchers gradually building on previous discoveries. But every now and then, a breakthrough comes along that challenges conventional thinking and changes the direction of a field.",
-      "link": "https://phys.org/news/2026-10-scientists-disruptive-age-breakthroughs.html",
-      "published_utc": "2026-10-26T19:30:06+00:00",
-      "score": 5,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-produce-les.jpg"
-    },
-    {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
@@ -1652,42 +1426,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dark-rainy-street.jpg"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "NASA Breaking News",
-      "title": "NASA SEES Interns Tackle Real-World Challenges in Lunar Exploration",
-      "summary": "The NASA STEM (Science, Technology, Engineering, and Mathematics) Enhancement in Earth Science (SEES) Internship Program at the University of Texas Center for Space Research places high school students on small, mission-focused research teams mentored by NASA, academic, and industry experts. During summer 2026, the SEES Mission Architecture Tool for Research, Integration, and eXploration (MATRIX) team […]",
-      "link": "https://science.nasa.gov/learning-resources/science-activation/nasa-sees-interns-tackle-real-world-challenges-in-lunar-exploration",
-      "published_utc": "2026-10-26T19:28:08+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-581e3cb0f9f20cfd/480/320"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Hidden chromosome structures reveal greater complexity in how roundworms organize DNA",
-      "summary": "Almost every cell in our body contains around two meters (6.6 feet) of DNA, packed into a tiny nucleus. Yet for the cell to function, this enormous amount of genetic material must remain organized and accessible. Researchers at the University of Basel have now discovered three distinct types of large chromosomal domains that help organize DNA in nuclei.",
-      "link": "https://phys.org/news/2026-10-hidden-chromosome-reveal-greater-complexity.html",
-      "published_utc": "2026-10-26T19:20:07+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/genome-organization-mo.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "The power of poop: Why conservationists love animal scat",
-      "summary": "I never thought my shoelaces would get stolen.",
-      "link": "https://phys.org/news/2026-10-power-poop-conservationists-animal-scat.html",
-      "published_utc": "2026-10-26T19:20:04+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-power-of-poo-why-c.jpg"
-    },
-    {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
@@ -1698,30 +1436,6 @@
       "score": 1,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-study-reveals-how-25.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "AI-powered robotic laboratory paves the way for discovering next-generation heat-resistant coatings",
-      "summary": "Researchers have developed a self-driving laboratory that combines artificial intelligence and robotics to automate laboratory tasks, from accurately measuring and mixing chemical ingredients to high-temperature furnace processing and sample retrieval.",
-      "link": "https://phys.org/news/2026-10-ai-powered-robotic-laboratory-paves.html",
-      "published_utc": "2026-10-26T19:09:12+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-powered-robotic-lab.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Two distinct sleep stages emerge in jumping spider, including a REM-like state",
-      "summary": "Humans and other vertebrates go through various stages of sleep, including REM (rapid eye movement) sleep characterized by rapid eye movements and muscle twitches. Can a similar sleep state be observed in spiders? Researchers from the Institute of Organismic Biology at the University of Bonn investigated this in the Australian jumping spider Portia fimbriata. The work is published in the journal Proceedings of the National Academy of Sciences.",
-      "link": "https://phys.org/news/2026-10-distinct-stages-emerge-spider-rem.html",
-      "published_utc": "2026-10-26T19:00:17+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-deeply-do-spiders-2.jpg"
     },
     {
       "section": "medical",
@@ -1929,8 +1643,8 @@
     }
   ],
   "joke_ro": {
-    "date_utc": "2026-10-26",
-    "text": "Mi-am facut lista de treburi. Acum am doua: lista si vinovatia.",
+    "date_utc": "2026-10-27",
+    "text": "Daca as primi bani pentru fiecare data cand ma razgandesc, as investi prudent.",
     "source": "data/jokes_ro.txt"
   },
   "satire_ro": {
@@ -1943,23 +1657,24 @@
       "tag": "space",
       "title": "Space",
       "link": "https://commons.wikimedia.org/wiki/Category:Astronomy",
-      "image": "https://live.staticflickr.com/65535/55613425228_e6ee547137_b.jpg"
+      "image": "https://live.staticflickr.com/65535/55614842425_5683fe9441_b.jpg"
     },
     {
       "tag": "animals",
       "title": "Animals",
       "link": "https://commons.wikimedia.org/wiki/Category:Animals",
-      "image": "https://live.staticflickr.com/65535/55614140220_39680e818e_b.jpg"
+      "image": "https://live.staticflickr.com/65535/55613542512_4321d55e08_b.jpg"
     },
     {
       "tag": "landscape",
       "title": "Landscape",
       "link": "https://commons.wikimedia.org/wiki/Category:Landscapes",
-      "image": "https://live.staticflickr.com/65535/55613943630_83b38b9f3f_b.jpg"
+      "image": "https://live.staticflickr.com/65535/55613351672_3d8a687ba0_b.jpg"
     }
   ],
   "top_image_history": {
     "space": [
+      "https://live.staticflickr.com/65535/55614842425_5683fe9441_b.jpg",
       "https://live.staticflickr.com/65535/55613425228_e6ee547137_b.jpg",
       "https://live.staticflickr.com/65535/55612502170_4618b06981_b.jpg",
       "https://live.staticflickr.com/65535/55610618985_ed64f19730_b.jpg",
@@ -1976,10 +1691,10 @@
       "https://loremflickr.com/1600/900/space,galaxy,nebula,astronomy?lock=690645",
       "https://live.staticflickr.com/65535/55598987434_5af7298867_b.jpg",
       "https://live.staticflickr.com/65535/55596608407_d75fb40618_b.jpg",
-      "https://live.staticflickr.com/65535/55595900462_b6939de688_b.jpg",
-      "https://live.staticflickr.com/65535/55594728462_f6bc2a42c6_b.jpg"
+      "https://live.staticflickr.com/65535/55595900462_b6939de688_b.jpg"
     ],
     "animals": [
+      "https://live.staticflickr.com/65535/55613542512_4321d55e08_b.jpg",
       "https://live.staticflickr.com/65535/55614140220_39680e818e_b.jpg",
       "https://live.staticflickr.com/65535/55610962982_f13782acfc_b.jpg",
       "https://live.staticflickr.com/65535/55611402915_a72172dd8b_b.jpg",
@@ -1996,10 +1711,10 @@
       "https://live.staticflickr.com/65535/55600454683_5195024f46_b.jpg",
       "https://live.staticflickr.com/65535/55598309277_80375043f5_b.jpg",
       "https://live.staticflickr.com/65535/55597054112_232db9055e_b.jpg",
-      "https://live.staticflickr.com/65535/55597057884_8f1d45d9c1_b.jpg",
-      "https://live.staticflickr.com/65535/55596045314_d3baaa3bd1_b.jpg"
+      "https://live.staticflickr.com/65535/55597057884_8f1d45d9c1_b.jpg"
     ],
     "landscape": [
+      "https://live.staticflickr.com/65535/55613351672_3d8a687ba0_b.jpg",
       "https://live.staticflickr.com/65535/55613943630_83b38b9f3f_b.jpg",
       "https://live.staticflickr.com/65535/55611987306_9cf54c0d1c_b.jpg",
       "https://live.staticflickr.com/65535/55611474195_7728ec98f5_b.jpg",
@@ -2016,10 +1731,10 @@
       "https://live.staticflickr.com/65535/55600418311_2ab2c9179a_b.jpg",
       "https://live.staticflickr.com/65535/55598396417_14e3d8055a_b.jpg",
       "https://live.staticflickr.com/65535/55598276128_8681d6cf33_b.jpg",
-      "https://live.staticflickr.com/65535/55597083479_daa14c8d4d_b.jpg",
-      "https://live.staticflickr.com/65535/55594820297_694d155399_b.jpg"
+      "https://live.staticflickr.com/65535/55597083479_daa14c8d4d_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/55591696372_1bf7edb975_b.jpg",
       "https://live.staticflickr.com/65535/16227617293_51e5c8d3d7_b.jpg",
       "https://live.staticflickr.com/65535/55600901605_2eaf69c053_b.jpg",
       "https://live.staticflickr.com/65535/32114845275_b796e1f596_b.jpg",
@@ -2036,12 +1751,11 @@
       "https://live.staticflickr.com/8601/27635852613_742e647327_b.jpg",
       "https://live.staticflickr.com/65535/55597789672_5f66ff9dc9_b.jpg",
       "https://live.staticflickr.com/65535/55593360377_14aa36f972_b.jpg",
-      "https://live.staticflickr.com/65535/55603053633_7ca83f341a_b.jpg",
-      "https://live.staticflickr.com/65535/33727572840_b97ca8fc4b_b.jpg"
+      "https://live.staticflickr.com/65535/55603053633_7ca83f341a_b.jpg"
     ],
     "cities": [
-      "https://live.staticflickr.com/65535/55614384403_8fa3f49e2c_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/3/3f/NYC_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg",
+      "https://live.staticflickr.com/65535/55614384403_8fa3f49e2c_b.jpg",
       "https://live.staticflickr.com/65535/55611990172_c84054dcde_b.jpg",
       "https://live.staticflickr.com/65535/55611482987_59b568ea5f_b.jpg",
       "https://live.staticflickr.com/65535/55612329519_a6b923a7c0_b.jpg",
@@ -2060,8 +1774,8 @@
       "https://live.staticflickr.com/65535/55607828726_f80ba6e44a_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
+      "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
