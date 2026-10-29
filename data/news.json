@@ -1,7 +1,79 @@
 {
-  "generated_utc": "2026-10-29T03:19:11+00:00",
+  "generated_utc": "2026-10-29T10:32:43+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "„Tot mai mulți pacienți vin cu balonare și tulburări de tranzit, dar cu analize normale.” Ce rol poate avea microbiomul intestinal",
+        "summary": "„Nu mai pot să mănânc aproape nimic, pentru că după fiecare masă am dureri abdominale și balonare.“ Aceasta este o situație pe care medicii o întâlnesc tot mai frecvent la cabinet. „Sunt multe cazuri de pacienți care vin cu balonare, cu senzație de prea plin după masă sau tulburări de tranzit, iar investigațiile și tratamentele &#8230;",
+        "link": "https://hotnews.ro/tot-mai-multi-pacienti-vin-cu-balonare-si-tulburari-de-tranzit-dar-cu-analize-normale-ce-rol-poate-avea-microbiomul-intestinal-2389658",
+        "published_utc": "2026-10-29T10:16:15+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-719566f4da03cc7b/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Grupul DIGI România, premiat la Gala Camerei de Comerț București. Compania a câștigat patru premii",
+        "summary": "Grupul DIGI este în Topul Firmelor din Capitală. Compania a câștigat patru premii la gala organizată de Camera de Comerț și Industrie București. Evenimentul, care celebrează cele mai performante firme, a ajuns la cea de-a 33-a ediție.",
+        "link": "https://www.digi24.ro/stiri/actualitate/grupul-digi-romania-premiat-la-gala-camerei-de-comert-bucuresti-compania-a-castigat-patru-premii-4013401",
+        "published_utc": "2026-10-29T08:38:11+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjI5JTJGMzAzNTg5MV8zMDM1/ODkxX1lYTm9QV05pT0RWa09Ua3hNemRt/T0RrMlpUUmxZVGs0TXpKa01EaGhNbU13/Wldaa190aHVtYl8uanBnJmhhc2g9MzAw/MzRmNDhkYWYwOGM2NjFjZWZkNGVkZjE1NWE4OTA=.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "O sută de ani de istorie pe patru roți. Vaticanul expune colecția de papamobile ale suveranilor pontifi începând din 1930",
+        "summary": "Vaticanul lansează o expoziție dedicată papamobilului, vehiculul devenit între timp iconic, care, de aproape un secol, le-a permis papilor să se apropie de credincioși, atât în țară, cât și în străinătate, informează ABC News.",
+        "link": "https://www.digi24.ro/stiri/diverse/o-suta-de-ani-de-istorie-pe-patru-roti-vaticanul-expune-colectia-de-papamobile-ale-suveranilor-pontifi-incepand-din-1930-4013321",
+        "published_utc": "2026-10-29T07:36:47+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjI5JTJGMzAzNTc0MF8zMDM1/NzQwX3BhcGFtb2JpbC12YXRpY2FuLmpw/ZWcmaGFzaD1hNzk0ZmY0MTM5N2Q2ZmY3MDBkMmUxMzAzYWRlN2JmZA==.jpeg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Avertismentul Anthropic: Daunele provocate de AI ar putea fi mai mari decât pot plăti companiile de asigurări",
+        "summary": "Compania americană Anthropic avertizează, în documentele depuse pentru listarea la bursă, că eventualele daune provocate de sistemele sale de inteligenţă artificială ar putea fi atât de mari încât nici întreaga industrie mondială a asigurărilor să nu dispună de resursele necesare pentru a le acoperi, relatează CNBC, citată de News.ro.",
+        "link": "https://www.digi24.ro/stiri/externe/avertismentul-anthropic-daunele-provocate-de-ai-ar-putea-fi-mai-mari-decat-pot-plati-companiile-de-asigurari-4013325",
+        "published_utc": "2026-10-29T07:02:03+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNSUyRjA3JTJGMjcxNjc4MV8yNzE2/NzgxX3Byb2ZpbWVkaWEtMDY0MTY2Nzc4/MC5qcGcmaGFzaD1jMWMzNzYyM2M3YmRiNzExY2ViYWNjY2JhMzljMGRlZg==.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Start-Up Romania",
+        "title": "Alex Crăciun, programatorul român stabilit în Olanda: „Vigilența învățată în România s-a estompat în timp” | Români din lume",
+        "summary": "Alex Crăciun s-a mutat în Eindhoven în 2022, după ce și-a cunoscut partenera, stabilită deja în Olanda. A trecut prin vizionări de apartamente cu zeci de candidați, și-a continuat cariera în IT și...",
+        "link": "https://start-up.ro/alex-craciun-programatorul-roman-stabilit-in-olanda-vigilenta-invatata-in-romania-s-a-estompat-in-timp-romani-din-lume",
+        "published_utc": "2026-10-29T06:00:02+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://start-up.ro/img/articles/3/9/2/39253/cover-39253-src.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Brânza ar putea încetini îmbătrânirea creierului. Descoperirea surprinzătoare a cercetătorilor, după un studiu de 12 ani",
+        "summary": "Consumul de brânză ar putea fi asociat cu o îmbătrânire mai lentă a creierului, potrivit unui studiu realizat pe peste 1.600 de persoane, monitorizate timp de aproximativ 12 ani. Cercetătorii au descoperit că persoanele care consumau cantități mai mari de brânză prezentau o reducere mai lentă a volumului anumitor regiuni cerebrale, inclusiv a celor implicate în memorie. Rezultatul este surprinzător, deoarece brânza se numără printre alimentele recomandate a fi limitate în anumite diete destinate protejării sănătății creierului.",
+        "link": "https://www.digi24.ro/stiri/actualitate/sanatate/branza-ar-putea-incetini-imbatranirea-creierului-descoperirea-surprinzatoare-a-cercetatorilor-dupa-un-studiu-de-12-ani-4012871",
+        "published_utc": "2026-10-29T05:00:28+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjI4JTJGMzAzNTQzNF8zMDM1/NDM0X3Byb2ZpbWVkaWEtMDI1NjAyOTM1/Ni5qcGcmaGFzaD1iMTMwMzFhYThjZWFkNjc0NDBmZTgxODM0MGU4NmRjZQ==.jpg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -54,37 +126,49 @@
         "section": "romania",
         "kind": "ro",
         "source": "Times New Roman (Satira)",
-        "title": "😂 Gafa lui Trump",
-        "summary": "The post Gafa lui Trump appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/ovi/gafa-lui-trump",
-        "published_utc": "2026-10-28T09:03:08+00:00",
+        "title": "😂 Primarul din Slănic prins cu mită de 6.000 euro, exclus din PSD! Mita, în schimb, rămâne la PSD",
+        "summary": "Și exclus, și cu banii luați! După ce a fost prins în flagrant de procurorii DNA luând o mită de&hellip; The post Primarul din Slănic prins cu mită de 6.000 euro, exclus din PSD! Mita, în schimb, rămâne la PSD appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/politic/primarul-din-slanic-prins-cu-mita-de-6-000-euro-exclus-din-psd-mita-in-schimb-ramane-la-psd",
+        "published_utc": "2026-10-28T15:27:43+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/10/Gafa-lui-Trump.jpg"
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/10/primar_slanic_grindeanu.jpg"
       },
       {
         "section": "romania",
         "kind": "ro",
         "source": "Times New Roman (Satira)",
-        "title": "😂 Un student şi-a pus o oglindă în garsonieră ca să pară mai mare şi proprietarul i-a dublat chiria",
-        "summary": "Un simplu truc de amenajare interioară s-a dovedit a fi o greşeală cât casa pentru Vali, un student de 21 de ani din Cluj! După ce a citit într-o revistă că oglinzile fac casa să pară mai mare, acesta a cumpărat şi a instalat o oglindă pe peretele garsonierei de 7 metri pătraţi unde locuieşte [&#8230;] The post Un student şi-a pus o oglindă în garsonieră ca să pară mai mare şi proprietarul i-a dublat chiria appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/monden/un-student-si-a-pus-o-oglinda-in-garsoniera-ca-sa-para-mai-mare-si-proprietarul-i-a-dublat-chiria",
-        "published_utc": "2026-10-28T05:52:00+00:00",
+        "title": "😂 Simplu şi eficient! Nuţu Cămătaru şi-a luat elefant ca să îi sufle în butoiul cu varză",
+        "summary": "Varza e cea mai îndrăgită murătură a românilor, dar dacă nu vrei să facă floare trebuie s-o pritoceşti des cu furtunul, iar pentru asta îţi trebuie plămâni serioşi! Din fericire, există şi mici trucuri care ne pot scuti de efort, după cum a demonstrat recent îndrăgitul afacerist Nuţu Cămătaru. &#8222;De ce să suflu ca prostul [&#8230;] The post Simplu şi eficient! Nuţu Cămătaru şi-a luat elefant ca să îi sufle în butoiul cu varză appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/monden/simplu-si-eficient-nutu-camataru-si-a-luat-elefant-ca-sa-ii-sufle-in-butoiul-cu-varza",
+        "published_utc": "2026-10-28T10:54:34+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/10/student_oglinda_perete.jpg"
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/10/elefantinbeci.jpg"
       },
       {
         "section": "romania",
         "kind": "ro",
         "source": "Times New Roman (Satira)",
-        "title": "😂 Veşti bune pentru copii! Dacă se mai scumpeşte mult gazul, la iarnă o să fim toţi figurine Ice Age",
-        "summary": "Toţi copiii iubesc figurinele Ice Age de la Kaufland, iar curând ar putea avea parte de o surpriză pe cinste! Experţii spun că, dacă se mai scumpesc mult gazul şi curentul electric, în maximum două luni o să fim toţi figurine Ice Age. &#8222;Nu e atât de rău, eu şi anul trecut am fost figurină [&#8230;] The post Veşti bune pentru copii! Dacă se mai scumpeşte mult gazul, la iarnă o să fim toţi figurine Ice Age appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/life-death/vesti-bune-pentru-copii-daca-se-mai-scumpeste-mult-gazul-la-iarna-o-sa-fim-toti-figurine-ice-age",
-        "published_utc": "2026-10-27T14:08:22+00:00",
+        "title": "😂 Simion condamnă sabotajul Rusiei: „Ambasadorul rus să-și cumpere singur țigări, că eu nu o mai fac!”",
+        "summary": "După câteva zile de tăcere, George Simion a vorbit în premieră despre actul de sabotaj comis la comanda Rusiei la&hellip; The post Simion condamnă sabotajul Rusiei: „Ambasadorul rus să-și cumpere singur țigări, că eu nu o mai fac!” appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/politic/simion-condamna-sabotajul-rusiei-ambasadorul-rus-sa-si-cumpere-singur-tigari-ca-eu-nu-o-mai-fac",
+        "published_utc": "2026-10-28T09:56:36+00:00",
         "score": 3,
         "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/10/figurineiceage.jpg"
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/10/simion_amenintator_tigari.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Green Start-Up Romania",
+        "title": "Audi lansează noul Q7 în România. Funcționează cu combustibili sustenabili",
+        "summary": "A treia generație Audi Q7 a fost lansată oficial în România, cu două versiuni ale motorului diesel V6 de 3,0 litri, echipate cu tehnologie mild-hybrid MHEV plus. Noul SUV poate utiliza și...",
+        "link": "https://green.start-up.ro/ro/audi-lanseaza-noul-q7-in-romania-functioneaza-cu-combustibili-sustenabili",
+        "published_utc": "2026-10-24T05:00:01+00:00",
+        "score": 3,
+        "freshness_boost": 0,
+        "image": "https://green.start-up.ro/img/articles/3/6/1/36126/cover-36126-src.jpg"
       },
       {
         "section": "romania",
@@ -638,6 +722,78 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "Digi24",
+      "title": "Grupul DIGI România, premiat la Gala Camerei de Comerț București. Compania a câștigat patru premii",
+      "summary": "Grupul DIGI este în Topul Firmelor din Capitală. Compania a câștigat patru premii la gala organizată de Camera de Comerț și Industrie București. Evenimentul, care celebrează cele mai performante firme, a ajuns la cea de-a 33-a ediție.",
+      "link": "https://www.digi24.ro/stiri/actualitate/grupul-digi-romania-premiat-la-gala-camerei-de-comert-bucuresti-compania-a-castigat-patru-premii-4013401",
+      "published_utc": "2026-10-29T08:38:11+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjI5JTJGMzAzNTg5MV8zMDM1/ODkxX1lYTm9QV05pT0RWa09Ua3hNemRt/T0RrMlpUUmxZVGs0TXpKa01EaGhNbU13/Wldaa190aHVtYl8uanBnJmhhc2g9MzAw/MzRmNDhkYWYwOGM2NjFjZWZkNGVkZjE1NWE4OTA=.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "„Tot mai mulți pacienți vin cu balonare și tulburări de tranzit, dar cu analize normale.” Ce rol poate avea microbiomul intestinal",
+      "summary": "„Nu mai pot să mănânc aproape nimic, pentru că după fiecare masă am dureri abdominale și balonare.“ Aceasta este o situație pe care medicii o întâlnesc tot mai frecvent la cabinet. „Sunt multe cazuri de pacienți care vin cu balonare, cu senzație de prea plin după masă sau tulburări de tranzit, iar investigațiile și tratamentele &#8230;",
+      "link": "https://hotnews.ro/tot-mai-multi-pacienti-vin-cu-balonare-si-tulburari-de-tranzit-dar-cu-analize-normale-ce-rol-poate-avea-microbiomul-intestinal-2389658",
+      "published_utc": "2026-10-29T10:16:15+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-719566f4da03cc7b/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "O sută de ani de istorie pe patru roți. Vaticanul expune colecția de papamobile ale suveranilor pontifi începând din 1930",
+      "summary": "Vaticanul lansează o expoziție dedicată papamobilului, vehiculul devenit între timp iconic, care, de aproape un secol, le-a permis papilor să se apropie de credincioși, atât în țară, cât și în străinătate, informează ABC News.",
+      "link": "https://www.digi24.ro/stiri/diverse/o-suta-de-ani-de-istorie-pe-patru-roti-vaticanul-expune-colectia-de-papamobile-ale-suveranilor-pontifi-incepand-din-1930-4013321",
+      "published_utc": "2026-10-29T07:36:47+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjI5JTJGMzAzNTc0MF8zMDM1/NzQwX3BhcGFtb2JpbC12YXRpY2FuLmpw/ZWcmaGFzaD1hNzk0ZmY0MTM5N2Q2ZmY3MDBkMmUxMzAzYWRlN2JmZA==.jpeg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Avertismentul Anthropic: Daunele provocate de AI ar putea fi mai mari decât pot plăti companiile de asigurări",
+      "summary": "Compania americană Anthropic avertizează, în documentele depuse pentru listarea la bursă, că eventualele daune provocate de sistemele sale de inteligenţă artificială ar putea fi atât de mari încât nici întreaga industrie mondială a asigurărilor să nu dispună de resursele necesare pentru a le acoperi, relatează CNBC, citată de News.ro.",
+      "link": "https://www.digi24.ro/stiri/externe/avertismentul-anthropic-daunele-provocate-de-ai-ar-putea-fi-mai-mari-decat-pot-plati-companiile-de-asigurari-4013325",
+      "published_utc": "2026-10-29T07:02:03+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNSUyRjA3JTJGMjcxNjc4MV8yNzE2/NzgxX3Byb2ZpbWVkaWEtMDY0MTY2Nzc4/MC5qcGcmaGFzaD1jMWMzNzYyM2M3YmRiNzExY2ViYWNjY2JhMzljMGRlZg==.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Start-Up Romania",
+      "title": "Alex Crăciun, programatorul român stabilit în Olanda: „Vigilența învățată în România s-a estompat în timp” | Români din lume",
+      "summary": "Alex Crăciun s-a mutat în Eindhoven în 2022, după ce și-a cunoscut partenera, stabilită deja în Olanda. A trecut prin vizionări de apartamente cu zeci de candidați, și-a continuat cariera în IT și...",
+      "link": "https://start-up.ro/alex-craciun-programatorul-roman-stabilit-in-olanda-vigilenta-invatata-in-romania-s-a-estompat-in-timp-romani-din-lume",
+      "published_utc": "2026-10-29T06:00:02+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://start-up.ro/img/articles/3/9/2/39253/cover-39253-src.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Brânza ar putea încetini îmbătrânirea creierului. Descoperirea surprinzătoare a cercetătorilor, după un studiu de 12 ani",
+      "summary": "Consumul de brânză ar putea fi asociat cu o îmbătrânire mai lentă a creierului, potrivit unui studiu realizat pe peste 1.600 de persoane, monitorizate timp de aproximativ 12 ani. Cercetătorii au descoperit că persoanele care consumau cantități mai mari de brânză prezentau o reducere mai lentă a volumului anumitor regiuni cerebrale, inclusiv a celor implicate în memorie. Rezultatul este surprinzător, deoarece brânza se numără printre alimentele recomandate a fi limitate în anumite diete destinate protejării sănătății creierului.",
+      "link": "https://www.digi24.ro/stiri/actualitate/sanatate/branza-ar-putea-incetini-imbatranirea-creierului-descoperirea-surprinzatoare-a-cercetatorilor-dupa-un-studiu-de-12-ani-4012871",
+      "published_utc": "2026-10-29T05:00:28+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjI4JTJGMzAzNTQzNF8zMDM1/NDM0X3Byb2ZpbWVkaWEtMDI1NjAyOTM1/Ni5qcGcmaGFzaD1iMTMwMzFhYThjZWFkNjc0NDBmZTgxODM0MGU4NmRjZQ==.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "Orchestra CEMAN, turneu în România cu programul „Dincolo de granițe”. Concerte la București, Craiova și Pitești, între 30 octombrie și 2 noiembrie",
       "summary": "Orchestra CEMAN, formată din 25 de tineri muzicieni din șase țări, susține în România turneul de toamnă „Dincolo de granițe”. Concertele au loc la București, pe 30 octombrie, la Craiova,&#8230; Articolul Orchestra CEMAN, turneu în România cu programul „Dincolo de granițe”. Concerte la București, Craiova și Pitești, între 30 octombrie și 2 noiembrie apare prima dată în Romania Pozitiva .",
@@ -663,25 +819,13 @@
       "section": "romania",
       "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 Un student şi-a pus o oglindă în garsonieră ca să pară mai mare şi proprietarul i-a dublat chiria",
-      "summary": "Un simplu truc de amenajare interioară s-a dovedit a fi o greşeală cât casa pentru Vali, un student de 21 de ani din Cluj! După ce a citit într-o revistă că oglinzile fac casa să pară mai mare, acesta a cumpărat şi a instalat o oglindă pe peretele garsonierei de 7 metri pătraţi unde locuieşte [&#8230;] The post Un student şi-a pus o oglindă în garsonieră ca să pară mai mare şi proprietarul i-a dublat chiria appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/monden/un-student-si-a-pus-o-oglinda-in-garsoniera-ca-sa-para-mai-mare-si-proprietarul-i-a-dublat-chiria",
-      "published_utc": "2026-10-28T05:52:00+00:00",
+      "title": "😂 Primarul din Slănic prins cu mită de 6.000 euro, exclus din PSD! Mita, în schimb, rămâne la PSD",
+      "summary": "Și exclus, și cu banii luați! După ce a fost prins în flagrant de procurorii DNA luând o mită de&hellip; The post Primarul din Slănic prins cu mită de 6.000 euro, exclus din PSD! Mita, în schimb, rămâne la PSD appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/politic/primarul-din-slanic-prins-cu-mita-de-6-000-euro-exclus-din-psd-mita-in-schimb-ramane-la-psd",
+      "published_utc": "2026-10-28T15:27:43+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/10/student_oglinda_perete.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Gafa lui Trump",
-      "summary": "The post Gafa lui Trump appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/ovi/gafa-lui-trump",
-      "published_utc": "2026-10-28T09:03:08+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/10/Gafa-lui-Trump.jpg"
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/10/primar_slanic_grindeanu.jpg"
     },
     {
       "section": "romania",
@@ -711,13 +855,37 @@
       "section": "romania",
       "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 Veşti bune pentru copii! Dacă se mai scumpeşte mult gazul, la iarnă o să fim toţi figurine Ice Age",
-      "summary": "Toţi copiii iubesc figurinele Ice Age de la Kaufland, iar curând ar putea avea parte de o surpriză pe cinste! Experţii spun că, dacă se mai scumpesc mult gazul şi curentul electric, în maximum două luni o să fim toţi figurine Ice Age. &#8222;Nu e atât de rău, eu şi anul trecut am fost figurină [&#8230;] The post Veşti bune pentru copii! Dacă se mai scumpeşte mult gazul, la iarnă o să fim toţi figurine Ice Age appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/vesti-bune-pentru-copii-daca-se-mai-scumpeste-mult-gazul-la-iarna-o-sa-fim-toti-figurine-ice-age",
-      "published_utc": "2026-10-27T14:08:22+00:00",
+      "title": "😂 Simplu şi eficient! Nuţu Cămătaru şi-a luat elefant ca să îi sufle în butoiul cu varză",
+      "summary": "Varza e cea mai îndrăgită murătură a românilor, dar dacă nu vrei să facă floare trebuie s-o pritoceşti des cu furtunul, iar pentru asta îţi trebuie plămâni serioşi! Din fericire, există şi mici trucuri care ne pot scuti de efort, după cum a demonstrat recent îndrăgitul afacerist Nuţu Cămătaru. &#8222;De ce să suflu ca prostul [&#8230;] The post Simplu şi eficient! Nuţu Cămătaru şi-a luat elefant ca să îi sufle în butoiul cu varză appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/monden/simplu-si-eficient-nutu-camataru-si-a-luat-elefant-ca-sa-ii-sufle-in-butoiul-cu-varza",
+      "published_utc": "2026-10-28T10:54:34+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/10/elefantinbeci.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Simion condamnă sabotajul Rusiei: „Ambasadorul rus să-și cumpere singur țigări, că eu nu o mai fac!”",
+      "summary": "După câteva zile de tăcere, George Simion a vorbit în premieră despre actul de sabotaj comis la comanda Rusiei la&hellip; The post Simion condamnă sabotajul Rusiei: „Ambasadorul rus să-și cumpere singur țigări, că eu nu o mai fac!” appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/politic/simion-condamna-sabotajul-rusiei-ambasadorul-rus-sa-si-cumpere-singur-tigari-ca-eu-nu-o-mai-fac",
+      "published_utc": "2026-10-28T09:56:36+00:00",
       "score": 3,
       "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/10/figurineiceage.jpg"
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/10/simion_amenintator_tigari.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Green Start-Up Romania",
+      "title": "Audi lansează noul Q7 în România. Funcționează cu combustibili sustenabili",
+      "summary": "A treia generație Audi Q7 a fost lansată oficial în România, cu două versiuni ale motorului diesel V6 de 3,0 litri, echipate cu tehnologie mild-hybrid MHEV plus. Noul SUV poate utiliza și...",
+      "link": "https://green.start-up.ro/ro/audi-lanseaza-noul-q7-in-romania-functioneaza-cu-combustibili-sustenabili",
+      "published_utc": "2026-10-24T05:00:01+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://green.start-up.ro/img/articles/3/6/1/36126/cover-36126-src.jpg"
     },
     {
       "section": "romania",
@@ -744,6 +912,18 @@
       "image": "https://picsum.photos/seed/vb-f37fbfdbb6cbfa1a/480/320"
     },
     {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Ultrathin metal layer boosts spin-related signals, opening a door to ultralow-power electronics",
+      "summary": "Researchers at Kyushu University have found that an ultrathin layer of iridium manganese (IrMn) can improve two spin-related signals in a structure made of a magnetic insulator and a platinum film. By examining how spin currents are generated and absorbed, the team gained insights into how the intermediate layer improves spin transfer. The findings could inform the development of ultralow-power devices for computing and energy harvesting.",
+      "link": "https://phys.org/news/2026-10-ultrathin-metal-layer-boosts-door.html",
+      "published_utc": "2026-10-28T23:20:02+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-an-ultrathin-metal-1.jpg"
+    },
+    {
       "section": "romania",
       "kind": "ro",
       "source": "World Vision Romania",
@@ -766,6 +946,18 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-7aa8271c2858910c/480/320"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Atomic magnetism reveals why iron, but not chromium, can produce ammonia using sunlight",
+      "summary": "Two nearly identical materials have completely different chemical behavior. Research teams at the University of Vienna and TU Wien studied catalysts that use the energy of sunlight to produce ammonia. Surprisingly, when the three iron atoms that form tiny triangles in these catalysts are replaced by chromium atoms, the chemical reaction no longer takes place.",
+      "link": "https://phys.org/news/2026-10-atomic-magnetism-reveals-iron-chromium.html",
+      "published_utc": "2026-10-28T23:00:01+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-invisible-force-of.jpg"
     },
     {
       "section": "romania",
@@ -792,6 +984,18 @@
       "image": "https://picsum.photos/seed/vb-e4bd801238934492/480/320"
     },
     {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Macromolecular crowding could help build artificial cell systems",
+      "summary": "Macromolecular crowding can serve as a design tool for controlling the formation and organization of synthetic DNA droplets, a study from Science Tokyo reveals. Researchers investigated this strategy using DNA nanostars and polymeric crowding agents to mimic the crowded cellular environment. They found that crowding promoted droplet formation and enabled control over droplet size, interactions and organization. The findings could support the development of programmable artificial cell systems.",
+      "link": "https://phys.org/news/2026-10-macromolecular-crowding-artificial-cell.html",
+      "published_utc": "2026-10-28T22:40:01+00:00",
+      "score": 2,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/macromolecular-crowdin.jpg"
+    },
+    {
       "section": "romania",
       "kind": "ro",
       "source": "Fundatia Motivation Romania",
@@ -816,6 +1020,18 @@
       "image": "https://picsum.photos/seed/vb-91e6dfe360f168d3/480/320"
     },
     {
+      "section": "medical",
+      "kind": "global",
+      "source": "Medical Xpress",
+      "title": "Achilles injections show no meaningful benefit over sham treatment",
+      "summary": "Commonly used injections for Achilles tendinopathy—pain, stiffness and swelling in the Achilles tendon—offer no meaningful clinical advantage over placebo (sham) treatment, finds a clinical trial published by The BMJ.",
+      "link": "https://medicalxpress.com/news/2026-10-achilles-meaningful-benefit-sham-treatment.html",
+      "published_utc": "2026-10-28T22:30:10+00:00",
+      "score": 2,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/achilles-tendon.jpg"
+    },
+    {
       "section": "romania",
       "kind": "ro",
       "source": "Fundatia Inocenti",
@@ -828,18 +1044,6 @@
       "image": "https://picsum.photos/seed/vb-e5c679e4273e74ac/480/320"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Ultrathin metal layer boosts spin-related signals, opening a door to ultralow-power electronics",
-      "summary": "Researchers at Kyushu University have found that an ultrathin layer of iridium manganese (IrMn) can improve two spin-related signals in a structure made of a magnetic insulator and a platinum film. By examining how spin currents are generated and absorbed, the team gained insights into how the intermediate layer improves spin transfer. The findings could inform the development of ultralow-power devices for computing and energy harvesting.",
-      "link": "https://phys.org/news/2026-10-ultrathin-metal-layer-boosts-door.html",
-      "published_utc": "2026-10-28T23:20:02+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-an-ultrathin-metal-1.jpg"
-    },
-    {
       "section": "romania",
       "kind": "ro",
       "source": "Hope and Homes for Children Romania",
@@ -850,42 +1054,6 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-bcade832219dfc28/480/320"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Atomic magnetism reveals why iron, but not chromium, can produce ammonia using sunlight",
-      "summary": "Two nearly identical materials have completely different chemical behavior. Research teams at the University of Vienna and TU Wien studied catalysts that use the energy of sunlight to produce ammonia. Surprisingly, when the three iron atoms that form tiny triangles in these catalysts are replaced by chromium atoms, the chemical reaction no longer takes place.",
-      "link": "https://phys.org/news/2026-10-atomic-magnetism-reveals-iron-chromium.html",
-      "published_utc": "2026-10-28T23:00:01+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-invisible-force-of.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Macromolecular crowding could help build artificial cell systems",
-      "summary": "Macromolecular crowding can serve as a design tool for controlling the formation and organization of synthetic DNA droplets, a study from Science Tokyo reveals. Researchers investigated this strategy using DNA nanostars and polymeric crowding agents to mimic the crowded cellular environment. They found that crowding promoted droplet formation and enabled control over droplet size, interactions and organization. The findings could support the development of programmable artificial cell systems.",
-      "link": "https://phys.org/news/2026-10-macromolecular-crowding-artificial-cell.html",
-      "published_utc": "2026-10-28T22:40:01+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/macromolecular-crowdin.jpg"
-    },
-    {
-      "section": "medical",
-      "kind": "global",
-      "source": "Medical Xpress",
-      "title": "Achilles injections show no meaningful benefit over sham treatment",
-      "summary": "Commonly used injections for Achilles tendinopathy—pain, stiffness and swelling in the Achilles tendon—offer no meaningful clinical advantage over placebo (sham) treatment, finds a clinical trial published by The BMJ.",
-      "link": "https://medicalxpress.com/news/2026-10-achilles-meaningful-benefit-sham-treatment.html",
-      "published_utc": "2026-10-28T22:30:10+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/achilles-tendon.jpg"
     },
     {
       "section": "science",
@@ -1262,12 +1430,12 @@
   ],
   "joke_ro": {
     "date_utc": "2026-10-29",
-    "text": "Ce ai rezolvat? - Un sendvis si cateva emotii.",
+    "text": "Mi-am facut curaj. L-am lasat pe canapea si am plecat fara el.",
     "source": "data/jokes_ro.txt"
   },
   "satire_ro": {
-    "title": "Primarul din Slănic prins cu mită de 6.000 euro, exclus din PSD! Mita, în schimb, rămâne la PSD",
-    "link": "https://www.timesnewroman.ro/politic/primarul-din-slanic-prins-cu-mita-de-6-000-euro-exclus-din-psd-mita-in-schimb-ramane-la-psd/",
+    "title": "Un conspiraționist pesedist susține că în unele cutii de pantofi s-ar afla pantofi",
+    "link": "https://www.timesnewroman.ro/politic/un-conspirationist-pesedist-sustine-ca-in-unele-cutii-de-pantofi-s-ar-afla-pantofi/",
     "source": "timesnewroman.ro"
   },
   "top_images": [
@@ -1352,6 +1520,7 @@
       "https://live.staticflickr.com/65535/55601142086_00f6fa9293_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/55612420215_28e1f8fa08_z.jpg",
       "https://live.staticflickr.com/65535/55597789672_5f66ff9dc9_b.jpg",
       "https://live.staticflickr.com/3955/33205638191_a6b9c0c913_b.jpg",
       "https://live.staticflickr.com/8601/27635852613_742e647327_b.jpg",
@@ -1368,10 +1537,10 @@
       "https://live.staticflickr.com/65535/32114845275_b796e1f596_b.jpg",
       "https://live.staticflickr.com/65535/16836140435_c73d576145_b.jpg",
       "https://live.staticflickr.com/65535/55594377196_6c73742853_b.jpg",
-      "https://live.staticflickr.com/65535/55594389976_bbdee2bce4_b.jpg",
-      "https://live.staticflickr.com/65535/16608523580_59bbb4365b_b.jpg"
+      "https://live.staticflickr.com/65535/55594389976_bbdee2bce4_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55619311055_ff4b671238_b.jpg",
       "https://live.staticflickr.com/65535/55619050095_a4394f363c_b.jpg",
       "https://live.staticflickr.com/65535/55618687620_e7ac0dfeed_b.jpg",
       "https://live.staticflickr.com/65535/55617977956_bd1d56be90_b.jpg",
@@ -1388,12 +1557,11 @@
       "https://live.staticflickr.com/65535/55612329519_a6b923a7c0_b.jpg",
       "https://live.staticflickr.com/65535/55610973142_e8df113c9d_b.jpg",
       "https://live.staticflickr.com/65535/55611639551_1dda538f70_b.jpg",
-      "https://live.staticflickr.com/65535/55611470408_02b603d171_b.jpg",
-      "https://live.staticflickr.com/65535/55611098704_afd1d6cf8f_b.jpg"
+      "https://live.staticflickr.com/65535/55611470408_02b603d171_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
+      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
