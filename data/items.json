@@ -1,18 +1,125 @@
 {
-  "generated_utc": "2026-11-11T01:46:26+00:00",
+  "generated_utc": "2026-11-11T08:35:27+00:00",
   "sections": {
     "romania": [
       {
         "section": "romania",
         "kind": "ro",
-        "source": "HotNews",
-        "title": "Asia Express 2026. Cele două echipe care vor lupta pentru marele premiu Asia Express. Cine sunt finaliștii",
-        "summary": "Echipa formată din Gabi Torje și Alin Alexuc Ciurariu și cea formată din Valerie Lungu și Alex Gîlcă s-au calificat în marea finală a Asia Express Trei echipe au concurat în semifinala difuzată marți seară: Valerie Lungu și Alex Gîlcă, Mirela Vaida și Oana Tomoiagă și Gabi Torje și Alin Alexuc Ciurariu. Prima provocare a &#8230;",
-        "link": "https://hotnews.ro/cele-doua-echipe-care-vor-lupta-pentru-marele-premiu-asia-express-2026-cine-sunt-finalistii-2400810",
-        "published_utc": "2026-11-10T21:48:00+00:00",
+        "source": "Start-Up Romania",
+        "title": "BCR Seed Starter investește 500.000 de euro în Kinderpedia, platformă globală de management și comunicare pentru școli și grădinițe",
+        "summary": "BCR Seed Starter investește 500.000 de euro în Kinderpedia, compania românească care dezvoltă o platformă globală de management și comunicare pentru școli și grădinițe, prezentă deja în peste 40 de...",
+        "link": "https://start-up.ro/bcr-seed-starter-investeste-500-000-de-euro-in-kinderpedia-platforma-globala-de-management-si-comunicare-pentru-scoli-si-gradinite",
+        "published_utc": "2026-11-11T08:33:42+00:00",
         "score": 3,
         "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-fa2ee88aec53d70b/480/320"
+        "image": "https://start-up.ro/img/articles/3/9/3/39343/cover-39343-src.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Finala Asia Express 2026. Când se anunță câștigătorul marelui premiu. Două echipe se bat pentru trofeu",
+        "summary": "Marea finală Asia Express 2026 va fi difuzată miercuri, 11 noiembrie, la Antena 1. Potrivit programului anunțat de postul de televiziune, ultimul episod al sezonului 9, „Drumul Mătăsii”, va începe la ora 20:30. Echipa formată din Gabi Torje și Alin Alexuc Ciurariu și cea formată din Valerie Lungu și Alex Gîlcă s-au calificat în marea &#8230;",
+        "link": "https://hotnews.ro/finala-asia-express-2026-cand-se-anunta-castigatorul-marelui-premiu-doua-echipe-se-bat-pentru-trofeu-2401049",
+        "published_utc": "2026-11-11T08:33:13+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-c702d084a85329e3/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "RomaniaPozitiva",
+        "title": "Fundația Inimă de Copil aniversează 30 de ani de activitate. Peste 35.000 de copii și membri ai familiilor lor sprijiniți în trei decenii",
+        "summary": "Campania aniversară „30 de ani împreună. Binele continuă” a debutat la Shopping City Galați, printr-o expoziție care aduce în fața publicului poveștile, realizările și oamenii care au făcut posibilă schimbarea a mii de vieți. În urmă cu 30 de ani, la Galați, s-a născut Fundația Inimă de Copil, o organizație care, de-a lungul a trei [&#8230;] Articolul Fundația Inimă de Copil aniversează 30 de ani de activitate. Peste 35.000 de copii și membri ai familiilor lor sprijiniți în trei decenii apare prima dată în Romania Pozitiva .",
+        "link": "https://www.romaniapozitiva.ro/moldova-bucovina/fundatia-inima-de-copil-aniverseaza-30-de-ani-de-activitate-peste-35-000-de-copii-si-membri-ai-familiilor-lor-sprijiniti-in-trei-decenii",
+        "published_utc": "2026-11-11T07:40:16+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-ad9b21889c8436b9/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Start-Up Romania",
+        "title": "Bogdan Nicoară, cofondator și CEO Bright Spaces: ”funcționăm cu o mentalitate specifică timpurilor de criză”",
+        "summary": "Bogdan Nicoară a cofondat Bright Spaces, o companie care folosește tehnologia pentru vânzările din domeniul imobiliar. Soluția antreprenorului a depășit granițele României, a atras atenția...",
+        "link": "https://start-up.ro/bogdan-nicoara-cofondator-si-ceo-bright-spaces",
+        "published_utc": "2026-11-11T07:31:04+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://start-up.ro/img/articles/3/9/3/39335/cover-39335-src.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Tudor Giurgiu: „Regula principală este că nu există reguli” – ce a învățat din povestea Netflix și de ce nu există rețete de succes",
+        "summary": "Regizorul și producătorul Tudor Giurgiu spune că una dintre cele mai importante lecții de leadership pe care le-a învățat este că o organizație nu se poate schimba fără transparență, asumarea greșelilor și disponibilitatea de a asculta oamenii. Vorbind despre experiența sa de la Televiziunea Română, pe care o descrie drept un mediu dominat de resemnare &#8230;",
+        "link": "https://hotnews.ro/tudor-giurgiu-regula-principala-este-ca-nu-exista-reguli-ce-a-invatat-din-povestea-netflix-si-de-ce-nu-exista-retete-de-succes-2400063",
+        "published_utc": "2026-11-11T07:05:00+00:00",
+        "score": 2,
+        "image": "https://picsum.photos/seed/vb-1fcbab1d84e88b03/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "RomaniaPozitiva",
+        "title": "Cum îi ajută JA România pe tineri să își facă mai vizibile competențele pentru angajare prin testarea EmPass",
+        "summary": "Cum pot tinerii să demonstreze că au competențe precum comunicarea, lucrul în echipă, responsabilitatea și rezolvarea problemelor, atunci când aceste abilități nu sunt întotdeauna evidențiate de calificările tradiționale? Această întrebare se află în centrul proiectului EmPass – The Employment Skills Pass, finanțat prin programul Erasmus+ și coordonat de JA Europe. În colaborare cu furnizori de [&#8230;] Articolul Cum îi ajută JA România pe tineri să își facă mai vizibile competențele pentru angajare prin testarea EmPass apare prima dată în Romania Pozitiva .",
+        "link": "https://www.romaniapozitiva.ro/economie/cum-ii-ajuta-ja-romania-pe-tineri-sa-isi-faca-mai-vizibile-competentele-pentru-angajare-prin-testarea-empass",
+        "published_utc": "2026-11-11T06:42:28+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-55d285ada10a8ccc/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Un român aduce 5 milioane EUR pentru antreprenorii romi, de la Banca de Dezvoltare a Consiliului Europei",
+        "summary": "Banca de Dezvoltare a Consiliului Europei (CEB) a semnat un împrumut de 5 milioane EUR cu REDI Fund, fondul de investiții creat de rețeaua REDI, fondată de chimistul român Petrică Dulgheru, bani care vor fi transformați în microcredite pentru antreprenori romi și afaceri care angajează romi din România, Republica Moldova, Albania și Kosovo, potrivit unui &#8230;",
+        "link": "https://hotnews.ro/un-roman-aduce-5-milioane-eur-pentru-antreprenorii-romi-de-la-banca-de-dezvoltare-a-consiliului-europei-2400985",
+        "published_utc": "2026-11-11T06:18:51+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-5782ac7e5fd69d31/480/320"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Start-Up Romania",
+        "title": "Hola25, platforma unui programator român care vrea să aducă oamenii împreună pentru 25 de minute de învățare",
+        "summary": "Un reportaj despre „Banca timpului” din Italia l-a făcut pe Ionuț-Bogdan Ilie să se gândească la o comunitate în care oamenii își oferă cunoștințe prin conversații gratuite. Așa a apărut Hola25,...",
+        "link": "https://start-up.ro/hola25-platforma-unui-programator-roman-care-vrea-sa-aduca-oamenii-impreuna-pentru-25-de-minute-de-invatare",
+        "published_utc": "2026-11-11T06:00:01+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://start-up.ro/img/articles/3/9/3/39337/cover-39337-src.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Când se plătesc primele burse școlare în 2026. Elevii primesc în noiembrie banii pentru două luni",
+        "summary": "Primele burse din anul școlar 2026-2027 se plătesc vineri, 20 noiembrie 2026. Școlile vor achita într-o singură tranșă drepturile aferente lunilor septembrie și octombrie. Suma pe care o va primi fiecare elev depinde de tipul bursei și de îndeplinirea condițiilor de acordare în fiecare dintre cele două luni.",
+        "link": "https://www.digi24.ro/stiri/actualitate/educatie/cand-se-platesc-primele-burse-scolare-in-2026-elevii-primesc-in-noiembrie-banii-pentru-doua-luni-4029657",
+        "published_utc": "2026-11-11T05:00:07+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMSUyRjEwJTJGMzA1OTg2NV8zMDU5/ODY1X0J1cnNlLXNjb2xhcmUtMjAyNl8t/Rm90by1HZXR0eS1JbWFnZXMuanBnJmhh/c2g9YTQyNGI0NDgwMWI3YzFkNWQ5ODg2N2E0N2QwZjM4Mzc=.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "HotNews",
+        "title": "Primele hiper-centre de date AI din România. Vor consuma energie cât tot Bucureștiul într-o zi de caniculă, dar permanent, zi și noapte",
+        "summary": "Autoritățile din România discută deja cu investitorii în mari centre de date AI, iar Transelectrica a emis avize tehnice de racordare pentru primele astfel de capacități.&#160; Mari centre AI în România „Ne întâlnim permanent cu consumatorii de energie electrică, inclusiv cu potențiali investitori în centre de date. Dacă anul acesta am suferit din punct de &#8230;",
+        "link": "https://hotnews.ro/primele-hiper-centre-de-date-ai-din-romania-vor-consuma-energie-cat-tot-bucurestiul-intr-o-zi-de-canicula-dar-permanent-zi-si-noapte-2399117",
+        "published_utc": "2026-11-11T04:59:31+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-c373fead3e6bcd29/480/320"
       },
       {
         "section": "romania",
@@ -66,49 +173,37 @@
         "section": "romania",
         "kind": "ro",
         "source": "Times New Roman (Satira)",
-        "title": "😂 Uită de via ferrata! La Vaslui s-a deschis cel mai spectaculos traseu de via fermentata",
-        "summary": "Județul Vaslui intră oficial pe harta turismului de aventură, după inaugurarea primului traseu de via fermentata din lume. Inspirat de&hellip; The post Uită de via ferrata! La Vaslui s-a deschis cel mai spectaculos traseu de via fermentata appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/monden/uita-de-via-ferrata-la-vaslui-s-a-deschis-cel-mai-spectaculos-traseu-de-via-fermentata",
-        "published_utc": "2026-11-10T10:42:34+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/11/via_fermentata_vaslui.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "RomaniaPozitiva",
-        "title": "UNATC „I.L. Caragiale” îi conferă titlul de Doctor Honoris Causa istoricului de film britanic Ian Christie",
-        "summary": "În perioada 19-22 noiembrie 2026, UNATC “I.L.Caragiale” are onoarea de a-l avea drept invitat pe prestigiosul istoric de film britanic Ian Christie, căruia îi va conferi, cu această ocazie, titlul de Doctor Honoris Causa. Evenimentul va avea loc joi, 19 noiembrie, ora 11:00 în Sala “Ileana Berlogea” din UNATC. Specialist în cinematograful timpuriu internațional, în [&#8230;] Articolul UNATC „I.L. Caragiale” îi conferă titlul de Doctor Honoris Causa istoricului de film britanic Ian Christie apare prima dată în Romania Pozitiva .",
-        "link": "https://www.romaniapozitiva.ro/bucuresti/unatc-i-l-caragiale-ii-confera-titlul-de-doctor-honoris-causa-istoricului-de-film-britanic-ian-christie",
-        "published_utc": "2026-11-10T10:06:12+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://picsum.photos/seed/vb-32d6ec51ddf39184/480/320"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 S-a lansat „Ciolacula”, povestea vampirului care a supt 60 de miliarde din fondul de rezervă",
-        "summary": "Cel mai așteptat blockbuster al anului e aici! Săptămâna asta ajunge în cinematografe un film care are toate șansele să egaleze, dacă nu chiar să depășească succesul lui Dracula. Este vorba despre Ciolacula, povestea unui vampir chiar mai îngrozitor decât Dracula, care suge peste 60 de miliarde de lei din fondul de rezervă al Guvernului. [&#8230;] The post S-a lansat „Ciolacula”, povestea vampirului care a supt 60 de miliarde din fondul de rezervă appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/politic/s-a-lansat-ciolacula-povestea-vampirului-care-a-supt-60-de-miliarde-din-fondul-de-rezerva",
-        "published_utc": "2026-11-10T05:35:00+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/11/ciolacula.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 Vești proaste pentru șoferi! S-a ieftinit petrolul, deci va crește prețul benzinei la pompă",
-        "summary": "Cotația petrolului european a trecut prin cea mai mare scădere săptămânală de la începutul pandemiei de coronavirus, de -16% săptămâna&hellip; The post Vești proaste pentru șoferi! S-a ieftinit petrolul, deci va crește prețul benzinei la pompă appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/life-death/vesti-proaste-pentru-soferi-s-a-ieftinit-petrolul-deci-va-creste-pretul-benzinei-la-pompa",
-        "published_utc": "2026-11-09T10:39:22+00:00",
+        "title": "😂 Economii și cumpătare",
+        "summary": "The post Economii și cumpătare appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/ovi/economii-si-cumpatare",
+        "published_utc": "2026-11-09T08:54:55+00:00",
         "score": 3,
         "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/11/benzina_la_pompa_femeie.jpg"
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/11/Economii-si-cumpatare.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 Gafă! Ursula se va întâlni cu slugile Nicușor și Luca Niculescu, nu cu șeful lor, Grindeanu",
+        "summary": "Nu știe unde vine! Ursula von der Leyen pare extrem de buimacă, dacă e să ne luăm după programul de întâlniri pe care și le-a programat la București. Șefa Comisiei Europene vine azi în România și ar urma să se întâlnească doar cu Nicușor Dan și Luca Niculescu. În teorie sună bine pentru Ursula, că [&#8230;] The post Gafă! Ursula se va întâlni cu slugile Nicușor și Luca Niculescu, nu cu șeful lor, Grindeanu appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/politic/gafa-ursula-se-va-intalni-cu-slugile-nicusor-si-luca-niculescu-nu-cu-seful-lor-grindeanu",
+        "published_utc": "2026-11-09T07:01:09+00:00",
+        "score": 3,
+        "freshness_boost": 1,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/11/nicusor_ursula_grindeanu.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Times New Roman (Satira)",
+        "title": "😂 Tragedie în Italia! Un moș bogat a murit cu câteva ore înainte să se căsătorească cu o româncă de 25 de ani",
+        "summary": "Potrivit apropiaților, cei doi se cunoșteau de aproximativ un an și stabiliseră data nunții pentru începutul acestei luni. Decesul bărbatului,&hellip; The post Tragedie în Italia! Un moș bogat a murit cu câteva ore înainte să se căsătorească cu o româncă de 25 de ani appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/monden/tragedie-in-italia-un-mos-bogat-a-murit-cu-cateva-ore-inainte-sa-se-casatoreasca-cu-o-romanca-de-25-de-ani",
+        "published_utc": "2026-11-08T15:20:42+00:00",
+        "score": 3,
+        "freshness_boost": 1,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/11/mos-italian-cu-bani.jpg"
       },
       {
         "section": "romania",
@@ -369,302 +464,122 @@
       {
         "section": "science",
         "kind": "global",
-        "source": "Phys.org",
-        "title": "Mental health app may help unemployed people find jobs, six-week trial suggests",
-        "summary": "Losing a job can be a life-shattering experience. And when depression complicates a job search, unemployment can become a vicious cycle. Now, a Northwestern University–led clinical trial suggests a new intervention may break that cycle: a phone app, named DRIVEN, that combines weekly self-guided mental health exercises (to reduce stress and increase motivation) with job-seeking strategies.",
-        "link": "https://phys.org/news/2026-11-mental-health-app-unemployed-people.html",
-        "published_utc": "2026-11-11T01:40:01+00:00",
+        "source": "NASA Breaking News",
+        "title": "APOD: 2026 November 11 – NGC 4449: Small Galaxy, Big Impact",
+        "summary": "APOD Science APOD APOD: 2026 November 11 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. NGC 4449: [&#8230;]",
+        "link": "https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact",
+        "published_utc": "2026-11-11T05:05:00+00:00",
         "score": 2,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mental-health-app-help.jpg"
+        "image": "https://picsum.photos/seed/vb-f6de85f3f2418e5e/480/320"
       },
       {
         "section": "science",
         "kind": "global",
         "source": "Phys.org",
-        "title": "A new tool makes biodiversity conservation planning more efficient and reproducible",
-        "summary": "ZonationR is a new tool that simplifies the use of Zonation to identify priority areas for biodiversity conservation. It brings all stages of the conservation planning analysis together in one automated and reproducible workflow and helps users systematically explore and compare alternative conservation scenarios.",
-        "link": "https://phys.org/news/2026-11-tool-biodiversity-efficient.html",
-        "published_utc": "2026-11-11T01:20:07+00:00",
+        "title": "New study shows COVID value-added tax cut significantly boosted private consumption",
+        "summary": "In summer 2020, the German federal government lowered value-added tax from 19% to 16% for half a year as part of its COVID economic stimulus package. A new study, recently published in the journal Review of Economic Studies, uses survey data, data on retail purchases and an economic model to show the extent to which this measure influenced private consumption. The study found that lower-wealth households, as well as younger and middle-aged households, particularly benefited, regardless of their level of financial literacy.",
+        "link": "https://phys.org/news/2026-11-covid-added-tax-significantly-boosted.html",
+        "published_utc": "2026-11-11T03:20:05+00:00",
+        "score": 1,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/retail.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "ScienceDaily Science",
+        "title": "Scientists discover why some mosquitoes love you and others don't",
+        "summary": "A surprising new study reveals that mosquitoes have very different tastes in humans, with each species attracted to its own combination of skin odors, chemicals, and bacteria. The discovery challenges the idea of a universal mosquito magnet and could lead to more effective repellents against dangerous disease-spreading mosquitoes.",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261106174541.htm",
+        "published_utc": "2026-11-11T02:21:13+00:00",
+        "score": 5,
+        "freshness_boost": 3,
+        "image": "https://picsum.photos/seed/vb-8d5c279115392793/480/320"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "Phys.org",
+        "title": "Coyotes are likely a permanent fixture on the Outer Banks of North Carolina",
+        "summary": "A new study reveals that coyote populations on the Outer Banks persist despite ongoing removal programs, posing a continued threat to shore-nesting birds and protected sea turtles. The study is the first in-depth assessment of coyote populations on barrier islands and has ramifications for understanding how coyotes may impact these and other barrier island ecosystems.",
+        "link": "https://phys.org/news/2026-11-coyotes-permanent-fixture-outer-banks.html",
+        "published_utc": "2026-11-11T02:20:01+00:00",
+        "score": 0,
+        "freshness_boost": 3,
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/coyotes-are-likely-a-p.jpg"
+      },
+      {
+        "section": "science",
+        "kind": "global",
+        "source": "ScienceDaily Science",
+        "title": "Scientists discover a giant 66-pound rodent that lived 34 million years ago",
+        "summary": "Scientists have uncovered fossils of a giant rodent that lived in Thailand 34 million years ago, revealing that enormous rodents evolved much earlier than previously thought. Named Yakamys sirindhornae, the ancient animal may have weighed around 66 pounds, roughly twice as much as other known rodents of its time.",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261110042532.htm",
+        "published_utc": "2026-11-11T01:36:04+00:00",
         "score": 2,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-tool-makes-biodive.jpg"
+        "image": "https://picsum.photos/seed/vb-98ce0aa7ed27dae2/480/320"
       },
       {
         "section": "science",
         "kind": "global",
-        "source": "Phys.org",
-        "title": "Genetic ancestry plays a key role in the migration of Cory's shearwaters",
-        "summary": "To what extent do genes influence the migratory routes of birds? The factors that determine the long-distance migrations of seabirds are not yet fully understood. Now, a study published in the journal Molecular Ecology reveals that, in the case of Cory's shearwater, an individual's genetic ancestry is a more significant factor in their migratory decisions than their social environment in the breeding colony.",
-        "link": "https://phys.org/news/2026-11-genetic-ancestry-plays-key-role.html",
-        "published_utc": "2026-11-11T01:00:01+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/genes-play-a-key-role.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Earliest known compact quasar pair poses a black hole growth puzzle",
-        "summary": "The oldest pair of compact quasars ever observed has been found only 900 million years after the Big Bang. Scientists say there is no theoretical explanation for how the pair of actively feeding black holes grew so massive at such an early time in the history of the universe. The pair of quasars has been given the Hawaiian nickname Nāpōwawāʻenakaulua.",
-        "link": "https://phys.org/news/2026-11-earliest-compact-quasar-pair-poses.html",
-        "published_utc": "2026-11-11T00:50:02+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/astronomers-discover-n.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "New organic iron-sulfur framework boosts photosynthesis and carbon fixation",
-        "summary": "Iron-sulfur clusters are ancient protein cofactors that are essential for electron transport, enzyme catalysis and photosynthesis. However, their sensitivity to oxygen and inherent instability have long hindered their practical application.",
-        "link": "https://phys.org/news/2026-11-iron-sulfur-framework-boosts-photosynthesis.html",
-        "published_utc": "2026-11-11T00:40:06+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-organic-iron-sulfu.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "How ripples in space-time can reveal new exoplanets",
-        "summary": "The LISA (Laser Interferometer Space Antenna) observatory, now in development, will detect gravitational waves, the tiny ripples in space-time caused by orbiting masses. Now two studies led by NASA astrophysicists show in new detail how LISA could reveal a new and unique population of exoplanets—worlds beyond our solar system—throughout our galaxy.",
-        "link": "https://phys.org/news/2026-11-ripples-space-reveal-exoplanets.html",
-        "published_utc": "2026-11-11T00:40:01+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/nasa-scientists-show-h.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "European eels transmit a herpesvirus through bites, revealing another route for fish infections",
-        "summary": "Contrary to what was previously believed, viruses infecting fish are not transmitted exclusively through water acting as an abiotic vector. A team of researchers from the University of Liège has demonstrated that a virus affecting European eels can spread very efficiently through biting during aggressive interactions between individuals.",
-        "link": "https://phys.org/news/2026-11-european-eels-transmit-herpesvirus-revealing.html",
-        "published_utc": "2026-11-11T00:30:01+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/european-eels-transmit.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Where AI can aid chemistry research and where reliability falls short",
-        "summary": "Researchers from the Skoltech AI Center, together with colleagues from the Zelinsky Institute of Organic Chemistry of the Russian Academy of Sciences, ITMO University and other institutions, have published a paper in Chemical Society Reviews that examines where AI produces measurable value in a chemical research workflow, how to assess its reliability and why a strong benchmark result does not necessarily translate into laboratory performance.",
-        "link": "https://phys.org/news/2026-11-ai-aid-chemistry-reliability-falls.html",
-        "published_utc": "2026-11-11T00:20:08+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-from-skolt.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Repurposing the internet's backbone to advance whale monitoring",
-        "summary": "Bioacoustics researcher Léa Bouffaut, at the Cornell K. Lisa Yang Center for Conservation Bioacoustics, has spent the past several years eavesdropping on the conversations of whales. But instead of using underwater microphones like other marine scientists, she listens by tapping into fiber-optic cables lying on the ocean floor—a powerful tool to aid in marine mammal conservation.",
-        "link": "https://phys.org/news/2026-11-repurposing-internet-backbone-advance-whale.html",
-        "published_utc": "2026-11-11T00:20:02+00:00",
+        "source": "ScienceDaily Science",
+        "title": "237-million-year-old fossils reveal a bizarre armored sea amphibian",
+        "summary": "A bizarre, heavily armored amphibian roamed the oceans 237 million years ago, despite the fact that modern amphibians cannot survive entirely in saltwater. Discovered in China, the giant salamander-sized creature may be the first known amphibian to have adapted to a fully marine existence.",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261109205409.htm",
+        "published_utc": "2026-11-11T00:59:32+00:00",
         "score": 2,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-bowhead-whale-in-sva.jpg"
+        "image": "https://picsum.photos/seed/vb-d8a036a989307398/480/320"
       },
       {
         "section": "science",
         "kind": "global",
-        "source": "Phys.org",
-        "title": "Rerouting ships to avoid killing whale sharks has little cost, study finds",
-        "summary": "Redirecting shipping traffic to avoid collisions with whale sharks has very little impact on fuel use, according to new research led by the University of Southampton published in Royal Society Open Science.",
-        "link": "https://phys.org/news/2026-11-rerouting-ships-whale-sharks.html",
-        "published_utc": "2026-11-11T00:10:11+00:00",
-        "score": 1,
+        "source": "ScienceDaily Science",
+        "title": "Astronomers discover hidden alien planet in James Webb images",
+        "summary": "A breakthrough in telescope imaging could reveal countless alien worlds that have been hiding in plain sight. Scientists developed a new technique that uses a digital twin of the James Webb Space Telescope to remove the overwhelming glare of stars, making faint exoplanets two to 15 times easier to detect than with conventional methods. The technology has already uncovered a previously hidden planet in existing telescope data and could reveal many more.",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261108233028.htm",
+        "published_utc": "2026-11-10T23:56:04+00:00",
+        "score": 4,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rerouting-ships-to-avo-1.jpg"
+        "image": "https://picsum.photos/seed/vb-f57cd96aca75e2be/480/320"
       },
       {
         "section": "science",
         "kind": "global",
-        "source": "Phys.org",
-        "title": "Ancient rocks reveal when Earth's tectonic engine 'switched on'",
-        "summary": "Scientists have identified a major turning point in Earth's geological history, when the processes shaping the planet's crust changed dramatically and began to resemble the plate tectonics we see today—about 2.5 billion years ago.",
-        "link": "https://phys.org/news/2026-11-ancient-reveal-earth-tectonic.html",
-        "published_utc": "2026-11-11T00:10:08+00:00",
-        "score": 0,
+        "source": "ScienceDaily Science",
+        "title": "A mysterious 93-billion-mile cosmic structure may be the wreckage of colliding worlds",
+        "summary": "NASA's Hubble Space Telescope has revealed surprising new details about a mysterious, 93-billion-mile-long cloud of dark, fluffy dust that may have formed when massive planetary bodies collided. The discovery challenges previous assumptions about the structure and offers new clues about the violent birth of planetary systems.",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261105224555.htm",
+        "published_utc": "2026-11-10T12:30:09+00:00",
+        "score": 4,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ancient-rocks-reveal-w.jpg"
+        "image": "https://picsum.photos/seed/vb-beee3d5b4881469d/480/320"
       },
       {
         "section": "science",
         "kind": "global",
-        "source": "Phys.org",
-        "title": "High-achieving disadvantaged students are far less likely to take and pass entrance exams for selective schools",
-        "summary": "Disadvantaged students are less likely than their more advantaged peers with similar attainment to take and pass entrance exams for selective schools, and introducing an opt-out system for the tests would only deliver a small boost.",
-        "link": "https://phys.org/news/2026-11-high-disadvantaged-students-entrance-exams.html",
-        "published_utc": "2026-11-11T00:10:02+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/grammar-school.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Scientists anchor first scientific animal name to a modern-day spider",
-        "summary": "Scientists led by the Smithsonian's National Museum of Natural History have restored the physical reference of one of the most historically significant names in biology. In a paper published in Taxonomy, researchers designated a new type specimen, or neotype, for Araneus angulatus, the first animal species described using binomial nomenclature, the two-part naming system that scientists use today to identify and classify living organisms. The designation reconnects the name to a physical specimen decades after the original name-bearing spiders disappeared.",
-        "link": "https://phys.org/news/2026-11-scientists-anchor-scientific-animal-modern.html",
-        "published_utc": "2026-11-10T23:50:01+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/smithsonian-led-scient.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Gamma radiation transforms brittle bioplastic into 'superstructure' hydrogel",
-        "summary": "Biomaterials engineers have created a \"superstructure\" hydrogel that could be an eco-friendly tool used in medical technologies and as a recovery aid for surgical procedures. The research is published in the journal Macromolecular Rapid Communications.",
-        "link": "https://phys.org/news/2026-11-gamma-brittle-bioplastic-superstructure-hydrogel.html",
-        "published_utc": "2026-11-10T23:40:01+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-transform-4.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "The psychology of saving electricity: How comparisons can curb consumption",
-        "summary": "Simple psychological interventions are often enough to encourage people to change their behavior—and this is also true when it comes to saving electricity. A new study by Mannheim-based consumer psychologist Dr. Yavor Paunov and colleagues shows that comparing one's own electricity consumption with that of others as well as practical energy-saving tips can help reduce energy consumption.",
-        "link": "https://phys.org/news/2026-11-psychology-electricity-comparisons-curb-consumption.html",
-        "published_utc": "2026-11-10T23:20:08+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/household-electricity.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Microscopy upgrade sharpens images fivefold without sacrificing tissue imaging depth",
-        "summary": "Researchers at Texas A&amp;M University have cracked a problem that has limited biological imaging for years: seeing fine cellular detail while looking deep inside living tissue. The new microscopy technique resolves structures smaller than 100 nanometers, roughly a thousand times thinner than a human hair, without giving up the ability to image deep into intact samples.",
-        "link": "https://phys.org/news/2026-11-microscopy-sharpens-images-fivefold-sacrificing.html",
-        "published_utc": "2026-11-10T23:20:06+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-microscopy-techniq-5.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Water molecules turn out to be secret messengers for magnetism",
-        "summary": "Water is not usually thought of as a magnetic material. But a new study led by researchers at Tohoku University's Institute of Multidisciplinary Research for Advanced Materials, in collaboration with National Taipei University of Technology (Taipei Tech), has found that tiny shifts in the orientation of water molecules can flip on magnetic partnerships between metal ions that are not even directly bonded to each other.",
-        "link": "https://phys.org/news/2026-11-molecules-secret-messengers-magnetism.html",
-        "published_utc": "2026-11-10T23:10:01+00:00",
+        "source": "ScienceDaily Science",
+        "title": "Paleontologists discover “one-in-a-million” fossil with 450-million-year-old soft tissue",
+        "summary": "Scientists have discovered a remarkably preserved 450-million-year-old fossil containing soft tissues from an ancient starfish relative, revealing unexpected details about marine life more than 200 million years before dinosaurs existed. Found in a museum collection, the extraordinarily rare specimen offers new clues about how Earth's earliest reef animals fed, survived, and evolved.",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261105085201.htm",
+        "published_utc": "2026-11-10T12:16:08+00:00",
         "score": 2,
         "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/water-molecules-turn-o-1.jpg"
+        "image": "https://picsum.photos/seed/vb-2989506653f9deee/480/320"
       },
       {
         "section": "science",
         "kind": "global",
-        "source": "Phys.org",
-        "title": "Harnessing laser nuisance achieves record resolution for atomic measurements",
-        "summary": "A shoebox-sized color detection device could enable precise measurements at record resolution, according to new research led by Adelaide University. An international team exploited an integrating sphere—a highly reflective hollow cavity that causes light to bounce around inside many times before exiting—to demonstrate a device that can measure the color (wavelength) composition of light with extreme precision at a resolution of just 6 femtometers.",
-        "link": "https://phys.org/news/2026-11-harnessing-laser-nuisance-resolution-atomic.html",
-        "published_utc": "2026-11-10T23:00:07+00:00",
+        "source": "ScienceDaily Science",
+        "title": "NASA’s CHAPEA Mars crew finally emerges after more than a year in isolation",
+        "summary": "After more than a year of simulated life on Mars, four NASA volunteers have finally emerged from isolation, bringing a remarkable space exploration experiment to an end. Their experiences growing food, conserving resources, and overcoming Mars-like challenges could help NASA prepare for humanity's future on the Moon and Mars.",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261109205406.htm",
+        "published_utc": "2026-11-10T05:00:41+00:00",
         "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/measuring-laser-nuisan-1.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Prison data analysis finds choosing lowest reoffending risk scores preserves overall accuracy",
-        "summary": "Whether an individual reoffends after their release from prison or is successfully rehabilitated depends on several factors. When assessing the risk of recidivism, all of these are taken into account—both by human experts and by machine learning models. If several equally reliable computational models produce different risk ratings, the lowest value should be used for the individual concerned, suggest Ashwin Singh (TU Wien) and Carlos Castillo (ICREA/Universitat Pompeu Fabra).",
-        "link": "https://phys.org/news/2026-11-prison-analysis-lowest-reoffending-scores.html",
-        "published_utc": "2026-11-10T23:00:04+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hands-through-prison-b.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Sexual violence can hide in plain sight at music festivals, according to new study",
-        "summary": "The pressure to maintain an atmosphere of fun and escapism can make it harder for festival organizations to acknowledge and respond to harm, while frontline workers are left dealing with its consequences, a new study finds.",
-        "link": "https://phys.org/news/2026-11-sexual-violence-plain-sight-music.html",
-        "published_utc": "2026-11-10T22:40:23+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/music-festival.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Swordfish may be using deep dives to navigate the open ocean",
-        "summary": "Swordfish spend much of their time hunting prey about 600 meters (1,970 feet) below the surface in the ocean twilight zone, but occasionally, they reach depths of more than 1,000 meters (3,280 feet). Now, scientists from the Woods Hole Oceanographic Institution (WHOI) are investigating what may be behind these extreme dives.",
-        "link": "https://phys.org/news/2026-11-swordfish-deep-ocean.html",
-        "published_utc": "2026-11-10T22:40:06+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/swordfish-may-be-using.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "AI-generated molecular fingerprints help identify existing compounds with therapeutic potential",
-        "summary": "Health care researchers have long sought to harness the power of computing to design molecules that bind to specific receptors and can be used as targeted treatments for diseases. Even with the increasing sophistication of artificial intelligence, however, this technological promise has yet to be realized.",
-        "link": "https://phys.org/news/2026-11-ai-generated-molecular-fingerprints-compounds.html",
-        "published_utc": "2026-11-10T22:30:01+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/using-ai-to-screen-exi.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Detailed 3D view of babesiosis parasite's ribosome could guide development of targeted treatments",
-        "summary": "A new study has revealed a three-dimensional, near-atomic-resolution view of the ribosome from Babesia divergens, one of several Babesia species known to infect humans and cause babesiosis. The structural insights from this close-up view could help researchers identify parasite-specific features that may be exploited for future drug development.",
-        "link": "https://phys.org/news/2026-11-3d-view-babesiosis-parasite-ribosome.html",
-        "published_utc": "2026-11-10T22:20:12+00:00",
-        "score": 2,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/search-for-babesiosis.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "Germany's Isar Aerospace eyes overtaking Elon Musk's SpaceX",
-        "summary": "The head of Germany's Isar Aerospace voiced hope Tuesday that the company could one day overtake Elon Musk's SpaceX to become the world's premier space launch company.",
-        "link": "https://phys.org/news/2026-11-germany-isar-aerospace-eyes-elon.html",
-        "published_utc": "2026-11-10T22:20:01+00:00",
-        "score": 0,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/isar-launched-a-rocket.jpg"
-      },
-      {
-        "section": "science",
-        "kind": "global",
-        "source": "Phys.org",
-        "title": "By carefully arranging molecules, scientists can control how a material responds to light, heat and physical force",
-        "summary": "University of Missouri researchers have created a single solid material that responds differently depending on what it's exposed to. Shine light on it, and it changes from yellow to white, an indication of a chemical reaction. Heat it, and it undergoes a different chemical reaction. Scratch the surface, and it flashes blue.",
-        "link": "https://phys.org/news/2026-11-molecules-scientists-material-physical.html",
-        "published_utc": "2026-11-10T22:10:06+00:00",
-        "score": 1,
-        "freshness_boost": 3,
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/one-material-three-res.jpg"
+        "freshness_boost": 1,
+        "image": "https://picsum.photos/seed/vb-e1928212fc5e56a3/480/320"
       }
     ],
     "environment": [
@@ -782,14 +697,134 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "HotNews",
-      "title": "Asia Express 2026. Cele două echipe care vor lupta pentru marele premiu Asia Express. Cine sunt finaliștii",
-      "summary": "Echipa formată din Gabi Torje și Alin Alexuc Ciurariu și cea formată din Valerie Lungu și Alex Gîlcă s-au calificat în marea finală a Asia Express Trei echipe au concurat în semifinala difuzată marți seară: Valerie Lungu și Alex Gîlcă, Mirela Vaida și Oana Tomoiagă și Gabi Torje și Alin Alexuc Ciurariu. Prima provocare a &#8230;",
-      "link": "https://hotnews.ro/cele-doua-echipe-care-vor-lupta-pentru-marele-premiu-asia-express-2026-cine-sunt-finalistii-2400810",
-      "published_utc": "2026-11-10T21:48:00+00:00",
+      "source": "Start-Up Romania",
+      "title": "BCR Seed Starter investește 500.000 de euro în Kinderpedia, platformă globală de management și comunicare pentru școli și grădinițe",
+      "summary": "BCR Seed Starter investește 500.000 de euro în Kinderpedia, compania românească care dezvoltă o platformă globală de management și comunicare pentru școli și grădinițe, prezentă deja în peste 40 de...",
+      "link": "https://start-up.ro/bcr-seed-starter-investeste-500-000-de-euro-in-kinderpedia-platforma-globala-de-management-si-comunicare-pentru-scoli-si-gradinite",
+      "published_utc": "2026-11-11T08:33:42+00:00",
       "score": 3,
       "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-fa2ee88aec53d70b/480/320"
+      "image": "https://start-up.ro/img/articles/3/9/3/39343/cover-39343-src.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "Finala Asia Express 2026. Când se anunță câștigătorul marelui premiu. Două echipe se bat pentru trofeu",
+      "summary": "Marea finală Asia Express 2026 va fi difuzată miercuri, 11 noiembrie, la Antena 1. Potrivit programului anunțat de postul de televiziune, ultimul episod al sezonului 9, „Drumul Mătăsii”, va începe la ora 20:30. Echipa formată din Gabi Torje și Alin Alexuc Ciurariu și cea formată din Valerie Lungu și Alex Gîlcă s-au calificat în marea &#8230;",
+      "link": "https://hotnews.ro/finala-asia-express-2026-cand-se-anunta-castigatorul-marelui-premiu-doua-echipe-se-bat-pentru-trofeu-2401049",
+      "published_utc": "2026-11-11T08:33:13+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-c702d084a85329e3/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "RomaniaPozitiva",
+      "title": "Fundația Inimă de Copil aniversează 30 de ani de activitate. Peste 35.000 de copii și membri ai familiilor lor sprijiniți în trei decenii",
+      "summary": "Campania aniversară „30 de ani împreună. Binele continuă” a debutat la Shopping City Galați, printr-o expoziție care aduce în fața publicului poveștile, realizările și oamenii care au făcut posibilă schimbarea a mii de vieți. În urmă cu 30 de ani, la Galați, s-a născut Fundația Inimă de Copil, o organizație care, de-a lungul a trei [&#8230;] Articolul Fundația Inimă de Copil aniversează 30 de ani de activitate. Peste 35.000 de copii și membri ai familiilor lor sprijiniți în trei decenii apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/moldova-bucovina/fundatia-inima-de-copil-aniverseaza-30-de-ani-de-activitate-peste-35-000-de-copii-si-membri-ai-familiilor-lor-sprijiniti-in-trei-decenii",
+      "published_utc": "2026-11-11T07:40:16+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-ad9b21889c8436b9/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Start-Up Romania",
+      "title": "Bogdan Nicoară, cofondator și CEO Bright Spaces: ”funcționăm cu o mentalitate specifică timpurilor de criză”",
+      "summary": "Bogdan Nicoară a cofondat Bright Spaces, o companie care folosește tehnologia pentru vânzările din domeniul imobiliar. Soluția antreprenorului a depășit granițele României, a atras atenția...",
+      "link": "https://start-up.ro/bogdan-nicoara-cofondator-si-ceo-bright-spaces",
+      "published_utc": "2026-11-11T07:31:04+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://start-up.ro/img/articles/3/9/3/39335/cover-39335-src.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Economii și cumpătare",
+      "summary": "The post Economii și cumpătare appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/ovi/economii-si-cumpatare",
+      "published_utc": "2026-11-09T08:54:55+00:00",
+      "score": 3,
+      "freshness_boost": 1,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/11/Economii-si-cumpatare.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "RomaniaPozitiva",
+      "title": "Cum îi ajută JA România pe tineri să își facă mai vizibile competențele pentru angajare prin testarea EmPass",
+      "summary": "Cum pot tinerii să demonstreze că au competențe precum comunicarea, lucrul în echipă, responsabilitatea și rezolvarea problemelor, atunci când aceste abilități nu sunt întotdeauna evidențiate de calificările tradiționale? Această întrebare se află în centrul proiectului EmPass – The Employment Skills Pass, finanțat prin programul Erasmus+ și coordonat de JA Europe. În colaborare cu furnizori de [&#8230;] Articolul Cum îi ajută JA România pe tineri să își facă mai vizibile competențele pentru angajare prin testarea EmPass apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/economie/cum-ii-ajuta-ja-romania-pe-tineri-sa-isi-faca-mai-vizibile-competentele-pentru-angajare-prin-testarea-empass",
+      "published_utc": "2026-11-11T06:42:28+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-55d285ada10a8ccc/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "Un român aduce 5 milioane EUR pentru antreprenorii romi, de la Banca de Dezvoltare a Consiliului Europei",
+      "summary": "Banca de Dezvoltare a Consiliului Europei (CEB) a semnat un împrumut de 5 milioane EUR cu REDI Fund, fondul de investiții creat de rețeaua REDI, fondată de chimistul român Petrică Dulgheru, bani care vor fi transformați în microcredite pentru antreprenori romi și afaceri care angajează romi din România, Republica Moldova, Albania și Kosovo, potrivit unui &#8230;",
+      "link": "https://hotnews.ro/un-roman-aduce-5-milioane-eur-pentru-antreprenorii-romi-de-la-banca-de-dezvoltare-a-consiliului-europei-2400985",
+      "published_utc": "2026-11-11T06:18:51+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-5782ac7e5fd69d31/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Start-Up Romania",
+      "title": "Hola25, platforma unui programator român care vrea să aducă oamenii împreună pentru 25 de minute de învățare",
+      "summary": "Un reportaj despre „Banca timpului” din Italia l-a făcut pe Ionuț-Bogdan Ilie să se gândească la o comunitate în care oamenii își oferă cunoștințe prin conversații gratuite. Așa a apărut Hola25,...",
+      "link": "https://start-up.ro/hola25-platforma-unui-programator-roman-care-vrea-sa-aduca-oamenii-impreuna-pentru-25-de-minute-de-invatare",
+      "published_utc": "2026-11-11T06:00:01+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://start-up.ro/img/articles/3/9/3/39337/cover-39337-src.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Digi24",
+      "title": "Când se plătesc primele burse școlare în 2026. Elevii primesc în noiembrie banii pentru două luni",
+      "summary": "Primele burse din anul școlar 2026-2027 se plătesc vineri, 20 noiembrie 2026. Școlile vor achita într-o singură tranșă drepturile aferente lunilor septembrie și octombrie. Suma pe care o va primi fiecare elev depinde de tipul bursei și de îndeplinirea condițiilor de acordare în fiecare dintre cele două luni.",
+      "link": "https://www.digi24.ro/stiri/actualitate/educatie/cand-se-platesc-primele-burse-scolare-in-2026-elevii-primesc-in-noiembrie-banii-pentru-doua-luni-4029657",
+      "published_utc": "2026-11-11T05:00:07+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMSUyRjEwJTJGMzA1OTg2NV8zMDU5/ODY1X0J1cnNlLXNjb2xhcmUtMjAyNl8t/Rm90by1HZXR0eS1JbWFnZXMuanBnJmhh/c2g9YTQyNGI0NDgwMWI3YzFkNWQ5ODg2N2E0N2QwZjM4Mzc=.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "RomaniaPozitiva",
+      "title": "Regina Maria a inaugurat Centrul de Longevitate Băneasa cu o investiție de peste 1 milion de euro",
+      "summary": "Regina Maria inaugurează Centrul de Longevitate Băneasa, un concept medical care integrează evaluări avansate, testări genetice și protocoale de prevenție, pentru a înțelege cum trăim mai mult și mai bine Rețeaua de Sănătate REGINA MARIA a inaugurat Centrul de Longevitate Băneasa, un spațiu medical realizat în urma unei investiții de peste 1 milion de euro, [&#8230;] Articolul Regina Maria a inaugurat Centrul de Longevitate Băneasa cu o investiție de peste 1 milion de euro apare prima dată în Romania Pozitiva .",
+      "link": "https://www.romaniapozitiva.ro/bucuresti/regina-maria-a-inaugurat-centrul-de-longevitate-baneasa-cu-o-investitie-de-peste-1-mil-euro",
+      "published_utc": "2026-11-10T18:32:53+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-1d1e314bf112cabd/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "Primele hiper-centre de date AI din România. Vor consuma energie cât tot Bucureștiul într-o zi de caniculă, dar permanent, zi și noapte",
+      "summary": "Autoritățile din România discută deja cu investitorii în mari centre de date AI, iar Transelectrica a emis avize tehnice de racordare pentru primele astfel de capacități.&#160; Mari centre AI în România „Ne întâlnim permanent cu consumatorii de energie electrică, inclusiv cu potențiali investitori în centre de date. Dacă anul acesta am suferit din punct de &#8230;",
+      "link": "https://hotnews.ro/primele-hiper-centre-de-date-ai-din-romania-vor-consuma-energie-cat-tot-bucurestiul-intr-o-zi-de-canicula-dar-permanent-zi-si-noapte-2399117",
+      "published_utc": "2026-11-11T04:59:31+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-c373fead3e6bcd29/480/320"
     },
     {
       "section": "romania",
@@ -819,18 +854,6 @@
       "section": "romania",
       "kind": "ro",
       "source": "RomaniaPozitiva",
-      "title": "Regina Maria a inaugurat Centrul de Longevitate Băneasa cu o investiție de peste 1 milion de euro",
-      "summary": "Regina Maria inaugurează Centrul de Longevitate Băneasa, un concept medical care integrează evaluări avansate, testări genetice și protocoale de prevenție, pentru a înțelege cum trăim mai mult și mai bine Rețeaua de Sănătate REGINA MARIA a inaugurat Centrul de Longevitate Băneasa, un spațiu medical realizat în urma unei investiții de peste 1 milion de euro, [&#8230;] Articolul Regina Maria a inaugurat Centrul de Longevitate Băneasa cu o investiție de peste 1 milion de euro apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/bucuresti/regina-maria-a-inaugurat-centrul-de-longevitate-baneasa-cu-o-investitie-de-peste-1-mil-euro",
-      "published_utc": "2026-11-10T18:32:53+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-1d1e314bf112cabd/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "RomaniaPozitiva",
       "title": "Hrana, predată în școli, cercetată de artiști și dezbătută public: programul LA PAS încheie ediția din 2026",
       "summary": "CRIES &#8211; Centrul de Resurse pentru Inițiative Etice &#38; Solidare încheie al doilea an al programului LA PAS / Slowing Down, proiect multianual care propune o cultură a sustenabilității pornind de la hrană. Programul se desfășoară în perioada 2025-2027 și face parte din Programul prioritar cu caracter multianual „Repere în cultură”, finanțat de Municipiul Timișoara [&#8230;] Articolul Hrana, predată în școli, cercetată de artiști și dezbătută public: programul LA PAS încheie ediția din 2026 apare prima dată în Romania Pozitiva .",
       "link": "https://www.romaniapozitiva.ro/coltul-verde/hrana-predata-in-scoli-cercetata-de-artisti-si-dezbatuta-public-programul-la-pas-incheie-editia-din-2026",
@@ -842,50 +865,49 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "RomaniaPozitiva",
-      "title": "UNATC „I.L. Caragiale” îi conferă titlul de Doctor Honoris Causa istoricului de film britanic Ian Christie",
-      "summary": "În perioada 19-22 noiembrie 2026, UNATC “I.L.Caragiale” are onoarea de a-l avea drept invitat pe prestigiosul istoric de film britanic Ian Christie, căruia îi va conferi, cu această ocazie, titlul de Doctor Honoris Causa. Evenimentul va avea loc joi, 19 noiembrie, ora 11:00 în Sala “Ileana Berlogea” din UNATC. Specialist în cinematograful timpuriu internațional, în [&#8230;] Articolul UNATC „I.L. Caragiale” îi conferă titlul de Doctor Honoris Causa istoricului de film britanic Ian Christie apare prima dată în Romania Pozitiva .",
-      "link": "https://www.romaniapozitiva.ro/bucuresti/unatc-i-l-caragiale-ii-confera-titlul-de-doctor-honoris-causa-istoricului-de-film-britanic-ian-christie",
-      "published_utc": "2026-11-10T10:06:12+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://picsum.photos/seed/vb-32d6ec51ddf39184/480/320"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 S-a lansat „Ciolacula”, povestea vampirului care a supt 60 de miliarde din fondul de rezervă",
-      "summary": "Cel mai așteptat blockbuster al anului e aici! Săptămâna asta ajunge în cinematografe un film care are toate șansele să egaleze, dacă nu chiar să depășească succesul lui Dracula. Este vorba despre Ciolacula, povestea unui vampir chiar mai îngrozitor decât Dracula, care suge peste 60 de miliarde de lei din fondul de rezervă al Guvernului. [&#8230;] The post S-a lansat „Ciolacula”, povestea vampirului care a supt 60 de miliarde din fondul de rezervă appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/politic/s-a-lansat-ciolacula-povestea-vampirului-care-a-supt-60-de-miliarde-din-fondul-de-rezerva",
-      "published_utc": "2026-11-10T05:35:00+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/11/ciolacula.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Vești proaste pentru șoferi! S-a ieftinit petrolul, deci va crește prețul benzinei la pompă",
-      "summary": "Cotația petrolului european a trecut prin cea mai mare scădere săptămânală de la începutul pandemiei de coronavirus, de -16% săptămâna&hellip; The post Vești proaste pentru șoferi! S-a ieftinit petrolul, deci va crește prețul benzinei la pompă appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/vesti-proaste-pentru-soferi-s-a-ieftinit-petrolul-deci-va-creste-pretul-benzinei-la-pompa",
-      "published_utc": "2026-11-09T10:39:22+00:00",
+      "title": "😂 Gafă! Ursula se va întâlni cu slugile Nicușor și Luca Niculescu, nu cu șeful lor, Grindeanu",
+      "summary": "Nu știe unde vine! Ursula von der Leyen pare extrem de buimacă, dacă e să ne luăm după programul de întâlniri pe care și le-a programat la București. Șefa Comisiei Europene vine azi în România și ar urma să se întâlnească doar cu Nicușor Dan și Luca Niculescu. În teorie sună bine pentru Ursula, că [&#8230;] The post Gafă! Ursula se va întâlni cu slugile Nicușor și Luca Niculescu, nu cu șeful lor, Grindeanu appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/politic/gafa-ursula-se-va-intalni-cu-slugile-nicusor-si-luca-niculescu-nu-cu-seful-lor-grindeanu",
+      "published_utc": "2026-11-09T07:01:09+00:00",
       "score": 3,
       "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/11/benzina_la_pompa_femeie.jpg"
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/11/nicusor_ursula_grindeanu.jpg"
     },
     {
       "section": "romania",
       "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 Uită de via ferrata! La Vaslui s-a deschis cel mai spectaculos traseu de via fermentata",
-      "summary": "Județul Vaslui intră oficial pe harta turismului de aventură, după inaugurarea primului traseu de via fermentata din lume. Inspirat de&hellip; The post Uită de via ferrata! La Vaslui s-a deschis cel mai spectaculos traseu de via fermentata appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/monden/uita-de-via-ferrata-la-vaslui-s-a-deschis-cel-mai-spectaculos-traseu-de-via-fermentata",
-      "published_utc": "2026-11-10T10:42:34+00:00",
+      "title": "😂 Tragedie în Italia! Un moș bogat a murit cu câteva ore înainte să se căsătorească cu o româncă de 25 de ani",
+      "summary": "Potrivit apropiaților, cei doi se cunoșteau de aproximativ un an și stabiliseră data nunții pentru începutul acestei luni. Decesul bărbatului,&hellip; The post Tragedie în Italia! Un moș bogat a murit cu câteva ore înainte să se căsătorească cu o româncă de 25 de ani appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/monden/tragedie-in-italia-un-mos-bogat-a-murit-cu-cateva-ore-inainte-sa-se-casatoreasca-cu-o-romanca-de-25-de-ani",
+      "published_utc": "2026-11-08T15:20:42+00:00",
       "score": 3,
+      "freshness_boost": 1,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/11/mos-italian-cu-bani.jpg"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 November 11 – NGC 4449: Small Galaxy, Big Impact",
+      "summary": "APOD Science APOD APOD: 2026 November 11 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. NGC 4449: [&#8230;]",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact",
+      "published_utc": "2026-11-11T05:05:00+00:00",
+      "score": 2,
       "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/11/via_fermentata_vaslui.jpg"
+      "image": "https://picsum.photos/seed/vb-f6de85f3f2418e5e/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "HotNews",
+      "title": "Tudor Giurgiu: „Regula principală este că nu există reguli” – ce a învățat din povestea Netflix și de ce nu există rețete de succes",
+      "summary": "Regizorul și producătorul Tudor Giurgiu spune că una dintre cele mai importante lecții de leadership pe care le-a învățat este că o organizație nu se poate schimba fără transparență, asumarea greșelilor și disponibilitatea de a asculta oamenii. Vorbind despre experiența sa de la Televiziunea Română, pe care o descrie drept un mediu dominat de resemnare &#8230;",
+      "link": "https://hotnews.ro/tudor-giurgiu-regula-principala-este-ca-nu-exista-reguli-ce-a-invatat-din-povestea-netflix-si-de-ce-nu-exista-retete-de-succes-2400063",
+      "published_utc": "2026-11-11T07:05:00+00:00",
+      "score": 2,
+      "image": "https://picsum.photos/seed/vb-1fcbab1d84e88b03/480/320"
     },
     {
       "section": "romania",
@@ -898,6 +920,18 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-28cabb695fa1cc45/480/320"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "New study shows COVID value-added tax cut significantly boosted private consumption",
+      "summary": "In summer 2020, the German federal government lowered value-added tax from 19% to 16% for half a year as part of its COVID economic stimulus package. A new study, recently published in the journal Review of Economic Studies, uses survey data, data on retail purchases and an economic model to show the extent to which this measure influenced private consumption. The study found that lower-wealth households, as well as younger and middle-aged households, particularly benefited, regardless of their level of financial literacy.",
+      "link": "https://phys.org/news/2026-11-covid-added-tax-significantly-boosted.html",
+      "published_utc": "2026-11-11T03:20:05+00:00",
+      "score": 1,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/retail.jpg"
     },
     {
       "section": "romania",
@@ -924,6 +958,18 @@
       "image": "https://picsum.photos/seed/vb-c4681b6f0a0f5193/480/320"
     },
     {
+      "section": "science",
+      "kind": "global",
+      "source": "ScienceDaily Science",
+      "title": "Scientists discover why some mosquitoes love you and others don't",
+      "summary": "A surprising new study reveals that mosquitoes have very different tastes in humans, with each species attracted to its own combination of skin odors, chemicals, and bacteria. The discovery challenges the idea of a universal mosquito magnet and could lead to more effective repellents against dangerous disease-spreading mosquitoes.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261106174541.htm",
+      "published_utc": "2026-11-11T02:21:13+00:00",
+      "score": 5,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-8d5c279115392793/480/320"
+    },
+    {
       "section": "romania",
       "kind": "ro",
       "source": "Fundatia Inocenti",
@@ -946,6 +992,18 @@
       "score": 3,
       "freshness_boost": 0,
       "image": "https://picsum.photos/seed/vb-f37fbfdbb6cbfa1a/480/320"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "Phys.org",
+      "title": "Coyotes are likely a permanent fixture on the Outer Banks of North Carolina",
+      "summary": "A new study reveals that coyote populations on the Outer Banks persist despite ongoing removal programs, posing a continued threat to shore-nesting birds and protected sea turtles. The study is the first in-depth assessment of coyote populations on barrier islands and has ramifications for understanding how coyotes may impact these and other barrier island ecosystems.",
+      "link": "https://phys.org/news/2026-11-coyotes-permanent-fixture-outer-banks.html",
+      "published_utc": "2026-11-11T02:20:01+00:00",
+      "score": 0,
+      "freshness_boost": 3,
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/coyotes-are-likely-a-p.jpg"
     },
     {
       "section": "romania",
@@ -974,26 +1032,14 @@
     {
       "section": "science",
       "kind": "global",
-      "source": "Phys.org",
-      "title": "Mental health app may help unemployed people find jobs, six-week trial suggests",
-      "summary": "Losing a job can be a life-shattering experience. And when depression complicates a job search, unemployment can become a vicious cycle. Now, a Northwestern University–led clinical trial suggests a new intervention may break that cycle: a phone app, named DRIVEN, that combines weekly self-guided mental health exercises (to reduce stress and increase motivation) with job-seeking strategies.",
-      "link": "https://phys.org/news/2026-11-mental-health-app-unemployed-people.html",
-      "published_utc": "2026-11-11T01:40:01+00:00",
+      "source": "ScienceDaily Science",
+      "title": "Scientists discover a giant 66-pound rodent that lived 34 million years ago",
+      "summary": "Scientists have uncovered fossils of a giant rodent that lived in Thailand 34 million years ago, revealing that enormous rodents evolved much earlier than previously thought. Named Yakamys sirindhornae, the ancient animal may have weighed around 66 pounds, roughly twice as much as other known rodents of its time.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261110042532.htm",
+      "published_utc": "2026-11-11T01:36:04+00:00",
       "score": 2,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mental-health-app-help.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "A new tool makes biodiversity conservation planning more efficient and reproducible",
-      "summary": "ZonationR is a new tool that simplifies the use of Zonation to identify priority areas for biodiversity conservation. It brings all stages of the conservation planning analysis together in one automated and reproducible workflow and helps users systematically explore and compare alternative conservation scenarios.",
-      "link": "https://phys.org/news/2026-11-tool-biodiversity-efficient.html",
-      "published_utc": "2026-11-11T01:20:07+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-tool-makes-biodive.jpg"
+      "image": "https://picsum.photos/seed/vb-98ce0aa7ed27dae2/480/320"
     },
     {
       "section": "medical",
@@ -1010,74 +1056,14 @@
     {
       "section": "science",
       "kind": "global",
-      "source": "Phys.org",
-      "title": "Genetic ancestry plays a key role in the migration of Cory's shearwaters",
-      "summary": "To what extent do genes influence the migratory routes of birds? The factors that determine the long-distance migrations of seabirds are not yet fully understood. Now, a study published in the journal Molecular Ecology reveals that, in the case of Cory's shearwater, an individual's genetic ancestry is a more significant factor in their migratory decisions than their social environment in the breeding colony.",
-      "link": "https://phys.org/news/2026-11-genetic-ancestry-plays-key-role.html",
-      "published_utc": "2026-11-11T01:00:01+00:00",
-      "score": 1,
+      "source": "ScienceDaily Science",
+      "title": "237-million-year-old fossils reveal a bizarre armored sea amphibian",
+      "summary": "A bizarre, heavily armored amphibian roamed the oceans 237 million years ago, despite the fact that modern amphibians cannot survive entirely in saltwater. Discovered in China, the giant salamander-sized creature may be the first known amphibian to have adapted to a fully marine existence.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261109205409.htm",
+      "published_utc": "2026-11-11T00:59:32+00:00",
+      "score": 2,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/genes-play-a-key-role.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Earliest known compact quasar pair poses a black hole growth puzzle",
-      "summary": "The oldest pair of compact quasars ever observed has been found only 900 million years after the Big Bang. Scientists say there is no theoretical explanation for how the pair of actively feeding black holes grew so massive at such an early time in the history of the universe. The pair of quasars has been given the Hawaiian nickname Nāpōwawāʻenakaulua.",
-      "link": "https://phys.org/news/2026-11-earliest-compact-quasar-pair-poses.html",
-      "published_utc": "2026-11-11T00:50:02+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/astronomers-discover-n.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "New organic iron-sulfur framework boosts photosynthesis and carbon fixation",
-      "summary": "Iron-sulfur clusters are ancient protein cofactors that are essential for electron transport, enzyme catalysis and photosynthesis. However, their sensitivity to oxygen and inherent instability have long hindered their practical application.",
-      "link": "https://phys.org/news/2026-11-iron-sulfur-framework-boosts-photosynthesis.html",
-      "published_utc": "2026-11-11T00:40:06+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-organic-iron-sulfu.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "How ripples in space-time can reveal new exoplanets",
-      "summary": "The LISA (Laser Interferometer Space Antenna) observatory, now in development, will detect gravitational waves, the tiny ripples in space-time caused by orbiting masses. Now two studies led by NASA astrophysicists show in new detail how LISA could reveal a new and unique population of exoplanets—worlds beyond our solar system—throughout our galaxy.",
-      "link": "https://phys.org/news/2026-11-ripples-space-reveal-exoplanets.html",
-      "published_utc": "2026-11-11T00:40:01+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/nasa-scientists-show-h.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "European eels transmit a herpesvirus through bites, revealing another route for fish infections",
-      "summary": "Contrary to what was previously believed, viruses infecting fish are not transmitted exclusively through water acting as an abiotic vector. A team of researchers from the University of Liège has demonstrated that a virus affecting European eels can spread very efficiently through biting during aggressive interactions between individuals.",
-      "link": "https://phys.org/news/2026-11-european-eels-transmit-herpesvirus-revealing.html",
-      "published_utc": "2026-11-11T00:30:01+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/european-eels-transmit.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Where AI can aid chemistry research and where reliability falls short",
-      "summary": "Researchers from the Skoltech AI Center, together with colleagues from the Zelinsky Institute of Organic Chemistry of the Russian Academy of Sciences, ITMO University and other institutions, have published a paper in Chemical Society Reviews that examines where AI produces measurable value in a chemical research workflow, how to assess its reliability and why a strong benchmark result does not necessarily translate into laboratory performance.",
-      "link": "https://phys.org/news/2026-11-ai-aid-chemistry-reliability-falls.html",
-      "published_utc": "2026-11-11T00:20:08+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-from-skolt.jpg"
+      "image": "https://picsum.photos/seed/vb-d8a036a989307398/480/320"
     },
     {
       "section": "medical",
@@ -1092,42 +1078,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/woman-smoking-weed.jpg"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Repurposing the internet's backbone to advance whale monitoring",
-      "summary": "Bioacoustics researcher Léa Bouffaut, at the Cornell K. Lisa Yang Center for Conservation Bioacoustics, has spent the past several years eavesdropping on the conversations of whales. But instead of using underwater microphones like other marine scientists, she listens by tapping into fiber-optic cables lying on the ocean floor—a powerful tool to aid in marine mammal conservation.",
-      "link": "https://phys.org/news/2026-11-repurposing-internet-backbone-advance-whale.html",
-      "published_utc": "2026-11-11T00:20:02+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-bowhead-whale-in-sva.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Rerouting ships to avoid killing whale sharks has little cost, study finds",
-      "summary": "Redirecting shipping traffic to avoid collisions with whale sharks has very little impact on fuel use, according to new research led by the University of Southampton published in Royal Society Open Science.",
-      "link": "https://phys.org/news/2026-11-rerouting-ships-whale-sharks.html",
-      "published_utc": "2026-11-11T00:10:11+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rerouting-ships-to-avo-1.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Ancient rocks reveal when Earth's tectonic engine 'switched on'",
-      "summary": "Scientists have identified a major turning point in Earth's geological history, when the processes shaping the planet's crust changed dramatically and began to resemble the plate tectonics we see today—about 2.5 billion years ago.",
-      "link": "https://phys.org/news/2026-11-ancient-reveal-earth-tectonic.html",
-      "published_utc": "2026-11-11T00:10:08+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ancient-rocks-reveal-w.jpg"
-    },
-    {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
@@ -1138,18 +1088,6 @@
       "score": 1,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/going-to-the-park-at-l.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "High-achieving disadvantaged students are far less likely to take and pass entrance exams for selective schools",
-      "summary": "Disadvantaged students are less likely than their more advantaged peers with similar attainment to take and pass entrance exams for selective schools, and introducing an opt-out system for the tests would only deliver a small boost.",
-      "link": "https://phys.org/news/2026-11-high-disadvantaged-students-entrance-exams.html",
-      "published_utc": "2026-11-11T00:10:02+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/grammar-school.jpg"
     },
     {
       "section": "medical",
@@ -1166,26 +1104,14 @@
     {
       "section": "science",
       "kind": "global",
-      "source": "Phys.org",
-      "title": "Scientists anchor first scientific animal name to a modern-day spider",
-      "summary": "Scientists led by the Smithsonian's National Museum of Natural History have restored the physical reference of one of the most historically significant names in biology. In a paper published in Taxonomy, researchers designated a new type specimen, or neotype, for Araneus angulatus, the first animal species described using binomial nomenclature, the two-part naming system that scientists use today to identify and classify living organisms. The designation reconnects the name to a physical specimen decades after the original name-bearing spiders disappeared.",
-      "link": "https://phys.org/news/2026-11-scientists-anchor-scientific-animal-modern.html",
-      "published_utc": "2026-11-10T23:50:01+00:00",
-      "score": 1,
+      "source": "ScienceDaily Science",
+      "title": "Astronomers discover hidden alien planet in James Webb images",
+      "summary": "A breakthrough in telescope imaging could reveal countless alien worlds that have been hiding in plain sight. Scientists developed a new technique that uses a digital twin of the James Webb Space Telescope to remove the overwhelming glare of stars, making faint exoplanets two to 15 times easier to detect than with conventional methods. The technology has already uncovered a previously hidden planet in existing telescope data and could reveal many more.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261108233028.htm",
+      "published_utc": "2026-11-10T23:56:04+00:00",
+      "score": 4,
       "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/smithsonian-led-scient.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Gamma radiation transforms brittle bioplastic into 'superstructure' hydrogel",
-      "summary": "Biomaterials engineers have created a \"superstructure\" hydrogel that could be an eco-friendly tool used in medical technologies and as a recovery aid for surgical procedures. The research is published in the journal Macromolecular Rapid Communications.",
-      "link": "https://phys.org/news/2026-11-gamma-brittle-bioplastic-superstructure-hydrogel.html",
-      "published_utc": "2026-11-10T23:40:01+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-transform-4.jpg"
+      "image": "https://picsum.photos/seed/vb-f57cd96aca75e2be/480/320"
     },
     {
       "section": "medical",
@@ -1224,30 +1150,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/food-shopping-1.jpg"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "The psychology of saving electricity: How comparisons can curb consumption",
-      "summary": "Simple psychological interventions are often enough to encourage people to change their behavior—and this is also true when it comes to saving electricity. A new study by Mannheim-based consumer psychologist Dr. Yavor Paunov and colleagues shows that comparing one's own electricity consumption with that of others as well as practical energy-saving tips can help reduce energy consumption.",
-      "link": "https://phys.org/news/2026-11-psychology-electricity-comparisons-curb-consumption.html",
-      "published_utc": "2026-11-10T23:20:08+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/household-electricity.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Microscopy upgrade sharpens images fivefold without sacrificing tissue imaging depth",
-      "summary": "Researchers at Texas A&amp;M University have cracked a problem that has limited biological imaging for years: seeing fine cellular detail while looking deep inside living tissue. The new microscopy technique resolves structures smaller than 100 nanometers, roughly a thousand times thinner than a human hair, without giving up the ability to image deep into intact samples.",
-      "link": "https://phys.org/news/2026-11-microscopy-sharpens-images-fivefold-sacrificing.html",
-      "published_utc": "2026-11-10T23:20:06+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-microscopy-techniq-5.jpg"
-    },
-    {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
@@ -1258,18 +1160,6 @@
       "score": 1,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/three-layer-model-maps.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Water molecules turn out to be secret messengers for magnetism",
-      "summary": "Water is not usually thought of as a magnetic material. But a new study led by researchers at Tohoku University's Institute of Multidisciplinary Research for Advanced Materials, in collaboration with National Taipei University of Technology (Taipei Tech), has found that tiny shifts in the orientation of water molecules can flip on magnetic partnerships between metal ions that are not even directly bonded to each other.",
-      "link": "https://phys.org/news/2026-11-molecules-secret-messengers-magnetism.html",
-      "published_utc": "2026-11-10T23:10:01+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/water-molecules-turn-o-1.jpg"
     },
     {
       "section": "medical",
@@ -1284,30 +1174,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-does-cancer-rarely.jpg"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Harnessing laser nuisance achieves record resolution for atomic measurements",
-      "summary": "A shoebox-sized color detection device could enable precise measurements at record resolution, according to new research led by Adelaide University. An international team exploited an integrating sphere—a highly reflective hollow cavity that causes light to bounce around inside many times before exiting—to demonstrate a device that can measure the color (wavelength) composition of light with extreme precision at a resolution of just 6 femtometers.",
-      "link": "https://phys.org/news/2026-11-harnessing-laser-nuisance-resolution-atomic.html",
-      "published_utc": "2026-11-10T23:00:07+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/measuring-laser-nuisan-1.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Prison data analysis finds choosing lowest reoffending risk scores preserves overall accuracy",
-      "summary": "Whether an individual reoffends after their release from prison or is successfully rehabilitated depends on several factors. When assessing the risk of recidivism, all of these are taken into account—both by human experts and by machine learning models. If several equally reliable computational models produce different risk ratings, the lowest value should be used for the individual concerned, suggest Ashwin Singh (TU Wien) and Carlos Castillo (ICREA/Universitat Pompeu Fabra).",
-      "link": "https://phys.org/news/2026-11-prison-analysis-lowest-reoffending-scores.html",
-      "published_utc": "2026-11-10T23:00:04+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hands-through-prison-b.jpg"
-    },
-    {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
@@ -1318,18 +1184,6 @@
       "score": 3,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/gout.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Sexual violence can hide in plain sight at music festivals, according to new study",
-      "summary": "The pressure to maintain an atmosphere of fun and escapism can make it harder for festival organizations to acknowledge and respond to harm, while frontline workers are left dealing with its consequences, a new study finds.",
-      "link": "https://phys.org/news/2026-11-sexual-violence-plain-sight-music.html",
-      "published_utc": "2026-11-10T22:40:23+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/music-festival.jpg"
     },
     {
       "section": "medical",
@@ -1344,18 +1198,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-biomarker-improves.jpg"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Swordfish may be using deep dives to navigate the open ocean",
-      "summary": "Swordfish spend much of their time hunting prey about 600 meters (1,970 feet) below the surface in the ocean twilight zone, but occasionally, they reach depths of more than 1,000 meters (3,280 feet). Now, scientists from the Woods Hole Oceanographic Institution (WHOI) are investigating what may be behind these extreme dives.",
-      "link": "https://phys.org/news/2026-11-swordfish-deep-ocean.html",
-      "published_utc": "2026-11-10T22:40:06+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/swordfish-may-be-using.jpg"
-    },
-    {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
@@ -1366,18 +1208,6 @@
       "score": 1,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2018/1-lungs.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "AI-generated molecular fingerprints help identify existing compounds with therapeutic potential",
-      "summary": "Health care researchers have long sought to harness the power of computing to design molecules that bind to specific receptors and can be used as targeted treatments for diseases. Even with the increasing sophistication of artificial intelligence, however, this technological promise has yet to be realized.",
-      "link": "https://phys.org/news/2026-11-ai-generated-molecular-fingerprints-compounds.html",
-      "published_utc": "2026-11-10T22:30:01+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/using-ai-to-screen-exi.jpg"
     },
     {
       "section": "medical",
@@ -1392,18 +1222,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/long-covid.jpg"
     },
     {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Detailed 3D view of babesiosis parasite's ribosome could guide development of targeted treatments",
-      "summary": "A new study has revealed a three-dimensional, near-atomic-resolution view of the ribosome from Babesia divergens, one of several Babesia species known to infect humans and cause babesiosis. The structural insights from this close-up view could help researchers identify parasite-specific features that may be exploited for future drug development.",
-      "link": "https://phys.org/news/2026-11-3d-view-babesiosis-parasite-ribosome.html",
-      "published_utc": "2026-11-10T22:20:12+00:00",
-      "score": 2,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/search-for-babesiosis.jpg"
-    },
-    {
       "section": "medical",
       "kind": "global",
       "source": "Medical Xpress",
@@ -1414,30 +1232,6 @@
       "score": 2,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/prostate-cancer-drug-c.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "Germany's Isar Aerospace eyes overtaking Elon Musk's SpaceX",
-      "summary": "The head of Germany's Isar Aerospace voiced hope Tuesday that the company could one day overtake Elon Musk's SpaceX to become the world's premier space launch company.",
-      "link": "https://phys.org/news/2026-11-germany-isar-aerospace-eyes-elon.html",
-      "published_utc": "2026-11-10T22:20:01+00:00",
-      "score": 0,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/isar-launched-a-rocket.jpg"
-    },
-    {
-      "section": "science",
-      "kind": "global",
-      "source": "Phys.org",
-      "title": "By carefully arranging molecules, scientists can control how a material responds to light, heat and physical force",
-      "summary": "University of Missouri researchers have created a single solid material that responds differently depending on what it's exposed to. Shine light on it, and it changes from yellow to white, an indication of a chemical reaction. Heat it, and it undergoes a different chemical reaction. Scratch the surface, and it flashes blue.",
-      "link": "https://phys.org/news/2026-11-molecules-scientists-material-physical.html",
-      "published_utc": "2026-11-10T22:10:06+00:00",
-      "score": 1,
-      "freshness_boost": 3,
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/one-material-three-res.jpg"
     },
     {
       "section": "environment",
@@ -1512,6 +1306,42 @@
       "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/10161314/AP26314413945260-768x512.jpg"
     },
     {
+      "section": "science",
+      "kind": "global",
+      "source": "ScienceDaily Science",
+      "title": "A mysterious 93-billion-mile cosmic structure may be the wreckage of colliding worlds",
+      "summary": "NASA's Hubble Space Telescope has revealed surprising new details about a mysterious, 93-billion-mile-long cloud of dark, fluffy dust that may have formed when massive planetary bodies collided. The discovery challenges previous assumptions about the structure and offers new clues about the violent birth of planetary systems.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261105224555.htm",
+      "published_utc": "2026-11-10T12:30:09+00:00",
+      "score": 4,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-beee3d5b4881469d/480/320"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "ScienceDaily Science",
+      "title": "Paleontologists discover “one-in-a-million” fossil with 450-million-year-old soft tissue",
+      "summary": "Scientists have discovered a remarkably preserved 450-million-year-old fossil containing soft tissues from an ancient starfish relative, revealing unexpected details about marine life more than 200 million years before dinosaurs existed. Found in a museum collection, the extraordinarily rare specimen offers new clues about how Earth's earliest reef animals fed, survived, and evolved.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261105085201.htm",
+      "published_utc": "2026-11-10T12:16:08+00:00",
+      "score": 2,
+      "freshness_boost": 3,
+      "image": "https://picsum.photos/seed/vb-2989506653f9deee/480/320"
+    },
+    {
+      "section": "science",
+      "kind": "global",
+      "source": "ScienceDaily Science",
+      "title": "NASA’s CHAPEA Mars crew finally emerges after more than a year in isolation",
+      "summary": "After more than a year of simulated life on Mars, four NASA volunteers have finally emerged from isolation, bringing a remarkable space exploration experiment to an end. Their experiences growing food, conserving resources, and overcoming Mars-like challenges could help NASA prepare for humanity's future on the Moon and Mars.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261109205406.htm",
+      "published_utc": "2026-11-10T05:00:41+00:00",
+      "score": 0,
+      "freshness_boost": 1,
+      "image": "https://picsum.photos/seed/vb-e1928212fc5e56a3/480/320"
+    },
+    {
       "section": "environment",
       "kind": "global",
       "source": "ScienceDaily Environment",
@@ -1550,12 +1380,12 @@
   ],
   "joke_ro": {
     "date_utc": "2026-11-11",
-    "text": "Azi n-am procrastinat deloc. Am amanat direct toata ziua.",
+    "text": "Ce hobby ai? - Sa fac liste pe care nu le respect artistic.",
     "source": "data/jokes_ro.txt"
   },
   "satire_ro": {
-    "title": "Sute de pesediști își verifică amantele, să se asigure că nu sunt spioane",
-    "link": "https://www.timesnewroman.ro/politic/sute-de-pesedisti-isi-verifica-amantele-sa-se-asigure-ca-nu-sunt-spioane/",
+    "title": "La Sala Palatului s-a turnat o scenă de beton, ca să reziste când urcă Horia Brenciu pe ea",
+    "link": "https://www.timesnewroman.ro/monden/la-sala-palatului-s-a-turnat-o-scena-de-beton-ca-sa-reziste-cand-urca-horia-brenciu-pe-ea/",
     "source": "timesnewroman.ro"
   },
   "top_images": [
@@ -1640,6 +1470,7 @@
       "https://live.staticflickr.com/65535/55628098326_781de9b635_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/65535/14259069580_abbf0fc401_b.jpg",
       "https://live.staticflickr.com/65535/55634861097_6e19734742_b.jpg",
       "https://live.staticflickr.com/4494/37117188344_a2ce5893e7_b.jpg",
       "https://live.staticflickr.com/3930/15390148986_30d9ac917d_b.jpg",
@@ -1656,10 +1487,10 @@
       "https://live.staticflickr.com/3955/33205638191_a6b9c0c913_b.jpg",
       "https://live.staticflickr.com/65535/16671413719_7b3c21927c_b.jpg",
       "https://live.staticflickr.com/65535/26186329399_bb0d940386_b.jpg",
-      "https://live.staticflickr.com/65535/15390139696_809f927117_b.jpg",
-      "https://live.staticflickr.com/4312/35299170294_4d4421869e_b.jpg"
+      "https://live.staticflickr.com/65535/15390139696_809f927117_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55646608750_a9f5984933_b.jpg",
       "https://live.staticflickr.com/65535/55645650486_0a0ed1cba0_b.jpg",
       "https://live.staticflickr.com/65535/55645593544_c7a0f460e8_z.jpg",
       "https://live.staticflickr.com/65535/55643825132_76e14cfaf0_b.jpg",
@@ -1676,12 +1507,11 @@
       "https://live.staticflickr.com/65535/55604482441_535d9cd754_b.jpg",
       "https://live.staticflickr.com/65535/55638313391_1718eb2c4a_b.jpg",
       "https://live.staticflickr.com/65535/55637737996_234d8918bd_b.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/3/3f/NYC_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg",
-      "https://live.staticflickr.com/65535/55635930212_af048b4fa7_b.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/3/3f/NYC_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
+      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
