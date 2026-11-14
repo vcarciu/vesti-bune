@@ -1,7 +1,19 @@
 {
-  "generated_utc": "2026-11-14T00:01:35+00:00",
+  "generated_utc": "2026-11-14T05:23:35+00:00",
   "sections": {
     "romania": [
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Digi24",
+        "title": "Dependența de telefon, „boala” secolului. Românii petrec aproape trei luni din an pe internet. Avertismentul experților",
+        "summary": "Pierdem aproape trei luni din an navigând pe internet, arată datele unui studiu ANCOM. Cel mai rău la acest capitol stau tinerii, unde dependența de tehnologie e evidentă. Aceștia petrec chiar și peste cinci ore pe zi pe aplicații pentru comunicare, divertisment sau informare. Specialiștii vorbesc despre riscuri atât în cazul adulților, cât și al copiilor, de la lipsa de atenție, până la capacitate scăzută de concentrare și probleme cu somnul.",
+        "link": "https://www.digi24.ro/stiri/actualitate/social/dependenta-de-telefon-boala-secolului-romanii-petrec-aproape-trei-luni-din-an-pe-internet-avertismentul-expertilor-4035721",
+        "published_utc": "2026-11-14T05:00:26+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMSUyRjEzJTJGMzA2ODI0MF8zMDY4/MjQwX0dldHR5SW1hZ2VzLTE3Mzg1ODk5/MTMuanBnJmhhc2g9N2MxOWE5ZGJmOWU1YzdmZTNmZWEyNTEzMDBhZWQyNzU=.jpg"
+      },
       {
         "section": "romania",
         "kind": "ro",
@@ -78,6 +90,18 @@
         "section": "romania",
         "kind": "ro",
         "source": "Times New Roman (Satira)",
+        "title": "😂 Aparențe",
+        "summary": "The post Aparențe appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/ovi/aparente",
+        "published_utc": "2026-11-13T08:50:57+00:00",
+        "score": 3,
+        "freshness_boost": 3,
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/11/Aparente.jpg"
+      },
+      {
+        "section": "romania",
+        "kind": "ro",
+        "source": "Times New Roman (Satira)",
         "title": "😂 Odios! O româncă și-a ales ziua de naștere fix în ziua de salariu a soțului!",
         "summary": "Nesimțire mare de tot în zona Lujerului, unde un bărbat, Marian Coltea, acuză că nevastă-sa și-a ales ziua de naștere fix pe 13, când el încasează salariul. El acuză un comportament neloial, de mahala, făcut cu bună-știință, și se plânge că ziua lui e pe 30, iar nevastă-sa ia salariul pe 4 ale lunii, ceea [&#8230;] The post Odios! O româncă și-a ales ziua de naștere fix în ziua de salariu a soțului! appeared first on Times New Roman .",
         "link": "https://www.timesnewroman.ro/life-death/odios-o-romanca-si-a-ales-ziua-de-nastere-fix-in-ziua-de-salariu-a-sotului",
@@ -90,25 +114,13 @@
         "section": "romania",
         "kind": "ro",
         "source": "Times New Roman (Satira)",
-        "title": "😂 Diana Șoșoacă acuză că a rămas fără tone de piftie în urma unui atac cibernetic care i-a dezghețat frigiderul",
-        "summary": "Europarlamentarul român Diana Șoșoacă acuză că a fost victima unui atac de tip malware care i-a dezghețat congelatorul și i-a&hellip; The post Diana Șoșoacă acuză că a rămas fără tone de piftie în urma unui atac cibernetic care i-a dezghețat frigiderul appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/it-stiinta/diana-sosoaca-acuza-ca-a-ramas-fara-tone-de-piftie-in-urma-unui-atac-cibernetic-care-i-a-dezghetat-frigiderul",
-        "published_utc": "2026-11-13T06:37:41+00:00",
-        "score": 3,
-        "freshness_boost": 3,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/11/sosoaca_piftie.jpg"
-      },
-      {
-        "section": "romania",
-        "kind": "ro",
-        "source": "Times New Roman (Satira)",
-        "title": "😂 Radu Banciu a jignit grav un prost care i-a apărut într-o oglindă",
-        "summary": "Radu Banciu și-a început ziua în forță. La scurt timp după ce s-a trezit a mers la baie și, buimac&hellip; The post Radu Banciu a jignit grav un prost care i-a apărut într-o oglindă appeared first on Times New Roman .",
-        "link": "https://www.timesnewroman.ro/monden/radu-banciu-a-jignit-grav-un-prost-care-i-a-aparut-intr-o-oglinda",
-        "published_utc": "2026-11-12T09:24:37+00:00",
+        "title": "😂 Dat afară de Becali, Meme Stoica și-a găsit deja alt cioban: va mulge oi la o stână din Jina",
+        "summary": "Meme Stoica s-a mișcat foarte rapid după ce a fost dat afară de la FCSB de către Gigi Becali. A&hellip; The post Dat afară de Becali, Meme Stoica și-a găsit deja alt cioban: va mulge oi la o stână din Jina appeared first on Times New Roman .",
+        "link": "https://www.timesnewroman.ro/sport/dat-afara-de-becali-meme-stoica-si-a-gasi-deja-alt-cioban-va-mulge-oi-la-o-stana-din-jina",
+        "published_utc": "2026-11-12T14:18:39+00:00",
         "score": 3,
         "freshness_boost": 1,
-        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/11/radu_banciu_oglinda.jpg"
+        "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/11/meme_stoica_muls_oi.jpg"
       },
       {
         "section": "romania",
@@ -782,6 +794,30 @@
     {
       "section": "romania",
       "kind": "ro",
+      "source": "Digi24",
+      "title": "Dependența de telefon, „boala” secolului. Românii petrec aproape trei luni din an pe internet. Avertismentul experților",
+      "summary": "Pierdem aproape trei luni din an navigând pe internet, arată datele unui studiu ANCOM. Cel mai rău la acest capitol stau tinerii, unde dependența de tehnologie e evidentă. Aceștia petrec chiar și peste cinci ore pe zi pe aplicații pentru comunicare, divertisment sau informare. Specialiștii vorbesc despre riscuri atât în cazul adulților, cât și al copiilor, de la lipsa de atenție, până la capacitate scăzută de concentrare și probleme cu somnul.",
+      "link": "https://www.digi24.ro/stiri/actualitate/social/dependenta-de-telefon-boala-secolului-romanii-petrec-aproape-trei-luni-din-an-pe-internet-avertismentul-expertilor-4035721",
+      "published_utc": "2026-11-14T05:00:26+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMSUyRjEzJTJGMzA2ODI0MF8zMDY4/MjQwX0dldHR5SW1hZ2VzLTE3Mzg1ODk5/MTMuanBnJmhhc2g9N2MxOWE5ZGJmOWU1YzdmZTNmZWEyNTEzMDBhZWQyNzU=.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Odios! O româncă și-a ales ziua de naștere fix în ziua de salariu a soțului!",
+      "summary": "Nesimțire mare de tot în zona Lujerului, unde un bărbat, Marian Coltea, acuză că nevastă-sa și-a ales ziua de naștere fix pe 13, când el încasează salariul. El acuză un comportament neloial, de mahala, făcut cu bună-știință, și se plânge că ziua lui e pe 30, iar nevastă-sa ia salariul pe 4 ale lunii, ceea [&#8230;] The post Odios! O româncă și-a ales ziua de naștere fix în ziua de salariu a soțului! appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/life-death/odios-o-romanca-si-a-ales-ziua-de-nastere-fix-in-ziua-de-salariu-a-sotului",
+      "published_utc": "2026-11-13T06:55:15+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2020/07/mioara_pariuri_invers.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "SwordS Festival revine cu două seri dedicate întâlnirii dintre spoken word, muzică și performance",
       "summary": "Cea de-a treia ediție SwordS – Spoken Word Festival are loc între 14-15 noiembrie, la București SwordS – Spoken Word Festival revine la Control Club, între 14 -15 noiembrie, cu două seri dedicate expresiei artistice contemporane și dialogului dintre literatură și alte forme de artă. Cea de-a treia ediție aduce împreună poeți, muzicieni, actori și [&#8230;] Articolul SwordS Festival revine cu două seri dedicate întâlnirii dintre spoken word, muzică și performance apare prima dată în Romania Pozitiva .",
@@ -790,6 +826,18 @@
       "score": 3,
       "freshness_boost": 3,
       "image": "https://picsum.photos/seed/vb-2cddc20f06e1a3e2/480/320"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Times New Roman (Satira)",
+      "title": "😂 Aparențe",
+      "summary": "The post Aparențe appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/ovi/aparente",
+      "published_utc": "2026-11-13T08:50:57+00:00",
+      "score": 3,
+      "freshness_boost": 3,
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/11/Aparente.jpg"
     },
     {
       "section": "romania",
@@ -830,30 +878,6 @@
     {
       "section": "romania",
       "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Diana Șoșoacă acuză că a rămas fără tone de piftie în urma unui atac cibernetic care i-a dezghețat frigiderul",
-      "summary": "Europarlamentarul român Diana Șoșoacă acuză că a fost victima unui atac de tip malware care i-a dezghețat congelatorul și i-a&hellip; The post Diana Șoșoacă acuză că a rămas fără tone de piftie în urma unui atac cibernetic care i-a dezghețat frigiderul appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/it-stiinta/diana-sosoaca-acuza-ca-a-ramas-fara-tone-de-piftie-in-urma-unui-atac-cibernetic-care-i-a-dezghetat-frigiderul",
-      "published_utc": "2026-11-13T06:37:41+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/11/sosoaca_piftie.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Times New Roman (Satira)",
-      "title": "😂 Odios! O româncă și-a ales ziua de naștere fix în ziua de salariu a soțului!",
-      "summary": "Nesimțire mare de tot în zona Lujerului, unde un bărbat, Marian Coltea, acuză că nevastă-sa și-a ales ziua de naștere fix pe 13, când el încasează salariul. El acuză un comportament neloial, de mahala, făcut cu bună-știință, și se plânge că ziua lui e pe 30, iar nevastă-sa ia salariul pe 4 ale lunii, ceea [&#8230;] The post Odios! O româncă și-a ales ziua de naștere fix în ziua de salariu a soțului! appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/life-death/odios-o-romanca-si-a-ales-ziua-de-nastere-fix-in-ziua-de-salariu-a-sotului",
-      "published_utc": "2026-11-13T06:55:15+00:00",
-      "score": 3,
-      "freshness_boost": 3,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2020/07/mioara_pariuri_invers.jpg"
-    },
-    {
-      "section": "romania",
-      "kind": "ro",
       "source": "RomaniaPozitiva",
       "title": "Save or Cancel anunță lansarea revistei Artă în lucru, nr. 5",
       "summary": "Editura independentă Save or Cancel anunță lansarea celui de-al cincilea număr al revistei tipărite „Artă în lucru”. Publicația participativă, care explorează arta prin desen, joc și exerciții creative, va putea fi comandată din magazinul online feeder.ro/shop, și răsfoită gratuit în rețeaua Bibliotecii Metropolitane București. Noul număr aduce împreună schițe și jocuri realizate de 21 de artiști locali [&#8230;] Articolul Save or Cancel anunță lansarea revistei Artă în lucru, nr. 5 apare prima dată în Romania Pozitiva .",
@@ -879,13 +903,13 @@
       "section": "romania",
       "kind": "ro",
       "source": "Times New Roman (Satira)",
-      "title": "😂 Radu Banciu a jignit grav un prost care i-a apărut într-o oglindă",
-      "summary": "Radu Banciu și-a început ziua în forță. La scurt timp după ce s-a trezit a mers la baie și, buimac&hellip; The post Radu Banciu a jignit grav un prost care i-a apărut într-o oglindă appeared first on Times New Roman .",
-      "link": "https://www.timesnewroman.ro/monden/radu-banciu-a-jignit-grav-un-prost-care-i-a-aparut-intr-o-oglinda",
-      "published_utc": "2026-11-12T09:24:37+00:00",
+      "title": "😂 Dat afară de Becali, Meme Stoica și-a găsit deja alt cioban: va mulge oi la o stână din Jina",
+      "summary": "Meme Stoica s-a mișcat foarte rapid după ce a fost dat afară de la FCSB de către Gigi Becali. A&hellip; The post Dat afară de Becali, Meme Stoica și-a găsit deja alt cioban: va mulge oi la o stână din Jina appeared first on Times New Roman .",
+      "link": "https://www.timesnewroman.ro/sport/dat-afara-de-becali-meme-stoica-si-a-gasi-deja-alt-cioban-va-mulge-oi-la-o-stana-din-jina",
+      "published_utc": "2026-11-12T14:18:39+00:00",
       "score": 3,
       "freshness_boost": 1,
-      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/11/radu_banciu_oglinda.jpg"
+      "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/11/meme_stoica_muls_oi.jpg"
     },
     {
       "section": "romania",
@@ -960,18 +984,6 @@
       "image": "https://picsum.photos/seed/vb-7aa8271c2858910c/480/320"
     },
     {
-      "section": "romania",
-      "kind": "ro",
-      "source": "Fundatia Inocenti",
-      "title": "Sute de copii sprijiniți prin educație nonformală de Inocenți și Pepco",
-      "summary": "Peste 500 de copii au participat la activități de educație nonformală și wellbeing derulate de Fundația Inocenți cu sprijinul Pepco România. The post Sute de copii sprijiniți prin educație nonformală de Inocenți și Pepco appeared first on Fundația Inocenți .",
-      "link": "https://inocenti.ro/sute-de-copii-sprijiniti-prin-educatie-nonformala-de-inocenti-si-pepco",
-      "published_utc": "2026-09-30T10:35:49+00:00",
-      "score": 3,
-      "freshness_boost": 0,
-      "image": "https://picsum.photos/seed/vb-e4bd801238934492/480/320"
-    },
-    {
       "section": "science",
       "kind": "global",
       "source": "Phys.org",
@@ -982,6 +994,18 @@
       "score": 0,
       "freshness_boost": 3,
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fiji-petrel-eludes-10-1.jpg"
+    },
+    {
+      "section": "romania",
+      "kind": "ro",
+      "source": "Fundatia Inocenti",
+      "title": "Sute de copii sprijiniți prin educație nonformală de Inocenți și Pepco",
+      "summary": "Peste 500 de copii au participat la activități de educație nonformală și wellbeing derulate de Fundația Inocenți cu sprijinul Pepco România. The post Sute de copii sprijiniți prin educație nonformală de Inocenți și Pepco appeared first on Fundația Inocenți .",
+      "link": "https://inocenti.ro/sute-de-copii-sprijiniti-prin-educatie-nonformala-de-inocenti-si-pepco",
+      "published_utc": "2026-09-30T10:35:49+00:00",
+      "score": 3,
+      "freshness_boost": 0,
+      "image": "https://picsum.photos/seed/vb-e4bd801238934492/480/320"
     },
     {
       "section": "science",
@@ -1640,6 +1664,7 @@
       "https://live.staticflickr.com/65535/55634178588_9bbd2ec6d8_b.jpg"
     ],
     "humans": [
+      "https://live.staticflickr.com/4312/35299170294_4d4421869e_b.jpg",
       "https://live.staticflickr.com/65535/55632354466_4d953ba66e_b.jpg",
       "https://live.staticflickr.com/65535/55637304980_effdaeddac_b.jpg",
       "https://live.staticflickr.com/65535/55640071579_598d119382_b.jpg",
@@ -1656,10 +1681,10 @@
       "https://live.staticflickr.com/65535/55633994904_7a4b5d7d44_b.jpg",
       "https://live.staticflickr.com/4591/38790078534_6ce34fc86f_b.jpg",
       "https://live.staticflickr.com/65535/55619252605_2543c1edf3_b.jpg",
-      "https://live.staticflickr.com/65535/33727572370_70b0ea25de_b.jpg",
-      "https://live.staticflickr.com/65535/55630286307_20c37026c6_b.jpg"
+      "https://live.staticflickr.com/65535/33727572370_70b0ea25de_b.jpg"
     ],
     "cities": [
+      "https://live.staticflickr.com/65535/55650802577_43aa98d304_b.jpg",
       "https://live.staticflickr.com/65535/55651465896_dd1c8552d4_b.jpg",
       "https://live.staticflickr.com/65535/55650996334_0e7dd8aa85_b.jpg",
       "https://live.staticflickr.com/65535/55649233307_3ff307ff9c_b.jpg",
@@ -1676,12 +1701,11 @@
       "https://live.staticflickr.com/65535/55644294618_a58b9d3210_b.jpg",
       "https://live.staticflickr.com/65535/55643753184_328367a3b3_b.jpg",
       "https://live.staticflickr.com/65535/55643315170_1bde4e3b26_b.jpg",
-      "https://live.staticflickr.com/65535/55640758972_84caed1a53_b.jpg",
-      "https://live.staticflickr.com/65535/55640146302_9d0cc4ee7d_b.jpg"
+      "https://live.staticflickr.com/65535/55640758972_84caed1a53_b.jpg"
     ],
     "microcosmos": [
-      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://live.staticflickr.com/3820/9664730246_192ecc1c9e_b.jpg",
+      "https://live.staticflickr.com/3825/11752884746_9d9253df52_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/SEM_blood_cells.jpg"
     ]
   }
